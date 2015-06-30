@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the tasteofcountry.com privacy policy that was archived on 2014-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227161352id_/http%3A//tasteofcountry.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tasteofcountry.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630125347id_/http%3A//tasteofcountry.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
-<meta charset="UTF-8">
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="https://b-ssl.grvcdn.com/moth-min.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQDWFZXGwEJUFNUAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <meta name="viewport" content="width=1020">
 <title>Taste of Country</title>
 
@@ -10,20 +10,19 @@
 <link rel="alternate" type="application/rss+xml" title="Taste of Country » Feed" href="http://tasteofcountry.com/feed/">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/themes/townsquare3-music/style.css">
-<script async="" src="https://b-ssl.grvcdn.com/moth-min.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
+<script type="text/javascript">
 			window.TSM = window.TSM || {};
 			window.TSM.ga = {"accounts":["UA-19109753-6","UA-19109753-34"]};
-		</script><link rel="stylesheet" id="weather-widget-css-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/weather-widget/resources/style.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="loyalty-alerts-admin-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/loyalty-alert-system/resources/css/admin.css?ver=3.4.2" type="text/css" media="all">
+		</script><script type="text/javascript">(function(w){w.TSM.sitetype="national";})(window);</script><link rel="stylesheet" id="weather-widget-css-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/weather-widget/resources/style.css?ver=3.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="sp-gallery-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/gallery/resources/sp-gallery.css?ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-fancybox-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f" type="text/css" media="all">
-<link rel="stylesheet" id="ts3-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/css/ts3.css?ver=141527030718ca91ffe7" type="text/css" media="all">
-<link rel="stylesheet" id="facebook_auth-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f" type="text/css" media="all">
-<link rel="stylesheet" id="radio-players-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f" type="text/css" media="screen">
+<link rel="stylesheet" id="jquery-fancybox-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.css?ver=6801f37131d88def74a972c8f1d75c569ea921de" type="text/css" media="all">
+<link rel="stylesheet" id="ts3-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/css/ts3.css?ver=14316106236801f37131" type="text/css" media="all">
+<link rel="stylesheet" id="facebook_auth-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/facebook-apps/css/facebook-auth.css?ver=6801f37131d88def74a972c8f1d75c569ea921de" type="text/css" media="all">
+<link rel="stylesheet" id="radio-players-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/radio-players/resources/css/radio-players.css?ver=6801f37131d88def74a972c8f1d75c569ea921de" type="text/css" media="screen">
 <script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/jquery-updater/js/jquery-1.7.2.min.js?ver=1.7.2"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/handlebarsjs/resources/js/handlebars.min.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/radio-players/resources/js/radio-players.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/handlebarsjs/resources/js/handlebars.min.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/radio-players/resources/js/radio-players.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/themes/townsquare3/resources/js/html5.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
 <script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1.d"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tasteofcountry.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://tasteofcountry.com/wp-includes/wlwmanifest.xml"> 
@@ -43,7 +42,8 @@
 				if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
 				else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
 			})();
-		</script><script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netId=3480&amp;cookieName=crtg_townsquare&amp;rnd=33184114230&amp;varName=crtg_content" async=""></script>
+		</script><script type="text/javascript" src="http://rtax.criteo.com/delivery/rta/rta.js?netId=3480&amp;cookieName=crtg_townsquare&amp;rnd=77107620993&amp;varName=crtg_content" async=""></script>
+			<script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
 		<script type="text/javascript">
 		var googletag = googletag || {};
 		var TSMAdHelperSettings = {};
@@ -52,7 +52,7 @@
 		googletag.cmd = googletag.cmd || [];
 	</script>
 	<script id="tsm-googletag-init" type="text/javascript">
-	window.TSMAdSettings = {"activeSlots":["top-right-300x250","bottom-right-300x250","top-728x90","bottom-728x90","tsm-out-of-page","top-right-noflex-300x250"],"adPageSettings":{"pageSettings":{"sitetype":"National","market":"National","callletters":"TasteofCountry","pagetype":"home"},"attrs":{"catid":"","id":"","author":"","kw":["pagetype-home"],"genre":["country"],"device":"web","kv":[]}}};
+	window.TSMAdSettings = {"activeSlots":["top-right-300x250","bottom-right-300x250","top-728x90","bottom-728x90","tsm-out-of-page","top-right-noflex-300x250"],"adPageSettings":{"pageSettings":{"sitetype":"National","market":"National","callletters":"TasteofCountry","pagetype":"home","amazonAds":true,"enableCriteo":true,"enableViewability":true},"attrs":{"catid":"","id":"","author":"","kw":["pagetype-home"],"genre":["country"],"device":"web","kv":[]}}};
 			var crtg_split = crtg_content.split( ';' );
 		for (var i=1;i<crtg_split.length;i++){
 			var keyvals = crtg_split[ i-1 ].split( '=' );
@@ -62,7 +62,7 @@
 			window.TSMAdSettings.adPageSettings.attrs[ keyvals[ 0 ] ].push( keyvals[ 1 ] );
 		}
 	</script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/google-ads/js/tsmadhelper.js?v=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/google-ads/js/tsmadhelper.js?v=6801f37131d88def74a972c8f1d75c569ea921de"></script>
 
 <!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[631,659] -->
 <meta name="description" content="Read the latest country music news from your favorite country music stars.">
@@ -83,8 +83,9 @@
 <meta property="og:image" content="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2012/01/taste_of_country_165x165.gif">
 <!--[if lt IE 8]><link rel="stylesheet" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/gallery/resources/ie7.css" type="text/css" media="screen"><![endif]-->
 <!--[if IE 8]><link rel="stylesheet" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/gallery/resources/ie8.css" type="text/css" media="screen"><![endif]-->
-<meta name="twitter:card" content="summary">
-<script type="text/javascript">if(ajaxurl == undefined) { var ajaxurl = "http://tasteofcountry.com/wp-admin/admin-ajax.php"; }</script><style type="text/css" media="all">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@tasteofcountry">
+<style type="text/css" media="all">
 /* <![CDATA[ */
 @import url("http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.3");
 @import url("http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.3");
@@ -181,13 +182,13 @@ _gaq.push(['_trackPageview']);
 <div id="main_container" class="clearfix">
     <nav class="main">
 	<div class="menu-header-container"><ul id="menu-header" class="menu"><li id="menu-item-209684" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-209684"><a href="http://tasteofcountry.com/"><span class="nav_item">Home</span></a></li>
-<li id="menu-item-252114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252114"><a title="Exclusives" href="http://tasteofcountry.com/category/country-exclusive/"><span class="nav_item">Exclusives</span></a></li>
 <li id="menu-item-130969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130969"><a title="Country Music News" href="http://tasteofcountry.com/category/country-music-news/"><span class="nav_item">News</span></a></li>
-<li id="menu-item-49846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49846"><a title="Country Music Lists" href="http://tasteofcountry.com/category/lists/"><span class="nav_item">Lists</span></a></li>
 <li id="menu-item-184470" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-184470"><a title="Country Artists" href="http://tasteofcountry.com/country-artists/"><span class="nav_item">Artists</span></a></li>
 <li id="menu-item-130973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130973"><a title="New Country Songs" href="http://tasteofcountry.com/category/country-songs/"><span class="nav_item">Songs</span></a></li>
-<li id="menu-item-252076" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252076"><a title="Country Videos" href="http://bit.ly/subscribe-toc"><span class="nav_item">Videos</span></a></li>
+<li id="menu-item-49846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49846"><a title="Country Music Lists" href="http://tasteofcountry.com/category/lists/"><span class="nav_item">Lists</span></a></li>
+<li id="menu-item-278765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-278765"><a href="http://tasteofcountry.com/category/country-music-videos/"><span class="nav_item">Videos</span></a></li>
 <li id="menu-item-198678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198678"><a title="Top 10 Video Countdown" href="http://tasteofcountry.com/category/taste-of-country-video-countdown/"><span class="nav_item">Top 10</span></a></li>
+<li id="menu-item-252114" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252114"><a title="Store" href="http://www.tasteofcountrystore.com/"><span class="nav_item">Store</span></a></li>
 <li id="menu-item-201591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201591"><a title="Taste of Country Music Festival" href="http://tasteofcountryfestival.com/"><span class="nav_item">Festival</span></a></li>
 </ul></div>	<div class="social_icons">
 					<a href="http://www.facebook.com/thetasteofcountry" title="Visit us on Facebook" class="share_link facebook" target="_blank">
@@ -198,6 +199,9 @@ _gaq.push(['_trackPageview']);
 			</a>
 					<a href="https://www.youtube.com/user/TasteofCountryMusic" title="Visit us on YouTube" class="share_link youtube" target="_blank">
 				<span class="social_icon">Subscribe on YouTube</span>
+			</a>
+					<a href="https://instagram.com/tasteofcountry" title="Visit us on Instagram" class="share_link instagram" target="_blank">
+				<span class="social_icon">Follow on Instagram</span>
 			</a>
 					<span class="nav-social-submenu">
 							<!--<iframe class="share_link_small facebook" src="//www.facebook.com/plugins/like.php?href=http://www.facebook.com/thetasteofcountry&amp;width&amp;layout=button&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35" scrolling="no" frameborder="0" style="overflow:hidden; width:50px; height:20px;" allowTransparency="true"></iframe>-->
@@ -254,11 +258,12 @@ _gaq.push(['_trackPageview']);
 
 	<div id="promo_links" class="horizontal_navigation clearfix alt_link_color">
 	<div class="menu-promo-links-container"><ul id="menu-promo-links" class="menu"><li id="menu-item-85224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85224"><a>Trending:</a></li>
-<li id="menu-item-257092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257092"><a href="http://tasteofcountry.com/top-songs-of-2014/">Top Songs of 2014</a></li>
-<li id="menu-item-257093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257093"><a href="http://tasteofcountry.com/biggest-stories-of-2014/">Biggest Stories of 2014</a></li>
-<li id="menu-item-257094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257094"><a href="http://tasteofcountry.com/best-music-videos-2014/">Best Music Videos of 2014</a></li>
-<li id="menu-item-257095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257095"><a href="http://tasteofcountry.com/best-albums-of-2014/">Best Albums of 2014</a></li>
-<li id="menu-item-257096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257096"><a href="http://tasteofcountry.com/2014-in-country-music/">A Year of Country Music in Review</a></li>
+<li id="menu-item-289886" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289886"><a href="http://tasteofcountry.com/best-albums-of-2015/">Best Albums This Year</a></li>
+<li id="menu-item-289891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289891"><a href="http://tasteofcountry.com/supreme-court-same-sex-marriage-reactions/">Marriage Equality</a></li>
+<li id="menu-item-289888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289888"><a href="http://tasteofcountry.com/kelsea-ballerini-finds-out-shes-number-1/">Kelsea Ballerini No. 1</a></li>
+<li id="menu-item-289887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289887"><a href="http://tasteofcountry.com/remove-the-confederate-flag-from-country-music/">Confederate Flag Debate</a></li>
+<li id="menu-item-289889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289889"><a href="http://tasteofcountry.com/randy-rogers-newborn-daughter-death/">Randy Rogers</a></li>
+<li id="menu-item-289890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-289890"><a href="http://tasteofcountry.com/sexiest-male-country-stars-of-2015/">Sexiest Men 2015</a></li>
 </ul></div>	</div>
 <div id="pushdown_ad" class="tsmAd clearfix"></div>    <div id="content" class=" clearfix">
 
@@ -375,61 +380,63 @@ _gaq.push(['_trackPageview']);
 
 
 <aside id="content_sidebar" class="sidebar clearfix">
-    <div id="google-ads-widget-3" class="widget google-ads-widget clearfix"><div id="top-right-300x250" class="tsm-google-ad"></div></div><div id="widget_youtube-6" class="widget widget_youtube  clearfix">	<div class="youtube_wrap">
-						<a class="newtab" target="_blank" href="http://youtu.be/dki2VUm_pj8"></a>
-							<img width="300" height="200" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/12/YTYK-KENNY-FP2.jpg" class="widget_youtube-6-thumbnail">
-							<div class="play_button"></div>
-						<div class="youtube_frame" id="dki2VUm_pj8"></div>
-
-			</div>
-	</div><div id="ts_blogroll_pinned ts_blogroll-3" class="widget ts_blogroll_pinned ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Photo Galleries</h4></div>	<article class="small_thumb_title_date  clearfix">
+    <div id="google-ads-widget-3" class="widget google-ads-widget clearfix"><div id="top-right-300x250" class="tsm-google-ad"></div></div><div id="promotion-85" class="widget promotion  clearfix">
+	<article class="overlay">
+					<figure>
+									<a href="http://tasteofcountry.com/sexiest-male-country-stars-of-2015/?home" target="_self"><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w sonar_image" alt="Sexiest" title="Sexiest" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2015/06/Screen-Shot-2015-06-26-at-9.17.53-PM.png?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">									<header>
+						<p>Sexiest Male Stars of 2015</p>
+					</header>
+								</a>
+			</figure>
+			</article>
+</div><div id="ts_blogroll_pinned ts_blogroll-3" class="widget ts_blogroll_pinned ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Photo Galleries</h4></div>	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://tasteofcountry.com/stars-holiday-pictures/">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Little Lucy" title="Little Lucy" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/12/Lucy.png?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://tasteofcountry.com/country-artists-who-died-2015/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Little Jimmy Dickens" title="Little Jimmy Dickens" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2015/06/Little-Jimmy-Dickens1.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://tasteofcountry.com/stars-holiday-pictures/">‘Tis the Season: See How Country Artists Are Getting in the Holiday Spirit [Pictures]</a>
+	        <a href="http://tasteofcountry.com/country-artists-who-died-2015/">Country Artists We’ve Lost in 2015</a>
+	        <em>Yesterday</em>
+	    </div>
+	</article>
+    	<article class="small_thumb_title_date  clearfix">
+	    	    <figure>
+	        <a href="http://tasteofcountry.com/hot-sam-hunt-pictures/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Ben Gabbe, Getty Images" title="Sam Hunt's Hottest Looks" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2015/06/Sam10.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        	    </figure>
+	    	    <div class="excerpt clearfix">
+	        <a href="http://tasteofcountry.com/hot-sam-hunt-pictures/">See Sam Hunt’s Hottest Looks [Pictures]</a>
+	        <em>2 days ago</em>
+	    </div>
+	</article>
+    	<article class="small_thumb_title_date  clearfix">
+	    	    <figure>
+	        <a href="http://tasteofcountry.com/lady-antebellum-sam-hunt-pictures/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Lady Antebellum" title="Lady Antebellum" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2015/06/Lady-Antebellum3.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        	    </figure>
+	    	    <div class="excerpt clearfix">
+	        <a href="http://tasteofcountry.com/lady-antebellum-sam-hunt-pictures/">Lady Antebellum Bring Sam Hunt Along for an Epic Party in Michigan [Pictures]</a>
 	        <em>4 days ago</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date  clearfix">
 	    	    <figure>
-	        <a href="http://tasteofcountry.com/country-stars-as-kids-pictures/">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Jason Aldean, Miranda Lambert, George Strait" title="Jason Aldean, Miranda Lambert, George Strait" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/12/Kids.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://tasteofcountry.com/best-albums-of-2015/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Best Albums FP" title="Best Albums FP" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2015/06/Best-ALbums-FP.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://tasteofcountry.com/country-stars-as-kids-pictures/">Adorable Pictures Ahead: See Country Stars as Kids!</a>
-	        <em>2 weeks ago</em>
-	    </div>
-	</article>
-    	<article class="small_thumb_title_date  clearfix">
-	    	    <figure>
-	        <a href="http://tasteofcountry.com/2014-american-country-countdown-awards-pictures/">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Lady Antebellum" title="Lady Antebellum" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/12/460511412.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
-	        	    </figure>
-	    	    <div class="excerpt clearfix">
-	        <a href="http://tasteofcountry.com/2014-american-country-countdown-awards-pictures/">Stars Shine Bright at Inaugural American Country Countdown Awards [Pictures]</a>
-	        <em>2 weeks ago</em>
-	    </div>
-	</article>
-    	<article class="small_thumb_title_date  clearfix">
-	    	    <figure>
-	        <a href="http://tasteofcountry.com/country-babies-born-2014/">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Babies" title="Babies" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/12/BabiesBorn.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
-	        	    </figure>
-	    	    <div class="excerpt clearfix">
-	        <a href="http://tasteofcountry.com/country-babies-born-2014/">Country Babies Born in 2014 [Pictures]</a>
-	        <em>3 weeks ago</em>
+	        <a href="http://tasteofcountry.com/best-albums-of-2015/">Best Albums of 2015 (So Far)</a>
+	        <em>5 days ago</em>
 	    </div>
 	</article>
     	<article class="small_thumb_title_date last clearfix">
 	    	    <figure>
-	        <a href="http://tasteofcountry.com/justin-moore-thomas-rhett-tour-colorado-pictures/">
-	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Justin Moore" title="Justin Moore" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/12/DSC37701.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
+	        <a href="http://tasteofcountry.com/reba-mcentire-brooks-and-dunn-vegas/">
+	        	<img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Reba with Brooks and Dunn" title="Reba with Brooks and Dunn" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2015/06/BdReba.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">	        </a>
 	        	    </figure>
 	    	    <div class="excerpt clearfix">
-	        <a href="http://tasteofcountry.com/justin-moore-thomas-rhett-tour-colorado-pictures/">Justin Moore and Thomas Rhett Sell Out Colorado’s Budweiser Event Center [Exclusive Pictures]</a>
-	        <em>4 weeks ago</em>
+	        <a href="http://tasteofcountry.com/reba-mcentire-brooks-and-dunn-vegas/">Reba McEntire Joins Forces With Brooks and Dunn for Vegas Spectacular [Pictures]</a>
+	        <em>5 days ago</em>
 	    </div>
 	</article>
     </div><div id="promotion-41" class="widget promotion  clearfix">
@@ -437,15 +444,6 @@ _gaq.push(['_trackPageview']);
 					<figure>
 									<a href="http://tasteofcountry.com/stars-without-makeup/?home" target="_self"><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w sonar_image" alt="No Makeup" title="No Makeup" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2013/11/taylor-swift-no-makeup.jpg?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">									<header>
 						<p>See Country Stars Without Makeup</p>
-					</header>
-								</a>
-			</figure>
-			</article>
-</div><div id="promotion-42" class="widget promotion  clearfix">
-	<article class="overlay">
-					<figure>
-									<a href="http://tasteofcountry.com/sexiest-male-country-stars-of-2014/?home" target="_self"><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w sonar_image" alt="Sexiest men in Country" title="Sexiest men in Country" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/08/hottest-men-cover-photo.jpg?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">									<header>
-						<p>Country's Sexiest Male?</p>
 					</header>
 								</a>
 			</figure>
@@ -467,11 +465,11 @@ _gaq.push(['_trackPageview']);
 			</article>
 </div><div id="ts_blogroll-15" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>The Showdown</h4></div><article class="small_thumb_title_date last clearfix">
         <figure>
-        <a href="http://tasteofcountry.com/craig-wayne-boyd-swon-brothers-showdown/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="CWB Swon Bros Showdown" title="CWB Swon Bros Showdown" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/12/CWB-Swon-Bros-Showdown.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+        <a href="http://tasteofcountry.com/the-showdown-olivia-lane-vs-hunter-hayes/"><img width="80" height="60" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-80x60 sonar_image" alt="Showdown Hunter Hayes Olivia Lane" title="Showdown Hunter Hayes Olivia Lane" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2015/06/Showdown-OL-vs-HH.jpg?w=80&amp;h=60&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
     </figure>
         <div class="excerpt clearfix">
-        <a href="http://tasteofcountry.com/craig-wayne-boyd-swon-brothers-showdown/">Craig Wayne Boyd vs. The Swon Brothers</a>
-        <em>5 days ago</em>
+        <a href="http://tasteofcountry.com/the-showdown-olivia-lane-vs-hunter-hayes/">Olivia Lane vs. Hunter Hayes</a>
+        <em>Yesterday</em>
     </div>
 </article>
 </div><div id="promotion-51" class="widget promotion  clearfix">
@@ -483,33 +481,24 @@ _gaq.push(['_trackPageview']);
 								</a>
 			</figure>
 			</article>
-</div><div id="promotion-43" class="widget promotion  clearfix">
-	<article class="overlay">
-					<figure>
-									<a href="http://tasteofcountry.com/george-strait-10-things-10/?home" target="_self"><img width="300" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-300w sonar_image" alt="George Strait Facts" title="George Strait Facts" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2013/06/George-Strait-Prison.jpg?w=300&amp;h=0&amp;zc=1&amp;s=0&amp;a=t&amp;q=89">									<header>
-						<p>Did You Know? George Strait Facts</p>
-					</header>
-								</a>
-			</figure>
-			</article>
 </div><div id="ts_blogroll-13" class="widget ts_blogroll  clearfix"><div class="widget_header clearfix"><h4>Album Spotlight</h4></div><div class="sidebar_posters clearfix">
     <article class="first">
                 <figure>
-            <a href="http://tasteofcountry.com/carrie-underwood-greatest-hits-decade-1/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="Greatest Hits" title="Greatest Hits" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/11/Carrie-Underwood-Greatest-Hits-Album21.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+            <a href="http://tasteofcountry.com/canaan-smith-bronco/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="Bronco CP" title="Bronco CP" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2015/06/Bronco-CP.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
         </figure>
-                <h3><a href="http://tasteofcountry.com/carrie-underwood-greatest-hits-decade-1/">Carrie Underwood</a></h3>
+                <h3><a href="http://tasteofcountry.com/canaan-smith-bronco/">Canaan Smith</a></h3>
     </article>
     <article class="">
                 <figure>
-            <a href="http://tasteofcountry.com/garth-brooks-man-against-machine/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="Man Against Machine" title="Man Against Machine" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/10/Man-Against-Machine-630.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+            <a href="http://tasteofcountry.com/kacey-musgraves-pageant-material/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="kacey-musgraves-pageant-material-cover" title="kacey-musgraves-pageant-material-cover" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2015/05/kacey-musgraves-pageant-material-cover.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
         </figure>
-                <h3><a href="http://tasteofcountry.com/garth-brooks-man-against-machine/">Garth Brooks</a></h3>
+                <h3><a href="http://tasteofcountry.com/kacey-musgraves-pageant-material/">Kacey Musgraves</a></h3>
     </article>
     <article class="third">
                 <figure>
-            <a href="http://tasteofcountry.com/sam-hunt-montevallo/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="Sam Hunt" title="Sam Hunt" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2014/10/Sam-Hunt-300x300-1.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
+            <a href="http://tasteofcountry.com/a-thousand-horses-southernality/"><img width="94" height="94" src="https://s3.amazonaws.com/tsm-images/global/1x1.gif" class="attachment-94x94 sonar_image" alt="Southernality" title="Southernality" datasrc="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/files/2015/06/Southernality2.jpg?w=94&amp;h=94&amp;zc=1&amp;s=0&amp;a=t&amp;q=89"></a>
         </figure>
-                <h3><a href="http://tasteofcountry.com/sam-hunt-montevallo/">Sam Hunt</a></h3>
+                <h3><a href="http://tasteofcountry.com/a-thousand-horses-southernality/">A Thousand Horses</a></h3>
     </article>
 	<p class="more_act"><a href="http://tasteofcountry.com/category/album-reviews/" title="See More New Albums">See More New Albums</a></p>
 </div>
@@ -524,16 +513,16 @@ _gaq.push(['_trackPageview']);
 </div><!-- // #main-container -->
 
 <footer id="footer_wrap" class="footer_wrap clearfix">
-    <div data-id="14" id="xlink_footer" class="clearfix footer-id-14 data--wp_cache map--wp_cache"><div class="top_row row clearfix"><div class="sect clearfix"><a data="foo" class="logo" href="http://popcrush.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/252-light.png?id=204" alt="Logo for the website http://popcrush.com"></a><a data-id="388627" class="article" href="http://popcrush.com/bad-celebrity-wax-figures-photos/" title="Hilariously Bad Celebrity Wax Figures [PHOTOS]" target="_blank" rel="nofollow"><span>Hilariously Bad Celebrity Wax Figures [PHOTOS]<em>•</em></span></a><a data-id="387644" class="article" href="http://popcrush.com/christina-aguilera-through-the-years-photos/" title="Christina Aguilera Through the Years [PHOTOS]" target="_blank" rel="nofollow"><span>Christina Aguilera Through the Years [PHOTOS]<em>•</em></span></a></div>
-<div class="sect clearfix"><a data="foo" class="logo" href="http://ultimateclassicrock.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/295-light.png?id=204" alt="Logo for the website http://ultimateclassicrock.com"></a><a data-id="219165" class="article" href="http://ultimateclassicrock.com/ringo-starr-2015-album/" title="Ringo Starr's New Album is Finished" target="_blank" rel="nofollow"><span>Ringo Starr's New Album is Finished<em>•</em></span></a><a data-id="104789" class="article" href="http://ultimateclassicrock.com/the-faces-split-up/" title="39 Years Ago: The Faces Split Up  " target="_blank" rel="nofollow"><span>39 Years Ago: The Faces Split Up  <em>•</em></span></a></div>
-<div class="sect clearfix"><a data="foo" class="logo" href="http://screencrush.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/442-light.png?id=204" alt="Logo for the website http://screencrush.com"></a><a data-id="222163" class="article" href="http://screencrush.com/elf-facts-trivia-you-think-you-know-movies/" title="Son of a Nutcracker, It’s 15 Festive Facts About ‘Elf’!" target="_blank" rel="nofollow"><span>Son of a Nutcracker, It’s 15 Festive Facts About ‘Elf’!<em>•</em></span></a><a data-id="221539" class="article" href="http://screencrush.com/empire-strikes-back-you-think-you-know-movies/" title="Test Your 'Star Wars' Knowledge With These 'Empire Strikes Back' Facts" target="_blank" rel="nofollow"><span>Test Your 'Star Wars' Knowledge With These 'Empire Strikes Back' Facts<em>•</em></span></a></div>
-<div class="sect clearfix"><a data="foo" class="logo" href="http://diffuser.fm" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/443-light.png?id=204" alt="Logo for the website http://diffuser.fm"></a><a data-id="159120" class="article" href="http://diffuser.fm/10-best-christmas-cover-compilations/" title="10 Best Christmas Cover Compilations" target="_blank" rel="nofollow"><span>10 Best Christmas Cover Compilations<em>•</em></span></a><a data-id="161758" class="article" href="http://diffuser.fm/your-really-bad-christmas-cover-art-gallery/" title="Your Really Bad Christmas Cover Art Gallery" target="_blank" rel="nofollow"><span>Your Really Bad Christmas Cover Art Gallery<em>•</em></span></a></div>
-<div class="sect clearfix"><a data="foo" class="logo" href="http://comicsalliance.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/622-light.png?id=204" alt="Logo for the website http://comicsalliance.com"></a><a data-id="113573" class="article" href="http://comicsalliance.com/the-top-five-teen-titans-go-guest-stars/" title="The Top Five 'Teen Titans Go' Guest Stars" target="_blank" rel="nofollow"><span>The Top Five 'Teen Titans Go' Guest Stars<em>•</em></span></a><a data-id="111694" class="article" href="http://comicsalliance.com/the-top-five-generation-one-pokemon/" title="The Top Five Generation One Pokemon" target="_blank" rel="nofollow"><span>The Top Five Generation One Pokemon<em>•</em></span></a></div>
-</div><hr><div class="row clearfix"><div class="sect clearfix"><a class="article img" href="http://popcrush.com/elsa-halloween-costume-disney-frozen-video/?footer" title="15 Secrets You Never Knew About 'Frozen'" target="_blank" rel="nofollow"><img width="180" height="120" src="http://wac.450f.edgecastcdn.net/80450F/screencrush.com/files/2014/11/frozen-300.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="15 Secrets You Never Knew About 'Frozen'"><span>15 Secrets You Never Knew About 'Frozen'</span></a></div>
-<div class="sect clearfix"><a class="article img" href="http://ultimateclassicrock.com/hottest-rockstar-daughters/?footer" title="Daughters Of Rock Stars: This List May Surprise You" target="_blank" rel="nofollow"><img width="180" height="120" src="http://wac.450f.edgecastcdn.net/80450F/ultimateclassicrock.com/files/2014/05/ucr-180.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="Daughters Of Rock Stars: This List May Surprise You"><span>Daughters Of Rock Stars: This List May Surprise You</span></a></div>
-<div class="sect clearfix"><a class="article img" href="http://screencrush.com/the-avengers-you-think-you-know-movies-video/?footer" title="Important Facts You May Have Missed In 'The Avengers'" target="_blank" rel="nofollow"><img width="180" height="120" src="http://wac.450f.edgecastcdn.net/80450F/screencrush.com/files/2014/10/avengers-180.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="Important Facts You May Have Missed In 'The Avengers'"><span>Important Facts You May Have Missed In 'The Avengers'</span></a></div>
-<div class="sect clearfix"><a class="article img" href="http://diffuser.fm/10-cover-songs-better-than-the-originals/?footer" title="10 Cover Songs Better Than the Original" target="_blank" rel="nofollow"><img width="180" height="120" src="http://wac.450f.edgecastcdn.net/80450F/diffuser.fm/files/2014/11/dave-grohl-300.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="10 Cover Songs Better Than the Original"><span>10 Cover Songs Better Than the Original</span></a></div>
-<div class="sect clearfix"><a class="article img" href="http://comicsalliance.com/dark-knight-you-think-you-know-movies/?footer" title="20 Crazy Things You Never Knew About 'The Dark Knight’" target="_blank" rel="nofollow"><img width="180" height="120" src="http://wac.450f.edgecastcdn.net/80450F/screencrush.com/files/2014/11/joker-300.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="20 Crazy Things You Never Knew About 'The Dark Knight’"><span>20 Crazy Things You Never Knew About 'The Dark Knight’</span></a></div>
+    <div data-id="14" id="xlink_footer" class="clearfix footer-id-14 data--wp_cache map--wp_cache"><div class="top_row row clearfix"><div class="sect clearfix"><a data="foo" class="logo" href="http://popcrush.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/252-light.png?id=204" alt="Logo for the website http://popcrush.com"></a><a data-id="430053" class="article" href="http://popcrush.com/2015-bet-awards-red-carpet-gallery/" title="The 2015 BET Awards Red Carpet: See The Looks" target="_blank" rel="nofollow"><span>The 2015 BET Awards Red Carpet: See The Looks<em>•</em></span></a><a data-id="428497" class="article" href="http://popcrush.com/ariana-grande-ponytail-gallery/" title="20 Ariana Grande Ponytails For Any Situation" target="_blank" rel="nofollow"><span>20 Ariana Grande Ponytails For Any Situation<em>•</em></span></a></div>
+<div class="sect clearfix"><a data="foo" class="logo" href="http://ultimateclassicrock.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/295-light.png?id=204" alt="Logo for the website http://ultimateclassicrock.com"></a><a data-id="247185" class="article" href="http://ultimateclassicrock.com/grateful-dead-second-reunion-show-video-setlist/" title="Grateful Dead's Second 'Fare Thee Well' Show Offers Broader Mix: Photos, Video, Set List" target="_blank" rel="nofollow"><span>Grateful Dead's Second 'Fare Thee Well' Show Offers Broader Mix: Photos, Video, Set List<em>•</em></span></a><a data-id="247114" class="article" href="http://ultimateclassicrock.com/grateful-dead-reunion-opening-night-photos/" title="Grateful Dead 'Fare Thee Well' Opening Night: Photo Gallery" target="_blank" rel="nofollow"><span>Grateful Dead 'Fare Thee Well' Opening Night: Photo Gallery<em>•</em></span></a></div>
+<div class="sect clearfix"><a data="foo" class="logo" href="http://screencrush.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/442-light.png?id=204" alt="Logo for the website http://screencrush.com"></a><a data-id="255486" class="article" href="http://screencrush.com/magic-mike-facts/" title="Get Freaky With These 10 ‘Magic Mike’ Facts!" target="_blank" rel="nofollow"><span>Get Freaky With These 10 ‘Magic Mike’ Facts!<em>•</em></span></a><a data-id="254956" class="article" href="http://screencrush.com/finding-nemo-facts/" title="15 Fishy Facts About Pixar’s ‘Finding Nemo’" target="_blank" rel="nofollow"><span>15 Fishy Facts About Pixar’s ‘Finding Nemo’<em>•</em></span></a></div>
+<div class="sect clearfix"><a data="foo" class="logo" href="http://diffuser.fm" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/443-light.png?id=204" alt="Logo for the website http://diffuser.fm"></a><a data-id="203490" class="article" href="http://diffuser.fm/amnesia-rockfest-2015-photo-gallery/" title="Amnesia Rockfest 2015 Photo Gallery" target="_blank" rel="nofollow"><span>Amnesia Rockfest 2015 Photo Gallery<em>•</em></span></a><a data-id="203096" class="article" href="http://diffuser.fm/best-coast-and-bully-are-a-blast-in-austin/" title="Best Coast and Bully Are a Blast in Austin" target="_blank" rel="nofollow"><span>Best Coast and Bully Are a Blast in Austin<em>•</em></span></a></div>
+<div class="sect clearfix"><a data="foo" class="logo" href="http://comicsalliance.com" target="_blank" rel="nofollow"><img src="https://s3.amazonaws.com/tsm-images/logos/footer/622-light.png?id=204" alt="Logo for the website http://comicsalliance.com"></a><a data-id="141024" class="article" href="http://comicsalliance.com/best-black-panther-art/" title="Gallery: Best Black Panther Art Ever" target="_blank" rel="nofollow"><span>Gallery: Best Black Panther Art Ever<em>•</em></span></a><a data-id="139830" class="article" href="http://comicsalliance.com/best-poison-ivy-art-ever/" title="Gallery: Best Poison Ivy Art Ever" target="_blank" rel="nofollow"><span>Gallery: Best Poison Ivy Art Ever<em>•</em></span></a></div>
+</div><hr><div class="row clearfix"><div class="sect clearfix"><a class="article img" href="http://popcrush.com/stars-who-were-born-rich/?footer" title="15 Stars Who Were Born Filthy Rich" target="_blank" rel="nofollow"><img width="180" height="120" src="http://wac.450f.edgecastcdn.net/80450F/popcrush.com/files/2015/04/born-rich-300.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="15 Stars Who Were Born Filthy Rich"><span>15 Stars Who Were Born Filthy Rich</span></a></div>
+<div class="sect clearfix"><a class="article img" href="http://ultimateclassicrock.com/dead-rock-stars-today/?footer" title="See What Dead Rock Stars Would Look Like If They Were Still Alive" target="_blank" rel="nofollow"><img width="180" height="120" src="http://wac.450f.edgecastcdn.net/80450F/ultimateclassicrock.com/files/2015/06/dead-rock-stars.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="See What Dead Rock Stars Would Look Like If They Were Still Alive"><span>See What Dead Rock Stars Would Look Like If They Were Still Alive</span></a></div>
+<div class="sect clearfix"><a class="article img" href="http://screencrush.com/avengers-2-easter-eggs-mega-post/?footer" title="All The Easter Eggs You May Have Missed In 'Avengers 2'" target="_blank" rel="nofollow"><img width="180" height="120" src="http://wac.450f.edgecastcdn.net/80450F/screencrush.com/files/2015/05/avengers-easter-eggs.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="All The Easter Eggs You May Have Missed In 'Avengers 2'"><span>All The Easter Eggs You May Have Missed In 'Avengers 2'</span></a></div>
+<div class="sect clearfix"><a class="article img" href="http://diffuser.fm/offensive-band-names/?footer" title="27 Most Offensive Band Names Ever" target="_blank" rel="nofollow"><img width="180" height="120" src="http://wac.450f.edgecastcdn.net/80450F/diffuser.fm/files/2015/03/offensive-band-names.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="27 Most Offensive Band Names Ever"><span>27 Most Offensive Band Names Ever</span></a></div>
+<div class="sect clearfix"><a class="article img" href="http://comicsalliance.com/comic-book-movie-behind-the-scenes-pictures/?footer" title="Spectacular Behind-the-Scenes Pics From Comic Book Movies" target="_blank" rel="nofollow"><img width="180" height="120" src="http://wac.450f.edgecastcdn.net/80450F/comicsalliance.com/files/2015/05/behind-the-scenes-300.jpg?w=180&amp;h=120&amp;zc=1&amp;s=0&amp;a=t&amp;q=89" alt="Spectacular Behind-the-Scenes Pics From Comic Book Movies"><span>Spectacular Behind-the-Scenes Pics From Comic Book Movies</span></a></div>
 </div>
 </div>
 <div data="bar" id="footer_links" class="horizontal_navigation clearfix">
@@ -541,15 +530,22 @@ _gaq.push(['_trackPageview']);
 <li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-74"><a target="_parent" href="/privacy">Privacy</a></li>
 <li id="menu-item-192803" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-192803"><a target="_parent" title="Advertise on Taste of Country" href="http://www.townsquaremedia.com/national-media/advertise">Advertise</a></li>
 </ul></div><div data="bar" id="network_links" class="horizontal_navigation clearfix">
-	</div><div id="bottom_banner" class="tsmAd clearfix"><div id="bottom-728x90" class="tsm-google-ad"></div></div></footer><!-- // footer -->
+	</div></footer><!-- // footer -->
 
 <script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
 <script type="text/javascript">AudioPlayer.setup("http://tasteofcountry.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"2F2114",leftbg:"BE4A23",lefticon:"FFFFFF",voltrack:"2F2114",volslider:"FFFFFF",rightbg:"BE4A23",rightbghover:"BE4A23",righticon:"FFFFFF",righticonhover:"FFFFFF",text:"EDECE7",track:"2F2114",border:"2F2114",loader:"2F2114",tracker:"EDECE7",skip:"2F2114",pagebg:"EDECE7",transparentpagebg:"yes"});</script>
+
+<script type="text/javascript" src="http://loadus.exelator.com/load/?p=656&amp;g=001&amp;c=285367&amp;ctg=country"></script>
 <div style="display:none;">
-	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="dd482e16ef"><input type="hidden" name="_wp_http_referer" value="/privacy/"></div>
+	<div id="fb-auth-form-nonce"><input type="hidden" id="fb_auth_form_nonce" name="fb_auth_form_nonce" value="52834f1ff6"><input type="hidden" name="_wp_http_referer" value="/privacy/"></div>
 	<div id="fb-auth-account-activation" class="fb-auth-form">
 		<h3 class="generic-link-color">Welcome back to Taste of Country</h3>
-		<p>It appears that you already have an account created within our VIP network of sites on <a class="blog-tag generic-link-color" href="#"></a>. To keep your points and personal information safe, we need to verify that it's really you. To activate your account, please confirm your <a class="blog-tag generic-link-color" href="#"></a> password. When you have confirmed your password, you will be able to log in through Facebook on both sites.</p>
+		<p>
+			It appears that you already have an account created within our VIP network of sites on <a class="blog-tag generic-link-color" href="#"></a>.
+			To keep your personal information safe, we need to verify that it's really you.
+			To activate your account, please confirm your <a class="blog-tag generic-link-color" href="#"></a> password.
+			When you have confirmed your password, you will be able to log in through Facebook on both sites.
+		</p>
 		<p class="error-messages"></p>
 		<p>
 			<label>Enter your password</label>
@@ -559,14 +555,14 @@ _gaq.push(['_trackPageview']);
 		<div class="default-button">
 			<a href="#">YES, Activate My Account Now!</a>
 		</div>
-		<p class="meta">*Please note that your points, prizes and activities will not be shared between programs within our VIP network.</p>	</div>
+			</div>
 
 	<div id="fb-auth-site-activation" class="fb-auth-form">
 		<h3 class="generic-link-color">Welcome back to Taste of Country</h3>
-		<p>It appears that you already have an account on this site associated with <strong class="user-email"></strong>. To connect your existing account with your Facebook account, just click on the account activation button below. You will maintain your existing profile and VIP program points. After you do this, you will be able to always log in to <a class="generic-link-color" href="http://tasteofcountry.com" target="_blank">http://tasteofcountry.com</a> using your Facebook account.</p>
+		<p>It appears that you already have an account on this site associated with <strong class="user-email"></strong>. To connect your existing account just click on the account activation button below. You will maintain your existing VIP profile. After you do this, you will be able to always log in to <a class="generic-link-color" href="http://tasteofcountry.com" target="_blank">http://tasteofcountry.com</a> using your original account information.</p>
 		<p class="error-messages"></p>
 		<div class="default-button"><a href="#">YES, Activate My Account Now!</a></div>
-				<p class="meta">*Please note that your points, prizes and activities will not be shared between programs within our VIP network.</p>	</div>
+					</div>
 
 	<div id="fb-auth-required-fields" class="fb-auth-form">
 		<h3 class="generic-link-color">We're Almost There!</h3>
@@ -575,39 +571,49 @@ _gaq.push(['_trackPageview']);
 		<p>
 			<label>Zip</label>
 			<input class="zip" type="text" name="zip" value="">
-			<label class="subscribe">Subscribe to Newsletter</label>
-			<input class="newsletter" type="checkbox" name="newsletter" value="1" checked="checked">
-		</p>
+					</p>
 		<div class="default-button"><a href="#">Continue and Activate</a></div>
 	</div>
 
 	<div id="fb-auth-login" class="fb-auth-form">
-		<h3 class="generic-link-color">Sign into Taste of Country</h3>
-		<p class="error-messages"></p>
-		<label>User Name<span>(Email)</span></label>
-		<input type="text" class="username" tabindex="600" value="" name="username">
-		<label>Password <a class="forgot generic-link-color" href="http://tasteofcountry.com/login/?action=lost-password">(Forgot your password?)</a></label>
-		<input type="password" class="password" tabindex="601" value="" name="password">
+				<div class="loyalty-restricted-logo-container"><img class="loyalty-restricted-logo" src="http://wac.450f.edgecastcdn.net/80450F/ignitecampaigns.com/uploads/2014/09/18/toc_logo.png"></div>
+						<h3 class="generic-link-color">Log in to Taste of Country</h3>
+				<p class="error-messages"></p>
+				<input type="text" class="username" tabindex="600" value="" name="username" placeholder="Email address">
+		<input type="password" class="password" tabindex="601" value="" name="password" placeholder="Password">
+		<a class="forgot generic-link-color" href="http://tasteofcountry.com/login/?action=lost-password">(Forgot your password?)</a>
 		<div class="default-button login"><a href="#">Log In</a></div>
 		<div class="or"></div>
 		<div class="facebook-connect-button"></div>
-		<p class="meta">Register on Taste of Country quickly by logging in with your Facebook account.  It's just as secure, and no password to remember!</p>
-		<p class="register">Not a Member? <a class="fb-auth-registration-link generic-link-color" href="#fb-auth-registration">Sign Up Here</a></p>
+				<p class="register">Not a member? <a class="fb-auth-registration-link generic-link-color" href="#fb-auth-registration">Sign up here</a></p>
+		
+		<div class="clear"></div>
+		<div class="loyalty-global-sponsor">
+			<div id="overlay_fancybox">
+				<div class="hidden overlay_sponsor_wrap">
+					<div><p class="meta">Taste of Country brought to you by:</p></div>
+				</div>
+			</div>
+		</div>
+
 	</div>
 
 	<div id="fb-auth-registration" class="fb-auth-form">
-		<h3 class="generic-link-color">Taste of Country Registration</h3>
+					<div class="loyalty-restricted-logo-container"><img class="loyalty-restricted-logo" src="http://wac.450f.edgecastcdn.net/80450F/ignitecampaigns.com/uploads/2014/09/18/toc_logo.png"></div>
+				<h3 class="generic-link-color">
+						Sign up for Taste of Country		</h3>
 
+		
 		<p class="error-messages"></p>
 
 		
-		<div class="default-button registration"><a href="/registration/">Registration</a></div>
+		<div class="default-button registration"><a href="/registration/">Register Now</a></div>
 
 		
 		<div class="fb-registration-block">
 			<div class="or"></div>
 			<div class="facebook-connect-button"></div>
-			<p class="meta">Register on Taste of Country quickly by logging in with your Facebook account.  It's just as secure, and no password to remember!</p>
+			<p class="meta">Sign up for Taste of Country quickly by connecting your Facebook account.  It's just as secure and no password to remember!</p>
 		</div>
 	</div>
 </div>
@@ -647,32 +653,34 @@ _gaq.push(['_trackPageview']);
 				<a class="request-submit" href="#">Submit</a>
 			</div>
 
-			<input type="hidden" id="request_song" name="request_song" value="4317dca0a3"><input type="hidden" name="_wp_http_referer" value="/privacy/">
+			<input type="hidden" id="request_song" name="request_song" value="b63726191b"><input type="hidden" name="_wp_http_referer" value="/privacy/">
 		</form>
 
 		<h3 class="sent-message" style="display:none;">Thank you for your request.</h3>
 
 	</div>
 </div>
-<!-- Page rendered at 11:13:52 am 12/27/14 --><link rel="stylesheet" id="local_experts-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.4" type="text/css" media="all">
+<!-- Page rendered at 8:53:48 am 06/30/15 --><link rel="stylesheet" id="local_experts-css" href="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/local-experts/resources/css/local_experts.css?ver=1.4" type="text/css" media="all">
 <script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/graceful-email-obfuscation/geo-spam-prevention.js?ver=0.1"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/loyalty-activities/resources/js/loyalty.js?ver=2"></script>
 <script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/gallery/resources/jquery.cycle.min.js?ver=2.86"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/gallery/resources/sp-gallery.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/tsmclip/js/tsmclip.min.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/townsquare/resources/js/make_homepage.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/loyalty-activities/resources/js/loyalty_ftlink_link.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/widgets/dynamic-lead/js/jquery.tsc-sliders.js?18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/widgets/request-song/js/request_song.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
-<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/widgets/youtube-widget/js/youtube_widget.js?ver=18ca91ffe702f15f4dee57f9be6ce516598f226f"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/gallery/resources/sp-gallery.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/tsmclip/js/tsmclip.min.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/fancybox/vendor/jquery.fancybox-1.3.3.pack.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/fancybox/vendor/jquery.easing-1.3.pack.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/sonar-load/js/sonar.load.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/townsquare/resources/js/make_homepage.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/internaladapi/assets/internaladapi.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/internaladapi/apis/sponsors/assets/front/townsquaresponsors.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/internaladapi/apis/overlaylogo/assets/front/overlaylogo.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/mu-plugins/internaladapi/assets/internaladapiajax.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/facebook-apps/js/facebook-auth.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/social-sharing/resources/social-tracking.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/plugins/social-sharing/resources/more-button.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=tsmnetwork-20&amp;locale=US&amp;overwrite=1&amp;ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/themes/townsquare3/resources/js/jquery.template.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/widgets/request-song/js/request_song.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
+<script type="text/javascript" src="http://wac.450F.edgecastcdn.net/80450F/tasteofcountry.com/wp-content/widgets/youtube-widget/js/youtube_widget.js?ver=6801f37131d88def74a972c8f1d75c569ea921de"></script>
 <script type="text/javascript">
   //<![CDATA[
     (function(){
@@ -684,14 +692,14 @@ _gaq.push(['_trackPageview']);
     var adServerReq,bUrl,cburl,doUseGravityUserGuid,includeJs,jq,pfurl,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="https:"===document.location.protocol?"https://b-ssl.grvcdn.com/moth-min.js":"http://b.grvcdn.com/moth-min.js";
     ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";wlUrl=(wlPrefix="","");bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
   //]]>
-</script><!-- ip: 174.129.228.67 -->
+</script><!-- ip: 46.22.78.144 -->
 </div><!-- // #takeover_wrap.body_child  -->
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a007ead414","applicationID":"2942652","transactionName":"MlQBNUdTWEBWURZcVgseNhNcHV9dU1caG0kNQQ==","queueTime":0,"applicationTime":511,"atts":"HhMCQw9JS04=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 1954/1960 objects using memcached
+Object Caching 1819/1825 objects using memcached
 Content Delivery Network via wac.450F.edgecastcdn.net/80450F/tasteofcountry.com
 
-Served from: tasteofcountry.com @ 2014-12-27 16:13:52 --></body></html>
+Served from: tasteofcountry.com @ 2015-06-30 12:53:48 --></body></html>
