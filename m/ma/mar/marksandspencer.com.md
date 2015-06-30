@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209104119id_/http%3A//help.marksandspencer.com/support/company-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marksandspencer.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630032556id_/http%3A//help.marksandspencer.com/support/company-website/privacy-policy) for the most accurate reproduction.*
 
 # Ask Marks & Spencer - What is the website's privacy policy?
 
@@ -62,7 +62,7 @@ When you make purchases from Marks & Spencer (including purchases made in-store 
   * where you have registered with us, your user name and password;
   * where you place an order with us, your payment card details;
   * your communication and shopping preferences;
-  * your browsing and online shopping activities; and 
+  * your browsing and shopping activities; and 
   * your date of birth.
 
 
@@ -122,7 +122,7 @@ If you browse this Website you may receive personalised banner advertisements wh
 
 **Targeted updates and marketing**
 
-If you have agreed that we can contact you for marketing purposes we may send you emails and other communications relating to products and services which we think will be of interest and relevance to you as an individual.  We do this by monitoring the browsing and online shopping habits of customers and providing them with information on products they have viewed and related products.  
+If you have agreed that we can contact you for marketing purposes we may send you emails and other communications relating to products and services which we think will be of interest and relevance to you as an individual.  We do this by monitoring the browsing and shopping habits of customers and providing them with information on products they have viewed and related products.  
 
 **International transfers**
 
@@ -216,7 +216,7 @@ Marks and Spencer is an ISIS accredited retailer and marksandspencer.com is veri
 
 **Updates to this policy**
 
-This privacy policy was last updated in April 2014. Please check back regularly to keep informed of updates to this privacy policy.
+This privacy policy was last updated in March 2015. Please check back regularly to keep informed of updates to this privacy policy.
 
 **Contact us**
 
