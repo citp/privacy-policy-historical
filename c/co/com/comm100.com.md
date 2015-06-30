@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comm100.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221222449id_/http%3A//www.comm100.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comm100.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630053827id_/http%3A//www.comm100.com/privacy) for the most accurate reproduction.*
 
-# Comm100 Privacy Policy
+# Comm100 Company Privacy Policy
 
 **Last Updated on December 3, 2014**
 
