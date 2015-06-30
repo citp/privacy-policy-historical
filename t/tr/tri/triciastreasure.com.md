@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the triciastreasure.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227130242id_/http%3A//triciastreasure.com/disclosure-polic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triciastreasure.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630034412id_/http%3A//triciastreasure.com/disclosure-polic) for the most accurate reproduction.*
 
-# Disclosure Policy/Privacy Policy « Tricia Treasures
+# Disclosure Policy/Privacy Policy - Tricia Treasures
 
 This policy is valid from 01 December 2014
 
@@ -15,9 +15,7 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 This blog does not contain any content which might present a conflict of interest.  
 To get your own policy, go to http://www.disclosurepolicy.org
 
-**What information do we collect?** We collect information from you when you Leave a comment or enter a giveaway.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. **What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways:
+**What information do we collect?** We collect information from you when you Leave a comment or enter a giveaway.When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.. **What do we use your information for?** Any of the information we collect from you may be used in one of the following ways:
 
 To administer a contest, promotion, survey or other site feature
 
@@ -52,6 +50,16 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 **Online Privacy Policy Only**
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+## **Cookie Opt Out**
+
+****Gourmet Ads primary ad server is Appnexus and you can opt out of cookies from them by visiting ;  
+<http://appnexus.com/platform-policy#choices> and Opting Out.
+
+You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page;  
+<http://www.networkadvertising.org/choices/>
+
+Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
 
 **Your Consent**
 
