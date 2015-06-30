@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startupbros.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708133553id_/http%3A//www.startupbros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupbros.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630092032id_/http%3A//www.startupbros.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – StartupBros
+# Privacy Policy - StartupBros
 
 This Privacy Policy was last modified on December 10, 2013.
 
