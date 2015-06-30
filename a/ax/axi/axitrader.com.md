@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the axitrader.com privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127140042id_/http%3A//www.axitrader.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axitrader.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630152454id_/http%3A//www.axitrader.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# AxiTrader - Privacy Policy
+# Privacy Policy | AxiTrader
 
 ### AxiCorp Respects Each Individual’s Right to Privacy
 
@@ -17,7 +17,7 @@ When you apply for or maintain an account with AxiCorp, we collect personal info
   * Information you provide to us on applications and other forms, such as your name, address, date of birth, occupation, employer, assets and income, telephone or mobile number, email address, tax file number, nominated Bank account details;
   * Information about your transactions with us and with our affiliates;
   * Information we receive from consumer-reporting agencies, such as your credit history and creditworthiness, and other entities not affiliated with AxiCorp; and
-  * Information you provide to us to verify your identity, such as a passport, or received from other entities not affiliated with AxiCorp. 
+  * Information you provide to us to verify your identity, such as a passport, or received from other entities not affiliated with AxiCorp.
 
 
 
