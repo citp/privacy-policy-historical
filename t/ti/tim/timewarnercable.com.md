@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the timewarnercable.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229223829id_/http%3A//www.timewarnercable.com/en/about-us/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timewarnercable.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630083246id_/http%3A//www.timewarnercable.com/en/our-company/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Time Warner Cable
 
-The information Time Warner Cable collects about you at [http://www.timewarnercable.com](http://www.timewarnercable.com/), and the subdomains thereof (the "Site" or "Website") is used to administer the Website and to provide information to Website visitors about the Site’s various services and tools, and to provide general news, information, entertainment and ecommerce capability. Time Warner Cable, together withTime Warner Cable-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
+The information Time Warner Cable collects about you at [http://www.timewarnercable.com](http://www.timewarnercable.com/), and the subdomains thereof (the "Site" or "Website") is used to administer the Website and to provide information to Website visitors about the Site’s various services and tools, and to provide general news, information, entertainment and ecommerce capability. Time Warner Cable, together withTime Warner Cable-affiliated cable operators, are collectively referred to in this Privacy Policy as "we," "us," "our" or other similar pronouns, or "Time Warner Cable."
 
 ## What Does This Privacy Policy Cover?
 
-This Privacy Policy (the "Privacy Policy") applies to your use of the Website. This Privacy Policy does not govern Time Warner Cable’s treatment of information it collects and receives about you other than through this Website, for example in connection with any other services provided to you by Time Warner Cable. Time Warner Cable also has a Subscriber Privacy Notice that applies to its subscription services, which is located at <http://help.twcable.com/html/policies.html>.
+This Privacy Policy (the "Privacy Policy") applies to your use of the Website. This Privacy Policy does not govern Time Warner Cable’s treatment of information it collects and receives about you other than through this Website, for example in connection with any other services provided to you by Time Warner Cable. Time Warner Cable also has a Subscriber Privacy Notice that applies to its subscription services, which is located at <http://help.twcable.com/html/policies.html>.
 
 This Privacy Policy covers how Time Warner Cable treats information that Time Warner Cable collects and receives about you via this Website, including the personal information we collect through the various features, services, and software that we use to provide the Site to you. Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. If you choose to take advantage of these offerings, you should read the privacy policies of such third parties.
 
@@ -58,7 +58,7 @@ You acknowledge and agree that the SMS Service is provided via wireless systems 
 
 We may use third-party advertising services companies to serve ads when you visit our Website. We are not using ad serving companies as of the date of this Privacy Policy, however we may add such companies at a later date, and if we do so we will revise this Privacy Policy accordingly.
 
-These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer Web site at <http://www.networkadvertising.org/understanding-online-advertising>.
+These companies may use information (generally not including your name, address email address or telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear gifs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer Web site at <http://www.networkadvertising.org/understanding-online-advertising>.
 
 ## Personal Information
 
@@ -100,6 +100,6 @@ Time Warner Cable will occasionally update this Privacy Policy at Time Warner Ca
 
 ## Contacting Us
 
-If you have any questions regarding this Privacy Policy, or the privacy practices of Time Warner Cable in connection with this Website, you may contact us at [TWC.privacy@twcable.com](mailto:TWC.privacy@twcable.com).
+If you have any questions regarding this Privacy Policy, or the privacy practices of Time Warner Cable in connection with this Website, you may contact us at [TWC.privacy@twcable.com](mailto:TWC.privacy@twcable.com).
 
 Last updated: September 2012.
