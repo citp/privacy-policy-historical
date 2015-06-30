@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallsource.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015070851id_/http%3A//hdwallsource.com/doc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallsource.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630072803id_/http%3A//hdwallsource.com/doc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HDWallSource.com
 
