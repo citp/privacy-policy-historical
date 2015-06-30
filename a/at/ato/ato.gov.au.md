@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230070128id_/https%3A//www.ato.gov.au/About-ATO/Access%2C-accountability-and-reporting/Your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ato.gov.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630150933id_/https%3A//www.ato.gov.au/About-ATO/Access%2C-accountability-and-reporting/Your-privacy) for the most accurate reproduction.*
 
 # Your privacy | Australian Taxation Office
 
