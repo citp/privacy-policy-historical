@@ -1,29 +1,53 @@
-> *The following text is extracted and transformed from the poachedjobs.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231094620id_/http%3A//poachedjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poachedjobs.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630215217id_/http%3A//poachedjobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Restaurant Jobs – Poached Jobs
 
-Poached (“Poached”) operates a website, Austin.PoachedJobs.com. It is Poached’s policy to respect your privacy regarding any information we may collect while operating our websites.
+## Poached Privacy Policy
 
-#### Website Visitors
+We take your privacy seriously, and this Privacy Policy is meant to help you understand what information we collect and why we collect it. We encourage you to take the time to read this policy and contact us with any concerns you may have. This policy contains information about:
 
-Like most website operators, Poached collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Poached’s purpose in collecting non-personally identifying information is to better understand how Poached’s visitors use its website. From time to time, Poached may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+. What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.  
+. Our Registration requirements and related policies.  
+. What cookies we use, and why.  
+. Our policy regarding links to other sites.  
+. Our use of the Google Maps API.  
+. What choices are available to you regarding the use of your data.  
+. The security procedures in place to protect the misuse of your information.
 
-#### Aggregated Statistics
+### Information Collection, Use, and Sharing
 
-Poached may collect statistics about the behavior of visitors to its websites. However, Poached does not disclose personally-identifying information other than as described below.
+We are the sole owners of the information collected on poachedjobs.com. We only have access to/collect information that you voluntarily give us via email, registration or other direct contact. We do not sell or rent this personal information to anyone.  
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your personal information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to assist you with a purchase of a job listing or some other service. We do share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.  
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.  
+Registration In order to use this website, a user must first complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. You may also be asked for demographic information about yourself, but it is not required.
 
-#### Gathering of Personally-Identifying Information
+### Cookies
 
-Certain visitors to Poached’s websites choose to interact with Poached in ways that require Poached to gather personally-identifying information. The amount and type of information that Poached gathers depends on the nature of the interaction. In each case, Poached collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Poached. Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. For instance, Poached collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments. Poached only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
+We use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, saving you time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-#### Cookies
+### Links To Other Sites
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Poached uses cookies to help Poached identify and track visitors, their usage of Poached website, and their website access preferences. Poached visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Poached’s websites, with the drawback that certain features of Poached’s websites may not function properly without the aid of cookies.
+Poached contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-#### Ads
+### Google Maps API
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Poached and does not cover the use of cookies by any advertisers.
+Poached utilizes the Google Maps API for job postings and other services. You can learn more about Google’s [privacy policies here](https://www.google.com/policies/privacy/ "Google Privacy Policy").
 
-#### Privacy Policy Changes
+### Your Access to and Control Over Information
 
-Although most changes are likely to be minor, Poached may change its Privacy Policy from time to time, and in Poached’s sole discretion. Poached encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Poached account your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address given on our website:  
+• See what data we have about you, if any.  
+• Change/correct any data we have about you.  
+• Have us delete any data we have about you.  
+• Express any concern you have about our use of your data.
+
+### Security
+
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.  
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for “https” at the beginning of the address of the web page.  
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+
+### Updates
+
+Our Privacy Policy may change from time to time and all updates will be posted on this page.  
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via email: [hello@poachedjobs.com](mailto:hello@poachedjobs.com?subject=privacy%20policy%20questions)
