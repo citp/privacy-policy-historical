@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008050820id_/http%3A//www.exploretalent.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploretalent.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630212650id_/http%3A//www.exploretalent.com/about/privacy) for the most accurate reproduction.*
 
-# ExploreTalent.com
+# Explore Talent
 
 ## Explore Talent Privacy Policy
 
@@ -21,6 +21,10 @@ In order to operate the Site and to provide you with information about products 
 #### Information Other Websites Collect From You
 
 On the Site, we place links to other Websites operated by other parties. Some of these other Websites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other Websites or these other Websites' business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
+
+#### CHILDREN UNDER THE AGE OF 13
+
+If you are a child under the age of 13, your profile must be created by a legal guardian. No one under age 13 may provide any Information to or through the Services. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any Information on the Services or on or through any of its features/register on the Services, make any purchases through the Services, use any of the interactive or public comment features of the Services or provide any information about yourself to us.
 
 #### How We Use Personal Information
 
