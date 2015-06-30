@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destination360.com privacy policy that was archived on 2014-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141106082453id_/http%3A//www.destination360.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destination360.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630162514id_/http%3A//www.destination360.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Destination360.com
 
@@ -15,7 +15,7 @@ You can always visit our site without revealing who you are or providing any Per
 
 Google, as a third-party vendor, uses cookies to serve ads on Destination360. Google's use of the DART cookie enables it to serve ads to Destination360 users based on your visit to Destination360 and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We use third-party advertising companies to serve ads and collect information when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on this website, other websites and other forms of media, about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **When You Decide To fill out our request form ...**  
 a) Personal Information  
