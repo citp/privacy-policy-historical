@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashconverters.com.au privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121132143id_/http%3A//www.cashconverters.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashconverters.com.au privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630092606id_/http%3A//www.cashconverters.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cash Converters Australia
 
@@ -60,7 +60,7 @@ Depending on the product or service Cash Converters has provided you with, we ma
   * participants in the payments system (including payment organisations and merchants) and other financial institutions (such as banks);
   * insurers;
   * any joint borrower(s) or account holder(s);
-  * credit reporting or debt collection agencies;
+  * credit reporting bodies or debt collection agencies;
   * other financial institutions and organisations at their request if you seek credit from them (so that they may assess whether to offer you credit);
   * other parties where you have consented to the disclosure;
   * suppliers from whom we order goods or services on your behalf (so that the goods or services may be provided to you); or
@@ -73,17 +73,25 @@ Depending on the product or service Cash Converters has provided you with, we ma
 
 Cash Converters is required by law to conduct identity verification and credit checks under legislation such as the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_ (identity verification) and the _National Consumer Credit Protection Act 2009_ (identity verification and credit checks).
 
-Information you give us when you fill out an application online or in-store, will be used to verify your details and may be used to conduct a credit check with a credit reporting agency or any other credit provider with whom you have had dealings, including via e-verification. At the time of your application, we will specifically seek your consent for these verifications and checks to be conducted.
+Information you give us when you fill out an application online or in-store, including your name, date of birth, residential address and other personal or sensitive information may be used to verify your details and to:
+
+  * conduct a credit check with a credit reporting body or any other credit provider with whom you have had dealings, including via e-verification;
+  * conduct a Politically Exposed Person or identity verification check with a credit reporting body, including via e-verification; and
+  * for such a credit reporting body or other credit provider to prepare and provide any assessment, report or result from those checks to us.
+
+
+
+At the time of your application, we will specifically seek your consent for these verifications and checks to be conducted. If there is a partial or no match, you will have an opportunity to submit further documentation in support of your application to enable us to conduct further checks and properly verify your identity. 
 
 Where you have given us consent and provided your login and account information, we may access and collect your financial records from your financial institutions on your behalf via an online portal. This service is provided to remove the need for you to provide the physical financial statements we need to assess applications and comply with our obligations under the National Consumer Credit Protection Act 2009.
 
-Please note that if you fail to meet a payment obligation in relation to credit we have provided to you or commit a serious credit infringement, we may disclose this to a credit reporting agency.
+Please note that if you fail to meet a payment obligation in relation to credit we have provided to you or commit a serious credit infringement, we may disclose this to a credit reporting body.
 
-You may request a credit reporting agency not to use your credit reporting information for the purposes of pre-screening of direct marketing by a credit provider or where you believe on reasonable grounds that you have been, or are likely to be, a victim of fraud.
+You may request a credit reporting agency not to use your credit reporting body information for the purposes of pre-screening of direct marketing by a credit provider or where you believe on reasonable grounds that you have been, or are likely to be, a victim of fraud.
 
-You have a right to request a copy of your credit reporting information from credit reporting agencies: once a year; or if it relates to our refusal to provide you with credit; or you wish to correct information held on you. 
+You have a right to request a copy of your credit reporting information from credit reporting bodies: once a year; or if it relates to our refusal to provide you with credit; or you wish to correct information held on you. 
 
-We may disclose information to the following credit reporting agencies:
+We may disclose information to the following credit reporting bodies:
 
 **Veda Advantage Information Services and Solutions Limited**  
 Veda’s Privacy Policy: <http://www.veda.com.au/privacy>  
@@ -170,7 +178,7 @@ Upon receiving your transmission, we ensure that reasonable steps are taken to p
 
 #### Contact us
 
-If you have any questions or would like further information about our privacy and credit information handling practices and policies, or a hard copy of this policy, or you wish to make a correction, complaint or request access to any information which we have collected about you, please contact our Privacy Officer at:
+If you have any questions or would like further information about our privacy and credit information handling practices and policies, or a hard copy of this policy, or you wish to exercise your right to make a correction, complaint or request access to any information which we have collected about you, please contact our Privacy Officer at:
 
 The Privacy Officer
 
