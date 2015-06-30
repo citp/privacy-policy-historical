@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the cloudflare.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229151038id_/https%3A//www.cloudflare.com/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudflare.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630181031id_/http%3A//www.cloudflare.com/security-policy) for the most accurate reproduction.*
 
 # Security policy | CloudFlare | The web performance & security company
-
-This privacy policy outlines our general policy and practices for the types of information CloudFlare gathers, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information. 
-
-## CloudFlare privacy & security policy
 
 CloudFlare will not sell, rent, or give away any of your personal information without your consent. It is our overriding privacy principle that any personal information you provide to us is just that: personal and private. We do not presume that you are granting us permission to share your personal information with third parties wanting to sell you products or services that you have not requested. In order for us to provide some of the services we do we may on occasion need to provide information you supply us to external parties. When this is necessary we will provide you explicit notice and the ability to opt-out. CloudFlare may need to purge information from its system from time to time, and does not promise to keep any information beyond what is required by applicable law or regulation.
 
@@ -12,7 +8,7 @@ CloudFlare's website and services are not intended for, or designed to attract, 
 
 ### PERSONS TO WHOM THIS PRIVACY POLICY APPLIES
 
-This privacy policy applies to visitors to our website, users of CloudFlare's services, and information we collect from visitors to the websites of users of CloudFlare's services. Our users' websites may have their own Privacy Policies and may not be covered by CloudFlare's policy. We encourage visitors to these third party websites to make themselves aware of their privacy policies. 
+This privacy policy applies to visitors to our website, users of CloudFlare's services, and information we collect from visitors to the websites of users of CloudFlare's services. Our users' websites may have their own Privacy Policies and may not be covered by CloudFlare's policy. We encourage visitors to these third party websites to make themselves aware of their privacy policies.
 
 ### INFORMATION DESIGNATED AS PUBLIC
 
