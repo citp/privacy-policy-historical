@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyp.st privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231175918id_/http%3A//nypost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyp.st privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630235233id_/http%3A//nypost.com/privacy) for the most accurate reproduction.*
 
 # Privacy | New York Post
 
@@ -28,7 +28,7 @@ Cookies and other tracking technologies (such as browser cookies, pixels, beacon
 
 Third parties that support the NYP Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate NYP Services usage statistics, may also use these technologies to collect similar information. NYP does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see [aboutads.info/consumers](http://www.aboutads.info/consumers), and to opt-out of such ad networks’ and services’ advertising practices, go to [aboutads.info/choices](http://www.aboutads.info/choices).
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see here. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the NYP Services.
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see [adobe.com/devnet/security](http://www.adobe.com/devnet/security.html). Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the NYP Services.
 
 Information from Other Sources. We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our NYP Affiliates or business partners.
 
