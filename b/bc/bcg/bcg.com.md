@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcg.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214232145id_/http%3A//www.bcg.com/popups/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcg.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630072807id_/http%3A//www.bcg.com/popups/privacy.aspx) for the most accurate reproduction.*
 
 # BCG - Privacy
 
