@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vam.ac.uk privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120202528id_/http%3A//www.vam.ac.uk/content/articles/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vam.ac.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630050153id_/http%3A//www.vam.ac.uk/content/articles/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and use of cookies - Victoria and Albert Museum
 
@@ -118,6 +118,12 @@ Comments on blogs on Museum of Childhood website | Various cookies used to store
 Google Plus share options on V&A web pages | Stores non-personal data about use of Google+ share option on the V&A site. | Short term. | persistent | plusone.google.com | BEAT  
 Google including Google Plus | Stores non-personal data about use of Google+ share option on the V&A site | During visit only | session | api.google.com, plus.google.com, plusone.goole.com | ULS  
 Total Media | Used to assess the success of marketing campaigns run by marketing partner | Long term. May vary, but typically several years | persistent | mediaplex.com | mojo3, SVID  
+ADROLL  
+| Used to present advertisements based on products/services viewed on the V&A Shop and V&A websites.  
+| Expiry of 30 days  
+| persistent  
+| vam.ac.uk| __ar_v4  
+  
   
 ## When we may use your details to contact you
 
