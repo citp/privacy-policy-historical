@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228082940id_/http%3A//www.haygroup.com/en/legal-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630144529id_/http%3A//www.haygroup.com/en/legal-pages/privacy-policy) for the most accurate reproduction.*
 
 # Global privacy policy summary
 
@@ -136,7 +136,7 @@ We and our third party service providers may collect Other Information in a vari
 
 .
 
-  * **Using cookies** : Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Online Systems, pages visited, language preferences, and other anonymous traffic data. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at the Site may be diminished and some features may not work as they were intended. Please see our [Cookie policy](https://web.archive.org/system%20pages/Error?item=web%3a%7b8FCBD385-087A-4A5C-B286-13921AC25728%7d%40en) for more information.
+  * **Using cookies** : Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Online Systems, pages visited, language preferences, and other anonymous traffic data. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at the Site may be diminished and some features may not work as they were intended. Please see our [Cookie policy](https://web.archive.org/en/legal-pages/our-cookie-policy) for more information.
 
 
 
@@ -238,9 +238,12 @@ Back to Top
 
 If you have any questions about this Privacy Policy, please contact us by email at complianceofficer@haygroup.com, or please write to the following address:
 
-Hay Group, Inc.  
-100 Penn Square East  
-Philadelphia, Pennsylvania 19107-3388  
+Hay Group, Inc.
+
+1650 Arch St
+
+Philadelphia, Pennsylvania 19103-1305
+
 Attention: General Counsel & Chief Compliance Officer
 
 Please note that email communications are not always secure; so please do not include credit card information or sensitive information in your emails to us. 
