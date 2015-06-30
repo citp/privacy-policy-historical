@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the ahkong.net privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216112700id_/http%3A//ahkong.net/about/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahkong.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630021555id_/http%3A//ahkong.net/about/pp) for the most accurate reproduction.*
 
 # Privacy Policy | ahkong.net
 
 **General Privacy Policies of ahkong.net**  
 ahkong.net performs the following:  
-\- accumulates info whenever a user submits a form  
-\- collects site traffic info so Deimos would be able to produce better content
+– accumulates info whenever a user submits a form  
+– collects site traffic info so Deimos would be able to produce better content
 
 ahkong.net does not performs the following:  
-\- share the collected info with any other third parties  
-\- collect any info though traffic logging that allows Deimos to personally identify users
+– share the collected info with any other third parties  
+– collect any info though traffic logging that allows Deimos to personally identify users
 
 If any one has any queries or anything to say, do [contact](http://ahkong.net/contact/ "Contact Deimos Tel`Arin") Deimos.
 
@@ -21,9 +21,9 @@ When a user visits ahkong.net and reads or clicks on an ad, that user’s browse
 **Summary of the Privacy Policies of ahkong.net**  
 The following lines of text will sum it up:
 
-\- Google, as a third-party vendor, uses cookies to serve ads on ahkong.net  
-\- Google’s uses the DART cookie to serve ads to the users of ahkong.net based on their visit to ahkong.net and other sites on the internet  
-\- Users of ahkong.net may choose not to use the DART cookie by visiting the Google ad and content network privacy policy
+– Google, as a third-party vendor, uses cookies to serve ads on ahkong.net  
+– Google’s uses the DART cookie to serve ads to the users of ahkong.net based on their visit to ahkong.net and other sites on the internet  
+– Users of ahkong.net may choose not to use the DART cookie by visiting the Google ad and content network privacy policy
 
 Or if you prefer to read a paragraph of text, then check this out:
 
