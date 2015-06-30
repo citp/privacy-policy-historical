@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abb.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219032856id_/http%3A//new.abb.com/copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abb.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630185720id_/http%3A//new.abb.com/copyright) for the most accurate reproduction.*
 
 # ABB Cookies and Privacy Policy
 
@@ -6,13 +6,31 @@ Upon your first visit to an ABB web site, a cookie is sent to your computer that
 
 Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features or services on our sites may not function properly without cookies.
 
-ABB’s website uses both "first party" cookies (cookies used by the ABB website only) and "third party" cookies (cookies originating from a third party website). We use first party cookies for storing preferences and data needed throughout your visit on the site (for example, contents of your shopping cart). We use third party cookies for tracking user trends and patterns with the help of third party web statistics providers. The third party cookies are used exclusively by ABB websites and the web statistics provider and are not shared with any other third party.
+**Cookies specific to the ABB website (not shared with third parties)**
+
+ABB’s website uses both "first party" cookies (cookies used by the ABB website only) and "third party" cookies (cookies originating from a third party website). We use first party cookies for storing preferences and data needed throughout your visit on the site (for example, contents of your shopping cart). We use third party cookies for tracking user trends and patterns with the help of third party web statistics providers. The third party cookies used for tracking user trends and patterns are used exclusively by ABB websites and the web statistics provider and are not shared with any other third party.
 
 The table below describes the web statistics cookies used by the ABB website.
 
 Provider of cookie  | Type of cookie  | Purpose of cookie   
 ---|---|---  
- Google Analytics |  First party |  Web analytics (anonymous usage statistics)  
+Google Analytics | First party | Web analytics (anonymous usage statistics)  
+New Relic | First party | Performance monitoring (anonymous statistics on how fast our pages are loading for users from different parts of the world)  
+Optimizely | First party  | A/B testing of new features of the website  
+Crazy Egg | First party | User behavior analysis (anonymous data on how users scroll and interact with the page)  
+  
+**Remarketing (cookies shared with third parties)**
+
+ABB's website uses remarketing to advertise online using text or image ads. Remarketing is a feature that lets us reach people who have previously visited our site, and show them relevant ads when they visit other sites. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website. For this purpose third party advertising provider cookies are set when you visit our website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](https://www.google.com/settings/ads/) and opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Cookies from the following advertising providers may be set when visiting the ABB website.
+
+Provider of cookie  
+---  
+Google  
+Eloqua  
+DoubleClick  
+Marketo  
   
 ABB considers privacy an important issue, so we build and operate our web services with the protection of privacy taken into account. This Privacy Policy outlines the types of personal information we gather when you use one of ABB's web sites and some of the steps we take to safeguard it.
 
@@ -66,8 +84,8 @@ The external sites linked to from the ABB web sites are developed by people over
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant.
 
-Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an [archive](http://www.abb.com/cawp/abbzh252/c10a0dccca2dd479c12579ec004ea104.aspx) for you to view.
+Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an [archive](https://web.archive.org/copyright/archived-older-versions) for you to view.
 
-This policy has been last updated on April 26, 2012. Changes include better description of our usage of cookies and addition of a section concerning user-generated content on the site.
+This policy has been last updated on February 13, 2015. The remarketing section was added to the cookie policy and the list of cookies used for web statistics tracking was updated.
 
 If you have any additional questions, please feel free to contact us any time.
