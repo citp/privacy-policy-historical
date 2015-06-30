@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231094040id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attn.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630064142id_/http%3A//www.attn.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - attn:
 
@@ -22,13 +22,13 @@ Welcome to the website of attn: an Our Time Media company (the “Site”).  W
 
 This Privacy Policy tells you about our practices regarding collection, use, and disclosure of information that you may provide via the Site.  Please read this entire Privacy Policy before submitting information to the Site. Use of the Site constitutes your agreement to this Privacy Policy.
 
-**Consent  **
+## Consent 
 
 By using the Site or any interactive or mobile features or our apps, you signify your consent to our collection, use, and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with the practices described in this Privacy Policy, please do not use the Site or its services.
 
 We ask you to choose to submit personally identifiable information in order for you to join our community, let us know what issues are relevant to you, read content, purchase products, resolve inquiries, and participate in events.  You may be able to do many of these things on the Site without submitting information about information, but we urge you to decide to trust us with your information.
 
-**Information Use**
+## Information Use
 
 We may use information collected via the Site to 
 
@@ -48,11 +48,11 @@ We may disclose personally identifiable information you provide via the Site to 
 
 We may also collect technical, non-personal information about people using our Site or create anonymous data sets that can be shared more broadly by removing personally identifiable information.
 
-**Law Enforcement Requests  **
+## Law Enforcement Requests 
 
 attn: believes in the freedom to read, think, and discuss without governmental oversight or intervention, especially when ideas may be disfavored by the political majority.  In certain circumstances, such as a search warrant, we could be required to respond to law enforcement demands for information, and we could need to use or share information in connection with legal rights or legal proceedings.  That being said, if attn: believes that law enforcement has gone too far, we reserve our rights to fight such requests.  And we will give you notice if we are legally able to do so that you can assert your rights and fight for your privacy as you see fit.  
 
-**Cookies and Other Passive Information Collection**
+## Cookies and Other Passive Information Collection
 
 As you navigate through the Site and read and interact with attn: content, we may collect certain information passively using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection. Your Internet browser automatically transmits to the Site some of this information, such as the URL of the Web site you just came from and the Internet Protocol address and the browser version your computer is currently using.  
 
@@ -60,27 +60,27 @@ Your browser may allow you to block cookies altogether, but certain features of 
 
 Several different Do-Not-Track protocols have been proposed, but we do not think they are uniform enough to function well for an interactive media company.  Accordingly, we not respond to “Do Not Track” signals from browsers, and our technologies will continue to operate as described in this Privacy Policy regardless of any Do-Not-Track signals.  
 
-**Your California Privacy Rights**
+## Your California Privacy Rights
 
 California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for the third parties’ direct marketing purposes. As stated in this Privacy Policy, attn: does not sell or share your Personal Information with companies for their direct marketing purposes without your consent.  California customers who wish to request further information about our compliance with this law, or would like information about which entities have received information about them, or have questions or concerns about our privacy practices and policies may contact attn using the contact information listed below:
 
-**For International Users**
+## For International Users
 
 Please do not access this Site if it is illegal to do so in your country. The collection, use, and disclosure of information contemplated in this Privacy Policy involves a transfer of the information to the United States, and the European Union has determined that the United States does not offer adequate privacy protection. Because this is a US website, your use of it is taken as your consent to the transfer of your data into countries, such as the United States, that do not have what the European Union has deemed to be adequate privacy laws. 
 
-**Security**
+## Security
 
 We take reasonable steps to protect personally identifiable information as you transmit it to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction, although nothing on the Internet is completely secure or error-free.
 
-**Links to Other Web Sites**
+## Links to Other Web Sites
 
 This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit.
 
-**Children**
+## Children
 
 This Site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via the Site from visitors in this age group.  If we become aware that we have inadvertently done so, we will promptly delete it.
 
-**How to Contact Us / Dispute Resolution**
+## How to Contact Us / Dispute Resolution
 
 We respect your rights to:
 
@@ -97,9 +97,9 @@ Phone:     202-660-1333
 
 Email:     info@attn.com
 
-Mail:      1720 i St NW, 7th Floor, Washington, DC 20006
+Mail:      7661 Melrose Ave #1 Los Angeles CA 90046
 
-**Changes to This Privacy Policy  **
+## Changes to This Privacy Policy 
 
 If we change this Privacy Policy, the revised policy will be posted on the Site. Please check back periodically, and especially before you provide any personally identifiable information.
 
