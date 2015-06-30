@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commentarymagazine.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120055227id_/http%3A//www.commentarymagazine.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commentarymagazine.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630083700id_/https%3A//www.commentarymagazine.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Commentary Magazine
+# Privacy Policy | Commentary Magazine
 
 **Our Commitment to You**
 
@@ -37,7 +37,7 @@ Under no circumstances does COMMENTARY divulge an individual’s e-mail address 
 
 
 
-You can also elect to receive other types of e-mail messages from us, including newsletters, alerts, or notifications. (To do so, [click here](http://www.commentarymagazine.com/newsletter/).)
+You can also elect to receive other types of e-mail messages from us, including newsletters, alerts, or notifications. (To do so, [click here](https://www.commentarymagazine.com/newsletter/).)
 
 Please note that even if you opt-out of marketing e-mails, we will continue to send you e-mail service notifications that are related to your account. These include e-mails that provide account information, answer your questions about a product or service, and facilitate or confirm a sale.
 
