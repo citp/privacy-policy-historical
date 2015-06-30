@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vefro.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223103204id_/http%3A//www.vefro.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vefro.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630220114id_/http%3A//www.vefro.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,11 +42,11 @@ By accepting the Terms of Service you agree that we may collect and store your P
 
 **(c)** Compile statistical and demographical profiles about you for our business and marketing activities and to customise our Services to you. While we are entitled to use such information about you for our own internal business purposes without limitation, we will only disclose it in an aggregated form which is not capable of being used or interpreted in such a manner as to identify you; and
 
-**(d)** Monitor your use of our Services for the purposes of ensuring compliance with our Terms of Service.
+**(d)** Monitor your use of our Services for the purposes of ensuring compliance with our [Terms of Service](http://www.vefro.com/index.php?route=information/information&information_id=5).
 
 **2.3 We collect and store your Correspondence Information and Personal Identifiers to:**
 
-**(a)** comply with our obligations under law; and **(b)** Monitor your use of our Services in order to ensure your compliance with our Terms of Service.   
+**(a)** comply with our obligations under law; and **(b)** Monitor your use of our Services in order to ensure your compliance with our [Terms of Service](http://www.vefro.com/index.php?route=information/information&information_id=5).   
 Any Personal Information which we collect and which we may use in an aggregated format ensuring you are not individually identified is our property. We may use it, in our sole discretion and without any compensation to you, for any legitimate purpose including (without limitation) the commercial sale thereof to third parties. Sometime we use "cookies" so that we can provide you with more customised information when you return to our website. "Cookies" are used to store user preferences and to track user trends, so as to enhance your interactive experience and generally improve our Services to you. You can set your browser to notify you when you are sent a "cookie", giving you the chance to decide whether or not to accept it. If you do accept a "cookie", you thereby agree to our use of any Personal Information collected by us using that Cookie. You may update your Profiling Information at any time on the website. You acknowledge and agree that in the interests of improving personalisation and Service efficiency, we may, under controlled and secure circumstances, share your Personal Information with our affiliates (an entity which is our subsidiary or holding company or a subsidiary of our holding company or an entity which controls, is controlled by or is under common control with us).
 
 **3\. GENERAL EXCEPTIONS**  
