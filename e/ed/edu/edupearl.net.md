@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edupearl.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231075740id_/http%3A//edupearl.net/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edupearl.net privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630040129id_/http%3A//edupearl.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — Edu Pearl
 
 The privacy of our visitors is important to us.
 
