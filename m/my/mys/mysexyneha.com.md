@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the mysexyneha.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111115id_/http%3A//www.mysexyneha.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysexyneha.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630032013id_/http%3A//www.mysexyneha.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-YellowPlum Ltd.  
-Stasikratous, 16,   
-1065, Nicosia  
-Cyprus
 
 We can be reached via e-mail at [ support@247mg.com](mailto:support@247mg.com)
 
