@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the cochintalkies.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024112550id_/http%3A//www.cochintalkies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochintalkies.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630045652id_/http%3A//www.cochintalkies.com/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-##  Privacy Policy 
-
-  
-
+[](http://www.cochintalkies.com/ "Cochin Talkies")
 
 ###  What information do we collect? 
 
@@ -57,3 +54,5 @@ By using our site, you consent to our privacy policy.
 ### Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+© Copyright 2015, cochintalkies.com 
