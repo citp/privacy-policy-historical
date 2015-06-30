@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virgintrains.co.uk privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221023426id_/http%3A//www.virgintrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virgintrains.co.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630032853id_/http%3A//www.virgintrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin Trains
 
@@ -23,12 +23,19 @@ We may collect and process the following data:
   * Social Media interaction
   * Information you provide to us by entering competitions
   * CCTV at our Stations and On-Board
-  * Statistical data about your browsing actions and patterns
-  * for the administration of your application for employment with Virgin Trains
+  * Statistical data about your browsing actions and patterns for the administration of your application for employment with Virgin Trains
 
 
 
 We may require you to submit personally identifiable information in order for you to make use of our services. You confirm that any information you enter will be true. We will only request and collect information which is necessary or reasonable in order to provide you with your requested services and to improve the services that we provide. It will not be a requirement to provide any additional information which is not needed to provide the services.
+
+back to top
+
+## Use of information collected
+
+The personal information you provide is used for operational purposes, for example, producing tickets, processing payments or confirming orders, alerting you about your booked journeys, and to personalise your shopping experience by using your purchases and browsing activity to make recommendations to you about products and services that we think may be of interest to you.
+
+We and/or our authorised third parties (including the Association of Train Operating Companies) may also use your personal information: (a) for internal market research and analysis purposes; (b) to carry out survey related activities with you, and (c) dealing with any complaints, refunds and other ticketing / travel issues.
 
 back to top
 
@@ -54,7 +61,7 @@ back to top
 
 ## Careers
 
-Some of the information you provide to Virgin Trains when applying for vacancies through our careers service may be sensitive personal data which requires your explicit consent to permit us to process it. If you do not tick the box on the application form confirming that you accept the declaration then Virgin Trains will not be able to accept your application./p>
+Some of the information you provide to Virgin Trains when applying for vacancies through our careers service may be sensitive personal data which requires your explicit consent to permit us to process it. If you do not tick the box on the application form confirming that you accept the declaration then Virgin Trains will not be able to accept your application.
 
 We will only use this data:
 
@@ -103,6 +110,6 @@ back to top
 
 Virgin Trains reserve the right to update and amend the Privacy Policy. All such developments will be notified to you by updating this Privacy Policy.
 
-This policy was last updated on 14/05/2013
+This policy was last updated on 23/06/2015
 
 back to top
