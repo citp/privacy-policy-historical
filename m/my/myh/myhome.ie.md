@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhome.ie privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222202746id_/http%3A//www.myhome.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhome.ie privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630184150id_/http%3A//www.myhome.ie/privacy) for the most accurate reproduction.*
 
 # MyHome.ie Help - Privacy Statement - MyHome.ie
 
