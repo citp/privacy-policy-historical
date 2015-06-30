@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the texastribune.org privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226055934id_/http%3A//www.texastribune.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texastribune.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630135645id_/http%3A//www.texastribune.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Texas Tribune
 
-_Last updated December 3, 2013_
+_Last updated June 10, 2015_
 
 ## INTRODUCTION
 
@@ -43,11 +43,11 @@ In general, you can visit the Services without identifying yourself or revealing
 
 **Contests, Giveaways, and Promotions**. From time to time, The Texas Tribune may offer you the opportunity to participate in contests, giveaways, and other promotions, which you may decline to participate in. Any information submitted in connection with such activities will be treated in accordance with this Privacy Policy, except as specifically set forth in the rules for the applicable contest, giveaway, or promotion.
 
-**Outside Sources.** We may obtain information, including Personal Information, about you from third parties and sources other than the Services, such as our partners, advertisers, and Integrated Services. For example, we may obtain commercially-available demographic information from third parties or collect device ID information from your device as you use the Services. If we combine or associate information from other sources with Personal Information that we collect through the Services, we will treat the combined information as Personal Information in accordance with this Privacy Policy.
+**Outside Sources.** We may obtain information, including Personal Information, about you from third parties and sources other than the Services, such as our partners, advertisers, and Integrated Services. For example, we may obtain commercially available demographic information from third parties or collect device ID information from your device as you use the Services. If we combine or associate information from other sources with Personal Information that we collect through the Services, we will treat the combined information as Personal Information in accordance with this Privacy Policy.
 
-**Automatic Data Collection.** We and our vendors and suppliers may collect your usage activity, preferences, and browser details (such as your IP address and browser type) during your use of the Services. We do not link this information with your Personal Information except to help us better respond to a request from you. If we link this information to your Personal Information, we will treat it as Personal Information.
+**Automatic Data Collection.** We and our vendors and suppliers may collect your usage activity, preferences, and browser details (such as your IP address and browser type) during your use of the Services.
 
-**Cookies and Related Technologies.** Cookies are small lines of text/data that are written onto your computer by a website. The Texas Tribune and others acting on our behalf may use cookies, pixel tags, web beacons or other similar technologies to operate the Services. These technologies may collect and store non-Personal Information. Most browsers allow you to block and delete cookies. However, if you do that, the Services may not work properly.
+**Cookies and Related Technologies.** Cookies are small lines of text/data that are written onto your computer by a website. The Texas Tribune and others acting on our behalf may use cookies, pixel tags, web beacons or other similar technologies to operate the Services. These technologies may collect and store Personal Information as well as usage statistics and other non-personal information. Most browsers allow you to block and delete cookies. If you do that, however, the Services may not work properly.
 
 By using the Services, you are authorizing us to gather, parse, and retain data related to the provision of the Services.
 
@@ -63,7 +63,7 @@ We use Personal Information to:
 
 
 
-We may use aggregate information for any purpose, including for marketing purposes.
+We may use this information for any purpose, including for marketing purposes.
 
 **  
 Internal and Service-Related Usage.** We use information, including Personal Information to complete a transaction or do something that you have asked us to do, including to process e-commerce transactions, and may provide it to third parties to allow us to facilitate the Services. We may use and retain any data we collect to provide and improve our services.
