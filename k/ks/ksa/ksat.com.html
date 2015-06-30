@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ksat.com privacy policy that was archived on 2014-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220164148id_/http%3A//www.ksat.com/content/pns/ksat/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ksat.com privacy policy that was archived on 2015-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630045031id_/http%3A//www.ksat.com/content/pns/ksat/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><head>
 
@@ -16,8 +16,27 @@
 
 
 
+
 	
 
+
+
+
+
+
+
+
+	
+		
+	
+	
+
+
+
+	
+		
+	
+	
 
 	
 <meta charset="utf-8">
@@ -26,15 +45,20 @@
 
 
 <meta name="description" content="KSAT San Antonio, TX - the leader in breaking news, weather, sports and entertainment news for San Antonio">
-
-
-
-
-    
 <meta name="keywords" content="">
+
 <!--	Mobile viewport optimized: j.mp/bplateviewport	-->
-<!--	meta name="viewport" content="width=device-width, initial-scale=1"/>	-->
-<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"><link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|PT+Sans+Narrow:400,700" rel="stylesheet" type="text/css">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+
+<!-- Sailthru meta-tags start -->
+<meta name="sailthru.title" content="Privacy Policy">
+<meta name="sailthru.description" content="KSAT San Antonio, TX - the leader in breaking news, weather, sports and entertainment news for San Antonio">
+<meta name="sailthru.tags" content="">
+<meta name="sailthru.author" content="">
+<meta name="sailthru.date" content="2014-03-14T19:20:40+0000">
+<meta name="sailthru.image.full" content="">
+<meta name="sailthru.image.thumb" content="">
+<!-- Sailthru meta-tags end --><link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|PT+Sans+Narrow:400,700" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="/etc/designs/pns/clientlibs/foundation.min.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/pns/ksat/clientlibs.min.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/pns/clientlibs/jqueryLoadmask.min.css" type="text/css">
@@ -58,12 +82,12 @@
 
 
 <script src="http://cdnapi.kaltura.com/p/1636891/sp/163689100/embedIframeJs/uiconf_id/23985601/partner_id/1636891/playerId/1401386147"></script><!-- presuming that cq:designPath is set to /etc/designs/pns/ksat -->
-
-<!--Outbrain Reader Response Tracking Script (v6) -->
-		<script type="text/javascript">
+	
+	<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+	<script type="text/javascript">
 			var _vrq = _vrq || [];
 			_vrq.push('id', 284);
-			_vrq.push('automate', false);
+			_vrq.push('automate', true);
 			_vrq.push('track', function(){});
 			(function(d, a)
 			{ var s = d.createElement(a), x = d.getElementsByTagName(a)[0]; s.async = true; s.src = 'http://a.visualrevenue.com/vrs.js'; x.parentNode.insertBefore(s, x); }
@@ -80,6 +104,8 @@
 <body>
 		<div id="main">
 			
+
+
 
 
 
@@ -140,11 +166,17 @@
 
 
 
+
+
+
+	
+
+
+
 	
 	
 		
 	
-
 
 
 	
@@ -184,17 +216,17 @@
 									</a>
 								</p>
 							</div>
-									
+
 							<div class="wxAlertArea">
 								<span class="wxSeperator"></span>
 								<a target="_blank" href="http://sanantonio.justweather.com/severe/">
 									<div class="wxAlertBox">
 										<div class="wxAlertsCount"></div>
 										<div class="wxAlertsText"></div>
-									</div>		                        
+									</div>
 								</a>
-							</div> 
-	                    
+							</div>
+
 							<div class="weather-dropdown">
 								<div class="weather-map">
 									<a href="http://www.ksat.com/content/pns/ksat/weather-currents.html"><img></a>
@@ -215,31 +247,36 @@
 							</div>
 						</div>
 					</div>
+
 					<div class="columns large-4 medium-4 small-2 padRgtNone">
 						<form id="globalSearchForm" class="search_sec" name="searchform" method="GET" onsubmit="return searchSubmit();" action="http://www.ksat.com/content/pns/ksat/search.html">
-							<input type="text" name="q" id="searchInput" class="sl-nav-srch-field search_input" value="">
-							<input type="submit" class="sprite search_btn" value="" onsubmit="return  $('#globalSearchForm').submit(); ">
+							<input type="text" name="text" id="searchInput_text" class="sl-nav-srch-field search_input" value="">
+							<input type="hidden" name="q" id="searchInput_q" value="">
+							<input type="submit" class="sprite search_btn" value="">
 							<script type="text/javascript">
-							  function searchSubmit(){
-								  var searchText = $('#searchInput').val();
-    							  if(typeof searchText=='undefined' || searchText.trim().length < 3){
-    								  alert("Please Enter minimum 3 character");
-    								  return false;
-                                  } else {
-										$('#searchInput').val(searchText.trim());
-                                  }
-    							  return true;
-							  }
+								function searchSubmit() {
+									var searchText = $('#searchInput_text').val();
+										if(typeof searchText=='undefined' || searchText.trim().length < 3) {
+											alert("Please enter at least three characters.");
+											return false;
+										} else {
+											$('#searchInput_q').val(encodeURIComponent(searchText.trim()));
+										}
+										return true;
+								}
 							</script>
 						</form>
 					</div>
+
 					<div class="clear"></div>
+
 				</div>
 			</div>
-				<div class="subNavBackground"></div>
 
-				<div class="nav_area">
-					<div class="contain-to-grid">
+			<div class="subNavBackground"></div>
+
+			<div class="nav_area">
+				<div class="contain-to-grid">
 					<div class="inner_nav_area">
 						<nav data-options="is_hover: false" class="top-bar" style="">
 							<ul class="title-area">
@@ -252,7 +289,6 @@
 							</ul>
 
 							<section class="top-bar-section" style="left: 0%;">
-
 								<!-- Right Nav Section -->
 								<ul class="left">
 									
@@ -286,7 +322,6 @@
 														
 															<li><a href="http://www.ksat.com/content/pns/ksat/news/politics.html">Politics</a></li>
 														
-
 													</ul>
 												</li>
 											
@@ -295,30 +330,8 @@
 										
 										
 											
+												<li id="weatherNav"><a href="http://weather.ksat.com/">Weather</a></li>
 											
-												<li id="weatherNav" class="has-dropdown"><a href="http://www.ksat.com/content/pns/ksat/weather-currents.html">Weather</a>
-													<ul class="dropdown">
-														<li class="show_on_small"><a href="http://www.ksat.com/content/pns/ksat/weather-currents.html">Weather</a></li>
-														
-															<li><a href="http://www.ksat.com/content/pns/ksat/weather-currents.html#national_radar">National Radar</a></li>
-														
-															<li><a href="http://www.ksat.com/content/pns/ksat/weather-currents.html#texas_radar">Texas Radar</a></li>
-														
-															<li><a href="http://sanantonio.justweather.com/severe/">Alerts</a></li>
-														
-															<li><a href="http://www.ksat.com/content/pns/ksat/weather-currents.html#drought_monitor">Drought</a></li>
-														
-															<li><a href="http://www.ksat.com/content/pns/ksat/weather-currents.html#aquifer_level">Aquifer</a></li>
-														
-															<li><a href="http://www.ksat.com/content/pns/ksat/weather-currents.html#allergens">Allergens</a></li>
-														
-															<li><a href="http://www.ksat.com/content/pns/ksat/weather-currents/critter-cam.html">Critter Cam</a></li>
-														
-															<li><a href="http://sanantonio.justweather.com/hurricane/">Hurricanes</a></li>
-														
-
-													</ul>
-												</li>
 											
 										
 									
@@ -352,7 +365,6 @@
 														
 															<li><a href="http://www.ksat.com/content/pns/ksat/sports/instant-replay/scholar-athlete.html">Scholar Athlete</a></li>
 														
-
 													</ul>
 												</li>
 											
@@ -376,7 +388,6 @@
 														
 															<li><a href="http://abc.go.com/?aff=ksat">Watch ABC Shows</a></li>
 														
-
 													</ul>
 												</li>
 											
@@ -398,9 +409,7 @@
 													<ul class="dropdown">
 														<li class="show_on_small"><a href="http://www.ksat.com/content/pns/ksat/lifestyle.html">Lifestyle</a></li>
 														
-															<li><a href="http://www.ksat.com/content/pns/ksat/lifestyle/holiday-helper.html">Holiday Helper</a></li>
-														
-															<li><a href="http://www.ksat.com/content/pns/ksat/lifestyle/military/2014-military-holiday-greetings.html">Greetings</a></li>
+															<li><a href="http://www.ksat.com/content/pns/ksat/lifestyle/military.html">Military</a></li>
 														
 															<li><a href="http://www.ksat.com/content/pns/ksat/lifestyle/food.html">Food</a></li>
 														
@@ -414,7 +423,8 @@
 														
 															<li><a href="http://www.ksat.com/content/pns/ksat/lifestyle/ksat-community.html">KSAT Community</a></li>
 														
-
+															<li><a href="http://www.ksat.com/content/pns/ksat/lifestyle/chef-spotlight.html">Chef Spotlight</a></li>
+														
 													</ul>
 												</li>
 											
@@ -428,19 +438,16 @@
 													<ul class="dropdown">
 														<li class="show_on_small"><a href="http://www.ksat.com/content/pns/ksat/marketplace.html">Marketplace</a></li>
 														
-															<li><a href="http://www.ksat.com/content/pns/ksat/marketplace/12-days-of-christmas.html">12 Days Of Christmas</a></li>
-														
 															<li><a href="http://www.ksat.com/content/pns/ksat/marketplace/health-and-wellness-experts.html">Health/Wellness Experts</a></li>
 														
 															<li><a href="http://www.ksat.com/content/pns/ksat/marketplace/local-experts.html">Local Experts</a></li>
 														
 															<li><a href="http://www.ksat.com/content/pns/ksat/marketplace/legal-experts.html">Legal Experts</a></li>
 														
-															<li><a href="http://www.ksat.com/content/pns/ksat/marketplace/heb-backyard-kitchen.html">HEB Kitchen</a></li>
+															<li><a href="http://www.ksat.com/content/pns/ksat/marketplace/heb-backyard-kitchen.html">HEB Backyard Kitchen</a></li>
 														
 															<li><a href="http://www.ksat.com/content/pns/ksat/marketplace/real-estate.html">Real Estate</a></li>
 														
-
 													</ul>
 												</li>
 											
@@ -448,17 +455,18 @@
 									
 								</ul>
 							</section>
+
 							<input type="hidden" value="" id="currentMenuID">
-							</nav>
-							<div class="sponsored_logo_block">
-								<div class="section"></div><div class="iparys_inherited">
+						</nav>
+
+						<div class="sponsored_logo_block">
+							<div class="section"></div><div class="iparys_inherited">
 </div>
 
-							</div>
 						</div>
 					</div>
 				</div>
-
+			</div>
 
 	</div>
 	<div class="clear"> </div>
@@ -466,14 +474,15 @@
 
 
 
- <div class="clear"> </div>
- 
+
+<div class="clear"> </div>
+
 	
 
 
 <script type="text/javascript">
 	(function (){
-		// intializing Global Variables
+		// Intializing Global Variables
 		var currentMenuID = $('#currentMenuID').val(),
 			subNavHeight;
 
@@ -481,10 +490,10 @@
 			subNavHeight = $('#' + currentMenuID + ' ul').height();
 
 			$(document).ready(function(){
-				if($(window).width() >= 769){
+				/* if($(window).width() >= 769){
 					$(".top-bar .top-bar-section ul li").removeClass("has-dropdown");
 					$("#" + currentMenuID).addClass("has-dropdown hover");
-					/** SubNavBackground **/
+					//** SubNavBackground
 					if($(".top-bar .top-bar-section ul li").hasClass("has-dropdown hover")){
 						$(".subNavBackground").css({'height': subNavHeight});
 					}
@@ -493,34 +502,41 @@
 						$("header").css({height: "auto"});
 						$("header").css({height: $("header").height() + subNavHeight});
 					}
-				}
+				}*/
 
 			});
 			window.onresize = function() {
 				$("header").css({height: "auto"});
+				
 				if($(window).width() >= 769){
 					$('.contain-to-grid').css({height: "auto"});
 					$('.top-bar').css({height: "auto"}).removeClass("expanded");
-					$(".top-bar .top-bar-section ul li").removeClass("has-dropdown");
-					$("#" + currentMenuID).addClass("has-dropdown hover");
-					$("header").css({height: $("header").height() + $('#' + currentMenuID + ' ul').height()});
+					$(".top-bar .top-bar-section ul li").removeClass("hover has-dropdown");
+					$("#" + currentMenuID).addClass("hover has-dropdown");
+					$("#" + currentMenuID + " ul").hide();
 
-					if($(".top-bar .top-bar-section ul li").hasClass("has-dropdown hover")){
-						$(".subNavBackground").css({'height': $('#' + currentMenuID + ' ul').height()});
+
+					if ($(window).scrollTop() > ($("header").height()-$('#' + currentMenuID + ' ul').height())) {
+						$('.contain-to-grid').addClass('fixed');
+						$('.has-dropdown.hover > a:after,.subNavBackground').css({display: 'none'});
+						$(".top-bar .top-bar-section ul li").removeClass("has-dropdown");
+						$('.weather_anchor').addClass('show_weather');
+						$('#wxHeader').addClass('fixedScroll');
+						$('#wxHeader').addClass('showWeather');
+					} else {
+						$(".subNavBackground").css({display: 'block', 'height': $("#" + currentMenuID + " ul").height()});
+						$("#" + currentMenuID + " ul").show();
+						var alertSectionHeight = $('.breaking_news_alerts').height()>0? $('.breaking_news_alerts').height() :$('header').find('.empty_component').outerHeight();
+						$("header").css({height: $(".header_top_sec").height() + $(".subNavBackground").height() + alertSectionHeight});
+						$('.weather_anchor').removeClass('show_weather');
+						$('#wxHeader').removeClass('fixedScroll');
+						$('#wxHeader').removeClass('showWeather');
 					}
-
-				if ($(window).scrollTop() > ($("header").height()-$('#' + currentMenuID + ' ul').height())) {
-					$('.contain-to-grid').addClass('fixed');
-					$('.has-dropdown.hover > a:after,.subNavBackground').css({display: 'none'});
-					$(".top-bar .top-bar-section ul li").removeClass("has-dropdown");
-					$('.weather_anchor').addClass('show_weather');
-				} else {
-					$('.weather_anchor').removeClass('show_weather');
-				}
 				} else {
 					$("header").css({height: "auto"});
 					$('.top-bar').css({height: "70px"});
 					$('.contain-to-grid').removeClass('fixed');
+					$('.subNavBackground').css({display: 'none'});
 				}
 
 				if($(window).width() <= 960){
@@ -566,6 +582,7 @@
 
   
   
+
 
 
 
@@ -674,6 +691,9 @@
 
 
 
+
+
+
 <!-- Super Bar -->
 <div class="video_showcase">
 
@@ -681,15 +701,15 @@
 				<h3 class="typeBold">Video Showcase</h3>
 				<ul class="typeBold">
 				
-					<li><a href="http://www.ksat.com/content/pns/ksat/weather/forecast/2014/12/20/justin-s-weather-webcast.html"><span><span class="play"></span></span> Justin's Weather Webcast</a></li>
+					<li><a href="http://www.ksat.com/content/pns/ksat/news/2015/06/29/world-heritage.html"><span><span class="play"></span></span> World Heritage: What you need to know</a></li>
 			   
-					<li><a href="http://www.ksat.com/content/pns/ksat/news/2014/12/19/boy-gets-homecoming-surprise-at-spurs-halftime.html"><span><span class="play"></span></span> Boy gets homecoming surprise at Spurs halftime</a></li>
+					<li><a href="http://www.ksat.com/content/pns/ksat/weather/forecast/2015/06/29/adam-s-weather-webcast0.html"><span><span class="play"></span></span> Adam's Weather Webcast</a></li>
 			   
-					<li><a href="http://www.ksat.com/content/pns/ksat/news/2014/12/19/in-case-you-missed-it-dec-19.html"><span><span class="play"></span></span> In Case You Missed It: Dec. 19</a></li>
+					<li><a href="http://www.ksat.com/content/pns/ksat/news/2015/06/29/critter-cam-baby-fawns.html"><span><span class="play"></span></span> Critter Cam: Baby fawns</a></li>
 			   
-					<li><a href="http://www.ksat.com/content/pns/ksat/news/2014/12/19/watch-downhill-skateboarder-nearly-collides-with-bus.html"><span><span class="play"></span></span> WATCH: Downhill skateboarder nearly collides with bus</a></li>
+					<li><a href="http://www.ksat.com/content/pns/ksat/news/2015/06/29/in-case-you-missed-it-june-29.html"><span><span class="play"></span></span> In Case You Missed It - June 29</a></li>
 			   
-					<li><a href="http://www.ksat.com/content/pns/ksat/news/2014/12/19/caught-on-camera-tire-smashes-through-window-hits-man.html"><span><span class="play"></span></span> Caught on camera: Tire smashes through window, hits man</a></li>
+					<li><a href="http://www.ksat.com/content/pns/ksat/news/2015/06/29/watch-mountain-climber-climbs-giant-redwood0.html"><span><span class="play"></span></span> WATCH: Mountain climber climbs giant redwood</a></li>
 			   
 				</ul>
 
@@ -726,14 +746,23 @@
 
 
 <div class="survey_div">
-	
+	<script type="text/javascript">document.write("<scr"+"ipt type=\"text/javascript\" src=\"//www.surveygizmo.com/s3/polljs/2213838-Y8FCOR2M5BTFCHKZ24DS6U57UCM5UI?cookie="+document.cookie.match(/sg-response-2213838/gi)+"\"></scr"+"ipt>");</script><script type="text/javascript" src="//www.surveygizmo.com/s3/polljs/2213838-Y8FCOR2M5BTFCHKZ24DS6U57UCM5UI?cookie=null"></script>
 </div>
 
 
 
 
-<div class="watchABCwidget">
-	<a href="http://abc.go.com/watch?aff=ksat"><img src="/etc/designs/pns/ksat/clientlibs/images/Watch-ABC-Animate.gif" alt="Watch ABC"></a>
+
+
+
+
+
+
+
+<div class="pns-ad " data-pnsad="{&quot;unitName&quot;:&quot;/15466288/KSAT/Web/Home&quot;,&quot;size&quot;:[[300,250],[300,600]],&quot;placement&quot;:&quot;display&quot;,&quot;companion&quot;:false}">
+
+    
+
 </div>
 
 
@@ -760,11 +789,22 @@
 
 
 
-<div class="pns-ad sticky-ad" data-pnsad="{&quot;unitName&quot;:&quot;/15466288/KSAT/Web/Home&quot;,&quot;size&quot;:[[300,250],[300,600]],&quot;placement&quot;:&quot;display&quot;,&quot;companion&quot;:false}">
+	
+	
+		
+	
 
-    
 
-</div>
+
+	
+	
+	
+
+
+
+	
+	
+	
 
 </div>
 
@@ -838,7 +878,6 @@
 					<li>
 						<a href="http://www.ksat.com/content/pns/ksat/team.html">KSAT News Team</a>
 					</li>
-					
 					<li>
 						<a href="http://www.ksat.com/content/pns/ksat/careers.html">Careers</a>
 					</li>
@@ -848,7 +887,9 @@
 					<li>
 						<a href="http://www.ksat.com/content/pns/ksat/contactus.html">Closed Captioning</a>
 					</li>
-
+					<li>
+						<a href="http://www.ksat.com/content/pns/ksat/search.html">Site Search</a>
+					</li>
 				</ul>
 			</div>
 			<div class="large-2 medium-4 small-12 large_PadRgtNone columns">
@@ -873,8 +914,8 @@
 			</div>
 		</div>
 		<div class="large-12 medium-12 small-12 footer_row padNone columns">
-			<p>Disabled? Need help with public file? Call (210) 351-1213.</p>
-			<p>© 2014. KSAT.com is published by Graham Media Group, a division of Graham Holdings.</p>
+			<p>If you are disabled and need help with the Public File, call (210) 351-1213.</p>
+			<p>© 2015. KSAT.com is published by Graham Media Group, a division of Graham Holdings.</p>
 		</div>
 	</div>
 </footer>
@@ -902,8 +943,6 @@
 </script>
 
 
-
-
 <script type="text/javascript">
 	$(document).foundation();
 
@@ -912,21 +951,21 @@
 	$(document).ready(function(){
 		winWidth = $(window).width(),
 		currentMenuID = $('#currentMenuID').val(),
-		subNavHeight = $('#'+currentMenuID+' ul').height(),
-		headerHeightFinal = $("header").height();
-
+		//.empty_component
 			// For Sticky Nav and Sliding Weather component
 				$(window).scroll(function() {
 				// console.log("headerHeight scroll "+headHeight);
 				// handleMove();
 				if ($(window).width() >= 769) {
-
+					subNavHeight = $('#'+currentMenuID+' ul').height(),
+					headerHeightFinal = $("header").height();
 					if ($(window).scrollTop() > (headerHeightFinal - subNavHeight - 44)) {
 						$('.contain-to-grid').addClass('fixed');
 						$('#wxHeader').addClass('fixedScroll');
 						$('#wxHeader').addClass('showWeather');
 						$('.has-dropdown.hover > a:after,.subNavBackground').css({display: 'none'});
 						$('.top-bar .top-bar-section ul li').removeClass('has-dropdown');
+						$("#"+currentMenuID+" ul").hide();
 
 						if($('.top-bar .top-bar-section ul li').hasClass('has-dropdown hover')) {
 							$('.subNavBackground').addClass('subNavBackgroundFixed');
@@ -936,9 +975,14 @@
 						$('.contain-to-grid').removeClass('fixed');
 						$('#wxHeader').removeClass('fixedScroll');
 						$('#wxHeader').removeClass('showWeather');
-						$('.subNavBackground').css({'top': '120px'}).removeClass('subNavBackgroundFixed');
+						$('.subNavBackground').css({'top': '120px', 'height': $("#" + currentMenuID + " ul").height()}).removeClass('subNavBackgroundFixed');
 						$('.has-dropdown.hover > a:after,.subNavBackground').css({display: 'block'});
-						$("#"+ currentMenuID).addClass('has-dropdown');
+						$("#"+currentMenuID).addClass('has-dropdown');
+						$("#"+currentMenuID+" ul").show();
+						var alertSectionHeight = $('.breaking_news_alerts').height()>0? $('.breaking_news_alerts').height() :$('header').find('.empty_component').outerHeight();
+						var headerHeight = $(".header_top_sec").height() + $(".subNavBackground").height() + alertSectionHeight;
+						console.log("height of empty component "+$('header').find('.empty_component').height());
+						$('header').css({'height': headerHeight});
 					}
 				}
 			});
@@ -957,14 +1001,7 @@
 			// $('.thumb_text').height($('.small_thumb').height());
 		}
 
-		$('.breaking_news_alerts').on('click', '.closeAlertBtn', function(e){
-			$('.breaking_news_alerts, .alerts_title_background').slideUp(500);
-			var alertsHeight = $('.breaking_news_alerts').height();
-			$('header').animate({height: headerHeightFinal - alertsHeight},500,function(){
-				headerHeightFinal = headerHeightFinal - alertsHeight;
-				$('.sticky-adv').trigger('detach.ScrollToFixed');
-			});
-		});
+		
 		$('.breaking_news_alerts_mobile .closeAlertBtn').click(function(){
 			$('.breaking_news_alerts_mobile').slideUp(500);
 			var alertsHeight = $('.breaking_news_alerts').height();
@@ -979,6 +1016,10 @@
 		return !!('ontouchstart' in window) // works on most browsers
 			|| !!('onmsgesturechange' in window); // works on ie10
 	};
+	$('.copyright_txt p').filter(function(i,e){
+				return $(e).html() === "&nbsp;"
+			}
+		).remove();
 </script>
 
 
@@ -1016,6 +1057,15 @@
 	<img src="http://b.scorecardresearch.com/p?c1=2&c2=7507054&cv=2.0&cj=1"/>
 </noscript>
 <!-- ComScore: End -->
+
+	<!--[if lte IE 9]>
+	  <script type="text/javascript">
+	  	$(document).ready(function(){
+			$(".spinner").html("");
+			$(".spinner").addClass("loadmore");
+	  	});
+	  </script>
+	<![endif]-->
 
 
 
