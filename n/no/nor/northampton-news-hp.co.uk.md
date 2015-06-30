@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northampton-news-hp.co.uk privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204023252id_/http%3A//www.northampton-news-hp.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northampton-news-hp.co.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630220325id_/http%3A//www.northampton-news-hp.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Northampton Herald & Post | Privacy Policy
 
