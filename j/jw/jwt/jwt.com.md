@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jwt.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731212023id_/https%3A//www.jwt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwt.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630115811id_/https%3A//www.jwt.com/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Policy - JWT.com
 
-## JWT Internet Privacy Policy
+## Internet Privacy Policy
 
-This website is provided by J. Walter Thompson U.S.A., Inc ("JWT"). We take very seriously the privacy of our website users and the security of their personal information.
+This website is provided by J. Walter Thompson U.S.A., LLC ("JWT"). We take very seriously the privacy of our website users and the security of their personal information.
 
 For your convenience, this website contains links to a number of other websites, both inside and outside JWT. The privacy policies and procedures described here do not apply to those sites; we suggest contacting those sites directly for information on their data collection and distribution policies. 
 
