@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perficient.com privacy policy that was archived on 2014-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141025010947id_/http%3A//www.perficient.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perficient.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630023056id_/http%3A//www.perficient.com/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Perficient, Inc.
 
@@ -30,6 +30,14 @@ We take appropriate steps to provide and maintain a secure website. By visiting 
 
 By using Perficient.com or any of its family of websites, you provide your consent to the Perficient Internet Privacy Policy. We reserve the right to change, modify, add, or remove portions from this policy at any time at our discretion. Please check this page periodically for changes. 
 
+Safe Harbor Policy
+
+Perficient complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Perficient has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+
+  * Learn more about the [Safe Harbor program](http://export.gov/safeharbor/)
+
+
+
 **Questions?**
 
-If you have any questions about Perficient’s Internet Privacy Policy, this website, or your dealings with this website, [we welcome your comments](https://web.archive.org/About/Contact1).
+If you have any questions about Perficient’s Internet Privacy Policy, Safe Harbor Policy, this website, or your dealings with this website, [we welcome your comments](https://web.archive.org/About/Contact1).
