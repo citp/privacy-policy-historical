@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmart.sg privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121081551id_/http%3A//www.moneysmart.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmart.sg privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630101219id_/http%3A//www.moneysmart.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoneySmart.sg
 
@@ -114,9 +114,99 @@ There are a number of places on our websites where you may click on a link to ac
 
 ### How We Protect Your Personal Information
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees and authorized third-party service providers are permitted to access personal information, and they may do so only for permitted business functions. We use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
+Here at Moneysmart.sg, your personal data and the information that you share with us in confidence, is treated with the utmost respect and care. Thus, the safety of your personal data is important to us and it is our policy to respect the confidentiality of information and the privacy of every individual.
 
-We want you to feel confident using our websites to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information.
+This Policy outlines how MoneySmart manages the personal data we hold in compliance with the Personal Data Protection Act in Singapore (the “Act”) and applies to everything we do with regards to that information.
+
+You can also visit our website at MoneySmart.sg to view the details of this policy as listed here. We also comply with local data protection and privacy laws in all our operations outside of Singapore which are owned and managed by Catapult Ventures Pte Ltd.
+
+### What types of personal data do we collect?
+
+We collect personal data about our customers or employees, such as:
+
+  * Full name
+  * Mobile telephone number
+  * Personal email address
+  * Name and residential address
+  * Name and residential telephone number
+  * Personal documents required for the application of mortgages and insurance
+
+
+
+We may collect and hold personal data of persons/entities including but not limited to:
+
+  * All customers
+  * Job applicants and employees
+  * Shareholders
+  * Service providers
+  * Other people who we may come into contact in the course of operations
+
+
+
+_Examples of such personal data include biodata, contact details, account information and your preferences, queries, requests and feedback._
+
+The personal data inventory is:
+
+  * Collected to assist in requested applications for all our offered products and services and/ or for the purposes of employment of individuals and its associated processes.
+  * This information is stored either physically within our office premises or on company servers.
+  * The information is only disclosed to the related business entities at which requested applications are processed at as well as our business partners who partake in similar customer requested and approved applications for various products and services.
+
+
+
+_When collecting any personal data, all individuals are informed of the purpose(s) for which it will be collected, used or disclosed and consent from individuals are obtained prior to any initiation of collection._
+
+### How do we collect personal data?
+
+The ways in which we may collect personal data include (but are not limited to) collecting directly or indirectly from individuals or authorized representatives in the course of:
+
+  * Signing up for alerts or newsletters
+  * Visiting our websites
+  * Applying for a product or service through us and / or our business partners
+  * Applying for a job with us
+  * Participating in our marketing or promotional events
+  * Using our products or services
+  * Contacting us with queries, requests or feedback
+  * Conducting or completing of transactions
+  * Conducting market research or surveys
+  * Conducting interviews
+
+
+
+### For what purposes do we collect personal data?
+
+In general, we may use personal data for the following purposes:
+
+  * Conducting and completing transactions (e.g. processing orders and payments; providing products or services that have been requested by users)
+  * Providing customer service (e.g. responding to queries and requests; informing users about service / application / processing statuses and product updates)
+  * Sending alerts and newsletters as requested by users
+  * Conducting market research and improving customer service
+  * Conducting marketing promotions (e.g. sending of alerts, newsletters, marketing materials and invitations from us wholly or through affiliation with third parties)
+  * Complying with applicable laws, regulations and other requirements
+  * Performing of evaluations (e.g. assessing suitability of employees)
+
+
+
+MoneySmart will only use, disclose and/or transfer personal data for the purposes individuals have been notified of and consented to or which are permitted under applicable laws and regulations. We will not sell, rent or give away personal data to third parties for commercial purposes without prior consent.
+
+We regard breaches of privacy very seriously and we have implemented measures to secure and protect information, such as training our employees who handle personal data to respect the confidentiality of such personal data, storing personal data in a combination of secure computer storage facilities and paper based files and other records, taking steps to protect the personal data we hold from misuse, loss, unauthorised access, modification or disclosure.
+
+We cannot however, secure personal data from cyber attacks, such as hacking, spyware and viruses. Individuals cannot hold MoneySmart liable for any unauthorized disclosure, loss or destruction of personal data arising from such risks.
+
+The Act also requires us not to store personal data longer than necessary. We will cease to retain the personal data when it is no longer required for the purposes we originally notified the individual for or any business or legal needs.
+
+### How to exercise a right to access the personal data we hold?
+
+To be informed of the personal data we possess, as given to us by individuals, a verification of identity will be required of the party requesting the information. Disclosure is made only to the individual whom the personal data pertains to.
+
+### How to exercise a right to remove consent to our access of an individual’s personal data?
+
+To make a request to withdraw consent previously given, please contact us directly at <http://www.moneysmart.sg/contact-us>
+
+### How to lodge a compliant with regards to personal data?
+
+We take any and every complaint against personal data very seriously and endeavor to ensure the address and satisfaction of all complaints that come through. Again, such complaints can be lodged via <http://www.moneysmart.sg/contact-us>
+
+All requests to have personal data removed from our databases or physical storage facilities will be entertained and performed within the company’s reasonable abilities.
 
 ### Visiting Our Website From Outside Singapore
 
