@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squareup.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227033148id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squareup.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630152348id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
 
 # Square Privacy Policy
 
