@@ -1,96 +1,77 @@
-> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109232414id_/http%3A//www.bournemouth.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630233334id_/https%3A//www1.bournemouth.ac.uk/about/governance/website-privacy-cookies-policy) for the most accurate reproduction.*
 
-# Privacy policy | About the University | Bournemouth University
+# Website privacy & cookies policy | Bournemouth University
 
-Bournemouth University (BU) recognises the importance of your personal privacy. This privacy policy sets out how BU uses and protects any information that you give us when you use this website. By using this website you consent to the collection of your personal information in accordance with this policy.
+We recognise the importance of your personal privacy. This privacy notice sets out how we use and protect any information that you give us when you use our website. By using our website you consent to the collection of your personal information in accordance with this policy.
 
-The processing of personal data is regulated by the Data Protection Act 1998 (the Act). Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement and the Act.
+Processing personal data is regulated by the Data Protection Act 1998 (DPA). Any information we ask you for via our website that could identify you will only be used in accordance with this privacy notice, any specific privacy notice we provide and the DPA. You can ask us for access to the information we hold about you - see [Data Protection Act 1998](https://web.archive.org/about/governance/access-information/data-protection-act-1998-dpa-and-privacy-policies) for more detail. We may change this policy by updating this page following a regular review - the last time we did that was 19 September 2014.
 
-Any requests by individuals for access to information held about them by BU should be made in writing to the Information Officer, Legal Services, Bournemouth University, Melbury House, 1-3 Oxford Road, Bournemouth, Dorset, BH8 8ES. The fee for access to information is £10 and this should be submitted with the request.
+## What information do we collect from our website?
 
-BU may change this policy by updating this page. This policy is effective from 26 May 2012.
+Sometimes we need to ask you for information so that you can do things on or through our website – like registering for an event or applying for a course. The information we are likely to collect for these purposes includes your name, address, telephone number and email address, and can even include things like dietary requirements or qualifications. By supplying us with your information, you are consenting to us keeping it for a reasonable amount of time and using it for the purposes we outline below. If you do not consent to this, please do not supply us with your personal information.
 
-## What information do we collect?
+## Does the website use cookies?
 
-In order to use the main BU website, you are not currently required to register or provide any personal information about yourself. Any personal information collected from visits to our website is purely on a voluntary basis, however by supplying this information you are consenting to the University keeping it for a reasonable period of time and using it for the purposes set out below.
+When you visit our website, we collect information about you via cookies - small pieces of code that enables us to make sure the web page is displaying correctly. The information we gather through cookies includes things such as your physical location and your computer's IP address. We don't gather any personal identifying information using cookies.
 
-On the occasions that we do ask you to provide some limited information to participate in services such as registration, applications or event bookings, this information may include your name, title, institutional affiliation, address, telephone number, email address, dietary requirements, as well as qualifications or further information requested specifically for an event. It may be stored manually or electronically by BU.
+None of the cookies we use give us access to your computer or your personal data, beyond the information you choose to share with us. The cookies we use help us to provide you with a better website, by monitoring which pages you find useful and which pages you don't. 
 
-When you use the BU website it automatically issues your computer with a small piece of code known as a cookie. This cookie enables the web page to be displayed correctly. This information enables us to manage and improve services on this website - this cookie does not however contain any personal identifying information.
+## Two types of cookies are used on this website:
 
-When you view our website, our webservers build logs of activity which contain information about your location in the world and your computers IP address. 
-
-A cookie is a small file of letters and numbers which asks permission from your browser to be placed on your computer's hard drive. Cookies allow web applications to respond to you as an individual and allow us to distinguish you from other users of the site. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences and allows us to improve our site.
-
-Cookies we use:
-
-  * We use Google Analytics cookies to identify which pages are being used. This helps us analyse data about web page traffic (the number of visitors and how visitors move around the site when they are using it) and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis.
-  * When you use our Course Search, there is a cookie which remembers which course you were looking at when you clicked 'Apply Online'. This then pre-selects that particular course on the application form to assist you. This cookie expires after three hours.
-  * We also use Third Party cookies within our email campaigns, predominantly sent using the dotMailer email marketing tool, as well as Google Analytics. Cookies are used to monitor open rates and improve your email experience and also for the tracking of website activity initiated from hyperlinks within email marketing campaigns. More information about dotMailer Third Party cookies and their [Privacy Policy](http://www.dotmailer.com/privacypolicy.aspx) can be found on their website.
+  * Session Cookies. These are temporary cookies, which only exist for the period you access the website (or more strictly, until you close the browser after accessing the website). Session cookies help the website remember what you chose on the previous page, therefore avoiding having to re-enter information.
+  * Persistent Cookies. These are cookies which remain on your device after you have visited our website. These cookies help us identify you as a unique visitor (by storing a randomly generated number).
 
 
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer, other than the data you choose to share with us.
+The length of time a cookie will remain on your device will depend on the type of cookie.
 
-### Removing and disabling cookies
+We use Google Analytics cookies to see which pages are being looked at. This helps us analyse web data and improve our website - we only use this information for statistical analysis.
 
-If you do not wish to accept cookies on your machine you can disable them by adjusting the settings on your browser. You should be aware however, that if you choose to decline cookies, certain functions or features on our website may not work correctly.
+When you use our Course Search facility, we use a cookie that remembers which course you were looking at when you select 'Apply Online'. This then pre-selects that course on the application form to speed things up for you. This cookie expires after three hours. The BU online application system also automatically issues your computer with a cookie which enables the web page to display properly in your brower.
 
-Two types of cookies are used on this website:
+We also use third-party cookies in our email campaigns, mainly sent using an email marketing tool called dotMailer, as well as more Google Analytics cookies. These are used to monitor how many people open the emails we send and track which links they select within the email. You can find dotMailer's privacy policy on the [dotMailer website](http://www.dotmailer.com/terms/privacy-policy/).
 
-  * **Session Cookies**. These are temporary cookies, which only exist in the period you access the website (or more strictly, until you close the browser after accessing the website). Session cookies help the website remember what you chose on the previous page, therefore avoiding having to re-enter information. 
-  * **Persistent Cookies**. These are cookies, which remain on your device after you have visited our website. These cookies help us identify you as a unique visitor (by storing a randomly generated number).
+## Disabling cookies
 
+You can disable cookies by adjusting the settings on your internet browser. However, if you do so, some parts of our website might not work properly for you. To find out more, visit [allaboutcookies.org](http://www.allaboutcookies.org/manage-cookies/). 
 
+## What do we do with the information we gather?
 
-The length of time a cookie will remain on your device will depend on the type of cookie. On our website, these cookies do not contain personal information, and cannot be used to identify you.
+Any personal information we gather will only be used in accordance with the DPA, this notice and for the purpose stated at the time we gather it. We never sell or lease your personal information to third parties without your permission. We never share your personal information with third parties without your permission, except where required to do so by law or in exceptional circumstances in accordance with the DPA. We may use data to analyse demographic and other statistical information about the popularity and effectiveness of our website, but we'll only disclose that information in aggregate form, so individual users cannot be identified.
 
-To find out more about how to manage cookies through your chosen browser go to: [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/)
+## How can I control my personal information?
 
-## What we do with the information we gather?
+You can control how and when we collect your personal information via our website in the following ways:
 
-Any personal information that we gather will only be used in accordance with the Data Protection Act 1998 and used for the purpose stated at the time we request the information. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-We may use the logging data to analyse demographic and other statistical information to conduct an analysis of the popularity and effectiveness of the BU website. In conducting such analysis we will only ever disclose information in the aggregate form so as not to identify individual users.
-
-## Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us direct, altering your preferences or by selecting the unsubscribe link at the bottom of any direct marketing emails we send to you. 
+  * When you are asked to fill in a form on the website, tick the box that indicates you do not want the information you supply to be used by anybody for direct marketing purposes.
+  * If you've already agreed to us using your personal information for direct marketing purposes, you can change your mind by contacting us directly, altering your preferences or by selecting the 'unsubscribe' link at the bottom of any marketing emails we send you.
+  * If you think any of the information we hold about you is incorrect or incomplete, please contact us and we will correct any information that is incorrect or incomplete.
 
 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us as soon as possible and we will promptly correct any information found to be incorrect or incomplete.
+## Is my information secure?
 
-## Security
+We are committed to keeping your information secure, and we have physical, electronic and managerial procedures in place to safeguard the information we collect from you.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+You should be aware of the following rules, however:
 
-You should be aware that when you email BU the possibility exists, however minimal, that unauthorised individuals maybe able to intercept your message. We recommend as a result you should not use unsecure forms and email to send personal data, such as financial information to BU.
-
-**You should be aware of the following:**
-
-  * When we transfer and receive personal data, we redirect visitors to a web connection that uses SSL encryption (similar to that used for internet banking). We notify visitors of this connection through the use of a padlock symbol, which will appear in your address or status bar.
-  * Some of our forms allow our visitors to ask questions about our products or services. You should be aware that these messages are not sent over an encrypted connection and the possibility exists, however minimal, that an unauthorised individual maybe able to intercept this information.
-  * We are not responsible for the privacy of email messages except those stored in our servers.
-  * We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you, while using our website.
-  * That when you email BU the possibility exists, however minimal, that unauthorised individuals may be able to intercept your message. We recommend as a result you should not use email to send personal data, such as financial information to BU.
+  * When you email us, the possibility exists, however remote, that unauthorised people might be able to intercept your message. You should never use unsecure forms and email to send personal data such as financial information to us. If you are considering returning your form by email then please visit our [returning forms](http://www.bournemouth.ac.uk/return-forms) webpage to find out more about how to encrypt your form before emailing it.
+  * When we transfer and receive personal data, we direct you to a web connection that uses SSL encryption (similar to that used for online banking). If you are in a secure part of our website, you'll see a padlock symbol in your address or status bar.
+  * Some of our forms allow you to ask questions about our products or services. These messages are not sent over an encrypted connection and the possibility exists, however remote, that unauthorised people may be able to intercept this information.
+  * We aren't responsible for the privacy of emails except those stored on our own servers.
 
 
 
-## Links to other websites
+There are steps you can take to protect your personal information while using our website and applications:
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-## Contact us
-
-Please contact us if you have questions about our privacy statement at [newmedia@bournemouth.ac.uk](mailto:newmedia@bournemouth.ac.uk).
-
-Related Links
-
-  * [Freedom of Information](http://www.bournemouth.ac.uk/foi)
-  * [Contact Bournemouth University](http://www.bournemouth.ac.uk/contact)
+  * Never leave your computer while you're logged into any of our applications
+  * Be aware that public Wi-Fi (wireless) internet connections and internet cafes could leave your data at risk
+  * You should decline any username or password recognition options presented to you
+  * You should always log out of any BU applications when you have finished and close theinternet browser after logging out. Simply diconnecting from the internet is no enough
+  * Never share your username and password with anyone or leave these details somewhere where others may be able to access them.
 
 
+
+## What about links to other websites?
+
+Our website contains links to other websites. We don't have any control over the websites we link to, so we can't be held responsible for the protection and privacy of any information you provide on those websites. The websites we link to aren't governed by this privacy statement and you should look at their privacy statements to make sure you are happy with how they will handle your data before you submit any personal information. See our [website terms and conditions](https://web.archive.org/about/governance/website-terms-and-conditions) for more information.
