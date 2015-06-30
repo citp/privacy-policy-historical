@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouya.tv privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014035442id_/https%3A//www.ouya.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouya.tv privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630151927id_/https%3A//www.ouya.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy OUYA
 
