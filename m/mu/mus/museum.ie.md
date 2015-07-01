@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museum.ie privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504000316id_/http%3A//www.museum.ie/en/fns/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museum.ie privacy policy that was archived on 2015-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150701173039id_/http%3A//www.museum.ie/en/fns/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
