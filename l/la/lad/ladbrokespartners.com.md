@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladbrokespartners.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627103153id_/http%3A//help.ladbrokes.com/display/4/kb/article.aspx%3Faid%3D1120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladbrokespartners.com privacy policy that was archived on 2015-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150701182557id_/http%3A//help.ladbrokes.com/display/4/kb/article.aspx%3Faid%3D1120) for the most accurate reproduction.*
 
 # LBR Customer KB
 
