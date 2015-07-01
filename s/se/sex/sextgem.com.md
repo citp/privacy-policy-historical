@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sextgem.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623050035id_/http%3A//sextgem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextgem.com privacy policy that was archived on 2015-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150701021518id_/http%3A//sextgem.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Trình tạo wap / công cụ xây dựng website di động trực quan
+# Privacy Policy - Visual mobile site building tool
 
 XTGEM Service Provider aims to ensure the protection of XTGEM website visitors’ and service users’ privacy. This privacy policy is applied only to XTGEM website.
 
