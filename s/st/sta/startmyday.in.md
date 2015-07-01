@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startmyday.in privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206133856id_/http%3A//startmyday.in/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startmyday.in privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702013600id_/http%3A//www.startmyday.in/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
