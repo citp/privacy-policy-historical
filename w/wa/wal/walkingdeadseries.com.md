@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkingdeadseries.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502172747id_/http%3A//www.walkingdeadseries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkingdeadseries.com privacy policy that was archived on 2015-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150701223500id_/http%3A//www.walkingdeadseries.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The walking dead show
 
