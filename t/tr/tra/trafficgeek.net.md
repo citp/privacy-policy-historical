@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficgeek.net privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207095944id_/http%3A//www.trafficgeek.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficgeek.net privacy policy that was archived on 2015-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150701081042id_/http%3A//www.trafficgeek.net/privacy.php) for the most accurate reproduction.*
 
 # Traffic Geek Privacy Statement
 
