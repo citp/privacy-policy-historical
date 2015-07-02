@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itslive.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523155258id_/http%3A//www.itslive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itslive.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702120549id_/http%3A//www.itslive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Privacy Policy - ItsLive
 
