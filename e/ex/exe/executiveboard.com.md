@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the executiveboard.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627104452id_/http%3A//www.executiveboard.com/exbd/privacy/index.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the executiveboard.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702120041id_/http%3A//www.executiveboard.com/exbd/privacy/index.page) for the most accurate reproduction.*
 
 # CEB Privacy Policy | CEB
 
@@ -8,9 +8,9 @@ You should read this Policy before you submit any personal information to us. By
 
 ### 1\. WHO WE ARE
 
-CEB, which owns and operates the Sites, has its principal place of business at 1919 North Lynn Street, Arlington, Virginia 22209, United States. More information about CEB and its network of Programs can be found at [www.executiveboard.com](http://www.executiveboard.com/).
+CEB, which owns and operates the Sites, has its principal place of business at 1919 North Lynn Street, Arlington, Virginia 22209, United States. More information about CEB and its network of Programs can be found at [www.cebglobal.com](https://web.archive.org/exbd/index.page/).
 
-CEB’s Workforce Surveys & Analytics team provides employee survey, selection, and assessment services that help the world’s largest companies drive productivity through more effective management of talent. The Workforce Surveys & Analytics Privacy Policy can be found at <http://www.executiveboard.com/exbd/workforce-surveys-analytics/privacy-policy/index.page?>.
+CEB’s Workforce Surveys & Analytics team provides employee survey, selection, and assessment services that help the world’s largest companies drive productivity through more effective management of talent. The Workforce Surveys & Analytics Privacy Policy can be found at [/exbd/workforce-surveys-analytics/privacy-policy/index.page?](https://web.archive.org/exbd/workforce-surveys-analytics/privacy-policy/index.page?).
 
 CEB Iconoculture Consumer Insights is a future-focused line of comprehensive consumer insights and strategic advisory services. The services are presented on a separate website with its own privacy policy, which can be found at [https://iconoculture.com/Popups/PrivacyStatement/index.aspx.](https://iconoculture.com/Popups/PrivacyStatement/index.aspx)
 
@@ -92,7 +92,7 @@ We operate the Sites in the United States and, depending on your country of resi
 
 In some cases, Members can directly access their online profiles and other personal details, enabling them to amend, update or add information by themselves at any time by logging into the relevant Program webpage.
 
-You can also request access to any personal information that we hold about you and ask us to correct any personal information which may be inaccurate, except where the law requires otherwise. To access, correct or raise inquiries concerning your personal information in our possession, please email us at [privacy@executiveboard.com](mailto:privacy@executiveboard.com) or contact:
+You can also request access to any personal information that we hold about you and ask us to correct any personal information which may be inaccurate, except where the law requires otherwise. To access, correct or raise inquiries concerning your personal information in our possession, please email us at [privacy@cebglobal.com](mailto:privacy@cebglobal.com) or contact:
 
 Privacy & Data Protection Officer  
 CEB  
@@ -113,7 +113,7 @@ To provide increased value to users of our Sites, we may provide links to other 
 
 ### 10\. SAFE HARBOR
 
-We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, and have certified that we adhere to the Safe Harbor Privacy Principles. We agree that any disputes regarding our privacy policies and related actions regarding data from Europe can be heard by the European Data Protection Authorities or the Swiss Federal Data Protection and Information Commissioner, and we will be subject to the determinations of those bodies. Any complaints about our adherence to the practices described in this privacy policy statement or non-compliance with the Safe Harbor Principles should first be addressed to CEB’s Privacy & Data Protection Officer at [privacy@executiveboard.com](mailto:privacy@executiveboard.com). To learn more about the Safe Harbor program and to view our certification information, please visit <http://export.gov/safeharbor/>.
+We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, and have certified that we adhere to the Safe Harbor Privacy Principles. We agree that any disputes regarding our privacy policies and related actions regarding data from Europe can be heard by the European Data Protection Authorities or the Swiss Federal Data Protection and Information Commissioner, and we will be subject to the determinations of those bodies. Any complaints about our adherence to the practices described in this privacy policy statement or non-compliance with the Safe Harbor Principles should first be addressed to CEB’s Privacy & Data Protection Officer at [privacy@cebglobal.com](mailto:privacy@cebglobal.com). To learn more about the Safe Harbor program and to view our certification information, please visit <http://export.gov/safeharbor/>.
 
 ### 11\. CHILDREN
 
