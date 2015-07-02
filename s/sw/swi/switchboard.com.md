@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the switchboard.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621205555id_/http%3A//www.whitepagescustomers.com/data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switchboard.com privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702102108id_/http%3A//www.whitepagescustomers.com/data-policy) for the most accurate reproduction.*
 
 # Data Policy
 
