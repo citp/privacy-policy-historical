@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualizing.org privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602020404id_/http%3A//visualizing.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualizing.org privacy policy that was archived on 2015-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150702185911id_/http%3A//www.visualizing.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | visualizing.org
 
