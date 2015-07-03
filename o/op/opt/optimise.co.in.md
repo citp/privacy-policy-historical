@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimise.co.in privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621191337id_/http%3A//www.optimise.co.in/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimise.co.in privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704002701id_/http%3A//www.optimise.co.in/website-privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy - Optimise
 
