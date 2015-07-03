@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel-wonders.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512220129id_/http%3A//travel-wonders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-wonders.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703234118id_/http%3A//travel-wonders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Wonders of the World
 
