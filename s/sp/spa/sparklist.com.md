@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparklist.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602070516id_/http%3A//lyris.com/us-en/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklist.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703091019id_/http%3A//lyris.com/us-en/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
