@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metroexpresslanes.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331231103id_/https%3A//www.metroexpresslanes.net/en/other/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroexpresslanes.net privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703044954id_/https%3A//www.metroexpresslanes.net/en/other/privacy.shtml) for the most accurate reproduction.*
 
 # Metro ExpressLanes
 
