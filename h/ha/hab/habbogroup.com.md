@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habbogroup.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223150246id_/https%3A//help.habbo.com/entries/23029106-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbogroup.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703081137id_/https%3A//help.habbo.com/entries/23029106-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy : Habbo.com Customer Support
 
@@ -138,7 +138,13 @@ When you edit your Customer Data or change your preferences on the Service, info
 
 You may opt-out of receiving e-mail marketing communications from us by following the instructions contained within our promotional e-mails or in some cases by logging into your Service account and changing your communication preferences **.** This will not affect subsequent subscriptions and if your opt-out is limited to certain types of e-mails the opt-out will be so limited.  If you subscribe to text messages from us, you can terminate a particular text message subscription by reply texting “STOP.”  Subsequent or different subscriptions will be unaffected.  Please note that we reserve the right to send you certain communications relating to your account or use of our Service, such as administrative and service announcements and these transactional account messages may be unaffected if you choose to opt-out from receiving our marketing communications.  If you have any questions about the Privacy Policy or practices described in it, you should contact us in the following ways:
 
-Postal Mail: Sulake Corporation Oy, Porkkalankatu 1, 00180 Helsinki, Finland
+Postal Mail: 
+
+Sulake Corporation Oy
+
+Kaarlenkatu 11
+
+00530 Helsinki, Finland
 
 E-mail: [sarrequests@sulake.com](mailto:sarrequests@sulake.com) 
 
