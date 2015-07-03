@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iphoneappcafe.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316113118id_/http%3A//fanappic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphoneappcafe.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703203901id_/http%3A//fanappic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
