@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshillongtimes.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008010051id_/http%3A//www.theshillongtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshillongtimes.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703175313id_/http%3A//www.theshillongtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Comments/Privacy Policy | The Shillong Times
 
@@ -28,9 +28,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 The Shillong Times may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service  _ Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To improve our Site_ We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_ We may use the email address to send them information and updates pertaining to their order.
+  * _– To improve customer service  _ Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _– To improve our Site_ We may use feedback you provide to improve our products and services.
+  * _– To send periodic emails_ We may use the email address to send them information and updates pertaining to their order.
 
 
 
