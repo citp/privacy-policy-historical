@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pdfoxy.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217145325id_/http%3A//pdfoxy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfoxy.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703091649id_/http%3A//pdfoxy.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | PDFoxy
+# PRIVACY POLICYPDFoxy | PDFoxy
 
 **PRIVACY POLICY**
 
@@ -29,5 +29,3 @@ This web site contains links to other sites that are not owned or controlled by 
 PDFoxy encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.
 
 This privacy statement applies only to information collected by this web site.
-
-Category:  | Tags: no tag | 
