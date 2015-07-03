@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uplust.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022856id_/http%3A//uplust.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uplust.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703103012id_/http%3A//uplust.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Uplust Help Center
 
@@ -38,7 +38,7 @@ This site expressly and strictly limits its membership and/or viewing privileges
   * if under duty to do so Uplust.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Uplust.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Uplust.com’s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
   * Should you deliberately upload any illegal material Uplust.com shall forward all available information to all relevant authorities and this without notice. 
 
-\- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+– We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
 
 
 
