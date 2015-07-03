@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toppersworld.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002536id_/http%3A//toppersworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppersworld.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703194906id_/http%3A//toppersworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
