@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the andtv.com privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212144625id_/http%3A//www.andtv.com/andtv-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andtv.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703190811id_/http%3A//www.andtv.com/andtv-privacy-policy) for the most accurate reproduction.*
 
-# AndTV Privacy Policy - AndTV Official Website: AndTV Shows & Serials, Watch Full Episodes, Videos, Promos online at http://www.andtv.com/
+# AndTV Privacy Policy - &TV (AndTV) Official Website: &TV (AndTV) Shows & Serials, Watch Full Episodes, Videos, Promos online at http://www.andtv.com/
 
 About [www.andtv.com](http://www.andtv.com/)
 
