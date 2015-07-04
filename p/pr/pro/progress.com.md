@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317074104id_/https%3A//www.progress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704020529id_/https%3A//www.progress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,19 +12,19 @@ No matter how Progress Software comes to have your information, we want you to k
 
 ## Links to Other Sites
 
-This policy covers the information practices of our websites that link to this policy, which includes but is not limited to: [www.progress.com](https://web.archive.org/) and [https://community.progress.com](https://community.progress.com/), as well as all international domains and subdomains (collectively referred to as "Progress Software Websites")
+This policy covers the information practices of our websites that link to this policy, which includes but is not limited to: [www.progress.com](https://web.archive.org/) and [https://community.progress.com](https://community.progress.com/), as well as all international domains and subdomains (collectively referred to as "Progress Software Websites")
 
 Our Progress Software Websites contain links to other company websites. Please be aware that our privacy policy does not apply to these other websites. Although Progress Software uses great care to select content for our Progress Software Websites, including links to websites of third parties, we disclaim any responsibility for content that is found on these other websites. We encourage you to review the privacy statements of the other websites to understand their information practices.
 
 ## Our Commitment to Your Privacy
 
-Progress Software does _not_ :
+Progress Software does not:
 
   * Sell the names and addresses of our customers and/or site users to outside vendors.
 
 
 
-Progress Software _does_ :
+Progress Software does:
 
   * Safeguard customers' information from unauthorized access.
   * Collect, maintain and use customer information as necessary to provide the most helpful and targeted products and services to meet customers’ needs (e.g. customer care or new products or services).
