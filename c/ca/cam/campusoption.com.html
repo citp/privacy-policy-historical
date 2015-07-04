@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the campusoption.com privacy policy that was archived on 2015-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150603035233id_/http%3A//www.campusoption.com/static/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the campusoption.com privacy policy that was archived on 2015-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150704050102id_/http%3A//www.campusoption.com/static/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -14,7 +14,6 @@
 <link href="http://www.campusoption.com/assets/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="http://www.campusoption.com/assets/css/bootstrap.css">
 <link rel="stylesheet" type="text/css" href="http://www.campusoption.com/assets/css/jPushMenu.css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.campusoption.com/assets/js/common.js"></script>
 <link rel="stylesheet" href="http://www.campusoption.com/assets/css/main.css">
 <!-- Favicons
 ================================================== -->
@@ -27,7 +26,7 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-	<script>
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -121,7 +120,7 @@
 					<a href="http://www.campusoption.com/college/sambharam-institute-of-technology" title="Sambharam Institute of Technology"><img src="http://www.campusoption.com/images/ads/sambharam.png" border="0" alt="Sambharam Institute of Technology"></a>
 				</div>
 				<div class="search_ads4">
-					<a href="http://www.campusoption.com/college/christ-university--bangalore" title="Christ University, Bangalore"><img src="http://www.campusoption.com/images/ads/christ-college.jpg" border="0" alt="Christ University, Bangalore"></a>
+					<a href="http://www.campusoption.com/college/ramaiah-institute-of-management-studies" title="Ramaiah institute of management study"><img src="http://www.campusoption.com/images/ads/rims.jpeg" border="0" alt="Ramaiah institute of management study"></a>
 				</div>
 			</div>
           </div>
@@ -353,8 +352,8 @@ You can login by giving us your login credentials below, or by using a social si
 						<input type="text" name="birthday" id="birthday" class="form-control" placeholder="Date of Birth: DD/MM/YYYY">
 						</div>
 						<div class="form-group">
-						<strong>2 + 3 = </strong>&nbsp;<input type="text" size="10" name="result" id="result" class="form-captcha" style="width:50%;">
-						<input type="hidden" id="resultcap" value="5"> 
+						<strong>4 + 4 = </strong>&nbsp;<input type="text" size="10" name="result" id="result" class="form-captcha" style="width:50%;">
+						<input type="hidden" id="resultcap" value="8"> 
 						</div>
 						
 						<div class="row">
@@ -634,11 +633,96 @@ You can login by giving us your login credentials below, or by using a social si
       </div>
     </div>
   </div>
+  <div class="modal fade" id="lead_request_modal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title">May we help you to choose right college? Please fill the details below :</h4>
+      </div>
+      <div class="modal-body" style="border:none">
+        <script src="http://www.campusoption.com/assets/js/jquery.metadata.js"></script>
+<form name="requestform" id="requestform" method="post">
+<input type="hidden" name="form_type" id="form_type" value="lead_form">
+<table cellpadding="6" cellspacing="0" border="0" class="arial14normal">
+  <tbody><tr>
+    <td width="34%" align="left">Full Name </td>
+    <td width="66%" align="left"><input type="text" name="fullname" id="fullname" class="form-control" validate="required:true, minlength:4" value=""></td>
+  </tr>
+  <tr>
+    <td align="left">Email</td>
+    <td align="left"><input type="text" name="email" id="email" class="form-control" validate="required:true, email:true" value=""></td>
+  </tr>
+  <tr>
+    <td align="left">Mobile Number </td>
+    <td align="left"><input type="text" name="mobile" id="mobile" class="form-control" validate="required:true, minlength:10, number:true" value=""></td>
+  </tr>
+  <tr>
+    <td align="left">City</td>
+    <td align="left"><input id="city" name="city_coll_info" class="form-control" validate="required:true" value=""></td>
+  </tr>
+  <tr>
+    <td align="left">Interested city</td>
+    <td align="left"><input id="city_interested" name="city_interested" class="form-control" validate="required:true" value=""></td>
+  </tr>
+  <tr>
+    <td align="left">Courses</td>
+    <td align="left">
+	<select name="course_select" id="course_select" class="form-control" validate="required:true">
+      <option value="">Select Course</option>
+				<option value="mba">MBA</option>
+				<option value="engineering">Engineering</option>
+				<option value="medical">Medical</option>
+				<option value="others">Other Courses</option>
+	</select>
+	</td>
+  </tr>
+ <tr class="other_info">
+  <td align="left"></td>
+ <td>
+  <input id="course_desc" name="course_desc" class="form-control" validate="required:true" placeholder="Enter Course description" value="">
+ </td>
+  </tr>
+  <tr>
+    <td align="left">Expected Joining Time</td>
+    <td align="left">
+	<select id="expectedYOJ" name="expectedYOJ" class="form-control" style="width:160px">
+				<option selected="selected" value="">Year</option>
+								<option value="2015">2015</option>
+								<option value="2016">2016</option>
+								<option value="2017">2017</option>
+								<option value="2018">2018</option>
+								<option value="2019">2019</option>
+					</select>
+	</td>
+  </tr>
+  <tr>
+    <td align="left">&nbsp;</td>
+    <td align="left"><button type="submit" name="submit_popup" value="Submit" class="btn btn-primary">Submit</button></td>
+  </tr>
+</tbody></table>
+</form>      </div>
+    </div>
+  </div>
+</div>
 </div></div></footer>
 
 <!-- js
 ================================================== --> 
 <script src="http://www.campusoption.com/assets/js/jquery-1.11.min.js"></script>
+
+    <script type="text/javascript">
+	$(document).ready(function() {
+		if(localStorage.getItem('popState') != 'shown'){
+       setTimeout(function(){
+		$('#lead_request_modal').modal('show')
+		},25000)
+        localStorage.setItem('popState','shown')
+    }
+	});
+    </script>
+	
+   
 <script>
 function subscribeEmail(valid)
 	{
@@ -755,6 +839,76 @@ $(document).ready(function () {
     });
 });
 
+	$(document).ready(function () {
+		$("#ask_to_expert_answer").click(function() {
+		var answer = $.trim($("#answer").val());
+		if( answer == '' )
+		{
+			alert("Type your answer");
+			$("#answer").focus();
+			return false;
+		}
+		else
+		{
+			$( ".discfullname_group" ).slideDown("slow");
+			var disfullname = $.trim($("#disc_fullname").val());
+			var disemail = $.trim($("#disc_email").val());
+			if( disfullname == "" )
+			{
+				alert("Please enter Name");
+				$("#disc_fullname").focus();
+				return false;
+			}
+			else if( disemail == "" || !isEmailAddr( disemail ) )
+			{
+				alert("Please enter valid Email id");
+				$("#disc_email").focus();
+				return false;
+			}
+			else
+			{
+				return true;
+			}
+		}
+		
+		});
+	});
+	
+	$(document).ready(function () {
+		$("#ask_to_expert").click(function() {
+		var answer = $.trim($("#question").val());
+		if( answer == '' )
+		{
+			alert("Type your Question");
+			$("#question").focus();
+			return false;
+		}
+		else
+		{
+			$( ".discfullname_qgroup" ).slideDown("slow");
+			var disfullname = $.trim($("#disc_qfullname").val());
+			var disemail = $.trim($("#disc_qemail").val());
+			if( disfullname == "" )
+			{
+				alert("Please enter Name");
+				$("#disc_qfullname").focus();
+				return false;
+			}
+			else if( disemail == "" || !isEmailAddr( disemail ) )
+			{
+				alert("Please enter valid Email id");
+				$("#disc_qemail").focus();
+				return false;
+			}
+			else
+			{
+				return true;
+			}
+		}
+		
+		});
+	});
+
 function isEmailAddr(email)
 
 {
@@ -830,13 +984,17 @@ function fblogin(){
 	
 			});
 </script>
+
 <script>
 		
 	$(document).ready(function(){
+		//lead request form
+		//discussion lead form
 		
 		$( ".college_info_request" ).bind( "click", function( event ){
 			$( "#req_college_name" ).val( $(this).attr( "title" ) );
 			$( "#college_req_name" ).html( $(this).attr( "title" ) );
+			$( "#college_location_name" ).val( $(this).attr( "rel" ) );
 			$( ".error-blk" ).html('').hide();
 		});
 			
@@ -851,8 +1009,18 @@ function fblogin(){
 		
 		 });
 		
+				$('.description_toogle').hide();
+		 $('#course_interselect').change(function () {
+		
+			if ($(this).val() == "others") {
+			   $('.description_toogle').show();
+			} else {
+			  $('.description_toogle').hide();
+			}
+		
+		 });
+		
 	});
-	
 	
 </script>
 <script>
