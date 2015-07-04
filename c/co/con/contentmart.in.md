@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentmart.in privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521042331id_/http%3A//contentmart.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentmart.in privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705011918id_/https%3A//contentmart.in/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | ContentMart
 
