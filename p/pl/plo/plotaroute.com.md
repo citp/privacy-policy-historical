@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plotaroute.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603162633id_/http%3A//www.plotaroute.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plotaroute.com privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704050446id_/http%3A//www.plotaroute.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # plotaroute.com - Privacy Policy
 
