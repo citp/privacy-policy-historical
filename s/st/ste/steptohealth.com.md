@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steptohealth.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175453id_/http%3A//steptohealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steptohealth.com privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704074216id_/http%3A//steptohealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Step To Health
 
