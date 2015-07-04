@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141525id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704215610id_/https%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Get Revising
+
+  * join **1,415,123** students and teachers
+  * access over **191,500** learning resources
+  * unlimited access for **£6.99** a month
+
+
 
 Get Revising is owned and operated by The Student Room Group Limited company number (04666380)   
 
@@ -40,3 +46,19 @@ At GetRevising.co.uk we collect information about our users for two main reasons
 
 1\. To help us continually improve the service we offer.  
 2\. To use the details of our users to sell appropriate advertising or sponsorship space on the site, and so continue to keep getrevising.co.uk free for all our users.
+
+## Study Smarter
+
+191,500 resources for £6.99
+
+## What our members say:
+
+> “My only regret is not finding this website sooner otherwise it is AMAZING!!!”
+
+> “It has been so useful to my education, I can't imagine not using it!”
+
+Becca
+
+> “Best website ever, useful for all levels of study :)”
+
+Ragnaros
