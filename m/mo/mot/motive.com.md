@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519005455id_/http%3A//www.alcatel-lucent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motive.com privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704191744id_/http%3A//www.alcatel-lucent.com/privacy) for the most accurate reproduction.*
 
 # Alcatel-Lucent Global Privacy and Data Protection Policy | Alcatel-Lucent
 
