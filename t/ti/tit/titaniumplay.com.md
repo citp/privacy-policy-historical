@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the titaniumplay.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328091734id_/http%3A//titaniumplay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titaniumplay.com privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705012856id_/http%3A//titaniumplay.com/privacy-policy) for the most accurate reproduction.*
 
 # Titaniumplay | Privacy Policy
 
-Titaniumplay PRIVACY POLICY
+TITANIUMPLAY PRIVACY POLICY
 
 This Privacy Policy ("Policy") explains what information Titaniumplay (referred to herein as "Titaniumplay", "Company", "we", “us”, or “our”) collect from individuals who visit the Titaniumplay.com website (the "Site") and/or participate in the resources offered by Titaniumplay ("User(s)" or "you"). This Policy also explains how the Company uses and maintains that information.
 
@@ -22,15 +22,15 @@ In addition, the Site and games within the Site may display advertisements from 
 
 **Collection of Personally Identifiable Information**
 
-PII is collected by Titaniumplay only when you provide it to us via the "[Contact Us](https://web.archive.org/web/20150328091734id_/http%3A//titaniumplay.com/contact)" page, in which the Site asks for your name and email address so that you can receive a response to any questions you may have.
+PII is collected by Titaniumplay only when you provide it to us via the "Contact Us" page, in which the Site asks for your name and email address so that you can receive a response to any questions you may have.
 
 If you do not want us to collect your PII as described above or to use and share your PII as described further below in this Policy, you should NOT provide it to us through the Site feature described above. By providing us with your PII using this feature, you are authorizing our use and sharing of your PII as described in this Policy and any subsequent revisions to this Policy that we may publish on the Site.
 
 **Updating Your Personally Identifiable Information.**
 
-If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at [info@titaniumplay.com](mailto:info@titaniumplay.com) or by contacting us using our contact form here [insert hyperlink to [Contact Us](https://web.archive.org/web/20150328091734id_/http%3A//titaniumplay.com/contact) page].
+If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at info@titaniumplay.com or by going to our Contact Us page.
 
-We will retain your information for as long as needed to provide you services. If you wish that we no longer use your information to provide you services, contact us at [info@titaniumplay.com](mailto:info@titaniumplay.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as needed to provide you services. If you wish that we no longer use your information to provide you services, contact us at info@titaniumplay.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Social Media (Features) and Widgets:**
 
@@ -42,7 +42,7 @@ We do not knowingly collect PII from anyone under 13 years of age. We cannot and
 
 **Use and Sharing of Personally Identifiable Information**
 
-We reserve the right to use PII: (1) for the specific purpose for which such information was provided as stated above; and (2) as otherwise stated  in this Policy.
+We reserve the right to use PII: (1) for the specific purpose for which such information was provided as stated above; and (2) as otherwise stated in this Policy.
 
 We do not share, sell or trade any of your PII with any third parties other than described herein. We may share your PII with our parent company and its principals, employees, consultants, officers, directors, members, agents, subsidiaries, or affiliates (collectively "Related Companies"). Neither we nor our Related Companies contribute to or participate in cooperative databases, which give other companies access to your PII.
 
@@ -56,7 +56,7 @@ In addition, if we go through a business transition, such as a merger, acquisiti
 
 As with many websites, when you visit the Site, it automatically gathers certain NPII based on your computer information and stores it in log files. This type of technical and statistical information is used to customize your experience at the Site, to help us improve the quality of the Site, to help diagnose problems with the Site server for Site administration purposes and to make your visits easy, convenient and fun.
 
-You can opt out of the use of your NPII from being used by Network Advertising Initiative (“NAI”) members. The NAI opt-out tool was developed in conjunction with NAI members for the express purpose of allowing consumers to "opt out" of the behavioral advertising delivered by NAI members. If you opt-out of the use of your NPII from being used by NAI members, you will continue to receive ads, however, it will prevent NAI members from delivering ads tailored to your preferences and usage patterns. If you opt out of Interest-Based Advertising (as defined [here](http://www.networkadvertising.org/understanding-online-advertising/what-is-it)) by one or more NAI member company, that choice will be stored in “opt-out cookies.”  If you ever delete opt-out cookies from your browser (such as by clearing all cookies), buy a new computer, or change web browsers, you'll need to renew your opt-out choices. NAI member companies need to be able to read an "opt-out" cookie on your browser to know not to collect and use data for interest-based advertising purposes. For more information or to opt-out click <http://www.networkadvertising.org/choices/>. 
+You can opt out of the use of your NPII from being used by Network Advertising Initiative (“NAI”) members. The NAI opt-out tool was developed in conjunction with NAI members for the express purpose of allowing consumers to "opt out" of the behavioral advertising delivered by NAI members. If you opt-out of the use of your NPII from being used by NAI members, you will continue to receive ads, however, it will prevent NAI members from delivering ads tailored to your preferences and usage patterns. If you opt out of Interest-Based Advertising (as defined [here](http://www.networkadvertising.org/understanding-online-advertising/what-is-it)) by one or more NAI member company, that choice will be stored in “opt-out cookies.” If you ever delete opt-out cookies from your browser (such as by clearing all cookies), buy a new computer, or change web browsers, you'll need to renew your opt-out choices. NAI member companies need to be able to read an "opt-out" cookie on your browser to know not to collect and use data for interest-based advertising purposes. For more information or to opt-out click <http://www.networkadvertising.org/choices/>.
 
 **Cookies**
 
@@ -90,10 +90,10 @@ The Site provides links to the websites of many third parties. If you click thro
 
 **Your California Privacy Rights**
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to [privacy@titaniumplay.com](mailto:privacy@titaniumplay.com). Please allow 30 days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to privacy@titaniumplay.com. Please allow 30 days for a response.
 
 **QUESTIONS AND CONCERNS**
 
-If you have any questions or concerns about this Policy or its implementation, please email us at [privacy@titaniumplay.com](mailto:privacy@titaniumplay.com). For general questions about Titaniumplay, please email us at [support@titaniumplay.com](mailto:support@titaniumplay.com). Alternatively, you may write to us at Titaniumplay, 3419 Via Lido #261, Newport Beach, CA 92663, Attn: Legal Department.
+If you have any questions or concerns about this Policy or its implementation, please email us at privacy@titaniumplay.com. For general questions about Titaniumplay, please email us at support@titaniumplay.com.
 
-Effective: February [insert day this becomes effective], 2015
+Updated: May 6, 2015
