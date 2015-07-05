@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ojashop.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506051939id_/http%3A//ojashop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojashop.com privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705124952id_/http%3A//ojashop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ojashop Nigeria
 
