@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketcalls.in privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504052133id_/http%3A//www.marketcalls.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketcalls.in privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705062453id_/http%3A//www.marketcalls.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
