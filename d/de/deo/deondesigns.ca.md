@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417235450id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705040109id_/https%3A//www.deondesigns.ca/privacy-policy) for the most accurate reproduction.*
 
-# Deon Designs Privacy Policy Statement
+# Privacy Policy - Deon Designs
 
 **_Deon Designs_** _has created this privacy statement in order to demonstrate our commitment to privacy for all our users._
 
@@ -10,7 +10,7 @@ We will do everything in our power to ensure your right to privacy. Protecting y
 
 **What Information We Collect**
 
-In the course of serving its customers, **Deon Designs** acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. The information we collect is personal information that identifies you personally in order to establish service, such as: 
+In the course of serving its customers, **Deon Designs** acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. The information we collect is personal information that identifies you personally in order to establish service, such as:
 
   * Your name
   * E-mail
@@ -20,7 +20,7 @@ In the course of serving its customers, **Deon Designs** acquires, stores and tr
 
 
 
-Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by **Deon Designs** in the normal course of providing service. 
+Other information – such as the customer’s account status, choice of services, and customer logs – is created and maintained by **Deon Designs** in the normal course of providing service.
 
   * We will never distribute, sell or transfer your personal information for any purpose to any outside source.
   * You may remove yourself from our database at any time.
@@ -49,6 +49,3 @@ After your User session, always remember to log out to ensure that others cannot
 Users may direct questions concerning this Privacy Policy and [contact us](https://www.deondesigns.ca/clients/whmcs/contact.php) any time.
 
 Last Updated: 01/01/2012
-
-  
-
