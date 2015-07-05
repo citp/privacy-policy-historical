@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eacdirectory.co.ke privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623122823id_/http%3A//www.eacdirectory.co.ke/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eacdirectory.co.ke privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705190534id_/http%3A//www.eacdirectory.co.ke/privacy.php) for the most accurate reproduction.*
 
 # EACdirectory | Privacy and Refund Policies
 
