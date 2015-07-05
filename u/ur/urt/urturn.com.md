@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urturn.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801214720id_/http%3A//www.urturn.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urturn.com privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705090218id_/http%3A//www.urturn.com/privacy_policy) for the most accurate reproduction.*
 
-# Urturn · Privacy Policy
+# Urturn · Staging · Privacy Policy
 
 Last Modified: 07.01.2013
 
