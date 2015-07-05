@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typetester.org privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506093715id_/http%3A//www.typetester.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typetester.org privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705183645id_/https%3A//www.typetester.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Typetester
 
@@ -10,7 +10,7 @@ If you register with us, communicate with customer support, send a message via t
 
 ## What else do we collect?
 
-We collect technical information about your system to improve the service and to also prevent illegal activities. These include IP address, OS and Browser version and the time of the visit. We collect font usage information and display it in a publicly available [inspiration gallery](https://web.archive.org/gallery/). Registered user’s designs are private and require opt-in from the user to make it publicly accessible.
+We collect technical information about your system to improve the service and to also prevent illegal activities. This includes IP addresses, OS and Browser versions and the times of visits. We collect font usage information and display it in a publicly available [inspiration gallery](https://web.archive.org/gallery/). Registered user’s designs are private and require opt-in from the user to make it publicly accessible.
 
 ## Use of cookies
 
