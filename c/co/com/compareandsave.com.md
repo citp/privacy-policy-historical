@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626124448id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706015826id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | compareandsave.com
 
@@ -8,7 +8,7 @@ By using compareandsave.com and our price comparison services you are hereby giv
 
 ##  1\. About compareandsave.com
 
-compareandsave.com is a trading name of Freedom Marketing Limited, registered in England (Registration number 05349340) at 5 Beacon End Courtyard, London Road, Stanway, Colchester, Essex, CO3 3NU. In this Privacy Policy any use of the words “we”, “us” and “our” means Freedom Marketing Limited. Freedom Marketing Limited complies with and is registered under the data protection laws in the UK.
+compareandsave.com is a trading name of Freedom Marketing Limited, registered in England (Registration number 05349340) at Colchester Centre, Hawkins Road, Colchester, Essex, CO2 8JX. In this Privacy Policy any use of the words “we”, “us” and “our” means Freedom Marketing Limited. Freedom Marketing Limited complies with and is registered under the data protection laws in the UK.
 
 As required by the Data Protection Act 1998 we follow strict security procedures in the storage and disclosure of your information. Further details can be found at [informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)
 
@@ -16,11 +16,10 @@ For the purposes of the act the data controller is:
 
 **Data Protection Officer  
 ** **Freedom Marketing Limited  
-** **5 Beacon End Courtyard  
-** **London Road  
-** **Stanway  
+** **Colchester Centre  
+** **Hawkins Road  
 ** **Colchester  
-** **CO3 3NU  
+** **CO2 8JX  
 **
 
 ##  2\. Information we collect
@@ -111,11 +110,10 @@ As a user of compareandsave.com you have the right to request any personal infor
 
 **Data Protection Officer  
 ** **Freedom Marketing Limited  
-** **5 Beacon End Courtyard  
-** **London Road  
-** **Stanway  
+** **Colchester Centre  
+** **Hawkins Road  
 ** **Colchester  
-** **CO3 3NU  
+** **CO2 8JX  
 **
 
 All you need to do is send two forms of ID that display your name, address and/or date of birth and a cheque for the statutory admin fee of £10.00 made payable to Freedom Marketing Limited. This charge falls under the DPA to cover admin costs.
