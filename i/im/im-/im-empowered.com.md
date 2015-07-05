@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the im-empowered.com privacy policy that was archived on 2014-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141211002747id_/http%3A//im-empowered.com/solo-ads/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the im-empowered.com privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705183853id_/http%3A//im-empowered.com/solo-ads/privacy-policy) for the most accurate reproduction.*
 
 # Top Quality Solo Ads For Sale, High Quality Responsive List - Leading Industry Top Tier Quality Clicks – The Best Solo Ads
 
