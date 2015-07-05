@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcompany.net privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418030747id_/http%3A//smartcompany.net/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcompany.net privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705225711id_/http%3A//www.smartcompany.net/privacy.jsp) for the most accurate reproduction.*
 
 # SmartCompany Privacy Statement
 
