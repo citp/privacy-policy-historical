@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zappka.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504084315id_/http%3A//www.zappka.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zappka.com privacy policy that was archived on 2015-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150705221950id_/http%3A//www.zappka.com/privacy) for the most accurate reproduction.*
 
 # Zappka – Discover Apps Socially
 
