@@ -1,27 +1,60 @@
-> *The following text is extracted and transformed from the edocr.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231210151id_/http%3A//www.edocr.com/edocr-ltd-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edocr.com privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706130558id_/http%3A//www.accusoft.com/company/privacy-statement) for the most accurate reproduction.*
 
-# edocr Ltd - Privacy Policy | edocr
+# Privacy Statement - Accusoft
 
-edocr Ltd - Privacy Policy
+##### _Last Updated 2/7/12_
 
-We, edocr Limited have set out below our Privacy Policy governing the use of personal information relating to users of our website, [www.edocr.com](http://www.edocr.com/ "www.edocr.com"), and the services it provides. By using such website and/or such services, all such users are deemed to have accepted and agreed to the terms and conditions below.
+At Accusoft, we are committed to protecting your privacy and to developing technology that gives you the most powerful and secure online experience. Occasionally, you will be asked to provide information about yourself. This privacy statement explains data collection and use in those situations.
 
-We may collect personally identifiable information that you submit in your profile or otherwise transmit when communicating with us. If you are a registered user, we may also collect personally identifiable information that you use to add others to your network. Other registered users will be able to (i) view who has posted, recommended or rated certain content or documents (ii) comment on or rate the documents and other content you have posted to our website and (iii) view information about the documents you have posted. We and other registered users may also amend the categories of the documents and other content you have posted to our website.
+### Collecting your Personal Information
 
-We may use your personally identifiable information to (i) register you to use our website and the services it provides (ii) deliver certain services (iii) provide notices regarding services you have purchased (iv) verify your authority to enter our website (v) improve the content and general administration of our website and associated services and (vi) produce targeted advertising.
+We will ask you when we need information that personally identifies you or allows us to contact you. Generally, this information is requested in voluntary questionnaires, when ordering e-mail newsletters, or most commonly, when purchasing and registering Accusoft products.
 
-Our website and the services it provides are not intended for persons under 18 years of age. We do not knowingly collect personally identifiable information from those under 18 years of age. 
+For example: If you choose to register and purchase a product on the website, we will request contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
 
-We may use ‘cookies’ stored on your hard drive containing information about you in order to optimise our website and the services it provides. 
+##### Use of your Personal Information
 
-We may track, record, analyse and use and disclose data relating to the use of our website including the total number of visitors to our website and its individual pages, browser type and IP addresses. Such information will not be used in a way that will result in personally identifiable information being disclosed.
+We use your personal information for the following purposes:
 
-We may provide the information and data referred to above to third parties we engage to assist us in providing the website and associated services to you, but such third parties shall only be permitted to use your personally identifiable information for the purposes of providing such services. We are permitted to disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or by order of a court or legal tribunal. We will not sell your personally identifiable information except in connection with a merger, reorganisaiton or other corporate restructuring involving us or a sale of all or part of our assets. 
+  * To alert you to product upgrades, bug fixes, special offers, updated information and other new services from Accusoft.
+  * For internal market research collection.
+  * Opt-in company newsletters.
+  * Accusoft will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Accusoft or the site; (b) protect and defend the rights or property of Accusoft, and, (c) act in urgent circumstances to protect the personal safety of users of Accusoft, its website, or the public.  
+Security of your Personal Information
 
-We are not responsible for the content or performance of third party websites, resources or services to which links may be provided on our website, including their use of personally identifiable information which will be subject to the terms of use and privacy policies of the relevant third party.
 
-We may endeavour to protect your personally identifiable information by encryption, password protection and other security measures. 
 
-We may update this Privacy Policy from time to time. The current version will be that posted on our website. You will be deemed to have accepted any changes if you continue to use our website and the services it provides after such changes have been made and posted as stated above.
+Accusoft strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
 
-Effective 1 October 2007
+Accusoft does not share with third parties any personal information you provide in connection with our products and services. Accusoft maintains controls to provide security over personal information, including credit card details, during and after the purchase process.
+
+Your personal information is never shared outside the company without your permission, except under the legally-mandated conditions explained above. Inside the company, data is stored in password-controlled servers with limited access.
+
+Security methods include:
+
+  * The use of secure connections from the customer’s Web browser to Accusoft.
+  * The use of encryption for sensitive personal information, such as credit card numbers and user names.
+  * Security of the databases that store customers’ credit card numbers.
+  * Security controls to restrict access to databases housing personally identifiable information.
+  * Accusoft sends you e-mails regarding products and services only if you have indicated you wish to receive e-mail from us.
+
+You may remove yourself from our e-mail list at any time. 
+
+  * Accusoft only sends e-mails to customers regarding Accusoft products and their promotions, Accusoft support, and Accusoft services if the customer wishes to receive these e-mails.
+  * The customer has the ability to opt-out of these communications during the registration process or anytime afterwards by replying with “unsubscribe” in the subject line.
+
+
+
+### Use of Cookies
+
+To ensure we are publishing content customers need and want, Accusoft Corporation collects aggregated site-visitation statistics using cookies. We do not track individuals’ use of the site.
+
+When someone visits the site, a cookie is placed on the customer’s machine (if the customer accepts cookies) or is read if the customer has visited the site previously.
+
+### Changes to this Statement
+
+Accusoft will occasionally update this privacy statement. When we do, we will also revise the “last updated” date at the top of the privacy statement. For material changes to this Statement, Accusoft will notify you by placing prominent notice on the Website.
+
+### Contact Information
+
+Accusoft welcomes your comments regarding this Privacy Statement. Please contact us by [e-mail](https://web.archive.org/company/contact).
