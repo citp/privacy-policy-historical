@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loglod.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701100342id_/https%3A//www.loglod.org/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loglod.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707005015id_/https%3A//www.loglod.org/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy page at loglod
 
