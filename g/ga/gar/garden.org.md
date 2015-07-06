@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217154914id_/http%3A//assoc.garden.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707004114id_/http%3A//assoc.garden.org/privacy) for the most accurate reproduction.*
 
 # National Gardening Association :: About NGA
 
