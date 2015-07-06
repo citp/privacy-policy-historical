@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addfreestats.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195155id_/http%3A//www.addfreestats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addfreestats.com privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706143849id_/http%3A//www.addfreestats.com/privacy.html) for the most accurate reproduction.*
 
 # AddFreeStats Privacy Policy
 
