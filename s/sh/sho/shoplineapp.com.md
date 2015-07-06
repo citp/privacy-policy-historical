@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoplineapp.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507092824id_/http%3A//shoplineapp.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoplineapp.com privacy policy that was archived on 2015-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150706065232id_/http%3A//shoplineapp.com/about/privacy) for the most accurate reproduction.*
 
 # Shopline
 
