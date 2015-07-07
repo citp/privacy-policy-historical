@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arenaswimwear.co.uk privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417143317id_/http%3A//www.arenaswimwear.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaswimwear.co.uk privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707035618id_/http%3A//www.arenaswimwear.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,4 +89,8 @@ STORE | The store view or language you have selected.
 USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
 VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
 WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+WISHLIST_CNT | The number of items in your Wishlist.  
+  
+## Google Remarketing
+
+DoubleClick: We use Google remarketing codes to log when users view specific pages or take specific actions on our website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the DoubleClick opt-out page or the Network Advertising Initiative opt-out page.
