@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the off2shop.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120150927id_/http%3A//www.off2shop.com/off2shop_cart/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the off2shop.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707041500id_/http%3A//www.off2shop.com/off2shop_cart/Privacy.aspx) for the most accurate reproduction.*
 
 # Off2Shop
 
