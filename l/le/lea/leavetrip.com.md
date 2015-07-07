@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leavetrip.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014135953id_/http%3A//www.leavetrip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leavetrip.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707093604id_/http%3A//www.leavetrip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « leavetrip.
 
@@ -17,14 +17,6 @@ As you explore our website, you will come across places in which we ask you to p
 
 ###  Hosts Exposed
 
-[ ](http://www.leavetrip.com/orlando/)
-
-####  [Orlando](http://www.leavetrip.com/orlando/)
-
-Sam and the crew enjoy Orlando and stop by a locals-only...
-
-... 
-
 ###  Video Spotlight
 
 ### Travel Channel's Top Features
@@ -35,33 +27,33 @@ Sam and the crew enjoy Orlando and stop by a locals-only...
 
 ###  Community
 
-[Exclusive Hotels](http://www.leavetrip.com/exclusive-hotels/)  
+[Monumental Mysteries: Greenbrier Ghost Pictures](http://www.leavetrip.com/monumental-mysteries-greenbrier-ghost-pictures-2/)  
 ---  
-[Ghost Adventures: Glen Tavern Inn Pictures](http://www.leavetrip.com/ghost-adventures-glen-tavern-inn-pictures/)  
-[Things to Do in Jamaica](http://www.leavetrip.com/things-to-do-in-jamaica/)  
-[SkyMall Products](http://www.leavetrip.com/skymall-products/)  
+[Ghost Adventures: King’s Tavern Pictures](http://www.leavetrip.com/ghost-adventures-kings-tavern-pictures/)  
+[Mystery Revealed: Space Mirror Memorial](http://www.leavetrip.com/mystery-revealed-space-mirror-memorial/)  
+[Monumental Mysteries: American Venus Pictures](http://www.leavetrip.com/monumental-mysteries-american-venus-pictures/)  
+[Baggage Battles: Man on Fire Pictures](http://www.leavetrip.com/baggage-battles-man-on-fire-pictures/)  
+[Monumental Mysteries: Greenbrier Ghost Pictures](http://www.leavetrip.com/monumental-mysteries-greenbrier-ghost-pictures/)  
+[Signs of the City: New York](http://www.leavetrip.com/signs-of-the-city-new-york/)  
 [Plane Sexy: Flying in the Jet Age](http://www.leavetrip.com/plane-sexy-flying-in-the-jet-age/)  
-[Niagara Falls Weekend Guide](http://www.leavetrip.com/niagara-falls-weekend-guide/)  
-[Food Paradise: Sausage](http://www.leavetrip.com/food-paradise-sausage/)  
-[2013 Photo Contest Winners](http://www.leavetrip.com/2013-photo-contest-winners/)  
-[Take a Stroll Through New Orleans](http://www.leavetrip.com/take-a-stroll-through-new-orleans/)  
-[World’s Wackiest Races](http://www.leavetrip.com/worlds-wackiest-races/)  
-[Editors’ Picks: Our Favorite Food Cities](http://www.leavetrip.com/editors-picks-our-favorite-food-cities/)  
-[Man v. Food Nation: Jackson Pictures](http://www.leavetrip.com/man-v-food-nation-jackson-pictures/)  
-[Experience Puerto Vallarta](http://www.leavetrip.com/experience-puerto-vallarta/)  
-[Monumental Mysteries: American Venus Pictures](http://www.leavetrip.com/monumental-mysteries-american-venus-pictures-2/)  
-[Bizarre Foods America: Pittsburgh:Catfish & Kishka](http://www.leavetrip.com/bizarre-foods-america-pittsburghcatfish-kishka/)  
-[Tour Transylvania’s Castles](http://www.leavetrip.com/tour-transylvanias-castles/)  
+[Best Southern US Islands](http://www.leavetrip.com/best-southern-us-islands/)  
+[Mexico Beach Weekend](http://www.leavetrip.com/mexico-beach-weekend/)  
+[Tour South Beach, Miami](http://www.leavetrip.com/tour-south-beach-miami/)  
+[Travel Bowl: Green Bay vs. Pittsburgh](http://www.leavetrip.com/travel-bowl-green-bay-vs-pittsburgh/)  
+[Dangerous Grounds: Ethiopia Pictures](http://www.leavetrip.com/dangerous-grounds-ethiopia-pictures/)  
 [Singapore](http://www.leavetrip.com/singapore/)  
-[Top 10 Treasure-Hunting Hot Spots](http://www.leavetrip.com/top-10-treasure-hunting-hot-spots/)  
-[Top Spot: Las Vegas Pictures](http://www.leavetrip.com/top-spot-las-vegas-pictures/)  
-[Halloween and Witches](http://www.leavetrip.com/halloween-and-witches/)  
-[North Carolina’s Best Festivals](http://www.leavetrip.com/north-carolinas-best-festivals/)  
-[Dangerous Grounds: Haiti Pictures](http://www.leavetrip.com/dangerous-grounds-haiti-pictures/)  
-[Best Mayan Riviera Beaches](http://www.leavetrip.com/best-mayan-riviera-beaches/)  
+[America Declassified Sneak Peek Pictures](http://www.leavetrip.com/america-declassified-sneak-peek-pictures/)  
+[Ghost Adventures: Glen Tavern Inn Pictures](http://www.leavetrip.com/ghost-adventures-glen-tavern-inn-pictures/)  
+[Luxury Bed and Breakfasts](http://www.leavetrip.com/luxury-bed-and-breakfasts/)  
+[Food Paradise: Sausage](http://www.leavetrip.com/food-paradise-sausage/)  
+[Best Destination Wedding Hotels](http://www.leavetrip.com/best-destination-wedding-hotels/)  
+[Complete Guide to US Amusement Parks](http://www.leavetrip.com/complete-guide-to-us-amusement-parks/)  
+[Travel’s Best](http://www.leavetrip.com/travels-best/)  
+[Travel Hosts Exposed, Week of Oct. 30, 2013](http://www.leavetrip.com/travel-hosts-exposed-week-of-oct-30-2013/)  
+[Airport 24/7: Miami: Sneak Peek Pictures](http://www.leavetrip.com/airport-247-miami-sneak-peek-pictures/)  
 [SkyMall Products](http://www.leavetrip.com/skymall-products/)  
-[Best American Beaches](http://www.leavetrip.com/best-american-beaches/)  
-[Sand Masters: Machine Gun Pictures](http://www.leavetrip.com/sand-masters-machine-gun-pictures/)  
+[The Temples of Cambodia](http://www.leavetrip.com/the-temples-of-cambodia/)  
+[Signs of the City: Nashville](http://www.leavetrip.com/signs-of-the-city-nashville/)  
   
 [ ](https://web.archive.org/pacific-coast-highway-road-trip)
 
