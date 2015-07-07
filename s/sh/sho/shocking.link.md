@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shocking.link privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601190304id_/http%3A//shocking.link/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shocking.link privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707205941id_/http%3A//shocking.link/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shocking Links
 
