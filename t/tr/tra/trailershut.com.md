@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trailershut.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223092417id_/http%3A//trailershut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trailershut.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707042700id_/http%3A//trailershut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trailers Hut
 
