@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moxielinks.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429040223id_/http%3A//moxielinks.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moxielinks.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707182221id_/http%3A//moxielinks.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Moxielinks - Privacy Policy
 
