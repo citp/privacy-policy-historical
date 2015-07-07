@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momversation.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527134215id_/http%3A//www.momversation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momversation.com privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707134433id_/http%3A//www.momversation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Momversation
 
