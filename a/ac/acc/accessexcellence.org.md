@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessexcellence.org privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614003725id_/http%3A//www.accessexcellence.org/MTC/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessexcellence.org privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707052217id_/http%3A//accessexcellence.org/MTC/privacy.php) for the most accurate reproduction.*
 
 # Search Access Excellence
 
