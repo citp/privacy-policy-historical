@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourarticlelibrary.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042919id_/http%3A//www.yourarticlelibrary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourarticlelibrary.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708011505id_/http%3A//www.yourarticlelibrary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YourArticleLibrary.com: The Next Generation Library
 
