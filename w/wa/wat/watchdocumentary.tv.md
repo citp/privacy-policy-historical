@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchdocumentary.tv privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507070458id_/http%3A//www.watchdocumentary.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdocumentary.tv privacy policy that was archived on 2015-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150707053655id_/http%3A//www.watchdocumentary.tv/privacy-policy) for the most accurate reproduction.*
 
 # Watch: Privacy Policy (Documentary)
 
@@ -20,3 +20,6 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Googleâ
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visitÂ <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 If you have any question regarding our privacy policy, kindly [contact us](http://watchdocumentary.tv/contact/).
+
+  
+
