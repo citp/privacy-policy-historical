@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youthparenting.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921181747id_/http%3A//youthparenting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthparenting.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708025834id_/http%3A//youthparenting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | YouthParenting
+# Privacy Policy — Youth Parenting
 
-Our team here at Fashion Fixation is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
+Our team here at youthparenting is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
 General  
 Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;
@@ -30,3 +30,6 @@ Federal law mandates that we cannot collect any personally identifiable informat
 Advertising
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, http://www.networkadvertising.org/managing/opt_out.asp
+
+  *   *   *   * 
+
