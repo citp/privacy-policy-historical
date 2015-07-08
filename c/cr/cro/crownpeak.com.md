@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownpeak.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526054949id_/http%3A//www.crownpeak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownpeak.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708233936id_/http%3A//www.crownpeak.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
