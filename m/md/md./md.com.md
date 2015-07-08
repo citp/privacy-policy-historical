@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the md.com privacy policy that was archived on 2014-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140822033235id_/https%3A//www.md.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the md.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708164552id_/http%3A//www.md.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: MD.com
+# Privacy Policy | MD.com
 
 This Privacy Policy describes how MD.com collects information from you, when you visit our website or use our mobile applications, respond to emails, sign up for notifications, or visit any page that displays our content or advertisements. 
 
@@ -8,20 +8,21 @@ Powered by Doctors, Inc. ("MD.com," "We," "Us" or "Our") is committed to respect
 
 As with any site that You visit on the Internet, when You visit MD.com, we have the ability to collect information about You. Please read this Privacy Policy to understand how we collect information and what we do with the information we collect. Your use of this Site will be deemed conclusively to constitute Your acceptance of and agreement to the terms contained in this Privacy Policy. 
 
-  * How MD.com Collects Information?
-  * Personal Information MD.com Collects?
-  * Why does MD.com ask for Your Personal Information?
-  * HIPAA
-  * Your Account Registration
-  * Collection of Cookies and Use of Web Beacons
-  * Our Use of Website Analytics
-  * It’s Your Choice to Provide Personal Information
-  * What other choices do you have?
-  * Information Provided on Behalf of Children
-  * Children’s Online Privacy Protection Act
-  * Keeping Information Confidential and Secure
-  * You May Change or Delete Your Information
-  * We Welcome Your Questions or Comments
+  * [How MD.com Collects Information?](https://www.md.com/privacy#how_md_collects_information)
+  * [Personal Information MD.com Collects?](https://www.md.com/privacy#personal_information_md_collects)
+  * [Why does MD.com ask for Your Personal Information?](https://www.md.com/privacy#why_does_md_ask_for_your_personal_information)
+  * [HIPAA](https://www.md.com/privacy#hipaa)
+  * [Your Account Registration](https://www.md.com/privacy#your_account_registration)
+  * [Collection of Cookies and Use of Web Beacons](https://www.md.com/privacy#collection_of_cookies_and_use_of_web_beacons)
+  * [Our Use of Website Analytics](https://www.md.com/privacy#our_use_of_website_analytics)
+  * [Google Analytics Cookies Usage & Remarketing](https://www.md.com/privacy#google_analytics_cookies_usage_remarketing)
+  * [It’s Your Choice to Provide Personal Information](https://www.md.com/privacy#its_your_choice_to_provide_personal_information)
+  * [What other choices do you have?](https://www.md.com/privacy#what_other_choices_do_you_have)
+  * [Information Provided on Behalf of Children](https://www.md.com/privacy#information_provided_on_behalf_of_children)
+  * [Children’s Online Privacy Protection Act](https://www.md.com/privacy#childrens_online_privacy_protection_act)
+  * [Keeping Information Confidential and Secure](https://www.md.com/privacy#keeping_information_confidential_and_secure)
+  * [You May Change or Delete Your Information](https://www.md.com/privacy#you_may_change_or_delete_your_information)
+  * [We Welcome Your Questions or Comments](https://www.md.com/privacy#we_welcome_your_questions_or_comments)
 
 
 
@@ -59,7 +60,21 @@ In limited circumstances we also may use tiny graphic image files imbedded in a 
 
 ## Our Use of Website Analytics
 
-We may use third party website analytics services in connection with the services provided on our Site. For example, we may record mouse clicks, mouse movements, scrolling activity, as well as any text that You type into the Site. These website analytics services do not collect Personal Information that You do not voluntarily enter into the Site. These services do not track Your browsing habits across websites which do not use their services. We use the information collected from these services to find usability problems to make the Services easier to use. The recordings will never identify You or Your account; they only record anonymous user information. 
+We may use third party website analytics services in connection with the services provided on our Site. For example, we may record mouse clicks, mouse movements, scrolling activity, as well as any text that You type into the Site. These website analytics services do not collect Personal Information that You do not voluntarily enter into the Site. We use the information collected from these services to find usability problems to make the Services easier to use. The recordings will never identify You or Your account; they only record anonymous user information. 
+
+## Google Analytics Cookies Usage & Remarketing
+
+We use Google Analytics first-party “cookies” and the DoubleClick third-party “cookie” for reporting and advertising. These first-party and third-party cookies are used together to help us better understand site user interests and online behavior in an aggregate and anonymous form. The Google Analytics first-party “cookies” are used to compile statistical information and reports on aggregate visitor activity on our website. 
+
+We use third-party cookies to enable Google Analytics demographics and interest reporting, which allows us to understand, in aggregate, the age, gender, and interests of our visitors. 
+
+In addition we may also use first-party and third-party Google Analytics and DoubleClick “cookies” for remarketing purposes. Remarketing allows our ads to be delivered to visitors on other third-party websites within Google's Display Network after they leave our website. 
+
+This system provides advertising that directly relates to offers that may be of interest to you based on your prior website visit(s). We gather this information from third parties through Google's Display Network. None of the data we collect from first and third party “cookies” can be linked to an individual person nor is this data able to personally identify any visitor to our website. 
+
+Additionally, Google will not associate your IP address with any other data held by Google. In summary, your anonymity is safe. If you wish to opt out of Google Analytics or Remarketing with Google Analytics, you can download the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/) and follow the instructions provided or you can change your [ad settings here](http://www.google.com/settings/ads) and opt out of DoubleClick Remarketing Pixels. 
+
+If you want to permanently opt out of the DoubleClick cookie, you can install the [DoubleClick opt out extension](https://www.google.com/settings/ads/plugin). You may also delete cookies from your internet browser by following your browser’s instructions. 
 
 ## It’s Your Choice to Provide Personal Information
 
@@ -95,4 +110,4 @@ When you delete your account, you understand that removed certain content may pe
 
 MD.com welcomes Your questions and comments about our Privacy Policy or the use of Your Personal Information. Please send any questions or comments to MD.com to [privacy@md.com](mailto:privacy@md.com). 
 
-Effective Date: February 6, 2013
+Effective Date: September 19, 2014
