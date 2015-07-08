@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterhighway.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420013044id_/http%3A//www.monsterhighway.com/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterhighway.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708044953id_/http%3A//www.monsterhighway.com/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Paradigm Domains' Monster Highway
 
