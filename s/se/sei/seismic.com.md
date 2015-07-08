@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seismic.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531131347id_/http%3A//www.seismic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seismic.com privacy policy that was archived on 2015-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150708162547id_/http%3A//www.seismic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Seismic Software
+# Privacy Policy | Seismic
 
 We at Seismic Software, Inc., D/B/A Seismic (“Seismic,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using www.Seismic.com (“Website”) and domain name, and any other linked pages, features, content, Seismic Mobile Application (“Mobile Application”), or the software (“Software”) or any other products or services we offer from time to time by in connection therewith (collectively, the “Seismic Services””), you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
