@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the kraken.com privacy policy that was archived on 2014-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141010195625id_/https%3A//www.kraken.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kraken.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709075140id_/https%3A//www.kraken.com/en-us/legal/privacy) for the most accurate reproduction.*
 
-# Kraken - Privacy Policy
+# Kraken | Buy, Sell, and Trade Bitcoins - Privacy Policy
 
 ##  Payward Privacy Policy 
 
 Last updated: **September 2nd, 2013**
 
-This Privacy Policy explains how Payward, Inc., and its wholly owned subsidiaries (collectively, " **Payward** ," " **we** " or " **us** "), collects, uses, discloses and protects your information. This policy applies to information we collect when you access or use Payward's websites and mobile applications (collectively, " **Payward Services** ") or otherwise interact with us as described below. Payward provides the Payward Services through local operating entities that are wholly owned subsidiaries of Payward, Inc. (each, a " **Payward Company** "). To determine which Payward Company collects your information and is responsible for processing your data, please refer to our list of affiliated companies: [/about/payward#entities](https://web.archive.org/about/payward#entities).
+This Privacy Policy explains how Payward, Inc., and its wholly owned subsidiaries (collectively, " **Payward** ," " **we** " or " **us** "), collects, uses, discloses and protects your information. This policy applies to information we collect when you access or use Payward's websites and mobile applications (collectively, " **Payward Services** ") or otherwise interact with us as described below. Payward provides the Payward Services through local operating entities that are wholly owned subsidiaries of Payward, Inc. (each, a " **Payward Company** "). To determine which Payward Company collects your information and is responsible for processing your data, please refer to our list of affiliated companies: [/about/payward](https://web.archive.org/about/payward).
 
 We may amend this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of this policy, and in some circumstances, we may provide you with additional notice, including, for example, by adding a statement to the homepage of the Payward Services or by sending you an email notification. We strongly encourage you to review the Privacy Policy whenever you access or use Payward Services to stay informed about our information practices and your privacy rights and choices.
 
@@ -80,7 +80,7 @@ We may disclose any information we collect about you, whether you are a current 
 
 (3) If we are under a duty to disclose or share your information to comply with our legal obligations.
 
-#### Other than in connection with a merger, sale of Payward's assets, financing or acquisition, we will not sell or rent any of your information to third parties for their own marketing purposes.
+**Other than in connection with a merger, sale of Payward's assets, financing or acquisition, we will not sell or rent any of your information to third parties for their own marketing purposes.**
 
 Please note that third parties that support our customer identification and anti-fraud controls may retain and use information about you to perform services on our behalf and to improve their services. By using our Services, you consent to the retention and use of such information by these providers to improve their services.
 
