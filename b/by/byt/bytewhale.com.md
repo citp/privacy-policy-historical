@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bytewhale.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608203606id_/http%3A//bytewhale.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytewhale.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709213333id_/http%3A//bytewhale.com/pp.html) for the most accurate reproduction.*
 
 # Byte Whale
 
