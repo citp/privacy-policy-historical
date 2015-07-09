@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattermark.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509215348id_/http%3A//mattermark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattermark.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710011106id_/http%3A//mattermark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mattermark
 
@@ -48,4 +48,4 @@ You may opt-out of receiving e-mail from Mattermark at any time by clicking the 
 
 ## CONTACT INFO & OPT OUT
 
-You may contact Mattermark at anytime to opt-out of using our service by email to support@mattermark.com, telephone call to 415-347-8666, or by U.S. postal service to 425 1st Street, Suite 6003, San Francisco, CA 94105.
+You may contact Mattermark at anytime to opt-out of using our service by email to support@mattermark.com, telephone call to [(415) 366-6587](tel:4153666587), or by U.S. postal service to 564 Pacific Ave. San Francisco, CA 94133
