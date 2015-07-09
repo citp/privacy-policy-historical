@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the togethernetworks.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424044632id_/http%3A//www.togethernetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togethernetworks.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709092233id_/http%3A//www.togethernetworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Together Networks - Build real success together with us!
+# Together Networks — Build real success together with us!Privacy Policy - Together Networks - Build real success together with us!
 
 This Privacy Policy was last modified and is effective as of 3 September 2014.
 
@@ -14,7 +14,7 @@ We are the data controller for the purposes of the Data Protection Act 1998 (the
 
 **Personal Information We May Collect**
 
-“ **Personal Information** ” is information that identifies you as an individual, such as:
+« **Personal Information** » is information that identifies you as an individual, such as:
 
   * Name
   * Postal address
@@ -101,8 +101,7 @@ We may provide information about you to other users of the Site as reasonably re
 
 We would like to send you information about services offered by us and select third parties that we think may be of interest to you. For that, the email address or mobile phone number you have provided will be used. You can ask us to not use your personal information, or to not pass your details on to third parties for marketing purposes, by e-mailing us at: [info@togethernetworks.com](mailto:info@togethernetworks.com).
 
-Additionally, if you would rather not receive telephone calls or text messages from us, you may ask to be removed from our contact list by e-mailing us:  
-[info@togethernetworks.com](mailto:info@togethernetworks.com).
+Additionally, if you would rather not receive telephone calls or text messages from us, you may ask to be removed from our contact list by e-mailing us: [info@togethernetworks.com](mailto:info@togethernetworks.com).
 
 **WHERE WE STORE, TRANSFER AND PROCESS YOUR PERSONAL DATA**
 
@@ -142,7 +141,7 @@ You have the right to choose whether or not to accept cookies and we explain how
 
 
 
-You can also block cookies by changing your browser settings so that cookies from this Site cannot be placed on your computer or mobile device. In order to do this, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” facility). Disabling a cookie or category of cookie does not delete the cookie from your browser; you will need to do this yourself from within your browser.
+You can also block cookies by changing your browser settings so that cookies from this Site cannot be placed on your computer or mobile device. In order to do this, follow the instructions provided by your browser (usually located within the «Help», «Tools» or «Edit» facility). Disabling a cookie or category of cookie does not delete the cookie from your browser; you will need to do this yourself from within your browser.
 
 For further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit http://www.aboutcookies.org or http://www.youronlinechoices.com.
 
@@ -158,7 +157,7 @@ Site Performance | We need to use certain cookies and local storage devices to h
   
 **YOUR CALIFORNA PRIVACY RIGHTS (CALIFORNIA RESIDENTS ONLY)**
 
-California residents who provide personal information in obtaining products or services for personal, family, or household use may request information about our disclosures of certain categories of Personal Information to third parties (i.e., our affiliates) for such third parties’ direct marketing purposes.  Such requests must be submitted to us by email at [info@togethernetworks.com](mailto:info@togethernetworks.com). We will provide a list of the categories of Personal Information disclosed to third parties (i.e., our affiliates) for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.  This request may be made no more than once per calendar year.  In your request, please specify that you want a “Your California Privacy Rights Notice.” Please allow 30 days for a response. We reserve our right not to respond to requests submitted other than to the email specified in this section.
+California residents who provide personal information in obtaining products or services for personal, family, or household use may request information about our disclosures of certain categories of Personal Information to third parties (i.e., our affiliates) for such third parties’ direct marketing purposes.  Such requests must be submitted to us by email at [info@togethernetworks.com](mailto:info@togethernetworks.com). We will provide a list of the categories of Personal Information disclosed to third parties (i.e., our affiliates) for their direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.  This request may be made no more than once per calendar year.  In your request, please specify that you want a «Your California Privacy Rights Notice.» Please allow 30 days for a response. We reserve our right not to respond to requests submitted other than to the email specified in this section.
 
 **OUR RIGHTS TO AMEND THIS POLICY**
 
