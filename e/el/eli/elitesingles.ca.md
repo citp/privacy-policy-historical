@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitesingles.ca privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506093255id_/http%3A//www.elitesingles.ca/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesingles.ca privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709083827id_/http%3A//www.elitesingles.ca/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EliteSingles
 
@@ -52,7 +52,7 @@ Kohlfurter Street 41/43
 
 Fax: +49 (0)1805 - 777 449
 
-email: info@elitesingles.ca
+email: [Security](mailto:security@elitesingles.ca)
 
 **2\. Personal information security and protection**
 
@@ -270,7 +270,7 @@ Kohlfurter Street 41/43
 
 10999 Berlin
 
-E-Mail: info@elitesingles.ca
+E-Mail: [Support](mailto:security@elitesingles.ca)
 
 Fax: 01805 – 777 449
 
@@ -292,7 +292,7 @@ Kohlfurter Street 41/43
 
 10999 Berlin
 
-email: info@elitesingles.ca
+email: [Support](mailto:security@elitesingles.ca)
 
 Fax: +49 (0)1805 - 777 449
 
