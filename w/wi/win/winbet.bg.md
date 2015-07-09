@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winbet.bg privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019071036id_/http%3A//winbet.bg/help.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winbet.bg privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709050035id_/http%3A//winbet.bg/help.php%3Fmenu%3Dprivacy) for the most accurate reproduction.*
 
 # WinBet Help
 
