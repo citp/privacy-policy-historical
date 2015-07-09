@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workthesystemacademy.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206005417id_/http%3A//www.workthesystemacademy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workthesystemacademy.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709163501id_/http%3A//www.workthesystemacademy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Work The System Academy
 
