@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pumpkart.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524212955id_/http%3A//www.pumpkart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pumpkart.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709211037id_/http%3A//www.pumpkart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Privacy Policy of Pumpkart.com
 
