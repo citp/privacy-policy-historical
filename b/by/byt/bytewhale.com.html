@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bytewhale.com privacy policy that was archived on 2015-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150608203606id_/http%3A//bytewhale.com/pp.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bytewhale.com privacy policy that was archived on 2015-07-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150709213333id_/http%3A//bytewhale.com/pp.html) for the most accurate reproduction.-->
 
 <html><head>
     <meta charset="UTF-8">
@@ -7,17 +7,20 @@
     <!--<meta http-equiv="pragma" content="no-cache" />-->
     <meta name="description" content="Byte Whale - Free file upload service">
     <meta name="keywords" content="file upload,share files,free upload">
+    <meta name="robots" content="noindex,nofollow,nocache,noarchive">
     <title>Byte Whale</title>
     <link rel="icon" href="images/favicon.png" type="image/x-icon">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> 
     <link rel="stylesheet" type="text/css" href="http://bytewhale.com/css/style.css">
+    <link rel="stylesheet" type="text/css" href="http://bytewhale.com/css/login.css">
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/7043174/713608/css/fonts.css">
     <script language="JavaScript" type="text/javascript" charset="UTF-8" src="http://bytewhale.com/js/jquery-1.9.1.min.js"></script>
 	<!--<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>-->
-	 
     <script type="text/javascript" src="http://bytewhale.com/js/jquery.paging.js"></script> 
     <script type="text/javascript" src="http://bytewhale.com/js/jquery.cookie.js"></script> 
     <script type="text/javascript" src="http://bytewhale.com/js/paging.js"></script> 
+    <script type="text/javascript" src="http://bytewhale.com/js/login.js"></script> 
     <script type="text/javascript" src="http://bytewhale.com/js/jquery-ui.min.js"></script>
 	<!-- POPUPS-->
 	<script type="text/javascript" src="http://bytewhale.com/jquery.easyModal.js"></script>
@@ -32,6 +35,7 @@
            });
        });
 </script> 
+
    <script type="text/javascript">
       (function($) {
    $(function() {
@@ -57,7 +61,8 @@
 
    })
    })(jQuery)
-    </script>      
+    </script>
+<meta name="verify-paysera" content="e1aec60ed4ebeb9b0d9fac9449f52abb">
 </head>
 <body>
 <div class="wrapper">
@@ -69,9 +74,38 @@
             <ul>	
                
                
-               <li><a class="open_dialog" data-type="login_pop" href="javascript:void(0)"><img src="http://bytewhale.com/images/login_1.png"> Login</a></li>
-               <li><a class="open_dialog" data-type="registration_pop" href="javascript:void(0)"><img src="http://bytewhale.com/images/signup_1.png"> Sign Up</a></li>
-               <li><a class="open_dialog" data-type="forgot_password_pop" href="javascript:void(0)"><img src="http://bytewhale.com/images/forgot_1.png"> Forgot your password?</a></li>
+		 <li><a href="http://bytewhale.com/?op=payments" style="padding:0px 10px;background:#EF5350;border-radius:3px;margin-top:17px;">Upgrade to premium</a></li>
+               
+		 <li><a href="http://bytewhale.com/login.html">Login</a>
+
+         <!--div id="loginContainer">
+                <a href="#" id="loginButton" style="margin-top:17px;"><span>Login</span></a>
+                <div style="clear:both"></div>
+                <div id="loginBox">                
+                    <form method="POST" action="http://bytewhale.com/" name="FL" id="loginForm">
+		      <input type="hidden" name="op" value="login">
+		      <input type="hidden" name="redirect" value="">
+                        <fieldset id="body">
+                            <fieldset>
+                                <label for="email">Email Address</label>
+                                <input type="text" name="login" value="" placeholder="Username">
+                            </fieldset>
+                            <fieldset>
+                                <label for="password">Password</label>
+                                <input type="password" name="password" placeholder="Password">
+                            </fieldset>
+                            <input type="submit" id="login" name="submit" value="Submit">
+                        </fieldset>
+                        <span><a href="#">Forgot your password?</a></span>
+                    </form>
+                </div>
+             </div-->
+	
+		</li>
+
+		 <li><a href="http://bytewhale.com/?op=registration">Sign Up</a></li>
+               <!--li><a class="open_dialog" data-type="registration_pop" href="javascript:void(0)">Sign Up</a></li-->
+               <!--li><a href="http://bytewhale.com/?op=forgot_pass">Forgot your password?</a></li-->
                
                
             </ul>
@@ -183,28 +217,16 @@
       </div>
       <div id="fmenu">
             <ul>
-               <li><a href="http://bytewhale.com">Home</a></li>
+               <li><a href="http://bytewhale.com/about.html">About</a></li>
                <li><a href="http://bytewhale.com/tos.html">Terms of service</a></li>
                <li><a href="http://bytewhale.com/dmca.html">dmca</a></li>
                <li><a href="http://bytewhale.com/pp.html">privacy Policy</a></li>
-               <li><a class="open_dialog ttopp" data-type="contact_us_pop" href="http://bytewhale.com/contact.html">Contact Us</a></li>
+               <li><a href="http://bytewhale.com/contact.html">Contact Us</a></li>
                
             </ul>
       </div>   
    </div>
 </footer>
-<div id="login_content">
 
-</div>
-<div style="display:none"> 
-   <form name="FL_LOGIN" id="FL_LOGIN" method="post" action="/">
-                    <input type="hidden" name="op" value="login">
-					<input type="text" name="login" id="login_main"> 					 
-					<input type="password" name="password" id="password_main">				 
-					<input type="submit" name="submit" value="Submit">
-   </form>
-		 
-	 
- </div>
 
 </body></html>
