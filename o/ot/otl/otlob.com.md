@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otlob.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629120145id_/http%3A//www.otlob.com/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otlob.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709190521id_/http%3A//www.otlob.com/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
