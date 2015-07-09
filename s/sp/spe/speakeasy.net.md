@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the speakeasy.net privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222114828id_/http%3A//www.megapath.com/megapath/assets/File/PDF/Legal/privacy_policy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakeasy.net privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709221850id_/http%3A//www.megapath.com/megapath/assets/File/PDF/Legal/privacy_policy_statement.pdf) for the most accurate reproduction.*
 
-# MegaPath Corporation Privacy Policy Statement
+# 
 
-                                            MegaPath Corporation Privacy Policy Statement
-This is the website of MegaPath Corporation
+                                 MegaPath Cloud Company, LLC Privacy Policy Statement
+This is the website of MegaPath Cloud Company, LLC
 Contact us
 By mail
-555 Anton Blvd, Suite 200
-Costa Mesa, California 92626
+6800 Koll Center Parkway, Suite 200
+Pleasanton, California 94566
 By e-mail
 privacyofficer@megapath.com
 By telephone
 1-877-MEGAPATH
 By facsimile
-1-714-327-2001
-Your privacy is very important to us. This privacy policy discloses how MegaPath Corporation
-(“MegaPath”) collects, protects, uses and shares personal information gathered about you. All
-Personal Information is collected in a fair and non-intrusive manner, with your voluntary consent.
-Personal Information is not accessible to anyone outside the specific function for which it is
-collected. MegaPath respects the privacy of our customers, our employees and other visitors to
-our websites who may choose to provide personal information. We recognize the need for
-appropriate protections and management of personal information that you provide to us. This
-Privacy Policy will help you to understand what types of information we may collect, how that
+1-925-201-2550
+Your privacy is very important to us. This privacy policy discloses how MegaPath Cloud
+Company, LLC (“MegaPath”) collects, protects, uses and shares personal information gathered
+about you. All Personal Information is collected in a fair and non-intrusive manner, with your
+voluntary consent. Personal Information is not accessible to anyone outside the specific function
+for which it is collected. MegaPath respects the privacy of our customers, our employees and
+other visitors to our websites who may choose to provide personal information. We recognize the
+need for appropriate protections and management of personal information that you provide to us.
+This Privacy Policy will help you to understand what types of information we may collect, how that
 information may be used, and with whom the information may be shared.
 This Privacy Policy explains MegaPath’s practices regarding the information collected online from
 users of the MegaPath website located at www.megapath.com.
@@ -43,10 +43,10 @@ applicants and employees. MegaPath takes measures to maintain the confidentialit
 information from unlawful disclosure, and to limit access to the information. MegaPath will not
 make your SSN/I.N or date of birth available to the general public, print it on any card, require you
 to provide your it to access any products or services, transmit this information over the Internet
-Version 010212                                                                             Page 1 of 5
+Version 04-23-15                                                                           Page 1 of 5
 
 
-                                           MegaPath Corporation Privacy Policy Statement
+                                MegaPath Cloud Company, LLC Privacy Policy Statement
 unless the connection is secure or your the information has been encrypted, or require the
 transmittal of this information to access our Website. MegaPath is PCI-DSS compliant and will
 use PCI standards in protecting the information described in this paragraph.
@@ -95,10 +95,10 @@ job applications and hiring programs, compensation and benefit programs, perform
 appraisals, training, access to MegaPath facilities and computer networks, employee profiles,
 internal intranet employee directories, Human Resource recordkeeping and other employment
 related purposes.
-Version 010212                                                                           Page 2 of 5
+Version 04-23-15                                                                         Page 2 of 5
 
 
-                                          MegaPath Corporation Privacy Policy Statement
+                               MegaPath Cloud Company, LLC Privacy Policy Statement
 It is the policy of MegaPath to keep all past and present employee information private from
 disclosure to third parties. There are certain business related exceptions and they are:
      1. To comply with county, state or federal agency requests;
@@ -144,10 +144,10 @@ telephone or other means, to provide you with information that you requested abo
 products or services, provide additional future information about products or services that may be
 of interest to you, and to learn about and develop products and services. If you do not want this
 information disclosed you may “opt out” of future contacts at any time by un-subscribing from our
-Version 010212                                                                           Page 3 of 5
+Version 04-23-15                                                                         Page 3 of 5
 
 
-                                             MegaPath Corporation Privacy Policy Statement
+                                MegaPath Cloud Company, LLC Privacy Policy Statement
 database or contacting the Privacy Officer, in writing, as described below in the section titled
 “Contact Information”.
 Customers may prevent their information from being used for purposes other than those for which
@@ -192,10 +192,10 @@ helps maintain the confidentiality, privacy, and integrity of your transactions,
 your confidential information – such as credit card numbers, online forms and financial data, from
 loss, misuse, interception and hacking.
 Storage, Retention and Accuracy of Personal Information
-Version 010212                                                                            Page 4 of 5
+Version 04-23-15                                                                          Page 4 of 5
 
 
-                                            MegaPath Corporation Privacy Policy Statement
+                                 MegaPath Cloud Company, LLC Privacy Policy Statement
 MegaPath insures that Personal Information is safeguarded against loss, access, use,
 modification, disclosure or other misuse. All reasonable steps are taken to prevent unauthorized
 use or disclosure of your Personal Information.
@@ -209,10 +209,10 @@ You may contact the Privacy Officer to access, correct or delete your Personal I
 necessary, the Privacy Officer will contact another individual to assist in completing your
 requested task.
 If you have any questions or complaints, please contact the Privacy Officer. The Privacy Officer
-can     be     reached        by     telephone      at:    1-877-MEGAPATH;       by     email     at:
-privacyofficer@megapath.com; or by mail at MegaPath Corporation, 555 Anton Boulevard,
-Suite 200, Costa Mesa, CA, 92626, USA. We will address your concern and attempt to resolve
-any problem.
+can     be     reached        by     telephone      at:    1-877-MEGAPATH;        by    email     at:
+privacyofficer@megapath.com; or by mail at MegaPath Cloud Company, LLC, 6800 Koll
+Center Parkway, Suite 200, Pleasanton, CA, 94566, USA. We will address your concern and
+attempt to resolve any problem.
 Links to Non-MegaPath Web Sites and Third Parties
 Please note that www.megapath.com websites may contain links to other websites for your
 convenience and information. MegaPath does not control those sites or their privacy practices,
@@ -236,5 +236,5 @@ immediately after being posted by MegaPath.
 If you feel that this site is not following its stated information policy, you may contact us at the
 above addresses or phone number, or The DMA's Committee on Ethical Business Practices at
 mgoldberger@the-dma.org.
-Last Updated: 01/02/2012
-Version 010212                                                                            Page 5 of 5
+Last Updated: 04/23/2015
+Version 04-23-15                                                                          Page 5 of 5
