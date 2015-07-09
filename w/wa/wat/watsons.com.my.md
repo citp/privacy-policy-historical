@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watsons.com.my privacy policy that was archived on 2014-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141115002640id_/http%3A//www.watsons.com.my/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watsons.com.my privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709125610id_/http%3A//www.watsons.com.my/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Watsons Malaysia
 
@@ -10,7 +10,7 @@ We are committed to safeguarding your privacy and ensuring that your personal da
 
  2\. Privacy Policy
 
-This privacy policy applies to [insert URL of website] (“the Site”) and to personal data collected about you by Watsons (“we”, “us” or “our”). Watsons is a member of the A. S. Watson group of companies (“ASW Group”). By using the Site, you are agreeing to the terms of this privacy policy. If you do not agree with any term of this policy, please do not use the Site.
+This privacy policy applies to www.watsons.com.my (“the Site”) and to personal data collected about you by Watsons (“we”, “us” or “our”). Watsons is a member of the A. S. Watson group of companies (“ASW Group”). By using the Site, you are agreeing to the terms of this privacy policy. If you do not agree with any term of this policy, please do not use the Site.
 
 Please note that this Privacy Policy may be amended from time to time by posting the updated version here on the Site. You are advised to check it on a regular basis.
 
