@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thelasthunt.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407073051id_/http%3A//www.thelasthunt.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelasthunt.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709201814id_/http%3A//www.thelasthunt.com/pages/privacy2) for the most accurate reproduction.*
 
-# The Last Hunt - Privacy
+# Privacy - The Last Hunt
 
-**last update: 2010-07-01**
-
-The following policy is enacted to show The Last Hunt's commitment to your privacy. If you should have any questions or concerns about this policy, please get in touch with us at [info@thelasthunt.com](mailto:info@thelasthunt.com).
+The following policy is enacted to show The Last Hunt's commitment to your privacy. If you should have any questions or concerns about this policy, please get in touch with us at [info@thelasthunt.com](mailto:info@thelasthunt.com).
 
 **What information does The Last Hunt collect?:**
 
@@ -12,28 +10,32 @@ At The Last Hunt, we collect two types of information: personal information and 
 
 **Personal information:**
 
-•Personal information is information that can identify an individual or information about an identifiable individual. We may collect personal information such as:   
-•your contact information – e.g., name, postal address, telephone number, and email address;   
-•your personal preferences – e.g., product wish lists, language preferences, and marketing consent; and   
-•your transaction information – e.g., products purchased, method of payment, amount paid, and credit or debit card number.   
-Non-personal information   
-•Non-personal information does not identify you as an individual. For example:   
-•we may collect certain non-personal data when you visit our Web Sites, such as the type of browser you are using or the referring URL; or   
-•we may collect and summarize customer information in a non-personal, aggregate format for statistical and research purposes.
+  * Personal information is information that can identify an individual or information about an identifiable individual. We may collect personal information such as: 
+  * your contact information – e.g., name, postal address, telephone number, and email address; 
+  * your personal preferences – e.g., product wish lists, language preferences, and marketing consent; and 
+  * your transaction information – e.g., products purchased, method of payment, amount paid, and credit or debit card number. 
+  * Non-personal information 
+  * Non-personal information does not identify you as an individual. For example: 
+  * we may collect certain non-personal data when you visit our Web Sites, such as the type of browser you are using or the referring URL; or 
+  * we may collect and summarize customer information in a non-personal, aggregate format for statistical and research purposes.
+
+
 
 **How is Your Personal Information Used?:**
 
-The Last Hunt may use your personal information for a number of different business purposes, for example to: 
+The Last Hunt may use your personal information for a number of different business purposes, for example to:
 
-•fulfill your specific requests for products, services or information;   
-•provide customer support to assist you with your questions or complaints;   
-•conduct surveys in order to improve our services;   
-•measure and improve the effectiveness of our Web Sites or our marketing endeavours;   
-•detect and protect against fraud and error;   
-•track and analyze your purchases and preferences to better understand your product and service needs and eligibility;   
-•tailor our online content or in-store offerings based on your preferences;   
-•if you ask us, to offer and promote additional products and services we offer; and   
-•for other purposes as described in this Privacy Policy. 
+  * fulfill your specific requests for products, services or information; 
+  * provide customer support to assist you with your questions or complaints; 
+  * conduct surveys in order to improve our services; 
+  * measure and improve the effectiveness of our Web Sites or our marketing endeavours; 
+  * detect and protect against fraud and error; 
+  * track and analyze your purchases and preferences to better understand your product and service needs and eligibility; 
+  * tailor our online content or in-store offerings based on your preferences; 
+  * if you ask us, to offer and promote additional products and services we offer; and 
+  * for other purposes as described in this Privacy Policy.
+
+
 
 **Your Consent:**
 
@@ -41,14 +43,15 @@ The Last Hunt will collect, use, or disclose your personal information only with
 
 **Express Consent:**
 
-•Sometimes you will be asked to give your express consent, such as by checking a box to indicate your consent to receive marketing communications, or by providing your signature to indicate your acceptance of the use and disclosure terms presented on an application form.   
-Implied Consent   
-•Other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you.   
-Withdrawing Your Consent   
-•You may notify us at any time that you wish to withdraw or change your consent to our use and disclosure or your information. We will accommodate your request subject to legal and contractual restrictions related to your transactions.   
-•If you have "opted in" or subscribed to one of our newsletters or mailing lists, we will always provide you the opportunity to "opt out" or unsubscribe. For example, each e-newsletter we send to you will include a link or other method to unsubscribe or decline further e-newsletters. 
+  * Sometimes you will be asked to give your express consent, such as by checking a box to indicate your consent to receive marketing communications, or by providing your signature to indicate your acceptance of the use and disclosure terms presented on an application form. 
+  * Implied Consent 
+  * Other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you. 
+  * Withdrawing Your Consent 
+  * You may notify us at any time that you wish to withdraw or change your consent to our use and disclosure or your information. We will accommodate your request subject to legal and contractual restrictions related to your transactions. 
+  * If you have "opted in" or subscribed to one of our newsletters or mailing lists, we will always provide you the opportunity to "opt out" or unsubscribe. For example, each e-newsletter we send to you will include a link or other method to unsubscribe or decline further e-newsletters.
 
-  
+
+
 **Aggregate Site Use Information:**
 
 We record information about the pages viewed by all of our website visitors. This data includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, connection speed, read time, display time, and number of clicks. We use this data, in aggregate form, to compile statistics and reports for The Last Hunt's use, and improve the online experience for all visitors. We may, on occasion, provide portions of this aggregate information to vendors, consultants, potential advertisers, or news agencies. Typical uses of the data in this fashion would be to gauge the amount of interest in our site and/or to plan for site infrastructure improvements.
@@ -57,8 +60,7 @@ We record information about the pages viewed by all of our website visitors. Thi
 
 A cookie is a small text file stored on a user's hard drive. Depending on how you have configured your browser, when you visit our site we use cookies. Cookies are not required to shop on our site. We use cookies to assist with anonymous site traffic analysis, which includes tracking the time/date of visits, pages viewed, and referring URLs.
 
-There are simple ways to either refuse all cookies, or accept them each time they are offered. Consult your browser's help files for assistance on changing cookie settings or removing cookie files.  
-Online Order Information and Security
+There are simple ways to either refuse all cookies, or accept them each time they are offered. Consult your browser's help files for assistance on changing cookie settings or removing cookie files.Online Order Information and Security
 
 If you place an order online, we only request the information needed to complete the processing of your orders and billing. We also share our users' personal information with outside shipping companies and credit card processing companies in order to bill and ship your order, but we do not provide any more information than necessary for these purposes. We may also use the information to contact you regarding your order.
 
@@ -68,17 +70,17 @@ We use appropriate security safeguards to protect your personal information agai
 
 **Warning:**
 
-e-mail is not a secure means to send personal information, as it is not encrypted. We strongly encourage you to use our secure ordering process when ordering online. For general correspondence we also have our secure Contact Us page at [info@thelasthunt.com](mailto:info@thelasthunt.com).
+e-mail is not a secure means to send personal information, as it is not encrypted. We strongly encourage you to use our secure ordering process when ordering online. For general correspondence we also have our secure Contact Us page at [info@thelasthunt.com](mailto:info@thelasthunt.com).
 
 **Opting Out:**
 
-If you wish to have any of your personal information removed from our databases, or if you no longer want us to send any further communications to you, please send an e-mail to customer service at [info@thelasthunt.com](mailto:info@thelasthunt.com).
+If you wish to have any of your personal information removed from our databases, or if you no longer want us to send any further communications to you, please send an e-mail to customer service at [info@thelasthunt.com](mailto:info@thelasthunt.com).
 
 **Newsletter Subscription:**
 
-Newsletters are sent only to users who choose to provide us with their email address. Our newsletter subscriber database is never sold, rented or loaned to any other parties. Subscribers wishing to update their contact information, or opt out of receiving newsletters, can contact our customer service at [info@thelasthunt.com](mailto:info@thelasthunt.com).
+Newsletters are sent only to users who choose to provide us with their email address. Our newsletter subscriber database is never sold, rented or loaned to any other parties. Subscribers wishing to update their contact information, or opt out of receiving newsletters, can contact our customer service at [info@thelasthunt.com](mailto:info@thelasthunt.com).
 
-We collect aggregate information regarding open rates, page views, and generated sales from our HTML email newsletters. Aggregate information does not personally identify individuals. Subscribers concerned about collection of aggregate information may contact our customer service at [info@thelasthunt.com](mailto:info@thelasthunt.com) .
+We collect aggregate information regarding open rates, page views, and generated sales from our HTML email newsletters. Aggregate information does not personally identify individuals. Subscribers concerned about collection of aggregate information may contact our customer service at [info@thelasthunt.com](mailto:info@thelasthunt.com) .
 
 **Fraud Prevention:**
 
@@ -98,5 +100,4 @@ At your request, we will provide to you a statement explaining the extent to whi
 
 **Changes to this Privacy Policy:**
 
-The Last Hunt may update this privacy policy in the future. We will notify you about material changes to this privacy policy by placing a prominent notice on our website. As well, a history of those changes will be noted here, beginning with changes published after July 1st, 2010. All changes will remain in compliance with federal and provincial privacy legislation.  
-
+The Last Hunt may update this privacy policy in the future. We will notify you about material changes to this privacy policy by placing a prominent notice on our website. As well, a history of those changes will be noted here, beginning with changes published after July 1st, 2010. All changes will remain in compliance with federal and provincial privacy legislation.
