@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the askiyogi.com privacy policy that was archived on 2015-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150429121851id_/http%3A//www.askiyogi.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askiyogi.com privacy policy that was archived on 2015-07-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150710121505id_/http%3A//www.askiyogi.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><!--<![endif]--><head>
 <style>
@@ -183,10 +183,77 @@ jQuery('input.country').typeahead({
 /* Auto Chat code Time : 5 Second */
 </script>
 <!-- End in Head tag -->
+<script type="text/javascript" src="http://news.techgenie.com.staging.365plan.com/wp-content/themes/techgenie/js/lightboxscript.js"></script>
+
 <script src="http://www.iyogi.com/etc/designs/iyogimainsite/clientlibs/js/chat-common.js"></script>
+<script language="JavaScript">
+function createCookie(name,value,days) {
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime()+(days*24*60*60));
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name) {
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name) {
+	createCookie(name,"",-1);
+}
+
+var visit=readCookie("pkcookie");
+if (visit==null){
+jQuery(document).ready(function(){  
+		jQuery.ajaxSetup({ cache: false });
+		jQuery.get("http://www.askiyogi.com/wp-content/themes/ask_ver2/getcountry.php",function(data,status){
+		var text = data;
+		if(text=="US")
+			{
+				document.getElementById("pk_pop_up").style.display='';
+				createCookie('pkcookie','1','1');
+			}
+		else
+			{
+				
+				document.getElementById("pk_pop_up").style.display='none';
+			}	
+		});
+	});
+
+}
+
+
+</script>
+<style>
+/* For Popup */ 
+.lightboxpanel{background:url(http://www.askiyogi.com/wp-content/themes/ask_ver2/images/transparent_blackbg1.png); display:block; position:absolute; position:fixed; width:100%; height:100%; margin:0px; display:none; z-index:9999; }
+.popimg{margin:0 auto; width:681px; height:429px; position:relative;}
+.lightboxcosed{ position:absolute; right:-7px; top:-8px;}
+.lightboxcosed img{ cursor:pointer;}
+.popimg .poppic{/*-moz-box-shadow: 0px 0px 30px #000; -webkit-box-shadow: 0px 0px 30px #000; box-shadow: 0px 0px 30px #000; border:solid 5px #fff*/}	
+</style>
 </head>
 
 <body class="page page-id-41222 page-template-default singular two-column right-sidebar">
+<span id="pk_pop_up" style="display:none;">
+<div class="lightboxpanel">
+<div class="popimg">
+<div class="lightboxcosed"><img src="http://www.askiyogi.com/wp-content/themes/ask_ver2/images/light_box_clsoe.gif" alt="closed" border="0"></div>
+ <a href="http://www.iyogi.net/jumpstart-plan/seo-affiliate-amazon-offer.html" target="_blank" onclick="_gaq.push(['_trackEvent', 'jumpStart-SEO-pop-up', 'jumpStart-SEO-pop-up', http://www.askiyogi.com]);"><img class="poppic" src="http://www.techgenie.com/content/dam/techgenie/imagebank/general/new-banners/pop-up-banner3.jpg" alt="" border="0"></a>
+</div>
+</div>
+</span>
 <!-- CHAT START --> 
 <div class="chat-section" id="chat_box_iframe"></div>
 <!-- CHAT END --> 
@@ -266,9 +333,9 @@ jQuery('input.country').typeahead({
           </li>
           <li>
 		              <label class="detail_tab">Fill captcha</label>
-            <input type="hidden" name="cntctfrm_contact_action" value="true"><input type="hidden" id="cptch_result" name="cptch_result" value="9mE=">
-		<input type="hidden" id="cptch_time" name="cptch_time" value="1430309932">
-		<input type="hidden" value="Version: 2.4"><input type="text" autocomplete="off" id="cptch_number" name="cptch_number" value="" maxlength="1" size="1" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;"> <span style="font-size:14px ; font-face:" raleway',="" sans-serif'=""> ×</span> <span style="font-size:14px ; font-face:" raleway',="" sans-serif'=""> 1</span> <span style="font-size:20px;">=</span> <span style="font-size:14px">2</span>          </li>
+            <input type="hidden" name="cntctfrm_contact_action" value="true"><input type="hidden" id="cptch_result" name="cptch_result" value="b2E=">
+		<input type="hidden" id="cptch_time" name="cptch_time" value="1436530505">
+		<input type="hidden" value="Version: 2.4"><input type="text" autocomplete="off" id="cptch_number" name="cptch_number" value="" maxlength="1" size="1" style="margin-bottom:0;display:inline;font-size: 12px;width: 40px;"> <span style="font-size:14px ; font-face:" raleway',="" sans-serif'=""> −</span> <span style="font-size:14px ; font-face:" raleway',="" sans-serif'=""> 1</span> <span style="font-size:20px;">=</span> <span style="font-size:14px">2</span>          </li>
 		            <li>
             <!--<label class="detail_tab">Password</label>-->
             <input type="hidden" id="landFirstPass" name="landFirstPass" value="iYoginet$123" onkeypress="if(submit_pressed(event)){ jSignUp('http://www.askiyogi.com/wp-content/themes/ask_ver2/register.php'); }" class="inpt_sign_1">
@@ -584,43 +651,43 @@ jQuery('input.country').typeahead({
           <h4>Video Solutions</h4>
 		  		  		  <article> 
 		  <p style="float:left; margin:0 7px 0 7px"><object width="88" height="88">
-  <param name="movie" value="https://www.youtube.com/v/YZDJfDWWt1g?version=3&amp;autoplay=0">
+  <param name="movie" value="https://www.youtube.com/v/9j-ENimClYg?version=3&amp;autoplay=0">
   <param name="allowScriptAccess" value="always">
-  <embed src="https://www.youtube.com/v/YZDJfDWWt1g?version=3&amp;autoplay=0" type="application/x-shockwave-flash" allowscriptaccess="always" width="88" height="88">
+  <embed src="https://www.youtube.com/v/9j-ENimClYg?version=3&amp;autoplay=0" type="application/x-shockwave-flash" allowscriptaccess="always" width="88" height="88">
 </object></p>
-		<h2><a href="https://www.youtube.com/watch?v=YZDJfDWWt1g" target="_blank">Windows® 7: Disable delete confirmation dialog</a></h2>
+		<h2><a href="https://www.youtube.com/watch?v=9j-ENimClYg" target="_blank">How to Import Microsoft Outlook Data</a></h2>
 		</article>
 				  <article> 
 		  <p style="float:left; margin:0 7px 0 7px"><object width="88" height="88">
-  <param name="movie" value="https://www.youtube.com/v/uZJWolYE9EE?version=3&amp;autoplay=0">
+  <param name="movie" value="https://www.youtube.com/v/k0DqTxi0AWg?version=3&amp;autoplay=0">
   <param name="allowScriptAccess" value="always">
-  <embed src="https://www.youtube.com/v/uZJWolYE9EE?version=3&amp;autoplay=0" type="application/x-shockwave-flash" allowscriptaccess="always" width="88" height="88">
+  <embed src="https://www.youtube.com/v/k0DqTxi0AWg?version=3&amp;autoplay=0" type="application/x-shockwave-flash" allowscriptaccess="always" width="88" height="88">
 </object></p>
-		<h2><a href="https://www.youtube.com/watch?v=uZJWolYE9EE" target="_blank">How to insert a picture from a file in Microsoft® Office Word 2013 on a Windows® 8 PC</a></h2>
+		<h2><a href="https://www.youtube.com/watch?v=k0DqTxi0AWg" target="_blank">Windows® 7: Reduce hard disk space used by System Restore</a></h2>
 		</article>
 				  <article> 
 		  <p style="float:left; margin:0 7px 0 7px"><object width="88" height="88">
-  <param name="movie" value="https://www.youtube.com/v/qaAluaKVclg?version=3&amp;autoplay=0">
+  <param name="movie" value="https://www.youtube.com/v/4CaSrPUBhqY?version=3&amp;autoplay=0">
   <param name="allowScriptAccess" value="always">
-  <embed src="https://www.youtube.com/v/qaAluaKVclg?version=3&amp;autoplay=0" type="application/x-shockwave-flash" allowscriptaccess="always" width="88" height="88">
+  <embed src="https://www.youtube.com/v/4CaSrPUBhqY?version=3&amp;autoplay=0" type="application/x-shockwave-flash" allowscriptaccess="always" width="88" height="88">
 </object></p>
-		<h2><a href="https://www.youtube.com/watch?v=qaAluaKVclg" target="_blank">How to view or change the add in security settings in Microsoft® PowerPoint 2013 on a Windows® 8 PC</a></h2>
+		<h2><a href="https://www.youtube.com/watch?v=4CaSrPUBhqY" target="_blank">How to delete a PivotTable or PivotChart report in Excel 2013 on a Windows® 8 PC</a></h2>
 		</article>
 				  <article> 
 		  <p style="float:left; margin:0 7px 0 7px"><object width="88" height="88">
-  <param name="movie" value="https://www.youtube.com/v/kbfuOApKm0s?version=3&amp;autoplay=0">
+  <param name="movie" value="https://www.youtube.com/v/KRHjkYfPqQ4?version=3&amp;autoplay=0">
   <param name="allowScriptAccess" value="always">
-  <embed src="https://www.youtube.com/v/kbfuOApKm0s?version=3&amp;autoplay=0" type="application/x-shockwave-flash" allowscriptaccess="always" width="88" height="88">
+  <embed src="https://www.youtube.com/v/KRHjkYfPqQ4?version=3&amp;autoplay=0" type="application/x-shockwave-flash" allowscriptaccess="always" width="88" height="88">
 </object></p>
-		<h2><a href="https://www.youtube.com/watch?v=kbfuOApKm0s" target="_blank">How to create song playlist in iTunes® on a Windows® Vista PC</a></h2>
+		<h2><a href="https://www.youtube.com/watch?v=KRHjkYfPqQ4" target="_blank">How to delete a voice message in Skype® for Mac® OS X™</a></h2>
 		</article>
 				  <article> 
 		  <p style="float:left; margin:0 7px 0 7px"><object width="88" height="88">
-  <param name="movie" value="https://www.youtube.com/v/OPyA_V-0Vlo?version=3&amp;autoplay=0">
+  <param name="movie" value="https://www.youtube.com/v/7-HT1zxILPk?version=3&amp;autoplay=0">
   <param name="allowScriptAccess" value="always">
-  <embed src="https://www.youtube.com/v/OPyA_V-0Vlo?version=3&amp;autoplay=0" type="application/x-shockwave-flash" allowscriptaccess="always" width="88" height="88">
+  <embed src="https://www.youtube.com/v/7-HT1zxILPk?version=3&amp;autoplay=0" type="application/x-shockwave-flash" allowscriptaccess="always" width="88" height="88">
 </object></p>
-		<h2><a href="https://www.youtube.com/watch?v=OPyA_V-0Vlo" target="_blank">Windows® 8.1: How to leave a HomeGroup</a></h2>
+		<h2><a href="https://www.youtube.com/watch?v=7-HT1zxILPk" target="_blank">Sony® Xperia™ S - How to tag a picture to a location</a></h2>
 		</article>
 		        </div>
         <div class="leaderboard">
@@ -645,7 +712,7 @@ jQuery('input.country').typeahead({
 				<label><img src="http://www.askiyogi.com/wp-content/themes/ask_ver2/images/leader_img.jpg" width="16" height="17"><a href="http://www.askiyogi.com/profile/4737/">manas.hazarika</a></label>
 				<span>23</span> </div><div class="leaderboard_div">
 				<label><img src="http://www.askiyogi.com/wp-content/themes/ask_ver2/images/leader_img.jpg" width="16" height="17"><a href="http://www.askiyogi.com/profile/6034/">manpreet.bandhu</a></label>
-				<span>22</span> </div><div class="leaderboard_div">
+				<span>23</span> </div><div class="leaderboard_div">
 				<label><img src="http://www.askiyogi.com/wp-content/themes/ask_ver2/images/leader_img.jpg" width="16" height="17"><a href="http://www.askiyogi.com/profile/960/">sajeesh</a></label>
 				<span>16</span> </div><div class="more_leader_div"><div class="leaderboard_div">
 				<label><img src="http://www.askiyogi.com/wp-content/themes/ask_ver2/images/leader_img.jpg" width="16" height="17"><a href="http://www.askiyogi.com/profile/5474/">lihuan</a></label>
