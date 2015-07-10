@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tallemu.com privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301035443id_/http%3A//www.tallemucrm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallemu.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710192809id_/https%3A//www.tallemucrm.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Tall Emu CRM Australia
+# Privacy
 
 Tall Emu Pty Ltd. respects the privacy rights of our visitors; we understand that your right to privacy is of the utmost importance. We are strongly committed to the protection of own vistors personal information online. By visiting this site, you are accepting the terms & conditions in our privacy policy which appears below in detail.
 
