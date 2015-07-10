@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myyouthbrigade.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624001639id_/http%3A//myyouthbrigade.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myyouthbrigade.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710163816id_/http%3A//myyouthbrigade.com/main/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyYouthBrigade.com
+# Privacy Policy
+
+**What information do we collect?**
 
 We collect information from you when you subscribe to our newsletter or News Information.
 
@@ -50,8 +52,7 @@ By using our site, you consent to our?privacy policy.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://myyouthbrigade.com
-
+http://myyouthbrigade.com  
 Dehradun, Uttarakhand 248007  
 India  
 amirnasir0[at]gmail.com
