@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wire-sculpture.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610031607id_/http%3A//www.wire-sculpture.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wire-sculpture.com privacy policy that was archived on 2015-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150710101235id_/http%3A//www.wire-sculpture.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Wire Jewelry | Wire Wrap Tutorials | Jewelry Making Wire
 
