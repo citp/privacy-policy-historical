@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsle.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012003908id_/https%3A//newsle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsle.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711201907id_/https%3A//newsle.com/privacy) for the most accurate reproduction.*
 
 # newsle: privacy policy
 
@@ -72,7 +72,7 @@ Newsle takes reasonable steps to help protect your non-public personal informati
 
 **YOUR INFORMATION CHOICES AND CHANGES**
 
-You may opt out of receiving promotional emails from Newsle by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your contact preferences, changes to your information including requests to opt-out of sharing your non-public personal information with third parties by emailing support@newsle.com. 
+You may opt out of receiving promotional emails from Newsle by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You may also send requests about your contact preferences, changes to your information including requests to opt-out of sharing your non-public personal information with third parties by [contacting us](https://help.linkedin.com/app/ask/path/ppq/). 
 
 Subject to applicable law, you may delete your account by going to newsle.com/settings and selecting "Delete My Account" at the bottom of the settings dialog. You may also request deletion of information and content you post about yourself by contacting Newsle and verifying your identity.    Newsle does not ensure complete or comprehensive removal of the content or information posted on our Site by registered account holders, further deletion of your account will not affect information, content, and news posted about you by others or information, content, and news posted about you and reposted by Newsle.
 
@@ -88,4 +88,4 @@ Newsle may change this Policy from time to time. If we make any changes to this 
 
 **QUESTIONS**
 
-If you have any questions about this Policy, please contact us at http://support.newsle.com
+If you have any questions about this Policy, please [contact us](https://help.linkedin.com/app/ask/path/ppq/).
