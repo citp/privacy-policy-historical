@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domo.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405131206id_/http%3A//www.domo.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domo.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711135808id_/https%3A//www.domo.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Domo Privacy Policy | Domo
 
