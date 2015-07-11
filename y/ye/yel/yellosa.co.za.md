@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellosa.co.za privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607002804id_/http%3A//www.yellosa.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellosa.co.za privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711230639id_/http%3A//www.yellosa.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
