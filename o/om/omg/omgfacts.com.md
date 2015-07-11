@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgfacts.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318191726id_/http%3A//www.omgfacts.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgfacts.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711051649id_/http%3A//www.omgfacts.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - OMG Facts - The World's #1 Fact Source
 
