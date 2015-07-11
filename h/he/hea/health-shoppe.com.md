@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health-shoppe.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512183346id_/http%3A//www.zotezo.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health-shoppe.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711203524id_/http%3A//www.zotezo.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Zotezo.com
 
