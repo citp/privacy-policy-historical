@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoin.info privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418041229id_/http%3A//seoin.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoin.info privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711224815id_/http%3A//www.seoin.info/privacy.php) for the most accurate reproduction.*
 
 # 
 
