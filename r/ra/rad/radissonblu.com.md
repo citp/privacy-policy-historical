@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radissonblu.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022019id_/http%3A//www.radissonblu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radissonblu.com privacy policy that was archived on 2015-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150711195856id_/http%3A//www.radissonblu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Radisson Blu (SAS) Hotels & Resorts
 
