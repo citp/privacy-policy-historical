@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haptik.co privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528033733id_/http%3A//www.haptik.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haptik.co privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712141342id_/http%3A//haptik.co/privacy) for the most accurate reproduction.*
 
 # Haptik - Privacy Policy
 
