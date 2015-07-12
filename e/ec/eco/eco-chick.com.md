@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eco-chick.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615133757id_/http%3A//eco-chick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eco-chick.com privacy policy that was archived on 2015-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150712061828id_/http%3A//eco-chick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eco-Chick
 
