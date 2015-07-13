@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorewww.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504200912id_/http%3A//www.explorewww.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorewww.com privacy policy that was archived on 2015-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150713091208id_/http%3A//www.explorewww.com/privacy.php) for the most accurate reproduction.*
 
 # ExploreWWW Privacy Policy
 
