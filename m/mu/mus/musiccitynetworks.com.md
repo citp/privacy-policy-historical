@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musiccitynetworks.com privacy policy that was archived on 2014-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141019023013id_/http%3A//mcninteractive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musiccitynetworks.com privacy policy that was archived on 2015-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150713171400id_/http%3A//mcninteractive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MCN MCN
 
