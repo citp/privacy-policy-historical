@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pspgweber.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408032519id_/http%3A//www.pspgweber.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pspgweber.com privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715005359id_/http%3A//www.pspgweber.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Service | PSPgweber
 
