@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfinder.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021209id_/https%3A//www.artfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfinder.com privacy policy that was archived on 2015-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150714204156id_/https%3A//www.artfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Artfinder
 
