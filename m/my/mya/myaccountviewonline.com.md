@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myaccountviewonline.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418014556id_/http%3A//lplfinancial.lpl.com/Documents/PDF/LPLOnlinePrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myaccountviewonline.com privacy policy that was archived on 2015-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150714163737id_/http%3A//lplfinancial.lpl.com/Documents/PDF/LPLOnlinePrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Policy
 
