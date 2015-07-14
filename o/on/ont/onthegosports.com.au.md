@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2015-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150309074623id_/https%3A//onthegosports.com.au/sites/default/files/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2015-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150714033624id_/https%3A//www.onthegosports.com.au/sites/default/files/privacy-policy.pdf) for the most accurate reproduction.*
 
 # OTG PRIVACY POLICY
 
