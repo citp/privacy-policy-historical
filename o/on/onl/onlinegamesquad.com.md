@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinegamesquad.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621212803id_/http%3A//www.fgnova.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegamesquad.com privacy policy that was archived on 2015-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150714235801id_/http%3A//www.ogjam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# OGJAM : Online Game Jam
 
 ### Introduction
 
@@ -28,7 +28,7 @@ away this information. It is only gathered to contact the user about services on
 which s/he has expressed interest. It is optional for the user to provide demographic  
 information (income level, gender, etc.), and unique identifiers (username, password,  
 etc.). Giving additional information helps provide a more personalized experience on our  
-site, but is not required. 
+site, but is not required.
 
 We operate online surveys, and we never sell or share our subscribers’ email addresses.  
 We do show advertisement to our users,  
@@ -53,4 +53,4 @@ We are committed to resolving disputes within 24-48 hours. If problems arise, us
 ### Contact Information
 
 If site users have any questions or suggestions regarding our privacy policy, please  
-contact us via our [contact page](http://www.fgnova.com/contact/).
+contact us via our [contact page](http://www.ogjam.com/contact/).
