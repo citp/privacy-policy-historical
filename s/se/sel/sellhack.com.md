@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellhack.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613082957id_/http%3A//sellhack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellhack.com privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715083812id_/http%3A//sellhack.com/privacy.html) for the most accurate reproduction.*
 
 # SellHack Privacy Policy
 
