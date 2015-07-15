@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthbestways.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514164129id_/http%3A//healthbestways.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthbestways.com privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715035513id_/http%3A//healthbestways.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health best ways
 
