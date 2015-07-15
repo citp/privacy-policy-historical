@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexy1.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712232939id_/http%3A//www.sexy1.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexy1.com privacy policy that was archived on 2015-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150716003819id_/http%3A//www.sexy1.com/privacy_policy) for the most accurate reproduction.*
 
 # Sexy1.com - Privacy policy
 
