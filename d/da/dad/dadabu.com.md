@@ -1,32 +1,33 @@
-> *The following text is extracted and transformed from the dadabu.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908022205id_/http%3A//dadabu.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dadabu.com privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715034407id_/http%3A//dadabu.com/privacy-policy-2) for the most accurate reproduction.*
 
-# DaDaBu APP – Privacy policy
+# PRIVACY POLICY : DaDaBu APP
 
 This privacy policy sets out how DaDaBu APP uses and protects any information that you give DaDaBu APP when you use this website.
 
 DaDaBu APP is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-DaDaBu APP may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: January 2014  
-
+DaDaBu APP may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: January 2014
 
 ### What we collect
 
 We may collect the following information:
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
+    * name and job title
+    * contact information including email address
+    * demographic information such as postcode, preferences and interests
+
+
 
 ### What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
+      * Internal record keeping.
+      * We may use the information to improve our products and services
+      * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+      * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 ### Security
 
@@ -34,20 +35,17 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### What is a cookie?
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. 
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device.
 
 You can find more information about cookies at:
 
-
-
-  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+        * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+        * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+        * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
 
 
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.  
-
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.
 
 ### Category 1: strictly necessary cookies
 
@@ -69,8 +67,7 @@ By using our website, you agree that we can place these type of cookies on your 
 
 These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
 
-A list of all the cookies used on this website by category is set out below.  
-
+A list of all the cookies used on this website by category is set out below.
 
 ### Links to other websites
 
@@ -81,10 +78,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
-
-Email: [](mailto: "Send email to:")
-
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [bw_mailto]
 
 
 
