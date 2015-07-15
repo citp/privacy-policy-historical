@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumia.co.ke privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611014058id_/http%3A//www.jumia.co.ke/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumia.co.ke privacy policy that was archived on 2015-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150715065943id_/https%3A//www.jumia.co.ke/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Jumia Kenya
 
