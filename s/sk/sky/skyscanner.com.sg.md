@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.com.sg privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630060349id_/http%3A//www.skyscanner.com.sg/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.com.sg privacy policy that was archived on 2015-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150716043357id_/http%3A//www.skyscanner.com.sg/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Skyscanner Singapore
 
