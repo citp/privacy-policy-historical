@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanack.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227104845id_/https%3A//fanack.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanack.com privacy policy that was archived on 2015-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150716230826id_/https%3A//fanack.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Fanack
 
