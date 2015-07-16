@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livefun.tv privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426110125id_/http%3A//www.livefun.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefun.tv privacy policy that was archived on 2015-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150716233143id_/http%3A//www.livefun.tv/privacy) for the most accurate reproduction.*
 
 # LiveFun.TV is for people to get acquainted, meet each other, chat or just show themselves off via webcam.
 
