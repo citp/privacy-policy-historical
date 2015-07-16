@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nremt.org privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222191943id_/https%3A//www.nremt.org/nremt/about/policy_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nremt.org privacy policy that was archived on 2015-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150716213658id_/https%3A//www.nremt.org/nremt/about/policy_privacy.asp) for the most accurate reproduction.*
 
 # NREMT - PRIVACY POLICY
 
