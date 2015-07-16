@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pective.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607232930id_/http%3A//pective.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pective.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717015231id_/http%3A//pective.com/static/privacy) for the most accurate reproduction.*
 
 # Pective - privacy
 
