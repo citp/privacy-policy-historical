@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeep4x4center.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319014228id_/http%3A//www.jeep4x4center.com/popup/privacy-promise-popup.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeep4x4center.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717003443id_/http%3A//www.jeep4x4center.com/popup/privacy-promise-popup.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Morris 4x4 Center
 
@@ -40,18 +40,19 @@ Our Address: Morris 4x4 Center | 2031 SW 2nd ST | Pompano Beach, Florida | 33069
   
 
 
-**Email Tracking - dotMailer Cookies**   
+**Email Tracking - Listrak Cookies**
 
+**Cookies and Other Tracking Technologies**
 
-**How we use cookies**
+Technologies such as: cookies, beacons, tags and scripts are used by Listrak and our technology partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+We use cookies to remember users settings (e.g. contact information and other user preference information). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website and services in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
 
-Overall, cookies help us provide you with a better website and service, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, and/or site functionality. 
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+We use Local Storage Objects (LSOs) such as HTML 5 to store content information and user preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML 5 LSOs. 
 
   
 
