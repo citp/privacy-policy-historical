@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricena.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618235244id_/http%3A//ae.pricena.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricena.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717015247id_/http%3A//ae.pricena.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Pricena - Privacy Policy
 
