@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613094354id_/http%3A//www.photovisi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photovisi.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717082048id_/https%3A//www.photovisi.com/privacy) for the most accurate reproduction.*
 
 # Photovisi Photo Collage | Free Online Photo Collage Maker | Photovisi
 
