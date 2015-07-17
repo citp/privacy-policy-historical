@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemp3fan.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616220010id_/http%3A//www.freemp3fan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemp3fan.com privacy policy that was archived on 2015-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150718002210id_/http%3A//www.freemp3fan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
