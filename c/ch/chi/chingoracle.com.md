@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chingoracle.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504202115id_/http%3A//www.chingoracle.com/ching-oracle/ching/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chingoracle.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717105505id_/http%3A//www.chingoracle.com/ching-oracle/ching/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Chingoracle.com
 
-This statement describes the privacy practices of Lucini & Lucini Communications Limited in connection with this website, http://www.chingoracle.com (the “Website”)
+This statement describes the privacy practices of Lucini & Lucini Communications Limited in connection with this website, (the “Website”)
 
 This statement relates only to the processing of personal data performed through the Website and not with reference to other websites possibly accessed by using the links that appear on the Website for which Lucini & Lucini Communications Limited shall not be in any case responsible.
 
@@ -50,7 +50,7 @@ Cookies are used to perform computer authentication, to track sessions and to st
 
 By using the cookies the website’s owner may, among other things, carry out an analysis of the habits of a particular user in order to adapt the services rendered by the website to his/her needs, or to facilitate him/her during the internet access (for instance, by storing the username of the user so that he/she does not have to retype them for every access to the website).
 
-To find out more about the cookies the Data Controller uses and how to control them, please refer to the [Cookies Policy](http://www.chingoracle.com/ching-oracle/ching/cookies.html). You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of the Website.
+To find out more about the cookies the Data Controller uses and how to control them, please refer to the [Cookies Policy](https://web.archive.org/ching-oracle/ching/cookies.html). You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of the Website.
 
 ## RIGHTS OF THE DATA SUBJECTS
 
@@ -62,7 +62,7 @@ Any request should be addressed to Lucini & Lucini Communications Limited at 19 
 
 A user’s request will be dealt with as soon as possible and will not take more than 40 days to process (or such other period as laid by the applicable law). 
 
-However, it is possible for users to exercise the opt-out to the e-mail service by visiting <http://www.chingoracle.com/ching-oracle/user-management/>, inserting the relevant password and pressing the “unsubscribe” button or by writing to the above address or emailing, [privacy@lucinilucini.com](mailto:privacy@lucinilucini.com).
+However, it is possible for users to exercise the opt-out to the e-mail service by visiting [/ching-oracle/user-management/](https://web.archive.org/ching-oracle/user-management/), inserting the relevant password and pressing the “unsubscribe” button or by writing to the above address or emailing, [privacy@lucinilucini.com](mailto:privacy@lucinilucini.com).
 
 ## AMENDMENTS AND UPDATES TO THIS STATEMENT
 
