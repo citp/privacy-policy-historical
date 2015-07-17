@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junction.co.za privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627175640id_/http%3A//www.careerjunction.co.za/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junction.co.za privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717132041id_/http%3A//www.careerjunction.co.za/community/content/privacy) for the most accurate reproduction.*
 
 # 
 
