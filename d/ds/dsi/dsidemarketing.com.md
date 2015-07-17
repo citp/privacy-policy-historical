@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsidemarketing.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217154857id_/http%3A//www.1and1.com/PrivacyPolicy%3F__lf%3DStatic%26linkId%3Dft.nav.privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsidemarketing.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717032430id_/http%3A//www.1and1.com/PrivacyPolicy%3F__lf%3DStatic) for the most accurate reproduction.*
 
 # 1&1 Internet - Privacy Policy
 
@@ -73,3 +73,5 @@ California Civil Code \xA71798.83 permits our visitors who are California reside
 Chesterbrook, PA 19087
 
 ## Questions
+
+This website utilizes Mouseflow, a web analysis tool from Mouseflow ApS, to record randomly selected individual visits (only with anonymous IP address). This results in a log of mouse movements and clicks intended to analyze random single site visits to derive potential site improvements. Information is not personally identifiable and will not be shared. Mouseflow can be disabled at the following link:[www.mouseflow.com/opt-out/](http://www.mouseflow.com/opt-out/)
