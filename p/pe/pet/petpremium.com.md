@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petpremium.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321233825id_/https%3A//www.petpremium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petpremium.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717094441id_/https%3A//www.petpremium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
