@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the needsthesupermarket.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413094043id_/http%3A//www.needsthesupermarket.com/content/5-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needsthesupermarket.com privacy policy that was archived on 2015-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150718011800id_/http%3A//www.needsthesupermarket.com/content/5-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
