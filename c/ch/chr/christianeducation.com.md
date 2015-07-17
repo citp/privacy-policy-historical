@@ -1,143 +1,127 @@
-> *The following text is extracted and transformed from the christianeducation.com privacy policy that was archived on 2015-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150306052821id_/http%3A//www.christianeducation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianeducation.com privacy policy that was archived on 2015-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150718001110id_/http%3A//www.christianeducation.com/privacy-policy) for the most accurate reproduction.*
 
-# Frequently Asked Questions About ChristianEducation.com | ChristianEducation.com
+# Privacy Policy | Christian Education | Christian Colleges & Universities
 
-## Privacy Policy
-
-[ ](https://privacy.truste.com/privacy-seal/eLearners-com,-Inc-/validation?rid=d76b4de5-dd03-4789-955a-c87cd33e0dc2 "TRUSTe online privacy certification")
-
-This is the privacy policy ("Privacy Policy") for the Web site ("Site") for Christian Education ("CE") www.christianeducation.com. This Privacy Policy describes how we treat personal information received about you when you visit our Site.
+This is the privacy policy ("Privacy Policy") for the Web site ("Site") for Christian Education ("CE") [www.christianeducation.com](http://www.christianeducation.com/) owned and operated by EducationDynamics, LLC (“EducationDynamics”). This Privacy Policy describes how we treat personal information received about you when you visit our Site.
 
 Please read this Privacy Policy carefully, because by visiting or using this Site, you agree to its terms.
 
-We may revise this Privacy Policy from time to time. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page www.christianeducation.com or by e-mail of this Site that the policy has been updated and by changing the date on this page noting when the policy was last updated. If you see a notice of change, please check the Privacy Policy, because your continued use of the Site after we post the change means you have agreed to the new terms.
+We may revise this Privacy Policy from time to time. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page [www.christianeducation.com](http://www.christianeducation.com/) or by e-mail of this Site that the policy has been updated prior to the change becoming effective and by changing the date on this page noting when the policy was last updated. If you see a notice of change, please check the Privacy Policy, because your continued use of the Site after we post the change means you have agreed to the new terms.
 
-### Collection of Your Data
+**Collection of Your Data**
 
-Personal Data. When you fill out a "Student Matching Profile", our Self-Assessment, our Financial Aid Estimator, and at other times, we ask for some information about you, such as your name, age, email address, postal address, and phone number, level of education, desired level of educational program, areas of interest, current occupation, military status (if any), governmental loan status. We do not knowingly collect information from children under the age of 13. 
+Personal Data. When you fill out a "Student Matching Profile", our Self-Assessment, our Financial Aid Estimator, and at other times, we ask for some information about you, such as your name, age, email address, postal address, and phone number, level of education, desired level of educational program, areas of interest, current occupation, military status (if any), governmental loan status. We do not knowingly collect information from children under the age of 13.
 
-Anonymous Data. We automatically collect IP addresses and Web site usage information from you when you visit the Site. This information helps us evaluate how our visitors use and navigate the Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. 
+Anonymous Data. As is true of most web sites, we gather certain information automatically and store it in log files. We automatically collect IP addresses and Web site usage information from you when you visit the Site. This information helps us evaluate how our visitors use and navigate the Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-### How We Use Your Information And How We Share Your Data
+**How We Use Your Information and How We Share Your Data**
 
-EducationDynamics will not disclose your personally identifiable information except as described below: 
+EducationDynamics will not sell or disclose your personally identifiable information except as described below:
 
-If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. 
+If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. To request removal of your personal information from our blog or forum, contact us at [info@christianeducation.com](mailto:info@christianeducation.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we currently offer on the sites and may offer in the future. We also collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide. If you elect to provide us with personally identifiable information, such information may also be used for marketing purposes, and may result in follow-up communications from EducationDynamics, our affiliated properties and services, and institutions of higher education about opportunities, programs and other services that are related to education. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses and other contact information such as name, email address and phone number) with carefully selected third parties, so they may offer goods and services that we believe may be of interest to our customers.
 
-EducationDynamics shares your personal information with the educational institutions you selected and, if you use one of our matching services, those institutions which we have matched your profile so that these institutions may contact you with information about their programs. Use of your personal information by these educational institutions is not governed by this Privacy Policy. For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution. Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability. 
+EducationDynamics shares your personal information (such as your name, age, whether not you are a U.S. citizen, address, phone number, e-mail address, military affiliation, educational background, and years of work experience), with the educational institutions you selected and, if you use one of our matching services, those institutions which we have matched your profile so that these institutions may contact you with information about their programs. EducationDynamics maintains business relationships with these institutions, which pay to be featured on this website. Use of your personal information by these educational institutions is not governed by this Privacy Policy. For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution. Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability.
 
-If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy. For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability. 
+We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating EducationDynamics's policies as specified in the Privacy Policy or relevant User Agreement, may be violating state or federal law, or may be causing injury to or interference with (either intentionally or unintentionally) EducationDynamics's rights or property, other users of the Site, or anyone else that could be harmed by such activities. EducationDynamics may disclose or access account information when we believe that the law requires it and for administrative and other purposes that we deem necessary to maintain and improve our services. 
+If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy. For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability.
 
-Additionally, EducationDynamics uses your information to provide you with a customized browsing experience. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our User Agreement, and for any other purposes that EducationDynamics deems appropriate. 
+We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating EducationDynamics's policies as specified in the Privacy Policy or relevant User Agreement, may be violating state or federal law, or may be causing injury to or interference with (either intentionally or unintentionally) EducationDynamics's rights or property, other users of the Site, or anyone else that could be harmed by such activities. EducationDynamics may disclose or access account information when we believe that the law requires it and for administrative and other purposes that we deem necessary to maintain and improve our services.
 
-We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
+Additionally, EducationDynamics uses your information to provide you with a customized browsing experience. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our User Agreement, and for any other purposes that EducationDynamics deems appropriate.
 
-## Newsletter Subscription
+We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section. 
+**Newsletter Subscription**
 
-## Choice and Opt-out 
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
 
-You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to [unsubscribe@christianeducation.com](mailto:unsubscribe@christianeducation.com?Subject=Unsubscribe) or via postal mail. 
+**Choice and Opt-out**
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by clicking on the following [link](http://www.edcooutintem.com/o-dntcf-d21-cf1d5d5b5d0aabebe49f4974db2f688a) to add your email address and/or telephone number directly to our Unsubscribe/Do Not Call lists. Please address postal mail requests to: 
+You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to [unsubscribe@christianeducation.com](mailto:unsubscribe@christianeducation.com) or via postal mail.
 
-> Attn: Unsubscribe   
->  Christian Education   
->  900 Broken Sound Parkway   
->  3rd Floor   
->  Boca Raton, Florida 33487 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by clicking on the following link to add your email address and/or telephone number directly to our Unsubscribe/Do Not Call lists. Please address postal mail requests to:
 
-Please be aware that we do not control the activities of the educational institutions with which we match your profile or any third parties to whom we have provided your information for marketing purposes. If you wish them to stop contacting you, you will need to notify them of this fact separately.   
+Attn: Unsubscribe  
+EducationDynamics, LLC  
+5 Marine View Plaza, Suite 212  
+Hoboken, NJ 07030
 
+Please be aware that we do not control the activities of the educational institutions with which we match your profile or any third parties to whom we have provided your information for marketing purposes. If you wish them to stop contacting you, you will need to notify them of this fact separately.
 
-### Cookies and Other Technology
+Technologies such as: cookies, beacons, tags and scripts are used by EducationDynamics and our marketing partners, affiliates, or analytics. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We use cookies to allow you to move quickly through our site, to recognize repeat visitors and to allow you to take advantage of some of our site’s special features. A cookie is a string of information that is sent by a Web site and stored on your hard drive or temporarily in your computer’s memory. Cookies are small files and won’t pose any significant disk-space concerns. No cookies are linked to personally identifiable information. Cookies are stored to remember your education selection and to prevent duplicate leads from the same IP address from being created and to make it easier for you to navigate our site, in order for you to use our matching services.
+We use cookies for remember users’ settings, for authentication, and for remarketing. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-You can turn off the ability to receive any of these cookies by adjusting the browser in your computer. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Without cookies you can visit our Site, but you will not be able to use the services that require you to provide your personal information. 
+We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 or Flash to collect and store information.
 
-We use clear GIFs, Web beacons, and other tracking devices to follow visitor usage of our site. The data collected through these mechanisms is anonymous, and we do not link it to the personal data you may provide us. 
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-We use web beacons (invisible images often referred to as pixel tags or clear GIFs) on our Site in order to recognize users and assess traffic patterns. We also include Web beacons in our e-mail messages in order to count how many e-mail messages have been opened. 
+**Supplementation of Information**
 
-We use TargusInfo validation to verify that the phone number and address entered match, in order to accurately match you to your chosen course of study and school program. TargusInfo validation is not linked to any personal identifiable information.   
+In order to provide accurate school matching services to you, we may on occasion supplement the personally identifiable information you submitted to us with information from third party sources.
 
+**Address and Phone Number Verification**
 
-## Third Party Cookies
+We use TargusInfo validation to verify your address and phone number, in order to accurately match you to your chosen course of study and school program.
 
-The use of cookies by our partners, affiliates, or service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, or service providers use session ID cookies to make it easier for you to navigate our site, in order for you to use our matching services.  
+**Share with a Friend Feature**
 
+If you choose to use our referral service to email a friend or bookmark a page, about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Addthis.com functionality does not store this information for the sole purpose of sending this one-time email.
 
-## Supplementation of Information __
+**Customer Testimonials**
 
-In order to provide accurate school matching services to you, we may on occasion supplement the personally identifiable information you submitted to us with information from third party sources. 
+We post customer testimonials on our web site which may contain personally identifiable information like a video along with their first and last name. We do obtain the customer's consent via email or via other means prior to posting the testimonial to post their name and video along with their testimonial.
 
-## Address and Phone Number Verification
+**Behavioral targeting/Re-targeting**
 
-We use TargusInfo validation to verify your address and phone number, in order to accurately match you to your chosen course of study and school program. 
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-## Tell-A-Friend Feature  
-__
+**Social Media Features and Widgets**
 
-If you choose to use our referral service to email a friend or bookmark a page, about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Addthis.com functionality does not store this information for the sole purpose of sending this one-time email. 
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-## Customer Testimonials
+**Links to Other Web Sites**
 
-We post customer testimonials on our web site which may contain personally identifiable information like a video along with their first and last name. We do obtain the customer's consent via email prior to posting the testimonial to post their name and video along with their testimonial. 
+If you click on a link to a third party site, including on an advertisement, you will leave the [www.christianeducation.com](http://www.christianeducation.com/) site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as [www.christianeducation.com](http://www.christianeducation.com/). We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to a [www.christianeducation.com](http://www.christianeducation.com/) site, you should read that site’s privacy statement before providing any personally identifiable information.
 
-### Ads for CE
+**Transfer to the United States**
 
-When you view an ad for CE on other sites, our third-party advertising company may place or recognize a unique cookie on your browser. CE and our advertising company may also use Web beacons (invisible images often referred to as pixel tags or clear GIFs) to note which pages of the Site you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track response to our advertising efforts.   
+If you are located outside of the United States, please note that the personal data you provide to us will be transferred to the United States. Whenever you submit any personal data to us, you consent to this transfer.
 
+**Review and Correction**
 
-### Links to Other Web Sites
+You may review, update and delete the personal data you have provided to us contacting us via e-mail at [info@christianeducation.com](mailto:info@christianeducation.com) or by sending us written notice via postal mail to:
 
-If you click on a link to a third party site, including on an advertisement, you will leave the www.christianeducation.com site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as www.christianeducation.com. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to an www.christianeducation.com site, you should read that site’s privacy statement before providing any personally identifiable information.  
+Attn: Information Inquiry or Update  
+EducationDynamics, LLC  
+5 Marine View Plaza, Suite 212  
+Hoboken, NJ 07030
 
+Any revisions you provide to your personal data will be applied in our own records but will not be updated in the records of the educational institutions to which we have already provided your data. If you would like to review and correct the personal data that has been provided to educational institutions, you will need to contact them separately.
 
-### Transfer to the United States
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you are located outside of the United States, please note that the personal data you provide to us will be transferred to the United States. Whenever you submit any personal data to us, you consent to this transfer.   
+**Security Practices**
 
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-### Review and Correction
+If you have any questions about security on our Web site, you can send email us at [info@christianeducation.com](mailto:info@christianeducation.com).
 
-You may review and update the personal data you have provided to us contacting us via e-mail at [info@christianeducation.com](mailto:info@christianeducation.com) or by sending us written notice via postal mail to: 
+**Business Transfers**
 
-> Attn: Information Inquiry or Update   
->  Christian Education Services   
->  900 Broken Sound Parkway   
->  3rd Floor  
->  Boca Raton, Florida 33487 
+In the event that someone buys or acquires us or substantially all of our assets, our information about you and your use of our services will likely be one of the acquired assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-Any revisions you provide to your personal data will be applied in our own records but will not be updated in the records of the educational institutions to which we have already provided your data. If you would like to review and correct the personal data that has been provided to educational institutions, you will need to contact them separately. 
+**Legal Disclaimer**
 
-## Security Practices 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+**Truste Privacy**
 
-If you have any questions about security on our Web site, you can send email us at [info@christianeducation.com](mailto:info@christianeducation.com).  
+EducationDynamics, LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.christianeducation.com](http://www.christianeducation.com/).
 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
-## Business Transfers
-
-In the event that someone buys or acquires us or substantially all of our assets, our information about you and your use of our services will likely be one of the acquired assets. 
-
-## Legal Disclaimer
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
-
-## Truste Privacy
-
-Christian Education is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [http://www.christianeducation.com/privacy.aspx](https://web.archive.org/privacy.aspx). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Christian Education at info@christianeducation.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-This updated policy is effective as of October 24, 2012 
-
-[](https://web.archive.org/financial-aid)
+**Last Updated on May 18, 2015**. This Privacy Policy is effective immediately for new users after that date and will become effective on June 1, 2015 for pre-existing users. To review the previous policy, please click [here](http://content.educationdynamics.com/privacypolicy/CE_Privacy_Policy.pdf).
