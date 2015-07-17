@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the e-yearbook.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319093509id_/http%3A//www.e-yearbook.com/sp/terms%3Fprivacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-yearbook.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717042053id_/http%3A//www.e-yearbook.com/sp/terms%3Fprivacy%3D1) for the most accurate reproduction.*
 
 # Privacy Policy
 
+## Terms
+
+  
 Digital Data Online, Inc. E-Yearbook Website Privacy Policy
 
 This Privacy Policy is effective as of October 15, 2006 and may be updated from time to time.  If you have not reviewed it since that date, please do so as the prior version is no longer in effect. You will not receive any other notice of changes to this statement.
