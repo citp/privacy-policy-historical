@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesnewtab.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514063848id_/http%3A//www.moviesnewtab.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesnewtab.com privacy policy that was archived on 2015-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150718063327id_/http%3A//www.moviesnewtab.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -59,8 +59,8 @@ From time to time, moviesnewtab.com may revise this Policy. moviesnewtab.com wil
 
 How ToContact Us
 
-moviesnewtab.com is owned and operated by BlipTab Inc For any queries regarding this Policy, please contact us:
+moviesnewtab.com is owned and operated by Aztec Media Inc For any queries regarding this Policy, please contact us:
 
 E-mail: [privacy@moviesnewtab.com](mailto:privacy@moviesnewtab.com)
 
-Snail Mail: BlipTab Inc, Attention: Privacy Policy Administrator, Post Office Box 51968, Limassol, Cyprus.
+Snail Mail: Aztec Media Inc, Attention: Privacy Policy Administrator, Post Office Box 51968, Limassol, Cyprus.
