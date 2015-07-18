@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamebusted.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502095711id_/http%3A//www.gamebusted.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebusted.com privacy policy that was archived on 2015-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150718023859id_/http%3A//www.gamebusted.com/privacypolicy) for the most accurate reproduction.*
 
 # Best Free Flash Online Games - gamebusted.com
 
