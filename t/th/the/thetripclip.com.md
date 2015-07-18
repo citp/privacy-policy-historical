@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetripclip.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207214746id_/http%3A//thetripclip.com/tc/foot/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetripclip.com privacy policy that was archived on 2015-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150718201629id_/http%3A//thetripclip.com/tc/foot/privacy.php) for the most accurate reproduction.*
 
 # The Trip Clip - Privacy Policy
 
@@ -20,7 +20,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 Does TheTripClip.com Share the Information It Receives?
 
-No. Personally identifiable information such as name, mailing address, phone number, e-mail address, is not passed along to any other company and such information is collected only when needed to fulfill a customer’s request.
+No. Personally identifiable information such as name, mailing address, phone number, e-mail address, is not passed along to any other company and such information is collected only when needed to fulfill a customer's request.
 
 How Secure Is Information About Me?
 
