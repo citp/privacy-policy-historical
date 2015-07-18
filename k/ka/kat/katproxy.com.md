@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katproxy.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623205718id_/http%3A//katproxy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katproxy.com privacy policy that was archived on 2015-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150718235541id_/http%3A//katproxy.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Kickass Torrents
 
