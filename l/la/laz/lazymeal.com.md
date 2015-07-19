@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lazymeal.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023734id_/https%3A//lazymeal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazymeal.com privacy policy that was archived on 2015-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150719223631id_/https%3A//www.lazymeal.com/privacy) for the most accurate reproduction.*
 
-# lazymeal.com - Privacy
+# Privacy
+
+## Data Collection
 
 lazymeal collects certain personal, psychographic and demographic information for the purpose of enhancing your experience. Because your privacy is important to us, please read the measures below to learn about the information lazymeal collects and how it is used and managed. 
 
@@ -27,10 +29,6 @@ Demographics data collected via web analytics software may be disclosed for lazy
 
 lazymeal may also collect information concerning your history of meal orders via lazymeal. This may include information regarding past meal orders, previous customer concerns, reviews and social network choices including recommended, liked or followed pages while on the lazymeal website.
 
-### Personally Identifiable Information from the lazymeal Blog
-
-Personally Identifiable Information from the lazymeal blog may also be collected if it is found attached to the blog post. Such information may include the blogger's websites, photo and social networking links and names.
-
 ## How does lazymeal Manage and Use your Information?
 
 ### Special Offers and Promotions
@@ -41,7 +39,9 @@ lazymeal uses Personally Identifiable Information to process meal orders, extend
 
 lazymeal allows you to (optionally) store addresses and credit card details to make the meal order process more convenient.
 
-**lazymeal never stores your complete credit card number or pin-code**. So even in the unlikely event of a security breach of our servers, your credit card info could not be stolen. Only our credit card processing partner stores your full credit card info, on their high-security servers.
+#### lazymeal never stores your complete credit card number or pin-code
+
+Even in the unlikely event of a security breach of our servers, your credit card info could not be stolen. Only our credit card processing partner stores your full credit card info, on their high-security servers.
 
 ### Cookies
 
@@ -59,7 +59,7 @@ lazymeal uses secure protocols that are widely recognized and used. However, laz
 
 ## How Can you Change or Restrict Information Shared with lazymeal?
 
-Log-in to your lazymeal user account to hange your shared Personally Identifiable Information as desired. If you have further concerns regarding your privacy and information, please contact [info@lazymeal.com](mailto:info@lazymeal.com) and a lazymeal representative will respond within 48 hours.
+Log-in to your lazymeal user account to change your shared Personally Identifiable Information as desired. If you have further concerns regarding your privacy and information, please contact [info@lazymeal.com](mailto:info@lazymeal.com) and a lazymeal representative will respond within 48 hours.
 
 ## lazymeal Privacy Policy Terms
 
