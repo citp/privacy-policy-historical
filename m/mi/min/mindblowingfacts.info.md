@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindblowingfacts.info privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519050650id_/http%3A//mindblowingfacts.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindblowingfacts.info privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720000059id_/http%3A//mindblowingfacts.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mind Blowing Things
+# Privacy Policy
 
 Privacy Policy
 
