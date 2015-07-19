@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheridan.com.au privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419041318id_/http%3A//www.sheridan.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheridan.com.au privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720003547id_/http%3A//www.sheridan.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
