@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the palmbeachletter.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206004806id_/http%3A//palmbeachletter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmbeachletter.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720151012id_/http%3A//palmbeachletter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Palm Beach Letter
+# Privacy Policy - Palm Beach Research Group
 
 We take your privacy very seriously. If you have any questions on our privacy policy that we do not address below, contact customer service at (888) 501-2598, Monday through Friday, 9 a.m.-11 p.m. EST. You can also email them at [info@cspcustomerservice.com](mailto:info@cspcustomerservice.com).
 
@@ -22,7 +22,7 @@ You can remove your address from our emailing list by following the instructions
 
 When you give us your mailing address, we will use this information to fulfill your order or subscription and to send you information on other products that may suit your interests. If you don’t want us to send you this other information, please contact our Customer Service department:
 
-Common Sense Publishing  
+Palm Beach Research Group  
 Attn: Customer Service  
 55 NE 5th Ave., Suite 100, Delray Beach, FL 33483
 
@@ -42,7 +42,7 @@ We employ other companies to provide services for our customers and to visitors 
 
 **Cookies**
 
-Cookies are small files a web page places on your computer when you visit it. We use cookies to make your visits to our website easier and more useful. For example, the Common Sense Publishing website uses cookies to allow authentication for access to the subscriber-only areas of our sites.
+Cookies are small files a web page places on your computer when you visit it. We use cookies to make your visits to our website easier and more useful. For example, the Palm Beach Research Group website uses cookies to allow authentication for access to the subscriber-only areas of our sites.
 
 The Google remarketing tool is used on this website. This enables us, through the use of cookies, to reach people who have previously visited our site and show them relevant ads when they visit other sites on the Google Display Network.
 
@@ -52,9 +52,9 @@ For more information on what our cookies do, please contact customer service.
 
 **Copyright and Disclaimer**
 
-All contents of this website are copyright 2014 by Common Sense Publishing. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Common Sense Publishing.
+All contents of this website are copyright 2014 by Palm Beach Research Group. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Palm Beach Research Group.
 
-DISCLAIMER: This work is based on SEC filings, current events, interviews, corporate press releases, and what we’ve learned as financial journalists. It may contain errors, and you shouldn’t make any investment decision based solely on what you read here. It’s your money and your responsibility. Common Sense Publishing expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Common Sense Publishing (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
+DISCLAIMER: This work is based on SEC filings, current events, interviews, corporate press releases, and what we’ve learned as financial journalists. It may contain errors, and you shouldn’t make any investment decision based solely on what you read here. It’s your money and your responsibility. Palm Beach Research Group expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Palm Beach Research Group (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
 
 **Policy Against Advertising Our Website Using Unsolicited Email Messages**
 
