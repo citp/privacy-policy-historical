@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridiculouslyextraordinary.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627212704id_/http%3A//www.ridiculouslyextraordinary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridiculouslyextraordinary.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720233913id_/http%3A//www.ridiculouslyextraordinary.com/privacy.html) for the most accurate reproduction.*
 
 # ridiculouslyextraordinary.com | Privacy Policy
 
