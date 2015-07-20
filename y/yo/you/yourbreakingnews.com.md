@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourbreakingnews.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211123435id_/http%3A//yourbreakingnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbreakingnews.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720165155id_/http%3A//yourbreakingnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | World News – Bringing you world news as it occurs
+# Privacy Policy |
 
 Privacy Policy for **http://yourbreakingnews.com**
 
