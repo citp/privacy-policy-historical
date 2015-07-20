@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsunagujapan.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626034051id_/http%3A//www.tsunagujapan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsunagujapan.com privacy policy that was archived on 2015-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150720172216id_/http%3A//www.tsunagujapan.com/privacy) for the most accurate reproduction.*
 
 # Privacy | tsunagu Japan
 
@@ -38,13 +38,13 @@ To respond to inquiries.
 
 The Company will not handle personal information in any way that exceeds the purpose of use without the permission of the customer, excluding cases where it is allowed in the Personal Information Protection Law and other laws, excluding the following cases.
 
--  In cases based on the law
+–  In cases based on the law
 
-\- In cases where it is necessary to protect the lives, health or assets of a person, but acquiring the permission of the User is difficult.
+– In cases where it is necessary to protect the lives, health or assets of a person, but acquiring the permission of the User is difficult.
 
--  In cases where it is necessary to improve public health or promote the sound development of children, but acquiring the permission of the User is difficult.
+–  In cases where it is necessary to improve public health or promote the sound development of children, but acquiring the permission of the User is difficult.
 
-\- In cases where it is neessary to cooperate with the government organzsations or regional public organizations or persons that have been entrusted by these organizations to carry out  work determined by the law, and that by acquiring the persmission of the User may cause hindrance to the execution of this work.
+– In cases where it is neessary to cooperate with the government organzsations or regional public organizations or persons that have been entrusted by these organizations to carry out  work determined by the law, and that by acquiring the persmission of the User may cause hindrance to the execution of this work.
 
 **Changes to the purpose of use of personal information**
 
