@@ -1,52 +1,74 @@
-> *The following text is extracted and transformed from the devs-lab.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623050748id_/http%3A//devs-lab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devs-lab.com privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721213845id_/http%3A//devs-lab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Devs-Lab
 
-Devs-Lab collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form or donate money to analyse traffic on our site. This information helps us understand customer interests and helps us improve our website. Devs-Lab does not sell, give, or trade the statistics they store to any 3rd parties for data-mining or marketing purposes. This does not include trusted third parties who assist us in operating our website. You may, however, visit our site anonymously. We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
+Your privacy is important to Devs-Lab. So we’ve developed a Privacy Policy  
+that covers how we collect, use, disclose, transfer, and store your information.  
+Please take a moment to familiarize yourself with our privacy practices and  
+[let us know](http://devs-lab.com/contact-us) if you have any questions. We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form or donate money to a Author.
 
-### Third Party Ad Servers :
+### Collection and Use of Personal Information :
 
-We may use third-party advertising companies to serve ads when you visit our Web Site. If so, a list of these ad serving companies will be available here. These companies may use information (generally, not including your name, address, e-mail address or telephone number) about your visits to this Web Site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses’ privacy policies if you should have any concerns about how they will care for your personal information.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-### Cookie Policy :
+### Non-personal identification information :
 
-When you visit our site, the pages that you look at, and a short text file called a cookie, are downloaded to your computer. A cookie is used to store small amounts of information that enables the sites or service providers systems to recognize your browser and capture and remember certain information. The cookie does not contain personal details. Depending on the browser that you use, you can set your preferences to block/refuse cookies, and/or notify you before they are placed. Cookies are not harmful and cannot introduce viruses or extract personal contact information.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-### What do we use your information for?
+### How we use collected information :
 
-Any of the information we collect from you may be used in one of the following ways:
+Devs-Lab may collect and use Users personal information for the following purposes:
 
-  * To personalize your experience  
-(your information helps us to better respond to your individual needs)
-  * To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-  * To process transactions
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
-
-
-
-### Third party links :
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/technologies/ads/).
-
-### How do we protect your information?
-
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
-
-### Changes To This Privacy Policy :
-
-Devs-Lab may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
-
-### Contact us :
-
-If you have any questions about this Privacy Policy, please contact us at
-
-  * [Devs-lab](http://www.devs-lab.com/)
-  * support@devs-lab.com
+  * To run and operate our Site
+  * We may need your information to display contenst on the Site correctly.
+  * To personalize user experience.
+  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site
+  * We may use feedback to improve our service and management.
+  * To administer a contest, promotion, survey or other site feature.
+  * To send periodic emails  
+We may use the email address to send them information and updates pertaining to their order.
 
 
 
-Last Updated on : 2015-06-16
+### Web browser cookies :
+
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+### How we protect your information :
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+### Sharing your personal information :
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+### Electronic newsletters :
+
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
+### Third party websites :
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+### Advertising :
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+### Google Adsense :
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [Google Adsense Privacy Policy](http://www.google.com/privacy_ads.html)
+
+### Changes to this privacy policy :
+
+Devs-Lab has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms :
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Privacy Questions
+
+If you have any questions or concerns about Devs-Lab’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us at [support@devs-lab.com](mailto:support@devs-lab.com).
+
+This document was last updated on 8th July, 2015
