@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voclr.it privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521094132id_/http%3A//www.voclr.it/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voclr.it privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721021607id_/https%3A//www.voclr.it/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Voclr.it | Hastle Free Acapellas & Vocals
 
