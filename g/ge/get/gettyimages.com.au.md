@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettyimages.com.au privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627140151id_/http%3A//www.gettyimages.com.au/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.com.au privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722001552id_/http%3A//www.gettyimages.com.au/Corporate/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Getty Images Privacy Policy - Getty Images AU
 
