@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneclickroot.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607235646id_/http%3A//www.oneclickroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneclickroot.com privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721225209id_/https%3A//www.oneclickroot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ Throughout this Privacy Policy, we may use certain words or phrases, and it is i
   * “One Click Root”, “we” or “us” refers to the business which owns this website One Click Root, our Site, Software, or any associated Services, depending on the context of the usage;
   * “Service(s)” refers to the services that we provide through our Site and our Software;
   * “Software” refers to our root software available for purchase and download through our Site;
-  * “Site” refers to our website, [www.oneclickroot.com](http://www.oneclickroot.com/);
+  * “Site” refers to our website, [oneclickroot.com](https://www.oneclickroot.com/);
   * “You” or “user” refers to you, the person who is entering into this Agreement with One Click Root, the owner and operator of ONECLICKROOT.COM.
 
 
