@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maps-streetview.com privacy policy that was archived on 2015-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150219063209id_/http%3A//www.maps-streetview.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maps-streetview.com privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721183421id_/http%3A//www.maps-streetview.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - http://www.maps-streetview.com
 
@@ -14,7 +14,7 @@ http://www.maps-streetview.com does use cookies to store information about visit
 
 **DoubleClick DART Cookie**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners are Google, Infolinks and Adversal. If you want to know what browsing data is collected by our advertising partners, please read their privacy policy pages.   
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners are Google, Infolinks, Criteo, HotelsCombined and Careerjet. If you want to know what browsing data is collected by our advertising partners, please read their privacy policy pages.   
 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.maps-streetview.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
