@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629085613id_/https%3A//www.etsy.com/help/article/480%3Fref%3Dreg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721212938id_/https%3A//www.etsy.com/help/article/480%3Fref%3Dreg) for the most accurate reproduction.*
 
 # Privacy Policy - Etsy Help
 
