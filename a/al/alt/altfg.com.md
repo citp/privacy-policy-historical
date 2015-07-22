@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altfg.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627063545id_/http%3A//www.altfg.com/blog/alt-film-guide-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altfg.com privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722061059id_/http%3A//www.altfg.com/film/alt-film-guide-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms of Use – Alt Film Guide
 
