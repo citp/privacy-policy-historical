@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isnare.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322153341id_/http%3A//www.isnare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isnare.com privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722235017id_/https%3A//www.isnare.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: Isnare.com Free Articles
 
@@ -8,7 +8,7 @@ Isnare.com Free Articles Directory and Search Engine website is committed to pro
 
 **Agreement**
 
-BY ACCESSING THE WEBSITE HTTP://WWW.ISNARE.COM OR ANY PAGE HOSTED BY THE URL WWW.ISNARE.COM, YOU HEREBY AGREE TO THIS PRIVACY POLICY.
+BY ACCESSING THE WEBSITE https://WWW.ISNARE.COM OR ANY PAGE HOSTED BY THE URL WWW.ISNARE.COM, YOU HEREBY AGREE TO THIS PRIVACY POLICY.
 
 **Data Collection**
 
@@ -16,7 +16,7 @@ Upon registration of new accounts at Isnare.com registration page (www.isnare.co
 
 **Session Cookies**
 
-A session cookie is an HTTP cookie that web servers use to track a logged-in user's validity. Wikipedia (http://en.wikipedia.org/wiki/HTTP_cookie) defines an HTTP cookie as "a small string of text stored on a user's computer by a web browser. A cookie consists of one or more name-value pairs containing bits of information such as user preferences, shopping cart contents, the identifier for a server-based session, or other data used by websites.".
+A session cookie is an HTTP cookie that web servers use to track a logged-in user's validity. Wikipedia (https://en.wikipedia.org/wiki/HTTP_cookie) defines an HTTP cookie as "a small string of text stored on a user's computer by a web browser. A cookie consists of one or more name-value pairs containing bits of information such as user preferences, shopping cart contents, the identifier for a server-based session, or other data used by websites.".
 
 These session cookies are harmless to any computer. It is only used to track the validity of a logged-in user. Isnare.com Free Articles website has a timeout period set in all its web servers. If a logged-in user stays in-active for certain period of time the user's session will timeout for security.
 
@@ -28,4 +28,4 @@ Google, as a third party vendor, uses cookies to serve ads on your site.
 
 Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
 
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
