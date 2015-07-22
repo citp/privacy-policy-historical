@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdonline.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330030436id_/http%3A//www.wsdonline.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdonline.com privacy policy that was archived on 2015-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150723002555id_/http%3A//www.wsdonline.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # World Shipping Directory - Privacy Policy
 
