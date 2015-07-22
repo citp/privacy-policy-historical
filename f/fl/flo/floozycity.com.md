@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floozycity.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002629id_/http%3A//www.instabang.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Djetwebus%26prg%3D1%26tour%3D1%26ot%3D1%26cmp%3Dust%26ad_id%3Dibweb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floozycity.com privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722201446id_/http%3A//www.instabang.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy%26id%3Djetwebus%26prg%3D1%26tour%3D1%26ot%3D1%26cmp%3Dmsptestus%26ad_id%3Dibweb%26niche%3Dinstabang-homepage) for the most accurate reproduction.*
 
 # 
 
