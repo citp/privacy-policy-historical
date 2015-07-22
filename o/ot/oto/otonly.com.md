@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otonly.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519062829id_/http%3A//otonly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otonly.com privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722025300id_/http%3A//otonly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home Interior and Exteriors
 
