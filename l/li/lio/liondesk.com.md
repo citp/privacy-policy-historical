@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liondesk.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523094504id_/http%3A//www.liondesk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liondesk.com privacy policy that was archived on 2015-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150723001336id_/http%3A//www.liondesk.com/privacy.html) for the most accurate reproduction.*
 
 # LionDesk: Privacy Policy Real Estate Agent CRM and Sales & Marketing Tools
 
