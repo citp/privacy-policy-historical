@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acellus.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617111300id_/http%3A//www.acellus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acellus.com privacy policy that was archived on 2015-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150722024344id_/http%3A//www.acellus.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Acellus — The Science of Learning
 
@@ -60,3 +60,9 @@ Changes to this policy
 We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. We last modified this Policy on February 27, 2015. 
 
 If you have questions or concerns regarding this policy, please [contact us](https://www.acellus.com/contact_us.php) through our website or by writing to us at Acellus Academy, Attn: Privacy Department, 26900 E. Pink Hill Rd., Independence, MO 64057.
+
+Copyright  
+If you are the owner of content that is being used in an Acellus course without your permission, then you may request the content be removed from Acellus by contacting our designated agent. We will, of course, need some evidence to support your claim of ownership.
+
+Designated Agent  
+
