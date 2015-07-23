@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madewithstudio.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317144806id_/http%3A//www.madewithstudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madewithstudio.com privacy policy that was archived on 2015-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150723162821id_/http%3A//www.madewithstudio.com/privacy) for the most accurate reproduction.*
 
 # Studio / Privacy Policy
 
