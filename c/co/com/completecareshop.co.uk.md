@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the completecareshop.co.uk privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011215656id_/http%3A//www.completecareshop.co.uk/shop-information/9/your_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completecareshop.co.uk privacy policy that was archived on 2015-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150723063854id_/http%3A//www.completecareshop.co.uk/shop-information/your-privacy) for the most accurate reproduction.*
 
-# Your Privacy | Disability aids | Elderly aids
-
-[ ](https://web.archive.org/)
-
-Items in basket: 0,   Value of basket: £0.00[ ](https://web.archive.org/orderprocess/1/checkout.html)
+# Your Privacy
 
 Click here to go back to your Previous Page
 
@@ -14,7 +10,7 @@ When you place an order and enter your name and delivery information, these pers
 a. Take and fulfil customer orders.  
 b. Administer and enhance the site and service.  
 c. Only disclose information to third-parties for goods delivery purposes  
-d. Send you an email newsletter (if you selected to receive our email newsletters). Each newsletter will also carry a simple one-click link to easily unsubscribe.
+d. Send you an email newsletter (if you selected to receive our email newsletters). Each newsletter will also carry a simple one-click link to easily unsubscribe.
 
 ### Use of cookies by Complete Care
 
@@ -43,7 +39,7 @@ Session |
 
 ASPSESSION...
 
-| This cookie is used to record goods you place in the shopping basket and any promotional code that applies. |    
+| This cookie is used to record goods you place in the shopping basket and any promotional code that applies. |   
   
 Google Analytics
 
@@ -60,11 +56,11 @@ _utmz
   
 Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
 
 ### YouTube cookies
 
-We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit [YouTube’s embedding videos information page](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780 "External link").
+We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit [YouTube’s embedding videos information page](http://www.google.com/support/youtube/bin/answer.py?hl=en-GB&answer=171780 "External link").
 
 ### Search engine
 
