@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxhurricane.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618232132id_/http%3A//www.myfoxtampabay.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxhurricane.com privacy policy that was archived on 2015-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150723185306id_/http%3A//www.myfoxtampabay.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - FOX 13 News
 
