@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinmining.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622025901id_/http%3A//www.bitcoinmining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinmining.com privacy policy that was archived on 2015-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150723073726id_/https%3A//www.bitcoinmining.com/privacy) for the most accurate reproduction.*
 
 # What is Bitcoin Mining? – Become the best Bitcoin miner and learn how to mine Bitcoins with the best Bitcoin mining hardware, software, pools and cloud mining.
 
