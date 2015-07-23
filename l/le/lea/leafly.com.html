@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the leafly.com privacy policy that was archived on 2015-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150621020942id_/https%3A//www.leafly.com/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leafly.com privacy policy that was archived on 2015-07-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150723080218id_/http%3A//www.leafly.com/company/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html data-ng-controller="MainCtrl as main" data-ng-class="{'navigation-open' : main.showNavigation}"><head>
     <title>Privacy Policy - Leafly</title>
@@ -43,7 +43,7 @@
     <script type="text/javascript" src="//use.typekit.com/jxt3mrq.js"></script>
     <script type="text/javascript">var p = "http", d = "static"; if (document.location.protocol == "https:") { p += "s"; d = "engine"; } var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = p + "://" + d + ".adzerk.net/ados.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script>
    
-    <link href="//d3h17ltqi8v019.cloudfront.net/bundles/leaflycss?v=w1HB7QWky9bPBrcNafE2-ziMF0rZSWHZ6R1qgX036BU1" rel="stylesheet">
+    <link href="//d3h17ltqi8v019.cloudfront.net/bundles/leaflycss?v=Z2fvLc15fXA9g3dVRi4eGI6QYUHUThIo2ZBbTfTiJ6U1" rel="stylesheet">
 
  
     <script type="text/javascript">
@@ -89,7 +89,7 @@
 
 
 
-<div class="mobile-nav hidden-lg hidden-xl">
+<div class="mobile-nav hidden-lg hidden-xl" ng-hide="contentMessage">
 	<div class="header__menu l-grid grid-1">
 		<div m-search="" resource="/api2/search/autocomplete?term=" query="" latitude="main.latitude" longitude="main.longitude" class="m-search-container header__menu__search grid-1 grid-md-12-24 grid-md-push-6-24">
 	<form class="m-form--search m-form copy--sm">
@@ -202,10 +202,10 @@
 </div>
 
 
+<div class="contentMessage" ng-show="contentMessage" ng-cloak="">Visit <a href="{{redirectUrl}}" target="_parent">Leafly.com</a> to view and access this content</div>
 
 
-
-<div class="page-container mobile-nav-animation" data-ng-class="{'mobile-nav-animation--slide-in': main.showNavigation }">
+<div class="page-container mobile-nav-animation" data-ng-class="{'mobile-nav-animation--slide-in': main.showNavigation }" ng-hide="contentMessage">
 
 	<div id="header" class="copy--thin">
 		<div class="header__main__wrapper" m-fixed-header="" animate="!main.showNavigation">
@@ -412,12 +412,12 @@
 
 <p>When you create an account and use our Service, we collect the following types of information from you:</p>
 
-<ul>
-	<li><strong>1.</strong> Name;</li>
-	<li><strong>2.</strong> Contact information such as your email address and phone number;</li>
-	<li><strong>3.</strong> Demographics information such as your gender and location;</li>
-	<li><strong>4.</strong> Any other information, such as reviews, content, and bio, you provide us.</li>
-</ul>
+<ol>
+	<li>Name;</li>
+	<li>Contact information such as your email address and phone number;</li>
+	<li>Demographics information such as your gender and location;</li>
+	<li>Any other information, such as reviews, content, and bio, you provide us.</li>
+</ol>
 
 <p>If you create an account using, or otherwise connect your account to, a social networking services account (e.g. Twitter or Facebook), we may also collect information provided to us by such social networking service including for example your: name; email address; birthday; geographic location; interests; profile picture; gender; networks; user ID; list of friends; and any information you have made public on such social networking account.</p>
 
@@ -457,13 +457,13 @@
 
 <p>We may share your information as follows:</p>
 
-<ul>
-	<li><strong>1.</strong> We may share your personal information with your consent or at your direction.</li>
-	<li><strong>2.</strong> We may also share your information with others who perform services on our behalf (for example, with Twilio if you make a call using the Service).</li>
-	<li><strong>3.</strong> We may disclose your information if we believe we are required to do so by law, or to comply with a court order, judicial or other government subpoena, or warrant.</li>
-	<li><strong>4.</strong> We also may disclose your information if we believe doing so is appropriate or necessary to prevent any liability, or fraudulent, abusive, or unlawful uses or to protect Leafly and our Services; or any rights, property, or personal safety of Leafly or others.</li>
-	<li><strong>5.</strong> In the event that Leafly is or may be acquired by or merged with another company or involved in any other business deal (or negotiation of a business deal) involving sale or transfer of all or part of our business or assets, we may transfer or assign your information as part of or in connection with the transaction. Finally, in the event of insolvency, bankruptcy, or receivership, information may be transferred as a business asset.</li>
-</ul>
+<ol>
+	<li>We may share your personal information with your consent or at your direction.</li>
+	<li>We may also share your information with others who perform services on our behalf (for example, with Twilio if you make a call using the Service).</li>
+	<li>We may disclose your information if we believe we are required to do so by law, or to comply with a court order, judicial or other government subpoena, or warrant.</li>
+	<li>We also may disclose your information if we believe doing so is appropriate or necessary to prevent any liability, or fraudulent, abusive, or unlawful uses or to protect Leafly and our Services; or any rights, property, or personal safety of Leafly or others.</li>
+	<li>In the event that Leafly is or may be acquired by or merged with another company or involved in any other business deal (or negotiation of a business deal) involving sale or transfer of all or part of our business or assets, we may transfer or assign your information as part of or in connection with the transaction. Finally, in the event of insolvency, bankruptcy, or receivership, information may be transferred as a business asset.</li>
+</ol>
 
 <p>We may also share aggregated and anonymized data with our partners, advertisers, and other third parties.</p>
 
@@ -702,22 +702,22 @@ Email: support@Leafly.com</p>
 					<header class="heading--xxs copy--bolder">Recently Added Strains</header>
 					<ul class="m-list">
 		<li>
-			<a href="/hybrid/predator-pink" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">Predator Pink</a>
+			<a href="/indica/jt15" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">JT15</a>
 		</li>
 		<li>
-			<a href="/hybrid/gods-green-crack" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">God's Green Crack</a>
+			<a href="/hybrid/jesus" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">Jesus</a>
 		</li>
 		<li>
-			<a href="/indica/blue-afghani" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">Blue Afghani</a>
+			<a href="/hybrid/double-dutch" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">Double Dutch</a>
 		</li>
 		<li>
-			<a href="/sativa/hawaiian-dream" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">Hawaiian Dream</a>
+			<a href="/hybrid/one-to-one" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">One to One</a>
 		</li>
 		<li>
-			<a href="/hybrid/maui-bubble-gift" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">Maui Bubble Gift</a>
+			<a href="/indica/pine-tar-kush" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">Pine Tar Kush</a>
 		</li>
 		<li>
-			<a href="/hybrid/eugene-cream" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">Eugene Cream</a>
+			<a href="/sativa/astroboy" class="notranslate" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'Recent Strain Link')" target="_self">Astroboy</a>
 		</li>
 </ul>
 				</div>
@@ -725,12 +725,12 @@ Email: support@Leafly.com</p>
 					<header class="heading--xxs copy--bolder">Leafly News &amp; Culture</header>
 					<ul class="m-list">
 		<li>
-			<a href="/news/strains/new-strains-alert-hawaiian-dream-blue-afghani-maui-bubble-gift-go" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'News Link')" target="_self">New Strains Alert: Hawaiian Dream, Blue Afghani, Maui Bubble Gift, God's Green Crack, and More</a>
-			<div>Friday, June 19, 2015</div>
+			<a href="/news/health/6-reasons-why-we-need-to-support-the-scientific-investigation-of" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'News Link')" target="_self">6 Reasons Why We Need to Support the Scientific Investigation of Medical Cannabis</a>
+			<div>Wednesday, July 22, 2015</div>
 		</li>
 		<li>
-			<a href="/news/headlines/delaware-decriminalizes-the-possession-of-cannabis" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'News Link')" target="_self">Delaware Decriminalizes the Possession of Cannabis</a>
-			<div>Friday, June 19, 2015</div>
+			<a href="/news/health/are-time-released-cannabis-pills-the-future-of-medical-marijuana" leafly-actions="GoogleAnalyticsFactory('Global', 'Footer', 'News Link')" target="_self"> Are Time-Released Cannabis Pills the Future of Medical Marijuana?</a>
+			<div>Tuesday, July 21, 2015</div>
 		</li>
 </ul>
 				</div>
@@ -1031,9 +1031,9 @@ Email: support@Leafly.com</p>
         /*</sl:translate>*/
 	</script>
 
-    <script src="//d3h17ltqi8v019.cloudfront.net/bundles/libsjs?v=wvriQvjGxm5vioFx59Ox6QsJ7uiS2e_YFOZHp6urw9k1"></script>
+    <script src="//d3h17ltqi8v019.cloudfront.net/bundles/libsjs?v=lAdD45BO8gq49lpzDqNcWCNKP7-q2wSa8l13oMhjNkU1"></script>
 
-    <script src="//d3h17ltqi8v019.cloudfront.net/bundles/leaflyjs?v=pIu0yRyfYKopKW7FNrY4Qv_1WS1tjD8m9k0p85mg7eA1"></script>
+    <script src="//d3h17ltqi8v019.cloudfront.net/bundles/leaflyjs?v=bbz6itgbzjHRIctJ4SC_2dXvnjGMh0VBzgtXyfzjZLM1"></script>
 
     
     <script type="text/javascript">
@@ -1087,7 +1087,7 @@ Email: support@Leafly.com</p>
 
     <!--www.leafly.com-->
     <!--www.leafly.com-->
-    <!--6/21/2015 2:09:43 AM-->
+    <!--7/23/2015 8:02:18 AM-->
     <!--en-->
 	<!--en-US-->
 
