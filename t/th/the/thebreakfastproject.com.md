@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebreakfastproject.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627204149id_/http%3A//milklife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebreakfastproject.com privacy policy that was archived on 2015-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150724055417id_/http%3A//milklife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Milk Recipes and Other Healthy Breakfast Ideas
 
