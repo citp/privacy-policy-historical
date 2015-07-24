@@ -1,19 +1,53 @@
-> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112065629id_/http%3A//www.desiplaza.us/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D14%26Itemid%3D508) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2015-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150724184004id_/http%3A//www.desiplaza.us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Desiplaza.us : South Asian community portal of dallas.
+# Privacy Policy
 
-We have established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by us from time to time. We will provide notice of materially significant changes to this privacy policy by posting notice on the site.
+##  Privacy Plicy 
 
-1\. Protecting your privacy : We don't share your information with third parties for marketing purposes. We don't engage in cross-marketing or link-referral programs with other site. Account information is password-protected. Keep your password safe.
+Desiplaza.us Privacy Policy  
+This Privacy Policy was last modified on March 31st 2015.  
+Company, Inc. (Desiplaza LLC) ("us", "we", or "our") operates [http://www.desiplaza.us.](http://www.desiplaza.us./) This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.  
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-People who post on this site, may provide links to third party websites, which may have different privacy practices. We are not responsible for, nor have any control over, the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited.
+Information Collection And Use  
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information").
 
-2\. Data we collect : We sometimes collect your email address, authenticating user accounts, providing subscription email services, etc.
+Any Information we collect from may be used in one of the following ways.
 
-Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administer the site, and to otherwise provide our service to you.
+* To improve your experiece (Your information helps us to better respond to your individual needs)  
+*To improve our website (We continuously strive to improve our website offerings based on the information and feedback we receive from you)  
+* To Process transactions, Your personal information either public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your concent, other than for the express purpose of delivering the purchased products or service information, etc.,
 
-3\. Data we store : All classifieds are stored in our database, Our web logs and other records are stored indefinitely. Although we make good faith efforts to store the information in a secure operating environment that is not available to the public, we cannot guarantee complete security.
+*To send periodic Emails , The email address you provide may be used to send you information and updates pertaining to your order, to send updateson Upcoming events & happenings, company news, updates, related products or service informations, etc.,
 
-4\. Release Information : Circumstances in which we may release information, may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
+Note : If any time you would like to unsubscriber from receiving future emails, we include detailes unsubscribe instructions at the bottom of each email.
 
-Site admin may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms of Use; respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety, its users or the general public.
+*To Administer a contest, promotion, survey or other site features.
+
+How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
+
+* We do not use cookies
+
+*Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. this does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we beleive release is appropriate to comply with the law, enforce our site policies, protect ours or others rights, property, or safety. However, non-personally identifiable visitor may be provided to other parties for marketing, advertising or other uses.
+
+Third party links
+
+Occationally at our discretion, we may include or offer 3rd party products or services on our website. These 3rd party sites have seperate and independant privacy policies. We therefore have no responsibility or liability for the content and archives of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+Online Privacy Policy only
+
+This online privacy policy applies only to the information collected through the website and not to information collected offline.
+
+Contacting Us
+
+If there are any questions regarding the privacy policy you may contact us using the Information below.
+
+Desiplaza Studios  
+1404 W Walnut Hill Ln, Suite 110  
+Irving, Texas 75038
+
+Email : [dallasidol2015@gmail.com](mailto:dallasidol2015@gmail.com)
