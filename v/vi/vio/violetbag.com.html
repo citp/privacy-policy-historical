@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the violetbag.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317141445id_/http%3A//www.violetbag.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the violetbag.com privacy policy that was archived on 2015-07-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150724185249id_/http%3A//www.violetbag.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<title>VioletBag.com</title>
@@ -71,6 +71,42 @@ _gaq.push(['_trackPageLoadTime']);
 </div>
 
 
+	<script type="text/javascript">
+	// <![CDATA[
+	
+		$('document').ready( function() {
+			$("#search_query_top")
+				.autocomplete(
+					'http://www.violetbag.com/search.php', {
+						minChars: 3,
+						max: 10,
+						width: 500,
+						selectFirst: false,
+						scroll: false,
+						dataType: "json",
+						formatItem: function(data, i, max, value, term) {
+							return value;
+						},
+						parse: function(data) {
+							var mytab = new Array();
+							for (var i = 0; i < data.length; i++)
+								mytab[mytab.length] = { data: data[i], value: data[i].cname + ' > ' + data[i].pname };
+							return mytab;
+						},
+						extraParams: {
+							ajaxSearch: 1,
+							id_lang: 1
+						}
+					}
+				)
+				.result(function(event, data, formatted) {
+					$('#search_query_top').val(data.pname);
+					document.location.href = data.product_link;
+				})
+		});
+	
+	// ]]>
+	</script>
 <!-- /Block search module TOP -->
 <!-- Block user information module HEADER -->
 <div id="header_user">	
