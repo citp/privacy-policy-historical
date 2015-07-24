@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesleepjudge.com privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524205000id_/http%3A//www.thesleepjudge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesleepjudge.com privacy policy that was archived on 2015-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150725015737id_/http%3A//www.thesleepjudge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Sleep Judge
 
