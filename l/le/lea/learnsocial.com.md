@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnsocial.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317033720id_/https%3A//www.learnsocial.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnsocial.com privacy policy that was archived on 2015-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150725152014id_/https%3A//www.learnsocial.com/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LearnSocial
 
@@ -32,7 +32,7 @@ We are committed to protecting children's privacy online. This Site is intended 
 
 #### Updating or Deleting of Personally Identifiable Information:
 
-For any update or deletion of your personally identifiable information please email us at [support@learnsocial.com](mailto:support@learnsocial.com)
+For any update or deletion of your personally identifiable information please email us at [experience@learnsocial.com](mailto:experience@learnsocial.com)
 
 #### Billing:
 
@@ -72,11 +72,11 @@ To make online purchases you must use an SSL-enabled browser in order to protect
 
 Access by you to your account is available through a password and/or unique user name selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone, that you change your password often using a combination of letters and numbers, and that you ensure you use a secure web browser. We cannot be held accountable for activity that results from your own neglect to safeguard the secrecy of your password and user name. If you share a computer with anyone, you should always log out of your account after you are finished, in order to prevent access to your information from subsequent users of that computer.
 
-Please notify us as soon as possible if your user name or password is compromised. Call to: +91 - 8184845555 for assistance, or email [support@learnsocial.com.](mailto:support@learnsocial.com.)
+Please notify us as soon as possible if your user name or password is compromised. Call to: +91 - 8184845555 for assistance, or email [experience@learnsocial.com.](mailto:experience@learnsocial.com.)
 
 Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this Website cannot be guaranteed and we shall have no liability to you or any third party for loss, misuse, disclosure or alteration of such information; and (c) any such information and data may be viewed or tampered with in transit by a third party.
 
-In the unlikely event that we believe that the security of your Personally Identifiable Information in our control may have been compromised, we will notify you as promptly as possible under the circumstances. To the extent we have your e-mail address, we may notify you by e-mail and you consent to our use of e-mail as a means of such notification. If you prefer for us to use another method to notify you in this situation, please e-mail us at [support@learnsocial.com.](mailto:support@learnsocial.com.) with the alternative contact information you wish to be used.
+In the unlikely event that we believe that the security of your Personally Identifiable Information in our control may have been compromised, we will notify you as promptly as possible under the circumstances. To the extent we have your e-mail address, we may notify you by e-mail and you consent to our use of e-mail as a means of such notification. If you prefer for us to use another method to notify you in this situation, please e-mail us at [experience@learnsocial.com.](mailto:experience@learnsocial.com.) with the alternative contact information you wish to be used.
 
 #### Linking:
 
@@ -93,7 +93,7 @@ This Site is hosted and operated in the India. If you are visiting from other re
 
 #### Contact Us:
 
-_If you have questions or concerns regarding this Policy, please contact us by emailing[support@learnsocial.com](mailto:support@learnsocial.com.)._
+_If you have questions or concerns regarding this Policy, please contact us by emailing[experience@learnsocial.com](mailto:experience@learnsocial.com.)._
 
 **WAY2DIGITAL PRIVATE LIMITED**  
 Level-3, Vamsiram Jubilee Casa,  
