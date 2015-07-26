@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzle.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627112930id_/http%3A//www.buzzle.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzle.com privacy policy that was archived on 2015-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150726053224id_/http%3A//www.buzzle.com/privacy.asp) for the most accurate reproduction.*
 
 # Buzzle Privacy Policy
 
@@ -32,13 +32,13 @@ We share aggregated demographic information with our partners and advertisers. T
 Your personally identifiable information is not retained, shared, stored or used by our third-party service providers, except in cases where the user has voluntarily signed up for their services. These third-party service providers are not allowed to use personally identifiable information except for the purpose of providing these services.
 
 **Offsite Links**  
-This web site contains links to other sites. Please be aware that Buzzle.com is not responsible for the privacy practices of the sites to which we are linked. We encourage our users to be aware when they leave our site and to read the privacy statements of websites they visit.
+This website contains links to other sites. Please be aware that Buzzle.com is not responsible for the privacy practices of the sites to which we are linked. We encourage our users to be aware when they leave our site and to read the privacy statements of websites they visit.
 
 **Surveys and Contests**  
 On occasion, our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose their information. Information requested may include contact information and demographic information. Contest information, which includes contact and demographic information, is used to notify the winners and award prizes. Survey information is used for purposes of monitoring or improving the use of Buzzle.com.
 
 **Security**  
-Buzzle.com takes every precaution to protect our users' information. When users submit sensitive information via the website, the information is protected both online and off-line. Sensitive information transmitted through our registration and order forms is encrypted and protected with encryption software. If you have any questions about the security at our website, please [contact us](https://web.archive.org/web/20150627112930id_/http%3A//www.buzzle.com/contact.asp).
+Buzzle.com takes every precaution to protect our users' information. When users submit sensitive information via the website, the information is protected both online and offline. Sensitive information transmitted through our registration and order forms is encrypted and protected with encryption software. If you have any questions about the security at our website, please [contact us](https://web.archive.org/web/20150726053224id_/http%3A//www.buzzle.com/contact.asp).
 
 **Third-Party Advertising**  
 We use third-party advertising companies to serve advertisements when you visit our website. These companies may use non-personal information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you.
@@ -48,7 +48,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **Google Advertising Cookies**
 
-  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Google, as a third-party vendor, uses cookies to serve ads on our site.
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
@@ -63,7 +63,7 @@ We send a welcoming email to all new members for the purpose of verifying their 
 We also send our members site and service announcement updates. These updates are critical to our members, and therefore do not allow our members the ability to unsubscribe from this service.
 
 **Updating Personal Information/Member Status**  
-If a user's personally identifiable information changes, or if a user no longer desires the use of our service, we will endeavor to provide a way to correct, update or remove that user's personal data. If this situation occurs, please [contact us](https://web.archive.org/web/20150627112930id_/http%3A//www.buzzle.com/contact.asp).
+If a user's personally identifiable information changes, or if a user no longer desires the use of our service, we will endeavor to provide a way to correct, update or remove that user's personal data. If this situation occurs, please [contact us](https://web.archive.org/web/20150726053224id_/http%3A//www.buzzle.com/contact.asp).
 
 **Opting-Out of Information Use**  
 When users are prompted to submit their personally identifiable information, they are given the opportunity to 'opt-out' of having this information used for purposes not directly related to our site. When users opt-out, their information will not be used for these purposes.
@@ -73,4 +73,4 @@ Our users are notified when their information will be collected by outside parti
 **Notification of Policy Changes**  
 Should our privacy policy change, notification will be posted on Buzzle.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, users will be notified via email. Upon notification, users will have a choice as to whether or not their information will be used in this manner. User information will be used in accordance with the privacy policy under which the information was collected.
 
-If you have any questions or concerns about the collection of your information during your visit at Buzzle.com, please [contact us](https://web.archive.org/web/20150627112930id_/http%3A//www.buzzle.com/contact.asp).
+If you have any questions or concerns about the collection of your information during your visit at Buzzle.com, please [contact us](https://web.archive.org/web/20150726053224id_/http%3A//www.buzzle.com/contact.asp).
