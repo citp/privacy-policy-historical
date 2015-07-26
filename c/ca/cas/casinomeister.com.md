@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601042638id_/http%3A//www.casinomeister.com/legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinomeister.com privacy policy that was archived on 2015-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150726214637id_/http%3A//www.casinomeister.com/legal.php) for the most accurate reproduction.*
 
 # Legal Statement and Privacy Policy at Casinomeister
 
@@ -17,8 +17,8 @@
     * [Casino Reviews](http://www.casinomeister.com/forums/list.php?r=category/91-Meister-Reviews)
     * [The Reservation](http://www.casinomeister.com/reservation.php)
     * [Best Casinos of the Year](http://www.casinomeister.com/forums/list.php?r=category/20-Best-Casino-of-the-Year)
+    * [US Licensed](http://www.casinomeister.com/forums/list.php?r=category/5-Accepts-US)
     * [UK Licensed](http://www.casinomeister.com/forums/list.php?r=category/49-UK-Gambling-Commission)
-    * [US Facing](http://www.casinomeister.com/forums/list.php?r=category/5-Accepts-US)
     * [IGT Casino list](http://www.casinomeister.com/wagerworks.php)
     * [Microgaming Casinos](http://www.casinomeister.com/microgaming.php)
     * [Playtech Casinos](http://www.casinomeister.com/playtech.php)
@@ -67,8 +67,7 @@
 
 | 
 
-  * [Meister Awards](http://www.casinomeister.com/meister_awards/bestworst2014.php)
-    * [2014](http://www.casinomeister.com/meister_awards/bestworst2014.php)
+  * [Meister Awards](http://www.casinomeister.com/meister_awards/bestworst2013.php)
     * [2013](http://www.casinomeister.com/meister_awards/bestworst2013.php)
     * [2012](http://www.casinomeister.com/meister_awards/bestworst2012.php)
     * [2011](http://www.casinomeister.com/meister_awards/bestworst2011.php)
@@ -105,7 +104,7 @@
 ---|---|---|---|---|---|---|---|---  
 |  | 
 
-[home](https://web.archive.org/web/20150601042638id_/http%3A//www.casinomeister.com/index.php) >> This page  
+[home](https://web.archive.org/web/20150726214637id_/http%3A//www.casinomeister.com/index.php) >> This page  
 
 
 | Statement  
@@ -176,21 +175,19 @@ Fake Curaçao license
   
 [Rogue section here...](http://www.casinomeister.com/rogue/)  
 ---  
-[Casinomeister News](http://www.casinomeister.com/news/)  
-[MEISTER AWARDS ANNOUNCED!](http://www.casinomeister.com/meister_awards/bestworst2014.php)
-
-Best Casino, Worst Casino, Best Casino Group, Worst Casino Group, Evil Marketing Award, Evil Player Award, all this and more!  
+[Meister Mail](http://www.casinomeister.com/newsletter/2015/july2015/22july2015.php)  
+**AMSTERDAM DECADENCE REPORT - 2015!** Read about pub crawls, hanging out with the meister crew, Amsterdam Affiliate Conference, all this and more! Check it out [here](http://www.casinomeister.com/newsletter/2015/july2015/22july2015.php).   
   
 Casinomeister's Webcast!
 
-My Vegas trip - The Amazing Protecto's Player Warning  
+**17 YEARS OF CASINOMEISTER!!! Bierfest and Meister Minions!!**  
   
   
-[LATEST IN PLAYBOY SERIES FROM MICROGAMING](http://www.casinomeister.com/news/october2014/online_casino_news2/LATEST-IN-PLAYBOY-SERIES-FROM-MICROGAMING.php)
+[AFFILIATES ADVISED TO CEASE PROMOTING UNREGULATED WEBSITES IN NEW JERSEY](http://www.casinomeister.com/news/june2015/online_casino_news2/AFFILIATES-ADVISED-TO-CEASE-PROMOTING-UNREGULATED-WEBSITES-IN-NEW-JERSEY.php)
 
-Multiplayer version of popular iconic Playboy-branded slot 
+Have 150 days to comply 
 
-Check it out [**here**](http://www.casinomeister.com/news/october2014/online_casino_news2/LATEST-IN-PLAYBOY-SERIES-FROM-MICROGAMING.php)  
+Check it out [**here**](http://www.casinomeister.com/news/june2015/online_casino_news2/AFFILIATES-ADVISED-TO-CEASE-PROMOTING-UNREGULATED-WEBSITES-IN-NEW-JERSEY.php)  
   
 [More news here...](http://www.casinomeister.com/news/)  
     
