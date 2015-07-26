@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the homejoy.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045947id_/https%3A//www.homejoy.com/privacy/us/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homejoy.com privacy policy that was archived on 2015-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150726023004id_/https%3A//homejoy.com/privacy/us/en) for the most accurate reproduction.*
 
 # Privacy Policy - Homejoy
-
-**Privacy Policy**
 
 **Last updated: April 14th, 2014**
 
