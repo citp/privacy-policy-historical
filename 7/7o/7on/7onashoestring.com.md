@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7onashoestring.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515211332id_/http%3A//7onashoestring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7onashoestring.com privacy policy that was archived on 2015-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150726092030id_/http%3A//7onashoestring.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 7 on a Shoestring
 
@@ -44,6 +44,8 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated infromation (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
 **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), our policy is located at .
@@ -64,10 +66,4 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 11/14/2011
-
-http://7onashoestring.com/contact-me
-
-This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Kayako](http://www.rhinosupport.com/kayako.htm) and save!
-
-[](http://www.printfriendly.com/print?url=http%3A%2F%2F7onashoestring.com%2Fprivacy-policy%2F)
+This policy was last modified on 06/29/2015
