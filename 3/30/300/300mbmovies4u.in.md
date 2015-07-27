@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 300mbmovies4u.in privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608115546id_/http%3A//www.300mbmovies4u.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 300mbmovies4u.in privacy policy that was archived on 2015-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150727073620id_/http%3A//www.300mbmovies4u.in/helpful-tutorials/privacy-policy) for the most accurate reproduction.*
 
-# 300mbmovies4u.in privacy policy ⋆ 300mbmovies4u.in-worldfree4u world4free hollywood bollywood movies
+# 300mbmovies4u.in privacy policy - 300mbmovies4u.in
 
 ## privacy policy
 
-**At ‘300mbmovies4u.in’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘300mbmovies4u.in’, and how we safeguard your information.**
+ **At ‘300mbmovies4u.in’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘300mbmovies4u.in’, and how we safeguard your information.**
 
 We never sell your personal information to third parties.
 
@@ -18,6 +18,4 @@ Log Files – As with most other websites, we collect and use the data contained
 
 Cookies and Web Beacons – We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click here.
 
-**We can be reached via our contact e-mail to admin@300mbmovies4u.in**
-
-399 total views, 2 views today
+ **We can be reached via our contact e-mail to admin@300mbmovies4u.in**
