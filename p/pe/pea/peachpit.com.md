@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peachpit.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429042424id_/http%3A//www.peachpit.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachpit.com privacy policy that was archived on 2015-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150727105321id_/http%3A//www.peachpit.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Peachpit
 
