@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearinglossreversed.net privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509150834id_/http%3A//www.hearinglossreversed.net/privacy/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearinglossreversed.net privacy policy that was archived on 2015-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150728032004id_/http%3A//www.hearinglossreversed.net/privacy/1/-/-/-/-/1) for the most accurate reproduction.*
 
 # Privacy | Reverse Hearing Loss
 
@@ -59,7 +59,7 @@ We are in compliance with the requirements of COPPA (Children Online Privacy Pro
 
 ##### YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [support@hearinglossreversed.com](https://web.archive.org/web/20150509150834id_/http%3A//www.hearinglossreversed.net/privacy/support@hearinglossreversed.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [support@hearinglossreversed.com](https://web.archive.org/web/20150728032004id_/http%3A//www.hearinglossreversed.net/privacy/1/-/-/-/-/support@hearinglossreversed.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -73,5 +73,5 @@ By using our site, you indicate that you agree to our privacy policy and that yo
 
 ##### CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@hearinglossreversed.com](https://web.archive.org/web/20150509150834id_/http%3A//www.hearinglossreversed.net/privacy/support@hearinglossreversed.com).  
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@hearinglossreversed.com](https://web.archive.org/web/20150728032004id_/http%3A//www.hearinglossreversed.net/privacy/1/-/-/-/-/support@hearinglossreversed.com).  
 
