@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriftcat.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316020908id_/http%3A//www.thriftcat.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftcat.org privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730011320id_/http%3A//www.thriftcat.org/privacy) for the most accurate reproduction.*
 
 # Thriftcat Privacy Policy
 
