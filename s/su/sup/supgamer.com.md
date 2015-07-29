@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supgamer.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618112112id_/http%3A//supgamer.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supgamer.com privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729171002id_/http%3A//supgamer.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SupGamer - Thats Whats Up
 
