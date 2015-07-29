@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wefollow.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624042206id_/http%3A//wefollow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wefollow.com privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729205247id_/http%3A//wefollow.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy : Wefollow : Discover prominent people
 
