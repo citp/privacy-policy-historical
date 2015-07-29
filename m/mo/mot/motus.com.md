@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motus.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074225id_/http%3A//www.motus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motus.com privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729080104id_/http%3A//www.motus.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | motus.com
+# Privacy Policy - Mobile Workforce Management Solutions | Motus (CRS Inc)
 
 ### AGREEMENT
 
@@ -30,13 +30,19 @@ We collect this information for Motus use only; we will not sell, trade, or rent
 
 ### COOKIES
 
-Motus uses cookies that are session-based and persistent. Session-based cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. You have the ability to accept or decline cookies by modifying the settings in your browser. You also have the ability to enable or disable persistent cookies by checking or unchecking the “Remember Me” option at login.
+Cookies are bits of electronic information that can be transferred to your computer or other electronic device to uniquely identify your browser. When you use our website, we may place one or more cookies on your computer or other electronic device. We may use cookies to connect your activity on our website with other information we store about you in your account profile or your prior interactions our website to, for example, store your preferences. The use of cookies helps us improve the quality of the products and services we provide to you by identifying information which is most interesting to you (see Targeted Advertising), tracking trends, measuring the effectiveness of advertising, or storing information you may want to retrieve on a regular basis. Motus uses cookies that are session-based and persistent. Session-based cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. You have the ability to accept or decline cookies by modifying the settings in your browser. You also have the ability to enable or disable persistent cookies by checking or unchecking the “Remember Me” option at login.
 
-Please note that if you disable your web browser’s ability to accept cookies, you will not be able to navigate Motus websites, and you will not be able to successfully use Motus services or offerings. Unless you have adjusted your browser setting so that it will refuse cookies, our system will place cookies when you log on to our websites. For more information about how to manage cookies in your web browser, see [http://www.aboutcookies.org](http://www.aboutcookies.org/).
+At any time, you may adjust your browser settings to refuse cookies according to the instructions related to your browser. Please note that if you disable your web browser’s ability to accept cookies, you will not be able to navigate Motus websites, and you will not be able to successfully use Motus services or offerings. Unless you have adjusted your browser setting so that it will refuse cookies, our system will place cookies when you log on to our websites. For more information about how to manage cookies in your web browser, see [http://www.aboutcookies.org](http://www.aboutcookies.org/).
 
 ### WEB BEACONS
 
 Web beacons are transparent graphic images placed in emails or web pages to record the simple actions of users. Web beacons collect only limited information, such as time and date of a page being viewed, and a description of the page on which the web beacon resides (the URL). Motus uses web beacons to support analytical programs like Google Analytics and New Relic (our SLA monitoring system).
+
+### TARGETED ADVERTISING
+
+We may participate in targeted advertising. This means that, for example, when you visit our website, we or third party service providers or advertisers may use cookies (that they collect or that we provide to them) or other similar technologies to collect information about your use of our website or your online activities over time and across different websites. As you visit our website, cookies will be placed on your computer and information will be collected so that we can understand what you are interested in. Collected information may include the content you view, the date and time that you view this content, the time you spent viewing this content, and the website that referred you to our website. This information may be associated with your unique browser, device identifier, or Internet Protocol address. These practices help our display advertising partner, Google AdWords, to tailor advertisements that are relevant and useful to you. This could be in the form of an advertisement on the Google search results page, or a website in the Google Display Network.
+
+You can visit the page [Google Ad Preferences](http://www.google.com/settings/ads/onweb/) to opt-out of targeted advertising, and to set preferences for how Google advertises to you. You can also opt-out of targeted advertising entirely by modifying your browser settings or by using a browser plug-in.
 
 ### GPS
 
