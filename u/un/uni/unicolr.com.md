@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicolr.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626051407id_/http%3A//unicolr.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicolr.com privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729234243id_/http%3A//unicolr.com/privacy-cookies) for the most accurate reproduction.*
 
 # UNICOLR - Privacy & Cookies
 
