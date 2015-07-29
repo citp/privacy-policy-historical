@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319081406id_/https%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nihongomaster.com privacy policy that was archived on 2015-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150729231531id_/http%3A//www.nihongomaster.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Nihongo Master, Learn Japanese Online
 
