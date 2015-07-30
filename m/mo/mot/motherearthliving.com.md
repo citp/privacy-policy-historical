@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherearthliving.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608121334id_/http%3A//www.motherearthliving.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherearthliving.com privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730032839id_/http%3A//www.motherearthliving.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
