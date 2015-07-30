@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatinteriordesign.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206125849id_/http%3A//www.greatinteriordesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatinteriordesign.com privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730034919id_/http%3A//www.greatinteriordesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Great Interior Design - Greats interior design inspirations for House, Apartment, Villa, Hotel, Restaurant, Office, Store, Car, Yacht, etc.
 
