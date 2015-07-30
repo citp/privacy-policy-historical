@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysciencework.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302151043id_/http%3A//www.mysciencework.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysciencework.com privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730065945id_/https%3A//www.mysciencework.com/privacy) for the most accurate reproduction.*
 
 # Privacy MyScienceWork
 
@@ -22,7 +22,7 @@ MyScienceWork will not sell or share your personal data. MyScienceWork reserves 
 
 Privacy and Data Protection 
 
-MyScienceWork considers protecting your privacy and your data a priority, an essential element in building trust between MyScienceWork and its users. Therefore, MyScienceWork has introduced specific measures to oversee issues of data protection. For inquiries or complaints regarding privacy and data protection, contact: contact@mysciencework.com 
+MyScienceWork considers protecting your privacy and your data a priority, an essential element in building trust between MyScienceWork and its users. Therefore, MyScienceWork has introduced specific measures to oversee issues of data protection. For inquiries or complaints regarding privacy and data protection, contact: contact(at)mysciencework(dot)com. 
 
 Changes to the Declaration on the Protection of Personal Data 
 
