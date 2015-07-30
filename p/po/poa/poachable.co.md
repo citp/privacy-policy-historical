@@ -1,47 +1,261 @@
-> *The following text is extracted and transformed from the poachable.co privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927123700id_/http%3A//poachable.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poachable.co privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730190057id_/https%3A//s3.amazonaws.com/co-poachable-static/privacy-policy.studio6.pdf) for the most accurate reproduction.*
 
-# Poachable - Find your next job without looking for it
+# 1
 
-Studio6, Inc. has created this Privacy Policy in order to disclose its use of personal data you give to Studio6, Inc. when you access or use Poachable (as defined in the Terms of Service). This Privacy Policy is effective as of July 1, 2014. This Privacy Policy covers only data collected through Poachable and not any other data collection or processing, including, without limitation, data collection practices of other web pages to which we link or data that we or our subsidiaries collect offline or through web sites, products, or services that do not display a direct link to this Privacy Policy. 
+	  
+                                               STUDIO6, INC.
+                                             PRIVACY POLICY
+Last Updated: May 6, 2015
+Our Commitment to Your Privacy
+We at Studio6, Inc. (“Studio6,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how
+your personal information is used and shared, and we take your privacy seriously. Please read the
+following to learn more about our Privacy Policy. By visiting or using the Studio6 websites (including
+www.poachable.co and any other websites where this Privacy Policy is posted) (the “Sites”) and any
+other features, content, mobile and other applications, or any other services we offer from time to time in
+connection with the Sites (collectively, the “Services”), in any manner, you acknowledge that you accept
+the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use,
+and share your information in the following ways. Your privacy matters to us, so please do take the time
+to get to know our practices – and if you have any questions, contact us at legal@poachable.co.
+Scope of this Privacy Policy
+This Privacy Policy applies to information we collect on our Services. Our Services may link to or
+interoperate with other websites or services over which we have no control. We are not responsible for the
+privacy policies or practices of other websites or services. You may wish to review the privacy policies of
+those websites and services so you can understand how they collect, use and share your information.
+Information We Collect
+We collect information about you when you use our Services. For example, depending on the Services
+you use and whether you create an account and related profile (“Poachable Account”), we may collect:
+     •   Your name
+     •   Contact information, such as address, email address, telephone number
+     •   Information about your education, occupation, career history, skills and experience, awards,
+         memberships and affiliations, activities and interests, including your resume
+     •   Your age, gender, race or ethnicity, if permitted by local law and you choose to provide it
+     •   Information about third parties, such as references or contacts, that you provide to us if you have
+         their express written consent to do so
+     •   Information imported by you or your connections from third party applications
+     •   Credit card number and billing information (for services requiring payment)
+     •   Other information requested within your Poachable Account
+We automatically collect information about you depending on how you use our Services, the areas of our
+Sites that you visit, as well as information about your computer or mobile device, including your IP
+address, phone number, device ID, physical location, browser and operating system type, and referring
+URLs, using various technological means (including “cookies” and other technologies such as pixel tags
+and web beacons, as further described below). This information is necessary for providing personalized
+and location-based content as well as for analyzing the use of resources, troubleshooting problems,
+preventing fraud, and monitoring and improving our Services. We may combine this information with
+information in your Poachable Account to help prevent fraud.
+                                                       1	  
 
-**1\. Information Collected and Utilized**
 
-2\. When you register as a user or otherwise actively transmit data on Poachable, we usually collect data including, but not limited to, first and last name, email address, work history, educational history and any other data transmitted to Poachable or other users or employers. In connection with the referral services, we will also collect payment information. 
+	  
+We may collect information about you from publicly-available websites, such as LinkedIn, and we may
+also ask you to provide the URL of your LinkedIn profile. We may use the information we collect to
+create a profile, even if you do not have a Poachable Account, or append it to your existing profile. You
+will have the opportunity to claim collected information relating to you and to change its visibility setting
+or remove the information. However we cannot guarantee that we will not later collect from publicly-
+available websites other information that pertains to you.
+Cookies and Other Technology
+The Services may use “cookies” and other technologies such as pixel tags and web beacons.
+Cookies are alphanumeric identifiers in the form of text files that are inserted and stored by your Web
+browser on your computer’s hard drive. These technologies tell us which parts of our Sites you have
+visited and how you use our Services. They are also used to analyze and improve the design and
+functionality of our Services. If you choose to delete cookies from your device or block them from being
+stored on your device, please note that the full functionality of the Services may not be available to you.
+“Web beacons” are images embedded in a Web page or e-mail for the purpose of measuring and
+analyzing Services usage and activity. We, or third-party service providers acting on our behalf, may use
+Web beacons to help us analyze usage and improve our Services.
+We may use third-party service providers to help us analyze certain online activities and improve our
+Services. For example, these service providers may help us measure the performance of our online
+campaigns or analyze visitor activity on the Sites. We may permit these service providers to use cookies
+and other technologies to perform these services for us. We do not share any personal information about
+our users with these third-party service providers, and these service providers do not collect such
+information on our behalf. Our third-party service providers are not permitted to use information about
+our users that they collect for us for any purpose other than providing services to us.
+How We Use Information
+We use the information we collect to provide, operate and improve our Services, respond to you, and
+foster a positive user experience. Our Services include providing an online platform that connects
+employers who have job openings with individuals who are seeking jobs.
+By registering with Studio6, by managing your Poachable Account, or by opting in when presented with
+choices, you have consented for us to use your information in the following ways:
+     •   to create a profile for you based on information that you have provided to us, information
+         imported or collected from other sites or applications, or information provided to us by third
+         parties;
+     •   to provide personalized, targeted, or location-based content, services, and advertising from us and
+         third parties, including alerting you to relevant job openings;
+     •   to allow you to contact other users or to invite others to join or create a Poachable Account;
+     •   to allow you to import information about yourself or your contacts from other sites or
+         applications or to export your information to other sites or applications;
+     •   to contact you about feature updates and informational and service-related communications,
+         including important security updates;
+     •   to provide you with additional communications, information, and promotions such as newsletters
+         and career advice;
+                                                        2	  
 
-3\. As part of the standard operation of Poachable, Studio6, Inc. will automatically collect information from your mobile device, including, but not limited to, your operating system, and IP address MAC Address and type of mobile device. In addition we may record actions taken on Poachable including, but not limited to, date and times of use, clicks, swipes, page and profile views, and the amount of time you spend on each page, profile and match screen. Studio6, Inc. reserves the right to match your IP address or other information with other information about you in any way permitted by applicable law. Studio6, Inc. will store this information on its equipment or the equipment of third parties that it has a relationship with for that purpose. 
 
-4\. Studio6, Inc. may create and assign to your device an identifier that is similar to an account number. We may collect the name you have associated with your device, device type, telephone number, country, and any other information you choose to provide, such as user name, geo­location or email address. We may also access your contacts to enable you to refer friends using Poachable’s referral feature or invite friends to join you in Poachable. 
+	  
+     •   to inform you of other products or services available from Studio6 or its affiliates;
+     •   to enable you to contact us and for us to respond to you to conduct surveys, promotions and
+         contests, and to publish the results thereof;
+     •   to provide information about you and your potential interest in job postings to employers, as
+         further described in this Privacy Policy and the Services;
+     •   to provide products and services to employers to complete the recruitment and hiring process;
+     •   to generate internal reports about the use of our Services;
+     •   to allow you to share jobs and profile information with your connections;
+     •   to give search engines access to public information;
+     •   to detect, investigate and prevent activities that may violate our policies or be illegal; and
+     •   to make suggestions and draw inferences about you. For example, we may make suggestions
+         about additional jobs, products or services that might be of interest to you.
+Information you post in public areas of the Services or make visible in the job candidate database may be
+accessed, used, and stored by others around the world, including those in countries that might not have
+legislation that guarantees adequate protection of personal information as defined by your country of
+residence. We do not control these third parties and we are not responsible for their use of information
+you give to us. Accordingly, you should not post sensitive information, or any other information you
+would not want made public, to any public area.
+Our Services may include the display of and notice to you of personalized products, content, and
+advertising relating to your education, occupation, career history, skills and experience, awards,
+memberships and affiliations, activities, interests or other information we have collected about you. We
+use data we have about you to determine whether you might be interested in the opportunities, products or
+services of a particular third party. We show you targeted ads online and may also email targeted ads.
+These ads are targeted (or retargeted) based on information we collect about you and information about
+you we acquire from third parties.How We Share Information
+Our Services are designed to provide individuals with access to job openings and to provide employers
+with referrals to job candidates. We may share information with third parties for their direct marketing
+purposes unless you opt out of such disclosure. We disclose your information as set forth below:
+1. We share your information with third parties who help deliver our Services to you. Examples include
+hosting our web servers, analyzing data, providing marketing assistance, processing credit card payments,
+and providing customer service. These companies will have access to your information as necessary to
+perform their functions, but they may not use that data for any other purpose.
+2. We may disclose information to third parties if you consent. For example:
+(a) if you post a job opening and choose to make it public, we will disclose information about the job and
+employer in our job openings database;
+(b) if you express interest in a job opening, we will provide anonymous information from your Poachable
+Account to the relevant employer;
+(c) if you give us consent to disclose your name, contact details and other personal information to an
+employer, we will provide that information to the employer;
+(d) unless you opt out of receiving information about the opportunities, products, or services of third
+parties, we supply your contact information to those third parties so they may contact you; or
+                                                        3	  
 
-**5\. Uses of Information**
 
-6\. When you provide information to Studio6, Inc. through use of Poachable, this information will be used for the purposes set forth in Paragraphs 2 and 3 of this Privacy Policy. Studio6, Inc. uses this information and information generated when you use Poachable to provide our services and features to you, to provide your information to employers you approve that may be interested in contacting you, to provide employer information to you and to measure and improve those services and features, and to provide you with customer support. With your explicit permission, Studio6, Inc. may also share your personal information with third party websites and/or social networking sites in order to show you content that has been customized for you. Additionally, Studio6, Inc. may share your personal information with employers in order to confirm an employer hired a user as a result of Poachable’s service (as defined in the Terms of Service). 
+	  
+(e) if you previously chose to receive newsletters, commercial e-mails or other communications from us
+or third parties, but subsequently change your mind, you may opt out in those emails or by editing your
+Poachable Account settings.
+However, we will not disclose to employers or job candidates information in your Poachable Account that
+is designated as non-public.
+We may also aggregate data regarding job qualifications, education and professional qualifications, age,
+experience level, salaries (including historic salary, salary ranges for a particular job posting and salary
+expectations), Site and Services usage and other information. This aggregated data does not identify users
+individually, and may be used by us for any business purposes and made available to third parties,
+including employers, job candidates, investors, and the public.
+3. We disclose information if legally required to do so, or at our discretion pursuant to a request from a
+governmental entity or if we believe in good faith – after considering your privacy interests and other
+factors – that such action is necessary to: (a) meet legal requirements or comply with legal process; (b)
+protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security;
+or (d) protect the personal safety of users or the public.
+4. We may disclose and transfer information to a third party who acquires any or all of Studio6’s
+business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial
+portion of our assets. In addition, in the event Studio6 becomes the subject of an insolvency proceeding,
+such information will be disposed of in a transaction approved by the court. You will be notified of the
+sale of all or a substantial portion of our business to a third party by email or through a prominent notice
+posted on the Sites.
+How We Store Information
+Since we believe that managing your career is a life-long process, even if you close or deactivate your
+Poachable Account we will retain all the information we gather about you so that your repeat use of our
+Services is more efficient, practical and relevant until you change or remove your personal data as
+described below. You may access, review, correct, update, change or delete your Poachable Account
+information or résumé at any time. Log into your account, go to your personal information page or
+résumé, and make the desired changes.
+Access to or correction, update, or deletion of your personal information may be denied or limited by us if
+it would violate another person’s rights and/or as otherwise permitted by applicable law. If you wish to
+permanently delete or close your Poachable Account and all account information altogether, please
+contact us at legal@poachable.co. We will send you an email to confirm that your personal information
+has been deleted (other than archival copies which are not accessible by you or third parties on the
+Internet and information that has been anonymized and aggregated with data from other users). The
+archival copy is retained only for as long as needed for audit and record purposes. We will also keep logs
+and information that may relate to your activity on the site. We may retain and continue to use
+anonymized and aggregated information as long as we have a business purpose for doing so.
+Account Security
+The security of your Poachable Account relies on your protection of your password. You are responsible
+for maintaining the security of your password. You are solely responsible for any and all activities that
+                                                        4	  
 
-7\. We may use other companies and third parties to perform services necessary to our operations. In the course of providing these services, those companies may have access to your personal information Please be advised that, by contractual agreement, those companies are required to treat your information in accordance with this Privacy Policy. However, we will not be liable (to the fullest extent permitted by law) for any damages that may result from the misuse of your personal information by these companies or third parties. Studio6, Inc. may use your IP address and mobile device information to help diagnose problems with Poachable. Your IP address and mobile device information may also be used to help identify you, your location, and your online profile and to gather broad demographic information. Studio6, Inc. may maintain (as permitted by applicable law) your data following your termination of your relationship with Studio6, Inc. Studio6, Inc. may delete your user data as permitted by applicable law. If you provide credit, debit or other payment card and related details to us in order to make a payment, Studio6, Inc. will use those details only for the purpose of processing the payment. Studio6, Inc. may also aggregate your data with other data, for the purposes set forth above. 
 
-**8\. Contact and Profile Information**
+	  
+occur under your Poachable Account. You may not share your password with anyone. We will never ask
+you to send your password or other sensitive information to us in an email, though we may ask you to
+enter it into the Services. Any email or other communication requesting your password, asking you to
+provide sensitive account information via email, or linking to a website with a URL that does not begin
+with http://www.poachable.co should be treated as unauthorized and suspicious and should be reported to
+us immediately at legal@poachable.co. If you do share your password with a third party for any reason,
+the third party will have access to your Poachable Account and your information, and you are responsible
+for actions taken using your password. If you believe someone else has obtained access to your password,
+please change it immediately by logging in to your Poachable Account and using the password change
+feature. If you believe that an unauthorized access has already occurred please report it immediately
+at legal@poachable.co.We may have access to your password and may use such password to access your
+account for debugging, quality assurance, or other internal purposes.
+Security of the Services
+We follow generally accepted industry standards to protect the information submitted to us, both during
+transmission and once we receive it. While we strive to use commercially acceptable means to protect
+your personal information, no method of transmission over the Internet, or method of electronic storage,
+is 100% secure and we cannot guarantee its absolute security. In the event of an inadvertent disclosure of
+your personal information we will take all commercially reasonable steps to limit and remedy the
+disclosure as required by the applicable law. If you have any questions about the security of our Services,
+you can contact us via email or telephone at legal@poachable.co or (206) 569-5188.
+Children
+The Services are not intended for, nor do we knowingly collect information from, children under the age
+of majority. Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we
+will never knowingly request personally identifiable information from anyone under the age of 13 without
+requiring parental consent. Any person who provides his or her personal information to us through our
+Services represents that he or she is 13 years of age or older.
+International Visitors
+The Services are hosted in and provided from the United States. If you use our Services from the
+European Union, Canada or other regions with laws governing data collection and use that may differ
+from United States law, please note that you are transferring your personal data to the United States. The
+United States does not have the same data protection laws as the European Union, Canada and some other
+regions. By providing your personal information, you consent to the transfer of your personal data to the
+United States and the use of your personal information in accordance with this Privacy Policy.
+Referrals
+If you choose to use our referral service to tell a friend about our Services or a job position, we will ask
+you for your friend’s name and email address. We will automatically send your friend a one-time email
+inviting him or her to visit the Services. We store this information for the sole purpose of sending this
+one-time email and tracking the success of our referral program, and do not use this information for any
+other marketing purpose unless we obtain consent from that person or we explicitly say otherwise. Please
+be aware that when you use any send-to-a-friend functionality through our Services, your name and e-
+mail address may be included in the communication sent to your friend.
+                                                        5	  
 
-9\. If and to the extent permitted by applicable law, Studio6, Inc., its affiliates, or its designated third party partners, may also use your contact information to (i) send you push notifications; (ii) create an account; (iii) send you information about Studio6, Inc.; and, (iv) send you promotional material. Studio6, Inc. may use demographic and/or profile data to tailor your experience on Poachable, show you content that Studio6, Inc. thinks you may be interested in, and display content according to your preferences. By accessing Poachable, you are making all your personal and employment information on LinkedIn and otherwise transmitted or provided to Poachable available to third parties who may be interested in you as an employee or employer. If you do not want your personal information stored within Poachable, you should not use Poachable. Studio6, Inc. reserves the right to charge third parties a fee for accessing your information as part of Studio6, Inc.’s services. 
 
-**10\. Consent**
-
-11\. Studio6, Inc. offers any user the choice to utilize Poachable. By accessing Poachable, you are specifically consenting to the use of any personal information you have provided to Studio6, Inc. as set forth herein and in the Terms of Service. 
-
-**12\. Security**
-
-13\. Poachable has security measures in place to protect the loss, misuse and alteration of the information under Studio6, Inc.’s control. Please be advised that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Moreover, be advised that emails, text messages, messages sent via your web browser, and other similar means of communication with other users are not encrypted. We strongly advise you not to communicate any confidential information through these means. Therefore, although we strive to protect your information, we cannot guarantee its security. 
-
-**14\. Links**
-
-15\. Studio6, Inc. may create links to other web sites. When you click on links on Studio6, Inc. you may leave Poachable. We are not responsible for the privacy practices of other web sites, and we encourage you to read their privacy statements. 
-
-**16\. Children under 13**
-
-17\. Poachable is not intended for children under 13 years of age. No one under age 13 may provide any information to Poachable. Studio6, Inc. does not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information Poachable. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support@poachable.co. 
-
-**18\. Amendments**
-
-19\. Studio6, Inc. may amend this Privacy Policy at any time. If Studio6, Inc. is going to use personally identifiable information collected through Poachable in a manner materially different from that stated at the time of collection Studio6, Inc. will notify users via email and/or by posting a notice on Poachable for 30 days prior to such use or by other means as required by law. 
-
-**20\. Assignment**
-
-21\. If there is a change of ownership or control in Studio6, Inc.’s business (whether by merger, sale, or otherwise) or if there is an asset sale, the user information, including your personal information, could be disclosed as part of such a process and / or sold as part of that transaction and your personally identifying information potentially could be used by the purchaser. However, if that business materially changes this statement or the information­handling practices as described in this Privacy Policy, you will be notified by email and/or through a notice posted on Poachable, and you may opt­out of the use of your existing information in a new manner. This Privacy Policy inures to the benefit of any successors or assigns of Studio6, Inc. or the assets of Studio6, Inc. 
+	  
+How We Respond To Do Not Track Signals
+Please note that your browser settings may allow you to automatically transmit a “Do Not Track” signal
+to websites and online services you visit. There is no consensus among industry participants as to what
+“Do Not Track” means in this context. Like many websites and online services, we do not alter our
+practices when we receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do
+Not Track”, please visit http://www.allaboutdnt.com.
+California Residents - Your CA Privacy Rights
+Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to
+request from companies conducting business in California a list of all third parties to which Studio6 has
+disclosed certain categories of personal information during the preceding year for the third parties’ direct
+marketing purposes and the categories of personal information Studio6 shares. Alternatively, the law
+provides that a company that has a privacy policy that provides consumers choice (opt-out or opt-in)
+regarding sharing personal information with third parties for those third parties’ direct marketing purposes
+may instead provide information on how to exercise that choice. Studio6 qualifies for the alternative
+option; it has a comprehensive privacy policy that sets forth that Studio6 provides you choice prior to
+sharing your personal information with third parties for their direct marketing purposes. If you choose to
+opt-out at the time Studio6 offers that choice, Studio6 does not share your information with that identified
+third party for its direct marketing purposes.
+If you are a California resident and you have questions about our practices with respect to sharing
+information with third parties for their direct marketing purposes and your ability to exercise choice,
+please send your request to the following email address: legal@poachable.co or write to us at the
+following mailing address: 209 1/2 First Ave South, Suite 302, Seattle, WA 98104. You must put the
+statement “Your California Privacy Rights” in the subject field of your e-mail or include it in your writing
+if you choose to write to us at the designated mailing address. You must include your name, street
+address, city, state, and zip code. We are not responsible for notices that are not labeled or sent properly,
+or do not have complete information.
+Changes to Privacy Policy
+If we decide to materially change the substance of this Privacy Policy, we will, where required, contact
+you via the email address that you maintain in your Poachable Account. We will also post those changes
+through a prominent notice on the Sites.
+Contact Information
+If you have questions or concerns about this Privacy Policy, please contact us at legal@poachable.co. We
+will use reasonable efforts to promptly answer your question or resolve your problem.
+                                                       6	  
