@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teachingchannel.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316223231id_/https%3A//www.teachingchannel.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingchannel.org privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730150250id_/https%3A//www.teachingchannel.org/privacy) for the most accurate reproduction.*
 
 # Teaching Channel Respects the Privacy of Teachers, Administrators and All Visitors
 
-**Last Updated June 2, 2014**
+**Last Updated March 30, 2015**
 
 ## Teaching Channel values the privacy of our users and visitors.
 
@@ -24,20 +24,22 @@ It's our policy to create website content that limits the need for collection of
 > 
 > #### "Cookies" Information
 > 
-> When you use our Services, we may send one or more cookies -- small pieces of information containing a string of alphanumeric characters -- to your computer. Teaching Channel may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to our Site. Persistent cookies can be removed. Please review your web browser "Help" file to learn the proper way to modify your cookie settings. Please note that if you delete, or choose not to accept, cookies from our Site, you may not be able to utilize the features of the Site to their fullest potential.
-> 
+> Technologies such as: cookies, beacons, tags, and scripts are used by Teaching Channel and our partners such as marketing partners, advertisers, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+We use cookies to remember users’ settings for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
 > #### "Automatically Collected" Information
 > 
-> When you use our Services, open one of our HTML emails or follow any links embedded in our emails, we may automatically record certain information from your web browser by using different types of technology, including standard log files, "clear gifs," "web beacons" or other similar techniques. This "automatically collected" information may include your Internet Protocol address ("IP Address"), web browser type and version, device type and unique identifier, the web pages or sites that you visit just before or just after our Site, search queries you use to find our Site, the pages you view on our Site, and the dates and times that you visit our Site.
+> As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
+
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+
+> #### Flash LSOs (HTML5 / Flash LSOs)
 > 
-> #### Third Party Web Beacons
-> 
-> We may also implement third party content, such as advertising, on the Site that uses "clear gifs," "web beacons" or other similar techniques, which allow the third party content provider to read and write cookies to your browser in connection with your viewing of that third party content displayed on our Site. This information is collected directly by the third party, and Teaching Channel does not participate in that data transmission. Information collected by third parties in this manner is subject to that third party's own data collection, use, and disclosure policies.
-> 
-> #### Flash LSOs
-> 
-> We use local storage objects (LSOs) to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
-> 
+> We use local storage objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site, or to display advertising based upon your Web browsing activity, use LSOs such as HTML5 to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
 > Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 > 
 > #### Information from Other Sources
@@ -62,6 +64,8 @@ We partner with a third party ad network to either display advertising on our We
 
 If your personally identifiable information changes, you should correct, update, amend, or deactivate it by making the change on our member information page or by emailing our Customer Support at privacy@teachingchannel.org, or by contacting us by telephone or postal mail at the contact information listed below.
 
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page, or you can contact us at privacy@teachingchannel.org.
+
 ### Surveys or Contests
 
 From time-to-time we may provide you the opportunity to participate in contests, sweepstakes or surveys on the site which require you to disclose certain personally identifiable information in order to participate. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
@@ -78,7 +82,7 @@ We are not in the business of selling your information to third parties. We do, 
 > 
 > Teaching Channel may also disclose your information if required to do so by law, where we believe that such action is necessary to comply with state or federal laws (such as U.S. Copyright law), in response to a court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement activity.
 > 
-> Teaching Channel also reserves the right to disclose your information that we believe, in our sole discretion, is appropriate or useful to protect you, other users, third parties, or ourselves from harm or liability; to protect Teaching Channel and others from fraudulent, abusive, or unlawful uses or activity; to investigate and defend ourselves against any third party claims or allegations; to assist government and law enforcement agencies; to protect the security or integrity of our Services; or to protect the rights, property, or personal safety of Teaching Channel, our users, or others.
+> Teaching Channel also reserves the right to disclose your information that we believe, in our sole discretion, is appropriate or useful to protect you, other users, third parties, or ourselves from harm or liability; to protect Teaching Channel and others from fraudulent, abusive, or unlawful uses or activity; to investigate and defend ourselves against any third party claims or allegations; to assist government and law enforcement agencies; to protect the security or integrity of our Services; or to protect the rights, property, or personal safety of Teaching Channel, our users, or others. We may also disclose your personally identifiable information to any other third party with your prior consent to do so.
 
 ### Tell-A-Friend
 
@@ -100,6 +104,14 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 **Single Sign-On**  
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
+### Blog / Forum
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at [privacy@teachingchannel.org](mailto:privacy@teachingchannel.org). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
+
+### Testimonials
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@teachingchannel.org](mailto:privacy@teachingchannel.org).
+
 ### Our Commitment to Children's Privacy
 
 Protecting the privacy of young children is especially important. For that reason, Teaching Channel does not knowingly collect or maintain personally identifiable information from persons under 13 years-of-age. **IF YOU ARE NOT 13 YEARS-OF-AGE OR OLDER YOU ARE NOT ALLOWED TO USE THE SITE OR SUBMIT PERSONALLY IDENTIFIABLE INFORMATION TO TEACHING CHANNEL.** If Teaching Channel learns that personally identifiable information of persons less than 13-years-of-age has been collected through our Service, then Teaching Channel will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 13 has posted, submitted or otherwise communicated personally identifiable information to our Service without your consent, then you may alert Teaching Channel at [privacy@teachingchannel.org](mailto:privacy@teachingchannel.org) so that we may take appropriate action to remove the child's personally identifiable information from our systems.
@@ -120,11 +132,11 @@ We will retain your information for as long as your account is active or as need
 
 ### In the Event of Merger or Sale
 
-In the event that all or a portion of Teaching Channel or its assets are acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users in connection with such merger, acquisition, sale, or other change of control.
+In the event that all or a portion of Teaching Channel or its assets are acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users in connection with such merger, acquisition, sale, or other change of control. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personal information.
 
 ### Changes and Updates to this Privacy Policy
 
-Please revisit this page periodically to stay aware of any changes to this Privacy Policy, which may be revised periodically at our sole discretion, as provided in the Teaching Channel Terms and Conditions. If we modify the Privacy Policy, we will make it available through our Sites, and indicate the date of the latest revision. In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access our Sites for the first time after such material changes are made. Our amended Privacy Policy will automatically take effect 30 days after it is made available through our Sites, except that (i) we generally only use your personally identifiable information in the manner described in the Privacy Policy in effect when we received that information and (ii) if you do not agree with any changes to the Privacy Policy, you may terminate your account ceasing use of our Sites. Your continued use of our Sites after revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of the Privacy Policy.
+Please revisit this page periodically to stay aware of any changes to this Privacy Policy, which may be revised periodically at our sole discretion, as provided in the Teaching Channel Terms and Conditions. If we modify the Privacy Policy, we will notify you by email (sent to the e-mail address specified in your account), or by means of a notice on this Site prior to the change becoming effective. In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access our Sites for the first time after such material changes are made. Our amended Privacy Policy will automatically take effect 30 days after it is made available through our Sites, except that (i) we generally only use your personally identifiable information in the manner described in the Privacy Policy in effect when we received that information and (ii) if you do not agree with any changes to the Privacy Policy, you may terminate your account ceasing use of our Sites. Your continued use of our Sites after revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of the Privacy Policy.
 
 ### Your Choices
 
@@ -137,4 +149,5 @@ If you have questions about this Privacy Policy, or our Sites or Services, pleas
 **Teaching Channel**  
 2201 Broadway, Suite 400  
 Oakland, CA 94612  
+(510) 254-3350  
 [privacy@teachingchannel.org](mailto:privacy@teachingchannel.org)
