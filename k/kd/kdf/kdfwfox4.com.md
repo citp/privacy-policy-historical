@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdfwfox4.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154115id_/http%3A//www.fox4news.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdfwfox4.com privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730051224id_/http%3A//www.fox4news.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - Fox4News.com | Dallas-Fort Worth News, Weather, Sports
 
