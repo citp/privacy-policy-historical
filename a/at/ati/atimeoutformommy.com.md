@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atimeoutformommy.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625020719id_/http%3A//www.atimeoutformommy.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atimeoutformommy.com privacy policy that was archived on 2015-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150730122743id_/http%3A//www.atimeoutformommy.com/disclosure) for the most accurate reproduction.*
 
 # Privacy Policy-Disclosure
 
