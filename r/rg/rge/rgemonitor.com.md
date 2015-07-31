@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316084838id_/https%3A//www.roubini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgemonitor.com privacy policy that was archived on 2015-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150731023152id_/https%3A//www.roubini.com/privacy) for the most accurate reproduction.*
 
-# Roubini Global Economics - RGE
+# Roubini Global Economics - Privacy Policy
 
 Roubini Global Economics, LLC Privacy Notice
 
