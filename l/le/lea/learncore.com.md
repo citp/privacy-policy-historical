@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learncore.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630031037id_/http%3A//learncore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learncore.com privacy policy that was archived on 2015-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150731075206id_/http%3A//learncore.com/privacy) for the most accurate reproduction.*
 
 # privacy - LearnCore
 
