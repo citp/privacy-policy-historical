@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the birincikuvvet.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601025034id_/http%3A//birincikuvvet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birincikuvvet.com privacy policy that was archived on 2015-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150731201359id_/http%3A//birincikuvvet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | birincikuvvet
+
+[Home](http://birincikuvvet.com/ "Home") __ Privacy Policy
 
 PLEASE READ THIS CAREFULLY  
 birincikuvvet.com (the Site) provides articles, a photo and video hosting/blogging service to you (the “Service(s)”), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.  
@@ -20,12 +22,9 @@ Children’s Privacy
 We do not direct the Site to persons under 13 years of age, and requires Users to be 13 years or older. Accordingly, we do not knowingly collect or maintain on the Site personally identifying or other information from persons under 13 years of age. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact info@birincikuvvet.com, titled Privacy. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.  
 We recommend that minors over the age of 13 ask a parent or guardian for permission before sending any information about themselves to anyone over the Internet.  
 Consumer Education Related to Social Networking  
-Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
-
-http://onguardonline.gov/socialnetworking.html
-
-http://onguardonline.gov/socialnetworking_youth.html
-
+Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 18 to use the Service, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:  
+http://onguardonline.gov/socialnetworking.html  
+http://onguardonline.gov/socialnetworking_youth.html  
 OTHER INFORMATION/LOGGING AND COOKIES  
 Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.  
 We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use “non-identifying information” (which will not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit Network Advertising Initiative (networkadvertising.org) and read their article regarding Opt Out of Behavioral Advertising.  
