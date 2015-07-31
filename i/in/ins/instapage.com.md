@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instapage.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528013054id_/https%3A//www.instapage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instapage.com privacy policy that was archived on 2015-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150731173931id_/https%3A//instapage.com/privacy-policy) for the most accurate reproduction.*
 
 # Instapage | Privacy Policy
 
