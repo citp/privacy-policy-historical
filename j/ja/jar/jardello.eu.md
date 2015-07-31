@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jardello.eu privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531030230id_/http%3A//www.jardello.eu/signup.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jardello.eu privacy policy that was archived on 2015-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150731034300id_/http%3A//www.jardello.eu/signup.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # .::AS::. Jardello : Free Auto Hits Traffic Your WebSites
 
@@ -31,4 +31,4 @@ Legal Disclaimer
 We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to confirm to the edicts of the law or comply with legal process served on .::AS::.Jardello. 
 
 For more information  
-If you have any questions, concerns or comments, please e-mail admin@jardello.com 
+If you have any questions, concerns or comments, please e-mail admin@jardello.com
