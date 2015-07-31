@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxatlanta.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617062245id_/http%3A//www.myfoxatlanta.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxatlanta.com privacy policy that was archived on 2015-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150731181119id_/http%3A//www.myfoxatlanta.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - Atlanta News, Weather, Traffic, and Sports | FOX 5
 
