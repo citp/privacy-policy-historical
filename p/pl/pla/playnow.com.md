@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playnow.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516055557id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playnow.com privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801052732id_/https%3A//www.playnow.com/about-playnow/privacy.html%3FWT.ac%3DFT%7Caboutplaynow%7Cprivacy) for the most accurate reproduction.*
 
 # Privacy | PlayNow.com
 
@@ -34,11 +34,11 @@ BCLC is accountable for the ways in which we deal with your personal information
 
 BCLC aims to be accessible. This means we will provide you with information about the existence, use and disclosure of your personal information, and provide you with access to that information upon request.
 
-To review records containing your personal information you may be required to submit a formal request under FIPPA. You can do this by contacting BCLC's Information and Privacy department at 1-877-706-6789.
+To review records containing your personal information, please submit a formal request under FIPPA by following the steps on the [Freedom of Information Requests page.](http://corporate.bclc.com/customer-support/freedom-of-information.html)
 
 ## Registration
 
-In order to use PlayNow.com, you must first complete the registration form and create a user account. During registration you are required to provide personal information (such as name, address, date of birth, phone number, email address and credit card information). We use this information to verify your identity (BC Resident over age 19) and register you for our Site. We also use this information to expedite enrollment in other services provided by BCLC or BCLC's service providers that BCLC thinks may be of interest to you.
+In order to use PlayNow.com, you must first complete the registration form and create a user account. During registration you are required to provide personal information (such as name, address, date of birth, phone number, email address and credit card information). We use this information to verify your identity (BC Resident over age 19) and register you for our Site.
 
 ## Deposit of Funds
 
@@ -58,36 +58,24 @@ We use a third party service provider to conduct these surveys or contests and t
 
 ## Communications from the Sites
 
-### Communications
-
-Upon registration, you are given a choice to subscribe to receive promotional communications about products, tips and promotions. You are able to change this subscription at any time under Edit Profile.
-
-### Choice/Opt-out
+Upon registration, you are given a choice to subscribe to receive promotional communications about our products and services. You are able to change this subscription at any time by logging in and accessing the Edit Profile tab.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by:
 
   * following the "unsubscribe" link included in each email communication
   * selecting "No" to contact under Edit Profile on your My Account page
   * calling PlayNow.com Customer Support at 1-877-706-6789; or
-  * completing the [General Feedback Form](https://web.archive.org/about-playnow/contact/feedback.html) on PlayNow.com
+  * completing the [Contact Form](https://web.archive.org/about-playnow/contact/feedback.html) on PlayNow.com
 
 
 
 Please note, even if you unsubscribe from promotional communications, you will continue to receive important information about your account, including security information, transaction information and responses to your requests.
-
-### Special Offers and Updates
-
-We will occasionally send you information about our Sites and services, however, at any time, you may elect not to receive promotional communications. Please see the "Choice and Opt-out" section for details.
 
 ## Identity Verification
 
 To determine if you qualify to participate on our Sites, we use your name, address, date of birth and credit card information to verify that you meet our age (19+) and residency (B.C. residents only) requirements. A soft check against your credit file is performed as part of the verification process. This check will not affect your credit rating or credit score. Any personal information you provide will also be used to prove your identity if you contact BCLC Customer Support.
 
 ## Information Sharing and Disclosure
-
-### Aggregate Information (non-personal information)
-
-We share aggregated demographic information, such as age, gender and location, about our user base with third party companies that provide marketing services to BCLC. This information does not identify individual users and is only used for the purpose of selecting target audiences for marketing campaigns.
 
 ### Personal information
 
@@ -105,49 +93,37 @@ We may also disclose your personal information:
 
 ### Agents/Service Providers 
 
-We use other third parties such as an email or text messaging service provider to send emails and SMS (text messages) on our behalf, a mobile vendor to develop and host our webapp and a credit card processing company to bill you for services. We will share your name, email address, and financial information as necessary for the third party to provide that service.
+We use other third parties such as an email or text messaging service provider to send emails and SMS (text messages) on our behalf, a mobile vendor to develop and host our webapp and a credit card processing company to bill you for services. We will share your name, email address, and financial information as necessary for the third party to provide these services.
 
-## Information Used for Monitoring
+## Tracking Technologies
 
-We gather certain information automatically, such as, internet protocol (IP) addresses, browser type, operating system, date/time stamp, device, make and model, device network operator, and clickstream data (which is data that tracks player's navigation on the Sites). This information is used for web analytics and to monitor activity on our systems for security purposes.
+Technologies such as: cookies, beacons, tags and scripts are used by BCLC and our marketing, advertising and analytics service providers. These technologies are used to analyze trends, gauge effectiveness of our campaigns, make our operations more efficient and to administer the Sites. We may gather information including clickstream data (which is data that track users' movements around the Sites), number of visitors to the Sites, number of visitors to a page by the hour, visitors' activities (such as commencing the registration process), browser type, operating system and demographic information about our user base as a whole. We access reports based on the use of these technologies by these companies on an aggregated basis. The information collected is not attributable to an identifiable individual.
 
-We acquire location information (i.e. IP addresses or location coordinates) when you login and periodically while you are logged in to ensure players are accessing their account from within BC and where necessary, to assist in security and fraud investigations. This information may also be collected in aggregate format for analytical purposes.
+We use cookies to remember users' settings, to deliver more relevant advertising and to manage the frequency and content of our advertising. You may control the use of cookies at the individual browser level. If you reject cookies, you may still use our Sites, but your ability to use some features or areas of our Sites may be limited. 
+
+## Log Files
+
+We gather certain information automatically and store it in log files, such as internet protocol (IP) addresses, location coordinates, operating system, date/time stamp, device make and model, player ID and transaction activities and winnings . This information is only used to monitor activity on our systems for security and fraud investigation purposes and to comply with applicable laws. We do not use or combine this information with other identifiable information we collect about you without your consent. 
+
+## Location Information
+
+We acquire location information (i.e. IP addresses and location coordinates) when you login and periodically while you are logged in to ensure players are accessing their account from within British Columbia and where necessary, to assist in security and fraud investigations. This information may also be collected in aggregate format for analytical purposes.
 
 In order to access your account (e.g. to view your transactions, play games or purchase lottery tickets), location services on your device must be turned on. You also have the option to turn off location services on your device or deny the permission request for location when logging in. This will result in you not being able to access your account but you will still be able to view the Sites.
 
-## Cookies
+We do not use or combine this information with other identifiable information we collect about you without your consent unless required for security and fraud investigations and to comply with applicable laws. 
 
-A cookie is a small text file that is stored on a user's computer or mobile device for record-keeping purposes. We use cookies on our Sites. We do not link the information we store in cookies to any personal information you submit while on our Sites.
+## Behavioural Targeting
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser whereas a persistent cookie remains on your hard drive for an extended period of time. We utilize cookies to help manage player logins, to protect against security issues and to remember player preferences. We do not set a persistent cookie to store your passwords, as we do not want anyone to be able to access your account other than you. 
-
-If you reject cookies, you will not be allowed access to our Sites. 
-
-### Third Party Cookies
-
-The use of cookies by our tracking utility company and service providers is not covered by our Privacy Policy. We do not have access or control over these cookies. 
-
-Our Sites regularly uses Google Website Optimizer (GWO) to perform variation testing. GWO cookies are placed within site pages to determine page effectiveness in conversion. The results from this testing are used to create an improved product experience for our players. GWO does not collect personal information, only information related to the session. In the event that personal information is collected, Google requests your consent before sharing it. Further details can be found in the [Google Privacy Policy](http://www.google.com/intl/en/privacy/privacy-policy.html).
-
-## Clear Gifs (Web Beacons/Web Bugs)
-
-We use a third party tracking utility company to employ a software technology called clear gifs (a.k.a. Web Beacons, Web Bugs, Tracking Tags), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personal information.
-
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see "Choice and Opt-out". 
+We partner with third party marketing and advertising organizations to either display advertising on our Sites or to manage our advertising on other websites. Our third party partners may use technologies such as cookies to gather information about your activities on the Sites and other websites in order to provide you advertising based upon your browsing activities and interests. If you do wish to have this information used for the purpose of serving you interest-based ads, [you may opt-out by clicking here.](http://preferences-mgr.truste.com/)
 
 ## Flash LSO's
 
-We use local shared objects, also known as Flash Cookies, to store your preferences (such as volume control) or to display content based upon what you view on our site to personalize your visit. 
-
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>.
+We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. [To manage Flash LSOs please click here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 ## Links to Other Sites
 
-Our Sites contain links to other websites that are not owned or controlled by BCLC. Please be aware that BCLC is not responsible for the privacy practices of such other websites.
-
-We encourage you to read the privacy policies of each and every web site that collects personal information.
-
-This Privacy Policy applies only to information collected by our Sites.
+Our Sites may contain links to other websites that are not owned or controlled by BCLC. The other websites are governed by their own privacy policies and BCLC is not responsible for the privacy practices of such other websites.
 
 ## Social Media Features
 
@@ -155,11 +131,11 @@ Our Sites include Social Media Features, such as the Facebook Like button and th
 
 ## Public Forums
 
-Our Sites offer publicly accessible in-game chat and a blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us by completing the [General Feedback Form](https://web.archive.org/about-playnow/contact/emailus.html) on PlayNow.com.
+Our Sites offer publicly accessible in-game chat and a blog. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us by completing the [Contact Form](https://web.archive.org/about-playnow/contact/emailus.html) on PlayNow.com.
 
 ## Winner Stories
 
-We post winner stores on our Sites which may contain personal information, such as name and city of residence. Player consent is governed by the Rules and Regulations Respecting Lotteries and Gaming and the PlayNow.com Player Agreement that is acknowledged upon registration for an account.
+We post winner stories on our Sites which may contain personal information, such as name and city of residence. Player consent is governed by the Rules and Regulations Respecting Lotteries and Gaming and the PlayNow.com Player Agreement that is acknowledged upon registration for an account.
 
 ## Access to Personal information
 
@@ -167,19 +143,17 @@ If your personal information changes, or if you no longer desire our service, yo
 
   * making the change on your account page
   * emailing us at consumerservices@bclc.com
-  * completing the [General Feedback Form](https://web.archive.org/about-playnow/contact/emailus.html) on PlayNow.com
+  * completing the [Contact Form](https://web.archive.org/about-playnow/contact/emailus.html) on PlayNow.com
   * contacting us by telephone at 1-877-706-6789
   * sending us a letter to BCLC Customer Support at 74 West Seymour Street, Kamloops, BC V2C 1E2
 
 
 
-We will respond to all requests within 30 days. 
+We will respond to all requests promptly but in any case, within 30 days. 
 
 ## Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using transport layer security (TLS). If you have any questions about security on our Web site, [you can contact us at Customer Support.](https://web.archive.org/about-playnow/contact.html)
 
 ## Data Retention
 
@@ -189,38 +163,17 @@ We will retain your information for as long as your account is active or as need
 
 We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by means of a notice on PlayNow.com prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-If you would like more information about our privacy practices or believe that we could do something better, please contact our Information and Privacy department. While we may not be able to implement all suggestions, we will give them all genuine consideration.
+### Contacting Us
 
-If, at any time, you feel like we have not acted in accordance with this Privacy Policy, you may request a formal review of your case by contacting BCLC's Information and Privacy department.
+If you have a privacy concern, question or suggestion, you may contact Customer Support by:
 
-**Mailing Address:**  
-BCLC Information and Privacy Administrator  
-74 West Seymour Street  
-Kamloops, BC V2C 1E2  
-Telephone: 1-877-706-6789
+  * Completing the [Contact Form](https://www.playnow.com/about-playnow/contact/emailus.html) on PlayNow.com
+  * Telephone: 1-877-706-6789
+  * Using the [Live Chat feature](https://www.playnow.com/about-playnow/contact.html)
+  * Mail: BCLC Customer Support at 74 West Seymour Street, Kamloops, BC V2C 1E2
 
-If, at any time, you are not satisfied with how BCLC is dealing with your case, you may contact the Office of the Information and Privacy Commissioner of British Columbia at:
 
-**Mailing Address:**  
-Office of the Information and Privacy Commissioner for British Columbia  
-PO Box 9038, Stn. Prov. Govt.  
-Victoria, BC V8W 9A4
 
-**Location:**  
-4th Floor, 947 Fort Street  
-Victoria, BC V8V 3K3
+If we are unable to resolve your privacy concerns, you may contact [TRUSTe](https://feedback-form.truste.com/watchdog/request) or the [Office of the Information and Privacy Commissioner for British Columbia.](https://www.oipc.bc.ca/about/contact-us.aspx)
 
-**Telephone:**  
-(250) 387-5629
-
-For toll-free access call Enquiry BC at one of the numbers listed below and request to be transferred to (250) 387-5629:  
-Vancouver: (604) 660-2421  
-Elsewhere in BC: (800) 663-7867
-
-**Fax:**  
-(250) 387-1696
-
-**E-mail:**  
-[info@oipc.bc.ca](mailto:info@oipc.bc.ca)
-
-Last Updated: May 1, 2014
+Last Updated: June 29, 2015
