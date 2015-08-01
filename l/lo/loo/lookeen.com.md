@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookeen.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602001505id_/http%3A//www.lookeen.com/service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookeen.com privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801214733id_/http%3A//lookeen.com/service/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy | Lookeen Desktop Search
 
