@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the estatesgazette.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315231053id_/http%3A//www.estatesgazette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesgazette.com privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801143508id_/http%3A//www.estatesgazette.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | estatesgazette.com
+# Privacy Policy - Estates Gazette.com
 
-This website is owned and operated by [Reed Business Information Limited ('RBI')](http://www.reedbusiness.co.uk/) Information we collect from our customers and users of our websites may be used in the following ways.
+This website is owned and operated by [Reed Business Information Limited (‘RBI’)](http://www.reedbusiness.co.uk/) Information we collect from our customers and users of our websites may be used in the following ways.
 
 ## Subscription services
 
@@ -64,19 +64,14 @@ If you create a personalised account on any of our websites it will be protected
 
 Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
 
-  
 estatesgazette.com requires cookies in order to operate fully. We also work with advertisers who place cookies on your computer to serve and target adverts more effectively when you visit the site.
 
-  
 Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-  
 Further information about the cookies used by estatesgazette.com is provided below. 
 
-  
 Cookies used by estatesgazette.com
 
-  
 The following cookie categories are based on the classification presented in The International Chambers of Commerce (ICC) Cookie Guide
 
 **Category 1: Strictly necessary cookies.**
@@ -91,7 +86,7 @@ To Identify you as being logged in to our website.
 
 Load Balancing   
 
-Cookies may be used to distribute load across our web servers - to ensure our websites perform well and give you the best possible experience.
+Cookies may be used to distribute load across our web servers – to ensure our websites perform well and give you the best possible experience.
 
 User Subscription Data   
 
@@ -101,10 +96,8 @@ Category 2: Performance cookies.**
 
 These cookies collect information about how visitors use our website, for instance which pages visitors go to most often.  The information collected by these cookies is aggregated, so these cookies don’t collect information that identifies individual visitors. The information collected is anonymous and is only used to improve the way our website works.
 
-  
 Category 2 Cookies used by estatesgazette.com:
 
-  
 Web Analytics   
 
 Web Analytics cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited.    
@@ -118,7 +111,6 @@ Videos on estatesgazette.com are hosted on YouTube and Brightcove.
 
 These sites use cookies to collect video statistics and improve site experience.
 
-  
 **Category 3: Functionality cookies.**
 
 These cookies allow us to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more relevant features.   
@@ -140,10 +132,8 @@ Category 4: Targeting or Advertising cookies.**
 
 These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers.
 
-  
 Category 4 Cookies used by estatesgazette.com:
 
-  
 Targeted Advertising   
 
 Advertising cookies are used by third parties to gather and send information to other websites so that they can present you with adverts you may be interested in.
