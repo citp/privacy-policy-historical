@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the organicxpression.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231010120id_/http%3A//organicxpression.com/about-2/organicxpression-com-newsletter-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicxpression.com privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801125525id_/http%3A//organicxpression.com/about-2/organicxpression-com-newsletter-privacy-policy) for the most accurate reproduction.*
 
-# OrganicXpression.com Newsletter Privacy Policy | OrganicXpression.com
+# OrganicXpression.com | OrganicXpression.com Newsletter Privacy Policy
 
 **This Online Sign-up page is powered by OrganicXpression.com.**
 
@@ -40,5 +40,3 @@ OrganicXpression.com may use or disclose information about you, including your 
   * In the event of a merger, acquisition, consolidation, divestiture, or bankruptcy of OrganicXpression.com.
 
 
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Forganicxpression.com%2Fabout-2%2Forganicxpression-com-newsletter-privacy-policy%2F&media=&description=OrganicXpression.com%20Newsletter%20Privacy%20Policy)
