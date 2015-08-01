@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbullillume.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408094518id_/http%3A//www.redbullillume.com/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbullillume.com privacy policy that was archived on 2015-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150801224622id_/http%3A//www.redbullillume.com/privacy-policies.html) for the most accurate reproduction.*
 
 # Privacy Policies - Red Bull Illume
 
