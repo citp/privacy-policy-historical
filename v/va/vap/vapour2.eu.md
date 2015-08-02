@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapour2.eu privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609115718id_/http%3A//www.vapour2.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapour2.eu privacy policy that was archived on 2015-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150802205611id_/http%3A//www.vapour2.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vapour2.eu
 
