@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcdocpro.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221060058id_/http%3A//www.pcdocpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcdocpro.com privacy policy that was archived on 2015-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150803002342id_/http%3A//pcdocpro.com/privacy.html) for the most accurate reproduction.*
 
 # PC Doctor| PC Doc Pro| PC Fix| Registry Cleaner |PC Diagnostics | Registry Cleaning Utilities | PC Checkup| Clean Windows Registry
 
