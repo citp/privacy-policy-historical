@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ageofempires.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623180249id_/http%3A//www.microsoft.com/privacystatement/en-us/xbox/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ageofempires.com privacy policy that was archived on 2015-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150802045401id_/http%3A//www.microsoft.com/privacystatement/en-us/xbox/default.aspx) for the most accurate reproduction.*
 
 # Microsoft Privacy Statement
 
