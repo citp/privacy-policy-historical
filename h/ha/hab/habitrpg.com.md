@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the habitrpg.com privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013001027id_/https%3A//habitrpg.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitrpg.com privacy policy that was archived on 2015-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150803060449id_/https%3A//habitica.com/static/privacy) for the most accurate reproduction.*
 
 # HabitRPG | Privacy
 
-Last updated September 02, 2012
+Last updated July 27, 2015  
+(Corrected grammar errors and updated company name)
 
  **PLEASE READ THIS PRIVACY POLICY CAREFULLY.**  
 By accessing or otherwise using habitrpg.com or any sub domains thereto ("the Sites"), or using a habitrpg.com or HabitRPG application on a mobile device ("the Applications"), you agree to be bound contractually by this Privacy Policy. Individually or collectively, the Applications and the Sites may be referred to as the "Services."
@@ -10,7 +11,7 @@ By accessing or otherwise using habitrpg.com or any sub domains thereto ("the Si
 To review material modifications and their effective dates scroll to the bottom of the page.
 
  **1\. Privacy Statement; Collection of Personal Information.**  
-1.1 OCDevel owns and operates this business. All references to "we", "us", shall be construed to mean OCDevel.
+1.1 HabitRPG, Inc. owns and operates this business. All references to "we", "us", shall be construed to mean HabitRPG, Inc..
 
 1.2 We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including personal information, that we collect through this website.
 
@@ -46,7 +47,7 @@ The Services may make full use of passively collected anonymous information, inc
 We reserve the right to use analytics services provided by third parties. These services use 3rd party cookies to collect anonymous, passive information about your use of this site (see explanation of cookies in Collection of Anonymous, Passive Information above). We use this information for the purpose of evaluating your use of the Services, compiling reports on activity, and providing other services. These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf.
 
  **7\. Collection of Personal Information; Categories.**  
-We will ask you for personal information when you sign up for any specific benefit or purpose that requires registration. Personal information that we collect may vary with the each registration, and it may include one or more of the following categories: name, physical address, an email address, phone number, and credit card information including credit card number, expiration date, and billing address, emergency contact information, current medications, allergies, medical insurance information.
+We will ask you for personal information when you sign up for any specific benefit or purpose that requires registration. Personal information that we collect may vary with each registration, and it may include one or more of the following categories: name, physical address, an email address, phone number, and credit card information including credit card number, expiration date, and billing address, emergency contact information, current medications, allergies, medical insurance information.
 
  **8\. Use And Sharing of Personal Information: General Policy And Exceptions.**  
 Our general policy is that we will use your personal information, including combining your personal information with passive information collected from this site, only for: the performance of the services or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site, and we will not share, sell, or rent your personal information to others. The only exceptions to this general policy: (i) are described in the subsections below, and (ii) if you explicitly approve through our site.
@@ -72,7 +73,7 @@ Upon request, we will permit you to request or make changes or updates to your p
 If you supply us with your e-mail address you may receive periodic messages from us with information specific to the Services and required for the normal functioning of the Services as well as for new products or services or upcoming events. If you prefer not to receive periodic email messages, you may opt-out by following the instructions on the email.
 
  **13\. Children's Online Policy.**  
-We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site. Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13. If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child's information, please send contact our site as provided below under “Contact Us”, and be sure to include in your message the same login information that your child submitted.
+We are committed to preserving online privacy for all of our website visitors, including children. This site is a general audience site. Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13. If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child's information, please email us at [admin@habitrpg.com](mailto:admin@habitrpg.com) and be sure to include in your message the same login information that your child submitted.
 
  **14\. Email And Other Messages Through This Site; ECPA Notice.**  
 This site treats email messages and other electronic messages that are sent through this site and not viewable by others as confidential and private, except as required by law, including without limitation, the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the "ECPA"). The ECPA permits this site's limited ability to intercept and/or disclose electronic messages, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime. This site is not considered a "secure communications medium" under the ECPA.
@@ -80,10 +81,7 @@ This site treats email messages and other electronic messages that are sent thro
  **15\. Contact Us.**  
 If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business:
 
- **OCDevel**  
-98 Morrison Ave #2  
-Somerville, MA 02144  
-Email:[tylerrenelle@gmail.com](mailto:tylerrenelle@gmail.com)  
-Telephone: 1-805-975-5236
-
-© 2012 OCDevel
+ **HabitRPG, Inc.**  
+11870 Santa Monica Blvd., Suite 106-577  
+Los Angeles, CA 90025  
+Email: [admin@habitrpg.com](mailto:admin@habitrpg.com)
