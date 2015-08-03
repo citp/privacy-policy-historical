@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quikfixlaptopkeys.com privacy policy that was archived on 2015-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150207035457id_/http%3A//www.quikfixlaptopkeys.com/%3Fpage_id%3D648) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quikfixlaptopkeys.com privacy policy that was archived on 2015-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150803092336id_/http%3A//www.quikfixlaptopkeys.com/%3Fpage_id%3D648) for the most accurate reproduction.*
 
 # Privacy Policy | QuikFix Laptop Keyboard Keys
 
