@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mongolab.com privacy policy that was archived on 2015-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319063852id_/https%3A//mongolab.com/company/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mongolab.com privacy policy that was archived on 2015-08-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150803043142id_/https%3A//mongolab.com/company/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Privacy Policy | MongoLab: MongoDB-as-a-Service</title>
@@ -184,14 +184,14 @@
   <body>
     <div id="header">
   <div class="wrap">
-    <div class="logo">
+    <div class="logo" alt="MongoLab's logo">
       <a href="/">MongoLab</a>
     </div>
     <div class="links" style="">
       <a id="headerWelcomeLink" href="/welcome" class="marketingLink" style="display:none;">Welcome</a>
-      <a href="/plans" class="marketingLink">Plans &amp; Features</a>
+      <a href="/plans" class="marketingLink">Plans + Features</a>
       <a href="/plans/pricing" class="marketingLink">Pricing</a>
-      <a id="docPortalLink" href="http://docs.mongolab.com" target="_blank">Docs &amp; Support</a>
+      <a id="docPortalLink" href="http://docs.mongolab.com" target="_blank">Docs + Support</a>
       <a id="createTicketLink" href="https://support.mongolab.com/anonymous_requests/new" target="_blank" style="display:none;">Support</a>
       <a id="headerAccountLink" href="/account-details" style="display:none;">Account</a>
       <a id="headerSignupLink" onclick="gotoSignupWithSourceParam();" class="signup">Sign up</a>
@@ -200,7 +200,9 @@
       <!-- To protect against use in a CSRF attack, logout should be a POST, so we need a simple form here rather than
            a straight link. We use a form outside of / after the links to avoid breaking up the style. -->
       <a id="headerLogoutLink" onclick="document.getElementById('headerLogoutForm').submit();" class="login" style="display:none;">Log out</a>
-      <form id="headerLogoutForm" method="POST" action="/logout"></form>
+      <form id="headerLogoutForm" method="POST" action="/logout">
+        <input type="hidden" name="<csrf:tokenname/>" value="<csrf:tokenvalue/>">
+      </form>
     </div>
   </div>
 </div>
@@ -361,78 +363,68 @@
       </div>
     </div><!-- /#content -->
     <div id="preFooterBar">
-  <div class="wrap">
-    <div class="logo">
-      <a href="/"><img src="/base/img/mongolab-logo-146x38.png" height="38" width="146" alt="MongoLab"></a>
+    <div class="wrap">
+      <div class="logo">
+        <a href="/"><img width="146" height="38" alt="MongoLab" src="/base/img/mongolab-logo-146x38.png"></a>
+      </div>
+      <div class="social">
+        <a href="https://twitter.com/mongolab" class="twitter" title="Twitter" target="_blank">Twitter</a>
+        <a href="https://www.facebook.com/MongoLab" class="facebook" title="Facebook" target="_blank">Facebook</a>
+        <a href="https://plus.google.com/+MongoLab" class="google" title="Google+" target="_blank">Google+</a>
+      </div>
+      <div class="links marketingContent">
+        <span class="message">Get 500 MB <em>FREE</em></span>
+        <a onclick="gotoSignupWithSourceParam();" class="signup">Sign up now</a>
+      </div>
     </div>
-    <div class="links marketingContent" style="display:block;">
-      <span class="message">Get 500 MB <strong>FREE</strong></span>
-      <a onclick="gotoSignupWithSourceParam();" class="signup">Sign up</a>
-    </div>
-    <div class="clearer"></div>
   </div>
-</div>
 
     <div id="footer">
-  <div class="wrap">
-    <div class="siteLinks">
-      <ul>
-        <li>
-          <strong>Company</strong>
-          <ul>
-            <li class="marketingLinks"><a href="/company">About MongoLab</a></li>
-            <li><a href="http://blog.mongolab.com" target="_blank">Blog</a></li>
-            <li><a href="http://mongolab.org" target="_blank">Open-source Projects</a></li>
-          </ul>
-        </li>
-        <li class="marketingLinks">
-          <strong>Plans</strong>
-          <ul>
-            <li><a href="/plans">Features</a></li>
-            <li><a href="/plans/pricing">Pricing</a></li>
-          </ul>
-        </li>
-        <li style="margin-left:-38px;">
-          <strong>Support</strong>
-          <ul>
-            <li><a href="http://status.mongolab.com" target="_blank">MongoLab Status</a></li>
-            <li><a href="http://docs.mongolab.com" target="_blank">Documentation</a></li>
-            <li><a href="https://support.mongolab.com/anonymous_requests/new" target="_blank">Ask a Question</a></li>
-          </ul>
-        </li>
-        <li>
-          <strong>Clouds</strong>
-          <ul>
-            <li><a href="/aws">Amazon (AWS)</a></li>
-            <li><a href="/azure">Azure</a></li>
-            <li><a href="/google">Google</a></li>
-          </ul>
-        </li>
-        <li class="share">
-          <strong>Community</strong>
-          <ul>
-            <li>
-              <a style="margin-right:3px;" href="https://twitter.com/mongolab" target="_blank"><img src="/base/img/icon_twitter.png" width="26" height="26"></a>
-              <a style="margin-right:3px;" href="https://www.facebook.com/MongoLab" target="_blank"><img src="/base/img/icon_facebook.png" width="26" height="26"></a>
-              <a href="https://plus.google.com/+MongoLab" target="_blank"><img src="/base/img/icon_googleplus.png" width="24" height="24" style="margin-left:2px; margin-bottom:2px;"></a>
-            </li>
-          </ul>
-        </li>
-<li><font size="1"><a href="https://safeharbor.export.gov/list.aspx" target="_blank">We self-certify <br>compliance with:</a></font>
-          <a href="http://export.gov/safeharbor/" target="_blank"><img src="/base/img/safe-harbor.png" alt="U.S.-EU &amp; U.S.-Swiss Safe Harbor"></a>
-        </li>
-      </ul>
+    <div class="wrap">
+      <div class="siteLinks">
+        <ul>
+          <li>
+            <strong>Company</strong>
+            <ul>
+              <li><a href="/company">About MongoLab</a></li>
+              <li><a target="_blank" href="http://blog.mongolab.com">Blog</a></li>
+              <li><a target="_blank" href="http://mongolab.org">Open-source Projects</a></li>
+            </ul>
+          </li>
+          <li class="marketingLinks">
+            <strong>Products</strong>
+            <ul>
+              <li><a href="/plans">Plans &amp; Features</a></li>
+              <li><a href="/plans/pricing">Pricing</a></li>
+            </ul>
+          </li>
+          <li>
+            <strong>Support</strong>
+            <ul>
+              <li><a href="http://status.mongolab.com" target="_blank">MongoLab Status</a></li>
+              <li><a href="http://docs.mongolab.com" target="_blank">Documentation</a></li>
+              <li><a href="https://support.mongolab.com/anonymous_requests/new" target="_blank">Ask a Question</a></li>
+            </ul>
+          </li>
+          <li class="marketingLinks">
+            <strong>Clouds</strong>
+            <ul>
+              <li><a href="/aws">AWS</a></li>
+              <li><a href="/azure">Azure</a></li>
+              <li><a href="/google">Google</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div class="safeharbor">
+        <a target="_blank" href="https://safeharbor.export.gov/list.aspx">We self-certify<br>compliance with:</a>
+        <a target="_blank" href="http://export.gov/safeharbor/"><img alt="U.S.-EU &amp; U.S.-Swiss Safe Harbor" src="/base/img/safe-harbor.png"></a>
+      </div>
+      <div class="copyright">
+        © 2015 <a>ObjectLabs Corporation</a> <a href="/company/legal/tos">Terms of Service</a> <a href="/company/legal/privacy">Privacy Policy</a>
+      </div>
     </div>
-    <div class="clearer"></div>
-    <div class="powered">
-      <a href="http://mongodb.org" target="_blank"><img src="/base/img/powered-by-mongoDB.png" alt="powered by MongoDB"></a>
-    </div>
-    <div class="copyright">
-      © 2015 <a style="margin-left:0px;" href="http://objectlabs.com" target="_blank">ObjectLabs Corporation</a> <a href="/company/legal/tos">Terms of Service</a><a href="/company/legal/privacy">Privacy Policy</a>
-    </div>
-    <div class="clearer"></div>
   </div>
-</div>
 
 <script type="text/javascript">
 <!-- SnapEngage code removed from this location -->
