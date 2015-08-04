@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goincase.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317062219id_/https%3A//www.goincase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goincase.com privacy policy that was archived on 2015-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150804182522id_/https%3A//www.goincase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Incase
 
@@ -44,7 +44,7 @@ When you register with our site, you provide other personal information includin
 
 If you do not wish to receive such mailings, you may request to be removed from the contact list by changing your account preferences in your user profile or [email us](https://web.archive.org/contact/).
 
-If you post reviews or comments on the goincase.com site and blog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in comments on our blog. Please note that all product reviews are screened prior to posting and Incase will not post reviews containing personally identifiable information or inappropriate language.
+If you post reviews or comments on the incase.com site and blog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in comments on our blog. Please note that all product reviews are screened prior to posting and Incase will not post reviews containing personally identifiable information or inappropriate language.
 
 #### Personal Information Released to Outside Parties
 
@@ -58,7 +58,7 @@ As a good corporate citizen, Incase complies with applicable law and legal oblig
 
 A cookie is an element of data that a website can send to your browser, which may then be stored on your system. To use portions of Incase's website you must set your browser to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
 
-Incase uses session cookies. These cookies are used when you type your login information during your visit to our site and are used for a variety of reasons such as to keep track of items in your shopping cart, to keep track of your login name and passwords and to mark a session timeout. The cookies are not tied to a visitor's personal information. This information is encrypted and stored in a cookie during that session. The cookie is deleted from the visitor's computer when the visitor logs out or closes his or her browser. Some of our business partners (e.g., service providers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.goincase.com only and does not cover the use of cookies by any advertiser.
+Incase uses session cookies. These cookies are used when you type your login information during your visit to our site and are used for a variety of reasons such as to keep track of items in your shopping cart, to keep track of your login name and passwords and to mark a session timeout. The cookies are not tied to a visitor's personal information. This information is encrypted and stored in a cookie during that session. The cookie is deleted from the visitor's computer when the visitor logs out or closes his or her browser. Some of our business partners (e.g., service providers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by www.incase.com only and does not cover the use of cookies by any advertiser.
 
 #### Editing Your Personal Profile
 
