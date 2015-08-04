@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the namecheckr.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319095241id_/https%3A//www.namecheckr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namecheckr.com privacy policy that was archived on 2015-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150805005752id_/https%3A//www.namecheckr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | namecheckr.com
+# Privacy | namecheckr.com
 
 ### Privacy Policy
 
@@ -9,7 +9,7 @@
 
 #### Introduction
 
-Welcome to Namecheckr, an online service designed to permit Users to check the availability of domain names and social usernames across multiple networks. Please read our [Terms of Service](https://www.namecheckr.com/terms-of-service) and this Privacy Policy carefully as you must agree to both in order to use our Service.
+Welcome to Namecheckr, an online service designed to permit Users to check the availability of domain names and social usernames across multiple networks. Please read our <a href="https://www.namecheckr.com/terms-of-service">Terms of Service</a> and this Privacy Policy carefully as you must agree to both in order to use our Service.
 
 #### Definitions
 
@@ -53,7 +53,7 @@ Users may in some cases be able to review and edit the personal information they
 
 We use cookies to remember your preferences and track advertisements. For these reasons, it is necessary that you enable cookies in your browser, and you hereby acknowledge that we have informed you of our use of cookies and that you consent to our use of cookies in relation to your computer system.
 
-We use Google AdSense on our Site, which uses the DoubleClick cookie. For more information about the DoubleClick cookie and how to opt out of it, please visit <http://www.google.com/policies/technologies/ads/>
+We use Google AdSense on our Site, which uses the DoubleClick cookie. For more information about the DoubleClick cookie and how to opt out of it, please visit <a href="http://www.google.com/policies/technologies/ads/">http://www.google.com/policies/technologies/ads/</a>
 
 #### Third Party Websites
 
