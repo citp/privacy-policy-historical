@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingneeds.in privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419022908id_/http%3A//shoppingneeds.in/index.php%3Froute%3Dinformation/information%26information_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingneeds.in privacy policy that was archived on 2015-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150805033641id_/http%3A//shoppingneeds.in/index.php%3Froute%3Dinformation/information%26information_id%3D6) for the most accurate reproduction.*
 
 # Privacy Policies
 
