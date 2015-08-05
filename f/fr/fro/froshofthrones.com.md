@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the froshofthrones.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623063327id_/http%3A//www.froshofthrones.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the froshofthrones.com privacy policy that was archived on 2015-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150805072949id_/http%3A//www.froshofthrones.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Game of thrones
 
