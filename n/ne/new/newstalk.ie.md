@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newstalk.ie privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151148id_/https%3A//newstalk.ie/reader/47.1153/42690/-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstalk.ie privacy policy that was archived on 2015-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150805024517id_/https%3A//newstalk.ie/reader/47.1153/42690/-) for the most accurate reproduction.*
 
 # Privacy Policy - Newstalk
 
