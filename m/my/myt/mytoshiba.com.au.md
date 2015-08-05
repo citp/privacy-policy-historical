@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytoshiba.com.au privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411153832id_/http%3A//www.toshiba.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytoshiba.com.au privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806013523id_/http%3A//www.toshiba.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Toshiba Australia and New Zealand
 
@@ -25,8 +25,6 @@ TOSHIBA may also collect your personal information from third parties such as cr
 
 TOSHIBA stores your personal information in different ways including electronically or in paper form. The security of your personal information is important to TOSHIBA and we take reasonable steps to protect it from misuse, interference, loss, unauthorised access, modification or disclosure. Some of the ways we do this include implementing security access procedures to databases, confidentiality agreements for our employees and only allowing access to personal information to individuals once TOSHIBA is satisfied as identification requirements.
 
-To the extent permitted by law, the information you provide is stored in controlled facilities which have limited access and may be accessed, processed or by, or transferred to, any Toshiba related companies (or their subcontractors) at locations around the world, including those located in countries where you do not live. This use may continue even if they cease to be a Toshiba related company. All of the Toshiba related companies that receive your personal information will use it in accordance with this Privacy Policy.
-
 **Using and disclosing your personal information**
 
 TOSHIBA generally uses your personal information for the following general purposes: to assess any applications for credit, to process and complete any purchase orders, to administer your account, to fulfil your request for information or correct your personal information, to contact you, improve and develop our products and services, and, from time to time, to provide information to you regarding products and services that we believe may be of interest to you and related purposes. Some of the main consequences of not collecting your personal information are that any applications for credit or supply of goods and services may not be processed, we may not be able to respond to your email/online questions and we may not be able process any orders made to TOSHIBA. 
@@ -51,7 +49,7 @@ TOSHIBA may also disclose information where:
 
 
 
-TOSHIBA may also disclose your personal information to overseas recipients. It is not reasonably practical to list all the countries in which the recipients of your information are likely to be located, but it is likely such countries will include Toshiba related companies in Japan, the Philippines and Singapore and you consent to this disclosure. In providing this consent, you understand that the overseas recipient may not be accountable under the Act and you may not seek redress under the Act. The overseas recipient may not be subject to similar obligations as the Australian Privacy Principles.
+TOSHIBA may also disclose your personal information to overseas recipients. It is not reasonably practical to list all the countries in which the recipients of your information are likely to be located, but it is likely such countries will include Toshiba related companies in Japan and Singapore and you consent to this disclosure. In providing this consent, you understand that the overseas recipient may not be accountable under the Act and you may not seek redress under the Act. The overseas recipient may not be subject to similar obligations as the Australian Privacy Principles.
 
 If you do not consent to your information being disclosed to overseas recipients kindly contact TOSHIBA’s privacy officer whose details are outlined below under ‘Contact details for TOSHIBA’s privacy officer’.
 
