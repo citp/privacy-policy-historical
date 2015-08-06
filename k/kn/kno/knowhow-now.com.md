@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowhow-now.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415004203id_/http%3A//knowhow-now.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowhow-now.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807010827id_/http%3A//knowhow-now.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
