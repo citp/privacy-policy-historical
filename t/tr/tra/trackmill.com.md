@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackmill.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082829id_/http%3A//trackmill.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackmill.com privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806201932id_/http%3A//trackmill.com/privacy.php) for the most accurate reproduction.*
 
 # Trackmill - Home of The officially licensed Free Rider 2 Database
 
