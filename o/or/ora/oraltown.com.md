@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oraltown.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320152705id_/http%3A//www.oraltown.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oraltown.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807012038id_/http%3A//www.oraltown.com/privacy.html) for the most accurate reproduction.*
 
 # HD Oral Movies, Free Porno Tube, Online Sex Videos, Streaming Porn Clips and Free XXX Videos
 
