@@ -1,124 +1,76 @@
-> *The following text is extracted and transformed from the exercise.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207124000id_/http%3A//exercise.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exercise.com privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806122246id_/https%3A//www.exercise.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy| Exercise.com
+# Privacy Policy | Exercise.com
 
-  
-Communicate.com is committed to protecting your privacy. We value our visitors and endeavor to create an enjoyable and valuable experience when visiting our network of sites. The following Privacy Statement applies to all visitors to the Communicate.com network of sites, and to all referrals made by our visitors. 
+**PRIVACY POLICY - WEIGHTTRAINING.COM**
 
-### 1.0 What information we collect and how we use it
+WeightTraining.com (the “Site”,” us” or “we”) has adopted this Privacy Policy because we are committed to protecting your privacy. The following Privacy Policy is only in effect for the web pages owned and operated by the Site.
 
-**1.1 User Registration**
+By using the Site you agree to this Privacy Policy. This Privacy Policy is effective as of January 1, 2011.
 
-To help recognize you and personalize your experiences on the Communicate.com network we offer a general registration service. Registration requires that you provide us with your first name, last name, email address, age range, gender and country. You have the option to opt-in to any products or services we may offer. You can change, update, opt-out of services, or terminate your register altogether at any time. 
+If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and the Site’s Terms of Service, including limitations on damages, jurisdiction of disputes and application of the law of the State of Florida.
 
-Registering once with our network gives you access to the various services that you may choose to opt-in to, for example receiving marketing materials, free email, and access to forums. Registration also allows you to automatically populate our contest forms should you choose to participate. Your one user name and password will provide you access to all the services you have chosen on any of our web sites. And, we may from time to time also ask general interest questions in a survey questionnaire to help us understand what type of experience you would like to have when you visit a Communicate.com web site. 
+If you have any questions about this Privacy Policy, please feel free to contact us at info@weighttraining.com or write to us at: 48 Kings Hwy, #302, Gales Ferry, CT 06335
 
-If you do not wish to register, but would like to participate in a contest we may be offering, we will ask you for your name, email address, age range, gender, country and zip/postal code to qualify your entry, notify winners and deliver prizes related to our contests. If you so choose, we will use this information to notify you of special offers, new services, contests or surveys across our network of sites. 
+**1\. INFORMATION THAT YOU GIVE US.** When you register or subscribe to our services, we collect personal information that can identify you (“PII”) such as your full name, email address, mailing address, telephone number. We also may collect PII from you when you contact us or participate in activities that may be available through our services such as: forums; message boards; chats; creating a profile; rating; tagging; commenting on articles or completing surveys. The information that we collect varies depending upon how you use our Service. When you register as a member of the Site, you will need to provide us with health related information that a trainer will need to design your fitness and nutrition plan. That information will be associated with your profile and therefore become PII. When you register as a trainer on the Site, you will need to provide us with information regarding your qualifications in designing fitness and nutrition plans.
 
-If you would like to use the services of our network, your cookies must be turned on. You can auto-login, or login manually each time that you visit. 
+WE DO NOT KNOWINGLY COLLECT PII FROM CHILDREN UNDER THE AGE OF THIRTEEN.
 
-**1.2 Collection, Use, and Disclosure**
+Please keep in mind that certain features on our Site give you an opportunity to interact with us and others. These may include forums, message boards, chats, creating community profiles, and rating, tagging and commenting on articles. When you use these features you should be aware that any information you submit, including your name, location and email address, may be publicly available to others. We are not responsible for any information you choose to submit through these interactive features.
 
-We do not share, rent, trade or sell any of the personal information we currently hold with non-related third parties. We may choose to do so in the future.
+Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. When an individual chooses to post information that will be publicly disclosed, he or she is responsible for ensuring that such information conforms to all local data protection laws. We are not responsible under any data protection laws for user posted information.
 
-We do, however, collect, and sometimes share with companies we have partnered with, anonymous statistical information about your visit to one or more of our sites. We may also share your personal information with third parties who manage activities on our web site, or market research firms that have been contracted by us. In such instances, we will ensure that they manage the information with appropriate care and due diligence.
+**2\. OTHER INFORMATION WE COLLECT.** Cookies. We use cookies and other technologies to collect information. Cookies are small bits of information that our websites place on the hard drive of your computer. We use cookies to facilitate your login processes; allow you to personalize and store your settings; collect usage information; determine our total audience size and traffic; and help us improve our sites by measuring which areas are of greatest interest to users.
 
-Your personal information may be used for personalizing advertising or content. If you registered for a service and expressly asked us to send you information about contests or special offers, then we will use your information for that purpose. 
+You can set the browser on your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features on our Site.
 
-Your personal information may be disclosed without your consent if Communicate.com has reason to believe that doing so is necessary to identify, contact, or bring legal action against anyone damaging, injuring, or interfering with our rights, property, users, or anyone else who may be harmed by such activities. And, we will also disclose your information without your consent where we are required by law.
+We use a web analytics service. This may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. The analytics program does not collect personally identifiable information that you do not voluntarily enter in this website. It also does not track your browsing habits across other websites which do not use their services.
 
-**1.3 Disposing of Information**
+In addition we collect non PII such as IP addresses and website usage information from you.
 
-When we no longer need your information, or you have withdrawn your consent to use the information, we will securely erase, destroy, or make the information anonymous. 
+**3\. HOW WE USE YOUR INFORMATION.** Generally, we may use information in the following ways:
 
-**1.4 Your consent**
-
-Consent means that you are aware, understand, and have expressly permitted Communicate.com to collect, use, re-use or disclose your personal information for the purpose(s) identified to you. In other words, you must have agreed to. And, you understand that in providing us consent, you are permitting use of your personal information to ensure that we meet your reasonable expectations in providing services to you. For example, if you subscribe to a Communicate.com service, we may on occasion have to contact you regarding that service.
-
-Where the information you are providing to us is sensitive, your consent must be expressed. For example, clicking on the submit button on a form that includes your personal information is considered expressed consent. Or, sending us an email requesting a product or service is considered consent. The manner in which your consent is granted may vary depending on the sensitivity of the information that you are providing to us. Where the information is less sensitive, implied consent will be considered appropriate. For example, when participating in a discussion forum, your username may be made available to other users. 
-
-You can withdraw your consent (opt out) at any time by closing your account. To do this, select "modify account", then select "close account" and follow the instructions on the screen. You will receive an email confirmation which you must reply to in order to close your account.
-
-If you have entered into an agreement with Communicate.com, withdrawal of your consent may be subject to legal or contractual restrictions. For example, if you enter a contest, you are bound by the rules and regulations associated with that promotion. In cases such as this, we will make a reasonable effort to inform you of any implications associated with withdrawing your consent.
-
-**1.5 Kids Online & Privacy**
-
-We do not currently have services for children under 13. If a child wants to use our services, the children's parent or guardian must register for our services and participate with the child.
-
-**1.6 Accessing your personal information**
-
-Where applicable, we will provide the means to update or modify your personal information online. Otherwise, you can request an update or modification of your information by sending us an email detailing the changes. Information regarding the existence, collection, use or disclosure of your personal information can be accessed by sending an email to [privacy_admin@en.communicate.com](mailto:privacy_admin@en.communicate.com).
-
-We will provide the information to you within a reasonable period of time in a format that is easily understandable. We will only deny access if the information includes the information of another person, it is cost prohibitive, a security risk or it is proprietary, or where we are prohibited by law. Proof of your identify will be required before any information is disclosed to you, and depending on the nature of the request, you may be asked to incur the costs associated with supplying the information to you. You can also request our policies and procedures regarding the management of personal information. 
-
-### 2.0 Links to external sites
-
-Our privacy policy only applies to the Communicate.com network. It does not apply to non-network sites that you connect to from our sites. We recommend that you read their privacy policy to understand how they manage personal information. We choose our partners and sponsors carefully. However, we are not responsible for the content or practices of web sites operated by third parties that are linked to our sites. These links are provided as a service to our users. Unless otherwise stated, they do not constitute our endorsement, sponsorship or approval of their content, policies or practices.
-
-### 3.0 "Cookies"
-
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. We use cookies to reference stored information which may include:
-
-  * a visitor's preferences; 
-  * record session information; 
-  * record user-specific information on what pages users access or visit; 
-  * alert visitors to new areas that we think might be of interest to them when they return to the site; 
-  * record past activity at a site in order to provide better service when visitors return to our site; 
-  * ensure that visitors are not repeatedly sent the same banner ads; and 
-  * to customize web page content based on visitors' browser type or other information that the visitor sends. 
+  * For the purposes for which you specifically provided it including, without limitation, to enable us to process and fulfill your subscription or other requests.
+  * To send you information about your relationship or transactions with us.
+  * To notify you about our products, services, and special offers.
+  * To otherwise contact you with information that we believe will be of interest to you.
+  * To enhance or develop features, products and services.
+  * To allow us to personalize the content that you and others see on the Sites.
+  * To provide advertisers and other third parties with aggregate information about our subscribers, web site user base and usage patterns.
+  * To allow other select companies to send you promotional materials about their products and services.
 
 
 
-### 4.0 Log Files
+We use non-Personally Identifiable Information for purposes such as measuring the number of visitors to sections of our Site, making the Site more useful to visitors and delivering targeted advertising and non-advertising content. We use IP addresses to analyze trends, administer the Site, track a visitor’s movement, and gather demographic information for aggregate, non-personally identifiable use.
 
-Communicate.com uses IP addresses to identify and analyze trends, track user movements, administer the site, and gather broad demographic information for aggregate use. We do not link your IP address to your personal information.
+**4\. SHARING YOUR INFORMATION.** Except as otherwise described in this Policy, or if we inform you otherwise at the time of data collection, we will not share your information with third parties.
 
-### 5.0 Communicate.com Services and Your Privacy
+We share your information as follows:
 
-**5.1 Send to a Friend Service**
-
-If you use our Send-to-a-Friend service, we will use your friend's email address to send them a one time email inviting them to visit our website. 
-
-**5.2 Free Email**
-
-In addition to protecting identifiable personal information, Communicate.com will not monitor, edit, or disclose the contents of your private communications unless we are required to by law or in the good faith believe that such action is necessary to conform to the edicts of the law or comply with legal process, or to protect and defend the rights or property of Communicate.com. 
-
-In using our free email service, you acknowledge and agree that Communicate.com neither endorses, nor assumes responsibility for any threatening, libelous, obscene, harassing or offensive material, any infringement of third party intellectual property rights, or any crime facilitated by the contents of any personal communications. 
-
-You also acknowledge and understand that certain technical processing of email messages and their content may be required to send and receive messages; conform to connecting networks' technical requirements; conform to the limitations of the Service; or conform to other similar requirements. And, it is important for you to know that in the process of transmitting email messages, it is possible that your message may be lost or intercepted by a party other than Communicate.com.
-
-Communicate.com will not send you any unsolicited information, including email, unless it is related to, for example, the maintenance of your account or a service you have selected.
-
-**5.3 Chat & Forums**
-
-Please keep in mind that whenever you give out personal information while using our chat or forum services, your information may be collected and used by others. Despite our efforts to protect your personal information, we cannot guarantee the security of any information you choose to disclose online, and you do so at your own risk.
-
-### 6.0 Security 
-
-We exercise care and due diligence in managing, transmitting and securing personal information once we receive it. Your personal information is protected by safeguards that are appropriate to the sensitivity of the information. This may include restricted access to an office, secure access levels to databases, or the use of passwords and encryption. However, it is important for you to know that data transmission over the Internet is not 100% secure. Despite our efforts, unfortunately, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
-
-If you register with any web site on the Communicate.com network, your account is password protected. Only you can access and view the information you have provided. We strongly encourage you not to divulge your password to anyone. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. We also recommend that you log-out of the network when you have finished your visit, and close your browser window when you have finished your work. Doing so will ensure that others cannot access your personal information and correspondence if your computer is accessible to others, such as in a library or internet café.
-
-### 7.0 General
-
-**7.1 Changes to our Privacy Statement**
-
-If we decide to change our Privacy Statement, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. If you are not comfortable with any of the changes to our Privacy Statement, you will have the opportunity to withdraw your information from our network at any time by selecting "modify account", then select "close account" and follow the instructions on the screen. You will receive an email confirmation, which you must reply to in order to close your account. We will use information in accordance with the privacy policy under which it was collected. 
-
-**7.2 Accountability at Communicate.com**
-
-Accountability for the compliance with our privacy statement is the responsibility of our Privacy Officer, an employee of Communicate.com. 
-
-If you have any questions about this statement, the practices of Communicate.com with respect to personal information, please contact us at [privacy_admin@en.communicate.com](mailto:privacy_admin@en.communicate.com) or write to:
-
-Privacy Officer  
-Communicate.com Inc.  
-360-220 Cambie Street  
-Vancouver, B.C.  
-Canada  
-V6B 2M9  
+  * With Affiliates: We may share your PII with affiliated companies and businesses.
+  * With Service Providers: We may use other companies to perform services including, without limitation, facilitating some aspects of our Site such as processing credit card transactions sending emails, and fulfilling purchase requests. These other companies may be supplied with or have access to your PII solely for the purpose of providing these services to you on our behalf.
+  * With Business partners: When you make purchases or engage in promotions offered through our Site, we may share PII with the businesses with which we partner to offer you those products, services, and promotions. When you elect to engage in a particular business partner's offer or program, you authorize us to provide your information to that business partner.
+  * Special Circumstances: We also may disclose your PII: 
+    * In response to a subpoena or similar investigative demand, a court order, or other request from a law enforcement or government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law.
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our Site’s terms and conditions or other agreements or policies.
+    * In connection with a corporate transaction, such as the sale of all or a portion of our business, a divestiture, merger, consolidation, or asset sale, or in the event of bankruptcy.
+  * SPECIAL NOTICE FOR MEMBERS OF THE SITE: IF YOU ELECT TO MAKE YOUR PROFILE VIEWABLE BY TRAINERS, ALL INFORMATION (EXCLUDING YOUR PERSONAL CONTACT INFORMATION) THAT YOU INCLUDE IN YOUR PROFILE MAY BE VIEWED BY TRAINERS. YOU SHOULD NOT ENTER ANY INFORMATION IN YOUR PROFILE THAT YOU WISH TO REMAIN CONFIDENTIAL. A TRAINER WILL NOT BE ABLE TO CONTACT YOU EXCEPT THROUGH THE SITE UNLESS YOU PROVIDE A TRAINER WITH YOUR PERSONAL CONTACT INFORMATION. WE RECOMMEND THAT YOU CONTACT YOUR TRAINER THROUGH THE SITE ONLY. IF YOU CHOOSE TO PROVIDE A TRAINER WITH YOUR PERSONAL CONTACT INFORMATION, YOU DO SO AT YOUR OWN RISK. WE DO NOT SCREEN THE CREDENTIALS OF TRAINERS BEFORE ALLOWING THEM TO REGISTER IN OUR DATABASE. WE ARE NOT RESPONSIBLE FOR THE RETENTION, USE OR PRIVACY PRACTICES OF TRAINERS AFTER THEY HAVE RECEIVED YOUR INFORMATION.
+  * SPECIAL NOTICE FOR TRAINERS: YOUR PROFILE WILL BE VIEWABLE BY VISITORS TO THE SITE. ALL INFORMATION (INCLUDING PERSONALLY IDENTIFIABLE INFORMATION) THAT YOU INCLUDE IN YOUR PROFILE MAY BE VIEWED BY VISITORS. YOU SHOULD NOT ENTER ANY INFORMATION IN YOUR PROFILE THAT YOU WISH TO REMAIN CONFIDENTIAL.
 
 
-**7.3 Your Acceptance of These Terms**
 
-Using any site on the Communicate.com network signifies your assent to our Privacy Policy. If you do not agree to this policy, please do not use our sites. And, your continued use of our network sites following the posting of changes to these terms will mean you accept those changes.
+**5\. HOW TO ACCESS YOUR INFORMATION.** If you have an online account with us, you have the ability to review and update your personal information online by visiting the account management section on the Site. You can also review and update your personal information by contacting us at the email address provided below in the “How to contact us” section of this Privacy Policy.
+
+**6\. HOW WE PROTECT YOUR INFORMATION.** We use commercially reasonable administrative, technical, personnel and physical measures to safeguard PII in our possession against loss, theft and unauthorized use, disclosure or modification but we cannot assure that your PII or non-PII will never be disclosed in a manner that is inconsistent with this Privacy Policy. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information.
+
+**7\. TRANSFER TO U.S. OR OTHER COUNTRIES.** Your information may be stored and processed in the United States or any other country where the Site has facilities, and by subscribing to our services and/or using our Site you consent to the transfer of information outside of your country.
+
+**8\. CHANGES TO OUR PRIVACY POLICY.** From time to time we may revise this Privacy Policy. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Privacy Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we make material changes to our practices regarding use of your PII, your PII will continue to be governed by the Privacy Policy under which it was subject prior to those changes, unless you have been provided notice of, and have not objected to, the changes.
+
+**9\. CHILDREN’S ONLINE PRIVACY PROTECTION ACT.** The Site serves general users of the World Wide Web. We support and comply with the Children’s Online Privacy Protection Act (COPPA) and we do not knowingly collect information from children under the age of 13, nor do we share such information with third parties. Children under the age of 18 may not use the Site.
+
+**10\. SPECIAL NOTIFICATION FOR CALIFORNIA RESIDENTS.** If you reside in California and you have provided us with personal information, you may request information about our disclosures of certain categories of personal information (if any) to third parties for their direct marketing purposes. Such requests must be submitted to us using the email address below. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties (if any) for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+
+**11\. HOW TO CONTACT US.**
+
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at info@weighttraining.com or by writing a letter to: 48 Kings Hwy, #302, Gales Ferry, CT 06335
