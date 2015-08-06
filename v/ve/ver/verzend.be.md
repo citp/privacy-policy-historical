@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the verzend.be privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124203id_/http%3A//verzend.be/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verzend.be privacy policy that was archived on 2015-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150806210437id_/http%3A//verzend.be/privacy.html) for the most accurate reproduction.*
 
-# Verzend.be - Manera facil de compartir sus archivos
+# Verzend.be - Dosya paylaЕџД±mД±nД±n en kolay yolu
 
 ### **Privacy Policy**
 
