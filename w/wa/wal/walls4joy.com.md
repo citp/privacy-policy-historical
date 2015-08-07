@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walls4joy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152757id_/http%3A//walls4joy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walls4joy.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807075732id_/http%3A//walls4joy.com/privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy
 
