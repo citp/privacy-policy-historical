@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexart.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185332id_/http%3A//www.sexart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexart.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807041723id_/https%3A//www.sexart.com/privacy) for the most accurate reproduction.*
 
 # SEXART - Privacy
 
