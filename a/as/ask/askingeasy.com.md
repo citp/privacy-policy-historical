@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askingeasy.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141936id_/http%3A//www.askingeasy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askingeasy.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808012353id_/http%3A//www.askingeasy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
