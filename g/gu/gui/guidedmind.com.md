@@ -1,12 +1,24 @@
-> *The following text is extracted and transformed from the guidedmind.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702022013id_/https%3A//www.guidedmind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidedmind.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807072927id_/https%3A//www.guidedmind.com/privacy-policy) for the most accurate reproduction.*
 
-# Guided Mind Privacy Policy
+# Guided Mind - Privacy Policy
+
+All CDs are shipped from Brooklyn, NY, USA.
+
+Orders are shipped within 24 hours, although this can be up to 48 hours if ordered over the weekend.
+
+Delivery across the USA usually takes 3-5 days after dispatch.
+
+Delivery internationally usually takes 7-10 days, however please wait for 14 days before contacting us, and if your CDs still have not arrived you are fully covered and we will send you replacement copies free of charge if required.
+
+All of our products are covered by our 60 day, no questions asked refund policy.
+
+If for any reason our product is not right for you, simply contact us and we will refund your order in full.
 
 This Application collects some Personal Data from its Users.
 
 ## Data Controller and Owner
 
-Bridgecombe Media Ltd, 83 Lunedale Road, Darlington, DL3 9AT
+Guided Mind Ltd, Guided Mind Ltd, 67 The Mead, Darlington, Co Durham, DL1 1EU
 
 ## Types of Data collected
 
@@ -74,14 +86,6 @@ Personal Data collected: Cookie and Usage Data.
 
 Place of processing: USA – Privacy Policy
 
-#### Segment.io (Segment.io Inc.)
-
-Segment.io is an analytics service provided by Segment.io Inc.
-
-Personal Data collected: Cookie and Usage Data.
-
-Place of processing: USA – Privacy Policy
-
 ### Contacting the User
 
 #### Contact form (this application)
@@ -104,14 +108,6 @@ Depending on the settings chosen by the Owner, Users may also leave anonymous co
 
 If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when users do not use the content commenting service.
 
-#### Disqus (Disqus)
-
-Disqus is a content commenting service provided by Big Heads Labs Inc.
-
-Personal Data collected: Cookie and Usage Data.
-
-Place of processing: USA – Privacy Policy
-
 ### Displaying content from external platforms
 
 These services allow you to view content hosted on external platforms directly from the pages of this Application and interact with them.
@@ -128,7 +124,7 @@ Place of processing: USA – Privacy Policy
 
 ### Handling payments
 
-Payment processing services enable this Application to process payments by credit card, bank transfer or other means. To ensure greater security, this Application shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction.
+Payment processing services enable this Application to process payments by credit card, bank transfer or other means. To ensure greater security, this Application shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction. **We do not store credit card details.**
 
 #### Paypal (Paypal)
 
@@ -296,8 +292,8 @@ Small piece of data stored in the User's device.
 
 #### Legal information
 
-Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
+Notice to European Users: this privacy statement has been prepared in fulfilment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
 
 This privacy policy is solely about this Application.
 
-Latest update: July 31, 2013
+Latest update: Oct 10, 2014
