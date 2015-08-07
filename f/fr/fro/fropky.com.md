@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fropky.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608034555id_/http%3A//www.fropky.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fropky.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807172634id_/http%3A//www.fropky.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fropky.com
 
@@ -49,12 +49,7 @@ By using Fropky, you signify your acceptance of this Privacy Statement. If you a
 
 If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us in any of the methods given below:
 
-  * [Click here](https://web.archive.org/web/20150608034555id_/http%3A//www.fropky.com/contact.php) to fill in the Contact Us form or 
-
-  * 'Fropky.com',   
-360, Swamipara, Budhana Gate,   
-Meerut - 250002   
-(U.P.), INDIA.
+  * [Click here](https://web.archive.org/web/20150807172634id_/http%3A//www.fropky.com/contact.php) to fill in the Contact Us form.
 
 
 
