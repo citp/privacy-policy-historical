@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inspirock.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317102600id_/http%3A//www.inspirock.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirock.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808005912id_/http%3A//www.inspirock.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Inspirock
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
