@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapersinhq.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607043946id_/http%3A//wallpapersinhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapersinhq.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807215422id_/http%3A//wallpapersinhq.com/privacy-policy) for the most accurate reproduction.*
 
 # WallpapersInHQ.com - Privacy policy
 
