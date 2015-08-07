@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katespade.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134319id_/http%3A//www.katespade.co.uk/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katespade.co.uk privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807032718id_/http%3A//www.katespade.co.uk/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -30,7 +30,7 @@
 If you have any questions or need help please contact us at [customer_care  
 @katespade.eu](mailto:Customer%20Care%20Kate%20Spade%20New%20York%20%3Ccustomer_care@katespade.co.uk%3E)
 
-or give us a call at [ 0800 240 4320 ](tel:0800 240 4320)lines open 8am-8pm monday-saturday 10am-6pm sunday. calls made to 0800 240 4320that are not made from a UK landline may be subject to a charge.
+or give us a call at [ 0800 240 4320 ](tel:0800 240 4320)lines open 8am-8pm monday-friday 10am-6pm saturday, closed sunday. calls made to 0800 240 4320that are not made from a UK landline may be subject to a charge.
 
 last updated june 3, 2014
 
