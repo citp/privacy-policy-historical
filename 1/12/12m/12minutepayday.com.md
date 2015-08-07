@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the 12minutepayday.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220151600id_/http%3A//www.12minutepayday.com/includes/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12minutepayday.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807041935id_/http%3A//12minutepayday.com/includes/privacy-policy.php) for the most accurate reproduction.*
 
-# Welcome | Commission Fast Start
+# Welcome | 12 Minute Payday
 
-This privacy policy sets out how **Commission Fast Start **uses and protects any information that you give **Commission Fast Start** when you use this website.
+This privacy policy sets out how **12 Minute Payday **uses and protects any information that you give **12 Minute Payday** when you use this website.
 
-**Commission Fast Start** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**12 Minute Payday** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**Commission Fast Start** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
+**12 Minute Payday** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from [date].
 
 **What we collect**
 
