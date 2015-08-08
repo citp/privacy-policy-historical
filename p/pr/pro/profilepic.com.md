@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035724id_/http%3A//www.profilepic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profilepic.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808034457id_/http%3A//www.profilepic.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
