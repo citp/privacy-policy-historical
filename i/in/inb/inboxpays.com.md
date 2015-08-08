@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxpays.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407072109id_/http%3A//www.inboxpays.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxpays.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808034106id_/http%3A//www.inboxpays.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
 
 # Paid Surveys Online To Earn Extra Cash With Inboxpays
 
