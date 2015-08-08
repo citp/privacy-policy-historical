@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kasareviews.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607154612id_/http%3A//www.kasareviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kasareviews.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808021355id_/http%3A//www.kasareviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress Tips, Tricks and Reviews
 
