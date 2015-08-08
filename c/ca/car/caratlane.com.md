@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105848id_/http%3A//www.caratlane.com/about-us/%3Ftab%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808210854id_/https%3A//www.caratlane.com/about-us/%3Ftab%3Dpp) for the most accurate reproduction.*
 
 # About Us – India’s Trusted Online Jeweller | Caratlane.com
 
@@ -12,7 +12,7 @@ PERSONAL INFORMATION COLLECTED
 
 By accepting this privacy policy, you authorize CaratLane.com to collect, store and use any information that you provide on our Website. The information collected by us are
 
-  * All information entered by you on our website such as  your name, address, contact number, email ID , chat history , and such other information sent by you via  emails to our email ID. 
+  * All information entered by you on our website such as  your name, address, contact number, email ID , chat history , and such other information sent by you via  emails to our email ID.
   * Information collected by means of cookies that are installed on your hard drive.
   * Information such as the IP Address of your computer, the server from which you are accessing our website, details of web browser and operating system used to access our website, date, time and place of accessing of our website etc.,
 
@@ -42,28 +42,28 @@ BY USING THIS WEBSITE, YOU SIGNIFY YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY P
 
 If you have any questions about this Privacy Policy, please feel free to [Contact Us] through our Website or write to us at contactus@caratlane.com.
 
-[](http://www.caratlane.com/jewellery/metro-amethyst-earrings-je00465-wgp9at.html)
-
 ### We're here to help
 
 1800-102-0103
 
 **Sales**  
 Monday to Saturday  
-10 A.M to 10 P.M IST  
+10 A.M. to 11 P.M. IST  
 Sundays and Govt.Holidays  
-10 A.M to 8 P.M IST 
+10 A.M. to 8 P.M. IST 
 
 **Customer Service**  
 Monday to Saturday   
-10 A.M to 7 P.M IST 
+10 A.M. to 9 P.M. IST   
+Sundays and Govt.Holidays  
+10 A.M. to 8 P.M. IST 
 
 [ Send us an Email ](mailto:contactus@caratlane.com)
 
-#### Our Customer Say It Best [More ](http://www.caratlane.com/customertestimonials/index/indexall/)
+#### Our Customer Say It Best [More ](http://www.caratlane.com/education/customer-testimonials.html)
 
-### Love your Service & Beautiful Packaging
+### T@H program was splendid & wonderful..
 
-"Hi All, Love your service and the beautiful Packing. Above all the earring. It's so elegant and light weight. Unlike the other dangle earrings that I have, this one is so . .."
+"The TAH program was Splendid, the overall experience was just wonderful. The response was quick, the people were nice and polite. The CaratLane representative was able to . .."
 
--Preeti Karma,Punjab
+-Shafina Segon,Delhi
