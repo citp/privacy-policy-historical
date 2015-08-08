@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotellall.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607070856id_/http%3A//www.dotellall.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotellall.com privacy policy that was archived on 2015-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150808024641id_/http%3A//www.dotellall.com/privacy.html) for the most accurate reproduction.*
 
 # DoTellAll.com | Privacy Policy
 
