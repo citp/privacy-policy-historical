@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kapre.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609224210id_/http%3A//www.kapre.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapre.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809055455id_/https%3A//www.kapre.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kaplan Real Estate Education
+# Privacy Policy | Kaplan Real Estate Education | Kaplan Real Estate Education | Real Estate, Appraisal, Contractor, and Home Inspection Training
 
 ## Kaplan Higher Education Colleges Website and Social Media Privacy Policy / Your Privacy Rights
 
