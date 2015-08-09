@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotrising.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610042639id_/http%3A//www.dotrising.com/cookie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotrising.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810004137id_/http%3A//www.dotrising.com/cookie-privacy-policy) for the most accurate reproduction.*
 
-# Cookie & Privacy Policy | .rising
+# Cookie & Privacy Policy | ClickZ UK
 
 **.rising is committed to protecting your privacy and we therefore take care over any information gathered through our website (www.dotrising.com). We do, like many other sites, use ‘cookies’ to help us gather data; this page provides more information on the type of information we collect, what it is used for, and how you can make any changes.**
 
