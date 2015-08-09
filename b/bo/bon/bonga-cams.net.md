@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonga-cams.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001202id_/http%3A//bonga-cams.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonga-cams.net privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809212116id_/http%3A//bonga-cams.net/privacy) for the most accurate reproduction.*
 
 # Live Sex Cams: XXX Adult Sex Shows, Live Porn Chat - BongaCams эротический видеочат
 
