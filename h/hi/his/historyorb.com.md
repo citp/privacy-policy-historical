@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the historyorb.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630035544id_/http%3A//www.historyorb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historyorb.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809235102id_/http%3A//www.historyorb.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement | HistoryOrb.com
+# Privacy Statement | OnThisDay.com
 
-**HistoryOrb.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of: [_HistoryOrb.com_](http://www.historyorb.com/)
+**OnThisDay.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices of: [_OnThisDay.com_](http://www.onthisday.com/)
 
 ### Information Automatically Logged
 
@@ -24,17 +24,17 @@ Demographic and profile data is also collected at our site. This information is 
 
 ### External Links
 
-This site contains links to other sites. **HistoryOrb.com** is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. **OnThisDay.com** is not responsible for the privacy practices or the content of such Web sites.
 
 ### Data Quality/Access
 
 This site gives users the following options for changing and modifying information previously provided: 
 
-  1. You can apply to have the entry corrected on our [corrections page](https://web.archive.org/web/20150630035544id_/http%3A//www.historyorb.com/today/corrections.php).
+  1. You can apply to have the entry corrected on our [corrections page](https://web.archive.org/web/20150723072922id_/http://www.onthisday.com/corrections.php).
 
 
 
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20150630035544id_/http%3A//www.historyorb.com/contact.php).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20150723072922id_/http://www.onthisday.com/contact.php).
