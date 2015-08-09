@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the 4tawa.co privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152420id_/http%3A//4tawa.co/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tawa.co privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809230702id_/http%3A//4tawa.co/pages/privacy-policy) for the most accurate reproduction.*
 
-# 4Tawa Indonesia - All in one funny site
+# 4TAWA - "No Day Without Laugh"
 
-  
 **Introduction**  
 4TAWA.CO. (“4TAWA”) takes the private nature of your personal information very seriously.  
 This privacy policy, which we adapted from a policy originally provided by Automattic (WordPress.com), describes how we treat the information we collect when you visit and use our websites. Please read this notice very carefully.
