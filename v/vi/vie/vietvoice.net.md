@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vietvoice.net privacy policy that was archived on 2014-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141026052544id_/http%3A//www.vietvoice.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vietvoice.net privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809111917id_/http%3A//www.vietvoice.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VietVoice
+# Privacy Policy - VietVoice
 
 **Terms and Conditions**
 
