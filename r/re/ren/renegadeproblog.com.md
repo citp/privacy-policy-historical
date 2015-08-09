@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renegadeproblog.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627063710id_/https%3A//www.therenegadenetworkmarketer.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renegadeproblog.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809202758id_/https%3A//www.therenegadenetworkmarketer.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
