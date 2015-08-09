@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopmgd.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610013025id_/http%3A//www.shopmgd.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmgd.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809093723id_/http%3A//www.shopmgd.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Malabar Gold & Diamonds
 
