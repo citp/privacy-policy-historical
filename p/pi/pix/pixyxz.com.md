@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pixyxz.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318031554id_/http%3A//www.pixyxz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixyxz.com privacy policy that was archived on 2015-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150809081349id_/http%3A//www.pixyxz.com/privacy) for the most accurate reproduction.*
 
 # pixyxz.com | Privacy Policy
 
 **PRIVACY POLICY**
 
-This Privacy Policy is governed by and construed only in accordance with the law of Spain, and was amended on December 09, 2014. pixyxz.com (referred to as the "service"), owned and operated by Nobelium Services SL (referred to as the "Company", "we, "us", "our"), Centro de Negocios Puerta de Banus Edificio E Oficina 29, 29660 Marbella, Malaga, Spain, knows that you care about how your information may be used or shared. This Privacy Policy explains what information is collected by the Company while using pixyxz.com and related services, how the information will be used, and how you can control the collection, correction and / or elimination of your information. We will not use or share your information with anyone except as described in this Privacy Policy.
+This Privacy Policy is governed by and construed only in accordance with the law of Spain, and was amended on December 09, 2014. pixyxz.com (referred to as the "service"), owned and operated by Nobelium Services SL (referred to as the "Company", "we, "us", "our"), C/ Joaquin Loriga, 2 Bajo Buzón 252 C.P. 36203 Vigo (Pontevedra)., knows that you care about how your information may be used or shared. This Privacy Policy explains what information is collected by the Company while using pixyxz.com and related services, how the information will be used, and how you can control the collection, correction and / or elimination of your information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 **Use and Treatment of Information**
 
@@ -49,4 +49,4 @@ We may use the information you send to the service, or through the service, to s
 
 **Amendments to Our Privacy Policy**
 
-Please note that this Privacy Policy may change from time to time. We do not limit your rights under this Policy without your explicit consent. We expect most of the changes made will be minor. We will post the changes on the service and, if they are significant, we will send a corresponding notice highlighting them, for example, a notification by email (in the case of certain services). If you have any questions about our Privacy Policy, the Company practices, or your relationship with the service, please do not hesitate to contact us fulfilling the relevant Form provided on the website choosing the relevant option.
+Please note that this Privacy Policy may change from time to time. We do not limit your rights under this Policy without your explicit consent. We expect most of the changes made will be minor. We will post the changes on the service and, if they are significant, we will send a corresponding notice highlighting them, for example, a notification by email (in the case of certain services). If you have any questions about our Privacy Policy, the Company practices, or your relationship with the service, please do not hesitate to contact us fulfilling the relevant Form provided on the website choosing the relevant option. 
