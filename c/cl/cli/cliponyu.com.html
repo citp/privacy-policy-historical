@@ -1,11 +1,14 @@
-<!--The following is the downloaded HTML source of the cliponyu.com privacy policy that was archived on 2014-08-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140820222333id_/http%3A//www.cliponyu.com/pages%3Fname%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cliponyu.com privacy policy that was archived on 2015-08-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150809234524id_/http%3A//www.cliponyu.com/pages%3Fname%3DPrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:ie="" dir="ltr"><head>
 <meta charset="UTF-8">
 
-<link rel="dns-prefetch" href="">
-<link rel="dns-prefetch" href="http://img.cliponyu.com/">
+<link rel="dns-prefetch" href="http://ms.cliponyu.com">
+<link rel="dns-prefetch" href="http://ms2.cliponyu.com">
+<link rel="dns-prefetch" href="http://img.cliponyu.com">
+<link rel="dns-prefetch" href="http://static01.cliponyu.com">
+<link rel="dns-prefetch" href="http://rest.cliponyu.com">
 
 
 
@@ -15,7 +18,9 @@
 <meta name="description" content="">
 
 
-<link rel="shortcut icon" href="/static/hiclub/img/favicon.ico">
+<link rel="shortcut icon" href="http://static01.cliponyu.com/resource/id/favicon.ico">
+<meta name="viewport" content="width=1260" user-scalable="yes">
+<meta name="google-site-verification" content="awJIjIyBy4xL9g6M_7PiO2jiaZgU0FNOqwar2dXFc5A">
 
 
 
@@ -23,15 +28,17 @@
 
 
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 window.conf || (window.conf = {});
 conf.country = "id";
 conf.host = "www.cliponyu.com";
 conf.pageType = /^index/.test("pages") ? "index" : "pages";
-conf.moreText = "Mais";
-conf.cdn = "http://s1.br.hao123img.com";
-conf.apiUrlPrefix = "http://api.gbr.hao123.com/api.phpddddddddddddddddddddd";
-conf.uploadUrlPrefix = "http://upload.gbr.hao123.com/upload";
+conf.moreText = "MORE";
+conf.cdn = "http://static01.cliponyu.com";
+
+//conf.apiUrlPrefix = "http://api.gbr.hao123.com/api.phpddddddddddddddddddddd";
+//conf.uploadUrlPrefix = "";
+
 conf.dir = "ltr";
 
 
@@ -41,18 +48,49 @@ conf.UT = {
 		level: "1",
 		page: "id-pages",
 		type: 'click'  //default
-			},
+					},
 	tn: window.location.search.match(/(^|&|\\?)tn=([^&]*)(&|$)/i)===null?"/":window.location.search.match(/(^|&|\\?)tn=([^&]*)(&|$)/i)[2]
 };
+conf.pageStartTime = new Date().getTime();//ms
 </script>
+
+
 <script>
+            var pageType = 'pages';
+            window.conf || (window.conf = {});
+            conf.UT = {
+                params: {
+                    country: 'id',
+                    level: '1',
+                    page: 'id-pages',
+                    // default
+                    type: 'click',
+                    channel: ''
+                },
+                tn: window.location.search.match(/(^|&|\\?)tn=([^&]*)(&|$)/i) === null ? "/" : window.location.search.match(/(^|&|\\?)tn=([^&]*)(&|$)/i)[2]
+            };
+            var isSign = '';
+            if (pageType === 'room' && isSign == 0) {
+                conf.UT.params.isUGC = true;
+            }
+
+            var UT={url:"/img/gut.gif",send:function(e,t){e=e||{};var n=window.conf.UT,r=t&&t.url||this.url,i=t&&t.params||n.params,s=e.r=+(new Date),o=window,u=encodeURIComponent,a=o["UT"+s]=new Image,f,l=[];if(i)for(var c in i)i[c]!==f&&e[c]===f&&(e[c]=i[c]);for(f in e)l.push(u(f)+"="+u(e[f]));a.onload=a.onerror=function(){o["UT"+s]=null},a.src=r+"?"+l.join("&"),a=l=null},attr:function(e,t){var n=e.getAttribute("log-mod");if(!n)e.parentNode&&e.parentNode.tagName.toUpperCase()!="BODY"&&this.attr(e.parentNode,t);else{var r=e.getAttribute("log-index");r&&(t.modIndex=r),t.modId=n}},link:function(e){var t={},n=e.getAttribute("href",2);n&&(/^(javascript|#)/.test(n)?(t.ac="b",t.url="none"):(t.ac="a",t.url=n));var r=e.getAttribute("log-index");r&&(t.linkIndex=r);var i=e.getAttribute("data-sort")||"";i&&(t.sort=i,t.value=e.getAttribute("data-val")||"");var s=e.getAttribute("log-oid");return s&&(t.offerid=s),this.attr(e,t),t}};
+
 			var pageId="id-pages";
 			
 			
 			
 			if((document.referrer||'').indexOf(location.protocol+'//'+location.host) !== 0) {
-				document.cookie='gl_tn='+(location.search.match(/\btn=(\w+)/i) || [0,'/'])[1]+'; path=/';
+				document.cookie='gl_tn='+(location.search.match(/\btn=([A-Za-z0-9_\-\%\.]+)/i) || [0,'/'])[1]+'; path=/';
 			    document.cookie="gl_ref="+(document.referrer?(document.referrer && document.referrer.match(/\/{2}([^\/]+)\/{1}/)[1]):"")+"; path=/";
+			    
+			    if( location.search.match(/\btn=([A-Za-z0-9_\-\%\.]+)/i) ){
+			    	conf.hiclub_tn = new Date();  
+					conf.hiclub_tn.setTime(conf.hiclub_tn.getTime() + 1 * 24 * 60 * 60 * 1000);
+			    	document.cookie='hiclub_tn='+location.search.match(/\btn=([A-Za-z0-9_\-\%\.]+)/i)[1]+'; path=/; ;expires=' + conf.hiclub_tn.toGMTString();
+			    }
+			    
+
 			}else{
 				document.cookie="gl_ref="+document.referrer.replace(location.protocol+'//'+location.host,"").match(/\/{1}[^\.|\?|\/]*/)[0]+"; path=/";
 			}
@@ -61,106 +99,436 @@ conf.UT = {
 			var UT={url:"/img/gut.gif",send:function(e,t){e=e||{};var n=window.conf.UT,r=t&&t.url||this.url,i=t&&t.params||n.params,s=e.r=+(new Date),o=window,u=encodeURIComponent,a=o["UT"+s]=new Image,f,l=[];if(i)for(var c in i)i[c]!==f&&e[c]===f&&(e[c]=i[c]);for(f in e)l.push(u(f)+"="+u(e[f]));a.onload=a.onerror=function(){o["UT"+s]=null},a.src=r+"?"+l.join("&"),a=l=null},attr:function(e,t){var n=e.getAttribute("log-mod");if(!n)e.parentNode&&e.parentNode.tagName.toUpperCase()!="BODY"&&this.attr(e.parentNode,t);else{var r=e.getAttribute("log-index");r&&(t.modIndex=r),t.modId=n}},link:function(e){var t={},n=e.getAttribute("href",2);n&&(/^(javascript|#)/.test(n)?(t.ac="b",t.url="none"):(t.ac="a",t.url=n));var r=e.getAttribute("log-index");r&&(t.linkIndex=r);var i=e.getAttribute("data-sort")||"";i&&(t.sort=i,t.value=e.getAttribute("data-val")||"");var s=e.getAttribute("log-oid");return s&&(t.offerid=s),this.attr(e,t),t}};
 			
 			  !function(W,D,A,E,handle){D[A]?D[A](E,handle,!1):D.attachEvent("on"+E,handle)}(window,document,"addEventListener","mousedown",function(e){e=e||event;var t=e.target||e.srcElement;for(var n=0;n<=2;n++){if(t.tagName==="BODY"||t.tagName==="HTML")break;if(t.tagName==="A"){var data=UT.link(t);data.position="links";UT.send(data);break}t=t.parentNode}});
-
-			  
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		  ga('create', 'UA-52982608-1', 'auto');
-		  ga('send', 'pageview');
-          UT.send({type:"access",tn:conf.UT.tn});
-
-
+		
+    		if(!('performance' in window) || !('getEntriesByType' in window.performance) || !(window.performance.getEntriesByType('resource') instanceof Array)) {
+                //not support
+                conf.navigationInfo  = {};
+            } else {
+            	var navigationTime = performance.timing;
+            	conf.navigationInfo = {
+                    launch: navigationTime.domainLookupStart - navigationTime.navigationStart,//启动时间
+                    dns: navigationTime.domainLookupEnd - navigationTime.domainLookupStart,//dns解析时间
+                    tcp: navigationTime.connectEnd - navigationTime.connectStart,//tcp建立连接时间
+                    firstByte: navigationTime.responseStart - navigationTime.requestStart //首字节时间
+            	};
+            }
+            var accessLogData = {
+              	type:"access",
+              	tn:conf.UT.tn,isLive:0,
+              	roomId:0
+            };
+                        	accessLogData['isSign'] = 0
+                        for(var key in conf.navigationInfo){
+            	accessLogData[key] = conf.navigationInfo[key];
+            }
+            UT.send(accessLogData);
+         
 		</script>
+<script>!function(){var e={},o={};window.getConf=function(o){return e[o]},window.getText=function(e){return o[e]},e.isLogined=Boolean(Number("")),e.noLoginID="",e.noLoginUserName="Visitor"+"".substr(1),e.userId=Number("0"),e.userName='',e.userIcon="",e.isVip=Boolean(Number("")),e.isVip&&(e.isVipAndIcon=""),e.defaultIcon="http://static01.cliponyu.com/resource/defaultImg.jpg",e.env="online",e.newApiConfig="",e.apiUrlPrefix="http://me.cliponyu.com",e.country='id',e.host="www.cliponyu.com",e.pageType=/^index/.test("pages")?"index":"pages",e.cdn='http://static01.cliponyu.com',e.resourceCdn="http://static01.cliponyu.com",e.fbAppId="223300581140256",e.fbShareId="340326556136566",e.weekIcon="http://static01.cliponyu.com/resource/operate/weekIcon.gif",e.weekIconTitle="Star of Week",e.monthIcon="http://static01.cliponyu.com/resource/operate/monthIcon.gif",e.monthIconTitle="Star of Month",e.yearIcon="",e.yearIconTitle="Star of Year",e.tn=null===window.location.search.match(/(^|&|\\?)tn=([^&]*)(&|$)/i)?"/":window.location.search.match(/(^|&|\\?)tn=([^&]*)(&|$)/i)[2],e.pageStartTime=(new Date).getTime(),e.dir="ltr",e.websocket="im.cliponyu.com",e.xhrpolling="imxhr.cliponyu.com",e.socketIO="http://rest.cliponyu.com",e.isMe=Boolean(Number("")),e.isMe=e.isMe||Boolean(Number("")),e.roomId=Number(""),e.anchorId=Number(""),e.anchorName='',e.incomeLevelIcon="",e.wealthLevelIcon="",e.isline=Boolean(Number("")),e.isBanned=""===String("")?1:Number(""),e.isSign=Boolean(Number("")),e.isUgc=!(e.isSign||e.isBanned&&4!==e.isBanned&&5!==e.isBanned),e.roomToken="",e.roomAtoken="",e.adminGroupId="",o.ok='OK',o.more='More',o.cancel='Cancel',o.wealthIconTitle='Wealth icon',o.incomeIconTitle='Income icon',o.reply='Reply',o.praise='like',o.praised='dislike',o.snsDelete='Delete',o.snsSend='send',o.following='Following',o.followers='Followers'}();</script>
 
-<link rel="stylesheet" type="text/css" href="/static/hiclub/pkg/hiclub_common_663accc.css"><link rel="stylesheet" type="text/css" href="/static/css/pages_d41d8cd.css"><link rel="stylesheet" type="text/css" href="/static/common/pkg/common_e809808.css"><link rel="stylesheet" type="text/css" href="/static/hiclub/widget/login/login_cae48ff.css"><link rel="stylesheet" type="text/css" href="/static/hiclub/widget/no_login_header/no_login_header_9f59482.css">
+<link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/hiclub/css/common.id_dfc51b5.css"><link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/common/widget/ui/css-ui/css-ui_3478e63.css"><link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/common/widget/css-base/css-base_fd32783.css"><link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/common/pkg/jquery_ee8edcb.css"><link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/common/widget/ui/jquery/widget/jquery.ui.tip/jquery.ui.tip_976dd7e.css"><link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/common/pkg/public_b993699.css"><link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/common/pkg/public.id_f5d58a2.css"><link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/common/pkg/commonpublic.id_1c429c2.css"><link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/css/mobile_7ecbea1.css"><link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/hiclub/widget/messageAir/messageAir.async_d41d8cd.css"><link rel="stylesheet" type="text/css" href="http://static01.cliponyu.com/static/hiclub/pkg/homepublic.id_df35d05.css">
 
-<!--[FIS_CSS_LINKS_HOOK]--></head>
-<body style="">
+<!--[FIS_CSS_LINKS_HOOK]--><script src="http://img.baidu.com/hunter/cliponyu.js?st=-18294"></script></head>
+<body class="">
 
 
-<div class="h5_header floatContainer">
-<div class="h5_header_content AlignCenterContainer">
-<a target="_self" class="logoContainer" href="/">
-<img src="http://www.cliponyu.com/resource/logo_beta64.png">
-</a>
-<div class="h5_nav left">
-<a target="_self" href="/" class="indexNav" log-index="indexNav" data-sort="typeindexNav" data-val="valueindexNav">HOME</a>
-<a target="_self" href="/rank" class="rankNav" log-index="rank" data-sort="typerank" data-val="valuerank">TOP20</a>
-<a target="_self" href="/store" class="storeNav" log-index="storeNav" data-sort="typestoreNav" data-val="valuestoreNav">STORE</a>
-<a target="_self" href="/help" class="helpNav" log-index="helpNav" data-sort="typehelpNav" data-val="valuehelpNav">HELP</a>
-<a target="_self" href="/user/account/deposit" class="topUpNav" log-index="topUpNav" data-sort="typetopupNav" data-val="valuetopupNav">TOP UP</a>
-</div>
-<a class="searchIcon right" href="###" target="_self"></a><div class="right h5_opNav">
 
-<a href="/register">Sign up</a>
-<a href="###" class="loginBtn" target="_self">Login</a>
-</div><div id="bubble1" class="bubble"></div></div>
-</div>
-<div class="fitFixHeader"></div>
-<div class="loginSection floatContainer">
-<div class="close"></div>
-<div class="leftSection">
-<div class="title">Log in</div>
-<div id="login_container"></div><div class="or"></div></div>
-<div class="rightSection">
-<div class="title">Fast Login</div>
-<a href="/user/pass/ha/fblogin" class="facebookSmall" log-index="feackbookNav" data-sort="typefeackbook" data-val="valuefeackbook"></a>
+<div class="mod-public-login" log-mod="public-login"><div class="popup-container"><div class="popup-content"><div class="left-section float-container"><div class="title">Login<span class="registerOr">atau</span><a class="register" href="/register">Register</a></div><a href="javascript:;" log-index="feackbookNav" data-sort="typefeackbook" data-val="valuefeackbook" class="facebook-login cf"><span class="small"></span>Login with Facebook</a><a href="javascript:;" log-index="twitterNav" data-sort="typetwitter" data-val="valuetwitter" class="twitter-login cf"><span class="small"></span>Login with Twitter</a><a href="javascript:;" class="email-login cf"><span class="small"></span>Login with Email</a></div><div class="right-section"><div class="init-container"><img src="http://static01.cliponyu.com/resource/sandy.jpg"></div><iframe id="login-container" data-src="http://id.globalwappass.com/loginSmarty?country=id&amp;tpl=globalmusic&amp;group=hiclub&amp;platform=pc&amp;language=id&amp;redirect_url=http%3A%2F%2Fwww.cliponyu.com%2Fuser%2Fpass%2Fuserpass%2FcallBack%3Fback_url%3D"></iframe></div></div></div></div><script>
+    conf.appDownload = {"android":"http:\/\/www.cliponyu.com\/resource\/app\/android\/1-1-4\/1-1-5\/Cliponyu.apk","ios":"https:\/\/itunes.apple.com\/app\/cliponyu\/id948576170?mt=8"};
+</script>
+
+<script>
+        
+        conf.roomPerformanceOld = new Date().getTime();
+        
+        conf.textMap = {};
+        conf.textMap = {"sns":{"publish":{"send":"send","cancel":"cancel","img":{"total":"total image:","images":"images","success":"success","fail":"fail","duplicate":"Foto sudah ada","invalid":"File ilegal.","limit":"Max 9 foto.","tooLarge":"Ukuran foto terlalu besar.","someFailed":"Beberapa foto gagal upload. Silahkan coba lagi.","needPhoto":"Silahkan upload foto"},"error":"Sorry, your browser version is low, please update your browser.","lenLimit":"your input must less than 700","delete":"delete","start":"start"},"dialog":{"viewMore":"view more","delete":"Delete","reply":"Reply","to":"To","praised":"dislike","praise":"like","snsSend":"send","Following":"Following","Followers":"Followers","EditProfile":"Edit Profile","title":"people who like this clip","fbAppId":"223300581140256","loadMore":"load more"},"mainTab":{"personal":"Discover","dynamic":"Clips","about":"About","friends":"Friends","mySns":"My Clips","othersSns":"Clips"},"praise":{"praised":"Dislike","praise":"Like","title":"People who like this clip"},"exprience":{"need":"Need\u00a0","golds":"\u00a0Points"}},"errorMsg":{"msg1":"Sure you want to cancel the attention","msg2":"add recent success","msg3":"add recent fail","msg4":"fail to get goods","msg5":"del adminstrator fail","msg6":"del adminstrator suc"},"haslogoutrefreshpage":"User sudah log out. Silahkan refresh.","hasloginrefreshpage":"User sudah login. Silahkan refresh.","smallfly":"mengirim normal magic effect","newVisit":"New Visit","bigfly":"mengirim global magic effect"};
+        
+        conf.jsTextMap = {"wealthLevelTitle":"Level","anthorTitle":"Host level","specialGodTitle":"Cliponyu God From Cliponyu Carnival Campaign","specialGoddessTitle":"Cliponyu Goddess From Cliponyu Carnival Campaign","goldTitle":"My gold","taskTitle":"Task","searchTitle":"Search","placeholder":"input something","backTop":"Back to top","followings":"Following","fans":"Followers","edit":"Edit Profile","follow":"Follow","followIng":"Following","unFollow":"UnFollow","myCar":"My Car","car":"Car","store":"Store>>","successMsg":"Succeed to use this car!","lastVisit":"New Visit"};
+
+        conf.publicBgImg = "";
+        conf.jsWordMapConf = {};
+
+                    conf.isLogined = false;
+                
+        conf.NoLoginID = "";
+        
+        conf.NoLoginUserName = "Visitor" + "".substr(1);
+
+        
+        conf.currentLoginUserId = 0;
+        
+        conf.currentLoginUserName = '';
+        
+        
+        conf.sys = {}; 
+        conf.sys.env = 'online';
+        conf.sys.passUrl = 'https://passport.cliponyu.com';
+        conf.sys.payUrl = 'http://pay.cliponyu.com';
+        conf.sys.unipinUrl = 'http://pay.cliponyu.com';
+        conf.wordsMap = {"okText":"OK","moreText":"More","cancelText":"Cancel","downloadApp":"Download APP","home":"HOME","top20":"TOP 20","store":"STORE","help":"DOWNLOAD","partner":"Live Partner","placeholder":"input something","mob":"Mobile APP","recharge":"TOP UP","login":"Login","signUp":"Join","shop":"Store","subMenuHomepage":"My profile","subMenuAccount":"My account","subMenuRecharge":"Top up","subMenuMessage":"Notification","subMenuSetting":"Setting","subMenuLoginout":"Log out","subMenuResetPwd":"Password","visites":"Visitor","bottomtext":"","Dynamic":{"alertMaxText":"Tidak boleh lebih dari 140 karakter.","emptyText":"Silahkan isi.","emptyHint":"Silahkan masukkan konten."},"footerLinks":[{"url":"http:\/\/isurvey.baidu.com\/index.php?sid=14276&lang=id","text":"Questionnaire","modid":"about"},{"url":"\/pages?name=PrivacyPolicy","text":"Privacy Policy","modid":"PrivacyPolicy"},{"url":"\/feedback","text":"User Feedback","modid":"feed"},{"url":"\/pages?name=UserAgreement","text":"User Agreement","modid":"feed"},{"url":"http:\/\/isurvey.baidu.com\/index.php?sid=14276&lang=id","text":"","modid":"feed"}],"loginIn":"Login","fastlogin":"Login Cliponyu","fastloginDescription":"Login now and Enjoy!","LoginwithFacebook":"Login with Facebook","LoginwithTwitter":"Login with Twitter","registerOr":"atau","register":"Register","userGuideDes":"Mau lebih dekat dengan host? LOGIN aja!","userGuideLQ":"Quick Login:","userGuideLI":"Login","userGuideReg":"Register >","facebook":"Facebook","LoginwithEmail":"Login with Email","isHref":"","loginhrefUrl":"","twitter":"twitter","newLoginSrc":"http:\/\/static01.cliponyu.com\/resource\/homepagebanner\/loginbanner12152.png","loginInitIMG":"http:\/\/static01.cliponyu.com\/resource\/init_img.jpg","loginBg":"http:\/\/static01.cliponyu.com\/resource\/sandy.jpg","noviceTask":{"taskName1":"Login untuk pertama kali","taskName2":"Rename untuk pertama kali","taskName3":"Speak untuk pertama kali","taskName4":"Pertama kirim Love Card","taskName5":"Pertama kali kirim hadiah","taskName6":"Follow untuk pertama kali","taskName7":"Top up untuk pertama kali","taskName8":"Pertama kali Request lagu","activeBtnText":"Terima","receivedBtnText":"Received","unfinishedBtnText":"Unfinished"},"checkIn":{"ajaxFailed":"Unknown error. Silahkan coba lagi!","checkInFaild":"Gagal check in. Silahkan coba lagi!","takeGiftSuccess":"Berhasil menerima hadiah!","takeGiftFaild":"Sudah terima! Tak bisa lagi."},"userInfo":{"generalhint":"\u201c*\u201d Informasi yang harus diisi","nickname":"* Nickname:","city":"* City:","Gender":"* Gender:","age":"* Age:","Update":"Update","preview":"Preview:","photo":"Select photo","video":"Self introduction:","fwords":"words","wordnuml":"0 ","maxword":"max 140 words"},"snsFriend":{"followNav":"Following","fansNav":"Followers","friendNav":"Mutual following","followNoTint":"Belum ada.","fansNoTint":"Belum ada.","frinedNoTint":"Belum ada.","follow":"Follow","unfollow":"Unfollow","followInfo":"Not following","fansInfo":"Followed","followedInfo":"Following","friendInfo":"Friend","alertUnfollow":"Berhasil Unfollow","alertFollow":"Berhasil Follow"}};
+        conf.weekIsOpen = '';
+        conf.weekIcon = null;
+        
+        conf.weekStar = {"weekIcon":"http:\/\/static01.cliponyu.com\/resource\/operate\/weekIcon.gif","monthIcon":"http:\/\/static01.cliponyu.com\/resource\/operate\/monthIcon.gif","yearIcon":"","weekIconTitle":"Star of Week","monthIconTitle":"Star of Month","yearIconTitle":"Star of Year","goPageTitle":"Real-time weekly ranking. Click to the campaign page."};
+        conf.apiUrlPrefix = 'http://me.cliponyu.com';
+            </script>
+
+
+
+<div class="mod-commonpublic-header" log-mod="commonpublic-header"><div class="header-content"><div class="header-left"><div class="header-logo"><a href="/"><img src="http://static01.cliponyu.com/resource/newBase/logo.jpg"></a></div><div class="header-nav"><ul class="nav-wrapper"><li class=""><a href="/" target="_self" class="hover-a">HOME</a></li><li class=""><a href="/rank" target="_self" class="hover-a">TOP20</a></li><li class=""><a href="/topup" target="_self" class="hover-a">TOP UP</a></li><li class=""><a href="/store" target="_self" class="hover-a">STORE</a></li><li class="drop-nav"><a href="javascript:;" class="hover-a">DOWNLOAD</a><div class="drop-sub"><h3 style="background-image: url(http://static01.cliponyu.com/resource/newBase/app_icon.png);background-repeat: no-repeat;"><a href="/mobile/index" targe="_self">Mobile APP</a></h3><h3 class="last-h3" style="background-image: url(http://static01.cliponyu.com/resource/clientlogo.png);background-repeat: no-repeat;"><a href="/livePartner" targe="_self">Cliponyu Client</a></h3></div></li></ul></div></div><div class="header-right"><ul><li class="user-info"><div class="user-nologin"><i></i>Login</div></li><li class="header-search"><div class="search-wrapper"><i class="search-icon"></i><input type="text" placeholder="Search for something" maxlength="40"></div></li><li class="header-golive"><div class="guide-bear"></div><a href="javascript:;" class="go-live-login setPositon button">Go Live</a></li></ul></div></div></div>
+
+
+
+<div class="mod-public-kaskus">
+<div class="public-kaskus-mask"></div>
+<div class="public-kaskus-container">
+<img src="http://static01.cliponyu.com/resource/guidKaskus.jpg">
+<button class="public-kaskus-close"></button>
 </div>
 </div>
 <div class="bodyContentContainer">
+<script>
+            //辅助log统计
+            conf.logInfo = {
+                isSupportFlash:false,   //是否支持flash,从startConnect回调获得这个值
+                flashVersion:0,         //从js获得
+                openLoginDialogType:'', //从哪个渠道调起的登陆框
+                connectSuccess:false,   //是否connect视频成功
+                playSuccess:false,       //是否播放视频成功
+                requestVideoTime:0,     //requestvideoplayer 的时间点
+                massClickTime:conf.pageStartTime          //点击红包的计算开始时间
+            };
+            // 视频的初始化后的回调
+            var fPlayerJsCallback = {
+                connectTime:0,
+                //connect 时间消耗参数（单位：ms）
+                onConnectSuccess:function(connectTime){
+                    this.connectTime = connectTime;
+                    UT.send({type:'onConnectSuccess',value:this.connectTime});
+                },
+                //loadingTime缓冲播放数据所花时间，单位：ms
+                onPlaySuccess:function(loadingTime){
+                    UT.send({type:'onPlaySuccess',value:loadingTime,connectTime:this.connectTime,token:conf.pageStartTime});
+                }
+            };
+            window.fPlayerJsCallback = fPlayerJsCallback;
+        </script>
+<div class="modelMask"></div>
 
-
-<div class="AlignCenterContainer">
+<div class="AlignCenterContainer" style="padding:40px 0;">
 <div id="content">
 <p style="font-family:Arial;text-align:center;outlineLvl:3;">     <span style="color: rgb(51, 51, 51); font-size: 20px; font-weight: 700;"><br></span> </p> <p style="font-family: Arial; text-align: center;">     <span style="color: rgb(51, 51, 51); font-size: 36px; font-weight: 700;">Cliponyu Privacy Policy</span><br> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family:Arial;font-weight:700;color:#333333;"><br></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px; text-decoration: underline;">Scope of this Privacy Policy</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-size: 14px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">This privacy policy is applicable to how the Cliponyu community handles personally identifiable information that is left when users log in to the website and server, as well as other personally identifiable information shared with our business partners. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">This privacy policy is not applicable to organizations that do not belong to the Cliponyu community or non-Cliponyu employees.</span></span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">This privacy policy constitutes an inseparable part of the Cliponyu User Agreement and must be read together with the Cliponyu User Agreement including but not limited to Clause 6 (on Privacy Protection) of the Cliponyu User Agreement.</span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px;"><br></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px; text-decoration: underline;">Collection and Use of Information</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">The Cliponyu community will collect your personally identifiable information when you register a Cliponyu community account, use other Cliponyu community products or services, access Cliponyu community webpages, or participate in promotional or prize winning games. The Cliponyu community also collects personally identifiable information from our business partners.</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-size: 14px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">When you register a Cliponyu community account, we will ask for your name, email address, interests, birthday, gender and personal webpage, in addition to a personal profile. Once you are successfully registered with the Cliponyu community, we will be able to identify you when you log in to the server. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">The Cliponyu community automatically receives and records the information on your browser and server logs, including your IP address, information in the Cliponyu community cookies and your browsing history. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">The Cliponyu community uses this information to enhance the quality of the video services that we provide and to improve the effectiveness to better tailor our services to your interests and needs. </span></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px;"><br></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px; text-decoration: underline;">Disclosure and Sharing of Information</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">When you submit the information, it shall be deemed as your consent to the Cliponyu community’s regarding the collection, storage, use and disclosure of your personal information by the Cliponyu community. The Cliponyu community will never display, rent or sell your personally identifiable information to others.</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-size: 14px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">The following circumstances are excluded: </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">When your desired products and services can only be provided if your personal information is disclosed; </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">When we are required to provide information to the companies that provide products or services on our behalf; (unless we notify you otherwise, these companies do not have the right to use your personally identifiable information); </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">When we are required to comply with a court summons, court order or to comply with a legal process; </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">When we discover that you have violated the terms of use of the Cliponyu community, Cli<span style="font-family: Arial; color: rgb(51, 51, 51);">ponyu co</span>mmunity global village or any other products or services.</span></span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">The Cliponyu community is not responsible for any collection, disclosure and/or use of your personal information provided by you to any third party's website which may be linked to or from our website.</span><span style="font-family:Arial;color:#333333;font-size:12px;"> </span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px;"><br></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px; text-decoration: underline;">Cookies</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">The Cliponyu community will set or access Cliponyu community cookies on your computer.</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">The Cliponyu community allows those companies that publish advertisements on our webpages to set or access cookies on user computers. Other companies will use cookies in accordance with their own privacy policies, and cannot access cookies used by the Cliponyu community.</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">In performing operations associated with our products and services, the Cliponyu community uses web beacons to retrieve cookies from our website.</span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px;"><br></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px; text-decoration: underline;">Web Beacons (if applicable)</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">Our webpages include electronic images (known as a "pixel GIF" or a "beacon") that allow the website to calculate the number of webpage users or users that have saved a certain cookie. The ways in which the Cliponyu community uses beacons include:</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">Beacons used within the Cliponyu community</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-size: 14px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">The Cliponyu community uses beacons on the website to calculate the total number of users and to identify registered users using saved Cliponyu community cookies. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">We are able to provide customized webpage services when you are on non-6.cn websites by saving Cliponyu community cookies. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">Web beacons are used outside of the Cliponyu community domain</span></span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-size: 14px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">The Cliponyu community uses website beacons to collect data for partner websites; relevant data is also used for statistical purposes. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">The Cliponyu community user data recorded by website beacons are compiled and made available to our partners as aggregate data for reference purposes. Aggregate data includes information such as user count and usage, but does not include any personally identifiable data. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">When the Cliponyu community places website beacons to collect data for our partners, we require our partners to inform users on their privacy policy page that the webpage uses website beacons. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">NB. This option will only be recorded in your current browser and will not be recorded in your user history. Therefore, to completely block the beacon, you must click on the above link on all of your computers and browsers.</span></span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <br> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px; text-decoration: underline;">HTML Emails</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-size: 14px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">The Cliponyu community typically adds a beacon when sending emails in HTML format (emails containing images) to count the number of opened messages. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">Typically, electronic images are considered to be part of the webpage and, including banner ads, can all be used as beacons. Therefore, beacons can be added to all advertisements placed by the Cliponyu community. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">The Cliponyu community tracks certain usage behavior. Information collected from web beacons are used to understand how customers use our products, provide more accurate reports and enhance the effectiveness of our marketing.</span></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px;"><br></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px; text-decoration: underline;">Editing Personal Account Information and Preferences</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">At any time, you have the right to edit your Cliponyu community account information and preferences, including whether you would like to receive information on the latest products from the Cliponyu community.</span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px;"><br></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px; text-decoration: underline;">Security Safeguards</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-size: 14px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">Your Cliponyu community account is password protected to ensure the security of your privacy and information. </span><br style="font-family:Arial;color:#333333;font-size:12px;"><span style="font-family: Arial; color: rgb(51, 51, 51);">Under certain conditions, the Cliponyu community uses the universally accepted SSL encryption system to ensure the security of information transfer.</span></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px;"><br></span> </p> <p style="font-family:Arial;font-size:14px;text-align:left;outlineLvl:3;">     <span style="font-family: Arial; font-weight: 700; color: rgb(51, 51, 51); font-size: 18px; text-decoration: underline;">Amendments to the Privacy Policy</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <span style="font-family: Arial; color: rgb(51, 51, 51); font-size: 14px;">The Cliponyu community periodically makes changes to the privacy policy. If there are significant changes to the privacy policy, we will promptly notify users by posting the relevant terms in a prominent position on the webpage.</span> </p> <p style="font-family:Arial;font-size:12px;padding-bottom:.5em;padding-top:.5em;text-align:left;">     <br> </p> <p style="font-family:Arial;">     <br> </p> <p style="font-size: 14px; text-align: justify;">     <br> </p>
 </div>
 </div>
 
+<div class="mod-commonpublic-footer  " log-mod="commonpublic-footer">
+<div class="footer-content">
+<div class="footer-center">
+<div class="footer-nav cf">
+<div class="nav-list">
+<div class="nav-wrapper">
+<h2>About us</h2>
+<p class="toe">
+<a target="_blank" href="mailto:support@cliponyu.com">
+Contact Us
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/pages?name=PrivacyPolicy">
+Privacy Policy
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://isurvey.baidu.com/index.php?sid=14276&amp;lang=id">
+Questionnaire
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/feedback">
+User Feedback
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/pages?name=UserAgreement">
+User Agreement
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/liveroom/livereview">
+Go Live
+</a>
+</p>
 </div>
-<div class="h5_footer">
-<div class="AlignCenterContainer floatContainer h71">
-<p class="bottomtext"></p>
-<div class="h5_nav bottom">
-<a href="http://www.cliponyu.com/" target="_blank" data-modid="about"></a>
-<a href="/pages?name=PrivacyPolicy" target="_blank" data-modid="PrivacyPolicy">Privacy Policy</a>
-<a href="/feedback" target="_blank" data-modid="feed">User Feedback</a>
-<a href="/pages?name=UserAgreement" target="_blank" data-modid="feed">User Agreement</a>
-<a href="/resource/CliponyuPartnerSetup-1.0.0.217.exe" target="_blank" data-modid="feed"></a>
+</div>
+<div class="nav-list">
+<div class="nav-wrapper">
+<h2>Help Center</h2>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/guideLive">
+How to Go Live?
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/helppage?name=sign_up">
+Cara register dan login?
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/helppage?name=chat">
+Bagaimana cara chat?
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/helppage?name=top_up">
+Cara top-up di Cliponyu
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/helppage?name=send_gifts">
+Cara Kirim Gift
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/helppage?name=edit_information">
+Cara edit profile
+</a>
+</p>
+<p class="toe">
+<a target="_blank" href="http://www.cliponyu.com/help">
+More help
+</a>
+</p>
 </div>
 </div>
-<a class="feedbackhead" href="/feedback" target="_blank"></a>
-</div><ie:homepage id="ieSetHomePage" style="behavior:url(#default#homepage);">
-<script type="text/javascript" src="/static/common/mod_bb4183f.js"></script><script type="text/javascript" src="/static/common/pkg/common_0f41300.js"></script><script type="text/javascript" src="/static/hiclub/pkg/account_40fc9f2.js"></script><script type="text/javascript" src="/static/hiclub/pkg/common_808393a.js"></script><script type="text/javascript">
-!function(){//online
-conf.sys = {}; //系统信息
-conf.sys.env = 'online';
-conf.sys.passUrl = 'https://passport.cliponyu.com';
-conf.sys.payUrl = 'http://pay.cliponyu.com';
-var globalTools =require('common:widget/global/globalTools.js');
-globalTools.init();
-window.globalTools = globalTools;
-var commonHeader = require('hiclub:widget/common/commonHeader.js');
-commonHeader.run();
-conf.BDUSS = jQuery.cookie('BDUSS');//用于判断是否后续操作的时候已登录用户是否还是当前用户
-window.conf.isLogined = false;
+<div class="nav-list">
+<div class="nav-wrapper">
+<h2>Cliponyu Download</h2>
+<p class="toe">
+<a target="" href="">
 
-//当前登录的用户的id  0说明是未登录用户
-conf.currentLoginUserId = 0;
-//当前登录用户的name
-conf.currentLoginUserName = 'anonymous';
+</a>
+</p>
+<p class="toe">
+<a target="_self" href="http://static01.cliponyu.com/resource/Cliponyu-1.4.2.4103.exe">
+Cliponyu Client Download
+</a>
+</p>
+<p class="toe">
+<a target="_self" href="http://www.cliponyu.com/mobile/index">
+IOS/Android Download
+</a>
+</p>
+<h3 class="scanTitle">
+<img src="http://static01.cliponyu.com/resource/newBase/mobile_icon.png">
+IOS/Android  Barcode
+</h3>
+<div>
+<img class="scan-img" src="http://static01.cliponyu.com/static/hiclub-event/widget/mobile/index/screem/img/downcode_b5f2279.png">
+</div>
+</div>
+</div>
+<div class="nav-list">
+<div class="nav-wrapper">
+<h2>Follow us</h2>
+<ul class="sns-list cf">
+<li>
+<a target="_blank" href="https://www.facebook.com/official.cliponyu">
+<img src="http://static01.cliponyu.com/resource/newBase/facebook_icon.png">
+<span class="sns-title">
+Facebook
+</span>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/CLIPONYU">
+<img src="http://static01.cliponyu.com/resource/newBase/twitter_icon.png">
+<span class="sns-title">
+Twitter
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+
+
+
+
+
+<div class="app-enter">
+<div class="app-logo">
+<img src="/static/hiclub/img/bottom_logo_78f0bb0.png">
+</div>
+<div class="app-download">
+<a href="javascript:;">Download APP</a>
+</div>
+<div class="app-close">
+<img src="/static/hiclub/img/app_close_79ccbc9.png" usemap="#Map">
+<map name="Map" id="Map">
+<area shape="poly" coords="0,0,46,0,46,46" href="#">
+</map>
+</div>
+</div>
+
+<div style="width:1px;height:1px;overflow:hidden;">
+
+<script>
+    with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://img.baidu.com/hunter/cliponyu.js?st='+~(new Date()/864e5)];
+    </script>
+
+<script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-62354166-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+
+<script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 950122787;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/950122787/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<script type="text/javascript">
+    /* <![CDATA[ */
+        var google_conversion_id = 950122787;
+        var google_conversion_language = "en";
+        var google_conversion_format = "3";
+        var google_conversion_color = "ffffff";
+        var google_conversion_label = "wKq7CJjF4VsQo_KGxQM";
+        var google_remarketing_only = false;
+    /* ]]> */
+    </script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/950122787/?label=wKq7CJjF4VsQo_KGxQM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<script>
+        (function() {
+            var _fbq = window._fbq || (window._fbq = []);
+            if (!_fbq.loaded) {
+                var fbds = document.createElement('script');
+                fbds.async = true;
+                fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(fbds, s);
+                _fbq.loaded = true;
+            }
+            _fbq.push(['addPixelId', '827278137319248']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
+    </script>
+<noscript>
+<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=827278137319248&amp;ev=PixelInitialized" />
+</noscript>
+</div>
+<div class="mod-homepublic-feed" log-mod="homepublic-feed">
+<a href="#" class="to-top"></a>
+<a href="javascript:;" onclick="window.open('https://chat1c.livechatinc.com/licence/4752481/open_chat.cgi?lang=en&amp;groups=0&amp;'+'dc='+escape(document.cookie+';l='+document.location+';r='+document.referer+';s='+typeof lc_session),'Czat_1983981','width=530,height=520,resizable=yes,scrollbars=no,status=1');return false;" rel="nofollow" class="issue-bg"></a>
+</div>
+
+<script type="text/javascript" src="http://static01.cliponyu.com/static/common/pkg/basicLoad_46d03c5.js"></script><script type="text/javascript">require.resourceMap({"res":{"common:widget\/global\/commonHeader.js":{"url":"http:\/\/static01.cliponyu.com\/static\/common\/widget\/global\/commonHeader_23564ea.js"},"hiclub:widget\/common\/serverApi.js":{"url":"http:\/\/static01.cliponyu.com\/static\/hiclub\/widget\/common\/serverApi_2818f68.js","deps":["common:widget\/ui\/jquery\/jquery.js"]},"hiclub:widget\/common\/commonFooter.js":{"url":"http:\/\/static01.cliponyu.com\/static\/hiclub\/widget\/common\/commonFooter_77227ee.js","deps":["common:widget\/ui\/jquery\/jquery.js","hiclub:widget\/common\/serverApi.js","common:widget\/public\/public-tools\/public-tools.js"]},"hiclub:widget\/logined_header\/logined_header.async.js":{"url":"http:\/\/static01.cliponyu.com\/static\/hiclub\/widget\/logined_header\/logined_header.async_2c8b16b.js","deps":["common:widget\/ui\/jquery\/jquery.js","common:widget\/public\/public-tools\/public-tools.js","common:widget\/public\/mod-public-property\/mod-public-property.js","hiclub:widget\/common\/commonFooter.js"]}}});</script><script type="text/javascript" src="http://static01.cliponyu.com/static/common/pkg/jquery_d26cd0b.js"></script><script type="text/javascript" src="http://static01.cliponyu.com/static/common/pkg/public_bb1b1cb.js"></script><script type="text/javascript" src="http://static01.cliponyu.com/static/common/pkg/commonpublic_ab07138.js"></script><script type="text/javascript" src="http://static01.cliponyu.com/static/hiclub/widget/appEnter/appEnter_b337203.js"></script><script type="text/javascript" src="http://static01.cliponyu.com/static/hiclub/pkg/homepublic_780b525.js"></script><script type="text/javascript">
+!function(){    require('common:widget/public/mod-public-property/mod-public-property.js').init(
+        {"rechargeTitle":"Saldo tidak cukup","rechargeText":"Saldo tidak cukup. Top up sekarang?","rechargeButton":"Top up","vipTitle":"Jadi VIP","vipText":"Anda bukan member. Jadi member?","vipButton":"Jadi member","cancelButton":"Batal","userChanged":"User sudah login. Silahkan refresh.","refresh":"refresh","notAdmin":"\u4f60\u4e0d\u662f\u7ba1\u7406\u5458\u54e6","notAnchor":"\u4f60\u4e0d\u662f\u4e3b\u64ad\u54e6","confirm":"\u786e\u5b9a"},
+        {
+            balance: 0,
+            balanceAdv: {"picSrc":"","linkUrl":"","target":"_self"},
+        },
+        {
+            isVIP: Boolean(),
+            vipIconSrc: '',
+            vipAdv: {"picSrc":"","linkUrl":"","target":"_self"},
+            isCurAnchor: Boolean() || Boolean(Number(''))
+        }
+    );
 }();
-!function(){	  var login = require('hiclub:widget/login/login.js');
-	  login.run();
+!function(){    require('common:widget/public/mod-public-login/mod-public-login.js').init({"isShow":true,"url":{"online":"http:\/\/id.globalwappass.com\/loginSmarty?country=id&tpl=globalmusic&group=hiclub&platform=pc&language=id&redirect_url=http%3A%2F%2Fwww.cliponyu.com%2Fuser%2Fpass%2Fuserpass%2FcallBack%3Fback_url%3D","offline":"http:\/\/id.globalwappass.com:8098\/loginSmarty?country=eg&tpl=pp&group=hiclub&platform=pc&language=en&redirect_url=http%3A%2F%2Fdebug-id.cliponyu.com%3A8065%2Fuser%2Fpass%2Fuserpass%2FcallBack%3Fback_url%3D"},"textMap":{"loginIn":"Login","registerOr":"atau","register":"Register","LoginwithFacebook":"Login with Facebook","LoginwithTwitter":"Login with Twitter","LoginwithEmail":"Login with Email","defaultUserName":"Email","defaultPassword":"Password"},"conf":{"isBaiduAccountOpen":true,"isHref":"","loginBg":"http:\/\/static01.cliponyu.com\/resource\/sandy.jpg","loginhrefUrl":"","target":"_self"}});
 }();
-!function(){	conf.currentPageName = ''; //用于标识当前是哪个页面
+!function(){    
+    require.async(['common:widget/global/commonHeader.js'],function(commonHeader){
+        commonHeader.run();
+    });     
+    
+    }();
+!function(){        //用于判断是否后续操作的时候已登录用户是否还是当前用户
+        
+    }();
+!function(){    require.async('common:widget/commonpublic/mod-commonpublic-header/mod-commonpublic-header.js', function (header) {
+        header.init(
+            {"isShow":true,"textMap":{"nav":[{"word":"HOME","href":"\/","pageType":["index"],"target":"_self"},{"word":"TOP20","href":"\/rank","pageType":["rank"],"target":"_self"},{"word":"TOP UP","href":"\/topup","pageType":["topup"],"target":"_self"},{"word":"STORE","href":"\/store","pageType":["store","car"],"target":"_self"},{"word":"DOWNLOAD","href":"javascript:;","pageType":[""],"target":""}],"subNav":[{"word":"Mobile APP","href":"\/mobile\/index","bg":"http:\/\/static01.cliponyu.com\/resource\/newBase\/app_icon.png","target":"_self"},{"word":"Cliponyu Client","href":"\/livePartner","bg":"http:\/\/static01.cliponyu.com\/resource\/clientlogo.png","target":"_self"}],"login":"Login","goLive":"Go Live","webLive":"Web live","partnerLive":"Client live","searchDefault":"Search for something","popUpOK":"Awas!","popUpText":"Klik tombol di sudut kanan atas langsung dapat Go Live!","myGold":"My Gold","userSub":[{"word":"My profile","href":"\/user\/info\/mycard","icon":"http:\/\/static01.cliponyu.com\/resource\/newBase\/profile.png","target":"_self"},{"word":"My account","href":"\/user\/account\/giftgot#GiftsReceivedhash","icon":"http:\/\/static01.cliponyu.com\/resource\/newBase\/account.png","target":"_self"},{"word":"Top up","href":"\/topup","icon":"http:\/\/static01.cliponyu.com\/resource\/newBase\/top_up.png","target":"_self"},{"word":"Notification","href":"\/user\/info\/messageCenter","icon":"http:\/\/static01.cliponyu.com\/resource\/newBase\/notice.png","target":"_self"},{"word":"Password","href":"\/user\/pass\/userpass\/resetpwd","icon":"http:\/\/static01.cliponyu.com\/resource\/newBase\/password.png","target":"_self"},{"word":"Log out","href":"javascript:;","icon":"http:\/\/static01.cliponyu.com\/resource\/newBase\/logout.png","target":"_self"}]},"conf":{"isCaptureOpen":true,"logo":"http:\/\/static01.cliponyu.com\/resource\/newBase\/logo.jpg","defaultIcon":"http:\/\/static01.cliponyu.com\/resource\/defaultImg.jpg"}},
+                            false
+                    );
+    });
 }();
-!function(){var commonFooter = require('hiclub:widget/common/commonFooter.js');
-commonFooter.run();
+!function(){    require('common:widget/public/mod-public-kaskus/mod-public-kaskus.js').run();
 }();
+!function(){    require.async(['hiclub:widget/common/commonFooter.js'], function(commonFooter){
+        commonFooter.run();
+    });
+}();
+!function(){    var __lc = {};
+    __lc.license = 4752481;
+    (function() {
+        var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+        lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+        var s = document.getElementsByTagName('script')[0]; 
+        s.parentNode.insertBefore(lc, s);
+    })();
+}();
+!function(){    require('hiclub:widget/appEnter/appEnter.js');
+}();
+!function(){    require.async('hiclub:widget/homepublic/mod-homepublic-feed/mod-homepublic-feed.js',
+        function (feed) {
+            feed.run();
+    });
+}();
+!function(){	console.log('commonbase');
+
+	if (!(/^8800020/g.test(''))) {
+        return;
+    }
+    (function() {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+        }
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', '6027318551455', {'value':'0.00','currency':'USD'}]);
+    var oImg = new Image();
+    oImg.src = 'https://www.facebook.com/tr?ev=6027318551455&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1';
+
+    }();
 </script>
 
 
-</ie:homepage></body></html>
+<iframe src="/advertising" style="display:none;"></iframe>
+
+</body></html>
