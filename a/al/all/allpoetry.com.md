@@ -1,8 +1,20 @@
-> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201203213id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810032344id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : All Poetry
+# Privacy Policy - Use of this site means you agree : All Poetry
 
-Three important documents: [rules ](https://web.archive.org/home/guide/rules)• [legal terms of use ](https://web.archive.org/home/guide/terms)• [privacy policy](https://web.archive.org/home/guide/privacy). Use of this site means you agree. 
+  *  
+  * [Login](https://web.archive.org/login)
+  * [Register](https://web.archive.org/user/add)
+
+
+
+  * [Contact us ](https://web.archive.org/ticket/add)
+  * [Community Rules](https://web.archive.org/home/guide/rules)
+  * [Legal 'Terms of use'](https://web.archive.org/home/guide/terms)
+  * [Privacy Policy](https://web.archive.org/home/guide/privacy)
+  * [About us](https://web.archive.org/home/about_us)
+
+
 
 ## Information Collection and Use
 
@@ -67,3 +79,5 @@ In addition, your ip address, cookie information, and what pages you request is 
 ## We're concerned about your privacy
 
 If you have a question about your privacy, please [contact us ](https://web.archive.org/ticket/add)and we'll try to clarify it for you! 
+
+Loading... 
