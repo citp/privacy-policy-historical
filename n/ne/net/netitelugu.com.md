@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netitelugu.com privacy policy that was archived on 2015-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150308104942id_/http%3A//netitelugu.com/english/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netitelugu.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810072927id_/http%3A//netitelugu.com/english/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telugu News | Telugu Politics | Telugu Movies | Videos | Photos | Reviews | Technology
 
