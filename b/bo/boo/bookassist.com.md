@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookassist.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206160818id_/http%3A//www.bookassist.com/global/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookassist.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810163528id_/http%3A//www.bookassist.com/global/security.jsp) for the most accurate reproduction.*
 
-# Bookassist Security & Privacy
+# Bookassist_Security_Privacy
 
 ## VeriSign Security Certificate
 
@@ -8,24 +8,24 @@ Bookassist is verified as a service provider through the VeriSign Certification 
 
 ## Credit Card Security
 
-The credit card details page of Bookassist is protected by powerful Secure Sockets Layer (SSL) encryption technology. SSL encrypts your name, credit card number and expiry date before they travel over the Internet. This makes doing business over the Internet as secure as purchasing by telephone. This ensures that your credit card details will remain completely confidential while in transit. SSL safe connection and secure transaction technology has effectively protected hundreds of thousands of Bookassist customers who have transmitted their credit card numbers online and made a purchase since bookassist launched its online services in 1999.
+The credit card details page of Bookassist is protected by powerful Secure Sockets Layer (SSL) encryption technology. SSL encrypts your name, credit card number and expiry date before they travel over the Internet. This makes doing business over the Internet as secure as purchasing by telephone. This ensures that your credit card details will remain completely confidential while in transit. SSL safe connection and secure transaction technology has effectively protected millions of Bookassist customers who have transmitted their credit card numbers online and made a purchase since Bookassist launched its online services in 1999.
 
 Additionally, credit card usage is verified _directly_ through a live secure connection with the banking system at time of debiting. This ensures that known stolen cards cannot be used and fraudulent transactions are minimised for consumer and hotel benefit.
 
 ## Privacy Statement
 
-This privacy statement refers to the websites and systems of Automatic Netware Ltd trading as Bookassist, its branches and its subsidiary companies.
+This privacy statement refers to our Website and the systems of Automatic Netware Ltd. trading as Bookassist, its branches and its subsidiary companies.
 
 We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document.
 
-_Why do we collect information?_
+### Why do we collect information?
 
   * Collecting information provides specific benefits to you, our website visitor
   * Information is collected in order to facilitate the reservation process between you the customer and the accommodation provider, to faciliate the purchase of e-vouchers, to offer additional services to you where you consent to such offers and/or to help us improve this process for your future use.
 
 
 
-_For what purpose(s) do we collect information?_
+### For what purpose(s) do we collect information?
 
   * Completing or supporting an activity, namely the reservation process or e-voucher purchase process
   * Voluntary customer registration process
@@ -34,7 +34,7 @@ _For what purpose(s) do we collect information?_
 
 
 
-_Who has access to some or all of the information we collect?_
+### Who has access to some or all of the information we collect?
 
   * Bookassist, its branches and its subsidiary companies
   * Accommodation services possibly not sharing our privacy policy
@@ -43,7 +43,7 @@ _Who has access to some or all of the information we collect?_
 
 
 
-_What access do we grant our visitors to the information we collect concerning them?_
+### What access do we grant our visitors to the information we collect concerning them?
 
   * Access is given to all collected information at any time on request
 
@@ -60,25 +60,43 @@ This Policy outlines how we may use Cookies on our Website.
 
 We respect your right to privacy. Any personal information which you volunteer on this website will be treated with appropriate standards of security and confidentiality and in accordance with the Irish Data Protection Acts, 1988 (as amended).
 
-_What are Cookies?_
+### What are Cookies?
 
 Cookies are text files containing small amounts of information which are downloaded to your device when you visit our website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that Cookie. Cookies are useful because they allow a website to recognise a user’s device. There are a number of different types of Cookies, each having a different purpose.
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). This service uses Cookies. Cookies help the website analyse how visitors to our website use the site. The information generated by the Cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us, and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website and allowing cookies to remain enabled, you consent to the processing of data about you by Google in the manner and for the purposes as set out above.
-
-_What types of Cookies may be used on this website?_
+### What types of Cookies may be used on this website?
 
 #### Strictly Necessary Cookies
 
 Strictly Necessary Cookies are essential in order to enable you to move around the website and use its features. We use these Cookies to enable the services which you have specifically asked for.
 
+##### Examples of Strictly Necessary Cookies that may be used on this site:
+
+  * [Bookassist session cookie:](http://www.bookassist.com/global/security.jsp) maintains the user session.
+
+
+
 #### Performance Cookies
 
 Performance Cookies are Cookies which collect information on how visitors use a website, i.e. which pages visitors go to most. We use these Cookies to collect information anonymously on the pages which you have visited.
 
+##### Examples of Performance Cookies that may be used on this site:
+
+  * [Google Analytics:](https://www.google.com/intl/en/policies/privacy/) A web analytics service provided by Google, Inc. ("Google"). This service uses Cookies. Cookies help the website analyse how visitors to our website use the site. The information generated by the Cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us, and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website and allowing cookies to remain enabled, you consent to the processing of data about you by Google in the manner and for the purposes as set out above.
+  * [Bookassist conversion tracking cookie](http://www.bookassist.com/global/security.jsp): Tracks conversion statistics.
+
+
+
 #### Functional Cookies
 
 Functional Cookies are Cookies which allow the website to remember choices made by the user (name, address, language). We use these Cookies to remember choices made to improve our users experience.
+
+##### Examples of Functional Cookies that may be used on this site:
+
+  * [Expression Engine cookie:](https://ellislab.com/expressionengine/user-guide/add-ons/cookie_consent/index.html) maintains user preferences such as language.
+  * [Bookassist booking_reference:](http://www.bookassist.com/global/security.jsp) saves user preferences.
+
+
 
 #### Advertising Cookies
 
@@ -92,6 +110,17 @@ If you have Cookies enabled on your machine, we will present you with advertisem
 
 We may install third party cookies on our website. Third party cookies are cookies that are set by a domain other than the website that is being visited by the user. If a user visits a website and another entity sets a cookie through that website, this would be a third party cookie.
 
+##### Examples of third party cookies that may be used on this site:
+
+  * [Adobe Omniture:](http://www.adobe.com/ie/privacy.html) collects statistical information about how visitors use the website.
+  * [Google Adwords:](https://www.google.com/intl/en/policies/privacy/) collects statistical information about use and conversion.
+  * [Google Remarketing:](https://www.google.com/intl/en/policies/privacy/) allows advertising to users who have visited the site.
+  * [Facebook:](https://www.facebook.com/about/privacy/) social media sharing.
+
+
+
 Cookies used by us enable us to improve our website and to deliver a more personalised service for you. If, after supplying personal information, you require a copy of it or you wish to discuss, correct or delete it, please contact us. To contact Bookassist, please see office contact details on [Bookassist.org/contact.jsp](http://www.bookassist.org/contact.jsp)
 
-_This Policy was last modified on 26th September 2013._
+If you don't want to receive cookies, you can modify your browser settings; the Help function within your browser explains how to change these settings. You can also visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to manage cookies on a wide variety of desktop browsers.
+
+Please note that by blocking cookies, you may not be able to use the full functionality of this website, in particular the use of the booking engine to complete a reservation.
