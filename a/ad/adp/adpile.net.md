@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpile.net privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421044328id_/http%3A//adpile.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpile.net privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810170713id_/http%3A//adpile.net/privacy.php) for the most accurate reproduction.*
 
 # Adpile | Online Advertising Network
 
