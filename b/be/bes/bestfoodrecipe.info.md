@@ -1,21 +1,49 @@
-> *The following text is extracted and transformed from the bestfoodrecipe.info privacy policy that was archived on 2012-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120301230444id_/http%3A//bestfoodrecipe.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestfoodrecipe.info privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810085710id_/http%3A//bestfoodrecipe.info/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Best Food Recipe
+# Best Food Recipe
 
-Privacy Policy for http://bestfoodrecipe.info/
+bestfoodrecipe.info, consider your privacy to be of the upmost importance. The Privacy Policy outlined below explains the way in which we deal with the information collected when you visit bestfoodrecipe.info (“the Site”).
 
-The privacy of our visitors to http://bestfoodrecipe.info/ is important to us.
+## Personal Information:
 
-At http://bagyocar.com/, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://bagyocar.com/, and how we safeguard your information. We never sell your personal information to third parties.
+bestfoodrecipe.info promises never to sell your personal information to a third party without your express permission. However, it may be necessary for us to reveal your personal information in the following instances: a) should we be required to do so by law or court order; b) to protect the legal rights or property of bestfoodrecipe.info; c) in connection with a transfer or disposition of bestfoodrecipe.info and/or the Site; and/or d) to a third party in connection with their provision of technical services.
 
-Log Files As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+## Anonymous Information: 
 
-Cookies and Web Beacons We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+From time to time, bestfoodrecipe.info may ask you for non-personally identifiable information, such as household income, age or lifestyle preferences such as your latest likes and dislikes. You are under no obligation to respond to these requests and we promise to still allow you to use the Site. Should you choose to help us we will not only be eternally grateful but will use this data to improve your user experience. In order to do this we may need to share this information with other third parties, such as potential advertisers. However, we promise this will always be in anonymous form and will therefore not contain any personally identifiable information.
 
-We also use third party advertisements on http://bagyocar.com/ to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+## Usage Information: 
 
-DoubleClick DART cookies We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (“interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting[ http://www.doubleclick.com/privacy/dart_adserving.aspx](http://www.doubleclick.com/privacy/dart_adserving.aspx)
+In addition to the above, bestfoodrecipe.info will collect non-personally identifiable information about the way in which you, our followers, use the Site. This can be anything from the amount of time you spend on the Site to the links you click on whilst on the Site. This information is not personally identifiable and will not only help us provide valuable information to our advertisers (so we can ensure the longevity of the Site) but will also enable us to make sure the Site can function effectively from a technical perspective.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+## Third Party Advertising: 
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Some of the ads appearing either on our Site, or within the newsletters distributed by the Site, may be delivered to you by our advertising partners. For more information about our advertising partners, cookies, and how to “opt-out”, please contact us for more information.
+
+## Third party sites: 
+
+As you know, we provide links to third party websites from the Site. These sites are not controlled by bestfoodrecipe.info and are therefore not covered by this Privacy Policy. We recommend that when you are directed away from the Site to a third party site you consult their privacy policy to check to way in which they deal with user information.
+
+## Cookies: 
+
+Like most sites, here at bestfoodrecipe.info we use browser “cookies.” Cookies are small text files placed on your computer’s hard drive by our server. This allows the website to remember who you are and will make your life all the more easy. For example, cookies will ensure that you are automatically taken to your counties home page or that you remain signed in (if you so wish). We promise never to use cookies to retrieve information from a computer that is unrelated to the Site or our services.
+
+## Google Analytics: 
+
+Here at bestfoodrecipe.info, our Site also uses Google’s web analytics tool “Google Analytics”. Google Analytics uses ‘cookies’ to track and collect anonymous information about the way in which you find and use the Site. It very helpfully produces a report of this data which we can then use to improve the Site and in turn, your bestfoodrecipe.info experience. As you know, a ‘cookie’ is a piece of data created when you visit the Site that is placed on your computer’s hard drive. This ‘cookie’ stores information, such as what time your visit occurred, whether you have been to the Site before, and how you arrived there. You can disable ‘cookies’ by using the appropriate feature of your web browser software, if available (see your internet browser provider’s website for more information). However, please note that if you do decide to ‘say no to cookies’ it is possible that this will affect the operation of the Site.
+
+## Third Party Cookies: 
+
+In the course of serving advertisements to the Site, or the newsletters distributed by the Site, our third-party advertisers may place or recognize a unique cookie on your browser.
+
+## Security: 
+
+All the information described above is stored on our bestfoodrecipe.info restricted database servers. As far as reasonably possible we will endeavor to protect the information you entrust us with. However, such is the nature of the internet, no security system can be 100% secure. It is therefore important to note that you provide all such information at your own risk.
+
+## Changes to this Privacy Policy:
+
+bestfoodrecipe.info reserves the right to amend this Privacy Policy from time to time without notice. Any such change will take effect once the revised policy is available on the Site.
+
+## Contact Us:
+
+Should you have any queries or concerns regarding this Privacy Policy please do not hesitate to get in touch.
