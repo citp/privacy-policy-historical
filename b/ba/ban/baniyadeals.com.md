@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baniyadeals.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421105144id_/http%3A//baniyadeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baniyadeals.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810131147id_/http%3A//baniyadeals.com/privacy) for the most accurate reproduction.*
 
 # Best Online Daily Deals in India - BaniyaDeals.com
 
