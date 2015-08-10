@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the anyporn.net privacy policy that was archived on 2015-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150201180451id_/http%3A//anyporn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyporn.net privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810071458id_/http%3A//anyporn.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## PRIVACY POLICY
 
 for [AnyPorn.com](http://anyporn.com/)  
-Effective Date: 1 February, 2015   
+Effective Date: 9 August, 2015   
 Last Modified: 16 December, 2011 
 
   * I. **General**
