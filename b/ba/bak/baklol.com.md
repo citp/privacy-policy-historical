@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baklol.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204092735id_/http%3A//baklol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baklol.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810063608id_/http%3A//baklol.com/Privacy) for the most accurate reproduction.*
 
-# privacy
+# Privacy
 
 At BakLOL, Privacy policy is taken with extreme care.We take user`s personal information seriously and we have made suitable measures to protect the privacy of our users.  
 **
