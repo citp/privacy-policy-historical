@@ -1,51 +1,65 @@
-> *The following text is extracted and transformed from the galsh.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504215244id_/http%3A//galsh.ishareimg.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galsh.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810073225id_/http%3A//10pm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Galsh
+# Privacy Policy | 10pm
 
-Galsh.co ("Galsh") respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used. 
+Welcome to 10pm.com (the “Site”). We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by (collectively, “Services”) (“Authorized Customers”).
 
-**Use of Information**
+“Personally Identifiable Information” 
 
-As a general policy, no personally identifiable information, such as your name or address, is automatically collected from your visit to Galsh. However, certain non-personal information is recorded by the standard operation of Galsh's Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. For example, it may be used to tailor content and advertising to your interests. 
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
-In special cases, Galsh may disclose user information when there is reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to, or interference (either intentionally or unintentionally) with, Galsh's rights or property, other Galsh web site users, or anyone else that could be harmed by such activities. 
+What Personally Identifiable Information is collected? 
 
-**Security**
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, Galsh cannot ensure or warrant the security of any information you transmit to us or from our online forms, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+What organizations are collecting the information? 
 
-**Use of Cookies**
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
-Cookies are pieces of information that a website transfers to an individual's computer hard drive for record keeping purposes. Cookies are used to track visits to our Sites and to personalize the Sites for new and current subscribers. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of Galsh's web sites may not function properly. 
+How does the Site use Personally Identifiable Information?
 
-**Use of IP Addresses**
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.
 
-An IP address is a number that's automatically assigned to your computer by your Internet provider whenever you surf the Web. When you request pages from Galsh Sites, our servers log your IP address. Galsh collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our Site. We may use your IP addresses in cooperation with your Internet provider to identify you if we deem it necessary to enforce compliance with our Terms of Use or to protect our service, Sites, customers, or others. 
+With whom may the information may be shared?
 
-**Links to Other Sites**
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
-Galsh is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may link to websites operated by other companies; we are not responsible for the privacy practices of such websites. Visitors to these web sites should refer to each web site's respective privacy policies and practices. 
+How is Personally Identifiable Information stored?
 
-**Third Party Cookies**
+Personally Identifiable Information collected by is securely stored and is not accessible to third parties or employees of except for use as indicated above.
 
-In the course of serving advertisements to our sites, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
+What choices are available to Visitors regarding collection, use and distribution of the information?
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the Network Advertising Initiative or Self-Regulatory Program for Online Behavioral Advertising. 
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at
 
-Google, as a third party vendor, uses cookies to serve ads on our websites. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+Are Cookies Used on the Site?
 
-BlueKai, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the BlueKai cookie by visiting the BlueKai Preference Manager. 
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-Exelate, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Exelate cookie by visiting the Exelate Preference Manager. 
+How does use login information? 
 
-Brilig, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Brilig cookie by visiting the Brilig Preference Manager. 
+uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
-**Contact Us**
+What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?
 
-If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, please [contact us](https://web.archive.org/web/20140504215244id_/http%3A//galsh.ishareimg.com/contact.html).
+has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
 
-Information provided by you via general email inquiries to Galsh such as your email address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties. 
+How does the Site keep Personally Identifiable Information secure?
 
-**Your Acceptance of These Terms**
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences.
 
-By using Galsh and its Sites, you signify your acceptance of the Galsh Privacy Policy. If you do not agree to this policy, please do not use our Sites. Galsh reserves the right to modify, alter or otherwise update this policy at any time. We encourage visitors to review this policy from time to time. Your continued use of the Galsh Sites following the posting of changes to these terms indicates your acceptance of these changes 
+How can Visitors correct any inaccuracies in Personally Identifiable Information?
+
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at
+
+Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
+
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site’s database by contacting . However, because of backups and records of deletions, it may be impossible to delete a Visitor’s entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward.
+
+What happens if the Privacy Policy Changes?
+
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
+
+Links:
+
+contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
