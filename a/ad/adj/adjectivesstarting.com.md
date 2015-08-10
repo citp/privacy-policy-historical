@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adjectivesstarting.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233119id_/http%3A//adjectivesstarting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjectivesstarting.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810161826id_/http%3A//adjectivesstarting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AdjectivesStarting.com
 
 ### 
 
-### Privacy Policy:
+## Privacy Policy:
 
 Adjectives Starting Inc. (" **Adjectives Starting** ") operates adjectivesstarting.com and may operate other websites. It is Adjectives Starting's policy to respect your privacy regarding any information we may collect while operating our websites.
 
