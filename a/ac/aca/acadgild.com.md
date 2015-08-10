@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acadgild.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315061335id_/http%3A//www.acadgild.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acadgild.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810234348id_/http%3A//acadgild.com/home/privacy) for the most accurate reproduction.*
 
-# ACADGILD.com -- Become an Android Expert.
+# Learn To Code with a Mentor | AcadGild
 
 ### 1\. HOW WE COLLECT AND USE INFORMATION
 
