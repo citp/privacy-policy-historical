@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2pup.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429165655id_/http%3A//2pup.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2pup.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810223246id_/http%3A//2pup.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 2Pup - Play Cool Games
 
