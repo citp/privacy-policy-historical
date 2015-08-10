@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcsmart.biz privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120045205id_/http%3A//abcsmart.biz/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsmart.biz privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811005128id_/http%3A//abcsmart.biz/en/privacy.php) for the most accurate reproduction.*
 
 # ABCSMART - Earnings up to 30 000 Euro
 
@@ -48,7 +48,7 @@ These principles are published at www.abcsmart.biz; The rules of personal data p
 
 e-mail: sales@abcsmart.biz 
 
-Landford Limited  
-1 1/2 Miles Northern Highway  
+ABCSMART INC.  
+2118 Guava Street, Belama Phase I  
 Belize City  
 Belize 
