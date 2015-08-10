@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogz.org privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501145506id_/http%3A//blogz.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogz.org privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810152637id_/http%3A//blogz.org/Privacy) for the most accurate reproduction.*
 
 # siteName Privacy Policy
 
