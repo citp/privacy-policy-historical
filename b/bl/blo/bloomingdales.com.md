@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314203514id_/https%3A//customerservice.bloomingdales.com/app/answers/detail/a_id/769/%3Fcm_sp%3DFOOTER-_-BOTTOM_NAV-_-PRIVACY_PRACTICES) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomingdales.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810194724id_/https%3A//customerservice.bloomingdales.com/app/answers/detail/a_id/769/%3Fcm_sp%3DFOOTER-_-BOTTOM_NAV-_-PRIVACY_PRACTICES) for the most accurate reproduction.*
 
 # Highlights of Bloomingdale’s Notice of Privacy Practices
 
-**Updated December 30, 2014**
+**Updated June 19, 2015**
 
 **Scope**
 
