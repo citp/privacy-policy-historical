@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belarusexpoonline.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204101715id_/http%3A//www.belarusexpoonline.com/2012-03-27-06-48-54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belarusexpoonline.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810040102id_/http%3A//www.belarusexpoonline.com/2012-03-27-06-48-54) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
