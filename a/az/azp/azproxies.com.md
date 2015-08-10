@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azproxies.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407184603id_/http%3A//azproxies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azproxies.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810140107id_/http%3A//azproxies.com/privacy-policy) for the most accurate reproduction.*
 
 # A-Z Proxies Privacy Policy
 
