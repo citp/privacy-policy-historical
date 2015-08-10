@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loltrap.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611001905id_/http%3A//loltrap.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loltrap.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810123616id_/http%3A//loltrap.com/page/privacy.html) for the most accurate reproduction.*
 
 # LOL Trap — You're now trapped in an infinite loop of hilarity!
 
