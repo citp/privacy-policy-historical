@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigcontentsearch.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209032239id_/http%3A//bigcontentsearch.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcontentsearch.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810125023id_/http%3A//www.bigimtoolbox.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Big Content Search
 
@@ -63,4 +63,4 @@ All information on the page [_About_](https://web.archive.org/about.php).
 
 #### Definitions
 
-The BigContentSearch.com web site (the “site”) is an online information service provided by NiteoWeb Ltd. (“NiteoWeb Ltd.”). Wherever the agreement refers to “you” or “your”, it refers to the User of the service; “we” or “our” refers to NiteoWeb Ltd..
+The “site” is an online information service provided by NiteoWeb Ltd. (“NiteoWeb Ltd.”). Wherever the agreement refers to “you” or “your”, it refers to the User of the service; “we” or “our” refers to NiteoWeb Ltd..
