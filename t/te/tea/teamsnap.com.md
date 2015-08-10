@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamsnap.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502002907id_/https%3A//www.teamsnap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamsnap.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810221719id_/https%3A//www.teamsnap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TeamSnap | Manage Your Team Online with TeamSnap's Free Sports Team Websites
 
