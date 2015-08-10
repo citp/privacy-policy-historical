@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800accountant.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232037id_/https%3A//1800accountant.com/legal/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800accountant.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810134404id_/https%3A//1800accountant.com/legal/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy Effective Date: December 1, 2014
 
