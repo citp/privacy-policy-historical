@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20muleteamlaundry.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627223348id_/http%3A//www.henkelna.com/privacy-policy-6120.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20muleteamlaundry.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810165947id_/http%3A//www.henkelna.com/privacy-policy-6120.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Henkel North America
 
