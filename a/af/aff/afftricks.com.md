@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afftricks.com privacy policy that was archived on 2013-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130725152017id_/http%3A//www.afftricks.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afftricks.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810115535id_/http%3A//www.afftricks.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
