@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koken.me privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611042948id_/http%3A//koken.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koken.me privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810145928id_/http%3A//koken.me/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy / Koken
 
