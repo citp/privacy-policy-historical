@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsorbia.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507114912id_/http%3A//appsorbia.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsorbia.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810130706id_/http%3A//appsorbia.com/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Fun Apps for Facebook - Enjoy Entertainment & fun apps - Appsorbia fun apps
 
