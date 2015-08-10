@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authoroo.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603005310id_/http%3A//authoroo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoroo.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810101226id_/http%3A//authoroo.com/privacy) for the most accurate reproduction.*
 
 # authoroo » Just another WordPress site » Privacy Statement
 
