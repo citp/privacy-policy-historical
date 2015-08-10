@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608054635id_/https%3A//www.acponline.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acponline.org privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810201546id_/https%3A//www.acponline.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ACP
 
 ### ACP Privacy Policy
-
-  * Digital Millenium Copyright Act
-
-
-
 
 #### Purpose
 
@@ -71,8 +66,6 @@ ACP operations and maintenance contractors sometimes have limited access to your
 
 **Disclosure to ACP operations and maintenance contractors** -  
 ACP operations and maintenance contractors sometimes have limited access to your personal information in the course of providing products or services to ACP. Access to your personal information by these contractors is limited to the information reasonably necessary in order for the contractor to perform its limited function for ACP. We also contractually require that our operations and maintenance contractors 1) protect the privacy of your personal information, and 2) not use or disclose your personal information for any purpose other than providing us with products and services.
-
-.
 
 #### Digital Millenium Copyright Act: Notice and Take Down Procedure for Making Claims of Copyright Infringement by ACP on ACPOnline.org
 
