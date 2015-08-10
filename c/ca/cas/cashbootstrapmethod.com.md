@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbootstrapmethod.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706053510id_/http%3A//bootstrapmethod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbootstrapmethod.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810051112id_/http%3A//bootstrapmethod.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -68,8 +68,7 @@ This policy was last modified on 28th January 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://bootstrapmethod.com
-
+http://bootstrapmethod.com  
 PO Box 520  
 Los Belones, Murcia 30389  
 Spain  
