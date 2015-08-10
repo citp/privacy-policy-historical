@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyluxe.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315073333id_/http%3A//beyluxe.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyluxe.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810091750id_/http%3A//www.beyluxe.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Beyluxe Messenger
 
