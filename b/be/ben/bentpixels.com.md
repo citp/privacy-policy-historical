@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bentpixels.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001958id_/http%3A//bentpixels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bentpixels.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810173856id_/http%3A//bentpixels.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BentPixels Platform
+# Privacy Policy | BentPixels
 
 We at Bent Pixels LLC, Inc. (”Company,” ”We,” ”Us,” ”Our”) know that our users (”You,” ”Your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy (www.bentpixels.com/privacy).
 
