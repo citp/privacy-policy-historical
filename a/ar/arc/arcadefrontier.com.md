@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadefrontier.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809135718id_/http%3A//www.arcadefrontier.com/ClientPrivacyPolicy.af) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadefrontier.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811012143id_/http%3A//arcadefrontier.com/ClientPrivacyPolicy.af) for the most accurate reproduction.*
 
 # ArcadeFrontier™ - The Wildest Games in the West! Play Free Online Games and Fun Premium Games. | ArcadeFrontier Client Privacy Policy
 
