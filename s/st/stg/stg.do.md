@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stg.do privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610043419id_/http%3A//www.staged.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stg.do privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810042154id_/http%3A//www.staged.com/corporate/privacy) for the most accurate reproduction.*
 
 # None
 
