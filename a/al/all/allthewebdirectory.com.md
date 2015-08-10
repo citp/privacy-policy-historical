@@ -1,63 +1,36 @@
-> *The following text is extracted and transformed from the allthewebdirectory.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805172839id_/http%3A//allthewebdirectory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthewebdirectory.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810204955id_/http%3A//allthewebdirectory.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AllTheWebDirectory
+# Privacy Policy | All The Web Directory
 
-VyomDirectory Privacy Policy:
+COLLECTION OF PERSONAL INFORMATION  
+When you use our Products or Websites, you may be asked for personally identifiable information such as your name, address, date of birth, email address, telephone number.
 
-At VyomDirectory, we completely understand and respect your concern regarding the privacy. Your privacy is of extreme significance to us and we make every effort to ensure that the data collected from you is protected and secure. It is however, important for us that you furnish information regarding yourself so as to help us understand you better and make the entire experience here at VyomDirectory a truly enriching one.
+By giving us such information, you will need to consent to our using it in the manner described in this policy.
 
-Our Privacy Policy aims at informing or notifying you regarding the data required by us and also our policies related to sharing it with third parties for the better and effective functioning of the website. The Privacy Policy is subject to the various terms and conditions laid down on the website. This also includes the conditions related to the modifications or changes that the Privacy Policy and other policies may undergo from time to time as stated in the terms and conditions. Please do ensure that you are completely aware of the modifications and changes in the policies as it is continuously updated. Your use of VyomDirectory would imply your acceptance of the existing terms and conditions and also the changes made therein from time to time. Our Privacy Policy is part of, and incorporated into, the Terms and Conditions.
+You may withdraw your consent at any time by emailing us at info@allthewebdirectory.com. We will return or destroy your personal information within five days of receipt of your withdrawal of consent.
 
-**Personal Information and Other Data We Collect:**
+Cookie information, pages you have requested and your IP address may also be recorded by us and/or third parties from your browser as set out in this policy.
 
-**Submission**
+USE OF PERFORMANCE DATA  
+5 examples will use performance data, including performance statistics, bug fixes and other similar data (“Performance Data”) uploaded to our Websites or acquired through our Products. 5 examples may use such Performance Data in any way, including, but not limited to, using, editing, altering, reproducing, publishing and/or distributing the Performance Data for any purpose, commercial or otherwise, provided that such Performance Data is stripped of all personally identifiable information.
 
-VyomDirectory makes every attempt to ensure that the user experience here is both enriching and satisfying. For this we require that you, the user, takes care to ensure that the submit form is complete in all respects with personal information like your name, email id and also other details required by us. The data provided by the user is used for the purpose of providing the services requested.
+USE OF PERSONAL INFORMATION  
+We use personal information to allow us to process your service requests, provide access to privileged areas of the Websites, send out newsletters, personalize your visit to our Websites, personalize your use of our Products, and enable us to improve the products and services we offer. We may occasionally carry out market research and send you details of services and offers that we think may be of interest to you. If you do not wish to receive such information, please e-mail info@allthewebdirectory.com or, alternatively, when we send you an e-mail, it will contain a provision for you to opt out of receiving any further information from us.
 
-**Uses of Information:**
+DISCLOSURE OF PERSONAL INFORMATION  
+We may provide information about you to our employees and agents in order to administer any accounts, products and services provided to you by 5 examples.
 
-**Profile**
+We will not disclose your personal information to any third party unless you have consented to such disclosure or where we are required to do so by law. Should you breach our terms and conditions or terms of use or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, we may disclose your information to a relevant authority. This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. Any disclosure of personal information will be strictly controlled and made fully in accordance with current U.S. law.
 
-The data collected from the user is safely stored as log files. The data collected from the user is used to put together a detailed profile of the user. You can be sure that we do not share profile created with third parties.
+COOKIES  
+Cookies are small data files that a website you visit may save on your computer or handheld device that usually includes an anonymous unique identifier. Our Websites and those of our Products may use cookies for user authentication, keeping track of your preferences, promotional campaigns, tracking our audience size and traffic patterns, and in certain other cases. We may include small graphic images in our email messages and newsletters to determine whether the messages were opened and the links were viewed.
 
-**Log Files**
+Third-party advertisers may also create and access cookies, which will be subject to their privacy policies – we accept no responsibility or liability for the use of such third parties’ cookies. If you do not wish cookies to be placed on your PC or handheld device, then they can be disabled in your web browser. The option to do so is normally found in your browser’s “security settings” section. Please note that permanently disabling cookies in your browser may hinder your use of our Websites as well as other websites and interactive services.
 
-Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+SECURITY  
+All security on our Websites is treated seriously. Where applicable, we undertake security steps, including use of SSL technology, on our back-end systems that store customer account information and to protect data transmissions. However, this is not a guarantee that such data transmissions cannot be accessed, altered or deleted due to firewall or other security software failures.
 
-**Communications from the Site:**
+If you have any further concerns about security, please email our Customer Service team at info@allthewebdirectory.com.
 
-Special Offers and Updates
-
-The website is updated on a regular basis regarding the latest services launched and also new special offers extended to our valuable users. With the privacy of the users being the highest priority for us, the choice of whether to receive the updates or otherwise is left entirely to the user.
-
-Service Announcements
-
-In certain circumstances, which are extremely rare, for instance, the service of the website suspended for maintenance, we may have to inform the users through personal emails. In such cases, we do not provide the user the choice of opting out as such mails are not promotional in nature.
-
-**Sharing:**
-
-Legal Disclaimer
-
-The privacy of our users is our responsibility. Every care is taken to ensure the same. However, we may need to disclose personal information if and when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
-
-Third Party Intermediaries
-
-We use Paypal for billing the users for all the services provided. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
-
-Security
-
-We take every precaution and care to protect and safeguard the information provided by our users. The data and information of any kind provided by our users via the website is both online and off-line.
-
-**Links to Other Sites**
-
-VyomDirectory holds no responsibility and has absolutely no control over the websites that are linked to us and those that show up in the searches. These websites may send their own cookies to users, collect data, or solicit personal information. VyomDirectory assumes no responsibility or liability for any such action and you are requested to scrutinize the Privacy Policy of such websites and remove any cookies from your computer if you do have any concerns.
-
-**Copyrights**
-
-All material and content on VyomDirectory, including website content, logos, or any other information related to the website, and any and all other components are protected by intellectual property laws. You agree not to reproduce, duplicate, copy, sell, resell or exploit for any commercial purposes, any portion of the website, use of the site, or access to the site, without the express and prior written consent of VyomDirectory in every single case.
-
-**Additional Information**
-
-VyomDirectory reserves the right to make changes to the privacy policy at any point of time. It is thus, it is requested that you do make frequent checks to be ensure that you are up to date with the changes executed.
-
-Any questions or clarifications whatsoever related to the privacy policy may please be forwarded through our contact page.
+POLICY CHANGES  
+Changes in this policy will be posted on our Websites. You are advised to check our Websites regularly to view our most recent privacy policy.
