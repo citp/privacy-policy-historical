@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffiniandcompany.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504204132id_/http%3A//www.buffiniandcompany.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffiniandcompany.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810205112id_/http%3A//www.buffiniandcompany.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Buffini & Company Privacy Policy
 
@@ -56,11 +56,11 @@ You can always add, update, or make changes to the information in your Buffini &
 
 **SECURITY AND STORAGE OF YOUR PERSONAL INFORMATION**
 
-Buffini & Company is committed to protecting the security of your personal information. We do this by storing your personal, financial, and goal setting information on Buffini & Company's secure internal servers and providing access to the information provided only to authorized personnel of Buffini & Company.
-
-**Use of Cookies.**
-
 A "cookie" is a very small text file that a website saves to your computer's hard disk to store information that you provide about yourself or to store your preferences. Buffini & Company permits, but does not require, the use of a cookie to improve your sign-on experience. For example, Buffini & Company may store your user name in a cookie that will remain on your computer after you sign out. This cookie allows your user name to be repopulated so that you will only need to type your password the next time you sign in.
+
+In addition, we may disclose the presence of a cookie to third parties in order to advertise our services. We may also contract with third-party advertising networks that use cookies, or other tracking technologies to collect certain non-personal information about your activities on the website to offer you targeted advertising based upon your interests. We may also use cookies delivered by third parties to track the performance of our advertisements.
+
+You can refuse to accept browser cookies by activating the appropriate setting on your browser. Most recent browsers provide the flexibility to reject all cookies, accept all cookies, or accept cookies only from sites you trust. Please note that if you refuse to accept browser cookies, your access to or use of certain portions of the website may be limited.
 
 **CHANGES TO THIS PRIVACY STATEMENT**
 
