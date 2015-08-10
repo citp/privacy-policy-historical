@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2experts.net privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427193516id_/http%3A//2experts.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2experts.net privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810155620id_/http%3A//2experts.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 2experts Web Blog
 
