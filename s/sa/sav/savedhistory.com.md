@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savedhistory.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140616id_/http%3A//savedwebhistory.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savedhistory.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811002829id_/http%3A//savedwebhistory.org/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
