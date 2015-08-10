@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318124246id_/https%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810120750id_/https%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of printed.com
 
@@ -34,6 +34,8 @@ We may collect and process the following data about you:
 2.2.2 to speed up your searches; and
 
 2.2.3 to recognise you and your requirements when you return to our site. 
+
+2.2.4 to present more targeted advertising reflecting your interest. 
 
 2.3 To find out more about cookies, including how to control and disable them, please visit [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
 
