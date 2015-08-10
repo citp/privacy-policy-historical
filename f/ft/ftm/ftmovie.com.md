@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftmovie.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619014527id_/http%3A//www.ftmovie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftmovie.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810102129id_/http%3A//www.ftmovie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Download Movies and TV Series on www.ftmovie.com HD, DVD, DivX and iPod formats available.
 
