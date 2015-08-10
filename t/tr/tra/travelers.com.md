@@ -1,121 +1,153 @@
-> *The following text is extracted and transformed from the travelers.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227025111id_/http%3A//www.travelers.com/w3c/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelers.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810061937id_/https%3A//www.travelers.com/privacy-statements/index.aspx) for the most accurate reproduction.*
 
-# 
+# Online Privacy Statement | Travelers Insurance
 
-Global Privacy Statement Privacy Notice for Individual U.S. Personal Insurance Consumers
+skip to main content
 
-The nature of our business requires a relationship of trust with our customers. The foundation of that trust is the assurance that we will not misuse information that we receive about customers. The following is our Privacy Policy regarding the collection and disclosure of our customers' personal information. The Privacy Policy is subject to updates at any time. The Travelers companies operate in a number of different jurisdictions and this Privacy Policy is not a comprehensive statement of all measures taken and rules complied with in each of those jurisdictions, but an indication of the intent of The Travelers to comply with the privacy laws of the jurisdictions where we do business.
+  * For Individuals 
+  * For Business 
+  * Claim Center 
+  * Prepare & Prevent 
+  * Contact Us[Contact Us](https://web.archive.org/contact-us/index.aspx)
+  * 
+
+
+  * [Online Privacy Statement](https://web.archive.org/privacy-statements/index.aspx)
+    * [Privacy Statement for Consumers](https://web.archive.org/privacy-statements/privacy-for-consumers.aspx)
+    * [Additional Privacy Statements](https://web.archive.org/privacy-statements/additional-privacy-statements/index.aspx)
+  * [Security](https://web.archive.org/security/index.aspx)
+
+
+
+## Privacy & Security
+
+Revised June 25, 2015
+
+The Travelers Indemnity Company and its affiliates ("Travelers") value your privacy. This Online Privacy Statement will inform you about how we use and disclose information that we and our service providers collect from your visits to [travelers.com](http://www.travelers.com/) and other websites owned or operated by us (the “Websites”), through the software applications made available by us for use on or through computers and mobile devices (the “Apps”), through use of social media pages that we control (“Social Media Pages”), and through email messages that we send to you (collectively, including the Websites, the Apps, and our Social Media Pages, the “Services”).
+
+This Online Privacy Statement only applies to information collected through the Services. If you have purchased or applied for an insurance product from us, please also see our [Privacy Statement for Individual U.S. Personal Insurance Consumers](https://web.archive.org/web/20150810061937id_/https%3A//www.travelers.com/privacy-statements/privacy-for-consumers.aspx), which applies to the information that we collect about policyholders and applicants, through the Services as well as any other medium. Travelers does business in a number of different jurisdictions. [Additional Privacy Statements](https://web.archive.org/web/20150810061937id_/https%3A//www.travelers.com/privacy-statements/additional-privacy-statements/index.aspx) may apply depending on your jurisdiction or customer relationship. 
+
+  * Personal Information
+  * How We May Use Personal Information
+  * How Personal Information May Be Disclosed
+  * Other Information We May Collect
+  * How We May Collect Other Information
+  * How We May Use and Disclose Other Information
+  * Third Party Services
+  * Third Party Advertisers
+  * Children’s Privacy
+  * Maintenance of the Services
+  * Safeguarding Personal Information
+  * Social Security Protection Policy Statement
+  * Updates to this Online Privacy Statement
+
+
 
 ### Personal Information
 
-Personal information is information that identifies an individual personally. Personal information includes but is not limited to such information as name, address, credit history, policy or claim information and health information. 
+“Personal Information” is information that identifies you as an individual. Personal Information may in certain circumstances include such information as name, address, phone number, email address, credit history, social security number, driver’s license number, credit or debit card number, policy or claim information and health information. If you apply for a job or register with our career center, Personal Information may, in certain circumstances, also include information about your work and educational history.
 
-### How We Collect Personal Information
+If you submit any Personal Information relating to other people to us or to our service providers, you represent that you have the authority to do so and to permit us to use the information in accordance with this Online Privacy Statement.
 
-We collect personal information to enable us to provide our products and services to customers and to support our business operations. We obtain personal information directly from the customer, from customer-related transactions and from third parties, such as a consumer reporting agency. 
+### How We May Use Personal Information
 
-### Protecting Personal Information
+We may use Personal Information:
 
-We use procedural, manual and electronic security controls to maintain the confidentiality and integrity of personal information in our possession and guard against its unauthorized access. Some techniques we employ to protect information include locked files, user authentication, encryption, firewall technology and the use of detection software. We are responsible for identifying information that must be protected, providing an adequate level of protection for that data and granting access to protected data as permitted or required by law. 
-
-Some of Travelers employees have access to customer personal information in the course of doing their jobs, which includes underwriting policies, processing claims, developing new products or advising customers of our products and services. These employees are expected to keep this information in confidence and share the information only with those who have a business reason to know. Employees are prohibited from making unauthorized disclosure of personal information that we obtain about customers. Employees who violate our policies on privacy may be subject to disciplinary action. 
-
-### Disclosing Personal Information
-
-We keep our customers' personal information private and do not give it to others, unless allowed. We do not give or sell our customers' personal information to other companies for marketing purposes. We may share personal information that we have about customers within Travelers family of property and casualty insurance companies. 
-
-We may give personal information to other persons or companies to help us manage or service our business. When we do, we require them to use it only for the reasons we gave it to them. To serve our customers and administer our business including the processing of claims, we may share personal information about customers with unaffiliated third parties, including agents, brokers, other insurance companies, reinsurers, regulators, administrators and service providers and as otherwise permitted or required by law. Such sharing of data may be outside the jurisdiction in which the data was obtained. 
-
-### Customer Rights
-
-The Travelers acknowledges that some customers about whom we collect personal information have certain legal rights concerning that information. These individuals have a right to be told of their privacy rights and our information handling practices. They have a right to know what information we have about them, how we obtained it, and with whom we may share it. They also have a right to request correction of any wrong information pertaining to them in our file. The Travelers supports these rights as they add a measure of security and confidence to our dealings with the public. We will do everything we reasonably can to assist customers in exercising their privacy rights and will not attempt to dissuade them from doing so. 
-
-### Global Operations
-
-The Travelers is a property and casualty insurer, doing business in several countries. Some of these countries have enacted laws and regulations protecting personal information; other countries have not. It is Travelers' policy to comply with the privacy laws and regulations of every country in which we do business. 
-
-Return to top of page
-
-### What we mean when we talk about "privacy"
-
-Your privacy is important to us. When we sell an insurance policy to a person we need information about the person or property that we're insuring. We consider this private and have taken steps to keep it confidential.
-
-We want you to know about our privacy policy. The privacy policy tells you the kinds of information we get about you, where we get it, and with whom, if anyone, we may share it.
-
-This brochure describes our privacy policy, procedures and practices for individuals who seek or get auto, home and other personal liability and property insurance for personal, family or household needs.
-
-### What kind of information we have and where we get it
-
-You give us most of what we need in the application process. To make sure what we have is correct we may need to check with you by phone or mail.
-
-You may be asked to give us more details in writing or over the phone. Plus, we may receive and check your past insurance claims from insurance support organizations or your former insurers.
-
-As allowed by law, we may ask for credit and other consumer reports from consumer reporting agencies concerning your application for insurance or any renewal of insurance. Information given to us by an insurance support organization, including consumer reporting agencies may be retained by them and disclosed to other persons.
-
-For auto insurance, we often get a report of accidents or convictions from your State Motor Vehicle Department. We get these reports through an independent reporting company. We may also check information from government agencies or independent reporting companies. This helps us correctly rate and price your policy.
-
-For home, building, or boat insurance, we or an inspector from an independent company may visit the property to inspect and report on its condition. In some cases, pictures may be taken. This allows us to check the estimate we have of your property's value. If we need more details about the property or the alarm you've installed, we may need to enter your property to finish the inspection. We would contact you before entering your property.
-
-As a part of our application and underwriting process, in most states, we also order an Insurance Score based on credit history. We use the Score, information you give us, and other consumer reports for underwriting and the price we will charge. If we receive corrected personal information from a consumer reporting agency, we will re-evaluate you.
-
-Once you're insured with us, your file may contain details about your policy(ies). This may include bill payments or claim history. A claim representative may comment, for example, on the condition and use of the insured property. We may also keep a police report if one was issued.
-
-Sometimes we need to know about your health. For example, if we need to know whether a physical limitation will affect your ability to drive, we would ask you to sign a form allowing your personal doctor to answer any question we may have.
-
-### Who has access to this information
-
-We keep what we collect about you in our files. Our policies and procedures protect your personal information. We have physical, electronic and procedural safeguards in place.
-
-We do not give or sell our customers' personal information to others for marketing purposes. You don't have to ask us to keep your information private because we do not give it, unless allowed.
-
-We will use information about you to sell you insurance, service your insurance and settle claims. We may give the information to other persons or companies to help us manage or service our business. When we do, we require them to use it only for the reasons we gave it to them.
-
-We may give, without your past permission and only if allowed by law, information about you held in our files to certain persons or organizations such as:
-
-  * Your agent or broker
-  * Our affiliated property and casualty insurance companies 
-  * An independent claim adjuster or investigator
-  * Persons or organizations that conduct scientific research, including actuarial or underwriting studies, provided that no individual may be identified in the studies 
-  * An insurance support organization, including consumer reporting agencies 
-  * Another insurer in order to prevent or prosecute fraud 
+  * To provide a quote, underwrite and rate policies, respond to your inquiries, fulfill your requests, and complete your transactions
+  * To process claims 
+  * To service your insurance
+  * To confirm or correct what we know about you
+  * To help us prevent fraud and other crimes
+  * To comply with applicable laws 
+  * To perform research or send you surveys
+  * To send you information that we believe may be of interest to you
+  * To personalize your experience on the Services
+  * To facilitate social sharing functionality
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose Personal Information, so we suggest that you read these rules carefully.
+  * To allow you to send messages to a friend through the Services. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address.
+  * To inform you of job opportunities and to evaluate your suitability for a job
+  * To contact you at a telephone number you provide to us, including if the number is for a cell phone or other wireless device. We may contact you in person, by recorded message, by the use of automated dialing equipment, by text (SMS) message, or by any other means of communication your device is capable of receiving, as allowed by law and for reasonable business purposes, including to service your policy with us. 
+  * For our business purposes.
+  * As otherwise allowed by law.
 
 
 
-Also, on rare occasions, we may be required to share this information:
+### How Personal Information May Be Disclosed
 
-  * With a State Insurance Department or other governmental agency, if required by federal, state or local laws 
-  * If ordered by a summons, court order, search warrant or subpoena 
-  * To protect our own legal interests, or in case of suspected fraud or other illegal activities 
+Your Personal Information may be disclosed:
 
-
-
-### How to find out what information we have about you
-
-If you have any questions about what we have in your file please write to us. When we receive your written request, we will respond within thirty (30) business days. We will let you know if we've given any information about you to anyone in the past. If we asked for a consumer report we will tell you the name and address of the consumer reporting agency.
-
-You may also see and copy your file (except for certain documents about claims and lawsuits). If you believe any of our information is wrong we'll check it out and if we agree there was an error, we'll correct it. If we don't agree, you're still allowed to file a letter with your comments. We'll send the correction or letter to anyone who received or will receive the original information.
-
-If you have any questions about the right of access to or correction of your file, we'll be happy to review our procedures with you. Please contact: 
-
-your agent or insurance representativeorPersonal Lines Privacy CoordinatorOne Tower SquareHartford, CT 06183
-
-### When you write, please be sure to tell us your:
-
-  * Name
-  * Address 
-  * Policy number
-  * Phone number and the best time of the day for us to call you 
+  * Within the Travelers family of companies
+  * To third parties to help us manage or service our business. These third parties can include but are not limited to agents or brokers, other insurance companies, regulators, administrators, and service providers that provide services such as website hosting, data analysis, payment processing, information technology and related infrastructure provision, email delivery and other services.
+  * To insurance support organizations and consumer reporting agencies. Information that we share with these organizations, such as your claims history, may be retained by them and disclosed to others.
+  * To third parties so that they can market their products and services to you, if you have given us permission
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public information, and may be available to users of the Services and to the general public. We urge you to be very careful when deciding to disclose your Personal Information, or any other information, on the Services.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings)
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations; (f) to protect our rights, privacy, safety or property, and/or that of you or others; (g) to detect and prevent fraud; and (h) to allow us to pursue available remedies or limit the damages that we may sustain
+  * As otherwise allowed by law
 
 
 
-Please include a copy (not the original) of personal ID, such as your driver's license.
+### Other Information We May Collect
 
-### We thank you for letting us serve your insurance needs.
+“ **Other Information** ” is any information that does not reveal your specific identity or does not directly relate to an individual, such as: 
 
-This notice is effective July 2006 and is given by The Travelers Indemnity Company, and its property and casualty insurance affiliates, members of the Travelers group of companies. This notice applies to current and former customers and may be amended at any time. The amended notice will be sent to customers and will also be placed on Travelers web sites.
+  * Browser and device information
+  * App usage data
+  * Information collected through cookies, pixel tags and other technologies
+  * Physical location
+  * Demographic information and other information provided by you
+  * Aggregated information
 
-A statement concerning our use of Insurance Score is available upon request for Oregon residents.
 
-PL-10582 Rev. 07-06
 
-Return to top of page
+### How We May Collect Other Information
+
+We and our third party service providers may collect Other Information in a variety of ways, including: 
+
+  * **Through your browser or device** : Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as an App) you are using. We use this information to ensure that the Services function properly.
+  * **Through your use of the App** : When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+  * **Using cookies** : Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Services, as well as for online tracking purposes. We can recognize your computer to assist your use of the Services. We also gather statistical information about the usage of the Services in order to continually improve the design and functionality, understand how the Services are used and to assist us with resolving questions regarding the Services. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We and our service providers may also use cookies in online advertising to track responses to our advertisements, and we and our service providers may use cookies or other files to track your use of other websites. 
+
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Services. For example, we may not be able to recognize your computer and you may need to log in every time you visit the applicable Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+
+  * **Using pixel tags and other similar technologies** : Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.
+  * **IP Address** : Your IP Address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use IP Addresses for purposes such as calculating usage levels of the Services, helping diagnose server problems, identifying the general location of the device, and administering the Services.
+  * **Physical Location** : We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
+  * **From you** : Information such as your location, as well as other information, such as your preferred means of communication, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Services.
+  * **By aggregating information** : Aggregated Personal Information does not personally identify you or any other user of the Services.
+
+
+
+### How We May Use and Disclose Other Information
+
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it as described in “How We May Collect Other Information” section above, as well as for all the purposes for which we use and disclose Personal Information.
+
+###  Third Party Services
+
+This Online Privacy Statement does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us. 
+
+Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose through or in connection with the Apps or our Social Media Pages. Please note that we use the Google Maps API(s), which is subject to the Google privacy policy, available at <http://www.google.com/privacy.html>, as such policy may be amended by Google from time to time.
+
+###  Third Party Advertisers
+
+We do not respond to any web browser “do not track” signals or other similar mechanisms. We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags), which may allow them to collect information about your online activities over time and across different Web sites, including when you access and use the Services. If you would like more information about this practice and to learn about your choices in connection with these practices, please visit <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/>.
+
+###  Children’s Privacy
+
+The Services are not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Services.
+
+###  Maintenance of the Services
+
+The Services are maintained by us in the United States, and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.
+
+###  Safeguarding Personal Information
+
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us at Travelers Consumer Affairs, One Tower Square, Hartford, CT 06183, or email to privacy@travelers.com.
+
+### Social Security Protection Policy Statement
+
+Travelers seeks to protect the confidentiality of social security numbers (SSNs) by maintaining physical, electronic, and procedural safeguards. We limit access to SSNs to help protect against their loss, misuse or unlawful disclosure. We do not disclose SSNs to third parties except where required or permitted by law.
+
+### Updates to this Online Privacy Statement
+
+We may change this Online Privacy Statement at any time. Please take a look at the “Revised” legend at the top of this page to see the date of the last revision. Any changes will become effective when we post the revised Online Privacy Statement on the Services. Your use of the Services following these changes means that you accept the revised Online Privacy Statement.
