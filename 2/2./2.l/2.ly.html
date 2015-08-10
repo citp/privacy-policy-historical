@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the 2.ly privacy policy that was archived on 2015-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150201213528id_/http%3A//2.ly/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 2.ly privacy policy that was archived on 2015-08-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150810211451id_/http%3A//2.ly/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de"><head>
 <!-- Metaangaben -->
 <title>2.ly - Simply shorten urls</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="robots" content="index,follow">
-<meta content="Do you want to generate a QR code? Enter your URL and click Generate QR Code . The QR - code generator generates you immediately with a free qrcode shorturl." name="description"> 
+<meta content="Do you want to generate a QR-Code? Enter your URL and click generate QR-Code . The QR-code generator creates immediately a free QR-Code with a Short-URL for you." name="description"> 
 <meta content="qr, qr code, qr tag, qrcode, qrcodes, qr-codes , qr code generator, URL redirection, redirection, shortened URL, url shortening, url shortener, bar code reader, barcode scanner, biz card reader, bluetooth, business card, business card reader, business card scanner, card scan, card scanners, free qr code generator, qr mobile, mobile, mobile scanner, qr code examples, qr code reader, scanner handheld, scanner software" name="keywords">
 <!-- javascript -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="application/javascript">
@@ -16,19 +16,42 @@
 -->
 </script>
 
-<!-- jquery -->
+<script type="text/javascript" src="/static/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/static/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="/static/js/waypoints.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.counterup.min.js"></script>        
+<script type="text/javascript" src="/static/scripte/markerclusterer.orig.js"></script>     
+<script>
+	jQuery(document).ready(function() {
 
-<script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
-<script type="application/javascript" src="/static/scripte/ui.core.js"></script>
-<script type="application/javascript" src="/static/scripte/ui.dialog.js"></script>
-<script type="application/javascript" src="/static/scripte/ui.draggable.js"></script>
-<script type="application/javascript" src="/static/scripte/ui.resizable.js"></script>
-<script type="application/javascript" src="/static/scripte/ui.tabs.js"></script>
-<script type="application/javascript" src="/static/scripte/jquery.tablesorter.js"></script>
-<script type="application/javascript" src="/static/scripte/jquery.tablesorter.pager.js"></script> 
-<script type="application/javascript" src="/static/scripte/jquery.metadata.js"></script>
-<script type="application/javascript" src="/static/scripte/jquery.ahover.js"></script>
+		$('#url-option-collapse').on('hide.bs.collapse', function () {
+			$('#lightbulb').addClass('active');
 
+		});
+		$('#url-option-collapse').on('show.bs.collapse', function () {
+			$('#lightbulb').removeClass('active');
+		});
+		
+        jQuery('.counter').counterUp({
+            delay: 10,
+            time: 1000
+        });
+
+	});
+	function writeEmail(user, host, tld, write) {
+    var elem = document.getElementById('email');
+
+    if(elem) {
+        elem.innerHTML = user + '@' + host + '.' + tld;
+    }
+    else {
+        if(write) {
+            document.write(user + '@' + host + '.' + tld);
+        }
+    }
+} 
+</script>
 
 <script type="application/javascript">
 <!-- <![CDATA[
@@ -61,7 +84,7 @@
 		$("#tablepager").tablesorterPager({container: $("#pager")}); 
 	    
 		// Input Default-Value
-	    populateElement('#nick', 'username', '');
+	    populateElement('#nick', 'Username', '');
 		// Tabs
 	    $("#tabs").tabs({ selected: 1 });
 		
@@ -69,21 +92,6 @@
 			shorturloptions();
 		}
         
-        ZeroClipboard.setMoviePath( '/static/flash/ZeroClipboard.swf' );
-
-        var clip = new ZeroClipboard.Client();
-        clip.setText( $("#shorturl").val() );
-        clip.glue( 'copy_shorturl' );
-        var clip2 = new ZeroClipboard.Client();
-        clip2.setText( $("#statisticurl").val() );
-        clip2.glue( 'copy_statisticurl' );
-        var clip3 = new ZeroClipboard.Client();
-        clip3.setText( $("#qrcodeurl").val() );
-        clip3.glue( 'copy_qrcodeurl' );
-        var clip4 = new ZeroClipboard.Client();
-        clip4.setText( $("#qrcodeimgurl").val() );
-        clip4.glue( 'copy_qrcodeimgurl' );
-
 		$("#urlgroup_create_input").ready(function(){
 			$("#count_urls").text("0/100 addresses found");
 		})
@@ -156,17 +164,6 @@
 		//$('#custom_shorturl_button').remove();
 	};
 	
-    var addthis_config = {
-        ui_language: 'en',
-        ui_click: true,
-        data_track_linkbacks: true,
-        services_compact: 'favorites,twitter,facebook,email,wordpress,more',
-    }
-    
-    var addthis_share = {
-        templates: {
-               twitter: '{{lurl}}',
-           }
     }
     function show(toShow){
         $('#' + toShow).toggle();
@@ -183,13 +180,6 @@
     });
 // ]]> -->
 </script>
-<script type="application/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=shorturl"></script>
-
-
-
-<script type="application/javascript" src="/static/scripte/swfobjects.js"></script>
-<script type="application/javascript" src="/static/scripte/markerclusterer.js"></script>
-<script type="application/javascript" src="/static/scripte/ZeroClipboard.js"></script>
         <link rel="icon" href="/static/image/favicon.ico" type="image/ico">
         
             <link rel="Stylesheet" type="text/css" href="/static/css/font-awesome.css">
@@ -236,6 +226,24 @@
        </style>
        
        <script type="text/javascript" src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAS-t_h1YvqjppPaFlblSXnBTyFxF1vgqCE7Ig-gu1AFM8eS5BIRQ16NSg6OAH4ShcY0dLM7HL_BkL4Q&amp;sensor=false"></script>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-37136679-2']);
+        _gaq.push(['_setDomainName', '2.ly']);
+        _gaq.push(['_setCustomVar', 1, 'Domain', '2.ly', 3]);
+        _gaq.push(['_setCustomVar', 2, 'Language', 'en', 3]);
+        _gaq.push(['_trackPageview']);
+        _gaq.push(['_gat._anonymizeIp']);
+        _gaq.push(['_trackPageLoadTime']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
 <script type="text/javascript">
        function writeEmail(user, host, tld, write) {
     var elem = document.getElementById('email');
@@ -259,7 +267,7 @@
     
         <div class="logobox">
            <img src="/static/image/logo.png" class="logo"><span class="name">2</span><span class="tld">.ly</span><br>
-           <span class="text">Your Short-Url service</span>
+           <span class="text">Your Short-URL service</span>
         </div>
     
 </a>
@@ -267,8 +275,8 @@
 <div class="navi">
         <a href="http://2.ly/">Start</a>
         <a href="http://2.ly/api">API</a>
-        <a href="http://2.ly/urlgroup/create">Shorturl groups</a>
-        <a href="http://2.ly/bookmarklet" style="border:none">bookmarklet</a>
+        <a href="http://2.ly/urlgroup/create">Short-URL groups</a>
+        <a href="http://2.ly/bookmarklet" style="border:none">Bookmarklet</a>
 </div>
 </div>
 </div>
@@ -290,10 +298,10 @@ This website collects and uses your personal data in accordance with the rules o
 <li>A status message indicating whether the request was successful</li>
 <li>The address of the referring website (URL)</li>
 <li>Browser system type and version</li>
-<li>Operating system type and version</li>
+<li>OS-type and version</li>
 </ul>
 <br>
-<b>1.2</b><br> We collect this information in an anonymous form, so that these data can not be assigned to identified or identifiable person. This is done for the purpose of system-internal technical processing (connection setup), for system security, for technical administration of the system and network infrastructure as well as for the optimization of the website and for statistical purposes ..<br><br>
+<b>1.2</b><br> We collect this information in an anonymous form, so that these data can not be assigned to identified or identifiable person. This is done for the purpose of system-internal technical processing (connection setup), for system security, for technical administration of the system and network infrastructure as well as for the optimization of the website and for statistical purposes..<br><br>
 <b>1.3</b><br> Your IP address will be sent only to the absolutely necessary of technical communication with our web server as well as our shop system. Further surveys are conducted exclusively among anonymization your IP address. A mapping between the IP and a person takes place at any time.<br><br>
 <hr class="line">
 <b>2. Pseudonymous user profiles</b><br><br>
@@ -312,13 +320,13 @@ This website collects and uses your personal data in accordance with the rules o
 <b>3.2</b><br> Of course, you can use our website without cookies. If you refuse the use of cookies, you have the opportunity to stop in their browser settings to set cookies on your computer, or to be asked separately for each cookie, whether they want to allow this. You also have the option to delete cookies already set. Details, please contact your respective browser manufacturer. However, please note that blocking cookies can lead to functional restrictions on our offers.
 <hr class="line">
 <b>4. Right to information and data correction</b><br><br>
-<b>4.1</b><br> You have a legal right to at any time, free access to your personal data stored by us. Furthermore, there is the right to correct any inaccurate data, and block data and to delete.<br><br>
+<b>4.1</b><br> You have a legal right to free access to your personal data stored by us at any time. Furthermore, there is the right to correct any inaccurate data, and block or delete data.<br><br>
 <b>4.2</b><br> If you have registered on our website so you have partially the possibility to view your saved data even, rectify and delete.<br><br>
-<b>4.3</b><br> Additionally, if you want information about your personal data or have further questions about the processing or use of your personal data held about us and want a correction or deletion of your data, so please feel free to in section 5 "Opposition and Revocation" stated address.
+<b>4.3</b><br> Additionally, if you want information about your personal data or have further questions about the processing or use of your personal data held about us and want a correction or deletion of your data, so please feel free to in section 5. "Opposition and Revocation" stated address.
 <hr class="line">
 <b>5. Opposition and Revocation</b><br><br>
-You have the right to collect and use to contradict your data for the creation of pseudonymous user profiles You also have the right to revoke us consent -. Example, to send you our newsletters to you -. Revoke In this case we are the processing and use of your data for this purpose refrain immediately. opposition or a cancellation at any time without notice for any reason informally by post, fax or e-mail us at 
-submit.<br><br>
+You have the right to collect and use to contradict your data for the creation of pseudonymous user profiles You also have the right to revoke your consent to us - for example to send our newsletters to you. In this case, we will refrain from the processing and use of your data for this purpose without delay. A contradiction or revocation could be submitted to us
+ at any time without notice for any reason informally by post, fax or e-mail.<br><br>
 <i>By Mail:</i><br>
 QE GmbH &amp; Co. KG<br>
 Martinistraße 3<br>
@@ -337,10 +345,10 @@ This website includes, among other things, links to our partners. If you click o
 <b>7.3 </b><br> To protect your privacy, your IP address is shortened before this broadcast by a so-called IP anonymization. This anonymity is done by Google within the Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases, your complete IP address transmitted to a Google server in the USA and shortened there.<br><br>
 <b>7.4 </b><br> On behalf of the operator of this website, Google will use this information to evaluate your use of the website, compiling reports on website activity and providing other with website and internet related services to the website operator. Undertaken as part of Google Analytics that your IP address is not associated with any other data held by Google.<br><br>
 <b>7.5</b><br> You may refuse the use of cookies by selecting the appropriate settings on your browser. You also have the option to delete cookies already set. Details, please contact your respective browser manufacturer. However, please note that blocking cookies can lead to functional restrictions on our offers.<br><br>
-<b>7.6</b><br> You can also prevent the data generated by the cookie about your use of the website data to Google and the processing of these data by Google, by downloading available at the following link and install the browser plugin: http://tools.google.com/dlpage/gaoptout?hl=en.
+<b>7.6</b><br> You can also prevent the data generated by the cookies about your use of the website data to Google and the processing of these data by Google, by downloading available at the following link and install the browser plugin: http://tools.google.com/dlpage/gaoptout?hl=en.
 <hr class="line">
 <b>8. Validity </b><br><br>
-We are constantly striving to develop our website and use new technologies. Therefore, it may be necessary to change this Privacy Policy, or to adapt. We therefore reserve the right to change this policy at any time with effect for the future. Please therefore visit this page regularly and read the current privacy policy from time to time by.
+We are constantly striving to develop our website and use new technologies. Therefore, it may be necessary to change this Privacy Policy, or to adapt. We therefore reserve the right to change this policy at any time with effect for the future. Please therefore visit this page regularly and read by the current privacy policy from time to time.
 <hr class="line">
 (As of 12/2012) 
     </div>			
@@ -362,19 +370,42 @@ We are constantly striving to develop our website and use new technologies. Ther
 -->
 </script>
 
-<!-- jquery -->
+<script type="text/javascript" src="/static/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/static/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="/static/js/waypoints.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery.counterup.min.js"></script>        
+<script type="text/javascript" src="/static/scripte/markerclusterer.orig.js"></script>     
+<script>
+	jQuery(document).ready(function() {
 
-<script type="application/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
-<script type="application/javascript" src="/static/scripte/ui.core.js"></script>
-<script type="application/javascript" src="/static/scripte/ui.dialog.js"></script>
-<script type="application/javascript" src="/static/scripte/ui.draggable.js"></script>
-<script type="application/javascript" src="/static/scripte/ui.resizable.js"></script>
-<script type="application/javascript" src="/static/scripte/ui.tabs.js"></script>
-<script type="application/javascript" src="/static/scripte/jquery.tablesorter.js"></script>
-<script type="application/javascript" src="/static/scripte/jquery.tablesorter.pager.js"></script> 
-<script type="application/javascript" src="/static/scripte/jquery.metadata.js"></script>
-<script type="application/javascript" src="/static/scripte/jquery.ahover.js"></script>
+		$('#url-option-collapse').on('hide.bs.collapse', function () {
+			$('#lightbulb').addClass('active');
 
+		});
+		$('#url-option-collapse').on('show.bs.collapse', function () {
+			$('#lightbulb').removeClass('active');
+		});
+		
+        jQuery('.counter').counterUp({
+            delay: 10,
+            time: 1000
+        });
+
+	});
+	function writeEmail(user, host, tld, write) {
+    var elem = document.getElementById('email');
+
+    if(elem) {
+        elem.innerHTML = user + '@' + host + '.' + tld;
+    }
+    else {
+        if(write) {
+            document.write(user + '@' + host + '.' + tld);
+        }
+    }
+} 
+</script>
 
 <script type="application/javascript">
 <!-- <![CDATA[
@@ -407,7 +438,7 @@ We are constantly striving to develop our website and use new technologies. Ther
 		$("#tablepager").tablesorterPager({container: $("#pager")}); 
 	    
 		// Input Default-Value
-	    populateElement('#nick', 'username', '');
+	    populateElement('#nick', 'Username', '');
 		// Tabs
 	    $("#tabs").tabs({ selected: 1 });
 		
@@ -415,21 +446,6 @@ We are constantly striving to develop our website and use new technologies. Ther
 			shorturloptions();
 		}
         
-        ZeroClipboard.setMoviePath( '/static/flash/ZeroClipboard.swf' );
-
-        var clip = new ZeroClipboard.Client();
-        clip.setText( $("#shorturl").val() );
-        clip.glue( 'copy_shorturl' );
-        var clip2 = new ZeroClipboard.Client();
-        clip2.setText( $("#statisticurl").val() );
-        clip2.glue( 'copy_statisticurl' );
-        var clip3 = new ZeroClipboard.Client();
-        clip3.setText( $("#qrcodeurl").val() );
-        clip3.glue( 'copy_qrcodeurl' );
-        var clip4 = new ZeroClipboard.Client();
-        clip4.setText( $("#qrcodeimgurl").val() );
-        clip4.glue( 'copy_qrcodeimgurl' );
-
 		$("#urlgroup_create_input").ready(function(){
 			$("#count_urls").text("0/100 addresses found");
 		})
@@ -502,17 +518,6 @@ We are constantly striving to develop our website and use new technologies. Ther
 		//$('#custom_shorturl_button').remove();
 	};
 	
-    var addthis_config = {
-        ui_language: 'en',
-        ui_click: true,
-        data_track_linkbacks: true,
-        services_compact: 'favorites,twitter,facebook,email,wordpress,more',
-    }
-    
-    var addthis_share = {
-        templates: {
-               twitter: '{{lurl}}',
-           }
     }
     function show(toShow){
         $('#' + toShow).toggle();
@@ -528,28 +533,6 @@ We are constantly striving to develop our website and use new technologies. Ther
         
     });
 // ]]> -->
-</script>
-<script type="application/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=shorturl"></script>
-
-
-
-<script type="application/javascript" src="/static/scripte/swfobjects.js"></script>
-<script type="application/javascript" src="/static/scripte/markerclusterer.js"></script>
-<script type="application/javascript" src="/static/scripte/ZeroClipboard.js"></script>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2462546-29']);
-  _gaq.push(['_setDomainName', 'none']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
 </script>
     
 
