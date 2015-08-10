@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c3gold.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321085735id_/http%3A//c3gold.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c3gold.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811015537id_/http%3A//c3gold.com/privacy_policy) for the most accurate reproduction.*
 
 # Buy, Sell & Exchange Perfect Money, Bitcoins, Payza, WebMoney, Egopay, Paypal
 
