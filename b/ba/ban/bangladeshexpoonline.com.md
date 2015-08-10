@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangladeshexpoonline.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715193127id_/http%3A//www.bangladeshexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladeshexpoonline.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810055728id_/http%3A//bangladeshexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
