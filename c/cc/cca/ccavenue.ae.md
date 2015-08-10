@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccavenue.ae privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315003037id_/https%3A//www.ccavenue.ae/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccavenue.ae privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810084408id_/https%3A//www.ccavenue.ae/privacy.jsp) for the most accurate reproduction.*
 
 # CCAvenue Privacy Policy – Dubai’s Top Payment Gateway
 
