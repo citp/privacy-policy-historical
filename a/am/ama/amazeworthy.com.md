@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amazeworthy.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722190313id_/https%3A//amazeworthy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazeworthy.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810214535id_/http%3A//amazeworthy.com/privacy) for the most accurate reproduction.*
 
-# Likes.com
+# amazeworthy
 
 Effective Date: 27 August 2013
 
