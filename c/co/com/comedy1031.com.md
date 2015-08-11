@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedy1031.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622012329id_/http%3A//lincolnfinancialmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedy1031.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811034349id_/http%3A//lincolnfinancialmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Lincoln Financial Media
 
