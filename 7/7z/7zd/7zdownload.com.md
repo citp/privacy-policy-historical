@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7zdownload.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206053506id_/http%3A//7zdownload.com/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7zdownload.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811185107id_/http%3A//7zdownload.com/en/policy) for the most accurate reproduction.*
 
 # 7zdownload.com
 
@@ -8,7 +8,7 @@ This website collects some Personal Data of its Users.
 
 Information rights and express consent
 
-According to what is set forth in current Privacy Policy, Remmert Marketing, as owner of the Website, informs the User that files containing personal data from users and customers have been created by 7zdownload, which accepts responsibility for the files, duly filed with the corresponding public entity.
+According to what is set forth in current Privacy Policy, Advertiso GmbH, as owner of the Website, informs the User that files containing personal data from users and customers have been created by 7zdownload, which accepts responsibility for the files, duly filed with the corresponding public entity.
 
 7zdownload does not sell or rent its users' personal data to third parties with commercial purposes without the user' prior consent. However, 7zdownload is enabled to disclose personal data in order to (i) fulfill a legal requirement, (ii) demand the fulfillment of our policies, (iii) answer claims regarding the breach or protection of any third party's rights or its property or security, in the event they are affected by advertisements or contents. 7zdownload is enabled, as well, to share or transfer your personal information to:
 
@@ -20,9 +20,9 @@ Parties processing the data
 
 Owner of the Data Processing System
 
-Remmert Marketing   
-Mielerstede 6   
-22927 Großhansdorf   
+Advertiso GmbH   
+Pappelallee 28   
+22089 Hamburg   
 Email: kontakt@u3media.de
 
 Kinds of Data
@@ -221,9 +221,9 @@ The User is entitled to access this information, correct it if there are mistake
 
 Users can exercise these rights via the configuration menu in their personal profile, which they can access using their email address and password. If users experience problems while exercising their online rights or if they have doubts or questions related to our Personal Data Protection Policy they can contact us directly at: 
 
-Remmert Marketing   
-Mielerstede 6   
-22927 Großhansdorf   
+Advertiso GmbH   
+Pappelallee 28   
+22089 Hamburg   
 Email: kontakt@u3media.de
 
 Modification of the Data Protection Policy
