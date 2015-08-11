@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackbrazilianshemales.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206155158id_/http%3A//www.blackbrazilianshemales.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbrazilianshemales.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811232734id_/http%3A//www.blackbrazilianshemales.com/privacy.php) for the most accurate reproduction.*
 
 # BlackBrazilianShemales.com - Privacy
 
