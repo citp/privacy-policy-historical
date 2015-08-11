@@ -1,69 +1,48 @@
-> *The following text is extracted and transformed from the sexpose.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127023801id_/http%3A//www.sexpose.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexpose.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811081431id_/http%3A//www.bravotube.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Sexpose!
+# Privacy Policy
 
-Effective June 2012
+###  PRIVACY POLICY 
 
-This is Sexpose's Privacy Policy to inform about the procedures and rules regarding the collection, use and exposure of personal information of users of www.sexpose.com (Site). The Privacy Policy applies only to the information users provide through the site and may be updated on occasion. It will be notified on the Site of any material changes of this Privacy Policy. It is advised to consult this policy periodically for any changes that may occur.
+for [BravoTube.net](http://www.bravotube.net/)  
+Effective Date: 10 August, 2015  
+Last Modified: 16 December, 2011 
 
-Membership and/or viewing privileges of the Site is expressly and strictly limited to adults 18 years of age and over, or who have attained the age of majority in their respective state/country. All persons who do not meet these criteria are severely restricted from accessing or viewing the contents of the Site. There is no intention to collect any personal information from persons below the age of majority.
+  * I. **General**
+    * A.The operative parties referred to in this policy are Company and You, the User of this site. 
+      * 1.Anycom Publishing is the publisher and operator of the website(s) listed at the beginning of this Policy. Hereinafter, Anycom Publishing shall be referred to as “Company”. When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms “the Site” or “Site” are used, these terms refer to the website(s) listed at the beginning of this Policy. 
+      * 2. **You, the User** – As the User of this Site, this Policy will refer to the User as “You” or through any applicable second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns. 
+    * B.This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site. 
+  * II. **Revisions to this Policy**
+  * We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after You have clicked the “refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “last modified” dates indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting. 
+  * III. **Personal Information that We Collect**
+    * Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows: 
+    * A. **Members** \- Members are those Users who interact with Our services in a way which requires registration. Members are required to provide a valid e-mail address and username to complete registration. 
+    * B. **Browsers** \- Browsers are visitors to the Site who never enter into any active data collection pages. Browsers may, however, view content uploaded by Members. Any information gathered from Browsers is also gathered from Members. 
+  * IV. **How We Collect Information from You**
+    * A. **Passive Collection** – We collect information about You in order to enhance Your experience on the Site. The information collected includes, but is not limited to, Your User IP address, browser information and other session data. 
+    * B. **Active Collection** – We collect information from You, such as a username and e-mail address when You complete the registration form to sign up for Your membership on Our Site, this information will be used to generate an automatic Member profile listing your geographic location. Providing any additional information for Your Member profile is completely optional. Locations for data collection are registration or personal profile pages, but We reserve the right to add additional information collection portals. 
+  * V. **How We Use Your Information**
+  * The primary use for Your information is to provide You with services You have requested and/or paid for. We also use Your information to deliver customized services, account information and Site updates to You. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We additionally may use the personal information of Users whose membership has expired or has been cancelled in order to market Our services to these individuals in the future. 
+  * When You provide optional information on Your profile, You should consider all such information to be public, and accessible by anyone unless otherwise stated. Even if You choose not to make public any personally identifying information, You should understand that there is a possibility that You may still be identified through the information You provided. You understand that using this Site places You in control of all of the information displayed on Your profile, with the exception of Your username and geographic location, and You are fully responsible for any consequences arising out of such information You choose to publish. 
+  * VI. **Special Cases.**
+  * It is Our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information about Browsers or Members, or information regarding Your use of the services or Site(s) accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including: 
+    * 1.To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, or governmental, or legal requests for such information; 
+    * 2.To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or other User policies; 
+    * 3.To operate Our services properly; 
+    * 4.To protect ourselves, Our Members, and the general public. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
+    * 5.We may cooperate with law enforcement authorities seeking information about Our end users to the extent required by applicable law. We may cooperate with private party litigants, governmental administrative or regulatory agencies, and investigative journalists if We are legally advised to do so after attempting to invoke any necessary legal protections pertaining to user information. Examples of such cooperation include lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. 
+    * 6.Anyone who violates Our Anti-Spam Policy, if applicable, may have their personal information made public. If there is any investigation on any unlawful spamming, or any use of bulk e-mail in order to promote Your User profile, or any use of bulk e-mail in any manner that leads back to Our Site, or any one of Our Sites, We will cooperate with any and all parties completely and freely in order to see that Your bulk e-mail activities stop. 
+  * VII. **Transmittals from Us**
+  * We may send You periodic announcements including the details of Our existing and new programs. You may opt out of these announcements by contacting [unsubscribe@bravotube.net](mailto:unsubscribe@bravotube.net) or by clicking the opt-out link at the bottom of these emails. If You opt out of these marketing emails, You may still receive system notices and other information that is specifically related to Your account. 
+  * If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law. 
+  * VIII. **Public Areas** : 
+  * Any information provided in a forum, commentary areas, profile, Member directory, or other related service should be considered to be public information. We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such forum or medium. 
+  * IX. **Our Commitment to Data Security.**
+  * We take measures to protect the transmission of all sensitive end-user information. We make every effort to ensure the integrity and security of Our network and systems. Nevertheless, We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures. 
+  * X. **How to Access or Modify Your Information.**
+  * We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page or the profile editing page. 
+  * XI. **Where to Direct Questions About Our Privacy Policy.**
+  * If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [support@bravotube.net](mailto:support@bravotube.net). 
 
-All appropriate steps to protect and limit the risk of loss, damage or misuse of the users' Data is taken by Sexpose.
 
-The objectives behind the data collection are to improve the Site's application, services, features and content, to administer the membership and to let users enjoy and navigate easily on the Site.
-
-Personal Information:
-
-Non-Registered users are able to watch pictures and videos without registering and without any information needed or processed. However, the visitor's IP address will be recorded in the event any misappropriation of information and/or content occurs.
-
-Registered Members: To upload pictures and videos, and to access other related features, registration is mandatory. To register, the following information is required: username and e-mail address. This data, with exception of the e-mail and IP addresses, becomes accessible public information.
-
-Content Uploaded to the Site:
-
-Any personal information, picture or video that the user, voluntarily, discloses online, becomes publicly available and can be collected and used by others.
-
-Cookies:
-
-One or more cookies will be sent to the user's computer to identify the browser's session. Sexpose uses both session cookies as persistent cookies. The removal of persistent cookies may cause some of the site's features to not function properly.
-
-Log File Information:
-
-Some information regarding your web browser's request, such as IP address, browser type, browser language, referring URL, platform type, domain names and the date and time, will be recorded by Sexpose's servers automatically.
-
-Emails:
-
-Record of that correspondence may be kept once an email is sent to us.
-
-All the personal information submitted to Sexpose is used to provide the user with special, personalized site features.
-
-The chosen username is displayed to other Members alongside the content uploaded, including pictures, videos, comments and likes.
-
-Any picture or video submitted to Sexpose might be redistributed through the internet and other media channels, and viewed by the general public.
-
-The e-mail address and other personal information may be used for commercial or marketing messages.
-
-The e-mail address may also be used for non-marketing or administrative purposes, for example, the notification of key website changes or customer service purposes.
-
-Opt-in communication: The Subscriber expressly and specifically acknowledges and agrees that his/her e-mail address and other means of communication may be used to send him/her offers, information or any other commercially oriented e-mails or other means of communication, with the option to express the subscriber's preference by either clicking or entering "accept" (alternatively "yes") or "decline" (alternatively "no"). By accepting, the subscriber indicates that "OPTS-IN" to that offer and thereby agrees and assents that his/her information, including the e-mail address and data may be used for that matter.
-
-Opt-out communication: The Subscriber expressly and specifically acknowledges and agrees that his/her e-mail address or other means of communication may not be used to send him/her offers, information or any other commercially oriented e-mails or other means of communication.
-
-The user's traffic information is analyzed to help streamline the marketing and hosting operations and improve the quality of the Sexpose user experience.
-
-If required to do so, Sexpose may release data to comply with any legal obligation or to enforce the Terms of Service and other agreements; or to protect the rights, property or safety of Sexpose or its subscribers or other. This includes exchanging information with other companies and organizations, including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity, whether or not identified in the Terms of Service. It is Sexpose's policy, whenever possible and legally permissible, to promptly notify its members upon an obligation to supply data to any third party.
-
-Should any user deliberately upload any illegal material, Sexpose shall forward all available information to all relevant authorities and do so without notice.
-
-The personal information, such as e-mail address, is not shared with any other third-party companies for their commercial or marketing use without your consent, except as part of a specific program or feature for which the user will have the possibility to opt-in or opt-out.
-
-This site contains links to other websites. If the user chooses to visit an advertiser by clicking on a banner ad or other type of advertisement, or click on another third party link, it will be directed to that third party's website. The presentation of a link to another website, a banner ad or other type of advertisement, is not an endorsement, authorization or representation of an affiliation with that third party, nor is it an endorsement of their own privacy or information security policies. No control is exercised over third party websites. They may place their own cookies or other files on the members' computer, collect data or solicit personal information from them. The other sites follow different rules regarding the use of the personal information submitted to them. It is encouraged to read the privacy policies and statements of any other website visited.
-
-All members are given, or choose, a password, which enables them to access some parts of the Site. The members are responsible for keeping this password confidential and not share it with anyone.
-
-As the transmission of information via internet is not completely secure, Sexpose uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of the members' information. However, Sexpose cannot ensure or warrant the security of any information transmitted to the site, as the users do so at their own risk.
-
-Phishing and identity theft are of great concern to all involved in Sexpose. Safeguarding information to protect the members from theft identity is a top priority. The user will never, at any time, be requested the credit card information, login information, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
-
-All Members may review, update, correct or delete the personal information in their account by contacting Sexpose or by editing their profile via the site. If a member completely deletes all information, then the account may become deactivated. Commercially reasonable efforts will be used to honor the members' requests. An archived copy of the member's records may be retained, as required by law or for legitimate business purposes.
-
-For any questions regarding this Privacy Policy, please contact: sexpose.webmaster@gmail.com
