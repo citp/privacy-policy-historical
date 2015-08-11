@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arpasuyu.mobi privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204010640id_/http%3A//arpasuyu.mobi/%3Fpage_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arpasuyu.mobi privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811175613id_/http%3A//arpasuyu.mobi/%3Fpage_id%3D11) for the most accurate reproduction.*
 
 # Privacy Policy | ARPA
 
