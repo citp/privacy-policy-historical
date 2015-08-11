@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 247backlinks.com privacy policy that was archived on 2014-08-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140817072903id_/http%3A//247backlinks.info/privacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 247backlinks.com privacy policy that was archived on 2015-08-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150811035120id_/http%3A//247backlinks.info/privacyPolicy.php) for the most accurate reproduction.-->
 
 <html><head>
 		
@@ -14,12 +14,32 @@
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	
+        
+        <!--
+        OLD VERSION OF jQUERY BELOW v1.7.1 (WAS RELEASED BACK ON November 21, 2011 - DAMN!)
+        
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	-->
+        
+        <!--
+        NEW VERSION OF JQUERY BELOW
+        -->
+        <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        
+        
+        <!--
+        OLD VERSION OF jquery UI 1.8.16 (WAS RELEASED BACK ON August 18, 2011 - LOL!!)
 	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js" type="text/javascript"></script>
-	
-	
 	<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css" type="text/css">
+        -->
+        
+        <!--
+        
+        NEW 1.11.4 VERSION OF jQUERY UI
+        -->
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+        
 	
 	<link href="inc/jqueryuithemes/flick/jquery-ui-1.8.16.custom.css" rel="stylesheet" type="text/css">
 	
@@ -28,8 +48,10 @@
 	<link href="inc/jqueryuithemes/flick/jquery.ui.datepicker.css" rel="stylesheet" type="text/css">
 	
 	
+        <!-- GET RID OF THIS GOOGLE FONT... PRETTY POINTLESS IMHO 
 	<link href="http://fonts.googleapis.com/css?family=Passion+One" rel="stylesheet" type="text/css">
-	
+	-->
+        
 	<script src="inc/main.js" type="text/javascript"></script>
 	
 	<link href="inc/style.css" rel="stylesheet" type="text/css">
@@ -59,19 +81,19 @@
 		<div id="login_top_right_homepage">
 			
 						
-			<form method="post" action="login.php" name="homepageLoginForm" target="_BLANK">
+			<form method="post" action="login.php" name="homepageLoginForm" target="_BLANK" onsubmit="return submitLoginForm()">
 			
 				<table id="homepage_login_table">
 				
 					<tbody><tr>
 						
 						<td>
-							<p>username:</p>
+							<p>email:</p>
 						</td>
 						
 						<td>
 							
-							<input type="text" name="username" value="">
+							<input required="" placeholder="Enter a valid email address" type="email" name="username" value="email@address.com" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 							
 						</td>
 						
@@ -85,7 +107,7 @@
 						
 						<td>
 							
-							<input type="password" name="password" value="">
+							<input required="" type="password" name="password" value="password" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;">
 							
 						</td>
 						
@@ -94,7 +116,9 @@
 				</tbody></table>
 				
 				<div id="homepage_login_button_div">
-					<p><span onclick="javascript: submitLoginForm();" id="homepage_login_button">Login</span></p>
+					<!--<p><span onclick="javascript: submitLoginForm();" id="homepage_login_button">Login</span></p>
+                                        -->
+                                        <input type="submit" value="Sign In">
 				</div>
 			</form>
 			
@@ -130,29 +154,26 @@
 			
 			<hr>
 			
-			<p>© 2011-2014 247backlinks.info - 
+			<p>© 2011-2015 247backlinks.info - 
 				<a href="/" target="_BLANK">Home</a> - 
 				<a href="faq.php" target="_BLANK">FAQ</a> - 
+				<!--
 				<a href="http://247backlinkshelp.com/" target="_BLANK">Help Forums</a> - 
+				-->
 				<a href="tos.php" target="_BLANK" title="Click here to read the Terms and Conditions of using this website.">Terms</a> - 
 				<a href="privacyPolicy.php" target="_BLANK" title="Click here to read this website's Privacy Policy.">Privacy</a> - 
-				<a href="mailto:contact@247backlinks.info" target="_BLANK">Contact Us</a>
+				<a href="https://www.reddit.com/r/247Backlinks/" target="_BLANK">Contact Us</a>
 			</p>
-			
-			<script type="text/javascript">
-				
-				var _gaq = _gaq || [];
-				_gaq.push(['_setAccount', 'UA-25828427-1']);
-				_gaq.push(['_trackPageview']);
-				
-				(function() {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-				})();
-				
-			</script>
-			
+
+                        <script>
+                          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                          ga('create', 'UA-25828427-1', 'auto');
+                          ga('send', 'pageview');
+                        </script>
+                        
 		</div>		
 	
 </body></html>
