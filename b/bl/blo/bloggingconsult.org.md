@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggingconsult.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608130735id_/http%3A//bloggingconsult.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingconsult.org privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811224055id_/http%3A//bloggingconsult.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BLOG|SEO
+# Privacy Policy - BlogTips
 
 This Privacy Policy governs the manner in which Bloggingconsult collects, uses, maintains and discloses information collected from users (each, a “User”) of the bloggingconsult.org website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogging Consult.
 
