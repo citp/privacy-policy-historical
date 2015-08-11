@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blusaver.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206185615id_/http%3A//blusaver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blusaver.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811181602id_/http%3A//blusaver.com/privacy.html) for the most accurate reproduction.*
 
 # bluSaver.com
 
