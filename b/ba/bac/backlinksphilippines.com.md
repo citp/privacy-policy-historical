@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinksphilippines.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615221920id_/http%3A//backlinksphilippines.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinksphilippines.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811152201id_/http%3A//backlinksphilippines.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
