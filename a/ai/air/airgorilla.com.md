@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airgorilla.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416000457id_/http%3A//www.airgorilla.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgorilla.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811044849id_/http%3A//www.airgorilla.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # AirGorilla Privacy Policy
 
