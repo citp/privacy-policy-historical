@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the glenhopkins.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607161652id_/http%3A//netsuccesssystems.com/legal-notices/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glenhopkins.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811092620id_/http%3A//glenhopkins.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Net Success Systems
-
-**General Privacy Policies**
+# Privacy Policy | Glen Hopkins
 
 We respect your interest in your privacy and as a result we have created this informational disclosure.
 
