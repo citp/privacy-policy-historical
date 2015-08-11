@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findyourdegree.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318013330id_/http%3A//www.findyourdegree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findyourdegree.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811051117id_/http%3A//www.findyourdegree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Earn an Online Degree - Online College Search from Top Online Universities - FindYourDegree.com
 
