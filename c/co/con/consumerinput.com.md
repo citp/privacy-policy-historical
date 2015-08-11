@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316202250id_/https%3A//www.consumerinput.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811040846id_/https%3A//www.consumerinput.com/privacy) for the most accurate reproduction.*
 
 # None
 
-### Last modified: September 10, 2014
+### Last modified: March 31, 2015
 
 [View archived versions here](https://web.archive.org/privacy_archive/).
 
-If you joined the Consumer Input Research Panel prior to September 10, 2014, then this new privacy policy below will take effect for you on October 9, 2014. Until that time, the prior privacy policy (accessible here: https://www.consumerinput.com/privacy_January29_2014/) will continue to apply to you.
-
-If you are upgrading the Software from an older version, re-joining this research program, or otherwise accepting the latest version of this Policy, you agree that after doing so, your data previously collected by Compete under your prior participation in the program may be used as described in this Policy. You may always uninstall the Software by following the instructions provided [here](https://web.archive.org/removal/).
+If you are upgrading the Software from an older version, re-joining this research program, or otherwise accepting the latest version of this Policy, you agree that after doing so, your data previously collected by Compete under your prior participation in the program may be used as described in this Policy. You may always uninstall the Software by following the instructions provided [here](https://web.archive.org/Removal/).
 
 ### Consumer Input Download Privacy Policy
 
-This privacy policy ("Policy") describes the commitment that Compete, Inc. ("Compete", "We", or "Us"), which operates the Consumer Input research panel, makes to protect your privacy. The Policy describes our data collection and use practices for consumers who download the Compete Consumer Input data collection application (the "Software"). The Software may have been installed through the Consumer Input [website](https://web.archive.org/), a partner website, or through a partner's software product with which the Software was bundled. This Policy applies only to the operation of the Software and not to any other application, website or service. While we encourage our partners to comply with best practices regarding consumer privacy, we are not responsible for the privacy practices of any third party product with which the Software may be bundled.
+This privacy policy ("Policy") describes the commitment that Compete, Inc. ("Compete", "We", or "Us"), which operates the Consumer Input research panel, makes to protect your privacy. The Policy describes our data collection and use practices for consumers who download the Compete Consumer Input data collection application (the "Software"). The Software may have been installed through the Consumer Input [website](https://web.archive.org/), a partner website, or through a partner's software product with which the Software was bundled. This Policy applies only to the operation of the Software and not to any other application, website or service. While we encourage our partners to comply with best practices regarding consumer privacy, we are not responsible for the privacy practices of any third party product with which the Software may be bundled.
 
-Compete is located in Boston, Massachusetts, with offices throughout the U.S. For more information, please visit http://www.compete.com/.
+Compete is located in Boston, Massachusetts, with offices throughout the U.S. For more information, please visit https://www.compete.com/.
 
-This privacy policy is divided into the following sub-topics. If you have any additional questions, you may reach us at privacy@compete.com.
+This privacy policy is divided into the following sub-topics. If you have any additional questions, you may reach us at [privacy@compete.com](mailto:privacy@compete.com).
 
 **Relevant Links for this Policy:**
 
@@ -62,7 +60,7 @@ In greater detail, the Software collects the following types of information:
 
 3\. Information on secure pages: This includes information and content from protected or secure pages that you access, such as online accounts or the content of complete and incomplete consumer transactions when you are checking out through a website's shopping cart, even if the website makes this information unreadable to others.
 
-4\. System information: This includes information about the computer and browser that you are running on, including the IP address of the computer, unique identifiers used by websites and applications, how the Software is operating, and which other applications are installed or running.
+4\. System information: This includes information about the computer and browser that you are running on, including the IP address of the computer, unique identifiers used by websites and applications (such as those found in cookies), how the Software is operating, and which other applications are installed or running. 
 
 5\. Information you provide: In some cases, we may invite you to participate in surveys, in which case your responses are considered information collected under, and subject to, this Policy.
 
@@ -80,13 +78,13 @@ Despite our efforts, certain personally identifiable or sensitive information mi
 
 **Cookies**
 
-We may collect certain information in part through the use of a web technology called a "cookie." A cookie is a small text file that is saved to your computer using your web browser, which allows websites to recognize you and store preferences and other information if you return to the website using the same computer and browser.
+We may collect certain information in part through the use of a web technology called a "cookie." Our cookie is a small text file that is saved to your computer using your web browser, which allows websites to recognize you and store preferences and other information if you return to the website using the same computer and browser.
 
 We use temporary session cookies during the download and registration process to correctly identify the research panel that you have joined, enable the creation of a unique, anonymous identifier and to trigger the download process.
 
-We may use cookies apart from the Software and link that data to other data in your profile, including data that is collected through your use of the Software.
+We may use our cookies apart from the Software and link that data to other data in your profile, including data that is collected through your use of the Software. Please note that this only applies to Compete and or Consumer Input cookies; third party cookies are covered elsewhere in this Policy.
 
-You may remove cookies and/or control their operation by adjusting your browser settings. Please visit the 'help' section of your browser for more information.
+You may remove our cookies and/or control their operation by adjusting your browser settings. Please visit the 'help' section of your browser for more information.
 
 **Information Use and Sharing**
 
@@ -98,9 +96,9 @@ _Media Use Analysis_ \- Your data is combined with data from other users to form
 
 _Profile Building_ \- We may use the personally identifiable information you have provided to us outside of the Software or an identifier associated with you that by itself is anonymous (such as an IP address or similar identifier) to get additional information about you from other public and private data sources. These third party data sources may provide us information on your purchases (both online and off-line), your household and lifestyle information, and broader demographic and personal history details. We may combine this information with other information to create and enhance profiles that are shared as described in this Policy. For example, by looking at both web browsing activity and in-store purchases, our research may identify a consumer segment whose members visit certain websites when they are in the process of researching a product (like a television, computer, or automobile) but are likely to make the actual purchase in a physical store. This data can help the manufacturer or seller of that product better understand where to find customers who may be interested in their products.
 
-_Multi-program Data_ \- If you opted into this Policy after September 10, 2014 or opted in to allow combined data use from multiple devices or multiple research programs administered by Us (whether directly or indirectly, and regardless of device and applicable policy for each such other program), we may use any information we have about you to match the data collected through this program with the data collected through such other panels and programs (including data collected in the past), and use the combined "multi-use" data pursuant to this Policy.
+_Multi-program Data_ \- If you opted into this Policy after September 10, 2014 or opted in to allow combined data use from multiple devices or multiple research programs administered by Us (whether directly or indirectly, and regardless of device and applicable policy for any other program), we may use any information we have about you to match the data collected through this program with the data collected through such other panels and programs (including data collected in the past), and use the combined "multi-use" data pursuant to this Policy.
 
-Consumer Analysis - We may use your data, including personally identifiable information we have obtained directly or through a trusted third party vendor, to enhance our or our customer's consumer segments explained above. We use personally identifiable information in this way when our customer already has this information because it is usually the only way to match our profiles with those of our customers. Sometimes we may gather information from your clickstream data, such as a session ID, or site user ID and share it with a third party in order to match your information with the information possessed by that third party as part of our services. Although in each of these cases we permit these other parties and our customers to use your information to enhance their broader consumer segments, to which they then may target advertising, we prohibit these parties from using your information to target advertising to you individually. So in the normal course of your web browsing, you may be a member of a broader consumer segment that sees particular advertising that your data helped create.
+_Consumer Analysis_ \- We may use your data, including personally identifiable information we have obtained directly or through a trusted third party vendor, to enhance our or our customer's consumer profiles explained above. We use personally identifiable information in this way when our customer already has this information because it is usually the only way to match our profiles with those of our customers. Sometimes we may gather information from your clickstream data, such as a session ID, or site user ID and share it with a third party in order to match your information with the information possessed by that third party as part of our services. Although in each of these cases we permit these other parties and our customers to use your information to enhance their broader consumer segments, to which they then may target advertising, we prohibit these parties from using your information to target advertising to you individually. So in the normal course of your web browsing, you may be a member of a broader consumer segment that sees particular advertising that your data helped create.
 
 _User-Level Data_ \- On occasion, we may share user-level data we collected from you with third parties (including affiliates), for purposes beyond the specific examples noted in this Policy. User-level data is information that is associated with your specific device and is not aggregated with other data. For example, we may share data with a third party that reveals that you have viewed certain sites or used certain apps or features, but you will not be personally identified with such information. Rather, the user-level data will be associated with an anonymous identifier (such as user 'X'). We prohibit the third parties with whom we share such user-level data from trying to uncover the actual identity of 'X', except as may be otherwise allowed under this Policy, such as in the "Consumer Analysis" section above.
 
@@ -114,7 +112,7 @@ When working with a third party (such as another data provider) to supplement yo
 
 We may share information about you with authorized vendors and service providers in connection with the services that they perform for us. These third parties are prohibited from using your information for other purposes.
 
-**Additional Disclosures for your Information**
+**Additional Disclosures of your Information**
 
 In the event Compete goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your information may be among the assets transferred.
 
@@ -122,11 +120,11 @@ We also reserve the right to disclose your information as required by law, court
 
 **How to Opt-Out from the Panel; Software Removal**
 
-For users who have downloaded the Software directly from Compete, you can opt-out of the Compete research panel at any time by removing the Software from your device. For instructions on how to do so, please read the [Compete Opt-Out and Software Removal Instructions](https://web.archive.org/removal/).
+For users who have downloaded the Software directly from Compete, you can opt-out of the Compete research panel at any time by removing the Software from your device. For instructions on how to do so, please read the [Compete Opt-Out and Software Removal Instructions](https://web.archive.org/Removal/).
 
 In cases where the Software is integrated into a partner's application (such as a toolbar), you can opt-out of the Compete research panel, either by removing the partner application or by disabling the collection features of the application if the partner has provided such functionality.
 
-If you are not able to quickly and easily opt-out from the panel or data collection, we can and will help you if you ask. If you have any questions regarding removal or opting-out, you should contact us at privacy@compete.com, (888) 744-6028 or +1 (617) 933-5699.
+If you are not able to quickly and easily opt-out from the panel or data collection, we can and will help you if you ask. If you have any questions regarding removal or opting-out, you should contact us at [privacy@compete.com](mailto:privacy@compete.com), (888) 744-6028 or +1 (617) 933-5699.
 
 We do not respond to or honor do not track signals or similar mechanisms transmitted by web browsers.
 
@@ -138,7 +136,7 @@ We have put in place reasonable administrative, technical, and physical safeguar
 
 **Data Access Rights**
 
-If you would like to modify or remove personally identifiable information about you that is being held by Compete, then you should contact us with your specific requests using the information in the Contact Us section below. Such access rights do not include the ability to modify or remove clickstream data, information that has been inadvertently collected as described above in the Protecting Personal & Sensitive Information section or information that has already been shared with a third party as permitted by this Policy.
+If you would like to modify or remove personally identifiable information about you that is being held by Compete, then you should contact us with your specific requests using the information in the Contact Us section below. We will respond to your access request within 30 days. Such access rights do not include the ability to modify or remove clickstream data, information that has been inadvertently collected as described above in the Protecting Personal & Sensitive Information section or information that has already been shared with a third party as permitted by this Policy.
 
 **Data Retention**
 
@@ -152,7 +150,7 @@ Compete does not seek to collect personal information from users under the age o
 
 If we are going to use your information in a manner materially different from that stated in our Policy at the time of collection, you will be notified via email or via the Software by Compete or by our data partner directly. You will have a choice as to whether or not we use your information in this different manner and instructions for how to make that choice will be included in the notification.
 
-If we make any non-material changes to our privacy practices that do not affect information already stored in our database or for future collection, we will post a prominent notice on our website notifying our members that there is a change and pointing them to the revised Policy.
+If we make any changes to our privacy practices that do not materially affect information already stored in our database or for future collection, we will post a prominent notice on our website notifying our members that there is a change and pointing them to the revised Policy.
 
 **Data Stored in the United States**
 
@@ -160,15 +158,23 @@ Our servers are maintained in the United States of America. By using the Softwar
 
 **Data from EU residents**
 
-Compete complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Compete has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Compete's certification, please visit http://www.export.gov/safeharbor/.
+Compete complies with the U.S. — E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Compete has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Compete's certification, please visit <http://www.export.gov/safeharbor/>.
 
-If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [clicking here](https://feedback-form.truste.com/watchdog/request/), fax to 415-520-3420, or mail to [TRUSTe Safe Harbor Compliance Dept.](http://www.truste.com/about-TRUSTe/contact-us) (click link for mailing address). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](https://feedback-form.truste.com/watchdog/request) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
+If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with the International Center for Dispute Resolution, the international division of the American Arbitration Association (ICDR/AAA), using this URL (<https://apps.adr.org/webfile>),fax to 877-304-8457, or mail to International Centre for Dispute Resolution at the following address:
+
+International Centre for Dispute Resolution   
+A Division of the American Arbitration Association   
+Case Filing Services   
+1101 Laurel Oak Road, Suite 100   
+Voorhees, NJ 08043 
+
+If you are faxing or mailing ICDR/AAA to lodge a complaint, you must use the form found at <https://apps.adr.org/webfile>. For information about ICDR/AAA, use the URL <https://go.adr.org/safeharbor>.
 
 **Contact Us**
 
-If we have any personally identifiable information about you, you may correct, update or delete your contact information by contacting us at support@consumerinput.com. We will respond to your access request within 30 days.
+For general support inquiries please contact us at [support@consumerinput.com](mailto:support@consumerinput.com) or (888) 744-6028 or +1 (617) 933-5699.
 
-If you have questions related to this Policy, the data that has been collected by the Software, or other privacy concerns, please contact us at privacy@compete.com or by writing to us at:
+If you have questions related to this Policy, the data that has been collected by the Software, or other privacy concerns, please contact us at [privacy@consumerinput.com](mailto:privacy@consumerinput.com) or by writing to us at:
 
 Privacy Officer   
 Compete   
