@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullhornstaffing.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206094552id_/https%3A//bullhornstaffing.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullhornstaffing.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811061904id_/http%3A//bullhornstaffing.com/privacy.htm) for the most accurate reproduction.*
 
 # Bullhorn, Inc. Privacy Statement
 
