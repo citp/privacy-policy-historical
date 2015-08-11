@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ca-mortgage-rate.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515202858id_/http%3A//ca-mortgage-rate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ca-mortgage-rate.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811200903id_/http%3A//ca-mortgage-rate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mortgage Rates
 
