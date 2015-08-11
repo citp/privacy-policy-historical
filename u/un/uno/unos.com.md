@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010840id_/http%3A//www.unos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unos.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811112300id_/http%3A//www.unos.com/privacy.html) for the most accurate reproduction.*
 
 # Uno Pizzeria & Grill: Privacy Policy
 
