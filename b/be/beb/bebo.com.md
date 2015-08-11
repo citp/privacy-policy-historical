@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bebo.com privacy policy that was archived on 2015-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150109162528id_/http%3A//bebo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebo.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811024554id_/http%3A//www.bebo.com/privacy) for the most accurate reproduction.*
 
 # Bebo - Chat with Attitude
 
-Bebo - Chat with Attitude [](https://web.archive.org/web/20150109162528id_/http%3A//bebo.com/index)
+Bebo - Chat with Attitude [](https://web.archive.org/web/20150811024554id_/http%3A//www.bebo.com/index)
 
   * ## Our Commitment to You
 
@@ -95,7 +95,7 @@ This action will cancel your membership. You will be assured that, Bebo will not
 If you have any questions about this privacy statement, the practices of this website or your dealings with our Site or App, you can contact us by email message to [support@bebo.com](mailto:support@bebo.com "Email the Bebo Team"), or by writing to:
 
 Customer Support  
-Bebo Inc.  
+Pigs In Flight, Inc. d/b/a Bebo and Bebo.com  
 387 Tehama Street  
 San Francisco, CA 94103 
 
