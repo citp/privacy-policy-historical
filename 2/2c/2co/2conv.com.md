@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2conv.com privacy policy that was archived on 2015-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150202142327id_/http%3A//2conv.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2conv.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811152015id_/http%3A//2conv.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy of 2conv.com service
 
