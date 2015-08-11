@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osf.io privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206070509id_/https%3A//github.com/CenterForOpenScience/centerforopenscience.org/blob/master/PRIVACY_POLICY.md) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osf.io privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811024824id_/https%3A//github.com/CenterForOpenScience/centerforopenscience.org/blob/master/PRIVACY_POLICY.md) for the most accurate reproduction.*
 
 # centerforopenscience.org/PRIVACY_POLICY.md at master · CenterForOpenScience/centerforopenscience.org · GitHub
 
@@ -167,6 +167,8 @@ You may access, modify, correct, or delete your personal information controlled 
 You should be aware that information that you've shared with others or that others have copied may also remain visible after you have closed your account or deleted the information from your own profile. In addition, you may not be able to access, correct, or eliminate any information about you that other users have copied or exported out of the Websites, because this information may not be in our organization's control. Your public profile may be displayed in search engine results. 
 
 From time to time COS may email you electronic newsletters, announcements, surveys or other information unrelated to any Project. If you prefer not to receive any or all of these communications, you may opt out by following the directions provided within the electronic newsletters and announcements. COS also may conduct polls and surveys of our users, and your participation in this type of research is at your sole discretion. COS may follow up with you regarding your participation in this research. You may at any time opt out of participating in these polls and surveys. 
+
+Further, COS may send you occasional Service-related emails that you may not opt-out of (e.g. changes or updates to features of our Services that have security or privacy implications, technical and security notices, account verification).
 
 * **DATA RETENTION**
 
