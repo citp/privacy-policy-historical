@@ -1,66 +1,51 @@
-> *The following text is extracted and transformed from the bizham.com privacy policy that was archived on 2014-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141214000658id_/http%3A//www.bizham.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizham.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811053951id_/http%3A//www.wealthresult.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bizham.com
+# Privacy Policy | WealthResult.com
 
-**BIZHAM.COM CARES ABOUT YOUR PRIVACY!**
+We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. This privacy policy is subject to change without notice.
 
-Your privacy is very important to us. Accordingly, we have developed this Policy Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information we may collect from  you. The following outlines our privacy policy.
+**Privacy Regarding Tracking by Third-Parties**
 
-  * Before or at the time of collecting **personal information** , we will identify the purposes for which information is being collected.
-  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+WealthResult.com uses DoubleClick, Google, and other third-party Ad Servers to serve and display Advertisements on this site. WealthResult.com does not provide personally identifiable information to Ad Servers. These Ad Servers and Advertisers may use cookies, pixel trackers, or other internet technology to improve the effectiveness and targeting of Advertisements to you within this site and any other place where that third-party is serving Advertisements.
+
+WealthResult.com does not have access to, nor control over, advertisers’ or ad service providers’ cookies or how they may be used or how they were collected. In many cases, this information could be used to show you ads based on your interests on other Web sites.
+
+You have options and choices about the collection and use of information by third-parties on WealthResult.com:
+
+If you wish to opt out of Advertising companies tracking and tailoring advertisements to your surfing patterns you may do so within the Network Advertising Initiative
+
+Google’s use of the DART cookie enables it and its partners to serve ads to our users based on their visit to WealthResult.com or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the advertising opt-out page.
+
+If a user wish to subscribe to our email updates (provided by Google through Feedburner), we ask for only email  
+address. This subscriptions provide easy tools for users of The Said Service to opt-out of these communications at any time. Your personal information will never be sold or given to a third party. We hate Spam as much as you do.
+
+This privacy policy is reviewed and revised from time to time. You may wish to revisit it regularly. Your use of this site and/or your registration for any of our products or services constitutes an acceptance of this privacy policy.
+
+**Comment Policy**
+
+Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows:
+
+  *     Comments deemed to be spam or questionable will be deleted. Including a link to relevant content is permitted, but comments should be relevant to the post topic.
+  *     Comments including profanity will be deleted.
+  *     Comments containing language or concepts that could be deemed offensive will be deleted.
+  *     Comments that attack a person individually will be deleted.
 
 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+We The Owners of WealthResult.com reserves the right to edit or delete any comments submitted to this blog without notice. This comment policy is subject to change at anytime.
 
-The family of Websites operated by or on behalf of PALNESS MEDIA (the “Services”), including, but not limited to, Web pages located at www.Bizham.com, and/or any of our other Website(s) or social media sites owned and/or operated by PALNESS MEDIA and any of their associated Web pages, are committed to implementing privacy policies and procedures designed to protect your privacy as stated above. To achieve that goal, we want you to understand the information we gather from and about you, how this information is used, shared and safeguarded, and how you can control its use.
+**HOW YOUR INFORMATION IS USED**
 
-In order to offer various products and services to our customers, Bizham.com needs to collect certain information as described in this Privacy Policy.
+The use of your information depends on your consent. By visiting WealthResult.com, you agree to have  “cookies”, log files and/or “clear GIFs” stored onto your computer/web browser, which will not be shared with other companies.
 
-Please read the following to learn more about our privacy policy (“Privacy Policy”). This Privacy Policy applies to the use of the Services (as defined below), including by customers and other persons. Except as otherwise indicated, customers and other persons using the Services are individually and collectively referred to as “you”, “your” or “Customer”; whereas PALNESS MEDIA and its subsidiaries and affiliates are referred to as, “PALNESS MEDIA, PALNESS”, “we”, “us” and “our.”
+**Personal Information:** We do not share, sell, or buy personal information. We may share the Personal Information we collect from you only with your consent. The information you submit is used only for internal purposes and to provide quality customer service to you as well as to send you our latest updates.
 
- **INFORMATION WE COLLECT FROM YOU ONLINE**
+**Protection of rights:**  
+We may release Personal Information or other information we collect from you if we believe that such action is appropriate to: (I) comply with legal requests and processes; (II) identify, contact or bring legal action against persons or entities who are or we believe have caused or might cause injury to us or a third party; (III) defend or respond to claims brought or threatened against PALNESS MEDIA, its employees, direct sellers, suppliers, service providers, installers, users of our Services or others; or (IV) otherwise protect or assert the rights, property, interests or personal safety of PALNESS MEDIA, its employees, direct sellers, suppliers, service providers, installers, users of the Services or others. Any such release decisions may be made by us in our sole discretion.
 
- _Information we collect from you may vary depending on our websites.  
-_
+**Record Keeping:** It may be necessary for PALNESS MEDIA to keep records of certain Personal Information you have provided to us or which we have obtained from you in accordance with this Privacy Policy for business purposes.
 
-**Automatic Collection of Information:** Like many Websites on the Internet, as you visit and use our Services we automatically track certain information about you to help us (1) better understand, improve and modify the Services, (2) better understand how the Services and our websites are used and experienced, and (3) better understand how we can enhance your overall experience on one or more of our Websites and/or Services, including providing advertising and other information that is relevant to you. This tracked or automatically gathered information may include, among other things, your computer’s IP address (Internet Protocol address), browser type, the URLs and pages on the Services you’ve visited, sections of or content on the Websites and/or Services of which you click on or are interested in, the number of times you visit each page on the Services, what downloads and/or search queries you have made, and how long you spent on particular sections of the Services and on the Services generally. This automatically gathered data includes information provided through the use of “cookies”, log files and “clear GIFs” (described in more detail below).
+**Non-personal Information:**  
+Information that is automatically gathered, including through the use of cookies (as defined above), may be shared among our Websites, if applicable.
 
- **Information from Cookies:** When you visit our website(s), we may send a small file to your computer (a “cookie”) which is stored there so that we can recognize your computer as a unique machine the next time you visit PALNESS websites, and which also enables us to, among other things, tailor the Services to your needs. You are always free to decline any cookies we use if your internet browser permits.
-
-However, please note that by declining cookies, certain functionality of our websites may not be available to you. Additionally, some of our third-party service providers working on our behalf may also utilize their own cookies. Also, we and our third-party service providers sometimes use “clear GIFs” in connection with cookies and other website functions and emails. Clear GIFs perform administrative functions (but without detracting from your online experience), including being used to perform statistical and administrative tasks such as measuring traffic on our Websites and Services pages, verifying advertising avenues and positioning images on the web, and allowing us to gauge the effectiveness of certain communications and email marketing campaigns by letting us know which marketing emails have been opened by you or other recipients. However, please note that clear GIFs do not collect Personal Information.
-
-As mentioned above, we do partner with third party ad network(s) such as Google Adsense/Adwords to either display advertising on our Services or to manage our advertising on other Websites. Our ad network partner may use cookies and/or Web beacons to collect non-personally identifiable information about your activities on our Services and other Websites to provide you targeted advertising based upon your interests.
-
- **HOW YOUR INFORMATION IS USED**
-
-The use of your information depends on your consent. By visiting any PALNESS MEDIA website, you agree to have  “cookies”, log files and/or “clear GIFs” stored onto your computer/web browser, which will not be shared with other companies.
-
- **Personal Information:** We do not share, sell, or buy personal information. We may share the Personal Information we collect from you only with your consent. The information you submit is used only for internal purposes and to provide quality customer service to you as well as to send you our latest updates.
-
- **Protection of rights:** We may release Personal Information or other information we collect from you if we believe that such action is appropriate to: (I) comply with legal requests and processes; (II) identify, contact or bring legal action against persons or entities who are or we believe have caused or might cause injury to us or a third party; (III) defend or respond to claims brought or threatened against PALNESS MEDIA, its employees, direct sellers, suppliers, service providers, installers, users of our Services or others; or (IV) otherwise protect or assert the rights, property, interests or personal safety of PALNESS, its employees, direct sellers, suppliers, service providers, installers, users of the Services or others. Any such release decisions may be made by us in our sole discretion.
-
- **Record Keeping:** It may be necessary for PALNESS MEDIA to keep records of certain Personal Information you have provided to us or which we have obtained from you in accordance with this Privacy Policy for business purposes.
-
- **Non-personal Information:** Information that is automatically gathered, including through the use of cookies (as defined above), may be shared among our Websites, if applicable.
-
- **HOW IS PERSONAL INFORMATION PROTECTED?**
-
-Whenever Personal Information is stored on our computers (which may be for an indefinite period, or a more limited time based on obsolescence or other factors), that information is protected from unauthorized access or use by way of passwords or other industry-acknowledged means.
-
- **SCOPE OF THIS PRIVACY POLICY:**
-
- **OUTSIDE LINKS:** Be aware that our Websites and web pages may link to other Websites that may collect personally identifiable information about you. This Privacy Policy applies only to PALNESS MEDIA and Bizham.com websites. We are not responsible for the privacy practices, nor the content, associated with any linked Websites. You should refer to the privacy policies and statements of other Websites or contact the respective Webmasters of those Websites to obtain information regarding their information collection, security, use and disclosure policies.
-
- **EFFECTIVE DATE AND MODIFICATIONS**
-
-This Privacy Policy is effective as of the date first written above. We reserve the right to update, change, modify or otherwise alter this Privacy Policy at any time. If any material changes are made to this Privacy Policy, PALNESS MEDIA will notify you by posting the revised Privacy Policy on our Websites. ANY ACCESS OR USE OF THE WEBSITES BY YOU AFTER THE CHANGES GO INTO EFFECT SHALL CONSTITUTE AND BE DEEMED YOUR AGREEMENT TO THIS PRIVACY POLICY. Accordingly, we encourage you to periodically review this Privacy Policy in order to keep apprised of our current privacy practices. If you do not want to be bound by this Privacy Policy, do not use or access any part of our Websites.
-
- **CONTACTING US**
-
-If you have concerns about this Privacy Policy or our privacy practices in general, you may contact us at: admin@palness.com.
+Notifications of claimed infringement should be forwarded to: admin@palness.com
