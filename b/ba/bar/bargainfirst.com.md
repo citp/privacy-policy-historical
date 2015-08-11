@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainfirst.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812080914id_/http%3A//bargainfirst.com%3Ftmp%3Dfishy_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainfirst.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811091415id_/http%3A//bargainfirst.com%3Ftmp%3Dfishy_privacy) for the most accurate reproduction.*
 
 # bargainfirst.com Privacy Policy
 
