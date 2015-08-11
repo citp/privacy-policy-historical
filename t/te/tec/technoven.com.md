@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technoven.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416071021id_/http%3A//www.technoven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technoven.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811192125id_/http%3A//www.technoven.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechNoven
 
@@ -52,7 +52,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in questions.
 
-##  **Contact Us:**
+## **Contact Us:**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
