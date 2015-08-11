@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gluecklicher-tag.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225161356id_/http%3A//www.lucky-day-uk.com/pages/UK/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gluecklicher-tag.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811045204id_/http%3A//www.lucky-day-uk.com/pages/UK/privacy.html) for the most accurate reproduction.*
 
 # DVX Interactive: Privacy Policy
 
