@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dalidecals.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205121945id_/http%3A//dalidecals.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dalidecals.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811233146id_/https%3A//dalidecals.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
-# :: Dali Wall Decals
-
-Privacy Policy:
+# Privacy Policy
 
 At Dali Decals, your privacy is our priority. We are committed to protecting your privacy at all times, in all situations. The information we collect about you when you become a customer is used to process your orders and to provide a more personalized experience on our site. However, Dali Custom Decals does not guarantee complete security of stored information.
 
