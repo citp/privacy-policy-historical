@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fas.li privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519014906id_/http%3A//fas.li/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fas.li privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811123817id_/http%3A//fas.li/privacy) for the most accurate reproduction.*
 
 # Fas.li - URL Shortener - fas.li
 
