@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokerltd.com privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301203051id_/http%3A//brokerltd.com/privacy.html%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokerltd.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812012707id_/http%3A//brokerltd.com/privacy.html%23privacy-policy) for the most accurate reproduction.*
 
 # BrokerLTD - Privacy policy.
 
