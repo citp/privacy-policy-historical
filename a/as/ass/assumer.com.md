@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the assumer.com privacy policy that was archived on 2014-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140911020921id_/http%3A//assumer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assumer.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812000403id_/http%3A//assumer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | assumer
+# Privacy Policy — Assumer
 
-Our team here at Fashion Fixation is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
+Our team here at Assumer is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
 General  
 Our users are free to visit and enjoy our content at no personal obligation; users can exit the site whenever they so choose and do not need to reveal any personal information about themselves. There are some services offered that users may want to take advantage of, and it’s possible they will be required to disclose some personal information, including but not limited to, their first and last name, home address, email address, telephone numbers and birthday. It is also possible that other information will be collected on other applicable pages within our sites. If any users do choose to submit information to us directly or to a third party via our site, they can be assured that we will never sell or lease their personal information except;
