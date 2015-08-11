@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2chost.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208122333id_/http%3A//www.b2chost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2chost.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811035503id_/http%3A//www.b2chost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - B2c Technology
 
