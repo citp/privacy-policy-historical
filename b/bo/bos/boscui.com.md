@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boscui.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120225145id_/http%3A//www.boscui.com/Static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boscui.com privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811074031id_/http%3A//www.boscui.com/Static/privacy-policy) for the most accurate reproduction.*
 
-# Best of Schools Colleges Universities and Institutes Worldwide
+# Best of schools colleges universities and Institutes Worldwide
 
 ###  PRIVACY POLICY (LAST UPDATED ON MAR 31, 2012)
 
