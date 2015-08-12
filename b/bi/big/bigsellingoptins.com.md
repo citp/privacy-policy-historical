@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigsellingoptins.com privacy policy that was archived on 2015-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150209025138id_/http%3A//bigsellingoptins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigsellingoptins.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812104144id_/http%3A//bigsellingoptins.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Marketing & SEO
+# Privacy Policy | Internet Marketing & SEOInternet Marketing & SEO
 
-### Privacy Policy:
+## Privacy Policy:
 
 Big selling optins marketing (" **Big selling optins** ") operates Bigsellingoptins.com and may operate other websites. It is Big selling optins policy to respect your privacy regarding any information we may collect while operating our websites.
 
