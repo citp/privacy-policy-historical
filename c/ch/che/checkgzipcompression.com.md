@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkgzipcompression.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314221649id_/http%3A//checkgzipcompression.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkgzipcompression.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812104916id_/http%3A//checkgzipcompression.com/privacy) for the most accurate reproduction.*
 
 # Privacy statement - Check GZIP compression
 
@@ -78,9 +78,7 @@ This policy was last modified on 2014-01-13
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-WEBSITEURL  
-ADDRESS  
-CITY, STATEPROVIDENCE ZIPPOSTALCODE  
-COUNTRY  
-EMAILADDRESS  
-
+Newrecord B.V.   
+Zonnebaan 45   
+NL-3542EB Utrecht   
+The Netherlands 
