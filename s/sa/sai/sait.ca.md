@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sait.ca privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315071148id_/http%3A//www.sait.ca/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sait.ca privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812140349id_/http%3A//www.sait.ca/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SAIT Polytechnic | Calgary, Alberta
 
