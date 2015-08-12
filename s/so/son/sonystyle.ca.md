@@ -1,79 +1,205 @@
-> *The following text is extracted and transformed from the sonystyle.ca privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613020949id_/http%3A//store.sony.ca/helpdeskarticle/-/-template_sny_helpdesk_safety_security-component_sny_helpdesk_safety_security_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonystyle.ca privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812222235id_/http%3A//store.sony.ca/helpdeskarticle/-/-template_sny_helpdesk_safety_security-component_sny_helpdesk_safety_security_privacy_policy) for the most accurate reproduction.*
 
 # Sony CA
 
-Sony of Canada Ltd. ("Sony") respects your right to personal privacy. When we collect your personal information ("Personal Information"), you can be confident that we'll handle and store it in a secure manner to protect your information from unauthorized access or disclosure. 
+The effective date of this Privacy Policy is April, 2015.
 
-This code describes our privacy practices. By purchasing a product or service, submitting a warranty card, participating in our web sites, or otherwise providing us with your Personal Information, you are accepting the practices described in this Privacy Code. These terms and conditions are subject to change from time to time, so you should review them for changes periodically. Please note that anonymous data from which you cannot be identified is excluded from the restrictions described in this Privacy Code. 
+At Sony of Canada Ltd. (“Sony Canada”), we are committed to respecting and protecting your right to privacy. This Privacy Policy covers all data collection, use and sharing by Sony Canada in any medium, online, mobile, or offline. These channels are referred to in this Policy as the “Sony Canada Properties.” The Sony Canada Properties offer different features and functionality, and some of the data collection, use, and sharing practices described below may not be applicable for certain Sony Canada Properties. By using the Sony Canada Properties, you consent to the terms of this Privacy Policy. If you do not agree with any terms of this Privacy Policy, please do not use the Sony Canada Properties or submit any personal information. 
 
-### Why do we collect your personal information?
+Table of Contents: 
 
-Our goal at Sony is to provide our customers with the highest quality products and services. In order to process and record your purchases, and to ensure that you receive quality products and customer services, we collect certain Personal Information directly from our customers.
+  * Information That We Collect or Receive
+    * Information You Provide to Us
+    * Information You Provide to Us via Social Features
+    * Information We Automatically Collect
+    * Information We Receive From Third Parties
+  * Information Use
+  * Information Sharing and Disclosures
+    * Information We Share
+    * Information You Share
+  * Advertising, Analytics and Similar Third Party Services and Your Choices
+  * Your Choices and Controls
+  * Children
+  * Consent to Transfer Information
+  * Third Party Links; Sony Content Found Outside the Sony Properties
+  * Security and Retention
+  * Changes to this Policy
+  * How to Contact Us About this Policy
+  * Additional Information About Certain Sony Properties
 
-You can visit Sony's retail stores or our web sites without identifying yourself or providing any Personal Information. At certain times, however, we ask you to provide information that will enable us to complete a transaction, provide you with important product information, enhance your visit or follow up later. Your participation is completely optional.
-
-For example, we request information when you:
-
-  * • purchase a product or service;
-  * • register as a member of one of our programs;
-  * • register a product warranty;
-  * • purchase a Sony Care extended warranty;
-  * • complete a survey;
-  * • participate in a contest or other promotional offer;
-  * • subscribe to a newsletter or mailing list;
-  * • apply for employment
 
 
+###  Information That We Collect or Receive
 
-In these instances, we may ask for your name, address, e-mail address, telephone number, information about a product you have purchased, billing or credit card information, or other information. We may also keep records of previous purchases made by you, information we have provided to you, and details of any enquires, complaints or compliments made by you and our response, if any (referred to as your "Personal History"). Your Personal Information and Personal History will be added to our customer database.
+We collect or receive information from and about you in various ways, as described below.
 
-### Automatic Information Collection and Monitoring on our Websites.
+**Information You Provide to Us**
 
-For each visitor to a Sony website, Sony's web server automatically recognizes and stores information, such as the visitor's IP address/domain name combination and any referring websites. We use this information to understand visitor traffic patterns through our websites for purposes of enhancing their usability. Your computer provides this information automatically each time you log on, unless you have activated blocking technology available in some browsers.
+We collect the information that you provide to us, such as when you enter it through the features of a Sony Property or sign up for a Sony promotion or contest. Depending on the transaction or Sony Property you are using, such information might include information that could reasonably be used to identify you personally, alone or in combination with other information. (“Personal Information”). Personal Information includes but is not limited to your name, contact information and billing information. We will treat information as Personal Information where required by applicable law. 
 
-When you visit Sony websites or advertisements appearing thereon, or use one or more of Sony's website services, we may use an industry-wide technology called "cookies' that store certain information on your computer and that allow us to customize your experience to better match your interests and preferences, or to simply facilitate your signing in to use the services. Most browsers will allow you to erase cookies from your computer's hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase cookies, we may not be able to restore any preferences or customize settings you previously specified, and our ability to personalize your online experience would be limited. Please refer to your browser instructions or "help" screen to learn more about these functions.
+We collect information directly from you through our business processes, such as: 
 
-Sony may but is not obligated to monitor communications such as messages to, from, within or directly related to our services and websites to ensure that our policies regarding use and our terms and conditions are being complied with and are not being violated (e.g. no obscenity, defamation or abusive language, no content that may infringe legal rights), and Sony has the right to block, remove and/or report any such communications and activities as appropriate. We may keep records of user's messages and, among other things, the email addresses involved. By accessing a Sony website or application, you acknowledge and consent to such monitoring.
+  * Registration or account creation, where we ask you to provide information, such as: 
+    * Contact info (e.g., name, email or mailing address, or phone number);
+    * Account administration info (e.g., user name, password, or security questions and answers);
+    * Billing info (e.g., credit card or other payment number, billing address);
+    * Demographic and location information, such as your gender, age, date of birth or postal code;
+    * Information about your past purchases or other transactions;
+    * Preference information such as saved settings, entertainment and marketing preferences.
+  * Employment applications, where you submit information, such as your gender, date of birth, education, occupation or work history.
+  * Purchase processes, where we may ask you to provide your name and billing info; 
+  * Technical and customer support processes, where we may ask you to provide contact info and information related to the issue about which you are contacting us, such as customer support contact history and unique hardware or software identifiers; 
+  * Providing you services at our retail stores;
+  * Creation of products and services that you request, where we may ask for your photos and related information or in connection with various Social Features, where you may provide your photos, videos, and related information, as described more fully below;
+  * Providing you with financing for Sony products, where, in addition to the other kinds of information described above, we may ask you for financial information; and
+  * Offering you the opportunity to submit product reviews, service feedback surveys or contest entries, where we may ask you for your name, voice and/or likeness, among other information.
 
-### What do we do with your personal information?
 
-The primary purpose of our collection of this information is to be able to provide products and services to you, to provide you with customer support services, to seek your opinion from time to time, and to compile marketing and other statistics for use by Sony. Sony may also use this information with data from third parties to provide information to you on Sony products, services and promotions, and on complementary products and services offered by our affiliated companies and other companies. At times we collect Personal Information with third parties, who may also keep your Personal Information.
 
-When we do so, the identity of the third party will be made known to you. Personal History information is primarily used for customer support, statistical and customer services purposes.
+**Information You Provide To Us via Social Features**
 
-Your Personal Information and Personal History will be kept confidential and used to enrich your customer relationship with Sony. For instance, we may inform you of product upgrades, special offers, updated information and other new Sony products and services we feel may be of interest to you. When you visit our company web sites, we want to help you find information quickly and to personalize your visits.
+Some of the Sony Canada Properties offer community forums or other interactive features, including social gaming and social media applications, where you can communicate with others or the public (“Social Features”). We may collect the information you enter when you use these Social Features, including Personal Information, your posts or communications, and your friend lists. 
 
-### We protect your personal information
+Functionality on the Sony Canada Properties may also permit a variety of interactions with third party websites, features or applications. For example, you may be able to “like” a product or “share” content on or to other websites or use your account with a third party to login to a Sony Property. When you choose to participate in a third party application or feature, you may be linking your activity on the Sony Canada Properties with that third party service and you may be authorizing us to collect (or the third party to share) information about you, including Personal Information. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections” web page, profile page, or similar page on a social networking or other third party website or interactive service. 
 
-We will not share your Personal Information with anyone outside Sony and its affiliated companies, except to the extent necessary to fulfill the purposes described or where we have collected Personal Information with a third party as noted above. When we employ other companies and individuals to perform functions on our behalf – such as delivering products, sending postal or electronic mail, analyzing data, taking product orders, providing marketing assistance, processing credit card payments and providing other forms of service – and where we collect Personal Information with third parties, we ensure by contractual means that these third parties may not use your Personal Information for any other purpose without your knowledge and consent. 
+If you post information on a third party platform that refers to Sony Canada or the Sony Canada Properties (e.g., by using a Twitter hashtag associated with Sony Canada in your tweet), your post, user name and/or profile picture associated with the applicable social media account may be published on the Sony Canada Properties in accordance with the terms of that third party.
 
-Your personal information may be maintained and processed by our affiliates and other third party service providers in the US or other jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes.
+**Information We Automatically Collect**
 
-### Our Information Policy Re: Children
+We, and any applicable third party analytics, content, advertising or other service providers may automatically or passively collect information about your use of the Sony Canada Properties. Data and metadata collected in this manner may include:
 
-If you are under 13 years of age, you should not provide any personally identifiable information to Sony without the knowledge and permission of your parent or guardian. If we learn that you are under 13 years of age, we will not use any personally identifiable information about you without the consent of your parents or guardian, except as allowed by law. This may mean that you will be unable to participate in some activities offered by Sony without that consent.
+  * Your browsing and other activity on or across the Sony Canada Properties, as well as third party websites and apps, and usage data. This may include, among other things, your Internet Protocol (IP) address or other device identifier, browser and operating system information, internet service provider (ISP), referring/exit web pages and clickstream data, including all of the pages and places you visit within a Sony Canada Property and any actions you take while using a Sony Canada Property;
+  * Your network connected hardware (e.g., computer, television or mobile device) or software data, such as a unique device identifier, model, version, MAC address, device or session ID, error related data and configuration, functionality, and performance data;
+  * Your physical or geographic location data, ranging from country or region, to latitude and longitude, to city (based on IP address), to GPS coordinates, depending upon the situation;
+  * Advertising data, such as display frequency, duration, location, viewing software, or identifier, and information relating to your preferences and advertisements you act upon;
+  * Your email address, email metadata, and information regarding your actions taken in connection with emails from Sony Canada (such as whether you open the email or click a link in the email); and
+  * Your username, user ID and/or account identifier.
 
-In some circumstances, we may ask our customers and web site visitors to provide us with contact information of their parent or guardian. We will use this information only for the purpose of contacting the parent or guardian to notify them of our information practices with respect to children, to notify that person of a child's participation in one of our promotional activities or on one of our web sites, and/or to seek the consent of the parent or guardian to such participation.
 
-The parent or guardian of any person under the age of 13 whose Personal Information we have collected may ask to review that Personal Information and to have it deleted (subject to certain restrictions). For more information on how to do this, please contact Sony as indicated below.
 
-### Legal, Government & Other Disclosures
+We may use technologies, currently existing or developed in the future, to collect such information, and we may use third parties to perform these services on our behalf. Those technologies may include the following:
 
-Sony, our affiliates and our Canadian, US and other service providers may provide your Personal Information and Personal History Information to appropriate third parties including law enforcement or other government agencies in connection with a criminal investigation, fraud prevention or other legal action, or if Sony reasonably believes it is necessary to protect Sony including its systems and operations, its customers or the public, or as otherwise required by applicable Canadian, US or other law.
+  * Cookies. A cookie is a data file placed on a device when it is used to visit the Sony Canada Properties or otherwise access Sony Canada content online. Cookies may be used for many purposes, including, but not limited to, remembering you and your preferences, tracking your visits to our web pages, identifying and providing updates for software on your device, monitoring content that you are downloading, streaming, or otherwise accessing, and for displaying offers related to your prior activity on a Sony Canada Property. A Flash cookie is a data file placed on a device via the Adobe Flash plug-in that may be built into or downloaded by you onto your device. Flash cookies may be used for various purposes, including, but not limited to, enabling a Flash feature and remembering your preferences. For more information about the privacy choices Adobe offers, see Your Choices and Controls.
+  * Web Beacons. Small graphic images or other web programming code called web beacons (also known as "1x1 GIFs" or "clear GIFs") may be included in our web pages and email messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or email can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including but not limited to, count visitors to a Sony Canada Property, to monitor how users navigate the Sony Canada Properties, to count how many of our emails were actually opened, or to count how many particular links were actually viewed. 
+  * Embedded Scripts. An embedded script is programming code that is designed to collect information about your interactions with the Sony Canada Properties, such as the links you click on. The code is temporarily downloaded onto your device from our web server or a third-party service provider, is active only while you are connected to the Sony Canada Properties, and is deactivated or deleted thereafter. 
 
-Sony web sites may contain links to other sites. Sony and its affiliates are not responsible for the privacy practices or the content of such sites and expressly disclaim all liability associated with your use of and the content on such other sites. 
 
-### We encourage communication
 
-Customers who want more information about our privacy policy, wish access to their Personal Information, or wish to raise a concern about the use of their Personal Information, can contact Sony at 1-888-494-7669 or by writing to the Privacy Office, Sony of Canada Ltd., 115 Gordon Baker Road, Toronto, Ontario M2H 3R6, Attention: Chief Privacy Officer. Subject to certain limitations, you may review, correct or update your Personal Information, limit or revoke consent for disclosure or use or, in certain circumstances, have your Personal Information deleted. We will keep your Personal Information for a reasonable period or time in order to fulfill your primary business purpose, or as required or permitted by law or business custom, whichever is longer.
+**Information We Receive From Third Parties**
 
-If you no longer wish to receive communications from Sony of Canada Ltd. you can click on the unsubscribe link at the bottom of a commercial electronic message from Sony of Canada Ltd. or you can contact us:
+We may supplement and/or combine the information that we collect with information that we obtain from third parties. For example:
 
-**By Phone:** Toll-free (within Canada) 1-888-494-7669
+  * If you link your Sony Canada account to your social media accounts, accounts with other Sony-branded entities, or otherwise provide us with access to your account on a third-party service, we may receive data from the providers of those accounts;
+  * Some third parties may provide us or our third party service providers with information regarding the physical location of the device used to access the Sony Canada Properties;
+  * If you are on another website and you opt-in to receive information from us, that website may forward to us your e-mail address and other information about you so that we may contact you as requested;
+  * If other users give us access to their profiles on a third party website or application, we may receive information about you if you are one of their connections or information about you is otherwise accessible through their profile;
+  * If you apply for or are issued a SonyCard or other branded Sony Canada payment card, the bank that manages our co-brand card program may provide us with information about you.
 
-**By Mail:** Sony of Canada Ltd.,  
-115 Gordon Baker Road,  
-Toronto, Ontario, M2H 3R6  
-Attn: Privacy Officer, Law Department
 
-Personal Information submitted to us in any application for employment is not used for marketing purposes.
+
+###  Information Use
+
+We use non-Personal Information without restriction.
+
+We use your Personal Information in a number of ways, as described in this section and elsewhere in this Policy. We use the information we collect, including your Personal Information, for the purpose for which it was collected. For example, we use your information to operate and deliver products, services, and content; perform administrative functions; complete business processes (including technical requests and customer service inquiries); and notify you as may be necessary. In addition, we may use your Personal Information and other information: 
+
+  * To send you product, service or warranty information;
+  * To better understand our customers and the users of the Sony Canada Properties and to understand and improve our operations and performance;
+  * With your consent, to send you marketing communications from us or others;
+  * To provide you with targeted and contextual advertising and offers both within Sony Canada Properties and elsewhere online;
+  * To perform analytics, research, surveys, and product analysis and development, including demographic studies for marketing, sales, or product development; 
+  * To enable us to link your accounts and usage information between and amongst Sony Canada and various Sony entities; 
+  * To tailor the Sony Canada Properties, advertising, promotions and communications to deliver a better or new experience to you;
+  * For security and fraud detection purposes; and
+  * As disclosed at the time you provide your information, for purposes described elsewhere in this Privacy Policy, and for purposes for which we have obtained your consent.
+
+
+
+###  Information Sharing and Disclosures
+
+**Information We Share**
+
+We may share your information, including your Personal Information, with our affiliated companies and third parties as disclosed at the time you provide your information, with your consent, as otherwisedescribed in this Privacy Policy, and as follows:
+
+  * Service Providers to Sony Canada. With persons or companies we retain to carry out services for us or to provide support to us. 
+  * Law Enforcement, Judicial, Administrative, or Regulatory Disclosures. To comply with a legal obligation, at the request of a government entity conducting an investigation, or when we believe that the law requires disclosure or that disclosure is appropriate to protect or enforce the rights, property, safety, or security of ourselves or others.
+  * Business Transfers. In connection with the sale of the applicable business, a portion of the business, or certain stock and/or assets, or a corporate merger, consolidation, restructuring, or other corporate change including but not limited to, during the course of any due diligence process.
+  * Sony. With our Sony affiliated companies for any purpose, including but not limited to providing you with content, products, or services; business development; community administration or development; to support various business processes; security; research and development; to enable us to link your accounts and usage information between and amongst certain Sony Canada Properties; and to contact you about products, services or other offerings that may be of interest to you. Sony affiliates will handle your information in accordance with their own privacy policies, the terms of which may be different than this Privacy Policy.
+  * Other Third Parties. With your consent, with other non-affiliated third parties for various purposes, such as: 
+    * Third parties with whom we are jointly delivering services or features, such as a contest, promotion or advertising (each a “Promotion”). Sony Canada may offer a Promotion that requires registration and if you choose to enter, your Personal Information may be disclosed to third parties in connection with the administration of the contest, such as in connection with winner selection or prize fulfillment. Sony Canada will obtain your separate opt-in consent to receive commercial electronic messages when we administer a Promotion; or
+    * Third parties who may contact you about products, services or other offerings that may be of interest to you.
+
+
+
+**Information You Share**
+
+When you use the Social Features, certain elements of your Personal Information and certain information about your use of the Sony Canada Properties may be accessible to other users of the Sony Canada Properties and to the public. For example: when you post a product review, your username, your hometown, and any photos or videos you elect to submit as part of the review will be visible to the public. We may also publicly display information derived from your activity on the Sony Canada Properties.
+
+If you choose to “share” content or to otherwise post information from or via a Sony Canada Property to a third party website, feature or application, that information will become public and the third party website may have access to information about you and your use of the Sony Canada Property. Likewise, other users may use these same features to share information about you.
+
+We are not responsible for how you use or publish personal data through these or similar features, or how third parties use the features to share information. 
+
+###  Advertising, Analytics and Similar Third Party Services
+
+We may use third party analytics service providers to evaluate and provide us with information about the use of the Sony Canada Properties and viewing of our content. Ad network providers, advertisers, sponsors, analytics service providers and/or similar third parties may set and access their own cookies, web beacons and embedded scripts on your device, may collect, set and use unique or non-unique identifiers, and they may otherwise collect or have access to information about you. 
+
+We and our network advertisers may target advertisements and offers to you, both on the Sony Canada Properties and elsewhere online, based on your visits to the Sony Canada Properties and other websites and online services. Cookies, web beacons, and other technologies, including those set by third party network advertisers, may be used to, among other things, target advertisements, limit the number of times you see the same advertisements, conduct research regarding the usefulness of certain advertisements to you, track how our users interact with the Sony Canada Properties, link various devices you may use, and learn more about users. We may share information about visitors to the Sony Canada Properties with third party companies for the same purposes. We may use a variety of companies to serve advertisements. Some of these third parties may collect personal information from you over time when you visit the Sony Canada Properties or other websites and services. This Privacy Policy does not cover any use of information that such third parties may have collected themselves from you. 
+
+###  Your Choices and Controls
+
+You have certain choices about how your Personal Information is collected and used. Where required by applicable law, you can access, amend or have your Personal Information deleted from our active database(s) by contacting us as described in the “How to Contact Us About this Privacy Policy” section below. In some cases, your choices to change or delete information you provide may affect our ability to deliver our products, services or the Sony Canada Properties.
+
+**You can choose whether or not to receive certain communications from us, through the following mechanisms:**
+
+  * Commercial Electronic Messages: Sony Canada complies with the Canada Anti-Spam Legislation and will only send commercial electronic messages to you with your consent (express or implied). You may unsubscribe from receiving commercial electronic messages at any time by clicking on the unsubscribe link included in an e-mail message. Please note that we reserve the right to send you certain communications relating to your account or your use of the Sony Canada Properties or as otherwise permitted by applicable law, and these transactional account messages and other non-commercial messages may not be affected by your choice to unsubscribe from commercial communications.
+  * Customer Preferences: In some cases, you can manage communication preferences for certain Sony Canada Properties in your account settings or preferences page.
+
+
+
+**You also have the following choices:**
+
+You may be able to disable cookies or to adjust your Flash privacy settings by visiting Adobe’s website privacy settings page at [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html). If you choose to disable cookies or to adjust your Flash privacy settings on your device, some features of our Sony Canada Properties may not function properly.
+
+Some Sony Canada Properties may use Omniture, a web analysis service provided by Adobe that includes session cookies and beacons. If you do not wish to allow your session visit information on the relevant Sony Canada Property to be aggregated and analyzed by us, you may visit [www.adobe.com/privacy/opt out.html](http://www.adobe.com/privacy/opt%20out.html)
+
+Some Sony Canada Properties may use Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses cookies to analyze your use of the relevant Sony Canada Property, to create reports about the relevant Sony Canada Property activities for us and to provide further services associated with the use of the relevant Sony Canada Property and the Internet. Furthermore, Google may transfer such non-personally identifiable information to third parties. You can opt out of interest-based ads by Google at [www.google.com/settings/ad](http://www.google.com/settings/ad)
+
+You may also be able to opt out of certain targeted advertising by visiting the TRUSTe advertising choices page at [www.preferences-mgr.truste.com](http://preferences-mgr.truste.com/) and the Digital Advertising Alliance of Canada’s consumer opt-out page for behavioural advertising at [www.youradchoices.ca/choices](http://youradchoices.ca/choices)
+
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. However, there is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, the Sony Canada Properties currently do not alter their practices when they receive a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit [www.allaboutdnt.com](http://www.allaboutdnt.com/)
+
+These opt-outs may be device specific and may not work on all devices. Please be aware that if you choose to block cookies, some advertising preferences that are dependent on cookies may not be able to be respected. Also, know that even if you opt out of targeted online advertising, you will continue to receive generic ads online.
+
+###  Children
+
+This Privacy Policy does not apply to the collection of Personal Information from visitors to Sony Canada Properties who are under the age of 13 (“Child” or “Children”). Sony Canada does not knowinglycollect Personal Information from children under the age of 13. If we are notified that a Child has submitted Personal Information to us through any Sony Canada Property, we will delete that Child's Personal Information. 
+
+###  Consent to Cross-Border Transfer of Information 
+
+Please be aware that information we collect, including but not limited to Personal Information, may be transferred to, processed and stored in the United States, Japan and other countries around the world and, as such, courts, law enforcement, and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your Personal Information. Any such transfers will be to Sony Canada affiliates and to contractors that agree to substantially the same terms to protect Personal Information. By using the Sony Canada Properties or providing us with any information through the Sony Canada Properties, you consent to the transfer, processing and storage of your information in the United States, Japan and in other countries around the world, jurisdictions in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
+
+###  Third Party Links; Sony Content Found Outside the Sony Canada Properties
+
+The Sony Canada Properties may contain links to websites, features and functionality controlled by third parties, including but not limited to those operated by other Sony Affiliates and social-networking services. In addition, Sony Canada widgets or other Sony Canada content may be included on web pages and websites that are not associated with a Sony Canada Property. We have no control over the privacy practices of the third party websites or services to which we link or that include our widgets or other content. Those websites and services may automatically collect information about your visit to their sites and may use their own tracking technologies, including but not limited to, cookies. Those websites and services are subject to the privacy policies of the third parties that control those websites, and not this Privacy Policy. We encourage you to check the privacy policies of such third party websites and services before using them or disclosing any Personal Information to them.
+
+###  Security and Retention
+
+Unless otherwise required by law, we are not responsible for monitoring or recording any activity on the Sony Canada Properties, including communications, although we reserve the right to do so.
+
+To help protect you and others, we monitor the use of the Sony Canada Properties, and we use the Personal Information and other information we collect, in order to: identify fraudulent activities and transactions; prevent abuse of and investigate and/or seek prosecution for any potential threats to or misuse of the Sony Canada Properties; investigate violations of or enforce the applicable Sony Canada Properties’ Terms of Use and/or this Privacy Policy; and otherwise to protect the rights and property of Sony, its affiliates, partners, and customers. Monitoring may result in the collection and analysis of online activity or communications through the Sony Canada Properties. If you do not consent to these conditions, you must discontinue your use of the Sony Canada Properties.
+
+We seek to maintain reasonable security measures designed to help protect your information (including Personal Information) against unauthorized or accidental disclosure, access, misuse, loss, or alteration. There is no such thing as perfect security. Although we strive to protect your information, we cannot ensure or warrant the security of such information.
+
+We may retain information about you as long as it is necessary for us to fulfill the purposes outlined in this Policy. In addition, we may retain your information for an additional period as is permitted or required to, among other things, comply with our legal obligations, resolve disputes, and enforce agreements. Where and when required by applicable law, we shall delete your information. Even if we delete your information from active databases, the information may remain on backup or storage media.
+
+###  Changes to this Policy
+
+We may revise this Privacy Policy at any time. We will post any revisions to this Policy on the Sony Canada Properties, and the changes are effective when we post them (or on such date as indicated in the updated policy). By continuing to access or use the Sony Canada Properties after those changes become effective, you agree to be bound by the revised Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting a notice of the change on the Sony Canada Properties, as relevant, and we may, in our discretion, contact you through the Sony Canada Properties or via any of your contact information we have on file. Please check this Privacy Policy from time to time to ensure that you are aware of any changes. However, we will not make material changes to how we use your previously collected Personal Information unless you consent to the new or revised Policy or generally to such uses.
+
+###  How to Contact Us about this Privacy Policy
+
+For further information on our Privacy Policy, including inquiries, complaints, or disputes related to the collection and use of your information; please write to us at Sony of Canada Ltd., Attn: Privacy Officer, Law Department, 115 Gordon Baker Road, Toronto, Ontario M2H 3R6 or call our dedicated privacy line toll-free (within Canada): 1-888-494-7669
+
+###  Additional Information About Certain Sony Canada Properties
+
+When you use certain Sony Canada Properties, you may be subject to additional privacy notices that are provided to you at that time. In the event of a conflict between the terms of this Policy and the terms of any additional privacy notices provided, the terms of the additional privacy notices will control unless they expressly state otherwise.
