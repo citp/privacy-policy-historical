@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yotpo.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715124120id_/https%3A//www.yotpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotpo.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812213356id_/https%3A//www.yotpo.com/privacy-policy) for the most accurate reproduction.*
 
-# Yotpo | Privacy Policy
+# 
 
-Last updated June 29 2014
+Last updated June 29 2014
 
 ## Our Commitment To Privacy
 
@@ -46,7 +46,7 @@ Our primary purpose in collecting your personal data is to provide you with the 
 
 ## Disclosure of Your Personal Data to Third Parties
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information or the information of the end-users (your customers). This does not include trusted third parties who assist us in operating the Site, conducting our business, or servicing you in connection with the foregoing, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information or the information of the end-users (your customers). This does not include trusted third parties who assist us in operating the Site, conducting our business, or servicing you in connection with the foregoing, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ## Process of your personal data
 
