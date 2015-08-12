@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9humor.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516024029id_/http%3A//9humor.com/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9humor.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812080641id_/http%3A//www.9humor.com/privacy-policies.html) for the most accurate reproduction.*
 
 # Privacy policies - 9Humor ! The ultimate destination for fun and entertainment.
 
