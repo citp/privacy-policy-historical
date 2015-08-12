@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cncpd.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203045539id_/http%3A//cncpd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cncpd.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812025403id_/http%3A//cncpd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,26 +8,22 @@ We collect information from you when you register on our site, place an order, s
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-**What do we use your information for?**
-
+**What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways:
 
-â€¢ To personalize your experience  
+  * **To personalize your experience**  
 Your information helps us to better respond to your individual needs.
-
-â€¢ To improve our website  
+  * **To improve our website**  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-
-â€¢ To improve customer service  
+  * **To improve customer service**  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-
-â€¢ To process transactions  
+  * **To process transactions**  
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-â€¢ To administer a contest, promotion, survey or other site feature
-
-â€¢ To send periodic emails  
+  * **To administer a contest, promotion, survey or other site feature.**
+  * **To send periodic emails**  
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+
+
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -67,7 +63,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.cncpd.com/terms](http://cncpd.com/terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.cncpd.com/terms](http://cncpd.com/terms/)
 
 **Your Consent**
 
@@ -83,10 +79,7 @@ This policy was last modified on 04/05/10
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.cncpd.com
-
-4901 Morena Blvd. Suite # 1001  
-San Diego, CA 92117  
-USA  
+4930 Naples Place  
+San Diego, CA 92110 USA  
 parts@cncpd.com  
-858-922-4967
+(858) 922-4967
