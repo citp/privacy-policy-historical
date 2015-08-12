@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carwad.net privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204032801id_/http%3A//carwad.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carwad.net privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813005949id_/http%3A//carwad.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Charles Arwad
 
