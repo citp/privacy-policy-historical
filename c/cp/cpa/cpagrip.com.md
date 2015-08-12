@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpagrip.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206041009id_/http%3A//cpagrip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpagrip.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812204902id_/https%3A//www.cpagrip.com/privacy.php) for the most accurate reproduction.*
 
 # CPAGrip.com - Privacy Policy
 
