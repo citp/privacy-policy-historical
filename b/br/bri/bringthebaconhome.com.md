@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bringthebaconhome.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627061142id_/http%3A//bringthebaconhome.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringthebaconhome.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812062654id_/http%3A//bringthebaconhome.com/policy) for the most accurate reproduction.*
 
 # Privecy Policy - Bring The Bacon Home
 
