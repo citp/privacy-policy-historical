@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compsmag.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612211930id_/http%3A//www.compsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compsmag.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812150307id_/http%3A//www.compsmag.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
