@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduschoolmentor.com privacy policy that was archived on 2014-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140825221406id_/http%3A//eduschoolmentor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduschoolmentor.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812232800id_/http%3A//eduschoolmentor.com/privacy.html) for the most accurate reproduction.*
 
 # Edu School Mentor.com
 
