@@ -1,129 +1,91 @@
-> *The following text is extracted and transformed from the offerup.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319033207id_/https%3A//offerupnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerup.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812070501id_/https%3A//offerupnow.com/privacy) for the most accurate reproduction.*
 
 # OfferUp - Privacy
 
-Last Updated on July 11th, 2014   
-Effective as of July 11th, 2014 
+LAST UPDATED: August 07, 2015
 
-OfferUp, Inc., the company behind OfferUp.com (hereafter “OfferUp”, “our,” “we,” or “us”) has created this Privacy Policy to explain how your information is collected and used. This Privacy Policy applies to our web sites as well as our mobile applications (collectively, “Platform”). By visiting and using the Platform, you consent to our Terms of Use, which is incorporated by reference including applicable terms regarding limitations on liability and the resolution of disputes. You acknowledge our use of your information per the terms of this Privacy Policy. We reserve the right to modify this Privacy Policy in the future. You can always review the most current version at [www.offerup.com/privacy](https://web.archive.org/privacy/). See section 25 below for Notice to California Residents. 
+This Privacy Policy explains how information about you is collected, used and disclosed by OfferUp, Inc. (hereafter “OfferUp”, “our,” “we,” or “us”). This Privacy Policy applies to information we collect when you use our website, mobile applications and other online services (collectively, the “OfferUp Service”) or when you otherwise interact with us. 
 
-## Data Collected From You.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with more prominent notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the OfferUp Service to stay informed about our information practices and the ways you can help protect your privacy.
 
-1\. Information Submitted by You. OfferUp receives, stores, and processes information that you provide when using our Platform, including: 
+Note: OfferUp is piloting a new electronic payments solution that is only available to certain users. As a result, some of the provisions of this privacy policy related to the payments solution may not apply to all users. 
 
-  * 1.1. information you submit to the Platform, such as when you register or update the details of your account, information and documents provided to us when you participate in identification programs such as TruYou, and any payment information you submit to the Platform such as credit card number, expiration, and security codes, or digital payment system account;
-  * 1.2. information you post in order to sell any product on the Platform, including any photographs, written descriptions and your location (“Offers”), as well as any bids you make on Offers through the Platform; and
-  * 1.3. any reviews or comments you make using the Platform, all correspondence or communications with another user conducted the Platform, or if you contact or communicate with us, whether through written or verbal communications.
+### Collection of Information
 
+**1\. Information You Provide to Us.** OfferUp collects information that you provide directly to us. For example, we collect information when you register or update the details of your account, participate in identification badge programs such as TruYou, post information in order to sell any good through the OfferUp Service, enroll in any third-party operated payment processing services offered in connection with the OfferUp Service, communicate with other users, provide reviews or other comments, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, OfferUp account password, telephone number, postal address including city, state and zip code, photographs, written descriptions of your posted goods, any bids you make on offers through the OfferUp Service, any reviews or comments you make using the OfferUp Service, all correspondence or communications with other users or with us conducted via the OfferUp Service, government-issued identification documents (such as a driver’s license), and any other information you choose to provide.
 
+**2\. Information We Collect Automatically When You Use the OfferUp Service.** When you access or use the OfferUp Service, we automatically collect information about you, including:
 
-2\. Information from Third Parties. OfferUp may, from time to time, supplement the information we collect about you through our Platform with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. OfferUp may also receive information from Facebook, or any other social media site or other third party service which OfferUp may support in the future, should you elect to log on to the Platform using such social media sites. We may combine the information we receive from those sources with information we collect through the Platform. In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have disclosed otherwise. 
-
-3\. Internet/Mobile Data and Metadata. When you use the Platform, we receive, store and process a variety of information about your location (e.g. IP address, GPS coordinates), your device (e.g. make, model and specifications of your device, OS, UDID), metadata (e.g. time, date and location of when a post was made) and other similar data, to the extent sent by your computer or mobile device or generated as part of the data communications with the Platform. 
-
-4\. Tracking Technologies; Advertising. 
-
-  * 4.1. OfferUp uses, or may use, cookies, tracking pixels, embedded scripts and other similar tracking technologies on the Platform and may, without further consultation with you, and may permit its partners to do the same. By accessing or using the Platform, you will provide or make available certain information to us and to our partners. OfferUp will track your activities if you click on advertisements for our services on third party platforms such as search engines and social networks, and do use analytics to track what you do in response to those advertisements. All information which could reasonably be used to identify you personally (e.g. your name, e-mail address, location, IP address) are hereafter (“Personal Information”).
-  * 4.2. OfferUp does not currently offer targeted advertising through the Platform, though we reserve the right to do or allow our partners to do so in the future without further consultation from you. We do not currently support any browser based Do Not Track (DNT) settings or participate in any DNT frameworks, and we do not assign any meaning to any potential DNT track signals you may send or alter any of our data collection or use practices in response to such signals.  Use of Collected Data.
+  * **2.1. Log Information:** We log information about your use of the OfferUp Service, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our OfferUp Service.
+  * **2.2. Device Information:** We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * **2.3. Location Information:** If you consent to the collection of location information from your computer or mobile device, we may collect this information when you access or use the OfferUpService, or when you otherwise consent to the collection of this information. We may also use your IP address to infer an approximate geographic location for your computer or device. For more details, please see “Your Information Choices” below.
+  * **2.4. Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that helps us to improve the OfferUp Service and your experience, see which areas and features of the OfferUp Service are popular and count visits. We may also collect information using web beacons (also known as “gifs,” “pixel tags” and “tracking pixels”). Web beacons are electronic images that may be used in the OfferUp Service or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see “Your Information Choices” below.
 
 
 
-5\. General Uses. OfferUp uses and processes the collected information, including Personal Information, for the following uses: 
+**3\. Information from Third Parties.** OfferUp may, from time to time, obtain information from other sources and combine that with information we collect through the OfferUp Service in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
 
-  * 5.1. to enable you to access and use the Platform and to optimize the type of Offers presented to you when you use the Platform;
-  * 5.2. to enable any identification programs we may institute and which you elect to participate (e.g. TruYou), such as verifying your identity and address, and to conduct checks against various publically available databases;
-  * 5.3. to operate, protect, improve and optimize the Platform, our business, and our users’ experience, such as to perform analytics, conduct research, and for advertising and marketing;
-  * 5.4. to help create and maintain a trusted and safer environment on the Platform including detection and prevention of fraud, unauthorized access, intrusion, and service interruption;
-  * 5.5. to conduct investigations and to respond to disputes between users, refund requests and other similar customer support service;
-  * 5.6. to send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you;
-  * 5.7. where we have your consent, to send you our newsletter, marketing and promotional messages and other information that may be of interest to you, including OfferUp’s newsletter and other information sent on behalf of our business partners that we think you may find interesting; and
-  * 5.8. to comply with our legal obligations or requests from law enforcement agencies, resolve any disputes that we may have with any of our users, and enforce our agreements with third parties.
+### Use of Information.
 
+**4\. General Uses.** OfferUp uses information about you for various purposes, including to:
 
-
-6\. Payment. OfferUp use or intends to use a third party credit card processing company to handle credit card payments made on the Platform. As part of this process, your name and other credit card information will be sent to third parties for processing.
-
-7\. Use of Communications. OfferUp will review, scan, or analyze your communications made via the Platform or with us for fraud prevention, risk assessment, legal/regulatory compliance, investigation, product development, research and customer support purposes. We may also scan, review or analyze messages for research and product development purposes to help make search, and user communications more efficient and effective, as well as to improve our product and service offerings.
-
-8\. Limitation on Use. OfferUp will not review, scan, or analyze your communications for sending third party marketing messages to you, nor will to use any of your credit card or payment information as part of our advertising or marketing campaigns.
-
-9\. Opting Out. You will be able to unsubscribe or opt-out from receiving certain marketing and promotional messages and communications by logging on to your OfferUp account then going to Settings and toggling the Newsletter switch to “off”, or by clicking the “unsubscribe” link in any promotional email we send to you.
-
-## Disclosure of Your Information.
-
-10\. Platform Disclosure. Your Personal Information may be disclosed on the Platform as follows: 
-
-  * 10.1. Certain information on OfferUp account will be made available to the public on the Platform, including your user name, picture (if one is provided), approximate geographical location to within five (5) miles your reported location, the date you created your OfferUp account, your participation or non-participation in the TruYou service and other services provided by us, and any Offers which are then outstanding. In addition to your information, your public profile will also display other users who may have “followed” you and your rating on OfferUp. Billing information will never be shared with another user.
-  * 10.2. OfferUp may ask you to review the other OfferUp users. If you choose to provide a review, your comments may be made public on the Platform.
+  * **4.1.** Enable you to access and use the OfferUp Service, to personalize the OfferUp Service, and to optimize the type of offers presented to you when you use the OfferUp Service;
+  * **4.2.** Create and maintain a trusted and safer environment on the OfferUp Service, including through detection and prevention of fraud, unauthorized access, intrusion, and service interruption;
+  * **4.3.** Conduct investigations and to respond to disputes between users, error resolution, and other similar customer support service;
+  * **4.4.** Enable any identification programs we may institute and in which you elect to participate (e.g. TruYou), such as verifying your identity and address, and conduct checks against various publicly available databases; 
+  * **4.5.** Operate, protect, improve and optimize the OfferUp Service, our business, and our users’ experience;
+  * **4.6.** Perform analytics, conduct research, and monitor and analyze trends, usage and activities in connection with the OfferUp Service;
+  * **4.7.** Communicate with you about products, services, offers, promotions, rewards, and events offered by OfferUp and others, and provide advertisements that match user profiles or interests, news and information we think will be of interest to you;
+  * **4.8.** Send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you;
+  * **4.9.** Comply with our legal obligations or requests from law enforcement agencies, resolve any disputes that we may have with any of our users, and enforce our agreements with third parties;
+  * **4.10.** Link or combine with information we get from others to help understand your needs and provide you with better service; 
+  * **4.11.** Assist third-party payment processors with transaction processing, error, chargeback and disputed transaction resolution, and similar payment processing functions; and
+  * **4.12.** Carry out any other purpose for which the information was collected.
 
 
 
-11\. Social Media. You may link your account on a third party social media site to your OfferUp account. We refer to a person’s contacts on these third party sites as “Friends.” When you create this link: 
+OfferUp is based in the United States and the information we collect is governed by U.S. law. By accessing or using the OfferUp Service or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. 
 
-  * 11.1. information you provide to us from the linking of your accounts may be published on your OfferUp account profile;
-  * 11.2. your activities on the Platform may be displayed to your Friends on the Platform and/or the third party site;
-  * 11.3. other OfferUp users may be able to see any common Friends that you may have with them, or that you are a Friend of their Friend if applicable;
-  * 11.4. other OfferUp users may be able to see any information you have provided on the linked social networking site(s); and
-  * 11.5. the information you provide to us from the linking of your accounts may be stored, processed and transmitted for fraud prevention and risk assessment purposes. The publication and display of information that you provide to OfferUp through this linkage is subject to your settings and authorizations on the Platform and the third party site.
+**5\. Payment.** OfferUp is integrated with one or more third-party payment processing service providers to allow sellers to accept credit card and other electronic payment methods for goods listed for sale on the OfferUp Service. As part of this process, your name and other payment information will be collected by OfferUp and the third-party payment processor for processing pursuant to that third party’s terms of service and privacy policy. For information regarding the third-party payment processing services integrated with OfferUp, please see our [FAQs](https://web.archive.org/payments/faq/seller/).
 
+### Sharing of Information.
 
+**6\. General.** We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-12\. Disclosures to Partners, Affiliates. 
-
-  * 12.1. OfferUp may distribute parts of the Platform (including your Offer) for display on sites operated by OfferUp’s business partners or on social media you have linked to your OfferUp account. If and when your Offers are displayed on a partner’s site or on a social media site, information from your public profile page may also be displayed.
-  * 12.2. We may allow our related entities such as our subsidiaries, and their employees, to use and process your Personal Information in the same way and to the same extent that we are permitted to under this Privacy Policy. These related entities comply with the same obligations that we have to protect your Personal Information under this Privacy Policy.
-  * 12.3. We may also engage third party companies and individuals to help verify your identification or to conduct checks against databases such as public government databases (where legally allowed). We may provide Personal Information about you to these third parties, or give them access to this Personal Information, for the limited purpose of allowing them to provide these services. We will bind such third parties with contractual obligations to protect this Personal Information and to not use it for unrelated purposes.
-  * 12.4. You acknowledge, consent and agree that OfferUp may access, preserve and disclose your information, including all Personal Information, if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to (a) respond to claims asserted against OfferUp; (b) to comply with legal process (for example, court orders, subpoenas and warrants); (c) to enforce and administer our agreements with users, such as the [Terms of Service](https://web.archive.org/terms/); (d) for fraud prevention, risk assessment, investigation, customer support, product development and de-bugging purposes; or (e) to protect the rights, property or personal safety of OfferUp, its users or members of the public.
-  * 12.5. We may also publish, disclose and use your data and non-Personal Information for industry analysis, demographic profiling, marketing and advertising, and other business purposes.
+  * **6.1.** With the public on the OfferUp Service. For a detailed description of the type of information associated with your OfferUp account that is made available publicly through the OfferUp Service, please see our [FAQs](https://web.archive.org/support/?return_to=/hc/en-us/articles/205596725).
+  * **6.2.** With vendors, consultants and other service providers who need access to such information to carry out work on our behalf (including without limitation with third-party service providers that may help us to detect inaccurate or fraudulent personal identification documents and related information);
+  * **6.3.** In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * **6.4.** If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of OfferUp or others;
+  * **6.5.** In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;
+  * **6.6.** Between and among OfferUp, and its current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; and
+  * **6.7.** With your consent or at your direction, including if we notify you through the OfferUp Service that the information you provide will be shared in a particular manner and you provide such information.
 
 
 
-## Transfers Upon Major Corporate Events.
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-13\. If OfferUp or its owners engages in any merger, acquisition, reorganization, sale of all or substantially all of its assets or bankruptcy or insolvency (“Major Corporate Event”), we may, as part of the transaction, sell, transfer or share some or all of your information, including your Personal Information. OfferUp will not sell your Personal Information to any third party outside of a Major Corporate Event. 
+**7\. Social Sharing Features.** The OfferUp Service may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on the OfferUp Service with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide those features. 
 
-## Changing Your Information.
+### Advertising and Analytics Services Provided by Others
 
-14\. You may review, update, correct or delete the Personal Information in your OfferUp account by logging in to your account. If you would like to cancel your OfferUp account entirely, please [contact us](https://help.offerupnow.com/account/dropboxes/20198453), and enter your request for cancellation. Please also note that any reviews, forum postings and similar materials posted by you may continue to be publicly available on the Platform in association with your account name, even after your OfferUp account is cancelled. 
+**8.** We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the OfferUp Service and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by OfferUp and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the OfferUp Service and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purpose, please visit <http://www.networkadvertising.org/choices/> and <http://www.aboutads.info/choices/>.
 
-## Security of Your Personal Information.
+### Security
 
-15\. All communication between the Platform to OfferUp’s servers is encrypted using 128-bit SSL. We have also sought to use other reasonable administrative, technical, and physical security measures to protect your Personal Information and other information against the unauthorized access, destruction or alteration of your information. However, no method of transmission over the Internet, and no method of storing electronic information, can be 100% secure. OfferUp cannot guarantee the absolute security of your transmissions to us and of your Personal Information that we store. 
+**9.** OfferUp takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
-16\. If you become aware of a security issue, please provide us with details regarding the security issue [here](https://help.offerupnow.com/account/dropboxes/20198453). We will work with you to address the security issues you have encountered. 
+### Your Choices
 
-## Third Party Websites.
+**10\. Account Information.** You may update, correct or delete information about you at any time by logging in to your account. If you would like to cancel your OfferUp account entirely, please [contact us](https://web.archive.org/support/new/), and enter your request for cancellation, but please note that we may retain certain information as required by law or for legitimate business purposes. For example, any reviews, forum postings and similar materials posted by you may continue to be publicly available on the OfferUp Service in association with your account name even after your OfferUp account is cancelled. We may also retain cached or archived copies of information about you for a certain period of time.
 
-17\. The Platform will contain links to other websites not owned or controlled by OfferUp. These other websites may place their own cookies, web beacons or other files on your device, or collect and solicit Personal Information from you. These third parties will have their own rules about the collection, use and disclosure of Personal Information. OfferUp encourages you to read the terms of use and privacy policies of the other websites and mobile applications that you visit. 
+**11\. Location Information.** When you first download or launch any of our mobile applications that collect location information or first use any features that use location information, you will be asked to consent to the application’s collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications form your device.
 
-18\. The Platform utilizes Google Maps API(s) to give other users your approximate location. Your use of Google Maps/Earth is subject to [Google’s terms of use](http://www.google.com/intl/en_us/help/terms_maps.html) and [Google’s privacy policy](http://www.google.com/privacy.html), as may be amended by Google from time to time. 
+Even if you do not provide us with consent to collect precise location information from your mobile device or platform, we may use your IP address to infer an approximation of your location when using certain features of the OfferUp Services, such as the OfferUp payments solution.
 
-19\. The Platform utilizes Facebook Connect API(s) to allow you to log on to the Platform using your Facebook account. Your use of Facebook is subject to [Facebook’s terms and policies](https://www.facebook.com/policies), as may be amended by Facebook from time to time. 
+**12\. Cookies.** Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with the OfferUp Service. To delete or disable flash cookies please visit [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security) for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the OfferUp Service.
 
-20\. The Platform utilizes Balanced and the APIs supplied by Balanced to process all credit card payments made on the Platform. Use of Balanced is subject to [Balanced’s terms of use](https://www.balancedpayments.com/terms), and [Balanced’s privacy policy](https://www.balancedpayments.com/privacy). 
+**13\. Promotional Communications.** You may opt out of receiving promotional emails, text messages, and other communications from OfferUp by following the instructions in those emails, text messages or other communications or by logging on to your OfferUp account and going to Settings.
 
-## Amendments.
+### Questions and Comments.
 
-21\. OfferUp may change how we collect and then use Personal Information at any time, at our sole discretion. 
-
-22\. We may change this Privacy Policy at any time. If we make material changes to the Privacy Policy, we will notify you either by posting the changed Privacy Policy on the Platform or by sending an e-mail to you. We will also update the “Last Updated Date” and the “Effective Date” at the top of this Privacy Policy. If we let you know of changes through an email communication, then the date on which the e-mail is sent shall be the deemed to be the date of your receipt of that email. 
-
-23\. It’s important that you review the changed Privacy Policy. If you do not wish to agree to the changed Privacy Policy, then we will not be able to continue providing the Platform to you, and your only option will be to stop accessing the Platform and deactivate your OfferUp account. 
-
-## Applicable Law.
-
-24\. International Users. If you are located anywhere outside of the United States, please be aware that information we collect, including, Personal Information, will be transferred to, processed and stored in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the Platform or providing us with any information, you consent to this transfer, processing and storage of your information in the United States. 
-
-25\. Notice to California Residents. Under California Civil Code Section 1798.83 (known as the “Shine the Light” law), OfferUp customers who are residents of California may request certain information regarding the disclosure of your Personal Information during the immediate prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: 
-
-  * OfferUp, Inc.  
-Customer Service  
-P.O. Box 57  
-Bellevue, Washington 98004 
-  * or send us your request electronically [here](https://help.offerupnow.com/account/dropboxes/20198453).
-
-
-
-## Questions and Comments.
-
-If you’d like to provide feedback to us about this Privacy Policy, or if you have any questions, please contact us. 
+If you’d like to provide feedback to us about this Privacy Policy, or if you have any questions, please contact us at [support@offerupnow.com](mailto:support@offerupnow.com).
