@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the cjr.org privacy policy that was archived on 2015-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150308020753id_/http%3A//www.cjr.org/about_us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cjr.org privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Columbia Journalism Review
 
 ### About Us
 
-[Mission Statement ](https://web.archive.org/web/20150308020753id_/http%3A//www.cjr.org/about_us/mission_statement.php)  
-[Masthead ](https://web.archive.org/web/20150308020753id_/http%3A//www.cjr.org/about_us/masthead.php)  
-[Major Funders ](https://web.archive.org/web/20150308020753id_/http%3A//www.cjr.org/about_us/masthead.php#MajorFunders)  
-[Press Room ](https://web.archive.org/web/20150308020753id_/http%3A//www.cjr.org/about_us/press_room.php)  
-[Follow Us ](https://web.archive.org/web/20150308020753id_/http%3A//www.cjr.org/about_us/follow_us.php)  
-[Privacy Policy ](https://web.archive.org/web/20150308020753id_/http%3A//www.cjr.org/about_us/privacy_policy.php)  
+[Mission Statement ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/mission_statement.php)  
+[Masthead ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/masthead.php)  
+[Major Funders ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/masthead.php#MajorFunders)  
+[Press Room ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/press_room.php)  
+[Follow Us ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/follow_us.php)  
+[Privacy Policy ](https://web.archive.org/web/20150812084804id_/http%3A//www.cjr.org/about_us/privacy_policy.php)  
 
 
 * * *
