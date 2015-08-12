@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the offerupnow.com privacy policy that was archived on 2015-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319033207id_/https%3A//offerupnow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the offerupnow.com privacy policy that was archived on 2015-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150812070501id_/https%3A//offerupnow.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# offerup: http://ogp.me/ns/fb/offerup#">
     
@@ -12,7 +12,6 @@
     
         <meta name="robots" content="NOODP">
         <meta name="robots" content="index,follow">
-    
     
     <meta name="p:domain_verify" content="1d7e114ee3af2b13ced8508628f804b9">
 
@@ -37,7 +36,7 @@
             <meta property="og:url" content="https://offerupnow.com">
             <meta property="og:title" content="OfferUp | buy. sell. simple.">
             <meta property="og:description" content="OfferUp is revolutionizing how we sell by making it a snap! Instantly connect with buyers and sellers near you.">
-            <meta property="og:image" content="https://d2fa3j67sd1nwo.cloudfront.net/images/ouscreenshot.png">
+            <meta property="og:image" content="https://d2fa3j67sd1nwo.cloudfront.net/images/offerup.png">
         
     
 
@@ -55,18 +54,18 @@
     <link rel="icon" type="image/png" sizes="32x32" href="https://d2fa3j67sd1nwo.cloudfront.net/images/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="https://d2fa3j67sd1nwo.cloudfront.net/images/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://d2fa3j67sd1nwo.cloudfront.net/images/favicon-16x16.png">
-    <link rel="manifest" href="/manifest.json">
+    <link rel="manifest" href="https://d2fa3j67sd1nwo.cloudfront.net/images/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     
-        <link href="https://d2fa3j67sd1nwo.cloudfront.net/style/bundle.d3c8c8ac3f17.css" rel="stylesheet" type="text/css" media="screen, projection">
+        <link href="https://d2fa3j67sd1nwo.cloudfront.net/style/bundle.33b5b69e3f90.css" rel="stylesheet" type="text/css" media="screen, projection">
         <link href="https://d2fa3j67sd1nwo.cloudfront.net/style/bundle-print.beb76c08da66.css" rel="stylesheet" type="text/css" media="print">
         
     
 
     
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://d2fa3j67sd1nwo.cloudfront.net/js/bundle.6e510e26e69e.js" charset="utf-8"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://d2fa3j67sd1nwo.cloudfront.net/js/bundle.b23b6abd787a.js" charset="utf-8"></script>
 
     <script type="text/javascript">
         $(document).ready(function() {
@@ -74,6 +73,7 @@
             $('input[title!=""]').hint();
             $('textarea[title!=""]').hint();
             $(".popup_tip").fancybox({
+                'centerOnScroll': true,
                 'titleShow': false,
                 'scrolling': 'no',
                 'autoScale': false,
@@ -129,43 +129,23 @@
 
 <body>
 
-        <!--Zendesk support-->
-        <script type="text/javascript" src="https://assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
-        <style type="text/css" media="screen, projection">
-          @import url(https://assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
-        </style>
-        <script type="text/javascript">
-            if (typeof(Zenbox) !== "undefined") {
-                Zenbox.init({
-                  dropboxID:   "20276547",
-                  url:         "https://help.offerupnow.com",
-                  tabTooltip:  "Support",
-                  tabImageURL: "https://assets.zendesk.com/external/zenbox/images/tab_support.png",
-                  tabColor:    "black",
-                  tabPosition: "Left",
-                  hide_tab:   "true"
-                });
-            }
-        </script>
-        <!---->
-
 
 
     
+    <script src="https://d2fa3j67sd1nwo.cloudfront.net/js/django_facebook.js" type="text/javascript"></script>
     <div id="fb-root"></div>
-<!--Some facebook code requires the fb-root div -->
-<script src="https://d2fa3j67sd1nwo.cloudfront.net/js/facebook.js" type="text/javascript"></script>
-<script>
-    facebookAppId = '245858875457163';
-    facebookDefaultScope = ["email"];
-    staticUrl = 'https://d2fa3j67sd1nwo.cloudfront.net/';
-    function facebookJSLoaded(){
-        FB.init({appId: facebookAppId, status: false, cookie: true, xfbml: true, oauth: true});
-    }
-    window.fbAsyncInit = facebookJSLoaded;
-    F = new facebookClass(facebookAppId);
-    F.load();
-</script>
+    <script>
+        facebookAppId = '245858875457163';
+        facebookDefaultScope = ["email", "user_friends"];
+        staticUrl = 'https://d2fa3j67sd1nwo.cloudfront.net/';
+        function facebookJSLoaded(){
+            FB.init({appId: facebookAppId, status: false, cookie: true, xfbml: true, oauth: true, version:'v2.0'});
+        }
+        window.fbAsyncInit = facebookJSLoaded;
+        F = new facebookClass(facebookAppId);
+        F.load();
+    </script>
+
 
     
         <script type="text/javascript">
@@ -173,6 +153,7 @@
                 $("a.sendapp_link").click(function(e){
                     $href = this.href;
                     $.fancybox({
+                        'centerOnScroll': true,
                         'autoScale'		: true,
                         'scrolling'     : 'no',
                         'href'			: $href,
@@ -232,14 +213,17 @@
         <input align="left" type="text" placeholder="Search..." name="q" value="">
         
         
-        
+         
+        <input type="hidden" title="" name="price_min" value="">
+        <input type="hidden" title="" name="price_max" value="">
     </form>
 
     <form name="search-for-location" class="left" action="">
         <a id="geo-location" href="javascript:detectLocation()" class="underline-none text-center">
             <i class="ss-location opa-less" title="Get Your Location"></i>
         </a>
-        <img id="loading-indicator" class="status_loading_gif hidden vertical-middle" style="width:16px" src="https://d2fa3j67sd1nwo.cloudfront.net/images/ajax-loader.gif" width="16" height="16">
+        <span id="loading-indicator" class="loading-indicator opa-less vertical-middle" style="display: none;"><i class="ss-refresh animation-spin"></i></span>
+        <!--<img id="loading-indicator" class="status_loading_gif hidden vertical-middle" style="width:16px" src="https://d2fa3j67sd1nwo.cloudfront.net/images/ajax-loader.gif" width="16" height="16"/>-->
         <input align="left" type="text" id="ou-location" name="ou_location" value="San Francisco, CA">
     </form>
     <a id="search-submit-button" class="right" href="">Go!</a>
@@ -345,12 +329,22 @@
             var searchValue = $('input[name=q]', $('form[name=search-for-item]')).val();
             $('input[name=q]', $('form[name=search-for-item]')).val(searchValue).focus();
         })
+        $('form[name=search-for-item]').submit(function(){
+            if($('form[name=search-for-item]').length){
+                var $formPriceFilter = $('form[name=form-price-filter]');
+                $('input[name=price_min]', $(this)).val($('input[name=price_min]',$formPriceFilter).val());
+                $('input[name=price_max]', $(this)).val($('input[name=price_max]',$formPriceFilter).val());
+            }
+        })
+
         $('a#search-submit-button').on('click', function(e){
             e.preventDefault();
-            $('form[name=search-for-item]').submit();
+            var $formSearchItem= $('form[name=search-for-item]'); 
+            $formSearchItem.submit();
         })
     })
-</script></div>
+</script>
+</div>
         <div class="right">
             <div class="left">
                 <div>
@@ -362,12 +356,12 @@
                                     <div class="content-tab-tip"></div>
                                     <ul class="dropdown-menu">
                                         <li class="placeholder"></li>
-                                        <li><a href="/about/"><i class="ss-textfile"></i> About Us</a></li>
-                                        <li><a href="/howitworks/"><i class="ss-lightbulbon"></i> How It Works</a></li>
-                                        <li><a href="/truyou/"><div style="padding-left:0px"><img width="18" border="0" src="https://d2fa3j67sd1nwo.cloudfront.net/images/truyou_greybadge.png"> TruYou</div></a></li>
-                                        <li><a href="/jobs/"><i class="ss-leaf"></i> Jobs</a></li>
+                                        <li><a href="/about/"><i class="ss-textfile"></i>About Us</a></li>
+                                        <li><a href="/howitworks/"><i class="ss-lightbulbon"></i>How It Works</a></li>
+                                        <li class="img"><a href="/trust/"><i class="sprite-main truyou-nav-icon"></i>Trust &amp; Safety</a></li>
+                                        <li><a href="/jobs/"><i class="ss-leaf"></i>Jobs</a></li>
                                         <li class="separator"></li>
-                                        <li><a href="/support/"><i class="ss-help"></i> Need Help?</a></li>
+                                        <li><a href="/support/"><i class="ss-help"></i>Need Help?</a></li>
                                         <li class="align"><a href="/terms/">Terms</a></li>
                                         <li class="align"><a href="/privacy/">Privacy</a></li>
                                     </ul>
@@ -375,8 +369,9 @@
                             </li>
                         
                         
-                            <li><a id="login" href="/accounts/login/">Login</a></li>
-                            <li><a href="/accounts/register/">Sign Up</a></li>
+                            
+                            <li><a id="login" class="modal-trigger" href="/accounts/login_include/">Login</a></li>
+                            <li><a class="modal-trigger" href="/accounts/register_include/">Sign Up</a></li>
                         
                         <li>
                             <div style="width:80px;">
@@ -405,6 +400,11 @@
             }
         })
         /*Dropdown */
+        $('li.img', $('.dropdown-menu')).hover(
+            function(){$('i', $(this)).toggleClass('hover');},
+            function(){$('i', $(this)).toggleClass('hover');}
+        )
+
         $('.dropdown-tab', $('.main-menu')).click(function(){
             if($('.content-tab',$(this)).css('display')=='none'){
 
@@ -440,6 +440,20 @@
                 })
             }
         });
+
+        $("a.modal-trigger").click(function(){
+            $.fancybox({
+                'centerOnScroll': true,
+                'autoScale'		: false,
+                'scrolling'     : 'no',
+                'padding'       : 0,
+                'type'          : 'ajax',
+                'href'			: $(this).attr('href')
+            })
+            return false;
+        });
+
+        
     })
 </script>
 
@@ -453,156 +467,75 @@
 
 
 <div class="container">
-    <h1 class="title-alt text-center">Privacy Policy</h1>
-    <div class="clearfix">
-        <div class="right" style="width: 300px;">
-            Last Updated on July 11th, 2014
-            <br>Effective as of July 11th, 2014
-        </div>
-    </div>
-    <p>
-        OfferUp, Inc., the company behind OfferUp.com (hereafter “OfferUp”, “our,” “we,” or “us”) has created this Privacy Policy to explain how your information is collected and used.  This Privacy Policy applies to our web sites as well as our mobile applications (collectively, “Platform”).
-By visiting and using the Platform, you consent to our Terms of Use, which is incorporated by reference including applicable terms regarding limitations on liability and the resolution of disputes.  You acknowledge our use of your information per the terms of this Privacy Policy.  We reserve the right to modify this Privacy Policy in the future.  You can always review the most current version at <a href="/privacy/" class="alt" target="_self">www.offerup.com/privacy</a>.  See <a href="#Notice-to-California-Residents" class="hash alt" target="_self">section 25</a> below for Notice to California Residents.
-    </p>
-    <h2>Data Collected From You.</h2>
-    1. <span class="underline">Information Submitted by You</span>.  OfferUp receives, stores, and processes information that you provide when using our Platform, including:
-    <ul class="vertical type-none">
-        <li>1.1. information you submit to the Platform, such as when you register or update the details of your account, information and documents provided to us when you participate in identification programs such as TruYou, and any payment information you submit to the Platform such as credit card number, expiration, and security codes, or digital payment system account;</li>
-        <li>1.2. information you post in order to sell any product on the Platform, including any photographs, written descriptions and your location (“Offers”), as well as any bids you make on Offers through the Platform; and</li>
-        <li>1.3. any reviews or comments you make using the Platform, all correspondence or communications with another user conducted the Platform, or if you contact or communicate with us, whether through written or verbal communications.</li>
-    </ul>
+    <h1 class="title text-center">Privacy Policy</h1>
+    <p>LAST UPDATED: August 07, 2015</p>
+    <p>This Privacy Policy explains how information about you is collected, used and disclosed by OfferUp, Inc. (hereafter “OfferUp”, “our,” “we,” or “us”).  This Privacy Policy applies to information we collect when you use our website, mobile applications and other online services (collectively, the “OfferUp Service”) or when you otherwise interact with us.
+</p>
+<p>We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with more prominent notice (such as adding a statement to our homepage or sending you an email notification).  We encourage you to review the Privacy Policy whenever you access the OfferUp Service to stay informed about our information practices and the ways you can help protect your privacy.</p>
+<p></p>
+<p>Note: OfferUp is piloting a new electronic payments solution that is only available to certain users.  As a result, some of the provisions of this privacy policy related to the payments solution may not apply to all users.
+</p>
+<h3>Collection of Information</h3>
+<p><b>1. Information You Provide to Us.</b> OfferUp collects information that you provide directly to us.   For example, we collect information when you register or update the details of your account, participate in identification badge programs such as TruYou, post information in order to sell any good through the OfferUp Service, enroll in any third-party operated payment processing services offered in connection with the OfferUp Service, communicate with other users, provide reviews or other comments, request customer support or otherwise communicate with us.  The types of information we may collect include your name, email address, OfferUp account password, telephone number, postal address including city, state and zip code, photographs, written descriptions of your posted goods, any bids you make on offers through the OfferUp Service, any reviews or comments you make using the OfferUp Service, all correspondence or communications with other users or with us conducted via the OfferUp Service, government-issued identification documents (such as a driver’s license), and any other information you choose to provide.</p>
+<p><b>2. Information We Collect Automatically When You Use the OfferUp Service.</b>  When you access or use the OfferUp Service, we automatically collect information about you, including:</p>
+<ul class="type-none">
+    <li><b>2.1. Log Information:</b>  We log information about your use of the OfferUp Service, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our OfferUp Service.</li>
+    <li><b>2.2. Device Information:</b>  We collect information about the computer or mobile device you use to access the OfferUp Service, including the hardware model, operating system and version, unique device identifiers and mobile network information.</li>
+    <li><b>2.3. Location Information:</b>  If you consent to the collection of location information from your computer or mobile device, we may collect this information when you access or use the OfferUpService, or when you otherwise consent to the collection of this information.  We may also use your IP address to infer an approximate geographic location for your computer or device.  For more details, please see “Your Information Choices” below.</li>
+    <li><b>2.4. Information Collected by Cookies and Other Tracking Technologies:</b>  We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.  Cookies are small data files stored on your hard drive or in device memory that helps us to improve the OfferUp Service and your experience, see which areas and features of the OfferUp Service are popular and count visits.  We may also collect information using web beacons (also known as “gifs,” “pixel tags” and “tracking pixels”).  Web beacons are electronic images that may be used in the OfferUp Service or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.   For more information about cookies, and how to disable them, please see “Your Information Choices” below.</li>
+</ul>
+<p><b>3. Information from Third Parties.</b> OfferUp may, from time to time, obtain information from other sources and combine that with information we collect through the OfferUp Service in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you.  For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.</p>
 
-    <p>
-        2. <span class="underline">Information from Third Parties</span>.  OfferUp may, from time to time, supplement the information we collect about you through our Platform with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you.  OfferUp may also receive information from Facebook, or any other social media site or other third party service which OfferUp may support in the future, should you elect to log on to the Platform using such social media sites.  We may combine the information we receive from those sources with information we collect through the Platform.  In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have disclosed otherwise.
-    </p>
-    <p>
-        3. <span class="underline">Internet/Mobile Data and Metadata</span>.  When you use the Platform, we receive, store and process a variety of information about your location (e.g. IP address, GPS coordinates), your device (e.g. make, model and specifications of your device, OS, UDID), metadata (e.g. time, date and location of when a post was made) and other similar data, to the extent sent by your computer or mobile device or generated as part of the data communications with the Platform.
-    </p>
-    <p>
-        4. <span class="underline">Tracking Technologies; Advertising</span>.
-    </p>
-    <ul class="verticle type-none">
-        <li>4.1. OfferUp uses, or may use, cookies, tracking pixels, embedded scripts and other similar tracking technologies on the Platform and may, without further consultation with you, and may permit its partners to do the same.  By accessing or using the Platform, you will provide or make available certain information to us and to our partners.  OfferUp will track your activities if you click on advertisements for our services on third party platforms such as search engines and social networks, and do use analytics to track what you do in response to those advertisements.  All information which could reasonably be used to identify you personally (e.g. your name, e-mail address, location, IP address) are hereafter (“Personal Information”).</li>
-        <li>4.2. OfferUp does not currently offer targeted advertising through the Platform, though we reserve the right to do or allow our partners to do so in the future without further consultation from you. We do not currently support any browser based Do Not Track (DNT) settings or participate in any DNT frameworks, and we do not assign any meaning to any potential DNT track signals you may send or alter any of our data collection or use practices in response to such signals.&nbsp;
-Use of Collected Data.</li>
-    </ul>
-    <p>
-        5. <span class="underline">General Uses</span>.  OfferUp uses and processes the collected information, including Personal Information, for the following uses:
-    </p>
-    <ul class="vertical type-none">
-        <li>5.1. to enable you to access and use the Platform and to optimize the type of Offers presented to you when you use the Platform;</li>
-        <li>5.2. to enable any identification programs we may institute and which you elect to participate (e.g. TruYou), such as verifying your identity and address, and to conduct checks against various publically available databases;</li>
-        <li>5.3. to operate, protect, improve and optimize the Platform, our business, and our users’ experience, such as to perform analytics, conduct research, and for advertising and marketing;</li>
-        <li>5.4. to help create and maintain a trusted and safer environment on the Platform including detection and prevention of fraud, unauthorized access, intrusion, and service interruption;</li>
-        <li>5.5. to conduct investigations and to respond to disputes between users, refund requests and other similar customer support service;</li>
-        <li>5.6. to send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you;</li>
-        <li>5.7. where we have your consent, to send you our newsletter, marketing and promotional messages and other information that may be of interest to you, including OfferUp’s newsletter and other information sent on behalf of our business partners that we think you may find interesting; and</li>
-        <li>5.8. to comply with our legal obligations or requests from law enforcement agencies, resolve any disputes that we may have with any of our users, and enforce our agreements with third parties.</li>
-    </ul>
+<h3>Use of Information.</h3>
+<p><b>4. General Uses.</b>  OfferUp uses information about you for various purposes, including to:</p>
+<ul class="type-none">
+    <li><b>4.1.</b> Enable you to access and use the OfferUp Service, to personalize the OfferUp Service, and to optimize the type of offers presented to you when you use the OfferUp Service;</li>
+    <li><b>4.2.</b> Create and maintain a trusted and safer environment on the OfferUp Service, including through detection and prevention of fraud, unauthorized access, intrusion, and service interruption;</li>
+    <li><b>4.3.</b> Conduct investigations and to respond to disputes between users, error resolution, and other similar customer support service;</li>
+    <li><b>4.4.</b> Enable any identification programs we may institute and in which you elect to participate (e.g. TruYou), such as verifying your identity and address, and conduct checks against various publicly available databases; </li>
+    <li><b>4.5.</b> Operate, protect, improve and optimize the OfferUp Service, our business, and our users’ experience;</li>
+    <li><b>4.6.</b> Perform analytics, conduct research, and monitor and analyze trends, usage and activities in connection with the OfferUp Service;</li>
+    <li><b>4.7.</b> Communicate with you about products, services, offers, promotions, rewards, and events offered by OfferUp and others, and provide advertisements that match user profiles or interests, news and information we think will be of interest to you;</li>
+    <li><b>4.8.</b> Send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you;</li>
+    <li><b>4.9.</b> Comply with our legal obligations or requests from law enforcement agencies, resolve any disputes that we may have with any of our users, and enforce our agreements with third parties;</li>
+    <li><b>4.10.</b> Link or combine with information we get from others to help understand your needs and provide you with better service; </li>
+    <li><b>4.11.</b> Assist third-party payment processors with transaction processing, error, chargeback and disputed transaction resolution, and similar payment processing functions; and</li>
+    <li><b>4.12.</b> Carry out any other purpose for which the information was collected.</li>
+</ul>
+<p>OfferUp is based in the United States and the information we collect is governed by U.S. law.  By accessing or using the OfferUp Service or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. </p>
+<p><b>5. Payment.</b> OfferUp is integrated with one or more third-party payment processing service providers to allow sellers to accept credit card and other electronic payment methods for goods listed for sale on the OfferUp Service. As part of this process, your name and other payment information will be collected by OfferUp and the third-party payment processor for processing pursuant to that third party’s terms of service and privacy policy.  For information regarding the third-party payment processing services integrated with OfferUp, please see our <a href="/payments/faq/seller/" class="alt">FAQs</a>.</p>
+<h3>Sharing of Information.</h3>
+<p><b>6. General.</b> We may share information about you as follows or as otherwise described in this Privacy Policy:</p>
+<ul class="type-none">
+    <li><b>6.1.</b> With the public on the OfferUp Service.  For a detailed description of the type of information associated with your OfferUp account that is made available publicly through the OfferUp Service, please see our <a href="/support/?return_to=/hc/en-us/articles/205596725" rel="nofollow" class="alt">FAQs</a>.</li>
+    <li><b>6.2.</b> With vendors, consultants and other service providers who need access to such information to carry out work on our behalf (including without limitation with third-party service providers that may help us to detect inaccurate or fraudulent personal identification documents and related information);</li>
+    <li><b>6.3.</b> In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;</li>
+    <li><b>6.4.</b> If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of OfferUp or others;</li>
+    <li><b>6.5.</b> In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company;</li>
+    <li><b>6.6.</b> Between and among OfferUp, and its current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; and</li>
+    <li><b>6.7.</b> With your consent or at your direction, including if we notify you through the OfferUp Service that the information you provide will be shared in a particular manner and you provide such information.</li>
+</ul>
+<p>We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</p>
+<p><b>7. Social Sharing Features.</b>  The OfferUp Service may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on the OfferUp Service with other media, and vice versa.  The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.  For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide those features. </p>
 
-    <p>6. <span class="underline">Payment</span>.  OfferUp use or intends to use a third party credit card processing company to handle credit card payments made on the Platform.  As part of this process, your name and other credit card information will be sent to third parties for processing.</p>
-    <p>7. <span class="underline">Use of Communications</span>.  OfferUp will review, scan, or analyze your communications made via the Platform or with us for fraud prevention, risk assessment, legal/regulatory compliance, investigation, product development, research and customer support purposes.  We may also scan, review or analyze messages for research and product development purposes to help make search, and user communications more efficient and effective, as well as to improve our product and service offerings.</p>
-    <p>8. <span class="underline">Limitation on Use</span>.  OfferUp will not review, scan, or analyze your communications for sending third party marketing messages to you, nor will to use any of your credit card or payment information as part of our advertising or marketing campaigns.</p>
-    <p>9. <span class="underline">Opting Out</span>.  You will be able to unsubscribe or opt-out from receiving certain marketing and promotional messages and communications by logging on to your OfferUp account then going to Settings and toggling the Newsletter switch to “off”, or by clicking the “unsubscribe” link in any promotional email we send to you.</p>
+<h3>Advertising and Analytics Services Provided by Others</h3>
+<p><b>8.</b> We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services.  These entities may use cookies, web beacons and other technologies to collect information about your use of the OfferUp Service and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.  This information may be used by OfferUp and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the OfferUp Service and other websites and better understand your online activity.  For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purpose, please visit <a href="http://www.networkadvertising.org/choices/" class="alt" rel="nofollow" target="_blank">http://www.networkadvertising.org/choices/</a> and <a href="http://www.aboutads.info/choices/" class="alt" rel="nofollow&quot;" target="_blank">http://www.aboutads.info/choices/</a>.</p>
 
+<h3>Security</h3>
+<p><b>9.</b> OfferUp takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.</p>
 
-    <h2>Disclosure of Your Information.</h2>
-    <p>
-        10. <span class="underline">Platform Disclosure</span>.  Your Personal Information may be disclosed on the Platform as follows:
-    </p>
-        <ul class="vertical_none" style="margin-left: 30px;">
-            <li>10.1. Certain information on OfferUp account will be made available to the public on the Platform, including your user name, picture (if one is provided), approximate geographical location to within five (5) miles your reported location, the date you created your OfferUp account, your participation or non-participation in the TruYou service and other services provided by us, and any Offers which are then outstanding.  In addition to your information, your public profile will also display other users who may have “followed” you and your rating on OfferUp.   Billing information will never be shared with another user.</li>
-            <li>10.2. OfferUp may ask you to review the other OfferUp users. If you choose to provide a review, your comments may be made public on the Platform.</li>
-        </ul>
-    
+<h3>Your Choices</h3>
+<p><b>10. Account Information.</b> You may update, correct or delete information about you at any time by logging in to your account. If you would like to cancel your OfferUp account entirely, please <a href="/support/new/" class="alt">contact us</a>, and enter your request for cancellation, but please note that we may retain certain information as required by law or for legitimate business purposes. For example, any reviews, forum postings and similar materials posted by you may continue to be publicly available on the OfferUp Service in association with your account name even after your OfferUp account is cancelled.  We may also retain cached or archived copies of information about you for a certain period of time.</p>
+<p><b>11. Location Information.</b> When you first download or launch any of our mobile applications that collect location information or first use any features that use location information, you will be asked to consent to the application’s collection of this information. If you initially consent to our collection of location information, you can subsequently stop the collection of this information at any time by changing the preferences on your mobile device.  You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications form your device.</p>
+<p>Even if you do not provide us with consent to collect precise location information from your mobile device or platform, we may use your IP address to infer an approximation of your location when using certain features of the OfferUp Services, such as the OfferUp payments solution.</p>
 
-    <p>
-        11. <span class="underline">Social Media</span>.  You may link your account on a third party social media site to your OfferUp account. We refer to a person’s contacts on these third party sites as “Friends.”  When you create this link:
-    </p>
-        <ul class="vertical type-none">
-            <li>11.1. information you provide to us from the linking of your accounts may be published on your OfferUp account profile;</li>
-            <li>11.2. your activities on the Platform may be displayed to your Friends on the Platform and/or the third party site;</li>
-            <li>11.3. other OfferUp users may be able to see any common Friends that you may have with them, or that you are a Friend of their Friend if applicable;</li>
-            <li>11.4. other OfferUp users may be able to see any information you have provided on the linked social networking site(s); and</li>
-            <li>11.5. the information you provide to us from the linking of your accounts may be stored, processed and transmitted for fraud prevention and risk assessment purposes. The publication and display of information that you provide to OfferUp through this linkage is subject to your settings and authorizations on the Platform and the third party site.</li>
-        </ul>
-    
-    <p>
-        12. <span class="underline">Disclosures to Partners, Affiliates</span>.
-    </p>
-    <ul class="vertical type-none">
-        <li>12.1. OfferUp may distribute parts of the Platform (including your Offer) for display on sites operated by OfferUp’s business partners or on social media you have linked to your OfferUp account.  If and when your Offers are displayed on a partner’s site or on a social media site, information from your public profile page may also be displayed.</li>
-        <li>12.2. We may allow our related entities such as our subsidiaries, and their employees, to use and process your Personal Information in the same way and to the same extent that we are permitted to under this Privacy Policy. These related entities comply with the same obligations that we have to protect your Personal Information under this Privacy Policy.</li>
-        <li>12.3. We may also engage third party companies and individuals to help verify your identification or to conduct checks against databases such as public government databases (where legally allowed). We may provide Personal Information about you to these third parties, or give them access to this Personal Information, for the limited purpose of allowing them to provide these services. We will bind such third parties with contractual obligations to protect this Personal Information and to not use it for unrelated purposes.</li>
-        <li>12.4. You acknowledge, consent and agree that OfferUp may access, preserve and disclose your information, including all Personal Information, if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to (a) respond to claims asserted against OfferUp; (b) to comply with legal process (for example, court orders, subpoenas and warrants); (c) to enforce and administer our agreements with users, such as the <a href="/terms/" class="alt" target="_self">Terms of Service</a>; (d) for fraud prevention, risk assessment, investigation, customer support, product development and de-bugging purposes; or (e) to protect the rights, property or personal safety of OfferUp, its users or members of the public.</li>
-        <li>12.5. We may also publish, disclose and use your data and non-Personal Information for industry analysis, demographic profiling, marketing and advertising, and other business purposes.</li>
-    </ul>
+<p><b>12. Cookies.</b>  Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with the OfferUp Service.  To delete or disable flash cookies please visit <a href="http://www.adobe.com/products/flashplayer/security" class="alt" rel="nofollow" target="_blank">www.adobe.com/products/flashplayer/security</a> for more information. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the OfferUp Service.</p>
 
-    <h2>Transfers Upon Major Corporate Events.</h2>
-    <p>
-        13. If OfferUp or its owners engages in any merger, acquisition, reorganization, sale of all or substantially all of its assets or bankruptcy or insolvency (“Major Corporate Event”), we may, as part of the transaction, sell, transfer or share some or all of your information, including your Personal Information.  OfferUp will not sell your Personal Information to any third party outside of a Major Corporate Event.
-    </p>
+<p><b>13. Promotional Communications.</b>  You may opt out of receiving promotional emails, text messages, and other communications from OfferUp by following the instructions in those emails, text messages or other communications or by logging on to your OfferUp account and going to Settings.</p>
 
-    <h2>Changing Your Information.</h2>
-    <p>
-        14. You may review, update, correct or delete the Personal Information in your OfferUp account by logging in to your account. If you would like to cancel your OfferUp account entirely, please <a class="alt" href="https://help.offerupnow.com/account/dropboxes/20198453" onclick="script: Zenbox.show(); return false;" rel="nofollow">contact us</a>, and enter your request for cancellation.  Please also note that any reviews, forum postings and similar materials posted by you may continue to be publicly available on the Platform in association with your account name, even after your OfferUp account is cancelled.
-    </p>
-
-    <h2>Security of Your Personal Information.</h2>
-    <p>
-        15. All communication between the Platform to OfferUp’s servers is encrypted using 128-bit SSL.  We have also sought to use other reasonable administrative, technical, and physical security measures to protect your Personal Information and other information against the unauthorized access, destruction or alteration of your information. However, no method of transmission over the Internet, and no method of storing electronic information, can be 100% secure. OfferUp cannot guarantee the absolute security of your transmissions to us and of your Personal Information that we store.
-    </p>
-    <p>
-        16. If you become aware of a security issue, please  provide us with details regarding the security issue <a class="alt" href="https://help.offerupnow.com/account/dropboxes/20198453" onclick="script: Zenbox.show(); return false;" rel="nofollow">here</a>.  We will work with you to address the security issues you have encountered.
-    </p>
-
-    <h2>Third Party Websites.</h2>
-    <p>
-        17. The Platform will contain links to other websites not owned or controlled by OfferUp.  These other websites may place their own cookies, web beacons or other files on your device, or collect and solicit Personal Information from you.  These third parties will have their own rules about the collection, use and disclosure of Personal Information. OfferUp encourages you to read the terms of use and privacy policies of the other websites and mobile applications that you visit.
-    </p>
-    <p>
-        18. The Platform utilizes Google Maps API(s) to give other users your approximate location.  Your use of Google Maps/Earth is subject to <a href="http://www.google.com/intl/en_us/help/terms_maps.html" class="alt" target="_new">Google’s terms of use</a> and <a href="http://www.google.com/privacy.html" class="alt" target="_new">Google’s privacy policy</a>, as may be amended by Google from time to time.
-    </p>
-    <p>
-        19. The Platform utilizes Facebook Connect API(s) to allow you to log on to the Platform using your Facebook account.  Your use of Facebook is subject to <a href="https://www.facebook.com/policies" class="alt" target="_new">Facebook’s terms and policies</a>, as may be amended by Facebook from time to time.
-    </p>
-    <p>
-        20. The Platform utilizes Balanced and the APIs supplied by Balanced to process all credit card payments made on the Platform.  Use of Balanced is subject to <a href="https://www.balancedpayments.com/terms" class="alt" target="_new">Balanced’s terms of use</a>, and <a href="https://www.balancedpayments.com/privacy" class="alt" target="_new">Balanced’s privacy policy</a>.
-    </p>
-
-    <h2>Amendments.</h2>
-    <p>
-        21. OfferUp may change how we collect and then use Personal Information at any time, at our sole discretion.
-    </p>
-    <p>
-        22. We may change this Privacy Policy at any time.  If we make material changes to the Privacy Policy, we will notify you either by posting the changed Privacy Policy on the Platform or by sending an e-mail to you. We will also update the “Last Updated Date” and the “Effective Date” at the top of this Privacy Policy.  If we let you know of changes through an email communication, then the date on which the e-mail is sent shall be the deemed to be the date of your receipt of that email.
-    </p>
-    <p>
-        23. It’s important that you review the changed Privacy Policy. If you do not wish to agree to the changed Privacy Policy, then we will not be able to continue providing the Platform to you, and your only option will be to stop accessing the Platform and deactivate your OfferUp account.
-    </p>
-
-    <h2>Applicable Law.</h2>
-    <p>
-        24. <span class="underline">International Users</span>.  If you are located anywhere outside of the United States, please be aware that information we collect, including, Personal Information, will be transferred to, processed and stored in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the Platform or providing us with any information, you consent to this transfer, processing and storage of your information in the United States.
-    </p>
-    <p>
-        25. <span class="underline" id="Notice-to-California-Residents">Notice to California Residents</span>.  Under California Civil Code Section 1798.83 (known as the “Shine the Light” law), OfferUp customers who are residents of California may request certain information regarding the disclosure of your Personal Information during the immediate prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
-    </p>
-    <ul class="vertical type-none">
-        <li>OfferUp, Inc.<br>
-            Customer Service<br>
-            P.O. Box 57<br>
-            Bellevue, Washington 98004&nbsp;
-        </li>
-        <li>or send us your request electronically <a class="alt" href="https://help.offerupnow.com/account/dropboxes/20198453" onclick="script: Zenbox.show(); return false;" rel="nofollow">here</a>.</li>
-    </ul>
-
-    <h2>Questions and Comments.</h2>
-    <p>
-        If you’d like to provide feedback to us about this Privacy Policy, or if you have any questions, please contact us.
-    </p>
+<h3>Questions and Comments.</h3>
+<p>If you’d like to provide feedback to us about this Privacy Policy, or if you have any questions, please contact us at <a href="mailto:support@offerupnow.com" class="disabled">support@offerupnow.com</a>.</p>
 </div>
-
 
 
 
@@ -611,7 +544,7 @@ Use of Collected Data.</li>
             <li><a href="/about/">About</a></li>
             <li><a href="/jobs/">Jobs</a></li>
             <li><a href="http://blog.offerupnow.com">Blog</a></li>
-            <li><a href="/truyou/">TruYou</a></li>
+            <li><a href="/trust/">Trust &amp; Safety</a></li>
             <li><a href="/terms/">Terms</a></li>
             <li><a href="/privacy/">Privacy</a></li>
             <li><a href="/support/" target="blank">Help</a></li>
@@ -640,10 +573,7 @@ Use of Collected Data.</li>
 
 
 
-    
-        
-        
-        <iframe src="https://offerup.go2cloud.org/aff_goal?a=l&amp;goal_id=4" scrolling="no" frameborder="0" width="0" height="0"></iframe>
+    <div style="display: none">
         <script type="text/javascript">
         /* <![CDATA[ */
         var google_conversion_id = 951943123;
@@ -652,16 +582,14 @@ Use of Collected Data.</li>
         var google_remarketing_only = true;
         /* ]]> */
         </script>
-        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-        </script>
-        <noscript>
-        <div style="display:inline;">
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+    </div>
+    <noscript>
+    <div style="display:inline;">
         <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/951943123/?value=0&amp;label=u_Y4CP3nngQQ0__1xQM&amp;guid=ON&amp;script=0"/>
-        </div>
-        </noscript>
-    
-<!-- Server:: ip-10-181-95-184 -->
-<!-- Build:: tag:  branch:  () -->
+    </div>
+    </noscript>
+
 
 
 
