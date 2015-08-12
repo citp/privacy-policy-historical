@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cincinnatibell.net privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607145808id_/http%3A//www.cincinnatibell.com/customer_support/policies/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cincinnatibell.net privacy policy that was archived on 2015-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150812052442id_/http%3A//www.cincinnatibell.com/customer_support/policies/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -31,18 +31,24 @@
     <script type="text/javascript">
         if (typeof (lpUnit) == 'undefined') { var lpUnit = 'consumer-support'; } // 'business-sales' or 'consumer-sales'
     </script>
-    <script type="text/Javascript" src="/js/chat/mtagconfig.js"></script>
-    <script type="text/javascript">
-	// liveperson chat
-	lpAddVars('page','Section','service');					// All tagged pages. 		Possible values: ['service','product','shop','cart','checkout']
-	lpAddVars('page','BusinessType','consumer');			// All tagged pages
-	lpAddVars('page','Region','in_territory');			// All tagged pages
-	lpAddVars('page','Category','policies');				// All tagged pages except for Cart and Checkout pages
-	lpAddVars('page','SubCategory','privacy_policy');		// All product detail pages
-	lpAddVars('page','OverlayFlag','0');					// All tagged pages.  Possible values: ['0','1']
+    <!-- liveperson -->
+<script type="text/javascript" src="/assets/chat/le-mtagconfig.js"></script>
+	<script type="text/javascript">
 	
-    </script>
-    <!-- google analytics -->
+
+
+	lpTag.sdes = lpTag.sdes||[];
+	lpTag.sdes.push(
+   		{
+       	 "type": "ctmrinfo",  //MANDATORY
+            "info": {
+            "ctype": "residential"  //BusinessType will now be sent over as CustomerType
+        	}
+   	}
+	);
+	
+	</script>
+<!-- end LP -->    <!-- google analytics -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
   //primary tracker UA-5638883-1
@@ -63,7 +69,7 @@
 
 </script>
 <!-- end google analytics -->
-<script type="text/javascript" charset="iso-8859-1" src="https://sales.liveperson.net/visitor/addons/deploy.asp?site=21850525&amp;d_id=consumer-support"></script></head>
+<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=21850525"></script></head>
 <body bgcolor="#ffffff" class="gradient">
     <div id="blueWrapContainer">
         
