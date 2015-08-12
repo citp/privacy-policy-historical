@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playmodo.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626050044id_/http%3A//playmodo.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmodo.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812062655id_/http%3A//playmodo.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PlayModo
 
