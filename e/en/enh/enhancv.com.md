@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enhancv.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316062604id_/http%3A//enhancv.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enhancv.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812094226id_/http%3A//enhancv.com/privacy-policy.html) for the most accurate reproduction.*
 
 # None
 
