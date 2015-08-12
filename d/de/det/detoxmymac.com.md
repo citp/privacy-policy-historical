@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the detoxmymac.com privacy policy that was archived on 2012-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121119235641id_/http%3A//www.detoxmymac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detoxmymac.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812223941id_/http%3A//detox-my-mac.com/privacy.html) for the most accurate reproduction.*
 
-# Detox My Mac Privacy Policy
+# Detox My Mac - Privacy Policy
 
-This Privacy Policy governs the manner in which Detox My Mac collects, uses, maintains and discloses information collected from users (each, a "User") of the detoxmymac.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Detox My Mac.
+This Privacy Policy governs the manner in which Detox My Mac collects, uses, maintains and discloses information collected from users (each, a "User") of the Detox-My-Mac.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Detox My Mac.
 
 **Personal identification information**
 
@@ -52,8 +52,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 **Detox My Mac**  
-detoxmymac.com  
-[help@detoxmymac.com](mailto:help@detoxmymac.com)
+Detox-My-Mac.com  
+[contact@Detox-My-Mac.com](mailto:contact@Detox-My-Mac.com)
 
 This document was last updated on November 12, 2012  
 
