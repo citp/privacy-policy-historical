@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcapital360.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223083153id_/http%3A//www.fastcapital360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcapital360.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812174352id_/http%3A//fastcapital360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fast Capital 360
 
