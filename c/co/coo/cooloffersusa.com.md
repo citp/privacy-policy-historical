@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooloffersusa.com privacy policy that was archived on 2014-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140829062057id_/http%3A//cooloffersusa.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooloffersusa.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812235653id_/http%3A//cooloffersusa.com/privacy.asp) for the most accurate reproduction.*
 
 # cooloffersusa.com
 
