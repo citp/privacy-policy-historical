@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ckgs.us privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002703id_/http%3A//ckgs.us/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ckgs.us privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812091440id_/http%3A//ckgs.us/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - CKGS USA
 
 All personal information collected by CKGS for Indian Visa, OCI Card, PIO Card and Renunciation of Indian citizenship (hereinafter referred to as ' **Services** ') is governed by the laws applicable for the time being in force, the policy guidelines and directions of the Government of India, Embassy of India in the USA & use as per the contract with the Embassy of India. This means that you will be informed of the purpose for which your personal information is being collected and how to exercise your right of access to that information. 
 
-This Privacy Policy should be read in conjunction with the [Declaration & Undertaking](https://web.archive.org/resources/pdf/declaration-form.pdf), [Disclaimer](https://web.archive.org/web/20150315002703id_/http%3A//ckgs.us/disclaimer.shtml), the relevant Document Checklist and Forms and the [Terms & Conditions](https://web.archive.org/web/20150315002703id_/http%3A//ckgs.us/terms-and-conditions.shtml). By accepting the Privacy Policy, you expressly consent to our Privacy Policy.
+This Privacy Policy should be read in conjunction with the [Declaration & Undertaking](https://web.archive.org/resources/pdf/declaration-form.pdf), [Disclaimer](https://web.archive.org/web/20150812091440id_/http%3A//ckgs.us/disclaimer.shtml), the relevant Document Checklist and Forms and the [Terms & Conditions](https://web.archive.org/web/20150812091440id_/http%3A//ckgs.us/terms-and-conditions.shtml). By accepting the Privacy Policy, you expressly consent to our Privacy Policy.
 
 The website [www.in.ckgs.us](http://www.in.ckgs.us/) contains the required information in connection with the Services. The said website will be updated as per the instructions of the Embassy / Consulate and will change from time to time.
 
