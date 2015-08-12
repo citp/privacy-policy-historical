@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the detectinvisible.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203024907id_/http%3A//detectinvisible.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detectinvisible.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812090130id_/http%3A//detectinvisible.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,3 +19,5 @@ If you do not feel comfortable with the upper mentioned, you are able to disable
 **DoubleClick DART Cookies**
 
 Google is a third party vendor, and as such it uses cookies to serve ads on detectinvisible.com. Google is using DART cookies to be able to serve ads to users based on their visits to our website and other websites. Users may choose to block these cookies by visiting the Google ad and content network privacy policy here: <http://www.google.com/privacy_ads.html>
+
+About how Google uses colected sensitive data you can read more on <http://www.google.com/policies/privacy/partners/>
