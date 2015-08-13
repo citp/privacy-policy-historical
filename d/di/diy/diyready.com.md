@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diyready.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231109id_/http%3A//diyready.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyready.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813193008id_/http%3A//diyready.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy DIY Projects & Creative Crafts – How To Make Everything Homemade - DIY Projects & Creative Crafts – How To Make Everything Homemade
+# Privacy Policy DIYReady.com | Easy DIY Crafts, Fun Projects, & DIY Craft Ideas For Kids & Adults
 
 **Privacy Policy**
 
