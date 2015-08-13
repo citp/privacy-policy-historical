@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tm.com.my privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213172610id_/https%3A//www.tm.com.my/Documents/TM%2520Privacy%2520Notice%25202014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tm.com.my privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813150441id_/https%3A//www.tm.com.my/Documents/TM%2520Privacy%2520Notice%25202014.pdf) for the most accurate reproduction.*
 
 # PRIVACY NOTICE
 
