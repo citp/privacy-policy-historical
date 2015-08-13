@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classscout.com privacy policy that was archived on 2015-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150205144417id_/http%3A//www.classscout.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classscout.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813154415id_/http%3A//classscout.com/privacy.asp) for the most accurate reproduction.*
 
 # ClassScout
 
