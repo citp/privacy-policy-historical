@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secureinfossl.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616165431id_/http%3A//cloudnet360.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureinfossl.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813082945id_/http%3A//cloudnet360.com/privacy-policy.html) for the most accurate reproduction.*
 
-# CloudNet 360 - Privacy Policy
+# CloudNet 360: Privacy Policy
 
 Privacy Policy
 
