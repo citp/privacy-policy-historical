@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chesstempo.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917034740id_/http%3A//chesstempo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chesstempo.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813114257id_/http%3A//chesstempo.com/privacy.html) for the most accurate reproduction.*
 
 # Chess Tempo Privacy Policy
 
@@ -6,13 +6,24 @@ If you require any more information or have any questions about our privacy poli
 
 At Chess Tempo, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Chess Tempo and how it is used.
 
+  
+
+
 ### Email Addresses
 
 Chess Tempo requires you enter your email address as part of the user registration process. Under no circumstances is this email address shared with any third parties, including any third parties that may advertise on the Chess Tempo website.
 
+  
+
+
 ### Log Files
 
 Like many other Web sites, Chess Tempo makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks and patterns of browser usage, to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. None of this logged information is shared with any third parties
+
+To ensure fair play on the site, the logs may also include information required to help identify duplicate accounts such as specific browser or screen settings.
+
+  
+
 
 ### Cookies and Web Beacons
 
