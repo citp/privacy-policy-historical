@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-bookmarking.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233811id_/http%3A//e-bookmarking.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-bookmarking.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813184506id_/http%3A//e-bookmarking.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy |
 
