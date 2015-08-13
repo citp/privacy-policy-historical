@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-mailfor.me privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607202646id_/http%3A//e-mailfor.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-mailfor.me privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813071339id_/http%3A//e-mailfor.me/privacy.php) for the most accurate reproduction.*
 
 # E-mailfor.me
 
