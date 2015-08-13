@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crochetpatterncentral.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502062111id_/http%3A//www.crochetpatterncentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crochetpatterncentral.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813215952id_/http%3A//www.crochetpatterncentral.com/privacy.html) for the most accurate reproduction.*
 
 # crochetpatterncentral.com | Privacy Policy
 
