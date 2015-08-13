@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camonster.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612005324id_/http%3A//www.camonster.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camonster.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813021305id_/http%3A//www.camonster.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Camonster - Privacy Policy
 
