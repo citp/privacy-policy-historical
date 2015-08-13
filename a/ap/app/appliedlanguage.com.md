@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613041058id_/http%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813195226id_/http%3A//www.capitatranslationinterpreting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Capita Translation and Interpreting
 
@@ -46,7 +46,7 @@ By completing any of our online forms, you are consenting to the collection, pro
 **Restricting the use of Information**
 
 If you do not want to be contacted by Capita TI, please e-mail:  
-[marketing@capita-ti.com](https://web.archive.org/web/20150613041058id_/http://www.capitatranslationinterpreting.com/privacy-policy/marketing@capita-ti.com)
+[marketing@capita-ti.com](https://web.archive.org/web/20150813195226id_/http://www.capitatranslationinterpreting.com/privacy-policy/marketing@capita-ti.com)
 
 You may continue to receive communications for a short period of time while your request to remove you from our list is processed.
 
