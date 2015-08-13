@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropkaffe.com privacy policy that was archived on 2015-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150417014144id_/http%3A//www.dropkaffe.com/pages/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropkaffe.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813085135id_/http%3A//www.dropkaffe.com/pages/pp) for the most accurate reproduction.*
 
 # DropKaffe Privacy Policy
 
