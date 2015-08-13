@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 22cam.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024944id_/http%3A//22cam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 22cam.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813075158id_/http%3A//22cam.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 22Cam.com
 
