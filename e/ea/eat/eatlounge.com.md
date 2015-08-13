@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatlounge.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508002950id_/http%3A//eatlounge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatlounge.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813163700id_/http%3A//eatlounge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eat Lounge
 
