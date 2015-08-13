@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleanskies.com privacy policy that was archived on 2013-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130109211923id_/http%3A//cleanskies.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleanskies.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813201437id_/http%3A//cleanskies.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Clean Skies
 
