@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easy-file-converter.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003226id_/http%3A//easy-file-converter.com/easy_file_converter/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-file-converter.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813114108id_/http%3A//easy-file-converter.com/easy_file_converter/privacy) for the most accurate reproduction.*
 
 # None
 
