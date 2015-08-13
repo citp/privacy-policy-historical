@@ -1,36 +1,47 @@
-> *The following text is extracted and transformed from the castle.com privacy policy that was archived on 2012-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120413025733id_/http%3A//castle.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castle.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813203653id_/http%3A//castle.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - castle.com
 
-* **Overview**
+This privacy policy identifies and describes how "castle.com" uses and protects any information that we collect or that you give to "castle.com" when you use this website.
 
-Thank you for visiting www.castle.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+"castle.com" is committed to ensuring that your privacy is protected. If we ask you to provide certain information by which you can be identified when using this website then you can be assured that it will only be used in accordance with the current privacy policy. "castle.com" may change this policy at any time and without notice. You may view the most updated privacy policy by clicking on the ìPrivacy Policyî hyperlink at the bottom of the page.
 
-* **What Type of Information We Collect**
+**We may collect the following information:**
 
-The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
-
-We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
-
-* **Uses May Include**
-
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  
-
-  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
-  
-
-  * We may share aggregated non-personal information with third parties outside of The Web Site. 
-  
-
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  
-
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  
-
-  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
-  
+  * Contact information that allows us to communicate with you. This may include your name, address, telephone number, and e-mail address.
+  * Demographic information will be collected. It will be utilized by us to better improve the userís experience on this Web site. This may include information such as age, gender, nationality, postal code, preferences, and interests
 
 
-* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+**We collect the information in two primary ways:**
+
+  * You provide the information when you purchase or interact with a product on the Web site.
+  * The information is collected automatically when you visit the Website or use our products and services.
+
+
+
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:**
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional email about new products, special offers or other - information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * We may use the information to customize the website according to your interests.
+
+
+
+### Your personal information
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
+
+### Security
+
+We are committed to ensuring that your information is safe and secure. Measures are taken to insure the safety of your information as well as the unauthorized access of that information. Safeguards to protect the information we collect online include, but are not limited to, organizational, administrative, and technical (SSL, firewalls, etc.) means.
+
+### How we use cookies
+
+Cookies are small files that ask permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to customize your individual web experience. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes. The data is then removed from the system. Overall, cookies help us provide you with a better overall user experience, by enabling us to monitor which pages you find useful and which you do not. A cookie does not gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies in the settings of your web browser. However, this may prevent you from taking full advantage of the website.
+
+### Links to other websites
+
+Our website may contain links to enable you to visit other third party websites. However, once you have used these links to leave our site, you should note that we do not have any control over that third party website and you will be subject to their privacy policy. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. 
