@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildmortgage.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324235009id_/http%3A//www.guildmortgage.com/dms/guild/docs/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildmortgage.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813114450id_/http%3A//www.guildmortgage.com/dms/guild/docs/privacy.pdf) for the most accurate reproduction.*
 
 # F A C T S WHAT DOES GUILD MORTGAGE COMPANY DO WITH YOUR PERSONAL INFORMATION?
 
