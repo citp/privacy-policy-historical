@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashora.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416192155id_/http%3A//cashora.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashora.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813052610id_/http%3A//cashora.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Cashora.com
+# Privacy Policy - Cashora
 
 At Cashora, we understand the value of your privacy and make every possible effort to ensure that all your personal information remains secure at all times.
 
