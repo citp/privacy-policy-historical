@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the detector-invisible.com privacy policy that was archived on 2015-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150204222004id_/http%3A//www.detector-invisible.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detector-invisible.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813035018id_/http%3A//www.detector-invisible.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Detector-Invisible.com
 
