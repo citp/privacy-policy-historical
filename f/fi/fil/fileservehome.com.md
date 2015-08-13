@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileservehome.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807112754id_/http%3A//fileservehome.com%3Ftmp%3Dtoolbar_fileserve_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileservehome.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813052620id_/http%3A//fileservehome.com%3Ftmp%3Dtoolbar_fileserve_privacy) for the most accurate reproduction.*
 
 # fileserve.toolbaroptions.com - Privacy Policy
 
