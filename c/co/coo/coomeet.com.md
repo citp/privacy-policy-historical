@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the coomeet.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623193212id_/http%3A//coomeet.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coomeet.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813105624id_/http%3A//coomeet.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Video chat & dating - COOMEET.COM
 
-This privacy policy (hereinafter referred to as "Policy") applies to a video chat (hereinafter referred to as "Application") of Comewel Limited (hereinafter referred to as "Company"). However, this Policy does not apply to the websites operated by third parties and other websites that have installed the Application.
+This privacy policy (hereinafter referred to as "Policy") applies to a video chat (hereinafter referred to as "Application") of Comewel Limited (hereinafter referred to as "Company"). The Registered Office of the Company is situated at Office 3 Unit, R1, Penfold Trading Estate, Imperial Way, Watford, Hertfordshire, WD24 4YY. 
+
+However, this Policy does not apply to the websites operated by third parties and other websites that have installed the Application.
 
 The latest version of this Policy can be found at the following address at any time: <http://coomeet.com/en/privacypolicy>.
 
