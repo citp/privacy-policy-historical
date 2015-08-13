@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icoke.ca privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206085016id_/http%3A//coca-cola.ca/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icoke.ca privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813180332id_/http%3A//coca-cola.ca/privacypolicy.html) for the most accurate reproduction.*
 
 # Coke TEMPLATE
 
