@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cliparts.co privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314191904id_/http%3A//cliparts.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliparts.co privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813211524id_/http%3A//cliparts.co/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cliparts.co
 
-  * [Terms of use](https://web.archive.org/terms)
+  * [Terms of Use](https://web.archive.org/terms)
   * [Privacy Policy](https://web.archive.org/privacy)
   * [Contact](https://web.archive.org/contact)
 
