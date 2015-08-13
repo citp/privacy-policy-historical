@@ -1,39 +1,36 @@
-> *The following text is extracted and transformed from the lenzfire.com privacy policy that was archived on 2012-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120916001206id_/http%3A//lenzfire.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenzfire.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814004402id_/http%3A//lenzfire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy at Lenzfire.com
 
-## For Lenzfire.com
+Surely the privacy to be important for us to protect. As our efforts in protecting your privacy, we will offer an explanation of the information practices on the internet and you have the option to describe how you in accumulating information and how you would use it. In our efforts to make this page easier to find, we place this page on the home page website which allows a wide range of personal information will be requested for special purposes with your consent in full. For example your name, address, email, phone number. The action we are asking for your personal data we do not mean to criminals, but only if you do want to take advantage of our features to its full potential.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **Arun@Lenzfire.com**.
-
-At _lenzfire_.com, the privacy of our visitors is of extreme importance to us. This   privacy policy document outlines the types of personal information is received and collected by _lenzfire_.com and how it is used.
-
-### Log Files
-
-Like many other Web sites, lenzfire.com makes use of log files. The information   inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-### Cookies and Web Beacons
-
-lenzfire.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-
-### DoubleClick DART Cookie
-
-.:: Google, as a third party vendor, uses cookies to serve ads on lenzfire.com.
-
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to lenzfire.com and other sites on the Internet.
-
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
-
-  * Google Adsense
+  * _Before or at the time of collecting personal information, we will identify the purposes for which information is being collected._
+  * _We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law._
+  * _We will only retain personal information as long as necessary for the fulfillment of those purposes._
+  * _We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned._
+  * _Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date._
+  * _We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification._
+  * _We will make readily available to customers information about our policies and practices relating to the management of personal information._
+  * _We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained._
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on lenzfire.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or    Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+**Google Adsense and the DoubleClick DART Cookie**
 
-Lenzfire.com has no access to or control over these cookies that are used by third-party advertisers. 
+Vendors who use cookies to serve ads on this website is Google. Google as a third party ad vendors allowing them in the granting of ads to site visitors of Trends Fashion Daily that come back again against the visitors who had promised to this website and other websites. And keep in mind that we do not associate the cookies or anonymous identifier by category relating to race, sexual orientation, politics, and religion. We also will not combine personal information with DoubleClick’s Cookie information, unless we obtain the consent of you.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. lenzfire.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+**Collection of Personal Information**
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+When you visit the site of lenzfire.com this internet IP address used will be stored and reused as you will access the site by logging combined with time, as well as of press time for accessing this site. Details like this technique eventually used to be pure to analyze trends, release website, monitor the movement of visitors on the site as well as a very extensive market information for personal use. But again I emphasize, that the most important is the IP address that is recorded will not be dealt with personally identifiable information.
+
+**Information Security**
+
+We work hard to protect you and other visitors from unauthorized access or alteration, destruction, or unauthorized disclosure of the information we hold.
+
+**Changes to this Privacy Statement**
+
+Some contents of this statement could have been us change it at any time to change to a better direction without informing you if there will be changes before. When there are things to do about lenzfire.com site, it may be a privacy policy or perhaps other questions do not hesitate to Contact Us.
+
+**Disclaimer**
+
+All content images within our website are images that we take from various sources that we believe as “public domain”. Therefore all content images we display pure just to complement information from the picture we uploaded without any intent to we sell-buy, in violation of copyright or intellectual property rights, and a valid artistic. For those of you who feel as the legitimate owners of one of the images we display and didn’t want us displaying images valid belongs to you, please contact us through the “Contact Us” page and send us an email to follow up, be it delete images belong to you, or maybe you’ll give us maturity date where we can display content images. All content images that we display we only use properly without any intention of us to gain financially from one image or as a whole. And consciously anyway that the privacy policy on the website of the lenzfire.com have a little difference from the other website. Thank you.
