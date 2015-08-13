@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabhotels.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624013444id_/http%3A//fabhotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabhotels.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813215518id_/http%3A//www.fabhotels.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Casa2 Inns
+# Privacy Policy - FabHotel.com
 
 Who hasn’t had difficulty finding an answer to the question “Where do I find a reliable, trust-worthy, high quality, value-for-money stay on my next business (or leisure) trip?” At FabHotels, our attempt is to answer that question.
 
