@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesscontentplr.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045747id_/http%3A//contentsparks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesscontentplr.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813214106id_/https%3A//contentsparks.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Content Sparks
 
