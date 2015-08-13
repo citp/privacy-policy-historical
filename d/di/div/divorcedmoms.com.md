@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the divorcedmoms.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608040947id_/http%3A//divorcedmoms.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorcedmoms.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813113140id_/http%3A//divorcedmoms.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DivorcedMoms.com |
 
-Last revised: September 30, 2013
+Last revised: June 30th, 2015
 
-This Privacy Policy relates to information collected by DivorcedMoms LLC and its website DivorcedMoms.com (“DivorcedMoms” "we" or “us” or “our”) through your use of any DivorcedMoms applications and online services, including DivorcedMoms.com and any client software associated with the foregoing (collectively such services, websites and software may be referred to as the “Service”) and is a part of and is governed by the [DivorcedMoms.com Terms of Service](https://web.archive.org/TermsOfService.aspx).
+This Privacy Policy relates to information collected by Segue Esprit Inc. and its website DivorcedMoms.com (“DivorcedMoms” "we" or “us” or “our”) through your use of any DivorcedMoms applications and online services, including DivorcedMoms.com and any client software associated with the foregoing (collectively such services, websites and software may be referred to as the “Service”) and is a part of and is governed by the [DivorcedMoms.com Terms of Service](https://web.archive.org/TermsOfService.aspx).
 
 You should carefully read this Privacy Policy. By using the Service, you are signifying your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you are not permitted to use the Service.
 
@@ -97,7 +97,7 @@ We may employ independent contractors, vendors and suppliers (collectively, "Out
 
 Sale of Business.
 
-We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of DivorcedMoms LLC or that portion of DivorcedMoms LLC to which the Service relates, provided that the third party agrees to adhere to the terms of this Privacy Policy.
+We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of Segue Esprit Inc. or that portion of Segue Esprit Inc. to which the Service relates, provided that the third party agrees to adhere to the terms of this Privacy Policy.
 
 Affiliates.
 
