@@ -1,71 +1,99 @@
-> *The following text is extracted and transformed from the careerenabler.com privacy policy that was archived on 2011-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110812050945id_/http%3A//www.careerenabler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerenabler.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814002352id_/http%3A//careerenabler.com/privacy-policy) for the most accurate reproduction.*
 
-# ::: welcome to classstarttoday.com :::
+# Privacy Policy - career enablercareer enabler
 
-Careerenabler.com Web Privacy Statement  
-This privacy policy was last updated on July 10th, 2007  
-Careerenabler is committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. 
+This privacy policy sets out how  uses and protects any information that you give  when you use this website.
 
-Information We Collect  
-We collect various types of information from our visitors so we can adjust our site to meet our users' needs and expectations. Some of this information is collected automatically through cookies and other information is collected when you register for any of our online services or when you request information from one of our partners. 
+is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Information Collected Automatically  
-The types of information your browser or Internet session automatically sends us each time you visit one of our sites, which we automatically collect, includes: 
+may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: April 2015
 
-  * Your browser, e.g., Internet Explorer, Netscape Navigator. 
-  * Your Internet domain, e.g., AOL, Netcom, Earthlink, etc. 
-  * You computer's operating system, e.g., Windows, Macintosh, UNIX, Linux. 
-  * Your navigation path, i.e., the URLs of where you come to our site from, which of our pages you visit, and where you go as you leave. 
-  * Your IP address. 
+### What we collect
 
+We may collect the following information:
+
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
-This information lets us see how users are finding our sites, and it tells us which pages are visited the most often so we can make our Websites more useful. 
 
-  
-Information You Provide to Us  
-In addition to the information automatically collected by your browser, we also collect information that you provide to us when you request information about a particular school or educational program.   
-Our websites provide users the opportunity to request information from schools, and to learn about various education opportunities. These information request sites require users to provide us with contact information (name, address, phone number, email address, gender, age, work experience, etc.) as well as information about their interest in one of our educational partners (universities, colleges, test prep companies, etc.) We collect this information that you provide, and may use it to make your future requests from our websites easier by pre-populating contact forms with the information that you have provided. We provide this contact information that you provide to the educational partner that you requested information from. Customer interest information is collected to determine what information the customer wishes to be sent. 
+### What we do with the information we gather
 
-  
-How We Use This Information  
-We use the information we automatically collect to help us better plan our Website to meet your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications.   
-Careerenabler may share personally identifiable information with third party businesses for the purpose of direct marketing, specifically email marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  
-Your Rights Our Obligations   
-The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: unsubscribe@ClassStartsToday.com.   
-Other than directory information, data you provide to us as you use the Website will be held in strict confidence by the company and will be used for company purposes only.   
-Our Security Measures  
-Our Websites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. 
+  * Internal record keeping.
+  * We may use the information to improve our products and services
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-  
-Why We Use "Cookies"   
-When you visit some of our sites, we use cookies to keep track of your information. This small piece of program code resides on your computer and stores your contact information for all of our request information sites. We do this so you are not required to re-enter your contact information as you move from one site to another. 
 
-  
-Links From Our Site To Other Sites Some of our sites may contain links to other sites external to our sites. When you access these external Websites, the providers of the sites will have access to certain information about you. Careerenabler is not responsible for the privacy practices or the content of any Websites which we do not directly control. 
 
-  
-Definitions  
-Cookies  
-Data created by a Web server that is stored on a user's computer. It provides a way for the Website to keep track of a user's patterns and preferences and, with the cooperation of the Web browser, to store them on the user's own hard disk.   
-The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user's ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session.   
-You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu. 
+### Security
 
-  
-IP (Internet Protocol) Address  
-This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 204.171.64.2. 
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-  
-Browser Session  
-A browser session is defined as the period of time a browser is in consecutive use. The session begins when you open the browser and ends when you close it. When you reopen the browser, you begin a new session. 
+### What is a cookie?
 
-  
-SSL Encryption (Secure Sockets Layer)  
-The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. We also use SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades). 
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. 
 
-  
-URL (Uniform Resource Locator)  
-An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for Careerenabler is www.ClassStartsToday.com.  
+You can find more information about cookies at:
 
+  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+
+
+
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.  
+
+
+### Category 1: strictly necessary cookies
+
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+
+### Category 2: performance cookies
+
+These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+
+By using our website, you agree that we can place these type of cookies on your device.
+
+### Category 3: functionality cookies
+
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+
+By using our website, you agree that we can place these type of cookies on your device.
+
+### Category 4: targeting cookies or advertising cookies
+
+These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
+
+A list of all the cookies used on this website by category is set out below.  
+
+
+### Links to other websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at 
+
+Email: [](mailto: "Send email to:")
+
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998.
+
+A small fee will be payable.
+
+If you would like a copy of the information held on you please write to: 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
