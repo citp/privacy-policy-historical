@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adbrothers.nl privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408164402id_/http%3A//adbrothers.nl/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbrothers.nl privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813081937id_/http%3A//adbrothers.nl/privacy-policy) for the most accurate reproduction.*
 
 # AdBrothers - Knowledge, Innovation, Results - Privacy Policy
 
@@ -52,10 +52,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-AdBrothers BV
-
-http://adbrothers.nl/
-
+AdBrothers BV  
+http://adbrothers.nl/  
 Amsterdam  
 the Netherlands  
 info@adbrothers.nl
