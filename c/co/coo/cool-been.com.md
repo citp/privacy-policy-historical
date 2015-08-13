@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cool-been.com privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208172206id_/http%3A//cool-been.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cool-been.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813235201id_/http%3A//cool-been.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cool Been
 
