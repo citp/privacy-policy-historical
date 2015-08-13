@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealshabibi.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317163509id_/https%3A//dealshabibi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealshabibi.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813125423id_/https%3A//dealshabibi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DealsHabibi.com | Deals in Dubai | Best Online Shopping Website | Smartphones Deals in Dubai | Tablets Price in UAE | Cameras Price in Dubai, Sharjah, Abu Dhabi, UAE
 
