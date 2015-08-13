@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prudentcorporate.com privacy policy that was archived on 2015-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150217221159id_/http%3A//www.prudentcorporate.com/upload/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prudentcorporate.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813041657id_/http%3A//www.prudentcorporate.com/upload/TermsCondition/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # 
 
