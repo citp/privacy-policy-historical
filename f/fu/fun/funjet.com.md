@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222070108id_/http%3A//www.funjet.com/generalinformation/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funjet.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813144213id_/http%3A//www.funjet.com/generalinformation/privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy & Security Policy - Funjet Vacations
 
