@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508000204id_/http%3A//www.driverfinderpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverfinderpro.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813145244id_/http%3A//www.driverfinderpro.com/privacy.php) for the most accurate reproduction.*
 
 # DriverFinder - Privacy Policy
 
@@ -9,8 +9,6 @@ This Privacy Policy describes the terms of our commitment to your privacy.
 ### Persons or Parties Covered
 
 This Privacy Policy covers the collection and use of personal information ("Personal Information") that we may gather any time you interact with us, such as when you visit our web site, try and/or use our product, or when you contact our customer support or sales departments. This Privacy Policy is intended to cover all visitors to this website, affiliates or business partners, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. People who join marketing endeavors (e.g. "affiliates") promoted by this website are called "Members" and are covered by this Privacy Policy. Anyone who orders, attempts to order, or receives a sold product advertised on or delivered from this website, even at no cost, is called a "Customer" and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Terms of Service contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website" and/or "Site" and/or "We".
-
-DeskToolsSoft Inc's DriverFinder has been certified by the TRUSTe's Trusted Download Program signifying that DriverFinder has been tested TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding DriverFinder, please contact us at DeskToolsSoft, located at 548 Market Street, San Francisco, CA 94104 or by email at support@desktoolssoft.com or by phone at (408) 600-1418. If you are not satisfied with our response you can contact TRUSTe **[here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=518&sealid=112)**.
 
 ### Persons Excluded From This Website Are Still Covered
 
