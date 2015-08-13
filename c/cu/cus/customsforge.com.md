@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customsforge.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002228id_/http%3A//customsforge.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customsforge.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813123813id_/http%3A//customsforge.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - CustomsForge
 
