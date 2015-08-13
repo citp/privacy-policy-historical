@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookingli.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314210953id_/http%3A//cookingli.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingli.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813100528id_/http%3A//cookingli.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cookingli
 
