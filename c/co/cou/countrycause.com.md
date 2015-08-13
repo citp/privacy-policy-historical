@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrycause.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514151427id_/http%3A//www.countrycause.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrycause.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813153047id_/http%3A//countrycause.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
