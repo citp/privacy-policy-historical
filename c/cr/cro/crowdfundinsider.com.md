@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdfundinsider.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320025953id_/http%3A//www.crowdfundinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfundinsider.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813190159id_/http%3A//www.crowdfundinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -11,7 +11,7 @@
 
 
 
-Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/web/20150320025953id_/http://www.crowdfundinsider.com/privacy-policy/mailto@support@CrowdfundInsider.com).
+Below is our privacy policy which incorporates these goals: If you have questions about deleting or correcting your personal data please contact our [support team](https://web.archive.org/web/20150813190159id_/http://www.crowdfundinsider.com/privacy-policy/mailto@support@CrowdfundInsider.com).
 
 CrowdfundInsider Inc. (“ **CrowdfundInsider** ”) operates a website including CrowdfundInsider.com, It is CrowdfundInsider’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
