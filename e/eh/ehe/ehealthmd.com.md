@@ -1,59 +1,135 @@
-> *The following text is extracted and transformed from the ehealthmd.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205015354id_/http%3A//yourmedicalsource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthmd.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813181647id_/http%3A//ehealthmd.com/privacy.html) for the most accurate reproduction.*
 
-# YourMedicalSource.com
+# ehealthmd.com | Privacy Policy
 
-We respect all our visitors right to personal privacy and want you to feel as comfortable as possible visiting our Website.
+**What information do we collect?**
 
-Our privacy policy will tell you what information we collect about you, how we protect it and what choices you have about how that information is used.
+We collect information from you when you register on our site or subscribe to our newsletter. 
 
-When you visit and navigate our Website, we will not collect personal information about you unless you provide us that information voluntarily.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-   **Registration:**  
----  
-  
-You are always welcome to use our Website without registering or providing any personal information. However, for certain services, including free health emails, chats or posting on discussion boards, we require you to register.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-If you do register, we ask for your email address, your first and last name, your zip or postcode and year of your birth. We give you the option of providing additional information, including gender, city, state and country.
+ **DoubleClick DART Cookie**
 
-Any information we obtain about you is used in aggregate form only, that means we simply combine your information with data collected from other individuals to produce anonymous statistical information. For example, the percentage of male to female visitors, or the age range of our most frequent visitors. We never provide any personal details to any third parties, including advertisers and sponsors, though we do provide them with the aggregate anonymous information, like the examples just given.
+.:: Google, as a third party vendor, uses cookies to serve ads on ehealthmd.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to ehealthmd.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
 
-Any personal information you give us is treated as confidential. We will not disclose to third parties any identifying personal information without first contacting you and obtaining your permission to share this information.   
-  
-   **Security of Information:**  
----  
-  
-We use security procedures to protect the personal information you submit, stored in our secure database behind an electronic firewall. Access to our database is limited to a few computer technicians who are required to maintain the database and who can access this database only using passwords.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense   
+Commission Junction   
+Widget Bucks   
+Adbrite   
+Clickbank   
+Epic / Azoogle   
+Chitika   
+Linkshare   
+Amazon   
+Kontera   
+Advertising.com   
+CPAStorm   
+Burst   
+Valueclick   
+InfoLinks   
+Vibrant Media   
+24/7 Real Media   
+Tribal Fusion   
+Casale   
+Tremor Media   
+Adify   
 
-While no Internet site can guarantee that it is completely secure from people who might attempt to evade security measures, we make every effort to safeguard your personal information.
 
-YourMedicalSource cannot, like every other website, completely ensure privacy of email communications to and from our site because they are not encrypted, and therefore not secure. Emails can be intercepted without your knowledge and permission while in transit to and from our site. Therefore, if you are concerned about your privacy, we suggest that you do not use email to communicate information to us that you consider sensitive.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on ehealthmd.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-When you use YourMedicalSource’s “email this page to a friend”, YourMedicalSource emails the article you designate to your friend’s email address and lists your email address as the sender. YourMedicalSource uses the friend’s email address only for the purpose of sending your friend the email you requested and for no other purpose unless otherwise disclosed to you at the time you send the email.   
-  
-   **Cookies:**  
----  
-  
-YourMedicalSource does not place cookies on your computer’s hard drive. Cookies are small computer files placed on your computer’s hard drive by a Website. It allows the Website to know how often you visit and what you sought on the Website (for example what articles you searched, which chat rooms you visited etc). A Website generally assigns a different cookie to every computer. Cookies can provide valuable information that allows a Website to design advertising and web pages of specific interest to you, and allows the Website to statistically monitor how many people are using the site, and viewing any advertising on the site. Information obtained from cookies can be used to determine the popularity of certain content or advertisements on the site, or target certain advertisements to your browser.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
-Websites use cookies for user convenience. The cookie will tell the Website certain information so you don’t have to fill in the same information each time you visit. For example, the “send this page to a friend” feature.
+ehealthmd.com has no access to or control over these cookies that are used by third-party advertisers. 
 
-If you click on an advertisement of sponsorship acknowledgement on our site, you will be leaving our site and will be directed to the advertisers or sponsors site. YourMedicalSource has no control over the practices of other Websites. Your computer may receive cookies from other sites.  
-  
-   **Surveys:**  
----  
-  
-When responding to our surveys we may ask you for demographic information such as your age and gender, town, zip or post code and country. This information is collected only as anonymous, aggregated information and used for statistical purposes.  
-  
-   **Testimonials:**  
----  
-  
-We will specifically request your permission to use any complimentary comment you email us as a testimonial. We will request your permission to allow us to attach your name, and where you live, to your comment.  
-  
-   **Effect of Privacy Policy:**  
----  
-  
-This privacy policy is not intended to and does not create any contractual or legal rights in or on behalf of any party.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. ehealthmd.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-This privacy policy may be revised periodically. Recent changes to the policy will be noted in a different color.   
-  
-Copyright © 2004 Health Information Publications. The information provided on this Web site has been developed exclusively for Health Information Publications and YourMedicalSource and may not be copied without written permission. The information provided is for general information only and is not intended to replace the advice of your health-care provider. This is original material developed by YourMedicalSource, © 1990-2003
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
+
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+\- To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+\- To administer a contest, promotion, survey or other site feature
+
+\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+
+\- To send periodic emails
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+
+ **Do we disclose any information to outside parties?**
+
+Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy. 
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
+
+2885 Sanford Ave  
+SW #19781  
+Grandville, MI 49418  
+USA 
+
+ehealthmd.com 
+
+Email:  
+contact@ehealthmd.com  
+
