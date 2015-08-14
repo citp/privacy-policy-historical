@@ -1,68 +1,71 @@
-> *The following text is extracted and transformed from the coolzipextractorapp.com privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008120824id_/http%3A//www.coolzipextractorapp.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolzipextractorapp.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814050658id_/http%3A//www.coolzipextractorapp.com/privacy-policy%3Fp%3DFree%25202048) for the most accurate reproduction.*
 
 # 
 
-**coolzipextractorapp.com Privacy Policy**
+WEBSITE PRIVACY POLICY 
 
-[Last updated March, 2013] 
+Last updated on February 9, 2015 
 
-When you use this Website www.coolzipextractorapp.com ("Website", "Us" or "We"), you consent to the collection, use and disclosure of your information as described in this privacy policy ("Privacy Policy"). 
+This Privacy Policy constitutes the full and final agreement between (”Us” or ”We”) and You with respect to this website, which is available at: [coolzipextractorapp.com](http://coolzipextractorapp.com/) (the ”Website”). Please be advised that the practices described in the Privacy Policy apply to information gathered by us, our subsidiaries, affiliates and/or contractors through provision of the Website. 
 
-We know that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected and stored by Us when you make use of the Website or Software downloaded from the Website, and how the information will be used. 
+Please read the Privacy Policy carefully. The Privacy Policy informs you how we may access, collect, use and/or share the information we obtain from and about you. We are not responsible for the content or privacy practices of any website and/or software that is not owned and/or operated by us and to which the Website may link or that links to the Website. 
 
-This Privacy Policy may be updated from time to time we ask you to check back the most updated form of Privacy Policy as indicated below. 
+The Privacy Policy and the Website Terms of Use available at: [coolzipextractorapp.com/terms-of-use](http://coolzipextractorapp.com/g/terms_gen.php) (the ”TOS”), govern your access and use of the Website. By accessing, visiting and/or using the Website, you agree to abide by the terms and conditions of the Privacy Policy and the TOS. 
 
-YOUR CONTINUED USE OF THE SOFTWARE AND/OR THIS WEBSITE AFTER THIS PRIVACY POLICY HAS BEEN AMENDED SHALL BE DEEMED AS YOUR CONTINUED ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY, AS AMENDED. 
+The Privacy Policy may be amended by us, from time to time, in our sole discretion, and your continual use of the Website subsequent to any changes to the Privacy Policy shall conclusively mean that you accept all such changes. When we update the Privacy Policy, we will update the effective date posted on the top of this page. 
 
-PLEASE NOTE: WE WILL NOT USE OR SHARE YOUR INFORMATION WITH ANYONE EXCEPT AS DESCRIBED IN THIS PRIVACY POLICY. 
+BY ACCESSING, VISITING AND/OR USING THE WEBSITE, YOU CONSENT TO OUR USE IN ANY INFORMATION THAT YOU PROVIDE TO US OR THAT WE COLLECT FROM YOU IN ACCORDANCE WITH THE PRIVACY POLICY. IF YOU DO NOT AGREE TO THE PRIVACY POLICY, DO NOT ACCESS, VISIT AND/OR USE THE WEBSITE. 
 
-**1\. Information Collected**
+  1. Children's Privacy Policy (COPPA). 
 
-1.1. Personal Information:
 
-We may collect some personal information that you explicitly provide (for example, in the process of registration to the Website services) and which identifies your personally, such as your name, email address, services purchased, etc. ("Personal Information"). 1.2. Non-Personal Information:  
-We collect some non-identifying information regarding your use of our Website and Software, including but not limited to, type of device on which Software is used and installed, applications with which the Software has interacted, advertisements viewed, pages browsed, search inquiries, the type of browser you are using, your IP address, the URL you have come from and the time spent at that URL, cookies and your domain type and server ("Non-Personal Information"). 
 
-1.2. Non-Personal Information:
 
-We collect some non-identifying information regarding your use of our Website and Software, including but not limited to, type of device on which Software is used and installed, applications with which the Software has interacted, advertisements viewed, pages browsed, search inquiries, the type of browser you are using, your IP address, the URL you have come from and the time spent at that URL, cookies and your domain type and server ("Non-Personal Information"). 
+The Website is not directed to children under the age of 13 and children under the age of 13 should not use the Website. We do not knowingly collect or maintain information collected online from children under the age of 13. 
 
-**2\. Children Policy**
+  1. Information We Collect. 
 
-We do not knowingly collect Personal Information from anyone under the age of thirteen (13). In the event that we learn that Personal Information was collected from a child under age of thirteen (13) without verification of parental consent, we will take adequate measures to delete that information as quickly as possible. 
+    1. We and our partners may collect and store certain technical and non-personal information when you visit and/or use the Website. This information may include your IP address, the internet URL from which you access the Website, your browser type, computer operating system, the number of times you viewed an advertisement and whether you responded to a delivered advertisement. 
 
-**3\. Software and Website Updates**
+    2. We and our partners may use technologies such as cookies and pixels to collect and store your information. 
 
-The Software may perform regular checks for software updates on our servers and may download such updates when needed. 
+    3. In addition, if you contact us by mail, voice, email or any other form for transmission, we may keep a record of your correspondence, including any information contained therein and we may use it to improve the Website, our services or otherwise at our sole discretion. Your correspondence may include personal information should you chose to provide it to us. 
 
-**4\. Use of Collected Information**
+  2. How We Use Your Information 
 
-4.1. 
+    1. We may use your IP address for a number of purposes, such as, without limitation, system administration, to report aggregate information to our business partners and/or to audit the use of the Website. We may associate your IP address with the personally identifiable information you provide. 
 
-_Personal Information:_  
-Personal Information shall be used solely in order to process your inquiries, respond to your requests and improve our services.
+    2. We may use your information internally to (i) enhance your experience of the Website; (ii) improve the content, layout and/or design of the Website and marketing efforts, and (iii) to determine general trends from visitors to the Website. 
 
-4.2. We will not disclose your Personal Information to any third party, unless: (i) required to do so as part of any legal proceedings conducted between you and the Website; (ii) Required to do so by court order; (iii) In case the activity of the Website is transferred to a third party, providing such party undertakes to protect your privacy in accordance with these terms
+    3. We may use your information to administer the Website and help diagnose technical problems. Your information may also be analyzed so that we can provide you with useful information and can serve you in the best manner possible through enhanced features and functions on the Website, including by delivering targeted content to you. 
 
-4.3. 
+    4. We retain information for as long as is required, allowed or we believe it useful, but we are not otherwise obligated to retain information for any period of time. Subject to applicable law, we may dispose of your information in our sole discretion without notice. 
 
-_Non-Personal Information:_  
-Non-Personal Information shall be used to ensure the adequate operation, improve, modify, cancel, enrich or adjust the Website and/or the Software.
+  3. Information We Share 
 
-4.4. We reserve the right to use and disclose Non-Personal Information to third parties, including, advertisers, sponsors, business partners, investors, affiliates and consultants, at our sole discretion.
+    1. We do not sell, rent, trade, license or otherwise disclose your information to anyone other than to entities under our direct control, except that we may disclose your information: (i) to third parties: (a) whose services we use to perform specific business-related functions on our behalf; and (b) in response to requests from law enforcement officials conducting investigations, subpoenas, a court order, or if we are otherwise required to disclose such information by law; (ii) when we deem, in our sole discretion, that it is necessary to (a) protect our rights, property, security and/or safety or those of others; (b) enforce the TOS, the Privacy Policy or any other agreements, terms or conditions that apply to your use of the Website; or (c) in the event of an emergency; (iii) as part of a transaction in which we or any of our assets, including the Website, may be sold. Such transaction may be in the form of a change in control, merger, consolidation, restructuring, the sale of certain of our assets (including through bankruptcy), or other corporate change including, without limitation, during the course of any due diligence process; (iv) in an aggregated manner (such as the number of daily visitors to the Website); and (v) for any other purpose we may deem desirable with your consent. 
 
- **5\. Cookies**
+    2. We may use third party ad serving technologies to collect information as a result of ad serving through the Website. These third parties may use Cookies (as defined below) or other technologies for such purpose. We currently use Google AdWords Remarketing, which allows us to reach users who previously visited the Website, by presenting them with relevant ads. For that purpose, Google uses Cookies to serve ads based on your past visits to the Website. A ”Cookie” is a small text file saved on your computer to help store preferences and other information that is used on webpages that you visit. 
 
-We use Cookies in order to ensure proper operation, collect Non-Personal Information, verify information, tailor the Website and Software to your specific preferences and ensure information security. Please note that modern browsers enable you to disable Cookies, however, this may interfere with your use of the Website or its services. 
+    3. We may use third parties’ services in order to analyze information and statistics collected from users of the Website. We currently use Google Analytics which uses the following sources for collecting information: (a) the HTTP request of the user; (b) browser/system information; and (c) first-party Cookies. These Cookies do not collect any personally identifiable information. 
 
-**6\. Third Party Advertisements**
+    4. You acknowledge that we have no control over, and assume no responsibility for any third party site, services and/or content that is made available on the Website. We encourage you to review the privacy policies of these sites, software and/or content prior to providing them with any information. 
 
-We may use third-party advertising partners in order to serve advertisements on our Website. Such parties may use Cookies placed on your computer in order to adjust the advertisements presented on the Website. Such use is subject to the privacy policy of those parties and is not subject to these terms, we recommend you to review said policies. 
+  4. Data Security 
 
-**7\. Information Security**
 
-Note that although we take measures to secure the information and reduce the risk of unwanted disclosure, we cannot guarantee the information will not be exposed as a result of unauthorized penetration to our servers. 
 
-**8\. Support**
 
-If you feel that your privacy was invaded and/or if you have questions regarding our Privacy Policy, please contact us directly at support@coolzipextractorapp.com, and our privacy officer shall investigate and post its report promptly. 
+The Website incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information. We take reasonable precautions to protect your information from loss, misuse or alteration. We maintain reasonable physical, electronic and procedural safeguards for your information. Unfortunately, no data transmission over the internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us or from the Website. You use the Website at your own risk. Once we receive your transmission, we will use commercially reasonable efforts to ensure its security on our systems. 
+
+We are not liable for any breach of our systems or interception of our transmission, and we hereby disclaim, to the fullest extent provided under law, any liability associated with any breach of security, data or information. 
+
+  6. Contact Us 
+
+
+
+
+If you have any questions about the Privacy Policy, contact us at [coolzipextractorapp.com/contactus](http://www.awesome-onlinegames.com/contactus/ms)
+
+  
+
