@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisedirect.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002542id_/http%3A//www.cruisedirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedirect.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814061208id_/http%3A//www.cruisedirect.com/privacy.php) for the most accurate reproduction.*
 
 # CruiseDirect.com | Terms & Conditions
 
