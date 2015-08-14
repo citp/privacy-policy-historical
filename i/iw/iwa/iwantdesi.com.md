@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwantdesi.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516233550id_/http%3A//iwantdesi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantdesi.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814211351id_/http%3A//iwantdesi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
