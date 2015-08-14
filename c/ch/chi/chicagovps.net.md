@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagovps.net privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412014533id_/http%3A//www.chicagovps.net/downloads/PrivacyPolicy-ChicagoVPS.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagovps.net privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814120743id_/http%3A//www.chicagovps.net/downloads/PrivacyPolicy-ChicagoVPS.pdf) for the most accurate reproduction.*
 
 # Privacy Policy Our Commitment To Privacy
 
