@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversleuth.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420113948id_/http%3A//www.driversleuth.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversleuth.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814084936id_/http%3A//driversleuth.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Driver Sleuth
 
