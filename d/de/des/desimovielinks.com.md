@@ -1,100 +1,92 @@
-> *The following text is extracted and transformed from the desimovielinks.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desimovielinks.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814164602id_/http%3A//eindianclassifieds.com/privacy-police.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# eindianclassifieds Web Site
 
-**Go Daddy Respects Your Privacy**
+Privacy And Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Introduction
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+  
+We, at 'EIndiaClassifieds ' and our affiliated companies worldwide, are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+"Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit EIndiaClassifieds 's Web pages without telling us who you are or revealing any Personal Information about yourself.
 
-**Information Collection and Use**
+Cookies and Other Tracking Technologies
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site and some sections of the site would not work.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Third Party Services
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Third parties provide certain services available on www.shiksha.com on EIndiaClassifieds 's behalf. 'EIndiaClassifieds ' may provide information, including Personal Information, that 'EIndiaClassifieds ' collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which 'EIndiaClassifieds ' maintains its Web site and mailing lists. 'EIndiaClassifieds ' will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on EIndiaClassifieds 's behalf.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+'EIndiaClassifieds ' does not intend to transfer Personal Information without your consent to third parties who are not bound to act on EIndiaClassifieds 's behalf unless such transfer is legally required. Similarly, it is against EIndiaClassifieds 's policy to sell Personal Information collected online without consent.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Your Consent
 
-**Security**
+By using this Web site, you consent to the terms of our Online Privacy Policy and to EIndiaClassifieds 's processing of Personal Information for the purposes given above as well as those explained where 'EIndiaClassifieds ' collects Personal Information on the Web.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Information security
 
-**Updating Your Information**
+  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
+  * We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Updating your information
 
-      iii.      You may call us at: (480) 505-8800
+  * We provide mechanisms for updating and correcting your personally identifying information for many of our services. For more information, please see the help pages for each service.
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Children
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * 'EIndiaClassifieds ' will not contact children under age 13 about special offers or for marketing purposes without a parent's permission.
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
+Information Sharing and Disclosure
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * 'EIndiaClassifieds ' does not rent, sell, or share personal information about you with other people (save with your consent) or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
+    * We provide the information to trusted partners who work on behalf of or with 'EIndiaClassifieds ' under confidentiality agreements. These companies may use your personal information to help 'EIndiaClassifieds ' communicate with you about offers from 'EIndiaClassifieds ' and our marketing partners. However, these companies do not have any independent right to share this information.
+    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of EIndiaClassifieds 's terms of use, or as otherwise required by law.
+    * We transfer information about you if 'EIndiaClassifieds ' is acquired by or merged with another company. In this event, 'EIndiaClassifieds ' will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * 'EIndiaClassifieds ' displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
+    * 'EIndiaClassifieds ' does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+    * 'EIndiaClassifieds ' advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
+  * 'EIndiaClassifieds ' works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Confidentiality and Security
 
-**Contests/Surveys**
+  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+  * We have physical, electronic, and procedural safeguards that comply with the laws prevalent in India to protect personal information about you. We seek to ensure compliance with the requirements of the Information Technology Act, 2000 and Rules made there under to ensure the protection and preservation of your privacy.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+Changes to this Privacy Policy
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+'EIndiaClassifieds ' reserves the right to update, change or modify this policy at any time. The policy shall come to effect from the date of such update, change or modification.
 
-**What Happens to my Personal Information if I Opt Out?**
+Disclaimer
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+EIndiaClassifieds does not store or keep credit card data in a location that is accessible via the Internet. Once a credit card transaction has been completed, all credit card data is moved off-line only to ensure that the data/credit card information received is not accessible to anyone after completion of the on-line transaction and to ensure the maximum security. EIndiaClassifieds uses the maximum care as is possible to ensure that all or any data / information in respect of electronic transfer of money does not fall in the wrong hands.
 
-**Transfer of Data Abroad**
+EIndiaClassifieds shall not be liable for any loss or damage sustained by reason of any disclosure (inadvertent or otherwise) of any information concerning the user's account and / or information relating to or regarding online transactions using credit cards / debit cards and / or their verification process and particulars nor for any error, omission or inaccuracy with respect to any information so disclosed and used whether or not in pursuance of a legal process or otherwise.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Contact Information
 
-**Changes in Our Practices**
+'EIndiaClassifieds ' welcomes your comments regarding this privacy statement at the contact address given at the website. Should there be any concerns about contravention of this Privacy Policy, 'EIndiaClassifieds ' will employ all commercially reasonable efforts to address the same.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Following information about Google and the DoubleClick DART cookie:
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+* Google, as a third party vendor, uses cookies to serve ads on IndianFreshers.com
 
-**Contacting Our Site**
+* Google's use of the DART cookie enables it to serve ads to our users based on their visit to EIndiaClassifieds and other sites of EIndiaClassifieds .
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
