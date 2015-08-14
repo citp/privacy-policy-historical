@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the eventfarm.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607104703id_/http%3A//eventfarm.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventfarm.com privacy policy that was archived on 2015-08-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150814031758id_/https%3A//www.eventfarm.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="keywords" content="events, online registration, sell tickets, email invitations, event management, registration software, PayPal, credit cards, online payments">
-		<meta name="robots" content="index, follow">
-		<meta name="description" content="">
-		<link rel="shortcut icon" href="/favicon.ico">
-		<title>Event Farm</title>
+<meta name="keywords" content="events, online registration, sell tickets, email invitations, event management, registration software, PayPal, credit cards, online payments">
+<meta name="description" content="Privacy policy for Event Farm event marketing software.">
+<meta name="robots" content="index, follow">
+<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
+		<title>Event Farm - Privacy Policy</title>
 
 		<link media="all" rel="stylesheet" href="/css/ef.public.css">
 		<link media="all" rel="stylesheet" href="/css/jquery.fancybox.css">
 		<link media="all" rel="stylesheet" href="/css/jquery.notifybar.css">
 		
-		<script id="hs-analytics" src="//js.hubspot.com/analytics/1580383200000/245892.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/libs/jquery-latest.min.js"></script>
+		<script id="hs-analytics" src="//js.hubspot.com/analytics/1580383200000/245892.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/libs/jquery-latest.min.js"></script>
 		<script type="text/javascript" src="/js/libs/jquery.anchor.js"></script>
 		<script type="text/javascript" src="/js/libs/ef.public.js"></script>
 		<script type="text/javascript" src="/js/libs/ss-social.js"></script>
@@ -23,6 +23,7 @@
 
 		<script type="text/javascript" src="//use.typekit.net/tah3dip.js"></script>
 		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+		<script src="//load.sumome.com/" data-sumo-site-id="6a8a3c4f861da777abc5c1d4d18b1e6b3afb173a338037f3313aafc51117075c" async="async"></script>
 
 		<!--[if lt IE 9]>
 			<script type="text/javascript" src="/js/libs/ef.public.ie.js"></script>
@@ -80,40 +81,6 @@
 					$(".info-block p").css( "font-size", "18px" );
 				}
 
-				$('form#contact-email-form').on('submit', function(e){
-					e.preventDefault();
-					var $this = $(this)
-						, $btn = $this.find('input[type="submit"]')
-						;
-
-					if ($btn.prop('disabled')){
-						return;
-					}
-
-					$btn.prop('disabled', true).addClass('disabled');
-					$.post($this.attr('action'), $this.serialize(), function(res){
-
-						if (res.result){
-							$.notifyBar({
-								html: res.message,
-								cssClass: 'success',
-								onHide: function(){
-									$btn.prop('disabled', false).removeClass('disabled');
-									$this.closest('section.slide').find('a.opener').trigger('click');
-									$this.find('input[name="data[Contact][email]"]').val('');
-									$this.find('textarea[name="data[Contact][message]"]').val('');
-								}
-							});
-						}
-						else{
-							$.notifyBar({
-								html: res.message,
-								cssClass: 'error'
-							});
-							$btn.prop('disabled', false).removeClass('disabled');
-						}
-					});
-				});
 			});
 
 			$(window).load(function(){
@@ -126,38 +93,6 @@
 	<div id="wrapper">
 		<!-- header open-close -->
 		<header id="header" class="open-close">
-			<!-- slide -->
-			<section class="slide js-slide-hidden">
-				<a class="opener" href="#">close</a>
-				<!-- email-form -->
-				<form action="/contacts/contact?output=json" class="email-form" id="contact-email-form" method="post" enctype="application/x-www-form-urlencoded">
-					<fieldset>
-						<div class="info">
-							<h1>Let’s get this party started!</h1>
-							<p>Use this form or send an <br>email to a friendly Event Farmer at: <a href="mailto:info@eventfarm.com">info@eventfarm.com</a><br>or call us at 888.444.8162</p>
-						</div>
-						<div class="area">
-							<div class="row">
-								<input type="hidden" name="_method" value="POST">
-								<input name="data[Contact][email]" class="error" type="email" placeholder="email*">
-								<span class="select-area" style="width: 194px;"><span class="left"></span><span class="center">select a subject</span><a class="select-opener"></a></span><select name="data[Contact][subject]" title="select a subject" class="jcf-hidden">
-									<option value="general question">general question</option>
-									<option value="sales inquiry">sales inquiry</option>
-									<option value="event inquiry">event inquiry</option>
-									<option value="check-in only inquiry">check-on only inquiry</option>
-									<option value="nfc/hover inquiry">nfc/hover inquiry</option>
-									<option value="support question">support question</option>
-								</select>
-							</div>
-							<textarea name="data[Contact][message]" cols="30" rows="10" placeholder="message*"></textarea>
-							<div class="row-b">
-								<p class="error">*Required fields.&nbsp; Email used for responses only.</p>
-								<span class="submit"><input type="submit" value="Send"></span>
-							</div>
-						</div>
-					</fieldset>
-				</form>
-			</section>
 			<div class="header-holder">
 				<!-- nav-block -->
 				<nav class="nav-block" style="position: fixed; top: 0px; background: url(&quot;/img/logos/small.horizontal.logo.white.png&quot;) center 6px no-repeat rgb(0, 0, 0); padding: 0px; z-index: 1000; width: 100%;">
@@ -183,7 +118,7 @@
 					</div>
 					<ul class="nav">
 						<li><a href="http://support.eventfarm.com/">support</a></li>
-						<li><a class="opener green-link" href="#">contact</a></li>
+						<li><a href="http://info.eventfarm.com/contact-event-farm" target="_blank">contact</a></li>
 					</ul>
 					<div style="margin: 0px auto; border: 0px; width: 160px; height: 40px; cursor: pointer;" id="hotspot">
 						<a href="/">&nbsp;</a>
@@ -272,7 +207,7 @@
 			<section class="logo-block">
 				<h1><span>folks who love us</span></h1>
 				<ul id="client-logos">
-				<li><img class="client-logo" src="/img/public/logos/6.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/17.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/69.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/9.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/2.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/66.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/14.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/58.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/42.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/27.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/34.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/25.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/53.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/13.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/40.png" width="120"></li></ul>
+				<li><img class="client-logo" src="/img/public/logos/13.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/67.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/32.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/44.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/47.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/40.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/64.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/10.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/68.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/6.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/23.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/3.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/61.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/8.png" width="120"></li><li><img class="client-logo" src="/img/public/logos/30.png" width="120"></li></ul>
 			</section>
 		</div>
 		<!-- footer -->
@@ -312,19 +247,17 @@
 			<a href="#wrapper" class="btn-top anchorLink" style="display: none;">TOP</a>
 		</footer>
 	</div>
-	<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-18287368-1']);
-  _gaq.push(['_setDomainName', '.eventfarm.com']);
-  _gaq.push(['_trackPageview']);
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-18287368-1', 'auto');
+  ga('send', 'pageview');
 
-</script><script type="text/javascript">
+</script>
+<script type="text/javascript">
 	(function(d,s,i,r) {
         if (d.getElementById(i)){return;}
         var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
@@ -350,4 +283,4 @@ window.onload = function(){
 }());
 </script>
 
-<iframe id="font-resize-frame-78" class="font-resize-helper" style="width: 100em; height: 10px; position: absolute; border-width: 0px; top: -9999px; left: -9999px;"></iframe></body></html>
+<iframe id="font-resize-frame-307" class="font-resize-helper" style="width: 100em; height: 10px; position: absolute; border-width: 0px; top: -9999px; left: -9999px;"></iframe></body></html>
