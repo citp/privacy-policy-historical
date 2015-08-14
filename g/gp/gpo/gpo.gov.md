@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629120848id_/http%3A//www.gpo.gov/etc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpo.gov privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815011013id_/http%3A//www.gpo.gov/etc/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,8 +22,8 @@ Find information about Federal depository libraries & the Catalog of U.S. Govern
 
 The concept of online privacy includes the right to decide what personal information you choose to submit online, and how that information will be used, if at all. To protect user privacy, GPO follows Office of Management and Budget (OMB) recommendations and other suggestions regarding Internet privacy policy for Federal Government Web sites. In doing so, we strive to make users aware of the kinds of information we collect from them, explaining why we collect that information, how we use it, and whether it will be shared with others.
 
-Information Collected AutomaticallyWhen users surf the GPO Web site or hosted Federal Web sites, GPO collects the following data for statistical purposes only:  
-
+**Information Collected Automatically**  
+When users surf the GPO Web site or hosted Federal Web sites, GPO collects the following data for statistical purposes only: 
 
   * the IP address from which users access our Web site;
   * the date and time of their visits;
@@ -50,12 +50,12 @@ In the case that suspicious activity of this sort arises, a user's personal info
 **Note:** To assist users in finding official Government information, we provide links to other Web sites. Once users have left gpo.gov and entered another site, they are subject to the policies and legal notices on that site.
 
 **Copyright Status Notice**  
-Unless specifically stated otherwise, all information on the U.S. Government Printing Office (GPO) website is in the public domain, and may be reproduced, published or otherwise used without GPO's permission. 
+Unless specifically stated otherwise, all information on the U.S. Government Publishing Office (GPO) website is in the public domain, and may be reproduced, published or otherwise used without GPO's permission. 
 
 Some photographs in major banners and navigation headings are commercially licensed and cannot be reproduced, published or otherwise used.
 
 **GPO Privacy Program**
 
-The United States Government Printing Office (GPO) places a high priority on protecting information in identifiable form that is collected, used, maintained, and disseminated by the Agency. For additional information, go to [GPO Privacy Program.](https://web.archive.org/about/privacyprogram/index.htm)
+The United States Government Publishing Office (GPO) places a high priority on protecting information in identifiable form that is collected, used, maintained, and disseminated by the Agency. For additional information, go to [GPO Privacy Program.](https://web.archive.org/about/privacyprogram/index.htm)
 
 |  
