@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtyroulette.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607201151id_/http%3A//dirtyroulette.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtyroulette.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814064918id_/https%3A//dirtyroulette.com/privacy) for the most accurate reproduction.*
 
 # Dirtyroulette - Privacy Policy
 
