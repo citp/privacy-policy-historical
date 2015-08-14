@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventfarm.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607104703id_/http%3A//eventfarm.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfarm.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814031758id_/https%3A//www.eventfarm.com/privacy_policy) for the most accurate reproduction.*
 
-# Event Farm
+# Event Farm - Privacy Policy
 
 _This Privacy Policy was last updated on November 22nd, 2011._
 
