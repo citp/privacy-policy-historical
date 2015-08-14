@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510042220id_/http%3A//www.cyberguys.com/company-information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814025757id_/http%3A//www.cyberguys.com/company-information/Privacy.aspx) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy Policy
 
