@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansexmovies.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213160127id_/http%3A//www.indiansexmovies.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansexmovies.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814175240id_/http%3A//indiansexmovies.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -250,7 +250,7 @@ We may use personal information:
 
   * to give you information about us and our products, and product offers 
 
-  * for direct marketing â€“ see _Direct marketing_ for details 
+  * for direct marketing – see _Direct marketing_ for details 
 
   * to improve our products, our marketing and our website 
 
@@ -286,7 +286,7 @@ We may disclose personal information as reasonably required:
 
     * market research, sales and marketing 
 
-    * direct marketing â€“ see _Direct marketing_ for details 
+    * direct marketing – see _Direct marketing_ for details 
 
     * identity and fraud checking 
 
