@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eches.net privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613080608id_/http%3A//eches.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eches.net privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814074312id_/http%3A//eches.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Eches
 
