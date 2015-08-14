@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megashare.ca privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212221005id_/http%3A//megashare.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megashare.ca privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815002330id_/http%3A//megashare.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MegaShare
+# Privacy Policy - Megashare.ca
 
 1\. PURPOSE
 
