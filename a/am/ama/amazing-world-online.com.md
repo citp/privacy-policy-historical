@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amazing-world-online.com privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810051416id_/https%3A//amazing-world-online.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazing-world-online.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814072937id_/http%3A//amazing-world-online.com/privacy) for the most accurate reproduction.*
 
-# Likes.com
+# amazing-world-online
 
 Effective Date: 27 August 2013
 
