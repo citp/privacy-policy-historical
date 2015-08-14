@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipayment.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206082929id_/http%3A//corebt.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipayment.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814121239id_/http%3A//corebt.com/privacy.html) for the most accurate reproduction.*
 
 # CORE Business Technologies: Revenue, Document, Network, Management: Privacy Policy
 
