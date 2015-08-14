@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the entertaintastic.com privacy policy that was archived on 2014-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140928085653id_/http%3A//entertaintastic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertaintastic.com privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814182259id_/http%3A//entertaintastic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | entertaintaistic.com
-
-## Privacy Policy
 
 Privacy Policy for **http://entertaintastic.com**
 
