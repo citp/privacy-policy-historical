@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fmpub.net privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212172514id_/http%3A//fmpub.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmpub.net privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814112901id_/http%3A//fmpub.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Federated Media
 
