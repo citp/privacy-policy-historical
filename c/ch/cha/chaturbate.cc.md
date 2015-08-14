@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaturbate.cc privacy policy that was archived on 2014-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140919180715id_/http%3A//chaturbate.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaturbate.cc privacy policy that was archived on 2015-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150814084328id_/http%3A//chaturbate.cc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - chaturbate
 
