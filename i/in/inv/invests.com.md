@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invests.com privacy policy that was archived on 2014-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140903152230id_/http%3A//invests.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invests.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815194038id_/http%3A//invests.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Invests.com
 
@@ -40,9 +40,9 @@ Dot Com Investors Inc does not knowingly collect personally identifiable informa
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Dot Com Investors Inc by
 
 **Contact us here:**  
-\- Web page: [www.invests.com](http://invests.com/)  
-\- Email: [legal@invests.com](mailto:legal@invests.com)  
-\- Telephone Number: +1 646 381 2130 Extension 1022
+– Web page: [www.invests.com](http://invests.com/)  
+– Email: [legal@invests.com](mailto:legal@invests.com)  
+– Telephone Number: +1 646 381 2130 Extension 1022
 
 **Changes to this Statement**  
 Dot Com Investors Inc will occasionally update this Statement of Privacy to reflect company and customer feedback. Dot Com Investors Inc encourages you to periodically review this Statement to be informed of how Dot Com Investors Inc is protecting your information.
