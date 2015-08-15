@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiboomu.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615220758id_/http%3A//kiboomukidssongs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiboomu.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815113731id_/http%3A//kiboomukidssongs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Kiboomu Kids Songs for our clients
 
