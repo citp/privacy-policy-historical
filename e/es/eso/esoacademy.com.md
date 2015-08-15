@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esoacademy.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005633id_/http%3A//esoacademy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoacademy.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815161408id_/http%3A//esoacademy.com/privacy) for the most accurate reproduction.*
 
 # Privacy » ESO Academy
 
