@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fyffest.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627035721id_/http%3A//groundctrl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyffest.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815230130id_/http%3A//groundctrl.com/privacy-policy) for the most accurate reproduction.*
 
 # Wonderful Union: A fan engagement company
 
