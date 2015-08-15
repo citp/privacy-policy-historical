@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ggnetwork.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102191713id_/http%3A//ggnetwork.com/site/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggnetwork.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815160025id_/http%3A//ggnetwork.com/site/privacy_policy) for the most accurate reproduction.*
 
 # Ggnetwork.com - Privacy Policy
 
@@ -12,6 +12,6 @@ We use data collection devices such as "cookies" on certain pages of this Websit
 
 We reserve the right to make changes to this Privacy Policy at any time by posting the amended terms on this Website, so please check it frequently. If we make material changes to this Policy, all amended terms shall automatically be effective 30 days after they are initially posted on this Website. By using this Website, you signify your assent to the terms and conditions contained herein (as amended from time to time). If you do not agree to be bound by our Privacy Policy, please do not use this Website. 
 
-If you are under the age of 18, you may only use this Website in conjunction with and under the supervision of your parents or guardians, and with express permission from GGNETWORK.COM. We ask that children do not submit any personal information. If you have any questions about our Privacy Policy, please [contact us](https://web.archive.org/contact). 
+If you are under the age of 18, you may only use this Website in conjunction with and under the supervision of your parents or guardians, and with express permission from GGNETWORK.COM. We ask that children do not submit any personal information. If you have any questions about our Privacy Policy, please [contact us](http://ewebdevelopment.com/company/contact_us/ggnetwork.com). 
 
 Revised: 3/18/2011 
