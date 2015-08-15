@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodfridayappeal.com.au privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512050125id_/http%3A//www.goodfridayappeal.com.au/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodfridayappeal.com.au privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815022812id_/http%3A//www.goodfridayappeal.com.au/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Good Friday Appeal
 
@@ -46,7 +46,7 @@ Company collects the personal information needed to provide Company Services and
 
 **Information from third party Social Media.** If you access or log-in to a Company Service through a third party social media service or connect a Company Service to a third party social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the third party social media service to share with us, such as your profile picture, email address, followers or friends lists, and any information you have disclosed in connection with that social media service. We do not collect your passwords other than in relation to our own services. When you access the Company Services through third party social media services or when you connect a Company Service to third party social media services, you are authorizing Company to collect, store use and disclose such information and content in accordance with this Privacy Policy.
 
-Activity Information ��� cookies and other technologies. When you access and interact with the Company Services, we may collect certain information about those visits. For example, in order to permit your connection to the Company Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Company Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information from that device.
+**Activity Information, cookies and other technologies.** When you access and interact with the Company Services, we may collect certain information about those visits. For example, in order to permit your connection to the Company Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Company Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information from that device.
 
 Cookies and other tracking technologies (such as browser cookies and local storage, pixel beacons, and Adobe Flash technology including cookies) are comprised of small bits of data or code that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so that such websites, apps and other services can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information such as pages you have visited, content you have viewed, search queries you have run and advertisements you have viewed in relation to your usage of the Company Services and other websites you have visited.
 
@@ -122,7 +122,7 @@ If you have questions about this Privacy Policy, please contact our Privacy Offi
 
 Email: | privacy@goodfridayappeal.com.au  
 ---|---  
-Mail: | Privacy Officer, Royal Children's Hospital Good Friday Appeal Limited, Ground Floor, 40 City Road, Southbank, VIC 3006  
+Mail: | Privacy Officer, Royal Children's Hospital Good Friday Appeal Limited, PO Box 14744, Melbourne VIC 8001  
 Telephone: | +613 9292 1166  
   
 ### 9\. LIST OF INCLUDED COMPANIES
