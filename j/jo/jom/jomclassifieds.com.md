@@ -1,63 +1,64 @@
-> *The following text is extracted and transformed from the jomclassifieds.com privacy policy that was archived on 2008-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080119211309id_/http%3A//www.jomclassifieds.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jomclassifieds.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815053437id_/http%3A//jomclassifieds.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | JomClassifieds.com
+# Jom Classifieds - Privacy Policy
 
-Your privacy is important to us, so JomClassifieds has created this Privacy Policy to explain how your information is protected, collected and used. This Privacy Policy applies to our web sites, including our publicly accessible web sites located at JomClassifieds.com (the "Sites"). This Privacy Policy may be updated from time to time. You can always review the most current version at [http://www.JomClassifieds.com/corp/privacy/](http://www.jomclassifieds.com/corp/privacy/ "http://www.JomClassifieds.com/corp/privacy/"). By using the Sites, you consent to the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future. If there is a conflict between our Terms of Use governing your use of the Sites and this Privacy Policy, the Terms of Use control.
+### Privacy Policy 
 
-### **Protecting Your Privacy**
+#### Summary
 
-In various places on the Sites, we collect "Personally Identifiable Information," such as your name, postal address, telephone number, e-mail address, or other information that can be used to identify you or contact you.
+jomclassifieds.com is committed to protecting you and your personal information when you are using our services. We want our services to safe and enjoyable environments for our users. This Privacy Policy is relevant to our use of any personal information you provide to us during your visit to our site.
 
-• JomClassifieds will not share any of your Personally Identifiable Information, except for the information you choose to publicly disclose in the listings you publish, with our advertisers or any third-parties for marketing purposes.  
-• JomClassifieds offers email anonymization & relay to protect your identity and reduce spam.  
-• Account information is password protected. Keep your password safe.  
-• JomClassifieds does not knowingly collect any Personally Identifiable Information from persons under the age of 13, and JomClassifieds does not permit persons under the age of 13 to register on the Sites. If JomClassifieds learns that a listing is by a person under the age of 13, JomClassifieds will remove that listing.
+jomclassifieds.com seeks to follow the industry's best practices concerning personal information handling.
 
-JomClassifieds, or people that place listings on JomClassifieds, may provide links to third party web sites, which may have different privacy practices than JomClassifieds. We are not responsible for, nor have any control over, the privacy policies on these third party web sites. We encourage all users to read the privacy policies of every web site you visit.
+Whenever you register for our members-only services, for example using our forum, we may ask personal information about you. This can consist of such information as your name, e-mail, website address, gender, etc. By entering the information in the fields requested you enable jomclassifieds.com to provide you with the services you select.
 
-### **Registration**
+jomclassifieds.com will NOT sell, rent or otherwise willingly transmit the recorded personal information to any third party. Your privacy is important to us and we will not even offer aggregate information resulting from personal information processing to any part outside jomclassifieds.com. We only use the recorded personal information for:
 
-Registration is required to place a listing through our service or to use other types of functionality that require the service to recognize a user (e.g., JomClassifieds Alerts). If you decide to register or sign up for certain services, you will need to give us certain Personally Identifiable Information, such as a valid e-mail address and zip code. You will also have the option to provide other Personally Identifiable Information such as your address. This Personally Identifiable Information will be used to personalize and improve your experience of our service. This information will not be disclosed to any third-party without your explicit consent. 
+  * service administration purposes, e.g. sending you password reminders, registration confirmations, billing subscription services etc.;
+  * to contact you regarding new content added on our website, e.g. new forum posts, if you have opted in for this sort of communication;
+  * to personalize your experience, through the storage of your preferences in our site's database;
+  * analyze the use of our website and improve its usability;
+  * dispute chargeback requests
 
-Registered users may choose to receive a copy of our newsletter or receive other mailings from us regarding our service or the Sites. You may opt-out of receiving future mailings as part of the registration process.
 
-You can review and change your Personally Identifiable Information or password at any time by going to our "My JomClassifieds" page at [http://www.JomClassifieds.com/user](http://www.jomclassifieds.com/user "http://www.JomClassifieds.com/user").
 
-### **Cookies**
+If jomclassifieds.com wishes to use the recorded personal information for other uses, it will notify you beforehand so that you have the chance to opt-out from these new uses.
 
-Like many web sites, JomClassifieds uses a standard technology call "cookies." A cookie is a small text file stored on your computer's hard drive that can be accessed by a specific web site to make your experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use JomClassifieds. Cookies also help us understand how our users use the Sites, which allows us to improve the service. We do not use cookies to retrieve any information from your computer other than the information we provide, such as a user code.
+#### When we contact you
 
-### **Data We Collect**
+We only contact you if you have explicitly opted-in for such communication through the use of our services. For example:
 
-In addition to Personally Identifiable you provide at registration or by using the service, we collect the following information:
+  * We may contact you if a new post was added to a thread or category you have subscribed to
+  * We shall contact you regarding if your subscription status has changed or a change is imminent
+  * We shall contact you to send you a copy of your invoice after a purchase
+  * We may contact you when you register or modify a user account, request a username/password reminder or reset, or in any other case where you perform an action related to the administration of the information stored in your user account
 
-• Listings content. When you place a listing or a review on JomClassifieds, we collect a variety of information related to that listing (e.g., price, model). The public will see any information that you include in your listing, and as such, JomClassifieds has no control over how this information will be used. For that reason, please think carefully about what Personally Identifiable Information you disclose in your listing. You can always edit any of your listings at [http://www.JomClassifieds.com/user](http://www.jomclassifieds.com/user "http://www.JomClassifieds.com/user").  
-• "Anonymous Information" such as your IP address, the type of browser you use, the pages on our Sites that you visit, the search terms that you enter and the advertisements that you click. This information is used to help us diagnose problems, administer the site and otherwise improve our service to you.  
-• Credit card information. Credit card information is collected but not stored. It is transmitted to a financial gateway using Secure Socket Layer (SSL) technology.
 
-### **Data We Store**
 
-The following information is stored in our database, even after deletion, and may be archived:
+These forms of contact are conducted by automated software running on our server. You always have the chance to opt-out from such communication. jomclassifieds.com will never send unsolicited email messages ("spam") or allow third parties access to our users and contacts database.
 
-• Registration information  
-• All listings and review content  
-• Activity logs and other records
+We may also directly contact you - manually sending out emails, as opposed to automatic email sending outlined above - under special circumstances such as:
 
-Although we make good faith efforts to store information in a secure environment that is not made available to the public, we cannot guarantee complete security. 
+  * Suspecting that your account is compromised by an unauthorized third party
+  * Before, during or after server-related incidents which may seriously hamper your ability to use our services
+  * In case you have crossed the line of fair use of our services
+  * If you have so asked us with an email, ticket, personal message, instant message, Twitter message or any other form of contact.
 
-### **Circumstance in Which We Will Release Information**
 
-JomClassifieds may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to:
 
-• Respond to a legal process (e.g., subpoenas, court orders)  
-• Respond to claims that a listing or content violates the rights of third parties  
-• Enforce our Terms of Use  
-• Protect the rights, property or personal safety of JomClassifieds, its users or the general public
+#### Contact for marketing purposes
 
-If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy.
+We do not send unsolicited (or even opt-in) email messages for marketing purposes.
 
-### **More Questions?**
+#### Information sharing with third parties
 
-If you have any questions about this Privacy Policy or want to report abuse, please contact us at [admin@JomClassifieds.com](mailto:admin@JomClassifieds.com).
+Information collected by jomclassifieds.com will not be shared with any third parties. Not in their raw form, not in a processed or aggregate form. We do not share personal information with third parties except as stated in the "Use of collected information" article above.
 
-Last updated: November 17, 2007
+#### Contact information
+
+If you have any question regarding our privacy policy you may contact us by one of the following means:
+
+  * Sending an email to support at this domain name
+  * You can use the Ticketing System
+
+
