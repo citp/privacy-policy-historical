@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodcart.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615235647id_/http%3A//www.bollywoodcart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodcart.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815171615id_/http%3A//www.bollywoodcart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Bollywoodcart -Latest Bollywood news, movies reviews,gossip etc.
 
@@ -20,14 +20,10 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Bollywoodcart may collect and use Users personal information for the following purposes:
 
-  * _– To personalize user experience_
-
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-
-  * _– To send periodic emails_
-
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
-
 
 
 
@@ -66,5 +62,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+site     : <http://www.bollywoodcart.com/>  
+email   :contact@bollywoodcart.com
 
 This document was last updated on January 15, 2015
