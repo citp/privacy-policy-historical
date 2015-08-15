@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jizzonmygf.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216121342id_/http%3A//www.jizzonmygf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizzonmygf.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816002544id_/http%3A//jizzonmygf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
