@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the grandsavingscenter.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005163046id_/http%3A//www.grandsavingscenter.com/privacy.cgi%3Fconfig%3D7700) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandsavingscenter.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815115056id_/http%3A//www.grandsavingscenter.com/privacy.cgi%3Fconfig%3D8148) for the most accurate reproduction.*
 
 # Privacy
 
-**Active Date: July 8, 2011**
+**Active Date: February 23, 2015**
 
-**Previous Revisions: October 27, 2006; February 26, 2008; March 12, 2008; June 26, 2008; July 31, 2009; December 22, 2010; January 17, 2011; January 28, 2011; March 28, 2011; March 31, 2011; May 16, 2011; July 7, 2011 **
+**Previous Revisions: October 27, 2006; February 26, 2008; March 12, 2008; June 26, 2008; July 31, 2009; January 27, 2015; **
 
 **Privacy Policy / Your California Privacy Rights**
 
@@ -63,21 +63,13 @@ When you complete a registration or offer form that is hosted by one of our webs
 
 We may receive information about you, including but not limited to your IP address, e-mail address, first name, last name, mailing address, and telephone number, from third party marketing partners that provide us with consumer data to manage on their behalf.
 
-**SMS**
-
-SMS, Wireless and Other Mobile Offerings: Some of the services that we provide will result in sending an SMS, wireless or other mobile offering to your cell phone. These should be obvious in the context of the offering at the time you sign up. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier's standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send "STOP", "END", "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third parties.
-
-**IVR**
-
-Your acceptance of the terms and conditions of this website constitutes your express written consent to receive telemarketing calls from third-party marketers, including by means of a pre-recorded message and automated voice dialing. Your consent will be effective regardless of whether the number you have provided: (a) is a home, business, or cell phone line; and/or (b) is or will be registered on any state or federal Do-Not-Call (DNC) list, and shall remain in effect until you revoke your consent by contacting us.
-
 **Automatic Information/Digital Identifiers**
 
 We may automatically receive and store certain types of information about you through the data sources listed above.
 
 You may be familiar with the term “cookies,” which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on.
 
-We may also add third party cookies. Cookies contain anonymous, segmented data about a user’s demographics (like age, gender, and location), interests, lifestyle, household details, social media memberships, and online influences. The date in the cookies do not contain individual-level information, but rather general audience segments.
+We may also add third party cookies. Cookies contain anonymous, segmented data about a user’s demographics (like age, gender, and location), interests, lifestyle, household details, social media memberships, and online influences. The data in the cookies do not contain individual-level information, but rather general audience segments.
 
 We also collect information through our web server applications. This information includes your Internet Protocol or “IP” address, date/time stamp, browser type, and referring URL.
 
@@ -185,9 +177,9 @@ As it relates to marketing communications or any other questions you might have 
 
 **Opt-Out of Third Party Cookies**
 
-In visiting this site, a third-party advertiser (or its partners) may place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to [http://www.privacychoice.org/choose.](http://www.privacychoice.org/choose)
+In visiting this site, a third-party advertiser (or its partners) may place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to [http://www.networkadvertising.org/choices.](http://www.networkadvertising.org/choices)
 
-One of our third-party cookie partners is Datran Media (for Datran Media’s privacy policy, please visit <http://www.datranmedia.com/privacy/>). To opt out of Datran Media’s cookie-based marketing program, [click here](http://rt.displaymarketplace.com/optout.html).
+One of our third-party cookie partners is Criteo (for Criteo’s privacy policy, please visit <http://privacy.emailretargeting.com/privacy/policy>). 
 
 **WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?**
 
