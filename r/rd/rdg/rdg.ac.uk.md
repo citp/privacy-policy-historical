@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdg.ac.uk privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319031619id_/http%3A//www.reading.ac.uk/about/about-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdg.ac.uk privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815155026id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy and cookies information – University of Reading
 
@@ -109,9 +109,14 @@ ASP.NET_SessionID
 
 Essential for some interactive features of the University website such as online forms. It is only put on your computer when you use one of these features. 
 
+Automatically set when visiting any pages running on the ASP platform - essential for the running of web sites using ASP.
+
 | 
 
 This cookie contains a randomly generated number - your session ID  
+  
+**ASP.NET cookie** |  AspNet.Cookies | Until you close your browser | Only used when logging in. Added to the website only after using login forms for My Prospectus, Applicant or Student. | This holds the single sign on token received from UoR through OpenID  
+**ASP.NET Cookie** | cookiebar  | 1 year since created | Automatically set after reading the Cookie Policy.  | Stores the data when it was created.  
   
 **ASP.NET framework cookie**
 
@@ -130,6 +135,18 @@ Automatically set when visiting any pages running on the ASP.NET platform - esse
 | 
 
 This cookie contains a randomly generated number - your session ID  
+  
+**Sitecore Cookie**   | SC_ANALYTICS_GLOBAL_COOKIE | 10 years after browser closes | Identifies repeated visits from a single user. | These cookies store anonymous data on your visit to the website.  
+**Sitecore Cookie**    | SC_ANALYTICS_GLOBAL_SESSION_COOKIE  | 
+
+Until you close your browser
+
+  | Identifies a sequence of requests from a single user. | These cookies store anonymous data on your visit to the website.  
+**Sitecore Cookie**    | mysite#lang  | 
+
+Until you close your browser
+
+| Stores the current site language. Used when switching the site content to a different language. | Current language code.  
   
 **Java Server Pages (JSP)**
 
@@ -284,6 +301,9 @@ Automatically set when visiting any of our pages. Enables the use of the Google 
 | 
 
 These cookies store anonymous data on your visit to the Reading website.  
+  
+**Google Cookie**   |  _ga  | 2 years after last visit to the website.   |  Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service.  | These cookies store anonymous data on your visit to the website.  
+**Google Cookie**   |  _gat  | 30 minutes since last activity .  | Automatically set when visiting any of our pages. Enables the use of the Google Analytics web statistics service.   | These cookies store anonymous data on your visit to the website.   
   
 ####   
 Third party cookies
@@ -452,7 +472,7 @@ This website contains links to other sites. This privacy policy applies to this 
 
 ### Changes to our privacy policy
 
-We keep our privacy policy under regular review by IMPS and we will place any updates on this webpage. This policy was last updated in August 2012.
+We keep our privacy policy under regular review by IMPS and we will place any updates on this webpage. This policy was last updated in March 2015.
 
 ### How to contact us
 
@@ -460,8 +480,7 @@ Please contact us if you have any questions about our privacy policy or informat
 
   * [imps@reading.ac.uk](mailto:imps@reading.ac.uk)
   * T: +44 (0) 118 378 8981 
-  * F: +44 (0) 118 931 6248 
 
 
 
-IMPS, University of Reading, Room 221A, Whiteknights House, Reading, RG6 6AH
+IMPS, University of Reading, Room 225, Whiteknights House, Reading, RG6 6AH
