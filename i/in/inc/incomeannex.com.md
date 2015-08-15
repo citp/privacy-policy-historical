@@ -1,86 +1,22 @@
-> *The following text is extracted and transformed from the incomeannex.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216040943id_/http%3A//incomeannex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomeannex.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815205553id_/http%3A//incomeannex.com/privacy-policy) for the most accurate reproduction.*
 
-# Income Annex
+# Privacy | Income Annex
 
-**This document was last updated on October 31st 2010**
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**1\. ACKNOWLEDGEMENTS AND ACCEPTANCE OF TERMS**
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-The Future Proof Business group of websites , Income Annex.com and all other sites under the Future Proof Business group of sites is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of sites, you acknowledge and fully understand Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of site’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-**2\. PARTICIPATING MERCHANT POLICIES**
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Internet Marketing has no access or control over these cookies that may be used by third party advertisers.
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in The Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of sites services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+**Collection of Personal Information**  
+When visiting Internet Marketing, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-**3\. INFORMATION WE COLLECT AND HOW WE USE IT**
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-The Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of sites collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
-
-a. Web Server Logs.
-
-  
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:   
-· Your Internet protocol address.   
-· The kind of browser or computer you use.   
-· Number of links you click within the site.   
-· State or country from which you accessed the site.   
-· Date and time of your visit.   
-· Name of your Internet service provider.   
-· Web page you linked to our site from.   
-· Pages you viewed on the site.
-
-  
-b. Use of Cookies
-
-The Future Proof Business group of websites Income Annex.comand all other sites under the Future Proof Business group of sites may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.. 
-
-The Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of sites reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into The Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of sites .com a site that relies on third-party cookies).
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
-
-**c. Personal Information Users**
-
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service/membership, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
-
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
-
-§ To fulfill your service requests for services.  
-§ To protect ourselves from liability,  
-§ To respond to legal process or comply with law, or  
-§ In connection with a merger, acquisition, or liquidation of the company.
-
-**4\. USE OF WEB BEACONS OR GIF FILES**
-
-  
-The Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of sites Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow The Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of sites to count users who have visited those pages and to deliver co-branded services. The Future Proof Business group of websites and all other Income Annex.com sites under the group of sites may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
-
-Some Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These service providers to place a persistent cookie on your computer may use these Web beacons. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. The Future Proof Business group of websites Automated Traffic Bot.com and all other sites under the Future Proof Business group of sites prohibits Web beacons from being used to collect or access your personal information.
-
-**5\. ACCESSING WEB ACCOUNT INFORMATION**
-
-  
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant support@futureproofbusiness.com
-
-  
-**8\. CHANGES TO THIS STATEMENT**
-
-  
-The Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of sites has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-**7\. CONTACTING US**
-
-  
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us support@futureproofbusinesss.or send your comments to :
-
-Suite 222 Maddison House  
-226 High Street  
-Croydon  
-Surrey  
-CR9 1DF
-
-The Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of sites Attention: Privacy Statement Personal, Suite 222 Maddison House, 226 High Street, Croydon, Surrey CR9 1DF
-
-  
-The Future Proof Business group of websites Income Annex.com and all other sites under the Future Proof Business group of sites will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.
