@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarklink.info privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616104657id_/http%3A//www.bookmarklink.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarklink.info privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815223926id_/http%3A//www.bookmarklink.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
