@@ -1,99 +1,48 @@
-> *The following text is extracted and transformed from the driver-fixer.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627012051id_/http%3A//driver-fixer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driver-fixer.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815091002id_/http%3A//driver-fixer.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Driver Fixer
 
-Hi Faith & Dave,  
-Thank you for the advice in getting my PC running  
-fast again! I was about to toss the bleeping thing  
-in the trash. I'm glad I found you guys first!  
-Keep up the great work! Pam K., San Diego, CA  
+Driver-Fixer and its Subsidiaries are committed to safeguarding your privacy online. This Privacy Policy discloses how we collect and use information, and the choices that you can make about the way we collect and use your information. 
 
+If you are under 18, you should ask your parents or a guardian before you use our Services. If you are not yet 18, do not use our Service; do not download our products. 
 
-PCTuneUpTips.com is built  
-and maintained by  
-**Dave K. and Faith W.**
+#### Overview of Our Policy
 
-Last updated on **June 26, 2009**
+Driver-Fixer Website (We refer to our software and Products throughout this agreement as our Services). Please read this Terms & Conditions | Privacy Policy | Sitemap | About Us | Contact Uscarefully so that you understand our online privacy practices regarding: 
 
-  
-  
+By accessing Sites, using our Services, providing information requested or by continuing to use our Services, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites or our Services. 
 
+We may make available shorter versions of this Privacy Policy. We also may supplement this policy for specific Services. Where there is a conflict between this policy and our summary or supplement, this policy will govern. We reserve the right to modify this Privacy Policy. By accessing the sites or using the Services, you agree to be bound by thisTerms & Conditions | Privacy Policy | Sitemap | About Us | Contact Usas modified. 
 
-PCTuneUpTips.com has created this privacy policy in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for the PCTuneUpTips.com network of sites. 
+#### Some Terms We Use in This Policy
 
-### Our Privacy Guarantee
+Offers include e-mail, promotions, advertisements contests and third-party software presented by our Partners and us. 
 
-We will never sell, rent or share any of your personal information with a third-party without your express prior permission. 
+Personally Identifiable Information (PII) is any information that identifies or could be used to identify, contact or locate you. It also includes your credit card number. 
 
-### Cookies
+Partner is an advertiser, or other entity with whom we have a business relationship to provide Offers. 
 
-Our Site uses cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. We may also use cookies to assist in the ordering and sales process. 
+Service FreeDownloads and Offers Site 
 
-### Advertisers
+Subsidiary is an entity wholly owned or related to Driver-Fixer. 
 
-We use an outside advertising company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+User means an individual that has accessed the Sites on which we host our Products or Services.   
+We and Our refer to Driver-Fixer. and its subsidiaries. 
 
-Some anonymous demographic data is shared with the advertising companies on an aggregate basis. 
+You and Your refer to each user and his or her agents. 
 
-### Third Party Cookies
+#### Personal Information We Collect
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique 'cookie' on your browser. 
+We may collect personal information at various times when you use our Services. Your participation is voluntary and you have the choice not to disclose any information that we request by choosing not to participate in an offer or exiting our Sites and Services. 
 
-### Registration Forms
+Installation. During the installation process, we will present you with Offers. You may choose not to accept our Offers. 
 
-Our site's registration form requires users to give us contact information (like their name, email, and postal address), and demographic information. 
+Contacts/IP Information. If you voluntarily submit information orTerms & Conditions | Privacy Policy | Sitemap | About Us | Contact Us (e.g. password request, technical support), we may keep a record of this communication. We do not merge this information with your Personally Identifiable Information. 
 
-Contact information from the registration forms is used to get in touch with the customer when necessary. 
+#### Aggregate Information We Collect
 
-Users may opt-out of receiving future mailings. 
+When you use our Services, we may collect tracking information such as your IP address, browser type, the type of operating system you use, details about your computer hardware, the applications you have installed on your PC, the domain name of your Internet service provider, and pages you visited on our Sites. None of the information identifies you personally and we do not link aggregate information to Personally Identifiable Information. 
 
-Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+Cookies. A cookie is a small text file sent to your browser. Cookies are stored on your computer's hard drive for record keeping purposes. We and our Partners use session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie will terminate. A persistent cookie remains on your hard drive for an extended period. You can remove persistent cookies by following directions provided in your Internet browser's help file. 
 
-### Surveys
-
-Our online surveys may ask visitors for contact information (like email address) and demographic information (like zip code, age, or occupation). 
-
-Contact information from the surveys is used to get in touch with the visitor when necessary. 
-
-Users may opt-out of receiving future mailings. 
-
-Unique identifiers (such as passwords) are collected from Web site visitors to verify the user's identity. 
-
-Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. 
-
-### Contests
-
-We run contests on our site in which we ask visitors for contact information (like email address) and demographic information (like zip code, age, or occupation). 
-
-Contact information is also used to get in touch with the visitor when necessary. 
-
-Users may opt-out of receiving future mailings. 
-
-Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
-
-### External Links
-
-This site contains links to other sites. PCTuneUpTips.com is not responsible for the privacy practices or the content of such Web sites. 
-
-### Security
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
-
-### Automatically Logging
-
-Our systems log information including your IP address, browser and operating system to help diagnose problems with our server and to administer our Web site. 
-
-### Children's Guidelines
-
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
-
-  1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
-  2. We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service.
-  3. We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child. 
-  4. We will NOT provide any links to Web sites that are unsuitable for children.
-
-
-
-### Contacting the Web Site
-
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/contact.php). 
+We use cookies to: 1) Remind us of who you are and to access your account information (stored on our computers). We also use cookies to store your zip code and other information you have submitted for other services, such as displaying your local weather; 2) Estimate our audience size. Each browser accessing our Services is given a unique cookie which is then used to determine the extent of repeat usage, usage by registered users and unregistered users, and to help target advertisements based on user interests; 3) Allow our Partners to track visits to their sites and stores. This information collected by cookies is sometimes called "clickstream" or "click trail" and may also describe which pages you have seen; 4) Measure certain traffic patterns, for example which of our Sites you have visited. We use this information to understand our users' habits so that we can make each new experience on a Site a better one. 
