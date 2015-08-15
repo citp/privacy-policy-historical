@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearfilms.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929124544id_/http%3A//www.bearfilms.com/tour/pages.php%3Fid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearfilms.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815023322id_/http%3A//www.bearfilms.com/tour/pages.php%3Fid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
