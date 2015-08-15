@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inventing.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407192949id_/http%3A//www.inventing.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventing.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815063850id_/http%3A//www.inventing.com/templates/inventing2/privacy.php) for the most accurate reproduction.*
 
-# Untitled Document
+# Inventing Ideas Into Reality - Inventing.Com
 
 We take your privacy very seriously. We have prepared this Privacy Policy to describe the types of personal and non-personal information we collect, how we use such information, and to whom and under what circumstances we disclose such information. By using our Website you signify your assent to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy. 
 
@@ -79,3 +79,5 @@ Pittsburgh, PA 15222.
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Inventing.Com's Sponsor who are California residents to request certain information regarding Inventing.Com's Sponsor's disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to:  
 info@Inventing.Com 
+
+﻿
