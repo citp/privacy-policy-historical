@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imservicecenter.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220151010id_/http%3A//www.imservicecenter.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imservicecenter.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815181600id_/http%3A//imservicecenter.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # imsc
 
