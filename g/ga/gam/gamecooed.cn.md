@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecooed.cn privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921105127id_/http%3A//gamecooed.cn/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecooed.cn privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815101448id_/http%3A//gamecooed.cn/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
