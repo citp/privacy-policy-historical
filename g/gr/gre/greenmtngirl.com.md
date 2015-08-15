@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greenmtngirl.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423110216id_/http%3A//greenmtngirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmtngirl.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815200404id_/http%3A//hippymilspouse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GreenMtnGirl
+# Privacy Policy | Hippy Milspouse
 
-This Privacy Policy governs the manner in which greenmtngirl.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://greenmtngirl.com](http://greenmtngirl.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by greenmtngirl.com.
+This Privacy Policy governs the manner in which hippymilspouse.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://hippymilspouse.com](http://hippymilspouse.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by hippymilspouse.com.
 
 **Personal identification information**
 
@@ -18,11 +18,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-greenmtngirl.com may collect and use Users personal information for the following purposes:
+hippymilspouse.com may collect and use Users personal information for the following purposes:
 
-  * _\- To run a promotion, contest, survey or other Site feature_  
+  * _– To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
@@ -53,7 +53,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **Changes to this privacy policy**
 
-greenmtngirl.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+hippymilspouse.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -62,8 +62,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[greenmtngirl.com](http://greenmtngirl.com/)  
-[http://greenmtngirl.com](http://greenmtngirl.com/)  
-greenmtngirl@greenmtngirl.com
+[hippymilspouse.com/contact/](http://hippymilspouse.com/contact/)
 
-This document was last updated on June 05, 2013
+This document was last updated on August 3, 2015
