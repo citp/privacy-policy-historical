@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215084316id_/http%3A//freeeducationguide.com/privacy.html%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815101517id_/http%3A//www.freeeducationguide.com/privacy.html%23privacy-policy) for the most accurate reproduction.*
 
 # None
 
@@ -8,9 +8,9 @@ Effective: 9/18/2012
 
 This privacy policy explains how FreeEducationGuide.com owned and controlled by AcademixDirect, Inc. collects and uses your personal information that you submit to us online. FreeEducationGuide.com reserves the right to modify the terms of this policy at any time. We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-If you do not agree to the terms of this policy, in whole or in part, you are not authorized to use this website and should terminate registration by following the opt-out instructions (please see the "Opt Out Instructions below) or by visiting [www.DegreePath.com/unsubscribe.html](http://www.degreepath.com/unsubscribe.html). For questions about our policy, please submit your request in writing to [privacy@DegreePath.com](mailto:privacy@DegreePath.com).
+If you do not agree to the terms of this policy, in whole or in part, you are not authorized to use this website and should terminate registration by following the opt-out instructions (please see the "Opt Out Instructions below) or by visiting [www.degree.me/unsubscribe.html](http://www.degree.me/unsubscribe.html). For questions about our policy, please submit your request in writing to [privacy@degree.me](mailto:privacy@degree.me).
 
-FreeEducationGuide.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@DegreePath.com](mailto:info@DegreePath.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+FreeEducationGuide.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@degree.me](mailto:info@degree.me). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ##### What we may collect:
 
@@ -30,9 +30,9 @@ We use other third parties such as an email service provider to send out emails 
 
 ##### Access to your Personal Information:
 
-If your personal information changes, you may request that we correct or update it by emailing our Customer Support at [privacy@DegreePath.com](mailto:privacy@DegreePath.com).
+If your personal information changes, you may request that we correct or update it by emailing our Customer Support at [privacy@degree.me](mailto:privacy@degree.me).
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@DegreePath.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@degree.me. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ##### Cookies:
 
@@ -58,7 +58,7 @@ Third-party marketing vendors, including Google, may show TutorSpot.com ads on s
 
 FreeEducationGuide.com regularly monitors our websites, affiliated websites, and databases for fraud, abuse, and unauthorized use of information to protect your personal information that is under our control. We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web sites, you can email us at [info@DegreePath.com](mailto:info@DegreePath.com).
+If you have any questions about security on our Web sites, you can email us at [info@degree.me](mailto:info@degree.me).
 
 ##### Do Not Call Registry Compliance:
 
@@ -66,7 +66,7 @@ By submitting personal contact information to FreeEducationGuide.com through thi
 
 ##### Opt-Out Opportunity:
 
-FreeEducationGuide.com registrants may opt-out of receiving further newsletters from FreeEducationGuide.com at any time by following the "unsubscribe" instructions in any FreeEducationGuide.com e-mail received by registrant or by visiting [www.DegreePath.com/unsubscribe.html](http://www.degreepath.com/unsubscribe.html). Please note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from.
+FreeEducationGuide.com registrants may opt-out of receiving further newsletters from FreeEducationGuide.com at any time by following the "unsubscribe" instructions in any FreeEducationGuide.com e-mail received by registrant or by visiting [www.degree.me/unsubscribe.html](http://www.degree.me/unsubscribe.html). Please note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from.
 
 ##### Children's Privacy:
 
@@ -76,11 +76,11 @@ Protecting the privacy of the very young is especially important to us. For that
 
 In its sole discretion, FreeEducationGuide.com may transfer, sell or assign your personal information collected on and through this website and affiliated online properties to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of FreeEducationGuide.com and/or its affiliated online properties.
 
-To contact FreeEducationGuide.com, please send all inquiries to [info@DegreePath.com](mailto:info@DegreePath.com).
+To contact FreeEducationGuide.com, please send all inquiries to [info@degree.me](mailto:info@degree.me).
 
 FreeEducationGuide.com  
-1091 Landings Drive  
-Mountain View, CA 94043
+4400 Bohannon Drive, Suite 110  
+Menlo Park, CA 94025
 
 ##### Terms of Use:
 
