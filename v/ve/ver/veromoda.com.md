@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veromoda.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619045035id_/http%3A//www.veromoda.com/customer-service/privacy-policy/cs-privacy-policy%2Cen_MT%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veromoda.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815053951id_/http%3A//www.veromoda.com/customer-service/privacy-policy/cs-privacy-policy%2Cen_MT%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy - read about privacy policy for BESTSELLER
 
