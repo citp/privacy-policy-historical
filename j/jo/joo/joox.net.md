@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the joox.net privacy policy that was archived on 2015-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150309051613id_/http%3A//joox.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joox.net privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815064349id_/http%3A//joox.net/privacy.php) for the most accurate reproduction.*
 
-# Joox - Stream Free Full Movies Online
+# Joox - Watch or Download Free Full Movies Online
 
 **Joox Privacy Policy**
 
