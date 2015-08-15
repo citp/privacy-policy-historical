@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwantclips.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322111912id_/https%3A//iwantclips.com/privacy/index) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantclips.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815104621id_/https%3A//iwantclips.com/privacy/index) for the most accurate reproduction.*
 
 # iWantClips.com | The Best in Amateur Fetish Video Clips, Pics & More.
 
