@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forumias.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121031854id_/http%3A//forumias.com/discussion/1306/terms-conditions-privacy-policy-and-disclaimer%23Item_1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumias.com privacy policy that was archived on 2015-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150815121503id_/http%3A//www.forumias.com/discussion/1306/terms-conditions-privacy-policy-and-disclaimer%23Item_1) for the most accurate reproduction.*
 
-# Terms & Conditions Privacy Policy And Disclaimer - FAQs - UPSC 2013
+# Terms & Conditions Privacy Policy And Disclaimer - Forum for UPSC Preparation
 
 This Agreement was last modified on August 05, 2013.
 
@@ -8,34 +8,39 @@ Please read these Terms and Conditions ("Agreement", "Terms and Conditions") car
 
 By accessing or using the Site in any manner, including, but not limited to, visiting or browsing the Site or contributing content or other materials to the Site, you agree to be bound by these Terms and Conditions. Capitalized terms are defined in this Agreement.
 
- **Intellectual Property**
+**Intellectual Property**
 
   * Content posted by users of this website belong to the Users.
+  
+
   * We do not claim copyright over content posted by users, and assume that users own the copyright to any data uploaded by them
+  
+
   * Any content posted in breach of Indian IP and Copyright Laws shall be removed immediately upon request by the party owning the Copyright on identifying himself as the legal holder of rights. 
+  
 
 
 
 **Termination**  
 We may terminate your access to the Site, without cause or notice, which may result in the forfeiture and destruction of all information associated with you. All provisions of this Agreement that by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
- **Links To Other Sites**  
+**Links To Other Sites**  
 Our Site may contain links to third-party sites that are not owned or controlled by ForumIAS.com.
 
 ForumIAS.com has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services. We strongly advise you to read the terms and conditions and privacy policy of any third-party site that you visit.
 
- **Governing Law**  
+**Governing Law**  
 This Agreement (and any futher rules, polices, or guidelines incorporated by reference) shall be governed and construed in accordance with the laws of Delhi, India, without giving effect to any principles of conflicts of law.
 
- **Changes To This Agreement**  
+**Changes To This Agreement**  
 We reserve the right, at our sole discretion, to modify or replace these Terms and Conditions by posting the updated terms on the Site. Your continued use of the Site after any such changes constitutes your acceptance of the new Terms and Conditions.
 
 Please review this Agreement periodically for changes. If you do not agree to any of this Agreement or any changes to this Agreement, do not use, access or continue to access the Site or discontinue any use of the Site immediately.
 
- **Contact Us**  
+**Contact Us**  
 If you have any questions about this Agreement, please contact us at the contact information at the bottom of this page
 
- **What information do we collect?**
+**What information do we collect?**
 
 We collect information from you when you register on our site or subscribe to our newsletter.
 
@@ -50,7 +55,7 @@ Any of the information we collect from you may be used in one of the following w
 ; To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To process transactions
+; To process transactions 
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
