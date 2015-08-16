@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110113324id_/http%3A//harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816155302id_/http%3A//www.harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
-# HarryPotterFanfiction.com :: Over 80,000 Harry potter stories and podcasts
+# HarryPotterFanfiction.com :: Over 80,000 Harry potter stories
 
 _Privacy Policy_
 
@@ -18,4 +18,4 @@ If you have any problem with privacy on this site, please use the [contact secti
 
 All stories remain the property of their authors and must not be copied in any form without their consent. This is an unofficial, not for profit site, and is in no way connected with J.K. Rowling, Scholastic Books or Bloomsbury Publishing or Warner Bros. It is not endorsed by any of the aforementioned parties. Rights to characters and their images is neither claimed nor implied. The use of photographs and/or the likeness of any person contained herein does not imply endorsement of any kind. Any depictions were obtained through publically available sources and therefore fall under fair use. Although we may provide links to other websites, we are not responsible for any material at these sites. You acknowledge that you link to these other websites at your own risk. **All original administrative content is copyright of the site owner and must not be copied in any form (electronic or otherwise) without the prior consent of the siteowner.** Â©2000-2014 Fanfictionworld.net
 
-[[terms of service](https://web.archive.org/getinfo.php?page=tos)] [[report abuse](http://hpff.zendesk.com/anonymous_requests/new)] [[privacy policy](https://web.archive.org/getinfo.php?page=privacypolicy)] [[site credits](https://web.archive.org/getinfo.php?page=sitecredits)] 
+[[terms of service](https://web.archive.org/getinfo.php?page=tos)] [[report abuse](https://hpff.freshdesk.com/support/tickets/new)] [[privacy policy](https://web.archive.org/getinfo.php?page=privacypolicy)] [[site credits](https://web.archive.org/getinfo.php?page=sitecredits)] 
