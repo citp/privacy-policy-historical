@@ -1,100 +1,101 @@
-> *The following text is extracted and transformed from the freeppt.net privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeppt.net privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816091639id_/http%3A//www.freeppt.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Free PPT, Powerpoint Templates, Backgrounds and Powerpoint 2013 Templates
 
-**Go Daddy Respects Your Privacy**
+## Privacy Policy 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+We take our customers' privacy very seriously, and go to great lengths to protect any details you provide to us.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+FreePPT.net Office's Customer Privacy Policy explains why we collect information about our customers, what information is collected when you interact with FreePPT.net—by visiting our website, purchasing our products/services or by contacting our customer inquiries— and how that information will be used. We believe your your privacy is our priority, and we will do our best to protect it and respect it. Please take a moment to read over our privacy policy and learn more about our data practices.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**
 
-**Information Collection and Use**
+#### Why do we collect personal information?
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We collect information about our customers in order to provide higher levels of customer service for our users and to properly deliver our software licenses. By collecting information, we are able to let you know about products and services that may interest you, and as well as keep you updated with about new releases, special offers, product updates and upcoming events.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+#### What information will we collect from you and how will it be used?
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Information collected from FreePPT.net Office customers includes: names, mailing addresses, email addresses, contact preferences, credit/debit card information and the details of the FreePPT.net products owned by the customer, such as: FreePPT.net Office serial number, date of purchase and any previous customer service issues. This information is used for a number of purposes:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+• When responding to customer inquiries - having background information about our customers helps our staff assist you more efficiently.
 
-**Security**
+• In situations involving downloading software updates, participating in online surveys, registering for seminars, registering to purchase products, or discussing a service issue, customer account information is necessary.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+• For market research- this helps us to understand our customers better, enabling us to improve our products and services by accounting for such things as occupation and computing habits.
 
-**Updating Your Information**
+• Personal information may be used in order to provide requested products or to conduct audits, analysis and research.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+• Website improvement - we collect data on how customers interact with our website.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+#### When and where do we disclose personal information?
 
-      iii.      You may call us at: (480) 505-8800
+**
 
-       iv.      You may fax us at: (480) 505-8844
+At FreePPT.net office we value our relationships with our customers and therefore promise to you that we will never sell or rent your personal information to third party marketers.
 
-**Sending Emails**
+Within the FreePPT.net Office organization, personal information may be shared with legal entities in order to establish how to develop superior services for our customers. Measures are taken however, to ensure that this data is handled sensitively, in accordance with FreePPT.net's Customer Privacy Policy.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Externally, FreePPT.net Office has working relationships with companies who provide products and services to our customers on our behalf. It is therefore sometimes necessary to provide these companies with information about our customers so that they can:
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+•Deliver quality products and services to you
 
-**Compliance with Laws and Law Enforcement**
+•Complete customer transactions
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+•Extend customer credit
 
-**Third Party Service Providers**
+•Provide high standards of customer service
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+•Manage and enhance our collection of customer information
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+•Provide higher levels of customer service
 
-**Supplementation of Information**
+•Assess customers' interest in specific products and services
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+•Conduct market research and measure customer satisfaction levels
 
-**Contests/Surveys**
+Any Companies that who have access to our customer data are bound by FreePPT.net's Customer Privacy Policy as well to protect your data; in the case of exceptions, you will be notified at the upon collection.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Furthermore, FreePPT.net is duty-bound to release customer information if it is in the interests of national security, enforcement of the law or other issues of public importance. FreePPT.net is also required by law or litigation to disclose private information if it is deemed necessary.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+#### How do we protect your private information?
 
-**Tell-A-Friend**
+FreePPT.net office takes a number of precautions to ensure that your data cannot be lost, stolen, misused, subjected to unauthorized access, disclosed, changed or destroyed. These measures include: Administrative, Technical,Physical.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+When purchasing products or services from us, a secure server is used that is hosted by Paypal, SWREG and other third party payment processors. All of the data, including names, addresses, credit/debit card numbers, expiration dates, etc, is encrypted before being sent to FreePPT.net. Encryption is difficult to decode and prevents your payment details being stolen and misused.
 
-**What Happens to my Personal Information if I Opt Out?**
+There are also a number of ways that you, the user, can protect yourself from malicious attacks online. Always use a secure web browser and try to change your passwords regularly, ideally mixing numbers and letters together.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**
 
-**Transfer of Data Abroad**
+#### FreePPT.net Office's Policy Regarding Malware
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+**
 
-**Changes in Our Practices**
+FreePPT.net is firmly against all kinds of malware, and it is our promise that no piece of FreePPT.net software will intentionally compromise a user's security or privacy. All FreePPT.net software can be manually uninstalled from devices easily, through a designated uninstall utility. All of FreePPT.net's software has passed vigorous Kaspersky and Rising anti-virus/malware tests before being released to the public. This means that no FreePPT.net software will have features similar to the features of malware; reinstallers are not employed, information that would allow someone to personally identify a user is not collected, and they will not contain any hidden third party applications such as spyware, malware, adware, viruses, worms, Trojan's, etc. Overall, FreePPT.net software will not jeopardize any customer's privacy or security.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+#### FreePPT.net Office's Commitment to Privacy
 
-**Contacting Our Site**
+**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+The FreePPT.net Customer Privacy Policy is communicated to all employees and a number of privacy safeguards are strictly enforced throughout the company in order to protect our users' personal data. This policy is applicable worldwide and covers the Intel Corporate website.
 
-* * *
+**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+#### International Users
+
+**
+
+The FreePPT.net Customer Privacy Policy is under the safe harbour framework established by the US Department of Commerce, concerning the gathering, usage and storing of personal data collected from the EU.
+
+Links to other companies can be found on the FreePPT.net website. FreePPT.net would like to state that we are not responsible or accountable for the privacy policies of those websites although we would actively encourage the individual user to examine those privacy policies before providing personal information about themselves.
