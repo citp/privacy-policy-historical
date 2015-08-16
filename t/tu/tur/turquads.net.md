@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the turquads.net privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203055922id_/http%3A//turquads.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turquads.net privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816060659id_/http%3A//turquads.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DIY Pest Control Guy
+# Privacy Policy | Ron the Woodwork Guy
 
-This Privacy Policy governs the manner in which DIY Pest Control Guy collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://turquads.net/ website (“Site”). This privacy policy applies to the Site and all products and services offered by DIY Pest Control Guy.
+This Privacy Policy governs the manner in which Ron the Woodwork Guy collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://turquads.net/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Ron the Woodwork Guy.
 
 Personal identification information
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 How we use collected information
 
-DIY Pest Control Guy may collect and use Users personal information for the following purposes:
+Ron the Woodwork Guy may collect and use Users personal information for the following purposes:
 
 – To improve our Site  
 We may use feedback you provide to improve our products and services.  
@@ -41,7 +41,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 Changes to this privacy policy
 
-DIY Pest Control Guy has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Ron the Woodwork Guy has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 Your acceptance of these terms
 
@@ -50,7 +50,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-DIY Pest Control Guy
+Ron the Woodwork Guy
 
 http://turquads.net/
 
