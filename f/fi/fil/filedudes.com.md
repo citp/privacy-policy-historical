@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filedudes.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320045940id_/http%3A//www.filedudes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filedudes.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816143654id_/http%3A//www.filedudes.com/privacy) for the most accurate reproduction.*
 
 # FileDudes: Privacy Statement for FileDudes.com
 
