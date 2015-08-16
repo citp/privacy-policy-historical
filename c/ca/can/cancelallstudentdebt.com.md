@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancelallstudentdebt.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429162634id_/https%3A//cancelallstudentdebt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancelallstudentdebt.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816174628id_/https%3A//cancelallstudentdebt.com/privacy) for the most accurate reproduction.*
 
 # Cancel All Student Debt
 
