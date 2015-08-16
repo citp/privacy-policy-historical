@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackofallthreads.co privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012441id_/http%3A//jackofallthreads.co/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackofallthreads.co privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816122027id_/http%3A//jackofallthreads.co/pages/privacypolicy) for the most accurate reproduction.*
 
 # Jack of all Threads
 
