@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldpsychics.com privacy policy that was archived on 2015-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150225051628id_/http%3A//goldpsychics.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldpsychics.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816083311id_/http%3A//goldpsychics.com/static/privacy) for the most accurate reproduction.*
 
 # Gold Psychics
 
