@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7red.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316070519id_/http%3A//www.7red.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7red.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816103353id_/http%3A//www.7red.com/privacy) for the most accurate reproduction.*
 
 # 7Red.com Casino - Privacy Statement
 
