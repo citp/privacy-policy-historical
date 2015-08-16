@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainies.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228055851id_/http%3A//www.brainies.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainies.com privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817001819id_/http%3A//www.brainies.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Brainies.com
 
@@ -72,8 +72,6 @@ Attention: Customer Service
 2531 Jackson Rd.  
 Ann Arbor, MI 48103
 
-734-845-4768
-
 Email: [support@Brainies.com](mailto:support@brainies.com)
 
 Changes and Updates  
@@ -82,4 +80,4 @@ This Privacy Policy may be revised at will. Such changes, edits, revisions, and/
 Presiding Language  
 This Agreement and all Brainies policies are written and executed in English, which is considered the prevailing language for purposes of interpretation or laws of contract. If this Agreement is translated into any other language, the English version shall be considered the primary binding legal document.
 
-DATE OF MODIFICATION: September 13, 2009 
+DATE OF MODIFICATION: September 13, 2014 
