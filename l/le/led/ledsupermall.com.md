@@ -1,42 +1,45 @@
-> *The following text is extracted and transformed from the ledsupermall.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520011758id_/http%3A//www.ledsupermall.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledsupermall.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816065338id_/http%3A//www.ledsupermall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**"Your information provided is strictly limited for use within , we DO NOT share customer information with any third party company."**
+**1\. Personal information**
 
-Information we collect and how we use it
-    In order to provide our services, your personal information, such as address is required. Also, we may as well collect the following types of information:
+Personal information data is about a person’s identity, such as name, address, birth date, and e-mail address. For example, they come up, when you sign a contact or you provide your data voluntarily when you order goods. Personal data will be used and processed for the sole purpose as part of the respective business relationship. We will only disclose data to the government unless required by law.
 
-  * **Information you provide**  \- When you sign up for an Account , we ask you for personal information (such as your name, email address and an account password). Your information provided is strictly limited for use within , we DO NOT share customer information with any third party company.
-  * **Cookies**  \- When you visit , we send one or more cookies - a small file containing a string of characters - to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how customer interactive with user interface.
-  * **Log information**  \- When you access our services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-  * **Customer communications**  \- When you send email or other communications to , we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  * **Links**  \- may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the customer experience.
+**2\. The using of data**
 
+Usage data is that you don’t provide actively, but it can be collected passively while you move, for example, on the net. Our service providers save the request of computer domain name and IP address, client file (the file name and URL), HTTP corresponding code when you visit our online shop, the data and duration when you visited our web site will be saved 5 working days. The case that using the usage data to create an evaluation of a personal user's profile will not take place unless you have expressly agreed with such using.
 
+**3\. Change your data and revocation**
 
-      only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
+We try our best to make sure your information is exact. However your data update or delete at any time if you object to use your data for the future and / or revoke your consent, we will delete all stored data from you without delay.
 
-  * Providing our services, including the display of customized content and advertising;
-  * Auditing, research and analysis in order to maintain, protect and improve our services;
-  * Ensuring the technical functioning of our network;
-  * Protecting the rights or property of  or our users; and
-  * Developing new services.
+**4\. Data security**
 
+We are committed to your data security. In order to prevent unauthorized access or unauthorized disclosure, we have appropriate technical and organizational procedures to secure the data we obtain online and protect so that we can ensure the accuracy of data and its correct use of information.
 
+**5\. Providing data and information / disclaimer**
 
-* * *
+We make every effort to make sure the information and data obtained on the website are accurate. No guarantee or liability for the timeless, accuracy and completeness of information and data provided is excluded. However, LEDsupermall has the right to change and amend without noticing the information or data provided. Unless containing future web link, the statements are based on our beliefs and estimates, therefore it will have some risk and uncertainty. All liability for such statements is expressly excluded.
 
-Information security
-    We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
-    We restrict access to personal information to  employees in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+**6\. Links and references**  
+From the own content of LEDsupermall cross-references links to the websites of other providers. For the content of external websites, LEDsupermall is not responsible.
 
-* * *
+**7\. Copyright**  
+Unless otherwise indicated, the content and structure LEDsupermall website are protected by copyright. This applies to texts, images, graphics, sound, video or animation files and their arrangement on the sides in particular. Any duplication or usage of this site(its contents or its parts) is not permitted without prior express consent of the copyright holder. This also applies to the usage of trademarks or trademarks which are mentioned or displayed in the website.
 
-Data integrity
-      processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+**8\. Information / suggestions**
 
-* * *
+For the information and suggestions about this policy, please contact us by the following email address: support@ledsupermall.com
 
-Changes to this Privacy Policy
-    Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
+**9\. Change the privacy rules**
+
+We reserve the right to change these terms of using privacy policy at any time in accordance with applicable data protection regulations. But the policy always applies to the general data protection regulations for the using of our online service when you visit online version. Unless you have informed us your personal date in the process of using service we will inform you of the changed conditions in appropriate manner (such as email) at least four weeks to take effect. Don’t contradict these changes within four weeks after receiving notification, the amended general data protection provision shall be deemed accepted. We will inform you separately in our communication on the importance of this four-week period.
+
+**10\. Newsletter**
+
+LEDsupermall will send you an e-mail with information of our products and promotions. In every e-mail, you may unsubscribe by following link to the newsletter.
+
+**11\. Contact us**
+
+Email:sales@ledsupermall.com
