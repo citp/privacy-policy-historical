@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfxtorrent.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318103927id_/http%3A//www.gfxtorrent.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxtorrent.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816225025id_/http%3A//gfxtorrent.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Free GFX TorrentS Download | GfxTorrent
 
