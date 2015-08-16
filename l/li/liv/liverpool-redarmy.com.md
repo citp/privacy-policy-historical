@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liverpool-redarmy.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616080533id_/http%3A//liverpool-redarmy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpool-redarmy.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816075044id_/http%3A//liverpool-redarmy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Liverpool Red Army
+# Privacy Policy - Livepool Red Army
 
 **IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR NORTH WEST & NORTH WALES LIMITED HERE ON THIS WEB SITE**
 
