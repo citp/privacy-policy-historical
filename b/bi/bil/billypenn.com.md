@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the billypenn.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223184230id_/http%3A//www.billypenn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billypenn.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816074101id_/http%3A//billypenn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Billy Penn, Philadelphia
 
-This privacy policy (“ **Policy** ”) describes how Stomping Ground Inc. and its related companies (“ **Company** ”) collect, use and share personal information of consumer users of this website, www.billypenn.com (the “ **Site** ”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
+This privacy policy (“ **Policy** ”) describes how Spirited Media Inc. and its related companies (“ **Company** ”) collect, use and share personal information of consumer users of this website, www.billypenn.com (the “ **Site** ”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
 **WHAT WE COLLECT**
 
@@ -40,7 +40,7 @@ We may share personal information as follows:
   * We may share personal information for legal, protection, and safety purposes. 
     * We may share information to comply with laws.
     * We may share information to respond to lawful requests and legal processes.
-    * We may share information to protect the rights and property of Stomping Ground Inc., our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
+    * We may share information to protect the rights and property of Spirited Media Inc., our agents, customers, and others. This includes enforcing our agreements, policies, and terms of use.
     * We may share information in an emergency. This includes protecting the safety of our employees and agents, our customers, or any person.
   * We may share information with those who need it to do work for us.
 
@@ -58,7 +58,7 @@ You can typically remove and reject cookies from our Site with your browser sett
 
 **CONTACT INFORMATION.** We welcome your comments or questions about this privacy policy. You may also contact us at our address:
 
-Stomping Ground Inc.  
+Spirited Media Inc.  
 P.O. Box 755  
 Great Falls, Virginia 22066
 
