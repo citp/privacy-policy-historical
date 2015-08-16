@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatestates.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424100128id_/http%3A//www.bharatestates.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatestates.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816220843id_/http%3A//www.bharatestates.com/info/privacy-policy) for the most accurate reproduction.*
 
 # BharatEstates.com's Privacy and Security Statement
 
