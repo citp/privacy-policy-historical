@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingoutside.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519063648id_/http%3A//www.gettingoutside.com/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingoutside.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816052823id_/http%3A//www.gettingoutside.com/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | outdoor, recreation, adventure, fun, kids, family, camping, hiking, backpacking, fishing, travel, vacation
 
