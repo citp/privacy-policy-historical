@@ -1,139 +1,97 @@
-> *The following text is extracted and transformed from the financebuzz.io privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200524id_/http%3A//financebuzz.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financebuzz.io privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816052032id_/http%3A//financebuzz.io/privacy) for the most accurate reproduction.*
 
 # FinanceBuzz - Privacy Policy
 
-Last updated 2014 September 3
+Last updated 2015 June 22
 
-Buzzery takes your privacy seriously. Please read the following to understand our privacy policy.
+FinanceBuzz.io is committed to advising you of the right to your privacy, and strives to provide a safe and secure user experience. This Privacy Policy explains how we collect, store and use personal information, provided by you on our website. By accessing and using our website, you explicitly accept, without limitation or qualification, the collection, use and transfer of the personal information provided by you in the manner described in this Privacy Policy. Please read this Privacy Policy carefully, as it affects your rights and liabilities under the law. If you disagree with the way we collect and process personal information, please do not use this website.
 
-FinanceBuzz.io is committed to maintaining the confidentiality, integrity and security of any personal information about our users.
+## 1\. Scope of Policy
 
-The following sets forth the policies for the collection and use of personally identifiable information ("Information") by Buzzery LLC ("FinanceBuzz.io,” "Buzzery,” “We,” “Us,” or “Our”) in connection with its operation of its website located at www.FinanceBuzz.io, (the "Site") and other areas around the web as well as offline (the site and all other operations together are known as the "Business"), and supersedes any previous statement of such policies.
+This Policy applies to this website. It regulates the processing of information relating to you and grants both of us various rights with respect to your personal data. It describes what type of information we collect, how we use that information, and to whom we can provide that information. It also informs you of how to notify us to stop using your information. We are located in the United States of America. You may be located in a country that has laws which are more restrictive about the collection and use of your personal information. However, by using our website, you agree to waive the more restrictive laws and agree to be governed by the laws of the United States of America.
 
-FinanceBuzz.io has created the below policy to explain the types of information it collects from users (“you” or “user”), how it uses this information, with whom and for what purposes it shares the information, and how users can interact with FinanceBuzz.io in connection with the information collection and use. 
+## 2\. Information We Collect
 
-Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. For your benefit, the federal government and technology industry have developed [practical tips](http://onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information.
+We collect general types of information about you when you visit and use our website; Examples include personal information, demographic information, behavioral information, and indirect information. Sometimes we collect combinations of these types of information.
 
-This policy does not apply to the practices of companies that Buzzery does not own or control, or to people that Buzzery does not employ or manage. Specifically, this policy does not apply to third party sites that FinanceBuzz.io may link to. Read more in our [Terms of Use](https://web.archive.org/tou).
+Personal information is information that can be used to identify you or any other individual to whom the information may relate. This is information which you are prompted to provide to us. Such information may include your name, address, telephone number(s), and email address or other unique information about you which you provide to us during the registration process, or though the course of communicating with us about the services provided on our website.
 
-By using this site, you signify your assent to the FinanceBuzz.io Privacy Policy. If you do not agree to this policy, please do not use our site or services. Your continued use of FinanceBuzz.io following the posting of changes to these terms will mean you accept those changes.
+Demographic information is information that may or may not be unique to you in the sense that it refers to selected population characteristics. Such information may include, but is not limited to, zip code, telephone number(s) (including mobile phone number(s) and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests.
 
-**Information Collection**
+Behavioral information is information pertaining to how you use our website, the areas of our website that you visit, what services you access, and information about your computer hardware and software, including your IP address, geographic location, browser preference, operating system type, domain names, times that you access the internet, and other websites you have visited.
 
-**Cookies**
+Indirect Information is information which is provided to us by a third party or web technology information that we automatically collect from you when you visit our website. This includes information collected from the use of cookies, Web beacons or JavaScript.
 
-When you visit FinanceBuzz.io, we may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our Site. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Web design and functionality.
+**No Information Collected from Children.** We will never knowingly collect any Personal Information from children under the age of 13. If we obtain actual knowledge that we have collected Personal Information about a child under the age of 13, that information will be immediately deleted from its database. Because it does not collect such information, we have no such information to use or to disclose to third parties.
 
-“Cookies” are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer’s hard drive. We may set and access cookies on your computer to track and store preferential information about you. FinanceBuzz.io may gather information about you through cookie technology.
+## 3\. Use of Cookies, Web Beacons, and JavaScript
 
-We encode our cookies so that only we can interpret the information stored in them.
+**Cookies.** "Cookies" are a feature in your browser software. If enabled, cookies store small amounts of data on your computer about actions you take on the pages of our website. Cookies assist us in tracking which of our features you visit most often, and what content you viewed on past visits. We may use cookies to keep track of the number of return visits, accumulate and aggregate statistical information generally pertaining to our website, and deliver specific content to you based on your past viewing history. You can disable cookies, although our website may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. You may read more about cookies at http://cookiecentral.com. In order to use all of the features and functionality of our website, you need to accept cookies.
 
-Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity. FinanceBuzz.io, or third party service providers acting on our behalf, may use Web beacons to help us analyze Site usage and improve the Service.
+**Removing Cookies.** You have the ability to accept, decline or remove cookies, at any time, by modifying your browser settings. Please see http://cookiecentral.com for more information.
 
-We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on FinanceBuzz.io. We may permit these service providers to use cookies and other technologies to perform these services for FinanceBuzz.io. We do not share any personal information about our customers with these third party service providers, and these service providers do not collect such information on our behalf. Our third party service providers are required to comply fully with this Privacy and Security Policy.
+**Web Beacons.** We use electronic images known as Web beacons (sometimes called single-pixel gifs, clear gifs or action tags) which allow us to collect information about your visit to our website, measure and improve the effectiveness of advertisements and track delivery of advertising. Web beacons collect only a limited set of information including a cookie number, time and date of page view, as well as a description of the page on which the Web beacon resides. We may also use Web beacons in email messages sent to you.
 
-We may use Google Analytics on parts of this Site. If you prefer to not have your data used by Google Analytics you may visit the Google Analytics [opt-out page](https://tools.google.com/dlpage/gaoptout) and install the add-on for your browser.
+**Disabling Web Beacons.** Because Web beacons are the same as any other content request, you cannot opt out or refuse them. However, they can be rendered ineffective by either opting out of cookies or changing the cookie setup in your browser.
 
-FinanceBuzz.io may partner with third-party vendors and ad networks to show advertisements to members. These third-party vendors may include Google DoubleClick, Media.net, and/or other ad networks. Each network uses cookies to enable it and its partners to serve ads to you based on your visit to the Site and/or other sites on the Internet. You may opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/) at any time.
+**Javascript.** We may also use JavaScript. JavaScript is a computer language that enhances the functionality of websites, particularly with respect to pictures. We use it to analyze and improve our website's functions.
 
-FinanceBuzz.io may also assign a cookie to you, to limit the amount of times you see a particular FinanceBuzz.io Offer or to help better determine which FinanceBuzz.io Offers to serve to you. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you.
+**Disabling JavaScript.** You may deactivate JavaScript through your browser settings or activate it the same way. If you disable JavaScript, you will not be able to use some of the functions of our website.
 
-**Personal Information You Provide Us**
+**IP Addresses.** Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). We automatically collect your IP address. We may use this information for research on our users' demographics, interests, and behavior, to better understand and serve you. This information may include the URL that you just came from (whether this URL is on the website or not), which URL you next go to (whether this URL is on the website or not) and your computer browser information. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify you. Your IP address can reveal what geographic area you are connecting from, or which ISP you are using. Finally, other websites you visit have IP addresses, and we may collect the IP addresses of those websites.
 
-For the purposes of this Privacy Policy, “Personal Information” is any information that identifies you, would enable someone to contact you, or that describes your relationship with FinanceBuzz.io. We collect and store Personal Information when you register to use our Site, ask a question, complete a form, conduct a transaction, or send us an email. While you are not required to submit any information to our Site, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Site and we may not be able to provide you with certain services.
+## 4\. How We Use Information Collected
 
-FinanceBuzz.io uses your Personal Information to respond to your requests and notify you of promotions, updates, or special offers that we think may interest you.
+**Providing Services.** We use the information we gather on our website to provide you with the services you have requested. This includes emailing you our and third party advertising on or throughout website.
 
-In connection with the Site, FinanceBuzz.io may collect Information in the following ways:
+**Improving Our Website.** We use the information we gather to respond to any inquires you make, operate and improve the functionality of our website, and deliver the services advertised on our website. Our services include the display of personalized products, content, and advertising, relating to your experience and interests.
 
-  * Through forms filled out by a user
-  * Through information provided by a user in connection with participating in coupons, deals, giveaways, freebies, and samples, collectively known as “Offers”
-  * Through the maintenance and analysis of Web server logs
-  * Through emails, telephone calls, or faxes sent to FinanceBuzz.io
-  * Via communications between a user and FinanceBuzz.io
+## 5\. Disclosure of Information to Others
 
+We disclose your information to third parties throughout the world, or combined personal, demographic, behavioral or indirect information, in the following ways:
 
+**Product and Service Delivery.** We share your information with companies and individuals we employ to perform technical functions on our behalf. Examples include third parties who host our website, analyze our data, provide marketing assistance and provide customer service.
 
-FinanceBuzz.io is not responsible for information collected by third parties, nor for the collection or use of Information by other sites to which the Site or any promotion of FinanceBuzz.io is linked.
+**Website Functionality.** We share your information with third parties who help us in the delivery of our services.
 
-**Information Use**
+**Anonymous information.** We share aggregated anonymous information about you, combined with other persons using our website with third parties, so that they can understand the kinds of visitors that come to our website, and how those visitors use our website. This includes demographic information and behavioral information.
 
-We use information for the following general purposes: to customize the content and advertising you see, fulfill your requests for products and services, improve our services, contact you, conduct research, provide anonymous reporting for internal and external clients, to send you promotions in connection with FinanceBuzz.io, to send you promotions on behalf of a third-party (such promotions will only be sent by FinanceBuzz.io on behalf of the third-party), to provide you with newsletter, to improve the user experience with the Site, in connection with the operation of the Site, and for users to obtain information and offers for products and services offered by FinanceBuzz.io
+**Legal Process.** We disclose your information if legally required to do so, or at our discretion, pursuant to a request from a governmental entity, or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property, or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
 
-In order to do the foregoing, FinanceBuzz.io may provide the Information to trusted third parties, including but not limited to selected third party vendors as well as third party contractors providing services to FinanceBuzz.io to assist with the operation of the Site and other communication services. These companies do not have any independent right to share this information. And FinanceBuzz.io will use commercially reasonable efforts to limit use of the Information by such third parties to the specific uses set forth above. FinanceBuzz.io also utilizes electronic and physical security to reduce the risk of improper access to or manipulation of Information during transmission and storage, but cannot guarantee the security or integrity of the Information and shall have no liability for breaches of security or integrity or third-party interception in transit.
+**Acquisition or Merger.** We may disclose and transfer your information to a third party who acquires any or all of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In the event we become the subject of an insolvency proceeding, whether voluntary or involuntary, we or our liquidator, administrator, receiver or administrative receiver may sell, license or otherwise dispose of, such information in a transaction approved by the court.
 
-We may share your information with affiliated and non-affiliated third-parties to offer products or services that may be of interest or benefit to our customers
+## 6\. Third Party Collection and Use of Information
 
-We may also collect certain information via third-party analytics services, such as Google Analytics, which may collect your non-sensitive user information. This includes but is not limited to the information you provide FinanceBuzz.io, session ID, user ID, email ID, geolocation and conversion data.
+**Advertisers.** Advertising agencies, advertising networks, and other companies who place ads on our website, may use their own cookies, Web beacons, and other technology, to collect information about you. We do not control the use of such technology and have no responsibility for the use of such technology to gather information about you.
 
-FinanceBuzz.io may also disclose Information when it determines it is necessary to comply with applicable laws or regulations, in connection with a merger, acquisition, asset purchase or sale of or by FinanceBuzz.io, or to protect the interests or safety of FinanceBuzz.io, its customers, or other visitors to the Site.
+**Hyperlinks.** Our website and email messages sometimes contain hypertext links to websites owned by third parties. We are not responsible for the privacy practices or the content of such other websites. These links are provided for your convenience and reference only. We do not operate or control any information, software, products or services, available on these third party websites. The inclusion of a link on our website does not imply any endorsement of the services, products or website, or its sponsoring organization.
 
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of FinanceBuzz.io's terms of use, or as otherwise required by law. FinanceBuzz.io may share information to respond to subpoenas, court order, or legal process, or to establish or exercise it legal rights or defend against legal claims. We will transfer Information about you if FinanceBuzz.io is acquired by or merged with another company. 
+## 7\. Security
 
-FinanceBuzz.io displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria. We do not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+We endeavor to safeguard and protect your information. When you submit information on our website, such information is protected both online and offline. We have security measures in place to protect against the loss, misuse, and alteration of personal information under our control. The servers in which we store your information are kept in a secure physical environment. The servers have industry standard firewalls. Access to such servers is password protected and access by our employees is limited. Please be advised that, although we take commercially reasonable technological precautions to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure; therefore, we cannot and do not warrant that your information will be absolutely secure. Any transmission of data at or through our website is at your own risk. However, access to your information is strictly limited and not accessible to the public.
 
-**Types of Information Collected by FinanceBuzz.io**
+## 8\. Changes to Privacy Policy
 
-The following types of Information about a user are among those that may be collected by FinanceBuzz.io in connection with the Business:
+We reserve the right to make material changes to the substance of this Privacy Policy. We will post those changes through a prominent notice on the website, so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
 
-  * Name
-  * Postal address
-  * E-mail address
-  * Telephone number
-  * Cell phone number
-  * Date of birth
-  * IP Address
-  * Referring site
-  * Friends
-  * Photos and Videos
-  * Other technical information collected by the Site's servers.
+## 9\. California Resident Rights
 
+California law permits California residents who provide personal information in obtaining products or services for personal, family, or household use to request certain information regarding third parties to whom their information was shared once a calendar year. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year.
 
+To obtain this information from us, please [Contact Us](http://financebuzz.io/contact) with "Request for California Privacy Information" in the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. In addition, California Residents have the right to know how we respond to their web browser "do not track" signals or other mechanisms. We do not respond to such signals or other mechanisms. .
 
-In case you change your mind or some personal information may change (such as your zip code), we will endeavor to provide a way to correct, update or remove the personal data you give us. Please contact us [here](mailto:help@financebuzz.io).
+## 10\. Unsubscribe from emails
 
-Access to your Registration Information, Account Credentials, Account Information and any other personal information you provide is strictly restricted and used in accordance with specific internal procedures and safeguard governing access, in order to operate, develop or improve the Service. These individuals have been selected in accordance with our security policies and practices and are bound by confidentiality obligations. They may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. We may also use third party vendors or service providers to help us provide the Service to you, such as sending e-mail messages on our behalf or hosting and operating a particular feature or functionality of the Service. Our contracts with these third parties outline the appropriate use and handling of your information and prohibit them from using any of your personal information for purposes unrelated to the product or service they're providing. We require such third parties to maintain the confidentiality of the information we provide to them.
+If you wish to no longer receive emails from FinanceBuzz.io, you may use the unsubscribe link at the footer of all email messages or submit your unsubscribe request here: [http://FinanceBuzz.io/unsub/](http://financebuzz.io/unsubscribe/)
 
-**Third Party Sites**
+## 11\. Contact Us with Any Questions
 
-When you register for a FinanceBuzz.io account, we may ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests.
-
-However, once you leave FinanceBuzz.io on your own or via a link to a third party site, we are not responsible for the information you input and for the Privacy Policies of those third party sites.  To the extent third parties may place advertising or other content on the Site or through a promotion of FinanceBuzz.io, such third parties may utilize cookies or other technological means within the advertising to collect and utilize non-personally identifiable information. For example, some financial products and services may ask for your address, Social Security number, and information about your personal health, finances or life. We are not responsible for information collected by third parties, nor for the collection or use of Information by other sites to which the Site or any promotion of FinanceBuzz.io is linked.
-
-**Confidentiality and Security**
-
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
-
-**Age**
-
-FinanceBuzz.io does not knowingly collect or retain information in connection with the Site from children under the age of 13.
-
-**Opting Out from Offers from FinanceBuzz.io**
-
-At any time, a user may opt out from receiving future offers from FinanceBuzz.io by following the instructions contained within each marketing communication or by [contacting us](http://financebuzz.io/contact). Such opting out will not apply to any communications from third parties to whom FinanceBuzz.io may have provided Information regarding the user. Third parties' use of the Information is subject to such parties' own privacy policies, for which FinanceBuzz.io shall not be responsible.
-
-**Access to Information**
-
-All users who provide their Information to FinanceBuzz.io may modify and correct such Information through their personal profile or contacting us.
-
-**Your California Privacy Rights**
-
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of FinanceBuzz.io who are California residents to request certain information regarding FinanceBuzz.io's disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please [contact us](http://financebuzz.io/contact).
-
-**Changes to This Privacy Policy**
-
-We may update this policy at any time. Your continued use of the site constitutes your acceptance and agreement of this policy. For significant changes to this policy, we will notify you via the primary email address specified in your FinanceBuzz.io account or by placing a prominent notice on our site. You can visit our Privacy Policy at http://FinanceBuzz.io/privacy.
-
-**Contact Information**
-
-For additional questions, suggestions, comments or suggestions, please contact us:
+Please do not hesitate to contact us with any questions or requests you have regarding our services or this Privacy Statement. We can be reached as follows:
 
 Buzzery, LLC
 
 [help@financebuzz.io](mailto:help@financebuzz.io)
 
-12 NE 5th Avenue Suite #2 
+455 NE 5th Avenue #D-295 
 
 Delray Beach, FL 33483
