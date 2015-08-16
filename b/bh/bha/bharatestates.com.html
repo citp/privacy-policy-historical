@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bharatestates.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424100128id_/http%3A//www.bharatestates.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bharatestates.com privacy policy that was archived on 2015-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150816220843id_/http%3A//www.bharatestates.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>BharatEstates.com's Privacy and Security Statement</title>
@@ -9,8 +9,62 @@
 <link rel="icon" href="http://www.bharatestates.com/images/favicon.ico" type="image/x-icon">
 <link type="text/css" rel="stylesheet" href="http://www.bharatestates.com/css/style.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.bharatestates.com/scripts/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="http://www.bharatestates.com/scripts/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" href="http://www.bharatestates.com/css/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#city").change( function() {
+        $("#selectionresult").hide();
+        $("#result").html('<select class="input-select"><option>Loading...</option></select>');
+        $.ajax({
+            type: "POST",
+            data: "data=" + $(this).val(),
+            url: "../lib/retrieve-location.php",
+            success: function(msg){
+                if (msg != ''){
+                    $("#selectionresult").html(msg).show();
+                    $("#result").html('');
+                }
+                else{
+                    $("#result").html('<em><select class="input-select"><option>No Location Found</option></select></em>'); 
+                }
+            }
+        });
+    });
+	$("a.galleryP").fancybox({
+		//'transitionIn'	:	'elastic',
+		//'transitionOut'	:	'elastic',
+		'speedIn'		:	600, 
+		'speedOut'		:	600, 
+		'overlayShow'	:	true
+	});	
+});
+</script>
 </head>
 <body>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.3.1/jquery.cookie.min.js"></script>
+<style type="text/css">
+.outerWrap{position:fixed;width:78px;height:500px;left:0;top:30%;z-index:50;}
+.panchsilbtn{width:78px;position:absolute;right:0;z-index:999}
+.panchsilbtn a{outline: medium none;top:0;}
+</style>
+<script type="text/javascript">
+     $(document).ready(function() {
+		if ($.cookie('popupc') != '1') {
+        $("#popup").fancybox().trigger('click');
+		$.cookie('popupc', '1', { expires: 30}); }
+   });
+	/* $(document).ready(function() {
+   if ($.cookie('test_status') != '1') {
+    $("#popup").fancybox().trigger('click');
+    $.cookie('test_status', '1', { expires: 30}); }
+   }); */
+</script>
+<link type="text/css" rel="stylesheet" href="http://www.bharatestates.com/css/lightbox.css">
+ <!--<div class="outerWrap">
+	<div class="panchsilbtn"><a rel="fancybox" class="galleryP" href="http://www.bharatestates.com/includes/promotion.php?utm_source=Tag_Click&utm_medium=Left_tag&utm_campaign=The_Ridges_Promotion" id="popup"><img src="http://www.bharatestates.com/images/the-ridges-left-icon.png"/></a></div>
+	 <div class="panchsilbtn"><a rel="fancybox" class="galleryP" href="http://www.bharatestates.com/includes/promotion.php?utm_source=Tag_Click&utm_medium=Left_tag&utm_campaign=Belmondo_Promotion" id="popup"><img src="http://www.bharatestates.com/images/panchshil-tower-left-icon.png"/></a></div>
+</div>  -->
 	<div class="centerDiv">
 		<div class="logoHeader" style="margin-top:9px">
 			<div class="logo">
@@ -27,7 +81,7 @@
 					</ul>
 				</div>
 				<div class="topLinkR">&nbsp;</div>
-				<div class="topHighlight"><a href="http://www.bharatestates.com/info/career">We're Hiring!</a></div>
+				<!-- <div class="topHighlight"><a href="http://www.bharatestates.com/info/career">We're Hiring!</a></div> -->
 				</div>
 			</div>
 		</div>
@@ -39,8 +93,8 @@
 										<li class="home"><a href="http://www.bharatestates.com" title=""><img src="http://www.bharatestates.com/images/home-normal.jpg" onmouseover="this.src='http://www.bharatestates.com/images/home-active.jpg'" onmouseout="this.src='http://www.bharatestates.com/images/home-normal.jpg'" alt=""></a></li>
 										
 					<li class="normal" onmouseover="this.className='hover'" onmouseout="this.className='normal'"><a href="http://www.bharatestates.com/india/properties" title="">Properties</a></li>
-					<li class="normal" onmouseover="this.className='hover'" onmouseout="this.className='normal'"><a href="http://www.bharatestates.com/india/projects" title="">Projects</a></li>
-					<li class="normal" onmouseover="this.className='hover'" onmouseout="this.className='normal'"><a href="http://www.bharatestates.com/india/builders" title="">Builders</a></li>
+					<li class="normal" onmouseover="this.className='hover'" onmouseout="this.className='normal'"><a href="http://www.bharatestates.com/india/new-projects" title="">Projects</a></li>
+					<li class="normal" onmouseover="this.className='hover'" onmouseout="this.className='normal'"><a href="http://www.bharatestates.com/india/top-builders" title="">Builders</a></li>
 					<li class="normal" onmouseover="this.className='hover'" onmouseout="this.className='normal'"><a href="http://www.bharatestates.com/india/plots" title="">Plots/Lands</a></li>
 					<li class="normal" onmouseover="this.className='hover'" onmouseout="this.className='normal'"><a href="http://www.bharatestates.com/india/industrials" title="">Industrial</a></li>
 					<li class="normal" onmouseover="this.className='hover'" onmouseout="this.className='normal'" style="border-right:none;"><a href="http://www.bharatestates.com/blog/" title="Property Blog" target="_blank">Property Blog</a></li>
@@ -52,11 +106,11 @@
 			<div class="innerUpdate">
 				<div class="newsImage"><img src="http://www.bharatestates.com/images/news-ticker.gif" alt="News"></div>
 				<div class="newsText">
-					<a href="http://www.bharatestates.com/blog/15949-high-value-property-deals-results-in-higher-stamp-duty-collection/" title="High-Value Property Deals Results in Higher Stamp Duty Collection" target="_blank">High-Value Property Deals Results in Higher Stamp Duty Collecti...</a>				</div>
+					<a href="http://www.bharatestates.com/blog/17849-rs-550-crore-project-dedicated-to-senior-citizens-in-dehradun/" title="Rs 550 crore Project Dedicated to Senior Citizens in Dehradun" target="_blank">Rs 550 crore Project Dedicated to Senior Citizens in Dehradun</a>				</div>
 			</div>
 			<div class="innerTextAd right">
 				<div class="innerTextAdImage"><img src="http://www.bharatestates.com/images/text-ad-image.gif" alt="ad"></div>
-					<div class="adText">The HighLand Villas, Goa</div><div><a href="http://www.bharatestates.com/goa/project/251/the-highland-villas-porvorim-goa-luxurious-villas-by-highland-constructions?utm_source=GA_HTA_Highland_Villas&amp;utm_medium=Blog_Ads&amp;utm_campaign=Ad_Campaign" title="Know More" target="_blank">Know More</a></div>			</div>
+					<div class="adText">Pearl Town - Villas for sale</div><div><a href="http://www.bharatestates.com/madurai/project/881/pearl-town-dindigul-trichy-highway-madurai" title="Know More" target="_blank">Know More</a></div>			</div>
 		</div>
 	</div><div class="centerDiv">
   <div class="leftSide">
@@ -199,8 +253,7 @@
     </div>
   </div>
   <div class="rightSide right">
-    
-<script type="text/javascript">
+    <script type="text/javascript">
 $(document).ready(function(){
     $("#city").change( function() {
         $("#selectionresult").hide();
@@ -253,24 +306,82 @@ function dswitch1(showLayer,hideLayer,sbLayer,hbLayer){
 	document.getElementById(showLayer).style.display="block";
 	}
 }
+function OnSubmitForm()
+{
+	var x=document.getElementById("city");
+	var y=x.selectedIndex;
+	var city=x.options[y].text.toLowerCase().replace(" ","-");
+	
+	if(document.getElementById("proptype_res").checked){
+		var proptype= document.getElementById("proptype_res").value;
+	}
+	else if(document.getElementById("proptype_com").checked){
+		var proptype= document.getElementById("proptype_com").value;
+	}
+	if(proptype==1){
+		if(document.getElementById("propforcom_buy").checked)
+		{
+			var propfor = document.getElementById("propforcom_buy").value;
+		}
+		else if(document.getElementById("propforcom_rent").checked){
+			var propfor = document.getElementById("propforcom_rent").value;
+		}
+		if(propfor==1){
+			var propertytype= document.getElementById("proptypesalecom").value;
+		}
+		else if(propfor==2){
+			var propertytype= document.getElementById("proptyperentcom").value;
+		}
+		
+	}
+	else if(proptype==2)	{
+		if(document.getElementById("propforres_buy").checked)
+		{
+			var propfor = document.getElementById("propforres_buy").value;
+		}
+		else if(document.getElementById("propforres_rent").checked){
+			var propfor = document.getElementById("propforres_rent").value;
+		}
+		if(propfor==1){
+			var propertytype= document.getElementById("proptypesaleres").value;
+		}
+		else if(propfor==2){
+			var propertytype= document.getElementById("proptyperentres").value;
+		}
+	}
+	if(propertytype==4){
+		document.searchform.action="http://www.bharatestates.com/"+city+"/plots";
+		return true;
+	}
+	else if(propertytype==13 || propertytype==14){
+		document.searchform.action="http://www.bharatestates.com/"+city+"/industrials";
+		return true;
+	}
+	else
+	{
+		document.searchform.action="http://www.bharatestates.com/"+city+"/properties";
+		return true;
+	}
+}
 </script>
 
 <div class="innerSearch">
 				<div class="innerSearchTitle">
 		<div class="innerSearchTab">Search Properties</div>
-		<div class="innerSearchTab2"><a href="http://www.bharatestates.com/india/projects" title="">Search Projects</a></div>
+		<div class="innerSearchTab2"><a href="http://www.bharatestates.com/india/new-projects" title="">Search Projects</a></div> 
 	</div>
 				<div class="innerSearchC">
 					<div class="innerSearchFC">
-						<form action="http://www.bharatestates.com/search" name="home-search" method="get">
+						<!-- <form action="http://www.bharatestates.com/search" name="home-search" method="get"> -->
+						<form name="searchform" method="post" onsubmit="return OnSubmitForm();">
 							<div class="searchIRadio right">
-								<div class="searchIRadioL"><div><input type="radio" name="proptype" checked="" value="2" class="radio" onclick="dswitch('residential','commercial')"></div><div class="search-radio">Residential</div></div>
-								<div class="searchIRadioL"><div><input type="radio" name="proptype" value="1" class="radio" onclick="dswitch('commercial','residential')"></div><div class="search-radio">Commercial</div></div>
+								<div class="searchIRadioL"><div><input type="radio" id="proptype_res" name="proptype" checked="" value="2" class="radio" onclick="dswitch('residential','commercial')"></div><div class="search-radio">Residential</div></div>
+								<div class="searchIRadioL"><div><input type="radio" id="proptype_com" name="proptype" value="1" class="radio" onclick="dswitch('commercial','residential')"></div><div class="search-radio">Commercial</div></div>
 							</div>
 							<div class="searchISelect right" id="residential" style="display:block;height:44px;">
 								<div class="switchR">
-									<div class="searchIRadioL"><div><input type="radio" name="propforres" value="1" class="radio" onclick="dswitch1('saleres','rentres','buy-budget','rent-budget')" checked=""></div><div class="search-radio">Buy</div></div>
-									<div class="searchIRadioL"><div><input type="radio" name="propforres" value="2" class="radio" onclick="dswitch1('rentres','saleres','rent-budget','buy-budget')"></div><div class="search-radio">Rent</div></div>
+									<div class="searchIRadioL"><div><input type="radio" id="propforres_buy" name="propforres" value="1" class="radio" onclick="dswitch1('saleres','rentres','buy-budget','rent-budget')" checked=""></div><div class="search-radio">Buy</div></div>
+									<div class="searchIRadioL"><div><input type="radio" id="propforres_rent" name="propforres" value="2" class="radio" onclick="dswitch1('rentres','saleres','rent-budget','buy-budget')"></div><div class="search-radio">Rent</div></div>
 								</div>
 								<div class="switchS">
 								<div class="searchISelectL">Property Type</div>
@@ -282,8 +393,8 @@ function dswitch1(showLayer,hideLayer,sbLayer,hbLayer){
 							</div>
 							<div class="searchISelect right" id="commercial" style="display:none;height:44px;">
 								<div class="switchR">
-									<div class="searchIRadioL"><div><input type="radio" name="propforcom" value="1" class="radio" onclick="dswitch1('salecom','rentcom','buy-budget','rent-budget')" checked=""></div><div class="search-radio">Buy</div></div>
-									<div class="searchIRadioL"><div><input type="radio" name="propforcom" value="2" class="radio" onclick="dswitch1('rentcom','salecom','rent-budget','buy-budget')"></div><div class="search-radio">Rent</div></div>
+									<div class="searchIRadioL"><div><input type="radio" id="propforcom_buy" name="propforcom" value="1" class="radio" onclick="dswitch1('salecom','rentcom','buy-budget','rent-budget')" checked=""></div><div class="search-radio">Buy</div></div>
+									<div class="searchIRadioL"><div><input type="radio" id="propforcom_rent" name="propforcom" value="2" class="radio" onclick="dswitch1('rentcom','salecom','rent-budget','buy-budget')"></div><div class="search-radio">Rent</div></div>
 								</div>
 								<div class="switchS">
 								<div class="searchISelectL">Property Type</div>
@@ -301,7 +412,7 @@ function dswitch1(showLayer,hideLayer,sbLayer,hbLayer){
 														<div class="searchISelect right">
 								<div class="searchISelectL">Location</div>
 								<div>
-									<select name="location" id="selectionresult" class="input-select"><option value="0">Any</option><option value="8046">Airport Road</option><option value="8047">Akurdi</option><option value="8182">Alandi</option><option value="8183">Alandi Road</option><option value="8048">Ambegaon</option><option value="8184">Anand Nagar</option><option value="8049">Aundh</option><option value="8050">Aundh Annexe</option><option value="8186">Bajirao Road</option><option value="8187">Balaji Nagar</option><option value="8052">Balewadi</option><option value="8053">Baner</option><option value="9709">Baner Sus Road</option><option value="8054">Bavdhan</option><option value="8055">Bhandarkar Road</option><option value="8056">Bhawani Peth</option><option value="8261">Bhor</option><option value="8057">Bhosari</option><option value="8058">Bhosle Nagar</option><option value="8181">Bhugaon</option><option value="8060">Bibwewadi</option><option value="8189">Bijali Nagar</option><option value="8061">Boat Club Road</option><option value="8062">Bopodi</option><option value="8051">BT Kawade Road</option><option value="8063">Budhwar Peth</option><option value="8064">Bund Garden</option><option value="8065">Camp</option><option value="8067">Chakan</option><option value="8068">Chandan Nagar</option><option value="8069">Chikhali</option><option value="8070">Chinchwad</option><option value="8071">Chinchwad Gaon</option><option value="8190">Dange Chowk</option><option value="8072">Dapodi</option><option value="8073">Dattawadi</option><option value="8074">Daund</option><option value="8075">Deccan</option><option value="8076">Deccan Gymkhana</option><option value="8191">Dehu Road</option><option value="8077">Dhankawadi</option><option value="8079">Dhanori</option><option value="8080">Dhayri</option><option value="8081">Dhole Patil Road</option><option value="8178">Dighi</option><option value="8082">Erandwane</option><option value="8083">Fatima Nagar</option><option value="8192">FC Road</option><option value="8084">Fursungi Gaon</option><option value="9707">Gahunje</option><option value="8193">Ganesh Peth</option><option value="8194">Ganeshkhind</option><option value="8197">Gavande</option><option value="8085">Ghorpadi</option><option value="8198">Girinagar</option><option value="8195">Gokhale Nagar</option><option value="8196">Gultekdi</option><option value="8199">Guruwar Peth</option><option value="8086">Hadapsar</option><option value="9463">Handewadi</option><option value="8087">Hinjewadi</option><option value="8200">J.M Road</option><option value="8201">Jambhulwadi</option><option value="8202">Javan</option><option value="9464">Jejuri</option><option value="8088">Kalewadi</option><option value="8089">Kalyani Nagar</option><option value="8090">Kalyani Nagar Annexe</option><option value="8203">Kamshet</option><option value="8204">Kanjale</option><option value="8091">Karve Nagar</option><option value="8092">Karve Road</option><option value="8205">Kasar Amboli</option><option value="8093">Kasarwadi</option><option value="8206">Kasba Peth</option><option value="8094">Kaspate Wasti</option><option value="8095">Katraj</option><option value="8207">Keshavnagar</option><option value="8208">Khadakwasla</option><option value="8096">Khadki</option><option value="8097">Khandala</option><option value="8098">Kharadi</option><option value="8209">Khed Shivapur</option><option value="8210">Kolwan</option><option value="8099">Kondhwa</option><option value="8100">Koregaon Park</option><option value="8101">Kothrud</option><option value="8211">Kune</option><option value="8212">Kurkumbh</option><option value="8213">Lavale</option><option value="8214">Lavasa</option><option value="8102">Law College Road</option><option value="8215">Laxmi Nagar</option><option value="8216">Laxmi Road</option><option value="8103">Lohegaon</option><option value="8104">Lokmanya Nagar</option><option value="8105">Lonavala</option><option value="8217">Loni</option><option value="8218">Loni Kalbhor</option><option value="8106">Lullanagar</option><option value="8108">Magarpatta</option><option value="9710">Magarpatta Road</option><option value="8219">Malavi</option><option value="8110">Mangal Das Road</option><option value="8220">Mangalwar Peth</option><option value="8111">Manjri</option><option value="8112">Market Yard</option><option value="9466">Maval</option><option value="8107">MG Road</option><option value="8221">Mitra Mandal</option><option value="8113">Model Colony</option><option value="8114">Mohammadwadi</option><option value="8115">Morewadi</option><option value="8222">Moshi</option><option value="8116">Mukund Nagar</option><option value="8117">Mulshi</option><option value="8118">Mumbai Bangalore Highway</option><option value="8119">Mundhwa</option><option value="8224">Nagar Road</option><option value="8223">Naigoan</option><option value="8120">Nana Peth</option><option value="8225">Narayan Peth</option><option value="9571">Narayanpur</option><option value="8180">Narhe</option><option value="8226">Nashik Road</option><option value="8227">Navi Peth</option><option value="8121">New Sanghvi</option><option value="8122">Nibm</option><option value="8123">Nigdi</option><option value="8172">Other</option><option value="8228">Palase</option><option value="8229">Panchgani</option><option value="8230">Parvati</option><option value="8124">Pashan</option><option value="8125">Pashan Sus Road</option><option value="8231">Patvardhan Bagh</option><option value="8126">Paud Road</option><option value="9461">Phaltan</option><option value="8127">Pimple Gurav</option><option value="8128">Pimple Nilakh</option><option value="8129">Pimple Saudagar</option><option value="8130">Pimpri</option><option value="8131">Pimpri Chinchwad</option><option value="8132">Pirangut</option><option value="8175">Pisoli</option><option value="8133">Prabhat Road</option><option value="8232">Pradhikaran</option><option value="9462">Punawale</option><option value="8134">Pune Mumbai Highway</option><option value="8135">Pune Satara Road</option><option value="8136">Pune Solapur Road</option><option value="8137">Pune Station</option><option value="8138">Pune University</option><option value="8173">Pune Bangalore Highway</option><option value="8139">Race Course</option><option value="8177">Rahatani</option><option value="8140">Ramtekadi</option><option value="8233">Range Hills </option><option value="8234">Ranjangaon</option><option value="8235">Rasta Peth</option><option value="8141">Ravet</option><option value="8236">Raviwar Peth</option><option value="8142">Sadhashiv Peth</option><option value="8237">Sadhuwaswani Chowk</option><option value="8238">Sahakar Nagar</option><option value="8143">Salisbury Park</option><option value="8144">Salunke Vihar</option><option value="8145">Sanaswadi</option><option value="8239">Sangam Wadi</option><option value="8146">Sanghvi</option><option value="8147">Sasane Nagar</option><option value="9467">Saswad</option><option value="9708">Sate   Talegaon</option><option value="8148">Senapati Bapat Road</option><option value="8149">Shaniwar Peth</option><option value="8150">Shankarseth Road</option><option value="8151">Shastri Nagar</option><option value="9460">Shikrapur</option><option value="8240">Shindevadi</option><option value="8241">Shirgaon</option><option value="8242">Shirur</option><option value="8152">Shivaji Nagar</option><option value="8243">Shivne</option><option value="8153">Shukrawar Peth</option><option value="8154">Sinhgad Road</option><option value="8176">Somatane</option><option value="8245">Somwar Peth</option><option value="8155">Sopan Baug</option><option value="9572">Sukhsagar Nagar</option><option value="9566">Sus Gaon</option><option value="8246">Sutarwadi</option><option value="8156">Swargate</option><option value="8247">Tadiwala Road</option><option value="8157">Talegaon</option><option value="8158">Talwade</option><option value="8248">Tathewade</option><option value="8159">Thergaon</option><option value="8249">Tilak Road</option><option value="8250">Tingare Nagar</option><option value="8160">Uday Baug</option><option value="8161">Undri</option><option value="8260">Urawade</option><option value="8251">Urse</option><option value="8252">Uruli Kanchan</option><option value="8253">Vadgaon </option><option value="8970">Vadgaon Sheri</option><option value="8254">Varak</option><option value="8255">Varasgoan</option><option value="8256">Varve</option><option value="9465">Velhe</option><option value="8257">Velu</option><option value="8258">Vidyanagar</option><option value="8162">Viman Nagar</option><option value="8163">Vishrantwadi</option><option value="8164">Wadgaon Budruk</option><option value="8165">Wagholi</option><option value="8166">Wai Road</option><option value="8167">Wakad</option><option value="8168">Wakdewadi</option><option value="8169">Wanowrie</option><option value="8170">Warje</option><option value="8171">Yerwada</option></select>									<div id="result"></div>
+									<select name="location" id="selectionresult" class="input-select"><option value="0">Any</option><option value="8046">Airport Road</option><option value="8047">Akurdi</option><option value="8182">Alandi</option><option value="8183">Alandi Road</option><option value="8048">Ambegaon Budruk</option><option value="8184">Anand Nagar</option><option value="8049">Aundh</option><option value="8050">Aundh Annexe</option><option value="8186">Bajirao Road</option><option value="8187">Balaji Nagar</option><option value="8052">Balewadi</option><option value="8053">Baner</option><option value="9709">Baner Sus Road</option><option value="8054">Bavdhan</option><option value="8055">Bhandarkar Road</option><option value="8056">Bhawani Peth</option><option value="8261">Bhor</option><option value="8057">Bhosari</option><option value="8058">Bhosle Nagar</option><option value="8181">Bhugaon</option><option value="8060">Bibwewadi</option><option value="8061">Boat Club Road</option><option value="8062">Bopodi</option><option value="8051">BT Kawade Road</option><option value="8063">Budhwar Peth</option><option value="8064">Bund Garden</option><option value="8065">Camp</option><option value="8067">Chakan</option><option value="8068">Chandan Nagar</option><option value="9715">Chandkhed</option><option value="10244">Charholi</option><option value="8069">Chikhali</option><option value="8070">Chinchwad</option><option value="8071">Chinchwad Gaon</option><option value="8190">Dange Chowk</option><option value="8072">Dapodi</option><option value="8073">Dattawadi</option><option value="8074">Daund</option><option value="8075">Deccan</option><option value="8076">Deccan Gymkhana</option><option value="8191">Dehu Road</option><option value="8077">Dhankawadi</option><option value="8079">Dhanori</option><option value="8080">Dhayri</option><option value="8081">Dhole Patil Road</option><option value="8178">Dighi</option><option value="8082">Erandwane</option><option value="8083">Fatima Nagar</option><option value="8192">FC Road</option><option value="8084">Fursungi Gaon</option><option value="10241">Gahunje</option><option value="8193">Ganesh Peth</option><option value="10292">Ganj Peth</option><option value="8085">Ghorpadi</option><option value="8195">Gokhale Nagar</option><option value="8196">Gultekdi</option><option value="8199">Guruwar Peth</option><option value="8086">Hadapsar</option><option value="9463">Handewadi</option><option value="8087">Hinjewadi</option><option value="8200">J M Road</option><option value="8201">Jambhulwadi</option><option value="9464">Jejuri</option><option value="8088">Kalewadi</option><option value="8089">Kalyani Nagar</option><option value="8090">Kalyani Nagar Annexe</option><option value="8203">Kamshet</option><option value="9855">Kanhe</option><option value="8091">Karve Nagar</option><option value="8092">Karve Road</option><option value="9714">Kasarsai</option><option value="8093">Kasarwadi</option><option value="8206">Kasba Peth</option><option value="8094">Kaspate Wasti</option><option value="8095">Katraj</option><option value="8207">Keshavnagar</option><option value="8208">Khadakwasla</option><option value="8096">Khadki</option><option value="8097">Khandala</option><option value="8098">Kharadi</option><option value="8209">Khed Shivapur</option><option value="9853">Kiwale</option><option value="8099">Kondhwa</option><option value="8100">Koregaon Park</option><option value="8101">Kothrud</option><option value="8211">Kune</option><option value="8212">Kurkumbh</option><option value="8213">Lavale</option><option value="8214">Lavasa</option><option value="8102">Law College Road</option><option value="8216">Laxmi Road</option><option value="8103">Lohegaon</option><option value="8105">Lonavala</option><option value="8217">Loni</option><option value="8218">Loni Kalbhor</option><option value="8106">Lullanagar</option><option value="8108">Magarpatta</option><option value="9710">Magarpatta Road</option><option value="9716">Mahalunge</option><option value="10316">Maharshi Nagar</option><option value="8110">Mangal Das Road</option><option value="8111">Manjri</option><option value="8112">Market Yard</option><option value="9466">Maval</option><option value="8107">MG Road</option><option value="8113">Model Colony</option><option value="8114">Mohammadwadi</option><option value="8115">Morewadi</option><option value="8222">Moshi</option><option value="8116">Mukund Nagar</option><option value="8117">Mulshi</option><option value="8118">Mumbai Bangalore Highway</option><option value="8119">Mundhwa</option><option value="8224">Nagar Road</option><option value="8223">Naigoan</option><option value="10323">Nal Stop</option><option value="8120">Nana Peth</option><option value="8225">Narayan Peth</option><option value="9571">Narayanpur</option><option value="8180">Narhe</option><option value="8226">Nashik Road</option><option value="8227">Navi Peth</option><option value="8121">New Sanghvi</option><option value="8122">Nibm</option><option value="8123">Nigdi</option><option value="8172">Other</option><option value="8228">Palase</option><option value="8229">Panchgani</option><option value="8230">Parvati</option><option value="8124">Pashan</option><option value="8125">Pashan Sus Road</option><option value="8126">Paud Road</option><option value="9461">Phaltan</option><option value="10106">Phursungi</option><option value="8127">Pimple Gurav</option><option value="8128">Pimple Nilakh</option><option value="8129">Pimple Saudagar</option><option value="8130">Pimpri</option><option value="8131">Pimpri Chinchwad</option><option value="8132">Pirangut</option><option value="8175">Pisoli</option><option value="8133">Prabhat Road</option><option value="8232">Pradhikaran</option><option value="9462">Punawale</option><option value="8173">Pune Bangalore Highway</option><option value="8134">Pune Mumbai Highway</option><option value="8135">Pune Satara Road</option><option value="8136">Pune Solapur Road</option><option value="8137">Pune Station</option><option value="8139">Race Course</option><option value="8177">Rahatani</option><option value="8233">Range Hills </option><option value="8234">Ranjangaon</option><option value="8235">Rasta Peth</option><option value="8141">Ravet</option><option value="8236">Raviwar Peth</option><option value="8142">Sadhashiv Peth</option><option value="8237">Sadhuwaswani Chowk</option><option value="8238">Sahakar Nagar</option><option value="8143">Salisbury Park</option><option value="8144">Salunke Vihar</option><option value="8145">Sanaswadi</option><option value="8146">Sanghvi</option><option value="8147">Sasane Nagar</option><option value="9467">Saswad</option><option value="9708">Sate Talegaon</option><option value="8148">Senapati Bapat Road</option><option value="8149">Shaniwar Peth</option><option value="8150">Shankarseth Road</option><option value="8151">Shastri Nagar</option><option value="9460">Shikrapur</option><option value="8240">Shindevadi</option><option value="8241">Shirgaon</option><option value="8242">Shirur</option><option value="9854">Shirwal</option><option value="8152">Shivaji Nagar</option><option value="8243">Shivne</option><option value="8153">Shukrawar Peth</option><option value="8154">Sinhgad Road</option><option value="8176">Somatane</option><option value="8245">Somwar Peth</option><option value="8155">Sopan Baug</option><option value="9572">Sukhsagar Nagar</option><option value="9566">Sus Gaon</option><option value="8246">Sutarwadi</option><option value="8156">Swargate</option><option value="8157">Talegaon</option><option value="8158">Talwade</option><option value="8248">Tathawade</option><option value="8159">Thergaon</option><option value="8249">Tilak Road</option><option value="8250">Tingare Nagar</option><option value="8160">Uday Baug</option><option value="8161">Undri</option><option value="8252">Uruli Kanchan</option><option value="8253">Vadgaon </option><option value="8970">Vadgaon Sheri</option><option value="8255">Varasgoan</option><option value="9465">Velhe</option><option value="8258">Vidyanagar</option><option value="8162">Viman Nagar</option><option value="8163">Vishrantwadi</option><option value="8164">Wadgaon Budruk</option><option value="8165">Wagholi</option><option value="8166">Wai Road</option><option value="8167">Wakad</option><option value="8168">Wakdewadi</option><option value="8169">Wanowrie</option><option value="8170">Warje</option><option value="8171">Yerwada</option></select>									<div id="result"></div>
 								</div>
 							</div>
 														<div class="searchISelect right">
@@ -309,7 +420,7 @@ function dswitch1(showLayer,hideLayer,sbLayer,hbLayer){
 								<div id="buy-budget" style="display:block;">
 									<select name="bbudget" id="bbudget" class="input-select"><option value="0">Any</option><option value="0,500000">Below 5 Lac</option><option value="500000,1000000">5 Lac To 10 Lac</option><option value="1000000,2000000">10 Lac To 20 Lac</option><option value="2000000,3000000">20 Lac To 30 Lac</option><option value="3000000,5000000">30 Lac To 50 Lac</option><option value="5000000,10000000">50 Lac To 1 Crore</option><option value="10000000,20000000">1 Crore To 2 Crore</option><option value="20000000,50000000">2 Crore To 5 Crore</option><option value="50000000,1">Above 5 Crore</option></select>								</div>
 								<div id="rent-budget" style="display:none;">
-									<select name="rbudget" id="rbudget" class="input-select"><option value="0">Any</option><option value="0,5000 ">Below 5,000</option><option value="5000,10000"> 5,000 To 10,000</option><option value="10000,15000">10,000 To 15,000 </option><option value="15000,20000">15,000 To 20,000</option><option value="20000,30000 ">20,000 To 30,000</option><option value="30000,40000">30,000 To 40,000</option><option value="40000,60000">40,000 To 60,000</option><option value="60000,80000">60,000 To 80,000</option><option value="80000,100000">80,000 To 1 Lac</option><option value="100000,150000">1 Lac To 1.5 Lac</option><option value="150000,250000">1.5 Lac To 2.5 Lac</option><option value="250000,1">Above 2.5 Lac</option></select>								</div>
+									<select name="rbudget" id="rbudget" class="input-select"><option value="0">Any</option><option value="0,5000 ">Below 5,000</option><option value="5000,10000"> 5,000 To 10,000</option><option value="10000,15000">10,000 To 15,000 </option><option value="15000,20000">15,000 To 20,000</option><option value="20000,30000">20,000 To 30,000</option><option value="30000,40000">30,000 To 40,000</option><option value="40000,60000">40,000 To 60,000</option><option value="60000,80000">60,000 To 80,000</option><option value="80000,100000">80,000 To 1 Lac</option><option value="100000,150000">1 Lac To 1.5 Lac</option><option value="150000,250000">1.5 Lac To 2.5 Lac</option><option value="250000,1">Above 2.5 Lac</option></select>								</div>
 							</div>
 							<div class="searchISelect right">
 								<div class="searchISelectL">BHK</div>
@@ -321,24 +432,32 @@ function dswitch1(showLayer,hideLayer,sbLayer,hbLayer){
 					</div>
 				</div>
 			</div>    <div class="setAlert">Set Your Free Property Alerts<br><a href="http://www.bharatestates.com/setalert" title="Set Property Alert"><img src="http://www.bharatestates.com/images/set-prop-alert.jpg" alt="set alerts"></a></div>
-<div class="propRAd">
+<!--<div class="propRAd" style="width:336px;">
 	<script type="text/javascript"><!--
 google_ad_client = "ca-pub-7133002074058288";
 /* BE 336x280 */
 google_ad_slot = "4432216082";
 google_ad_width = 336;
 google_ad_height = 280;
-//-->
+//--><!--
 </script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-</div>    <div class="propRAd"><a href="http://www.bharatestates.com/ghaziabad/project/748/mahagun-mascot-crossing-republic-ghaziabad?utm_source=GZB_IPB_Mahagun_Mascot&amp;utm_medium=Properties_Page_Banner&amp;utm_campaign=Ad_Campaign" target="_blank"><img src="http://www.bharatestates.com/images/ghaziabad/right-banner/17_gzb-mahagun-mascot.jpg" alt="featured projects"></a></div><div class="propRAd"><a href="http://www.bharatestates.com/faridabad/project/754/imperial-estate-sector-82-faridabad?utm_source=FRD_IPB_SPR_Imperial_Estate&amp;utm_medium=Properties_Page_Banner&amp;utm_campaign=Ad_Campaign" target="_blank"><img src="http://www.bharatestates.com/images/faridabad/right-banner/16_faridabad-imperial-estate.jpg" alt="featured projects"></a></div><div class="propRAd"><a href="http://www.bharatestates.com/pune/project/857/angelle-hills-version-t-bavdhan-pune" target="_blank"><img src="http://www.bharatestates.com/images/pune/right-banner/21_angelle-hill-version-t-bavdhan-side.jpg" alt="featured projects"></a></div><div class="propRAd"><a href="http://www.bharatestates.com/gurgaon/project/787/assotech-blith-sector-99-gurgaon?utm_source=GUR_IPB_Assotech_Blith&amp;utm_medium=Properties_Page_Banner&amp;utm_campaign=Ad_Campaign" target="_blank"><img src="http://www.bharatestates.com/images/gurgaon/right-banner/18_gur-assotech-blith.jpg" alt="featured projects"></a></div>  </div>
+</div> -->    <div class="propRAd">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- BE 336x280 -->
+	<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-7133002074058288" data-ad-slot="4432216082"></ins>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>  </div>
 </div>
 <div class="footer">
 		<div class="footerTop">
 			<div class="centerDiv">
 				<div class="footStat">
-					<div style="height:47px;line-height:47px;"><span>400+</span> Builders &nbsp;&nbsp;&nbsp;<span>24,000+</span> Owner's Properties  &nbsp;&nbsp;&nbsp;<span>1500+</span> Projects and counting ...</div>
+					<div style="height:47px;line-height:47px;"><span>600+</span> Builders &nbsp;&nbsp;&nbsp;<span>41,000+</span> Owner's Properties  &nbsp;&nbsp;&nbsp;<span>1600+</span> Projects and counting ...</div>
 					<div class="social right">
 						<ul>
 							<li><a href="http://www.facebook.com/pages/BharatEstates/199217270147268" target="_blank" title="follow us on facebook"><img src="http://www.bharatestates.com/images/be-fb.gif" onmouseover="this.src='http://www.bharatestates.com/images/be-fb-hover.gif'" onmouseout="this.src='http://www.bharatestates.com/images/be-fb.gif'" alt=""></a></li>
@@ -351,7 +470,7 @@ google_ad_height = 280;
 		</div>
 		<div class="footSignup">
 			<div class="centerDiv">
-				<div class="footButton"><a href="http://www.bharatestates.com/registration" title="Register Free!"><img src="http://www.bharatestates.com/images/sign-up.jpg" alt="Register Free!"></a></div><div class="footButton"><a href="http://www.bharatestates.com/signin" title="Sign In"><img src="http://www.bharatestates.com/images/members-login.jpg" alt="Sign In"></a></div>				<div class="footSignUpT">Browse Agent free Residential and Commercial properties &amp; projects</div>
+				<div class="footButton"><a href="http://www.bharatestates.com/registration" title="Register Free!"><img src="http://www.bharatestates.com/images/sign-up.jpg" alt="Register Free!"></a></div><div class="footButton"><a href="http://www.bharatestates.com/signin" title="Sign In"><img src="http://www.bharatestates.com/images/members-login.jpg" alt="Sign In"></a></div>				<div class="footSignUpT">Browse residential and commercial properties &amp; projects</div>
 			</div>
 		</div>
 		<div class="footSignup">
@@ -361,39 +480,39 @@ google_ad_height = 280;
 			<div class="footLocList">
 				<div class="footCity">
 					<div class="footCityH">Ahmedabad</div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/ahmedabad/cp/14/flats-on-rent-in-ahmedabad" target="_blank">Flats on rent in Ahmedabad</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/ahmedabad/cp/19/bungalow-villas-in-ahmedabad" target="_blank">Bungalow/Villa in Ahmedabad</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/ahmedabad/cp/20/commercial-office-space-in-ahmedabad" target="_blank">Office space in Ahmedabad</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/ahmedabad/cp/21/commercial-shops-in-ahmedabad" target="_blank">Commercial shops in Ahmedabad</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/flat-on-rent-in-ahmedabad" target="_blank">Flat on rent in Ahmedabad</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/pg-in-ahmedabad" target="_blank">PG in Ahmedabad</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/service-apartment-in-ahmedabad" target="_blank">Service apartments in Ahmedabad</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/2-bhk-flat-in-ahmedabad-for-sale" target="_blank">2 BHK flat in Ahmedabad for sale</a></div>
 				</div>
 				<div class="footCity">
 					<div class="footCityH">Bangalore</div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/bangalore/cp/15/house-for-rent-in-bangalore" target="_blank">House for rent in Bangalore</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/bangalore/cp/16/bungalow-villas-in-bangalore" target="_blank">Bungalow/Villa in Bangalore</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/bangalore/cp/17/1-bhk-for-rent-in-bangalore" target="_blank">1 BHK for rent in Bangalore</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/bangalore/cp/18/2-bhk-for-rent-in-bangalore" target="_blank">2 BHK for rent in Bangalore</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/flat-on-rent-in-bangalore" target="_blank">House for rent in Bangalore</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/pg-in-bangalore" target="_blank">PG in Bangalore</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/flat-in-bangalore-for-sale" target="_blank">Flats for sale in Bangalore</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/resale-flats-in-bangalore" target="_blank">Resale flats in Bangalore</a></div>
 				</div>
 				<div class="footCity">
-					<div class="footCityH">Goa</div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/goa/cp/10/holiday-homes-in-goa" target="_blank">Holiday Homes in Goa</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/goa/cp/13/villas-in-goa" target="_blank">Bungalow/Villa in Goa</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/goa/cp/22/flats-on-rent-in-goa" target="_blank">Flats on rent in Goa</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/goa/cp/23/service-apartments-in-goa" target="_blank">Service Apartments in Goa</a></div>
+					<div class="footCityH">Delhi</div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/flat-on-rent-in-delhi" target="_blank">Flat on rent in Delhi</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/pg-in-delhi" target="_blank">PG in Delhi</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/flat-in-delhi-for-sale" target="_blank">Flats for sale in Delhi</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/service-apartment-in-delhi" target="_blank">service apartments in Delhi</a></div>
+				</div>
+				<div class="footCity">
+					<div class="footCityH">Navi Mumbai</div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/resale-flats-in-navi-mumbai" target="_blank">Resale flats in Navi Mumbai</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/flat-on-rent-in-navi-mumbai" target="_blank">Flat on rent in Navi Mumbai</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/flat-in-navi-mumbai-for-sale" target="_blank">Flats for sale in Navi Mumbai</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/service-apartment-in-navi-mumbai" target="_blank">Service apartments in Navi Mumbai</a></div>
 				</div>
 				<div class="footCity">
 					<div class="footCityH">Pune</div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/pune/cp/4/1-bhk-flats-in-pune" target="_blank">1 BHK Flats in Pune</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/pune/cp/6/2-bhk-flats-in-pune" target="_blank">2 BHK Flats in Pune</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/pune/cp/8/villas-bungalows-in-pune" target="_blank">Bungalow/Villa in Pune</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/pune/cp/5/flats-on-rent-in-pune" target="_blank">Flats on rent in Pune</a></div>
-				</div>
-				<div class="footCity">
-					<div class="footCityH">Other Cities</div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/chennai/real-estate">Real Estate Chennai</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/hyderabad/real-estate">Real Estate Hyderababd</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/mumbai/real-estate">Real Estate Mumbai</a></div>
-					<div class="footCityLinks"><a href="http://www.bharatestates.com/navi-mumbai/real-estate">Real Estate Navi Mumbai</a></div>
-				</div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/flat-on-rent-in-pune" target="_blank">Flat on rent in Pune</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/flat-in-pune-for-sale" target="_blank">Flats for sale in pune</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/pg-in-pune" target="_blank">PG in pune</a></div>
+					<div class="footCityLinks"><a href="http://www.bharatestates.com/2-bhk-flat-in-pune-for-sale" target="_blank">2 BHK in Pune for sale</a></div>
+				</div>				
 			</div>
 		</div>
 		<div class="footerBottom">
@@ -402,7 +521,7 @@ google_ad_height = 280;
 					<div style="font-size:11px;"><b>Real Estate India:</b></div>
 					<div>
 						<ul style="margin-top:3px;width:899px;margin-left:8px;">
-						<li class="first" style="margin-bottom:8px;"><a href="/ahmedabad/real-estate" title="Browse properties in Ahmedabad | BharatEstates">Ahmedabad</a></li><li style="margin-bottom:8px;"><a href="/aurangabad/real-estate" title="Browse properties in Aurangabad | BharatEstates">Aurangabad</a></li><li style="margin-bottom:8px;"><a href="/bangalore/real-estate" title="Browse properties in Bangalore | BharatEstates">Bangalore</a></li><li style="margin-bottom:8px;"><a href="/belgaum/real-estate" title="Browse properties in Belgaum | BharatEstates">Belgaum</a></li><li style="margin-bottom:8px;"><a href="/bhopal/real-estate" title="Browse properties in Bhopal | BharatEstates">Bhopal</a></li><li style="margin-bottom:8px;"><a href="/bhubaneswar/real-estate" title="Browse properties in Bhubaneswar | BharatEstates">Bhubaneswar</a></li><li style="margin-bottom:8px;"><a href="/calicut/real-estate" title="Browse properties in Calicut | BharatEstates">Calicut</a></li><li style="margin-bottom:8px;"><a href="/chandigarh/real-estate" title="Browse properties in Chandigarh | BharatEstates">Chandigarh</a></li><li style="margin-bottom:8px;"><a href="/chennai/real-estate" title="Browse properties in Chennai | BharatEstates">Chennai</a></li><li style="margin-bottom:8px;"><a href="/coimbatore/real-estate" title="Browse properties in Coimbatore | BharatEstates">Coimbatore</a></li><li style="margin-bottom:8px;"><a href="/dehradun/real-estate" title="Browse properties in Dehradun | BharatEstates">Dehradun</a></li><li style="margin-bottom:8px;"><a href="/delhi/real-estate" title="Browse properties in Delhi | BharatEstates">Delhi</a></li><li style="margin-bottom:8px;"><a href="/faridabad/real-estate" title="Browse properties in Faridabad | BharatEstates">Faridabad</a></li><li style="margin-bottom:8px;"><a href="/ghaziabad/real-estate" title="Browse properties in Ghaziabad | BharatEstates">Ghaziabad</a></li><li style="margin-bottom:8px;"><a href="/goa/real-estate" title="Browse properties in Goa | BharatEstates">Goa</a></li><li style="margin-bottom:8px;"><a href="/gurgaon/real-estate" title="Browse properties in Gurgaon | BharatEstates">Gurgaon</a></li><li style="margin-bottom:8px;"><a href="/guwahati/real-estate" title="Browse properties in Guwahati | BharatEstates">Guwahati</a></li><li style="margin-bottom:8px;"><a href="/hyderabad/real-estate" title="Browse properties in Hyderabad | BharatEstates">Hyderabad</a></li><li style="margin-bottom:8px;"><a href="/indore/real-estate" title="Browse properties in Indore | BharatEstates">Indore</a></li><li style="margin-bottom:8px;"><a href="/jaipur/real-estate" title="Browse properties in Jaipur | BharatEstates">Jaipur</a></li><li style="margin-bottom:8px;"><a href="/kochi/real-estate" title="Browse properties in Kochi | BharatEstates">Kochi</a></li><li style="margin-bottom:8px;"><a href="/kolkata/real-estate" title="Browse properties in Kolkata | BharatEstates">Kolkata</a></li><li style="margin-bottom:8px;"><a href="/lucknow/real-estate" title="Browse properties in Lucknow | BharatEstates">Lucknow</a></li><li style="margin-bottom:8px;"><a href="/ludhiana/real-estate" title="Browse properties in Ludhiana | BharatEstates">Ludhiana</a></li><li style="margin-bottom:8px;"><a href="/madurai/real-estate" title="Browse properties in Madurai | BharatEstates">Madurai</a></li><li style="margin-bottom:8px;"><a href="/mangalore/real-estate" title="Browse properties in Mangalore | BharatEstates">Mangalore</a></li><li style="margin-bottom:8px;"><a href="/mumbai/real-estate" title="Browse properties in Mumbai | BharatEstates">Mumbai</a></li><li style="margin-bottom:8px;"><a href="/mysore/real-estate" title="Browse properties in Mysore | BharatEstates">Mysore</a></li><li style="margin-bottom:8px;"><a href="/nagpur/real-estate" title="Browse properties in Nagpur | BharatEstates">Nagpur</a></li><li style="margin-bottom:8px;"><a href="/nashik/real-estate" title="Browse properties in Nashik | BharatEstates">Nashik</a></li><li style="margin-bottom:8px;"><a href="/navi-mumbai/real-estate" title="Browse properties in Navi Mumbai | BharatEstates">Navi Mumbai</a></li><li style="margin-bottom:8px;"><a href="/noida/real-estate" title="Browse properties in Noida | BharatEstates">Noida</a></li><li style="margin-bottom:8px;"><a href="/patna/real-estate" title="Browse properties in Patna | BharatEstates">Patna</a></li><li style="margin-bottom:8px;"><a href="/pune/real-estate" title="Browse properties in Pune | BharatEstates">Pune</a></li><li style="margin-bottom:8px;"><a href="/secunderabad/real-estate" title="Browse properties in Secunderabad | BharatEstates">Secunderabad</a></li><li style="margin-bottom:8px;"><a href="/surat/real-estate" title="Browse properties in Surat | BharatEstates">Surat</a></li><li style="margin-bottom:8px;"><a href="/thane/real-estate" title="Browse properties in Thane | BharatEstates">Thane</a></li><li style="margin-bottom:8px;"><a href="/thrissur/real-estate" title="Browse properties in Thrissur | BharatEstates">Thrissur</a></li><li style="margin-bottom:8px;"><a href="/trichy/real-estate" title="Browse properties in Trichy | BharatEstates">Trichy</a></li><li style="margin-bottom:8px;"><a href="/trivandrum/real-estate" title="Browse properties in Trivandrum | BharatEstates">Trivandrum</a></li><li style="margin-bottom:8px;"><a href="/vadodara/real-estate" title="Browse properties in Vadodara | BharatEstates">Vadodara</a></li><li style="margin-bottom:8px;"><a href="/visakhapatnam/real-estate" title="Browse properties in Visakhapatnam | BharatEstates">Visakhapatnam</a></li>	
+						<li class="first" style="margin-bottom:8px;"><a href="http://www.bharatestates.com/ahmedabad/real-estate" title="Browse properties in Ahmedabad | BharatEstates">Ahmedabad</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/aurangabad/real-estate" title="Browse properties in Aurangabad | BharatEstates">Aurangabad</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/bangalore/real-estate" title="Browse properties in Bangalore | BharatEstates">Bangalore</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/belgaum/real-estate" title="Browse properties in Belgaum | BharatEstates">Belgaum</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/bhopal/real-estate" title="Browse properties in Bhopal | BharatEstates">Bhopal</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/bhubaneswar/real-estate" title="Browse properties in Bhubaneswar | BharatEstates">Bhubaneswar</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/calicut/real-estate" title="Browse properties in Calicut | BharatEstates">Calicut</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/chandigarh/real-estate" title="Browse properties in Chandigarh | BharatEstates">Chandigarh</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/chennai/real-estate" title="Browse properties in Chennai | BharatEstates">Chennai</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/coimbatore/real-estate" title="Browse properties in Coimbatore | BharatEstates">Coimbatore</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/dehradun/real-estate" title="Browse properties in Dehradun | BharatEstates">Dehradun</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/delhi/real-estate" title="Browse properties in Delhi | BharatEstates">Delhi</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/faridabad/real-estate" title="Browse properties in Faridabad | BharatEstates">Faridabad</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/ghaziabad/real-estate" title="Browse properties in Ghaziabad | BharatEstates">Ghaziabad</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/goa/real-estate" title="Browse properties in Goa | BharatEstates">Goa</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/gurgaon/real-estate" title="Browse properties in Gurgaon | BharatEstates">Gurgaon</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/guwahati/real-estate" title="Browse properties in Guwahati | BharatEstates">Guwahati</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/hyderabad/real-estate" title="Browse properties in Hyderabad | BharatEstates">Hyderabad</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/indore/real-estate" title="Browse properties in Indore | BharatEstates">Indore</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/jaipur/real-estate" title="Browse properties in Jaipur | BharatEstates">Jaipur</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/kochi/real-estate" title="Browse properties in Kochi | BharatEstates">Kochi</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/kolkata/real-estate" title="Browse properties in Kolkata | BharatEstates">Kolkata</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/lucknow/real-estate" title="Browse properties in Lucknow | BharatEstates">Lucknow</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/ludhiana/real-estate" title="Browse properties in Ludhiana | BharatEstates">Ludhiana</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/madurai/real-estate" title="Browse properties in Madurai | BharatEstates">Madurai</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/mangalore/real-estate" title="Browse properties in Mangalore | BharatEstates">Mangalore</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/mumbai/real-estate" title="Browse properties in Mumbai | BharatEstates">Mumbai</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/mysore/real-estate" title="Browse properties in Mysore | BharatEstates">Mysore</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/nagpur/real-estate" title="Browse properties in Nagpur | BharatEstates">Nagpur</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/nashik/real-estate" title="Browse properties in Nashik | BharatEstates">Nashik</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/navi-mumbai/real-estate" title="Browse properties in Navi Mumbai | BharatEstates">Navi Mumbai</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/noida/real-estate" title="Browse properties in Noida | BharatEstates">Noida</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/patna/real-estate" title="Browse properties in Patna | BharatEstates">Patna</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/pune/real-estate" title="Browse properties in Pune | BharatEstates">Pune</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/secunderabad/real-estate" title="Browse properties in Secunderabad | BharatEstates">Secunderabad</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/surat/real-estate" title="Browse properties in Surat | BharatEstates">Surat</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/thane/real-estate" title="Browse properties in Thane | BharatEstates">Thane</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/thrissur/real-estate" title="Browse properties in Thrissur | BharatEstates">Thrissur</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/trichy/real-estate" title="Browse properties in Trichy | BharatEstates">Trichy</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/trivandrum/real-estate" title="Browse properties in Trivandrum | BharatEstates">Trivandrum</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/vadodara/real-estate" title="Browse properties in Vadodara | BharatEstates">Vadodara</a></li><li style="margin-bottom:8px;"><a href="http://www.bharatestates.com/visakhapatnam/real-estate" title="Browse properties in Visakhapatnam | BharatEstates">Visakhapatnam</a></li>	
 						</ul>
 					</div>
 				</div>
@@ -412,8 +531,8 @@ google_ad_height = 280;
 						<li><a href="http://www.bharatestates.com/info/about" title="">About</a></li>
 						<li><a href="http://www.bharatestates.com/registration" title="">Free Property Listing</a></li>
 						<li><a href="http://www.bharatestates.com/india/properties" title="">Properties in India</a></li>
-						<li><a href="http://www.bharatestates.com/india/projects" title="">Projects in India</a></li>
-						<li><a href="http://www.bharatestates.com/india/builders" title="">Builders in India</a></li>
+						<li><a href="http://www.bharatestates.com/india/new-projects" title="">Projects in India</a></li>
+						<li><a href="http://www.bharatestates.com/india/top-builders" title="">Builders in India</a></li>
 						<li><a href="http://www.bharatestates.com/india/plots" title="">Plots in India</a></li>
 						<li><a href="http://www.bharatestates.com/india/industrials" title="">Industrial Properties in India</a></li>
 					</ul>
@@ -434,31 +553,10 @@ google_ad_height = 280;
 						<!-- <li><a href="#" title="">NRI Investment</a></li> -->
 					</ul>
 				</div>
-				<div class="footerBText">All trademarks, logos and names are properties of their respective owners. All Rights Reserved. © Copyright 2013 BharatEstates.com</div>
+				<div class="footerBText">All trademarks, logos and names are properties of their respective owners. All Rights Reserved. © Copyright 2015 BharatEstates.com</div>
 			</div>
 		</div>
-<script src="http://www.bharatestates.com/scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
-<script src="http://www.bharatestates.com/scripts/jquery.li-scroller.1.0.js" type="text/javascript"></script>
-<script>
-$nj=jQuery.noConflict();
-$nj(function(){ $nj("ul#ticker02").liScroll({travelocity: 0.07}); });
-function movediv() {
-var divElem = document.getElementById('booking_details');
-divElem.style.top = (window.scrollY + window.innerHeight - parseInt(divElem.style.height)) + 'px';}
-function stupid() {
-document.getElementById('booking_details').style.height = '35px';
-movediv();  //sync reload
-}
-</script>
-<div id="booking_details">
-	<div style="width:1004px;margin:auto;height:35px;float:none;">
-		<div style="float:left;z-index:4;height:35px;line-height:35px;margin-top:12px;margin-right:6px;width:16px;">
-			<img src="http://www.bharatestates.com/images/footer-scroll-favi.gif" alt="">
-		</div>
-		<div class="tickercontainer">
-					</div>
-	</div>
-</div>
+
 </div>
 <script type="text/javascript">
 
