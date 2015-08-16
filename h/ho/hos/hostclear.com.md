@@ -1,175 +1,101 @@
-> *The following text is extracted and transformed from the hostclear.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620224528id_/https%3A//www.justhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostclear.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816184720id_/https%3A//www.hostclear.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Just Host
+# Privacy - HostClear
 
-Skip to main content
+#### 1\. Who We Are
 
-  * [Home](https://web.archive.org/)
-  * [Web Hosting](https://web.archive.org/hosting-features)
-  * [Why Us](https://web.archive.org/why-us)
-  * [Guarantees](https://web.archive.org/guarantees)
-  * [Contact Us](https://web.archive.org/contact-us)
-  * [Help Center](https://my.justhost.com/hosting/help)
-  * [Login](https://web.archive.org/cplogin)
+HostClear (“HostClear”) provides cloud-based solutions, including web hosting, web design, domain name registration and related products and services, to businesses, individuals, non-profit organizations and others. As a part of the The Endurance International Group, Inc. (“Endurance”), HostClear is able to provide a variety and range of products and services to help customers with their technological needs. To learn more about the Endurance corporate family, [click here](http://www.enduranceinternational.com/our-company/our-brands). 
 
+HostClear is committed to protecting any data that it collects concerning you. By using our products and services or visiting our website located at [www.hostclear.com](http://www.hostclear.com/) (collectively, the “Services”) you agree to the use of the data that we collect in accordance with this Privacy Policy. This Privacy Policy covers our collection, use and disclosure of information collected through your use of the Services. The purpose of this Privacy Policy is to enable you to understand what information of yours is collected, how and when we might use or share your information, and how you can correct any inaccuracies in the information. This Privacy Policy also explains our online information practices and your options concerning the way your information is collected and used. 
 
+#### 2\. Information We Collect
 
-> On July 28, 2014 we updated these terms and policies. You may [review the archived version](https://web.archive.org/privacy_policy?old=1).
+We collect the following types of information from you to provide you with the Services as well as for the purposes described below. The information may be provided by you voluntarily or we may automatically collect the information through communications, profiles, or cookies.
 
-This Privacy Policy describes the commitment at Just Host ("Just Host") to the privacy of visitors to the Just Host website located at www.Justhost.com and of its customers ("Subscribers"). Except as required by law or as otherwise provided herein, Just Host will take commercially reasonable steps to ensure your right to privacy. Just Host is committed to developing long lasting relationships that are built on trust and would never intentionally violate that trust.
+  1. **Personal Information.** The personal information we collect depends on the type of service, support, or sales inquiry, and may include your name, address, telephone number, fax number, email address, dates of service provided, types of service provided, payment history, manner of payment, amount of payments, date of payments, domain name, and credit card or other payment information. The financial information collected will only be used to bill you for the Services you purchase. If you make a purchase by credit card, this information may be forwarded to your credit card provider. Whenever you submit personal information a security icon will appear in your browser.
 
-  1. ### Who We Are
+  2. **Account Information.** The account information we collect depends on the type of service, support, or sales inquiry, and may include your account status, your website features, and your website content.
 
-Just Host provides cloud-based solutions, including web-hosting, domain name and related products and services, to businesses, individuals, non-profit organizations and others. As part of the The Endurance International Group, Inc. ("Endurance") corporate family, Just Host is able to provide a variety and range of products and services to help Subscribers with their technological needs. To learn more about the Endurance corporate family, visit: [http://www.enduranceinternational.com](http://www.enduranceinternational.com/)
+  3. **Cookies and Tracking.** Your Internet browser has the in-built facility for storing small text files called "cookies" that hold information which allow a website to recognize your device. We use cookies to save your preferences and login information, and to provide personalized functionality. We may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. More specifically, we use different types of cookies for different purposes: (i) “required cookies” are necessary for our website to work properly, (ii) “performance cookies” allow us to analyze how you use our website so we can measure and improve the performance of our website, (iii) "functional cookies" allow us to remember choices you may have made on our website, and (iv) "advertising cookies" are used to present ads that are relevant to your interests.
 
-  2. ### Information We Collect
+We may utilize cookies to track referrals from internal and external affiliates, as well as for advertising campaigns. We may also use a third party service provider to send emails that you have agreed to receive. Pixel tags and cookies may be used in those email messages to help us measure the effectiveness of our advertising and to enable us to provide more focused marketing communications to you. You can reject cookies by changing your browser settings, but be aware that this may disable some of the functionality on our website.   
+n addition, we partner with a third party to display advertising on our website and to manage our advertising on other websites. Our third party partner may use technologies such as cookies to gather information about your activities on our website and other websites in order to provide you with ads based upon your browsing activities and interests. If you do not wish to have this information used to serve you interest-based ads, you may opt-out by contacting support [LINK TO SUPPORT](http://help.hostclear.com/). Please note that this does not opt you out of being served ads in general. You will continue to receive generic ads unless you opt-out by using the unsubscribe link in any promotional email that you receive or as otherwise provided in the communication.
 
-    1. ### Subscriber Information.
+  4. **Customer Surveys.** We may periodically conduct customer surveys. Participation in our customer surveys is voluntary. However, we encourage our users to participate in these surveys because they provide us with important information that helps us improve the types of services we offer and how we provide them to you. Your personal information, including your name, address, and phone number, if provided, will remain confidential, even if the survey is conducted by a third party service provider on our behalf.
 
-Subscribers are asked to provide certain personal information when they sign up for Just Host services including name, postal address, email address, telephone number, and billing information (such as a credit card number). In addition, to register a domain name, Subscribers are asked to provide this information for the registrant, administrative contact, technical contact and billing contact of the domain name (collectively, "Domain Name Registration Information"), for submission to the appropriate domain registry or registration database. Subscribers may also be asked to complete an online form that collects information about demographics, product usage and preferences, along with other information that will help us improve our products and services.
+  5. **Social Media.** Our website includes social media features, such as, the Facebook "Like" button. These features may collect your IP address and which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features and widgets may be hosted by a third party or directly on our website. Your interactions with these features are governed by the privacy policy of the company providing the feature.
 
-    2. ### Social Media.
+  6. **Data and Information Submitted to Third Parties on Our Network.** This Privacy Policy does not apply to data, personal information, or account information that may be submitted to, or collected by, third-party or other customer websites hosted by HostClear or to domain names registered by customers through HostClear. Such websites and domain names are not owned or controlled by HostClear. You should independently evaluate the privacy policies of any such third-party websites before submitting data, personal information, or account information to them. 
 
-Just Host's website includes social media features (such as the Facebook "Like" button). These features may collect your IP address and which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features and widgets may be hosted by a third party or directly on Just Host's website. Your interactions with these features are governed by the privacy policy of the company providing the feature.
 
-    3. ### Cookies and Tracking.
 
-Just Host uses different types of cookies (which are electronic collections of information stored on a local computer that are used by websites to keep track of visitors and registered users and to relate one computer transaction to a later one) and other methods of uniquely tracking visitors for different purposes. For example, some cookies are "required cookies" which are necessary for Just Host's website to work. In addition, cookies are used to provide Just Host's existing Subscribers with the opportunity for continued savings and increased convenience as described in more detail below.
 
-      1. ### Cookies for Improving Our Web Site.
+#### 3\. Use Of Information
 
-Just Host uses "performance cookies" to inform Just Host of a repeat visit. However, these cookies do not tell Just Host who a visitor is, the visitor's name, email address, or passwords.
+  1. **Personal and Account Information.** The personal information and account information we collect is used for billing and to provide service and support to our customers. We may study this information to determine our customers’ needs and to promote certain products and services or additional support that we believe would be of interest to specific customers. We may also generate non-identifying and aggregate profiles from the information provided by customers, such as, the total number of customers in a given category. This aggregated and non-identifying information may be used to determine which advertisements will appear on our website and in connection with the Services. 
 
-      2. ### Cookies for Banner Rewards Program.
+We take reasonable precautions to prevent unauthorized access to your information. Accordingly, we may require you to provide additional forms of identity should you wish to obtain information about your account details. HostClear may also use the personal information or account information you provide to email HostClear’s monthly newsletter to the primary contact e-mail on file, or to contact you about other products or services that we think may be of interest to you. 
 
-To offer Just Host Subscribers continued savings, Just Host uses cookies to help monitor the traffic generated from Just Host banners and logo buttons displayed on Just Host Subscribers' websites.
+  2. **Log Files.** We use IP addresses to analyze trends, administer our website and servers, track access, and gather broad demographic information for aggregate use. IP addresses are not linked to personal information. However, it is possible that personal information about a customer may be included in the log files due to the normal functions of IP addresses and web browsing. 
 
-      3. ### Cookies for Subscriber Account Management.
+  3. **Customer Surveys** We may use the contact and other information provided to follow up with customers to help resolve issues, internally or with our third party partners, which the customer identified in their survey response. For example, HostClear may contact customers based on their survey answers or to highlight certain changes we made in response to customer feedback. 
 
-For Just Host Subscribers, Just Host uses "functional cookies" to store user names for added convenience. For example, the cookie would contain a piece of identifying information such as a customer ID, username, or session ID that would be used to look up the customer ID. Just Host offers password-protected, web-based management tools as part of its webhosting packages. By storing a Subscriber's username in a cookie, the Subscriber will not have to fill out form fields each time he or she manages the account. (The cookie does not store passwords.)
+  4. **Promotional Emails** We may use the email you provide through our website to contact you about our products and services even if you have not subscribed to our services. You can opt-out of receiving these emails by using the unsubscribe link in any promotional email that you receive or as otherwise provided in the communication. 
 
-      4. ### Cookies for Advertising.
 
-Just Host may also utilize "advertising cookies" to track referrals from internal and external affiliates, as well as advertising campaigns. Just Host may also use a third party service provider to send emails that you have agreed to receive. Pixel tags and cookies may be used in those email messages to help Just Host measure the effectiveness of its advertising and to enable Just Host to provide more focused marketing communications to you.
 
-You may set your web browser to notify you when you receive a cookie or change the settings on your web browser to clear or disable cookies. If you decide not to accept cookies, you may not be able to take advantage of all of the features of Just Host's website. Additionally, please be aware that if you visit third party websites where you are prompted to log in or that are customizable, you may be required to accept cookies. Cookies do not enable third parties to access any of your personal (i.e., contact) information. However, advertisers and partners may also use their own cookies. Just Host does not control use of these cookies and are not responsible for information collected through them.
 
-    4. ### Customer Surveys.
+#### 4\. Disclosing Information
 
-Just Host may periodically conduct customer surveys. Participation in our customer surveys is voluntary. However, we encourage Subscribers to participate in these surveys because they provide Just Host with important information that helps improve the types of services we offer and how we provide them to you. Your personal information, if provided, will remain confidential, even if the survey is conducted by a third party service provider on our behalf.
+We will not share your personal information with third parties other than as described in this Privacy Policy without your prior consent. We do not sell your personal information to third parties.
 
-    5. ### Collection by Linked Websites.
+  1. **Partners and Sponsors** Some of our products or services are offered or promoted to our customers in conjunction with a partner or sponsor, or another brand or company within our corporate family. We may share your information with these parties to offer the product or service or to facilitate your use of additional features included with your hosting account. For example, one of our partners may provide services to you through a link that you access from your control panel. 
 
-Just Host may provide links to some third party websites as a convenience. Please exercise care when visiting linked websites. The linked websites have separate and independent privacy statements, notices and terms of use which we recommend you read carefully. When you visit or make purchases through these third party sites, you may be asked to provide personal information, such as your name, address, email address, phone number, and credit/debit card information. Please note that in such cases, you are providing information to a third party and Just Host has no control over such third party's use of any information you provide and, therefore, Just Host has no responsibility or liability for the manner in which the third party that operates a linked website may collect, use, disclose, secure or otherwise treat your personal information. Except as provided herein, Just Host will not provide any of your personal information to any third parties without your consent.
+We may also disclose aggregate, anonymous data based on information collected from customers to potential partners, reputable third parties and other companies or brands within our corporate family. We will only share your information with third parties that agree to maintain the confidentiality of your information and to only use your information for purpose of providing the product or service as agreed upon by HostClear. 
 
-  3. ### Use of Information
+  2. **Service Providers.** We may transfer (or otherwise make available) your personal information or account information to third parties that help us provide the Services or provide services on our behalf. Your personal information or account information may be maintained and processed by our third party service providers in the United States or in other jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes.
 
-Just Host uses information it collects primarily to provide and collect payment for its cloud-based solutions and other services. Passively collected information, such as information collected from or about your device including through the placement or reading of cookies or other tracking technologies is used to provide a customized experience as you use Just Host's services.
+  3. **Online Advertisements.** We do not share personally identifiable information about individual customers with advertisers. We may share aggregated and non-identifying information about our customers that we collect through the registration process or through online surveys and promotions with certain advertisers. In some instances, we use this aggregated and non-identifying information to deliver tailored advertisements. For example, an advertiser may tell us the audience they want to reach are small businesses that have online stores and provide us with an advertisement tailored to that specific audience. Based upon the aggregated and non-identifying information we have collected, we may then display the advertisement to the intended audience. 
 
-    1. ### Subscriber Contact/Account Information.
+  4. **Customer Surveys.** We may share customer information obtained from customer surveys within our corporate family, and with trusted third parties to develop or provide products and services that we believe would be of interest to our customers.
 
-The information collected from Subscribers is used to manage each Subscriber's account (such as for billing and account management purposes) and to promote other products or services that Just Host believes may be of interest to its Subscribers. Just Host may also generate non-identifying and aggregate profiles from information that Subscribers provide during registration (such as the total number of Subscribers in a given category, but not their names). As explained in more detail below, Just Host may in certain instances use this aggregated and non-identifying information to promote advertisements that appear on Just Host's website and in connection with its services. Any such aggregated and non-identifying information that Just Host collects, and any analysis of such information that it produces, is proprietary information of Just Host.
+  5. **Domain Registration.** In certain jurisdictions or pursuant to the rules of the Internet Corporation for Assigned Names and Numbers ("ICANN") or certain registries, the contact information you provide to register a domain name (“Domain Name Registration Information”) has to be made available and accessible to the public through a "WHOIS" search. The WHOIS database is a publicly accessible database that lists the Domain Name Registration Information for a particular domain name, the name server(s) to which the domain name points, and the domain name's creation and expiration date. The Domain Name Registration Information you provide is hosted by us or a third party service provider and is made available to the public through the WHOIS database. At times, customers may receive solicitations that result from searches of the publicly available WHOIS database by other companies or individuals. Any such solicitations or SPAM do not come from HostClear and we do not control the use of WHOIS information by third parties. Further, pursuant to ICANN rules, HostClear is required to make WHOIS data available to any third party that enters into a bulk access agreement. While ICANN allows individuals to opt-out (using the account management panel, domain management console or similar service) of having their WHOIS information made available to third parties through bulk access, companies, such as ours, and other organizations do not have the ability to opt-out of having their information made available to a third party that enters into a bulk access agreement. We may also deposit your Domain Name Registration Information with a third-party escrow provider to comply with ICANN requirements. 
 
-    2. ### Analytics/Statistics.
+  6. **Law Enforcement and Special Cases.** We cooperate with government and law enforcement officials to enforce and comply with the law. We will disclose information about users upon a valid request by government or law officials as we, in our sole discretion, believe is necessary or appropriate to respond to claims and legal process (including without limitation subpoenas) or as otherwise required to comply with applicable laws. We may also disclose information that is necessary to identify, contact, or bring legal action against a party that threatens us, our systems or our customers (for example, to prevent a Distributed Denial of Service or “DDoS”, attack).
 
-Just Host uses information gathered from its website analytics (for example, User IP addresses) to help diagnose problems with Just Host servers, and to administer and optimize Just Host's website. Just Host also gathers broad demographic information from this data to help improve its website and make your browsing and purchasing experience more responsive, efficient, or enjoyable. Any statistics gathered by Just Host are proprietary property of Just Host.
+  7. **Mergers, Sale or other Asset Transfer.** If HostClear is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email or through a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
-    3. ### Responses to Email Inquiries
 
-When Subscribers send email inquiries to Just Host, the return email address (and other personal information provided in the inquiry) is used to answer the email inquiry received.
 
-    4. ### Customer Surveys.
 
-Just Host may use the contact information provided in customer surveys to follow up on survey answers. Just Host may also contact you to highlight the changes Just Host makes in response to your feedback.
+#### 5\. Your Options
 
-  4. ### Sharing of Information
+  1. **Correcting/Updating Personal Information.** If your information changes or is incorrect, you may update or correct such information through our billing system at [https://www.hostclear.com/billing](https://web.archive.org/billing "hostclear Billing") or by emailing us at [privacy@hostclear.com](mailto:privacy@hostclear.com "Email privacy@hostclear.com").
 
-    1. ### Confidentiality.
+  2. **Data Retention.** We will retain your information for as long as needed to provide you with the Services or as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-With the exception of other members of the Endurance corporate family and trusted business partners who work with or on behalf of Just Host, and are subject to specific confidentiality agreements, Just Host will not provide or sell to any third party your personal information and will keep all Subscriber information confidential, subject to the following:
+  3. **Opt Out.** By default, you will receive invoices, any system updates, HostClear newsletters and other mailings. You are able to opt out of newsletters and mailings by using the unsubscribe link in any promotional email or as otherwise provided in the communication. Please note that customers may not opt out of receiving important system notifications or emails about their accounts. 
 
-    2. ### Service Providers.
+  4. **Public Forums.** Please remember that any information you may disclose or post on public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request the removal of your personal information from our community forums or testimonials, contact us at [privacy@hostclear.com](mailto:privacy@hostclear.com). In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so. 
 
-Upon registration for Just Host services, certain Subscriber information may be transferred to trusted affiliated or unaffiliated third parties that help Just Host provide certain services or that provide certain services on Just Host's behalf. For example, Subscriber information may be transferred to Just Host's affiliated registrar, FastDomain (WHOIS Domain Name Registration Information), or to unaffiliated third parties that help Just Host provide email services or SSL certifications.
+  5. **Data Security.** HostClear uses technical security measures to prevent the loss, misuse, altering or unauthorized disclosure of information under our control. Such security measures include but are not limited to: physical, electronic and managerial procedures to safeguard and secure the information we collect online. All sensitive information is collected on a secure server. When we ask customers to provide financial information (such as credit card numbers) that data is protected using Secure Sockets Layer ("SSL") technology. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about the security of our Services, you can contact us at [legal@hostclear.com](mailto:legal@hostclear.com).
 
-    3. ### Co-marketing Activities.
 
-Some services are offered or promoted in conjunction with a Just Host partner or sponsor. For example, Just Host may partner with other corporate affiliates of Endurance or with trusted non-affiliated partners for co-promotions of a particular product or service. Just Host may share certain Subscriber contact information but no billing information with Just Host's partner or sponsor in order to provide the relevant services or to run the promotion. If Just Host shares Subscriber information with partners and sponsors, Just Host requires that they maintain the Subscriber information in confidence, and use the information solely for purposes of providing the services or carrying out the agreed upon promotion.
 
-    4. ### Online Advertisements.
 
-Just Host does not share personally identifiable information about individual users with advertisers. Just Host may display online advertisements and share aggregated and non-identifying information about Subscribers collected through the registration process or through online surveys and promotions with certain advertisers. This aggregated and non-identifying information may be used to deliver tailored advertisements. For example, an advertiser may tell Just Host the audience it wants to reach (e.g., males between 25 and 55 years of age) and provide Just Host with an advertisement tailored to that audience. Based upon the aggregated and non-identifying information collected by Just Host, Just Host may then display the advertisement to the intended audience.
+#### 6\. Children
 
-    5. ### Customer Surveys.
+This website is not directed towards children and we do not seek to collect any personal information from children. If we become aware that personal information from a child under the age of thirteen (13) has been collected, we will use all reasonable efforts to delete such information from our database.
 
-In addition to sharing survey information with service providers confidentially as described above, Just Host may share aggregated, non-personally identifying information obtained from customer surveys within the Endurance corporate family or with third parties.
+#### 7\. Changes to this Policy
 
-    6. ### Law Enforcement.
+We reserve the right to revise, amend, or modify this Privacy Policy at any time and in any manner. However, if we plan to materially change how we use previously collected personal information, you will be notified via email or through a prominent notice on our website of the change, as well as any choices you may have regarding your personal information. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Just Host will respond to subpoenas, court orders, or other legal processes, and will utilize Subscriber information as necessary to establish or exercise Just Host's legal rights or defend against legal claims. Additionally, Just Host will share information to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations or suspected violations of Just Host's Terms of Service, or as otherwise required by law.
+#### 8\. Contacting us
 
-    7. ### Domain Registration.
+HostClear encourages individuals to contact us with any questions concerning this Privacy Policy and the processing of personal information by contacting HostClear via email at privacyHostClear .com or at the address below. 
 
-In certain jurisdictions or pursuant to the rules of the Internet Corporation for Assigned Names and Numbers ("ICANN") or certain registries, Domain Name Registration Information has to be made available and accessible to the public through a "WHOIS" search. The WHOIS database is a publicly accessible database that lists the Domain Name Registration Information for a particular domain name, the name server(s) to which the domain name points, and the domain name's creation and expiration date. The Domain Name Registration Information you provide is hosted by Just Host or a third party service provider and is made available to the public through WHOIS searches. Just Host may deposit your Domain Name Registration Information with a third-party escrow provider to comply with ICANN requirements. At times, Subscribers may receive solicitations that result from searches of the publicly available WHOIS database by other companies or individuals. Any such solicitations or SPAM do not come from Just Host and Just Host does not control the use of WHOIS information by third parties.
-
-    8. ### Domain Privacy.
-
-When Just Host is threatened with suit by a third party, or any other legal action is brought to Just Host's attention involving Just Host based on the anonymity of a domain name, Just Host may seek assurance from you, the customer, concerning your promise to indemnify Just Host and written confirmation that you have contacted the complainant and made your contact information available to the complainant. Failure to promptly provide these assurances may be considered by Just Host to be a breach of your agreement with Just Host and may result in deactivation of your domain name and disclosure of your contact information so that any allegations of infringement or other wrongdoing may be directly resolved between you and the complainant.
-
-  5. ### Your Options
-
-    1. ### Public Forums.
-
-Please remember that any information you may disclose or post in forums or other public areas of Just Host's website or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from Just Host community forums or testimonials, contact Just Host at [tos@justhost.com](mailto:tos@justhost.com). In some cases, Just Host may not be able to remove your personal information, in which case Just Host will let you know why it is unable to do so.
-
-    2. ### Unsubscribe/Opt-out.
-
-When you become a Subscriber of Just Host, you are automatically subscribed to receive transactional notices about your account, email newsletters and news of special promotions offered through Just Host and/or in conjunction with Just Host's partners.
-
-To unsubscribe from Just Host newsletters and promotional mailings, please update your preferences in your Just Host control panel or contact [Just Host support](https://justhost.com/cgi/info/contact_us). You may also unsubscribe through the links provided in promotional email messages sent by Just Host or on Just Host's behalf.
-
-    3. ### How to Access or Modify Your Information.
-
-Just Host allows you to access, update, and correct inaccuracies in your personal information in Just Host's custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information Just Host has in its custody or control by accessing the control panel or by contacting support via email, phone or online chat. Just Host may request certain personal information for the purposes of verifying the identity of the individual seeking access to their records.
-
-To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your control panel. Alternatively, you can contact [Just Host support](https://justhost.com/cgi/info/contact_us).
-
-  6. ### Children Under 13
-
-This website is not directed towards children and Just Host does not seek to collect any personal information from children. If Just Host becomes aware that personal information from a child under the age of 13 has been collected, Just Host will use all reasonable efforts to delete such information from its database.
-
-  7. ### Data Security
-
-Encryption. When a Subscriber orders from Just Host, personal data transmissions are encrypted and all of the Subscriber's personal information is protected. Just Host uses Secure Sockets Layer (SSL), the industry standard, for encrypting all personal information, including name, address and credit card numbers.
-
-  8. ### Revisions to this Policy
-
-Just Host reserves the right to revise, amend, or modify this Privacy Policy at any time and in any manner. However, if Just Host plans to materially change how it plans to use previously collected personal information, Just Host will provide you with advance notice prior to the change becoming effective and an opportunity to opt-out of such differing uses. Just Host encourages you to periodically review this page for the latest information on its privacy practices.
-
-  9. ### Contact Us Regarding This Policy
-
-If you have any questions about this Privacy Policy or the practices described herein, you may contact:  
-ATTN: Just Host Legal Department.   
-560 Timpanogos Pkwy   
-Orem, UT 84097  
-Fax: 801-765-1992 or E-mail: legal@justhost.com  
-
-
-  10. ### Applicable to All Reseller Relationships
-
-In addition to all of the terms and conditions set forth above, the following terms apply to Just Host Reseller relationships only.
-
-    1. ### Choice.
-
-If you are a customer of one of Just Host's Resellers and would no longer like to be contacted by such Reseller, please contact the Reseller from whom you purchased products or services.
-
-    2. ### Data Retention.
-
-Just Host retains personal data it processes on behalf of Just Host's Resellers for as long as needed to provide services under the relationship. Just Host will retain and use this personal information as necessary to comply with Just Host's legal obligations, resolve disputes, and to enforce its agreements.
-
-
-
-
-This file was last modified: July 28, 2014.
-
-[Terms Home](https://web.archive.org/terms) [User Agreement](https://web.archive.org/user-agreement) [Acceptable Use Policy](https://web.archive.org/acceptable-use-policy) [HIPAA Disclaimer](https://web.archive.org/acceptable-use-policy#hipaa) [Domain Registration Agreement](https://web.archive.org/domain-registration-agreement) [Anti-Spam Policy](https://web.archive.org/antispam-policy) [Privacy Policy](https://web.archive.org/privacy-policy) [Domain Name Dispute Policy](https://web.archive.org/domain-dispute-policy) [Civil Subpoena Policy](https://web.archive.org/civil-subpoena-policy) [Copyright Claims Policy](https://web.archive.org/copyright-claims-policy) [Ownership Dispute/Change Policy](https://web.archive.org/ownership-change-policy) [Professional Services Agreements](https://web.archive.org/terms-professional) [Affiliate Agreement](https://web.archive.org/affiliate-terms)
+HostClear   
+5005 Mitchelldale, Suite #100   
+Houston, TX 77092   
+United States of America 
