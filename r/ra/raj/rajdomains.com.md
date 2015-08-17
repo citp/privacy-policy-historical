@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajdomains.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616092742id_/http%3A//www.rajdomains.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajdomains.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818003428id_/http%3A//www.rajdomains.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,3 +31,9 @@ Upon request we provide site visitors with access to all information [including 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at support@domainsking.in.
+
+Newsletter 
+
+* E-mail Address: 
+
+* Name: 
