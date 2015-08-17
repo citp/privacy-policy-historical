@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cleversurfer.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528004749id_/http%3A//cleversurfer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleversurfer.com privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817210505id_/http%3A//cleversurfer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | For the Clever Surfer in you….
+
+[](http://cleversurfer.com/pass/base.php?c=1644&key=6c9ae193b6a3bb447cf1d26e083bf69f)
 
 CleverSurfer.com has created this privacy statement in order to demonstrate our firm commitment to privacy issues. The following discloses the information gathering and dissemination practices for CleverSurfer.com. At CleverSurfer.com, we are very committed to your privacy, so here is our PRIVACY PROMISE TO YOU:
 
@@ -17,3 +19,5 @@ Banner Advertisements: We use third-party advertising companies to serve ads whe
 •Google, as a third party vendor, uses cookies to serve ads on this site.  
 •Google’s use of the DART cookie enables it to serve ads based on their visit to sites and other sites on the Internet.  
 •Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+[](http://cleversurfer.com/pass/base.php?c=1664&key=ba1a26ecb1b7916ced8199a5e0e381e9)
