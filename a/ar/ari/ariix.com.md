@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ariix.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615133616id_/http%3A//www.ariix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ariix.com privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817191320id_/https%3A//ariix.com/privacy-policy) for the most accurate reproduction.*
 
-# ARIIX – Privacy Policy
+# ARIIX – The Opportunity Company – Privacy Policy
 
 ARIIX Privacy Policy effective July 1, 2011. ARIIX, its affiliates and subsidiaries (“ARIIX”) are committed to respecting your privacy. We’ve structured our Web site so that you can visit ARIIX on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with ARIIX.
 
