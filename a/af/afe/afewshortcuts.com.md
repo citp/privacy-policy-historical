@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afewshortcuts.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603125953id_/http%3A//afewshortcuts.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afewshortcuts.com privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817171046id_/http%3A//afewshortcuts.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — A Few Short Cuts
 
 The privacy of our visitors to afewshortcuts.com is important to us.
 
