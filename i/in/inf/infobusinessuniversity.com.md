@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infobusinessuniversity.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315040749id_/http%3A//infobusinessuniversity.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobusinessuniversity.com privacy policy that was archived on 2015-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150817101939id_/http%3A//infobusinessuniversity.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Info Business University
 
