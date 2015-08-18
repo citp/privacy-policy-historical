@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastpctools.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210151439id_/http%3A//fastpctools.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastpctools.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818193217id_/http%3A//fastpctools.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
