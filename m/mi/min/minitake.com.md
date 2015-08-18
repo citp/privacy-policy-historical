@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minitake.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619013059id_/http%3A//help.minitake.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minitake.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818121502id_/http%3A//help.minitake.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - MiniTake
 
