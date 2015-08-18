@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulsesecure.net privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503071913id_/https%3A//www.pulsesecure.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulsesecure.net privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818095731id_/https%3A//www.pulsesecure.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Pulse Secure | Privacy Policy
 
@@ -78,11 +78,8 @@ Pulse Secure’ website may provide links to other third party websites which ar
 Pulse Secure may amend this Policy from time to time. If we make significant changes that affect the way we use your personal information, we will notify you by posting a revised statement on this site.
 
 **Questions and Dispute Resolution**   
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Pulse Secure commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Pulse Secure at Pulse Secure LLC 2700 Zanker Rd. Suite 200, San Jose, CA 95134 (Attention: Legal Department).
+In compliance with the US-EU and US-Swiss Safe Harbor principles, Pulse Secure commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Pulse Secure at Pulse Secure LLC 2700 Zanker Rd. Suite 200, San Jose, CA 95134 (Attention: Legal Department).
 
-Pulse Secure has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Pulse Secure, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
-
-**U.S. — EU Safe Harbor Privacy Statement**   
-For personal information of employees and customers that Pulse Secure receives from the European Economic Area, Pulse Secure has committed to handling such personal information in accordance with the Safe Harbor Principles. Pulse Secure’ Safe Harbor certification can be found at https://safeharbor.export.gov/list.aspx . For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at http://export.gov/safeharbor/ .
+For personal information of employees and customers that Pulse Secure receives from the European Economic Area, Pulse Secure has committed to handling such personal information in accordance with the Safe Harbor principles. 
 
 Test drive Pulse Secure today.
