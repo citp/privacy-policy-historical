@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the horoscope.com privacy policy that was archived on 2015-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150521035340id_/http%3A//www.horoscope.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the horoscope.com privacy policy that was archived on 2015-08-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150818081903id_/http%3A//www.horoscope.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head><base href="http://horoscope.com/horoscope/privacy.aspx">
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script language="javascript">
+<script src="https://secure.quantserve.com/aquant.js?a=p-96GNICoX0RBa2" async="" type="text/javascript"></script><script language="javascript">
 var realopen = window.open ;
 	function myWndOpen() {
 		var args = myWndOpen.arguments;
@@ -48,6 +48,8 @@ if (navigator.appName == 'Microsoft Internet Explorer'){
 <script type="text/javascript" src="/horoscope/js/common.js"></script>
 <script type="text/javascript" src="/horoscope/js/topnav.js"></script>
 <script type="text/javascript">var aCookieDomain='horoscope.com';</script>
+<script type="text/javascript">var InterstitialAdType = 1;</script>	 	 	 
+<script type="text/javascript" src="/horoscope/js/interstitial.js"></script>
 
 </head>
 <body>
@@ -242,30 +244,24 @@ If you have any questions about this Privacy Policy, the practices of the Compan
 		</td>
 	</tr>
 </tbody></table>
-<!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
+<!--  Quantcast Tag -->
+<script>
+  qcdata = {} || qcdata;
+       (function(){
+       var elem = document.createElement('script');
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-96GNICoX0RBa2";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem,scpt);
+     }());
 
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-qacct:"p-96GNICoX0RBa2"
-});
+   var qcdata = {qacct: 'p-96GNICoX0RBa2', labels: ''};
 </script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-96GNICoX0RBa2.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag --><!-- Start GA tag -->
+  <noscript>
+    <img src="//pixel.quantserve.com/pixel/p-96GNICoX0RBa2.gif?labels=" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+  </noscript>
+<!-- End Quantcast Tag --><!-- Start GA tag -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
