@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darrelconceptsghana.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210105706id_/http%3A//dtechghana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darrelconceptsghana.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818024533id_/http%3A//dtechghana.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | D-Tech Ghana
 
@@ -21,19 +21,19 @@ We may also record IP addresses of online users. IP addresses are used in trends
 
 We use information provided to process customer orders. We will also use the email addresses provided by customers to respond to inquiries and provide support, as well as reply to emails we receive. Most Email addresses are used to provide a free subscription to our free News Letter. Such addresses are never shared with third parties.
 
-We use non-identifying information to improve our [website](http://dtechghana.com/), in order to increase its marketability and meet industry standards and changing trends. If at any point we would use personally identifiable information in anyway other than those stated, we will always give users a way to opt-out, or otherwise prohibit the use of such information.
+We use non-identifying information to improve our [website](https://dtechghana.com/), in order to increase its marketability and meet industry standards and changing trends. If at any point we would use personally identifiable information in anyway other than those stated, we will always give users a way to opt-out, or otherwise prohibit the use of such information.
 
 ### External Links
 
 Our website currently displays a number of links to companies with whom we have a relationship. Darrel Technologies is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
 
-**Feel free to[contact us](http://dtechghana.com/contact/) if you require additional information about our privacy policy.**
+**Feel free to[contact us](https://dtechghana.com/contact/) if you require additional information about our privacy policy.**
 
 **Darrel Technologies Ltd.  
-**Plot 4 Block I, Bemiase,  
+**Plot 4 Block I, Beminase (Boadi Junction),  
 Kumasi, Ghana.
 
-Tel: +233 322 390 858  
+Tel: +233 500 482 144  
 Mobile: +233 236 517 727
 
 ## [](http://dtechghana.com/excel/)
