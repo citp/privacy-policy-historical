@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horoscope.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521035340id_/http%3A//www.horoscope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscope.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818081903id_/http%3A//www.horoscope.com/privacy.html) for the most accurate reproduction.*
 
 # Horoscope.com Privacy Policy | Free Horoscopes, Astrology, Numerology and more...
 
