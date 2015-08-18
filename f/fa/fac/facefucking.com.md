@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facefucking.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403150337id_/http%3A//support.facefucking.com/privacy.php%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facefucking.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818072927id_/http%3A//support.facefucking.com/privacy.php%3Fid%3D10) for the most accurate reproduction.*
 
 # Customer Support Center - Privacy Statement
 
@@ -30,6 +30,6 @@ DE Multimedia Ltd. collects account registration information on its web site. Th
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-Have a question? [Contact Support](https://web.archive.org/web/20150403150337id_/http%3A//support.facefucking.com/contact-support.php?id=10)!
+Have a question? [Contact Support](https://web.archive.org/web/20150818072927id_/http%3A//support.facefucking.com/contact-support.php?id=10)!
 
-Have something to say? Then please leave some [feedback](https://web.archive.org/web/20150403150337id_/http%3A//support.facefucking.com/feedback.php?id=10)!
+Have something to say? Then please leave some [feedback](https://web.archive.org/web/20150818072927id_/http%3A//support.facefucking.com/feedback.php?id=10)!
