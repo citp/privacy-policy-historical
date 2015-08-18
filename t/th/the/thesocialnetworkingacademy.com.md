@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesocialnetworkingacademy.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427224823id_/http%3A//www.thesocialnetworkingacademy.com/public/department12.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialnetworkingacademy.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818102447id_/http%3A//www.thesocialnetworkingacademy.com/public/department12.cfm) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
