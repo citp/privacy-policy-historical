@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtime.com privacy policy that was archived on 2014-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140820053017id_/http%3A//www.xtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtime.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818103834id_/http%3A//xtime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Any information that we collect or obtain is subject to the version of this Priv
 
 Xtime adheres to the U.S.-E.U. and U.S.-Swiss Safe Harbor Frameworks with regard to the collection, protection, storage, transfer, use and processing of data transferred from the European Economic Area (“E.E.A.”) or Switzerland to the United States, and to the privacy principles that underlie such frameworks.
 
-We self-certify our compliance with the U.S.-E.U. Safe Harbor Framework, and you may confirm our presence on the self-certification list at any time by clicking [here](https://safeharbor.export.gov/list.aspx). The scope of our Safe Harbor self-certification is detailed in our [Safe Harbor Notice](http://www.xtime.com/eea-safe-harbor-notice).
+We self-certify our compliance with the U.S.-E.U. Safe Harbor Framework, and you may confirm our presence on the self-certification list at any time by clicking [here](https://safeharbor.export.gov/list.aspx). The scope of our Safe Harbor self-certification is detailed in our [Safe Harbor Notice](http://www.xtime.com/wp-content/uploads/2014/04/20140402-eea-safe-harbor-notice.pdf).
 
 * * *
 
@@ -112,15 +112,15 @@ _Advertising_
 
 We use third parties such as network advertisers to assist us in displaying advertisements on our Sites and/or on third party websites. Network advertisers are third parties that display advertisements based on your visits to our Sites and/or other websites. For re-targeting purposes, third party ad network providers, advertisers, sponsors and/or traffic measurement services may put cookies, JavaScript, Web beacons (including clear GIFs), Flash LSOs and other technologies on your computer or other Internet-enabled device to collect information about your interests. This practice enables us and network advertisers to provide website visitors with advertising displays or text ads that more closely aligned to your services and information interests, and enables better measurements of ad effectiveness.
 
-You may opt out of many third party ad networks. To learn more about this choice, please visit the Network Advertising Initiative (“NAI”) at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices) or the Digital Advertising Alliance (“DAA”) at [www.aboutads.info/choices](http://www.aboutads.info/choices/). Opting out of one or more NAI member or DAA member networks only means that those members will no longer deliver targeted content or ads to you. It does not, however, mean that you will no longer receive any targeted content or see any ads on our Sites or other websites.
+You may opt out of many third party ad networks. To learn more about this choice, please visit the Network Advertising Initiative (“NAI”) at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices) or the Digital Advertising Alliance (“DAA”) at [www.aboutads.info/choices](http://www.aboutads.info/choices/). Opting out of one or more NAI member or DAA member networks only means that those members will no longer deliver targeted content or ads to you. It does not, however, mean that you will no longer receive any targeted content or see any ads on our Sites or other websites.
 
 * * *
 
 ### Access and Opt-Out
 
-You may review and update the PII we have about you by accessing and modifying the information in your Xtime account, if you have one, or by submitting a request to Xtime at [privacy@xtime.com](mailto:privacy@xtime.com).  We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+You may review and update the PII we have about you by accessing and modifying the information in your Xtime account, if you have one, or by submitting a request to Xtime at [privacy@xtime.com](mailto:privacy@xtime.com). We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
-If you choose not to receive Xtime-sent emails or our newsletters, you may: (i) opt out or unsubscribe by emailing [privacy@xtime.com ](mailto:privacy@xtime.com)or (ii) follow the opt-out instructions in the email or newsletter.
+If you choose not to receive Xtime-sent emails or our newsletters, you may: (i) opt out or unsubscribe by emailing [privacy@xtime.com](mailto:privacy@xtime.com) or (ii) follow the opt-out instructions in the email or newsletter.
 
 Please note that while Xtime offers you some control over marketing communication, certain transactional, relationship and legally required communications will not be affected by the choices you have made about marketing communications. ****
 
@@ -152,4 +152,4 @@ Our Sites and Services are not directed to children under 13 and we do not knowi
 
 ### Contact Us
 
-Please contact us by writing to us at: [privacy@xtime.com](mailto:privacy@xtime.com) or Xtime, Inc., 1400 Bridge Parkway, Suite 200, Redwood City, CA, 94065 USA, c/o General Counsel, if you have any questions regarding this Policy.
+Please contact us by writing to us at: [privacy@xtime.com](mailto:privacy@xtime.com) or Xtime, Inc., 1400 Bridge Parkway, Suite 200, Redwood City, CA, 94065 USA, c/o General Counsel, if you have any questions regarding this Policy.
