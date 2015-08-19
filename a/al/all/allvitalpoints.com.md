@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619091632id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allvitalpoints.com privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819035333id_/http%3A//www.allvitalpoints.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Allvitalpoints Health
 
 **Your Consent**  
 By using our site, you consent to our privacy policy.
