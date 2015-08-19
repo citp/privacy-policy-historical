@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justclicktowatch.so privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630065632id_/http%3A//justclicktowatch.so/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justclicktowatch.so privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819133452id_/http%3A//justclicktowatch.so/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ Watch Movies Online For Free
 
