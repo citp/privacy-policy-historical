@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominicanrepublicexpoonline.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926084347id_/http%3A//www.dominicanrepublicexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominicanrepublicexpoonline.com privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819163556id_/http%3A//dominicanrepublicexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
