@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumer-rankings.org privacy policy that was archived on 2015-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150525132411id_/http%3A//consumer-rankings.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumer-rankings.org privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819025840id_/http%3A//consumer-rankings.org/privacy) for the most accurate reproduction.*
 
 # Consumer Rankings - Privacy Policy
 
