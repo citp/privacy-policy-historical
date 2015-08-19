@@ -1,49 +1,84 @@
-> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122093606id_/http%3A//www.dccc.org/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819045552id_/http%3A//dccc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DCCC
 
-The DCCC is committed to protecting the privacy and security of visitors to our website. Outlined below is our online privacy policy for personal information collected through this website. If you have questions about this policy, please let us know.
+_Last Revised: March 17, 2014_
 
-## Collection and disclosure of information:
+This privacy policy (“Policy”) explains how information is collected, used, and disclosed by the Democratic Congressional Campaign Committee (the “DCCC”) with respect to your use of the Web site at [www.dccc.org](http://www.dccc.org/) and other DCCC Web sites, mobile sites, or mobile applications that link to this Policy (the “Services”).  We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated.  We encourage you to review this Policy from time to time to stay informed about our information practices.
 
-The DCCC collects some personal information (that is, information that can be directly associated with an individual) in order to process its credit card contributions. The DCCC also collects names, addresses and e-mail addresses from those who affirmatively request to be placed on DCCC e-mail lists, through which they may receive information about DCCC activities, breaking news or important events.
+### What Information Do We Collect?
 
-It is the general policy of the DCCC not to make personal information available to anyone other than its employees or agents who need to know that information in the course of their duties. However, the DCCC is often required to disclose information regarding its contributions to comply with campaign finance laws. For example, Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation and name of employer of individuals whose contributions aggregate in excess of $200 in a calendar year.
+**Active Collection:** We collect certain information you directly provide to us, such as when you request information, make a donation, sign a petition, make a purchase, send us an email or sign up to receive updates, fill out a form, connect through a social feed, sign up to be a volunteer or host an event, submit a resume, or create an account or profile.  We also collect any information you provide when you post comments or other content or participate in interactive features, surveys, contests, games, or promotions. The types of information we collect may include your name, password, email address, address, phone numbers, credit card number and other information you choose to provide.  We may supplement the information you provide with information we obtain from other sources. For example, we may obtain publicly-available information from voter rolls or partner with other companies to obtain demographic or other data about people who may be interested in our organization.
 
-Additionally, from time to time, the DCCC may share personal information with organizations whose issues or goals are similar to our own, and which we believe would interest you.
+In addition, the Federal Election Commission (FEC) may require us to collect personal information from donors.  For example, the FEC requires us to collect (and disclose) the name, mailing address, occupation, and employer of all individuals whose donations exceed $200 per calendar year.
 
-## Correcting and updating your information:
+**Passive Collection:** When you use our Services, we automatically collect certain information. Such information includes your Internet Protocol (IP) address, your operating system and browser type, the unique ID number associated with your mobile device, the address of a referring web site, and your activity on our Services.
 
-Finally, those who have previously requested to be placed on DCCC e-mail lists may unsubscribe by visiting by clicking on the unsubscribe link at the bottom of the email you receive from us.
+We may also automatically collect certain information through the use of “cookies” or web beacons.  Cookies are small data files stored on your hard drive at the request of a website.  Among other things, cookies help us improve our websites and your experience.  If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions.  When you view a video on our websites, a “flash cookie” could be set on your computer.  Removing and rejecting browser cookies may not affect flash cookies.  To learn more about flash cookies, including how to delete or disable them, visit [adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security). If you remove or reject cookies or flash cookies, it may affect certain features on our websites.  Web beacons are small, invisible graphic images that may be used on our websites or in our emails to collect information about usage and campaign effectiveness.
 
-## Browser information collected on the web site:
+We may use third-party analytics services to help us analyze how users use our Services.  These analytics services may use cookies, web beacons and other technologies when you use our Services.  The data collected typically includes information such as your IP address, your ISP and the browser you use, links clicked, the time spent on Web pages or applications, and advertisements viewed.
 
-The DCCC analyzes our website logs to constantly improve the value of our website. We use an external service to provide real-time reporting of browser accesses to our site to DCCC staff and our agents. This includes page views, unique views, unique visitors, frequency of visits, and peak-volume traffic periods. We do not use this service to gather, request, record, require, collect or track any Internet users' personally identifiable information.
+We also work with third-party advertising companies that may use cookies or other technologies to serve ads on other websites based on your visits to our websites and other websites. These third parties may automatically collect information about your visits to this and other websites, such as your IP address, the browser you use, pages viewed, time spent on pages, links clicked, and conversion information.  Information collected may be used, among other things, to deliver advertising on other websites that is targeted to your interests and to understand how users responded to such advertising. This Policy does not apply to, and we are not responsible for, cookies or clear gifs used by the third parties. For more information about targeted advertising and how to opt out of having information about your web browsing used for targeted advertising, please visit: aboutads.info/choices.
 
-We use cookies on our site to customize the experience of our visitors and to support some necessary functions. We also use cookies to better understand how our visitors use our site. DCCC Cookies are not shared or revealed to other sites. We do not look at cookies on your machine for other sites.
+If you create or log into your account through a third-party social networking site, we will have access to certain information from that site.  We may also collect information that you post on DCCC pages located on third-party social networking sites.
 
-You have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. For more information on how to modify your browser settings to block or filter cookies, see http://www.cookiecentral.com/faq/.
+### How Do We Use the Information We Collect?
 
-However, note that if you reject some or all cookies, your experience at our site and on other sites throughout the World Wide Web may not be complete. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by other Internet sites or by us.
+We use personal information we collect for various purposes, including to:
 
-## Children's privacy:
+  * to provide the information, services, or products you request, and to process and complete such requests and any related transactions;
+  * to notify you about important changes to our Services;
+  * to send you newsletters and otherwise provide you with information you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;
+  * to help connect you with other supporters, and to solicit volunteers, donations and support for the DCCC and for candidates, issues and organizations that we support;
+  * to contact you if other information is necessary under Federal election laws;
+  * to request feedback and to otherwise contact you about your use of the Services;
+  * to respond to your emails, submissions, questions, comments, and requests and to provide customer service;
+  * to monitor and analyze site usage and trends, and to personalize and improve the Services and our users’ experiences on the Services, such as providing content or features that match your profiles or interests, and to increase the functionality and user friendliness of our websites and applications;
+  * to serve ads on this and other websites or media and to understand how users respond to our ads;
+  * to notify and contact contest and sweepstakes entrants; and
+  * to send you confirmations, updates, alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Services;
+  * for any other purpose for which the information was collected.
 
-Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulation establish United States federal law that protects the privacy of children using the Internet. We do not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13, and we have designed our site to block our knowing acceptance of information from children under 13 whenever age-related information is requested. We would remind parents that they have a duty to supervise the Internet activities of their children.
 
-It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so here.
 
-## Security:
+We may store and process personal information in the United States and other countries.
 
-The DCCC maintains a variety of physical, electronic and procedural safegards to protect your personal information. For example, we use commercially reasonable tools and techniques to protect against unauthorized access to our systems. Also, we restrict access to personal information to those employees who need to know that information in the course of their duties. In addition, we work to protect the security of your personal information when transmitted via the DCCC site by using Secure Sockets Layer (SSL) software, which encrypts information you input. You should know that the DCCC has no control over the security of other sites on the Internet you might visit, interact with, or from which you engage in financial transactions.
+### What  Information Do We Share With Third Parties?
 
-Your own efforts to protect against unauthorized access play an important role in protecting the security of your personal information. You should be sure to sign off when finished using a shared computer, and always log out of any site when viewing personal information.
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-## Third-Party Advertisements and Services:
+  * with vendors, consultants, and other service providers or volunteers who are engaged by or working with us and who need access to such information to carry out their work for us;
+  * to report required information to the Federal Elections Commission, including name, mailing address, occupation, and name of employers of individuals whose contributions exceed $200 in a calendar year (for additional information, visit the FEC website at[http://www.fec.gov](http://www.fec.gov/));
+  * with your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information;
+  * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
+  * when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of the DCCC, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site;
+  * to enforce or apply this Policy, our Terms of Use, or our other policies or agreements;
+  * in aggregated or anonymized information that does not directly identify you; and
+  * in connection with, or during negotiations of, any merger, reorganization, acquisition, asset sale, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of the DCCC.
+  * with candidates, organizations, groups, causes, or other entities that we believe may be of interest to you;
 
-We may also use third parties to serve ads, maps, or other information on our websites. These third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our websites (but not your name, address, email address or telephone number). They do this by using cookies, Web beacons or other technologies.  Information collected may be used by these third parties for purposes such as to deliver advertising targeted to your interests and better understand the usage and visitation of our websites and the other websites tracked by these third parties.  Certain third-party advertisers or other services may also collect personal information you provide in fields and forms presented in connection with their ads and services. 
 
-This policy does not apply to, and we are not responsible for, cookies or technology in third-party ads or services, or for information you choose to provide in connection with these third-party ads and services.  We encourage you to check the privacy policies of advertisers and/or ad services to learn more about their use of your information.  To opt-out of behavioral advertising of third party ad networks used on our website visit the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp "blocked::http://www.networkadvertising.org/managing/opt_out.asp").
 
-## Changes to this policy:
+**Online petitions:**   When you sign an online petition, such petition is public information and we may make the petition, and your name, city, state, and any comments provided in connection with the online petition, publicly available, or available to national, state, or local leaders, or to the press.
 
-The DCCC will revise or update this policy if our practices change, or as we develop better ways to keep you informed about them. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date to indicate when it was last modified. Changes to the policy shall not apply retroactively.
+**Interactive Features:**   When you use the Services, information you post in comments or in any other interactive areas of the Services, as well as any information you share with individuals through the Services or share through social network sites, will be available to other users and, in some cases, may be publicly available.  We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums.  We are not responsible for the actions of any third parties with whom you share personal information.
+
+**Social Plugins:**  The Services may offer social plugins or other tools that allow you to share actions you take on our websites or on other web sites.. Even if you are not logged into the plugin provider’s service, these plugins may transmit certain information. For information on the purpose and scope of data collection and processing by plugin providers, as well as your rights and options, please visit the privacy policy page for the site providing the plugin.
+
+### Links to Other Websites
+
+Our Sites may contain links to other websites.  Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy.  This Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from our Sites.  We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
+
+### What Steps Do We Take To Protect Your Information Online?
+
+We take reasonable measures to protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration, and destruction.  Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission that can be guaranteed against any interception or other type of misuse.
+
+### What Choices Do You Have Regarding the Use of Your Information?
+
+You may “opt out” of receiving email updates and newsletters by following the instructions in those text messages and emails.  Please note that we may still send you other types of emails, such as emails about your use of our Services, or use information as otherwise described in this Policy, even if you opt out of receiving email updates and newsletters.
+
+### Questions?
+
+If you have any questions about this Policy, please contact us at (202) 863-1500.
+
+* * *
