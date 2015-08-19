@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unboredable.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613170922id_/http%3A//www.unboredable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unboredable.com privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819043557id_/http%3A//unboredable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unboredable
 
@@ -14,14 +14,11 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
-
-
-
+To personalize your experience (your information helps us to better respond to your individual needs)  
+To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
+To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)  
+To administer a contest, promotion, survey or other site feature  
+To send periodic emails  
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 **How do we protect your information?**
@@ -38,13 +35,13 @@ We use cookies to understand and save your preferences for future visits, keep t
 
 We have implemented several Google Analytics features which are based on Display Advertising, specifically Remarketing and Google Analytics Demographics and Interest Reporting.
 
-You may opt-out of these services by visiting your Google [ads settings](https://www.google.com/settings/ads).
+You may opt-out of these services by visiting your Google ads settings.
 
 **Google Remarketing**
 
   * We use Remarketing with Google Analytics to advertise online.
   * Third-party vendors, including Google, may show our ads on sites across the Internet.
-  * Unboredable and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.
+  * Unboredable and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.
 
 
 
@@ -72,7 +69,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [by clicking here](http://www.unboredable.com/terms-and-conditions)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website by clicking here
 
 **Your Consent**
 
@@ -82,6 +79,8 @@ By using our site, you consent to our websites privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date at the top of this page.
 
-For any further information please email management@unboredable.com
+For any further information please email info@unboredable.com
 
-Unboredable [http://www.unboredable.com](http://www.unboredable.com/)
+Unboredable.
+
+http://unboredable.com
