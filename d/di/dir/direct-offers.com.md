@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the direct-offers.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910211701id_/http%3A//direct-offers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct-offers.com privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819043238id_/http%3A//direct-offers.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Direct Offers
 
