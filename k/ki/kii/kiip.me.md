@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiip.me privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214214403id_/https%3A//app.kiip.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiip.me privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819185507id_/https%3A//app.kiip.me/privacy) for the most accurate reproduction.*
 
 # Kiip's Privacy Policy
 
