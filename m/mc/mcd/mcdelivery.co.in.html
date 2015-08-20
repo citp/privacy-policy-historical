@@ -1,0 +1,2683 @@
+<!--The following is the downloaded HTML source of the mcdelivery.co.in privacy policy that was archived on 2015-08-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150820214840id_/http%3A//www.mcdelivery.co.in/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head id="Head1"><title>
+	Home
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=1024"><meta name="keywords" content="mcdelivery ,mcdonalds,mc donalds ,mcdonalds india ,mc donalds india ,mcdonald delivery,mcdonald india ,mcdonald order,mcdonalds delivery,mc donald ,
+    coupons mcdonalds,mc delivery,mcdonalds coupons,mcd,mcd offers,Mcdonalds home delivery,Mcdonalds menu,Order food,Burger,Home delivery,Pizza delivery,Food delivery"><link href="/Styles/style.css" rel="stylesheet" type="text/css" media="all"><link href="/Styles/Web.css" rel="stylesheet" type="text/css"><link href="/Styles/Plugins.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/Styles/lightbox.css" media="all">
+    <script type="text/javascript" async="" src="https://plus.google.com/js/client:plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/Scripts/custom.js"></script>
+    
+    <script src="/Scripts/jquery-1.8.2.min.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.mCustomScrollbar.concat.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Mcdonalds.js" type="text/javascript"></script>
+    <script src="/Scripts/Calendar.js" type="text/javascript"></script>
+    <script src="/Scripts/jquery.easing.js" type="text/javascript"></script>
+    <script src="/Scripts/SiteMaster.js?123" type="text/javascript"></script>
+    
+    
+    <script src="/Scripts/common.js" type="text/javascript"></script>
+    <script src="/Scripts/lightBox.js" type="text/javascript"></script>
+    
+    
+    <script src="/Scripts/OrderPlacement_Web.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        window.onload = function () {
+            var SessionTimer = null,
+            TimeOutInterval = 1000 * 60 * parseInt(SessiontimeOutTime), //Converted in milliseconds
+            checker = function () {
+                if (SessionTimer) { clearTimeout(SessionTimer); } // cancels the countdown.
+                SessionTimer = setTimeout(function ()
+                { RedirectToLoginPage(); }, TimeOutInterval); // reinitiates the countdown.
+            };
+            checker(); // initiates the countdown.
+            // requires jQuery... (you could roll your own jQueryless version pretty easily though)
+            if (window.jQuery) {
+                // bind the checker function to user events.
+                jQuery(document).bind("mousemove keypress click", checker);
+            }
+        };
+        var SessiontimeOutTime = "20"; //'20';
+        var DestinationUrl = "/Home?Logout=true";
+        function RedirectToLoginPage() {
+            // alert("Your session has expired. You will be redirected to home page!");
+            window.location.href = DestinationUrl;
+            //return false;
+        }
+
+        function ValidateMobile() {
+            var mobileLength = $('#txtDownloadViaMobile').val().length;
+
+            if (mobileLength == 10) {
+                return true;
+            }
+            else {
+                alert("Please enter mobile number");
+                return false;
+            }
+        }
+
+        function ValidateMobileForWindows() {
+            var mobileLength = $('#txtDownloadViaMobileforWindows').val().length;
+
+            if (mobileLength == 10) {
+                return true;
+            }
+            else {
+                alert("Please enter mobile number");
+                return false;
+            }
+        }
+
+        function ValidateMobileForBlackberry() {
+            var mobileLength = $('#txtDownloadViaMobileforBlackberry').val().length;
+
+            if (mobileLength == 10) {
+                return true;
+            }
+            else {
+                alert("Please enter mobile number");
+                return false;
+            }
+        }
+
+        function ValidateMobileForIOS() {
+            var mobileLength = $('#txtDownloadViaMobileforIOS').val().length;
+
+            if (mobileLength == 10) {
+                return true;
+            }
+            else {
+                alert("Please enter mobile number");
+                return false;
+            }
+        }
+    </script>
+    <script type="text/javascript">
+        //  $(document).ready(function () {
+        //   function getIEVersion() {
+        //        var ie_version = getIEVersion();
+
+        //        function getIEVersion() {
+        //            var agent = navigator.userAgent;
+        //            var reg = /MSIE\s?(\d+)(?:\.(\d+))?/i;
+        //            var matches = agent.match(reg);
+        //            if (matches != null) {
+        //                return { major: matches[1], minor: matches[2] };
+        //            }
+        //            return { major: "-1", minor: "-1" };
+        //        }
+
+        //        if (ie_version.major == 10) {
+        //            alert("This site can be best viewed between  IE7 to IE9 Browser");
+        //        }
+        //   }
+        // });
+
+
+
+        (function () {
+            if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                var msViewportStyle = document.createElement("style");
+                msViewportStyle.appendChild(
+			document.createTextNode("@-ms-viewport{width:auto!important}")
+		);
+                document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+            }
+        })();
+    
+    </script>
+    <script type="text/javascript">
+        $(window).load(function () {
+            //            $(".contentPageContainer").append("<div id='divloading' class='loading'></div>");
+            $('body').append('<div class="overlay"></div>');
+            $('body').append('<div class="Overlayloading loading"></div>');
+            $('body').append('<div class="loader loading"></div>');
+            $('body').append('<div class="BackgroundLayer"></div>');
+            SetLoader(".contentPageContainer");
+            $('.overlay').hide();
+
+
+            //Confirm("we are unable to fulfil your order currently?");
+            //Alert("Hi, we are unable to fulfil your order currently. Request you to register yourself in another restaurant nearest to you or call 66000666 for further assistance.  We apologise for the inconvenience and appreciate your patronage.");
+        });
+
+        function ClickAndroid() {
+            var win = window.open('https://play.google.com/store/apps/details?id=com.il.mcdelivery', '_blank');
+            win.focus();
+            return false;
+        }
+
+        function ClickWindows() {
+            var win = window.open('http://www.windowsphone.com/en-us/store/app/mcdelivery/fa1aca22-703c-408f-95a2-ae2697a4b6ff', '_blank');
+            win.focus();
+            return false;
+        }
+
+
+        function ClickBlackBerry() {
+            var win = window.open('http://appworld.blackberry.com/webstore/content/59939856/?lang=en&countrycode=IN', '_blank');
+            win.focus();
+            return false;
+        }
+
+        function ClickIOS() {
+            var win = window.open('https://itunes.apple.com/in/app/mcdelivery india-west&south/id920750178?mt=8', '_blank');
+            win.focus();
+            return false;
+        }
+
+        $(document).ready(function () {
+            $(".buttonapp").click(function () {
+                var win = window.open('https://play.google.com/store/apps/details?id=com.il.mcdelivery', '_blank');
+                win.focus();
+                // $('.ahrefbuttonapp').click();
+                return false;
+            });
+
+            $(".buttonapp1").click(function () {
+                var win = window.open('http://www.windowsphone.com/en-us/store/app/mcdelivery/fa1aca22-703c-408f-95a2-ae2697a4b6ff', '_blank');
+                win.focus();
+                // $('.ahrefbuttonapp').click();
+                return false;
+            });
+
+            $(".buttonapp2").click(function () {
+                var win = window.open('http://appworld.blackberry.com/webstore/content/59939856/?lang=en&countrycode=IN', '_blank');
+                win.focus();
+                // $('.ahrefbuttonapp').click();
+                return false;
+            });
+
+            $(".buttonapp3").click(function () {
+                var win = window.open('https://itunes.apple.com/in/app/mcdeliveryindia-west&south/id920750178?mt=8', '_blank');
+                win.focus();
+                // $('.ahrefbuttonapp').click();
+                return false;
+            });
+           
+            $(".BulkOrdr").live('click', function () {
+                var win = window.open('/BulkOrderRequest.aspx', '_self');
+                
+                return false;
+            });
+           
+        });
+    </script>
+    <!--[if lt IE 9]>
+	
+    <script src="/Scripts/css3-mediaqueries.js"></script>
+<![endif]-->
+    <style type="text/css">
+       .water
+       {
+           color: #A2A0A1 !important;
+           font-family: 'Trebuchet MS' , Arial, Helvetica, sans-serif;
+       }
+       .black
+       {
+           color: black !important;
+       }
+       #fb_login_button
+       {
+           width: 80px;
+       }
+       #fb_login_button span, #fb_login_button iframe
+       {
+           width: 80px !important;
+           height: 25px !important;
+       }
+       .ultermsconditions
+       {
+           color: #000;
+       }
+       .ultermsconditions li
+       {
+           padding: 10px;
+           text-align: justify;
+       }
+       .ultermsconditions ul
+       {
+           padding: 15px;
+       }
+       .FBbtns
+       {
+           float: left;
+           width: 100px;
+           padding-right: 5px;
+       }
+       #gConnect
+       {
+           float: right;
+       }
+       /*;background-color:#DF4A32;height:29px;width:107px}*/
+       #gConnect div button
+       {
+           float: left;
+           width: 100px;
+           padding-right: 10px;
+           background: url("../images/GooglePlus.png") no-repeat scroll top left rgba(0, 0, 0, 0) !important;
+           opacity: 1 !important;
+           color: transparent;
+           margin-left: 5px;
+           border: 0;
+           width: 107px !important;
+           height: 29px !important;
+       }
+       #gConnect iframe
+       {
+           opacity: 0 !important;
+       }
+       
+       .jspVerticalBar
+       {
+           width: 4px;
+       }
+       .MenuUserBasedPromoCode
+       {
+           float: left;
+           width: 48%;
+           font: bold 13px Trebuchet MS;
+           color: #444444;
+       }
+       .MenuUserBasedPromodesc
+       {
+           /*float: left;
+            width: 50%;*/
+           color: Blue;
+           text-decoration: underline;
+           font: 14px Trebuchet MS;
+           width: 30%;
+           border-top: 1px solid #c6c6c6;
+           border: 1px solid #C6C6C6;
+       }
+       
+       
+       
+       .MenuUserBasedPromoCodeHeading
+       {
+           float: left;
+           width: 48%;
+           background-color: gray;
+           color: white;
+           line-height: 20px;
+           font: bold 14px Trebuchet MS;
+       }
+       .MenuUserBasedPromodescHeading
+       {
+           float: left;
+           width: 50%;
+           background-color: gray;
+           color: white;
+           line-height: 20px;
+           font: bold 14px Trebuchet MS;
+       }
+       
+       .MenuUserPromo
+       {
+           font-family: Verdana, Geneva, sans-serif;
+           overflow: hidden;
+           padding: 4px 1px 5px 4px;
+           font-size: 13px;
+           width: 98%;
+           overflow-y: scroll;
+       }
+       .menuPromo
+       {
+           width: 100%;
+           padding-left: 5px;
+       }
+       .toglemore
+       {
+       }
+       .TermsNdConditionTR1
+       {
+           font-family: 'Trebuchet MS';
+           text-decoration: none;
+       }
+       .toglemore
+       {
+           padding-left: 25px;
+           color: Black;
+           cursor: pointer;
+           background: url(../images/arrow-down.png) 0 0 no-repeat;
+       }
+       .minusBtn
+       {
+           background: url(../images/arrow-up.png) 0 0 no-repeat;
+       }
+      
+       div#lblTermsAndCondition1 ol li, div#lblTermsAndCondition1 ul li, div#lblTermsAndCondition1 ul
+       {
+           list-style: inherit !important;
+       }
+   </style>
+  
+     
+    <script type="text/javascript" src="Scripts/jquery.jscrollpane.min.js"></script>
+    <script src="Scripts/jquery.mousewheel.js" type="text/javascript"></script>
+    <link href="Styles/jscroll.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        .SecondRepeaterBorder
+        {
+            border-bottom: 1px solid black;
+        }
+        
+        .trackOrder
+        {
+            margin: 0;
+            padding: 0;
+            border: none;
+            outline: none;
+        }
+        body
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+        }
+        .Policycontent
+        {
+            height: 900px;
+            text-align: justify;
+        }
+        
+        
+        .tblDiv04
+        {
+            margin-left: 1%;
+        }
+        .heading
+        {
+            color: #752d39;
+            font-size: 18px;
+            padding: 0px 0px 3px 0px;
+            display: block;
+            margin-top: 10px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .subheading
+        {
+            color: #752d39;
+            font-size: 14px;
+            padding: 0px 0px 3px 0px;
+            display: block;
+            margin-top: 10px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .Policycontent p
+        {
+            padding-left: 10px;
+            line-height: 24px;
+        }
+        .Policycontent table
+        {
+            margin-left: 20px; 
+            line-height: 24px;
+        }
+         .jspVerticalBar
+        {
+            width:4px;
+        }
+    </style>
+   
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var settings = {
+                showArrows: false,
+                autoReinitialise: true,
+                mouseWheelSpeed: 120,
+                width: 100
+            };
+
+            var pane = $('.Policycontent')
+            pane.jScrollPane(settings);
+        });
+    </script>
+
+     <script>
+         (function (i, s, o, g, r, a, m) {
+             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                 (i[r].q = i[r].q || []).push(arguments)
+             }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+         ga('create', 'UA-35867573-1', 'auto');
+         ga('send', 'pageview');
+
+</script>
+</head>
+<body class="innerPage" style="">
+    <noscript>
+        <div class="noscriptmsg">
+            Javascript on your browser is disabled.Please enable it for better experience.
+        </div>
+    </noscript>
+    <div id="fb-root">
+    </div>
+    <script type="text/javascript">
+        // var FBAppID = '1436256383256924';
+        // alert(FBAppID);
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '1436256383256924', //McDelivery AppID 357601817706162//Local AppID :  181329815385647// NewMcDelivery AppID: 290347801096914 //McDeliveryWeb AppID: 671502522874314 //TestMcDelivery ApID: 602129489822413 //New TestMcDelivery:1436256383256924 
+                channelUrl: '//' + window.location.hostname + '/channel', // Path to your Channel File
+                status: true, // check login status
+                cookie: true, // enable cookies to allow the server to access the session
+                xfbml: true  // parse XFBML
+            });
+            //            FB.Event.subscribe('auth.login', function () {
+            //                alert("refreshing");
+            //                // window.location.reload();
+            //            });
+            // Here we subscribe to the auth.authResponseChange JavaScript event. This event is fired
+            // for any authentication related change, such as login, logout or session refresh. This means that
+            // whenever someone who was previously logged out tries to log in again, the correct case below 
+            // will be handled. 
+            //            FB.Event.subscribe('auth.authResponseChange', function (response) {
+            //                alert(response.status);
+            //                // Here we specify what we do with the response anytime this event occurs. 
+            //                if (response.status === 'connected') {
+            //                    // The response object is returned with a status field that lets the app know the current
+            //                    // login status of the person. In this case, we're handling the situation where they 
+            //                    // have logged in to the app.
+            //                    testAPI();
+            //                } else if (response.status === 'not_authorized') {
+            //                    // In this case, the person is logged into Facebook, but not into the app, so we call
+            //                    // FB.login() to prompt them to do so. 
+            //                    // In real-life usage, you wouldn't want to immediately prompt someone to login 
+            //                    // like this, for two reasons:
+            //                    // (1) JavaScript created popup windows are blocked by most browsers unless they 
+            //                    // result from direct interaction from people using the app (such as a mouse click)
+            //                    // (2) it is a bad experience to be continually prompted to login upon page load.
+            //                    FB.login();
+            //                } else {
+            //                    // In this case, the person is not logged into Facebook, so we call the login() 
+            //                    // function to prompt them to do so. Note that at this stage there is no indication
+            //                    // of whether they are logged into the app. If they aren't then they'll see the Login
+            //                    // dialog right after they log in to Facebook. 
+            //                    // The same caveats as above apply to the FB.login() call here.
+            //                    FB.login();
+            //                }
+            //            });
+
+            //            FB.login(function (response) {
+            //                alert("login " + response.authResponse);
+            //                // handle the response
+            //            }, { scope: 'email,name,id' });
+
+            //            FB.logout(function (response) {
+            //                alert("log out");
+            //                // Person is now logged out
+            //            });
+        };
+
+        // Load the SDK asynchronously
+        (function (d) {
+            var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement('script'); js.id = id; js.async = true;
+            js.src = "//connect.facebook.net/en_US/all.js";
+            ref.parentNode.insertBefore(js, ref);
+        } (document));
+
+        // Here we run a very simple test of the Graph API after login is successful. 
+        // This testAPI() function is only called in those cases. 
+        function testAPI() {
+            // alert('Welcome!  Fetching your information.... ');
+            FB.api('/me', function (response) {
+                //                alert("FB   : " + "Name " + response.name + " ID " + response.id + " Email ID " + response.email);
+                HandleFaceBookLogin(response.id, response.name, response.email)
+            });
+        }
+
+       function onSignInCallback(authResult) {
+
+            if (authResult['access_token'] && $('[id*=lblWcUserName]').text() == '' && authResult['status']['method'] != 'AUTO') {
+                // The user is signed in
+
+                makeAPICall();
+            }
+            //console.log('authResult', authResult);
+        }
+        function makeAPICall() {
+            gapi.client.load('plus', 'v1', function () {
+                var request = gapi.client.plus.people.get({
+                    'userId': 'me'
+                });
+                request.execute(function (resp) {
+                    HandleGooglePlusLogin(resp.id, resp.displayName, resp.emails[0].value);
+                    GPLogout();
+                });
+            });
+        }
+        //        FB.login(function (response) {
+        //            if (response.authResponse) {
+        //                // The person logged into your app
+        //            } else {
+        //                // The person cancelled the login dialog
+        //            }
+        //        });
+        //            FB.getLoginStatus(function (response) {
+        //                alert("status " + response.status);
+        //                if (response.status === 'connected') {
+        //                    // the user is logged in and has authenticated your
+        //                    // app, and response.authResponse supplies
+        //                    // the user's ID, a valid access token, a signed
+        //                    // request, and the time the access token 
+        //                    // and signed request each expire
+        //                    var uid = response.authResponse.userID;
+        //                    var accessToken = response.authResponse.accessToken;
+        //                } else if (response.status === 'not_authorized') {
+        //                    // the user is logged in to Facebook, 
+        //                    // but has not authenticated your app
+        //                } else {
+        //                    // the user isn't logged in to Facebook.
+        //                }
+        //            });
+
+        function FBLogin() {
+            ClearAllSessions();
+            FB.login(function (response) {
+                if (response.authResponse) {
+                    //alert("logged in fb");
+                    FB.api('/me', function (response) {
+                        // alert("Got FB Details   : " + "Name " + response.name + " ID " + response.id + " Email ID " + response.email);
+                        HandleFaceBookLogin(response.id, response.name, response.email)
+                    });
+                    //user is logged in, reload page
+                    //window.location.reload(true);
+                } else {
+                    //alert("cancelled");
+                    // window.location.reload(true);
+                    // user is not logged in
+                }
+            }, { scope: 'email' });
+        }
+
+        function FBQuickRegLogin() {
+            $('.clsLightboxContainerRegister').hide();
+            $('.overlay').hide();
+            SetLoader(".contentPageContainer");
+            FB.login(function (response) {
+                if (response.authResponse) {
+                    //alert("logged in fb");
+                    FB.api('/me', function (response) {
+                        // alert("Got FB Details   : " + "Name " + response.name + " ID " + response.id + " Email ID " + response.email);
+                        HandleFaceBookLogin(response.id, response.name, response.email)
+                    });
+                    //user is logged in, reload page
+                    //window.location.reload(true);
+                } else {
+                    //alert("cancelled");
+                    // window.location.reload(true);
+                    // user is not logged in
+                }
+            }, { scope: 'email' });
+        }
+
+        function FBLogout() {
+            FB.logout(function (response) {
+                //alert("logout");
+                window.location.href = "/Home";
+            });
+        }
+       function GPLogout() {
+            gapi.auth.signOut();
+        }
+    </script>
+    
+    <form method="post" action="PrivacyPolicy" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="+fKPydGO4xjDGXg5vng65vDcOGa7Xvq4YUDzVa5tkVO1Rq+hanAdYztQwmz3lFTAlB604KO2f4IpWzV0FmFId1T9jeqBnB8RQF9IwLjEQfEXs0yrNAOjIChT7HXiImu8X5wwytS8xqlS8bVR/Jq3gimDodS8WiMKmQX1gqJ2ISZmhiSu+KCrKzo0xUaTIl9505HDNfwfn7LTw5Hhn8BqXJ7iUuzZdc1wfG3qyb+Gb+HidzZPoti86S8gRpz7/rIFEhoq220KWNGSoy8p7G0RV+1oqTnQceTMDH4WEAZCO2M=">
+
+<script type="text/javascript" src="/ajax/common.ashx"></script><script type="text/javascript" src="/ajax/SiteMaster,App_Web_site.master.cdcab7d2.ashx"></script>
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="oiGAqLxJTJAzfK4MFCfFBwtuZqNB14NHWv9h62I2vUH14dn31N6TgxYJQMy-sLGfOcpXMe8xxxFtGa0uE9APRbTRukvEsia_J6qljBVsscc1">
+    <div class="page">
+        <div class="main">
+            <!--Hidden Fields Order Placement-->
+            <input type="hidden" name="ctl00$hdnCategoryID" id="hdnCategoryID">
+            <input type="hidden" name="ctl00$hdnCoreItemID" id="hdnCoreItemID">
+            <!--End Hidden Fields-->
+            <!--Order Placement Pop Ups-->
+            <!--Overlay-->
+            <div class="overlayDiv">
+            </div>
+            <!--End Overlay-->
+            <!--Pop Up for Showing Customizable Core Items and Convertible Items for an Item-->
+            <div class="itemSettingsPopUp floatingPopUp">
+                <div class="floatingPopUpHead">
+                    <a href="#" class="floatingPopUpCloseBtn">Close</a><span class="floatingPopUpCloseBtn"></span></div>
+                <div class="itemSettingsContent floatingPopUpContent">
+                </div>
+            </div>
+            <!--Pop Up End-->
+            <!--Pop Up for Info-->
+            <div class="infoPopUp floatingPopUp">
+                <div class="floatingPopUpHead">
+                    <a href="#" class="floatingPopUpCloseBtn">Close</a><span class="floatingPopUpCloseBtn"></span></div>
+                <div class="infoContent floatingPopUpContent">
+                </div>
+            </div>
+            <!--End Info-->
+            <!--Pop Up for Nutrition-->
+            <div class="nutritionPopUp floatingPopUp">
+                <div class="floatingPopUpHead">
+                    <a href="#" class="floatingPopUpCloseBtn">Close</a><span class="floatingPopUpCloseBtn"></span></div>
+                <div class="nutritionContent floatingPopUpContent">
+                </div>
+            </div>
+            <!--End Nutrition-->
+            <!--Pop Up for Customization-->
+            <div class="lightBox01 make_selection customize popUp customizePopUp">
+                <div class="customizePopUpHead">
+                    <div class="close_btn01">
+                        <a href="#" class="popUpCloseBtn">
+                            <img src="/images/close_bt01.gif" alt=""></a></div>
+                    <h1>
+                        <span class="step"><span></span></span>
+                    </h1>
+                </div>
+                <div class="border">
+                </div>
+                <div class="selection_container">
+                    <div class="custom_header itemQuantityCustomized">
+                        <span class="quant">
+                            Quantity</span>
+                        <div class="numericArrowContainer">
+                            <div class="numericContainer">
+                                <input type="text" maxlength="4" class="numeric cartItemQty"></div>
+                            <div class="arrowContainer">
+                                <span class="upArrow"></span><span class="downArrow"></span>
+                            </div>
+                        </div>
+                        <span class="customize_detail">
+                            Customize Details</span>
+                    </div>
+                    <div class="details customizePopUpMainContainer">
+                        <div class="addons ingredientsContainer">
+                            
+                        </div>
+                        <div class="table_container customizeDetailsContainer">
+                            <div class="table_wrapper customizeDetailsInnerContainer">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bottomBtn02">
+                    <div class="btn03">
+                        <span class="popUpCloseBtn">
+                            Finish</span></div>
+                </div>
+            </div>
+            <!--End Customization Pop Up-->
+            <!--Pop Up for Upselling Conversion-->
+            <div class="lightBox01 make_selection conversion popUp conversionPopUp">
+                <div>
+                    <div class="close_btn01">
+                        <a href="#" class="popUpCloseBtn conversionCloseBtn">
+                            <img src="/images/close_bt01.gif" alt=""></a></div>
+                    <h1>
+                        please select 
+                        </h1>
+                </div>
+                <div class="border">
+                </div>
+                <div class="selection_container">
+                    <div class="select_item">
+                        <div class="accord conversionPopUpContainer">
+                            <div class="accord_btn extraItemsExpandCollapse">
+                                <a title="expand/collapse" href="#">Add</a>
+                            </div>
+                            <div class="accord_cnt extraItemsContentContainer">
+                                <div class="accord_in extraItemsContent">
+                                    <table width="100%">
+                                        <tbody><tr>
+                                            <th>
+                                                Item
+                                            </th>
+                                        </tr>
+                                        <tr class="selected">
+                                            <td width="70%">
+                                                Piri Piri (+ Rs15.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <table width="100%" class="table">
+                                        <tbody><tr>
+                                            <th>
+                                                Dips
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                Veg Sauce (+ Rs10.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                Mint Sauce (+ Rs10.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                Tom Mayo (+ Rs10.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                Mustard Sauce (+ Rs15.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                Barbeque Sauce (+ Rs15.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <div class="frt">
+                                        <div class="button06">
+                                            <span class="extraItemsDoneBtn">Done</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="accord_cnt conversionContentContainer">
+                                <div class="accord_in conversionContent">
+                                    <table width="100%" class="table">
+                                        <tbody><tr class="first">
+                                            <td width="70%">
+                                                To Medium Strawberry Milkshake (+Rs 13.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Medium Chocolate Milkshake (+Rs 13.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Medium Fanta (+ Rs 0.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Medium Sprite (+ Rs 0.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Medium Thumbs up (+ Rs 0.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Medium Coke (+ Rs 0.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Cold Coffee (+ Rs 6.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Diet Coke Can (+ Rs 8.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainer">
+                                                    <div class="numericContainer">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainer">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <p>
+                                        <em>Additional Charges - Indicates the difference of price paid by you for Drink change</em></p>
+                                    <div class="frt">
+                                        <div class="button06">
+                                            <span class="conversionDoneBtn">
+                                                Done</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bottomBtn02">
+                    <div class="btn03">
+                        <span class="conversionPopUpFinishBtn popUpCloseBtn">
+                            Finish</span></div>
+                </div>
+            </div>
+            <!-------------------------------Hold Start--------------------------------------------------------------------------------------------------------------->
+            <div class="lightBox01 make_selection conversion popUp conversionPopUpHold" style="display: none;">
+                <div>
+                    <div class="close_btn01">
+                        <a href="#" class="popUpCloseBtnHold conversionCloseBtnHold">
+                            <img src="/images/close_bt01.gif" alt=""></a></div>
+                    <h1>
+                        <span id="lblheaderHoldText">Label</span></h1>
+                </div>
+                <div class="border">
+                </div>
+                <div class="selection_container">
+                    <div class="select_item">
+                        <div class="accord conversionPopUpContainerHold">
+                            <div class="accord_btn extraItemsExpandCollapseHold">
+                                <a title="expand/collapse" href="#">Add</a>
+                            </div>
+                            <div class="accord_cnt extraItemsContentContainerHold">
+                                <div class="accord_in extraItemsContentHold">
+                                    <table width="100%">
+                                        <tbody><tr>
+                                            <th>
+                                                Item
+                                            </th>
+                                        </tr>
+                                        <tr class="selected">
+                                            <td width="70%">
+                                                Piri Piri (+ Rs15.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <table width="100%" class="table">
+                                        <tbody><tr>
+                                            <th>
+                                                Dips
+                                            </th>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                Veg Sauce (+ Rs10.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                Mint Sauce (+ Rs10.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                Tom Mayo (+ Rs10.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                Mustard Sauce (+ Rs15.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                Barbeque Sauce (+ Rs15.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <div class="frt">
+                                        <div class="button06">
+                                            <span class="extraItemsDoneBtnHold">Done</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="accord_cnt conversionContentContainerHold">
+                                <div class="accord_in conversionContentHold">
+                                    <table width="100%" class="table">
+                                        <tbody><tr class="first">
+                                            <td width="70%">
+                                                To Medium Strawberry Milkshake (+Rs 13.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Medium Chocolate Milkshake (+Rs 13.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Medium Fanta (+ Rs 0.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Medium Sprite (+ Rs 0.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Medium Thumbs up (+ Rs 0.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Medium Coke (+ Rs 0.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Cold Coffee (+ Rs 6.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="70%">
+                                                To Diet Coke Can (+ Rs 8.00)
+                                            </td>
+                                            <td width="15%">
+                                                <div class="numericArrowContainerHold">
+                                                    <div class="numericContainerHold">
+                                                        <input type="text" value="1" class="numeric cartItemQty"></div>
+                                                    <div class="arrowContainerHold">
+                                                        <span class="upArrow"></span><span class="downArrow"></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td width="5%">
+                                                <input type="checkbox" class="">
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    <p>
+                                        <em>Additional Charges - Indicates the difference of price paid by you for Drink change</em></p>
+                                    <div class="frt">
+                                        <div class="button06">
+                                            <span class="conversionDoneBtnHold">
+                                                Done</span></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bottomBtn02">
+                    <div class="btn03">
+                        <span class="conversionPopUpFinishBtnHold popUpCloseBtnHold">
+                            Finish</span></div>
+                </div>
+            </div>
+            <!-------------------------------Hold End----------------------------------------------------------------------------------------------------------------->
+            <!--End Upselling Conversion Pop Up-->
+            <!--OTP PopUp-->
+            <div class="lightBox05 popUp otpPopUp">
+                <div>
+                    <div class="close_btn01">
+                        <a href="#" class="popUpCloseBtn">
+                            <img src="/images/close_bt01.png" alt=""></a></div>
+                    <h1>
+                        Payment Mode - Cash on Delivery
+                    </h1>
+                </div>
+                <div class="details02">
+                    <p class="dk">
+                        Confirm Order ( Email or Mobile Number )</p>
+                    <p>
+                        Please enter OTP sent to you on your mobile and Email.</p>
+                    <div class="inpts01">
+                        <input type="text" class="txtOTP">
+                    </div>
+                    <div class="pswd">
+                    </div>
+                </div>
+                <div class="bottomBtn01">
+                    <div class="btn03">
+                        <span class="btnOTPContinue">Continue</span></div>
+                </div>
+            </div>
+            <!--End OTP PopUp-->
+            <!--Order Confirmation PopUp-->
+            
+            <!--End Order Confirmation-->
+            <!--Favourite Previous Orders-->
+            <div class="lightBox01 make_selection  popUp favPrevOrdersPopUp">
+                <div>
+                    <div class="close_btn01">
+                        <a href="#" class=" favPrevOrdersCloseBtn">
+                            <img src="/images/close_bt01.gif" alt=""></a></div>
+                    <h1>
+                        Favourite/Previous Orders
+                    </h1>
+                </div>
+                <div class="border">
+                </div>
+                <div class="favPrevOrderDetails">
+                    <div class="favPrevOrderDetailsContent">
+                    </div>
+                </div>
+                <div class="bottomBtn02">
+                    <div class="btn03">
+                        <span class="favPrevItemsAddToCart">
+                            Add To Cart</span></div>
+                </div>
+            </div>
+            <!--End Favourite Previous Orders-->
+            <!--Desert Missing-->
+            <div class="lightBox01 make_selection  popUp noDessertItemsPopUp" style="height: 285px;">
+                <div>
+                    <img src="/Images/Foccacia.jpg" usemap="#Map" border="0">
+                    <map name="Map" id="Map">
+                        <area shape="rect" id="Foccasia" coords="218, 220, 356, 253" href="javascript:void(0);" style="cursor: pointer;">
+                        <span class="noDessertItemsPopUpCloseBtn" style="cursor: pointer;">
+                            <area shape="rect" coords="377, 218, 546, 257" href="javascript:void(0);">
+                        </span>
+                    </map>
+                </div>
+            </div>
+            <!--End Dessert Missing-->
+             
+            <!--Start Check Promo Container-->
+            <div id="DivPromoCodeCheckContainer" class="PromoCodeCheckContainer" style="display: none;"> 
+                <div>
+                    <div class="CodeCheckContainer">
+                        <a href="#">
+                            <img alt="" src="../Images/close_bt01.gif" id="btnCodeCheckContainerClose">
+                        </a>
+                    </div>
+                    <h1>
+                        <label id="lblPromotionName1" class="PromotionName">
+                        </label>
+                    </h1>
+                </div>
+                <div id="innerDiv2" class="details03">
+                    <div class="inpts01">
+                        <div class="flt">
+                            <table>
+                                <tbody><tr>
+                                    <td>
+                                        <span><b>Description</b></span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label id="lblDescription1">
+                                        </label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <br>
+                                    </td>
+                                </tr>
+                                <tr class="TermsNdConditionTR1 toglemore">
+                                    <td>
+                                        <span><b>Terms and Condition</b></span>
+                                    </td>
+                                </tr>
+                                <tr class="TermsNdConditionTR1">
+                                    <td>
+                                    </td>
+                                </tr>
+                                <tr class="TermsNdConditionTR1 TCcontent">
+                                    <td>
+                                        <div id="lblTermsAndCondition1">
+                                        </div>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End Check Promo Container-->
+
+            <!--Terms and conditions Pop Up-->
+            <div class="lightBox05 popUp termsConditionsPopUp">
+                <div>
+                    <div class="close_btn01">
+                        <a href="#" class="termsConditionsPopUpCloseBtn">
+                            <img src="/images/close_bt01.gif" alt=""></a></div>
+                    <h1>
+                        Terms and Conditions</h1>
+                </div>
+                <div class="border">
+                </div>
+                <div>
+                    <div class="termsConditionsContent">
+                        <h3>
+                            Terms &amp; Conditions for Online Payment
+                        </h3>
+                        <h3>
+                            ACCEPTANCE OF TERMS AND CONDITIONS :</h3>
+                        <p>
+                            Hardcastle Restaurants Private Limited (McDonald’s) welcomes you and is pleased
+                            to provide information about its Website viz. http://mcdelivery.co.in/ (“the site”)
+                            (exclusively owned and operated by it) to all its customers who are interested in
+                            ordering McDonald’s food products online (“the Service”) Your request for availment
+                            constitutes your offer which shall be subject to the terms and conditions as listed
+                            below. All the terms and conditions form an Agreement regulating our relationship
+                            with regard to use of online transactions. All the terms and conditions must be
+                            read very carefully. If you do not agree to any of the terms and conditions, you
+                            should not use or access the site this service. Access of the site shall be deemed
+                            to be acceptance of all the terms and condition s by you.</p>
+                        <h3>
+                            Eligibility :
+                        </h3>
+                        <p>
+                            You represent and warrant that you are competent and eligible to enter into legally
+                            binding agreement and have the requisite authority to bind the other party to this
+                            Agreement. You shall not use the site if you are not competent to contract under
+                            the applicable laws, rules and regulations.</p>
+                        <h3>
+                            Links :
+                        </h3>
+                        <p>
+                            Through the site you are able to link to other web sites which are not under the
+                            control of McDonald's.Where links exist from our site to other Internet sites, McDonald’s
+                            takes no responsibility for the content or information contained in those sites.
+                            The inclusion of any link does not imply endorsement by McDonald’s. Your linking
+                            to any other off-site pages or sites is done at your own risk. We encourage links
+                            to our site, however, all links must be approved prior to activation. McDonald’s
+                            reserves the right to refuse any requests, for any reason, we consider not to be
+                            in the best interest of the site and its users. McDonald’s reserves the right not
+                            to link, or remove the link, to a particular site at any time.</p>
+                        <h3>
+                            Disclaimer :
+                        </h3>
+                        <p>
+                            The information contained in this site is for general purposes only. It should be
+                            noted that the contents, products and services available on this site are provided
+                            on an “as is” and “as available” basis. We make no representations or warranties
+                            of any kind for any purpose, express or implied, about the completeness, accuracy,
+                            reliability or availability with respect to the site or the information, products,
+                            services or related graphics contained in or depicted on the site. Any reliance
+                            you place on such information is, therefore, strictly at your own risk. McDonald’s
+                            does not warrant that any information obtained from or through this site is free
+                            from virus or other faults or defects or typographical error.</p>
+                        <h3>
+                            Modification of Terms and Conditions of Service :</h3>
+                        <p>
+                            McDonald’s may at any time modify the terms and conditions of the Service without
+                            any prior notification to you. You can access the latest version of the terms and
+                            conditions at any given time which will be accessibleon the site . You should review
+                            the latest version of theterms and conditions at every visit to the site. In the
+                            event wherein the modified terms and conditions are not acceptable to you, you should
+                            discontinue use of the site .However, if you continue to use the Service you agree
+                            to accept and abide by the modified terms and conditions. Your use of thesite after
+                            any amendment to the terms and conditions shall constitute your acceptance of these
+                            terms and conditions and you also agree to be bound by any such changes/revisions.</p>
+                        <h3>
+                            Credit card details :</h3>
+                        <p>
+                            To avail of and use the services you will have to register with McDonalds with detail
+                            of your information like email - id, name, mobile/Telephone Number , date of birth
+                            etc. and then you have the option to submit the Admission form with online payment
+                            option . As a part of registration process you agree to provide credit card details
+                            etc. You agree, understand and confirm that the credit card details provided by
+                            you for availing of the service offered by McDonald’s will be correct and accurate
+                            and you shall not use the credit card which is not lawfully owned by you. You represent
+                            that you have valid rights and title in any and all Contents/Credit Card details
+                            that you submit on the site, that you have not infringed on any right over the same
+                            belonging to any party and further that you will indemnify McDonald’s or its affiliates
+                            fromr all claims and/or losses , damages etc. arising out of any content/Credit
+                            Card details that you post on thesSite. You further agree and undertake to provide
+                            the correct and valid credit card details to McDonald’s. FSM will not be liable
+                            for any credit card fraud. The liability to use a card fraudulently will be on the
+                            user and the onus to 'prove otherwise' shall be exclusively on the user. You acknowledge
+                            and agree that McDonald’s may preserve Content and the said information will not
+                            be utilized and shared or disclosed by McDonald’s with any third party unless required
+                            to do so by law or in the good faith belief that such preservation or disclosure
+                            is reasonably necessary to:
+                        </p>
+                        <ul>
+                            <li>(a) comply with legal process, law, regulation or court order ; </li>
+                            <li>(b) enforce the Terms and Conditions of this agreement; </li>
+                            <li>(c) respond to claims that any Content/credit card details violates the rights of
+                                third - parties; </li>
+                            <li>(d) respond to your requests for customer service; </li>
+                        </ul>
+                        <h3>
+                            Nature of Data on the Internet :</h3>
+                        <p>
+                            It is McDonald’s intent to keep secure any personal information that you submit
+                            to us, and McDonald’s will continue to take steps to maintain the security of the
+                            Site. However, the open nature of the Internet is such that data may flow over networks
+                            without security measures and may be accessed and used by people other than those
+                            for whom the data is intended. Therefore, in submitting personal information to
+                            the Site, you assume the risk of a third party obtaining that information.</p>
+                        <h3>
+                            Important security information - email scam :
+                        </h3>
+                        <p>
+                            The McDonald’s site team has been made aware of a number of fake emails that appear
+                            to be sent from McDonald’s asking users to confirm their email address and/or password.
+                            We would like to reassure users that we will never send you an email asking you
+                            to reconfirm your security details. We will never ask you to divulge your full passwords
+                            via e-mail.</p>
+                        <h3>
+                            Non - Delivery or late delivery due to mistakes of user :
+                        </h3>
+                        <p>
+                            In case of non - delivery or late delivery due to a mistake by the user (i.e. writing
+                            or incomplete name or address or recipient not available), any extra charges incurred
+                            for re - delivery shall be claimed from the user placing the requests.</p>
+                        <h3>
+                            Cancellation of order :
+                        </h3>
+                        <p>
+                            Once the Orders are placed, it cannot be cancelled.
+                        </p>
+                        <p>
+                            Limitation of Liability
+                        </p>
+                        <p>
+                            All monetary transactions on the site and otherwise, are non-refundable, non-exchangeable
+                            and non-reversible, save and except in the event of proven gross negligence on the
+                            part of McDonald’s or its representatives, in which event you agree that you shall
+                            only be entitled to a refund of the amount actually paid by the you and actually
+                            received by McDonald’swith respect to the order placed by you.</p>
+                        <p>
+                            This limitation applies whether the alleged liability is based on contract, tort,
+                            negligence, strict liability, or any other basis, even if McDonald’s has been advised
+                            of the possibility of such damage. Because some jurisdictions do not allow the exclusion
+                            or limitation of incidental or consequential damages, McDonald’s liability in such
+                            jurisdictions shall be limited to the extent of the amount actually paid by you
+                            while availing any of the services on the site .</p>
+                        <h3>
+                            Governing Law and Jurisdiction :</h3>
+                        <p>
+                            This agreement and the relationship between you and McDonald’s shall be is governed
+                            and construed in accordance with the Laws of India without regard to its conflict
+                            of law provisions . You hereby irrevocably consent to the exclusive jurisdiction
+                            and venue of courts in Mumbai , India, in all disputes arising out of or relating
+                            to the use of the sites/services.</p>
+                        <h3>
+                            Force Majeure :</h3>
+                        <p>
+                            Neither party shall be liable to the other for any failure to perform any obligation
+                            which is due to an event beyond the control of such party including but not limited
+                            to any Act of god, terrorism, war, Political insurgence, insurrection, riot, civil
+                            unrest, act of civil or military authority, uprising, earthquake, flood or any other
+                            natural or man made eventuality outside of our control, which causes the termination
+                            of an agreement or contract entered into, nor which could have been reasonably foreseen.
+                            Any Party affected by such event shall forthwith inform the other Party of the same
+                            and shall use all reasonable endeavours to comply with the terms and conditions
+                            contained herein.</p>
+                        <h3>
+                            Waiver and Severability :</h3>
+                        <p>
+                            The failure of Mc Donalds Delivery System to exercise or enforce any right or provision
+                            of the Agreement shall not constitute a waiver of such right or provision. If any
+                            provision of the Agreement is found by a court of competent jurisdiction to be invalid,
+                            the parties nevertheless agree that the court should endeavor to give effect to
+                            the parties' intentions as reflected in the provision, and the other provisions
+                            of the Agreement remain in full force and effect.</p>
+                        <h3>
+                            Acceptance of Privacy Policy :</h3>
+                        <p>
+                            By using Mc Donalds Delivery System’s sites and services, you signify your acceptance
+                            of this Privacy Statement. If you do not agree or are not comfortable with any policy
+                            described in this Privacy statement, your only remedy is to discontinue use of Mc
+                            Donalds Delivery System sites. We reserve the right, to modify this Privacy Statement
+                            at any time.</p>
+                        <h3>
+                            Entire Agreement :</h3>
+                        <p>
+                            These Terms of Service constitute the entire agreement between the parties with
+                            respect to the subject matter hereof and supersedes and replaces all prior or contemporaneous
+                            understandings or agreements, written or oral, regarding such subject matter.</p>
+                    </div>
+                </div>
+            </div>
+            <!--End Terms and Conditions-->
+            <!--End Order Placement-->
+            <div class="contentPageContainer">
+                
+    <div class="leftPannel">
+        <div class="trackOrder">
+            <div class="brdiv">
+                <h1>
+                    Privacy Policy
+                </h1>
+            </div>
+            <div class="Policycontent jspScrollable" tabindex="0" style="overflow: hidden; padding: 0px; width: 1366px;">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                    
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            <div class="jspContainer" style="width: 1366px; height: 900px;"><div class="jspPane" style="padding: 0px; top: 0px; width: 1358px;"><p>
+                    Thank you for visiting us online at www.mcdonaldsindia.com (“website” or “our website”).</p><br><p>
+                    Hardcastle Restaurants Private Limited (HRPL) is a wholly owned subsidiary of Westlife
+                    Development Limited listed on BSE (Bombay Stock Exchange) with scrip code 505533,
+                    which focuses on putting up and operating Quick Service Restaurants (QSR) in West
+                    and South India. HRPL is a franchisee of McDonald’s India Private Limited (MIPL)
+                    with rights to own and operate restaurants under the brand name “McDonald’s” in
+                    India’s West and South markets.</p><br><p>
+                    At HRPL, we strive to do everything we can to respect the trust customers have in
+                    our brand, and our commitment to your privacy is no exception. We are committed
+                    to protecting and safeguarding consumer’s privacy on the internet, especially for
+                    children.</p><p class="heading">
+                    <b>HRPL’S INTERNET PRIVACY POLICY</b></p><p>
+                    HRPL is pleased to provide information to all of its customers about its online
+                    privacy policy. Please be assured that HRPL uses its best efforts to protect the
+                    privacy of visitors to this website.</p><br><p>
+                    This Privacy Policy (“Policy”) describes the types of personal information we collect
+                    from visitors to our website and users of our Mobile Applications (collectively
+                    "Online Services"). This Policy not only sets forth how we use this information,
+                    but also provides other details about our personal information practices, and explains
+                    how to contact us if you have any questions or concerns.</p><p class="heading">
+                    <b>TYPES OF INFORMATION WE COLLECT AND HOW IT IS USED</b></p><p>
+                    HRPL gathers personal information, such as first and last names, addresses and email
+                    ids, only when voluntarily submitted by you. e.g., personal information may be collected
+                    from you in order to get your feedback on our website and our products, or to ensure
+                    your entry in one of our contests or sweepstakes. If you do not agree or consent
+                    to submission of such information, you will not be allowed to register yourself
+                    or participate in our contests, sweepstakes or use any functions on our website
+                    which require such personal information to be submitted.</p><p class="heading">
+                    <b>SHARING OF PERSONAL INFORMATION</b></p><p>
+                    HRPL may share personal information within the McDonald’s Family. The McDonald’s
+                    Family includes McDonald’s Corporation, our franchisees, our subsidiaries and our
+                    affiliates. Of course, any use of this information by the McDonald’s Family will
+                    comply with this Policy. Occasionally, we will send marketing information to you,
+                    such as discount coupons, information about new product offerings, etc. If you elect
+                    not to receive such materials, we will not send them to you.</p><br><p>
+                    In addition, when you visit our website or use Online Services, we may collect certain
+                    information by automated means. The information we collect may include your Internet
+                    Protocol (IP) address, computer/mobile device operating system and browser type,
+                    type of mobile device, the Unique Device Identifier (UDID) or Mobile Equipment Identifier
+                    (MEID) for your mobile device, the address of a referring website (if any), and
+                    the pages you visit on our website. We may use this information to operate, maintain,
+                    and manage our Online Services and to provide services such as technical support.
+                    We provide additional information regarding our use of "cookies" in this Privacy
+                    Policy below.</p><p class="heading">
+                    <b>MOBILE DEVICES AND LOCATION INFORMATION</b></p><p>
+                    Mobile Apps. may collect precise information about the location of your mobile device
+                    using technologies such as GPS, Wi-Fi, or cell tower proximity. HRPL uses this information
+                    for location- based services that you request such as locating nearby McDonald's
+                    restaurants or identifying special offers that may be of interest to you. For most
+                    mobile devices, you are able to withdraw your permission for HRPL to acquire this
+                    information on your location through the device settings. If you have questions
+                    about how to disable your mobile device's location services, we recommend you contact
+                    your mobile device service provider or the device manufacturer. If you would like
+                    us to delete location information we have collected, please contact us at the email
+                    or postal address listed below. Please note that the applications may not function
+                    properly following deletion, and that we may be required by law to retain certain
+                    information.</p><br><p>
+                    HRPL does not sell, transfer or disclose personal information to third parties outside
+                    the McDonald’s Family. However, with your permission, we will, on occasion send
+                    marketing information on behalf of one of our business partners about products or
+                    services they provide that may be of interest to you. You may be asked if you wish
+                    to receive marketing materials from McDonald’s business partners. If you elect to
+                    receive such materials, HRPL will not share your personal information with such
+                    partners but rather will send a mailer or email on behalf of the partners.</p><br><p>
+                    HRPL reserves the right to use or disclose any information as needed to satisfy
+                    any law, regulation or legal request, to protect the integrity of the sites, to
+                    fulfil your requests, or to co-operate in any law enforcement investigation or an
+                    investigation on a matter of public safety.</p><p class="heading">
+                    <b>CHILDREN'S PRIVACY NOTICE</b></p><p>
+                    HRPL understands the importance of privacy to visitors to and users of our Online
+                    Services. We are especially committed to protecting the privacy of children who
+                    visit or use our Online Services.</p><table cellpadding="2" cellspacing="2">
+                    <tbody><tr>
+                        <td class="termsno" width="5%">
+                            <b>A .</b>
+                        </td>
+                        <td class="subheading">
+                            <b>WHAT PERSONAL INFORMATION DO WE COLLECT?</b>
+                        </td>
+                    </tr>
+                    <tr>
+                        </tr></tbody></table><table cellpadding="2" cellspacing="2">
+                            <tbody><tr>
+                                <td class="termsno" width="5%">
+                                    <b>1 .</b>
+                                </td>
+                                <td style="padding-bottom: 10px;">
+                                    We offer many features on our website, like games and other activities, which do
+                                    not require a child to provide any personal information. On occasion, however, we
+                                    may collect personal information, such as an email address from children as part
+                                    of an activity. For example: We may collect a child's email address to notify the
+                                    child if he or she has won or lost a contest or activity. In that event, we will
+                                    notify the child using the email address the child supplies. We will not keep the
+                                    address or use it for any other purpose.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="termsno" width="5%">
+                                    <b>2 .</b>
+                                </td>
+                                <td style="padding-bottom: 10px;">
+                                    We may collect a child's email address in order to respond to a request from the
+                                    child on a one-time basis, such as to send the child a screen saver. In this case
+                                    we promptly delete the email address from our system once we have responded, and
+                                    we do not use the address for any other purpose.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="termsno" width="5%">
+                                    <b>3 .</b>
+                                </td>
+                                <td style="padding-bottom: 10px;">
+                                    HRPL will not condition a child's participation in any online activity on the child's
+                                    disclosure of more personal information than is reasonably necessary to participate
+                                    in that activity.
+                                </td>
+                            </tr>
+                        </tbody></table><table cellpadding="2" cellspacing="2">
+                    <tbody><tr>
+                        <td class="termsno" width="5%">
+                            <b>B .</b>
+                        </td>
+                        <td class="subheading">
+                            <b>HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT?</b>
+                        </td>
+                    </tr>
+                    <tr>
+                        </tr></tbody></table><table cellpadding="2" cellspacing="2">
+                            <tbody><tr>
+                                <td class="termsno" width="5%">
+                                    <b>1 .</b>
+                                </td>
+                                <td style="padding-bottom: 10px;">
+                                    We use email addresses submitted by a child in order to respond to the child's request
+                                    or to notify the child if he or she has won or lost a contest or activity they entered.
+                                </td>
+                            </tr>
+                        </tbody></table><table cellpadding="2" cellspacing="2">
+                    <tbody><tr>
+                        <td class="termsno" width="6%">
+                            <b>C .</b>
+                        </td>
+                        <td class="subheading">
+                            <b>HOW DO WE SHARE PERSONAL INFORMATION?</b>
+                        </td>
+                    </tr>
+                    <tr>
+                        </tr></tbody></table><table cellpadding="2" cellspacing="2">
+                            <tbody><tr>
+                                <td colspan="2" style="padding-bottom: 10px; padding-left: 10px;">
+                                    We may share a child's personal information with third parties to the extent reasonably
+                                    necessary to protect the security or integrity of our Online Services, take precautions
+                                    against liability, or respond to judicial process or requests from other governmental
+                                    authorities; or when we believe disclosure is necessary or appropriate to prevent
+                                    physical harm or financial loss, or in connection with an investigation of suspected
+                                    or actual illegal activity.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="termsno" width="5%">
+                                    <b>1 .</b>
+                                </td>
+                                <td style="padding-bottom: 10px;">
+                                    We also may share personal information collected with vendors that perform services
+                                    for McDonald's. These services may include hosting our website, providing technical
+                                    services to McDonald's, fulfilling requests or administering activities. Such vendors
+                                    are obligated to protect the confidentiality of the personal information we share
+                                    with them.
+                                </td>
+                            </tr>
+                        </tbody></table><p class="heading">
+                    <b>ACCESS</b></p><p>
+                    You are in control of any personal information you provide us on-line. If at any
+                    time, you would like to correct the personal information we have about you or if
+                    you would like to change your preferences for contacts from us or on behalf of our
+                    business partners, you can let us know by contacting us at the email or postal address
+                    listed below.</p><p class="heading">
+                    <b>COOKIES</b></p><p>
+                    “Cookies” are pieces of information that a website transfers to an individual’s
+                    hard drive for record keeping purposes. Cookies allow the website to remember important
+                    information that will make your use of the sites more convenient. Like most web
+                    sites, HRPL uses cookies for a variety of purposes in order to improve your on-line
+                    experience. e.g., we track the total number of visitors to our website on an anonymous
+                    aggregate basis. We may also employ cookies so that we remember you when you return
+                    to the sites, to keep track of the items/pages you view on our website to help us
+                    customize your experience.</p><br><p>
+                    We may associate personal information with a cookie file in those instances.</p><p class="heading">
+                    <b>LINKS TO OTHER SITES</b></p><p>
+                    The policies of HRPL’s website may vary from other McDonald’s sites operated by
+                    other McDonald’s entities, however because of local customs, practices or laws or
+                    due to circumstances unique to those sites. In all cases, however, we will honour
+                    the commitments to our customers set forth in this policy regarding the collection
+                    and use of personal information.</p><p class="heading">
+                    <b>CHANGES TO OUR PRIVACY POLICY</b></p><p>
+                    This Privacy Policy is effective as of 1st to change Policy. If we change our Policy,
+                    we will post the revised version here, so we suggest that you check here periodically
+                    for the most up-to-date version of our Policy. Your continued use of the sites will
+                    be deemed acceptance of the Policy. Rest assured, however, that any changes will
+                    not be retroactively applied and will not alter how we handle previously collected
+                    information. June, 2014. From time to time, it may be necessary for HRPL</p><p class="heading">
+                    <b>HOW TO CONTACT US</b></p><p>
+                    If you have any questions about HRPL’s Internet Privacy Policy, please contact us
+                    at:</p><br><p>
+                    Hardcastle Restaurants Private Limited</p><p>
+                    1001 - 1002, Tower - 3, 10th floor,<br>
+                    Indiabulls Finance Centre,<br>
+                    Senapati Bapat Marg,<br>
+                    Elphinstone Road, Mumbai - 400013<br>
+                    T: 022 - 49135000; F: 022 – 49135001<br>
+                    Email: <a href="http://www.mcdonaldsindia.com/myfeedback@mcdonaldsindia.com">myfeedback@mcdonaldsindia.com</a>
+                </p></div><div class="jspVerticalBar"><div class="jspCap jspCapTop"></div><div class="jspTrack" style="height: 900px;"><div class="jspDrag" style="height: 374px;"><div class="jspDragTop"></div><div class="jspDragBottom"></div></div></div><div class="jspCap jspCapBottom"></div></div></div></div>
+        </div>
+    </div>
+
+            </div>
+            
+            <div class="clsLightboxContainerRegister" style="position: absolute; top: 10%; left: 678px;">
+                <div class="clsBody lightBox03">
+                    <div class="clsCloseSign clsCloseBtnRegister">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divQuickRegisteration" class="clsQuickRegister">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxEnterPassword" style="position: absolute; top: 10%; left: 678px;">
+                <div class="clsBody lightBox02 divEnterPwd">
+                    <div class="clsCloseSign clsCloseBtnEnterPwd">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divEnterPwd" class="clsEnterPwd">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxPersonalDetails" style="position: absolute; top: 10%; left: 307px;">
+                <div class="clsBody lightBox002 regPrsnlAddrlightbox">
+                    <div class="clsCloseSign clsCloseBtnPersonalDetails">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divPersonalDetails" class="clsPersonalDetails">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxAddressDetails" style="position: absolute; top: 10%; left: 307px;">
+                <div class="clsBody lightBox002 regPrsnlAddrlightbox">
+                    <div class="clsCloseSign clsCloseBtnAddressDetails">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divAddressDetails" class="clsAddressDetails">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxConfirmAddress" style="position: absolute; top: 10%; left: 290.5px;">
+                <div class="clsBody lightBox01 cnfrmaddr">
+                    <div class="clsCloseSign clsCloseBtnConfirmAddress">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divConfirmAddress" class="clsConfirmAddress">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxCustomerDetails" style="position: absolute; top: 10%; left: 308px;">
+                <div class="clsBody lightBox01 custdet">
+                    <div class="clsCloseSign clsCloseBtnCustomerDetails">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divCustomerDetails" class="clsCustomerDetails">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxNewPassword">
+                <div class="clsBody lightBox03">
+                    <div class="clsCloseSign clsCloseBtnNewPwd">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divNewPassword" class="clsNewPassword">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxForgotPassword" style="position: absolute; top: 10%; left: 678px;">
+                <div class="clsBody lightBox03">
+                    <div class="clsCloseSign clsCloseBtnForgotPwd">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divForgotPassword" class="clsForgotPassword">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxChangePassword" style="position: absolute; top: 10%; left: 433px;">
+                <div class="clsBody lightBox03 ChngePwdLightbox">
+                    <div class="clsCloseSign clsCloseBtnChangePwd">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divChangePassword" class="clsChangePassword">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxFBEnterPassword" style="position: absolute; top: 10%; left: 678px;">
+                <div class="clsBody lightBox02 divEnterPwd">
+                    <div class="clsCloseSign clsCloseBtnFBEnterPwd">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="div1" class="clsFBEnterPwd">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxEditAddress" style="position: absolute; top: 10%; left: 308px;">
+                <div class="clsBody lightBox01 custdet">
+                    <div class="clsCloseSign clsCloseBtnEditAddress">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divEditAddress" class="clsEditAddress">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsLightboxEditAddressDetails" style="position: absolute; top: 10%; left: 388px;">
+                <div class="clsBody lightBox01 editAddrDet">
+                    <div class="clsCloseSign clsCloseBtnEditAddressDetails">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div id="divEditAddressDetails" class="clsEditAddressDetails">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsAlertBox">
+                <div class="clsBody lightBox01 clsAlertBoxBody">
+                    <div class="clsCloseAlert">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div class="clsAlertBody clsAlertMsg">
+                        </div>
+                    </div>
+                    <div class="clsAlertFooter">
+                        <div class="btn03 alertftr">
+                            <span>
+                                OK</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clsConfirmBox">
+                <div class="clsBody lightBox01 clsConfirmBoxBody">
+                    <div class="clsCloseSign clsCloseConfirmBox">
+                        <a href="#">
+                            <img src="/images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div class="clsConfirmBody clsConfirmMsg">
+                            do you want to proceed further?
+                        </div>
+                    </div>
+                    <div class="clsConfirmFooter">
+                        <div class="btn03 cnfirmOK">
+                            <span>
+                                OK</span>
+                        </div>
+                        <div class="cnfirmcancel btn005">
+                            <span>
+                                Cancel</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clstermsconditions">
+                <div class="clsBody lightBox03" style="padding: 6px;">
+                    <div class="clsCloseSign closetermsconditions">
+                        <a href="#">
+                            <img src="../Images/close_bt01.gif" alt="close"></a>
+                    </div>
+                    <div class="clsData">
+                        <div class="clsterms">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="backdrop">
+            </div>
+            <div class="box" style="">
+                <div class="closebt">
+                </div>
+                <div>
+                    <div class="hedg01">
+                        Order on the Go!
+                    </div>
+                    <div class="hedg02">
+                        The new McDelivery App for Android™ is now available absolutely free.
+                    </div>
+                    <div class="hedg03">
+                        Receive link to download McDelivery App on your Android phone.
+                        <br>
+                        Please enter your Mobile Number
+                    </div>
+                    <div class="inptt">
+                        
+                        <input name="ctl00$txtDownloadViaMobile" type="text" maxlength="10" id="txtDownloadViaMobile" class="input01">
+                        <input type="submit" name="ctl00$btnGoClick" value="Go" onclick="return ValidateMobile();" id="btnGoClick" class="go">
+                    </div>
+                    
+                    <div class="hedg02">
+                        OR</div>
+                    <div>
+                        <input type="submit" name="ctl00$btnDownloadAppViaPlayStore" value="Download McDelivery Android App " onclick="ClickAndroid();" id="btnDownloadAppViaPlayStore" class="buttonapp">
+                        <a href="http://www.google.com" style="display: none" target="_blank" class="ahrefbuttonapp">
+                        </a>
+                        
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div class="backdrop1">
+            </div>
+            <div class="box1">
+                <div class="closebt closebt1">
+                </div>
+                <div>
+                    <div class="hedg01">
+                        Order on the Go!
+                    </div>
+                    <div class="hedg02">
+                        The new McDelivery App for Windows is now available absolutely free.
+                    </div>
+                    <div class="hedg03">
+                        Receive link to download McDelivery App on your Windows phone.
+                        <br>
+                        Please enter your Mobile Number
+                    </div>
+                    <div class="inptt">
+                        
+                        <input name="ctl00$txtDownloadViaMobileforWindows" type="text" maxlength="10" id="txtDownloadViaMobileforWindows" class="input01">
+                        <input type="submit" name="ctl00$btnGoWindows" value="Go" onclick="return ValidateMobileForWindows();" id="btnGoWindows" class="go">
+                    </div>
+                    
+                    <div class="hedg02">
+                        OR</div>
+                    <div>
+                        <input type="submit" name="ctl00$Button2" value="" onclick="ClickWindows();" id="Button2" class="buttonapp1">
+                        <a href="http://www.windowsphone.com/en-us/store/app/mcdelivery/fa1aca22-703c-408f-95a2-ae2697a4b6ff" style="display: none" target="_blank" class="ahrefbuttonapp"></a>
+                        
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div class="backdrop2">
+            </div>
+            <div class="box2">
+                <div class="closebt closebt2">
+                </div>
+                <div>
+                    <div class="hedg01">
+                        Order on the Go!
+                    </div>
+                    <div class="hedg02">
+                        The new McDelivery App for Blackberry is now available absolutely free.
+                    </div>
+                    <div class="hedg03">
+                        Receive link to download McDelivery App on your Blackberry phone.
+                        <br>
+                        Please enter your Mobile Number
+                    </div>
+                    <div class="inptt">
+                        
+                        <input name="ctl00$txtDownloadViaMobileforBlackberry" type="text" maxlength="10" id="txtDownloadViaMobileforBlackberry" class="input01">
+                        <input type="submit" name="ctl00$btnGoBlackBerry" value="Go" onclick="return ValidateMobileForBlackberry();" id="btnGoBlackBerry" class="go">
+                    </div>
+                    
+                    <div class="hedg02">
+                        OR</div>
+                    <div>
+                        <input type="submit" name="ctl00$Button3" value="" onclick="ClickBlackBerry();" id="Button3" class="buttonapp2">
+                        <a href="http://www.windowsphone.com/en-us/store/app/mcdelivery/fa1aca22-703c-408f-95a2-ae2697a4b6ff" style="display: none" target="_blank" class="ahrefbuttonapp"></a>
+                        
+                    </div>
+                </div>
+            </div>
+               
+            <div class="backdrop3">
+            </div>
+            <div class="box3">
+                <div class="closebt closebt3">
+                </div>
+                <div>
+                    <div class="hedg01">
+                        Order on the Go!
+                    </div>
+                    <div class="hedg02">
+                        The new McDelivery App for iOS is now available absolutely free.
+                    </div>
+                    <div class="hedg03">
+                        Receive link to download McDelivery App on your iOS phone.
+                        <br>
+                        Please enter your Mobile Number
+                    </div>
+                    <div class="inptt">
+                        
+                        <input name="ctl00$txtDownloadViaMobileforIOS" type="text" maxlength="10" id="txtDownloadViaMobileforIOS" class="input01">
+                        <input type="submit" name="ctl00$btnGoIOS" value="Go" onclick="return ValidateMobileForIOS();" id="btnGoIOS" class="go">
+                    </div>
+                    
+                    <div class="hedg02">
+                        OR</div>
+                    <div>
+                        <input type="submit" name="ctl00$Button4" value="" onclick="ClickIOS();" id="Button4" class="buttonapp3">
+                        <a href="https://itunes.apple.com/in/app/mcdeliveryindia-west&amp;south/id920750178?mt=8" style="display: none" target="_blank" class="ahrefbuttonapp"></a>
+                        
+                    </div>
+                </div>
+            </div>
+            
+            
+            
+            
+        </div>
+        <div class="rightSide">
+            <div class="top">
+                <div class="topSocldiv">
+                    <div class="groupD">
+                        <div class="slectorDv02 usrprofile" style="display: none;">
+                            <div class="seleTor">
+                                <table>
+                                    <tbody><tr>
+                                        <td>
+                                            <span id="lblWelcomeProfile">Welcome</span>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <span id="lblWcUserName" class="welcome"></span>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                                
+                            </div>
+                            <div class="seleExpand">
+                                <ul>
+                                    <li class="clsLnkEditProfile"><a>
+                                        Edit Profile</a></li>
+                                    <li class="clsLnkEditAddress"><a>
+                                        Edit Address</a></li>
+                                    <li class="clsLnkChngePwd" style="display: none;"><a>
+                                        Change Password</a></li>
+                                    <li class="clsLnkLogOut" onclick="FB.logout();"><a>
+                                        Logout</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="soCial" style="display: none;">
+                            <span>
+                                <a id="lnkConnectFacebook" class="faceIcon newwindow" href="https://www.facebook.com/McDonaldsIndia?ref=stream" target="_blank"></a>
+                                
+                            </span><span><a href="#" class="twitter" style="display: none"></a></span>
+                        </div>
+                        <span id="lblDemosite" class="languageSelectionContainer" style="color: #AD0808; font-weight: bold; margin-top: 15px; display: none;"></span>
+                        <div class="languageSelectionContainer">
+                            <div class="selectedLanguage">
+                                <span id="lblSelectedLanguage">English</span><span class="langArrow"></span></div>
+                            <div class="languagesContainer" style="display: none;">
+                                <ul>
+                                    <li>
+                                        <a id="lnkBtnEnglish" href="javascript:__doPostBack('ctl00$lnkBtnEnglish','')">English</a></li>
+                                    <li>
+                                        <a id="lnkBtnHindi" href="javascript:__doPostBack('ctl00$lnkBtnHindi','')">Hindi</a></li>
+                                    <li>
+                                        <a id="lnkBtnMarathi" href="javascript:__doPostBack('ctl00$lnkBtnMarathi','')">Marathi</a></li>
+                                    <li>
+                                        <a id="lnkBtnGujarati" href="javascript:__doPostBack('ctl00$lnkBtnGujarati','')">Gujarati</a></li>
+                                    <li>
+                                        <a id="lnkBtnTamil" href="javascript:__doPostBack('ctl00$lnkBtnTamil','')">Telugu</a></li>
+                                    <li>
+                                        <a id="lnkBtnKannada" href="javascript:__doPostBack('ctl00$lnkBtnKannada','')">Kannada</a></li>
+                                    <li style="display: none">
+                                        <a id="lnkBtnMalayalam" href="javascript:__doPostBack('ctl00$lnkBtnMalayalam','')">Malayalam</a></li>
+                                    <li>
+                                        <a id="lnkBtnTamil1" href="javascript:__doPostBack('ctl00$lnkBtnTamil1','')">Tamil</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="mcdLogo">
+                    <a href="/">mcDonaldsIndia</a></div>
+            </div>
+            <div class="wiTh277">
+                <div class="mycartDiv" style="display: none;">
+                    <div class="adCntnr01">
+                        <div class="acco2">
+                            <div class="expand mainCartParent">
+                            </div>
+                            <div class="expand favOrdersContainer">
+                                <a title="expand/collapse" href="#" class="favOrdersShowHideLink fvrt">
+                                    My Favorite Orders
+                                    <span></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="accrd">
+                    <div class="adCntnr">
+                        <div class="acco2">
+                            <div class="expand loginpnl">
+                                
+                                <a id="lnkLoginFB"><span id="lnkBtnLogin" title="Login / Facebook">Login / Facebook</span>
+                                    <span>
+                                        <img src="/images/facebkIcon.png" alt="">
+                                        <img src="/images/googlePlusIcon.png" alt="">
+                                        </span>
+                                        </a>
+ </div>
+                            <div class="collapse loginPanel" style="display: none;">
+                                <div class="accCntnt">
+                                    <div class="firstDiv">
+                                     <div id="Panel1">
+	
+                                        <div class="row1">
+                                            <input name="ctl00$txtMobileNumber" type="text" value="Mobile Number" id="txtMobileNumber" title="Mobile Number" class="OnlyNumeric water input1" autocomplete="off">
+                                            <input name="ctl00$txtMsgPwd" type="text" value="Enter Password" id="txtMsgPwd" title="Enter Password" class="input1 marrt" autocomplete="off" style="color: rgb(162, 160, 161);">
+                                            <input name="ctl00$txtPassword" type="password" id="txtPassword" title="Enter Password" class="input1 marrt hide" autocomplete="off" style="color: black; display: none;">
+                                        </div>
+                                        <div class="row2">
+                                            <div class="remB">
+                                                <input id="chkRememberMe" type="checkbox" name="ctl00$chkRememberMe">
+                                                <span id="lblRememberMe">Remember Me</span>
+                                            </div>
+                                            <div class="div2">
+                                                <a class="subMit1" href="#"><span>
+                                                    <input type="submit" name="ctl00$btnSubmit" value="Submit" id="btnSubmit" class="clsBtnSubmit">
+                                                </span></a>
+                                            </div>
+                                        </div>
+                                         
+</div>
+                                        <div class="row3">
+                                            <a id="lnkBtnForgotPassword" class="clsForgotPwd" href="javascript:__doPostBack('ctl00$lnkBtnForgotPassword','')">Forgot Password</a>
+                                            
+                                        </div>
+                                        <div class="row4">
+                                            <div class="flt">
+                                                or
+                                                <span id="lblLoginWith">Login With</span>
+                                            </div>
+                                          
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                        </div>
+ <div class="row4" style="clear:both">
+                                         <a href="#" class="faceBk fbicon FBbtns" onclick="FBLogin()"></a>
+                                            <input type="BUTTON" onclick="FBLogout()" value="logout" style="display: none;">
+                                                
+                                        <div id="gConnect">
+                                                <button class="g-signin" data-scope="https://www.googleapis.com/auth/plus.login  https://www.googleapis.com/auth/userinfo.email " data-requestvisibleactions="http://schemas.google.com/AddActivity" data-clientid="126194130444-3gt2g6fc4s86tn815gqj67q9js7kqahm.apps.googleusercontent.com" data-accesstype="offline" data-callback="onSignInCallback" data-theme="dark" data-cookiepolicy="single_host_origin">
+                                                </button>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                    <div class="row5">
+                                        <span id="lblNewUser">New User?</span>
+                                        
+                                        <a id="lnkBtnSignUp" class="clsSignUp" href="javascript:__doPostBack('ctl00$lnkBtnSignUp','')">Click Here</a>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="hgt6">
+                            </div>
+                            <div class="expand exploreMenuContainer">
+                                <a id="lnkBtnExploreMenu" href="javascript:__doPostBack('ctl00$lnkBtnExploreMenu','')">Explore Menu</a>
+                            </div>
+                            <div class="collapse" style="display: none;">
+                                <div class="accCntnt">
+                                    <div id="menuContainer" class="secdDiv">
+                                        
+                                    <ul><li><a href="javascript:__doPostBack('ctl00$ctl10','')">Value Meals</a></li><li><a href="javascript:__doPostBack('ctl00$ctl12','')">Classic With Twist</a></li><li><a href="javascript:__doPostBack('ctl00$ctl14','')">Burgers &amp; Wraps</a></li><li><a href="javascript:__doPostBack('ctl00$ctl16','')">McNuggets</a></li><li><a href="javascript:__doPostBack('ctl00$ctl18','')">Happy Meals</a></li><li><a href="javascript:__doPostBack('ctl00$ctl20','')">Royale Burgers</a></li><li><a href="javascript:__doPostBack('ctl00$ctl22','')">Sides</a></li><li><a href="javascript:__doPostBack('ctl00$ctl24','')">Pizza McPuff</a></li><li><a href="javascript:__doPostBack('ctl00$ctl26','')">Drinks</a></li><li><a href="javascript:__doPostBack('ctl00$ctl28','')">Desserts</a></li><li><a href="javascript:__doPostBack('ctl00$ctl30','')">McCafe</a></li></ul></div>
+                                </div>
+                            </div>
+                              <!-----------------For UserBase Promotion---------------------------------------------->
+                             
+                            <div class="collapse" style="display: none;">
+                                <div class="accCntnt">
+                                    <div id="UserPromo" class="MenuUserPromo">
+                                        <table style="table-layout: fixed; width: 100%;" class="tblz04">
+                                            <tbody>
+                                                <tr>
+                                                    <th style="width: 40%;text-align: left;font-weight: bold;background-color: #c6c6c6;padding: 10px 13px 10px;color: #000;">
+                                                        <label id="lblCode">
+                                                            Offer Code</label>
+                                                    </th>
+                                                    <th style="width: 30%;text-align: left;font-weight: bold;background-color: #c6c6c6;padding: 10px 13px 10px;color: #000;">
+                                                        <label id="lblDesc">
+                                                            Description</label>
+                                                    </th>
+                                                </tr>
+                                                
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                              <!--------------------------------------------------------------->
+                            <div id="div2" class="expand exploreUserbase" style="margin-top: 6px;">
+                                <div>
+                                    <a id="lnkChkPromo" class="OfferLink" href="javascript:__doPostBack('ctl00$lnkChkPromo','')">Check Offer Details</a>
+                                </div>
+                            </div>
+                            <div class="collapse" style="display: none;">
+                                <div class="accCntnt">
+                                    <div style="padding: 9px 0px 5px 0px;">
+                                        <input name="ctl00$txt_PromoCode" type="text" value="Enter promo code to get details" id="txt_PromoCode" title="Enter promo code to get details" class="txt_PromoCode" autocomplete="off">
+                                        <span id="btn_CheckPromo" class="btn_CheckPromo">GO</span>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                              <!--------------------------------------------------------------->
+                            <div class="hgt6" style="display: none;">
+                            </div>
+                            <div class="expand" style="display: none;">
+                                <a id="lnkBtnOrder" href="javascript:__doPostBack('ctl00$lnkBtnOrder','')">Order</a>
+                            </div>
+                            <div class="collapse" style="display: none;">
+                                <div class="accCntnt">
+                                    Burger
+                                </div>
+                            </div>
+                            <div class="hgt6" style="display: none">
+                            </div>
+                            <div class="expand" style="display: none">
+                                <a id="lnkBtnOffersDeals" href="javascript:__doPostBack('ctl00$lnkBtnOffersDeals','')">Offers And Deals</a>
+                            </div>
+                            <div class="collapse" style="display: none;">
+                                <div class="accCntnt" style="text-align: center;">
+                                    <a style="color: #000" href="/OffersDeals">Offers and Deals</a>
+                                </div>
+                            </div>
+                            <div class="hgt6" style="display: none">
+                            </div>
+                            <div class="expand" style="display: none">
+                                <a id="lnkBtnNeedHelp" href="javascript:__doPostBack('ctl00$lnkBtnNeedHelp','')">Need Help?</a>
+                            </div>
+                            <div class="collapse" style="display: none;">
+                                <div class="accCntnt" style="text-align: center;">
+                                    <a style="color: #000" href="/FAQ">FAQ's</a>
+                                </div>
+                            </div>
+                            <div class="hgt6">
+                            </div>
+                            <div class="expand prevOrders" style="display: none;">
+                                <a id="lnkBtnPreviousOrders" href="javascript:__doPostBack('ctl00$lnkBtnPreviousOrders','')">Previous Orders</a></div>
+                            <div class="collapse" style="display: none;">
+                                <div class="accCntnt" style="text-align: center;">
+                                    <div class="previousOrdersContent">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                 <div class="dnloadApp">
+          	     <div class="downloadAppBg">
+            	<div class="appIcons"> 
+                <a href="#" class="window lightbox1"><img src="../images/windowsIcon.png" width="28" height="26"></a>
+                <a href="#" class="blackB lightbox2"><img src="../images/blackberryIcon.png" width="29" height="20"></a>
+                <a href="#" class="android lightbox"><img src="../images/androidIcon.png" width="23" height="26"></a>
+                <a href="#" class="IOSapp lightbox3"><img src="../images/appleIcon.png" width="19" height="25"></a></div>
+            </div>
+          </div>
+          <div class="BulkOrdr"> </div>
+                <div class="storeTrack">
+                    <div class="storeLocator" title="Store Locator">
+                        <a id="lnkBtnStoreLocator" title="Store Locator" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lnkBtnStoreLocator", "", false, "", "/StoreLocator", false, true))'>Store Locator</a></div>
+                    <div class="trackOrder" title="Track Order">
+                        <a id="lnkBtnTrackOrder" title="Track Order" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lnkBtnTrackOrder", "", false, "", "/TrackOrder", false, true))'>Track your Order</a></div>
+                </div>
+                <div class="storeTrack" style="height: 250px;display:none;">
+                    <img id="imgBnnr" src="http://www.mcdelivery.co.in/Images/banner_Temp1.jpg" width="254px" height="244px">
+                </div>
+                 <div class="Banner" style="margin-left: 28px;">
+                    <img src="../images/Banner_sof15.jpg" alt="Free French Fries on Rs.150" style="height: 300px;"></div>
+                <div class="bottmDv" style="position: absolute; y: 700px; bottom: 0px;">
+                    <div class="callUs">
+                        <div class="cllus">
+                            Call Us
+                            
+                        </div>
+                        <p class="numb">
+                            66 000 666</p>
+                    </div>
+                    <a id="lnkBtnFeedback" class="feedBack" href="javascript:__doPostBack('ctl00$lnkBtnFeedback','')">Feedback +</a>
+                </div>
+                <div class="feedbackform" style="z-index: 100; font-family: &quot;Trebuchet MS&quot;, Arial, Helvetica; bottom: 0px;">
+                    <h2>
+                        Your Feedback
+                    </h2>
+                    <img alt="close" class="fbkclose" src="/images/close_bt01.gif">
+                    <table class="table tblz02">
+                        <tbody><tr>
+                            <td class="fbkcaption" width="32%">
+                                Related To
+                                &nbsp;<span class="mandatory">*</span>
+                            </td>
+                            <td width="30%">
+                                <select name="ctl00$ddlFeedbackRelatedTo" id="ddlFeedbackRelatedTo" class="FbkRelatedto t_select">
+	<option selected="selected" value="0">Select</option>
+	<option value="Online Ordering Site">Online Ordering Site</option>
+	<option value="Our Products">Our Products</option>
+	<option value="Our Service">Our Service</option>
+	<option value="Others">Others</option>
+
+</select>
+                            </td>
+                            <td class="tderror">
+                                <span class="error"></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="fbkcaption">
+                                I want to
+                                &nbsp;<span class="mandatory">*</span>
+                            </td>
+                            <td>
+                                <select name="ctl00$Fbkddltype" id="Fbkddltype" class="Fbkddltype t_select">
+	<option selected="selected" value="0">Select</option>
+	<option value="Compliments">Compliments</option>
+	<option value="Complaint">Complaint</option>
+	<option value="Feedback">Feedback</option>
+
+</select>
+                            </td>
+                            <td class="tderror">
+                                <span class="error"></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="fbkcaption">
+                                 Mobile number
+                            </td>
+                            <td>
+                                <input name="ctl00$FbktxtMobile" type="text" maxlength="15" id="FbktxtMobile" class="FbktxtMobile input1">
+                            </td>
+                            <td class="tderror">
+                                <span class="error"></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="fbkcaption">
+                                Feedback
+                                &nbsp;<span class="mandatory">*</span>
+                            </td>
+                            <td>
+                                <textarea name="ctl00$txtFeedback" rows="2" cols="20" id="txtFeedback" class="FbkDetails textarea"></textarea>
+                            </td>
+                            <td class="tderror">
+                                <span class="error"></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                &nbsp;
+                            </td>
+                            <td colspan="2">
+                                <a href="#" class="subMit1"><span>
+                                    <input type="submit" name="ctl00$btnFeedbackSubmit" value="Submit" id="btnFeedbackSubmit" class="feedbacksubmit clsBtnSubmit">
+                                </span></a>
+                                <span id="fbksucessmsg" class="fbksucessmsg">Thank you for your valuable feedback</span>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </div>
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        <div class="mainFooter">
+            <div class="flogo">
+                <span>
+                    <img src="../images/flogo.png" alt=""></span>
+                <p>
+                    <!-- Visit:-->
+                    <a href="http://www.mcDonaldsIndia.com" class="newwindow" target="_blank">www.mcdonaldsindia.com</a></p>
+                <p class="copyWrt">
+                    © 2013 McDonald's Corporation. All Rights Reserved.
+                </p>
+                <p class="flinks">
+                    <a class="lnktermsconditions" href="#">
+                        Terms of Use</a> <a href="#" style="display: none">
+                                Disclaimer</a> <a href="/ContactUs" style="display: none">
+                                        Contact Us</a></p>
+                <p class="flinks">
+                    <a href="/PrivacyPolicy">
+                        PrivacyPolicy</a>
+                </p>
+                <div class="siteCrdt">
+                    Design and Developed by
+                    <a href="http://www.idealake.com" class="newwindow" target="_blank">
+                        <img src="../images/idealake.png" alt="idealake">Idealake 21</a></div>
+            </div>
+        </div>
+    </div>
+    </form>
+    <!-- Google Code for Remarketing tag -->
+    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+    <script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1000857609;
+var google_conversion_label = "sWe8COfoqgQQicCf3QM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1000857609/?value=0&amp;label=sWe8COfoqgQQicCf3QM&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+     <script type="text/javascript">
+     
+      (function () {
+            var po = document.createElement('script');
+            po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://plus.google.com/js/client:plusone.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(po, s);
+        })();
+    </script>
+
+
+<div class="overlay" style="display: none;"></div><div class="Overlayloading loading" style="display: none;"></div><div class="loader loading" style="top: 2668px; left: 658px; display: none;"></div><div class="BackgroundLayer"></div></body></html>
