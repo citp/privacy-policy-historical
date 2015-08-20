@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kartrocket.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629085037id_/http%3A//www.kartrocket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kartrocket.com privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820091918id_/https%3A//www.kartrocket.com/privacy-policy) for the most accurate reproduction.*
 
 # KartRocket Privacy Policy - KartRocket.com
 
