@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentcom.co.uk privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621000041id_/http%3A//www.studentcom.co.uk/studentcom-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcom.co.uk privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820065951id_/http%3A//www.studentcom.co.uk/studentcom-privacy.html) for the most accurate reproduction.*
 
 # StudentCom :: Portal
 
