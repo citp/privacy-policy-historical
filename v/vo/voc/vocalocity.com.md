@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vocalocity.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408061723id_/http%3A//www.vonagebusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocalocity.com privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821013634id_/https%3A//business.vonage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vonage Business Solutions (Vocalocity)
+# Privacy Policy | Vonage Business
 
-## Scope of This Notice
+## Scope of this Notice
 
-This Privacy Policy is to inform you of Vonage Business Solutions’ privacy practices and provide information about the ways in which information collected by Vonage is used and disclosed.
+This Privacy Policy is to inform you of Vonage Business’s privacy practices and provide information about the ways in which information collected by Vonage is used and disclosed.
 
 ## Our Commitment to Privacy
 
@@ -12,7 +12,7 @@ At Vonage, your privacy is important to us. We have provided this Privacy Policy
 
 ## The Information We Collect
 
-This Privacy Policy applies to all information collected by or which you submit to Vonage, whether on our websites, through our mobile or other proprietary applications, or by fax, e-mail, phone or otherwise, including personal information. “Personal information” is information that reasonably can be used to identify an individual.
+This Privacy Policy applies to all information collected by or which you submit to Vonage Business, whether on our websites, through our mobile or other proprietary applications, or by fax, e-mail, phone or otherwise, including personal information. “Personal information” is information that reasonably can be used to identify an individual.
 
 ## Vonage collects personal information when:
 
