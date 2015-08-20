@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gianttiger.ca privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618211949id_/http%3A//www.gianttiger.com/topic/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gianttiger.ca privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821004146id_/http%3A//www.gianttiger.com/topic/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Legal - | your save on everything store
 
