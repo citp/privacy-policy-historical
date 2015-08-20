@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niterider.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001608id_/http%3A//www.niterider.com/niterider-privacy-policy-information-you-should-know) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niterider.com privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820043224id_/https%3A//www.niterider.com/niterider-privacy-policy-information-you-should-know) for the most accurate reproduction.*
 
 # Privacy - NiteRider Lighting Systems
 
