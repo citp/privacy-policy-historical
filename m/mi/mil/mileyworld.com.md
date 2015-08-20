@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mileyworld.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629072650id_/http%3A//www.mileycyrus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileyworld.com privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820145029id_/http%3A//www.mileycyrus.com/privacy) for the most accurate reproduction.*
 
 # Miley Cyrus
 
