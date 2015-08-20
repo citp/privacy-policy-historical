@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazypiglet.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620050440id_/http%3A//www.crazypiglet.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazypiglet.com privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820050802id_/http%3A//www.crazypiglet.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
