@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blocksi.net privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617064406id_/http%3A//www.blocksi.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blocksi.net privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821001704id_/http%3A//www.blocksi.net/privacy.php) for the most accurate reproduction.*
 
 # Blocksi
 
@@ -6,7 +6,7 @@
 
 Last updated: June 21, 2014
 
-  * Blocksi SAS ("us", "we", or "our") operates the [http://www.blocksi.net](http://www.blocksi.net/) website (the "Service").
+  * Blocksi LLC ("us", "we", or "our") operates the [http://www.blocksi.net](http://www.blocksi.net/) website (the "Service").
   * This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. We will not use or share your information with anyone except as described in this Privacy Policy.
   * We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.
   * Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [http://www.blocksi.net](http://www.blocksi.net/)
@@ -54,7 +54,7 @@ Last updated: June 21, 2014
 
 ## Business Transaction
 
-  * If Blocksi SAS is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
+  * If Blocksi LLC is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
 
 
@@ -67,7 +67,7 @@ Last updated: June 21, 2014
 ## International Transfer
 
   * Your information, including Personal Information, may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
-  * If you are located outside France and choose to provide information to us, please note that we transfer the information, including Personal Information, to France and processes it there.
+  * If you are located outside of USA or France and choose to provide information to us, please note that we transfer the information including Personal Information, to USA or France and processes it there.
   * Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
 
