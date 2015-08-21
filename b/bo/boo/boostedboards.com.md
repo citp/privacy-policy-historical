@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boostedboards.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419155835id_/http%3A//boostedboards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostedboards.com privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821021716id_/http%3A//boostedboards.com/privacy) for the most accurate reproduction.*
 
 # Boosted, Inc. Privacy Policy - Boosted Boards
 
 _Last Updated: 11/26/2014_
 
-This Policy describes how Personal Data collected from users of [http://boostedboards.com](http://boostedboards.com/ "Boosted, Inc.") is used and disclosed by Boosted, Inc.
+At Boosted, your privacy is very important to us. This Privacy Policy describes how personal data collected from users of [http://boostedboards.com](http://boostedboards.com/ "Boosted, Inc.") is used and disclosed by Boosted, Inc.
 
 ## Data Controller and Owner
 
@@ -65,6 +65,14 @@ Personal Data collected: Cookie and Usage Data.
 
 Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/ "Google Analytics Privacy Policy") – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en "Google Analytics Opt-Out")
 
+#### [Segment](http://segment.io/)
+
+Segment is a customer data hub. You send us your data from any device or platform.
+
+Personal Data collected: Website usage data.
+
+Place of processing: USA – [Privacy Policy](https://segment.com/docs/legal/privacy/)
+
 ### Managing email addresses and sending messages
 
 These services make it possible to manage a database of email contacts to communicate with the User via email. The services are used to collect data concerning the date and time when the mail is viewed by the User, as well as when the User interacts with incoming mail, such as by clicking on links included in the email.
@@ -95,7 +103,13 @@ Place of processing: USA – [Privacy Policy](https://www.adroll.com/about/priva
 
 Shopify powers the e-commerce and payment processing functionality on [http://shop.boostedboards.com](http://shop.boostedboards.com/).
 
-Place of processing: Canada – [Privacy Policy](https://web.archive.org/web/20150419155835id_/http://boostedboards.com/privacy/Shopify%20%20AdRoll%20is%20a%20privately%20held%20global%20technology%20company.%20It%20offers%20advertisers%20retargeting%20products%20for%20cross-platform,%20cross-device%20display%20advertising. "Shopify")
+Place of processing: Canada – [Privacy Policy](https://www.shopify.com/legal/privacy "Shopify")
+
+#### Enjoy
+
+Enjoy powers same-day delivery for Boosted customers in San Francisco and New York City.
+
+Place of processing: USA – [Privacy Policy](https://www.goenjoy.com/pages/privacy "Enjoy")
 
 #### Sift Science
 
