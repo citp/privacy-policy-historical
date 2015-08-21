@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515231625id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821090515id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy,
 
@@ -12,8 +12,11 @@ Our definition of personal information does not include "aggregate" information.
 
 We collect the personal information that you provide us, such as when you:
 
-  * Sign up for or register on Flowershop.ae;
+  * Sign up for , register, or guest checkout on Flowershop.ae;
   * Register to use Flowershop.ae or sign up for news or notifications of specials or other promotions on Flowershop.ae;
+  * Submit your email address at Guest Checkout
+  
+
   * Place an order or purchase products or services at our online store or over the phone;
   * Contact us for any reason, such as by replying to inquires by mail, fax or through our website, by telephone through customer service, or in person at one of our locations; or
   * We may automatically collect some information when you visit our website, such as your computer's network address and operating system, the site from which you linked to us, your site activity and the time and date of your visit and purchases. This information may be collected through the use of "cookies" (see Online Specifics below). We also receive information from third parties who provide services or special promotions or products and we may combine this information with the other personal information we maintain about you. In either case, this policy statement governs this information.
