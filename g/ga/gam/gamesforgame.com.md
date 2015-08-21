@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesforgame.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621014636id_/http%3A//gamesforgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforgame.com privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821032635id_/http%3A//www.gamesforgame.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
