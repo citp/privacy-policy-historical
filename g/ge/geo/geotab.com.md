@@ -1,47 +1,70 @@
-> *The following text is extracted and transformed from the geotab.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503003842id_/http%3A//geotab.com/PrivacyStatement/tabid/141/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geotab.com privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821172650id_/https%3A//docs.google.com/document/d/1sVygLN02w2xNovFY4q5vw-oAzfYxCd7WLhyToElgDbs/pub) for the most accurate reproduction.*
 
-# Privacy Statement
+# Geotab Privacy Policy
 
-Geotab Inc is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Geotab Inc Web site and governs data collection and usage. By using the Geotab Inc website, you consent to the data practices described in this statement.
+In this Website Privacy Statement, we, Geotab Inc., explain what personal data we collect from you, a visitor of our public website at geotab.com. This Statement does not cover any of our other data collection and processing practices, including our data processing in connection with our telematics product and offline data processing. Please read the following carefully to understand our practices regarding your personal data and how we will treat it. By visiting our site at [www.geotab.com](http://www.google.com/url?q=http%3A%2F%2Fwww.geotab.com&sa=D&sntz=1&usg=AFQjCNGo6uyx6xRlvBsXsPJHDDbFOoiiCw) you are accepting and consenting to the practices described in this policy. As we continue to develop our website and take advantage of technologies to improve the services we offer, this statement will likely change. We encourage you to review this statement whenever you visit our site.
 
-Collection of your Personal Information
+## Cookies
 
-Geotab Inc collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Geotab Inc also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+[Click here ](https://docs.google.com/document/d/16WpzHxVSGhIliCQuD0HMY4mGgGIxYRkwq0c2BB1TMOI/pub)for more Information about our cookies policy.
 
-There is also information about your computer hardware and software that is automatically collected by Geotab Inc. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Geotab Inc for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Geotab Inc Web site.
+Links
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Geotab Inc public message boards, this information may be collected and used by others. Note: Geotab Inc does not read any of your private online communications.
+This website may contain links to other websites. Please note that when you click on one of these links, you are entering another website. We encourage you to read the privacy statements of these linked websites as their privacy policy may differ from ours.
 
-Geotab Inc encourages you to review the privacy statements of Web sites you choose to link to from Geotab Inc so that you can understand how those Web sites collect, use and share your information. Geotab Inc is not responsible for the privacy statements or other content on Web sites outside of the Geotab Inc and Geotab Inc family of Web sites.
+## When do we collect information?
 
-Use of your Personal Information
+We collect information from you when you fill out a form or enter information on our website. In addition, we may also collect information relating to your use of our Web sites through the use of various technologies, including cookies.
 
-Geotab Inc collects and uses your personal information to operate the Geotab Inc Web site and deliver the services you have requested. Geotab Inc also uses your personally identifiable information to inform you of other products or services available from Geotab Inc and its affiliates. Geotab Inc may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+## How do we use your information?
 
-Geotab Inc does not sell, rent or lease its customer lists to third parties. Geotab Inc may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Geotab Inc may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Geotab Inc, and they are required to maintain the confidentiality of your information.
+We may use the information we collect from you when you register, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other website features in the following ways:
 
-Geotab Inc does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+  * To improve our website in order to better serve you.
 
-Geotab Inc keeps track of the Web sites and pages our customers visit within Geotab Inc, in order to determine what Geotab Inc services are the most popular. This data is used to deliver customized content and advertising within Geotab Inc to customers whose behavior indicates that they are interested in a particular subject area.
 
-Geotab Inc Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Geotab Inc or the site; (b) protect and defend the rights or property of Geotab Inc; and, (c) act under exigent circumstances to protect the personal safety of users of Geotab Inc, or the public.
+  * To allow us to better service you in responding to your customer service requests.
 
-Use of Cookies
 
-The Geotab Inc Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+  * To send periodic emails regarding your order or other products and services.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Geotab Inc pages, or register with Geotab Inc site or services, a cookie helps Geotab Inc to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Geotab Inc Web site, the information you previously provided can be retrieved, so you can easily use the Geotab Inc features that you customized.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Geotab Inc services or Web sites you visit.
 
-Security of your Personal Information
+## Disclosures, sharing
 
-Geotab Inc secures your personal information from unauthorized access, use or disclosure. Geotab Inc secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+## We do not disclose your personal data to third parties, except as follows:
 
-Changes to this Statement
+  * With your consent.
 
-Geotab Inc will occasionally update this Statement of Privacy to reflect company and customer feedback. Geotab Inc encourages you to periodically review this Statement to be informed of how Geotab Inc is protecting your information.
 
-Contact Information
+  * We use affiliated and unaffiliated service providers all over the world that help us deliver our service and run our business subject to strict confidentiality agreements.
 
-Geotab Inc welcomes your comments regarding this Statement of Privacy. If you believe that Geotab Inc has not adhered to this Statement, please [Contact Us](https://web.archive.org/ContactUs/tabid/55/Default.aspx). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+  * We share business contact information with business partners that help us promote and support our products and services, including resellers and service providers.
+
+
+  * We share aggregated statistics that cannot be used to identify you individually.
+
+
+  * We will disclose data as required by law or to protect you, other users, us or third parties from harm, including fraud, data security breaches or where someone's physical safety seems at risk.
+
+
+  * In a reorganization or sale of our company or assets, your data may be transferred, subject to the acquirer accepting the commitments made in this Statement and compliance with applicable law.
+
+
+
+## How do we protect visitor information?
+
+Geotab uses reasonable measures to protect information from unauthorized access, collection, use, disclosure, copying, modification or disposal or similar risks. We will continually review and update our securities and controls as technology changes to ensure ongoing personal information security.
+
+## Changes to our privacy statement
+
+Any changes we may make to our privacy statement in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy statement.
+
+## Contact
+
+Questions, comments and requests regarding this privacy statement are welcomed and should be addressed to webmaster@geotab.com.
+
+Effective Date
+
+This Statement is effective May 6, 2015. We may amend it from time to time by posting a new version on our Site.
