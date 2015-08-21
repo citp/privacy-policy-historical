@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmental-expert.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702005653id_/http%3A//xprt.com/administration/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmental-expert.com privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821145434id_/http%3A//xprt.com/administration/privacy.asp) for the most accurate reproduction.*
 
 # XPRT Business Information Center.
 
@@ -14,7 +14,7 @@ At times, Environmental Expert will ask you to provide us with personal contact 
 
 While you do not need to sign up to use Environmental Expert, we do need some information from you to access certain features of the site; you are asked for limited personal and demographic information and are required to choose a username and password that will be used to gain access on subsequent visits to Environmental Expert. This information will constitute your user profile. While most of the information we collect is used internally for site analysis and improvement, some of your information is used in compiling reports (see reporting) for the companies that list on our site.
 
-You may edit or change your profile at any time by logging in. 
+**You may edit or change your profile at any time by logging in.**
 
 ## Communicating With Suppliers 
 
