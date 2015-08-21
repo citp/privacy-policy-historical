@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bored-bored.com privacy policy that was archived on 2014-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140908214719id_/http%3A//bored-bored.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bored-bored.com privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821205154id_/http%3A//bored-bored.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bored? Look no further, you are at the right spot
 
