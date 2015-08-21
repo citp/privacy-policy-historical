@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adchakra.net privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624033356id_/http%3A//www.adchakra.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adchakra.net privacy policy that was archived on 2015-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150821063417id_/http%3A//www.adchakra.net/%3Fpage_id%3D2942) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Adchakra
 
