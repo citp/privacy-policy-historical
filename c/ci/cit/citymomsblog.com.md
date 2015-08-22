@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the citymomsblog.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020230id_/http%3A//citymomsblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citymomsblog.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822024409id_/http%3A//citymomsblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City Moms Blog Network
 
-This Privacy Policy governs the manner in which CityMomsBlog.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.citymomsblog.com website (“Site”). This privacy policy applies to the Site and all products and services offered by City Moms Blog Network.
+This Privacy Policy governs the manner in which CityMomsBlog.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://citymomsblog.com website (“Site”). This privacy policy applies to the Site and all products and services offered by City Moms Blog Network.
 
 Personal Identification Information
 
