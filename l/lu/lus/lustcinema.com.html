@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lustcinema.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315042733id_/http%3A//www.lustcinema.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lustcinema.com privacy policy that was archived on 2015-08-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150822112246id_/http%3A//www.lustcinema.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta charset="UTF-8">
@@ -31,7 +31,7 @@
             <link rel="stylesheet" type="text/css" href="/bundles/frontend/common/styles/IEfix.css" />
         <![endif]-->
         
-                
+        
                                     
                 
             <script type="text/javascript">
@@ -74,7 +74,52 @@
         
                                         <script type="text/javascript" src="http://www.lustcinema.com/bundles/cmscore/js/jwplayer6/jwplayer.js"></script>
         <script type="text/javascript">jwplayer.key="yOVBr7xudSQY4JDiPF1KWX+dg4eaXrftPuKaXx+NDJs=";</script>
-                        
+                
+                <script type="text/javascript">
+            $(document).ready(function(e){
+                // TOUR
+                $('input#top_search_terms').keypress(function(e) {
+                    if (e.which == 13) {
+                        $('form#topSearchForm').submit();
+                        e.preventDefault();
+                    }
+                });
+                $('form#topSearchForm').bind('submit', function(e){
+                    var sTerms = $('input#top_search_terms').val();
+                    if(sTerms != '')
+                    {
+                        $(this).attr('action', Routing.generate('sphinx_search_results.en', {
+                            'search_terms': $.trim(sTerms),
+                            'filter': 'all'
+                        }));
+                    } else {
+                        e.preventDefault();
+                        return false;
+                    }
+                });
+                // MEMBERS
+                $('input#top_search_terms_members').keypress(function(e) {
+                    if (e.which == 13) {
+                        $('form#topSearchForm_members').submit();
+                        e.preventDefault();
+                    }
+                });
+                $('form#topSearchForm_members').bind('submit', function(e){
+                    var sTerms = $('input#top_search_terms_members').val();
+                    if(sTerms != '')
+                    {
+                        $(this).attr('action', Routing.generate('sphinx_search_results.en', {
+                            'search_terms': $.trim(sTerms),
+                            'filter': 'all'
+                        }));
+                    } else {
+                        e.preventDefault();
+                        return false;
+                    }
+                });
+            });
+        </script>
+        
         
     </head>
         <body>
@@ -109,16 +154,7 @@
                         <script src="/bundles/frontend/common/js/voucher.js"></script>
                         <!-- end of modal popup -->
                     </div>
-                    <div class="search">
-                        <div>
-                            <form action="/join" method="post" name="searchform">
-                            <input name="view" value="search" type="hidden">
-                            <input name="search" id="serchinput" class="in1" value="Advanced Search..." onfocus="this.value=''" onblur="" type="text">
-                            <input class="search-button" src="/bundles/frontend/lustcinema/images/go.png" value="" type="image">
-                            </form>
-                        </div>
-                    </div>
-                                                        </div>    
+                                                                            </div>    
             </div>
             <div class="clear"></div>
 
@@ -130,16 +166,15 @@
 					 <li><a href="/about">ABOUT</a></li> 
                     <li><a href="/movies">MOVIES</a></li>
                     <li><a href="/chapters">CHAPTERS</a></li>
+                    <li><a href="/girls">CAST</a></li>
                     <li><a href="/directors">DIRECTORS</a></li>
                     <li><a href="http://store.erikalust.com/" target="_blank">STORE</a></li>
                                         <li class="last"><a href="/join">BECOME A MEMBER</a></li>
                                     </ul>
                 <div class="clear"></div>
                 <ul class="bottom_menu">
-                    <!--<li><a href="blog.html">ERIKA LUST'S BLOG</a></li>-->
-                    <li><a href="/lust-news">NEWS</a></li>
-                    <!--<li><a href="/lust-festival">LUST FILM FESTIVAL</a></li>-->
-					<li><a href="/magazines">IN THE MEDIA</a></li>
+                                        <li><a href="/lust-news">NEWS</a></li>
+                    					<li><a href="/magazines">IN THE MEDIA</a></li>
                                     </ul>
                                 <div class="clear"></div>
             </div>
@@ -176,7 +211,7 @@
 </p>
                 </div>
                 <ul>
-                    <li class="first"><a href="http://www.manicasupport.com/" target="_blank">Support</a></li>
+                    <li class="first"><a href="http://support.stiffia.com/" target="_blank">Support</a></li>
                     <li><a href="http://users.manicasupport.com/" target="_blank" title="">Cancel your membership</a></li>
                                         <li><a href="/password/retrieve" target="_blank" title="">Retrieve password</a></li>
                                         <li class="last"><a href="http://www.manicamoney.com" target="_blank" title="">Adult Affiliate Program</a></li>
@@ -265,8 +300,7 @@
                 e.preventDefault();
                 $.colorbox({href: Routing.generate('members_avatar_form'), iframe:true, width:"580px", height:"430px", scrolling:false, overlayClose: true});
             });
-
-                    </script>
+        </script>
     
     
 <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
