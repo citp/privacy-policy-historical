@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the haneyuniversity.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111045714id_/http%3A//www.haneyuniversity.com/standard/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haneyuniversity.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822221208id_/http%3A//membership.haneyuniversity.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-**(Last Revised: December 1, 2012)**
+(Last Revised: February 25, 2015)
 
 Thank you for visiting this web site. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site. Please read this Privacy Policy before using this site or submitting any personal information. By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
@@ -30,13 +30,13 @@ Persistent cookies enable us to track and target the interests of our users to e
 
 Third party vendors, including Google, show our ads on sites on the internet.
 
-Third party vendors, including Google, use our cookies to serve HaneyUniversity.com ads based on a user’s prior visits to our website.
+Third party vendors, including Google, use our cookies to serve [ GolfTailor.com ](https://web.archive.org/web/20150822221208id_/http://membership.haneyuniversity.com/privacy-policy/GolfTailor.com) ads based on a user’s prior visits to our website.
 
 Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/policies/privacy/ads/). (Alternatively you can opt out of a third party vendor’s use of our cookies by visiting the [ Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
-**How can I disable the display of HaneyUniversity.com personalized advertisements?**
+**How can I disable the display of GolfTailor.com personalized advertisements?**
 
-If you no longer want to be exposed to HaneyUniversity.com personalized banners, you can opt out by simply visiting the Network Advertising Initiative website: [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+If you no longer want to be exposed to GolfTailor.com personalized banners, you can opt out by simply visiting the Network Advertising Initiative website: [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
   * **Please note:** This procedure will not block ads that are displayed on the websites you visit.
   * **Please note:** This opt out relies on a cookie, so if you wipe all your cookies then we will no longer know that you have opted out.
@@ -51,3 +51,13 @@ We may use your IP address to help prevent fraud, to help diagnose problems with
 **Third Party Web Sites**
 
 This web site and/or the products and/or services offered herein may direct you to web sites that are owned and/or controlled by third parties. We have no control over those third parties and are not responsible for the content or the privacy practices of those sites or companies.
+
+**Commitment to Data Security**
+
+All information collected from you is stored in a technically and physically secure environment. We use SSL encryption to protect sensitive information online, and we do everything we can to protect user information offline. Unfortunately, no transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take reasonable measures to protect your information, we cannot ensure or warrant the security of the information that you transmit to us, and you do so at your own risk.
+
+**Contacting Us**
+
+If you need to contact us, you can email us at [Support@GolfTailor.com](mailto:Support@GolfTailor.com), call us at 888-241-2460, or send us a letter at: 103 S. Broadway, Suite 210, Edmond OK 73034.
+
+We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
