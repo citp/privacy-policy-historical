@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsocial.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630195651id_/http%3A//www.xsocial.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsocial.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822205445id_/http%3A//www.xsocial.com/site/privacy) for the most accurate reproduction.*
 
 # xSocial - Spice up your life with a discreet encounter!
 
