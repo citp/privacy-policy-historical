@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the freester.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623232930id_/http%3A//www.freester.com/info_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freester.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822175910id_/http%3A//www.freester.com/info_privacy.asp) for the most accurate reproduction.*
 
 # freester.com
 
 7-Day Free Trial  
-**Ends Jun. 30, 2015**
+**Ends Aug. 29, 2015**
 
 Monthly Membership of **$9.95**  
 automatically charged after free trial
