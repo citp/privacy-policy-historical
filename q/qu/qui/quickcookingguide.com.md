@@ -1,56 +1,85 @@
-> *The following text is extracted and transformed from the quickcookingguide.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121009id_/http%3A//www.quickwomensguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickcookingguide.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822090559id_/http%3A//quickcookingguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Quick Cooking Guide
 
-Quick Women’s Guide owns and operates this website. We are committed to the privacy and security of our visitors’ information. The following is a statement of our privacy practices:
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-## Information Collected
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
-  * Your personal information is not required to visit http://www.quickmensguide.com
-  * Any personal information collected is knowingly provided by you and only when requested/required during account registration for interactive participation on http://www.quickmensguide.com and during the ordering process
+**What personal information do we collect from the people that visit our blog, website or app?**  
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
+**When do we collect information?**  
+We collect information from you when you fill out a form or enter information on our site.
 
+**How do we use your information?**  
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
+To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-### Traffic Data
+**How do we protect visitor information?**  
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-  * Your IP address is a numeric address assigned to your computer, assigned by your Internet service provider. We automatically collect your IP address as traffic data so that we can send information back to you when requested. This is not used to identify your personal information.
-  * Referrers are references to the web address you linked from and is automatically passed along by your web browser. We collect referrers your browser sends as part of traffic data. This is not attached to personally identifiable information.
-  * System information such as your operating system/platform, and the type of web browser you use. This is not attached to personally identifiable information.
-
-
-
-## Information Use
-
-### Account Information
-
-  * Your information is maintained on a secure web server in what we believe to be a well protected environment.
-  * Quick Women’s Guide only shares personal information to billing companies for completing transactions and for no other purpose. No other information is shared with any other third-party company for any purpose, under any circumstance.
-  * Quick Women’s Guide makes every effort to preserve your privacy, personal information may be disclosed when required by law where we have a good-faith belief that such action is necessary to comply with a judicial proceeding, court order or legal process.
+  * We use regular Malware Scanning.
+  * We do not use an SSL certificate
+  * We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
 
 
 
-### Cookies
+**Do we use ‘cookies’?**
 
-http://www.quickmensguide.com relies on “cookie” technology to allow you to re-access your registered account profile during a web session. This mechanism is employed solely for your convenience and for no other purpose.
+We do not use cookies for tracking purposes.
 
-### Links
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
 
-This Web site contains links to other sites. Please be aware that we, Quick Women’s Guide, are not responsible for the privacy practices of such other sites. We encourage our visitors to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
 
-### Security
+**Third Party Disclosure**  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
 
-This web site takes every precaution to protect our visitor’s information. When visitors submit sensitive information via the web site, their information is protected both online and off-line.
+**Third party links**  
+We do not include or offer third party products or services on our website.
 
-We do everything in our power to protect user-information off-line. All of our customers’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
+**Google**  
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en  
+We have not enabled Google AdSense on our site but we may do so in the future.
 
-If visitors have any questions about the security on http://www.quickmensguide.com, feel free to contact Customer Service.
+**California Online Privacy Protection Act**  
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-### Correcting, Updating, Deleting & Deactivating Personal Information
+**According to CalOPPA we agree to the following:**  
+Users can visit our site anonymously  
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
+Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.  
+Users will be notified of any privacy policy changes:  
+• On our Privacy Policy Page  
+Users are able to change their personal information:  
+• By emailing us
 
-If a visitor’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a visitor no longer desires our service, we provide a way to correct, update or delete/deactivate personally identifiable information. This can usually be done at the ‘Your Account’ page or by contacting our Customer Service.
+**How does our site handle do not track signals?**  
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-## Notification of Changes
+**Does our site allow third party behavioral tracking?**  
+It’s also important to note that we do not allow third party behavioral tracking
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our visitors are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**COPPA (Children Online Privacy Protection Act)**  
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.  
+We do not specifically market to children under 13.
 
-If, however, we are going to use visitors’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our web site for 30 days.
+**Fair Information Practices**  
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.  
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
+We will notify the users via email  
+• Within 7 business days  
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**  
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.  
+We collect your email address in order to:  
+To be in accordance with CANSPAM we agree to the following:
+
+If at any time you would like to unsubscribe from receiving future emails, you can  
+and we will promptly remove you from ALL correspondence.
+
+Hot Cooks LLC  
+901 Marquette Avenue, Suite 1500  
+Minneapolis MN, 55402
