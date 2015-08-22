@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosalons.biz privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504024511id_/http%3A//www.infosalonsgroup.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosalons.biz privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822131422id_/http%3A//www.infosalonsgroup.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Info Salons Privacy Policy
 
