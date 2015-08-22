@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the qless.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608001101id_/http%3A//qless.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qless.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822062418id_/http%3A//www.qless.com/about/privacy) for the most accurate reproduction.*
 
 # QLess Privacy Policy | Secure Information | California, United States
 
 ## QLess Privacy Policy
 
-Address: 840 E Green St., Suite 301, Pasadena, CA 91101  
+Address: QLess, Suite 900, 150 S Los Robles Ave, Pasadena, CA 91101  
 Send an email to [sales@qless.com](mailto:sales@qless.com) or call us at  **800-4-0-LINES**
 
 * * *
