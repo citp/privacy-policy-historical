@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehunchblog.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527013304id_/http%3A//www.thehunchblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehunchblog.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822054455id_/http%3A//www.thehunchblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Hunchblog of Notre Dame
 
