@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happystudio.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627010735id_/http%3A//www.happystudio.com/Parent/Panel/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happystudio.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822203949id_/http%3A//www.happystudio.com/Parent/Panel/Policy) for the most accurate reproduction.*
 
 # Happy Studio - Our Internet Policy
 
@@ -164,6 +164,8 @@ If you prevent cookies, including functionality cookies, this may mean we can't 
 Targeting cookies collect the most information about users. These cookies are used to deliver advertising targeted to you and your interests. We do not use targeting cookies on this website.
 
 However if we ever wished to do so in the future, we would not do so without your express consent, which we would usually obtain by asking you to register and/or opt in to a particular service.
+
+NULL
 
 Cookies we use, for how long and why
 
