@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxorlando.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531090732id_/http%3A//www.myfoxorlando.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxorlando.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822163745id_/http%3A//www.myfoxorlando.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - FOX 35 News Orlando
 
