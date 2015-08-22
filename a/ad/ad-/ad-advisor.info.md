@@ -1,52 +1,219 @@
-> *The following text is extracted and transformed from the ad-advisor.info privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607054814id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad-advisor.info privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822082809id_/http%3A//ad-advisor.info/privacy-policy) for the most accurate reproduction.*
 
-# Neustar | Privacy Policy
+# Privacy Policy | Ad Advisor
 
-**Highlights of the Neustar Privacy Policy**
-
-Updated: November 15, 2012
-
-Neustar uses Personal Information to support data-driven decision making and deliver personalized content  _without_  sacrificing personal privacy.  These “Highlights” summarize Neustar’s privacy practices.  You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Policy](https://web.archive.org/privacy/privacy_policy) and [Privacy Principles](https://web.archive.org/privacy/privacy_principles). 
-
-**Our Commitment – Privacy by Design**
-
-We follow the [Neustar Privacy Principles](https://web.archive.org/privacy/privacy_principles), including the principle of Privacy by Design _,_  to design, build, and deliver products and services that respect your privacy. 
-
-**Personal Information Collection, Use, and Disclosure**
-
-We collect Personal Information from you directly and from businesses that use our products and services.  We use registration data, including Personal Information, supplied by our online [Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners) to set AdAdvisor Cookies, which do not contain or convey Personal Information.  Finally, we collect and use Personal Information and other demographic data from a variety of sources such as telephone directories, the US Postal Service, the Census Bureau, and from other third parties.  We do not use Sensitive Personal Information without your permission.  
-
-Click on the links below to learn more about the Personal Information we collect and how we use it:
-
-  * [Information You Provide on our Web Site](https://web.archive.org/privacy/privacy_policy#info-you-provide)  
- 
-  * [Market Segmentation Data](https://web.archive.org/privacy/privacy_policy#market-segmentation-data)  
- 
-  * [Online Advertising](https://web.archive.org/privacy/privacy_policy#online-advertising)  
- 
-  * [Other Name and Contact Data](https://web.archive.org/privacy/privacy_policy#other-use)  
- 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
 
 
+ **What personal information do we collect from the people that visit our blog, website or app?**
 
-**Cookies**
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address or other details to help you with your experience.
 
-We may use Cookies, Web Beacons, Pixel Tags and similar technologies to enhance and personalize your experience on our web sites and to track, manage, and enable visitor transactions and preferences.  In addition, we work with a variety of  _[Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners)_  to set [ _AdAdvisor Cookies_](https://web.archive.org/privacy/privacy_policy#cookies).   Businesses use these cookies, which do not contain or convey [Personal Information](https://web.archive.org/web/20130607054814id_/http%3A//www.neustar.biz/privacy/privacy_principles#personal-info), to tailor online advertising based on our predictions about the preferences and interests of large groups of similar consumers, and to measure the effectiveness of ad campaigns.
+ **When do we collect information?**
 
-**Transparency and Choice**
+We collect information from you when you register on our site, fill out a form or enter information on our site.
 
-You can check the [AdAdvisor Profile Manager](http://www.adadvisor.net/profileUpdate.html) to see if we have set an [AdAdvisor Cookie](https://web.archive.org/privacy/privacy_policy#cookies) through your browser. If so, the Profile Manager also displays the de-identified information contained in that cookie. You may opt out of the use of AdAdvisor Cookies for online behavioral advertising using the [AdAdvisor Opt-Out](http://www.adadvisor.net/optout.html). You can also learn more about online advertising in general on the [Network Advertising Initiative](http://www.networkadvertising.org/code-enforcement) web site, which also permits you to opt-out of receiving tailored online advertising from some or all of its members.
+ **How do we use your information?**
 
-**Accountability**
+  
 
-Neustar is a member of the Network Advertising Initiative (NAI) and complies with the NAI Code of Conduct, the Digital Advertising Alliance (DAA) [Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/obaprinciples) **  and we comply with the DAA’s **[Self-Regulatory Principles for Multi-Site Data](http://www.aboutads.info/msdprinciples).
 
-**The Fine Print**
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-[Click here](https://web.archive.org/privacy/privacy_policy) to read our full Privacy Policy and to learn more about our approach to children’s privacy, data security, disclosures required by law or for other purposes, and your privacy rights under California law.
+ **•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-Our privacy practices and policies may be updated from time to time.  We will post a notice regarding material changes on our web site.
+ **•** To improve our website in order to better serve you.
 
-**Questions? Comments?**
+ **•** To allow us to better service you in responding to your customer service requests.
 
-Send us an email at:[privacy@neustar.biz](mailto:privacy@neustar.biz)
+ **•** To quickly process your transactions.
+
+ **•** To send periodic emails regarding your order or other products and services.
+
+ **How do we protect visitor information?**
+
+  
+
+
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+We use regular Malware Scanning.
+
+We do not use an SSL certificate
+
+ **•** We do not need an SSL because:
+
+our members didn't change any peronal informations between them.
+
+ **Do we use 'cookies'?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+ **•** Understand and save user's preferences for future visits.
+
+ **•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
+
+
+If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders .
+
+ **Third Party Disclosure**
+
+  
+
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **Google**
+
+  
+
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
+
+
+ **We have implemented the following:**
+
+ **•** Remarketing with Google AdSense
+
+ **•** Google Display Network Impression Reporting
+
+ **•** Demographics and Interests Reporting
+
+ **•** DoubleClick Platform Integration  
+
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
+
+Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+ **California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
+
+
+ **According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+ **•** On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+ **•** By logging in to their account
+
+ **How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+
+**Does our site allow third party behavioral tracking?**
+
+It's also important to note that we allow third party behavioral tracking
+
+ **COPPA (Children Online Privacy Protection Act)**
+
+  
+
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+ **Fair Information Practices**
+
+  
+
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+ **•** Within 7 business days
+
+We will notify the users via in site notification
+
+ **•** Within 7 business days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+ **CAN SPAM Act**
+
+  
+
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+ **We collect your email address in order to:**
+
+ **•** Send information, respond to inquiries, and/or other requests or questions.
+
+ **•** Process orders and to send information and updates pertaining to orders
+
+ **•** We may also send you additional information related to your product and/or service.
+
+ **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+
+ **To be in accordance with CANSPAM we agree to the following:**
+
+ **•** NOT use false, or misleading subjects or email addresses
+
+ **•** Identify the message as an advertisement in some reasonable way
+
+ **•** Include the physical address of our business or site headquarters
+
+ **•** Monitor third party email marketing services for compliance, if one is used.
+
+ **•** Honor opt-out/unsubscribe requests quickly
+
+ **•** Allow users to unsubscribe by using the link at the bottom of each email
+
+ **  
+If at any time you would like to unsubscribe from receiving future emails, you can**
+
+ **•** Follow the instructions at the bottom of each email.
+
+and we will promptly remove you from **ALL** correspondence.  
+
+
+ **Contacting Us**
+
+  
+
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+ad-advisor.info
+
+Rhodes
+
+Greece
+
+Afantou
+
+Dodecanese
+
+85103
+
+info (at) ad-advisor.info
+
+Last Edited on 2015-03-29
