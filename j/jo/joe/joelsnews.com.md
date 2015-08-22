@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joelsnews.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402153651id_/http%3A//joelsnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joelsnews.com privacy policy that was archived on 2015-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150822215923id_/http%3A//joelsnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | JoelsNews.com
 
