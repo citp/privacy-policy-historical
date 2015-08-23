@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the productreportcard.com privacy policy that was archived on 2015-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150512105444id_/http%3A//www.productreportcard.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the productreportcard.com privacy policy that was archived on 2015-08-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150823093244id_/http%3A//www.productreportcard.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -284,9 +284,6 @@
 					<h2>Connect</h2>
 					<div class="row">
 						<div class="col-md-4">
-							<a href="#"><img src="/images/facebook_icon.png" alt="facebook">Facebook</a>
-						</div>
-						<div class="col-md-4">
 							<a href="https://plus.google.com/u/0/118069610836241773608"><img src="/images/google_icon.png" alt="google plus">Google+</a>
 						</div>
 						<div class="col-md-4">
@@ -354,11 +351,11 @@ _qevents.push({ qacct:"p-rK6LQzvucqLb9" });
 				if (response.authResponse) {
 					FB.api('/me', function(user) {
 						if (user != null) {
-							$.post("/cgi-bin/fblistener.cgi", { fbid: user.id, firstname: user.first_name, lastname: user.last_name, email: user.email}, function(response) {
+							$.post("/fblistener.php", { fbid: user.id, firstname: user.first_name, lastname: user.last_name, email: user.email}, function(response) {
 								if (response == "SUCCESS") {
 									window.location.reload();
 								} else if (response == "REGISTER") {
-									window.location.href = "http://www.productreportcard.com/register";
+									window.location.href = "http://www.productreportcard.com";
 								} else {
 									alert("We were unable to connect your facebook account to productreportcard.com at this time. Please try again later.");
 								}
@@ -373,6 +370,33 @@ _qevents.push({ qacct:"p-rK6LQzvucqLb9" });
 			return false;
 		}
 		//]]></script>
+
+		<script>
+		$(document).ready(function(){
+		    // Create the ajax submit event handler to handle the image upload and then dynamically load the image edit page
+		    $("#loginModalForm").submit(function(event){
+		        //disable the default form submission
+		        event.preventDefault();
+
+		        // create a new FormData object from the file that was provided
+		        $.ajax({
+		            data: $('#loginModalForm').serialize(), // get the form data
+		            type: 'POST',
+		            url: '/loginService.php', // the file to call
+		            success: function(response) { 
+		                var responseJSON = JSON && JSON.parse(response) || $.parseJSON(response);
+		                if(responseJSON.flag == "success"){
+		                	window.location.href = responseJSON.message;
+		                }else{
+		                    alert(responseJSON.message);
+		                }
+		            }
+		        });
+		        return false; // cancel original event to prevent form submitting
+		    });
+		});
+		</script>
+
 		<div class="modal-content">
 			<div class="modal-header">
 				<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
@@ -382,7 +406,7 @@ _qevents.push({ qacct:"p-rK6LQzvucqLb9" });
 				<div class="row">
 					<div class="col-sm-5 clearfix">
 						<h5>Sign in through Product Report Card</h5>
-						<form method="post" action="/login">
+						<form id="loginModalForm">
 							<div class="form-group">
 								<input type="text" name="username" placeholder="Email" id="loginEmail" class="form-control">
 							</div>
