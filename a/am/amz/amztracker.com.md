@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amztracker.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329075106id_/https%3A//www.amztracker.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amztracker.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823080003id_/https%3A//www.amztracker.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer
 
