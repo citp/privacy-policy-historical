@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nymphogirls.com privacy policy that was archived on 2014-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140921052946id_/http%3A//www.ulust.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymphogirls.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823142626id_/http%3A//www.ulust.com/%3Fwm_login%3Dadmin%26ps%3Ds%26page%3Dpp%26from%3Ds12) for the most accurate reproduction.*
 
 # Free Adult Dating and Adult Personals - Ulust
 
