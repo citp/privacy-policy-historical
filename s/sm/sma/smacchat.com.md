@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smacchat.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423203429id_/http%3A//smacchat.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smacchat.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823050429id_/http%3A//smacchat.com/terms.php) for the most accurate reproduction.*
 
 # SmacChat is the premier online sports entertainment site
 
