@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wit.ie privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624071643id_/http%3A//www.wit.ie/about_wit/documents_and_policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wit.ie privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823231204id_/http%3A//www.wit.ie/about_wit/documents_and_policies/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Waterford Institute of Technology
 
