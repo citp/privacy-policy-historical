@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facebookblaster.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617010400id_/http%3A//facebookblaster.com/fanadder/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebookblaster.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823033600id_/http%3A//facebookblaster.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FaceBook Fan Adder
 
