@@ -1,19 +1,32 @@
-<!--The following is the downloaded HTML source of the vidup.me privacy policy that was archived on 2015-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150602210212id_/http%3A//beta.vidup.me/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vidup.me privacy policy that was archived on 2015-08-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150823105940id_/http%3A//beta.vidup.me/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>VidUP</title>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=7e13c32551/cloudflare.min.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e9627cd26a/cloudflare.min.js"></script><script type="text/javascript">
 //<![CDATA[
-try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"29cc5168a8991acd38119b7c694325af",petok:"0c14ea63c8d81d199726d817162fd87f98e8d9dd-1433278932-1800",zone:"vidup.me",rocket:"0",apps:{"ga_key":{"ua":"UA-32536820-1","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=7e13c32551/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"29cc5168a8991acd38119b7c694325af",petok:"d24e5967ec805f71ae9adb34af96654b835b021c-1440327580-1800",betok:"a1bd452d0a33c3e3e496e3d688bb5c1217ad97c2-1440327580-120",zone:"vidup.me",rocket:"0",apps:{"ga_key":{"ua":"UA-32536820-1","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=e9627cd26a/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
 //]]>
 </script>
 <script type="text/javascript">
+		var adsShowPopup = false;
 		var site_url = 'http://beta.vidup.me';
-		var _purl = 'http://chanished.net/';
+		var _purl = 'http://a2pub.com/';
+		var _abp = 'http://fkww.tvas-c.pw/';
+		var _pcdn = 'http://cdn.vidup.me/';
+		//var _purl = 'http://chanished.net/';
+		
+		//var imported = document.createElement('script');
+		//imported.src = _pcdn+'thevideo/js/pcode/jsp.js';
+		//document.head.appendChild(imported);
+		
 	</script>
+ 
+ 
+<script src="http://beta.vidup.me/js/adcode.js"></script>
+<script type="text/javascript" src="http://cdn.vidup.me/thevideo/js/pcode/jsp.js"></script>
  
  
 <link href="http://fonts.googleapis.com/css?family=Roboto:400,700,300,500" rel="stylesheet" type="text/css">
@@ -347,6 +360,7 @@ VidUP also reserves the right to disclose personally identifiable information an
  
  
 <script src="http://beta.vidup.me/js/vidup/bootstrap.min.js"></script>
+<script src="http://beta.vidup.me/js/vidup/jquery.history.js"></script>
 <script src="http://beta.vidup.me/js/vidup/nifty.min.js"></script>
 <script src="http://beta.vidup.me/js/vidup/plugins/sticky-kit/jquery.sticky-kit.min.js"></script>
 <script src="http://beta.vidup.me/js/vidup/vidup.js" type="text/javascript" charset="utf-8"></script>
@@ -355,6 +369,61 @@ VidUP also reserves the right to disclose personally identifiable information an
 <script src="http://beta.vidup.me/js/vidup/plugins/bootstrap-datepicker/bootstrap-datepicker.js"></script>
 <script src="http://beta.vidup.me/js/vidup/plugins/flot-charts/jquery.flot.min.js"></script>
 <script src="http://beta.vidup.me/js/vidup/plugins/flot-charts/jquery.flot.resize.min.js"></script>
+<script>
+	/*
+	if (History.enabled) {
+		$('a').on("click", PageAjaxLoad);
+		//$('.menu ul li a,.menu > a,div.footer > a').click(PageAjaxLoad);
+		$('#mainnav > a, #footer > a').click(PageAjaxLoad);
+		$('.ajax-page').click(PageAjaxLoad);
+
+		$(window).bind('statechange', function(event){
+			var State = History.getState();
+			ContentLoad(State.url);
+		});
+	}
+	
+	
+	function PageAjaxLoad(event0)
+	{
+		if ($(this).attr("href").match(/(logout|login|playlist|support|payments|premium|my_files)/)) { return true; }
+
+		event=event0||window.event;
+		if (event.ctrlKey || event.shiftKey || (event.button != 0) ) { return true;}
+		if (event && event.stopPropagation) {
+			 event.stopPropagation();event.preventDefault();
+		} else {
+		   window.event.cancelBubble=true;
+		}
+
+		$("#content-container").css({ opacity: "0.5" });
+		if  (window.location.href != $(this).attr("href")) {
+		  window.History.pushState(null, null, $(this).attr("href"));
+		} else {
+		   ContentLoad(window.location.href);
+		}
+	};
+
+  function ContentLoad(url)
+  {
+    $.ajax({
+        url: url,
+        cache: false,
+        success: function(data) {
+            $("#content-container").empty().html($(data).find('#content-container').html());
+            $("#content-container").css({ opacity: 1 });
+        },
+        error: function(data, textStatus) {
+            $("#content-container").empty().html("<br><h3><b>Error occurred while trying to load the requested page.<br> Try to click Reload button in your browser.</b></h3></br>");
+            $("#content-container").css({ opacity: 1 });
+            console.log(data.response);
+        }
+    });
+  }
+	
+	*/
+	
+	</script>
 
 
 </body></html>
