@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compare99.com privacy policy that was archived on 2015-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150203223925id_/http%3A//www.compare99.com/site/page.html%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compare99.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823084545id_/http%3A//compare99.com/site/page.html%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # compare99.com
 
