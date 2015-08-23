@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703085629id_/http%3A//www.findashemalelover.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823121940id_/http%3A//www.findashemalelover.com/privacyPolicy) for the most accurate reproduction.*
 
 # .: Privacy Policy
 
@@ -14,11 +14,17 @@ Search by username
 
 findashemalelover.com (the "Site") is licensed to **Elite Marketing Solutions Inc.**
 
-Our USA postal address is   
+USA Company:   
+Elite Marketing Solutions Inc.  
 312 West Fourth Street  
-Carson City, NV 89703  
-USA  
+Carson City, NV 89703, USA  
 1-888-837-1572 
+
+International Company:   
+Elite Dating Solutions LTD  
+5 Jupiter House  
+Calleva Park, Aldermaston, Reading  
+Berkshire, RG7 8NN, UK 
 
 [Contact us](https://web.archive.org/contact)
 
@@ -45,8 +51,6 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 > If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database. 
 > 
 > The Site may also automatically collect traffic and click-through data as well as information regarding the online behavior of subscribers by the use of "cookies" or other programming means - any information about subscribers collected by the Site through the use of cookies or other programming means may be included in its customer database. 
-> 
-> You may obtain further information about "cookies" and how they function at: <http://www.cookiecentral.com/>. 
 
 **Use of Personal Subscriber Information.**
 
@@ -80,7 +84,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 
 **"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20140703085629id_/http%3A//www.findashemalelover.com/settings/2) and deselecting "I want to be informed of promotional offers". 
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20150823121940id_/http%3A//www.findashemalelover.com/settings/2) and deselecting "I want to be informed of promotional offers". 
 
 **Terms and Conditions of Membership.**
 
