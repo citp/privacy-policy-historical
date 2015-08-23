@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrio.net privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508231921id_/http%3A//astrio.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrio.net privacy policy that was archived on 2015-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150823040757id_/http%3A//astrio.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
