@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607185803id_/http%3A//www.dranthony.com/documents/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2015-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150824061904id_/http%3A//www.dranthony.com/documents/privacy-policy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
-The last update to our Privacy Policy was posted on January 21, 2014.  This document governs the privacy policy of our Websites.  Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
+The last update to our Privacy Policy was posted on August 22, 2015.  This document governs the privacy policy of our Websites.  Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
 
 ### _Definitions_
 
@@ -64,10 +64,16 @@ We may also use a technology called, web beacons, to collect general information
 
 We automatically receive information from your web browser or mobile device.  This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website.  This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system.  We use all of this information to analyze trends among our Users to help improve our Website. 
 
-**_OPTIONAL: Google Ad and Content Network Privacy Policy_**
+**_Google Ad and Content Network Privacy Policy_**
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following link:   
 <http://www.google.com/policies/technologies/ads>
+
+_**Google Analytics Privacy Policy**_
+
+Our website uses “Google Analytics” to collect information about the use of our site. Google Analytics collects information such as how often users visit our site, what pages they visit when they do so, and what other sites they used prior to coming to our site. We use the information we get from Google Analytics to improve our site. Google Analytics collects only the IP address assigned to you on the date you visit our site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to our site is restricted by the Google Analytics Terms of Use. <http://www.google.com/analytics/terms/us.html>
+
+You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser. <https://tools.google.com/dlpage/gaoptout>
 
 ### _How Information is Used_
 
@@ -130,5 +136,6 @@ As necessary to address changes in laws or our business practices, we may modify
 
 ### _Questions about Our Privacy Policy_
 
-If you have any questions about our Privacy Policy, please contact us using the Contact us information found on our Website.  
+If you have any questions about our Privacy Policy, please contact us using the Contact us information found on our Website.
+
 Copyright © Orion Systems. All Rights Reserved. This document, or any portion of, may not be copied or duplicated in any way without the written permission of Orion Systems. [http://www.DisclaimerTemplate.com](http://www.disclaimertemplate.com/)
