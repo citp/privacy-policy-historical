@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dramabuds.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624181951id_/http%3A//www.dramabuds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramabuds.com privacy policy that was archived on 2015-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150824035144id_/http%3A//www.dramabuds.com/privacy-policy) for the most accurate reproduction.*
 
 # DramaBuds - Privacy Policy
 
@@ -10,6 +10,10 @@ We here at DramaBuds are committed to ensuring that your privacy is protected. D
 **Video Disclaimer**
 
 No video content is held on our servers and we, along with our staff, are in no way affiliated with the video content. The video content that is displayed originates from online video streaming websites, such as, but not limited to Dailymotion, Yourupload, MyspaceTV, Veoh, Putlocker, etc.
+
+**Cookies & 3rd Party Advertisements**  
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
 
 **Copyright Infringement**
 
