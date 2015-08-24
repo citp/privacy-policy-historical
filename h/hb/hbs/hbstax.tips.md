@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbstax.tips privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625073210id_/http%3A//www.hbstax.tips/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbstax.tips privacy policy that was archived on 2015-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150824233554id_/http%3A//www.hbstax.tips/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
