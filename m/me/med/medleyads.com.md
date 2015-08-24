@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medleyads.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416110455id_/http%3A//medley.com/go/page/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medleyads.com privacy policy that was archived on 2015-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150824155149id_/http%3A//medley.com/go/page/privacy.html%3F) for the most accurate reproduction.*
 
 # Medley.com
 
