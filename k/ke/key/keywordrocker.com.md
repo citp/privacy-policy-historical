@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordrocker.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407105258id_/http%3A//keywordrocker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordrocker.com privacy policy that was archived on 2015-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150825031947id_/http%3A//keywordrocker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Keyword Rocker!
 
