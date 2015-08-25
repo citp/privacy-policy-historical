@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbillbuddy.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626030331id_/http%3A//www.yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbillbuddy.com privacy policy that was archived on 2015-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150825094303id_/http%3A//www.yourbillbuddy.com/privacyPolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Compare Mobile Tariff Plans - Reduce Mobile Phone Bills |YourBillBuddy
 
