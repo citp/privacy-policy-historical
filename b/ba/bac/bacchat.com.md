@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bacchat.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623072909id_/https%3A//www.bacchat.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bacchat.com privacy policy that was archived on 2015-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150825214330id_/http%3A//www.bacchat.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Welcome To Bacchat
 
