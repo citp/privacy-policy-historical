@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the only.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629005348id_/http%3A//only.com/customer-service/privacy-policy/cs-privacy-policy%2Cen_MT%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the only.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826010851id_/http%3A//only.com/customer-service/privacy-policy/cs-privacy-policy%2Cen_MT%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy - read about privacy policy for BESTSELLER
 
