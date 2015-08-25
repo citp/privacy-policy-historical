@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pumashop.in privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701162850id_/http%3A//www.pumashop.in/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pumashop.in privacy policy that was archived on 2015-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150825035554id_/http%3A//in.puma.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-**Datenschutzrichtlinie**
+### PRIVACY POLICY
 
 **Important information regarding the use of this site.**
 
@@ -85,7 +85,7 @@ PUMA INDIA limits its requests for information to what is required to ensure acc
 
 **Navigation Information**
 
-Even if you do not make a purchase on our site, we have the ability to track usage of our web site, including what pages are visited, what products are viewed, and the third-party sites that led you to **Pumashop.in**. This information is not used to track information about individuals, but is used at an aggregate level to customize our site, improve the online experience, and plan advertising and promotions.
+Even if you do not make a purchase on our site, we have the ability to track usage of our web site, including what pages are visited, what products are viewed, and the third-party sites that led you to **in.puma.com**. This information is not used to track information about individuals, but is used at an aggregate level to customize our site, improve the online experience, and plan advertising and promotions.
 
 **Information Voluntarily Provided**
 
