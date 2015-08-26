@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creampiesurprise.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214032602id_/http%3A//www.creampiesurprise.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creampiesurprise.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826040446id_/http%3A//creampiesurprise.com/privacy.php) for the most accurate reproduction.*
 
 # CreampieSurprise : Privacy Policy
 
