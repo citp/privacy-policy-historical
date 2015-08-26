@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704120517id_/https%3A//www.cashbackforex.com/en-US/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackforex.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826062338id_/https%3A//www.cashbackforex.com/en-US/privacy.aspx) for the most accurate reproduction.*
 
-# Cash Back Forex Broker Rebates and Affiliate Program| Privacy Policy
-
-| 
+# Your Privacy Is Our Priority | CashBackForex Support Team
 
 CashBackForex is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the CashBackForex Web site and governs data collection and usage. By using the CashBackForex website, you consent to the data practices described in this statement.
 
@@ -47,5 +45,3 @@ CashBackForex will occasionally update this Statement of Privacy to reflect comp
 Contact Information
 
 CashBackForex welcomes your comments regarding this Statement of Privacy. If you believe that CashBackForex has not adhered to this Statement, please contact CashBackForex by using the contact form. We will use commercially reasonable efforts to promptly determine and remedy the problem.
-
-| 
