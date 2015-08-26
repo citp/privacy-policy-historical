@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apply-4-jobs.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628124405id_/http%3A//apply-4-jobs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apply-4-jobs.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826215547id_/http%3A//apply-4-jobs.com/privacy_policy) for the most accurate reproduction.*
 
 # Apply-4-Jobs - Your Path to a Better Job
 
