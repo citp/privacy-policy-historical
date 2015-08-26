@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hertz247.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330194358id_/https%3A//www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertz247.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826021742id_/https%3A//www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -492,7 +492,7 @@ We hope this policy answers your questions about our collection, use and discl
 
 • Director, Privacy Services, Hertz Europe Service Centre, Swords Business Park, Swords, Co. Dublin, Republic of Ireland
 
-• Privacy Compliance Officer, Hertz Australia Pty Limited, Level 6, 10 Dorcas Street, South Melbourne VIC 3205, Australia
+• Privacy Compliance Officer, Hertz Australia Pty Limited, Level 15, 636 St.Kilda Road, Melbourne VIC 3004, Australia
 
 • Director, Privacy Services, Hertz New Zealand Ltd., Private Bag 4716, Christchurch, New Zealand 8020
 
