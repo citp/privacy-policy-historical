@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goby.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531082701id_/http%3A//www.telenav.com/legal/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goby.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826141829id_/http%3A//www.telenav.com/legal/policies.html) for the most accurate reproduction.*
 
 # Telenav Policies
 
