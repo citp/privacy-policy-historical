@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leoaffairs.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630012909id_/http%3A//www.leoaffairs.com/vb_forums/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leoaffairs.com privacy policy that was archived on 2015-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150826115742id_/http%3A//www.leoaffairs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LEOAffairs.com
 
