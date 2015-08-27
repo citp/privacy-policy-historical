@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runrungames.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619090827id_/http%3A//www.runrungames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runrungames.com privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827030425id_/http%3A//www.runrungames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
