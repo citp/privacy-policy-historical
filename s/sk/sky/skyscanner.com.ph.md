@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.com.ph privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624231523id_/http%3A//www.skyscanner.com.ph/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.com.ph privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827061514id_/http%3A//www.skyscanner.com.ph/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Skyscanner Philippines
 
