@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animaker.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607175441id_/http%3A//www.animaker.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaker.com privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827074901id_/http%3A//www.animaker.com/policy) for the most accurate reproduction.*
 
 # Animaker - Privacy Policy
 
