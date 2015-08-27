@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coinpayments.net privacy policy that was archived on 2014-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141013055945id_/http%3A//www.coinpayments.net/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinpayments.net privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827181933id_/https%3A//www.coinpayments.net/help-privacy) for the most accurate reproduction.*
 
-# CoinPayments.net - Help - Privacy Policy
+# Help - Privacy Policy - Point of Sale Bitcoin Processors, POS
 
 **We collect personal and activity data, which may be linked.  
 ** We use technologies like cookies (small files stored on your browser), web beacons, or unique device identifiers to identify your computer or device so we can deliver a better experience. Our systems also log information like your browser, operating system and IP address.
