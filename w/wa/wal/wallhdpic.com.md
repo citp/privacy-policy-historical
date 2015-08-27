@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallhdpic.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514071700id_/http%3A//www.wallhdpic.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallhdpic.com privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827054155id_/http%3A//www.wallhdpic.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | WallHdPic
 
