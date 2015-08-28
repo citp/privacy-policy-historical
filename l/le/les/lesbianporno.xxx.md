@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lesbianporno.xxx privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232150id_/http%3A//lesbianporno.xxx/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesbianporno.xxx privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828043821id_/http%3A//lesbianporno.xxx/privacypolicy) for the most accurate reproduction.*
 
 # 
 
 Last Updated: August 27, 2014
 
-WEBSITE.URL—welcomes you to the Website, an adult entertainment website. Because your privacy is important to us, we have developed this privacy policy. It describes what we will and will not do with personal information you give us when accessing our Website. This privacy poli-cy is in addition to our terms of use, which supplement this privacy policy. That is, all of the pro-visions in our terms of service, including disclaimers, limitations on liability, exclusive forum for resolving disputes, notices, and arbitration, all apply to this privacy policy. If you do not agree with anything contained in this privacy policy, please stop using the Website (if you are a mem-ber, please contact us and we will cancel your membership).
+lesbianporno.xxx—welcomes you to the Website, an adult entertainment website. Because your privacy is important to us, we have developed this privacy policy. It describes what we will and will not do with personal information you give us when accessing our Website. This privacy poli-cy is in addition to our terms of use, which supplement this privacy policy. That is, all of the pro-visions in our terms of service, including disclaimers, limitations on liability, exclusive forum for resolving disputes, notices, and arbitration, all apply to this privacy policy. If you do not agree with anything contained in this privacy policy, please stop using the Website (if you are a mem-ber, please contact us and we will cancel your membership).
 
 This privacy policy applies only to our Website. It does not apply to any third party website or service linked to our Website, or recommended or referred by our Website or by our staff. And it does not apply to any other website or online service operated by us or to any of our offline ac-tivities.
 
