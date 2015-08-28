@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extraconversion.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609020145id_/http%3A//extraconversion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extraconversion.com privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828145349id_/http%3A//extraconversion.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of ExtraConversion.com
 
