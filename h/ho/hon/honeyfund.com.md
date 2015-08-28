@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627105704id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honeyfund.com privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828025150id_/http%3A//www.honeyfund.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Honeyfund.com, the free honeymoon registry, the #1 cash wedding registry
 
-_Last updated December 28, 2014_
+_Last updated July 21, 2015_
 
 Thank you for your interest in Honeyfund.com, Inc. (referred to herein as "we" or "us") and our website, [www.honeyfund.com](http://www.honeyfund.com/) (the "Site"). This privacy policy was created to let you know why we collect information from you and what we do with it. By using the Site, you consent to the following terms.
 
@@ -46,7 +46,9 @@ Information we collect from your membership helps us to make your registry avail
 
 ### With whom do we share information
 
-Honeyfund.com, Inc. does not share your personal information with third parties, except where reasonably necessary to provide you with site functionality including but not limited to third-party payment systems, to comply with law, regulation or other governmental authority or to prevent harm to yourself or others. We may also disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this privacy policy relates or upon any other corporate reorganization.
+Honeyfund.com, Inc. does not share personally-identifiable information (PII) with third parties, except where reasonably necessary to provide you with site functionality including but not limited to third-party payment systems, to comply with law, regulation or other governmental authority or to prevent harm to yourself or others. We may also disclose your personal information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this privacy policy relates or upon any other corporate reorganization.
+
+For more information about the sharing of non-personally identifiable information (non-PII) see "Advertisers and Honeyfund" below.
 
 ### Changing your personal information
 
@@ -66,11 +68,9 @@ Honeyfund.com, Inc. reserves the right to change this privacy policy in its sole
 
 Honeyfund.com, Inc. encourages you to learn as much as you can about your privacy on the Internet. To find out more, visit [www.bbbonline.org](http://www.bbbonline.org/) or [www.TRUSTe.com](http://www.truste.com/).
 
-### Advertising on Honeyfund.com
+### Advertisers and Honeyfund.com
 
-We use third-party advertising companies to serve some of the ads on our website. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of ad shown, the ad that was shown, their cookie, and the IP address. The use of this information by these third-party advertising companies will be subject to the privacy policies of such third parties, and not this privacy policy. These third parties may use information that they collect for online preference marketing purposes.
-
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's website individually and opt out or visit the [NAI gateway opt-out site](http://www.networkadvertising.org/optout_nonppii.asp) to opt out of all network advertising cookies. This site will also allow you to review the third-party advertising companies' privacy policies.
+We allow third-party advertising companies to collect certain non-PII information when you visit our Site, in order to serve advertisements for goods and services likely to be of greater interest to you on our Site and other websites. These companies may utilize cookies, pixels or other technologies to collect and use non-PII (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over). The use of this information by these third-party advertising companies will be subject to the privacy policies of such third parties, and not this privacy policy. These third parties may use information that they collect for online preference marketing purposes. To learn more about this behavioral advertising practice or if you want to prevent a third-party advertiser from collecting data, you may either visit each ad network's website individually and opt out, or visit the [Digital Advertising Alliance](http://www.aboutads.info/) or the [Networking Advertising Initiative](http://www.networkadvertising.org/choices/) to opt out of all network advertising cookies. This site will also allow you to review the third-party advertising companies' privacy policies.
 
 ### Contact Information
 
