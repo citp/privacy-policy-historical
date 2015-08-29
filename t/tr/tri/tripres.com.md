@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209064348id_/http%3A//www.tripres.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829023937id_/http%3A//www.tripres.com/information/privacyPolicy.aspx) for the most accurate reproduction.*
 
-# Information - TripRes.com
+# Privacy Policy - TripRes.com
 
-[](http://www.tripres.com/) |  |   
-  
-
-
-  
-|  |  |   
----|---  
-  
 At TripRes.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized travel experience. Please read on for more details about our privacy policy. 
 
 **What information do we collect? How do we use it?**
@@ -35,7 +27,8 @@ We are committed to protecting your privacy. We use the information we collect o
 **Your consent**   
 By using our Web site, you consent to the collection and use of this information by TripRes.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
+**User Accounts**  
+Please contact customer service if you would like to close your account. Please call 1-800-255-0372 or email [customerservice@tripres.com](mailto:customerservice@tripres.com). 
+
 **Tell us what you think**   
-TripRes.com welcomes your questions and comments about privacy. Please call 800-255-0372.   
-  
-  | 
+TripRes.com welcomes your questions and comments about privacy. Please call 1-800-255-0372. 
