@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askeachother.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621100823id_/http%3A//www.askeachother.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askeachother.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829085148id_/http%3A//www.askeachother.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AskEachOther.com - Addicting Polls
 
