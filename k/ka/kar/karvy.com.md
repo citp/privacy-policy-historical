@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the karvy.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408083729id_/http%3A//www.karvy.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karvy.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829184808id_/http%3A//www.karvy.com/privacy-policy) for the most accurate reproduction.*
 
-# 
-
-PRIVACY POLICY
+# Privacy Policy
 
 The privacy policy of KARVY  assures users of our website that all personal information furnished to us via the website is maintained with the utmost confidentiality and is unshared under most circumstances( unless specially solicited by us and permitted by you). We respect your privacy and wish you a hassle free experience with our website. 
 
