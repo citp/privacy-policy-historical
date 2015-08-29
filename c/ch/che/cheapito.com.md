@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapito.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603024330id_/http%3A//cheapito.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapito.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829182725id_/http%3A//cheapito.com/privacy.php) for the most accurate reproduction.*
 
 # - Cheapito.com
 
