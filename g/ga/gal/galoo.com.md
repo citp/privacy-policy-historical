@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galoo.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527024717id_/http%3A//www.galoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galoo.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829025213id_/http%3A//www.galoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
