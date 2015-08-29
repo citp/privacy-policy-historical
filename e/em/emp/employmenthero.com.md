@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employmenthero.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629075645id_/http%3A//www.employmenthero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employmenthero.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829023054id_/http%3A//www.employmenthero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Employment Hero
 
@@ -24,6 +24,19 @@ The types of personal information we may collect from you includes, but is not l
   * job qualifications and history;
   * computer IP addresses; and
   * any additional information relating to you that you provide to us directly through our websites or indirectly through use of the Site.
+
+
+
+If we are providing you with financial services, the types of personal information we may collect from you may additionally include (without limitation):
+
+  * group certificates, payslips, and other income or earnings information;
+  * proof of identity documentation, such as passports, drivers licenses and birth certificates;
+  * financial account statements, such as statements applicable to home loans, credit cards, or personal loans;
+  * utilities bills;
+  * insurance policy statements;
+  * information relevant to your financial needs and objectives;
+  * information relevant to your assets and liabilities, income and expenses;
+  * information relevant to your investment preferences and attitude or tolerance to risk.
 
 
 
@@ -59,6 +72,7 @@ The primary purpose for which we collect information about you is to enable us t
 
   * to provide products and services to you;
   * to provide you with information about our existing and new products and services (including for direct marketing purposes);
+  * to provide financial services to you (if you have requested us to do so);
   * to communicate with you including by email, mail or telephone;
   * to manage and enhance our products and services;
   * to personalise and customise your experience with our products and services;
@@ -80,7 +94,7 @@ If you do not provide us with the personal information described in this policy:
 
 **Direct Marketing Materials**
 
-We may use personal information for reasons, including updating you on our latest products, services and news. These communications may be sent in various forms, including mail, SMS or email, in accordance with applicable marketing laws.
+We may use personal information for direct marketing reasons, including updating you on our latest products, services and news. These communications may be sent in various forms, including mail, SMS or email, in accordance with applicable marketing laws.
 
 You can opt out of this service at any time by clicking on the “unsubscribe” link.
 
@@ -99,7 +113,7 @@ We may disclose your personal information to:
 
 While we take all reasonable steps to ensure the security of our system, we cannot provide any guarantee regarding security of the personal information and other data transmitted to the Site and we will not be held responsible for events arising from unauthorised access of your personal information.
 
-We allow you to access your information at any time to keep it accurate and up to date. You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the Site. Please [notify us immediately](mailto:privacy@seek.com.au) if there is any unauthorised use of your account by any other Internet user, or any other breach of security relating to your account at support@employmenthero.com.
+We allow you to access your information at any time to keep it accurate and up to date. You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the Site. Please notify us immediately if there is any unauthorised use of your account by any other Internet user, or any other breach of security relating to your account at support@employmenthero.com.
 
 **Links**
 
@@ -117,6 +131,8 @@ Any questions or concerns that you have regarding this Privacy Policy or a breac
 
 Once we receive a complaint, whether it is in writing or verbal means, we will endeavor to commence an investigation as soon as practicable. The investigator will endeavour to determine the nature of the breach and how it occurred. We may contact you during the process to seek any further clarification if necessary. We will also contact you to inform you of the outcome of the investigation and where a breach is found we will discuss your concerns and outline options regarding how they can be resolved.  
 We will aim to ensure that all questions and concerns are resolved in a timely and appropriate manner.
+
+If you are not satisfied with the outcome of your complaint, or require further information on privacy, you are entitled to contact the Office of the Australian Information Commissioner (www.oaic.gov.au).
 
 **Privacy Policy Amendment**
 
