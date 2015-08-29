@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulksubmissions.com privacy policy that was archived on 2015-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150312075949id_/http%3A//www.bulksubmissions.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulksubmissions.com privacy policy that was archived on 2015-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150829195326id_/http%3A//bulksubmissions.com/privacypolicy.php) for the most accurate reproduction.*
 
 # BulkSubmissions.com Privacy Policy
 
