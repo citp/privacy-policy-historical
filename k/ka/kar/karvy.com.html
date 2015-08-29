@@ -1,161 +1,583 @@
-<!--The following is the downloaded HTML source of the karvy.com privacy policy that was archived on 2015-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408083729id_/http%3A//www.karvy.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the karvy.com privacy policy that was archived on 2015-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150829184808id_/http%3A//www.karvy.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<link href="css/karvyStyle.css" type="text/css" rel="stylesheet"> <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="Scripts/jquery.js" type="text/javascript"></script> <script language="javascript" src="includes/commonFunctions.js" type="text/javascript"></script></head><body oncontextmenu="return false;"> <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script> <script type="text/javascript"> function FP_preloadImgs(){var i=document,a=arguments;i.FP_imgs||(i.FP_imgs=new Array);for(var g=0;g<a.length;g++)i.FP_imgs[g]=new Image,i.FP_imgs[g].src=a[g]}FP_preloadImgs("images/sHeadingsMainRS.png","images/sHeadingsMainWM.png","images/sHeadingsMainIS.png"),$(document).ready(function(){$("img").addClass("img_w_h");var i,a;$(".img_w_h").each(function(){i=this.width,a=this.height,$(this).attr("width",i),$(this).attr("height",a)})});</script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<!DOCTYPE html><html dir="ltr" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/"><head id="ctl00_Head1"><meta charset="utf-8"><title>
+	Privacy Policy
+</title>
+<link rel="search" type="application/opensearchdescription+xml" title="Karvy Site Search" href="http://www.karvy.com/SearchEngineInfo.ashx"><meta name="viewport" content="initial-scale = 1.0, maximum-scale = 1.0, user-scalable = no, width = device-width"><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta property="og:image" content="http://www.karvy.com/Data/Sites/1/skins/karvycom/images/karvyicon.png"><link rel="image_src" href="http://www.karvy.com/Data/Sites/1/skins/karvycom/images/karvyicon.png">
+<link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/sunny/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="/csshandler.ashx?skin=karvycom&amp;s=1&amp;v=2.4.0.8&amp;sv=8528020a-76f6-42f1-8e4d-e73cddc2f2bc">
+<link href="Data/Sites/1/skins/karvycom/jquery.bxslider.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/Data/Sites/1/skins/karvycom/favicon.ico">
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="Data/Sites/1/skins/karvycom/jquery-ui.css"><link rel="stylesheet" type="text/css" href="Data/Sites/1/skins/karvycom/justifiedGallery.css"><link href="Data/Sites/1/skins/karvycom/video-js.css" rel="stylesheet" type="text/css">
 
-  ga('create', 'UA-5785469-1', 'auto');
-  ga('send', 'pageview');
 
+    <!--[if IE]>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script>
+        $(document).ready(function () {
+
+            var thislocationhref = location.href;
+            $('#fb-share_link').attr("data-href", thislocationhref)
+
+
+            //$('.art-nav-inner .art-hmenu .active').hide()
+            $("[id$='_divLeft']").find('.art-vmenublock').prepend("<span class='innerPageHead'>" + $('.art-nav-inner .art-hmenu .active').eq(0).text() + "</span>")
+
+            popup()
+
+            menuWidth1()
+
+        })
+
+        $(window).resize(function () {
+            popup();
+        });
+        var window_w = $(window).width();
+        function popup() {
+            var pop_width_height;
+            if (window_w < 800) {
+                pop_width_height = "90%"
+
+            } else {
+                pop_width_height = "70%"
+
+            }
+
+            $('.popup').width(pop_width_height);
+            $('.popup').height(pop_width_height);
+            var pop_width = $('.popup').width();
+            var pop_height = $('.popup').height();
+
+            $('.popup').css("margin-left", -pop_width / 2);
+            $('.popup').css("margin-top", -pop_height / 2);
+
+            $(".popup_content").height(pop_height - 55);
+
+            $('.close_popup').click(function () {
+                // $(".popup_content").html("");
+                $('.popup, .modal_div').hide();
+                $(".popupback").hide();
+                $(".popupback1").hide();
+                $(".popupback2").hide();
+                $(".popup_content").html("");
+
+            });
+
+            $(document).keyup(function (e) {
+
+                if (e.keyCode == 27) {
+                    //$('.popup, .modal_div').hide();
+                }   // esc
+            });
+
+        }
+
+
+
+
+        function menuWidth1() {
+            var menulistw = 0;
+            $('.art-hmenu > li').each(function () {
+
+                menulistw = menulistw + $(this).width()
+
+                //if ($(window).width() < 800 && $(window).width() > 768) {
+                //    $(this).css("width", "100px")
+                //    $(this).css("padding", "0px")
+
+                //}
+
+            })
+            $('.art-hmenu').css("width", menulistw + 10)
+            $('.art-hmenu').css("margin", "0 auto")
+        }
+
+
+
+    </script>
+     <script>
+         (function (i, s, o, g, r, a, m) {
+             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                 (i[r].q = i[r].q || []).push(arguments)
+             }, i[r].l = 1 * new Date(); a = s.createElement(o),
+             m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+         ga('create', 'UA-61964506-1', 'auto');
+         ga('send', 'pageview');
+
+    </script>
+
+
+<link rel="canonical" href="http://www.karvy.com/privacy-policy"></head>
+<body id="ctl00_Body">
+    
+    
+    
+    <form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value="">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="2">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Y2EJ22YqHOiaweJ+uIcVB6xM7NjEt0VzC6GpPy6/d3Y2uD0wkiRowWRYamjDvygwXXxK6YrKBQkOYSN1/vSxQ6XsxHKz+h0YsyZBVjWEPQ/0knmJp4R6LtJ/EFaTXtJOr/ZsZK8XZguMjuCJzgWyaxmWV2xEti4OoR3UEGfGcu2+4YRoiiTqO4okiZ8mOsEdd5vVjz5posCiA5MDdRcM8MnZj4LVaLfO2BZUluw5ZGgUaY63bt4hQloDzqRSrTaEUndEZoA/L7ABhIoWoAn3QxWDXO8ajC1P6Z1mfdidwgMAhm7ThB7vVuTcXsu6LdIrhRc9HV+So1QiyDxWkuvIEhuPAgfPWYy8TMEp+k9LKkH6mJHDPug33GrI7AMDj1g8+RU+vWS/Dht4BfAeyxD/DVNKF4gsZrLTRfk76JukTiS6eJWzieN1+W+aX4cCI42IClVcSLHm0suRH6EFKd5CnVvzVydbQaMWxiaXyqnwM79YGAvmxi6r">
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="/kttYTcYWsZ5WXOysmVlFmzd775Y8f2GEm6XBUdSTHQPVKi/XF9PDmeQSCkeKd0foFmrmo46WsN/tCSTm6kHUaBpYDYeOGniR5TMUJ5cP0DmHpe0kvnLGmTdsKsoolsChh2Cny/HmeXBEcxZ7lNA2+sK34kVeH1lWqywBgSIs9kVsqaXjoHvocEClzciWoE/dxLB2YAMpG0cjQy+7fob+BF2zKoVYVFWKLYgWO7kpTWA0I7NcirsNvvr5RnbStwfQxcquRPkJVfLkzGEbONev79wqdDzTtye5UMTwE3hOFe1WPvwU+Gy1O06FyLq">
+
+
+<script src="/Data/Sites/1/skins/karvycom/script.js" type="text/javascript"></script>
+<script src="/Data/Sites/1/skins/karvycom/script.responsive.js" type="text/javascript"></script>
+<script src="/Data/Sites/1/skins/karvycom/common.js" type="text/javascript"></script>
+<script src="/Data/Sites/1/skins/karvycom/jquery.bxslider.js" type="text/javascript"></script>
+<script src="/Data/Sites/1/skins/karvycom/jquery.justifiedGallery.js" type="text/javascript"></script>
+<script src="/Data/Sites/1/skins/karvycom/jquery.validate.js" type="text/javascript"></script>
+<script src="/Data/Sites/1/skins/karvycom/video.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=SNF8ctFYq69PDRSvJ0OYXYB_4_ZCyuNwgFPvWF6ylIZEoEsCX0UXdKL0HBB3PNEX3P4oAVs6lGL2G7fv4ag5J58eWZ6HhFW6v4PWfv4b2Txm2ELT6kentcnhYh8OPP1t7nSZkNPxsUjXhYqI8z12xD1xlF27ZBkNJpCninjCBm5E96l8QcIf1hPYazxeCFp-TcFme1jnzHcRI6P0U44Fua-Rx7I5QarWoKxCsFiaK-wFMiAwlJrCK5j-7X0tP0Ftyk7t4lIW3gi9LqOY9mMuWBU4O5-sAU0k1ACCGX7hXdEioo7-FDYjJU2fm_jqrEuVBOA7iWQxMv26O_4RPG-AetgjYr7gx3k5a81MCno-5f2Q8zoq0" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="aiQc/BA4b/QZAbilKv1cosBsYOmV+IsAHajedSRos23UIrOt2POnUZErMNYD/qWEMAJVfyaFtDJCsaj0QgIiHlvislGVZNcFr46PJBen3feuhRha">
+        
+        
+        
+        
+        <div id="art-main">
+            <header class="art-header">
+                <section class="headstrip">
+                    <div class="content">
+                        <div class="fL">
+                            <ul class="top_menu">
+                                
+
+
+
+                                <li style="position: relative;"><a href="#"><span class="groupsites_icon"></span><span class="tmTxt">Group Sites</span></a>
+                                    <ul>
+                                        <li><a href="https://www.karvyonline.com" target="_blank">KarvyOnline</a></li>
+                                        <li><a href="http://www.karvydistribution.com/" target="_blank">Karvy Distribution</a></li>
+                                        <li><a href="http://www.karvycomtrade.com" target="_blank">Karvy Comtrade Ltd</a></li>
+                                        <li><a href="http://www.karvywealth.com/" target="_blank">Karvy Private Wealth</a></li>
+                                        <li><a href="http://www.karvyfinance.com" target="_blank">Karvy Financial Services Ltd</a></li>
+                                        <li><a href="http://www.karvyrealty.com" target="_blank">Karvy Realty (India) Ltd</a></li>
+                                        <li><a href="http://www.karvycapital.com" target="_blank">Karvy Capital Ltd</a></li>
+                                        <li><a href="http://www.kinrep.com/" target="_blank">Karvy Insurance Repository</a></li>
+                                        <li><a href="http://www.karvycurrency.com/" target="_blank">Karvy Forex &amp;&nbsp;Currency Private Ltd</a></li>
+                                        <li><a href="http://www.karvycomputershare.com" target="_blank">Karvy Computershare (P) Ltd​</a></li>
+                                        <li><a href="https://www.kdms.in/home.html" target="_blank">Karvy Data Management Services Ltd​</a></li>
+                                    </ul>
+                                </li>
+
+
+
+
+
+
+                                <li><a href="contact-us"><span class="contactus_icon"></span><span>Contact Us</span></a></li>
+                                <li><span class="callus_icon"></span><span>Call Toll Free</span>&nbsp;<span class="white_text b call_num">1800 425 8282</span></li>
+                            </ul>
+                        </div>
+                        <div class="fR">
+                            <ul class="top_menu top_menu_nb">
+                                <li><a href="https://www.facebook.com/karvygrowthhub?fref=ts" target="_blank"><span class="fb_icon"></span></a></li>
+                                <li><a href=" https://twitter.com/KarvyGrowthHub" target="_blank"><span class="tw_icon"></span></a></li>
+                                <li><a href="https://www.linkedin.com/company/karvy-group?report.success=KJ_KkFGTDCfMt-A7wV3Fn9Yvgwr02Kd6AZHGx4bQCDiP6-2rfP2oxyVoEQiPrcAQ7Bf" target="_blank"><span class="linked_icon"></span></a></li>
+                                <li><a href="https://www.youtube.com/channel/UC7xBtRw-P-tvz69baD1oOOQ?guided_help_flow=3" target="_blank"><span class="g_puls_icon"></span></a></li>
+                                <li><a href="/Services/RecentContentRss.aspx" target="_blank"><span class="rss_icon"></span></a></li>
+                            </ul>
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                </section>
+                <section class="top_logo_div">
+                    <div class="content">
+                        <div style="display: table; width: 100%;">
+                            
+                            <div class="home_logo_div">
+                                <a href="/home">
+                                    <img alt="Karvy Keep Growing" src="/Data/Sites/1/skins/karvycom/images/karvygrouplogo.png" border="0"></a>
+                            </div>
+
+                            <div class="menuDiv">
+                                <nav class="art-nav">
+                                    <div class="art-nav-inner">
+                                        <a href="#startcontent" class="skiplink">Skip over navigation</a>
+                                        
+<ul class="art-hmenu"><li><a href="/home">Home</a></li><li><a class="unclickable" href="/about">About Us</a><ul><li><a href="/our-story">Our Story</a></li><li><a href="/promoters-management-team">Promoters &amp; Management Team</a></li><li><a href="/who-we-are-">Who we are </a></li><li><a href="/why-karvy">Why Karvy</a></li><li><a href="/our-companies">Our companies </a></li><li><a href="/awards-accolades">Awards &amp; Accolades</a></li><li><a href="/media-room">Media Room</a><ul><li><a href="/company-news">Company News</a></li><li><a href="/industry-news">Industry News</a></li></ul></li><li><a href="/locate-us">Locate Us</a></li></ul></li><li><a class="unclickable" href="/Services">Services</a><ul><li><a href="/karvy-group">Karvy Group</a></li><li><a href="/financialservices">Financial Services</a><ul><li><a href="/online-trading">Equity Broking Services</a></li><li><a href="/demat-account">Depository Participant Services</a></li><li><a href="/distribution-of-financial-products">Distribution of Financial Products</a></li><li><a href="/currency-derivatives">Currency Derivatives</a></li><li><a href="/wealth-management">Wealth Management Services</a></li><li><a href="/portfolio-management-services">Portfolio Management Services</a></li><li><a href="/karvy-fortune">Karvy Fortune</a></li><li><a href="/investment-banking">Investment Banking</a></li><li><a href="/commodity-trading">Commodities Broking</a></li><li><a href="/non-banking-financial-service">Non - Banking Financial Service</a></li><li><a href="/realty-services">Realty Services</a></li><li><a href="/registry-services">Registry Services</a></li><li><a href="/forex-trading">Forex &amp; Currencies</a></li><li><a href="/insurance-repository">Insurance Repository</a></li></ul></li><li><a href="/non-financial-services">Non Financial Services</a><ul><li><a href="/data-management-services">Data Management Services</a></li><li><a href="/international-business">International Business</a></li></ul></li></ul></li><li><a href="/growth-hub">Growth Hub</a></li><li><a class="unclickable" href="/knowledge-centre">Knowledge Centre</a><ul><li><a href="/publications">Publications</a></li><li><a href="/reports">Reports</a></li><li><a href="/faqs">FAQs</a></li></ul></li><li><a class="unclickable" href="/careers">Careers</a><ul><li><a href="/working-with-us">Working with us</a></li><li><a href="/learning-at-karvy">Learning at Karvy</a></li><li><a href="/current-openings">Current Openings</a></li></ul></li></ul>
+
+
+
+                                    </div>
+                                </nav>
+                            </div>
+
+                        </div>
+
+
+
+                    </div>
+
+                </section>
+            </header>
+            <div class="art-sheet clearfix">
+                <div class="art-layout-wrapper">
+                    <div class="art-content-layout">
+                        <div class="art-content-layout-row">
+                            <div id="Banner"></div>
+                            <div id="contentArra" class="content">
+                                <div id="ctl00_Breadcrumbs_pnlWrapper" class="breadcrumbs">
+
+
+<a id="ctl00_Breadcrumbs_breadCrumbsControl_ctl00_lnkRoot" class="unselectedcrumb" href="http://www.karvy.com">Home</a>
+
+ &gt; 
+<a id="ctl00_Breadcrumbs_breadCrumbsControl_ctl02_lnkCurrent" class="selectedcrumb" href="/privacy-policy">Privacy Policy</a>
+
+
+
+
+</div>
+
+                                <div id="ExtraContent"></div>
+
+                                
+                                <div id="ctl00_divCenter" class="art-layout-cell art-content-wide center-nomargins cmszone">
+
+                                    
+                                    <a id="startcontent"></a>
+                                    <div class="mainContent">
+                                        
+<div id="ctl00_mainContent_ctl00_pnlOuterWrap" class="art-content clearfix">
+
+
+<div id="ctl00_mainContent_ctl00_pnlInnerWrap" class="panelwrapper htmlmodule">
+<div class="art-post art-article">
+<div class="art-postmetadataheader"><h2 id="module239" class="art-postheader moduletitle"><span class="art-postheadericon">Privacy Policy</span></h2></div>
+<article id="ctl00_mainContent_ctl00_pnlOuterBody" class="art-postcontent">
+<div class="art-content-layout"><div class="art-content-layout-row">
+<div id="ctl00_mainContent_ctl00_pnlInnerBody" class="modulecontent">
+
+
+<div id="ctl00_mainContent_ctl00_divContent" class="">
+The privacy policy of KARVY&nbsp; assures users of our website that all personal      information furnished to us via the website is maintained with the utmost confidentiality      and is unshared under most circumstances( unless specially solicited by us and permitted      by you). We respect your privacy and wish you a hassle free experience with our      website. <br>
+<br>
+<strong>Website Navigation<br>
+</strong> <br>
+Most sections of our website can be viewed without furnishing any of your personal      information. Certain sections of the website allow only restricted access and you      could be asked for your personal information for identification / authentication      purposes and granting access only. <br>
+<br>
+<strong>Registration with Website <br>
+</strong> <br>
+Users can register on the Karvy website by fulfilling the information requirements.      The information collected during the registration process (e.g. name, address, e-mail,      contact numbers etc.) is used to identify you as a user and sending you requested      information from time to time. <br>
+<br>
+Data with regard to the usage of resources on the website also constitute personal      information and could be used for analysis of our services and enhance the value      of our online offerings with time. We aim to keep you updated with our latest offerings      and build a long standing relationship with you. <br>
+<br>
+Subscription to listed electronic communication services results in communications      from KARVY as specified in the terms and conditions of the service. The option to      unsubscribe is provided along with all online communications. <br>
+<br>
+We do not solicit information in any form if you have indicated that you do not      want to do not ant to furnish the same at any point of time. <br>
+<br>
+<strong>Information Protection <br>
+</strong> <br>
+All user information collected by us through the website is maintained confidentially      and not shared (transferred, sold or divulged to third parties). The information      may occasionally be used by business and channel partners for marketing and advertising      requirements in relation to our services. <br>
+<br>
+No information is disclosed to third parties without your consent. <br>
+<br>
+<strong>Use of Cookies </strong> <br>
+<br>
+The use of cookies by our website is intended to monitor site usage whenever a user      accesses our website and its services. Cookies contain information that you provide      such as your username and password. We use cookies on our site to help us understand      what pages are frequently visited and to improve the web site experience. A cookie      cannot affect data on your computer and cannot provide us with information about      other sites you have visited. <br>
+<br>
+Your web browser can be set not accept cookies or to warn you before accepting a      cookie. If you wish to access secured sections of our web site, you will have to      enable per-session cookies in Microsoft Internet Explorer. Most sections in our      website can be accessed without accepting a cookie. <br>
+<br>
+<strong>COMMENTS / FEEDBACK</strong><br>
+<br>
+Do write in to E-mail on any concerns regarding our privacy policy.
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty">
+
+
+
+
+
+
+</div>
+<div id="ctl00_mainContent_ctl00_divFooter" class="modulefooter">
+
+</div>
+</div></div>
+</article>
+<div id="ctl00_mainContent_ctl00_divCleared" class="cleared">
+
+</div>
+</div><div class="cleared"></div>
+</div>
+
+
+</div>
+
+                                    </div>
+                                
+</div>
+                                
+                                <div id="ctl00_AddingGlobalContent" class="center-rightandleftmargins">
+
+                                    
+                                
+</div>
+                                <div id="BottomContent"></div>
+                                <div id="OurServices"></div>
+
+                                <div class="socialMediaWidgets">
+                                    <div class="fL" style="position: relative; left: -10px;">
+                                        
+                                        <div class="fb-share-button" id="fb-share_link" style="margin-left: 10px;" data-href="" data-layout="button_count"></div>
+                                        <div id="fb-root"></div>
+
+
+                                        <script>
+
+                                            (function (d, s, id) {
+                                                var js, fjs = d.getElementsByTagName(s)[0];
+                                                if (d.getElementById(id)) return;
+                                                js = d.createElement(s); js.id = id;
+                                                js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";
+                                                fjs.parentNode.insertBefore(js, fjs);
+                                            }(document, 'script', 'facebook-jssdk'));
+
+                                        </script>
+
+                                    </div>
+                                    
+                                    <div class="fL" style="width: 90px">
+                                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.karvy.com" data-text="karvy" data-via="karvy" data-related="KarvyGrowthHub" data-hashtags="Karvy">Tweet</a>
+                                        <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+                                    </div>
+
+                                    <div class="fL">
+                                        <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+                                        <script type="IN/FollowCompany" data-id="9210984" data-counter="right"></script>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <a href="#" class="back-to-top">
+                <img src="/Data/Sites/1/skins/karvycom/images/top.png" alt="back to top"></a>
+            <footer class="art-footer clearfix">
+                <div class="art-footer-body">
+                    <div class="art-footer-center">
+
+
+
+                        <div class="art-footer-wrapper">
+                            
+                            <div class="art-footer-text">
+                                <section class="container">
+                                    <div class="foot_bg">
+                                        <div class="content ptop20">
+
+                                            
+                                            <div class="footerMain">
+                                                <div>
+                                                    <h4><a href="/about">About Us</a></h4>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/our-story">Our Story</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/promoters-management-team">Promoters &amp; Management Team</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/who-we-are-">Who we are </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/why-karvy">Why Karvy</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/our-companies">Our companies </a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/awards-accolades">Awards &amp; Accolades</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/media-room">Media Room</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/locate-us">Locate Us</a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div>
+                                                    <h4><a href="/Services">Services</a></h4>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/karvy-group">Karvy Group</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/financialservices">Financial Services</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/non-financial-services">Non Financial Services</a>
+                                                        </li>
+                                                    </ul>
+                                                    <h4><a href="/careers">Careers</a></h4>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/working-with-us">Working with us</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/learning-at-karvy">Learning at Karvy</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/current-openings">Current Openings</a>
+                                                        </li>
+                                                    </ul>
+
+                                                </div>
+                                                <div>
+                                                    <h4><a href="/growth-hub">Growth Hub</a></h4>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/financial-management">All</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/individual-stock-broking-articles">Articles</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/individual-stock-broking-videos">Videos</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/risk-profiler">Tools</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/Register">Get in Touch</a>
+                                                        </li>
+                                                    </ul>
+                                                    <h4><a href="/feedback">Feedback</a></h4>
+                                                    <h4><a href="/register">Register</a></h4>
+
+
+
+                                                </div>
+                                                <div>
+                                                    <h4><a href="/growth-hub"></a><a href="/knowledge-centre">Knowledge Centre</a></h4>
+                                                    <ul>
+                                                        <li>
+                                                            <a href="/publications">Publications</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/reports">Reports</a>
+                                                        </li>
+                                                        <li>
+                                                            <a href="/faqs">FAQs</a>
+                                                        </li>
+                                                    </ul>
+
+                                                    <h4><a href="/contact-us">Contact us</a></h4>
+
+
+                                                    <h4><a class="sitelink" href="/SiteMap.aspx">Site Map</a></h4>
+                                                     
+
+                                                </div>
+                                            </div>
+
+
+                                            <div style="clear: both;" class="ptop30"></div>
+                                            <div class="content mbot20">
+                                                <div class="copyr">
+                                                    <img src="/Data/Sites/1/skins/karvycom/images/copy-img.png" border="0" align="middle" style="margin: 0px; margin-top: -7px;" width="15" height="15">
+                                                    <span class="copy-text">Copyright 2015  |  <a href="/disclaimer">Disclaimer</a>  |  <a href="/privacy-policy">Privacy Policy</a></span>
+                                                </div>
+                                                <div class="social_networks">
+                                                    <ul class="foot_soc_nav">
+
+                                                        <li><a href="https://www.facebook.com/karvygrowthhub?fref=ts" target="_blank"><span class="fb_foot"></span></a></li>
+                                                        <li><a href="https://twitter.com/KarvyGrowthHub" target="_blank"><span class="tw_foot"></span></a></li>
+                                                        <li><a href="https://www.linkedin.com/company/karvy-group?report.success=KJ_KkFGTDCfMt-A7wV3Fn9Yvgwr02Kd6AZHGx4bQCDiP6-2rfP2oxyVoEQiPrcAQ7Bf" target="_blank"><span class="linIn_foot"></span></a></li>
+                                                        <li><a href="https://www.youtube.com/channel/UC7xBtRw-P-tvz69baD1oOOQ?guided_help_flow=3" target="_blank"><span class="gPlus_foot"></span></a></li>
+                                                        <li><a href="/Services/RecentContentRss.aspx" target="_blank"><span class="rs_feed"></span></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cleared"></div>
+                </div>
+            </footer>
+
+        </div>
+
+        <div class="popup">
+            <div class="close_popup"></div>
+            <div class="spnHeading">
+                <h2><span id="mainpopheadingtxt"></span></h2>
+            </div>
+            <div class="popup_content"></div>
+        </div>
+
+        <div class="modal_div"></div>
+
+        <div class="topnavwrap">
+            <div class="topnav">
+                <ul>
+                    
+                    
+                    
+                </ul>
+            </div>
+        </div>
+
+
+        <script type="text/javascript">
+            function HideMenuToolbar() { $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow"); }
+            function ShowMenuToolbar() { $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow"); }
+            $(document).ready(function () {
+                $("span.downarr a").click(function () { HideMenuToolbar(); Set_Cookie('openstate', 'closed') });
+                $("span.showbar a").click(function () { ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+                $("span.downarr a, span.showbar a").click(function () { return false; });
+                var openState = Get_Cookie('openstate');
+                if (openState != null) { if (openState == 'closed') { HideMenuToolbar(); } if (openState == 'open') { ShowMenuToolbar(); } }
+            });
+        </script>
+        
+        <div class="cleared">
+        </div>
+
+
+
+        
+    
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_ScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
 </script>
-<link href="http://www.karvy.com/privacy-policy.aspx" rel="canonical"><title>
 
-</title>  <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQ3ODE1NTc4MGRkvr+0z+5UsO5VEuUPA86Uu5/jJAk=">
- <center> <table class="rootTable" align="center" cellpadding="0" cellspacing="0" width="10"> <tbody><tr> <td> <table class="innerTable" align="center" cellpadding="0" cellspacing="0"> <tbody><tr> <td colspan="2"> <!--HEADER--> <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tbody><tr> <td height="3" bgcolor="#006666"></td> </tr> <tr> <td> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tbody><tr> <td align="center" height="75" width="2%">&nbsp; </td> <td align="center" height="75" width="5%"> <a class="pagecls" href="/" title="Home"> <img src="images/KarvyGroupLogo.png" border="0" width="49" height="24" class="logocls img_w_h" alt="Karvy Group" title="Karvy Group of Companies"></a> </td> <td align="center" width="25%"></td> <td align="right" width="48%"> <table cellpadding="0" cellspacing="0" border="0"> <tbody><tr> <td class="padding_2626"> <a href="/" title="Home">Home</a> </td> <td class="padding_2626"> <a href="contact-us.aspx" title="Contact Us">Contact Us</a> </td> <td class="padding_2626"> <a href="locate-us.aspx" title="Locate Us">Locate Us</a> </td> <td class="padding_2626"> <a rel="nofollow" href="http://careers.karvy.com/" title="Careers"> <img src="images/Careers.gif" border="0" width="120" height="16" alt="Karvy Group Careers" title="Careers at Karvy Group" class="img_w_h"></a> </td> </tr> </tbody></table> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tbody><tr> <td>  </td> <td align="right" class="p_2"> <a rel="nofollow" href="https://www.karvyonline.com/karvyportal/Registration.aspx" title="Karvy Online Online Account Registration"> <img src="images/Karvy-Online-account_14aug2013.png" border="0" width="161" height="16" alt="Open a Karvy Online Account" title="Open a Karvy Online Account" class="img_w_h"></a> </td> <td align="right" class="p_2"> <a href="fortune/" title="Partner with us"> <img src="/fortune/partnerwithus.png" border="0" width="91" height="16" alt="Partner with Us" title="Become a Partner with Karvy Group" class="img_w_h"></a> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> <tr> <td> <map name="serviceMap"> <area href="#" shape="rect" coords="0, 0, 250, 20" onclick="showServicesContent('RS');" title="Retail Services"> <area href="#" shape="rect" coords="254, 0, 503, 20" onclick="showServicesContent('WM');" title="Wealth Management"> <area href="#" shape="rect" coords="507, 0, 757, 20" onclick="showServicesContent('IS');" title="Institutional Services"> </map> <img alt="" border="0" src="images/sHeadingsMainRS.png" width="758" height="20" usemap="#serviceMap" id="servicesTab" class="img_w_h"><br> <table border="0" width="100%" cellspacing="0" cellpadding="0" class="ServiceTabStyle"> <tbody><tr> <td bgcolor="#274866" colspan="3"> <div id="serviceTabContent" class="tabLinks STabContant"><a rel="nofollow" href="https://www.karvyonline.com/" target="_blank">Equities &amp; Derivatives</a> <font color="#C0C0C0"><font color="#C0C0C0">|</font></font> <a rel="nofollow" href="http://www.karvycomtrade.com" target="_blank">Commodities</a> <font color="#C0C0C0">|</font> <a rel="nofollow" href="http://www.karvydistribution.com/" target="_blank">Mutual Funds Services</a> <font color="#C0C0C0">|</font> <a href="depository-services.aspx">Depository Services</a><br><a rel="nofollow" href="http://www.karvydistribution.com/v2/BondsFDs/Bonds_FDs.asp" target="_blank">Bonds and Deposits</a> <font color="#C0C0C0">|</font> <a rel="nofollow" href="http://www.karvyrealty.com" target="_blank">Realty Services</a> <font color="#C0C0C0">|</font> <a rel="nofollow" href="pms/">Portfolio Management Services</a> <font color="#C0C0C0">|</font> <a rel="nofollow" href="http://www.karvycurrency.com/" target="_blank">Currency Derivatives</a> <font color="#C0C0C0">|</font> <a rel="nofollow" href="http://www.karvyfinance.com/" target="_blank">Loans</a></div> </td> </tr> <tr> <td height="5" width="5" align="left" bgcolor="#274866"> <img border="0" src="images/sFooterLeft.png" width="5" height="5" class="img_w_h"> </td> <td bgcolor="#274866" height="5" width="100%"></td> <td height="5" width="5" align="right" bgcolor="#274866"> <img border="0" src="images/sFooterRight.png" width="5" height="5" class="img_w_h"> </td> </tr> </tbody></table> <input type="hidden" name="toggleServTab1Num" id="toggleServTab1Num" value="RS"> <script language="javascript" src="includes/TABS.js" type="text/javascript"></script> </td> </tr> </tbody></table> <!--/HEADER--> </td> </tr> <tr> <td colspan="2"> 
+<script type="text/javascript"> $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
     
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-bottom:5px;">
-  <tbody><tr>
-    <td height="1" colspan="3" bgcolor="#274866"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#274866" width="1"></td>
-    <td><span style="color: #274866">
-              <marquee style="color: #274866" width="100%" scrolldelay="1" height="18" class="thinBorder" scrollamount="2">
-                <b><img src="images/arrow1.gif" class="img_w_h" width="0" height="0"><img src="images/arrow1.gif" class="img_w_h" width="0" height="0">&nbsp;Every 50th Indian is serviced by KARVY&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/arrow1.gif" class="img_w_h" width="0" height="0"><img src="images/arrow1.gif" class="img_w_h" width="0" height="0">&nbsp;Every 20th trade in stock market is done through KARVY&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/arrow1.gif" class="img_w_h" width="0" height="0"><img src="images/arrow1.gif" class="img_w_h" width="0" height="0">&nbsp;Every 6th Investor in India invests through KARVY&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/arrow1.gif" class="img_w_h" width="0" height="0"><img src="images/arrow1.gif" class="img_w_h" width="0" height="0">&nbsp;India's No.1 Registrars and Transfer agent : KARVY&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/arrow1.gif" class="img_w_h" width="0" height="0"><img src="images/arrow1.gif" class="img_w_h" width="0" height="0">&nbsp;Every 10th Demat Account is held at KARVY&nbsp;&nbsp;&nbsp;&nbsp;</b>
-              </marquee></span></td>
-    <td bgcolor="#274866" width="1"></td>
-  </tr>
-  <tr>
-    <td height="1" colspan="3" bgcolor="#274866"></td>
-  </tr>
-</tbody></table>
- </td> </tr> <tr> <td valign="top" class="contentArea"> 
-    <div class="heading1">
-        PRIVACY POLICY</div>
-    The privacy policy of KARVY&nbsp; assures users of our website that all personal
-    information furnished to us via the website is maintained with the utmost confidentiality
-    and is unshared under most circumstances( unless specially solicited by us and permitted
-    by you). We respect your privacy and wish you a hassle free experience with our
-    website.
-    <br>
-    <br>
-    <b>Website Navigation<br>
-    </b>
-    <br>
-    Most sections of our website can be viewed without furnishing any of your personal
-    information. Certain sections of the website allow only restricted access and you
-    could be asked for your personal information for identification / authentication
-    purposes and granting access only.
-    <br>
-    <br>
-    <b>Registration with Website
-        <br>
-    </b>
-    <br>
-    Users can register on the Karvy website by fulfilling the information requirements.
-    The information collected during the registration process (e.g. name, address, e-mail,
-    contact numbers etc.) is used to identify you as a user and sending you requested
-    information from time to time.
-    <br>
-    <br>
-    Data with regard to the usage of resources on the website also constitute personal
-    information and could be used for analysis of our services and enhance the value
-    of our online offerings with time. We aim to keep you updated with our latest offerings
-    and build a long standing relationship with you.
-    <br>
-    <br>
-    Subscription to listed electronic communication services results in communications
-    from KARVY as specified in the terms and conditions of the service. The option to
-    unsubscribe is provided along with all online communications.
-    <br>
-    <br>
-    We do not solicit information in any form if you have indicated that you do not
-    want to do not ant to furnish the same at any point of time.
-    <br>
-    <br>
-    <b>Information Protection
-        <br>
-    </b>
-    <br>
-    All user information collected by us through the website is maintained confidentially
-    and not shared (transferred, sold or divulged to third parties). The information
-    may occasionally be used by business and channel partners for marketing and advertising
-    requirements in relation to our services.
-    <br>
-    <br>
-    No information is disclosed to third parties without your consent.
-    <br>
-    <br>
-    <b>Use of Cookies </b>
-    <br>
-    <br>
-    The use of cookies by our website is intended to monitor site usage whenever a user
-    accesses our website and its services. Cookies contain information that you provide
-    such as your username and password. We use cookies on our site to help us understand
-    what pages are frequently visited and to improve the web site experience. A cookie
-    cannot affect data on your computer and cannot provide us with information about
-    other sites you have visited.
-    <br>
-    <br>
-    Your web browser can be set not accept cookies or to warn you before accepting a
-    cookie. If you wish to access secured sections of our web site, you will have to
-    enable per-session cookies in Microsoft Internet Explorer. Most sections in our
-    website can be accessed without accepting a cookie.
-    <br>
-    <br>
-    <b>COMMENTS / FEEDBACK</b><br>
-    <br>
-    Do write in to E-mail on any concerns regarding our privacy policy.
- </td> <td valign="top" class="newcontent"> 
-    
-<table border="1" width="100%" cellspacing="0" cellpadding="0" style="border-width: 0">
-  
-  
-  <tbody><tr>
-    <td>
+    <style>
+        .socialMediaWidgets iframe {
+            margin: 5px;
+        }
 
+        .socialMediaWidgets {
+            width: 345px;
+            margin: 20px auto;
+        }
+    </style>
 
-
-<map name="FPMap4">
-<area target="_blank" href="http://www.karvydistribution.com/onlineforms/eforms/eformDC.aspx?IssueCode=SREINCDAPR15" shape="rect" coords="82, 37, 145, 57">
-<area target="_blank" href="http://www.karvydistribution.com/onlineforms/eforms/SREINCDAPR15/SREINCDAPR15SF.pdf" shape="rect" coords="146, 37, 238, 59">
-</map>
-<img src="http://www.karvydistribution.com/files/SREI_NCD_Banner_Apr15.gif" usemap="#FPMap4" border="0" class="img_w_h" width="0" height="0">
-
-<map name="FPMap3">
-<area target="_blank" href="http://www.karvydistribution.com/onlineforms/eforms/eformDC.aspx?IssueCode=MFLNCDMAR15" shape="rect" coords="76, 4, 142, 23">
-<area target="_blank" href="http://www.karvydistribution.com/onlineforms/eforms/MFLNCDMAR15/MFLNCDMAR15SF.pdf" shape="rect" coords="144, 5, 235, 23">
-</map>
-<img src="http://www.karvydistribution.com/files/Muthoot_NCD_Banner_Mar15.gif" border="0" usemap="#FPMap3" class="img_w_h" width="0" height="0">
+   
 
 
 
 
-    </td>
-  </tr>
-  <tr>
-    <td>
 
-      <div style="text-align:center;"><br><a rel="nofollow" href="http://www.karvycomtrade.com/awards.aspx" target="_blank" title="Best marketing analyst"><img src="http://www.karvycomtrade.com/images/Assocham_18feb2015_t.jpg" border="0" width="160" height="200" style="border:2px solid #fff;" class="img_w_h"></a><br><br><a rel="nofollow" href="http://www.karvycomtrade.com/awards.aspx#ZEEBusinessAward" target="_blank" title="ZEE Business Award for the Best Agri. Analyst (2014)"><img src="http://www.karvycomtrade.com/images/zee-business-banner-02.jpg" border="0" width="160" height="200" style="border:2px solid #fff;" class="img_w_h"></a><br><br></div>
-            
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><hr></td>
-  </tr>
-  <tr>
-    <td align="center">
-	
-      <a rel="nofollow" href="https://www.karvyonline.com" target="_blank" title="Karvy Online"><img src="images/newkarvyonlinebanner_14aug2013_2.gif" border="0" width="225" height="181" alt="Karvy Online" title="Karvy Online" class="img_w_h"></a>
-      </td>
-  </tr>
-</tbody></table>
-
- </td> </tr> <tr> <td colspan="2"> 
- </td> </tr> <tr> <td colspan="2"> <table border="0" width="100%" cellspacing="0" cellpadding="0"> <tbody><tr> <td bgcolor="#FFFFFF" colspan="3"> <hr> </td> </tr> <tr> <td align="left">&nbsp; <a href="copyright.aspx" title="Copyright">Copyright</a> | <a href="disclaimer.aspx" title="Disclaimer">Disclaimer</a> | <a href="privacy-policy.aspx" title="Privacy Policy">Privacy Policy</a> | <a href="sitemap.aspx" title="Sitemap">Sitemap</a> </td> <td align="center"></td> <td align="right">Powered by Karvy Technology Division&nbsp; </td> </tr> <tr> <td bgcolor="#FFFFFF" colspan="3">&nbsp; </td> </tr> </tbody></table> </td> </tr> </tbody></table> </td> </tr> </tbody></table> </center> </form>  </body></html>
+</body></html>
