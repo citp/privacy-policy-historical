@@ -1,20 +1,26 @@
-> *The following text is extracted and transformed from the theforexgeek.com privacy policy that was archived on 2012-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120322000416id_/http%3A//www.theforexgeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforexgeek.com privacy policy that was archived on 2015-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150830013955id_/http%3A//forexrobotron.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Forex Robotron | The ULTIMATE automated Forex trading robot | Privacy Policy
 
-  
+**PROTECTING YOUR CONFIDENTIAL INFORMATION**
 
+We recognize that you have concerns about the confidential personal information we obtain about you throughout our relationship. 
 
-Protecting Your Confidential Information
+Because protecting your confidential information is important to us, we have adopted a privacy policy which governs how the confidential information that we obtain about you is used and maintained. 
 
-We, at the forex geek, value our relationship with each of our customers, and we appreciate the trust that you have placed in us. We recognize that you have concerns about the confidential personal information we obtain about you throughout our relationship. Because protecting your confidential information is important to us, we have adopted a privacy policy which governs how the confidential information we obtain about you is used and maintained. We pledge to protect that information and ensure that it remains private. The information in this notice summarizes the categories of personal information that we collect about you, how that information is handled, and how we protect that information.
+we pledge to protect that information and ensure that it remains private. 
 
-We do not disclose any nonpublic personal information about our customers to anyone, except as required or permitted by law. The forex geek does not sell personal information obtained about you to companies that are not associated with the forex geek for the purpose of marketing their products or services to you.
+The information in this notice summarizes the categories of personal information that we collect about you, how that information is handled, and how we protect that information. 
 
-Collection and Use of Personal Information
+we do not disclose any nonpublic personal information about our customers to anyone, except as required or permitted by law. we do not sell personal information obtained about you to companies that are not associated with Forex Robotron for the purpose of marketing their products or services to you. 
 
-The privacy policy set forth in this notice applies to the forex geek and affiliated companies of the forex geek. We collect nonpublic personal information about you from the following sources, solely for the purposes specified:
+**COLLECTION AND USE OF PERSONAL INFORMATION**
 
-Information we receive from you on account applications or other forms, such as name, address, phone and similar information. We use this information to administer the accounts we maintain on your behalf, process transactions requested by you, respond to your inquiries, evaluate your investment needs, and identify other products and services that may interest you.
+The privacy policy set forth in this notice applies to Forex Robotron and affiliated companies of Forex Robotron. We collect nonpublic personal information about you from the following sources, solely for the purposes specified: 
 
-All the forex geek employees are instructed to use strict standards of care regarding the confidentiality of your nonpublic personal information as outlined in firm policies. Employees not adhering to our firm policies are subject to disciplinary action. We require outside companies and independent contractors to whom we provide customer information for marketing, servicing or processing to enter into a confidentiality agreement that restricts the use of the information to those purposes. We maintain physical, electronic and procedural safeguards that comply with applicable laws to protect your nonpublic personal information. 
+Information we receive from you on forms, such as name, address, phone and similar information. We use this information to process information requested by you, respond to your inquiries, evaluate your investment needs, and identify other products and services that may interest you. 
+
+[ ](https://twitter.com/forexrobotron) [Main](https://web.archive.org/web/20150830013955id_/http%3A//forexrobotron.com/index.html) | [Terms](https://web.archive.org/web/20150830013955id_/http%3A//forexrobotron.com/terms.html) | [Privacy](https://web.archive.org/web/20150830013955id_/http%3A//forexrobotron.com/privacy.html) | [FAQ](https://web.archive.org/web/20150830013955id_/http%3A//forexrobotron.com/faq.html) | [Contact](https://web.archive.org/web/20150830013955id_/http%3A//forexrobotron.com/contact.html) | [Affiliates](http://www.click2sell.eu/affiliate_page.do?productId=39065)
+
+Copyright © 2015 Forex Robotron. All rights reserved.  
+
