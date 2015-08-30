@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the invigoratenow.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507130140id_/http%3A//invigoratenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invigoratenow.com privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831001825id_/http%3A//invigoratenow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - InvigorateNOW
 
 **InvigorateNOW – PRIVACY POLICY**
 
-This is the Privacy Policy for Invigorate Now, Inc. and this Website [www.invigoratenow.com](https://web.archive.org/web/20150507130140id_/http://invigoratenow.com/privacy-policy/www.invigoratenow.com) (individually and collectively the “Company”). When you use this Website, you agree to the Privacy Policy that follows. If you do not agree with this Privacy Policy you should immediately stop using this Website.
+This is the Privacy Policy for Invigorate Now, Inc. and this Website [www.invigoratenow.com](https://web.archive.org/web/20150831001825id_/http://invigoratenow.com/privacy-policy/www.invigoratenow.com) (individually and collectively the “Company”). When you use this Website, you agree to the Privacy Policy that follows. If you do not agree with this Privacy Policy you should immediately stop using this Website.
 
 **Information The Company Collects**
 
@@ -69,7 +69,7 @@ The Company reserves the right, at our complete discretion, to change this Priva
 
 **How to Contact Us**
 
-If you have any questions about this Privacy Policy, Please contact us by emailing us at: [customerservice@invigoratenow.com.](https://web.archive.org/web/20150507130140id_/http://invigoratenow.com/privacy-policy/customerservice@invigoratenow.com)
+If you have any questions about this Privacy Policy, Please contact us by emailing us at: [customerservice@invigoratenow.com.](https://web.archive.org/web/20150831001825id_/http://invigoratenow.com/privacy-policy/customerservice@invigoratenow.com)
 
 **Miscellaneous**
 
