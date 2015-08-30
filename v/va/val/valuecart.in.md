@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the valuecart.in privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516214442id_/http%3A//www.valuecart.in/Privacy-Policy-pid-192007.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuecart.in privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831012103id_/http%3A//www.valuecart.in/pages/privacy-policy-1) for the most accurate reproduction.*
 
-# Privacy Policy | www.valuecart.in
+# The Online Discount store for unboxed, unused Mobile Phones
 
 This privacy policy sets out how  **ValueCart.in**  uses and protects any information that you give when you use this website.
 
