@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefloorsoft.com privacy policy that was archived on 2015-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150312101534id_/http%3A//onefloorsoft.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefloorsoft.com privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831032807id_/http%3A//onefloorsoft.com/privacy.aspx) for the most accurate reproduction.*
 
 # One Floor App - Boutique Apps
 
