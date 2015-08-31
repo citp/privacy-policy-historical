@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stpicz.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501105023id_/http%3A//stpicz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stpicz.com privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831023919id_/http%3A//stpicz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Best Laptop gaming review
+
+Privacy Policy
 
 Privacy Policy for this site
 
