@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikimedz.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529142736id_/http%3A//www.wikimedz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimedz.com privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831024905id_/http%3A//www.wikimedz.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
