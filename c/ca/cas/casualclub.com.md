@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casualclub.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531093827id_/http%3A//www.casualclub.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualclub.com privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831034719id_/http%3A//www.casualclub.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -35,7 +35,7 @@ This website uses Google Analytics, a service of web analysis provided by Google
 
 Please refer to the provisions of art. 5 'Intellectual property' as regards intellectual property rights on the contents. Members have the right to delete such content from the site at any time by terminating their contract with Casual Club, according to the provisions of art. 6 'Termination of contract and elimination of profile.' Since it concerns information available in the announcement, research criteria and the presentation of the Member, the data will be eliminated definitively only after the next time the (printed, audiovisual or digital) communication means containing the Member's contents have been updated or modified. 
 
-The person in charge of the Processing sensitive information is the company Tekka Date SA, the owner of Casual Club service, headquartered in Via Trevano 7, 6900 Lugano, Switzerland. The data and the www.casualclub.com site are protected at the headquarters of the Person in charge of processing the information.   
+The person in charge of the Processing sensitive information is the company Tekka Digital SA, the owner of Casual Club service, headquartered in Via Trevano 7, 6900 Lugano, Switzerland. The data and the www.casualclub.com site are protected at the headquarters of the Person in charge of processing the information.   
 The Member can contact at any time, by sending an e-mail to <http://www.help-tkd.com/en_GB/contact/index/pid/3>, the Person in charge of processing the information in order to obtain confirmation whether his/her personal data exists or not, even if they're not saved yet and have them communicated in an intelligible way.   
 Furthermore, the Member has the right to request the Person in charge of processing personal information to delete his/her personal information (by that, it is meant to destroy such information without any possibility to restore it), transform it into anonymous form (changing the data into anonymous format) or to freeze the processing of their personal data (conserving the data by temporarily suspending any kind of processing).   
 The Member has the right to object to the handling of any personal data that concern him/her, in whole or partly, on legitimate grounds, even if they are relevant to the purpose of the collection or are used for sending advertisement, direct sales, market research purposes or commercial communication.   
@@ -43,7 +43,7 @@ The Member has the right to object to the handling of any personal data that con
 
 Contents divulgated by Casual Club
 
-Casual Club® registered trademark, websites, services, logos, graphics, animations, videos and texts contained at Casual Club site are the intellectual property of Tekka Date SA and users and/or members can not reproduce, use or represent them in any way or modality; offenders will be subject to legal action.   
+Casual Club® registered trademark, websites, services, logos, graphics, animations, videos and texts contained at Casual Club site are the intellectual property of Tekka Digital SA and users and/or members can not reproduce, use or represent them in any way or modality; offenders will be subject to legal action.   
 All intellectual and industrial property rights protected based on copyright laws or other provisions concerning software, programs and computer systems regarding the Service, Casual Club's site and/or databanks, made available to the user or member in any form or format, will continue to be the exclusive property of Casual Club, which grants the user or member a non-exclusive, non-transferable personal end-user license in compliance with these terms and conditions.   
 The right to use is strictly limited to the access and on-line use of Casual Club site and services for private and personal uses exclusively pertaining to and during the validity of Casual Club membership. Any other use is prohibited.   
 In particular, members or users cannot edit, copy, reproduce, download, publish, transmit, commercially make use of and/or distribute services and the content of Casual Club site or the computer programming codes of the elements comprising the services and Casual Club site by any means. 
@@ -56,3 +56,16 @@ Members and/or users are banned from publishing or broadcasting content that may
 The user hereby agrees and warrants that the above contents, including personal pictures, are posted by the user and the user is the exclusive author of the content, including photos and profile, and that the use of such content by us does not infringe the rights of any third party.
 
 Casual Club undertakes no obligation to publish content submitted by you or anyone else. Although we do not examine and we can not review every message and photograph or other material posted or sent by users of the Service and we are not responsible for the content of these messages or materials, we reserve the right, but assume no obligation, except as required by applicable law, to monitor, delete, move or edit messages, photographs or any of the material above, including, without limitation, announcements, profiles, public publications, photographs and messages which, in our sole discretion, we believe to violate these Terms or any guidelines applicable to the content, or are deemed otherwise unacceptable. The user is the solely responsible for the content of profiles, publications, public, photographs and any other material that the user uploads to the Service or for the users of the Service. We do not guarantee the accuracy of information provided by other users of the Service, or assume any responsibility to carry out checks to that effect.
+
+The site uses cookies to identify you as a user of this Site, to remember your favorite language and to facilitate the surfing on the Site. It is possible to deactivate the cookies in your own Internet browser, but if you do so, some parts of the Site won't work correctly.
+
+To learn more about the cookies, including flash cookies and local storage technologies, we suggest you to visit the following sites:
+
+  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+  * <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>
+  * [www.google.co.uk/goodtoknow/data-on-the-web/cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+
+
+
+The site uses Google Analytics to gather data on who visits the website. This information is used to draft a report and improve the site itself. The cookies, gather in an anonymous way, some type of data such as the number of visits, origins of the visitors and the visited pages. For further information regarding the Google privacy Policy please check <http://www.google.com/intl/en/policies/>
