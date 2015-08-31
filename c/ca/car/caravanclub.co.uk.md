@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627034150id_/http%3A//www.caravanclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831052352id_/http%3A//www.caravanclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Caravan Club
 
