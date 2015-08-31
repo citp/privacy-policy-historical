@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whois.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312121951id_/http%3A//shop.whois.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whois.com privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831224629id_/http%3A//shop.whois.com/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At Whois.com Pte Ltd we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
+At Whois.com we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
 
 #### Collection of Information
 
@@ -23,7 +23,7 @@ We only use and process personal information for the purposes described in this 
   * Ensuring the technical functioning of our network
   * Protecting our rights or property and that of our users
   * Developing new services
-  * As described in the respective terms of service of each of our services and in the Whois.com Pte Ltd Customer Master Agreement
+  * As described in the respective terms of service of each of our services and in the Whois.com Customer Master Agreement
 
 
 
@@ -47,7 +47,7 @@ We only share personal information with other companies or individuals in the fo
 (c) detect, prevent, or otherwise address fraud, security or technical issues, or  
 (d) protect against harm to rights, property or safety, of our users, us or the public as required or permitted by law.
   * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users by demographic. Such information does not identify you individually.
-  * As permitted and described in the respective terms of service of each of our services and in the Whois.com Pte Ltd Customer Master Agreement
+  * As permitted and described in the respective terms of service of each of our services and in the Whois.com Customer Master Agreement
 
 
 
