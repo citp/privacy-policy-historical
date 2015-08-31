@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalsocietypublishing.org privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630152450id_/http%3A//royalsocietypublishing.org/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalsocietypublishing.org privacy policy that was archived on 2015-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150831115623id_/http%3A//royalsocietypublishing.org/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and security | Royal Society Publishing
 
