@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nicktube.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509014502id_/http%3A//nicktube.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicktube.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901174051id_/http%3A//nicktube.com/privacy) for the most accurate reproduction.*
 
-# NickTube - Hight speed video experience with HD Quality
+# NickTube - High speed video experience with HD Quality
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@nicktube.com.
 
