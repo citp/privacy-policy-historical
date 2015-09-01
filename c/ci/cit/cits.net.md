@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cits.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317095906id_/http%3A//www.cits.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cits.net privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901080959id_/http%3A//www.cits.net/privacy.html) for the most accurate reproduction.*
 
 # CITS - Privacy Policy
 
