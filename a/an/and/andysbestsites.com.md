@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the andysbestsites.com privacy policy that was archived on 2013-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130102082954id_/http%3A//www.andysbestsites.com/privacy-statement-othermenu-48) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andysbestsites.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901203847id_/http%3A//www.andysbestsites.com/privacy-statement-othermenu-48) for the most accurate reproduction.*
 
 # Privacy Statement | AndysBestSites.com
 
-Saturday, 03 November 2007 13:10   
-  
 **What This Privacy Policy Covers**   
 This policy covers how AndysBestSites.com, and the group of sites belonging to AndysBestSites.com, including but not limited to, AndysPhotoPost.com, MaxBoys.com, CellPhoneBoys.com, KubasPicks.com, and RobbiesBoys.com (and any others added to this group) treats any personal information that AndysBestSites.com might have collected and received, including information related to your past use of any AndysBestSites services. Personal information is information about you that is personally identifiable like your name, address, email address and that is not otherwise publicly available.
 
