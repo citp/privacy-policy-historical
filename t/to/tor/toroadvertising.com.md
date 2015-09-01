@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the toroadvertising.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423010034id_/http%3A//toroadvertising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toroadvertising.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901220905id_/http%3A//toroadvertising.com/privacy.php) for the most accurate reproduction.*
 
 # TORO Advertising :: Performance Network
 
-Thank you for visiting the Toro Advertising – Performance Network website located at toroadvertising.com (the "Site"). Toro Advertising ("we", "us") is committed to protecting the privacy your personally identifiable information. We provide this privacy policy ("Privacy Policy") in order to explain our online information practices and the choices you can make about the way your information is used by us. You must agree to this Privacy Policy, in its entirety, including our use of cookies in order to: register an account ("Account") with the Toro Advertising affiliate network ("Affiliate Network") and log-into your Account as member of the Affiliate Network. Your acceptance of both this Privacy Policy and our use of cookies on the Site shall be deemed a blanket acceptance of such Privacy Policy and cookie usage for all future attempts to log-in and access your Account. If you do not agree to this Privacy Policy in its entirety, you are not authorized to register for an Account on the Affiliate Network. 
+Thank you for visiting the Toro Advertising – Performance Network website located at toro.ad (the "Site"). Toro Advertising ("we", "us") is committed to protecting the privacy your personally identifiable information. We provide this privacy policy ("Privacy Policy") in order to explain our online information practices and the choices you can make about the way your information is used by us. You must agree to this Privacy Policy, in its entirety, including our use of cookies in order to: register an account ("Account") with the Toro Advertising affiliate network ("Affiliate Network") and log-into your Account as member of the Affiliate Network. Your acceptance of both this Privacy Policy and our use of cookies on the Site shall be deemed a blanket acceptance of such Privacy Policy and cookie usage for all future attempts to log-in and access your Account. If you do not agree to this Privacy Policy in its entirety, you are not authorized to register for an Account on the Affiliate Network. 
 
 In accordance with the provisions of the Spanish Act 15/1999 of 13 December, on Personal Data Protection and its implementing regulations, the responsible of the website, in compliance with Articles 5 and 6 of Spanish Act 15/1999 of 13 December, on Personal Data Protection, informs all Users that its personal data will be incorporated to an automated file property of TORO ADVERTISING SCP, Sole Proprietorship, Spanish company duly incorporated under the laws of Spain, having its Registered Office Partida Buella S/N, Pratdip (Tarragona), with Tax Identity Number J-657.30.392, and registered in the Mercantile Register from Tarragona. 
 
@@ -38,27 +38,27 @@ Please be advised that, although we take every reasonable precaution available t
 
 You acknowledge that you provide your personally identifiable information to us with knowledgeable consent and at your own risk. 
 
-**Deleting and Updating Your Information.** If you would like to delete or update the personally identifiable information that we have collected from you, simply email us at: support@toroadvertising.com. 
+**Deleting and Updating Your Information.** If you would like to delete or update the personally identifiable information that we have collected from you, simply email us at: support@toro.ad 
 
 We will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt. To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
-**Opting Out of Receiving E-mail.** You may at any time choose to stop receiving emails containing general information regarding Toro Advertising by following the instructions at the end of each such email or by contacting us at support@toroadvertising.com. Should you be contacted by our Third Party Agent through email, you can follow the instructions at the end of each such email to stop receiving such emails. There may be a short delay of up to several business days while your request is being verified, deployed and processed across our servers. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your Account, as well as to respond to any inquiry or request made by you. 
+**Opting Out of Receiving E-mail.** You may at any time choose to stop receiving emails containing general information regarding Toro Advertising by following the instructions at the end of each such email or by contacting us at support@toro.ad. Should you be contacted by our Third Party Agent through email, you can follow the instructions at the end of each such email to stop receiving such emails. There may be a short delay of up to several business days while your request is being verified, deployed and processed across our servers. Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your Account, as well as to respond to any inquiry or request made by you. 
 
 **Notification of Changes.** We reserve the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Site explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check the Site periodically for any changes. Your continued use of the Site and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
 
-**Contact Us.** If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: support@toroadvertising.com. 
+**Contact Us.** If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: support@toro.ad 
 
 **Exhibit A**
 
-**More about cookies on toroadvertising.com**
+**More about cookies on toro.ad**
 
-Using toroadvertising.com requires the use of cookies. If you have do not want to accept the cookies for toroadvertising.com or from any of our third parties, you won't be able to use our service. 
+Using toro.ad requires the use of cookies. If you have do not want to accept the cookies for toro.ad or from any of our third parties, you won't be able to use our service. 
 
 We use a cookie to remember your cookie preferences this has a couple of consequences:  
 • If you delete all your cookies you will have to update your preferences with us again.  
 • If you use a different device, computer profile or browser you will have to tell us your preferences again. 
 
-The cookies used on toroadvertising.com are based on the International Chamber of Commerce guide for cookie categories:  
+The cookies used on toro.ad are based on the International Chamber of Commerce guide for cookie categories:  
 • Strictly necessary  
 • Performance  
 • Functionality 
@@ -70,7 +70,7 @@ For more information about cookies see the Further Reading link below.
 'Strictly Necessary' cookies let you move around the website and login to your secure account. **These cookies don't gather any information about you that could be used for marketing or remembering where you've been on the internet.**
 
 **We use these Strictly Necessary cookies to...**  
-• Identify you as being logged in to toroadvertising.com  
+• Identify you as being logged in to toro.ad  
 • Remember things like information you've entered on forms when you navigate to different pages in a single web browser session  
 • Help you use specific features like testing tracking links  
 • Make sure you connect to the right service on our website when we make any changes to the way the website works 
@@ -83,7 +83,7 @@ For more information about cookies see the Further Reading link below.
 
 **Here is a list of the cookies we have defined as 'strictly necessary'.**
 
-**toroadvertising.com cookies:**  
+**toro.ad cookies:**  
 • PHPSESSID 
 
 **Cookies provided by 3rd parties:**  
@@ -108,7 +108,7 @@ In some cases, some of these cookies are managed for us by third parties, but we
 Accepting these cookies is a condition of using the website, so if you prevent them we cannot guarantee how our site will perform for you.  
 Here is a list of the cookies we have defined as 'Performance'**
 
-**toroadvertising.com cookies** • aff_conversions  
+**toro.ad cookies** • aff_conversions  
 • __utma  
 • __utmb  
 • __utmc  
