@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2015-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150228095720id_/http%3A//onlinemoneyclub.co.uk/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901160930id_/http%3A//onlinemoneyclub.co.uk/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | David Henry's Marketing Blog
 
