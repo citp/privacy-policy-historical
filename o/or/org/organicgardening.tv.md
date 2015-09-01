@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicgardening.tv privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621220729id_/http%3A//www.organicgardening.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicgardening.tv privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901063512id_/http%3A//www.organicgardening.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OrganicGardening
 
