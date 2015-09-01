@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allsitecafe.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503060818id_/http%3A//www.allsitecafe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsitecafe.com privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902000359id_/http%3A//www.allsitecafe.com/privacy.html) for the most accurate reproduction.*
 
 # This is the web site of allsitecafe
 
