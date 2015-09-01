@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitsu.in privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619061922id_/http%3A//mitsu.in/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsu.in privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901181526id_/http%3A//www.mitsu.in/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Protect-Domain Names Privacy Policy For Domain name Registrant at Bharat Domains
 
