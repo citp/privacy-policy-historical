@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mychoiceautos.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618221017id_/http%3A//www.mychoiceautos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychoiceautos.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901052937id_/http%3A//www.mychoiceautos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyChoiceAutos
 
