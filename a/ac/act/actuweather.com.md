@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the actuweather.com privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301023117id_/http%3A//actuweather.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actuweather.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901050524id_/http%3A//actuweather.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Weight Losing Tips For Slimming Down
 
-### Privacy Policy:
+## Privacy Policy:
 
 Wini Jane (" **Wini** ") operates actuweather.com and may operate other websites. It is wini policy to respect your privacy regarding any information we may collect while operating our websites.
 
