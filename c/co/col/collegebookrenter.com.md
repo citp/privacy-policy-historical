@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegebookrenter.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506032408id_/http%3A//www.collegebookrenter.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegebookrenter.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901221600id_/http%3A//www.collegebookrenter.com/privacy.cfm) for the most accurate reproduction.*
 
 # College Book Renter privacy policy for college text books you rent or sell
 
