@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhomedesign.in privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501100049id_/http%3A//www.myhomedesign.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhomedesign.in privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901094528id_/http%3A//www.myhomedesign.in/privacy-policy) for the most accurate reproduction.*
 
 # Home Design & Build Community, Home Interior Design Ideas Privacy Policy @ My Home Design
 
