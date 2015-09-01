@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamudi.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607015624id_/http%3A//www.lamudi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamudi.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901135456id_/http%3A//www.lamudi.com/privacy.html) for the most accurate reproduction.*
 
 # Lamudi.com - Welcome to the best real estate marketplaces around the world -
 
@@ -48,7 +48,7 @@ We have in place appropriate technical and security measures to prevent unauthor
 
 ## Your rights
 
-If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Lamudi.com, Sonnenburger Str. 73, 10437 Berlin, Germany . 
+If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes. Lamudi.com, Zossener Str. 56, 10961 Berlin, Germany . 
 
 ## General
 
