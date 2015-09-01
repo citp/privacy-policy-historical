@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betcheslovethis.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623033406id_/http%3A//www.betcheslovethis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betcheslovethis.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901131729id_/http%3A//www.betcheslovethis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Betches Love This
 
