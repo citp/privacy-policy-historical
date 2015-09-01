@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the linelab.org privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607231627id_/http%3A//www.linelabox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linelab.org privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902014648id_/http%3A//www.linelabox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##  [ Privacy Policy](http://www.linelabox.com/privacy-policy)
 
 Details
-     Hits: 3553 
+     Hits: 4249 
 
 ### 1\. Introduction
 
@@ -23,7 +23,7 @@ No information submitted by a you will be shared, sold, reused in lists, or be u
 
 ### 4\. Cookies
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user. Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings but we have no access to or control over these cookies.
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings but we have no access to or control over these cookies. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
 
 ### 5\. External links
 
