@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.co.in privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612030759id_/http%3A//www.skyscanner.co.in/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.co.in privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902042724id_/http%3A//www.skyscanner.co.in/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Skyscanner India
 
