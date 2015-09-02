@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trellian.com privacy policy that was archived on 2015-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150605100650id_/http%3A//www.trellian.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trellian.com privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902043021id_/http%3A//www.trellian.com/privacy.htm) for the most accurate reproduction.*
 
 # Trellian Privacy Policy
 
