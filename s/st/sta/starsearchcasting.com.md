@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614000519id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902024845id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Disney Auditions, American Idol Auditions, Acting Casting Calls, Model Casting Calls
+# Star Search Casting helping kids get started in the Entertainment Industry
 
 |  |  [Member Success Stories](https://web.archive.org/testimonials.php) [](https://web.archive.org/testimonials.rss.php) |   
 ---|---|---  
