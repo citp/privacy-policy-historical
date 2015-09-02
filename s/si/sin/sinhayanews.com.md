@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinhayanews.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409075957id_/http%3A//www.sinhayanews.com/content/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinhayanews.com privacy policy that was archived on 2015-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150902034912id_/http%3A//www.sinhayanews.com/content/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy and Policy | Sinhaya News Reader
 
