@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatspersonal.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607150515id_/http%3A//www.thatspersonal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatspersonal.com privacy policy that was archived on 2015-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150903001437id_/http%3A//www.thatspersonal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ E-mailing you ‘Reminders’ for products you opt to be reminded for
 E-mailing you information relating to new products or promotions on the website  
 E-mailing you information about issues that we believe may be of interest to you.
 
-  You’re billing address: This is required ONLY for purposes of verification of your credit card. Thatspersonal.com will not send anything to your billing address.
+You’re billing address: This is required ONLY for purposes of verification of your credit card. Thatspersonal.com will not send anything to your billing address.
 
 **Gathering Information**
 
