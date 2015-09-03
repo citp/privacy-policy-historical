@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirarcade.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183310id_/http%3A//www.sirarcade.com/pages/2/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirarcade.com privacy policy that was archived on 2015-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150903045954id_/http%3A//www.sirarcade.com/pages/2/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
