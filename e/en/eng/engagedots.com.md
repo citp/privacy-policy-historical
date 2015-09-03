@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engagedots.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410122328id_/http%3A//www.engagedots.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engagedots.com privacy policy that was archived on 2015-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150903233209id_/http%3A//www.engagedots.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Engagedots
 
@@ -31,6 +31,6 @@ Your privacy is very important to us. Accordingly, the following outlines our pr
 
   * NDOT Technologies has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
   * By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the site following the posting of changes to this policy will be deemed your acceptance of those changes.
-  * If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: NDOT Technologies - [www.ndottech.com](https://web.archive.org/web/20150410122328id_/http%3A//www.engagedots.com/www.ndottech.com "www.ndottech.com")
+  * If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: NDOT Technologies - [www.ndottech.com](https://web.archive.org/web/20150903233209id_/http%3A//www.engagedots.com/www.ndottech.com "www.ndottech.com")
 
 
