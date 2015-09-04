@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rechargeaddict.in privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502090413id_/http%3A//www.rechargeaddict.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rechargeaddict.in privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904020732id_/http%3A//www.rechargeaddict.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Recharge Addict-Free Recharge Tricks, Cash back offer 2015
 
