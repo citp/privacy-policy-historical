@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicheaday.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621230441id_/http%3A//www.nicheaday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheaday.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904032839id_/http%3A//www.nicheaday.com/privacy.html) for the most accurate reproduction.*
 
 # Disclaimer for www.NicheADay.com
 
@@ -54,8 +54,8 @@ Most browsers are set up to accept cookies, but you can change your settings to 
 
 **10\. Changes to Privacy Policy.**  If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
 
-**11\. Effective Date.**  This Privacy Policy is effective as of November 3, 2009.
+**11\. Effective Date.**  This Privacy Policy is effective as of July 18, 2015.
 
 **12\. Contact.**  You may contact us concerning this Privacy Policy at the following address: [Niche Internet Marketing, LLC - Help Desk](http://resellersresource.com/helpdesk/)  
   
-© 2009 **www.NicheADay.com** , All rights reserved.
+© 2015 **www.NicheADay.com** , All rights reserved.
