@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomssurprisesale.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224031952id_/http%3A//www.tomssurprisesale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomssurprisesale.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904172001id_/http%3A//www.tomssurprisesale.com/privacy-policy) for the most accurate reproduction.*
 
 # TOMS : One for One
 
