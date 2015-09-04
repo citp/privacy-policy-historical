@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standupdeskstore.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628072037id_/http%3A//www.standupdeskstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standupdeskstore.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904135242id_/http%3A//www.standupdeskstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stand Up Desk Store | Stand Up Desk Store
 
