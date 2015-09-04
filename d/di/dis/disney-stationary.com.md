@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disney-stationary.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415161033id_/http%3A//disney-stationary.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disney-stationary.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904124858id_/http%3A//disney-stationary.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy > Disney-Stationary.com
 
