@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the eshowbizbuzz.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508073329id_/http%3A//www.eshowbizbuzz.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eshowbizbuzz.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904080551id_/http%3A//www.eshowbizbuzz.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Pakistani Showbiz Buzz Industry | Latest News
+# Privacy Policy | Pakistani Showbiz Buzz Industry | Latest News
+
+##  **Privacy Policy:**
 
 Your privacy is important to us. This privacy policy is derived to demonstrate our sole commitment to your privacy and the protection of your information and data. Showbizbuzz runs will not sell, distribute, barter or transfer any of your personal identifiable information to companies, organizations or other parties without your permission. Our privacy policy is designed to help you understand why we gather the minimal personal information and how we collect it. The policy also reflects our commitment to take all commercially possible and reasonable steps to ensure the privacy and confidentiality of your personal information.  
 We reserve the right to make changes or alter our privacy policies and such changes or alterations will be posted on our website in timely manner.
