@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edsby.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625015958id_/http%3A//edsby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsby.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905003654id_/http%3A//edsby.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - EdsbyEdsby
+# Privacy Policy / Edsby
 
 #### CoreFour Inc.’s Privacy Policy for Edsby
 
