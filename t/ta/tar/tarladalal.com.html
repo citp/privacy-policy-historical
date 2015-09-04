@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the tarladalal.com privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628230431id_/http%3A//www.tarladalal.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tarladalal.com privacy policy that was archived on 2015-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150904072250id_/http%3A//www.tarladalal.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="td4.css" type="text/css"><link rel="SHORTCUT ICON" href="images/favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="td5.css" type="text/css"><link rel="SHORTCUT ICON" href="images/favicon.ico">
     <!-- thumbnail scroller stylesheet -->
     <link href="css/jquery.thumbnailScroller.css" rel="stylesheet">
     <script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" charset="utf-8" async="" src="//www.smartsuppchat.com/loader.js?"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
@@ -17,7 +17,7 @@
     <script src="jquery.ratings.js"></script>
     <script src="rating.js"></script>
      <script src="scripts/comments_system.js"></script>
-     <link type="text/css" rel="stylesheet" href="td3.css">
+   
 
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script> 
 <script type="text/javascript" src="//https://apis.google.com/js/plusone.js"></script> 
@@ -198,10 +198,17 @@
     $(document).ready(function () {
 
         var currentpage = location.pathname
+        var indexLoginpage;
+
         currentpage = currentpage.toLowerCase();
         index = currentpage.indexOf(".aspx");
         index_cook_book__by_td = currentpage.indexOf("-by-tarla-dalal");
+        indexLoginpage = currentpage.indexOf("login.aspx");
+
         var last_charachter = get_last_charachter_fortip_recipe_video();
+        if (indexLoginpage > -1) {
+            $("#logindetails").css({ "display": "block" });
+        }
         if (index > -1) {
             document.getElementById("display_comments").style.display = 'none';
             document.getElementById("newcomment").style.display = 'none';
@@ -282,6 +289,7 @@
                 // user has auth'd your app and is logged into Facebook
                 FB.api('/me?fields=id,name,gender,email,birthday', function (me) {
                     if (me.name) {
+                        
                         document.getElementById('social_login_details').style.display = 'block';
                         document.getElementById('auth-displayname').innerHTML = me.name;
                         document.getElementById('FBId').innerHTML = me.id;
@@ -333,35 +341,11 @@
 <!-- End comScore Tag -->
     <div id="wrapper">
     
-    <form name="aspnetForm" method="post" action="privacypolicy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU1NzU0MDM3OA9kFgJmD2QWAgIDD2QWDgIHD2QWAgIHDxYCHg1XYXRlcm1hcmtUZXh0BQ5TZWFyY2ggcmVjaXBlc2QCCQ9kFgJmDw8WAh4HVmlzaWJsZWdkZAILD2QWAmYPZBYCAgEPFgIeBFRleHQFlgE8ZGl2IHN0eWxlPSJtYXJnaW46MHB4IGF1dG87cG9zaXRpb246cmVsYXRpdmU7d2lkdGg6NzI4cHg7aGVpZ2h0OjkwcHg7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+R0FfZ29vZ2xlRmlsbFNsb3QoIkFkeF83Mjh4OTAiKTs8L3NjcmlwdD48L2Rpdj5kAg0PZBYCAgEPFgIfAgXGAjxzcGFuIGlkPSJsb2dpbl9uYW1lIj48L3NwYW4+PGEgaWQ9InNpZ25pbmxpbmsiIGNsYXNzPSJwYWdlZGVzY2xpbmtzIiBocmVmPSJsb2dpbi5hc3B4P1JldHVyblVybD0lMmZwcml2YWN5cG9saWN5LmFzcHgiIHRpdGxlPSJTaWduIGluIHRvIHlvdXIgZXhpc3RpbmcgbWVtYmVyc2hpcCBhY2NvdW50Ij5TaWduIEluPC9hPiZuYnNwO3wmbmJzcDs8YSBjbGFzcz0icGFnZWRlc2NsaW5rcyIgaHJlZj0iUmVnaXN0ZXIuYXNweCIgdGl0bGU9Ik5ldyB2aXNpdG9ycyBjYW4gc2lnbiB1cCBmb3IgYSBmcmVlIG1lbWJlcnNoaXAgYWNjb3VudCI+UmVnaXN0ZXIgZm9yIGZyZWU8L2E+ZAITD2QWCAIBD2QWAmYPDxYCHwFoZBYCAgEPFgIfAmVkAgMPZBYCAgEPFgIfAgXRATxhIGNsYXNzPSJsc3RzcmNobGluayIgdGl0bGU9IlZpZXcgbGF0ZXN0IG1haWxlciIgaHJlZj0ibWFpbGVyX3ZpZXcuYXNweD9tYWlsZXJpZD0yMzAiPkEgaGVhcnQtd2FybWluZyBNYWhhcmFzaHRyaWFuIG1lYWzigKY8YnIvPjxpbWcgc3JjPSJubC8yMzAvdG53MS5qcGciIHN0eWxlPSJib3JkZXI6bm9uZTt3aWR0aDo4NnB4O21hcmdpbjozcHggYXV0bzsiLz48L2E+ZAIFD2QWAmYPZBYCAgEPFgIfAgXmATxkaXYgc3R5bGU9Im1hcmdpbjowcHggYXV0bztwb3NpdGlvbjpyZWxhdGl2ZTt3aWR0aDoxNjBweDtoZWlnaHQ6NjAwcHg7bWFyZ2luLWJvdHRvbToxMHB4O21hcmdpbi1sZWZ0OjlweDttYXJnaW4tdG9wOjEwcHg7dGV4dC1hbGlnbjpjZW50ZXI7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+R0FfZ29vZ2xlRmlsbFNsb3QoIlJpZ2h0VG9wVG93ZXIxNjB4NjAwIik7PC9zY3JpcHQ+PC9kaXY+ZAIHD2QWAmYPZBYCAgEPFgIfAgXpATxkaXYgc3R5bGU9Im1hcmdpbjowcHggYXV0bztwb3NpdGlvbjpyZWxhdGl2ZTt3aWR0aDoxNjBweDtoZWlnaHQ6NjAwcHg7bWFyZ2luLWJvdHRvbToxMHB4O21hcmdpbi1sZWZ0OjlweDttYXJnaW4tdG9wOjEwcHg7dGV4dC1hbGlnbjpjZW50ZXI7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+R0FfZ29vZ2xlRmlsbFNsb3QoIlJpZ2h0Qm90dG9tVG93ZXIxNjB4NjAwIik7PC9zY3JpcHQ+PC9kaXY+ZAIVDw8WAh4NVG90YWxSb3dDb3VudALtM2RkAhcPZBYCZg9kFgICAQ8WAh8CBaABPGRpdiBzdHlsZT0ibWFyZ2luOjBweCBhdXRvO3Bvc2l0aW9uOnJlbGF0aXZlO3dpZHRoOjcyOHB4O2hlaWdodDo5MHB4OyI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPkdBX2dvb2dsZUZpbGxTbG90KCJTaXRlV2lkZUZvb3RlcjcyOHg5MCIpOzwvc2NyaXB0PjwvZGl2PmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgMFGWN0bDAwJFREbG9naW5TdGF0dXMkY3RsMDEFGWN0bDAwJFREbG9naW5TdGF0dXMkY3RsMDMFD2N0bDAwJGltZ3NlYXJjaIueWoyxegGwLkQELC/EsG6uqvf0">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=qUkQmp-_RQ720zAyNxJHK8SuIRQNVQqLUaV-vt-ygMfXwX56KrqwCHCulc1ql4aHFl4C1n8107glZdPbehdL1a_3Pwk1&amp;t=635084231457020723" type="text/javascript"></script>
+    <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTU1NzU0MDM3OA9kFgJmD2QWAgIDD2QWDgIHD2QWAgIHDxYCHg1XYXRlcm1hcmtUZXh0BQ5TZWFyY2ggcmVjaXBlc2QCCQ9kFgJmDw8WAh4HVmlzaWJsZWdkZAILD2QWAmYPZBYCAgEPFgIeBFRleHQFlgE8ZGl2IHN0eWxlPSJtYXJnaW46MHB4IGF1dG87cG9zaXRpb246cmVsYXRpdmU7d2lkdGg6NzI4cHg7aGVpZ2h0OjkwcHg7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+R0FfZ29vZ2xlRmlsbFNsb3QoIkFkeF83Mjh4OTAiKTs8L3NjcmlwdD48L2Rpdj5kAg0PZBYCAgEPFgIfAgXGAjxzcGFuIGlkPSJsb2dpbl9uYW1lIj48L3NwYW4+PGEgaWQ9InNpZ25pbmxpbmsiIGNsYXNzPSJwYWdlZGVzY2xpbmtzIiBocmVmPSJsb2dpbi5hc3B4P1JldHVyblVybD0lMmZwcml2YWN5cG9saWN5LmFzcHgiIHRpdGxlPSJTaWduIGluIHRvIHlvdXIgZXhpc3RpbmcgbWVtYmVyc2hpcCBhY2NvdW50Ij5TaWduIEluPC9hPiZuYnNwO3wmbmJzcDs8YSBjbGFzcz0icGFnZWRlc2NsaW5rcyIgaHJlZj0iUmVnaXN0ZXIuYXNweCIgdGl0bGU9Ik5ldyB2aXNpdG9ycyBjYW4gc2lnbiB1cCBmb3IgYSBmcmVlIG1lbWJlcnNoaXAgYWNjb3VudCI+UmVnaXN0ZXIgZm9yIGZyZWU8L2E+ZAITD2QWCAIBD2QWAmYPZBYCAgEPFgIfAgXrDjxkaXYgaWQ9Imxhc3RzZWFyY2hlcyIgc3R5bGU9IiI+PGltZyBhbHQ9IllvdXIgbW9zdCByZWNlbnQgc2VhcmNoZXMiIHN0eWxlPSJ0ZXh0LWFsaWduOmNlbnRlcjttYXJnaW4tYm90dG9tOjEwcHg7IiBzcmM9ImltYWdlcy9sc3Rfc2VhcmNoX2hlYWRlci5wbmciIC8+PGJyIC8+PGEgY2xhc3M9ImxzdHNyY2hsaW5rIiBocmVmPSJXaGV5LVNvdXAtKC1DYWxjaXVtLVJpY2gtUmVjaXBlLSktMzUwNjVyIj5XaGV5IFNvdXAgKCBDYWxjaXVtIFJpY2ggUmVjaXBlICkmbmJzcDs8aW1nIHNyYz0iaW1hZ2VzL3JlcGVhdF9zZWFyY2hfZ28ucG5nIiBhbHQ9IlJlcGVhdCB0aGlzIHNlYXJjaCIvPjwvYT48YnIgLz48YSBjbGFzcz0ibHN0c3JjaGxpbmsiIGhyZWY9IlRyaXBsZS1tYXphYS15b2dodXJ0LWNob2NvbGF0ZS1rdWxmaS1pY2UtY3JlYW0tMzIwODNyIj5UcmlwbGUgbWF6YWEgeW9naHVydCBjaG9jb2xhdGUga3VsZmkgaWNlIGNyZWFtJm5ic3A7PGltZyBzcmM9ImltYWdlcy9yZXBlYXRfc2VhcmNoX2dvLnBuZyIgYWx0PSJSZXBlYXQgdGhpcyBzZWFyY2giLz48L2E+PGJyIC8+PGEgY2xhc3M9ImxzdHNyY2hsaW5rIiBocmVmPSJUYXJ0LSgtRWdnbGVzcy1EZXNzZXJ0cy1SZWNpcGUpLTExMzVyIj5UYXJ0ICggRWdnbGVzcyBEZXNzZXJ0cyBSZWNpcGUpJm5ic3A7PGltZyBzcmM9ImltYWdlcy9yZXBlYXRfc2VhcmNoX2dvLnBuZyIgYWx0PSJSZXBlYXQgdGhpcyBzZWFyY2giLz48L2E+PGJyIC8+PGEgY2xhc3M9ImxzdHNyY2hsaW5rIiBocmVmPSJTcHJvdXQtYW5kLUZydWl0LUJoZWwtKC1GYXN0LUZvb2QtTWFkZS1IZWFsdGh5KS00MDY5ciI+U3Byb3V0IGFuZCBGcnVpdCBCaGVsICggRmFzdCBGb29kIE1hZGUgSGVhbHRoeSkmbmJzcDs8aW1nIHNyYz0iaW1hZ2VzL3JlcGVhdF9zZWFyY2hfZ28ucG5nIiBhbHQ9IlJlcGVhdCB0aGlzIHNlYXJjaCIvPjwvYT48YnIgLz48YSBjbGFzcz0ibHN0c3JjaGxpbmsiIGhyZWY9IlJpY2gtQ2hvY29sYXRlLUNvb2tpZXMtMTU2NjZyIj5SaWNoIENob2NvbGF0ZSBDb29raWVzJm5ic3A7PGltZyBzcmM9ImltYWdlcy9yZXBlYXRfc2VhcmNoX2dvLnBuZyIgYWx0PSJSZXBlYXQgdGhpcyBzZWFyY2giLz48L2E+PGJyIC8+PGEgY2xhc3M9ImxzdHNyY2hsaW5rIiBocmVmPSJQYW5lZXItU2Ftb3NhLSgtUGFuZWVyLVNuYWNrcy0pLTMyOTQ5ciI+UGFuZWVyIFNhbW9zYSAoIFBhbmVlciBTbmFja3MgKSZuYnNwOzxpbWcgc3JjPSJpbWFnZXMvcmVwZWF0X3NlYXJjaF9nby5wbmciIGFsdD0iUmVwZWF0IHRoaXMgc2VhcmNoIi8+PC9hPjxiciAvPjxhIGNsYXNzPSJsc3RzcmNobGluayIgaHJlZj0iTG93LUZhdC1QYW5lZXItMTMyM3IiPkxvdyBGYXQgUGFuZWVyJm5ic3A7PGltZyBzcmM9ImltYWdlcy9yZXBlYXRfc2VhcmNoX2dvLnBuZyIgYWx0PSJSZXBlYXQgdGhpcyBzZWFyY2giLz48L2E+PGJyIC8+PGEgY2xhc3M9ImxzdHNyY2hsaW5rIiBocmVmPSJMZW1vbi1hbmQtQ29yaWFuZGVyLVNvdXAtNDIzM3IiPkxlbW9uIGFuZCBDb3JpYW5kZXIgU291cCZuYnNwOzxpbWcgc3JjPSJpbWFnZXMvcmVwZWF0X3NlYXJjaF9nby5wbmciIGFsdD0iUmVwZWF0IHRoaXMgc2VhcmNoIi8+PC9hPjxiciAvPjxhIGNsYXNzPSJsc3RzcmNobGluayIgaHJlZj0iSmFja2ZydWl0LURvc2EtMTUzOTVyIj5KYWNrZnJ1aXQgRG9zYSZuYnNwOzxpbWcgc3JjPSJpbWFnZXMvcmVwZWF0X3NlYXJjaF9nby5wbmciIGFsdD0iUmVwZWF0IHRoaXMgc2VhcmNoIi8+PC9hPjxiciAvPjxhIGNsYXNzPSJsc3RzcmNobGluayIgaHJlZj0iR2luZ2VyLUhvcHBlci02MjIxciI+R2luZ2VyIEhvcHBlciZuYnNwOzxpbWcgc3JjPSJpbWFnZXMvcmVwZWF0X3NlYXJjaF9nby5wbmciIGFsdD0iUmVwZWF0IHRoaXMgc2VhcmNoIi8+PC9hPjxiciAvPjwvZGl2PmQCAw9kFgICAQ8WAh8CBcsBPGEgY2xhc3M9ImxzdHNyY2hsaW5rIiB0aXRsZT0iVmlldyBsYXRlc3QgbWFpbGVyIiBocmVmPSJtYWlsZXJfdmlldy5hc3B4P21haWxlcmlkPTI0MiI+VmVyc2F0aWxlIGFuZCBTYXRpYXRpbmcgRGhva2xhczxici8+PGltZyBzcmM9Im5sLzI0Mi90bncxLmpwZyIgc3R5bGU9ImJvcmRlcjpub25lO3dpZHRoOjg2cHg7bWFyZ2luOjNweCBhdXRvOyIvPjwvYT5kAgUPZBYCZg9kFgICAQ8WAh8CBeYBPGRpdiBzdHlsZT0ibWFyZ2luOjBweCBhdXRvO3Bvc2l0aW9uOnJlbGF0aXZlO3dpZHRoOjE2MHB4O2hlaWdodDo2MDBweDttYXJnaW4tYm90dG9tOjEwcHg7bWFyZ2luLWxlZnQ6OXB4O21hcmdpbi10b3A6MTBweDt0ZXh0LWFsaWduOmNlbnRlcjsiPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij5HQV9nb29nbGVGaWxsU2xvdCgiUmlnaHRUb3BUb3dlcjE2MHg2MDAiKTs8L3NjcmlwdD48L2Rpdj5kAgcPZBYCZg9kFgICAQ8WAh8CBekBPGRpdiBzdHlsZT0ibWFyZ2luOjBweCBhdXRvO3Bvc2l0aW9uOnJlbGF0aXZlO3dpZHRoOjE2MHB4O2hlaWdodDo2MDBweDttYXJnaW4tYm90dG9tOjEwcHg7bWFyZ2luLWxlZnQ6OXB4O21hcmdpbi10b3A6MTBweDt0ZXh0LWFsaWduOmNlbnRlcjsiPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij5HQV9nb29nbGVGaWxsU2xvdCgiUmlnaHRCb3R0b21Ub3dlcjE2MHg2MDAiKTs8L3NjcmlwdD48L2Rpdj5kAhUPDxYCHg1Ub3RhbFJvd0NvdW50Apc3ZGQCFw9kFgJmD2QWAgIBDxYCHwIFoAE8ZGl2IHN0eWxlPSJtYXJnaW46MHB4IGF1dG87cG9zaXRpb246cmVsYXRpdmU7d2lkdGg6NzI4cHg7aGVpZ2h0OjkwcHg7Ij48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+R0FfZ29vZ2xlRmlsbFNsb3QoIlNpdGVXaWRlRm9vdGVyNzI4eDkwIik7PC9zY3JpcHQ+PC9kaXY+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAwUZY3RsMDAkVERsb2dpblN0YXR1cyRjdGwwMQUZY3RsMDAkVERsb2dpblN0YXR1cyRjdGwwMwUPY3RsMDAkaW1nc2VhcmNoSJpLJEj9mKoBz4tDFeBrlqNamm8=">
 
 
 <script src="/ScriptResource.axd?d=lPoNp4UO4EmST_5wwwpNRPxKuHc9-itPyNfPKLIjAmmTSTfJjkX3ADBaifM8bDfSzi3UoV41EzdpibF-6Zo-KhxOObzM7bY_bPPs7jdLaaJ_42R-unq9ZqoOq317p-yakmphsQ7m9aYfSH4PGBAuBwnD8X8njbsZFWaz6rchlH8eaYOr0&amp;t=635175349941728390" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=qAK7RR6je4fCUHO88UnIaur6RGHKRprqgqDZTsTRXR7U4qLZETobVWXOYyc7B8hsmhVVn_SZvXjEotDrghY1i6D2BvLd_mo_343VZwmf71fUrtHoDPwQEsMtH8quySm0RJWwGaHtrcisigvjxEqCDaGgkYYtM6DfPdZgkY7Tvy7bf-Fx0&amp;t=635175349941728390" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=vYEXxz2YyFoFKKm6BQ1zUceZDuAw0oup4mi6x9U-XGdskxI2ZsGIiHdfA-2JSpNaua2s-WyOK_idSGZF-7Ac1uRZoOcCmN9SEr1YHUZb5E29vWOokwsrxcLIDYRiJboCB55gKjqaFkTrSegZ_W3nO_pK6e41&amp;t=634009922430741250" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=e7hsI_o0XUzYmZH_ll4Iyl7Al2l65N-xD4d6Sqb4eulqgosjiOmPSson_AwIAell62gjg9aFhqoQrlUBbprgt1pXTK87uQ05k-y0VVOb6nX-GPhsZ0ZSEFGXCuL7Hh-dy046DBRHONQKRy3gOdUWlsiu6no1&amp;t=634009922430741250" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=nxqgbH5BIO3GliCeYTsvZDIbVxLlr5WashzP6YgULXcxFPErlpKcbSXqS8I-sCXlV1QO96-ZneYRMxN4KxQmxSuo3hRXWMflNrB1wa8Dc-x3lPl50gXoOJJKLdft9Rxt24A9rrQZcJqM5RLuaDpwnqv4XVgowYjIJ1yu3TxWv6xouDR40&amp;t=634009922430741250" type="text/javascript"></script>
@@ -372,27 +356,8 @@ function __doPostBack(eventTarget, eventArgument) {
 <script src="/ScriptResource.axd?d=E5y7574qzXZIvrKTFh4kyoeLphkfdLGfxnQrwgIp8f7w1578pwlAMVm-ufQe9YWC7n3pAb5DxSTQR5fXvmNbgXNsjDRvgnDFLWBwyYLMEltud5OliTtjwvsy-y1eC8x69aSF9rGfC_6Ur5K7E3CjNhKo3BlwWgE94U-iZd4kedZhxmXy0&amp;t=634009922430741250" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=XfdN0wh1yTSHBXhU3vb1UEE5xzw6ZZ7v-8Bn9DbSKcdEz5g4hCekmVwJVsKiiiXNfc0VgoWQMSBv3P6dfF2QQBBcOPvYbK_wJFllE_AoZyvqOfXD9pMGxUbu5zx_03S3l37073SGWEHdxB_3TwWkuE7xwDI1&amp;t=634009922430741250" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=0WsDSenX8IFfbO5Ilpl7N2iQUxo0QT66fWeGRXLSW1AKkUuLhWf-tIRyQZTdWOtYgAp7eCgm-yNX1yxEdY9Q-l7Q8ke19YJ4crigIJr8ES-T80eQ13hGj0WLYkVNg1aitz-ZDDvnG2xnbffcAFIBhlZfUHM1&amp;t=634009922430741250" type="text/javascript"></script>
-<script src="/WebResource.axd?d=OEwvLxwLnSqyV5mQZVr4yHOWxspJpZ7IAt81CEVZNdCp8KRheBjGPERbaPIKH4t8o7D6MrFeLjmma4RPHJARY0Vb8d41&amp;t=635084231457020723" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-function WebForm_OnSubmit() {
-null;
-return true;
-}
-//]]>
-</script>
-
-<div>
-
-	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="ejtgqXZYaRnzRZXhklJsxzySMIvd1p5Ydjy9ey7ztNhJO9rUiGN7MIEei_5RSsqJO5nb3oxl7171wXrGHzuYUZ_9T6I1">
-</div>
-    <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$tdScriptManager', document.getElementById('aspnetForm'));
-Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
-//]]>
-</script>
-
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="ejtgqXZYaRnzRZXhklJsxzySMIvd1p5Ydjy9ey7ztNhJO9rUiGN7MIEei_5RSsqJO5nb3oxl7171wXrGHzuYUZ_9T6I1">
+    
     
     <div id="mainwrapper">
         <div id="blockwithlogo">
@@ -472,16 +437,16 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
                                      <div id="srch_inner">
                                          
 <div id="stats">
-  <span id="ctl00_assetcnt_lblrcpcount">19253 RECIPES </span>&nbsp;<span style="font-size:1.5em;">|</span> &nbsp;
-  <span id="ctl00_assetcnt_lblimgcount">9729 IMAGES&nbsp;<span style="font-size:1.5em;">|</span>&nbsp;</span>&nbsp;
-  <span id="ctl00_assetcnt_lblcookbkcount">182500 COOKBOOKS</span>
+  <span id="ctl00_assetcnt_lblrcpcount">19355 RECIPES </span>&nbsp;<span style="font-size:1.5em;">|</span> &nbsp;
+  <span id="ctl00_assetcnt_lblimgcount">9921 IMAGES&nbsp;<span style="font-size:1.5em;">|</span>&nbsp;</span>&nbsp;
+  <span id="ctl00_assetcnt_lblcookbkcount">183888 COOKBOOKS</span>
 </div>
                                          
                                           
                                           
                                           <div id="search">
-                                              <input name="ctl00$txtsearch" type="text" id="ctl00_txtsearch" class="txtsearch" style="font-size:22px;height:28px;width:345px;">
-                                              <input type="image" name="ctl00$imgsearch" id="ctl00_imgsearch" src="images/Search.jpg" alt="Start your search" style="border-width:0px;position:absolute;margin-left:5px;">
+                                              <input name="ctl00$txtsearch" type="text" id="ctl00_txtsearch" class="txtsearch">
+                                              <input type="image" name="ctl00$imgsearch" id="ctl00_imgsearch" src="images/Search.jpg" alt="Start your search" border="0" style="position:absolute;margin-left:5px;">
                                               <input type="hidden" name="ctl00$wmsearch_ClientState" id="ctl00_wmsearch_ClientState" value="Focused">
                                             
                                           </div>
@@ -621,7 +586,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
                     
                   
                   <div id="top_banner">
-                     <div id="ctl00_AdControl1_adholder" style="border-style:None;text-align:center;">
+                     <div id="ctl00_AdControl1_adholder" align="center">
 	         
           
              <div style="margin:0px auto;position:relative;width:728px;height:90px;"><script type="text/javascript">GA_googleFillSlot("Adx_728x90");</script></div>
@@ -773,7 +738,14 @@ We will address any questions, comments and concerns about our privacy policy an
                    
 <div id="tdpgtyp2_rightpanel" style="width:176px;margin:5px;margin-top:10px;border:solid 2px #e5e5e5;float:left;">
 
+<div id="ctl00_cntrightpanel_rsRecentSearch_pnlLstSearches" style="margin-bottom:8px;width:94%;">
+	
+       
+           
+    <div id="lastsearches" style=""><img alt="Your most recent searches" style="text-align:center;margin-bottom:10px;" src="images/lst_search_header.png"><br><a class="lstsrchlink" href="Whey-Soup-(-Calcium-Rich-Recipe-)-35065r">Whey Soup ( Calcium Rich Recipe )&nbsp;<img src="images/repeat_search_go.png" alt="Repeat this search"></a><br><a class="lstsrchlink" href="Triple-mazaa-yoghurt-chocolate-kulfi-ice-cream-32083r">Triple mazaa yoghurt chocolate kulfi ice cream&nbsp;<img src="images/repeat_search_go.png" alt="Repeat this search"></a><br><a class="lstsrchlink" href="Tart-(-Eggless-Desserts-Recipe)-1135r">Tart ( Eggless Desserts Recipe)&nbsp;<img src="images/repeat_search_go.png" alt="Repeat this search"></a><br><a class="lstsrchlink" href="Sprout-and-Fruit-Bhel-(-Fast-Food-Made-Healthy)-4069r">Sprout and Fruit Bhel ( Fast Food Made Healthy)&nbsp;<img src="images/repeat_search_go.png" alt="Repeat this search"></a><br><a class="lstsrchlink" href="Rich-Chocolate-Cookies-15666r">Rich Chocolate Cookies&nbsp;<img src="images/repeat_search_go.png" alt="Repeat this search"></a><br><a class="lstsrchlink" href="Paneer-Samosa-(-Paneer-Snacks-)-32949r">Paneer Samosa ( Paneer Snacks )&nbsp;<img src="images/repeat_search_go.png" alt="Repeat this search"></a><br><a class="lstsrchlink" href="Low-Fat-Paneer-1323r">Low Fat Paneer&nbsp;<img src="images/repeat_search_go.png" alt="Repeat this search"></a><br><a class="lstsrchlink" href="Lemon-and-Coriander-Soup-4233r">Lemon and Coriander Soup&nbsp;<img src="images/repeat_search_go.png" alt="Repeat this search"></a><br><a class="lstsrchlink" href="Jackfruit-Dosa-15395r">Jackfruit Dosa&nbsp;<img src="images/repeat_search_go.png" alt="Repeat this search"></a><br><a class="lstsrchlink" href="Ginger-Hopper-6221r">Ginger Hopper&nbsp;<img src="images/repeat_search_go.png" alt="Repeat this search"></a><br></div>
+         
 
+</div>
          
          
 
@@ -782,16 +754,16 @@ We will address any questions, comments and concerns about our privacy policy an
              <img alt="Subscribe to the free food mailer" src="images/food_mail_header.png"><br>
              <p style="margin:0px;padding:5px;border-bottom:solid 1px #e5e5e5;">
                  
-                 <a class="lstsrchlink" title="View latest mailer" href="mailer_view.aspx?mailerid=230">A heart-warming Maharashtrian meal…<br><img src="nl/230/tnw1.jpg" style="border:none;width:86px;margin:3px auto;"></a>
+                 <a class="lstsrchlink" title="View latest mailer" href="mailer_view.aspx?mailerid=242">Versatile and Satiating Dhoklas<br><img src="nl/242/tnw1.jpg" style="border:none;width:86px;margin:3px auto;"></a>
                  <br>
                  <span style="color:#5C5757;font-size:x-small;position:relative;top:-7px;">Missed out on our mailers?<br>Our mailers are now online!</span><br>
                  <a class="lstsrchlink" href="mailer_archive.aspx">View Mailer Archive</a></p>
              
              
-             <div id="ctl00_cntrightpanel_tdmailersub_pnlms" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_cntrightpanel_tdmailersub_btnmailer')" style="margin:0px;padding:5px;">
+             <div id="ctl00_cntrightpanel_tdmailersub_pnlms" style="margin:0px;padding:5px;">
 	
              
-             <input name="ctl00$cntrightpanel$tdmailersub$txtMailerEmail" type="text" id="ctl00_cntrightpanel_tdmailersub_txtMailerEmail" style="color:graytext;font-size:8pt;width:98%;"><br>
+             <input name="ctl00$cntrightpanel$tdmailersub$txtMailerEmail" type="text" id="ctl00_cntrightpanel_tdmailersub_txtMailerEmail"><br>
              <input type="hidden" name="ctl00$cntrightpanel$tdmailersub$wmemail_ClientState" id="ctl00_cntrightpanel_tdmailersub_wmemail_ClientState">
               
               <a id="ctl00_cntrightpanel_tdmailersub_btnmailer" href="javascript:__doPostBack('ctl00$cntrightpanel$tdmailersub$btnmailer','')" style="color:#5C5757;font-size:16px;letter-spacing:1.2px;text-decoration:none;">Subscribe Now</a>
@@ -806,7 +778,7 @@ We will address any questions, comments and concerns about our privacy policy an
 </div>
 
          
-         <div id="ctl00_cntrightpanel_adRTower1_adholder" style="border-style:None;text-align:center;">
+         <div id="ctl00_cntrightpanel_adRTower1_adholder" align="center">
 	         
           
              <div style="margin:0px auto;position:relative;width:160px;height:600px;margin-bottom:10px;margin-left:9px;margin-top:10px;text-align:center;"><script type="text/javascript">GA_googleFillSlot("RightTopTower160x600");</script></div>
@@ -817,7 +789,7 @@ We will address any questions, comments and concerns about our privacy policy an
 
 
  
-         <div id="ctl00_cntrightpanel_adRTower2_adholder" style="border-style:None;text-align:center;">
+         <div id="ctl00_cntrightpanel_adRTower2_adholder" align="center">
 	         
           
              <div style="margin:0px auto;position:relative;width:160px;height:600px;margin-bottom:10px;margin-left:9px;margin-top:10px;text-align:center;"><script type="text/javascript">GA_googleFillSlot("RightBottomTower160x600");</script></div>
@@ -873,7 +845,7 @@ We will address any questions, comments and concerns about our privacy policy an
                    <div id="google_login" style="margin:10px 0px 0px 10px;">
                    <div>
                 <span id="signinButton">
-  <span class="g-signin" data-callback="signinCallback" data-clientid="488436777961-tocgaappdr3ujlirm3ths279iocelt9h.apps.googleusercontent.com" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schema.org/AddAction" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email" "="">
+  <span class="g-signin" data-callback="signinCallback" data-clientid="705337611541-4pvgcdd939v4i5pjidhh08mfre20hk7c.apps.googleusercontent.com" data-cookiepolicy="single_host_origin" data-requestvisibleactions="http://schema.org/AddAction" data-scope="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email" "="">
   </span>
   
 </span>
@@ -967,7 +939,7 @@ We will address any questions, comments and concerns about our privacy policy an
           
           
           <div style="height:108px;">
-               <div id="ctl00_AdControl2_adholder" style="border-style:None;text-align:center;">
+               <div id="ctl00_AdControl2_adholder" align="center">
 	         
           
              <div style="margin:0px auto;position:relative;width:728px;height:90px;"><script type="text/javascript">GA_googleFillSlot("SiteWideFooter728x90");</script></div>
@@ -1107,7 +1079,7 @@ We will address any questions, comments and concerns about our privacy policy an
     </div>
     
     
-                <div id="ctl00_pnlMyPagemenu" style="background-color:#FFFCC7;width:130px;display:none;border:solid 1px #e5e5e5;z-index:110;">
+                <div id="ctl00_pnlMyPagemenu" style="display:none;border:solid 1px #e5e5e5;z-index:110;">
 	
                    <div class="divContribMenu">
                      <ul style="margin:0px;padding:0px;list-style-type:none;">
@@ -1136,7 +1108,7 @@ We will address any questions, comments and concerns about our privacy policy an
 
 <script type="text/javascript">
 //<![CDATA[
-WebForm_AutoFocus('txtsearch');Sys.Application.initialize();
+Sys.Application.initialize();
 Sys.Application.add_init(function() {
     $create(AjaxControlToolkit.TextBoxWatermarkBehavior, {"ClientStateFieldID":"ctl00_wmsearch_ClientState","WatermarkCssClass":"wmtext","WatermarkText":"Search recipes","id":"ctl00_wmsearch"}, null, null, $get("ctl00_txtsearch"));
 });
