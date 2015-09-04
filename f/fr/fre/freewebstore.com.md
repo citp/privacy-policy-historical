@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebstore.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebstore.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905000726id_/https%3A//freewebstore.com/privacy.html) for the most accurate reproduction.*
 
 # Freewebstore Privacy Policy
 
@@ -60,9 +60,9 @@ These terms and this disclaimer and any claim based on use of information from t
 
 ### **Consent and enquiries**
 
-By continuing to use this site and access the information on this website, you signal acceptance of the terms and disclaimer set out above. If you do not accept any of these terms, leave this website now. If you have any enquiry or concern about our privacy policy or the way in which we are handling personal data, please [contact us](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/contactv2.html).
+By continuing to use this site and access the information on this website, you signal acceptance of the terms and disclaimer set out above. If you do not accept any of these terms, leave this website now. If you have any enquiry or concern about our privacy policy or the way in which we are handling personal data, please [contact us](https://web.archive.org/web/20150905000726id_/https%3A//freewebstore.com/contactv2.html).
 
-[ ](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/testimonials.html) [ ](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/features.html) [ ](http://help.freewebstore.com/) [ ](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/free_ecommerce_services.html) [ ](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/packages.html) [ ](https://web.archive.org/web/20140330035034id_/http%3A//freewebstore.com/ecommerce.html)
+[ ](https://web.archive.org/web/20150905000726id_/https%3A//freewebstore.com/testimonials.html) [ ](https://web.archive.org/web/20150905000726id_/https%3A//freewebstore.com/features.html) [ ](http://help.freewebstore.com/) [ ](https://web.archive.org/web/20150905000726id_/https%3A//freewebstore.com/free_ecommerce_services.html) [ ](https://web.archive.org/web/20150905000726id_/https%3A//freewebstore.com/packages.html) [ ](https://web.archive.org/web/20150905000726id_/https%3A//freewebstore.com/ecommerce.html)
 
 Enter your details below to sign up to the Freewebstore Newsletter. 
 
