@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifehacklane.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507235111id_/http%3A//lifehacklane.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehacklane.com privacy policy that was archived on 2015-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150904032013id_/http%3A//lifehacklane.com/privacy.php) for the most accurate reproduction.*
 
 # LifehackLane
 
