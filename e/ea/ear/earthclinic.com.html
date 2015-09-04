@@ -1,17 +1,41 @@
-<!--The following is the downloaded HTML source of the earthclinic.com privacy policy that was archived on 2014-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221060011id_/http%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the earthclinic.com privacy policy that was archived on 2015-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150904105942id_/http%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" js no-touch" style=""><head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
 <title>Earth Clinic's Copyright Notice &amp; Intellectual Propert</title>
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
 <meta name="description" content="Read Earth Clinic's Privacy Policy agreement.">
 <meta name="keywords" content="Earth Clinic, privacy policy agreement">
+
+
 <link rel="Shortcut Icon" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/css/ecstyles.css?ver=7" media="all">
-<link rel="stylesheet" type="text/css" href="/css/ec-responsive.css" media="all">
+
+<link rel="stylesheet" type="text/css" href="/css/ecstyles.css?ver=16" media="all">
+<link rel="stylesheet" type="text/css" href="/css/thread.css?ver=2" media="all">
+<link rel="stylesheet" type="text/css" href="/css/ec-responsive.css?ver=4" media="all">
+<link rel="stylesheet" type="text/css" href="/css/rightnav.css?ver=3" media="all">
+<link rel="stylesheet" type="text/css" href="/css/modal.css?ver=4" media="all">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="/css/headernav2015.css?ver=3" media="all">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/css/normalize.css">
+<link rel="stylesheet" type="text/css" href="/css/component.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/modernizr.custom.js"></script>
+<script src="http://www.earthclinic.com/js/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.earthclinic.com/js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="http://www.earthclinic.com/js/jquery.easy-ticker.js"></script>
+<meta property="og:image" content="http://www.earthclinic.com/images/logo-fb.png">
+<meta property="og:url" content="http://www.earthclinic.com/privacy_policy.html">
+<meta property="og:title" content="Earth Clinic's Copyright Notice &amp; Intellectual Propert">
+<meta property="og:description" content="Read Earth Clinic's Privacy Policy agreement.">
+
+
 
 <link rel="alternate" type="application/rss+xml" title="Read Earth Clinic's Privacy Policy agreement." href="/privacy_policy.rss">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.earthclinic.com/js/jquery.min.js" type="text/javascript"></script>
+<script src="http://www.earthclinic.com/js/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://www.earthclinic.com/js/jquery.easing.min.js"></script>
 <script type="text/javascript" src="http://www.earthclinic.com/js/jquery.easy-ticker.js"></script>
 <style type="text/css">
@@ -23,7 +47,7 @@
 	padding: 0.2em;
 	display: none;
 }
-.fa {
+.fa-arrow-circle-up {
 	font-size: 2.5em;
 	color: #00a2ce;
 }
@@ -100,6 +124,14 @@ function replyToPost(pageId, postId, postTitle, postType)
 	var myWindow=window.open(url,"",options);
 	myWindow.focus(); 
 }
+function suggestFeedback(aid){
+LeftPosition = (screen.width) ? (screen.width-200)/2 : 0;
+TopPosition = (screen.height) ? (screen.height-100)/2 : 0;
+	var url = "/suggestfeedback.php?aid=" + aid;
+	var options = 'width=640,height=290,top='+TopPosition+',left='+LeftPosition+',status:0,toolbar:0,menubar:0,location:0,scrollbars=no,resizable=no';
+	var myWindow=window.open(url,"",options);
+	myWindow.focus(); 
+}
 function followThis(pid, aid)
 {
 LeftPosition = (screen.width) ? (screen.width-200)/2 : 0;
@@ -121,10 +153,11 @@ TopPosition = (screen.height) ? (screen.height-100)/2 : 0;
 function flagPost(pageId, postId, postTitle, postType)
 {
 	var url = "/flag.php?action=" + postType + "&pid=" + pageId + "&id=" + postId + "&title=" + postTitle;
-	var options = 'width=400,height=120,status:0,toolbar:0,menubar:0,location:0,scrollbars=yes,resizable=yes';
+	var options = 'width=500,height=350,status:0,toolbar:0,menubar:0,location:0,scrollbars=yes,resizable=yes';
 	var myWindow=window.open(url,"",options);
 	myWindow.focus(); 
 }
+/*
 function flagQuestion(pageId, postId, postTitle, postType)
 {
 	var url = "/flagquestion.php?action=" + postType + "&pid=" + pageId + "&id=" + postId + "&title=" + postTitle;
@@ -132,6 +165,7 @@ function flagQuestion(pageId, postId, postTitle, postType)
 	var myWindow=window.open(url,"",options);
 	myWindow.focus(); 
 }
+*/
 function printPost(postId, postTitle, postType)
 {
 	var url = "/printpost.php?action=" + postType + "&id=" + postId + "&title=" + postTitle;
@@ -155,14 +189,182 @@ TopPosition = (screen.height) ? (screen.height-100)/2 : 0;
 	var myWindow=window.open(url,"",options);
 	myWindow.focus(); 
 }
+function followThisTedNeeded(pid, aid)
+{
+LeftPosition = (screen.width) ? (screen.width-200)/2 : 0;
+TopPosition = (screen.height) ? (screen.height-100)/2 : 0;
+	var url = "/followtedneeded.php?pid=" + pid + "&aid=" + aid;
+	var options = 'width=640,height=290,top='+TopPosition+',left='+LeftPosition+',status:0,toolbar:0,menubar:0,location:0,scrollbars=no,resizable=no';
+	var myWindow=window.open(url,"",options);
+	myWindow.focus(); 
+}
 function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
 //-->
 </script>
-
-<link rel="stylesheet" type="text/css" href="/css/headernav2014.css" media="all">
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<script>
+var min=9;
+var max=19;
+function normalFontSize() {
+   var p = document.getElementsByTagName('font');
+   for(i=0;i<p.length;i++) {
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 14;
+      }
+      if(s!=min) {
+         s -= 1;
+      }
+      p[i].style.fontSize = s+"px"
+   }
+   var p = document.getElementsByTagName('p');
+   for(i=0;i<p.length;i++) {
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 14;
+      }
+      if(s!=min) {
+         s -= 1;
+      }
+      p[i].style.fontSize = s+"px"
+   }
+   var d = document.getElementsByTagName('div');
+   for(i=0;i<d.length;i++) {
+      if(d[i].style.fontSize) {
+         var s = parseInt(d[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 14;
+      }
+      if(s!=min) {
+         s -= 1;
+      }
+      d[i].style.fontSize = s+"px"
+   }
+   var l = document.getElementsByTagName('label');
+   for(i=0;i<l.length;i++) {
+      if(l[i].style.fontSize) {
+         var s = parseInt(l[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 14;
+      }
+      if(s!=min) {
+         s -= 1;
+      }
+      l[i].style.fontSize = s+"px"
+   }
+   var l = document.getElementsByTagName('input');
+   for(i=0;i<l.length;i++) {
+      if(l[i].style.fontSize) {
+         var s = parseInt(l[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 14;
+      }
+      if(s!=min) {
+         s -= 1;
+      }
+      l[i].style.fontSize = s+"px"
+   }
+   var l = document.getElementsByTagName('textarea');
+   for(i=0;i<l.length;i++) {
+      if(l[i].style.fontSize) {
+         var s = parseInt(l[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 14;
+      }
+      if(s!=min) {
+         s -= 1;
+      }
+      l[i].style.fontSize = s+"px"
+   }
+   document.getElementById("ratingText").style.fontSize="16px";
+   
+    var frame = document.getElementById("comments_ifr");
+    var content = (frame.contentDocument || frame.contentWindow);
+    content.body.style.fontSize = "16px";
+}
+function increaseFontSize() {
+   var p = document.getElementsByTagName('font');
+   for(i=0;i<p.length;i++) {
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 16;
+      }
+      if(s!=max) {
+         s += 1;
+      }
+      p[i].style.fontSize = s+"px"
+   }
+   var p = document.getElementsByTagName('p');
+   for(i=0;i<p.length;i++) {
+      if(p[i].style.fontSize) {
+         var s = parseInt(p[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 16;
+      }
+      if(s!=max) {
+         s += 1;
+      }
+      p[i].style.fontSize = s+"px"
+   }
+   var d = document.getElementsByTagName('div');
+   for(i=0;i<d.length;i++) {
+      if(d[i].style.fontSize) {
+         var s = parseInt(d[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 16;
+      }
+      if(s!=max) {
+         s += 1;
+      }
+      d[i].style.fontSize = s+"px"
+   }
+   var l = document.getElementsByTagName('label');
+   for(i=0;i<l.length;i++) {
+      if(l[i].style.fontSize) {
+         var s = parseInt(l[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 16;
+      }
+      if(s!=max) {
+         s += 1;
+      }
+      l[i].style.fontSize = s+"px"
+   }
+   var l = document.getElementsByTagName('input');
+   for(i=0;i<l.length;i++) {
+      if(l[i].style.fontSize) {
+         var s = parseInt(l[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 16;
+      }
+      if(s!=max) {
+         s += 1;
+      }
+      l[i].style.fontSize = s+"px"
+   }
+   var l = document.getElementsByTagName('textarea');
+   for(i=0;i<l.length;i++) {
+      if(l[i].style.fontSize) {
+         var s = parseInt(l[i].style.fontSize.replace("px",""));
+      } else {
+         var s = 16;
+      }
+      if(s!=max) {
+         s += 1;
+      }
+      l[i].style.fontSize = s+"px"
+   }
+   document.getElementById("ratingText").style.fontSize="19px";
+   
+    var frame = document.getElementById("comments_ifr");
+    var content = (frame.contentDocument || frame.contentWindow);
+    content.body.style.fontSize = "19px";
+}
+</script>
 
 <link rel="alternate" href="http://www.earthclinic.com/mobile/privacy_policy.html">
 <script type="text/javascript">
@@ -188,11 +390,161 @@ and (max-width : 640px)
 </style>
 </head><body>
 <div id="wrapper-outer">
-<div id="header-outer">
-  	<div align="center">
-  		<div class="headermenuwrap">
-  	<div class="headermenu" style="list-style-type: none; float:right;">
-			<li class="hiderespo"><a href="/about.html">About</a>
+			<ul id="gn-menu" class="gn-menu-main isMobile" style="min-height:60px;">
+				<li class="gn-trigger">
+					<a class="gn-icon gn-icon-menu"><i class="fa fa-bars" style="font-size: 2.2em;"></i></a>
+				</li><li style="width:55%; text-align:center;border:none; margin-top:-11px;"><a href="http://www.earthclinic.com/" style="padding: 20px 0 0 !important;"><img src="http://www.earthclinic.com/mobile/images/logo-mobile-min.png" width="195" style="padding-top:7px;"></a></li>
+					<nav class="gn-menu-wrapper">
+						<div class="gn-scroller">
+                        	<ul class="gn-menu">
+								<li class="gn-search-item"><br>
+<form action="http://www.earthclinic.com/mobile/search.php" id="search">
+    	<center>
+				<div class="ui-input-text ui-body-inherit ui-corner-all ui-shadow-inset"><input data-ajax="false" placeholder="Search" type="text" name="q" value="" style="box-shadow:none !important; border:1px #AEAEAE solid !important; background-color:#4C4C4C;  padding: .4em;line-height: 1em;-webkit-box-sizing: border-box; -moz-box-sizing: border-box;box-sizing: border-box;outline: 0;"><i onclick="document.getElementById('search').submit();" class="fa fa-search" style="color:#fff; margin-left:-25px;"></i></div>
+				
+    	</center>
+		<input type="hidden" name="cx" value="partner-pub-2476760853251960:x02k6x73rw9">
+		<input type="hidden" name="cof" value="FORID:10">
+		<input type="hidden" name="ie" value="ISO-8859-1">
+	</form>						<br>
+</li>
+                            </ul></div>
+
+                        
+<!-- mobile -->
+<div class="ui-panel-inner">
+<style>
+.floating {position:fixed !important; top:0; z-index:9999999999;}
+
+#gn-menu{position: absolute;}
+.gn-icon-menu { padding-top:20px;}
+.gn-menu-main {background-color:#fff; border-bottom:thin #CCC solid;}
+
+.ui-panel-inner {text-align: left !important;}
+.ui-panel-inner a{text-align: left !important;}
+   .panellinks a {color:#fff !important; line-height:28px !important; text-decoration:none; text-align:left !important; font-size:16px; font-family:sans-serif;}
+   .panellinkssmall a {color:#ccc !important; line-height:19px !important; text-decoration:none; font-size:12px; text-align:left !important; font-family:sans-serif;}
+   .panellinkssmall i {color:#ccc !important; line-height:16px !important; text-decoration:none; font-size:12px; text-align:left;}
+   .fa-rss {color:#F60 !important;}
+   hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	}
+	
+.ui-panel-inner {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    right: 0;
+    bottom: 0px;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+}
+.gn-selected:before {content: "X"; color:red; font-size:29px; font:Verdana, Geneva, sans-serif !important; line-height: 28px; padding-bottom:15px;}
+.gn-selected .fa-bars{color:#FFFFFF !important; opacity: 0;}
+.fa-bars {color:#000;}
+   </style>
+				<div class="ui-input-text ui-body-inherit ui-corner-all ui-shadow-inset"><hr><div class="panellinks" style="color:#FFFFFF;">
+                        <a href="javascript:void(0);" style="font-size:12px;" onclick="MM_openBrWindow('/signin.php','','scrollbars=1,width=1175,height=436,left='+(screen.width/2.25)+',top=30')">Sign In</a> &nbsp;|&nbsp; <a href="/register.html" style="font-size:12px;">Sign Up</a>
+                      
+            
+			</div><hr><div class="panellinks">
+      <a href="/ailments.html" data-ajax="false" class="ui-link">Ailments</a><br>
+       <a href="/latest_posts.html" data-ajax="false" class="ui-link">Recent Posts</a><br>
+       <a href="/contactus.html" data-ajax="false" class="ui-link">Submit a Post</a><br>
+        <hr>
+      <a href="/remedies-all-natural.html" data-ajax="false" class="ui-link">Home Remedies</a><br>
+      <a href="/children.html" data-ajax="false" class="ui-link">Children's Remedies</a><br>
+      <a href="/beauty.html" data-ajax="false" class="ui-link">Beauty Remedies</a><br>
+        <a href="http://ted.earthclinic.com" data-ajax="false" class="ui-link">Ted's Remedies</a><br>
+      <a href="/herbs.html" data-ajax="false" class="ui-link">Herbs</a><br>
+      <a href="/all-supplements.html" data-ajax="false" class="ui-link">Supplements</a><br>
+        <hr>
+       <a href="/pets.html" data-ajax="false" class="ui-link">Pet Ailments</a><br>
+        <a href="/latest_petposts.html" data-ajax="false" class="ui-link">Recent Pet Posts</a><br>
+        <a href="/pet-remedies.php" data-ajax="false" class="ui-link">Pet Remedies</a><br>
+        <hr>
+         <a href="/earth-clinic-books.html" data-ajax="false" class="ui-link">Earth Clinic Books</a><br>  
+        <a href="https://www.youtube.com/c/earthclinic" data-ajax="false" class="ui-link">Earth Clinic Videos</a><br>
+        <a href="http://directory.earthclinic.com" data-ajax="false" class="ui-link">Holistic Practitioners Directory</a><br>
+        </div><hr><div id="social" style="margin:15px 5px 7px;">
+    <a href="/latest_posts_rss.php" title="RSS Feed" class="ui-link"><img src="/images/rss.png"></a> &nbsp;<a href="https://www.facebook.com/pages/Earth-Clinic/60803892726" class="ui-link"><img src="/images/facebook.png"></a> &nbsp;<a href="https://twitter.com/Earth_Clinic" class="ui-link"><img src="/images/twitter.png"></a> &nbsp;<a href="http://www.pinterest.com/earthclinic/" class="ui-link"><img src="/images/pin.png"></a> &nbsp;<a href="https://www.youtube.com/c/earthclinic" class="ui-link"><img src="/images/youtube.png"></a> &nbsp;<a href="https://plus.google.com/+earthclinic" class="ui-link"><img src="/images/google.png"></a>
+    </div><hr><div class="panellinkssmall" style="color:#FFFFFF;">
+<a href="/feedbacks/index.php" title="Report a problem" style="font-size:13px;" data-ajax="false" class="ui-link">Report a problem</a><br>
+<a href="/guides.html" data-ajax="false" class="ui-link">Get Help</a><br>
+<a href="/about.html" data-ajax="false" class="ui-link">About Us</a>
+
+
+<hr>
+
+<a href="http://feeds.feedburner.com/EarthClinic" title="RSS Feed" target="_blank" data-ajax="false" class="ui-link"><i class="fa fa-rss rssicon"></i> RSS</a><br>
+<a href="/copyright.html" data-ajax="false" class="ui-link">Reprints and Permissions</a>
+<hr>
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+<div id="mc_embed_signup" style="text-align:right;">
+<form action="http://eepurl.com/SJgYf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="" style="padding:0 !important; text-align:center;">
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" required="" style="color:#000; font-size:16px; width:100%;background-color:#4C4C4C;border:1px #AEAEAE solid !important;" placeholder="Subscribe to our mailing list">
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_4ee430e801c7be0ca62527784_c812d52448" value=""></div>
+    <input type="submit" value="submit" name="subscribe" id="mc-embedded-subscribe" class="button" style="width: 63px !important;padding: 1px;border: none;text-align: center;font-family: Glegoo, Georgia, serif;font-size: 11px;line-height: 11px;text-transform: lowercase;margin-top: 5px !important;">
+</form>
+</div>
+<br>
+</div></div>
+<div align="center" style="font-size:12px; line-height:12px;color:#FFFFFF; ">
+<a href="/tos.html" title="Terms of Service" style="font-size:13px; color:#2ad !important;text-decoration:underline;" data-ajax="false" class="ui-link">Terms of Service</a> <span>|</span> <a href="/privacy_policy.html" title="Privacy Policy" style="font-size:13px; color:#2ad !important;text-decoration:underline;" data-ajax="false" class="ui-link">Privacy Policy</a></div>
+<p align="center" style="color:#FFF; font-size:12px; font-family:sans-serif; line-height:12px;">Copyright © 2015. All rights reserved.</p>
+<br>
+<!-- end mobile menu -->
+						</div><!-- /gn-scroller -->
+					</nav>
+				
+				<li><a href="/contactus.html" style="padding: 15px 15px !important;"><i class="fa fa-comment-o" style="font-size: 2.2em; color: #000000;"></i></a></li></ul>
+                <div class="isMobile">
+                <div style="display:block; position:relative; height:33px; border-bottom:thin #CCC solid; top:60px; background-color:#FFF;">
+                <div class="cures-reported"><i class="fa fa-hand-o-right"></i> <a href="/user-approved-remedies.html" title="Cures Reported">Cures Reported:</a> 31,269</div></div>
+                </div>
+
+			
+<script>
+$(document).ready( function() {
+
+    $(window).scroll( function() {
+        if ($(window).scrollTop() > $('#wrapper-outer').offset().top)
+            $('#gn-menu').addClass('floating');
+        else
+            $('#gn-menu').removeClass('floating');
+    } );
+
+} );
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="headerwrap">
+	<div class="hdr-r1">
+		<div class="hdr-r1-c1 hiderespo">
+        <ul style="margin:0 15px;">
+			<!--<li class="hiderespo"><a href="/about.html">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 				<ul>
 					<li><a href="/contactus.html">Contact Us</a></li>
 					<li><a href="/about.html">Who We Are</a></li>
@@ -201,328 +553,189 @@ and (max-width : 640px)
 					<li><a href="/donations.html">Donate</a></li>
 				</ul>
 			</li>
-			<li class="hiderespo"><a href="/earth-clinic-books.html">Books</a>
-            </li><li class="hiderespo"><a href="http://www.earthclinic.com/videos.html">Videos</a>
-			</li><li class="hiderespo"><a href="http://directory.earthclinic.com/">Holistic Practitioners</a>
-			</li><li><a href="/register.html">Register</a>
-				<ul>
-			    <li><a href="/register.html">Signup</a></li>
-					<li><a href="/help.html">Help</a></li>
-					<li><a href="/newsletter.html">Newsletter Signup</a></li>
-				</ul>
-			</li>
-						<li id="loginli">
-            	<a href="javascript:void(0);" onclick="MM_openBrWindow('/signin.php','','scrollbars=1,width=500,height=360,left='+(screen.width/2.25)+',top=30')">Login</a>
-				            	
-		</li>
-          <li style="margin-top:-10px; padding-left:30px; float:right;" id="curesreported">
-                    <div style="padding:0px;margin:0;background-color:#99cc67;">
-							<a href="/user-approved-remedies.html" title="Cures Reported" style="background-image:none !important;font-size: 12px;text-transform: none;" ;=""><b>Cures Reported</b></a>
-							<img src="/images/numbers/2.png" alt="2"><img src="/images/numbers/9.png" alt="9"><img src="/images/numbers/7.png" alt="7"><img src="/images/numbers/2.png" alt="2"><img src="/images/numbers/3.png" alt="3">					</div>
-         </li>
-			
-			
-	</div></div>
-	</div>
-  
-	<div id="header" style="border-bottom:#FFFFFF thin solid;">
-		  <div id="header-inner">
-		    	<a href="/" title="Natural Home Remedies Earth Clinic"><div class="logo">Holistic Health and Alternative Medicine - EARTHCLINIC.COM</div></a>
-                <div id="responsivesearch" style="display:none;">
-                	<form action="http://www.earthclinic.com/search.php" id="cse-search-box">
-                      <input type="hidden" name="cx" value="partner-pub-2476760853251960:e2s0aw4vhqg">
-                      <input type="hidden" name="cof" value="FORID:10">
-                      <input type="hidden" name="ie" value="ISO-8859-1">
-                        <input type="text" class="srch-input" name="q" value="" placeholder=" Search...">
-                        <input type="submit" class="srch-submit" name="sa" value="">
-                    </form>
-                </div>
-				<div id="header-search">
-					<!-- SiteSearch Google -->
-					<div id="srch-box">
-					<!-- SiteSearch -->
-					<form action="http://www.earthclinic.com/search.php" id="cse-search-box">
-						<input type="hidden" name="cx" value="partner-pub-2476760853251960:e2s0aw4vhqg">
-						<input type="hidden" name="cof" value="FORID:10">
-						<input type="hidden" name="ie" value="ISO-8859-1">
-                        <table><tbody><tr><td>
-						<span class="search-label"></span>
-						<input type="text" class="srch-input" name="q" placeholder=" Search..."></td><td>
-						<input type="submit" class="srch-submit" name="sa" value=""></td></tr></tbody></table>
-						<div class="search-options">
-							<!--<input type="checkbox" name="echl" title="Highlight search terms" /><span style="font-size:10px;">Highlight search terms</span>
-							&nbsp;-->
-							<div class="hdr-icons">
-                            <a href="/contactus.html" title="Add New Post"><img src="/images/submit-post.jpg" alt="Add New Post"></a>
-								<!--<div class="icons-row1"> <a href="/latest_posts_rss.php" target="blank"><img border="0" src="/tmpl-imgs/rss.png" alt="RSS"></a><a href="http://www.facebook.com/pages/Earth-Clinic/60803892726" target="blank"><img border="0" src="/tmpl-imgs/fb.png" alt="Facebook"></a><a href="http://www.pinterest.com/earthclinic/"><img src="/tmpl-imgs/pin.png" alt="Piterest" border="0" /></a><a href="https://plus.google.com/108563948953952505374" rel="publisher"><img src="/tmpl-imgs/googl.png" border="0"></a></div>
-								<div class="icons-row2"><a href="/contactus.html"><img src="/tmpl-imgs/contact.png" alt="contact earth clinic" height="30" width="60" border="0" /></a><a href="javascript:increaseFontSize();"><img src="/tmpl-imgs/A-plus.png" width="30" height="30" border="0" alt="Increase text size"></a><a href="javascript:normalFontSize();"><img src="/tmpl-imgs/A-minus.png" width="30" height="30" border="0" alt="Decrease text size"></a></div>-->
-							</div><!-- 6 -->
-						</div><!-- 5 -->
-						<br>
-					</form>
-					<!-- <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>	-->
-					</div>
-					<!-- EOF SiteSearch Google -->
-				</div>           
-																<div align="right">
-												
-				 				</div>
-				</div>
-		</div><!-- eof header-inner -->
-	</div><!-- eof header -->
+			<li class="hiderespo"><a href="/earth-clinic-books.html">Books</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+			<li class="hiderespo"><a href="https://www.youtube.com/channel/UCP1FU3oLwAMRVfr9HaAg-fw" target="_blank">Our Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+			<li class="hiderespo"><a href="http://directory.earthclinic.com/">Holistic Practitioners</a></li> -->
+        </ul>
+			  
+        <style>
+		.goog-te-gadget-simple{
+			    white-space: nowrap;
+				width: 165px;
+				height: 30px;
+				border: 1px solid #ccc;
+				border-radius: 16px;
+				-webkit-border-radius: 16px;
+				-moz-border-radius: 16px;
+				background-color: #eee;
+				padding: 1px 5px;
+		}
+		.goog-te-menu-frame{ padding: 10px 5px 10px 5px !important;
+    border-radius: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) inset, 0 2px 0 rgba(255, 255, 255, 1);
+    background-color: #FFFFFF !important;}
+	.goog-te-menu2{border:none !important;}
+		</style>
+    <div align="left" style="position:absolute; top:8px;">
+    <div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false, gaTrack: true, gaId: 'UA-257479-3'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    </div>    
+		</div>
+        
+        <!-- end of hdr-r1-c1 -->
+		<div class="hdr-r1-c2">
+			<!-- responsive version Google Search -->
+			<div id="responsivesearch" style="display:none;">
+				<form action="http://www.earthclinic.com/search.php" id="cse-search-box">
+					<input type="hidden" name="cx" value="partner-pub-2476760853251960:e2s0aw4vhqg">
+					<input type="hidden" name="cof" value="FORID:10">
+					<input type="hidden" name="ie" value="ISO-8859-1">
+					<input type="text" class="srch-input" name="q" value="" placeholder=" Search...">
+					<input type="submit" class="srch-submit" name="sa" value="">
+				</form>
+			</div>
+			<!-- desktop version Google Search -->
+			<div id="srch-top">
+				<form action="http://www.earthclinic.com/search.php" id="cse-search-box">
+					<input type="hidden" name="cx" value="partner-pub-2476760853251960:e2s0aw4vhqg">
+					<input type="hidden" name="cof" value="FORID:10">
+					<input type="hidden" name="ie" value="ISO-8859-1">
 
-<!-- <div id="sidetabs">
-   <a title="Contact Us" class="feedback_share" href="/contactus.html"></a>
-   <a title="Earth Clinic Books" class="feedback_donate" href="http://earthclinic.com/earth-clinic-books.php" target="_blank"></a>
-</div> -->
+					<div class="input-field-box">
+					<input type="text" class="input-field srch-input" name="q" value="" placeholder="">
+					<input type="submit" class="submit-btn fa fa-search" name="sa" value="">
+					</div>
+				</form>
+			</div>
+		</div><!-- end of hdr-r1-c2 -->
+		<div class="hdr-r1-c3">
+			<div class="cures-reported"><i class="fa fa-hand-o-right"></i> <a href="/user-approved-remedies.html" title="Cures Reported">Cures Reported:</a> 31,269</div>
+            
+            
+            
+<ul id="menu" class="hiderespo">
+  <li class="menu_right"><a href="#" onclick="return false;"><i class="fa fa-th"></i></a>
+     
+      <div class="dropdown_3columns align_right">
+                         
+          <div class="col_1">
+     
+              <ul class="greybox">
+                  <li><a href="http://www.earthclinic.com/guides.html"><img src="http://www.earthclinic.com/images/get-help-dd-nav.jpg" alt="Get Help"><br>Get Help</a></li>
+                  <li><a href="#" onclick="window.open('/feedbacks/index.php', '_blank', 'toolbar=no, scrollbars=yes, resizable=yes, top=20%, left=20%, width=655, height=800');"><img src="http://www.earthclinic.com/images/report-issue-dd-nav.jpg" alt="Report a Problem"><br>Report a Problem</a></li>
+                  <li><a href="http://www.earthclinic.com/contactus.html"><img src="http://www.earthclinic.com/images/contact-us-dd-nav.jpg" alt="Contact Us"><br>Contact Us</a></li>
+                  <li><a target="_blank" onclick="window.open('/feedbacks/index.php', '_blank', 'toolbar=no, scrollbars=yes, resizable=yes, top=20%, left=20%, width=655, height=800');"><img src="http://www.earthclinic.com/images/survey-dd-nav.jpg" alt="Survey"><br>Survey</a></li>
+                  
+              </ul>   
+     
+          </div>
+             
+          <div class="col_1">
+     
+              <ul class="greybox">
+                  <li><a href="http://www.earthclinic.com/earth-clinic-books.html"><img src="http://www.earthclinic.com/images/books-dd-nav.jpg" alt="Books"><br>Books</a></li>
+                  <li><a target="_blank" href="http://earthclinic.us8.list-manage.com/subscribe?u=4ee430e801c7be0ca62527784&amp;id=c812d52448"><img src="http://www.earthclinic.com/images/newsletter-dd-nav.jpg" alt="Newsletter" height="35"><br>Newsletter</a></li>
+                  <li><a href="http://www.earthclinic.com/donations.html"><img src="http://www.earthclinic.com/images/goldenHeart.jpg" height="35" alt="Donate"><br>Donate</a></li>
+                  <li><a target="_blank" href="http://directory.earthclinic.com/"><img src="http://www.earthclinic.com/images/dr-dd-nav.jpg" alt="Holistic Practitioners"><br>Holistic Practitioners</a></li>
+              </ul>   
+     
+          </div>
+             
+          <div class="col_1">
+     
+              <ul class="greybox">
+                  <li><a target="_blank" href="https://www.pinterest.com/earthclinic/"><img src="http://www.earthclinic.com/images/pin-dd-nav.jpg" alt="Pinterest"><br>Pinterest</a></li>
+                  <li><a target="_blank" href="https://www.youtube.com/c/earthclinic"><img src="http://www.earthclinic.com/images/youtube-dd-nav.jpg" alt="Videos"><br>Videos</a></li>
+                  <li><a target="_blank" href="https://www.facebook.com/pages/Earth-Clinic/60803892726"><img src="http://www.earthclinic.com/images/facebook-dd-nav.jpg" alt="Facebook"><br>Facebook</a></li>
+                  <li><a href="https://twitter.com/Earth_Clinic" target="_blank"><img src="http://www.earthclinic.com/images/twitter-dd-nav.jpg" alt="Twitter"><br>Twitter</a></li>
+              </ul>   
+          </div>
+                      
+      </div>
+         
+    </li>
+ 
+ 
+</ul>
 <script>
-var min=9;
-var max=17;
-function normalFontSize() {
-   var p = document.getElementsByTagName('font');
-   for(i=0;i<p.length;i++) {
-      if(p[i].style.fontSize) {
-         var s = parseInt(p[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s -= 1;
-      }
-      p[i].style.fontSize = s+"px"
-   }
-   var p = document.getElementsByTagName('p');
-   for(i=0;i<p.length;i++) {
-      if(p[i].style.fontSize) {
-         var s = parseInt(p[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s -= 1;
-      }
-      p[i].style.fontSize = s+"px"
-   }
-   var d = document.getElementsByTagName('div');
-   for(i=0;i<d.length;i++) {
-      if(d[i].style.fontSize) {
-         var s = parseInt(d[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s -= 1;
-      }
-      d[i].style.fontSize = s+"px"
-   }
-   var l = document.getElementsByTagName('label');
-   for(i=0;i<l.length;i++) {
-      if(l[i].style.fontSize) {
-         var s = parseInt(l[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s -= 1;
-      }
-      l[i].style.fontSize = s+"px"
-   }
-   var l = document.getElementsByTagName('input');
-   for(i=0;i<l.length;i++) {
-      if(l[i].style.fontSize) {
-         var s = parseInt(l[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s -= 1;
-      }
-      l[i].style.fontSize = s+"px"
-   }
-   var l = document.getElementsByTagName('textarea');
-   for(i=0;i<l.length;i++) {
-      if(l[i].style.fontSize) {
-         var s = parseInt(l[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s -= 1;
-      }
-      l[i].style.fontSize = s+"px"
-   }
-   document.getElementById("ratingText").style.fontSize="16px";
-   
-    var frame = document.getElementById("comments_ifr");
-    var content = (frame.contentDocument || frame.contentWindow);
-    content.body.style.fontSize = "16px";
-}
-function increaseFontSize() {
-   var p = document.getElementsByTagName('font');
-   for(i=0;i<p.length;i++) {
-      if(p[i].style.fontSize) {
-         var s = parseInt(p[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s += 1;
-      }
-      p[i].style.fontSize = 19+"px"
-   }
-   var p = document.getElementsByTagName('p');
-   for(i=0;i<p.length;i++) {
-      if(p[i].style.fontSize) {
-         var s = parseInt(p[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s += 1;
-      }
-      p[i].style.fontSize = 19+"px"
-   }
-   var d = document.getElementsByTagName('div');
-   for(i=0;i<d.length;i++) {
-      if(d[i].style.fontSize) {
-         var s = parseInt(d[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s += 1;
-      }
-      d[i].style.fontSize = 19+"px"
-   }
-   var l = document.getElementsByTagName('label');
-   for(i=0;i<l.length;i++) {
-      if(l[i].style.fontSize) {
-         var s = parseInt(l[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s += 1;
-      }
-      l[i].style.fontSize = 19+"px"
-   }
-   var l = document.getElementsByTagName('input');
-   for(i=0;i<l.length;i++) {
-      if(l[i].style.fontSize) {
-         var s = parseInt(l[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s += 1;
-      }
-      l[i].style.fontSize = 19+"px"
-   }
-   var l = document.getElementsByTagName('textarea');
-   for(i=0;i<l.length;i++) {
-      if(l[i].style.fontSize) {
-         var s = parseInt(l[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=max) {
-         s += 1;
-      }
-      l[i].style.fontSize = 19+"px"
-   }
-   document.getElementById("ratingText").style.fontSize="19px";
-   
-    var frame = document.getElementById("comments_ifr");
-    var content = (frame.contentDocument || frame.contentWindow);
-    content.body.style.fontSize = "19px";
-}
-function decreaseFontSize() {
-   var p = document.getElementsByTagName('font');
-   for(i=0;i<p.length;i++) {
-      if(p[i].style.fontSize) {
-         var s = parseInt(p[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=min) {
-         s -= 1;
-      }
-      p[i].style.fontSize = 14+"px"
-   }   
-   var p = document.getElementsByTagName('p');
-   for(i=0;i<p.length;i++) {
-      if(p[i].style.fontSize) {
-         var s = parseInt(p[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=min) {
-         s -= 1;
-      }
-      p[i].style.fontSize = 14+"px"
-   }   
-   var d = document.getElementsByTagName('div');
-   for(i=0;i<d.length;i++) {
-      if(d[i].style.fontSize) {
-         var s = parseInt(d[i].style.fontSize.replace("px",""));
-      } else {
-         var s = 16;
-      }
-      if(s!=min) {
-         s -= 1;
-      }
-      d[i].style.fontSize = 14+"px"
-   }   
-}
+$(document).ready(function(){
+     $(".dropdown_3columns").mouseover(function(){
+         $(".fa-th").css("color", "#009933");
+     });
+     $(".dropdown_3columns").mouseout(function(){
+         $(".fa-th").css("color", "#999");
+     });
+});
 </script>
+            
+            
+			<div class="hdr-r1-c1 signin">
+                        <a href="javascript:void(0);" onclick="MM_openBrWindow('/signin.php','','scrollbars=1,width=1175,height=436,left='+(screen.width/2.25)+',top=30')">Sign In</a> &nbsp;|&nbsp; <a href="/register.html">Sign Up</a>
+                      
+            
+            </div>
+		</div><!-- end of hdr-r1-c3 -->
+	</div><!-- end of hdr-r1 -->
+	<div class="hdr-r2">
+		<div class="hdr-r2-c1">
+			<div class="logo"><a href="/" title="Natural Home Remedies Earth Clinic"><img alt="Holistic Health and Alternative Medicine - EARTHCLINIC.COM" src="/tmpl-imgs/logo-header-2014.png"></a></div>
+		</div><!-- end of hdr-r2-c1 -->
+		<div class="hdr-r2-c2">
+			<a href="/contactus.html" title="Add New Post" class="add-post-btn"><img width="125" class="resize" src="/images/submit-post.jpg" alt="Add New Post"></a>
+		</div><!-- end of hdr-r2-c2 -->
+	</div><!-- end of hdr-r2 -->
+
+	<div class="hdr-r3">
+		<div id="mainNav-new">
+			<ul>
+				<li class="tab-off"><a href="/" title="Earth Clinic Home">Home</a>
+				<ul>
+					<li><a href="/contactus.html">Contact Us</a></li>
+					<li><a href="/donations.html">Donate</a></li>
+                    <li><a href="/about.html">Who We Are</a></li>
+					<li><a href="/earth-clinic-reviews.html">What People Say</a></li>
+					<li><a href="/guides.html">Website Help</a></li>
+					
+				</ul>
+                </li>
+				<li class="tab-off"><a href="http://www.earthclinic.com/children.html">Children</a></li>
+				<li class="tab-off"><a href="/remedies-all-natural.html" title="Remedies">Remedies</a>
+					<ul>
+						<li><a href="/remedies-all-natural.html">All Remedies</a></li>
+						<li><a href="/all-supplements.html">Supplements</a></li>
+						<li><a href="/herbs.html">Herbs</a></li>
+						<li><a href="/beauty.html">Beauty Remedies</a></li>
+						<li><a href="http://ted.earthclinic.com">Ted's Remedies</a></li>
+					</ul>
+				</li>
+				<li class="tab-off"><a href="/ailments.html" title="Ailments">Ailments</a></li>
+				<li class="tab-off"><a href="/pets.html" title="Pets">Pets</a>
+					<ul>
+						<li><a href="/latest_petposts.html">Latest Pet Posts</a></li>
+						<li><a href="/pets.html">Pet Ailments</a></li>
+						<li><a href="/pet-remedies.php">Pet Remedies</a></li>
+					</ul>
+				</li>
+				<li class="tab-off"><a href="/latest_posts.html" title="Latest Posts">Recent Posts</a>
+					<ul>
+						<li><a href="/latest_posts.html">Recent Posts</a></li>
+						<li><a href="http://answers.earthclinic.com/">Recent Q&amp;A </a></li>
+						<li><a href="http://ted.earthclinic.com/">Ted's Recent Posts</a></li>
+					</ul>
+				</li>
+				<li class="navicons"><a href="http://feeds.feedburner.com/EarthClinic" title="RSS Feed"><i class="fa fa-rss rssicon"></i></a> <a href="javascript:void(0)" onclick="javascript:increaseFontSize();"><i class="fa fa-plus-circle plusicon"></i></a> <a href="javascript:void(0)" onclick="javascript:normalFontSize();"><i class="fa fa-minus-circle minusicon"></i></a></li>
+			</ul>
+		</div><!-- eof mainNav-new -->
+	</div><!-- eof hdr-r3 -->
 </div><!-- eof header-outer -->
+
 
 <div id="page-wrapper" style="margin-top:-2px;">
 		<div id="pageBody">
-<center>
-<div id="mainNav-new">
-            	<ul>
-                	<li class="tab-off"><a href="/" title="Earth Clinic Home">Home</a></li>
-                	<li class="tab-off"><a href="http://www.earthclinic.com/children.html">Children</a></li>
-                    <li class="tab-off"><a href="/remedies.html" title="Remedies">Remedies</a><ul>
-			    <li><a href="/remedies.html">All Remedies</a></li>
-				<li><a href="/supplements.html">Supplements</a></li>
-				<li><a href="/herbs.html">Herbs</a></li>
-				<li><a href="/beauty.html">Beauty Remedies</a></li>
-			</ul>
-                </li>
-                    <li class="tab-off"><a href="/ailments.html" title="Ailments">Ailments</a></li>
-                    <li class="tab-off"><a href="/pets.html" title="Pets">Pets</a><ul><li><a href="/latest_petposts.html">Latest Pet Posts</a></li><li><a href="/pets.html">Pet Ailments</a></li><li><a href="/pet-remedies.php">Pet Remedies</a></li>
-</ul></li>
-                    <li class="tab-off" style="width:155px;"><a href="/latest_posts.html" title="Latest Posts">Recent Posts</a></li>
-                    <li class="socialicons"><center><a href="/latest_posts_rss.php" title="RSS Feed"><img src="/images/rss.png" alt="RSS"></a> <a href="javascript:void(0)" onclick="javascript:increaseFontSize();"><img alt="Increase Font Size" src="/images/plustext.png"></a> <a href="javascript:void(0)" onclick="javascript:normalFontSize();"><img alt="Decrease Font Size" src="/images/mintext.png"></a></center></li>
-                </ul>
-</div>
-<div id="mainNav-responsive" style="display:none;" onclick="$('#mainNav-responsive').val('');">
-            	<select>
-                	<option value="" selected="selected">Find New Page...</option> 
-                	<option value="/">Home</option>
-                    <option value="/ailments.html">Ailments
-                    </option><option value="/remedies.html">Remedies</option>
-            		<option value="/latest_posts.html">Recent Posts</option>
-                    <option value="/pets.html">Pet Health</option>
-                    <option value="/latest_petposts.html">Recent Pet Posts</option>
-                    <option value="/contactus.html">Submit a Post</option>
-                    <option value="/videos.html">Videos</option>
-                    <option value="http://directory.earthclinic.com">Holistic Practitioners</option>
-                	<option value="/earth-clinic-books.html">Books</option>
-                    <option value="/beauty.html">Beauty</option>
-                    <option value="/children.html">Children</option>
-             		<option value="/about.html">About Us</option>
-                </select>
-</div>
-<script>
-$("#mainNav-responsive select").change(function() {
-  window.location = $(this).find("option:selected").val();
-});
-</script>
-</center>
-			
+<script src="/js/ec-fontsize.js" type="text/javascript"></script>			
 			<!-- BOF page main content -->
 			<div id="content">
             <div id="content-imgbg">
@@ -593,10 +806,9 @@ google_ad_slot = "0257198490";
 google_ad_width = 300;
 google_ad_height = 250;
 //-->
-                          </script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-                          </script></div>
-</div>
-                <p><br>
+ </script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+ </script></div>
+</div>                <p><br>
                 </p>
 </div>
               <div>
@@ -607,47 +819,111 @@ google_ad_height = 250;
 			</div><!-- eof content -->
 			</div><!-- EOF page-wrapper -->
 		<!-- BOF page Footer -->
-<a href="#" class="go-top"><i class="fa fa-arrow-circle-up"></i></a>
-<div id="ecfooter">
-<div class="ecfooter-inner">
-<div class="newsletter" align="center">
+</div></div>
+<style>
+.ecfooter-inner {
+width:1100px;
+padding:15px 0;
+background-color: #ECECEC;
+}
+::-webkit-input-placeholder {
+   color: #999;
+}
+:-moz-placeholder { /* Firefox 18- */
+   color: #999;  
+}
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #999;  
+}
+:-ms-input-placeholder {  
+   color: #999;  
+}
+#mc_embed_signup input.email {border-radius:0 !important;}
+#ecfooter a:link, #ecfooter a:visited{
+color: #DFDFDF;
+font-size: 12px;
+text-decoration:none;
+text-transform: uppercase;
+font-family: 'Droid Sans', Arial, Helvetica, sans-serif;
+}
+#ecfooter a:hover{text-decoration:underline;}
+#mc_embed_signup .button { height:36px !important; border-radius:0 !important; font-weight:normal !important;}
+#homefeatured ul{width:auto !important;}
+#ecfooter, #ecfooter p{
+color: #999;
+font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+#ecfooter .disclaimer {padding: 0 15px;}
+#social a:visited{color:##DFDFDF;}
+#social a{color:##DFDFDF; font-size:13;}
+body { background-color:#333; background: linear-gradient(to bottom, #333 0%, #333 0%) no-repeat scroll 0% 0% transparent;}
+#mc_embed_signup form {text-align: center !important;}
+#smlfooterlink a:link, #smlfooterlink a:visited, #smlfooterlink a{ color:#666; font-weight:normal;}
+#ecfooter{background-color:#333; min-height:250px;  margin-top: 50px;}
+#copyfooter a:link, #copyfooter a:visited{
+color: #DFDFDF;
+font-size: 12px;
+text-decoration:none;
+text-transform: uppercase;
+font-family: 'Droid Sans', Arial, Helvetica, sans-serif;
+}
+</style>
+<div id="ecfooter" style="background-color:#333; min-height:250px;  margin-top: 25px;">
+<div class="ecfooter-inner" style="background-color:#333; height:100%">
+<div class="top-footer-line" style="width:100%; height:50px;">
+<div id="social" style="width:55%; float:left; text-align:left; padding-top:8px; padding-left:10px;">
+				<a href="/" title="Earth Clinic Home">Home</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.earthclinic.com/children.html">Children</a>
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/remedies-all-natural.html" title="Remedies">Remedies</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="/ailments.html" title="Ailments">Ailments</a>
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="/pets.html" title="Pets">Pets</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="/latest_posts.html" title="Latest Posts">Recent Posts</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.earthclinic.com/earth-clinic-books.html">Our Books</a><br>
+<a target="_blank" href="http://directory.earthclinic.com/">Holistic Practitioners</a>  &nbsp;&nbsp;&nbsp;&nbsp;  <a href="http://www.earthclinic.com/donations.html">Donate</a>  &nbsp;&nbsp;&nbsp;&nbsp;  <a href="http://www.earthclinic.com/contactus.html">Contact Us</a>  &nbsp;&nbsp;&nbsp;&nbsp;  <a href="#" onclick="window.open('/feedbacks/index.php', '_blank', 'toolbar=no, scrollbars=yes, resizable=yes, top=20%, left=20%, width=655, height=800');">Report a Problem</a>
+<div id="smlfooterlink"><a href="/tos.html" title="Terms of Service" target="_blank" style="font-size:11px; color:#666;">Terms of Service</a> | <a href="/privacy_policy.html" title="Privacy Policy" style="font-size:11px; color:#666;">Privacy Policy</a></div>
+<p>DISCLAIMER: Our readers offer information and opinions on Earth Clinic, not as a substitute for professional medical prevention, diagnosis, or treatment. Please consult with your physician, pharmacist, or health care provider before taking any home remedies or supplements or following any treatment suggested by anyone on this site. Only your health care provider, personal physician, or pharmacist can provide you with advice on what is safe and effective for your unique needs or diagnose your particular medical history.</p>
+</div>
+<div class="newsletter" align="left" style="width:38%; float:right; text-align:right !important;">
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
     #mc_embed_signup{background:none; clear:left;text-align:center; font:14px Helvetica,Arial,sans-serif; }
-	#mc_embed_signup form {text-align:center;padding:10px !important; width:250px;}
+	#mc_embed_signup form {text-align:right;padding:0 25px !important; width:250px;}
 	#mc_embed_signup input.email {display:inline;border-radius: 4px; margin-left:3px;}
-	#mc_embed_signup input.button {display:inline; max-width:300px;}
-	#mc_embed_signup .button {background-color: #060;}
+	#mc_embed_signup input.button {display:inline; max-width:300px;margin:0 !important;min-width:20px;}
+	
+	#mc_embed_signup input{border:none; width:270px;}
+	#mce-EMAIL:hover, #mce-EMAIL:focus {border-bottom:thin solid #000;}
+	
+	
 	/*
     Add your own MailChimp form style overrides in your site stylesheet or in this style block.
        We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
-<div id="mc_embed_signup">
+<div id="mc_embed_signup" style="text-align:right;">
 <form action="http://eepurl.com/SJgYf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-    <label for="mce-EMAIL">Subscribe to our mailing list</label>
-    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required="">
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" required="" style="background:none; color:#000; font-size:15px;" placeholder="Subscribe to our mailing list">
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_4ee430e801c7be0ca62527784_c812d52448" value=""></div><br>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_4ee430e801c7be0ca62527784_c812d52448" value=""></div>
+    <input type="submit" value="submit" name="subscribe" id="mc-embedded-subscribe" class="button" style="width: 63px !important;
+padding: 1px;
+border: none;
+text-align: center;
+font-family: Glegoo, Georgia, serif;
+font-size: 11px;
+line-height: 11px;
+text-transform: lowercase;">
 </form>
+<br>
+
+<div style="text-align:right; padding:30px 25px;">
+  <a href="/latest_posts_rss.php" title="RSS Feed"><img src="/images/rss.png"></a> <a href="https://www.facebook.com/pages/Earth-Clinic/60803892726"><img src="/images/facebook.png"></a> <a href="https://twitter.com/Earth_Clinic"><img src="/images/twitter.png"></a> <a href="http://www.pinterest.com/earthclinic/"><img src="/images/pin.png"></a> <a href="https://www.youtube.com/c/earthclinic"><img src="/images/youtube.png"></a> <a href="https://plus.google.com/+earthclinic"><img src="/images/google.png"></a>
+</div>
+</div>
+		    <p id="copyfooter" align="right" style="padding:0 17px;"><a href="/about.html" style="display:inline-block; padding:0 10px 0 0; border-right:1px #666666 solid;">About Us</a> <a href="/contactus.html" title="Contact Us" target="_blank" style="display:inline-block;  padding:0 10px; border-right:1px #666666 solid;">Contact Us</a> <a href="/search.html" title="Search" style="display:inline-block;  padding:0 10px; border-right:1px #666666 solid;">Search</a> <a href="http://www.earthclinic.com/contact-us-guidelines.html" title="Search" style="display:inline-block;  padding:0 10px;">Help</a><br>
+            <a href="/copyright.html" style="display:inline-block;  padding:0 10px;">Copyright © 2015</a>
+		    </p>
+<a href="#" class="go-top"><i class="fa fa-arrow-circle-up"></i></a>
+
 </div>
 <!--End mc_embed_signup-->
-<center><a href="/latest_posts_rss.php" title="RSS Feed"><img src="/images/rss.png"></a> <a href="https://www.facebook.com/pages/Earth-Clinic/60803892726"><img src="/images/facebook.png"></a> <a href="https://twitter.com/Earth_Clinic"><img src="/images/twitter.png"></a> <a href="http://www.pinterest.com/earthclinic/"><img src="/images/pin.png"></a> <a href="https://www.youtube.com/channel/UCP1FU3oLwAMRVfr9HaAg-fw"><img src="/images/youtube.png"></a> <a href="https://plus.google.com/+earthclinic"><img src="/images/google.png"></a></center>
-</div>
-<div class="disclaimer">
-<p>DISCLAIMER: Our readers offer information and opinions on Earth Clinic, not as a substitute for professional medical prevention, diagnosis, or treatment. Please consult with your physician, pharmacist, or health care provider before taking any home remedies or supplements or following any treatment suggested by anyone on this site. Only your health care provider, personal physician, or pharmacist can provide you with advice on what is safe and effective for your unique needs or diagnose your particular medical history.</p>
-</div>
-<blockquote>
-
-		    <p align="center"><a href="/copyright.html">Copyright © 2014</a>&nbsp;| <a href="/tos.html" title="Terms of Service" target="_blank">Terms of Service</a> | <a href="/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>&nbsp;|  <a href="/about.html">About Us</a> |<a href="/contactus.html" title="Contact Us" target="_blank"> Contact Us</a>&nbsp;| <a href="/search.html" title="Search">Search</a>  <br>
-		      <br>
-
-		    </p>
-
-  </blockquote>
-</div><!-- eof .ecfooter-inner -->
-</div>
+</div></div></div>
 <!-- back to top javascript -->
 <script>
 		$(document).ready(function() {
@@ -668,8 +944,11 @@ google_ad_height = 250;
 			})
 		});
 	</script>
-</div>
-
+		<script src="/js/classie.js"></script>
+		<script src="/js/gnmenu.js"></script>
+		<script>
+			new gnMenu( document.getElementById( 'gn-menu' ) );
+		</script>
 		<!-- EOF page Footer -->
 <!-- EOF wrapper-outer -->
 
