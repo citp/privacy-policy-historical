@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the best-gifts-top-toys.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617233211id_/http%3A//best-gifts-top-toys.com/2013/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-gifts-top-toys.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905011820id_/http%3A//www.best-gifts-top-toys.com/2013/01/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Best Gifts Top Toys
 
 **What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
