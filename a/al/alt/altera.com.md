@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altera.com privacy policy that was archived on 2015-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150501221825id_/https%3A//www.altera.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altera.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906014849id_/https%3A//www.altera.com/about/privacy.html) for the most accurate reproduction.*
 
 # Altera Corporation's Web Site Privacy Policy
 
