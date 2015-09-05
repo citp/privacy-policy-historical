@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubify.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032600id_/http%3A//cubify.com/en/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubify.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080847id_/http%3A//cubify.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy | Cubify
 
@@ -10,11 +10,11 @@ We take your privacy very seriously and will never sell, share, or otherwise dis
 
 1
 
-If you join the 3D Systems Community at [Cubify.com](http://cubify.com/), other users will be able to view the information that you opt-in to sharing, such as your User ID, photo, zip code, links to the content you have posted, and the like.
+If you join the 3D Systems Community at[Cubify.com](http://cubify.com/), other users will be able to view the information that you opt-in to sharing, such as your User ID, photo, zip code, links to the content you have posted, and the like.
 
 2
 
-If you participate in the 3D Systems blog at [Cubify.com/blog](http://cubify.com/blog), other users will be able to view your User ID and your posts. Your User ID may also receive messages directly from other users.
+If you participate in the 3D Systems blog at[Cubify.com/blog](http://cubify.com/blog), other users will be able to view your User ID and your posts. Your User ID may also receive messages directly from other users.
 
 3
 
@@ -42,9 +42,9 @@ We use remarketing codes to log when users view specific pages, allowing us to p
 
 ## Cookies
 
-If you create a User ID, 3D Systems uses cookies only to store your User ID. This User ID is a string of random characters and contains none of your personal information. We use this so we can allow you to come back to 3D Systems without having to login each and every time. Once you login, we store this cookie on your system for a few days. By selecting Logout from the navigation bar at the top of our site you will have removed the cookie completely from your system, or you can let it expire on its own. 
+If you create a User ID, 3D Systems uses cookies only to store your User ID. This User ID is a string of random characters and contains none of your personal information. We use this so we can allow you to come back to 3D Systems without having to login each and every time. Once you login, we store this cookie on your system for a few days. By selecting Logout from the navigation bar at the top of our site you will have removed the cookie completely from your system, or you can let it expire on its own.
 
-Some pages on 3D Systems also use cookies from Google Analytics to help us figure out how our members found our website. No personal information is stored in these cookies. 
+Some pages on 3D Systems also use cookies from Google Analytics to help us figure out how our members found our website. No personal information is stored in these cookies.
 
 ## Security
 
