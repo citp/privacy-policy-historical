@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the caesarscasino.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628030323id_/https%3A//www.caesarscasino.com/en/policies/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caesarscasino.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905231554id_/https%3A//www.caesarscasino.com/en/policies/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -16,12 +16,15 @@ Privacy Policy
 <meta content="noindex, nofollow" name="robots">
 <meta content="app-id=876336616" name="apple-itunes-app">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="jtL84Lg447gseF8/02bZJ+vTW/fbDUirr3TP0d7XrXo=" name="csrf-token">
-<link href="https://caesars.amayagaming.net/assets/caesars/caesar_favicon-1bbfcc051e56639c9886b42677df29bb.ico" rel="shortcut icon">
+<meta content="u/9N1fFSK+IvI46wyuVTog9eYhFO+dKOsWikhxnPvXw=" name="csrf-token">
+<link href="https://caesars.amayagaming.net/assets/caesar_favicon-8b96fc66e3e15a138febef17967d1946.ico" rel="shortcut icon">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5GVB83"></script><script type="text/javascript" async="" src="https://tags.spider-mails.com/adasync.php?id=725"></script><script src="//service.maxymiser.net/cdn/caesarsinteractive/js/mmcore.js" type="text/javascript"></script>
 <style>
 .text-overlay {display:none;}
 form[action*='/promotions/cancel/'] .confirm-close { display: none; }
-
+header .main-navigation li a {
+padding: 14px 10px 15px 10px !important;
+}
 
 .bottomSEOHeader
 {
@@ -34,66 +37,134 @@ margin-bottom: 23px;
 text-transform: uppercase;
 }
 
+.game-description a {
+     color: #000000;
+}
+.game-description  p {
+    font-size: 1.025rem !important;
+}
+div.responsive-image-landing-page  {
+background-color: #111111;
+}
+
+div.responsive-image-landing-page div {
+display: block;
+width: 100%;
+max-width: 1200px;
+margin: auto;
+
+}
+
+@media screen and (min-width: 767px) {
+  .hero-wrap .slider .slides .overflow {
+    padding-bottom: 25% !important;
+  }
+  
+  .splash-page .hero-wrap .slider .slides .overflow {
+    padding-bottom: 36.4% !important;
+  }
+}
+
+/* Trim game names in recent winners feed */
+.recent-winners-wrapper .game-title a { width: 160px; overflow: hidden; text-overflow: ellipsis; }
+
+
+/* Hide Jackpot spinner because of errors */
+/* .jackpot-total { display: none; } .recent-winners-wrapper { margin-top: 20px; } */
+
+
+
+.btn {
+  font-family: Arial; 
+  color: #ffffff;
+  font-size: 20px;
+  background: #c59439;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #c59439;
+  text-decoration: none;
+}
 </style>
-<link href="https://caesars.amayagaming.net/assets/caesars-d40b2992de358559b6a3e7875c3a25e1.css" media="screen" rel="stylesheet" type="text/css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5GVB83"></script><script>
+<link href="https://caesars.amayagaming.net/assets/caesars-fc7a9307a07024dadee8d2fb81598ff3.css" media="screen" rel="stylesheet" type="text/css">
+
+<script>
   //<![CDATA[
     ir_data_layer = {"page":{"id":"Privacy Policy"}};
   //]]>
 </script>
 
-<script>
-  //<![CDATA[
-    if (top.PNM) top.PNM.close();
-  //]]>
-</script>
 <script type="text/javascript">
-try {
+
+/* try {
   (function() {
-        var path = window.location.pathname;
-	if ((path == '/' || path == '') && document.cookie.indexOf("mobile_splash=1") === -1) {
+    var path = window.location.pathname;
+    var setSplashCookie = function() {
+      var expireDate = new Date(new Date().getTime() + 24*60*60*1000);
+      document.cookie = "mobile_splash=1; expires=" + expireDate.toGMTString() + ";path=/";
+	};
+	if ((path == '/' || path == '') && document.cookie.indexOf("mobile_splash=1") === -1 && document.cookie.indexOf("mobile_wrapper=1") === -1 && location.href.indexOf("set_mobile_wrapper_cookie=1") === -1) {
 	  if (/Android/.test(window.navigator.userAgent)) {
-	    // set cookie
-		var expireDate = new Date(new Date().getTime() + 7*24*60*60*1000);
-		document.cookie = "mobile_splash=1; expires=" + expireDate.toGMTString() + ";path=/";
-		window.location.replace("https://www.caesarscasino.com/en/mobile-android");
+		var androidVersionRaw = (/Android ([\d.]+);/.exec(window.navigator.userAgent) || [,'0.0.0'])[1];
+		var parts = androidVersionRaw.split('.');
+		if (parseInt(parts[0]) >= 5 || (parseInt(parts[0]) >= 4 && parseInt(parts[1]) >= 4)) {
+          setSplashCookie();
+		  window.location.replace("/en/mobile-android");
+		}
 	  } else if (/iPad|iPhone/.test(window.navigator.userAgent)) {
 	    // set cookie
-	    var expireDate = new Date(new Date().getTime() + 7*24*60*60*1000);
-	    document.cookie = "mobile_splash=1; expires=" + expireDate.toGMTString() + ";path=/";
-	    window.location.replace("https://www.caesarscasino.com/en/mobile-ios");
+		setSplashCookie();
+	    window.location.replace("/en/ios-app");
 	  }
 	}
   }());
 } catch(e) {};
+*/
+
+try {
+  (function() {
+    var path = window.location.pathname;
+    if ((path == '/' || path == '') && document.referrer.indexOf("caesarscasino") === -1) {
+	  if (/Android/.test(window.navigator.userAgent)) {
+		var androidVersionRaw = (/Android ([\d.]+);/.exec(window.navigator.userAgent) || [,'0.0.0'])[1];
+		var parts = androidVersionRaw.split('.');
+		if (parseInt(parts[0]) < 4 || (parseInt(parts[0]) == 4 && parseInt(parts[1]) < 4)) {
+		  window.location.replace("/en/android-app-upgrade");
+		}
+	  }
+	}
+  }());
+} catch(e) {};
+
+
 </script>
 
 
 <script type="text/javascript" async="">
 setTimeout(function() { $('li.bonus .top .title span.expand-icon').click(); }, 2500);
+setTimeout(function() { $('.google-plus-icon a').attr('href', 'https://plus.google.com/104659606480419158436/posts'); }, 2500);
 
 if(!vt_counter_getRndNumber){var vt_counter_getRndNumber=function(){return(new Date).getTime().toString()+parseInt(Math.random()*1e5).toString()}}if(!vt_counter_isSecure){var vt_counter_isSecure=function(){return"https:"==document.location.protocol}}if(!vt_counter_isNumeric){var vt_counter_isNumeric=function(e){var t=true;var n="0123456789";var r=0;var i;if(e){for(r=0;r<e.length&&t==true;r++){i=e.charAt(r);if(n.indexOf(i)==-1){t=false}}}else{t=false}return t}}if(!vt_counter_HOST){var vt_counter_HOST=""}vt_counter_HOST="cnt.wsop.com";if(!vt_counter_IMAGE){var vt_counter_IMAGE=function(e,t,n,r,i,s){var o=vt_counter_getRndNumber();var u="";var a=null;if(!n)n=window.location.hostname;else if(n=="")n=window.location.hostname;if(!t)t=0;else if(vt_counter_isNumeric(t)==false)t=0;if(!r)r="";if(n!=""&&e!=""){u=(vt_counter_isSecure()?"https://":"http://")+vt_counter_HOST+"/index.aspx?rnd="+o+"&type=site&id="+n+"&action="+e+"&tracker="+t+"&language="+r+"&anid="+i+"&mkw="+s;a=new Image;a.src=u}}}if(!_vt_counter_INSERT){var _vt_counter_INSERT=function(e,t,n,r,i,s){if(!r)r="";if(r=="undefined")r="";if(!i)i="";if(i=="undefined")i="";vt_counter_IMAGE(e,t,n,s,r,i)}};
-
-/*
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-MCC3RL');
-*/
 </script>
 
-<meta name="google-site-verification" content="jhLmjMovVvnqe45neNiXr9blwBDosfsGL5pMesYmetY">
 <meta name="p:domain_verify" content="a5b0bdde212a725461037ffd6b90a5e3">
 
+<script type="text/javascript">
+//<![CDATA[ 
+(function ()
+{ var tsm = document.createElement('script'); tsm.type = 'text/javascript'; tsm.async = true; tsm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'tags.spider-mails.com/adasync.php?id=725'; var sm = document.getElementsByTagName('script')[0]; sm.parentNode.insertBefore(tsm, sm); }
+)();
+//]]></script>
 
-
-
+<meta name="google-site-verification" content="QTH_5yYX0YOPdPU-FzBK4YiN6Pd6fW5C5M-5WDPFjv4">
 
 
 </head>
 
 <body class="full-width page preload">
+<div class="body-background-img"></div>
 <noscript>
 <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-5GVB83" style="display:none;visibility:hidden" width="0"></iframe>
 </noscript>
@@ -106,6 +177,7 @@ if(!vt_counter_getRndNumber){var vt_counter_getRndNumber=function(){return(new D
     })(window,document,'script','dataLayer','GTM-5GVB83');
   //]]>
 </script>
+
 
 
 <div id="outer-wrapper" itemscope="" itemtype="http://schema.org/Article">
@@ -141,7 +213,13 @@ Get Started
 </li>
 <li class="menu-item">
 <a href="/en/total-rewards">
-Total Rewards 
+Total Rewards
+</a>
+<span class="arrow up"></span>
+</li>
+<li class="menu-item">
+<a href="/en/mobile-casino">
+Mobile Casino
 </a>
 <span class="arrow up"></span>
 </li>
@@ -166,11 +244,11 @@ Support
 <h3 class="heading">
 Login to your account
 </h3>
-<form accept-charset="UTF-8" action="/en/login" class="new_player_login" id="new_player_login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="jtL84Lg447gseF8/02bZJ+vTW/fbDUirr3TP0d7XrXo="></div><input id="player_login_redirect_url" name="player_login[redirect_url]" type="hidden" value="/en/login">
+<form accept-charset="UTF-8" action="/en/login" class="new_player_login" id="new_player_login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="u/9N1fFSK+IvI46wyuVTog9eYhFO+dKOsWikhxnPvXw="></div><input id="player_login_redirect_url" name="player_login[redirect_url]" type="hidden" value="/en/login">
 <input class="device_fingerprint" id="player_login_device_fingerprint" name="player_login[device_fingerprint]" type="hidden" value="{}">
 <input id="time_zone_offset" name="player_login[time_zone_offset]" type="hidden">
 <input name="redirect" type="hidden">
-<input name="landing_page" type="hidden">
+<input name="landing_page" type="hidden" value="">
 <div class="email">
 <div class="input">
 <input class="input-field" id="player_login_email" name="player_login[email]" placeholder="Email" size="30" type="email">
@@ -188,16 +266,16 @@ Password
 </div>
 </div>
 <div class="actions pure-g-r">
-<input name="authenticity_token" type="hidden" value="jtL84Lg447gseF8/02bZJ+vTW/fbDUirr3TP0d7XrXo=">
+<input name="authenticity_token" type="hidden" value="u/9N1fFSK+IvI46wyuVTog9eYhFO+dKOsWikhxnPvXw=">
 <div class="login-btn">
 <button class="gradient-button" name="button" type="submit">Login</button>
 </div>
 </div>
 <div class="links">
-<a class="sign-up gradient-button" href="">
+<a class="sign-up" href="/en/registration">
 Sign up
 </a>
-<a class="forgotten gradient-button" href="/en/forgotten-password">
+<a class="forgotten" href="/en/forgotten-password">
 Forgot password?
 </a>
 <p class="tracking-info">
@@ -234,13 +312,13 @@ Close
 <header id="header">
 <div id="desktop-header">
 <div class="top pure-max-width-wide pure-g-r">
-<div class="pure-u-L-1-2 logo-wrap">
+<div class="pure-u-L-2-8 logo-wrap">
 <a href="/en" id="logo">
-<img alt="Caesars Online Casino" src="https://caesars.amayagaming.net/assets/caesars/caesar_logo-2276679dc17188cb57a46d200322ce9d.png" title="Caesars Online Casino">
+<img alt="Caesars Online Casino" src="https://caesars.amayagaming.net/assets/caesar_logo-853cd3d379982cc9026194930b16e5ed.png" title="Caesars Online Casino">
 <meta content="Caesars Online Casino" itemprop="name">
 </a>
 </div>
-<div class="pure-u-L-1-2 account-wrap">
+<div class="pure-u-L-3-8 account-wrap">
 <div class="login">
 <a class="login-link expand-key" href="#">
 <span class="login-label">
@@ -260,11 +338,11 @@ Sign up
 <h3 class="heading">
 Login to your account
 </h3>
-<form accept-charset="UTF-8" action="/en/login" class="new_player_login" id="new_player_login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="jtL84Lg447gseF8/02bZJ+vTW/fbDUirr3TP0d7XrXo="></div><input id="player_login_redirect_url" name="player_login[redirect_url]" type="hidden" value="/en/login">
+<form accept-charset="UTF-8" action="/en/login" class="new_player_login" id="new_player_login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="u/9N1fFSK+IvI46wyuVTog9eYhFO+dKOsWikhxnPvXw="></div><input id="player_login_redirect_url" name="player_login[redirect_url]" type="hidden" value="/en/login">
 <input class="device_fingerprint" id="player_login_device_fingerprint" name="player_login[device_fingerprint]" type="hidden" value="{}">
 <input id="time_zone_offset" name="player_login[time_zone_offset]" type="hidden">
 <input name="redirect" type="hidden">
-<input name="landing_page" type="hidden">
+<input name="landing_page" type="hidden" value="">
 <div class="email">
 <div class="input">
 <input class="input-field" id="player_login_email" name="player_login[email]" placeholder="Email" size="30" type="email">
@@ -282,16 +360,16 @@ Password
 </div>
 </div>
 <div class="actions pure-g-r">
-<input name="authenticity_token" type="hidden" value="jtL84Lg447gseF8/02bZJ+vTW/fbDUirr3TP0d7XrXo=">
+<input name="authenticity_token" type="hidden" value="u/9N1fFSK+IvI46wyuVTog9eYhFO+dKOsWikhxnPvXw=">
 <div class="login-btn">
 <button class="gradient-button" name="button" type="submit">Login</button>
 </div>
 </div>
 <div class="links">
-<a class="sign-up gradient-button" href="">
+<a class="sign-up" href="/en/registration">
 Sign up
 </a>
-<a class="forgotten gradient-button" href="/en/forgotten-password">
+<a class="forgotten" href="/en/forgotten-password">
 Forgot password?
 </a>
 <p class="tracking-info">
@@ -314,7 +392,7 @@ Close
 
 </div>
 <div class="bottom pure-g-r">
-<div class="pure-u-L-1 pure-u-M-1">
+<div class="pure-u-L-1">
 <div class="main-navigation nav-wrap">
 <nav>
 <ul class="nav">
@@ -338,7 +416,13 @@ Promotions
 </li>
 <li class="menu-item">
 <a href="/en/total-rewards">
-Total Rewards 
+Total Rewards
+</a>
+<span class="arrow up"></span>
+</li>
+<li class="menu-item">
+<a href="/en/mobile-casino">
+Mobile Casino
 </a>
 <span class="arrow up"></span>
 </li>
@@ -351,6 +435,11 @@ Support
 </ul>
 
 </nav>
+</div>
+<div class="dge-approved">
+<a href="http://www.nj.gov/oag/ge/gamingsites.html">
+<img alt="CaesarsCasino is fully licensed by the state of New Jersey" src="https://caesars.amayagaming.net/assets/approved-nj-icon-0623c3eb2a6cca33b9686cfc03601681.png" title="CaesarsCasino is fully licensed by the state of New Jersey">
+</a>
 </div>
 </div>
 </div>
@@ -372,7 +461,7 @@ Support
 </div>
 <div class="mobile-logo pure-u-M-3-5 pure-u-S-1-3">
 <a href="/en">
-<img alt="" src="https://caesars.amayagaming.net/assets/caesars/caesar_mobile_logo-b991fe1a8410848efddc115310f0fbc7.png">
+<img alt="" src="https://caesars.amayagaming.net/assets/caesar_mobile_logo-6bc5ee576b13c810504ea822e931716e.png">
 </a>
 </div>
 <div class="login pure-u-M-1-5 pure-u-S-1-3">
@@ -581,116 +670,116 @@ Privacy Policy for CaesarsCasino.com
 <div class="pure-g-r">
 <div class="pure-u-L-1 pure-u-S-1">
 <div class="pure-max-width-wide">
-<div class="footer-partner-links">
+<div class="payment-logos">
 <ul>
 <li>
-<a class="partner-logo partner-logo-caesars" href="http://www.caesars.com"></a>
+<span class="payment-logo payment-logo-visa"></span>
 </li>
 <li>
-<a class="partner-logo partner-logo-harrahs" href="http://www.harrahs.com/"></a>
+<span class="payment-logo payment-logo-mastercard"></span>
 </li>
 <li>
-<a class="partner-logo partner-logo-ballys" href="http://www.ballys.com/"></a>
+<span class="payment-logo payment-logo-neteller"></span>
 </li>
 <li>
-<a class="partner-logo partner-logo-flamingo" href="http://www.flamingolasvegas.com/"></a>
+<span class="payment-logo payment-logo-ach"></span>
 </li>
 <li>
-<a class="partner-logo partner-logo-grandbiloxi" href="http://www.grandcasinobiloxi.com/"></a>
+<span class="payment-logo payment-logo-pay-near-me"></span>
 </li>
 <li>
-<a class="partner-logo partner-logo-harveys" href="http://www.harveystahoe.com/"></a>
+<span class="payment-logo payment-logo-online-banking-transfer"></span>
 </li>
 <li>
-<a class="partner-logo partner-logo-linq" href="http://www.caesars.com/thelinq/"></a>
-</li>
-<li>
-<a class="partner-logo partner-logo-nobu" href="http://www.nobucaesarspalace.com/"></a>
-</li>
-<li>
-<a class="partner-logo partner-logo-cgl" href=""></a>
-</li>
-</ul>
-<ul>
-<li>
-<a class="partner-logo partner-logo-horseshoe" href="http://www.horseshoe.com/"></a>
-</li>
-<li>
-<a class="partner-logo partner-logo-wsop" href="http://www.wsop.com/"></a>
-</li>
-<li>
-<a class="partner-logo partner-logo-paris" href="http://www.parislasvegas.com/"></a>
-</li>
-<li>
-<a class="partner-logo partner-logo-planethollywood" href="http://www.planethollywoodresort.com/"></a>
-</li>
-<li>
-<a class="partner-logo partner-logo-quad" href="http://www.thequadlv.com/"></a>
-</li>
-<li>
-<a class="partner-logo partner-logo-rio" href="http://www.riolasvegas.com/"></a>
-</li>
-<li>
-<a class="partner-logo partner-logo-showboat" href="http://www.showboatac.com/"></a>
-</li>
-<li>
-<a class="partner-logo partner-logo-roadhouse" href="http://www.tunica-roadhouse.com/"></a>
-</li>
-<li>
-<a class="partner-logo partner-logo-lci" href="http://www.lciclubs.com/"></a>
+<span class="payment-logo payment-logo-caesars-cage"></span>
 </li>
 </ul>
 </div>
-</div>
-</div>
-<div class="pure-u-L-1 pure-u-S-1">
-<div class="pure-max-width-wide">
-<div class="footer-text">
-<p>
-</p><center>
-<p>Caesars welcomes those that are of legal casino gambling age to our website.</p>
-<p>CaesarsCasino.com is owned by Caesars Interactive Entertainment, Inc. Caesars Atlantic City, 2100 Pacific Avenue Atlantic City, NJ 08401</p>
-<p><a class="internal" style="text-decoration: underline; font-size: 0.75rem; color: black;" title="Responsible Gaming" href="/en/policies/responsible-gaming-policy">Responsible Gaming</a>&nbsp;| <a class="internal" style="text-decoration: underline; font-size: 0.75rem; color: black;" title="Patron Protection" href="/en/policies/patron-protection">Patron Protection</a>&nbsp;|&nbsp;<span style="color: #000000;"><span style="font-size: 0.75rem;"><span style="text-decoration: underline;"><a class="internal" style="text-decoration: underline; font-size: 0.75rem; color: black;" title="Terms and Conditions" href="/en/policies/terms-conditions">Terms &amp; Conditions</a></span></span>&nbsp;| <a class="internal" style="text-decoration: underline; font-size: 0.75rem; color: black;" title="Bonus Policy" href="/en/policies/bonus-policy">Bonus Policy</a> |&nbsp;<a class="internal" style="text-decoration: underline; font-size: 0.75rem; color: black;" title="Privacy Policy" href="/en/policies/privacy-policy">Privacy Policy</a>&nbsp;|&nbsp;<a class="internal" style="text-decoration: underline; font-size: 0.75rem; color: black;" href="/en/support">Contact Us</a>&nbsp;|&nbsp;<a class="external" style="text-decoration: underline; font-size: 0.75rem; color: black;" title="Plugin" href="http://download.ongamepoker.com/ago/gc/gc-browser-plugin-client_2.1.10.1.msi">Plugin for PC</a> | <a class="external" style="text-decoration: underline; font-size: 0.75rem; color: black;" title="Plugin" href="http://download.ongamepoker.com/ago/gc/gc-browser-plugin-client%202.1.10.1.dmg">Plugin for Mac</a>&nbsp;</span></p>
-<p>Know When to Stop Before You Start® Gambling Problem? Call 1-800-GAMBLER</p>
-<p><br>&nbsp;<br>©2014, Caesars Interactive Entertainment, Inc. All Rights Reserved. The use of this website is governed by NJ law</p>
-</center>
-<p></p>
-</div>
-</div>
-</div>
-<div class="pure-g-r">
-<div class="footer-dark">
-<div class="pure-max-width-wide">
-<div class="pure-u-L-1-3 pure-u-S-1">
-<div class="contact-area">
-<dl>
-<dd>
-contact us
-</dd>
-<dt class="chat-icon">
-<a href="https://chat.caesarscasino.com/caesarscasino/en/chat"></a>
-</dt>
-<dt class="email-icon">
-<a href="mailto:NJSupport@CaesarsCasino.com"></a>
-</dt>
-</dl>
-</div>
-</div>
-<div class="pure-u-L-1-3 pure-u-S-1">
-<ul class="play-now">
+<div class="casino-logos">
+<ul>
 <li>
-<a href="/en/all-games">
-ALL GAMES
+<a href="" rel="nofollow">
+<span class="casino-logo casino-logo-caesars-casino"></span>
+</a>
+</li>
+<li>
+<a href="http://www.wsop.com/?utm_source=188&amp;utm_campaign=439&amp;utm_medium=crossmarketing&amp;sr=2554639" rel="nofollow">
+<span class="casino-logo casino-logo-wsop"></span>
+</a>
+</li>
+<li>
+<a href="http://www.harrahscasino.com/?utm_source=188&amp;utm_campaign=439&amp;utm_medium=crossmarketing&amp;sr=2086653" rel="nofollow">
+<span class="casino-logo casino-logo-harrahs"></span>
+</a>
+</li>
+<li>
+<a href="https://www.totalrewards.com/content/cet-tr/en.html" rel="nofollow">
+<span class="casino-logo casino-logo-total-rewards"></span>
 </a>
 </li>
 </ul>
 </div>
-<div class="pure-u-L-1-3 pure-u-S-1">
+<div class="partner-logos">
+<ul>
+<li>
+<a class="partner-logo partner-logo-caesars" href="http://www.caesars.com" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-harrahs" href="http://www.harrahs.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-ballys" href="http://www.ballys.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-flamingo" href="http://www.flamingolasvegas.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-grandbiloxi" href="http://www.grandcasinobiloxi.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-harveys" href="http://www.harveystahoe.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-linq" href="http://www.caesars.com/thelinq/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-nobu" href="http://www.nobucaesarspalace.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-cgl" href="" rel="nofollow"></a>
+</li>
+</ul>
+<ul>
+<li>
+<a class="partner-logo partner-logo-horseshoe" href="http://www.horseshoe.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-wsop" href="http://www.wsop.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-paris" href="http://www.parislasvegas.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-planethollywood" href="http://www.planethollywoodresort.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-quad" href="http://www.thequadlv.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-rio" href="http://www.riolasvegas.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-roadhouse" href="http://www.tunica-roadhouse.com/" rel="nofollow"></a>
+</li>
+<li>
+<a class="partner-logo partner-logo-lci" href="http://www.lciclubs.com/" rel="nofollow"></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
 <div class="social-area">
 <dl>
-<dd>
-Connect With Us
-</dd>
 <dt class="twitter-icon">
 <a href="https://twitter.com/CaesarsOnline"></a>
 </dt>
@@ -698,11 +787,27 @@ Connect With Us
 <a href="https://www.facebook.com/CaesarsOnline"></a>
 </dt>
 <dt class="google-plus-icon">
-<a href="https://plus.google.com/b/118307966387151540329/118307966387151540329/posts"></a>
+<a href="https://plus.google.com/104659606480419158436/posts"></a>
 </dt>
 </dl>
 </div>
+<div class="pure-u-L-1 pure-u-S-1">
+<div class="pure-max-width-wide">
+<div class="footer-text">
+<p>
+</p><center>
+<p>Caesars welcomes those that are of legal casino gambling age to our website.</p>
+<div itemtype="http://schema.org/LocalBusiness" itemscope="">
+<p><span itemprop="name">CaesarsCasino.com</span> is owned by <span itemprop="brand">Caesars Interactive Entertainment, Inc.</span></p>
+<div itemprop="address" itemtype="http://schema.org/PostalAddress" itemscope="">
+<p>Caesars Atlantic City, <span itemprop="streetAddress">2100 Pacific Avenue</span> <span itemprop="addressLocality">Atlantic City</span>, <span itemprop="addressRegion">NJ</span> <span itemprop="postalcode">08401</span></p>
 </div>
+</div>
+<p><a class="internal" style="text-decoration: underline; font-size: 0.75rem;" title="Responsible Gaming" href="/en/policies/responsible-gaming-policy">Responsible Gaming</a> | <a class="internal" style="text-decoration: underline; font-size: 0.75rem;" title="Patron Protection" href="/en/policies/patron-protection">Patron Protection</a> | <span><span><span><a class="internal" style="text-decoration: underline; font-size: 0.75rem;" title="Terms and Conditions" href="/en/policies/terms-conditions">Terms &amp; Conditions</a></span></span> | <a class="internal" style="text-decoration: underline; font-size: 0.75rem;" title="Bonus Policy" href="/en/policies/bonus-policy">Bonus Policy</a> | <a class="internal" style="text-decoration: underline; font-size: 0.75rem;" title="Privacy Policy" href="/en/policies/privacy-policy">Privacy Policy</a> | <a class="internal" style="text-decoration: underline; font-size: 0.75rem;" href="/en/support">Contact Us</a> | <a class="external" style="text-decoration: underline; font-size: 0.75rem;" title="Plugin" href="https://ums.geocomply.com/installer/url?id=JbEYeGu5I1&amp;os=win&amp;version=3.0.2.10">Plugin for PC</a> | <a class="external" style="text-decoration: underline; font-size: 0.75rem;" title="Plugin" href="https://ums.geocomply.com/installer/url?id=JbEYeGu5I1&amp;os=mac&amp;version=3.0.2.10">Plugin for Mac</a> </span></p>
+<p>Know When to Stop Before You Start® Gambling Problem? Call 1-800-GAMBLER</p>
+<p><br> <br>©2015, Caesars Interactive Entertainment, Inc. All Rights Reserved. The use of this website is governed by NJ law</p>
+</center>
+<p></p>
 </div>
 </div>
 </div>
@@ -712,6 +817,7 @@ Connect With Us
 </div>
 
 </div>
+<div id="geocomply-container" style="display: none;"></div>
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -721,13 +827,27 @@ ga('create', 'UA-45292744-1', 'caesarscasino.com', {'siteSpeedSampleRate': 100})
 ga('send', 'pageview');
 </script>
 
-<input class="login_time" type="hidden">
-<input class="download-link-mac" type="hidden" value="http://download.ongamepoker.com/ago/gc/gc-browser-plugin-client%202.1.10.1.dmg">
-<input class="download-link-win" type="hidden" value="http://download.ongamepoker.com/ago/gc/gc-browser-plugin-client_2.1.10.1.msi">
-<input class="plugin-version" type="hidden" value="2.1.10">
-<object height="1" id="gcbrowserpluginclient" style="position: absolute; bottom: 0" type="application/x-gcbrowserpluginclient_2_1_10" width="1"></object>
+<aside class="side-tab social-area">
+<a class="customer-support" href="https://www.caesarscasino.com/en/support">24/7 support</a>
+<dl>
+<dt class="twitter-icon">
+<a href="https://twitter.com/CaesarsOnline"></a>
+</dt>
+<dt class="facebook-icon">
+<a href="https://www.facebook.com/CaesarsOnline"></a>
+</dt>
+<dt class="google-plus-icon">
+<a href="https://plus.google.com/104659606480419158436/posts"></a>
+</dt>
+</dl>
+</aside>
 
-<script src="https://caesars.amayagaming.net/assets/caesars-2abc0579f57604b96d7d668d5cd1c410.js" type="text/javascript"></script>
+<input class="login_time" type="hidden">
+<input class="download-link-mac" type="hidden" value="https://ums.geocomply.com/installer/url?id=JbEYeGu5I1&amp;os=mac&amp;version=3.0.2.10&amp;user_id=PLAYER_ID">
+<input class="download-link-win" type="hidden" value="	 https://ums.geocomply.com/installer/url?id=JbEYeGu5I1&amp;os=win&amp;version=3.0.2.10&amp;user_id=PLAYER_ID">
+<input class="plugin-version" type="hidden" value="3.0.2.10">
+
+<script async="async" defer="defer" src="https://caesars.amayagaming.net/assets/caesars-2b7d9d4eaf01b02e0e3a8d0648bf0604.js" type="text/javascript"></script>
 
 
 
