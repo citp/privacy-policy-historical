@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the baremetrics.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316215350id_/https%3A//baremetrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baremetrics.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905140342id_/https%3A//baremetrics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last revised on August 14, 2014
+Last revised on July 27, 2015
 
 Baremetrics, Inc  
 1900 Corporate Dr #380024  
@@ -10,7 +10,7 @@ Birmingham, AL 35238
 
 ### The Gist
 
-Baremetrics will collect certain non-personally identify information about you as you use our sites. We may use this data to better understand our users. We can also publish this data, but the data will be about a large group of users, not individuals.
+Baremetrics will collect certain non-personally identify information about you as you use our sites. We may use this data to better understand our users. We can also publish this data, but the data will be about a large group of users, not individuals. We may also collect certain personal information about you and your use of the Service (as defined herein) which may be published and used in the aggregate as set forth in this Privacy Policy.
 
 We will also ask you to provide personal information, but you’ll always be able to opt out. If you give us personal information, we won’t do anything evil with it.
 
@@ -22,7 +22,7 @@ That’s the basic idea, but you must read through the entire Privacy Policy bel
 
 This document is based upon the [Automattic Privacy Policy](http://automattic.com/privacy/) and is licensed under [Creative Commons Attribution Share-Alike License 2.5](http://creativecommons.org/licenses/by-sa/2.5/). Basically, this means you can use it verbatim or edited, but you must release new versions under the same license and you have to credit Automattic somewhere (like this!). Automattic is not connected with and does not sponsor or endorse Baremetrics or its use of the work.
 
-Baremetrics makes available services include our web sites (http://baremetrics.com/), our blog, our API, and any other software, sites, and services offered by Baremetrics in connection to any of those (taken together, the “Service”). It is Baremetrics’s policy to respect your privacy regarding any information we may collect while operating our websites.
+Baremetrics makes available services include our web sites (http://baremetrics.com (the “Site”)), our blog, our API, and any other software, sites, and services offered by Baremetrics in connection to any of those (taken together, the “Service”). It is Baremetrics’s policy to respect your privacy regarding any information we may collect while operating our Site.
 
 ### Questions
 
@@ -42,15 +42,23 @@ Additionally, some interactions, such as posting a comment, may ask for optional
 
 ### Aggregated Statistics
 
-Baremetrics may collect statistics about the behavior of visitors to and users of the Service. For instance, Baremetrics may monitor the most popular parts of the http://baremetrics.com/. Baremetrics may display this information in the aggregate publicly or provide it to others. However, Baremetrics does not disclose personally-identifying information other than as described below.
+Baremetrics may collect statistics about the behavior of visitors to and users of the Service. For instance, Baremetrics may monitor the most popular parts of the Baremetrics Site. Baremetrics may display this information in the aggregate publicly or provide it to others.
+
+In addition, Baremetrics may, from time to time, collect certain personal information from you, your use of the Services, and/or the users of your website, such as your user churn rate, your financial data and revenue, your conversation rates and other metrics (your “Data”). Baremetrics may publish and display your Data in the aggregate to the public through our Site or on our blog, e.g. by publishing a report on average churn rates on the Site. However, all Data is only used and published in the aggregate which means that any published Data will not identify you, your website, your company or your users, or link you to the published information in any way. If you wish to opt out of the publication of your Data, please contact us as hello@baremetrics.com.
+
+Baremetrics does not disclose personally-identifying information other than as described below.
 
 ### Protection of Certain Personally-Identifying Information
 
-Baremetrics discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Baremetrics’s behalf or to provide services available at Baremetrics’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Service, you consent to the transfer of such information to them. Baremetrics will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Baremetrics discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Baremetrics believes in good faith that disclosure is reasonably necessary to protect the property or rights of Baremetrics, third parties or the public at large. If you are a registered user of the Service and have supplied your email address, Baremetrics may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Baremetrics and our products. We primarily use our website and blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Baremetrics takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Baremetrics discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Baremetrics’ behalf or to provide services available at Baremetrics’ Site websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Service, you consent to the transfer of such information to them. Baremetrics will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Baremetrics discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Baremetrics believes in good faith that disclosure is reasonably necessary to protect the property or rights of Baremetrics, third parties or the public at large. If you are a registered user of the Service and have supplied your email address, Baremetrics may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Baremetrics and our products. We primarily use our website and blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Baremetrics takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
 ### Cookies
 
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the Service each time the visitor returns. Baremetrics uses cookies to help Baremetrics identify and track visitors, their usage of Baremetrics Service, and their Service access preferences. Baremetrics visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Baremetrics’s websites, with the drawback that certain features of Baremetrics’s websites may not function properly without the aid of cookies.
+
+### Business Transfers
+
+If Baremetrics, or substantially all of its assets, were acquired, or in the unlikely event that Baremetrids goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Baremetrics may continue to use your personal information as set forth in this policy.
 
 ### Data Storage
 
