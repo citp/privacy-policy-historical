@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lycamobile.co.uk privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531052127id_/http%3A//www.lycamobile.co.uk/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycamobile.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905105107id_/http%3A//www.lycamobile.co.uk/en/privacy) for the most accurate reproduction.*
 
-# Lycamobile | Privacy Policy
+# Privacy Policy | Lycamobile
 
 [ ](javascript:;) **INTRODUCTION**
 
