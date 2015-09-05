@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findingtheuniverse.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507232835id_/http%3A//www.findingtheuniverse.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findingtheuniverse.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185824id_/http%3A//www.findingtheuniverse.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Finding the universe
 
 Fair Information Practices 
 
