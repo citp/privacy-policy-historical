@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007215210id_/http%3A//www.brookings.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905123548id_/http%3A//www.brookings.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Brookings Privacy Policy | Brookings Institution
 
@@ -34,7 +34,7 @@ Our Website is not intended for children under 13 years of age. No one under age
 
 **Communications from the Site**
 
-_Newsletters and Products_ _ _ _  
+_Newsletters and Products  
 _  
 If you wish to subscribe to our electronic newsletter(s) or receive other materials, we will use your email address to send the requested materials. We always provide a way to unsubscribe or opt out. Please see the "Choice/Opt-out" section below.
 
@@ -42,7 +42,7 @@ _Customer Service and Profile_
 
 Based upon the personally identifiable information you provide us (i.e., your "profile"), we may send you a welcome email to verify your enrollment when you subscribe to an electronic newsletter, and we may send occasional emails notifying you of email products that may be of interest to you. 
 
-In addition, we may store information that we collect through cookies, log files, transparent gifs and other technologies to create a "profile" of your preferences.  Please see the "Website Tools" section below.
+In addition, we may store information that we collect through cookies, log files, transparent gifs and other technologies to create a "profile" of your preferences. Please see the "Website Tools" section below.
 
 _Choice/Opt-out_
 
@@ -68,6 +68,10 @@ We may disclose personal information that we collect or you provide as described
   * With your consent.
 
 
+
+_Donors_
+
+We will not trade, share or sell a donor's personal information with anyone else, nor send donor mailings on behalf of other organizations. __
 
 _Agents_
 
@@ -99,7 +103,7 @@ Cookies (or browser cookies). A cookie is a small file placed on the hard drive 
 
 Flash cookies. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies.
 
-Session IDs. Session IDs are stored on your computer's memory only during a user's browsing session and are automatically deleted from the user's computer when the session is closed.  This means that the Website may remember your data or actions during one browsing session, but the Website cannot retrieve session IDs from your machine that do not persist (and session IDs by default expire when the browser shuts down).
+Session IDs. Session IDs are stored on your computer's memory only during a user's browsing session and are automatically deleted from the user's computer when the session is closed. This means that the Website may remember your data or actions during one browsing session, but the Website cannot retrieve session IDs from your machine that do not persist (and session IDs by default expire when the browser shuts down).
 
 We may use any of these types of cookies on our Website. Cookies and flash cookies are stored on the site visitor's hard drive.
 
@@ -109,7 +113,7 @@ If you reject cookies on your browser, you may still use our site, but your abil
 
 _Transparent images and Web Beacons/Web Bugs_
 
-Pages of our the Website may contain small electronic files known as Web Beacons (also referred to as web bugs, clear gifs, pixel tags and single-pixel gifs) that permit Brookings, for example, to count users who have visited those pages or for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).  Web Beacons and other transparent images are embedded invisibly on web pages. In addition, we may use these transparent images in our HTML-based emails and newsletters to help us gauge the effectiveness of our electronic communications. If you would like to opt out of these, please see "Choice/Opt-out." You can also request to receive text-only electronic newsletters, which do not contain transparent images.
+Pages of our the Website may contain small electronic files known as Web Beacons (also referred to as web bugs, clear gifs, pixel tags and single-pixel gifs) that permit Brookings, for example, to count users who have visited those pages or for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). Web Beacons and other transparent images are embedded invisibly on web pages. In addition, we may use these transparent images in our HTML-based emails and newsletters to help us gauge the effectiveness of our electronic communications. If you would like to opt out of these, please see "Choice/Opt-out." You can also request to receive text-only electronic newsletters, which do not contain transparent images.
 
 Though we do not currently use Web Beacons in our emails, we reserve the right to do so at some future date. In that case, this Privacy Policy will be updated accordingly (see "Changes in this Privacy Statement," below).
 
@@ -119,7 +123,7 @@ This website contains links to other sites that are not owned or controlled by T
 
 **Access to and Removal of Personally Identifiable Information**
 
-You may correct, update or deactivate your personally identifiable information by emailing us at [communications@brookings.edu](mailto:communications@brookings.edu), or by contacting us by telephone or postal mail at the contact information listed below.
+You may correct, update or deactivate your personally identifiable information by emailing us at [communications@brookings.edu](mailto:communications@brookings.edu), or by contacting us by telephone or postal mail at the contact information listed below.
 
 **Security**
 
@@ -149,11 +153,11 @@ Contact Us
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
-The Brookings Institution   
-1775 Massachusetts, Ave, NW   
-Washington, DC 20036   
+The Brookings Institution   
+1775 Massachusetts, Ave, NW   
+Washington, DC 20036   
 202.797.6000
 
 [communications@brookings.edu](mailto:communications@brookings.edu)
 
-_Last Updated:  September 10, 2013 _
+_Last Updated: November 12, 2014_
