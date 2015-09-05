@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322102238id_/https%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905101250id_/https%3A//www.qut.edu.au/additional/privacy) for the most accurate reproduction.*
 
 # QUT - Privacy
 
@@ -74,4 +74,4 @@ QUT is commited to protecting the privacy of personal information in accordance 
 
 Please be aware that QUT uses a third party agent, based in Australia, to host this online enquiry web form and respond to international student enquiries. This agent is contractually bound to treat any personal information with the same level of privacy protection as QUT. In using this site you acknowledge that it may be necessary for the agent to have access to personal information in order to perform its contract with QUT. Staff of the agent or QUT will not otherwise disclose your personal information to third parties without your consent, except in response to legal requirements.
 
-[International enquiries form](https://www.qut.edu.au/international/enquire)
+[International enquiries form](https://www.qut.edu.au/international/stay-connected)
