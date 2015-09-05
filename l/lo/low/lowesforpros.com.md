@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lowesforpros.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513083629id_/http%3A//www.lowes.com/cd_Privacy%2Band%2BSecurity%2BStatement_137461171_) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowesforpros.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905151919id_/http%3A//www.lowes.com/en_us/l/privacy-and-security-statement.html) for the most accurate reproduction.*
 
 # Privacy-and-Security-Statement
 
-### Effective Date: February 19, 2015
+### Effective Date: August 20, 2015
 
 [Spanish Version](http://www.lowes.com/en_us/l/privacy-and-security-statement-spanish.html)
 
@@ -31,7 +31,7 @@ This Privacy Statement _does not apply_ to:
 
   * Certain U.S. subsidiaries, affiliates and product lines, which are subject to their own privacy statements and policies, including [Orchard Supply Company, LLC](http://www.osh.com/PrivacyPolicy), [Iris Smart Home](https://www.irissmarthome.com/myhome/terms), [ATGStores.com](http://www.atgstores.com/about/privacy.aspx) and [Alacrity Services](http://www.alacrityservices.com/privacy.aspx) or Lowe’s relationship with [Porch.com](http://porch.com/about/privacy/);
   * Credit-related products (such as Lowe’s branded credit cards issued by banks), which are covered by the issuing banks’ privacy notices that appear on the credit applications or that you receive in connection with your credit accounts;
-  * Third-party websites that are linked to or accessible from Lowe’s websites or that are operated by unaffiliated parties, even though the website may contain references to Lowe’s. For example, it does not apply to the Lowe’s Weekly Ads pages at lowes.shoplocal.com, which is operated by ShopLocal LLC, and governed by ShopLocal’s [privacy notice](http://lowes.shoplocal.com/Lowes/Legal/SLTerms/?ispartial=y&amp;amp;amp;amp;amp;amp;amp;amp;amp;StoreID=2595833#privacy); and
+  * Third-party websites that are linked to or accessible from Lowe’s websites or that are operated by unaffiliated parties, even though the website may contain references to Lowe’s. For example, it does not apply to the Lowe’s Weekly Ads pages at lowes.shoplocal.com, which is operated by ShopLocal LLC, and governed by ShopLocal’s [privacy notice](http://lowes.shoplocal.com/Lowes/Legal/SLTerms/?ispartial=y&amp;amp;amp;amp;amp;amp;amp;StoreID=2595833#privacy); and
   * Lowe’s employment-related records (other than job applicant information submitted through the Career Portal).
 
 
@@ -160,9 +160,9 @@ To stop receiving newsletters from Lowes.com, you also may email [customercare@l
 
 Please note that we may continue to send transactional emails, which contain information about a prior purchase or an ongoing service, even if you opt-out of marketing emails or newsletters.
 
-### Interest-Based Advertising
+### Interest-Based and Other Targeted Advertising
 
-To exercise your preferences regarding the collection and use of data for online, interest-based advertising, please follow the directions in the Interest-Based Advertising section below.
+To exercise your preferences regarding the collection and use of data for online, interest-based and other targeted advertising, please follow the directions in the Interest-Based and Other Targeted Advertising section below.
 
 ### In-Store Wi-Fi
 
@@ -182,11 +182,13 @@ We do not collect personally identifiable information about users’ online acti
 
 As described in the Interest-Based Advertising section below, however, we do participate in online advertising networks administered by third parties, and we may share information about activities on our websites with those networks, which may track your online activities over time and across third-party websites.
 
-### Interest-Based Advertising
+### Interest-Based and Other Targeted Advertising
 
-We collect data about your activities on our websites and applications for use in providing advertising tailored to your individual interests, and we may share information about activities on our websites with advertising networks administered by third parties. These ad networks track your online activities over time and across websites by collecting information through automated means, and they use this information to show you advertisements that are tailored to your individual interests. The information they collect includes information about your visits to our websites, such as the pages you have viewed. This collection and ad targeting takes place both on our websites and on third-party websites that participate in the ad network, such as sites that feature advertisements delivered by the ad network. As a result, you may see certain ads on other websites based on prior activity on our websites.
+We collect data about your activities on our websites and applications for use in providing advertising tailored to your individual interests, and we may share information about activities on our websites with advertising networks administered by third parties. These ad networks track your online activities over time and across websites by collecting information through automated means, and they use this information to show you advertisements that are tailored to your individual interests. The information they collect includes information about your visits to our websites, such as the pages you have viewed. This collection and ad targeting takes place both on our websites and on third-party websites that participate in the ad network, such as sites that feature advertisements delivered by the ad network. As a result, you may see certain ads on other websites based on prior activity on our websites and vice versa.
 
 The Digital Advertising Alliance (DAA) has created guidance for online advertisers and provided a mechanism for such advertisers to comply with users’ choices regarding interest-based ads. To learn more about ad networks, including how to opt out of interest-based ads, [click here.](http://www.aboutads.info/choices/)
+
+We may also utilize third-party services, such as LiveRamp, that may allow us to associate your prior Lowe’s transaction data (online or in-store) with an anonymous ID, which can then be used to target more relevant Lowe’s advertising to you on other websites and online platforms. These services use anonymous IDs that do not contain any personal information or otherwise identify you. To learn more about LiveRamp and how to opt-out of targeted ads from Lowe’s and other companies that use the LiveRamp ID, [click here.](http://liveramp.com/opt_out/)
 
 Our online services may include social media features (for example, a Facebook “Like” button). These features are connected to third-parties and may allow such third parties to collect certain information, such as your IP address and which pages you visit on our websites. These social media features are not operated by Lowe’s. Your interactions with these features are governed by the privacy policies of the company providing the features.
 
