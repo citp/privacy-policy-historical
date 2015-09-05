@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317091510id_/https%3A//www.horizonhobby.com/content/support-render-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905095254id_/http%3A//www.horizonhobby.com/content/support-render-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HorizonHobby
 
@@ -6,7 +6,7 @@
 
 Thank you for visiting HORIZON HOBBY, LLC's web site. This site is governed by the Privacy Policy of Horizon Hobby and discloses the consumer privacy practices of the Horizon Hobby website. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Horizon Hobby’s web site.
 
-You can freely access much of our website without providing any personal information. Certain areas of our website, for example purchasing products, entering contests, filling out surveys, and receiving newsletters, emails or other promotional information from us, require that you submit some personal information. We do not collect any personal information without your knowledge! We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience.
+You can freely access much of our website without providing any personal information. Certain functions of our website, for example purchasing products, entering contests, filling out surveys, and receiving newsletters, emails or other promotional information from us, require that you submit some personal information. We do not collect any personal information without your knowledge! We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience.
 
 This is just a brief overview, so please read on for more details about our Privacy Policy. We reserve the right to make changes to our site, policies, and these Terms and Conditions at any time, so please check back periodically.
 
@@ -21,9 +21,9 @@ What information does HORIZON HOBBY, LLC's Online Catalog collect from you? In o
 
 ## Personally Identifiable Information
 
-This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product, register for a Wish List, enter contests or sweepstakes, fill out surveys, send us feedback and send us mailings. For example, this information might but is not limited to include your name, billing address, shipping address, telephone number, email address, credit card or other payment information, and product details. With this information, HORIZON HOBBY, LLC's Online Catalog can fill your orders and better provide you with personalized services.
+This refers to information that lets us know the specifics of who you are. Personal information is requested when you order a product, register for a Wish List, enter contests or sweepstakes, fill out surveys, send us feedback and send us mailings. For example, this information might include but is not limited to your name, billing address, shipping address, telephone number, email address, credit card or other payment information, and product details. With this information, HORIZON HOBBY, LLC's Online Catalog can fill your orders and better provide you with personalized services.
 
-If you visit HORIZON HOBBY, LLC or one of the sites available through a link on our site, the site holder will independently collect, use and share your personal information in accordance with their own privacy policies. If you have questions about their information practices, please read their privacy policies. Horizon Hobby is not responsible for any information these third parties share.
+If you visit HORIZON HOBBY, LLC or one of the sites available through a link on our site, the site holders will independently collect, use and share your personal information in accordance with their own privacy policies. If you have questions about their information practices, please read their privacy policies. Horizon Hobby is not responsible for any information these third parties share.
 
 ## Non-Personally Identifiable Information
 
@@ -31,9 +31,9 @@ This refers to information that does not by itself identify a specific individua
 
 ## Where do we collect information from you and how do we use it?
 
-Our primary goal in collecting personal information is to provide HORIZON HOBBY, LLC's Online Catalog's visitors with a superior customized online experience. We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and administer our systems through any other means deemed so to improve the customer’s experience.
+Our primary goal in collecting personal information is to provide HORIZON HOBBY, LLC's Online Catalog's visitors with a superior customized online experience. We use the customer contact information to fill orders, to contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and to administer our systems through any other means deemed to improve the customer’s experience.
 
-We review the actions of the HORIZON HOBBY, LLC's Online Catalog visitors on an aggregate basis to determine customers' preferences. HORIZON HOBBY, LLC's Online Catalog also does research on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, a promotion, from our server log files, from contests, drawings or surveys. We use resources such as, but not limited to Coremetrics and BazzarVoice to provide us with the more reliable information. We will use this data to tailor the visitor's experience at our site, to improve our marketing and promotional efforts, to statistically analyze site use, to improve our product offerings, and to customize our site's content, layout, and services.
+We review the actions of the HORIZON HOBBY, LLC's Online Catalog visitors on an aggregate basis to determine customers' preferences. HORIZON HOBBY, LLC's Online Catalog also does research on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, through a promotion, from our server log files, and from contests, drawings or surveys. We use resources such as, but not limited to Coremetrics and BazaarVoice to provide us with the most reliable information. We will use this data to tailor the visitor's experience at our site, to improve our marketing and promotional efforts, to statistically analyze site use, to improve our product offerings, and to customize our site's content, layout, and services.
 
 HORIZON HOBBY, LLC's Online Catalog also shares your personally identifiable information gained only through analytics resources with HORIZON HOBBY, LLC and third parties who provide services to us, our customers and website visitors. Those third parties include authorized contractors, temporary employees and consultants and other companies working with us (collectively, "agents"). Where we believe it to be appropriate (in our sole discretion), we will ask our agents not to disclose or use your personal information for purposes other than to provide services to you or HORIZON HOBBY, LLC's Online Catalog.
 
@@ -47,7 +47,7 @@ We collect IP addresses for the purposes of system administration, to gather bro
 
 #### Ordering
 
-When you order from HORIZON HOBBY, LLC's Online Catalog, we collect personally identifiable information from you. If you order one of our products, we will collect and maintain your name, email address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use.
+When you order from HORIZON HOBBY, LLC's Online Catalog, we collect personally identifiable information from you. If you order one of our products, we will collect and maintain your name, email address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contains and these changes will be automatically kept for future use.
 
 #### Online Surveys and Polling
 
@@ -55,7 +55,7 @@ In order to improve our services to you, we ask some of our customers to volunta
 
 #### Contests and Sweepstakes
 
-When you enter a contest or other promotion, we may ask you for contact information such as your name, address and email address in order to administer the contest, to send you promotional emails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information is a condition of your participation. As a condition of receiving any prize, you will be required to submit an Affidavit of Eligibility, for us to ensure that you are eligible to receive the prize according to the Contest Rules.
+When you enter a contest or other promotion, we may ask you for contact information such as your name, address and email address in order to administer the contest, to send you promotional emails, to notify winners and to make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information is a condition of your participation. As a condition of receiving any prize, you will be required to submit an Affidavit of Eligibility, for us to ensure that you are eligible to receive the prize according to the Contest Rules.
 
 #### Newsletters & Promotional Emails
 
@@ -109,7 +109,7 @@ When you access your account information, the information is kept on a secure se
 
 ## A special note about children's privacy
 
-You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 18 years of age. If you are the parent or guardian of a minor under 18 years of age and believe that they have disclosed personally identifiable information to us, please contact us at webmaster@horizonhobby.com so that we may delete the minor's information.
+You must be at least 18 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 18 years of age. If you are the parent or guardian of a minor under 18 years of age and believe that the minor has disclosed personally identifiable information to us, please contact us at webmaster@horizonhobby.com so that we may delete the minor's information.
 
 You should carefully review privacy policies of HORIZON HOBBY, LLC and any third party sites accessible from HORIZON HOBBY, LLC's Online Catalog.
 
