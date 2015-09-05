@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casengo.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514034701id_/https%3A//www.casengo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casengo.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906000612id_/https%3A//www.casengo.com/privacy-policy) for the most accurate reproduction.*
 
 # Casengo | Privacy Policy
 
