@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617050400id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053509id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
 
 # FashionBeans.com Official Privacy Policy
 
 BeansPublishing Limited. (“we”, “our”, “us”) are committed to protecting and respecting your privacy. FashionBeans.com (“website”, “FashionBeans”, “FashionBeans.com”) is operated and run by BeansPublishing Limited, which is registered in England and Wales with Company No. 7740652 and VAT Registration 939 2582 86.
 
-This privacy policy (together with our website [terms and conditions](http://www.fashionbeans.com/terms-and-conditions/) that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [privacy@beanspublishing.com](https://web.archive.org/web/20150617050400id_/http%3A//www.fashionbeans.com/mailto@privacy@beanspublishing.com).
+This privacy policy (together with our website [terms and conditions](http://www.fashionbeans.com/terms-and-conditions/) that apply to your use of our website) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us at [privacy@beanspublishing.com](https://web.archive.org/web/20150905053509id_/http://www.fashionbeans.com/privacy-policy/mailto@privacy@beanspublishing.com).
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is BeansPublishing Limited. of Ventura House, Ventura Park Road, Tamworth, Staffordshire, B78 3HL.
 
@@ -56,9 +56,9 @@ Most browsers allow you to turn off the cookie function. If you want to know how
 
 ##### Use Of Your Information
 
-We will use your information to provide and personalise our service. We will also use your contact details to communicate our weekly newsletter with you only if you have opted in. We may use your information to send you offers and news about BeansPublishing Limited products and services. We will never sell your information to third parties without your prior consent. We may contact you by email for these purposes stated above.
+We will use your information to provide and personalise our service. We will also use your contact details to communicate our weekly newsletter with you, if you have opted in or entered one of our competitions. We may use your information to send you offers and news about BeansPublishing Limited products and services. We will never sell your information to third parties without your prior consent. We may contact you by email for these purposes stated above.
 
-If you have subscribed to FashionBeans.com newsletter (or any BeansPublishing Limited website), you will be provided with an unsubscribe link in every mail we send you; which can be used if the mailing does not suit your personal taste or requirements.
+If you have subscribed to FashionBeans.com newsletter (or any BeansPublishing Limited website), you will be provided with an unsubscribe link in every mail we send you, which can be used if the mailing does not suit your personal taste or requirements.
 
 We like to hear your views to help us improve our service. From time to time, we may contact you by email. Again, if you do not want to be contacted for this purpose, you can unsubscribe at any time.
 
@@ -89,7 +89,7 @@ We may contact you in these circumstances:
 
 ##### Disclosure Of Your Information
 
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985. We will never pass your personal data to anyone else.
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985.
 
 In the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets. Likewise, if FashionBeans.com or all of its assets are acquired by a third party, personal data held about its customers will be one of the transferred assets.
 
@@ -148,4 +148,4 @@ Tamworth,
 Staffordshire,  
 B78 3HL
 
-Alternatively, you can email us at: [privacy@beanspublishing.com](https://web.archive.org/web/20150617050400id_/http%3A//www.fashionbeans.com/mailto@privacy@beanspublishing.com).
+Alternatively, you can email us at: [privacy@beanspublishing.com](https://web.archive.org/web/20150905053509id_/http://www.fashionbeans.com/privacy-policy/mailto@privacy@beanspublishing.com).
