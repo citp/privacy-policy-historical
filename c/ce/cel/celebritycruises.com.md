@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritycruises.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627171552id_/http%3A//www.celebritycruises.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritycruises.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053821id_/http%3A//www.celebritycruises.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Pages | Celebrity Cruises
 
@@ -9,7 +9,7 @@
 At Celebrity Cruises Inc. (Celebrity), we are committed to protecting your personal information that you share with us through the Internet.
 
   
-This statement sets forth our privacy policy regarding information you provide to us through the use of our Web site. This statement also provides you with information on how to prevent your personal information from being collected or shared when you visit our Web site, respond to our Web-based promotions or send us an [e-mail](https://secure.celebritycruises.com/footer/contactUsEmailForm "Contact Us").
+This statement sets forth our privacy policy regarding information you provide to us through the use of our Web site. This statement also provides you with information on how to prevent your personal information from being collected or shared when you visit our Web site, respond to our Web-based promotions or send us an [e-mail](https://web.archive.org/footer/contactUsEmailForm "Contact Us").
 
 ### The Information We Gather
 
