@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607183340id_/http%3A//www.factual.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905220551id_/https%3A//factual.com/privacy) for the most accurate reproduction.*
 
 # Factual | Privacy Policy
 
@@ -84,7 +84,7 @@ Our Site offers a publicly accessible blog. You should be aware that any informa
 
 Our Site includes social media features, such as the Facebook Like button. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
-###### California Residents
+### California Residents
 
 Under California Civil Code sections 1798.83-1798.84, users who are California residents are entitled to request and receive once a year, free of charge, a notice from us describing what categories of personal customer information we share with third parties for their direct marketing purposes. That notice will identify the categories of information shared, the third parties and affiliates with which it was shared, and their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to Factual Inc., 1999 Avenue of the Stars, 35th Floor, Los Angeles, CA 90067. In your request, please specify that you want a “California Privacy Rights Notice.” Please allow at least thirty days for a response. 
 
