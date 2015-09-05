@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexminecrafthosting.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509173743id_/http%3A//apexminecrafthosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexminecrafthosting.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905190013id_/http%3A//apexminecrafthosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Apex Minecraft Hosting
 
