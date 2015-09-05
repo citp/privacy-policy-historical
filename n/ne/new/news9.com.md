@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news9.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235542id_/http%3A//www.news9.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news9.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905164822id_/http%3A//www.news9.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - News9.com - Oklahoma City, OK - News, Weather, Video and Sports |
 
