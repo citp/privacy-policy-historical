@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408233154id_/http%3A//www.idaho.gov/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052856id_/http%3A//www.idaho.gov/home/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Idaho.gov
 
@@ -59,7 +59,7 @@ In the State of Idaho, laws exist to ensure that government is open and that the
 
 We strive to protect personally identifiable information by collecting only information necessary to deliver our services. All information collected at this site becomes a public record that may be subject to inspection and copying by the public, unless an exemption in law exists.
 
-In the event of a conflict between this Idaho.Gov Portal Privacy Notice and the Idaho Open Records Law, or other laws governing the disclosure of records, the Idaho Open Records Law or other applicable laws will control.
+In the event of a conflict between this Idaho.Gov Portal Privacy Notice and laws governing the disclosure of records, the applicable laws will control.
 
 ### Access Idaho Premium Service and Customer Information for Idaho.gov
 
@@ -95,7 +95,7 @@ Idaho.gov uses cookies for the following purposes:
 
 ### Security
 
-The Information Technology Resource Management Council (ITRMC) has put policies in place and taken several steps through the Department of Administration (DOA) to safeguard the integrity of its telecommunications and computing infrastructure, including, but not limited to, authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire DOA operating environment as part of its continuing commitment to risk management.
+The Idaho Technology Authority (ITA) has put policies in place and taken several steps through the Department of Administration (DOA) to safeguard the integrity of its telecommunications and computing infrastructure, including, but not limited to, authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire DOA operating environment as part of its continuing commitment to risk management.
 
 This information should not be construed in any way as giving business, legal, or other advice nor as warranting a fail-proof security of information provided through DOA supported web sites.
 
@@ -118,6 +118,6 @@ Any trademarks that appear on this site are the property of their respective own
 
 ### Contact Information
 
-To offer comments about Idaho.gov or this Portal Privacy Notice, please see ITRMC's [contact information](http://itrmc.idaho.gov/contact.html).
+To offer comments about Idaho.gov or this Portal Privacy Notice, please see ITA's [contact information](http://ita.idaho.gov/contact.aspx).
 
-[Full Text of State Policy](http://itrmc.idaho.gov/psg/p1020.pdf) [PDF]
+[Full Text of State Policy](http://ita.idaho.gov/psg/p1020.pdf) [PDF]
