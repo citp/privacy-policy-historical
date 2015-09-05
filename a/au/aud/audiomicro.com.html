@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the audiomicro.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316090335id_/http%3A//www.audiomicro.com/legal-doc/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the audiomicro.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905090934id_/http%3A//www.audiomicro.com/legal-doc/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy</title>
@@ -24,8 +24,8 @@
 </style>
 
  	 	
-    <link rel="stylesheet" type="text/css" href="/css/all.css?20150315131311">
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/ef3bc062ca8509f577402357616a0b10411a6771.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" src="/js/all.js?20150315131311"></script>
+    <link rel="stylesheet" type="text/css" href="/css/all.css?20150828155319">
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/ef3bc062ca8509f577402357616a0b10411a6771.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" src="/js/all.js?20150828155319"></script>
 
 
 
@@ -64,662 +64,766 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
         <img src="/ajax-player/ajaxSpinner.gif" style="height: 50px;position: fixed;top: 45%;left: 49%;">
     </div>
 
-<link rel="stylesheet" type="text/css" href="/ajax-player/plugin/css/style.css?1">
+<link rel="stylesheet" type="text/css" href="/ajax-player/plugin/css/style.css?2">
 <script type="text/javascript" src="/ajax-player/plugin/jquery-jplayer/jquery.jplayer.js"></script>
 <script type="text/javascript" src="/ajax-player/plugin/ttw-music-player.js"></script>
 
 <script>
+$(document).ready(function () {
+    var isLogged = false;
 
-    $(document).ready(function(){
+    //Change to true to inspect jPlayer calling Events && errors to print them as alert()
+    var debug = false;
 
-			var isLogged = false;
+    var playerIsReady = false;
+    var flash_rollback = false;
 
-			//Change to true to inspect jPlayer calling Events && errors to print them as alert()
-			var debug = false;
+    var ajax_handler = null;
 
-			var playerIsReady = false;
-			var flash_rollback = false;
+    var track_main_block = null;
 
-			var ajax_handler = null;
+    tracks_json = null;
+    packs_json = null;
+    packs = {};
 
-			var track_main_block = null;
-			tracks_json = null;
-			var playlist = [];
-			var data_to_get = {};
+    var playlist = [];
+    var data_to_get = {};
 
-			var playing_index = -1;
+    var playing_index = -1;
 
-			var jPlayer_init = function(){
+    var current_track_id = null;
 
-				/*
-				  Init ttwMusicPlayer (based on jPlayer)
-				  TTW: http://www.codebasehero.com/2011/06/html-music-player/
-				  jPlayer: http://jplayer.org/latest/developer-guide/
-				  To use jPlayer Api you must call it near
-				  $('.jPlayer-container')
-				  Example:
-				  $('.jPlayer-container').jPlayer('play')
-				*/
+    var jPlayer_init = function () {
+        /*
+         Init ttwMusicPlayer (based on jPlayer)
+         TTW: http://www.codebasehero.com/2011/06/html-music-player/
+         jPlayer: http://jplayer.org/latest/developer-guide/
+         To use jPlayer Api you must call it near
+         $('.jPlayer-container')
+         Example:
+         $('.jPlayer-container').jPlayer('play')
+         */
 
-				var jPlayerOptions = {
-					swfPath:'/ajax-player/plugin/jquery-jplayer/',
-					preload: "none",
-					solution: 'html,flash',
-					wmode:'window',
-					errorAlerts: debug,
-					timeFormat: {
-					  padMin: true
-					}
-				};
-
-				//Browsers manual html5.canPlayMp3 detect: jplayer can't make fallback so we're doing it manually
-				if(canPlayMp3WithHtml5() === false){
-					jPlayerOptions.solution = "flash,html";
-				}
-
-				$('#container').ttwMusicPlayer( playlist, {
-				    autoplay:false,
-				    jPlayer:jPlayerOptions
-				});
-
-				afterPlayerCreated();
-			}
-
-
-			var isPlayerActive = function(){
-				if($('.ttw-music-player').css('display') == 'none')
-				  return false;
-				else
-				  return true;
-			}
-
-
-      //Detect HTML5 History is available
-      function historyApiAvailable() {
-        return !!(window.history && history.pushState);
-      }
-
-      //Checking browser for compatibility with mp3
-      //Some of FF 20~ versions can't play mp3 with html5 because there's problems with browser licensing
-      //Details: http://stackoverflow.com/questions/4923136/why-doesnt-firefox-support-mp3-file-format-in-audio
-
-        var canPlayMp3WithHtml5 = function(){
-				    var a = document.createElement('audio');
-	          return (!!(a.canPlayType && a.canPlayType('audio/mpeg;').replace(/no/, '')))
-		    }
-
-
-      var afterPlayerCreated = function(){
-      	//This mean that flash solution is used
-      	if(!$('.ttw-music-player').find('object').length>0)
-      	  $('.ttw-music-player').hide();
-
-      	return;
-      };
-
-
-        /*Global functions: calls in categories list && ajax_search*/
-	        getTracksListFromHtml = function(){
-	          //Reinit for ajax-reload
-	          data_to_get = {};
-	          //Getting Track`s ids
-	          if($('.trackBox-1').length>0){
-              //Categories Page
-	            $('.trackBox-1').each(function(i, element){
-	              var tr_id = $(element).find('.track-box-1-play a:first, .trackBox-1-play a:first').attr('track_id');
-	              data_to_get[i] = tr_id;
-	            });
-	          }else if($('a.sp_play_button').length>0){
-              //Track's `view` page
-	            data_to_get[0] = $('a.sp_play_button').attr('track_id');
-	          }else if($('.TrackLicensed-List .lsn li').length>0){
-              //`/bough-tracks` page
-              $('.TrackLicensed-List .lsn li').each(function(i, element){
-                var tr_id = $(element).find('.track-box-1-play a:first').attr('track_id');
-                data_to_get[i] = tr_id;
-              });
-            }else if($('.track-box-1').length>0){
-              //Free Tracks. Track `view` page
-              $('.track-box-1').each(function(i, element){
-                var tr_id = $(element).find('.track-box-1-play a:first').attr('track_id');
-                data_to_get[i] = tr_id;
-              });
+        var jPlayerOptions = {
+            swfPath: '/ajax-player/plugin/jquery-jplayer/',
+            preload: "none",
+            solution: 'html,flash',
+            wmode: 'window',
+            errorAlerts: debug,
+            timeFormat: {
+                padMin: true
             }
-	        }
+        };
 
-	        reloadPlaylist = function(action, urlToFollow){
-	          //Get Track`s Data to build urls and frequency progress images after ajax reload
-	          ajax_handler = $.ajax({
-	            url: '/tracks/dialog_ajax_player/',
-	            data: data_to_get,
-	            type: 'post',
-	            async: true,
-	            cache:true,
-	            success: function(resp){
+        //Browsers manual html5.canPlayMp3 detect: jplayer can't make fallback so we're doing it manually
+        if (canPlayMp3WithHtml5() === false) {
+            jPlayerOptions.solution = "flash,html";
+        }
 
-	              tracks_json = JSON.parse(resp);
+        $('#container').ttwMusicPlayer(playlist, {
+            autoplay: false,
+            jPlayer: jPlayerOptions
+        });
 
-                if(action!=undefined && action=="social"){
-                  reinitSocialButtons(urlToFollow);
+        afterPlayerCreated();
+    }
+
+
+    var isPlayerActive = function () {
+        if ($('.ttw-music-player').css('display') == 'none')
+            return false;
+        else
+            return true;
+    }
+
+    //Detect HTML5 History is available
+    function historyApiAvailable() {
+        return !!(window.history && history.pushState);
+    }
+
+    //Checking browser for compatibility with mp3
+    //Some of FF 20~ versions can't play mp3 with html5 because there's problems with browser licensing
+    //Details: http://stackoverflow.com/questions/4923136/why-doesnt-firefox-support-mp3-file-format-in-audio
+    var canPlayMp3WithHtml5 = function () {
+        var a = document.createElement('audio');
+        return (!!(a.canPlayType && a.canPlayType('audio/mpeg;').replace(/no/, '')))
+    }
+
+    var afterPlayerCreated = function () {
+        //This mean that flash solution is used
+        if (!$('.ttw-music-player').find('object').length > 0)
+            $('.ttw-music-player').hide();
+
+        return;
+    };
+
+    /*Global functions: calls in categories list && ajax_search*/
+    getTracksListFromHtml = function () {
+        //Reinit for ajax-reload
+        data_to_get = {};
+
+        //Getting Track`s ids
+        if ($('.trackBox-1').length > 0) {
+            //Categories Page
+            $('.trackBox-1').each(function (i, element) {
+                var $element = $(element).find('.track-box-1-play a:first, .trackBox-1-play a:first');
+                var tr_id = $element.attr('track_id');
+                var pack_id = $element.attr('pack_id');
+
+                data_to_get[i] = tr_id;
+                packs[tr_id] = pack_id;
+            });
+        } else if ($('a.sp_play_button').length > 0) {
+            //Track's `view` page
+            data_to_get[0] = $('a.sp_play_button').attr('track_id');
+        } else if ($('.TrackLicensed-List .lsn li').length > 0) {
+            //`/bough-tracks` page
+            $('.TrackLicensed-List .lsn li').each(function (i, element) {
+                var $element = $(element).find('.track-box-1-play a:first');
+                var tr_id = $element.attr('track_id');
+                var pack_id = $element.attr('pack_id');
+
+                data_to_get[i] = tr_id;
+                packs[tr_id] = pack_id;
+            });
+        } else if ($('.track-box-1').length > 0) {
+            //Free Tracks. Track `view` page
+            $('.track-box-1').each(function (i, element) {
+                var tr_id = $(element).find('.track-box-1-play a:first').attr('track_id');
+                data_to_get[i] = tr_id;
+            });
+        }
+    }
+
+    reloadPlaylist = function (action, urlToFollow) {
+        data_to_get = {tracks: data_to_get};
+
+        if (packs !== null) {
+            data_to_get.packs = packs;
+        }
+
+        //Get Track`s Data to build urls and frequency progress images after ajax reload
+        ajax_handler = $.ajax({
+            url: '/tracks/dialog_ajax_player/',
+            data: data_to_get,
+            type: 'post',
+            async: true,
+            cache: true,
+            success: function (resp) {
+                response = JSON.parse(resp);
+                tracks_json = response.tracks;
+                packs_json = response.packs;
+
+                if (action != undefined && action == "social") {
+                    reinitSocialButtons(urlToFollow);
                 }
 
-	              preloadWavesImages(data_to_get, tracks_json);
-	              playlist = [];
+                preloadWavesImages(data_to_get, tracks_json);
+                playlist = [];
 
+                if ($('.trackBox-1-play a, .track-box-1-play a').length > 0) {
+                    //This means that we're on the categories page
+                    $('.trackBox-1-play a, .track-box-1-play a').each(function (i, el) {
+                        var id = $(el).attr('track_id');
+                        var track_dom = $('.trackBox-1-play a[track_id=' + id + '], .track-box-1-play a[track_id=' + id + ']');
 
-	              if($('.trackBox-1-play a, .track-box-1-play a').length>0){
-	                //This means that we're on the categories page
-	                $('.trackBox-1-play a, .track-box-1-play a').each(function(i, el){
+                        if (tracks_json[id] != undefined) {
+                            var track = tracks_json[id];
 
-	                  var id = $(el).attr('track_id');
-	                  var track_dom = $('.trackBox-1-play a[track_id='+id+'], .track-box-1-play a[track_id='+id+']');
-
-                    if(tracks_json[id]!=undefined){
-                      var track = tracks_json[id];
-                      playlist.push({
-                        title: '<a href="'+track.Track.page_url+'">'+track.Track.title+'</a>',
-                        artist: '<a href="/artist/'+track.User.login+'">'+track.User.login+'</a>',
-                        mp3:'/tracks/listen/'+track.Track.storage_id,
-                        oga:'/tracks/listen/'+track.Track.storage_id,
-                        track_id: id
-                      });
-                    }
-
-	                });
-	              }else if($('a.sp_play_button').length>0){
-	                //This means that we're on the track`s page
-	                var id = $('a.sp_play_button').attr('track_id');
-
-                  if(tracks_json[id]!=undefined){
-                    var track = tracks_json[id];
-
-                    playlist.push({
-                      title: '<a href="'+track.Track.page_url+'">'+track.Track.title+'</a>',
-                      artist: '<a href="/artist/'+track.User.login+'">'+track.User.login+'</a>',
-                      mp3:'/tracks/listen/'+track.Track.storage_id,
-                      oga:'/tracks/listen/'+track.Track.storage_id,
-                      track_id: id
+                            playlist.push({
+                                title: '<a href="' + track.Track.page_url + '">' + track.Track.title + '</a>',
+                                artist: '<a href="/artist/' + track.User.login + '">' + track.User.login + '</a>',
+                                mp3: '/tracks/listen/' + track.Track.storage_id,
+                                oga: '/tracks/listen/' + track.Track.storage_id,
+                                track_id: id
+                            });
+                        }
                     });
-                  }
+                } else if ($('a.sp_play_button').length > 0) {
+                    //This means that we're on the track`s page
+                    var id = $('a.sp_play_button').attr('track_id');
 
-	              }
+                    if (tracks_json[id] != undefined) {
+                        var track = tracks_json[id];
 
-	              rebuildPlaylist();
-
-                if(action!=undefined && action=="pageAutoload"){
-                  var loaded_with = $('.jPlayer-container').data('pageAutoload');
-                  switch(loaded_with){
-                    case 'prev':
-                      $('.ttw-music-player .jp-previous').click().click();
-                      playing_index=9;
-                      $('.jPlayer-container').jPlayer('play');
-                      break;
-                    case 'next':
-                      $('.jp-previous').click();
-                      playing_index=0;
-                      //$('.jPlayer-container').jPlayer('setMedia', playlist[0]);
-                      $('.jPlayer-container').jPlayer('play');
-                      break;
-                  }
+                        playlist.push({
+                            title: '<a href="' + track.Track.page_url + '">' + track.Track.title + '</a>',
+                            artist: '<a href="/artist/' + track.User.login + '">' + track.User.login + '</a>',
+                            mp3: '/tracks/listen/' + track.Track.storage_id,
+                            oga: '/tracks/listen/' + track.Track.storage_id,
+                            track_id: id
+                        });
+                    }
                 }
 
-	              $('.sp_play_button').show();
-	              $('.track-page-loader').hide();
+                var track_id = $('.ttw-music-player').attr('current_track_id');
 
-	              $('.show-popup-player').show();
-	              $('.ajax-track-loading').hide();
+                track_main_block = $('a[track_id=' + track_id + ']').parents('.trackBox-1');
+                track_main_block.addClass('playing')
+                    .find('a').addClass('ajax-pause');
+
+                rebuildPlaylist();
+
+                if (action != undefined && action == "pageAutoload") {
+                    var loaded_with = $('.jPlayer-container').data('pageAutoload');
+                    switch (loaded_with) {
+                        case 'prev':
+                            $('.ttw-music-player .jp-previous').click().click();
+                            playing_index = 9;
+                            $('.jPlayer-container').jPlayer('play');
+                            break;
+                        case 'next':
+                            $('.jp-previous').click();
+                            playing_index = 0;
+                            //$('.jPlayer-container').jPlayer('setMedia', playlist[0]);
+                            $('.jPlayer-container').jPlayer('play');
+                            break;
+                    }
+                }
+
+                $('.sp_play_button').show();
+                $('.track-page-loader').hide();
+
+                $('.show-popup-player').show();
+                $('.ajax-track-loading').hide();
 
                 return true;
-	            },
-	            beforeSend:function(){
+            },
+            beforeSend: function () {
+                $('.sp_play_button').hide();
+                $('.show-popup-player').hide();
 
-	              $('.sp_play_button').hide();
-	              $('.show-popup-player').hide();
-
-	              $('.track-page-loader').show();
-	              $('.ajax-track-loading').show();
-
-	            },
-	            error: function(){
-	              return;
-	            }
-	          });
-	        }
-	      /*End global functions*/
-
-          var fillTrackInfo = function(tr_data){
-
-            var track_info = $('.ttw-music-player .track-info-content');
-
-            track_info.find('.genres').html(formatTrackData(tr_data['TracksAdditionalParam']['genres_str']));
-            track_info.find('.description').html(formatTrackData(tr_data['TracksAdditionalParam']['details']));
-            track_info.find('.format').html(formatTrackData(tr_data['Track']['format']));
-            track_info.find('.length').html(formatTrackData(tr_data['Track']['length']) + 's');
-            track_info.find('.bit_rate').html(formatTrackData(tr_data['TracksAudioParam']['bit_rate']));
-            track_info.find('.refresh_rate_khz').html(formatTrackData(tr_data['TracksAudioParam']['refresh_rate_khz']));
-            track_info.find('.bit_mode').html(formatTrackData(tr_data['TracksAudioParam']['bit_mode']));
-            track_info.find('.bpm').html(formatTrackData(tr_data['TracksAudioParam']['bpm']));
-            track_info.find('.music_loop').html((tr_data['TracksAudioParam']['music_loop']==true)?'Yes':'No');
-            track_info.find('.bits_per_sample').html(formatTrackData(tr_data['Track']['format']));
-
-            var price = tr_data['buying_price'];
-
-            if(price>0){
-              price = '$' + (price/100);
-              $('.add2cart-player').html('Add To Cart '+price);
-            }else{}
-
-            $('.audiolevel-track').css('background', 'url(/ajax-player/images_white.php?user_id=' + tr_data['Track']['user_id'] + '&storage_id=' + tr_data['Track']['storage_id'] + ')');
-            $('.audiolevel-track-loadded').css('background', 'url(/ajax-player/images_white.php?user_id=' + tr_data['Track']['user_id'] + '&storage_id=' + tr_data['Track']['storage_id'] + '&played=1)');
-
-            return;
-          }
-
-          var preloadWavesImages = function(data_to_get, json_data){
-
-            var preload_waves = '';
-            if($('.trackBox-1-play a, .track-box-1-play a').length>0){
-              $('.trackBox-1-play a, .track-box-1-play a').each(function(i, el){
-                var id = $(el).attr('track_id');
-                if(json_data[id]!=undefined)
-                  preload_waves += ' url(/ajax-player/images_white.php?user_id=' + json_data[id]['Track']['user_id'] + '&storage_id=' + json_data[id]['Track']['storage_id'] + ')';
-              });
-            }else if($('a.sp_play_button').length>0){
-              var id = $('a.sp_play_button').attr('track_id');
-              if(json_data[id]!=undefined)
-                preload_waves += ' url(/ajax-player/images_white.php?user_id=' + json_data[id]['Track']['user_id'] + '&storage_id=' + json_data[id]['Track']['storage_id'] + ')';
+                $('.track-page-loader').show();
+                $('.ajax-track-loading').show();
+            },
+            error: function () {
+                return;
             }
-            $('#preload').css('display', 'none').css('content', preload_waves);
-          }
+        });
+    }
+    /*End global functions*/
 
-          var formatTrackData = function(data_str){
-            if(data_str==0 || data_str=='' || data_str==null || data_str==false)
-              return '-';
-            else
-              return data_str;
-          }
+    var fillTrackInfo = function (tr_data) {
 
-          var playerDataInit = function(){
-            //Get Track`s Data to build urls and frequency progress images
-            ajax_handler = $.ajax({
-              url: '/tracks/dialog_ajax_player/',
-              data: data_to_get,
-              type: 'post',
-              async: true,
-              cache:true,
-              beforeSend: function(){
+        var track_info = $('.ttw-music-player .track-info-content');
+
+        //Additional operations for loops pack
+        if(tr_data['Track']['is_loop_pack'] != undefined){
+            $('.recent-plays-link').hide();
+        }else{
+            $('.recent-plays-link').show();
+        }
+
+        var genres = tr_data['TracksAdditionalParam']['genres_str'];
+        var description = tr_data['TracksAdditionalParam']['details'];
+
+        if (genres != '') {
+            track_info.find('.genres')
+                .html(formatTrackData(genres))
+                .parents('.g_parent').show();
+        } else {
+            track_info.find('.genres').parent().hide();
+        }
+
+        if (description != '') {
+            track_info.find('.description')
+                .html(formatTrackData(description))
+                .parent('.description_parent').show();
+        } else {
+            track_info.find('.description').parent().hide();
+        }
+
+
+        track_info.find('.format').html(formatTrackData(tr_data['Track']['format']));
+        track_info.find('.length').html(formatTrackData(tr_data['Track']['length']) + 's');
+        track_info.find('.bit_rate').html(formatTrackData(tr_data['TracksAudioParam']['bit_rate']));
+        track_info.find('.refresh_rate_khz').html(formatTrackData(tr_data['TracksAudioParam']['refresh_rate_khz']));
+        track_info.find('.bit_mode').html(formatTrackData(tr_data['TracksAudioParam']['bit_mode']));
+        track_info.find('.bpm').html(formatTrackData(tr_data['TracksAudioParam']['bpm']));
+        track_info.find('.music_loop').html((tr_data['TracksAudioParam']['music_loop'] == true) ? 'Yes' : 'No');
+        track_info.find('.bits_per_sample').html(formatTrackData(tr_data['Track']['format']));
+
+        var price = tr_data['buying_price'];
+
+        if (price > 0) {
+            price = '$' + (price / 100);
+            $('.add2cart-player').html('Add To Cart ' + price);
+        } else {
+        }
+
+        $('.audiolevel-track').css('background', 'url(/ajax-player/images_white.php?user_id=' + tr_data['Track']['user_id'] + '&storage_id=' + tr_data['Track']['storage_id'] + ')');
+        $('.audiolevel-track-loadded').css('background', 'url(/ajax-player/images_white.php?user_id=' + tr_data['Track']['user_id'] + '&storage_id=' + tr_data['Track']['storage_id'] + '&played=1)');
+
+        return;
+    }
+
+    var preloadWavesImages = function (data_to_get, json_data) {
+        var preload_waves = '';
+        if ($('.trackBox-1-play a, .track-box-1-play a').length > 0) {
+            $('.trackBox-1-play a, .track-box-1-play a').each(function (i, el) {
+                var id = $(el).attr('track_id');
+
+                if (json_data[id] != undefined)
+                    preload_waves += ' url(/ajax-player/images_white.php?user_id=' + json_data[id]['Track']['user_id'] + '&storage_id=' + json_data[id]['Track']['storage_id'] + ')';
+            });
+        } else if ($('a.sp_play_button').length > 0) {
+            var id = $('a.sp_play_button').attr('track_id');
+
+            if (json_data[id] != undefined)
+                preload_waves += ' url(/ajax-player/images_white.php?user_id=' + json_data[id]['Track']['user_id'] + '&storage_id=' + json_data[id]['Track']['storage_id'] + ')';
+        }
+
+        $('#preload').css('display', 'none').css('content', preload_waves);
+    }
+
+    var formatTrackData = function (data_str) {
+        if (data_str == 0 || data_str == '' || data_str == null || data_str == false)
+            return '-';
+        else
+            return data_str;
+    }
+
+    var playerDataInit = function () {
+        data_to_get = {tracks: data_to_get};
+
+        if (packs !== null) {
+            data_to_get.packs = packs;
+        }
+
+        //Get Track`s Data to build urls and frequency progress images
+        ajax_handler = $.ajax({
+            url: '/tracks/dialog_ajax_player/',
+            data: data_to_get,
+            type: 'post',
+            async: true,
+            cache: true,
+            beforeSend: function () {
                 $('.sp_play_button').hide();
                 $('.show-popup-player').hide();
                 $('.track-page-loader').show();
                 $('.ajax-track-loading').show();
-              },
-              success: function(resp){
+            },
+            success: function (resp) {
+                response = JSON.parse(resp);
+                tracks_json = response.tracks;
+                packs_json = response.packs;
 
-                tracks_json = JSON.parse(resp);
                 preloadWavesImages(data_to_get, tracks_json);
 
-                if($('.trackBox-1-play a, .track-box-1-play a').length>0){
-                  //This means that we're on the categories page
-                  $('.trackBox-1-play a, .track-box-1-play a').each(function(i, el){
+                if ($('.trackBox-1-play a, .track-box-1-play a').length > 0) {
+                    //This means that we're on the categories page
+                    $('.trackBox-1-play a, .track-box-1-play a').each(function (i, el) {
+                        var id = $(el).attr('track_id');
+                        var track_dom = $('.trackBox-1-play a[track_id=' + id + '], .track-box-1-play a[track_id=' + id + ']');
 
-                    var id = $(el).attr('track_id');
-                    var track_dom = $('.trackBox-1-play a[track_id='+id+'], .track-box-1-play a[track_id='+id+']');
-                    if(tracks_json[id]!=undefined){
-                      var track = tracks_json[id];
-                      playlist.push({
-                        title: '<a href="'+track.Track.page_url+'">'+track.Track.title+'</a>',
-                        artist: '<a href="/artist/'+track.User.login+'">'+track.User.login+'</a>',
-                        mp3:'/tracks/listen/'+track.Track.storage_id,
-                        oga:'/tracks/listen/'+track.Track.storage_id,
-                        track_id: id
-                      });
-                    }
-                  });
-                }else if($('a.sp_play_button').length>0){
-                  //This means that we're on the track`s page
-                  var id = $('a.sp_play_button').attr('track_id');
-                  if(tracks_json[id]!=undefined){
-                    var track = tracks_json[id];
-                    playlist.push({
-                      title: '<a href="'+track.Track.page_url+'">'+track.Track.title+'</a>',
-                      artist: '<a href="/artist/'+track.User.login+'">'+track.User.login+'</a>',
-                      mp3:'/tracks/listen/'+track.Track.storage_id,
-                      oga:'/tracks/listen/'+track.Track.storage_id,
-                      track_id: id
+                        if (tracks_json[id] != undefined) {
+                            var track = tracks_json[id];
+                            playlist.push({
+                                title: '<a href="' + track.Track.page_url + '">' + track.Track.title + '</a>',
+                                artist: '<a href="/artist/' + track.User.login + '">' + track.User.login + '</a>',
+                                mp3: '/tracks/listen/' + track.Track.storage_id,
+                                oga: '/tracks/listen/' + track.Track.storage_id,
+                                track_id: id
+                            });
+                        }
                     });
-                  }
+                } else if ($('a.sp_play_button').length > 0) {
+                    //This means that we're on the track`s page
+                    var id = $('a.sp_play_button').attr('track_id');
+
+                    if (tracks_json[id] != undefined) {
+                        var track = tracks_json[id];
+                        playlist.push({
+                            title: '<a href="' + track.Track.page_url + '">' + track.Track.title + '</a>',
+                            artist: '<a href="/artist/' + track.User.login + '">' + track.User.login + '</a>',
+                            mp3: '/tracks/listen/' + track.Track.storage_id,
+                            oga: '/tracks/listen/' + track.Track.storage_id,
+                            track_id: id
+                        });
+                    }
                 }
                 jPlayer_init();
                 $('.sp_play_button').show();
                 $('.show-popup-player').show();
                 $('.track-page-loader').hide();
                 $('.ajax-track-loading').hide();
-              },
-              error: function(){
+            },
+            error: function () {
                 return;
-              }
+            }
+        });
+    }
+
+    var rebuildPlaylist = function () {
+
+        $.fn.playerPlaylistRebuild(playlist);
+
+        //if(!$('.jPlayer-container').data('jPlayer').status.media.mp3){
+        $('.tracks .playing').removeClass('playing');
+        //}
+        playing_index = -5;
+        playerIsReady = true;
+    }
+
+    //Collect tracks ids on first page loading
+    getTracksListFromHtml();
+    //Get data for tracks to build playlist
+    playerDataInit();
+
+    /*Player`s events handlers*/
+    $('.jPlayer-container').bind($.jPlayer.event.ready, function (event) {
+        playerIsReady = true;
+    });
+
+    $('.jPlayer-container').bind($.jPlayer.event.loadstart, function (event) {
+        if (debug == true) {
+            console.log(event);
+        }
+
+        var track_id = event.jPlayer.status.media.track_id;
+
+        $('.ttw-music-player').attr('current_track_id', track_id);
+
+        if ($('.trackBox-1.playing').length > 0) {
+            $('.trackBox-1.playing').each(function (i, el) {
+                $(el).removeClass('playing');
             });
-          }
-
-          var rebuildPlaylist = function(){
-
-            $.fn.playerPlaylistRebuild(playlist);
-
-            //if(!$('.jPlayer-container').data('jPlayer').status.media.mp3){
-            $('.tracks .playing').removeClass('playing');
-            //}
-            playing_index = -5;
-            playerIsReady = true;
-          }
-
-
-
-          //Collect tracks ids on first page loading
-          getTracksListFromHtml();
-          //Get data for tracks to build playlist
-          if(!jQuery.isEmptyObject(data_to_get))
-            playerDataInit();
-
-
-
-          /*Player`s events handlers*/
-          $('.jPlayer-container').bind($.jPlayer.event.ready, function(event){
-            playerIsReady = true;
-          });
-
-          $('.jPlayer-container').bind($.jPlayer.event.loadstart, function(event) {
-            if(debug == true){console.log(event);}
-
-            var track_id = event.jPlayer.status.media.track_id;
-
-            $('.ttw-music-player').attr('current_track_id', track_id);
-
-            if($('.trackBox-1.playing').length>0){
-              $('.trackBox-1.playing').each(function(i, el){$(el).removeClass('playing');});
-            }
-            else if($('.TrackLicensed-List .lsn li.playing').length>0){
-              $('.TrackLicensed-List .lsn li.playing').each(function(i, el){$(el).removeClass('playing');});
-            }else if($('.track-box-1').length>0){
-              $('.track-box-1.playing').each(function(i, el){$(el).removeClass('playing');});
-            }
-
-            //Hide all prev loaders && show buttons
-            $('.ajax-track-loading').each(function(i, el){
-              $(el).hide();
+        }
+        else if ($('.TrackLicensed-List .lsn li.playing').length > 0) {
+            $('.TrackLicensed-List .lsn li.playing').each(function (i, el) {
+                $(el).removeClass('playing');
             });
+        } else if ($('.track-box-1').length > 0) {
+            $('.track-box-1.playing').each(function (i, el) {
+                $(el).removeClass('playing');
+            });
+        }
 
-            var tr_id = event.jPlayer.status.media.track_id;
+        //Hide all prev loaders && show buttons
+        $('.ajax-track-loading').each(function (i, el) {
+            $(el).hide();
+        });
 
-            track_main_block = $('a[track_id='+tr_id+']').parents(':eq(1)');
-            track_main_block.addClass('playing');
+        var tr_id = event.jPlayer.status.media.track_id;
 
-            track_block = $('a[track_id='+tr_id+']');
-            track_block.hide();
+        track_main_block = $('a[track_id=' + tr_id + ']').parents('.trackBox-1');
+        track_main_block.addClass('playing');
 
-            $(track_block).parent().find('.ajax-track-loading').show();
+        current_track_id = tr_id;
 
-            fillTrackInfo(tracks_json[tr_id]);
+        track_block = $('a[track_id=' + tr_id + ']');
+        track_block.hide();
 
-            var subscribe_button = $('.purchase-ajax-buttons').find('.subscribe-button');
-            var download_preview_button = $('.ttw-music-player a#download-preview-in-player');
-            if(tracks_json[tr_id]['Track']['top_category_id']==2 && tracks_json[tr_id]['Track']['watermarked_preview']==1){
-            	subscribe_button.html('Subscribe $10');
-            	subscribe_button.attr('href','/subscribe-music');
-              download_preview_button.show().attr('href', '/tracks/download_preview/'+tracks_json[tr_id]['Track']['storage_id']);
-            }else{
-            	subscribe_button.html('Subscribe $1');
-            	subscribe_button.attr('href','/subscribe');
-              download_preview_button.hide();
+        $(track_block).parent().find('.ajax-track-loading').show();
+
+        var track_data = tracks_json[tr_id];
+
+        if (packs_json !== undefined && packs[tr_id] !== undefined) {
+            track_data['buying_price'] = 2995;
+        }
+
+        fillTrackInfo(track_data);
+
+        var subscribe_button = $('.purchase-ajax-buttons').find('.subscribe-button');
+        var download_preview_button = $('.ttw-music-player a#download-preview-in-player');
+
+        if (tracks_json[tr_id]['Track']['top_category_id'] == 2 && tracks_json[tr_id]['Track']['watermarked_preview'] == 1) {
+            subscribe_button.html('Subscribe $10');
+            subscribe_button.attr('href', '/subscribe-music');
+            download_preview_button.show().attr('href', '/tracks/download_preview/' + tracks_json[tr_id]['Track']['storage_id']);
+        } else {
+            subscribe_button.html('Subscribe $1');
+            subscribe_button.attr('href', '/subscribe');
+            download_preview_button.hide();
+        }
+
+        $('.purchase-ajax-buttons a').each(function (i, el) {
+            $(el).hide()
+        });
+
+        //Show corresponding buttons for track
+        pack_id = packs !== null && packs[tr_id];
+
+        if (packs_json !== null && pack_id !== undefined && packs_json[pack_id]['in_cart'] === true) {
+            $('.remove-from-cart-player').show();
+        } else if (packs_json !== null && pack_id !== undefined && isLogged != false && packs_json[pack_id]['is_bought'] === true) {
+            $('.download-track-owner').attr('pack_id', pack_id).show();
+        } else if (tracks_json[tr_id]['Track']['assigned_as_free'] == 1) {
+            $('.download-track-owner').show();
+        } else if (tracks_json[tr_id]['is_bought'] == true && isLogged != false) {
+            $('.download-track-owner').show();
+        } else if (pack_id === undefined && tracks_json[tr_id]['in_cart'] == false && isLogged != false && tracks_json[tr_id]['is_bought'] == false) {
+            $('.subscribe-button').show();
+            $('.add2cart-player').show();
+        } else if (tracks_json[tr_id]['in_cart'] == true && isLogged != false && tracks_json[tr_id]['is_bought'] != true) {
+            $('.subscribe-button').show();
+            $('.remove-from-cart-player').show();
+        } else if (tracks_json[tr_id]['in_cart'] == true && isLogged == false) {
+            $('.subscribe-button').show();
+            $('.remove-from-cart-player').show();
+        } else {
+            if (pack_id === undefined) {
+                $('.subscribe-button').show();
+                $('#download-preview-in-player').show();
+            } else {
+                $('#download-preview-in-player').hide();
             }
 
-            $('.purchase-ajax-buttons a').each(function(i,el){$(el).hide()});
-            //Show corresponding buttons for track
-            if(tracks_json[tr_id]['Track']['assigned_as_free']==1){
-              $('.download-track-owner').show();
-            }else if(tracks_json[tr_id]['is_bought'] == true && isLogged!=false){
-              $('.download-track-owner').show();
-            }else if(tracks_json[tr_id]['in_cart']==false && isLogged!=false && tracks_json[tr_id]['is_bought']==false){
-              $('.subscribe-button').show();
-              $('.add2cart-player').show();
-            }else if(tracks_json[tr_id]['in_cart']==true && isLogged!=false && tracks_json[tr_id]['is_bought']!=true){
-              $('.subscribe-button').show();
-              $('.remove-from-cart-player').show();
-            }else if(tracks_json[tr_id]['in_cart']==true && isLogged==false){
-              $('.subscribe-button').show();
-              $('.remove-from-cart-player').show();
-            }else{
-              $('.subscribe-button').show();
-              $('.add2cart-player').show();
-            }
-          });
+            $('.add2cart-player').show();
+        }
+    });
 
-          $('.jPlayer-container').bind($.jPlayer.event.loadeddata, function(event) {
-            if(debug == true){console.log(event);}
-            var track_id = event.jPlayer.status.media.track_id;
-            $('.ttw-music-player').attr('current_track_id', track_id);
+    $('.jPlayer-container').bind($.jPlayer.event.loadeddata, function (event) {
+        if (debug == true) {
+            console.log(event);
+        }
 
-            track_main_block = $('a[track_id='+event.jPlayer.status.media.track_id+']').parents(':eq(1)');
+        var track_id = event.jPlayer.status.media.track_id;
 
-            track_block = $('a[track_id='+event.jPlayer.status.media.track_id+']');
-            track_block.parent().find('.ajax-track-loading').hide();
-            $(track_block).show();
-          });
+        $('.ttw-music-player').attr('current_track_id', track_id);
 
-          $('.jPlayer-container').bind($.jPlayer.event.play, function(event) {
-            if(debug == true){console.log(event);}
-            if(event.jPlayer.flash.active == true){
-              $('.ajax-track-loading').each(function(i,el){
+        track_main_block = $('a[track_id=' + event.jPlayer.status.media.track_id + ']').parents(':eq(1)');
+
+        track_block = $('a[track_id=' + event.jPlayer.status.media.track_id + ']');
+        track_block.parent().find('.ajax-track-loading').hide();
+        $(track_block).show();
+    });
+
+    $('.jPlayer-container').bind($.jPlayer.event.play, function (event) {
+        if (debug == true) {
+            console.log(event);
+        }
+
+        if (event.jPlayer.flash.active == true) {
+            $('.ajax-track-loading').each(function (i, el) {
                 $(el).hide();
-              });
-              $('.show-popup-player').each(function(i,el){
+            });
+            $('.show-popup-player').each(function (i, el) {
                 $(el).show();
-              });
-              flash_rollback = true;
-            }
+            });
+            flash_rollback = true;
+        }
 
-            var track_id = event.jPlayer.status.media.track_id;
+        var track_id = event.jPlayer.status.media.track_id;
 
-            track_main_block = $('a[track_id='+track_id+']').parents(':eq(1)');
-            track_main_block.addClass('playing');
+        var selector = 'a[track_id=' + track_id + ']';
 
-            $('html, body').animate({
-                scrollTop: track_main_block.offset().top - ($(window).height()/2)
-            }, 200);
+        if (packs[track_id] !== undefined) {
+            selector += "[pack_id=" + packs[track_id] + "]";
+        }
 
-            //$('.show-popup-player[track_id='+track_id+']').show();
+        track_main_block = $(selector).parents('.trackBox-1, .track-box-1');
+        track_main_block.addClass('playing');
 
-            $('.show-popup-player').each(function(i, el){
-              if($(el).attr('track_id') == track_id){
+        $('html, body').animate({
+            scrollTop: track_main_block.offset().top - ($(window).height() / 2)
+        }, 200);
+
+        //$('.show-popup-player[track_id='+track_id+']').show();
+
+        $('.show-popup-player').each(function (i, el) {
+            if ($(el).attr('track_id') == track_id) {
                 //$(el).show().addClass('ajax-pause').html('Pause');
-              }else{
+            } else {
                 $(el).show().removeClass('ajax-pause');//.html('Play');
-              }
-            });
-             //Clear track`s previous progress in body
-             $('.audiolevel-track-loadded').each(function(i,el){
-              if(track_id != $('.ttw-music-player').attr('current_track_id')){
+            }
+        });
+        //Clear track`s previous progress in body
+        $('.audiolevel-track-loadded').each(function (i, el) {
+            if (track_id != $('.ttw-music-player').attr('current_track_id')) {
                 $(el).css('width', 0);
-              }
-             });
+            }
+        });
 
-             $('.ttw-music-player').show();
+        $('.ttw-music-player').show();
 
-             //Update track id and played block
-             $('a[track_id='+track_id+']').parent().show();
-             //$('a[track_id='+track_id+']').parent().find('.ajax-track-loading').hide();
-             $('a[track_id='+track_id+']').addClass('ajax-pause')/*.html('Pause')*/;
-          });
+        //Update track id and played block
+        $('a[track_id=' + track_id + ']').parent().show();
+        //$('a[track_id='+track_id+']').parent().find('.ajax-track-loading').hide();
+        $('a[track_id=' + track_id + ']').addClass('ajax-pause')/*.html('Pause')*/;
+    });
 
-          $('.jPlayer-container').bind($.jPlayer.event.ended, function(event) {
-          	if(debug == true){console.log(event);}
-            $('.show-popup-player,.show-popup-player').each(function(i, el){
-              $(el).removeClass('ajax-pause');//.html('Play');
-            });
-            $(event.currentTarget).parent().find('.ajax-track-loading').hide();
+    $('.jPlayer-container').bind($.jPlayer.event.ended, function (event) {
+        if (debug == true) {
+            console.log(event);
+        }
+        $('.show-popup-player,.show-popup-player').each(function (i, el) {
+            $(el).removeClass('ajax-pause');//.html('Play');
+        });
+        $(event.currentTarget).parent().find('.ajax-track-loading').hide();
 
-            $('.trackBox-1.playing,.TrackLicensed-List .lsn li.playing,.track-box-1.playing').removeClass('playing');
+        $('.trackBox-1.playing,.TrackLicensed-List .lsn li.playing,.track-box-1.playing').removeClass('playing');
 
-          	//setTimeout(function(){
-          		$('.jPlayer-container').jPlayer("stop");
-              //ajax_handler.abort();
+        //setTimeout(function(){
+        $('.jPlayer-container').jPlayer("stop");
+        //ajax_handler.abort();
 
-              //Mock Error Here: these error guarantees that jPlayer would make nothing after track ends
-              throw '';
+        //Mock Error Here: these error guarantees that jPlayer would make nothing after track ends
+        throw '';
 
-              /*$(ev.currentTarget).parent().find('.ajax-track-loading').hide();
-              $(ev.currentTarget).parent().find('a').show();
-              $('.jPlayer-container').jPlayer("stop");*/
-          	//}, 10);
+        /*$(ev.currentTarget).parent().find('.ajax-track-loading').hide();
+         $(ev.currentTarget).parent().find('a').show();
+         $('.jPlayer-container').jPlayer("stop");*/
+        //}, 10);
 
-          });
+    });
 
-          $('.jPlayer-container').bind($.jPlayer.event.timeupdate, function(event) {
-            if(debug == true){console.log(event);}
+    $('.jPlayer-container').bind($.jPlayer.event.timeupdate, function (event) {
+        if (debug == true) {
+            console.log(event);
+        }
 
-            /*if(
-              track_main_block!=null &&
-              track_main_block.length>0 &&
-              track_main_block.find('a:first').attr('track_id') == $('.ttw-music-player').attr('current_track_id')
-              ){*/
+        /*if(
+         track_main_block!=null &&
+         track_main_block.length>0 &&
+         track_main_block.find('a:first').attr('track_id') == $('.ttw-music-player').attr('current_track_id')
+         ){*/
 
-              //Set the same width from top player
-              $('.audiolevel-track-loadded').css(
-                'width',
-                event.jPlayer.status.currentPercentAbsolute + '%'
-              );
+        //Set the same width from top player
+        $('.audiolevel-track-loadded').css(
+            'width',
+            event.jPlayer.status.currentPercentAbsolute + '%'
+        );
 
-            /*}*/
-          });
+        /*}*/
+    });
 
-          $('.jPlayer-container').bind($.jPlayer.event.pause, function(event) {
-            if(debug == true){console.log(event);}
-            $('.show-popup-player').each(function(i, el){$(el).removeClass('ajax-pause')});//.html('Play')});
-          });
-
-
-          $('.jPlayer-container').bind($.jPlayer.event.error, function(event) {
-            //Check if error associated with flash fallback. If yeah the reset playlist ($.jPlayer.event.ready don't fire in some browsers)
-            //if(event.jPlayer.error.type=='e_url_not_set'){
-              //Flash don't support wav files handler
-            //}
-            console.error(event);
-            $('.trackBox-1.playing,.track-box-1.playing').find('.show-popup-player').removeClass('ajax-pause').hide();
-            $('.trackBox-1.playing,.track-box-1.playing').removeClass('playing');
-
-            $('.ajax-track-loading').each(function(i, el){$(el).hide();})
-            $('.show-popup-player').each(function(i, el){$(el).show();});
-          });
-
-          $('.jPlayer-container').bind($.jPlayer.event.warning, function(event) {
-            console.warn(event);
-          });
-
-          /****End jPlayer events handlers****/
+    $('.jPlayer-container').bind($.jPlayer.event.pause, function (event) {
+        if (debug == true) {
+            console.log(event);
+        }
+        $('.show-popup-player').each(function (i, el) {
+            $(el).removeClass('ajax-pause')
+        });//.html('Play')});
+    });
 
 
-          //Hover Green Button play in a track list
-          /*$("body").on('mouseenter', '.trackBox-1-play', function(ev){
-            if(playerIsReady==false) return;
-            $(this).data('timeout', setTimeout( function () {
-              var track_id = $(ev.currentTarget).find('.show-popup-player').attr('track_id');
-              if(!$(ev.currentTarget).find('.show-popup-player').hasClass('ajax-pause')){
-                $(ev.currentTarget).find('.show-popup-player').click();
-              }
-            }, 0));
-          });
-          $("body").on('mouseleave', '.trackBox-1-play', function(ev){
-              clearTimeout($(this).data('timeout'));
-          });*/
+    $('.jPlayer-container').bind($.jPlayer.event.error, function (event) {
+        //Check if error associated with flash fallback. If yeah the reset playlist ($.jPlayer.event.ready don't fire in some browsers)
+        //if(event.jPlayer.error.type=='e_url_not_set'){
+        //Flash don't support wav files handler
+        //}
+        console.error(event);
+        $('.trackBox-1.playing,.track-box-1.playing').find('.show-popup-player').removeClass('ajax-pause').hide();
+        $('.trackBox-1.playing,.track-box-1.playing').removeClass('playing');
+
+        $('.ajax-track-loading').each(function (i, el) {
+            $(el).hide();
+        })
+        $('.show-popup-player').each(function (i, el) {
+            $(el).show();
+        });
+    });
+
+    $('.jPlayer-container').bind($.jPlayer.event.warning, function (event) {
+        console.warn(event);
+    });
+
+    /****End jPlayer events handlers****/
 
 
-          //Audiolevel hover at track's levels
-          /*$("body").on('mouseenter', '.audiolevel-track', function(ev){
-            if(playerIsReady==false) return;
-            $(this).data('timeout', setTimeout( function () {
-              var track_id = $('.ttw-music-player').attr('current_track_id');
-              if(!$('.show-popup-player[track_id='+track_id+']').hasClass('ajax-pause')){
-                $('.show-popup-player[track_id='+track_id+']').click();
-              }
-            }, 0));
-          });
-          $("body").on('mouseleave', '.audiolevel-track', function(ev){
-              clearTimeout($(this).data('timeout'));
-          });*/
+    //Hover Green Button play in a track list
+    /*$("body").on('mouseenter', '.trackBox-1-play', function(ev){
+     if(playerIsReady==false) return;
+     $(this).data('timeout', setTimeout( function () {
+     var track_id = $(ev.currentTarget).find('.show-popup-player').attr('track_id');
+     if(!$(ev.currentTarget).find('.show-popup-player').hasClass('ajax-pause')){
+     $(ev.currentTarget).find('.show-popup-player').click();
+     }
+     }, 0));
+     });
+     $("body").on('mouseleave', '.trackBox-1-play', function(ev){
+     clearTimeout($(this).data('timeout'));
+     });*/
 
 
-          //Track inner rewind
-          $('.audiolevel-track').click(function(ev){
-            if(playerIsReady==false) return;
+    //Audiolevel hover at track's levels
+    /*$("body").on('mouseenter', '.audiolevel-track', function(ev){
+     if(playerIsReady==false) return;
+     $(this).data('timeout', setTimeout( function () {
+     var track_id = $('.ttw-music-player').attr('current_track_id');
+     if(!$('.show-popup-player[track_id='+track_id+']').hasClass('ajax-pause')){
+     $('.show-popup-player[track_id='+track_id+']').click();
+     }
+     }, 0));
+     });
+     $("body").on('mouseleave', '.audiolevel-track', function(ev){
+     clearTimeout($(this).data('timeout'));
+     });*/
 
-            var offset_left = null;
 
-            //Default offset field
-            if(ev.originalEvent.offsetX != undefined)
-              offset_left = ev.originalEvent.offsetX;
-            //Mozilla offset field
-            else if(ev.originalEvent.layerX != undefined)
-              offset_left = ev.originalEvent.layerX;
-            else
-              offset_left = ev.offsetX;
+    //Track inner rewind
+    $('.audiolevel-track').click(function (ev) {
+        if (playerIsReady == false) return;
 
-            var total_length = $('.audiolevel-track').first().width();
+        var offset_left = null;
 
-            var rewind_track_1_perc = total_length/100;
-            var rewind_track_percents = offset_left/rewind_track_1_perc;
-            rewind_track_percents = Math.floor(rewind_track_percents);
+        //Default offset field
+        if (ev.originalEvent.offsetX != undefined)
+            offset_left = ev.originalEvent.offsetX;
+        //Mozilla offset field
+        else if (ev.originalEvent.layerX != undefined)
+            offset_left = ev.originalEvent.layerX;
+        else
+            offset_left = ev.offsetX;
 
-            $('.jPlayer-container').jPlayer( "playHead", rewind_track_percents);
-          });
+        var total_length = $('.audiolevel-track').first().width();
 
-          //Spinner click event while track is loading
-          /*$('.trackBox-1-play>.ajax-track-loading,.sp_play_button>.track-page-loader').click(function(ev){
+        var rewind_track_1_perc = total_length / 100;
+        var rewind_track_percents = offset_left / rewind_track_1_perc;
+        rewind_track_percents = Math.floor(rewind_track_percents);
+
+        $('.jPlayer-container').jPlayer("playHead", rewind_track_percents);
+    });
+
+    //Spinner click event while track is loading
+    /*$('.trackBox-1-play>.ajax-track-loading,.sp_play_button>.track-page-loader').click(function(ev){
+     ajax_handler.abort();
+     $(ev.currentTarget).prev().removeClass('ajax-pause');//.html('Play');
+     //$(ev.currentTarget).hide();
+     //$(ev.currentTarget).prev().show();
+     $('.jPlayer-container').jPlayer('stop');
+     });*/
+
+
+    //`Play-Pause` button in a body
+    $('body').delegate('.show-popup-player,.sp_play_button', 'click', function (ev) {
+
+        if (playerIsReady == false) return;
+
+        //Reset all track's progresses in body
+        var playLink = this;
+
+        //Cancel all prev uncomplete requests
+        if (ajax_handler !== null)
             ajax_handler.abort();
-            $(ev.currentTarget).prev().removeClass('ajax-pause');//.html('Play');
-            //$(ev.currentTarget).hide();
-            //$(ev.currentTarget).prev().show();
-            $('.jPlayer-container').jPlayer('stop');
-          });*/
 
+        if ($(playLink).hasClass('ajax-pause')) {
 
+            $('.jPlayer-container').jPlayer('pause');
 
-          //`Play-Pause` button in a body
-          $('body').delegate('.show-popup-player,.sp_play_button', 'click', function(ev){
+            //$(playLink).html('Play');
+            $(playLink).removeClass('ajax-pause');
 
-            if(playerIsReady==false) return;
+        } else {
 
-            //Reset all track's progresses in body
-            var playLink = this;
+            $('.show-popup-player').each(function (i, el) {
+                $(el).show()
+            });
 
-            //Cancel all prev uncomplete requests
-            if(ajax_handler !== null)
-              ajax_handler.abort();
+            //$(playLink).hide();
+            //$(playLink).next().show();
 
-            if($(playLink).hasClass('ajax-pause')){
+            $('.ttw-music-player').show();
 
-              $('.jPlayer-container').jPlayer('pause');
-
-              //$(playLink).html('Play');
-              $(playLink).removeClass('ajax-pause');
-
-            }else{
-
-              $('.show-popup-player').each(function(i, el){$(el).show()});
-
-              //$(playLink).hide();
-              //$(playLink).next().show();
-
-              $('.ttw-music-player').show();
-
-              //Check is already playing current track
-              if($(playLink).attr('track_id') == $('.ttw-music-player').attr('current_track_id')){
-
+            //Check is already playing current track
+            if ($(playLink).attr('track_id') == $('.ttw-music-player').attr('current_track_id') && playing_index!=-1) {
                 $('.jPlayer-container').jPlayer('play');
                 $(playLink).addClass('ajax-pause');//.html('Pause');
+            } else {
 
-              }else{
-
-                $('.audiolevel-track-loadded').each(function(i,el){
-                  $(el).css('width', 0);
+                $('.audiolevel-track-loadded').each(function (i, el) {
+                    $(el).css('width', 0);
                 });
 
                 $('.jPlayer-container').jPlayer('pause');
@@ -729,270 +833,508 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
 
                 var clicked_index = null;
 
-                $(playlist).each(function(i, el){
-                  if (el.track_id == clicked_track_id) {
-                    clicked_index = i;
-                    return;
-                  }
+                $(playlist).each(function (i, el) {
+                    if (el.track_id == clicked_track_id) {
+                        clicked_index = i;
+                        return;
+                    }
                 });
 
                 var diff = null;
 
+				console.info('Playing index before correctives: ' + playing_index);
 
                 //This means that previously played track are missing after ajax reload
-                if(playing_index==-5){
-                  playing_index = $('.tracks .playing').index();
-                  $('.ttw-music-player .jp-previous').click();
-                  diff = clicked_index;// - 1;
-                }else{
-                  playing_index = $('.tracks .playing').index();
-
-                  //This means there's no active playing track yet. Using for first non-ajax loading
-                  if(playing_index<0){
-                    playing_index=0;
-                  }
-                  diff = clicked_index-playing_index;
+                if (playing_index == -5) {
+                	playing_index = $('.tracks .playing').index();
+                    diff = clicked_index;
+                    if(playing_index != 0){
+                    	$('.ttw-music-player .jp-previous').click();
+                    }
+                    
+                } else {
+                	playing_index = $('.tracks .playing').index();
+                    //This means there's no active playing track yet. Using for first non-ajax loading
+                    if (playing_index < 0) {
+                        playing_index = 0;
+                    }
+                    diff = clicked_index - playing_index;
                 }
 
-                if(diff>0){ //We click one of the next songs
-                  for(var i=0;i<diff;i++) $('.ttw-music-player .jp-next').click();
-                }else if(diff<0){ //We click one of the prev songs
-                  for(var i=diff;i<0;i++) $('.ttw-music-player .jp-previous').click();
-                }else{ //Diff ==0
-                  $('.jPlayer-container').jPlayer('play');
+
+                /* Debug information for fast searching in this file from console */
+				console.log('Playing index: ',playing_index,'; clicked index: ', clicked_index,';');
+
+
+                if (diff > 0) { //We click one of the next songs
+                    for (var i = 0; i < diff; i++) $('.ttw-music-player .jp-next').click();
+                } else if (diff < 0) { //We click one of the prev songs
+                    for (var i = diff; i < 0; i++) $('.ttw-music-player .jp-previous').click();
+                } else { //Diff ==0
+                    $('.jPlayer-container').jPlayer('play');
                 }
 
                 //Flash Rollback: fixes for loader && curently played track styles and animations
-                if(flash_rollback == true){
+                if (flash_rollback == true) {
 
-                  var played_tr_id = $('.trackBox-1.playing').find('.show-popup-player').attr('track_id');
+                    var played_tr_id = $('.trackBox-1.playing').find('.show-popup-player').attr('track_id');
 
-                  $('.trackBox-1.playing').find('.show-popup-player').removeClass('ajax-pause')/*.html('Play')*/.hide();
-                  $('.trackBox-1.playing').removeClass('playing');
-                  $('.show-popup-player[track_id=' + clicked_track_id + ']').parents(':eq(1)').addClass('playing');
+                    $('.trackBox-1.playing').find('.show-popup-player').removeClass('ajax-pause')/*.html('Play')*/.hide();
+                    $('.trackBox-1.playing').removeClass('playing');
+                    $('.show-popup-player[track_id=' + clicked_track_id + ']').parents(':eq(1)').addClass('playing');
 
-                  $('.ajax-track-loading').each(function(i, el){$(el).hide();})
-                  $('.show-popup-player').each(function(i, el){$(el).show();});
+                    $('.ajax-track-loading').each(function (i, el) {
+                        $(el).hide();
+                    })
+                    $('.show-popup-player').each(function (i, el) {
+                        $(el).show();
+                    });
 
-                  $('.show-popup-player[track_id=' + clicked_track_id + ']').hide();
-                  $('.show-popup-player[track_id=' + clicked_track_id + ']').parent().find('.ajax-track-loading').show();
+                    $('.show-popup-player[track_id=' + clicked_track_id + ']').hide();
+                    $('.show-popup-player[track_id=' + clicked_track_id + ']').parent().find('.ajax-track-loading').show();
                 }
 
-              }
             }
+        }
 
-            ev.preventDefault();
-          });
+        ev.preventDefault();
+    });
 
 
-          /*Prev && Next pages*/
-          $('.player-controls .main .next').click(function(ev){
-            //Filter event for real clicks on `Next` html elements in player
-            if(ev.originalEvent != undefined){
-              if($('.tracks .playing').index() == 9 && (window.location.href).indexOf('/carts')===-1){
+    /*Prev && Next pages*/
+    $('.player-controls .main .next').click(function (ev) {
+        //Filter event for real clicks on `Next` html elements in player
+        if (ev.originalEvent != undefined) {
+            if ($('.tracks .playing').index() == 9 && (window.location.href).indexOf('/carts') === -1) {
                 $('.jPlayer-container').data('pageAutoload', 'next');
                 $('.jPlayer-container').jPlayer('stop');
                 $('.paginator-1 .next a').click();
                 throw '';
-              }
             }
-          });
-          $('.player-controls .main .previous').click(function(ev){
-            //Filter event for real clicks on `Prev` html elements in player
-            if(ev.originalEvent != undefined){
-              if($('.tracks .playing').index() == 0 && (window.location.href).indexOf('/carts')===-1){
+        }
+        //It's a spike - after reloading with active player if we click 'Next' somehow we're on the track with index '2'
+        if($('.tracks .playing').index()<0 && playing_index==-5){
+        	debugger;
+        	for (var i = 0; i < 2; i++) 
+        		$('.ttw-music-player .jp-previous').click();
+        	var playing_id = $('.ttw-music-player').attr('current_track_id');
+        	if(playing_id && $('a[track_id='+playing_id+']')){
+        		$(playlist).each(function (i, el) {
+                    if (el.track_id == playing_id) {
+                    	playing_index = i;
+                    	return; 
+                    }
+                });
+        	}else{
+        		playing_index = 0;
+        	}
+        }
+    });
+
+    $('.player-controls .main .previous').click(function (ev) {
+        //Filter event for real clicks on `Prev` html elements in player
+        if (ev.originalEvent != undefined) {
+            if ($('.tracks .playing').index() == 0 && (window.location.href).indexOf('/carts') === -1) {
                 $('.jPlayer-container').data('pageAutoload', 'prev');
                 $('.jPlayer-container').jPlayer('stop');
                 $('.paginator-1 .prev a').click();
                 throw '';
-              }
             }
-          });
-          /**********/
+        }
+    });
+    /**********/
 
 
-          $('.close-player').click(function(ev){
-            $('.ttw-music-player').hide();
-            $('.jPlayer-container').jPlayer('stop');
-            ev.preventDefault();
-          });
+    $('.close-player').click(function (ev) {
+        $('.ttw-music-player').hide();
+        $('.jPlayer-container').jPlayer('stop');
+        ev.preventDefault();
+    });
 
-          $('.track-info-icon').hover(function(){
-            $('.track-info-content').show();
-          }, function(){
-            $('.track-info-content').hide();
-          });
+    $('.track-info-icon').hover(function () {
+        $('.track-info-content').show();
+    }, function () {
+        $('.track-info-content').hide();
+    });
 
 
-          //Cart Buttons Events Handlers
-          $('.add2cart-player').click(function(ev){
-            var addId = $('.ttw-music-player').attr('current_track_id');
+    //Cart Buttons Events Handlers
+    $('.add2cart-player').click(function (ev) {
+        var addId = $('.ttw-music-player').attr('current_track_id');
+        var itemId = null;
 
-            if(addId!=undefined){
-              $.ajax({
-                url: '/carts/add2cart/' + addId,
-                success: function(resp){
+        if (addId != undefined) {
+            if (packs[addId] === undefined) {
+                var itemType = 'track';
+                var itemId = addId;
+            } else {
+                var itemType = 'pack';
+                var itemId = packs[addId];
+            }
 
-                  $('#add-to-cart-'+addId).hide();
-                  $('#remove-from-cart-'+addId).show();
+            $.ajax({
+                url: '/carts/add2cart/' + itemType + '/' + itemId,
+                success: function (resp) {
+                    $('#add-to-cart-' + itemId).hide();
+                    $('#remove-from-cart-' + itemId).show();
 
-                  $('#ajax-player-indicator').hide();
-                  $('.remove-from-cart-player').show();
-                  $.ajax({
-                    url: '/carts/count_tracks',
-                    success: function(resp2){
-                      $('#head_cart').html(resp2);
+                    $('#ajax-player-indicator').hide();
+                    $('.remove-from-cart-player').show();
+                    $.ajax({
+                        url: '/carts/count_items',
+                        success: function (resp2) {
+                            $('#head_cart').html(resp2);
+                        }
+                    });
+
+                    if (itemType === 'pack') {
+                        packs_json[itemId]['in_cart'] = true;
+                    } else {
+                        tracks_json[itemId]['in_cart'] = true;
                     }
-                  });
-                  tracks_json[addId]['in_cart'] = true;
                 },
-                fail: function() {
-                  console.log("error");
-                  $('.add2cart-player').show();
-                  $('#ajax-player-indicator').hide();
+                fail: function () {
+                    console.log("error");
+                    $('.add2cart-player').show();
+                    $('#ajax-player-indicator').hide();
                 },
-                beforeSend: function(){
-                  $('.add2cart-player').hide();
-                  $('#ajax-player-indicator').show();
+                beforeSend: function () {
+                    $('.add2cart-player').hide();
+                    $('#ajax-player-indicator').show();
                 }
-              });
+            });
+        }
+
+        ev.preventDefault();
+    });
+
+    $('.remove-from-cart-player').click(function (ev) {
+        var removeId = $('.ttw-music-player').attr('current_track_id');
+
+        if (removeId != undefined) {
+            if (packs[removeId] === undefined) {
+                var itemType = 'track';
+                var itemId = removeId;
+            } else {
+                var itemType = 'pack';
+                var itemId = packs[removeId];
             }
 
-            ev.preventDefault();
-          });
+            $.ajax({
+                url: '/carts/remove_from_cart/' + itemType + '/' + itemId,
+                success: function (resp) {
 
-          $('.remove-from-cart-player').click(function(ev){
-            var removeId = $('.ttw-music-player').attr('current_track_id');
-            if(removeId!=undefined){
-              $.ajax({
-                url: '/carts/remove_from_cart/' + removeId,
-                success: function(resp){
+                    $('#add-to-cart-' + itemId).show();
+                    $('#remove-from-cart-' + itemId).hide();
 
-                  $('#add-to-cart-'+removeId).show();
-                  $('#remove-from-cart-'+removeId).hide();
+                    $('#ajax-player-indicator').hide();
+                    $('.add2cart-player').show();
 
-                  $('#ajax-player-indicator').hide();
-                  $('.add2cart-player').show();
-
-                  //This means that we're on a `/carts` page
-                  if((location.href).indexOf('/carts')>0){
-                    $('#cart_item_' +removeId).remove();
-                    $('#total_price').html(format_price(recalculate_total_price()));
-                  }
-
-
-                  $.ajax({
-                    url: '/carts/count_tracks',
-                    success: function(resp2){
-                      $('#head_cart').html(resp2);
+                    //This means that we're on a `/carts` page
+                    if ((location.href).indexOf('/carts') > 0) {
+                        $('#cart_item_' + removeId).remove();
+                        $('#total_price').html(format_price(recalculate_total_price()));
                     }
-                  });
-                  tracks_json[removeId]['in_cart'] = false;
+
+
+                    $.ajax({
+                        url: '/carts/count_items',
+                        success: function (resp2) {
+                            $('#head_cart').html(resp2);
+                        }
+                    });
+
+                    if (itemType === 'pack') {
+                        packs_json[itemId]['in_cart'] = false;
+                    } else {
+                        tracks_json[itemId]['in_cart'] = false;
+                    }
                 },
-                fail: function() {
-                  console.log("error");
-                  $('#ajax-player-indicator').hide();
-                  $('.remove-from-cart-player').show();
+                fail: function () {
+                    console.log("error");
+                    $('#ajax-player-indicator').hide();
+                    $('.remove-from-cart-player').show();
                 },
-                beforeSend: function(){
-                  $('.remove-from-cart-player').hide();
-                  $('#ajax-player-indicator').show();
+                beforeSend: function () {
+                    $('.remove-from-cart-player').hide();
+                    $('#ajax-player-indicator').show();
                 }
-              });
-            }
+            });
+        }
 
-            ev.preventDefault();
-          });
+        ev.preventDefault();
+    });
 
-          $('.download-track-owner').click(function(ev){
-            var downloadId = $('.ttw-music-player').attr('current_track_id');
-            if(downloadId!=undefined){
-              $('.download-track-owner').attr('href', '/tracks/download/' + tracks_json[downloadId]['Track']['storage_id'] + '/' + tracks_json[downloadId]['Track']['format']);
-            }
-          });
+    $('.download-track-owner').click(function (ev) {
+        var downloadId;
+        var format;
+        var storage;
+        var itemType;
 
-          /***End cart buttons***/
+        if ($(this).attr('pack_id')) {
+            downloadId = $(this).attr('pack_id');
+            itemType = 'pack';
+            format = 'zip';
+            storage = packs_json[downloadId]['storage_id'];
+        } else {
+            downloadId = $('.ttw-music-player').attr('current_track_id');
+            itemType = 'track';
+            format = tracks_json[downloadId]['Track']['format'];
+            storage = tracks_json[downloadId]['Track']['storage_id'];
+        }
 
-          $("body").on('mouseenter', '.track-info-inbody', function(ev){
-              $(ev.currentTarget).parents(':eq(1)').
-              find('.track-info-inbody-content').
-              show().
-              position({
-                my:'left top',
-                at:'left bottom',
+        if (downloadId != undefined) {
+            $('.download-track-owner').attr('href', '/' + itemType + 's/download/' + storage + '/' + format);
+        }
+    });
+
+    /***End cart buttons***/
+
+    $("body").on('mouseenter', '.track-info-inbody', function (ev) {
+        $(ev.currentTarget).parents(':eq(1)').
+            find('.track-info-inbody-content').
+            show().
+            position({
+                my: 'left top',
+                at: 'left bottom',
                 of: $(ev.currentTarget).parents(':eq(1)').find('.track-info-inbody')
-              });
-          });
-          $("body").on('mouseleave', '.track-info-inbody', function(ev){
-              $(ev.currentTarget).parents(':eq(1)').find('.track-info-inbody-content').hide();
-          });
+            });
+    });
+    $("body").on('mouseleave', '.track-info-inbody', function (ev) {
+        $(ev.currentTarget).parents(':eq(1)').find('.track-info-inbody-content').hide();
+    });
 
-          $('body').delegate('.sp_top a.show-popup-player', 'click', function(ev){
-            $('.ttw-music-player').show();
-          });
-
-
-          $("body").on('mouseenter', '.download-preview-inbody', function(ev){
-              $(ev.currentTarget).parents(':eq(1)').
-                find('.download-preview-popup').
-                show().
-                position({
-                  my:'left top',
-                  at:'left bottom',
-                  of: $(ev.currentTarget).parents(':eq(1)').find('.download-preview-inbody')
-              });
-          });
-          $("body").on('mouseleave', '.download-preview-inbody', function(ev){
-              $(ev.currentTarget).parents(':eq(1)').find('.download-preview-popup').hide();
-          });
+    $('body').delegate('.sp_top a.show-popup-player', 'click', function (ev) {
+        $('.ttw-music-player').show();
+    });
 
 
+    $("body").on('mouseenter', '.download-preview-inbody', function (ev) {
+        $(ev.currentTarget).parents(':eq(1)').
+            find('.download-preview-popup').
+            show().
+            position({
+                my: 'left top',
+                at: 'left bottom',
+                of: $(ev.currentTarget).parents(':eq(1)').find('.download-preview-inbody')
+            });
+    });
+    $("body").on('mouseleave', '.download-preview-inbody', function (ev) {
+        $(ev.currentTarget).parents(':eq(1)').find('.download-preview-popup').hide();
+    });
 
 
-          //Ajax Pages Loader
-          //Links selector that can be loaded by ajax-loader
-          $('body').delegate(".ajax-page-link, .paginator-1 a, .breadcrumb-1 a, .browse-page-genre-list a, .Menu a, .browse-page-genre-list-new a, .browse-page-content-right a:not(#track-embed-id,#track-email_it-id), .crumbs-1 a, .trackBox-1-left a:not(.removeTrackFromCart a, a.download-preview-inbody), .sp_play_title a, .ttw-music-player .track-info a, .Tracks-Pagination .pagination a",
+    //Ajax Pages Loader
+    //Links selector that can be loaded by ajax-loader
+    $('body').delegate(".ajax-page-link, .paginator-1 a, .breadcrumb-1 a, .browse-page-genre-list a, .Menu a, .browse-page-genre-list-new a, .browse-page-content-right a:not(#track-embed-id,#track-email_it-id), .crumbs-1 a, .trackBox-1-left a:not(.removeTrackFromCart a, a.download-preview-inbody), .sp_play_title a, .ttw-music-player .track-info a, .Tracks-Pagination .pagination a",
 
-            'click',
+        'click',
 
-            function(ev){
+        function (ev) {
 
-              var url = this.href;
+            var url = this.href;
 
-              //Using Ajax load if player is active
-              if(isPlayerActive() == true){
+            //Using Ajax load if player is active
+            if (isPlayerActive() == true) {
 
                 ajax_handler = $.ajax({
-                  url: url,
-                  async:true,
-                  cache:true,
-                  success:function(data, textStatus){
+                    url: url,
+                    async: true,
+                    cache: true,
+                    success: function (data, textStatus) {
 
-                  	$('#ajax-spinner').hide();
-                  	$('#content-center').html(data);
+                        $('#ajax-spinner').hide();
+                        $('#content-center').html(data);
+
+                        //Change title for page - we're transfer it in element with display:none & visibility:0
+                        //to prevent it's displaying 
+                        if($('section#page-title').text())
+                            document.title = $('section#page-title').text();
+
+                        // Select menu active menu item
+                        $('.Menu').find('.Active').removeClass('Active');
+
+                        var active_flag = false;
+
+                        $('.menuItemlink').each(function(){
+                            if (url.match(new RegExp($(this).attr('href').replace(/\//g, '\/') + '$')) != null) {
+                                $(this).parents('li:first').addClass('Active');
+
+                                active_flag = true;
+                            }
+                        });
+
+                        if (!active_flag) {
+                            $('.dropDownMenu1-1 li a').each(function(){
+                                if (url.match(new RegExp($(this).attr('href').replace(/\//g, '\/') + '$')) != null) {
+                                    $(this).parents('.menuLiActive').addClass('Active');
+                                }
+                            });
+                        }
+
+                        try {
+                            history.pushState({ignore_m_safari: true}, null, url);
+                        } catch (err) {
+                            window.location.hash = '/#!/' + url;
+                        }
+
+                        //Get Ids
+                        getTracksListFromHtml();
+
+                        //Rebuild Playlist after reload: true arguments means additional action
+                        if ($(ev.currentTarget).parents(':eq(2)').hasClass('trackBox-1-left'))
+                            reloadPlaylist('social', url);
+                        //This means that page loader was called with code but not original click
+                        else if (ev.originalEvent == undefined)
+                            reloadPlaylist('pageAutoload');
+                        else
+                            reloadPlaylist();
+
+
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        /***********/
+                        console.log(jqXHR);
+                        console.log(textStatus);
+                        console.log(errorThrown);
+                        /***********/
+                        $('.browse-page').before('<div class="ajax-error" style="width: 100%;text-align: center;padding: 20px;margin: 30px 0 10px 0;background-color: #FFEDED;border-radius: 10px;border: 1px solid maroon;">Sorry. Something goes wrong.</div>');
+
+                        setTimeout(function () {
+                            $(".ajax-error").hide()
+                        }, 20000);
+
+                        $('#ajax-spinner').hide();
+                    },
+                    beforeSend: function () {
+                        playerIsReady = false;
+                        $('#ajax-spinner').show();
+                    }
+                });
+
+            } else {
+                window.location = url;
+            }
+
+            ev.preventDefault();
+
+        });
+
+    /*html5 History - `back` and `forward` buttons*/
+    $(window).bind('popstate', function (ev) {
+        var url = window.location.href;
+
+        //Mobile Safari bug
+        //This check help us proceed only manualy added History.pushState() instances
+        //http://stackoverflow.com/questions/10756893/how-to-ignore-popstate-initial-load-working-with-pjax
+        if (ev.originalEvent.state == undefined || !ev.originalEvent.state.ignore_m_safari) return;
+
+        if (isPlayerActive() && historyApiAvailable()) {
+            ajax_handler = $.ajax({
+                url: url,
+                async: true,
+                cache: true,
+                success: function (data, textStatus) {
+                    $('#ajax-spinner').hide();
+                    $('#content-center').html(data);
+                    //Get Ids
+                    getTracksListFromHtml();
+                    //Rebuild Playlist after reload: true arguments means additional action
+                    if ($(ev.currentTarget).parents(':eq(2)').hasClass('trackBox-1-left'))
+                        reloadPlaylist('social', url);
+                    //This means that page loader was called with code but not original click
+                    else if (ev.originalEvent == undefined)
+                        reloadPlaylist('pageAutoload');
+                    else
+                        reloadPlaylist();
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    /***********/
+                    console.log(jqXHR);
+                    console.log(textStatus);
+                    console.log(errorThrown);
+                    /***********/
+                    $('.browse-page').before('<div class="ajax-error" style="width: 100%;text-align: center;padding: 20px;margin: 30px 0 10px 0;background-color: #FFEDED;border-radius: 10px;border: 1px solid maroon;">Sorry. Something goes wrong.</div>');
+                    setTimeout(function () {
+                        $(".ajax-error").hide()
+                    }, 20000);
+                    $('#ajax-spinner').hide();
+                },
+                beforeSend: function () {
+                    playerIsReady = false;
+                    $('#ajax-spinner').show();
+                }
+            });
+        } else {
+            window.location = url;
+        }
+    });
+
+
+    var reinitSocialButtons = function (page_url) {
+        var track_id = current_track_id;
+        var track = tracks_json[track_id];
+
+        $('#st_facebook_large').empty();
+        stWidget.addEntry({
+            "service": "facebook",
+            "element": document.getElementById('st_facebook_large'),
+            "url": page_url,
+            "title": track.Track.title,
+            "type": "large"
+        });
+        $('#st_twitter_large').empty();
+        stWidget.addEntry({
+            "service": "twitter",
+            "element": document.getElementById('st_twitter_large'),
+            "url": page_url,
+            "title": "You must hear this track",
+            //"title": track.Track.title,
+            "via": "audiomicro #royaltyfreemusic #soundeffects #audiomicro",
+            "type": "large"
+        });
+        $('#st_googleplus_large').empty();
+        stWidget.addEntry({
+            "service": "googleplus",
+            "element": document.getElementById('st_googleplus_large'),
+            "url": page_url,
+            "title": track.Track.title,
+            "type": "large"
+        });
+        $('#st_email_large').empty();
+        stWidget.addEntry({
+            "service": "email",
+            "element": document.getElementById('st_email_large'),
+            "url": page_url,
+            "title": track.Track.title,
+            "type": "large"
+        });
+    };
+
+    /*Ajax-search handling while ajax-player is playing*/
+    $('#simple-search').submit(function (ev) {
+        if (isPlayerActive() == true) {
+            url = '/tracks/search?query=' + $('#simple-search').find('input[name=query]').val() + '&Category=' + $('#simple-search').find('#SearchCategory').val();
+            $.ajax({
+                url: url,
+                success: function (data, code) {
+
+                    $('#ajax-spinner').hide();
+                    $('#content-center').html(data);
 
                     try {
-                      history.pushState({ignore_m_safari:true},null,url);
-
-                    }catch(err){
-                      window.location.hash = '/#!/' + url;
+                        history.pushState({ignore_m_safari: true}, null, url);
+                    } catch (err) {
+                        window.location.hash = '/#!/' + url;
                     }
 
                     //Get Ids
                     getTracksListFromHtml();
+                    reloadPlaylist();
 
-                    //Rebuild Playlist after reload: true arguments means additional action
-                    if($(ev.currentTarget).parents(':eq(2)').hasClass('trackBox-1-left'))
-                      reloadPlaylist('social', url);
-                    //This means that page loader was called with code but not original click
-                    else if(ev.originalEvent == undefined)
-                      reloadPlaylist('pageAutoload');
-                    else
-                      reloadPlaylist();
-
-
-                  },
-                  error:function(jqXHR, textStatus, errorThrown ){
+                    //playing_index = -5;
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
                     /***********/
                     console.log(jqXHR);
                     console.log(textStatus);
@@ -1000,358 +1342,197 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
                     /***********/
                     $('.browse-page').before('<div class="ajax-error" style="width: 100%;text-align: center;padding: 20px;margin: 30px 0 10px 0;background-color: #FFEDED;border-radius: 10px;border: 1px solid maroon;">Sorry. Something goes wrong.</div>');
 
-                    setTimeout(function() {
+                    setTimeout(function () {
                         $(".ajax-error").hide()
                     }, 20000);
 
                     $('#ajax-spinner').hide();
-                  },
-                  beforeSend: function(){
+                },
+                beforeSend: function () {
                     playerIsReady = false;
                     $('#ajax-spinner').show();
-                  }
-                });
-
-              }else{
-                window.location = url;
-              }
-
-            ev.preventDefault();
-
-          });
-
-    		/*html5 History - `back` and `forward` buttons*/
-    		$(window).bind('popstate', function(ev) {
-    			var url = window.location.href;
-
-
-          //Mobile Safari bug
-          //This check help us proceed only manualy added History.pushState() instances
-          //http://stackoverflow.com/questions/10756893/how-to-ignore-popstate-initial-load-working-with-pjax
-          if (!ev.originalEvent.state.ignore_m_safari) return;
-
-          if(isPlayerActive() && historyApiAvailable()){
-            ajax_handler = $.ajax({
-            	url: url,
-            	async:true,
-            	cache:true,
-            	success:function(data, textStatus){
-	              	$('#ajax-spinner').hide();
-	              	$('#content-center').html(data);
-	                //Get Ids
-	                getTracksListFromHtml();
-	                //Rebuild Playlist after reload: true arguments means additional action
-	                if($(ev.currentTarget).parents(':eq(2)').hasClass('trackBox-1-left'))
-	                  reloadPlaylist('social', url);
-	                //This means that page loader was called with code but not original click
-	                else if(ev.originalEvent == undefined)
-	                  reloadPlaylist('pageAutoload');
-	                else
-	                  reloadPlaylist();
-            	},
-	            error:function(jqXHR, textStatus, errorThrown ){
-	                /***********/
-	                console.log(jqXHR);
-	                console.log(textStatus);
-	                console.log(errorThrown);
-	                /***********/
-	                $('.browse-page').before('<div class="ajax-error" style="width: 100%;text-align: center;padding: 20px;margin: 30px 0 10px 0;background-color: #FFEDED;border-radius: 10px;border: 1px solid maroon;">Sorry. Something goes wrong.</div>');
-	                setTimeout(function() {
-	                    $(".ajax-error").hide()
-	                }, 20000);
-	                $('#ajax-spinner').hide();
-	            },
-	            beforeSend: function(){
-	                playerIsReady = false;
-	                $('#ajax-spinner').show();
-	            }
-            });
-	        }else{
-	        	window.location = url;
-	        }
-		    });
-
-
-        var reinitSocialButtons = function(page_url){
-
-           var track_id = Object.keys(tracks_json);
-           var track = tracks_json[track_id];
-
-           $('#st_facebook_large').empty();
-           stWidget.addEntry({
-            "service":"facebook",
-            "element":document.getElementById('st_facebook_large'),
-            "url": page_url,
-            "title": track.Track.title,
-            "type":"large"
-           });
-           $('#st_twitter_large').empty();
-           stWidget.addEntry({
-            "service":"twitter",
-            "element":document.getElementById('st_twitter_large'),
-            "url": page_url,
-            "title":"You must hear this track",
-            //"title": track.Track.title,
-            "via": "audiomicro #royaltyfreemusic #soundeffects #audiomicro",
-            "type":"large"
-           });
-           $('#st_googleplus_large').empty();
-           stWidget.addEntry({
-            "service":"googleplus",
-            "element":document.getElementById('st_googleplus_large'),
-            "url": page_url,
-            "title": track.Track.title,
-            "type":"large"
-           });
-           $('#st_email_large').empty();
-           stWidget.addEntry({
-            "service":"email",
-            "element":document.getElementById('st_email_large'),
-            "url": page_url,
-            "title": track.Track.title,
-            "type":"large"
-           });
-
-        };
-
-
-        /*Ajax-search handling while ajax-player is playing*/
-        $('#simple-search').submit(function(ev){
-          if(isPlayerActive()==true){
-            url = '/tracks/search?query='+$('#simple-search').find('input[name=query]').val()+'&Category='+$('#simple-search').find('#SearchCategory').val();
-            $.ajax({
-              url: url,
-              success: function(data, code){
-
-                $('#ajax-spinner').hide();
-                $('#content-center').html(data);
-
-                try {
-
-                  history.pushState({ignore_m_safari:true},null,url);
-
-                }catch(err){
-                  window.location.hash = '/#!/' + url;
                 }
 
-                //Get Ids
-                getTracksListFromHtml();
-                reloadPlaylist();
-
-                //playing_index = -5;
-              },
-              error:function(jqXHR, textStatus, errorThrown ){
-                /***********/
-                console.log(jqXHR);
-                console.log(textStatus);
-                console.log(errorThrown);
-                /***********/
-                $('.browse-page').before('<div class="ajax-error" style="width: 100%;text-align: center;padding: 20px;margin: 30px 0 10px 0;background-color: #FFEDED;border-radius: 10px;border: 1px solid maroon;">Sorry. Something goes wrong.</div>');
-
-                setTimeout(function() {
-                    $(".ajax-error").hide()
-                }, 20000);
-
-                $('#ajax-spinner').hide();
-              },
-              beforeSend: function(){
-                playerIsReady = false;
-                $('#ajax-spinner').show();
-              }
-
             });
             ev.preventDefault();
-          }
-        });
+        }
+    });
+
+    /*$('#ajax-player-back').click(function(){
+     //TODO: get ajax page by history API
+     window.history.back();
+     });
+     $('#ajax-player-forward').click(function(){
+     //TODO: get ajax page by history API
+     window.history.forward();
+     });*/
 
 
-        /*$('#ajax-player-back').click(function(){
-          //TODO: get ajax page by history API
-          window.history.back();
-        });
-        $('#ajax-player-forward').click(function(){
-          //TODO: get ajax page by history API
-          window.history.forward();
-        });*/
+    /*Hotkeys handlers for player init*/
+    $(document).keydown(function (e) {
+        //console.log(e.keyCode);
+        //e.keyCode - ascii code of clicked symbol
+        //e.ctrlKey - boolean, means that key was pressed with ctrl
+
+        var availableKeys = [
+            37, //`Left` Key - 37 ascii code
+            39, //`Right` Key - 39 ascii code
+            32, // Space - 32 ascii code
+            27  // Esc - 27 ascii code
+        ];
+        var keyMatched = availableKeys.indexOf(e.keyCode);
+
+        if (keyMatched > 0 || keyMatched === 0)
+            keyboardHotkeysHandler(e);
+    });
 
 
+    var keyboardHotkeysHandler = function (defEv) {
 
-
-        /*Hotkeys handlers for player init*/
-        $(document).keydown(function(e) {
-            //console.log(e.keyCode);
-            //e.keyCode - ascii code of clicked symbol
-            //e.ctrlKey - boolean, means that key was pressed with ctrl
-
-            var availableKeys = [
-              37, //`Left` Key - 37 ascii code
-              39, //`Right` Key - 39 ascii code
-              32, // Space - 32 ascii code
-              27  // Esc - 27 ascii code
-            ];
-            var keyMatched = availableKeys.indexOf(e.keyCode);
-
-            if(keyMatched>0 || keyMatched===0)
-              keyboardHotkeysHandler(e);
-        });
-
-
-        var keyboardHotkeysHandler = function(defEv){
-
-          //Activate Hotkeys only on player is active
-          if(isPlayerActive() && !isAnyTextfieldActive()){
-            if($('.player-controls').data('ui-tooltip')) $('.player-controls').tooltip('destroy');
+        //Activate Hotkeys only on player is active
+        if (isPlayerActive() && !isAnyTextfieldActive()) {
+            if ($('.player-controls').data('ui-tooltip')) $('.player-controls').tooltip('destroy');
             //Left Key Clicked without Ctrl
-            if(defEv.keyCode==37 && !defEv.ctrlKey){
-              if($('.tracks .playing').index() == 0 && (window.location.href).indexOf('/carts')===-1){
-                $('.jPlayer-container').data('pageAutoload', 'prev');
-                $('.jPlayer-container').jPlayer('stop');
-                $('.paginator-1 .prev a').click();
-              }else{
-                $('.jp-previous').click();
-              }
+            if (defEv.keyCode == 37 && !defEv.ctrlKey) {
+                if ($('.tracks .playing').index() == 0 && (window.location.href).indexOf('/carts') === -1) {
+                    $('.jPlayer-container').data('pageAutoload', 'prev');
+                    $('.jPlayer-container').jPlayer('stop');
+                    $('.paginator-1 .prev a').click();
+                } else {
+                    $('.jp-previous').click();
+                }
             }
             //Right Key Clicked without Ctrl
-            if(defEv.keyCode==39 && !defEv.ctrlKey){
-              if($('.tracks .playing').index() == 9 && (window.location.href).indexOf('/carts')===-1){
-                $('.jPlayer-container').data('pageAutoload', 'next');
-                $('.jPlayer-container').jPlayer('stop');
-                $('.paginator-1 .next a').click();
-              }else{
-                $('.jp-next').click();
-              }
+            if (defEv.keyCode == 39 && !defEv.ctrlKey) {
+                if ($('.tracks .playing').index() == 9 && (window.location.href).indexOf('/carts') === -1) {
+                    $('.jPlayer-container').data('pageAutoload', 'next');
+                    $('.jPlayer-container').jPlayer('stop');
+                    $('.paginator-1 .next a').click();
+                } else {
+                    $('.jp-next').click();
+                }
             }
             //Esc Key
-            if(defEv.keyCode==27 && !defEv.ctrlKey){
-              $('.ttw-music-player').hide();
-              $('.jPlayer-container').jPlayer('stop');
+            if (defEv.keyCode == 27 && !defEv.ctrlKey) {
+                $('.ttw-music-player').hide();
+                $('.jPlayer-container').jPlayer('stop');
             }
             //Space Key
-            if(defEv.keyCode==32 && !defEv.ctrlKey){
-              if($('.jPlayer-container').data('jPlayer').status.paused == true)
-                $('.jPlayer-container').jPlayer('play');
-              else
-                $('.jPlayer-container').jPlayer('pause');
+            if (defEv.keyCode == 32 && !defEv.ctrlKey) {
+                if ($('.jPlayer-container').data('jPlayer').status.paused == true)
+                    $('.jPlayer-container').jPlayer('play');
+                else
+                    $('.jPlayer-container').jPlayer('pause');
             }
 
             defEv.preventDefault();
-          }
+        }
 
-        };
-        /*End Hotkeys handlers*/
+    };
+    /*End Hotkeys handlers*/
 
-        /*
-         Method is checking for any active input field(search bar) OR textarea(olark livechat).
-         If yeah then suspend hotkeys
-        */
-        var isAnyTextfieldActive = function(){
-          return $('input[type=text]:focus, textarea:focus').length>0;
-        };
-
-
+    /*
+     Method is checking for any active input field(search bar) OR textarea(olark livechat).
+     If yeah then suspend hotkeys
+     */
+    var isAnyTextfieldActive = function () {
+        return $('input[type=text]:focus, textarea:focus').length > 0;
+    };
 
 
-      /*Hotkeys Tooltip over Ajax-Player Init && Configuration*/
-      function getCookie(cname) {
-          var name = cname + "=";
-          var ca = document.cookie.split(';');
-          for(var i=0; i<ca.length; i++) {
-              var c = ca[i];
-              while (c.charAt(0)==' ') c = c.substring(1);
-              if (c.indexOf(name) != -1) return c.substring(name.length,c.length);
-          }
-          return "";
-      }
+    /*Hotkeys Tooltip over Ajax-Player Init && Configuration*/
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1);
+            if (c.indexOf(name) != -1) return c.substring(name.length, c.length);
+        }
+        return "";
+    }
 
-      //Init tooltip if user didn't close it before
-      $('.player-controls').hover(function(){
-        if (!getCookie('hide_hotkeys_tooltip')==false) return;
+    //Init tooltip if user didn't close it before
+    $('.player-controls').hover(function () {
+        if (!getCookie('hide_hotkeys_tooltip') == false) return;
         $('.player-controls').tooltip({
-          content: $('#jPlayer-tooltip-content').html(),
-          show: {
-            delay: 1000
-          },
-          hide: {
-            delay: 2000
-          },
-          position: {
-            my: "center bottom-20",
-            at: "center-435 top",
-            using: function( position, feedback ) {
-              $( this ).css( position );
+            content: $('#jPlayer-tooltip-content').html(),
+            show: {
+                delay: 1000
+            },
+            hide: {
+                delay: 2000
+            },
+            position: {
+                my: "center bottom-20",
+                at: "center-435 top",
+                using: function (position, feedback) {
+                    $(this).css(position);
 
-              $( "<div>" )
-                .addClass( "arrow" )
-                .addClass( feedback.vertical )
-                .addClass( feedback.horizontal )
-                .appendTo( this );
+                    $("<div>")
+                        .addClass("arrow")
+                        .addClass(feedback.vertical)
+                        .addClass(feedback.horizontal)
+                        .appendTo(this);
+                }
             }
-          }
         });
-      }, function(){
+    }, function () {
         return;
-      });
+    });
 
 
-      $('body').delegate(".ui-tooltip-content .close", 'click' , function(){
+    $('body').delegate(".ui-tooltip-content .close", 'click', function () {
         $('.player-controls').tooltip('destroy');
         document.cookie = "hide_hotkeys_tooltip=true; expires=Fri, 31 Dec 9999 23:59:59 GMT; path=/";
-      });
+    });
 
-      /*End Hotkeys Tooltip*/
-
-
-
-  });
-
+    /*End Hotkeys Tooltip*/
+});
 </script>
 
 
 
-
-
-
-
 <div id="jPlayer-tooltip-content" style="display:none">
-  <div class="close"></div>
-  You can control the player with the following keys while the player is active:<br>
-  <ol>
-      <li>Click the Right Arrow on your keyboard to play the next track</li>
-      <li>Click the Left Arrow on your keyboard to play the previous track</li>
-      <li>Click the Space Bar to Play/Pause the current track</li>
-      <li>Click Esc to close the player</li>
-  </ol>
+    <div class="close"></div>
+    You can control the player with the following keys while the player is active:<br>
+    <ol>
+        <li>Click the Right Arrow on your keyboard to play the next track</li>
+        <li>Click the Left Arrow on your keyboard to play the previous track</li>
+        <li>Click the Space Bar to Play/Pause the current track</li>
+        <li>Click Esc to close the player</li>
+    </ol>
 
 </div>
 
 
 <div class="ttw-music-player" style="display:none" title="">
-  <div class="close-player"></div>
-  <div class="player jp-interface">
+    <div class="close-player"></div>
+    <div class="player jp-interface">
         <div class="recent-play-wrapper">
-          <a href="/tracks/history" class="recent-plays-link">Recent Plays</a>
+            <a href="/tracks/history" class="recent-plays-link">Recent Plays</a>
         </div>
         <div class="player-controls">
             <div class="main">
-                  <div class="previous jp-previous"></div>
-                  <div class="play jp-play"></div>
-                  <div class="pause jp-pause"></div>
-                  <div class="stop jp-stop" style="display:none; opacity:0;"></div>
-                  <div class="next jp-next"></div>
+                <div class="previous jp-previous"></div>
+                <div class="play jp-play"></div>
+                <div class="pause jp-pause"></div>
+                <div class="stop jp-stop" style="display:none; opacity:0;"></div>
+                <div class="next jp-next"></div>
             </div>
             <div class="volume-control" style="display:none; opacity:0;">
-                                    <span class="jp-mute"></span>
-                  <span class="jp-unmute"></span>
+                                <span class="jp-mute"></span>
+                <span class="jp-unmute"></span>
                   <span class="jp-volume-bar">
                      <span class="jp-volume-bar-value"></span>
                   </span>
-                  <span class="jp-volume-max"></span>
-                  <span class="jp-gui"></span>
-                  <span class="jp-repeat-off"></span>
-                  <span class="jp-repeat"></span>
-                  <span class="jp-restore-screen"></span>
-                  <span class="jp-full-screen"></span>
-                  <span class="jp-video-play"></span>
+                <span class="jp-volume-max"></span>
+                <span class="jp-gui"></span>
+                <span class="jp-repeat-off"></span>
+                <span class="jp-repeat"></span>
+                <span class="jp-restore-screen"></span>
+                <span class="jp-full-screen"></span>
+                <span class="jp-video-play"></span>
             </div>
         </div>
 
@@ -1361,36 +1542,36 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
                     </div>
 
         <div class="audiolevels">
-          <div class="audiolevel-track" style="background: url(/ajax-player/plugin/images/waves-waiting-for-load.png) no-repeat;"><div class="audiolevel-track-loadded" style="width: 0%; background: url(/ajax-player/images_white.php?user_id=9315&amp;storage_id=6ae23066f6c4963&amp;played=1) no-repeat;"></div></div>
-          <div class="time"><div class="jp-current-time"></div><span>/</span><div class="jp-duration"></div></div>
+            <div class="audiolevel-track" style="background: url(/ajax-player/plugin/images/waves-waiting-for-load.png) no-repeat;"><div class="audiolevel-track-loadded" style="width: 0%; background: url(/ajax-player/images_white.php?user_id=9315&amp;storage_id=6ae23066f6c4963&amp;played=1) no-repeat;"></div></div>
+            <div class="time"><div class="jp-current-time"></div><span>/</span><div class="jp-duration"></div></div>
         </div>
 
         <div class="icons-wrapper">
-          <div class="track-info-icon">
-            <div class="track-info-content">
-              <span class="g_parent">Genres: <span class="genres track-audio-params">-</span></span>
-              <span class="description_parent">Description: <span class="description">-</span></span>
-              <span>Format: <span class="format track-audio-params">-</span></span> | 
-              <span>Length: <span class="length track-audio-params">-</span></span> | 
-              <span>Bit Rate: <span class="bit_rate track-audio-params">-</span></span> | 
-              <span>Refresh Rate Khz: <span class="refresh_rate_khz track-audio-params">-</span></span> | 
-              <span>Bit Mode: <span class="bit_mode track-audio-params">-</span></span> | 
-              <span>BPM: <span class="bpm track-audio-params">-</span></span> | 
-              <span>Music Loop: <span class="music_loop track-audio-params">No</span></span> | 
-              <span>Bits Per Sample: <span class="bits_per_sample track-audio-params">-</span></span>
+            <div class="track-info-icon">
+                <div class="track-info-content">
+                    <span class="g_parent">Genres: <span class="genres track-audio-params">-</span></span>
+                    <span class="description_parent">Description: <span class="description">-</span></span>
+                    <span>Format: <span class="format track-audio-params">-</span></span> |
+                    <span>Length: <span class="length track-audio-params">-</span></span> |
+                    <span>Bit Rate: <span class="bit_rate track-audio-params">-</span></span> |
+                    <span>Refresh Rate Khz: <span class="refresh_rate_khz track-audio-params">-</span></span> |
+                    <span>Bit Mode: <span class="bit_mode track-audio-params">-</span></span> |
+                    <span>BPM: <span class="bpm track-audio-params">-</span></span> |
+                    <span>Music Loop: <span class="music_loop track-audio-params">No</span></span> |
+                    <span>Bits Per Sample: <span class="bits_per_sample track-audio-params">-</span></span>
+                </div>
             </div>
-          </div>
-          <a id="download-preview-in-player" alt="Download preview .mp3" rel="nofollow" title="Download preview .mp3" href="#"></a>
-        </div>
+                            <a id="download-preview-in-player" alt="Download preview .mp3" rel="nofollow" title="Download preview .mp3" href="#"></a>
+                    </div>
 
 
         <div class="purchase-ajax-buttons">
-          <a href="/subscribe" class="subscribe-button">Subscribe $10</a>
-          <a href="#" class="add2cart-player">Add To Cart $49.95</a>
-          <a href="#" class="remove-from-cart-player" style="display: none;">Remove From Cart</a>
-          <a href="#" class="download-track-owner" style="display: none;">Download Original</a>
-          <a href="#" class="download-button-player" style="display: none;">Download</a>
-          <img src="/ajax-player/plugin/images/ajax-loader.gif" width="24" height="24" id="ajax-player-indicator" style="display: none; margin: 0px 75px;" class="vMiddle">
+                            <a href="/subscribe" class="subscribe-button">Subscribe $10</a>
+                        <a href="#" class="add2cart-player">Add To Cart $49.95</a>
+            <a href="#" class="remove-from-cart-player" style="display: none;">Remove From Cart</a>
+            <a href="#" class="download-track-owner" style="display: none;">Download Original</a>
+            <a href="#" class="download-button-player" style="display: none;">Download</a>
+            <img src="/ajax-player/plugin/images/ajax-loader.gif" width="24" height="24" id="ajax-player-indicator" style="display: none; margin: 0px 75px;" class="vMiddle">
         </div>
 
 
@@ -1398,15 +1579,15 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
                         <div class="progress jp-seek-bar">
                 <div class="elapsed jp-play-bar"></div>
             </div>
-         </div>
-             </div>
+        </div>
+            </div>
 
     <div id="player-additional-info">
-       <p class="description"></p>
-       <div class="tracklist">
-           <ol class="tracks"> </ol>
-           <div class="more">View More...</div>
-       </div>
+        <p class="description"></p>
+        <div class="tracklist">
+            <ol class="tracks"> </ol>
+            <div class="more">View More...</div>
+        </div>
     </div>
     <div class="jPlayer-container"></div>
 
@@ -1430,10 +1611,17 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
             <li class="history">
                 <a href="/tracks/history" onclick="this.blur();">Recent Plays</a>            </li>
 
-			 <li class="fav">
-                <a href="/tracks/favorites/count:all" onclick="this.blur();">Favorites</a>            </li>
+			 <li class="fav" style="height: 26px;">
+                 <a href="/#" onclick="this.blur();">Favorites</a>
+                 <ul id="favoritesDropdown">
+                     <li>
+                         <a href="/tracks/favorites/count:all" onclick="this.blur();">Tracks</a>                     </li>
+                     <li>
+                         <a href="/packs/favorites/count:all" onclick="this.blur();">Loops Packs</a>                     </li>
+                 </ul>
+             </li>
 
-                
+            
 
             <li class="cart" id="head_cart">
                     <a href="/carts" rel="nofollow" onclick="this.blur();">Cart</a>
@@ -1506,411 +1694,213 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
 </div>
 
 <div class="NavigationBackground">
-            <div id="SubHeaderWrapper">
-      
-
-      <ul class="Menu">
-                                        <li class="menuLiActive"> <span>
-          <a href="/royalty-free-music" title="royalty free music" onclick="this.blur();">Royalty Free Music</a>          </span>
+    <div id="SubHeaderWrapper">
+              
+    <ul class="Menu">
+                
+        
+                <li class="menuLiActive"> <span>
+          <a href="/royalty-free-music" title="royalty free music" class="menuItemlink" onclick="this.blur();">Royalty Free Music</a>          </span>
           <div class="dropDownMenu-1 " style="display:none">
             <div class="dropDownMenu1-1">
               <ul>
-                                                                <li><a href="/royalty-free-stock-music/aerobics-and-workout">
-                  Aerobics and Workout                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/folk">
-                  Folk                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/polka">
-                  Polka                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/ambient">
-                  Ambient                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/funk">
-                  Funk                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/pop">
-                  Pop                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/animation-and-video-games">
-                  Animation and Video Games                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/hip-hop-and-rap">
-                  Hip Hop and Rap                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/r-and-b-rnb">
-                  R and B (RnB)                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/blues">
-                  Blues                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/holiday">
-                  Holiday                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/reggae">
-                  Reggae                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/children">
-                  Children                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/industrial">
-                  Industrial                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/rock">
-                  Rock                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/christian-and-gospel">
-                  Christian and Gospel                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/jazz">
-                  Jazz                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/ska">
-                  Ska                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/classical">
-                  Classical                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/latin">
-                  Latin                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/specialty">
-                  Specialty                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/corporate">
-                  Corporate                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/loops">
-                  Loops                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/spots">
-                  Spots                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/country">
-                  Country                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/metal">
-                  Metal                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/swing">
-                  Swing                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/disco">
-                  Disco                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/music-cues">
-                  Music Cues                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/television-scores">
-                  Television Scores                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/dubstep">
-                  Dubstep                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/new-age">
-                  New Age                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/urban">
-                  Urban                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/easy-listening">
-                  Easy Listening                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/news">
-                  News                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/variety">
-                  Variety                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/electronic">
-                  Electronic                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/old-west">
-                  Old West                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/wedding">
-                  Wedding                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/experimental-and-misc">
-                  Experimental and Misc                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/opera-and-vocal">
-                  Opera and Vocal                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/world">
-                  World                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/film-scores">
-                  Film Scores                  </a></li>
-                                                                                                <li><a href="/royalty-free-stock-music/orchestral">
-                  Orchestral                  </a></li>
-                                                              </ul>
+                                                            <li><a href="/royalty-free-stock-music/aerobics-and-workout">Aerobics and Workout</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/folk">Folk</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/orchestral">Orchestral</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/ambient">Ambient</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/funk">Funk</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/polka">Polka</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/animation-and-video-games">Animation and Video Games</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/hip-hop-and-rap">Hip Hop and Rap</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/pop">Pop</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/blues">Blues</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/holiday">Holiday</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/r-and-b-rnb">R and B (RnB)</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/children">Children</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/industrial">Industrial</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/reggae">Reggae</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/christian-and-gospel">Christian and Gospel</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/jazz">Jazz</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/rock">Rock</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/classical">Classical</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/latin">Latin</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/ska">Ska</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/corporate">Corporate</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/loops">Loops</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/specialty">Specialty</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/country">Country</a></li>
+                                                                                <li><a href="/loops-packs">Loops Packs</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/spots">Spots</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/disco">Disco</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/metal">Metal</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/swing">Swing</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/dubstep">Dubstep</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/music-cues">Music Cues</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/television-scores">Television Scores</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/easy-listening">Easy Listening</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/new-age">New Age</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/urban">Urban</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/electronic">Electronic</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/news">News</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/variety">Variety</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/experimental-and-misc">Experimental and Misc</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/old-west">Old West</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/wedding">Wedding</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/film-scores">Film Scores</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/opera-and-vocal">Opera and Vocal</a></li>
+                                                                                <li><a href="/royalty-free-stock-music/world">World</a></li>
+                                                  </ul>
               <br class="clearBoth">
             </div>
           </div>
         </li>
-                                <li class="menuLiActive"> <span>
-          <a href="/sound-effects" title="sound effects" onclick="this.blur();">Sound Effects</a>          </span>
+                
+                <li class="menuLiActive"> <span>
+          <a href="/sound-effects" title="sound effects" class="menuItemlink" onclick="this.blur();">Sound Effects</a>          </span>
           <div class="dropDownMenu-1 " style="display:none">
             <div class="dropDownMenu1-1">
               <ul>
-                                                                <li><a href="/sound-effects/amusement-and-games">
-                  Amusement and Games                  </a></li>
-                                                                                                <li><a href="/sound-effects/guns-and-weapons">
-                  Guns and Weapons                  </a></li>
-                                                                                                <li><a href="/sound-effects/other-miscellaneous-sounds">
-                  Other (Miscellaneous)                  </a></li>
-                                                                                                <li><a href="/sound-effects/animals">
-                  Animals                  </a></li>
-                                                                                                <li><a href="/sound-effects/horror-sounds">
-                  Horror                  </a></li>
-                                                                                                <li><a href="/sound-effects/production-elements">
-                  Production Elements                  </a></li>
-                                                                                                <li><a href="/sound-effects/appliances">
-                  Appliances                  </a></li>
-                                                                                                <li><a href="/sound-effects/household">
-                  Household                  </a></li>
-                                                                                                <li><a href="/sound-effects/ring-tones">
-                  Ring Tones                  </a></li>
-                                                                                                <li><a href="/sound-effects/bars-and-restaurants">
-                  Bars and Restaurants                  </a></li>
-                                                                                                <li><a href="/sound-effects/human">
-                  Human                  </a></li>
-                                                                                                <li><a href="/sound-effects/science-fiction-sci-fi">
-                  Science Fiction (Sci-Fi)                  </a></li>
-                                                                                                <li><a href="/sound-effects/buttons">
-                  Buttons                  </a></li>
-                                                                                                <li><a href="/sound-effects/impacts">
-                  Impacts                  </a></li>
-                                                                                                <li><a href="/sound-effects/sound-design-elements">
-                  Sound Design Elements                  </a></li>
-                                                                                                <li><a href="/sound-effects/cartoons-and-comic-effects">
-                  Cartoons and Comic Effects                  </a></li>
-                                                                                                <li><a href="/sound-effects/industrial-and-machinery">
-                  Industrial and Machinery                  </a></li>
-                                                                                                <li><a href="/sound-effects/sports">
-                  Sports                  </a></li>
-                                                                                                <li><a href="/sound-effects/clicks-and-rollovers">
-                  Clicks and Rollovers                  </a></li>
-                                                                                                <li><a href="/sound-effects/interiors">
-                  Interiors                  </a></li>
-                                                                                                <li><a href="/sound-effects/stone-and-wood-sound-effects">
-                  Stone and Wood                  </a></li>
-                                                                                                <li><a href="/sound-effects/crowd-sounds">
-                  Crowd Sounds                  </a></li>
-                                                                                                <li><a href="/sound-effects/metal-sounds">
-                  Metal Sounds                  </a></li>
-                                                                                                <li><a href="/sound-effects/technology">
-                  Technology                  </a></li>
-                                                                                                <li><a href="/sound-effects/doors">
-                  Doors                  </a></li>
-                                                                                                <li><a href="/sound-effects/multimedia">
-                  Multimedia                  </a></li>
-                                                                                                <li><a href="/sound-effects/tools">
-                  Tools                  </a></li>
-                                                                                                <li><a href="/sound-effects/electronics">
-                  Electronics                  </a></li>
-                                                                                                <li><a href="/sound-effects/musical-instruments-and-sounds">
-                  Musical Instruments and Sounds                  </a></li>
-                                                                                                <li><a href="/transport-and-vehicles">
-                  Transport and Vehicles                  </a></li>
-                                                                                                <li><a href="/sound-effects/emergency">
-                  Emergency                  </a></li>
-                                                                                                <li><a href="/sound-effects/natural-ambience-sounds">
-                  Natural Ambience                  </a></li>
-                                                                                                <li><a href="/sound-effects/unreal">
-                  Unreal                  </a></li>
-                                                                                                <li><a href="/sound-effects/exteriors">
-                  Exteriors                  </a></li>
-                                                                                                <li><a href="/sound-effects/nature-and-weather">
-                  Nature and Weather                  </a></li>
-                                                                                                <li><a href="/sound-effects/voice-prompts-and-spoken-phrases">
-                  Voice Prompts and Spoken Phrases                  </a></li>
-                                                                                                <li><a href="/sound-effects/fantasy">
-                  Fantasy                  </a></li>
-                                                                                                <li><a href="/sound-effects/object-sounds">
-                  Object Sounds                  </a></li>
-                                                                                                <li><a href="/sound-effects/water-sound-effects">
-                  Water                  </a></li>
-                                                                                                <li><a href="/sound-effects/foley">
-                  Foley                  </a></li>
-                                                                                                <li><a href="/sound-effects/office-and-classroom">
-                  Office and Classroom                  </a></li>
-                                                                                                <li><a href="/sound-effects/whooshes-and-transitions">
-                  Whooshes and Transitions                  </a></li>
-                                                              </ul>
+                                                            <li><a href="/sound-effects/amusement-and-games">Amusement and Games</a></li>
+                                                                                <li><a href="/sound-effects/guns-and-weapons">Guns and Weapons</a></li>
+                                                                                <li><a href="/sound-effects/other-miscellaneous-sounds">Other (Miscellaneous)</a></li>
+                                                                                <li><a href="/sound-effects/animals">Animals</a></li>
+                                                                                <li><a href="/sound-effects/horror-sounds">Horror</a></li>
+                                                                                <li><a href="/sound-effects/production-elements">Production Elements</a></li>
+                                                                                <li><a href="/sound-effects/appliances">Appliances</a></li>
+                                                                                <li><a href="/sound-effects/household">Household</a></li>
+                                                                                <li><a href="/sound-effects/ring-tones">Ring Tones</a></li>
+                                                                                <li><a href="/sound-effects/bars-and-restaurants">Bars and Restaurants</a></li>
+                                                                                <li><a href="/sound-effects/human">Human</a></li>
+                                                                                <li><a href="/sound-effects/science-fiction-sci-fi">Science Fiction (Sci-Fi)</a></li>
+                                                                                <li><a href="/sound-effects/buttons">Buttons</a></li>
+                                                                                <li><a href="/sound-effects/impacts">Impacts</a></li>
+                                                                                <li><a href="/sound-effects/sound-design-elements">Sound Design Elements</a></li>
+                                                                                <li><a href="/sound-effects/cartoons-and-comic-effects">Cartoons and Comic Effects</a></li>
+                                                                                <li><a href="/sound-effects/industrial-and-machinery">Industrial and Machinery</a></li>
+                                                                                <li><a href="/sound-effects/sports">Sports</a></li>
+                                                                                <li><a href="/sound-effects/clicks-and-rollovers">Clicks and Rollovers</a></li>
+                                                                                <li><a href="/sound-effects/interiors">Interiors</a></li>
+                                                                                <li><a href="/sound-effects/stone-and-wood-sound-effects">Stone and Wood</a></li>
+                                                                                <li><a href="/sound-effects/crowd-sounds">Crowd Sounds</a></li>
+                                                                                <li><a href="/sound-effects/metal-sounds">Metal Sounds</a></li>
+                                                                                <li><a href="/sound-effects/technology">Technology</a></li>
+                                                                                <li><a href="/sound-effects/doors">Doors</a></li>
+                                                                                <li><a href="/sound-effects/multimedia">Multimedia</a></li>
+                                                                                <li><a href="/sound-effects/tools">Tools</a></li>
+                                                                                <li><a href="/sound-effects/electronics">Electronics</a></li>
+                                                                                <li><a href="/sound-effects/musical-instruments-and-sounds">Musical Instruments and Sounds</a></li>
+                                                                                <li><a href="/transport-and-vehicles">Transport and Vehicles</a></li>
+                                                                                <li><a href="/sound-effects/emergency">Emergency</a></li>
+                                                                                <li><a href="/sound-effects/natural-ambience-sounds">Natural Ambience</a></li>
+                                                                                <li><a href="/sound-effects/unreal">Unreal</a></li>
+                                                                                <li><a href="/sound-effects/exteriors">Exteriors</a></li>
+                                                                                <li><a href="/sound-effects/nature-and-weather">Nature and Weather</a></li>
+                                                                                <li><a href="/sound-effects/voice-prompts-and-spoken-phrases">Voice Prompts and Spoken Phrases</a></li>
+                                                                                <li><a href="/sound-effects/fantasy">Fantasy</a></li>
+                                                                                <li><a href="/sound-effects/object-sounds">Object Sounds</a></li>
+                                                                                <li><a href="/sound-effects/water-sound-effects">Water</a></li>
+                                                                                <li><a href="/sound-effects/foley">Foley</a></li>
+                                                                                <li><a href="/sound-effects/office-and-classroom">Office and Classroom</a></li>
+                                                                                <li><a href="/sound-effects/whooshes-and-transitions">Whooshes and Transitions</a></li>
+                                                  </ul>
               <br class="clearBoth">
             </div>
           </div>
         </li>
-                                <li class="menuLiActive"> <span>
-          <a href="/free-sound-effects" title="free sound effects" onclick="this.blur();">Free Sound Effects</a>          </span>
+                
+                <li class="menuLiActive"> <span>
+          <a href="/loops-packs" title="loops packs" class="menuItemlink" onclick="this.blur();">Loops Packs</a>          </span>
+          <div class="dropDownMenu-1 " style="display:none">
+            <div class="dropDownMenu1-1">
+              <ul>
+                                                            <li><a href="/loops-packs/ambient">Ambient</a></li>
+                                                                                <li><a href="/loops-packs/fx-and-samples">FX and Samples</a></li>
+                                                                                <li><a href="/loops-packs/r&amp;b">R&amp;B</a></li>
+                                                                                <li><a href="/loops-packs/break-beat">Break Beat</a></li>
+                                                                                <li><a href="/loops-packs/funk">Funk</a></li>
+                                                                                <li><a href="/loops-packs/reggae">Reggae</a></li>
+                                                                                <li><a href="/loops-packs/chill-out">Chill Out</a></li>
+                                                                                <li><a href="/loops-packs/heavy-metal">Heavy Metal</a></li>
+                                                                                <li><a href="/loops-packs/rock">Rock</a></li>
+                                                                                <li><a href="/loops-packs/cinematic">Cinematic</a></li>
+                                                                                <li><a href="/loops-packs/hip-hop">Hip Hop</a></li>
+                                                                                <li><a href="/loops-packs/seasonal">Seasonal</a></li>
+                                                                                <li><a href="/loops-packs/dj-tools">DJ Tools</a></li>
+                                                                                <li><a href="/loops-packs/house">House</a></li>
+                                                                                <li><a href="/loops-packs/soul">Soul</a></li>
+                                                                                <li><a href="/loops-packs/dance">Dance</a></li>
+                                                                                <li><a href="/loops-packs/idm">IDM</a></li>
+                                                                                <li><a href="/loops-packs/tech-house">Tech House</a></li>
+                                                                                <li><a href="/loops-packs/deep-house">Deep House</a></li>
+                                                                                <li><a href="/loops-packs/industrial">Industrial</a></li>
+                                                                                <li><a href="/loops-packs/techno">Techno</a></li>
+                                                                                <li><a href="/loops-packs/downtempo">Downtempo</a></li>
+                                                                                <li><a href="/loops-packs/jazz">Jazz</a></li>
+                                                                                <li><a href="/loops-packs/trance">Trance</a></li>
+                                                                                <li><a href="/loops-packs/drum-n-bass">Drum n Bass</a></li>
+                                                                                <li><a href="/loops-packs/latin">Latin</a></li>
+                                                                                <li><a href="/loops-packs/tribal">Tribal</a></li>
+                                                                                <li><a href="/loops-packs/dubstep">Dubstep</a></li>
+                                                                                <li><a href="/loops-packs/lounge">Lounge</a></li>
+                                                                                <li><a href="/loops-packs/tribal-house">Tribal House</a></li>
+                                                                                <li><a href="/loops-packs/ebm">EBM</a></li>
+                                                                                <li><a href="/loops-packs/minimal-house">Minimal House</a></li>
+                                                                                <li><a href="/loops-packs/trip-hop">Trip Hop</a></li>
+                                                                                <li><a href="/loops-packs/edm">EDM</a></li>
+                                                                                <li><a href="/loops-packs/nu-wave">Nu Wave</a></li>
+                                                                                <li><a href="/loops-packs/vocal">Vocal</a></li>
+                                                                                <li><a href="/loops-packs/electro-house">Electro House</a></li>
+                                                                                <li><a href="/loops-packs/pop">Pop</a></li>
+                                                                                <li><a href="/loops-packs/world">World</a></li>
+                                                                                <li><a href="/loops-packs/electronic">Electronic</a></li>
+                                                                                <li><a href="/loops-packs/progressive-house">Progressive House</a></li>
+                                                  </ul>
+              <br class="clearBoth">
+            </div>
+          </div>
+        </li>
+                
+                <li class="menuLiActive"> <span>
+          <a href="/free-sound-effects" title="free sound effects" class="menuItemlink" onclick="this.blur();">Free Sound Effects</a>          </span>
           <div class="dropDownMenu-1 dropDown3-1" style="display:none">
             <div class="dropDownMenu1-1">
               <ul>
-                                
-                    <li><a href="/free-science-fiction-sci-fi-sound-effects">
-
-                      Science Fiction (Sci-Fi)  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-industrial-and-machinery">
-
-                      Industrial and Machinery  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-amusement-and-games">
-
-                      Amusement and Game Sounds  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-musical-instrument-and-sound-effects">
-
-                      Musical Instrument  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-animal-sound-effects">
-
-                      Animal  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-natural-ambience-sound-effects">
-
-                      Natural Ambience  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-appliance-sound-effects">
-
-                      Appliance  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-nature-and-weather">
-
-                      Nature and Weather  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-cartoons-and-comic-effects">
-
-                      Cartoon and Comic  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-object-sound-effects">
-
-                      Object Sounds  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-crowd-sounds">
-
-                      Crowd  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-office-and-classroom">
-
-                      Office and Classroom  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-electronics">
-
-                      Electronic  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-other-miscellaneous-sounds">
-
-                      Other (Miscellaneous)  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-emergency">
-
-                      Emergency  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-sound-design-elements">
-
-                      Sound Design Elements  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-exteriors">
-
-                      Exterior  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-sports">
-
-                      Sports  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-foley">
-
-                      Foley  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-stone-and-wood-sound-effects">
-
-                      Stone and Wood  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-guns-and-weapons">
-
-                      Guns and Weapons  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-tools">
-
-                      Tool Sounds  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-horror-and-halloween-sound-effects">
-
-                      Horror and Halloween  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-transport-and-vehicles">
-
-                      Transport and Vehicle Sounds  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-household">
-
-                      Household  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-voice-prompts-and-spoken-phrases">
-
-                      Voice Prompts and Spoken Phrases  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-human">
-
-                      Human  
-
-                      </a></li>
-
-                                                    
-                    <li><a href="/free-sound-effects/free-water-sound-effects">
-
-                      Water  
-
-                      </a></li>
-
+                                                            <li><a href="/free-sound-effects/free-amusement-and-games">Amusement and Game Sounds </a></li>
+                                                                                <li><a href="/free-sound-effects/free-musical-instrument-and-sound-effects">Musical Instrument </a></li>
+                                                                                <li><a href="/free-sound-effects/free-animal-sound-effects">Animal </a></li>
+                                                                                <li><a href="/free-sound-effects/free-natural-ambience-sound-effects">Natural Ambience </a></li>
+                                                                                <li><a href="/free-sound-effects/free-appliance-sound-effects">Appliance </a></li>
+                                                                                <li><a href="/free-sound-effects/free-nature-and-weather">Nature and Weather </a></li>
+                                                                                <li><a href="/free-sound-effects/free-cartoons-and-comic-effects">Cartoon and Comic </a></li>
+                                                                                <li><a href="/free-sound-effects/free-object-sound-effects">Object Sounds </a></li>
+                                                                                <li><a href="/free-sound-effects/free-crowd-sounds">Crowd </a></li>
+                                                                                <li><a href="/free-sound-effects/free-office-and-classroom">Office and Classroom </a></li>
+                                                                                <li><a href="/free-sound-effects/free-electronics">Electronic </a></li>
+                                                                                <li><a href="/free-sound-effects/free-other-miscellaneous-sounds">Other (Miscellaneous) </a></li>
+                                                                                <li><a href="/free-sound-effects/free-emergency">Emergency </a></li>
+                                                                                <li><a href="/free-science-fiction-sci-fi-sound-effects">Science Fiction (Sci-Fi) </a></li>
+                                                                                <li><a href="/free-sound-effects/free-exteriors">Exterior </a></li>
+                                                                                <li><a href="/free-sound-effects/free-sound-design-elements">Sound Design Elements </a></li>
+                                                                                <li><a href="/free-sound-effects/free-foley">Foley </a></li>
+                                                                                <li><a href="/free-sound-effects/free-sports">Sports </a></li>
+                                                                                <li><a href="/free-sound-effects/free-guns-and-weapons">Guns and Weapons </a></li>
+                                                                                <li><a href="/free-sound-effects/free-stone-and-wood-sound-effects">Stone and Wood </a></li>
+                                                                                <li><a href="/free-sound-effects/free-horror-and-halloween-sound-effects">Horror and Halloween </a></li>
+                                                                                <li><a href="/free-sound-effects/free-tools">Tool Sounds </a></li>
+                                                                                <li><a href="/free-sound-effects/free-household">Household </a></li>
+                                                                                <li><a href="/free-sound-effects/free-transport-and-vehicles">Transport and Vehicle Sounds </a></li>
+                                                                                <li><a href="/free-sound-effects/free-human">Human </a></li>
+                                                                                <li><a href="/free-sound-effects/free-voice-prompts-and-spoken-phrases">Voice Prompts and Spoken Phrases </a></li>
+                                                                                <li><a href="/free-sound-effects/free-industrial-and-machinery">Industrial and Machinery </a></li>
+                                                                                <li><a href="/free-sound-effects/free-water-sound-effects">Water </a></li>
                                                   </ul>
               <br class="clearBoth">
             </div>
           </div>
         </li>
                         
-        <li><a href="/license-options" rel="nofollow" onclick="this.blur();">License</a></li>
-        <li style="border-right:1px solid #c1c1c1;"><a href="/faq" rel="nofollow" onclick="this.blur();">FAQ</a></li>
+        <li><a href="/license-options" rel="nofollow" class="menuItemlink" onclick="this.blur();">License</a></li>
+        <li style="border-right:1px solid #c1c1c1;"><a href="/faq" rel="nofollow" class="menuItemlink" onclick="this.blur();">FAQ</a></li>
       </ul>
      
     </div>
@@ -1932,67 +1922,12 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
                 <img src="/images/popular_pages_search_indicator.gif" width="16" height="16" id="popular-pages-search-indicator" style="display:none;">
                 
                 <input name="query" type="text" label="" placeholder="Search for Stock Music or Sound Effects" id="search" value="" style="color:#000; font-size: 15px;" autocomplete="off">
-				<!--<div id="search_autoComplete" class="auto_complete"></div>-->
-				<script type="text/javascript">
-				//<![CDATA[
-					//auto_completer = new Ajax.Autocompleter('search', 'search_autoComplete', '/tracks/autoComplete/2', {minChars:3, indicator:'popular-pages-search-indicator', afterUpdateElement:function(element, update){ checkAutoCompletValue(element, update);}});
-					$(function() {
-							function log( message ) {
-							  $( "<div>" ).text( message ).prependTo( "#log" );
-							  $( "#log" ).scrollTop( 0 );
-							}
-						 
-							$( "#search" ).autocomplete({
-							  source: function( request, response ) {
-								$.ajax({
-								  url: '/tracks/autoComplete/2',
-								  dataType: "jsonp",
-								  data: {
-									featureClass: "P",
-									style: "full",
-									maxRows: 12,
-									name_startsWith: request.term
-								  },
-								  success: function( data ) {
-									response( $.map( data.geonames, function( item ) {
-									  return {
-										label: item.name + (item.adminName1 ? ", " + item.adminName1 : "") + ", " + item.countryName,
-										value: item.name
-									  }
-									}));
-								  }
-								});
-							  },
-							  minLength: 3,
-							  select: function( event, ui ) {
-								log( ui.item ?
-								  "Selected: " + ui.item.label :
-								  "Nothing selected, input was " + this.value);
-							  },
-							  open: function() {
-								$( this ).removeClass( "ui-corner-all" ).addClass( "ui-corner-top" );
-							  },
-							  close: function() {
-								$( this ).removeClass( "ui-corner-top" ).addClass( "ui-corner-all" );
-							  }
-							});
-				  });
-
-					function update_autocomplite_url(element){
-						if($(element).val() == 'music'){
-							auto_completer.url = '/tracks/autoComplete/2';	
-						}else{
-							auto_completer.url = '/tracks/autoComplete/3';	
-						}	
-					}	
-				//]]>
-				</script>  
-                   
-            </li>
+				            </li>
             <li class="inputtext">
                 <select name="Category" id="SearchCategory" class="SearchCategory" onchange="update_autocomplite_url(this)">
-                    <option selected="" value="music">Music</option>
+                    <option value="music">Music</option>
                     <option value="sound">Sound FX</option>
+					<option value="packs">Loops Packs</option>
                 </select>
             </li>
             <li class="SubmitForm"><input type="submit" class="top_search_btn" value="SEARCH"></li>
@@ -2011,6 +1946,8 @@ _kms('//i.kissmetrics.com/i.js');_kms('//doug1izaerwt3.cloudfront.net/ef3bc062ca
                                                     
              
             <div class="content-center page-legal_documents page-legal_documents-view view-legal_documents-" id="content-center" style="width:100%">
+
+                
                 <div id="flash-message-wrapper"> 
                     
 
@@ -2279,9 +2216,9 @@ You should consult the respective privacy policies of these third-party ad serve
             <li><b>Quick Links</b></li>
             <li><a href="/royalty-free-music" title="Royalty Free Music" onclick="this.blur();">Royalty Free Music</a></li>
             <li><a href="/sound-effects" title="Sound Effects " onclick="this.blur();">Sound Effects </a></li>
-            <li><a href="/free-sound-effects" title="Free Sound Effects" onclick="this.blur();">Free Sound Effects</a></li>	 
+            <li><a href="/free-sound-effects" title="Free Sound Effects" onclick="this.blur();">Free Sound Effects</a></li>
+            <li><a href="/loops-packs" title="Loops Packs" onclick="this.blur();">Loops Packs</a></li>
             <li><a href="/production-music">Production Music</a></li>
-            <li>More <a href="http://www.soundsnap.com" target="_blank">Sound Effects</a></li>	
         </ul>  
     </div>
     
@@ -2401,7 +2338,12 @@ You should consult the respective privacy policies of these third-party ad serve
 
     
     
-	<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script><script type="text/javascript">new HelloBar(20429,120299);</script>
+	<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
+<script type="text/javascript">
+	new HelloBar(20429,120299);
+</script>
+
+
 
 
 	<script type="text/javascript">
@@ -2501,4 +2443,4 @@ olark.identify('1868-439-10-6477');/*]]>{/literal}*/</script><noscript><a href="
 
 
 
-<!--10.183.129.55 --></body></html>
+<!--10.183.128.126 --></body></html>
