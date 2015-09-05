@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaining.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409001253id_/http%3A//www.domaining.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaining.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905232812id_/https%3A//www.domaining.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
