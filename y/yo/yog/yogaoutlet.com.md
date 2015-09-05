@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogaoutlet.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624073659id_/http%3A//www.yogaoutlet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogaoutlet.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905081301id_/http%3A//www.yogaoutlet.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
