@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtpr.com privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218022805id_/http%3A//rtpr.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtpr.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905222333id_/http%3A//rtpr.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # RTPR.com Privacy Policy
 
