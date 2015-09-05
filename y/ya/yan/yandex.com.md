@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yandex.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415025741id_/https%3A//legal.yandex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yandex.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905212134id_/https%3A//legal.yandex.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Legal documents
 
