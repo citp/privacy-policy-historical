@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carowinds.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319075330id_/https%3A//www.carowinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carowinds.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084248id_/https%3A//www.carowinds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Carowinds, Charlotte NC
 
@@ -110,6 +110,6 @@ Attn: [Marketing]
 
 To contact us with your questions or comments regarding this Policy or the information collection and dissemination practices of this Site, please email us at [Marketing@cedarfair.com](mailto:marketing@cedarfair.com?subject=Privacy%20Policy%20Comment%2FQuestion). 
 
-To see the Terms of Use that apply to the Sites, [www.cedarfair.com/termsofuse](http://www.cedarfair.com/termsofuse). 
+To see the Terms of Use that apply to the Sites, [www.cedarfair.com/termsofuse](https://www.carowinds.com/legal). 
 
 All trademarks, service marks, and other proprietary materials herein are the property of Cedar Fair, L.P. and their respective owners. All rights reserved.
