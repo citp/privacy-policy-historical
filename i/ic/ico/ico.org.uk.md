@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317094355id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084641id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | ICO
 
@@ -16,7 +16,7 @@ This privacy notice tells you what to expect when the Information Commissionerâ€
 
 ## Visitors to our websites
 
-When someone visits [www.ico.org.uk](http://www.ico.org.uk/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to find out the identities of those visiting our website. We will not associate any data gathered from this site with any personally identifying information from any source. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
+When someone visits [www.ico.org.uk](http://www.ico.org.uk/) we use a third party service, Google Analytics, to collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the various parts of the site. This information is only processed in a way which does not identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of those visiting our website. If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
 ### Use of cookies by the ICO
 
@@ -139,7 +139,7 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this privacy notice
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 16 NovemberÂ 2014.
+We keep our privacy notice under regular review. This privacy notice was last updated on 18 June 2015.
 
 ## How to contact us
 
