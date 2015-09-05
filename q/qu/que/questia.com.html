@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the questia.com privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626110858id_/https%3A//www.questia.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the questia.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905061607id_/https%3A//www.questia.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" data-ng-app="app"><!--<![endif]--><head data-ng-controller="HeadController as hc">
         <!--according to xdomain document, it is important to include it before any other library, so put it here for now -->
-    <script async="" src="//s.btstatic.com/tag.js#site=FIlmgbU"></script><script src="https://qtastatic.com/content/20150608122117/XDomainJS.min.js"></script>
+    <script async="" src="//s.btstatic.com/tag.js#site=FIlmgbU"></script><script src="https://qtastatic.com/content/20150805122813/XDomainJS.min.js"></script>
     <script>
         var slaves = {};
                 slaves["http://api.questia.com"]="/proxy.html";
@@ -15,7 +15,7 @@
         });
 
     </script>  
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0">
         <meta name="apple-mobile-web-app-capable" content="yes">
         
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -29,7 +29,6 @@
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-76x76-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-72x72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
-    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch" title="Questia Library Search">
     
   
 
@@ -38,65 +37,68 @@
         var jslogEnabled = false;      
     </script>
   
-    <link href="https://qtastatic.com/content/20150608122117/SiteCSS.min.css" rel="stylesheet" type="text/css" media="all">
+    <link href="https://qtastatic.com/content/20150805122813/SiteCSS.min.css" rel="stylesheet" type="text/css" media="all">
     <link rel="stylesheet" type="text/css" href="/content/css/icon-font.css" media="all">
 
        
         
-    <script src="https://qtastatic.com/content/20150608122117/SiteJS.min.js"></script>
+    <script src="https://qtastatic.com/content/20150805122813/SiteJS.min.js"></script>
     <script src="https://api-messages.questia.com/events/hubs"></script>
-    <script src="https://qtastatic.com/content/20150608122117/AngularSiteJS.min.js"></script>
+    <script src="https://qtastatic.com/content/20150805122813/AngularSiteJS.min.js"></script>
     
     <script type="text/javascript">
-    (function () {
-        "use strict";
+        (function () {
+            "use strict";
 
-        var serverInfo = window.serverInfo = {
-            Api: {
-                Url: "https://api.questia.com",
-                BrokerAddress: "https://api-messages.questia.com",
-                Token: "",
-                UserId: "1924a2be-a46e-4b47-a192-3016a912422f",
-                Key: "qta.com",
-                Version: "1.2",
-                TokenName: "QTA" + '_AUTH_COOKIE'
-            },
-            SiteId: 7
-        };
+            var serverInfo = window.serverInfo = {
+                Api: {
+                    Url: "https://api.questia.com",
+                    BrokerAddress: "https://api-messages.questia.com",
+                    Token: "",
+                    UserId: "edba9e7e-505c-434c-b0ca-b1ecedec1f0c",
+                    Key: "qta.com",
+                    Version: "1.2",
+                    TokenName: "QTA" + '_AUTH_COOKIE'
+                },
+                SiteId: 7,
+                AddThisEnabled: true,
+                WebViewEnabled: false
+            };
 
-        var app = angular.module('app', ['ui.router', 'common'])
-            .constant("ServerInfo", serverInfo)
-            .config(['$stateProvider', function($stateProvider) {
-                $stateProvider
-                    .state('root', {
-                        url: '/:scrollTo',
-                        resolve: [
-                            "$location", "$anchorScroll", "$stateParams", "$state", function($location, $anchorScroll, $stateParams) {
-                                var scrollTo = $stateParams.scrollTo;
-                                if (scrollTo && scrollTo.length) {
-                                    $location.url("/#" + scrollTo);
-                                    $location.replace();
-                                } else {
-                                    $anchorScroll();
+            window.scrollToHandler = ["$stateParams", "ScrollService",
+                    function($stateParams, scrollService) {
+                        var scrollTo = $stateParams.scrollTo;
+                        scrollService.scrollTo(scrollTo);
+                    }
+            ];
+
+            var app = angular.module('app', ['ui.router', 'common'])
+                .constant("ServerInfo", serverInfo)
+                .config([
+                    '$stateProvider', function($stateProvider) {
+                        $stateProvider
+                            .state('root', {
+                                url: '/:scrollTo',
+                                resolve: {
+                                    scroll: window.scrollToHandler
                                 }
-                            }
-                        ]
-                    });
-            }]);
+                            });
+                    }
+                ]);
 
-        Extensions.AngularBehaviorManager.setupAuthFailBehavior(app);
-        Extensions.AngularBehaviorManager.setupCacheBustingForHtmlTemplates(app, "20150608122117");
-        Extensions.AngularBehaviorManager.setupLogging(app, serverInfo.Api.Url,
-            serverInfo.Api.Key, serverInfo.Api.Version,
-            true);
-    })();
+            Extensions.AngularBehaviorManager.setupAuthFailBehavior(app);
+            Extensions.AngularBehaviorManager.setupCacheBustingForHtmlTemplates(app, "20150805122813");
+            Extensions.AngularBehaviorManager.setupLogging(app, serverInfo.Api.Url,
+                serverInfo.Api.Key, serverInfo.Api.Version,
+                true);
+        })();
 
 </script>
 
 
     
-    <link href="https://qtastatic.com/content/20150608122117/InformationCSS.min.css" rel="stylesheet" type="text/css" media="all">
-    <script src="https://qtastatic.com/content/20150608122117/LibraryJS.min.js"></script>
+    <link href="https://qtastatic.com/content/20150805122813/InformationCSS.min.css" rel="stylesheet" type="text/css" media="all">
+    <script src="https://qtastatic.com/content/20150805122813/LibraryJS.min.js"></script>
     
         <title data-ng-bind="hc.title" data-ng-init="hc.setDefaultTitle('Privacy Policy | Questia, Your Online Research Library')">Privacy Policy | Questia, Your Online Research Library</title>
     <meta name="description" content="Find detailed information about Questia’s privacy policy">
@@ -119,20 +121,18 @@
     <!--[if lt IE 9]>
         <script src="/content/js/html5shiv.js"></script>
     <![endif]-->
-
     <!--[if lte IE 8]>
 <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <script type="text/javascript" src="https://www.upsellit.com/custom/questia.jsp"></script></head>
-<body click-listener="" ng-cloak="" class="user-abandon-non-auth">
+<body click-listener="" ng-cloak="" class=" user-abandon-non-auth" data-ng-class="{'menu-open' : menuOpen}">
 
-    <img class="print-logo" src="//qtastatic.com/content/img/print-logo-full.jpg" alt="Questia: Trusted online research" width="183" height="45">
+    <img class="print-logo" src="https://qtastatic.com/content/img/print-logo-full.jpg" alt="Questia: Trusted online research" width="183" height="45">
     
     <!--- Global mBox -->
     <div class="mboxDefault"></div>
-    <script type="text/javascript">mboxCreate('QTA_Global', 'loggedIn=False', 'partnerId=SEM_GOOGLE');</script>
+    <script type="text/javascript">mboxCreate('QTA_Global', 'loggedIn=False', 'partnerId=QUESTIA');</script>
 
-    
 
         <!-- SiteMaintenanceMessage -->
 
@@ -143,18 +143,19 @@
 
            
         </div>
-                 
    
     
-
     
-    <div class="main-container" id="pageBackground">        
+    
+
+    <div class="main-container" id="pageBackground"> 
+               
         <div class="main wrapper clearfix">            
             
 
 <!--- Miscellaneous mBox -->
 <div class="mboxDefault"></div>
-<script type="text/javascript">mboxCreate('QTA_Miscellaneous', 'loggedIn=False', 'partnerId=SEM_GOOGLE');</script>
+<script type="text/javascript">mboxCreate('QTA_Miscellaneous', 'loggedIn=False', 'partnerId=QUESTIA');</script>
 
 <div id="accountMain" class="main-content-container">
 
@@ -164,7 +165,7 @@
         <div id="mobilePageMenu" class="mobile-sub-nav flyout">
                 <ul>
                         <li><a href="/about-questia">About us</a></li>
-                        <li><a href="/tour">Take a tour</a></li>
+                        <li><a href="/#library">Take a tour</a></li>
                         <li><a href="/user-agreements">User Agreements</a></li>
                         <li><span class="current"><strong>Privacy policy</strong></span></li>                
                         <li><a href="/contact-us">Contact us</a></li>
@@ -175,182 +176,225 @@
     </div>
 
     
-<h1>
-    Privacy policy</h1>
-<p>(Last updated: July 2012)</p>
-<p>
-    <strong>Introduction</strong></p>
-<p>
-    Questia is committed to safeguarding the personal information of our customers
-    and online visitors. Please read the following policy to understand
-    the treatment of your personal information and what options you have to direct our
-    activities.</p>
-<p>
-    By registering or using the Questia<sup>SM</sup> service, or accessing any Questia
-    website, you agree to the terms of our privacy policy.</p>
-<p>
-    Specific questions or comments regarding this policy should be directed to Questia
-    by <a href="/contact-us?i=Other">sending us an email</a>. A complete
-    description of your rights and duties concerning use of this site is given in our
-    <a href="/user-agreements">User Agreements</a>.</p>
-<p>
-    <strong>1. Information collected</strong></p>
-<p>
-    Our primary goal in collecting personal information is to enable us to provide you
-    with an efficient, customized experience while you use the Questia service. To fully
-    use our service, you will need to register using our <a id="QTA_RegCTA_Privacy" href="/subscribe">online registration
-    form</a> where you will be required to provide certain personal information.</p>
-<p>
-    Once you register, you can use <a href="/account/">your account page</a> to review
-    and change the information that you submitted during registration at any time.</p>
-<p>
-    Upon request we will remove your personal information from our operational databases
-    (unless your account is in dispute, in which case it will be kept until the dispute
-    is resolved). In order to remove information, please <a href="/contact-us?i=Other">contact us</a>.
-    Technical constraints and the fact that we back up our system may prevent the total
-    elimination of all of your personally identifying information.</p>
-<p>
-    Occasionally we solicit additional information from you through the use of optional
-    questionnaires. None of this additional information is required for your continued
-    use of our service.</p>
-<p>
-    In addition to the information we require for registration, we automatically track
-    certain information about you based upon your use of our site. This information
-    may include websites you come from and go to from ours, what browser you are using,
-    your IP address and what searches you perform in our service. This information is
-    compiled and analyzed on an aggregated basis.</p>
-<p>
-    On certain pages of our site, and with certain features of our service, we use cookies.
-    You are always free to decline our
-    cookies if your browser permits, although in that case you may be required to reenter
-    your password more frequently during a session, and may not experience a fully-customized
-    experience.</p>
-<p>
-    If you send us personal correspondence or if other users or third parties send us
-    correspondence about your activities, we may collect such information into a file
-    specific to you.</p>
-<p>
-    <strong>2. Control of your password</strong></p>
-<p>
-    You may not disclose or share your Questia password with any third party. If you
-    lose control of your password, you may lose substantial control over your personally
-    identifying information and may be subject to legally binding actions taken on your
-    behalf. Therefore, if your password has been compromised for any reason, you should
-    immediately change it on <a href="/account/">your account page</a>.</p>
-<p>
-    <strong>Use of your information</strong>
-</p>
-<p>
-    We use your personally identifying information and information about your usage
-    internally to improve our services. We may use your contact information to send
-    you administrative/renewal notices or information on new services, promotions, and
-    targeted advertisements. While you may not opt out of the administrative/renewal
-    notices, you may do so for the promotional ones by choosing this preference on <a href="/account/">your
-    account page</a>.</p>
-<p>
-    While it is not our practice to monitor or review material you store on our site,
-    we may access this information for system maintenance, troubleshooting activities,
-    or legal reasons. The information that we place in the file that we maintain about
-    you, including your current and past activities on our site, may also be used for
-    similar purposes.</p>
-<p>
-    <strong>4. Disclosure of collected data</strong></p>
-<p>
-    <em>Advertisers.</em>We aggregate information and disclose this information to advertisers
-    and use it for other marketing and promotional purposes. We do not disclose to third
-    parties any information that could reasonably be used to personally identify or
-    contact you.</p>
-<p>
-    <em>Co-Branded Service Providers.</em>Questia offers its users and subscribers the
-    opportunity to use a number of third-party services from our site (e.g., moderated
-    chat). If you choose to use these optional services, we will provide only so much
-    of your personal information as is necessary to affect your use of the Co-Branded
-    Service Providers' services. Because we do not control the privacy practices of
-    these third parties, you should evaluate their practices before deciding to use
-    their services.</p>
-<p>
-    <em>Suppliers and Other Service Providers.</em>We may use third-party Suppliers
-    and Service Providers to facilitate some of our services. In some instances, the
-    Service Provider may collect information directly from you (e.g. we ask a Service
-    Provider to conduct a survey for us). In these cases, all information disclosures
-    you make will be strictly optional, and we contractually restrict how they may access,
-    use and disclose your information. We do not permit the sale of your information
-    to third parties by these Suppliers and Other Service Providers.</p>
-<p>
-    <em>Questia Subsidiaries and Joint Ventures.</em>We may share our data or transfer
-    assets, including personally identifying information about you, with our corporate
-    parent and subsidiaries, joint ventures, or other entities that are in common control
-    with Questia. To the extent that these entities are given access to your information,
-    they will treat it at least as protectively as they treat information they obtain
-    from their other users. As our business develops we may purchase another organization
-    and, in so doing, acquire customer information that will be protected by the guidelines
-    set forth by this privacy policy.</p>
-<p>
-    <em>Disclosure of Customer Information Through Business Transfers.</em> As our business
-    develops we may purchase another organization and, in so doing, acquire customer
-    information. Also, in the event that Questia transfers its assets to our corporate
-    parent or to one or more subsidiaries, joint ventures, or other entities in common
-    control, or sells all or substantially all of our assets to a third party, customer
-    information will of course be one of the transferred assets.</p>
-<p>
-    <em>Legal Requests.</em>We may decide or be required to disclose information to
-    law enforcement, other government authorities, or third parties under certain circumstances.
-    We can (and you authorize us to) disclose any information about you that we, in
-    our sole discretion, believe is necessary or appropriate, in connection with an
-    investigation of fraud, infringement of intellectual property rights, third-party
-    lawsuits, or other activity that is illegal or may expose us to legal liability.</p>
-<p>
-    <strong>5. Other information collectors</strong></p>
-<p>
-    In addition to the information we require for registration, Questia also contracts
-    with third parties to help us understand how people use our web site and to provide
-    functionalities such as email distribution, ad serving and customer surveys. These
-    companies also use cookies. They may also use other tracking technologies, such
-    as web beacons (also known as clear GIFs, web bugs, tracking pixels or action tags),
-    which are similar in function to cookies, allowing them to determine when users
-    have reached particular web pages on the Questia site.</p>
-<p>
-    <strong>6. A special note about children</strong></p>
-<p>
-    Questia meets the terms set forth by the Children's Online Privacy Protection
-    Act of 1998 (COPPA). Except for students who use our services through a school-based
-    subscription, we do not knowingly collect information online from children under
-    the age of 13. Additionally, we never gather any information from the children who
-    are using it through their school that could be used to contact them individually.
-    Parents are allowed at any time to access the information that we have collected
-    on their child. We do not condition a child's or school's participation in any activity
-    by requiring them to provide more information about themselves. For questions specifically
-    regarding the privacy of children on our site, please <a href="/contact-us?i=Other">contact 
-        Customer Service</a>.</p>
-<p>
-    <strong>7. A special note about non-U.S. subscribers</strong></p>
-<p>
-    If you are a non-U.S. citizen, by subscribing to the Questia service or by providing
-    any personally identifying information as a non-subscriber, you explicitly grant
-    us the right to transfer that information to the United States Government.</p>
-<p>
-    <strong>8. Security</strong></p>
-<p>
-    Questia uses industry standard efforts to safeguard your personally identifying
-    information, such as firewalls and Secure Socket Layers (SSL). However, "perfect
-    security" does not exist on the Internet and third parties may intercept or access
-    transmissions and/or private communications. Therefore, we do not promise, and you
-    should not expect, that your personally identifying information or private communications
-    would remain private in all cases. Nevertheless, we will make every effort to make
-    sure that we keep your information safe.</p>
-<p>
-    <strong>9. Changes to this privacy policy</strong></p>
-<p>
-    We reserve the right to make changes to this privacy policy, and recommend that
-    you visit it often. If we make material changes to this privacy policy, we will
-    notify you by posting them here.</p>
+
+<div data-ng-app="app">
+        <h1>
+            Privacy policy
+        </h1>
+    <p>(Last updated: July 2012)</p>
+    <p>
+        <strong>Introduction</strong>
+    </p>
+    <p>
+        Questia is committed to safeguarding the personal information of our customers
+        and online visitors. Please read the following policy to understand
+        the treatment of your personal information and what options you have to direct our
+        activities.
+    </p>
+    <p>
+        By registering or using the Questia<sup>SM</sup> service, or accessing any Questia
+        website, you agree to the terms of our privacy policy.
+    </p>
+    <p>
+        Specific questions or comments regarding this policy should be directed to Questia
+        by <a href="/contact-us?i=Other">sending us an email</a>. A complete
+        description of your rights and duties concerning use of this site is given in our
+        <a href="/user-agreements">User Agreements</a>.
+    </p>
+    <p>
+        <strong>1. Information collected</strong>
+    </p>
+    <p>
+        Our primary goal in collecting personal information is to enable us to provide you
+        with an efficient, customized experience while you use the Questia service. To fully
+        use our service, you will need to register using our <a id="QTA_RegCTA_Privacy" href="/subscribe">
+            online registration
+            form
+        </a> where you will be required to provide certain personal information.
+    </p>
+    <p>
+        Once you register, you can use <a href="/account/">your account page</a> to review
+        and change the information that you submitted during registration at any time.
+    </p>
+    <p>
+        Upon request we will remove your personal information from our operational databases
+        (unless your account is in dispute, in which case it will be kept until the dispute
+        is resolved). In order to remove information, please <a href="/contact-us?i=Other">contact us</a>.
+        Technical constraints and the fact that we back up our system may prevent the total
+        elimination of all of your personally identifying information.
+    </p>
+    <p>
+        Occasionally we solicit additional information from you through the use of optional
+        questionnaires. None of this additional information is required for your continued
+        use of our service.
+    </p>
+    <p>
+        In addition to the information we require for registration, we automatically track
+        certain information about you based upon your use of our site. This information
+        may include websites you come from and go to from ours, what browser you are using,
+        your IP address and what searches you perform in our service. This information is
+        compiled and analyzed on an aggregated basis.
+    </p>
+    <p>
+        On certain pages of our site, and with certain features of our service, we use cookies.
+        You are always free to decline our
+        cookies if your browser permits, although in that case you may be required to reenter
+        your password more frequently during a session, and may not experience a fully-customized
+        experience.
+    </p>
+    <p>
+        If you send us personal correspondence or if other users or third parties send us
+        correspondence about your activities, we may collect such information into a file
+        specific to you.
+    </p>
+    <p>
+        <strong>2. Control of your password</strong>
+    </p>
+    <p>
+        You may not disclose or share your Questia password with any third party. If you
+        lose control of your password, you may lose substantial control over your personally
+        identifying information and may be subject to legally binding actions taken on your
+        behalf. Therefore, if your password has been compromised for any reason, you should
+        immediately change it on <a href="/account/">your account page</a>.
+    </p>
+    <p>
+        <strong>Use of your information</strong>
+    </p>
+    <p>
+        We use your personally identifying information and information about your usage
+        internally to improve our services. We may use your contact information to send
+        you administrative/renewal notices or information on new services, promotions, and
+        targeted advertisements. While you may not opt out of the administrative/renewal
+        notices, you may do so for the promotional ones by choosing this preference on <a href="/account/">
+            your
+            account page
+        </a>.
+    </p>
+    <p>
+        While it is not our practice to monitor or review material you store on our site,
+        we may access this information for system maintenance, troubleshooting activities,
+        or legal reasons. The information that we place in the file that we maintain about
+        you, including your current and past activities on our site, may also be used for
+        similar purposes.
+    </p>
+    <p>
+        <strong>4. Disclosure of collected data</strong>
+    </p>
+    <p>
+        <em>Advertisers.</em>We aggregate information and disclose this information to advertisers
+        and use it for other marketing and promotional purposes. We do not disclose to third
+        parties any information that could reasonably be used to personally identify or
+        contact you.
+    </p>
+    <p>
+        <em>Co-Branded Service Providers.</em>Questia offers its users and subscribers the
+        opportunity to use a number of third-party services from our site (e.g., moderated
+        chat). If you choose to use these optional services, we will provide only so much
+        of your personal information as is necessary to affect your use of the Co-Branded
+        Service Providers' services. Because we do not control the privacy practices of
+        these third parties, you should evaluate their practices before deciding to use
+        their services.
+    </p>
+    <p>
+        <em>Suppliers and Other Service Providers.</em>We may use third-party Suppliers
+        and Service Providers to facilitate some of our services. In some instances, the
+        Service Provider may collect information directly from you (e.g. we ask a Service
+        Provider to conduct a survey for us). In these cases, all information disclosures
+        you make will be strictly optional, and we contractually restrict how they may access,
+        use and disclose your information. We do not permit the sale of your information
+        to third parties by these Suppliers and Other Service Providers.
+    </p>
+    <p>
+        <em>Questia Subsidiaries and Joint Ventures.</em>We may share our data or transfer
+        assets, including personally identifying information about you, with our corporate
+        parent and subsidiaries, joint ventures, or other entities that are in common control
+        with Questia. To the extent that these entities are given access to your information,
+        they will treat it at least as protectively as they treat information they obtain
+        from their other users. As our business develops we may purchase another organization
+        and, in so doing, acquire customer information that will be protected by the guidelines
+        set forth by this privacy policy.
+    </p>
+    <p>
+        <em>Disclosure of Customer Information Through Business Transfers.</em> As our business
+        develops we may purchase another organization and, in so doing, acquire customer
+        information. Also, in the event that Questia transfers its assets to our corporate
+        parent or to one or more subsidiaries, joint ventures, or other entities in common
+        control, or sells all or substantially all of our assets to a third party, customer
+        information will of course be one of the transferred assets.
+    </p>
+    <p>
+        <em>Legal Requests.</em>We may decide or be required to disclose information to
+        law enforcement, other government authorities, or third parties under certain circumstances.
+        We can (and you authorize us to) disclose any information about you that we, in
+        our sole discretion, believe is necessary or appropriate, in connection with an
+        investigation of fraud, infringement of intellectual property rights, third-party
+        lawsuits, or other activity that is illegal or may expose us to legal liability.
+    </p>
+    <p>
+        <strong>5. Other information collectors</strong>
+    </p>
+    <p>
+        In addition to the information we require for registration, Questia also contracts
+        with third parties to help us understand how people use our web site and to provide
+        functionalities such as email distribution, ad serving and customer surveys. These
+        companies also use cookies. They may also use other tracking technologies, such
+        as web beacons (also known as clear GIFs, web bugs, tracking pixels or action tags),
+        which are similar in function to cookies, allowing them to determine when users
+        have reached particular web pages on the Questia site.
+    </p>
+    <p>
+        <strong>6. A special note about children</strong>
+    </p>
+    <p>
+        Questia meets the terms set forth by the Children's Online Privacy Protection
+        Act of 1998 (COPPA). Except for students who use our services through a school-based
+        subscription, we do not knowingly collect information online from children under
+        the age of 13. Additionally, we never gather any information from the children who
+        are using it through their school that could be used to contact them individually.
+        Parents are allowed at any time to access the information that we have collected
+        on their child. We do not condition a child's or school's participation in any activity
+        by requiring them to provide more information about themselves. For questions specifically
+        regarding the privacy of children on our site, please <a href="/contact-us?i=Other">
+            contact
+            Customer Service
+        </a>.
+    </p>
+    <p>
+        <strong>7. A special note about non-U.S. subscribers</strong>
+    </p>
+    <p>
+        If you are a non-U.S. citizen, by subscribing to the Questia service or by providing
+        any personally identifying information as a non-subscriber, you explicitly grant
+        us the right to transfer that information to the United States Government.
+    </p>
+    <p>
+        <strong>8. Security</strong>
+    </p>
+    <p>
+        Questia uses industry standard efforts to safeguard your personally identifying
+        information, such as firewalls and Secure Socket Layers (SSL). However, "perfect
+        security" does not exist on the Internet and third parties may intercept or access
+        transmissions and/or private communications. Therefore, we do not promise, and you
+        should not expect, that your personally identifying information or private communications
+        would remain private in all cases. Nevertheless, we will make every effort to make
+        sure that we keep your information safe.
+    </p>
+    <p>
+        <strong>9. Changes to this privacy policy</strong>
+    </p>
+    <p>
+        We reserve the right to make changes to this privacy policy, and recommend that
+        you visit it often. If we make material changes to this privacy policy, we will
+        notify you by posting them here.
+    </p>
+</div>
 
 </div>
 
 <div id="informationLeftRail" class="section-nav-container">
         <ul id="leftRailNav" class="section-nav">
                 <li><a href="/about-questia">About us</a></li>
-                <li><a href="/tour">Take a tour</a></li>
+                <li><a href="/#library">Take a tour</a></li>
                 <li><a href="/user-agreements">User Agreements</a></li>
                 <li class="selected"><strong><span class="pg-name">Privacy policy</span></strong></li>                
                 <!---->
@@ -377,115 +421,69 @@
 
         </div>
 
+
+        <footer class="main-footer">
+            Questia is operated by <a href="http://www.cengage.com" target="_blank" omniture-click="Footer|Disclosure">Cengage Learning</a>.<br> 
+            Copyright © 2015. All rights reserved.
+        </footer>
+
     </div>
 
     
-<div class="header-menu">
-
-    <div class="mobile-login-controls clearfix" data-ng-controller="StatusHeaderController as shc" data-ng-hide="shc.isProcessing">
-
-    <div class="mobile-logout" data-ng-show="shc.isAuthenticated &amp;&amp; shc.isAbandoner">
-        <a href="/logout">
-            <span class="icon-lock" aria-hidden="true" data-icon="B"></span>Log out
-        </a>
-    </div>
-    <div class="mobile-complete-reg" data-ng-show="shc.isAuthenticated &amp;&amp; shc.isAbandoner">
-        <a id="QTA_RegCTA_Abandoner_Header_Mobile" href="/subscribe/registration2">Upgrade your membership</a>
-    </div>
-
-    <div class="mobile-login" data-ng-hide="shc.isAuthenticated">
-        <a href="/member-login">
-            <span class="icon-lock" aria-hidden="true" data-icon="B"></span>Log in
-        </a>
-    </div>
-    <div class="mobile-signup" data-ng-hide="shc.isAuthenticated">
-        <a id="QTA_RegCTA_Header_Mobile" href="/subscribe">Buy instant access</a>
-    </div>
-</div>                   
-
-
-    <div id="utilityHeaderMenu" class="global-top-bar-wrapper clearfix">
-        <div class="wrapper-wide">
-            <div data-qt-projects-header=""></div>
-            <div data-qt-status-header=""></div>
-        </div>
-    </div>
-                        
-    <div id="mainHeaderMenu" class="header-container" data-ng-controller="HeaderCtrl as hc">
-        <div id="globalSearchContainer" class="global-search-container" data-ng-class="{visible: hc.isSearchVisible}">
-            <form name="searchBoxForm" data-ng-submit="submitSearch(searchTerm)">
-    <div id="headerSearch" search-box="" data-toggle-search="hc.toggleSearch()" data-long-placeholder="Search over 10 million books and articles" data-short-placeholder="Search our library">
-       <div class="gs-searchbox-container clearfix">
-            <label class="placeholder-label" for="searchValue">Search over 10 million books and articles</label>
-            <label class="placeholder-label short-search" for="searchValueShort">Search our library</label>
-            
-            <div class="input-container">
-                <input data-ng-model="searchTerm" name="searchInput" required="" type="search" id="searchValue" maxlength="200" placeholder="Search over 10 million books and articles" class="global-search-input" autofocus="autofocus" focus-me="focusInput">
-                <input data-ng-model="searchTerm" name="searchInput" required="" type="search" id="searchValueShort" maxlength="200" placeholder="Search our library" class="global-search-input short-search">
-            </div>
-        </div>
+    <header data-ng-controller="HeaderCtrl as hc" id="headerNavigation" class="header-menu main-header">
         
-        <div class="global-search-controls">           
-            <button class="btn btn-ghost" type="submit" value="Search">
-                <span aria-hidden="true" data-icon="w"></span>
-            </button>
-            <span class="close-btn clickable" aria-hidden="true" data-icon="Z" ng-click="hc.toggleSearch()" no-click=""></span>
-        </div>
-         <div class="global-search-filter-wrapper" data-ng-class="{'open': hc.isFilterVisible == true}">
-                <a class="btn btn-default" no-click="" ng-click="hc.toggleFilter()">
-                    <span data-ng-bind="filterType" data-ng-hide="filterType == 'contributor'"></span>
-                    <span data-ng-show="filterType == 'contributor'">Author</span>
-                    <span aria-hidden="true" data-icon="n" class="icon"></span>
-                </a>
-                <a class="mobile-link" no-click="" ng-click="hc.toggleFilter()">
-                    <span>Advanced search</span>
-                    <span aria-hidden="true" data-icon="n" class="icon"></span>
-                </a>
-                <div class="gs-filter-flyout nav-flyout" fade="" data-toggle-on="hc.isFilterVisible">
-                    <div class="gs-filter-inner clearfix">
-                        <div class="gs-filter-col-1">
-                            <strong>Search by ...</strong>
-                            <ul class="no-bullet-list">
-                                <li ng-click="keywordClick()" ng-class="{selected: filterType == 'keywords'}" omniture-click="Results|KeywordFilter"><a>Keyword<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="titleClick()" ng-class="{selected: filterType == 'title'}" omniture-click="Results|TitleFilter"><a>Title<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="authorClick()" ng-class="{selected: filterType == 'contributor'}" omniture-click="Results|AuthorFilter"><a>Author<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="subjectClick()" ng-class="{selected: filterType == 'subject'}" omniture-click="Results|SubjectFilter"><a>Subject<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="publisherClick()" ng-class="{selected: filterType == 'publisher'}" omniture-click="Results|PublisherFilter"><a>Publisher<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                            </ul>
-                        </div>
-                        <div class="gs-filter-col-2">
-                            <strong>Results should have ...</strong>
-                            <ul class="no-bullet-list">
-                                <li ng-click="allClick()" ng-class="{selected: filterModifier == 'AllWords'}"><a>All of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="anyClick()" ng-class="{selected: filterModifier == 'AnyWords'}"><a>Any of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="exactClick()" ng-class="{selected: filterModifier == 'ExactPhrase'}"><a>This exact phrase<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="noneClick()" ng-class="{selected: filterModifier == 'NoWords'}"><a>None of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div id="footnote" class="gs-filter-bottom-bar" ng-show="filterType == 'keywords'">
-                        Keyword searches may also use the operators
-                        AND, OR, NOT, “ ”, ( )
-                    </div>
-                </div>
-            </div> 
+
+
+
+<nav class="main-navigation slide-navigation" data-ng-class="{'submenu-open' : (showLibraryMenu || showWritingCenterMenu)}">
+    <label data-ng-click="$parent.menuOpen = !$parent.menuOpen; showLibraryMenu = false; showWritingCenterMenu = false;" class="nav-close clickable" id="navMenuCloseButton"><span aria-hidden="true" data-icon="Z"></span></label>
+    <div>
+        <ul class="primary no-bullet-list"> 
+            <li><a href="/">Home</a></li>
+            <li><a data-ng-click="showLibraryMenu = !showLibraryMenu">Library <span aria-hidden="true" data-icon="h" class="chevron"></span></a></li>
+            <li><a data-ng-click="showWritingCenterMenu = !showWritingCenterMenu">Writing Center <span aria-hidden="true" data-icon="h" class="chevron"></span></a></li>
+            <li><a href="/research-tutorials">Tutorials</a></li>
+            <li><a href="/projects">Projects</a></li>
+        </ul>
     </div>
-</form>
 
+
+    <div>
+        <ul class="secondary no-bullet-list">
+            <li>
+                <a id="footerAboutUs" href="/about-questia" omniture-click="Footer|About Us">About us</a>
+            </li>
+            <li>
+                    <a id="footerTakeaTour" href="/#library" omniture-click="Footer|TakeaTour">Take a tour</a>
+            </li>
+            <li><a id="footerFeatureIndex" href="/feature-index">Feature index</a></li>
+            <li><a id="footerEducators" href="http://landing.questia.com/educator1" target="_blank">For educators</a></li>
+            <li><a id="footerBlog" href="http://blog.questia.com/" omniture-click="Footer|Blog">Blog</a></li>
+            <li>
+                <a id="footerAffiliates" href="/affiliates" omniture-click="Footer|Affiliate program">Affiliates</a>
+            </li>
+            <li><a class="selected" id="footerPrivacy" href="/privacy-policy" omniture-click="Footer|Privacy">Privacy policy</a></li>
+            <li><a id="footerUserAgreement" href="/user-agreements" omniture-click="Footer|UserAgreement">User Agreements</a></li>
+            <li><a id="footerContactUs" href="/contact-us" omniture-click="Footer|Contact Us">Contact us</a></li>
+            <li class="last"><a id="footerHelp" href="/help" omniture-click="Footer|Help">Help</a></li>
+        </ul>
+    </div>
+
+        <div class="footer-social">
+            <a class="social-icon" href="http://www.facebook.com/QuestiaOnlineLibrary" target="_blank" title="Follow us on Facebook"><span aria-hidden="true" data-icon="R"></span></a>
+            <a class="social-icon" href="http://twitter.com/Questia" target="_blank" title="Follow us on Twitter"><span aria-hidden="true" data-icon="S"></span></a>
+            <a class="social-icon" href="https://plus.google.com/u/0/b/100840110882015019129/" target="_blank" title="Follow us on Google+"><span aria-hidden="true" data-icon="T"></span></a>
+            <a class="social-icon" href="http://www.youtube.com/questiaresearch" target="_blank" title="Follow us on You Tube"><span aria-hidden="true" data-icon="U"></span></a>
         </div>
+</nav>
 
-        <header class="wrapper-wide clearfix">
-            <a href="/" class="hdr-logo"></a>
-            <div class="hdr-search">
-                <button id="btnSearch" class="btn-search" ng-click="hc.toggleSearch(); focusInput=true" no-click="">
-                    <span class="icon" aria-hidden="true" data-icon="w"></span>
-                    <span class="btn-search-label">Search</span>
-                </button>
-            </div>
-
-            <nav class="main-nav">
-                <ul>
-                    <li><a class="main-nav-caps" id="navBrowse" ng-click="hc.toggleLibraryBrowse()" no-click="" omniture-click="Header|BrowseLibrary"><span aria-hidden="true"></span> Library</a>
+<nav class="slide-navigation sub-navigation library-navigation" data-ng-class="{'submenu-open' : showLibraryMenu}">
+    <label data-ng-click="$parent.menuOpen = !menuOpen; showLibraryMenu = false; showWritingCenterMenu = false;" class="nav-close clickable"><span aria-hidden="true" data-icon="Z"></span></label>
+    <a class="back-link" data-ng-click="showLibraryMenu = false; showWritingCenterMenu = false">
+        <span aria-hidden="true" class="icon" data-icon="e"></span>
+        Back
+    </a>
+    <a class="main-nav-caps" id="navBrowse" ng-click="hc.toggleLibraryBrowse()" no-click="" omniture-click="Header|BrowseLibrary"><span aria-hidden="true"></span> Library</a>
 <div id="browseFlyout" class="nav-flyout browse-fo clearfix" fade="" data-toggle-on="hc.isLibraryBrowseVisible">
     <div class="col-topic">
         <h3>By topic</h3>
@@ -545,67 +543,140 @@
             <li><a href="/library/peer-reviewed">Peer-reviewed periodicals</a></li>           
         </ul>
     </div>
-    <div class="fo-bottom-container">
+    <div class="fo-bottom-container view-all">
         <a href="/library">View entire library</a>
     </div>
-</div></li>
-                    <li>
-                        <a class="main-nav-caps" ng-click="hc.toggleWritingCenterBrowse()" no-click="" omniture-click="Header|WritingCenter">Writing Center</a>
-                        <div id="browseFlyout" class="nav-flyout browse-fo browse-fo-wc clearfix" fade="" data-toggle-on="hc.isWritingCenterBrowseVisible">
-                            <ul class="wc-flyout">
-                                <li><a ng-click="hc.isWritingCenterBrowseVisible = false" no-click="" href="/writing-center#!/">Writing Center</a> </li>
-                                <li><a ng-click="hc.isWritingCenterBrowseVisible = false" no-click="" href="/writing-center#!/topic-ideas/">Topic finder</a></li>
-                                <li><a ng-click="hc.isWritingCenterBrowseVisible = false" no-click="" href="/writing-center#!/9-steps-to-writing-research-paper">9 writing steps</a></li>
-                                <li><a href="/research-tutorials">Tutorials</a></li>
-                            </ul>
-                        </div>
-                    </li>
+</div>
+</nav>
 
-                        <li><a class="main-nav-caps" href="/research-tutorials"><span aria-hidden="true"></span>Tutorials</a></li>
-                    <li><a class="main-nav-caps" href="/projects" omniture-click="Header|YourProjects"><span aria-hidden="true" class="projects-icon"></span>Projects</a></li>
+<nav class="slide-navigation sub-navigation wc-navigation" data-ng-class="{'submenu-open' : showWritingCenterMenu}">
+    <label data-ng-click="$parent.menuOpen = !$parent.menuOpen; showLibraryMenu = false; showWritingCenterMenu = false;" class="nav-close clickable"><span aria-hidden="true" data-icon="Z"></span></label>
+    <a class="back-link" data-ng-click="showLibraryMenu = false; showWritingCenterMenu = false">
+        <span aria-hidden="true" class="icon" data-icon="e"></span>
+        Back
+    </a>
+    <div class="nav-flyout browse-fo browse-fo-wc clearfix col">
+        <ul class="secondary no-bullet-list">
+            <li><a ng-click="hc.isWritingCenterBrowseVisible = false" no-click="" href="/writing-center#!/">Writing Center</a> </li>
+            <li><a ng-click="hc.isWritingCenterBrowseVisible = false" no-click="" href="/writing-center#!/topic-ideas/">Topic finder</a></li>
+            <li><a ng-click="hc.isWritingCenterBrowseVisible = false" no-click="" href="/writing-center#!/9-steps-to-writing-research-paper">9 writing steps</a></li>
+            <li><a href="/research-tutorials">Tutorials</a></li>
+        </ul>
+    </div>
+</nav>
+        <div class="meta-nav">
+            <a href="/" class="hdr-logo"></a>
+            <nav>
+                <ul>
+                    <li class="menu-item search">
+                        <label id="btnSearch" ng-click="hc.toggleSearch(); focusInput=true" no-click="" class="clickable btn-search">
+                            <span class="icon" aria-hidden="true" data-icon="w"></span>
+                            <span class="text">Search</span>
+                        </label>
+                    </li> 
+                    <li class="menu-item menu">
+                        <label data-ng-click="$parent.menuOpen = !$parent.menuOpen" class="clickable">                            
+                            <span class="hamburger-icon icon">
+                                <span></span>
+                            </span>
+                            <span class="text">Menu</span>
+                        </label>
+                    </li> 
                 </ul>
             </nav>
-            <div class="mobile-menu-container">
-                <a class="mobile-menu-btn" id="mobileNavLink" ng-show="!isMobileMenuVisible" title="Show menu" ng-click="isMobileMenuVisible = !isMobileMenuVisible" aria-hidden="true" data-icon="/"></a>
-                <a class="close-menu mobile-menu-btn" id="mobileNavLinkClose" title="Hide menu" ng-show="isMobileMenuVisible" ng-click="isMobileMenuVisible = !isMobileMenuVisible" aria-hidden="true" data-icon="Z"></a>
+        </div>        
+        <div id="globalSearchContainer" class="global-search-container" data-ng-class="{visible: hc.isSearchVisible}">
+    <form name="searchBoxForm" data-ng-submit="submitSearch(searchTerm)">
+        <div id="headerSearch" search-box="" data-toggle-search="hc.toggleSearch()" data-long-placeholder="Search over 10 million books and articles" data-short-placeholder="Search our library">
+           <div class="gs-searchbox-container clearfix">
+                <label class="placeholder-label" for="searchValue">Search over 10 million books and articles</label>
+                <label class="placeholder-label short-search" for="searchValueShort">Search our library</label>
+            
+                <div class="input-container">
+                    <input data-ng-model="searchTerm" name="searchInput" required="" type="search" id="searchValue" maxlength="200" placeholder="Search over 10 million books and articles" class="global-search-input" autofocus="autofocus" focus-me="focusInput">
+                    <input data-ng-model="searchTerm" name="searchInput" required="" type="search" id="searchValueShort" maxlength="200" placeholder="Search our library" class="global-search-input short-search">
+                </div>
+            </div>
+        
+            <div class="global-search-controls">           
+                <button class="btn btn-ghost" type="submit" value="Search">
+                    <span aria-hidden="true" data-icon="w"></span>
+                </button>
+                <span class="close-btn clickable" aria-hidden="true" data-icon="Z" ng-click="hc.toggleSearch()" no-click=""></span>
+            </div>
+            <div class="global-search-filter-wrapper" data-ng-class="{'open': hc.isFilterVisible == true}">
+                <a class="btn btn-default" no-click="" ng-click="hc.toggleFilter()">
+                    <span data-ng-bind="filterType" data-ng-hide="filterType == 'contributor'"></span>
+                    <span data-ng-show="filterType == 'contributor'">Author</span>
+                    <span aria-hidden="true" data-icon="n" class="icon"></span>
+                </a>
+                <a class="mobile-link" no-click="" ng-click="hc.toggleFilter()">
+                    <span>Advanced search</span>
+                    <span aria-hidden="true" data-icon="n" class="icon"></span>
+                </a>
+                <div class="gs-filter-flyout nav-flyout" fade="" data-toggle-on="hc.isFilterVisible">
+                    <div class="gs-filter-inner clearfix">
+                        <div class="gs-filter-col-1">
+                            <strong>Search by ...</strong>
+                            <ul class="no-bullet-list">
+                                <li ng-click="keywordClick()" ng-class="{selected: filterType == 'keywords'}" omniture-click="Results|KeywordFilter"><a>Keyword<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                <li ng-click="titleClick()" ng-class="{selected: filterType == 'title'}" omniture-click="Results|TitleFilter"><a>Title<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                <li ng-click="authorClick()" ng-class="{selected: filterType == 'contributor'}" omniture-click="Results|AuthorFilter"><a>Author<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                <li ng-click="subjectClick()" ng-class="{selected: filterType == 'subject'}" omniture-click="Results|SubjectFilter"><a>Subject<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                <li ng-click="publisherClick()" ng-class="{selected: filterType == 'publisher'}" omniture-click="Results|PublisherFilter"><a>Publisher<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="gs-filter-col-2">
+                            <strong>Results should have ...</strong>
+                            <ul class="no-bullet-list">
+                                <li ng-click="allClick()" ng-class="{selected: filterModifier == 'AllWords'}"><a>All of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                <li ng-click="anyClick()" ng-class="{selected: filterModifier == 'AnyWords'}"><a>Any of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                <li ng-click="exactClick()" ng-class="{selected: filterModifier == 'ExactPhrase'}"><a>This exact phrase<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                <li ng-click="noneClick()" ng-class="{selected: filterModifier == 'NoWords'}"><a>None of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="footnote" class="gs-filter-bottom-bar" ng-show="filterType == 'keywords'">
+                        Keyword searches may also use the operators
+                        AND, OR, NOT, “ ”, ( )
+                    </div>
+                </div>
+            </div> 
+        </div>
+    </form>
 
-                <nav class="mobile-menu animate-slide ng-hide" id="mobileMenu" ng-show="isMobileMenuVisible">
-                    <ul>
-                        <li><a class="main-nav-caps" href="/library" id="navBrowse"><span aria-hidden="true"></span>Library</a></li>
-                        <li><a class="main-nav-caps" href="/writing-center#!/"><span aria-hidden="true"></span>Writing Center</a></li>
-                        <li><a class="main-nav-caps" href="/research-tutorials"><span aria-hidden="true"></span>Tutorials</a></li>
-                        <li><a class="main-nav-caps" href="/projects"><span aria-hidden="true"></span>Projects</a></li>
-                    </ul>
-                </nav>
-            </div>
-        </header>
+</div> 
+        <div class="utility-container">
+            <div class="mobile-login-controls clearfix" data-ng-controller="StatusHeaderController as shc" data-ng-hide="shc.isProcessing">
+
+    <div class="mobile-logout" data-ng-show="shc.isAuthenticated &amp;&amp; shc.isAbandoner">
+        <a href="/logout">
+            <span class="icon-lock" aria-hidden="true" data-icon="B"></span>Log out
+        </a>
     </div>
-</div>
-    <a class="back-to-top" aria-hidden="true" data-icon="j"></a>
-    <div class="footer-container">
-        <footer class="wrapper">
-            <div class="footer-social">
-                <a class="social-icon" href="http://www.facebook.com/QuestiaOnlineLibrary" target="_blank" title="Follow us on Facebook"><span aria-hidden="true" data-icon="R"></span></a>
-                <a class="social-icon" href="http://twitter.com/Questia" target="_blank" title="Follow us on Twitter"><span aria-hidden="true" data-icon="S"></span></a>
-                <a class="social-icon" href="https://plus.google.com/u/0/b/100840110882015019129/" target="_blank" title="Follow us on Google+"><span aria-hidden="true" data-icon="T"></span></a>
-                <a class="social-icon" href="http://www.youtube.com/questiaresearch" target="_blank" title="Follow us on You Tube"><span aria-hidden="true" data-icon="U"></span></a>
-            </div>
-            <div class="footer-links clearfix">
-                    <ul class="clearfix">
-                        <li><a id="footerAboutUs" href="/about-questia" omniture-click="Footer|About Us">About us</a></li>
-                        <li><a id="footerTakeaTour" href="/tour" omniture-click="Footer|TakeaTour">Take a tour</a></li>
-                        <li><a id="footerEducators" href="http://landing.questia.com/educator1" target="_blank">For educators</a></li>
-                        <li><a id="footerBlog" href="http://blog.questia.com/" omniture-click="Footer|Blog">Blog</a></li>
-                        <li><a id="footerAffiliates" href="/affiliates" omniture-click="Footer|Affiliate program">Affiliates</a></li>
-                        <li><a id="footerPrivacy" href="/privacy-policy" omniture-click="Footer|Privacy">Privacy policy</a></li>
-                        <li><a id="footerUserAgreement" href="/user-agreements" omniture-click="Footer|UserAgreement">User Agreements</a></li>
-                        <li><a id="footerContactUs" href="/contact-us" omniture-click="Footer|Contact Us">Contact us</a></li>
-                        <li class="last"><a id="footerHelp" href="/help" omniture-click="Footer|Help">Help</a></li>
-                    </ul>
-            </div>
-                <p>Questia is operated by <a href="http://www.cengage.com" target="_blank" omniture-click="Footer|Disclosure">Cengage Learning</a>. Copyright © 2015. All rights reserved.</p>
-        </footer>   
-    </div>        
+    <div class="mobile-complete-reg" data-ng-show="shc.isAuthenticated &amp;&amp; shc.isAbandoner">
+        <a id="QTA_RegCTA_Abandoner_Header_Mobile" href="/subscribe/registration2">Upgrade your membership</a>
+    </div>
+
+    <div class="mobile-login" data-ng-hide="shc.isAuthenticated">
+        <a href="/member-login">
+            <span class="icon-lock" aria-hidden="true" data-icon="B"></span>Log in
+        </a>
+    </div>
+    <div class="mobile-signup" data-ng-hide="shc.isAuthenticated">
+        <a id="QTA_RegCTA_Header_Mobile" href="/subscribe">Buy instant access</a>
+    </div>
+</div>                   
+            <div data-qt-projects-header=""></div>
+            <div data-qt-status-header=""></div>
+        </div>           
+    </header>
+
+     <a class="back-to-top" aria-hidden="true" data-icon="j"></a> 
+
+    <div id="mdModalContainer">                
+        <div class="md-overlay"></div>
+    </div>
 
 
     <!-- SiteCatalyst code version: H.10.
@@ -615,18 +686,23 @@
             var OmnitureSuite = "highbeamquestia";
             var CustomClickPropNumber = '34';
     </script>
-<script src="https://qtastatic.com/content/20150608122117/SiteBodyEndJS.min.js"></script>    <script type="text/javascript">
+<script src="https://qtastatic.com/content/20150805122813/SiteBodyEndJS.min.js"></script>    <script type="text/javascript">
     /*<![CDATA[*//*---->*/
     s.pageName="Privacy Policy";
     s.channel="myrc";
     s.server="www.questia.com";
-        s.campaign="bp_se1";
-                s.prop20="SEM_GOOGLE";
+        s.campaign="none";
+                s.prop20="QUESTIA";
     s.prop25="first";
     s.prop35="";
     s.prop38="www.questia.com/privacy-policy";
+    s.prop50="";
+    s.prop51="";
+    s.prop52="";
+    s.prop53="";
+    s.prop54="";
 
-    s.eVar20="SEM_GOOGLE";
+    s.eVar20="QUESTIA";
     s.eVar25="first";
     s.eVar43="";
 
@@ -645,7 +721,6 @@
     <!-- End SiteCatalyst code version: H.10. -->
     
     <!--/#wrapperMain-->
-
 
     
     
@@ -668,20 +743,20 @@
         </script>
 
     <script type="text/javascript">
-    (function () {
-        var tagjs = document.createElement("script");
-        var s = document.getElementsByTagName("script")[0];
-        tagjs.async = true;
-        tagjs.src = "//s.btstatic.com/tag.js#site=FIlmgbU";
-        s.parentNode.insertBefore(tagjs, s);
-    }());
+        (function () {
+            var tagjs = document.createElement("script");
+            var s = document.getElementsByTagName("script")[0];
+            tagjs.async = true;
+            tagjs.src = "//s.btstatic.com/tag.js#site=FIlmgbU";
+            s.parentNode.insertBefore(tagjs, s);
+        }());
     </script>
     <noscript>
         <iframe src="//s.thebrighttag.com/iframe?c=FIlmgbU" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
     </noscript>
 
         
-<!-- You are on ohcinqtaweb05 -->
+<!-- You are on ohcinqtaweb06 -->
 
 
         <div data-ng-controller="GlobalApplicationController as gac">
