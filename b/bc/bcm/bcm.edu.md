@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bcm.edu privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414052134id_/https%3A//www.bcm.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcm.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905123141id_/https%3A//www.bcm.edu/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Baylor College of Medicine | Houston, Texas
 
 Baylor College of Medicine web sites are intended to provide general educational information about services offered by Baylor and to help users arrange more easily for those services. Information on Baylor web sites is written by faculty and staff affiliated with the College, while other information may be from sources outside of Baylor.
 
