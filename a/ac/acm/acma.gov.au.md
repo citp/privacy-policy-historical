@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515014048id_/http%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195224id_/http%3A//acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ACMA
 
@@ -12,7 +12,7 @@ To this end, this policy sets out:
 
 
 
-The policy also explains how to apply to the ACMA for access to, and correction of, your personal information, as well as how to make a complaint if you consider that the ACMA has breached its privacy obligations imposed under the _[Privacy Act 1988](http://www.comlaw.gov.au/Series/C2004A03712) _(the Privacy Act). It also explains how the ACMA will deal with such applications and complaints.
+The policy also explains how to apply to the ACMA for access to, and correction of, your personal information, as well as how to make a complaint if you consider that the ACMA has breached its privacy obligations imposed under the _[Privacy Act 1988](http://www.comlaw.gov.au/Series/C2004A03712%20) _(the Privacy Act). It also explains how the ACMA will deal with such applications and complaints.
 
 This policy applies to all ACMA activities **** that involve the management of personal information (whether digitally, in paper form or otherwise) by any staff or any contracted service providers of the ACMA. 
 
@@ -48,9 +48,9 @@ You can also find more about the ACMA [here](https://web.archive.org/theACMA/Abo
 
 ### About the Privacy Act 
 
-The Privacy Act imposes obligations in relation to the collection, security, quality, access, use and disclosure of personal information. These obligations are detailed in the [Australian Privacy Principles](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles) (APPs) which are found in Schedule 1 to the Privacy Act. These privacy obligations apply to the ACMA.  
+The Privacy Act imposes obligations in relation to the collection, security, quality, access, use and disclosure of personal information. These obligations are detailed in the [Australian Privacy Principles](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles%20) (APPs) which are found in Schedule 1 to the Privacy Act. These privacy obligations apply to the ACMA.  
 
-You can find more information about the Privacy Act [here](http://www.oaic.gov.au/privacy/privacy-act/the-privacy-act).
+You can find more information about the Privacy Act [here](http://www.oaic.gov.au/privacy/privacy-act/the-privacy-act%20).
 
 ### What do we mean by personal information?
 
@@ -107,7 +107,7 @@ Personal information may be collected when you:
 
 Collection may be solicited by the ACMA (where you provide the information in response to an ACMA initiated interaction or invitation) or unsolicited (where you initiate the contact and correspond with the ACMA).  
 
-If personal information is unsolicited, it will not be collected unless it is reasonably necessary for, or directly related to, one or more of the ACMA’s functions or activities (see [APP 3](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-3-app-3-collection-of-solicited-personal-information), [APP 4](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-4-app-4-dealing-with-unsolicited-personal-information) and the meaning of [purpose](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-b-key-concepts) of collection).  
+If personal information is unsolicited, it will not be collected unless it is reasonably necessary for, or directly related to, one or more of the ACMA’s functions or activities (see [APP 3](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-3-app-3-collection-of-solicited-personal-information%20), [APP 4](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-4-app-4-dealing-with-unsolicited-personal-information%20) and the meaning of [purpose](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-b-key-concepts) of collection).  
 
 Whether you will be able to correspond with the ACMA on an anonymous basis or by using a pseudonym will turn on the facts, including the purpose for your corresponding with the ACMA. In some instances, anonymity may not be practical as the ACMA may require proof of your identity before it can action the matter, for example, licensing decisions. In other instances, anonymity or use of a pseudonym may be permitted.  
 
@@ -133,7 +133,7 @@ Some positions within the ACMA require a security clearance. The ACMA’s cleara
 
 All information provided by you for a security process is only used for assessing your suitability to hold the relevant security clearance.  
 
-More information on the ACMA’s online recruitment process is available [here](https://web.archive.org/theACMA/About/Careers/Life-at-the-ACMA/online-application-process-acma). Details of the ACMA’s security clearance processes are available [here](https://web.archive.org/theACMA/About/Careers/Life-at-the-ACMA/acma-security-clearance-faqs-acma). Information on the _Protective Security Policy Framework_ is available [here](http://www.protectivesecurity.gov.au/pspf/Pages/default.aspx) and information on the _Personnel Security Protocol_ is available [here](http://www.protectivesecurity.gov.au/personnelsecurity/Pages/Australian-Government-personnel-security-management-protocol.aspx).
+More information on the ACMA’s online recruitment process is available [here](https://web.archive.org/theACMA/About/Careers/Life-at-the-ACMA/online-application-process-acma). Details of the ACMA’s security clearance processes are available [here](https://web.archive.org/theACMA/About/Careers/Life-at-the-ACMA/acma-security-clearance-faqs-acma). Information on the _Protective Security Policy Framework_ is available [here](http://www.protectivesecurity.gov.au/pspf/Pages/default.aspx%20) and information on the _Personnel Security Protocol_ is available [here](http://www.protectivesecurity.gov.au/personnelsecurity/Pages/Australian-Government-personnel-security-management-protocol.aspx%20).
 
 ### Procurement
 
@@ -145,7 +145,7 @@ Contracts entered into by the ACMA on behalf of the Commonwealth may contain per
 
 The personal information is collected and held to enable the ACMA to meet its legal obligations, including those under the FMA Act and the _Commonwealth Procurement Rules._
 
-More information on the FMA Act and the _Commonwealth Procurement Rules_ is available [here](http://www.finance.gov.au/financial-framework/fma-legislation/). Information on the PGPA Act, which will replace the FMA Act from 1 July 2014, is available [here](http://www.pmra.finance.gov.au/legislation-pgpa-act/). 
+More information on the FMA Act and the _Commonwealth Procurement Rules_ is available [here](http://www.finance.gov.au/financial-framework/fma-legislation/%20). Information on the PGPA Act, which will replace the FMA Act from 1 July 2014, is available [here](http://www.pmra.finance.gov.au/legislation-pgpa-act/%20). 
 
 ### Public consultation
 
@@ -165,7 +165,7 @@ If you register for access to an online or subscription service we will collect 
 
 The ACMA’s ePort security statement is available [here](https://web.archive.org/theACMA/About/Making-payments/Broadcasting-licence-fees-and-datacasting-charge/broadcasting-licence-fees-blf-eport-account-i-acma). 
 
-The ACMA also has an online payment system to assist people with making a payment to the ACMA, for example, payment of licence fees. The ACMA uses the secure online credit card processing facility ANZ eGate®, which is operated by the ANZ Bank. The ACMA does not collect or hold any of your credit card details. More information about ANZ eGate® is available [here](http://www.anz.com.au/corporate/products-services/transaction-services/electronic-banking/anz-egate/).  
+The ACMA also has an online payment system to assist people with making a payment to the ACMA, for example, payment of licence fees. The ACMA uses the secure online credit card processing facility ANZ eGate®, which is operated by the ANZ Bank. The ACMA does not collect or hold any of your credit card details. More information about ANZ eGate® is available [here](http://www.anz.com.au/corporate/products-services/transaction-services/electronic-banking/anz-egate/%20).  
 
 You will receive information about the terms and conditions of gaining access to an online or subscription service before any personal information is collected.
 
@@ -177,7 +177,7 @@ Clickstream data is a record of a user’s browsing activities on the internet. 
 
 Like many websites, the ACMA’s website uses session-based cookies (or temporary cookies) and persistent cookies. A session-based cookie only lasts for as long your browsing session and ends when you close your browser. A persistent cookie remains on your computer after you close your browser and will be sent back to the website each time you visit until you clear the cookie from your browser.    
 
-You can set your browser to notify you before you receive a cookie so that you may refuse to accept it. You can also set your browser to [turn off cookies](http://www.aboutcookies.org/page-2) and you can delete them. If you turn off or delete cookies, this may affect your access to certain features of the ACMA’s website. 
+You can set your browser to notify you before you receive a cookie so that you may refuse to accept it. You can also set your browser to [turn off cookies](http://www.aboutcookies.org/page-2%20) and you can delete them. If you turn off or delete cookies, this may affect your access to certain features of the ACMA’s website. 
 
 When you browse our website, our server collects and holds the following information: ****
 
@@ -235,8 +235,8 @@ We will not use it for any other purpose, nor will we disclose it, unless one of
   * we have your consent to do so
   * you have been told or you would reasonably expect, that information of the kind may be used or disclosed for the other purpose, being a purpose which is related to the original purpose or, if the information is sensitive personal information, directly related to the original purpose
   * the use or disclosure is required or authorised by or under an Australian law, for example, the FOI Act or Part 7A of the ACMA Act (see below) or a court/tribunal order, for example, a subpoena
-  * the ACMA reasonably believes that it is reasonably necessary for one or more [enforcement-related activities](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-b-key-concepts#_Toc380575616)
-  * a [permitted general situation](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-c-permitted-general-situations) exists.
+  * the ACMA reasonably believes that it is reasonably necessary for one or more [enforcement-related activities](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-b-key-concepts#_Toc380575616%20)
+  * a [permitted general situation](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-c-permitted-general-situations%20) exists.
 
 
 
@@ -252,7 +252,7 @@ The protection and security of information held by the ACMA is of critical impor
 
 The ACMA has a range of measures in place to protect the personal information we hold from misuse, interference and loss, and from unauthorised access, modification or disclosure. 
 
-All information collected by the ACMA is secured and managed in accordance with the Australian Government’s [Protective Security Policy Framework](http://www.protectivesecurity.gov.au/pspf/Pages/default.aspx), [_Information Security Manual_](http://www.asd.gov.au/infosec/ism/)  and the [Archives Act](http://www.comlaw.gov.au/Series/C2004A02796) (and see also the [pages of the National Archives of Australia website regarding Commonwealth records management](http://www.naa.gov.au/records-management/)).  
+All information collected by the ACMA is secured and managed in accordance with the Australian Government’s [Protective Security Policy Framework](http://www.protectivesecurity.gov.au/pspf/Pages/default.aspx), [_Information Security Manual_](http://www.asd.gov.au/infosec/ism/)  and the [Archives Act](http://www.comlaw.gov.au/Series/C2004A02796%20) (and see also the [pages of the National Archives of Australia website regarding Commonwealth records management](http://www.naa.gov.au/records-management/)).  
 
 The ACMA’s ePort security statement is available [here](https://web.archive.org/theACMA/About/Making-payments/Broadcasting-licence-fees-and-datacasting-charge/broadcasting-licence-fees-blf-eport-account-i-acma). 
 
@@ -274,7 +274,7 @@ We will acknowledge receipt of the complaint. We will also advise you of the out
 
 You have certain rights to request access to, and the correction of, your personal information. 
 
-These rights are set out in [APP 12](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-12-app-12-access-to-personal-information) and [APP 13](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-13-app-13-correction-of-personal-information) in the [Privacy Act](http://www.comlaw.gov.au/Series/C2004A03712).
+These rights are set out in [APP 12](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-12-app-12-access-to-personal-information) and [APP 13](http://www.oaic.gov.au/privacy/applying-privacy-law/app-guidelines/chapter-13-app-13-correction-of-personal-information%20) in the [Privacy Act](http://www.comlaw.gov.au/Series/C2004A03712).
 
 We may require you to provide some proof of your identity in order to handle your request. 
 
@@ -300,7 +300,7 @@ By post:
 
 Privacy Contact Officer  
 Australian Communications and Media Authority  
-PO Box 13112 Law Courts  
-Melbourne VIC 8010
+PO Box Q500 Queen Victoria Building  
+Sydney NSW 1230
 
-For inquiries about any aspect of this policy, you should contact the ACMA’s Privacy Contact Officer by telephone on 1800 226 667.
+Telephone: 02 6219 5555
