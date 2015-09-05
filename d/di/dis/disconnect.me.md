@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021801id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disconnect.me privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905125235id_/https%3A//disconnect.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This policy effective June 18, 2014
+This policy effective May 19, 2015
 
 We’re committed to protecting your privacy and collecting only the minimum amount of info needed to provide our software and services — referred to as “Services”. Your use of the Services indicates you agree to this policy and [our terms of use](https://web.archive.org/terms). 
 
@@ -21,21 +21,23 @@ Nothing in this policy contradicts the following statements:
 
 As used in this policy, “Personal Info” is data that can identify a particular person. Aggregate data isn’t considered Personal Info. 
 
-###  1\. Disconnect never collects your Personal Info except to log you in or communicate with you 
+###  1\. Disconnect never collects your Personal Info except to communicate with you 
 
-Our browser extensions and mobile apps don’t collect any of your Personal Info. Unlike most websites, our site doesn’t collect your IP address. And we definitely don't collect your geo-location. 
+Our Services don't collect any of your Personal Info. Unlike most websites, our site doesn’t collect your IP address. We do detect non-personally identifiable geo-location information to optimize our services, but we definitely don't collect your precise geo-location or associate geo-location information with a particular user. 
 
-Because we do not collect information about an your online activities over time and across third-party websites or online services, there is no need for us to respond to a browser’s Do Not Track settings, although we strongly support a consumer’s right to set such a preference and encourage all website operators to honor this consumer choice. 
+Because we do not collect information about your online activities over time and across third-party websites or online services, there is no need for us to respond to a browser’s Do Not Track settings, although we strongly support a consumer’s right to set such a preference and encourage all website operators to honor this consumer choice. 
 
 We may request your email address or a username to communicate with you. This info is used only as you’d expect and deleted upon request. 
 
 Optionally, you may choose to provide your email address and communicate with us via email. 
 
+We use Stripe and PayPal to process payments. You can optionally provide your email for a receipt. Your payment information and email is subject to their respective privacy policies. <https://stripe.com/privacy> and <https://paypal.com/privacy>
+
 We use MailChimp to manage our newsletter and other email lists. There’s no third-party tracking in messages we send through MailChimp besides MailChimp’s own analytics, which may aggregate how many subscribers open a message or click the links inside. MailChimp’s privacy policy is available at <http://mailchimp.com/legal/privacy>. 
 
 You can unsubscribe from our newsletter by clicking on the unsubscribe link provided at the end of the newsletter. You can also email support@disconnect.me to update your email address, or to request that we delete your email. 
 
-To improve the Services and your experience on our site, we may collect aggregate usage data from the Services and use non-identifying browser cookies to collect aggregate data like your browser type, your operating system, or the links you click to navigate to and from our site. 
+To improve the Services and your experience on our site, we may collect aggregate usage data from the Services and our website, including number of page views, visitor browser types, operating systems, or the links clicked to navigate to and from our site. We use a non-identifying first-party browser cookie to remember your search preferences (language, country, search engine) for our search service at [https://search.disconnect.me](https://search.disconnect.me/). Our cookies don’t track you. Most browsers allow you to refuse cookies or disable them, you can find out more [here](http://www.civicuk.com/cookie-control/browser-settings). Or check your browser preferences. 
 
 ###  2\. Disconnect never sells your email address or any other Personal Info you volunteer 
 
