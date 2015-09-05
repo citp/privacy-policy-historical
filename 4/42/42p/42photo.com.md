@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 42photo.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321203821id_/https%3A//www.42photo.com/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 42photo.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905082303id_/https%3A//www.42photo.com/Pages/Privacy) for the most accurate reproduction.*
 
 # 42nd Street Photo - New York Camera Store, Digital Cameras, Audio and Video Electronics
 
-Mail Order Hours: Sunday - Thursday 10am - 8pm | Friday 10am - 4pm EST | Sunday 11am - 6pm | Saturday Closed.
+Mail Order Hours: Monday - Thursday 10am - 7pm EST | Friday 10am - 5pm | Sunday 12am - 6pm | Saturday Closed.
 
 NYC Retail Store Location: 378 5th Avenue Between 35th & 36th Street on 5th Avenue.
 
