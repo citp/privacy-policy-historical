@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519150326id_/https%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jolicloud.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195049id_/https%3A//www.jolicloud.com/privacy) for the most accurate reproduction.*
 
 # Jolicloud
 
