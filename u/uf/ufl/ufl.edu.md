@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ufl.edu privacy policy that was archived on 2015-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150208025124id_/http%3A//privacy.ufl.edu/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufl.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061545id_/http%3A//privacy.ufl.edu/privacystatement.html) for the most accurate reproduction.*
 
 # Online/Internet Privacy Statement » Privacy » University of Florida
 
 ### A Note to Children and Parents
 
-The University of Florida Web sites are operated by the University of Florida and affiliated entities (see definitions below). In general, the Web sites are intended for use by adults, unless they are specifically labeled for children.  UF does not knowingly collect Personal Information from children under the age of 13.  If we learn that we have collected Personal Information of a child under the age of 13 that was not supplied to us voluntarily, we will delete that data from our systems. See the section below labeled _Children’s Online Activities and Programs_ for more specific information.
+The University of Florida Web sites are operated by the University of Florida and affiliated entities (see **Site Definitions** below). In general, the Web sites are intended for use by adults, unless they are specifically labeled for children.  UF does not knowingly collect Personal Information from children under the age of 13.  If we learn that we have collected Personal Information of a child under the age of 13 that was not supplied to us voluntarily, we will delete that data from our systems. See the section below labeled _Children’s Online Activities and Programs_ for more specific information.  The University of Florida Web sites are operated by the University of Florida and affiliated entities.
 
 Children – Some internet sites may ask you to share information about yourself. Before sending any information about yourself over the Internet to us or anyone else, be sure to ask your parents for permission.
 
@@ -30,11 +30,17 @@ The following information explains the Internet privacy policy and practices the
 
 University Web space includes hundreds of sites with varying levels of University involvement and commitment as outlined below.
 
-### Official University Web Sites
+  * ### Official University Web Sites
+
+
+
 
 Except as noted, the information in this privacy notice applies to all official University of Florida Web sites, which are defined as the Web pages of university colleges, schools, departments, divisions or other units and any other sites specifically designated as official by a vice president, dean, department head or director. Official pages are generally recognizable by a standard page header and/or footer carrying the University logo, contact information and reference to this privacy statement.
 
-### Unofficial Web Sites
+  * ### Unofficial Web Sites
+
+
+
 
 Within the University of Florida domain – signified by the address “ufl.edu” or within the range of Internet protocol addresses assigned to the University of Florida – you may find Web sites over which the University has no editorial responsibility or control. Such sites are considered unofficial and include, but are not limited to, the Web pages of individual faculty members or students and the Web pages of student organizations and other entities not formally a part of the University. While UF encourages compliance with this Web Privacy Statement at such sites, in order to better understand the policies and practices under which they operate, please consult the privacy statements of individual sites or seek information directly from the persons responsible for those sites.
 
