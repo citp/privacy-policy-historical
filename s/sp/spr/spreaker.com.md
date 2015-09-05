@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628123934id_/http%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreaker.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195647id_/http%3A//www.spreaker.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Spreaker
+# Privacy Policy
 
 This privacy policy sets out how Spreaker Inc. ("Spreaker" or "we", "our" or "us") uses and protects any information that you give Spreaker when you use www.spreaker.com (the "Website"). Spreaker enables users to create, submit and share "Shows". A Show is an audio file that is stored remotely rather than locally and accessible to listen to on-demand. A Show may include, but is not limited to, a radio show, a Podcast, a DJ mix-set or a live recording.
 
