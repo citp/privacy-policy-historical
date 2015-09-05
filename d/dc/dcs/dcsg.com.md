@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcsg.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628220038id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcsg.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905141552id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26ab%3DFooter_PrivacyPolicy) for the most accurate reproduction.*
 
 # DICK’S Sporting Goods – Official Site – Every Season Starts at DICK’S
 
