@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverykids.com privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211191332id_/http%3A//discoverykids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverykids.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905093606id_/http%3A//discoverykids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Discovery Kids
 
