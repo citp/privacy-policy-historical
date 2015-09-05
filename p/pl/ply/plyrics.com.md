@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plyrics.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629202544id_/http%3A//www.plyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plyrics.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061145id_/http%3A//www.plyrics.com/privacy.html) for the most accurate reproduction.*
 
 # PLyrics.com - Privacy Policy
 
