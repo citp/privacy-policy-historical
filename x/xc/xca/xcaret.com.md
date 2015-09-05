@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174938id_/http%3A//www.xcaret.com/privacy-notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcaret.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905211226id_/http%3A//www.xcaret.com/privacy-notice.php) for the most accurate reproduction.*
 
 # Privacy Notice | Xcaret Park Cancun México
 
@@ -19,23 +19,34 @@ Responsible for data Protection is the Web Development department and can be con
 
 **This Privacy Notice is for the following websites:**
 
-  * http://www.xcaretexperiencias.com/
-  * http://www.xcaret.com.mx/
-  * http://www.xcaret.com/
+  * http://www.xcaretexperiencias.com
+  * http://www.xcaret.com.mx
+  * http://www.xcaret.com
   * http://www.xelha.com
   * http://www.xplor.travel
-  * http://www.xichen.com.mx/
-  * http://www.xenotes.com/
-  * http://www.xenotes.com.mx/
-  * http://www.xoximilco.com/
-  * http://www.xoximilco.com.mx/
+  * http://www.xichen.com.mx
+  * http://www.xenotes.com
+  * http://www.xenotes.com.mx
+  * http://www.xoximilco.com
+  * http://www.xoximilco.com.mx
   * http://www.experienciasxcaret.net/aol/
-  * http://www.repsclub.com/
-  * http://www.fotoxplor.com/
+  * http://www.repsclub.com
   * http://www.travesiasagradamaya.com.mx
   * http://www.triatlonxelha.com
   * http://www.festivaldevidaymuerte.com
+  * http://www.bodasxcaret.com
+  * http://www.tuexperiencia.travel
+  * http://www.yourexperience.travel
+  * http://www.xcaretsalesnetwork.com
+  * https://www.aolxcaret.com
+  * http://www.grupoexperienciasxcaret.com
+  * http://www.loyaltyreps.com
+  * http://www.fotoxplor.com
   * http://www.fotoxcaret.com
+  * http://www.photoxenotes.com
+  * http://www.photoxelha.com
+  * http://www.xcaretgrupos.com
+  * https://www.xperienciasxcaret.mx
 
 
 
@@ -127,4 +138,4 @@ If the customer uses the services in any of the Experiencias Xcaret S.A. de C.V.
 **Authority**   
 If you believe that your rights have been violated regarding the protection of personal data, you have the right to go to the appropriate authority to defend its exercise. The authority is the Federal Institute of Access to Information and Data Protection (IFAI), their website is: www.ifai.mx 
 
-**Privacy notice last updated on December 18th, 2013.**
+**Privacy notice last updated on June 08th, 2015.**
