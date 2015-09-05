@@ -1,23 +1,18 @@
-> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317035752id_/https%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905124828id_/https%3A//www.thesslstore.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: TheSSL Store.com Read our Privacy Policy
 
 ## Your privacy is important to us
 
 **What information do we collect?**  
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
 
 **What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways:
 
-  
-
-
   * To personalize your experience 
-  * To improve our website   
-
-  * To improve customer service   
-
+  * To improve our website
+  * To improve customer service
   * To process transactions   
 
   * To send periodic emails 
@@ -37,9 +32,9 @@ By using our site, you consent to our privacy policy.
 To view our entire detailed Privacy Policy [click here](https://web.archive.org/detailedprivacypolicy.aspx)
 
 **Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
 The SSL Store™  
-146 2nd St. N. #106,  
+146 2nd St. N. #201,  
 St. Petersburg, FL 33701 US  
 [Send an E-mail for Information](mailto:%69%6E%66%6F%40%74%68%65%53%53%4C%73%74%6F%72%65%2E%63%6F%6D)
