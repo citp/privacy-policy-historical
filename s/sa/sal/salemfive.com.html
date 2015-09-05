@@ -1,12 +1,25 @@
-<!--The following is the downloaded HTML source of the salemfive.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315090333id_/https%3A//www.salemfive.com/customer-support/security-center/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salemfive.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905222949id_/https%3A//www.salemfive.com/customer-support/security-center/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon"><link rel="stylesheet" type="text/css" href="/library/styles/style.css">
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-        !window.jQuery && document.write('<script src="/library/scripts/jquery-1.10.2.min.js"><\/script>');
-    </script><script src="/library/scripts/jquery-1.10.2.min.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="/library/styles/style.css">
+<link href="/library/images/mobile/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+            !window.jQuery && document.write('<script src="/library/scripts/jquery-1.10.2.min.js"><\/script>');
+</script><script src="/library/scripts/jquery-1.10.2.min.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 <script type="text/javascript" src="/library/scripts/cufon.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
 <script type="text/javascript" src="/library/scripts/VAG_Rounded_Std_250.font.js"></script>
+
+<!-- Fraud Watch -->
+<script type="text/javacript" src="https://www.phishportal.com/secured.js"></script>
+
+
+
 <script type="text/javascript">
     $(function () {
         if (window.location.href.indexOf('calculators-and-planning') !== -1) {
@@ -15,13 +28,52 @@
         Cufon.replace('.rpRootGroup > li:nth-child(1) > a:nth-child(1)');
     });
 </script>
-    <script type="text/javascript">
-        function recordOutboundLink(link, category, action) {
-            _gat._getTrackerByName()._trackEvent(category, action);
-            setTimeout('document.location = "' + link.href + '"', 100);
-        }
-</script>
 
+<!-- start google analytics tracking custom/desktop-header.ascx -->
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-25566418-3', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+
+</script>
+<!-- End google analytics tracking custom/desktop-header.ascx -->
+
+<!-- sivertech tracking. Load last -->
+<script type="text/javascript" src="/library/scripts/st-tracking.js"></script>
+
+<!-- deprecated, just redirects redirects-->
+<script type="text/javascript">
+    //This function is deprecated, just redirects redirects for salemfive-->
+    function recordOutboundLink(atag, category, action, label) {
+        if (category && action && label) {
+            st_track({ category: category, action: action, label: label });
+        }
+        else if (category && action) {
+            st_track({ category: category, action: action });
+        }
+        else if (category) {
+            var combinedObj = category;
+            combinedObj = combinedObj.split(" ");
+            st_track({ category: combinedObj[0], action: combinedObj[1], label: combinedObj[2], optional: combinedObj[3] });
+        }
+        else {
+            console.log("failed to record tracking event.");
+        }
+
+        setTimeout(function () {
+            if (!atag.target)
+                atag.target = '_self';
+            window.open(atag.href, atag.target);
+        }, 100);
+    }
+</script>
 
 <meta name="Generator" content="Sitefinity 7.0.5100.0 SE"><link rel="canonical" href="https://www.salemfive.com/customer-support/security-center/privacy-policy"><link href="/Telerik.Web.UI.WebResource.axd?compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d7.0.5100.0%2c+Culture%3dneutral%2c+PublicKeyToken%3dnull%3aen%3aa6635f48-e22f-44c2-8ae2-67269b80c83c%3a83fa35c7%3a850288ef%3bTelerik.Web.UI%2c+Version%3d2014.1.403.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3afe717150-da5c-4560-8705-07b356b5226f%3a580b2269%3a5951aeec%3bTelerik.Web.UI.Skins%2c+Version%3d2014.1.403.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3a46433934-f487-4d61-9bb5-4b7ec3460d8a%3a6c8ef648" type="text/css" rel="stylesheet"><title>
 	Privacy Notice
@@ -34,11 +86,11 @@
             <![endif]-->
     <form method="post" action="privacy-policy" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="ctl04_TSM" id="ctl04_TSM" value="">
-<input type="hidden" name="ctl05_TSSM" id="ctl05_TSSM" value="">
+<input type="hidden" name="ctl01_TSM" id="ctl01_TSM" value="">
+<input type="hidden" name="ctl02_TSSM" id="ctl02_TSSM" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTkzNjkzMzcxM2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFOGN0bDAwJHBobEJyZWFkY3J1bWJzJFQyQjFERDRGRDAwNCRjdGwwMCRjdGwwMCRCcmVhZGNydW1iBRxjdGwwMCRwaGxTdWJuYXYkVDJCMURENEZEMDA5dFdckofoxSy6yzK9Auy/HwKwxybpMwzJA3c8EfUx4wY=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQzODc4NDEzNGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFOGN0bDAwJHBobEJyZWFkY3J1bWJzJFQyQjFERDRGRDAwNCRjdGwwMCRjdGwwMCRCcmVhZGNydW1iBRxjdGwwMCRwaGxTdWJuYXYkVDJCMURENEZEMDA5E0WrRpZczOpjO01lmwkgXsM0ESLAzJtwWvbhM+A0s50=">
 </div>
 
 <script type="text/javascript">
@@ -66,21 +118,21 @@ function __doPostBack(eventTarget, eventArgument) {
 var __cultureInfo = {"name":"en","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135575200000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM dd, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM dd, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM dd","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM, yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]},"eras":[1,"A.D.",null,0]};//]]>
 </script>
 
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3afa6755fd-da1a-49d3-9eb4-1e473e780ecd%3aea597d4b%3ab25378d2" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl01_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3afa6755fd-da1a-49d3-9eb4-1e473e780ecd%3aea597d4b%3ab25378d2" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=8VAznxXUYCs6Nqdnop2TQ9ClILLCwPTMgYFdu97Aev8g05-1mVEK1e_7mXQ_JWCWySUBvfqAMp02f4E6N_Upo2k1f6_f2T4cNcUEVgelzrUQnlnEgfCGURegNtwtpZLQnqKhcFx1JDHl6Zc5pCTUtxYZE00r_8IMQlB2T9T4uFMIirNbL4JGkrx9eJPwC1rs0&amp;t=ffffffffa15c9704" type="text/javascript"></script>
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl04_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%3aen%3aa6635f48-e22f-44c2-8ae2-67269b80c83c%3a472a0b31%3bTelerik.Sitefinity%2c+Version%3d7.0.5100.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3a5484ef46-7668-44fb-84d6-ecbcd3507939%3a3b9a1b05%3bTelerik.Sitefinity.Search.Impl%2c+Version%3d7.0.5100.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3ae24297fe-7446-447f-a1f0-54f773965bda%3a7561727d%3bTelerik.Web.UI%2c+Version%3d2014.1.403.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3afe717150-da5c-4560-8705-07b356b5226f%3aa1a4383a" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl01_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%3aen%3aa6635f48-e22f-44c2-8ae2-67269b80c83c%3a472a0b31%3bTelerik.Sitefinity%2c+Version%3d7.0.5100.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3a5484ef46-7668-44fb-84d6-ecbcd3507939%3a3b9a1b05%3bTelerik.Sitefinity.Search.Impl%2c+Version%3d7.0.5100.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3ae24297fe-7446-447f-a1f0-54f773965bda%3a7561727d%3bTelerik.Web.UI%2c+Version%3d2014.1.403.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3afe717150-da5c-4560-8705-07b356b5226f%3aa1a4383a" type="text/javascript"></script>
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOxuWuUOkOFoz9ZAeFPr4KEN3j142IS3ZzixsYGAQVFJmILv605yeBVdoSh/KPc7fii93RL4hsixHl9l1HJrx5ZTvc7n8a498QDnl6Nso17Bw==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAP0ne/LRDNE9HKHygS/2PAMN3j142IS3ZzixsYGAQVFJmILv605yeBVdoSh/KPc7fgjPzEh/bdb+LUpjBG0VGhengf8dqAji83qqdF3Fr5JJg==">
 </div><script type="text/javascript">
 //<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ctl04', 'form1', [], [], [], 90, 'ctl00');
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl01', 'form1', [], [], [], 90, 'ctl00');
 //]]>
 </script>
-<input type="hidden" name="ctl00$ctl04" id="ctl04">
+<input type="hidden" name="ctl00$ctl01" id="ctl01">
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.setServerId("ctl04", "ctl00$ctl04");
+Sys.Application.setServerId("ctl01", "ctl00$ctl01");
 Sys.Application._enableHistoryInScriptManager();
 //]]>
 </script>
@@ -94,7 +146,7 @@ Sys.Application._enableHistoryInScriptManager();
             <a href="/"><img src="/library/images/salem-five-logo.png"></a>
           </h1>
           <p class="date">
-              Sunday, March 15, 2015
+              Saturday, September 05, 2015
           </p>
           <ul id="utility-nav" class="menu">
               
@@ -450,7 +502,7 @@ Sys.Application._enableHistoryInScriptManager();
                         </li>
                     
                         <li>
-                            <a href="/business/business-services/merchant-card-processing">Merchant Card Processing</a>
+                            <a href="/business/business-services/merchant-card-services">Merchant Card Services</a>
                             
                         </li>
                     
@@ -949,13 +1001,13 @@ Sys.Application._enableHistoryInScriptManager();
                             
                         </li>
                     
-                        <li>
-                            <a href="/customer-support/security-center/password-security">Password Security</a>
+                        <li class="active">
+                            <a href="/customer-support/security-center/privacy-policy" class="sfSel">Privacy Notice</a>
                             
                         </li>
                     
-                        <li class="active">
-                            <a href="/customer-support/security-center/privacy-policy" class="sfSel">Privacy Notice</a>
+                        <li>
+                            <a href="/customer-support/security-center/password-tips">Password Tips</a>
                             
                         </li>
                     </ul>
@@ -964,7 +1016,7 @@ Sys.Application._enableHistoryInScriptManager();
                         </li>
                     
                         <li class="last">
-                            <a href="/people-are-talking">People Are Talking</a>
+                            <a href="/people-are-talking">Pedroia’s World</a>
                             
                         </li>
                     
@@ -984,11 +1036,11 @@ Sys.Application._enableHistoryInScriptManager();
     <span id="phlBreadcrumbs_T2B1DD4FD004_ctl00_ctl00_BreadcrumbLabel" class="sfBreadcrumbLabel" style="display:none;"></span>
     <div id="ctl00_phlBreadcrumbs_T2B1DD4FD004_ctl00_ctl00_Breadcrumb" class="RadSiteMap RadSiteMap_Sitefinity">
 		<!-- 2014.1.403.40 --><ul class="rsmFlow rsmLevel rsmOneLevel">
-			<li class="rsmItem sfBreadcrumbNavigation"><a class="rsmLink" href="../../home">Home</a><img alt="" src="/library/images/M_images/arrow.png"></li> <li class="rsmItem sfBreadcrumbNavigation"><a class="rsmLink" href="../../customer-support">Customer Support</a><img alt="" src="/library/images/M_images/arrow.png"></li> <li class="rsmItem sfBreadcrumbNavigation"><a class="rsmLink" href="../security-center">Security Center</a><img alt="" src="/library/images/M_images/arrow.png"></li> <li class="rsmItem sfNoBreadcrumbNavigation"><a class="rsmLink" href="javascript: void(0)">Privacy Notice</a></li>
+			<li class="rsmItem sfBreadcrumbNavigation"><a class="rsmLink" href="../../home" title="At Salem Five, we make banking better. We meet the diverse financial needs of consumers, small businesses and middle market companies in our region.">Salem Five Home Page</a><img alt="" src="/library/images/M_images/arrow.png"></li> <li class="rsmItem sfBreadcrumbNavigation"><a class="rsmLink" href="../../customer-support">Customer Support</a><img alt="" src="/library/images/M_images/arrow.png"></li> <li class="rsmItem sfBreadcrumbNavigation"><a class="rsmLink" href="../security-center">Security Center</a><img alt="" src="/library/images/M_images/arrow.png"></li> <li class="rsmItem sfNoBreadcrumbNavigation"><a class="rsmLink" href="javascript: void(0)">Privacy Notice</a></li>
 		</ul><input id="ctl00_phlBreadcrumbs_T2B1DD4FD004_ctl00_ctl00_Breadcrumb_ClientState" name="ctl00_phlBreadcrumbs_T2B1DD4FD004_ctl00_ctl00_Breadcrumb_ClientState" type="hidden">
 	</div>
 </div>
-</div><div class="sfContentBlock"><div id="login-form"> <div id="s5LoginOnlineBanking" style="visibility: visible;"> <ul> <li><a href="https://cibng.ibanking-services.com/cib/themes/cib_enroll/enroll/enroll.jsp?FIORG=126&amp;FIFID=211370558">Enroll</a> | </li> <li><a href="/flash">Demo</a></li> </ul> </div> <div id="s5LoginWebCash" style="display: none; visibility: hidden;"> <ul> <li><a href="https://salemfive.ebanking-services.com/Nubi/Trace/Enroll.aspx">Enroll</a> | </li> <li><a href="/webcash">Demo</a></li> </ul> </div> <div id="s5LoginPlaceHolder" style="display: none; visibility: hidden;"> <ul> <li>&nbsp;</li> <li>&nbsp;</li> </ul> </div> <div> <form onsubmit="return OnS5Login(this.s5logintype.selectedIndex);" name="s5LoginForm"><label class="form-me">Login</label><select class="form-me" id="s5logintype" onchange="s5loginhideshow();"> <option value="https://cibng.ibanking-services.com/cib/CEBMainServlet/Signon?FIORG=126&amp;FIFID=211370558">Online Banking</option> <option value="https://salemfive.ebanking-services.com/">Web Cash Manager</option> <option value="https://onlineapps.ibanking-services.com/olnas/OLNASServlet/StappsApp">Funding Account Validation</option> <option value="https://myaccountviewonline.com/AccountView/">Investment Accounts</option> </select><input name="submit" class="s5-login-btn form-me" type="image" src="/images/buttons/login_btn.png"><span class="form-me" id="s5loginparams">&nbsp;</span></form>    </div> </div>
+</div><div class="sfContentBlock"><div id="login-form"> <div id="s5LoginOnlineBanking" style="visibility: visible;"> <ul> <li><a href="https://cibng.ibanking-services.com/cib/themes/cib_enroll/enroll/enroll.jsp?FIORG=126&amp;FIFID=211370558">Enroll</a> | </li> <li><a href="/flash">Demo</a></li> </ul> </div> <div id="s5LoginWebCash" style="display: none; visibility: hidden;"> <ul> <li><a href="https://salemfive.ebanking-services.com/Nubi/Trace/Enroll.aspx">Enroll</a> | </li> <li><a href="/webcash">Demo</a></li> </ul> </div> <div id="s5LoginPlaceHolder" style="display: none; visibility: hidden;"> <ul> <li>&nbsp;</li> <li>&nbsp;</li> </ul> </div> <div> <form onsubmit="return OnS5Login(this.s5logintype.selectedIndex);" name="s5LoginForm"><label class="form-me">Login</label><select class="form-me" id="s5logintype" onchange="s5loginhideshow();"> <option value="https://cibng.ibanking-services.com/EamWeb/Account/Login.aspx?orgId=126_211370558&amp;FIFID=211370558&amp;brand=126_211370558&amp;appId=CeB&amp;FIORG=126">Online Banking</option> <option value="https://salemfive.ebanking-services.com/">Web Cash Manager</option> <option value="https://onlineapps.ibanking-services.com/olnas/OLNASServlet/StappsApp">Funding Account Validation</option> <option value="https://myaccountviewonline.com/AccountView/">Investment Accounts</option> </select><input name="submit" class="s5-login-btn form-me" type="image" src="/images/buttons/login_btn.png"><span class="form-me" id="s5loginparams">&nbsp;</span></form>    </div> </div>
 
 
 </div>
@@ -1047,7 +1099,11 @@ Sys.Application._enableHistoryInScriptManager();
 							<ul class="rpGroup rpLevel3 ">
 								<li class="rpItem rpFirst rpLast"><a href="infoarmor/get-started" class="rpLink"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Get Started</span></span></a></li>
 							</ul>
-						</div></li><li class="rpItem"><a href="security-support" class="rpLink"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Security Support</span></span></a></li><li class="rpItem"><a href="atm-safety" class="rpLink"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">ATM Safety</span></span></a></li><li class="rpItem"><a href="about-phishing" class="rpLink"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">About Phishing</span></span></a></li><li class="rpItem"><a href="password-security" class="rpLink"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Password Security</span></span></a></li><li class="rpItem rpLast"><a href="privacy-policy" class="rpLink rpSelected"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Privacy Notice</span></span></a></li>
+						</div></li><li class="rpItem"><a href="security-support" class="rpLink"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Security Support</span></span></a></li><li class="rpItem"><a href="atm-safety" class="rpLink"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">ATM Safety</span></span></a></li><li class="rpItem"><a href="about-phishing" class="rpLink"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">About Phishing</span></span></a></li><li class="rpItem"><a href="privacy-policy" class="rpLink rpSelected"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Privacy Notice</span></span></a></li><li class="rpItem rpLast"><a href="password-tips" class="rpLink rpExpandable"><a href="javascript:" class="sub-more-nav-arrow"></a><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Password Tips</span></span></a><div class="rpSlide">
+							<ul class="rpGroup rpLevel3 ">
+								<li class="rpItem rpFirst"><a href="password-tips/personal-tips" class="rpLink"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Personal</span></span></a></li><li class="rpItem rpLast"><a href="password-tips/business-tips" class="rpLink"><span class="rpOut rpNavigation"><span class="rpExpandHandle"></span><span class="rpText">Business</span></span></a></li>
+							</ul>
+						</div></li>
 					</ul>
 				</div></li>
 			</ul>
@@ -1088,11 +1144,69 @@ Rev January 2015</p> </div> <p style="text-align: left;">If you wish to retain a
            </div>
            <img style="width:965px; height:27px; border: 0px;" src="/library/images/bg/content-bot.png">
        </div>
+        
+<div>
+	
+<div id="footer_ctl00_ctl00_ctl00_detailContainer">
+		
+        <div class="sfitemDetails sfdetails" data-sf-provider="OpenAccessProvider" data-sf-id="1986f489-482c-60e9-9cca-ff0000fbfb2a" data-sf-type="Telerik.Sitefinity.DynamicModules.Model.DynamicContent">
+            <div id="footer">
+                <ul class="menu">
+                    <li>
+                        <a href="/member-fdic"><span>Member FDIC</span></a><span class="line">|</span>
+                    </li>
+                    <li>
+                        <a href="/member-dif"><span>Member DIF</span></a><span class="line">|</span>
+                    </li>
+                    <li>
+                        <a href="/terms-and-conditions">Terms &amp; Conditions</a><span class="line">|</span>
+                    </li>
+                    <li>
+                        <a href="/customer-support/security-center">Security &amp; Privacy</a><span class="line">|</span>
+                    </li>
+                    <li>
+                        <a href="/disclosures">Disclosures</a><span class="line">|</span>
+                    </li>
+                    <li>
+                        <a href="/external-links">External Links</a><span class="line">|</span>
+                    </li>
+                    <li class="last">
+                        <a href="/hud"><img src="/images/bg/ehl_logo.jpg">Equal Housing Lender</a><span class="line">|</span>
+                    </li>
+                    
+                    
+                    
+                </ul>
+            </div>
+    
+	</div>
 
-        <div id="footer">
-            <ul class="menu"><li class="item8"><a href="/member-fdic"><span>Member FDIC</span></a><span class="line">|</span></li><li class="item9"><a href="/member-dif"><span>Member DIF</span></a><span class="line">|</span></li><li class="item18"><a href="/terms-and-conditions"><span>Terms &amp; Conditions</span></a><span class="line">|</span></li><li class="item19"><a href="/customer-support/security-center"><span>Security &amp; Privacy</span></a><span class="line">|</span></li><li class="parent item20"><a href="/disclosures"><span>Disclosures</span></a><span class="line">|</span></li><li class="item21"><a href="/external-links"><span>External Links</span></a><span class="line">|</span></li><li class="item621 last"><a href="/hud"><span>Equal Housing Lender</span></a><span class="line">|</span></li></ul>
-        </div>
 
+<script>
+    $(document).ready(function () {
+        $('ul#utility-nav > li:last, ul.main-menu > li:last, div#footer ul > li:last').addClass('last');
+        //$('#footer ul li a').after('<span class="line">|</span>');
+        hiConfig = {
+            sensitivity: 3, // number = sensitivity threshold (must be 1 or higher)
+            interval: 200, // number = milliseconds for onMouseOver polling interval
+            timeout: 200, // number = milliseconds delay before onMouseOut
+            over: function () {
+                $(this).addClass('selected');
+                $(this).children('ul').show();
+            }, // function = onMouseOver callback (REQUIRED)
+            out: function () {
+                $(this).removeClass('selected');
+                $(this).children('ul').hide();
+            } // function = onMouseOut callback (REQUIRED)
+        }
+        $('ul.main-menu > li').hoverIntent(hiConfig);
+        //$('#main-nav > li > a').append('<span class="spacer"></span>');
+        $('ul#social-media li#twitter a, ul#social-media li#facebook a').attr("target", "_blank");
+    });
+
+        </script>
+
+</div>
         <script type="text/javascript" src="/library/scripts/jquery.hoverIntent.minified.js"></script>
         <script>
             $(document).ready(function () {
@@ -1256,7 +1370,7 @@ ga('send', 'pageview');//]]>
 //<![CDATA[
 ;(function() {
                         function loadHandler() {
-                            var hf = $get('ctl05_TSSM');
+                            var hf = $get('ctl02_TSSM');
                             if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
                             hf.value += ';Telerik.Sitefinity.Resources, Version=7.0.5100.0, Culture=neutral, PublicKeyToken=null:en:a6635f48-e22f-44c2-8ae2-67269b80c83c:83fa35c7:850288ef;Telerik.Web.UI, Version=2014.1.403.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en:fe717150-da5c-4560-8705-07b356b5226f:580b2269:5951aeec;Telerik.Web.UI.Skins, Version=2014.1.403.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en:46433934-f487-4d61-9bb5-4b7ec3460d8a:6c8ef648';
                             Sys.Application.remove_load(loadHandler);
@@ -1269,11 +1383,11 @@ Sys.Application.add_init(function() {
     $create(Telerik.Web.UI.RadSiteMap, null, null, null, $get("ctl00_phlBreadcrumbs_T2B1DD4FD004_ctl00_ctl00_Breadcrumb"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadPanelBar, {"_skin":"Default","clientStateFieldID":"ctl00_phlSubnav_T2B1DD4FD009_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","itemData":[{"items":[{"items":[{"value":"Email Us"},{"value":"Click To Get A Call"},{"value":"Telephone Banking"},{"value":"Our Locations"},{"value":"Bank Holiday Schedule"},{"value":"Business Requests"},{"value":"Custom Financial Plan"},{"items":[{"value":"Post A Question"}],"value":"Ask Salem Five"},{"value":"Service Notices"},{"value":"File a Complaint"}],"value":"Contact Us"},{"items":[{"items":[{"value":"Account Information"},{"value":"Enrollment"},{"value":"Alerts"},{"value":"Bill Pay"},{"value":"Check Image"},{"value":"Stop Payments"},{"value":"System Availability"},{"value":"Transfers"},{"value":"e-Bills"},{"value":"External Transfers "},{"value":"Online Statements"},{"value":"Expedited Payments"},{"value":"Text Banking"}],"value":"Online Banking"},{"value":"Account Opening"},{"value":"Cash Management"},{"value":"Deposits"},{"value":"ATM \u0026 Debit Cards"},{"value":"General Information"},{"value":"Mortgages"},{"value":"FDIC/DIF"}],"value":"FAQ\u0027s"},{"items":[{"items":[{"value":"Deposit Account Application Form"},{"value":"Switch Kit"},{"value":"Deposits by Mail"},{"value":"Reorder Checks"},{"value":"Loan Payoff Request"},{"value":"Quicken Application"}],"value":"Personal"},{"items":[{"value":"Business Online Banking Application"},{"value":"SBA Loans"},{"value":"Deposits by Mail"}],"value":"Business"},{"items":[{"value":"Retirement Account Deposit Form"},{"value":"Beneficiary Designation Form"},{"value":"Trustee Transfer Authorization Form"}],"value":"Retirement Services"},{"items":[{"value":"Coverdell Savings Account"}],"value":"Education"}],"value":"Forms"},{"items":[{"value":"Payoff Procedures"},{"value":"Payoff Request"}],"value":"Loan Payoffs"},{"items":[{"value":"ID Theft Resources"},{"items":[{"value":"Get Started"}],"value":"Salem Five InfoArmor"},{"value":"Security Support"},{"value":"ATM Safety"},{"value":"About Phishing"},{"value":"Password Security"},{"value":"Privacy Notice","selected":true}],"value":"Security Center","expanded":true}],"value":"Customer Support","expanded":true}]}, null, null, $get("ctl00_phlSubnav_T2B1DD4FD009"));
+    $create(Telerik.Web.UI.RadPanelBar, {"_skin":"Default","clientStateFieldID":"ctl00_phlSubnav_T2B1DD4FD009_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","itemData":[{"items":[{"items":[{"value":"Email Us"},{"value":"Click To Get A Call"},{"value":"Telephone Banking"},{"value":"Our Locations"},{"value":"Bank Holiday Schedule"},{"value":"Business Requests"},{"value":"Custom Financial Plan"},{"items":[{"value":"Post A Question"}],"value":"Ask Salem Five"},{"value":"Service Notices"},{"value":"File a Complaint"}],"value":"Contact Us"},{"items":[{"items":[{"value":"Account Information"},{"value":"Enrollment"},{"value":"Alerts"},{"value":"Bill Pay"},{"value":"Check Image"},{"value":"Stop Payments"},{"value":"System Availability"},{"value":"Transfers"},{"value":"e-Bills"},{"value":"External Transfers "},{"value":"Online Statements"},{"value":"Expedited Payments"},{"value":"Text Banking"}],"value":"Online Banking"},{"value":"Account Opening"},{"value":"Cash Management"},{"value":"Deposits"},{"value":"ATM \u0026 Debit Cards"},{"value":"General Information"},{"value":"Mortgages"},{"value":"FDIC/DIF"}],"value":"FAQ\u0027s"},{"items":[{"items":[{"value":"Deposit Account Application Form"},{"value":"Switch Kit"},{"value":"Deposits by Mail"},{"value":"Reorder Checks"},{"value":"Loan Payoff Request"},{"value":"Quicken Application"}],"value":"Personal"},{"items":[{"value":"Business Online Banking Application"},{"value":"SBA Loans"},{"value":"Deposits by Mail"}],"value":"Business"},{"items":[{"value":"Retirement Account Deposit Form"},{"value":"Beneficiary Designation Form"},{"value":"Trustee Transfer Authorization Form"}],"value":"Retirement Services"},{"items":[{"value":"Coverdell Savings Account"}],"value":"Education"}],"value":"Forms"},{"items":[{"value":"Payoff Procedures"},{"value":"Payoff Request"}],"value":"Loan Payoffs"},{"items":[{"value":"ID Theft Resources"},{"items":[{"value":"Get Started"}],"value":"Salem Five InfoArmor"},{"value":"Security Support"},{"value":"ATM Safety"},{"value":"About Phishing"},{"value":"Privacy Notice","selected":true},{"items":[{"value":"Personal"},{"value":"Business"}],"value":"Password Tips"}],"value":"Security Center","expanded":true}],"value":"Customer Support","expanded":true}]}, null, null, $get("ctl00_phlSubnav_T2B1DD4FD009"));
 });
 //]]>
 </script>
-</form>
 
 
-</body></html>
+
+</div></form></body></html>
