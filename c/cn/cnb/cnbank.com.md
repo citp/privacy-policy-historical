@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630052913id_/http%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065751id_/https%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Canandaigua National Bank & Trust
 
@@ -77,8 +77,8 @@ Canandaigua National Bank will continually look for new advances in security tec
 **  
 In addition, we encourage our customers to learn more about Internet Security and Electronic commerce at a representative sample of sites listed below: 
 
-  * [Microsoft Security  ](https://web.archive.org/leaving.aspx?link=http://www.microsoft.com/security/ "Microsoft Security ")
-  * [Federal Trade Commission - Consumer Guide to E-Commerce & the Internet ](https://web.archive.org/leaving.aspx?link=http://www.ftc.gov/bcp/menus/consumer/tech.shtm "Federal Trade Commission - Consumer Guide to E-Commerce &amp; the Internet ")
+  * [Microsoft Security  ](https://web.archive.org/leaving.aspx?link=http://www.microsoft.com/security/ "Microsoft Security")
+  * [Federal Trade Commission - Consumer Guide to E-Commerce & the Internet ](https://web.archive.org/leaving.aspx?link=http://www.ftc.gov/bcp/menus/consumer/tech.shtm "Federal Trade Commission - Consumer Guide to E-Commerce &amp; the Internet")
 
 
 
