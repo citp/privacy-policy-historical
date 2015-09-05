@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superstock.com privacy policy that was archived on 2014-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141203232411id_/https%3A//www.superstock.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superstock.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074442id_/https%3A//www.superstock.com/Home/Privacy) for the most accurate reproduction.*
 
 # None
 
