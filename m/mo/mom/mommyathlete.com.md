@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommyathlete.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507123447id_/http%3A//www.mommyathlete.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyathlete.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905031528id_/http%3A//www.mommyathlete.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mommy Athlete
 
