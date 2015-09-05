@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mypreferredaccount.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406062408id_/https%3A//www.billmelater.com/about/privacy-policy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypreferredaccount.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905133000id_/https%3A//www.billmelater.com/about/privacy-policy.xhtml) for the most accurate reproduction.*
 
 # Bill Me Later
 
 **Comenity Capital Bank Privacy Policy for the PayPal Credit Payment System**
 
-rev. Aug 2014
+rev. July 2015
 
 Comenity Capital Bank (referred to as “we”, “us” or “our”), is the Lender offering the PayPal Credit Payment System (“PayPal Credit”). This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the BillMeLater.com website and all related sites, applications, services and tools regardless of how you access or use them (collectively “PayPal Credit Websites”). You accept this Privacy Policy when you sign up for, access, or use our products, services, content, features, technologies or functions offered on our website and all related sites, applications, and services (collectively “PayPal Credit Services”). We may amend this policy at any time by posting a revised version on our website or sending you a copy. The revised version will be effective at the time we post it or send it to you.
 
@@ -90,7 +90,7 @@ We may share your personal information with:
 
 Bill Me Later, Inc.
 
-  * Bill Me Later, Inc. may share information it receives about your creditworthiness with its affiliate companies to market their products and services to you. Bill Me Later, Inc. affiliates include companies that are related to it by common ownership or control, and they can be financial companies, like PayPal, and nonfinancial companies, like eBay, Inc. 
+  * Bill Me Later, Inc. may share information it receives about your creditworthiness with its affiliate companies to market their products and services to you. Bill Me Later, Inc. affiliates include companies that are related to it by common ownership or control, and they can be financial companies, like PayPal. 
     * You can limit the sharing of information with Bill Me Later, Inc.’s affiliates.
 
 
