@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gethuawei.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627041922id_/http%3A//www.gethuawei.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethuawei.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905193350id_/http%3A//www.gethuawei.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Huawei
+# Privacy Policy - GetHuawei.com
 
 **Privacy Policy**
 
