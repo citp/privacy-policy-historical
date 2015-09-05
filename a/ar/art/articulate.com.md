@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articulate.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315011951id_/https%3A//www.articulate.com/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articulate.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905232309id_/https%3A//www.articulate.com/terms/privacy.php) for the most accurate reproduction.*
 
 # Articulate Privacy Policy
 
@@ -20,6 +20,28 @@ When requesting information or a trial of our software, you may be asked to prov
 **Cookies**  
 Articulate may automatically collect non-Personally Identifiable Information and data through the use of “cookies.” Cookies are small text files a website uses to recognize repeat users, facilitate the user’s ongoing access to the site, and facilitate the use of the site. “Cookies” also allow a site to track usage behavior and compile site-usage information that will allow for the improvement of content.
 
+Articulate Online requires the use of certain cookies. The following table contains the details of each cookie set by the service and how long each persists. 
+
+Cookie Name | Purpose | Persistence Duration  
+---|---|---  
+"Enabled"| Checks for cookie support in browser.| No expiration.  
+"WarnExpired"| Checks if account has expired.| No expiration.  
+"WarnOnHold"| Checks if account is on hold.| No expiration.  
+"VPDefaultSort"| User portal setting for default sorting of documents in document list page.| After one year.  
+"VPDefaultSortDesc"| User portal setting for sort preference name for documents in document list page.| After one year.  
+"DefaultSort"| Admin portal setting for default sorting of documents in document list page.| After one year.  
+"DefaultSortDesc"| Admin portal setting for sort preference name for documents in document list page.| After one year.  
+"UserKey + CustomerAccountId"| Anonymous user tracking of public documents.| No expiration.  
+"LocalTime"| Value of local time from client machine.| After 24 hours.  
+"ASP.NET_SessionId"| Holds SessionId value and tracks current user's session state.| Session is removed when user logs out, browser is closed, or idle session times out.  
+".ASPXAUTH"| Encrypted ID for authentication to the server after signing in.| Session is removed when user logs out, browser is closed, or idle session times out.  
+"__RequestValidation:" + doc.DocumentID| Session level cookie set if document is cached.| Session is removed when user logs out, browser is closed, or idle session times out.  
+"ResetEmail"| Session level cookie set if customer resets password.| Session is removed when user logs out, browser is closed, or idle session times out.  
+"WarnOnHold"| Session level cookie set If account is on hold.| Session is removed when user logs out, browser is closed, or idle session times out.  
+"WarnExpired"| Session level cookie set if account has expired.| Session is removed when user logs out, browser is closed, or idle session times out.  
+"ReportEmailed"| Session level cookie if a report was emailed.| Session is removed when user logs out, browser is closed, or idle session times out.  
+"CookieCheck"| Session level cookie for cookie support in browser.| Session is removed when user logs out, browser is closed, or idle session times out.  
+  
 **Re-marketing**  
 Articulate uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). We respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party re-marketing system. 
 
