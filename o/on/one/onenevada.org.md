@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onenevada.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315042101id_/https%3A//www.onenevada.org/disclosures/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onenevada.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905144131id_/https%3A//www.onenevada.org/disclosure/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - One Nevada Credit Union | Serving Las Vegas, Pahrump and Reno, Nevada - Loans, Checking, Savings, Investments and Insurance
+# One Nevada Credit Union: Privacy Policy
 
 We recognize our obligation to keep member information secure and confidential. This obligation is very important to us. Our commitment to protect your financial information will continue under the guidelines described below. We reserve the right to make changes to our privacy guidelines whenever warranted to further protect our member’s financial information. Comments on your privacy can be [e-mailed](https://ssl8.onenevada.org/form/email-us.aspx) to us.
 
@@ -66,8 +66,8 @@ Please let us know if you would like further information on how, what or why we 
 
 To contact us you can use any of the following methods:
 
-  * Visit your [nearby branch](https://web.archive.org/web/20150315042101id_/https%3A//www.onenevada.org/locations/)
-  * Call our [Member Service Contact Center](https://web.archive.org/web/20150315042101id_/https%3A//www.onenevada.org/contact.aspx#Phone)
+  * Visit your [nearby branch](https://www.onenevada.org/locations/)
+  * Call our [Member Service Contact Center](https://www.onenevada.org/contact/)
   * Send us an [e-mail](https://ssl8.onenevada.org/form/email-us.aspx)
   * Write to: One Nevada Credit Union, 2645 South Mojave Road, Las Vegas, Nevada 89121
 
@@ -79,15 +79,15 @@ This Children’s Online Privacy disclosure is provided in compliance with the C
 
 We recognize our obligation to keep member information secure and confidential, especially for children under the age of 13. This obligation is very important to us. The guidelines below describe our continued commitment to protect the personal and financial information of our members and website users under age 13. We reserve the right to make changes to our privacy guidelines whenever warranted to further protect our young members’ personal and financial information.
 
-### Internet Browsers and Online IDs
+#### Internet Browsers and Online IDs
 
 We have taken all appropriate measures to ensure that our website and home banking product is secure and that our young members’ personal and account information remains private. Our young and adult members also play a role in protecting their credit union account information. Your (and their) online banking Account ID and Password should be provided only when your (or their) browser shows a Secure Socket Layer (SSL) session is taking place. Secure Socket Layers (SSL) encode (scramble) account information between computers, so that it is virtually impossible to be read by others. We recommend that all our members, young and adult, use a current version of browser software so that they may benefit from the most up to date Internet security available. After you or your child finish any website session that includes viewing or sending private information you (or they) should close the browser window.
 
-### Computer “Cookies”
+#### Computer “Cookies”
 
 A “cookie” is a small text file placed on your hard drive by a web server. “Cookies” are commonly used on websites and do not harm your computer system. We use cookies to provide a more interactive and helpful website, and to customize the information you see. You can control how a cookie will be handled (accepted or rejected) on your computer by configuring your preferences or options in your browser software. We use cookies for administration purposes of our website. We never combine information collected through a cookie to e-mail you or to gain confidential account information.
 
-### Collecting and Using Young-Member Information
+#### Collecting and Using Young-Member Information
 
 For our internal use, we collect the following information about children under 13 as we do for adults:
 
@@ -105,37 +105,35 @@ We restrict access to protected information to those employees who need to know 
 
 If the child chooses to close their account(s) with us or becomes an inactive member, we will continue to adhere to the privacy policies and practices described in this statement. 
 
-### Website Calculating and/or Planning Tools
+#### Website Calculating and/or Planning Tools
 
 To help our members with financial decisions, various planning or calculating tools are provided on our website. Example of this would be our “How Much Home Can I Afford” calculator. We do not capture the personal information the child may provide on these planning tools.
 
-[Calculators](https://web.archive.org/web/20150315042101id_/https%3A//www.onenevada.org/calculators/index.aspx)
-
-### Links from Our Website
+#### Links from Our Website
 
 We cannot control the content of other internet sites. Links from our website are intended to serve as a benefit to our members and are offered on an as is basis. We are not responsible for accuracy, security or content of site links. We encourage our members to view privacy and security disclosures on all websites they visit.
 
-### E-mail Address Collection
+#### E-mail Address Collection
 
 In order to serve the young member better we may ask her or him to provide us with an e-mail address. E-mail address information is necessary to manage our account database. We assure you that the e-mail address the child submits won’t be sold or shared with any other party outside the credit union unless we are compelled to do so by law. On occasion we may contact the child at the e-mail address they’ve provided, if we have product or service information to share that may be of potential benefit.
 
-### Sending and Receiving E-mail Messages
+#### Sending and Receiving E-mail Messages
 
 When the child e-mails us, we safeguard the content of the e-mail, e-mail address and our response, so that we can more efficiently handle any follow-up questions you may have. We also do this to meet any legal and/or regulatory requirements. E-mail is outside our Secure Socket Layer (SSL) and therefore we recommend our members do not send confidential information via e-mail. One Nevada’s e-mail response back to the sender will not include confidential account information.
 
-### Sharing or Selling Account Information
+#### Sharing or Selling Account Information
 
 To assist us in offering services to members, we may at times choose to share information with companies that work for us, or as otherwise permitted or required by law. These companies might, for example, assist us in how best to offer members, including young members, certain products or services. If information is shared, these companies act on our behalf and are obligated to keep the information that we provide to them confidential. We do not sell personal account information.
 
-### Member Surveys
+#### Member Surveys
 
 Finding out what our members’ needs are and checking on how we’re doing in fulfilling those needs, is very important to us. At times we will ask that the young member complete a mail-in or online survey. All surveys and the information the child might provide are optional. We use the information gathered to improve our products and services. Never do we sell or disclose survey information to companies not working for us.
 
-### Online Applications
+#### Online Applications
 
 All of our online applications are transmitted to us using Secure Socket Layer (SSL) technology. When you and your child use an online application to apply for a loan, information may be shared with a credit bureau before a loan decision can be made.
 
-### Contacting us About the Child’s Account
+#### Contacting us About the Child’s Account
 
 Keeping account information accurate and up to date is very important. We will make corrections to account information as quickly as possible. If you ever find that information regarding the child’s account is inaccurate or not current, please let us know.
 
@@ -145,8 +143,8 @@ Please let us know if you would like further information on how, what or why we 
 
 To contact us you can use any of the following methods:
 
-  * Visit your [nearby branch](https://web.archive.org/web/20150315042101id_/https%3A//www.onenevada.org/locations/)
-  * Call our [Member Service Contact Center](https://web.archive.org/web/20150315042101id_/https%3A//www.onenevada.org/contact.aspx#Phone)
+  * Visit your [nearby branch](https://www.onenevada.org/locations/)
+  * Call our [Member Service Contact Center](https://www.onenevada.org/contact/)
   * Send us an [e-mail](https://ssl8.onenevada.org/form/email-us.aspx)
   * Write to: One Nevada Credit Union, 2645 South Mojave Road, Las Vegas, Nevada 89121
 
