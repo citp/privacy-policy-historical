@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafalgar.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419105743id_/https%3A//www.trafalgar.com/usa/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafalgar.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905191325id_/https%3A//www.trafalgar.com/usa/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Terms and Conditions - USA - Trafalgar Tours
 
