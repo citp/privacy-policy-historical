@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kegsteakhouse.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319105751id_/https%3A//www.kegsteakhouse.com/privacy/%23siteContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegsteakhouse.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085007id_/https%3A//kegsteakhouse.com/privacy/%23siteContent) for the most accurate reproduction.*
 
 # Privacy | The Keg Steakhouse + Bar
 
@@ -86,3 +86,9 @@ You may request:
 
 
 We attempt to keep our records as accurate and complete as possible. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information at the below noted address. [thekeg@kegrestaurants.com](mailto:neilm@kegrestaurants.com)
+
+ATTN: Privacy Officer   
+ **The Keg Corporate Office  
+** 10100 Shellbridge Way  
+Richmond, BC, V6X 2W7  
+Tel: (604) 276-0242
