@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the justsomething.co privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314222226id_/http%3A//justsomething.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justsomething.co privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185241id_/http%3A//justsomething.co/privacy-policy-page) for the most accurate reproduction.*
 
 # Privacy policy | Just something (creative)
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://justsomething.co/contact-us/ "Contact us").
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://justsomething.co/contact/ "Contact us").
 
 At justsomething.co, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by justsomething.co and how it is used.
 
@@ -36,9 +36,9 @@ All images on justsomething.co are readily available in various places on the In
 
 ##### Claims of infringement
 
-If you believe that any content appearing on justsomething.co infringes on your copyright, **[please let us know](http://justsomething.co/contact-us/ "Contact us")**.
+If you believe that any content appearing on justsomething.co infringes on your copyright, **[please let us know](http://justsomething.co/contact/ "Contact us")**.
 
-justsomething.co claims no credit for any images featured on this site unless otherwise noted. All visual content is copyright to its respectful owners. If you own right to any of the images, and do not wish them to appear here, **[please let us know](http://justsomething.co/contact-us/ "Contact us")** and they will be promptly removed.
+justsomething.co claims no credit for any images featured on this site unless otherwise noted. All visual content is copyright to its respectful owners. If you own right to any of the images, and do not wish them to appear here, **[please let us know](http://justsomething.co/contact/ "Contact us")** and they will be promptly removed.
 
 Email us the following informations and the infringing material will be removed as soon as possible.
 
