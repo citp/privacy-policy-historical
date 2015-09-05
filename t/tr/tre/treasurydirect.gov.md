@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522145632id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054146id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Legal Notices
 
@@ -23,7 +23,7 @@ We may also ask that you provide us information on your securities, such as bond
 
 ### 2\. What personal information do we collect from children?
 
-We respect the privacy of children and do not collect more personal information than reasonably necessary to enable them to participate in the activities we offer on the kids' portion of our website. In compliance with the [Children's Online Privacy Protection Act](https://web.archive.org/exit.htm?http://www.ftc.gov/privacy/privacyinitiatives/childrens.html), we take the following steps to protect children's privacy:
+We respect the privacy of children and do not collect more personal information than reasonably necessary to enable them to participate in the activities we offer on the kids' portion of our website. In compliance with the [Children's Online Privacy Protection Act](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html), we take the following steps to protect children's privacy:
 
 We collect only enough personally identifiable information to allow an e-mail to be sent if they have questions or comments. We use the information only to respond to a specific request for information. We advise children under the age of 13 to check with their parents before sending e-mails. Please note that parents may consent to the above collection and use without necessarily consenting to the disclosure of personal information to third parties.
 
@@ -48,16 +48,16 @@ All visitors and account holders that access our site should be aware that, for 
 
 Some parts of our site use "session cookies", which are very small files placed on your hard drive by a website. These cookies are necessary to streamline navigation and, in some cases, to help you complete a form without entering the same information more than once. Session cookies are automatically erased when you close your browser.
 
-If you have an account with us, we may use customization technologies, such as persistent cookies, to remember your online interactions with our website in order to customize your experience.  You’ll have the opportunity to register your computer when you access your account.  Registering your computer will authorize the use of persistent cookies and help us recognize you as a valid user.  If you choose not to register your computer, or if you use a public or shared computer, then subsequent log-ins will require a one-time passcode.  Do not register a public or shared computer, such as a library computer. 
+If you have an account with us, we may use customization technologies, such as persistent cookies, to remember your online interactions with our website in order to customize your experience.  You’ll have the opportunity to register your computer when you access your account.  Registering your computer will authorize the use of persistent cookies and help us recognize you as a valid user.  If you choose not to register your computer, or if you use a public or shared computer, then subsequent log-ins will require a one-time passcode.  Do not register a public or shared computer, such as a library computer.
 
 ### 4\. What is our legal authority to ask for personal information?
 
 We have statutory authority to ask for personal information as follows:
 
-  * [31 U.S.C. chapter 31](https://web.archive.org/exit.htm?http://www.access.gpo.gov/uscode/title31/subtitleiii_chapter31_subchapteri_.html) authorizes the Secretary of the Treasury (delegated to the Bureau of the Fiscal Service) to perform necessary functions to sell Treasury securities.
-  * [44 U.S.C. § 3101](https://web.archive.org/exit.htm?http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+44USC3101) lets us maintain records containing personal information to provide a record of our securities programs in order to protect the legal and financial rights of the government and the investor.
-  * [26 U.S.C. § 6109](https://web.archive.org/exit.htm?http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+26USC6109) requires us to ask for your Social Security Number and to include it on reports we must send to the IRS.
-  * [31 U.S.C. § 7701](https://web.archive.org/exit.htm?http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+31USC7701) lets us ask for your personal information in order to report and collect amounts owed to the United States.
+  * [31 U.S.C. chapter 31](http://www.access.gpo.gov/uscode/title31/subtitleiii_chapter31_subchapteri_.html) authorizes the Secretary of the Treasury (delegated to the Bureau of the Fiscal Service) to perform necessary functions to sell Treasury securities.
+  * [44 U.S.C. § 3101](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+44USC3101) lets us maintain records containing personal information to provide a record of our securities programs in order to protect the legal and financial rights of the government and the investor.
+  * [26 U.S.C. § 6109](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+26USC6109) requires us to ask for your Social Security Number and to include it on reports we must send to the IRS.
+  * [31 U.S.C. § 7701](http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=browse_usc&docid=Cite:+31USC7701) lets us ask for your personal information in order to report and collect amounts owed to the United States.
 
 
 
@@ -65,7 +65,7 @@ Furnishing personal information is voluntary; however, without the information w
 
 ### 5\. To whom do we release your personal information?
 
-We can disclose information only as authorized under the [Privacy Act of 1974, 5 U.S.C. § 552a](https://web.archive.org/exit.htm?http://www.usdoj.gov/04foia/foiastat.htm). Fiscal Service's Privacy Act systems of records notices are published in the Federal Register. Systems of records notices can be found at [76 Fed. Reg. 51128](https://web.archive.org/lawguide/lawguide_2011-20949.pdf) (PDF) and [70 Fed. Reg. 31559](https://web.archive.org/lawguide/lawguide_2005_10854_final_pdi_notice.pdf) (PDF). 
+We can disclose information only as authorized under the [Privacy Act of 1974, 5 U.S.C. § 552a](http://www.justice.gov/opcl/privacy-act-1974). Fiscal Service's Privacy Act systems of records notices are published in the Federal Register. Systems of records notices can be found at [76 Fed. Reg. 51128](https://web.archive.org/lawguide/lawguide_2011-20949.pdf) (PDF) and [70 Fed. Reg. 31559](https://web.archive.org/lawguide/lawguide_2005_10854_final_pdi_notice.pdf) (PDF). 
 
 ### 6\. Will we send you non-business information?
 
@@ -116,7 +116,7 @@ For jurisdiction and venue purposes:
 
 ### 3\. Regulations Governing Electronic Transactions.
 
-We have regulations governing electronic transactions, which are set out in [31 CFR part 370](https://web.archive.org/exit.htm?http://www.access.gpo.gov/nara/cfr/waisidx_04/31cfr370_04.html) "Electronic Transactions and Transfers relating to Treasury Securities." These regulations generally apply as a matter of contract law. The regulations require you to:
+We have regulations governing electronic transactions, which are set out in [31 CFR part 370](http://www.access.gpo.gov/nara/cfr/waisidx_04/31cfr370_04.html) "Electronic Transactions and Transfers relating to Treasury Securities." These regulations generally apply as a matter of contract law. The regulations require you to:
 
   * exercise ordinary care in protecting the means (account number, password, or digital certificate) that you use to access our site and conduct transactions electronically. If you don't exercise ordinary care and an unauthorized transaction is the result, then under some circumstances you could be held accountable for those transactions.
   * inform us promptly if you believe that another person has improperly obtained your means of accessing our site and conducting transactions electronically.
