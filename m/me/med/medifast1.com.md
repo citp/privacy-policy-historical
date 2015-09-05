@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medifast1.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318235850id_/http%3A//www.medifast1.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medifast1.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906011627id_/http%3A//www.medifast1.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy & Security
 
@@ -17,7 +17,7 @@ Even if you do not register with Medifast1.com, we collect Non-Personal Informat
 > 
 > Your browser software can be set to reject all Cookies. Most browsers offer instructions on how to reset the browser to reject Cookies in the "Help" section of the toolbar. If you reject our Cookies, certain of the functions and conveniences of our website may not work properly but you do not have to accept our Cookies in order to productively use our site. We do not link Non-Personal Information from Cookies to Personally Identifiable Information without your permission and do not use Cookies to collect or store Personal Health Information about you.
 > 
-> We and our service providers also use cookies to collect information from you over time and across this and other websites to provide you with and improve the performance of our advertising that our service providers deliver to you on other websites. If you wish to opt out of the use of data collected on our site to send you targeted Medifast advertising during your visits to other websites, click on these three links: (1) [DAA Opt-Out](http://www.aboutads.info/choices/); (2) [Struq Opt-Out](http://www.struq.com/cookie-and-privacy-policy/); (3) [TruEffect Opt-out](http://te.medifast1.com/optout.html). 
+> We and our service providers also use cookies to collect information from you over time and across this and other websites to provide you with and improve the performance of our advertising that our service providers deliver to you on other websites. If you wish to opt out of the use of data collected on our site to send you targeted Medifast advertising during your visits to other websites, click on these three links: (1) [DAA Opt-Out](http://www.aboutads.info/choices/); (2) [Struq Opt-Out](http://www.struq.com/cookie-and-privacy-policy/); (3) [TruEffect Opt-out](https://te.medifast1.com/optout.html). 
 > 
 > **  
 > B. Web Beacons**   
