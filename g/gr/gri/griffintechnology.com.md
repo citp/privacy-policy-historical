@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the griffintechnology.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230085358id_/http%3A//www.griffintechnology.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the griffintechnology.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905124256id_/https%3A//griffintechnology.com/us/company/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Griffin Technology
+# Privacy Policy
+
+Last Modified: December 2013
 
 ## Introduction
 
@@ -177,29 +179,9 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
 
-### Email
-
-  * [ info@griffintechnology.com ](mailto:info@griffintechnology.com)
-
-
-
-### U.S. Mail
-
-  * Griffin Technology, Inc. 
-  * Attn: General Information 
-  * 2030 Lindell Avenue 
-  * Nashville, Tennessee 37203 
-
-
-
-### Telephone
-
-  * 615-399-7000
-
-
-
-### Facsimile
-
-  * 615-367-6468
-
-
+Griffin Technology, Inc.  
+Attn: General Information  
+2030 Lindell Avenue  
+Nashville, Tennessee 37203  Phone: 615-399-7000  
+Fax: 615-367-6468  
+[info@griffintechnology.com](mailto:info@griffintechnology.com)
