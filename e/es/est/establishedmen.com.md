@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325160356id_/http%3A//establishedmen.com//privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the establishedmen.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905231413id_/https%3A//establishedmen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Established Men
 
@@ -97,6 +97,8 @@ To contact us concerning Privacy issues, please use the [Contact Form](https://w
 **Attn:** Privacy Officer   
 Established Men Inc.   
 (DBA Established Men)   
-20 Eglinton Ave West, Suite 1200  
-Toronto, ON Canada M4R 1K8  
+Avid Life Media  
+PO Box 67027  
+Toronto, ON Canada  
+M4P 1E4  
 1-877-840-7976 
