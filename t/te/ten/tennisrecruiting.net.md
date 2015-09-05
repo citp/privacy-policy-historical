@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609231254id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisrecruiting.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054243id_/http%3A//www.tennisrecruiting.net/privacy.asp) for the most accurate reproduction.*
 
 # The Tennis Recruiting Network
 
@@ -7,6 +7,8 @@
 [](http://www.babolat.com/)
 
 [](http://www.head.com/tennis)
+
+[](http://www.adiplayer.com/)
 
 [](http://www.smithstearns.com/)
 
@@ -20,7 +22,7 @@
 
 [](http://www.asicsamerica.com/tennis-racquet-bz100)
 
-[](http://www.tennisrecruiting.net/article.asp?id=863)
+[](http://www.tennisrecruiting.net/article.asp?id=618)
 
 | 
 
@@ -134,36 +136,27 @@ Marietta, GA 30007-1912
 
 | 
 
-| [](http://www.facebook.com/TennisRecruiting) | BECOME A FAN  
+| [](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proLogo&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com)|  WTA PRO PLAYER GEAR GALLERY   
 ---|---  
   
-[](http://www.facebook.com/TennisRecruiting)   Help build our following.   [Follow us on Facebook](http://www.facebook.com/TennisRecruiting)
+[
+
+## Sorana Cirstea
+
+](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proLarge&subId1=Sorana+Cirstea&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Fsorana%2Dcirstea) Click on [Sorana Cirstea](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proLarge&subId1=Sorana+Cirstea&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Fsorana%2Dcirstea) to view and buy her equipment, apparel, and footwear.  
 
 RECENT COMMITMENTS 
 
-[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proLogo&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com)|  WTA GEAR - SHOES   
+[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=logo&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww.tennisexpress.com) |  THE LATEST FROM TENNIS EXPRESS  
 ---|---  
   
-[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proSmall&subId1=Sabine+Lisicki&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Fsabine%2Dlisicki%2Dtennis%2Dpro) |   |  **Sabine Lisicki** [NIKE Women's Zoom Vapor 9.5 Tour Tennis Shoes](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proGear&subId1=Sabine+Lisicki&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fnike%2Dwomens%2Dzoom%2Dvapor%2D95%2Dtour%2Dtennis%2Dshoes%2Dfuchsia%2Dglow%2Dand%2Ddove%2Dgray%2D44148)  
-Buy Now: $135.00  
-[Feedback](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proFeedback&subId1=Sabine+Lisicki&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fproduct%5Freview%2Ecfm%3Fstyle%5Fid%3D44148)  
----|---|---  
-[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proSmall&subId1=Sorana+Cirstea&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Fsorana%2Dcirstea) |   |  **Sorana Cirstea** [adidas Women's Stella McCartney Barricade Tennis Shoes](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proGear&subId1=Sorana+Cirstea&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fadidas%2Dwomens%2Dstella%2Dmccartney%2Dbarricade%2Dtennis%2Dshoes%2Dcore%2Dwhite%2Dand%2Dsake%2D39373)  
-Was: $125.00   **Now: $74.95**  
-[Feedback](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proFeedback&subId1=Sorana+Cirstea&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fproduct%5Freview%2Ecfm%3Fstyle%5Fid%3D39373)  
-[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proSmall&subId1=Nadia+Petrova&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2FNadia%2DPetrova%2Dtennis%2Dpro) |   |  **Nadia Petrova** [BABOLAT Women's SFX White Tennis Shoes](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proGear&subId1=Nadia+Petrova&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fbabolat%2Dwomens%2Dsfx%2Dwhite%2Dtennis%2Dshoes%2Dwhitegrey%2D26416)  
-Buy Now: $99.95  
-[Feedback](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proFeedback&subId1=Nadia+Petrova&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fproduct%5Freview%2Ecfm%3Fstyle%5Fid%3D26416), [Video](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proVideo&subId1=Nadia+Petrova&subId2=0&subId3=ROS&u=https%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DfDETNoRZzyU)  
-[](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proSmall&subId1=Barbora+Strycova&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fcategory%2Ecfm%2Ftennis%2Fbarbora%2Dstrycova%2Dtennis%2Dpro) |   |  **Barbora Strycova** [NIKE Women's Zoom Vapor 9.5 Tour Tennis Shoes](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proGear&subId1=Barbora+Strycova&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fnike%2Dwomens%2Dzoom%2Dvapor%2D95%2Dtour%2Dtennis%2Dshoes%2Dfuchsia%2Dglow%2Dand%2Ddove%2Dgray%2D44148)  
-Buy Now: $135.00  
-[Feedback](http://tennisexpress.7eer.net/c/67286/124234/2591?sharedid=proFeedback&subId1=Barbora+Strycova&subId2=0&subId3=ROS&u=http%3A%2F%2Fwww%2Etennisexpress%2Ecom%2Fproduct%5Freview%2Ecfm%3Fstyle%5Fid%3D44148)  
- 
+   
 
 ITA NEWS
 
-[**Karim Hossam- ATA Athlete**](http://www.youtube.com/user/ATAtennis)
+[**GAMMA Glide - Lubricity**](http://www.tennisexpress.com/gamma-glide-hybrid-with-moto-1716g-tennis-string-black-and-crystal-39020)
 
-A quick interview with ATA's Karim Hossam before he heads off to Florida to play in the Orange Bowl in Florida.
+See what a little #lubricity can do for your game!
 
  
 
