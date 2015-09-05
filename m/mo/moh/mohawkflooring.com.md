@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mohawkflooring.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323125254id_/http%3A//www.mohawkflooring.com/about-mohawk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohawkflooring.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061727id_/https%3A//www.mohawkflooring.com/about-mohawk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Security Practices & Information | Mohawk Flooring
 
