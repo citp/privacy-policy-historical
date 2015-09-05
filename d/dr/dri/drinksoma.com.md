@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the drinksoma.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317222425id_/https%3A//www.drinksoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drinksoma.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905165423id_/https%3A//www.drinksoma.com/privacy) for the most accurate reproduction.*
 
-# Soma: Beautifully Innovative, All-Natural Water Filters
-
-* * *
+# Soma: Makers of Beautiful, Sustainable Water Filters.
 
 Last Updated: September 13 2013
 
