@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evanmarckatz.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603190231id_/http%3A//www.evanmarckatz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanmarckatz.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905133902id_/https%3A//www.evanmarckatz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dating Coach - Evan Marc Katz | Understand Men. Find Love.
 
