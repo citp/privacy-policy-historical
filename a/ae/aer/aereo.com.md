@@ -1,84 +1,111 @@
-> *The following text is extracted and transformed from the aereo.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315222541id_/https%3A//aereo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aereo.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085609id_/http%3A//www.tivo.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Aereo.com
+# TiVo Privacy Policy | Legal Policy
 
-##  Aereo Privacy Policy 
+Our goal is to give TiVo users the best TV-watching experience possible, and we have updated this policy so that TiVo users can better understand our treatment of their personal information.
 
-_Last updated: January 8, 2014_
+_Effective as of July 17, 2015_
 
-This Privacy Policy provides important information about your privacy in connection with your use of Aereo. Please review it carefully. Capitalized terms not defined in this Privacy Policy are defined in our [Terms of Use](https://web.archive.org/terms). By accessing or using Aereo including, without limitation, the Aereo web site(s), Aereo Equipment, Aereo mobile and or other application(s) or app(s) and/or Aereo Platform (hereafter "Aereo"), you consent to this Privacy Policy and the practices set forth herein, as well as our [Terms of Use](https://web.archive.org/terms).
+**Introduction**
 
-**Our Commitment to Privacy**
+This privacy policy describes how TiVo Inc. collects, uses, discloses, and protects information received from or about users of our products and services.
 
-At Aereo, we take your privacy very seriously. We are committed to complying with all applicable federal, state and local privacy laws and regulations. We strive to provide an environment in which our customers trust us to handle personal information responsibly. We provide this privacy notice as part of our commitment to privacy by describing the personal information that we collect, how we use it, how we protect it, and with whom we share it.
+_A few things to note:_
 
-This Privacy Policy explains how we collect and use your information, including personally identifiable data, such as your name, email address, postal address, phone number, internet protocol address and payment and/or credit card information (collectively, "Personal Data"), as well as certain other information including, without limitation, demographic and usage information (collectively "Other Data"). Such Personal Data and Other Data may be collected from and about, or with respect to, Aereo Members and/or users of: a) any Aereo website, including the current site at aereo.com, b) Aereo Equipment and/or c) the Aereo Platform ("Aereo Users"). This Privacy Policy applies to all Aereo Members and/or Aereo Users.
+  * When we refer to “TiVo products” in this policy, we mean any device, software, or website offered by TiVo (including TiVo DVRs, the TiVo Mini, the TiVo Stream, TiVo mobile apps, and tivo.com).
+  * When we say “you” in this policy, we mean both you and any other individuals you let use your TiVo device, software, or account.
+  * TiVo products provided to you directly by your cable or satellite provider are subject to their privacy policy (and not this policy).
 
-**Information That We Collect**
 
-When you register to become an Aereo Member and/or become an Aereo User, we may collect the following data from you:
 
-Personal Data: We collect Personal Data from you when you voluntarily provide such information, such as when you register to become an Aereo Member, become an Aereo User and/or contact us with inquiries that may contain such data. Please note that when you register to become an Aereo Member, certain Personal Data, including credit and payment card information, may be provided to an outside billing company, called Vindicia , Inc. ("Vindicia "). Such Personal Data that is provided to Vindicia will be subject to Vindicia 's privacy policies and terms of use which are available on the [Vindicia website](http://www.vindicia.com/).
+**Collection and Use of Information**
 
-Other Data: We also collect Other Data, including the Research Data, Aggregated Data and cookie or web beacon information, Mobile information and Log Information described below, about your use of Aereo and about your Supported Devices and/or other devices or browsers through which you may access Aereo. In addition, as set forth in more detail below, we may obtain, collect and store demographic information, such as gender, age, occupation, hobbies and interests or similar information. We may receive information about you from other sources including third party sources, online or offline, and add it to the information that you provided to us and/or that we collected. We may also receive other data or information from or through you about third parties, such as a third party email address in connection with the "invite a friend" feature, if you provide such information directly or enable Aereo to access that information maintained in a third party resource such as, for one example, your email provider. We may use such data to contact that third party with respect to your use of the "invite a friend" feature as well as for other Aereo related marketing. 
+_How do we collect information?_
 
-Cookies and Web Beacons: When you visit the Aereo web site or interact with Aereo, we receive and store certain information. Such information is collected passively using various technologies like web beacons and may be used to track usage of Aereo and/or to customize and improve Aereo including the Aereo Equipment and/or the Aereo Platform, improve the quality of our products and/or service to you, or in connection with marketing Aereo. These technologies include, but are not limited to, Google's AdWords Conversion Tracking feature. In operating Aereo we may also use standard technologies, including "cookies." A cookie is a piece of information that the computer that hosts the Aereo website gives to your browser when you access the Aereo website. Our cookies help provide additional and improved functionality and help us to analyze Aereo usage. For instance, the Aereo website may set a cookie on your browser that may allow you to elect to utilize your Aereo Membership without needing to remember and then enter a password. Some of these technologies, including cookies may also be used by certain vendors, such as Google for purposes of behavioral advertising and retargeting, which means they may track and store your preferences across websites to provide targeted advertisements to you on other websites based on your activity on our site. For more information on how to opt out of certain kinds of advertising and targeting, please visit the [National Advertising Initiative Website](http://www.networkadvertising.org/choices/) here <http://www.networkadvertising.org/choices/>. 
+We collect information (both automatically and when we ask you to provide it) when you use TiVo products, place orders, contact customer service, and participate in surveys. We may also let you link a TiVo product with your account on a third-party service, such as Facebook or Twitter. We may also acquire a business that has information about you, or otherwise acquire information about you from third parties.
 
-Mobile information: When you access Aereo via your mobile device, depending on your device, use, and privacy settings, we may access your mobile phone number, unique device identifier, certain mobile platform account information, and geo-location information. 
+_What information are we collecting?_
 
-Log information: When you access Aereo via a browser, application or other client, our servers automatically record certain information. These server logs may include information such as your web request, your interaction with Aereo, your Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.
+Information we ask you to provide us may include, for example, your name, email address, phone number, shipping address, billing address, credit card information, and age or other demographic information.
 
-Research Data and Aggregated Data: In an ongoing effort to improve Aereo, Aereo may conduct research and obtain data, either directly or through or from third parties (e.g. Google Analytics), on its individual customers' demographics, interests and behavior based on Personal Data and Other Data that Aereo will provide such third party and Aereo will maintain and use data ("Research Data") resulting from and/or connected to that research. In addition, Aereo and/or a third party may compile Personal Data and/or Other Data on an aggregated basis ("Aggregate Data"). Aereo may share this Aggregate Data with its affiliates, agents and business partners. This Aggregate Data does not identify you personally.
+Information we automatically collect may include, for example, data about your viewing behavior (such as how you use, watch, record, rate and interact with content accessed on or through TiVo products), device (such as model number, software versions, and unique device identifiers), location (such as GPS data, zip code, and time zone), and cable service (such as cable provider and cable channels).
 
-**Additional Information About Our Use of Your Personal Data and Other Data**
+Information we collect from your account on a third-party service with your consent may include data about you and your friends from that service (such as what you or they have liked or shared).
 
-If you provide Personal Data for a certain purpose, we may use the Personal Data for that purpose. For example, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to Aereo, we will use your Personal Data to provide you with access to Aereo. We may also use your Personal Data to monitor your use of Aereo and to contact you regarding your use of Aereo. In addition, Aereo or its authorized service providers, may use financial information or payment methods, such as credit cards, to process payment for any purchases made through Aereo, to protect against fraudulent transactions and otherwise as needed to monitor and manage our business. Aereo may use your Personal Data and Other Data, including Research Data, collected to help us improve the functionality of Aereo, to better understand our users, to personalize Aereo and to improve Aereo. Aereo may use your residential address, your Internet protocol address and other technical measures, including geo-location, to verify your location.
+_How do we use information we collect about you?_
 
-We may also use information that you have provided to us to contact you in the future to tell you about products and functionality that we believe will be of interest to you. If we do so, each email we send you will contain instructions permitting you to "opt-out" of receiving future emails. If at any time you wish not to receive any future emails or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+We use the information we collect to provide you with requested products and services, notify you of changes to our policies or products, notify you of offers that may interest you, process your orders, assist you in purchasing TiVo products, activate and renew your subscriptions, identify or troubleshoot issues, conduct surveys, improve the products and services we provide to you, and otherwise operate our business.
 
-**Children**
+As part of providing you with a more personalized experience when using TiVo products, we may use information we collect to:
 
-While Aereo provides Aereo Equipment and/or the Aereo Platform by which Members may choose to access broadcast television and other content, our [Terms of Use](https://web.archive.org/terms) expressly prohibit anyone under eighteen (18) from registering for an Aereo Membership and require that any use of an Aereo Membership by a family member under the age of eighteen (18) be under the direct supervision of their parent or guardian. We do not intentionally seek to collect Personal Data from children under the age of thirteen (13), nor do we knowingly collect Personal Data from children younger than thirteen (13). If you are under the age of thirteen (13), you are not permitted to submit, and please do not submit, any Personal Data through Aereo and/or in connection with any Member account. If you think that a child under the age of thirteen (13) has provided Personal Data to Aereo, please contact us and we will endeavor to delete that information from our databases.
+  * analyze your viewing habits (which lets us do things like suggest a particular TV show or movie that you may enjoy);
+  * analyze your usage of TiVo product features (which lets us understand things like how many times a particular TV show was recorded, or how many of our users are watching content on a Netflix or YouTube app);
+  * combine information we collect from your use of different TiVo products (which lets us do things like make it possible for you to start a show in one room and finish it in another); and
+  * show you more relevant ads (both on TiVo products and on third-party websites).
 
-**Our Disclosure of Your Data**
 
-There are certain circumstances in which we may share your Personal Data and/or Other Data with certain third parties without further notice to you:
 
-_Business Transfers_ : As we develop our business, we might sell, buy or merge businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data and/or Other Data may be part of the transferred assets.
+We may also use information we collect in our analytics business, where we use data that has been either de-identified or aggregated (or both) to generate insights into consumer behaviors (for example, to show what the most watched commercial was during a particular show).
 
-_Agents, Consultants and Related Third Parties_ : Aereo, like many businesses, sometimes hires other companies and/or consultants to perform certain business-related functions. Examples of such functions include credit card and other payment processing, testing our products and/or researching and analyzing user demographics and behavior. In the course of providing such services, these other companies may have access to your Personal Data and/or Other Data.
+If we acquire a business that has information about you, or otherwise acquire information about you from third parties, we may (subject to applicable law) combine that information with the information we already hold. This should enable us to provide you with improved or enhanced products or services.
 
-_Legal Requirements_ : Aereo may disclose your Personal Data and/or Other Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation or a government request, (ii) verify compliance with or enforce our [Terms of Use](https://web.archive.org/terms) or protect and defend the rights or property of Aereo, Aereo Users or others (iii) act in urgent circumstances to protect the personal safety of Aereo Members, Aereo Users or the public and/or (iv) protect against legal liability.
+**Disclosure of Personal Information**
 
-_Third Party Services_ : Aereo allows you to enable and/or or log in via various online third party services, such as social media and social networking services like Facebook or Twitter and email providers such as Google or Yahoo ("Third Party Services") and allows some aspects of those services to be integrated into the Aereo Platform. For example, if you log in to Aereo using a social networking service, or if you voluntarily provide information through posts or sharing to a Third Party Service, information that you share via that service may be reflected on the Aereo Platform. Likewise, if you enable Aereo to have access to an email contact through a Third Party Service, Aereo may use that data to send an invitation or market to that contact.
+We are not in the business of selling your personal information to third parties. We will disclose your personal information to third parties only if:
 
-When you log into or use Aereo using your Third Party Services account, we will collect and share relevant information necessary to enable the Aereo website or account to access that Third Party Service and your data contained within that Third Party Service. The Third Party Service may collect information as well. Please remember that the manner in which a Third Party Service collects, stores and discloses your information is governed solely by the policies of that Third Party Service and Aereo will have no liability or responsibility for the privacy practices, terms of use and/or other actions of any third party site or service that you may enable.
+  * we get your consent;
+  * we are required to do so by applicable law, legal process, and/or governmental authorities;
+  * we believe disclosure is necessary to protect our rights, our customers, or others;
+  * we are involved in a merger, acquisition, partial or total sale of assets, or other corporate change;
+  * they are a joint venture partner or an entity we own or control (or that owns or controls us) that is either subject to this policy or follows privacy practices at least as protective as these; or
+  * they provide services to us (such as processing credit card payments or collecting past due debts) and have agreed to use your information only for the purposes we request.
 
-**Exclusions**
 
-This Privacy Policy applies to Personal Data that is intentionally collected by Aereo through and/or in connection with Aereo's website, Equipment and/or Platform. This Privacy Policy will not apply to any additional unsolicited information that you choose to provide to Aereo through this website, through any mobile application or through any other means, including any information that you voluntarily provide or post through the use of any tools that are or may be made available to Aereo Members, ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). Aereo has no obligation with respect to such unsolicited information and will be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
-The Aereo Platform may contain links to other web sites not operated or controlled by Aereo ("Third Party Sites"). The policies and procedures we described here do not apply to Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+We may disclose de-identified, aggregated, or other non-personal information to third parties in our discretion. For example, we may provide reports showing aggregated information regarding our users to advertisers, networks, and others (like a report that shows what type of viewers watch a particular TV show, so that advertisers can reach similar viewers on other platforms).
 
-**Security – How We Protect Your Information**
+Note that TiVo products may include commenting, forums, sharing, or other similar functionality. Information that you provide using these features (such as your name, your posts, or TV shows you have watched) may be available to other users or the general public.
 
-Aereo takes reasonable steps including physical, electronic and procedural measures to safeguard the Personal Data in our possession against loss, misuse, theft, and unauthorized access, disclosure, or modification.
+**Protection of Personal Information**
 
-However, no Internet or email transmission or electronic storage of information is ever completely secure or error free. Accordingly, we cannot guarantee the security of your personal information and cannot assume liability for improper access to it. You should take special care in deciding what information you send via Aereo. Please keep this in mind when disclosing any Personal Data and/or Other Data to Aereo or utilizing any social networking features in connection with Aereo.
+We have reasonable and appropriate physical, electronic, and administrative measures in place to safeguard the security of your personal information.
 
-**Changes and Updates**
+**Location of Personal Information and U.S. – EU Safe Harbor**
 
-Aereo, our business and the law may change from time to time. As a result, at times it may be necessary for Aereo to make changes to this Privacy Policy. AEREO RESERVES THE RIGHT TO PERIODICALLY UPDATE OR MODIFY THIS PRIVACY POLICY AT ANY TIME WITHOUT PRIOR NOTICE TO YOU. PLEASE REVIEW THE PRIVACY POLICY PERIODICALLY, AND ESPECIALLY BEFORE YOU PROVIDE ANY PERSONAL DATA. THIS PRIVACY POLICY WAS LAST UPDATED ON THE DATE INDICATED ABOVE AND YOUR CONTINUED USE OF AEREO AFTER ANY CHANGES OR REVISIONS TO THIS PRIVACY POLICY INDICATES YOUR AGREEMENT WITH THE REVISED TERMS. THE MOST CURRENT VERSION OF THIS PRIVACY POLICY CAN BE REVIEWED BY VISITING THE AEREO WEBSITE AND CLICKING ON THE "PRIVACY POLICY" LINK. THE MOST CURRENT VERSION OF THE PRIVACY POLICY WILL SUPERSEDE ALL PREVIOUS VERSIONS.
+Your personal information may be maintained, processed and stored by TiVo, our affiliates, and our service providers in the United States or other jurisdictions. TiVo adheres to the Safe Harbor Privacy Principles developed by the U.S. Department of Commerce and the European Union (EU), and has Safe Harbor self-assessment procedures in place. The Safe Harbor program is intended to provide equivalent protections for personal data as exist in the European Economic Area (EEA) and Switzerland. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor website at [http://export.gov/safeharbor/](http://www.export.gov/safeharbor/).
 
-**Contact Us**
+If you are located in the EEA or Switzerland, please also see our Safe Harbor Notice at _<http://www.tivo.com/legal/safe-harbor>_.  If you have any questions about our Safe Harbor participation, please contact us using the information below. If you believe that TiVo has not satisfactorily addressed your data privacy concerns related to the U.S.-EU Safe Harbor Privacy Principles, and without prejudice to any other remedy you may enjoy, you may obtain dispute resolution services through the International Centre for Dispute Resolution, a division of the American Arbitration Association. To use these services, you can file a claim at <https://apps.adr.org/webfile/>.
 
-If you are a Member, you may keep your Personal Data accurate and current by logging into your account and updating your information. You also may choose to close your account at any time. After you close your account, you will not be able to sign in to your account or access any of your information, although we may still retain certain information associated with your account.
+**Third-Party Services**
 
-Please feel free to contact us if you have any questions about Aereo's Privacy Policy or Aereo's information practices. We welcome your feedback!
+Our products and services may enable you to access or otherwise use third-party products and services, and our websites may contain links to third-party websites. Such third parties have their own policies that govern their collection, use, and disclosure of information. We suggest that you read their privacy policies to learn about their practices.
 
-Aereo, Inc.  
-Attn: Privacy  
-455 Broadway  
-4th Floor  
-New York. NY 10013  
-[privacy@aereo.com](mailto:privacy@aereo.com)
+You may choose to link your accounts on certain social networking services with your TiVo account or with your TiVo products (such as a TiVo DVR or mobile app). If you do so, you may be able to publish information to the linked social networking service, and we may be able to publish such information on your behalf. Please note that any information you choose to publish to or share with the linked social networking service (such as your viewing information) will become subject to the privacy policy and other terms of that service.
+
+**Cookies/Advertising Networks**
+
+We may use “cookies” and other similar technologies in connection with our websites and advertisements. For example, we use cookies to track the effectiveness of our marketing and advertising campaigns and to show you TiVo ads on other websites after you have visited our website. Please see our cookie policy at<http://www.tivo.com/legal/cookies> for more information.
+
+We may work with third-party advertising companies that collect and use information to deliver more relevant advertising across the Internet and when you are using our products and services. To learn more about this practice and your choices with regard to companies participating in industry self-regulation, visit[http://www.aboutads.info](http://www.aboutads.info/).
+
+**Your Choices**
+
+Email: If you do not want to receive marketing emails from us, you can change your email preferences by logging into your account on tivo.com or clicking on the included “unsubscribe” link (though you will still receive certain account-related emails). We will send you marketing emails only where we are permitted to do so by applicable law.
+
+Cookies: If you do not want us to store or otherwise use cookies on your computer, your browser may offer tools to disable or reject cookies (though you may not be able to use some website features if you do so). To learn more about your choices with regard to third-party advertising companies participating in industry self-regulation, visit [http://www.aboutads.info](http://www.aboutads.info/).
+
+Mobile apps: If you do not want us to collect location data from a TiVo mobile app, you can disable location services on your mobile device.
+
+TiVo DVRs and the TiVo Mini: If you do not want us to use your viewing logs in our analytics business or share that de-identified information with third parties, you can opt out by logging into your account on tivo.com or calling us at 1-877-367-8486. If you have a TiVo Series 2 or Series 3 DVR and opt out, we will not collect your viewing logs. If you have a TiVo Series 4 or newer TiVo product (such as a TiVo Mini or a TiVo Roamio or Premiere series DVR) and opt out, we will still collect your viewing logs, but will use them only to provide you with features of the TiVo service as described in this policy (for example, to suggest a particular TV show that you may enjoy).
+
+**Accessing and Updating Personal Information**
+
+You can access, update, and correct or delete inaccuracies in your personal information that we collect and maintain in our regular business records by logging into your account on tivo.com or calling us at 1-877-367-8486. We reserve the right (subject to applicable law) to decline requests that are impractical or may jeopardize the privacy of others.
+
+**Changes to this Policy**
+
+We may update this policy from time to time. We will notify you of any changes by posting the new policy online, and if we make a material change in how we treat your personal information, we will take reasonable steps to notify you in advance of the planned change.
+
+**Questions**
+
+If you have any questions about this policy, please send an email to [privacy@tivo.com](mailto:privacy@tivo.com), or send a letter to TiVo Inc., attn: Legal Department, 2160 Gold Street, San Jose, CA 95002-2160.
