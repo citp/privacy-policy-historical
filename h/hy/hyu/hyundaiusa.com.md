@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundaiusa.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317045548id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundaiusa.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102325id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
