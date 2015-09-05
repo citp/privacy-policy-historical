@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americares.org privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603083349id_/http%3A//www.americares.org/tools/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americares.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905205525id_/http%3A//www.americares.org/tools/privacypolicy.html) for the most accurate reproduction.*
 
 # AmeriCares: Privacy Policy
 
