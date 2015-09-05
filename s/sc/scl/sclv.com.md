@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sclv.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325134305id_/https%3A//www.sclv.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sclv.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053702id_/https%3A//www.sclv.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Station Casinos - Las Vegas
 
@@ -74,6 +74,8 @@ If you prefer that Station Casinos does not share personal information we collec
 
 **Service Description  
 **This SMS Terms and Conditions page describes our mobile program and available codes. Station Casinos is offering a SMS text alert program. You will receive a confirmation text to confirm your participation in this program. Once enrolled you will receive up to 10 text message per month with product specials and upcoming event promotions.
+
+Must be 21 years of age or older. Age verification will be required for all campaign participants.
 
 #### Station Casinos Promo Alert Reminders
 
