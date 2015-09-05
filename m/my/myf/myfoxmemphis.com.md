@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxmemphis.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630072102id_/http%3A//www.myfoxmemphis.com/story/26816629/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxmemphis.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053344id_/http%3A//www.myfoxmemphis.com/story/26816629/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FOX13 News, WHBQ FOX 13
 
