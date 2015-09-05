@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621012728id_/http%3A//www.erieri.com/PDF/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065724id_/http%3A//downloads.erieri.com/pdf/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy Last Updated:
 
                                              Privacy Policy
-  Last Updated: May 2014
+  Last Updated: July 2015
   This Privacy Policy ("Policy") tells you about the information ERI Economic Research Institute,
   Inc. ("ERI") collects through the services available on the ERI family of websites, including:
   www.erieri.com, www.eri-executive-compensation.com, www.eri-nonprofit-salaries.com,
@@ -18,8 +18,7 @@
   Please see ERI's Terms of Use for a more detailed legal explanation of ERI's general online
   policies. ERI's Terms of Use are accessible from the bottom portion of the Site home page.
   If you have any questions about the Policy or ERI's use of your information, please e-mail ERI at
-  info.eri@erieri.com, or call us at 1.800.627.3697 (USA) or +44 (0)808.234.3922 (U.K. and
-  Europe).
+  info.eri@erieri.com or call us at 1-800-627-3697.
   Information About You. ERI collects several types of information on our Site. ERI collects
   "Personal Information," which generally speaking, is information that can be used to identify you
   individually, such as your name and address. ERI also collects "Demographic Information," which
@@ -46,60 +45,60 @@
            subscriptions that you have ordered, and your e-mail address to contact you about
            renewing your subscription or about other available products, programs, and services
            provided by ERI.
+             Internal Analyses, Promotions, and Databases. ERI may use information about
 1
 
 
-       Internal Analyses, Promotions, and Databases. ERI may use information about
-     you for ERI's internal statistical, design, and operational purposes, such as to estimate
-     the Site's audience size; measure aggregate traffic patterns; and understand
-     demographics, customer interest, purchasing, and other trends among the Site's guests
-     and ERI's subscribers. ERI may also use your Personal Information to market and
-     promote ERI's products and services, such as sending you product updates. Further, ERI
-     may use information about you such as your industry, job title, and compensation, in
-     order to enhance ERI's proprietary databases relating to compensation, benefits, and
-     cost-of-living information. As mentioned above, ERI's Terms of Use governs your use of
-     the Site and per the terms, ERI claims the exclusive right to any and all submissions
-     made by you to ERI via the Site. ERI's Terms of Use are accessible from the bottom
-     portion of the Site home page.
-       Affiliates. If you order a subscription through a link on an affiliate website, ERI may
-     share with that affiliate either your name or your company name, the amount of your
-     purchase, and the time you made the purchase. ERI does not provide affiliates with any
-     of your contact information.
-    Emails. ERI may from time to time send emails promoting its own products or those of
-     selected third parties. All users may choose whether or not to receive marketing emails
-     from ERI by opting out from receiving promotional communications by clicking the
-     unsubscribe link provided in each communication and then following the instructions
-     provided.
-    Blogs. If you post a comment to a blog on the Site you should be aware that any
-     personally identifiable information you submit can be read, collected, or used by other
-     users of these blogs, and could be used to send you unsolicited messages. We are not
-     responsible for the personally identifiable information you choose to submit in these
-     blogs
-   Third Parties. ERI will not disclose Personal Information to third parties for their
-     promotional purposes.
-    Sharing Information. ERI may share Personal Information about site users with third
-     parties if doing so is appropriate to carry out a user's request or it reasonably believes
-     that doing so is legally required or is in ERI's interest to protect its property or other legal
-     rights or the rights or property of others.
-    Disclosure. ERI reserves the right to disclose your personally identifiable information as
-     required by law and when we believe disclosure is necessary to protect our rights and/or
-     to comply with a judicial proceeding, court order, or legal process served on our Web site.
-    Transaction Processing. ERI may share your Personal Information and transactional
-     information with entities as is necessary to process credit card payments or other
-     purchasing or delivery systems.
-   Legal Requirement. ERI may disclose Personal Information if required to do so by law
-     or in the good-faith belief that such action is necessary to: (a) conform with the law,
-     respond to claims and complaints, or comply with legal process served on ERI or the
-     Site; or (b) protect and defend ERI's rights or property, the Site, ERI's employees, guests,
-     or the public.
-    Company Sale. Information collected through the Site is considered a trade secret of
-     ERI. As the owner of such information, ERI may disclose or sell such information as an
-     asset of ERI in conjunction with the sale to a third party of ERI or a portion of ERI's
-     assets.
+          you for ERI's internal statistical, design, and operational purposes, such as to estimate
+          the Site's audience size; measure aggregate traffic patterns; and understand
+          demographics, customer interest, purchasing, and other trends among the Site's guests
+          and ERI's subscribers. ERI may also use your Personal Information to market and
+          promote ERI's products and services, such as sending you product updates. Further, ERI
+          may use information about you such as your industry, job title, and compensation, in
+          order to enhance ERI's proprietary databases relating to compensation, benefits, and
+          cost-of-living information. As mentioned above, ERI's Terms of Use governs your use of
+          the Site and per the terms, ERI claims the exclusive right to any and all submissions
+          made by you to ERI via the Site. ERI's Terms of Use are accessible from the bottom
+          portion of the Site home page.
+            Affiliates. If you order a subscription through a link on an affiliate website, ERI may
+          share with that affiliate either your name or your company name, the amount of your
+          purchase, and the time you made the purchase. ERI does not provide affiliates with any
+          of your contact information.
+         Emails. ERI may from time to time send emails promoting its own products or those of
+          selected third parties. All users may choose whether or not to receive marketing emails
+          from ERI by opting out from receiving promotional communications by clicking the
+          unsubscribe link provided in each communication and then following the instructions
+          provided.
+         Blogs. If you post a comment to a blog on the Site you should be aware that any
+          personally identifiable information you submit can be read, collected, or used by other
+          users of these blogs, and could be used to send you unsolicited messages. We are not
+          responsible for the personally identifiable information you choose to submit in these
+          blogs
+        Third Parties. ERI will not disclose Personal Information to third parties for their
+          promotional purposes.
+         Sharing Information. ERI may share Personal Information about site users with third
+          parties if doing so is appropriate to carry out a user's request or it reasonably believes
+          that doing so is legally required or is in ERI's interest to protect its property or other legal
+          rights or the rights or property of others.
+         Disclosure. ERI reserves the right to disclose your personally identifiable information as
+          required by law and when we believe disclosure is necessary to protect our rights and/or
+          to comply with a judicial proceeding, court order, or legal process served on our Web site.
+         Transaction Processing. ERI may share your Personal Information and transactional
+          information with entities as is necessary to process credit card payments or other
+          purchasing or delivery systems.
+        Legal Requirement. ERI may disclose Personal Information if required to do so by law
+          or in the good-faith belief that such action is necessary to: (a) conform with the law,
+          respond to claims and complaints, or comply with legal process served on ERI or the
+          Site; or (b) protect and defend ERI's rights or property, the Site, ERI's employees, guests,
+          or the public.
+         Company Sale. Information collected through the Site is considered a trade secret of
+          ERI. As the owner of such information, ERI may disclose or sell such information as an
+          asset of ERI in conjunction with the sale to a third party of ERI or a portion of ERI's
+          assets.
+  International Visitors and Customers.
 2
 
 
-  International Visitors and Customers.
   This web site is hosted in the United States. If you are visiting from the European Union or other
   regions with laws governing data collection and use that may differ from U.S. law, please note
   that you are transferring your personal data to the United States, which does not have the same
@@ -145,11 +144,11 @@
   customizing promotions or marketing. In addition, cookies allow ERI to track use of the Site to
   determine those areas that are useful or popular and those that are not, thereby enabling ERI to
   improve and update the Site.
+  You may adjust your Web browsers in order to: (a) alert you regarding the use of cookies, or (b)
+  allow you to refuse to accept cookies entirely. For Internet Explorer or AOL users, you can click
 3
 
 
-  You may adjust your Web browsers in order to: (a) alert you regarding the use of cookies, or (b)
-  allow you to refuse to accept cookies entirely. For Internet Explorer or AOL users, you can click
   on the "Start" button and then select "Control Panel," "Internet Options," and the "Security" tab. If
   you click on the "Custom" button, you will be able to see the cookie options. For Netscape users,
   in the browser, select "File," "Preferences," and then "Advanced" to view the cookie options. If
