@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316151106id_/http%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195948id_/http%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
