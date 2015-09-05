@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveandworkwell.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004423id_/https%3A//www.liveandworkwell.com/public/content/privacy.asp%3Flang%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveandworkwell.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905232904id_/https%3A//www.liveandworkwell.com/public/content/privacy.asp%3Flang%3D1) for the most accurate reproduction.*
 
 # Mental health, work & life changes, stress, depression - liveandworkwell.com | Privacy Policy
 
@@ -11,7 +11,7 @@ United Behavioral Health ("Company) administers mental health and substance abus
 
 When administering your mental health and substance abuse benefits and Employee Assistance Programs, Company follows the privacy practices set forth in your health plan's HIPAA Notice of Privacy Practices. Please contact your plan for a copy of its HIPAA Notice of Privacy Practices.
 
-If you are enrolled in an insured plan offered by US Behavioral Health Plan, California ("USBHPC"), its HIPAA Notice of Privacy Practices, [available here](https://web.archive.org/public/content/docs/usbhpc_pp.pdf) , applies to you and your dependents.
+If you are enrolled in an insured plan offered by US Behavioral Health Plan, California ("USBHPC"), its HIPAA Notice of Privacy Practices, [available here](https://web.archive.org/public/content/docs/usbhpc_pp.pdf), applies to you and your dependents.
 
 ## Social Security Number Protection Policy:
 
