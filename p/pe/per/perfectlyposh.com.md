@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectlyposh.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331001957id_/https%3A//www.perfectlyposh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectlyposh.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905183543id_/https%3A//www.perfectlyposh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Perfectly Posh
 
