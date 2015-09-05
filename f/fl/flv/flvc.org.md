@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the flvc.org privacy policy that was archived on 2015-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150124082949id_/https%3A//www.flvc.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvc.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905094653id_/https%3A//www.flvc.org/privacy) for the most accurate reproduction.*
 
-# Privacy
+# FloridaShines | Resources for Florida's High School and College Students
 
-Florida Virtual Campus is a function and service of the University of West Florida that is part of the Florida Academic Library Services Cooperative and the Complete Florida Plus Program established by the University pursuant to Section 1006.73 and Section 1006.735, Florida Statutes.  This internet privacy statement sets forth the University of West Florida's practices concerning privacy of information posted on the University's internet facilities. 
+The Florida Virtual Campus is committed to protecting the privacy of visitors to its website.
+
+Florida Virtual Campus is a function and service of the University of West Florida that is part of the Florida Academic Library Services Cooperative and the Complete Florida Plus Program established by the University pursuant to Section 1006.73 and Section 1006.735, Florida Statutes. This internet privacy statement sets forth the University of West Florida's practices concerning privacy of information posted on the University's internet facilities.
 
 The University of West Florida (UWF) is a non-profit, state government institution of higher education. As a state entity in the state of Florida, the University of West Florida is subject to Florida Public Records Law as defined by Chapter 119, Florida Statutes. All users of UWF web sites need to be aware that Florida Public Records Law requires the University to disclose, to anyone who asks, any records that the university has made or received in the course of conducting state business, unless there is a specific legal basis for maintaining the privacy of the requested records.
 
 With respect to the collection, use, and disclosure of personal information, it is not the intent of the UWF to sell information. It is the university's intent to comply with applicable federal law, state law, and policies and regulations of the university and the Florida Board of Governors.
 
-Your privacy is very important to us. Our policy is to collect no personal information about when you visit this site, unless you affirmatively choose to make sure information available to us.  In addition, information is gathered regarding the volume and timing of access to the site by collecting information on the date, time and pages you visited while at the site. This is done so that the content of the site can be improved. This information is not shared with other organizations unless required by state or federal law. 
+Your privacy is very important to us. Our policy is to collect no personal information about you when you visit this site, unless you affirmatively choose to make such information available to us.  In addition, information is gathered regarding the volume and timing of access to the site by collecting information on the date, time and pages you visited while at the site. This is done so that the content of the site can be improved. This information is not shared with other organizations unless required by state or federal law. 
 
 If you choose to share personal information, such as sending a message or filling out an electronic form with personal information, the information will only be used for the purposes you authorized. Some of this information may be saved for a designated period of time in order to comply with Florida's archiving policies. However, the information will not be disclosed to third parties or other government agencies, unless required by state or federal law.
 
