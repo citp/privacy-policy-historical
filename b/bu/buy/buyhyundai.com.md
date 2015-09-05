@@ -1,64 +1,120 @@
-> *The following text is extracted and transformed from the buyhyundai.com privacy policy that was archived on 2008-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081231044934id_/http%3A//www.dennyheckerautoconnection.com/j/i/15281) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyhyundai.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102325id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Denny Hecker Automotive Group - Car Dealerships - Minneapolis MN - Bargain Lots Minnesota - Hyundai Toyota Dodge VW Ford Cadillac Kia
+# Privacy Policy
 
-|  | 
+## Hyundai Motor America Is Committed to Protecting Consumer Privacy  
+NOTICE :
 
-## Overview 
+Your privacy is important to Hyundai Motor America (“Hyundai” or “HMA”) and its affiliate companies, as is your trust in Hyundai’s products and services. We strive to protect your online privacy, while providing an enjoyable website experience that provides information, products, and services that are relevant and useful to you. The purpose of this Hyundai Privacy Policy for the U.S. (“Policy” or “Privacy Policy”) is to notify and inform you of our website personal information practices. This Privacy Policy applies to Hyundai and its affiliate companies. We urge you to read the complete Privacy Policy as well as our Terms and Conditions of Use and contact us if you have any questions.
 
-Effective: 07 July 2006 
-
-#### 
-
-**1.  ** **Under 18 are not eligible to use our services** and we ask that minors (under 18 years of age) do not submit any personal information to us.   
-  **  
-2\. Information We Collect.  **Our primary goal in collecting personal information from you is to provide you with a **smooth, efficient, and personalized experience** while using our services. This allows us to provide services and features to meet your needs, and to customize our services to make your experience easier and quicker.
-
-**Certain information** about you is automaticaly tracked about behavior on our site. We use this information to do **internal research** on our users' demographics, interests, and behavior to better understand and serve our users. This information is compiled and analyzed on an **aggregated basis**.
-
-Using the Site's web server **log files** , we use IP addresses to analyze trends, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser and operating system you are using, your IP address etc.
-
-In addition, **we use cookies** on certain pages of our site. We may also offer certain features that are only available through the use of a cookie. Cookies can also help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. The other type of cookie we use is a 'persistent' cookie. This stays on your hard drive and we use this to automatically identify who you are. We use this cookie so that you do not need to log in manually every time you visit the site if you are a registered user. The cookie itself contains no personally identifiable information but it does pass an ID to our server which allows us to tie the cookie to your personal information. We do this to allow us to let you know on the homepage what has changed on the site since your last visit. We also use the cookie to track how often you visit the site so we know who our most loyal users are. You are always free to decline our cookies if your browser permits, although in that case you will not be able to use certain features on our site. For example, if you disable cookies, you will need to log in manually each time you visit the site as we cannot use a cookie to remember who you are. Some of our business partners (e.g. net-filter.com; hitbox.com) use cookies on our site. These are used to monitor site performance and to measure site traffic and usage. We have no access to or control over these cookies. This privacy statement covers the use of cookies by E-consultancy only and does not cover the use of cookies by any advertisers.
-
- **Surveys:  **From time-to-time our site may request information from users via surveys, contests or for a particular service (e.g. newsletter). Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested will include contact information (as supplied to the site during registration) and supplementary information on your professional interests, opinions and preferences. We will use the contact information to notify winners. We will not publish winners' details on the site though on request we will provide details of any winners' name and organization. If the survey or contest has a sponsor then we will share information given by entrants with the sponsor.  
-  
-**3\. Our Use of Your Information.  **We may use personally identifiable information about you to improve our marketing and promotional efforts, to **statistically analyze site usage** , to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.
-
-We may use your **e-mail address** to send you newsletters or other communications (for example, digests of the forum posts) that you have requested from the Site. Out of respect for our users we offer an opt-out (see 4. below).
-
-We may use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve any disputes, troubleshoot problems and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or alias.
-
- **  
-4\. Opt-Out of Email Communications  **If at any stage you wish no longer to receive any e-mails that you receive from the site you can stop them coming by using the opt-out or link attached to the bottom of each email.  
-**  
-5\. Our Disclosure of Your Information  **Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy.
-
-By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to **law enforcement** or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
-
-As a general proposition, **we do not sell or rent any personally identifiable information about you to any third party.**
-
-**Advertisers:** We do **aggregate** personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you.
-
-**Legal Requests:** Our Company cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights. Local and international law enforcement agents can request and may receive your personally identifiable information.
-
-**Suppliers and Other Service Providers:**  From time to time we use third party Suppliers and Service Providers to facilitate our services. Where any Service Provider collects information directly from you (such as the situation where we ask a Service Provider to conduct a survey for us) you will be notified of the involvement of the Supplier or Service Provider, and all information disclosures you make will be strictly optional. 
-
- **  
-6\. "Tell a friend" services  **Our site offers a service whereby you can e-mail site content to a friend or colleague. This will involve entering the e-mail address of your friend. **We do not use the e-mail addresses you enter for any purpose other than to send your e-mail.** We do not store, rent or sell these e-mail addresses.  
-**  
-7\. Other Information Collectors  **Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other members of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them.   
-**  
-8\. Security  **In order to process and protect your credit information, we use SSL (secure sockets layer) encryption. The secure server is hosted by [Thawte](http://www.thawte.com/ssl-digital-certificates/trusted-site-seal/siteseal_consumer.html) and not us.     
-  
-On the Denny Hecker sites we use best endeavor to safeguard the confidentiality of your personal identifiable information but we do not use encryption (such as SSL) or firewalls to further protect the information as it travels across the Internet. This is because we do not believe that, apart from the credit card information processed by Thawte, the personal information we currently collect warrants such measures and the accompanying loss of speed experienced. You should be aware that "perfect security" does not exist on the Internet. 
-
-**9**
-
- **. Downloadable Software Disclaimer  **The Thawte program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.   
-**  
-10.** **Notice to all users when using this Site   **Every effort is made to provide accurate information, but all information contained within this web site must be verified before any final conclusions should be made.  Errors may occur in vehicle pricing, equipment, color, miles; all must be verified before purchasing.  
-  
-[**Print**](https://web.archive.org/admin/htmleditor/fckeditor.html?InstanceName=EditorDefault&Toolbar=Jazel#)  
+This Policy will describe the kinds of personally identifiable information we may gather when you visit our websites: HyundaiUSA.com and certain other Hyundai micro-sites (e.g., [hyundainuvis.com](https://www.hyundainuvis.com/) or [hmaservice.com](https://hmaservice.com/)). Additionally, this Policy addresses how we may collect, handle and use that information, what choices you have to manage the personal information we collect about you, the circumstances under which we may disclose it to third parties, and the security of such information.  
 
 
-| 
+## CHOICE :  
+Freedom of Choice
+
+You may choose to share your personally identifiable information with us. We use your information to notify you about our products and services and, where applicable, request your opinion. However, your participation in using our websites and/or providing feedback is completely voluntary. Should you not wish to consent, you can inform us in writing or via email at any time so that we can suppress or remove your personal data electronically.
+
+## Unsubscribe or Opt-out
+
+Hyundai offers you the opportunity to opt-out from receiving promotional email or mail from Hyundai about our products and services.
+
+  * For email, users may opt-out at any time by using the unsubscribe mechanism within the email. The unsubscribe mechanism allows website users to manage their subscription preferences to email alerts and special offers. Notwithstanding the above, this mechanism does not allow a user to opt-out of receiving transactional email, such as registration confirmation, vehicle updates and responses to direct requests.
+  * For calls or direct mail, website users may opt out at [consumeraffairs@hmausa.com](mailto:consumeraffairs@hmausa.com) or by calling (800) 633-5151.
+  * If the information you have provided will be available to third parties, you will also be given the opportunity to opt-out from this practice at [consumeraffairs@hmausa.com](mailto:consumeraffairs@hmausa.com) or by calling (800) 633-5151.
+  * You also may write to us directly if you wish to: (a) update or delete your contact information; (b) ask that we not share your personal information with third parties; (c) opt out or request that we cease sending you promotional or other information via mail or email; or (d) address any other question or concern you may have. Such written requests should be sent to Hyundai Motor America, Attn: Consumer Affairs Department, 10550 Talbert Avenue, Fountain Valley, California 92708; or P.O. Box 20950, Fountain Valley, California 92728-0850. In those instances, we will retain your information in a “do not promote” file in our database, and you will receive no further communications from us as required by law.
+
+
+
+At the time information is collected from you, other choices you have about how the information may be used will be explained.
+
+If you have opted out of receiving future emails from us, we will implement your opt-out request within 10 business days of receiving the opt-out request. If you have opted out of receiving future promotional materials by regular mail, we will implement your opt-out request within a commercially reasonable time.
+
+## COLLECTION :  
+Collection of Personally Identifiable Information
+
+You may visit Hyundai's various websites to read vehicle product information or utilize our online tools without telling us who you are, and without revealing any personal information except for that information which may be obtained from cookies or other automatic information collection tools. You may also choose to utilize our site to obtain services such as brochure and information requests, to order vehicle parts, and to receive site announcements and special offers at the time of the request or in the future. To the extent that you utilize these online tools, Hyundai will collect and store the personal information provided by you, which is necessary to provide the requested services, or to improve the services that we provide to you in the future.
+
+Hyundai may also invite you to participate in promotional activities, such as surveys, sweepstakes, contests, special events, blogs and chats ("Programs"). These Programs are oftentimes co-marketed with an unaffiliated Hyundai business partner. If you participate in a Program, we may use information you provide. For example, we may send you email messages to invite you to join a contest Program. Your personal information may also be shared with our business partner and may also be used by our business partner if you indicate your interest in receiving communications directly from that company. If you elect to receive communications from our business partner, your information will be used by that company in accordance with its policies and this Privacy Policy will not apply to that company's use of your information. Sometimes the rules, terms and conditions or disclaimers that apply to a particular Program include information on how we may use the personal information that you provide to us through your participation in the Program. If there is a conflict between the rules, terms and conditions that apply to a particular Program and this Policy, those applying to the particular Program will govern. Please review all of the information about a Program before you provide us (or our business partners) with any personal information.
+
+Hyundai may also obtain information about you and your vehicle in a number of other ways (e.g., our website, business reply cards, sweepstakes entries, test-drive incentive applications, surveys, vehicle sales records, and other public sources). The personal information that Hyundai may collect and store about you includes:
+
+  * Contact information (name, address, city, state and zip code, email address, and telephone number)
+  * Vehicle information (vehicle identification number (VIN), make, model, model year, selling dealer, date of purchase or lease, etc.)
+  * Demographic information (age range, marital status, household composition, etc.)
+  * Non-credit-related marketing information (when you plan to purchase or lease, the vehicle in which you are interested, etc.)
+  * Relationships you have with Hyundai affiliates and business partners such as XM Satellite Radio, Roadside Assistance Programs, etc.
+  * Business reply cards and sweepstakes entries you complete at an event or in response to a marketing mailing we send may also ask you to answer some of these same questions so we can tailor what we send to you for your specific interests.
+
+
+
+In addition, Hyundai dealers (which are all independently owned and operated) and other sources that provide lists of potential vehicle purchasers or current owners may provide to us the information they have regarding you or your vehicle. We use this information to serve your needs through better customer service and to advise you of our products and services.
+
+No Hyundai websites are intended for use by children under 13 years old as they are not of driving age.
+
+## USE :  
+How We Use Information About You
+
+The information you share with us may be used by Hyundai, our affiliates, our subsidiary companies, our licensees, and our independent dealers. It may be used by our suppliers to provide services for Hyundai, and by our business partners to conduct joint marketing programs with Hyundai. The primary uses of your information include:
+
+  * To fulfill a specific product or service you have requested
+  * To provide product information
+  * To provide the functionality and information provided on our websites
+  * To answer your questions or address any complaints you may have made
+  * To evaluate candidates as they apply for an employment position with Hyundai
+  * To let you know about special discounts or added vehicle services or functions
+
+
+
+## ONWARD TRANSFER :  
+Information Sharing With Third Parties
+
+Hyundai may share website user or vehicle owner personal information with third parties including our affiliates, authorized dealers, licensees, suppliers and marketing partners, contracted to provide services on our behalf (e.g., brochure fulfillment) or so they could use it to offer you other valuable products and services. In addition, user or vehicle owner data may be used by our suppliers to provide services for Hyundai, and by our business partners to conduct joint marketing programs with Hyundai. We will not share your personal information with third parties other than these without your permission. Hyundai does not sell or rent user or customer personal information to any third parties.
+
+Hyundai may disclose any personal or other website user information you may submit to any person performing audit, legal, operational or other similar services for Hyundai. Hyundai may also disclose any personal or other user data when required to do so by subpoena, court order, or warrant. Hyundai will also disclose any personal or other user data deemed necessary to protect the safety of an individual, the public, or the security and reliability of Hyundai and its websites.
+
+Participating Vendors. Some of our sites offer opportunities to make purchases online from special participating vendors. On sites with online purchase opportunities for products and merchandise, we may also give participating vendors the order information and authorization for the merchant bank. Any time you order from a participating vendor, that vendor will automatically have all the information related to the order. Participating vendors may use that information to advise you directly of other products and offerings that they provide.
+
+Credit Card Companies; Third Party Payment Services; Third Party Promotional Sites. As in any transaction, your credit card company will have all relevant information about the name of the vendor, item(s) purchased, and date and total cost. Hyundai will not otherwise provide any personal data to your credit card company. In some cases, we use third party payment and transaction services to facilitate your transactions and process your orders. In such cases, we will share your personal information and credit card information with third party payment services companies solely for the purpose of completing the transaction or processing your order. In some cases, we will share your personal information and credit card information with third parties who may offer you a gift or promotional offer as a result of your interest.
+
+Other Third Parties. We may share your personal information with third parties, such as advertisers, sponsors, and other promotional and business partners, only when you have not opted out of receiving communications from third parties. If you wish to opt-out of receiving third party communications, you may exercise this right by following the opt-out procedures contained in any email or written communication Hyundai sends to you or by following the procedures set forth in the opt out section of this Privacy Policy.
+
+Public Postings. You should be aware that if you voluntarily disclose information, personal or otherwise, online in any community area (whether through Hyundai’s websites or any other service available online), that information can be collected and used by others. Accordingly, you should use caution when sharing any personal information with others in any community area (whether through Hyundai’s websites or any other service available online).
+
+Changes in Corporate Structure. In developing our business, we might sell certain assets, or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets.
+
+## SECURITY :  
+Website Security
+
+You can visit Hyundai’s websites to read about our vehicles or use our online tools without providing any personally identifiable information (other than, in some cases, your zip code). During such visits, we collect and store the name of your Internet service provider, the browser (including available plug-ins and browser functionality), the kind of computer you are using, your IP address, any website that may have referred you to us, the pages you visit, and the time. We use this information to generate aggregate statistics and measure site activity to improve the usefulness of customer visits (reported as aggregate information). Website usage information that is shared with third parties is primarily pixel tags and GIF’s.
+
+Hyundai takes reasonable precautions to protect our users' information online, both while the information is being transmitted and after it is received by us. Once we have received user information, we use security policies and procedures and leading technology tools to attempt to safeguard the data we have against accidental or intentional loss, theft, unauthorized access, destruction, use, modification and disclosure.
+
+## Automatic Information Collection
+
+We may collect certain preference information of website users through the use of cookies, including flash cookies, which are small files stored on your hard drive in order to optimize the design of our website. Our “cookies” are only used when you are visiting our sites. Cookies enable us to track and aggregate user behavior data so that we may better target the interests of our users and enhance their experience on the Hyundai websites. Usage of a cookie is only linked to personal information if a user provides that information (see above). By themselves, cookies do not tell us your email address or other personally identifiable information. Only you can provide that information on our websites – and only if you choose to do so. To limit the use of flash cookies from our site, simply right click on our site and adjust the Adobe Flash Player Settings bar under “Local Storage” to your desired setting.
+
+A number of technologies exist to assess consumer behavior both on-line and off-line. Hyundai may employ a variety of these technologies, including web beacons (see below), web analytics techniques, and other behavior marketing technologies, to assess consumer behavior and to understand how we can better serve our customers. Many of these technologies are provided to Hyundai via third party providers specializing in behavioral marketing and consumer behavior. In the course of using these behavioral marketing technologies, we automatically collect non-personal information from you, including but not limited to the following types of information: Internet protocol (IP) address used to connect your computer to the Internet; login, email address; computer and connection information such as browser type and related browser data; content viewed; and purchase history, which may be aggregated with other information for analytic purposes.
+
+Some of our web pages, promotional email messages, and/or newsletters may contain electronic images known as web beacons, which are also called single-pixel GIFs. Web beacons are not used to access your personally identifiable information, but they are a technique we use to compile aggregated statistics about the usage of our websites and to track the number of users who have opened and acted upon our promotional email messages. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides.
+
+Some banner ads provided by third parties may be displayed in our websites. These ads contain cookies and may also contain web beacons. Unlike cookies and web beacons used by Hyundai in content it controls on its websites, cookies or web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. These companies may employ cookies, web beacons, and action tags to measure advertising effectiveness. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc.
+
+## Third Parties and Links
+
+In the event that you provide personal information to any third party via any Hyundai website or any offer made available to you by Hyundai, you understand that Hyundai is not responsible for such third parties’ use or misuse of your personal information. You should review the privacy and information sharing practices of such third parties. Additionally, Hyundai may offer links to or from websites it controls to other sites within the Hyundai family as well as to sites operated by third parties. We offer links to third party sites so that you can conveniently visit our vendors and advertisers or locate other content likely to be of interest. We are not responsible for the content, practices or policies of sites operated by third parties and urge you to inquire about them before providing any personally identifiable information. You further acknowledge and agree that Hyundai shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
+
+## Log Files
+
+We use IP addresses to analyze trends, administer the sites, track users’ movement and gather broad demographic information for aggregate use in improving the sites. IP addresses are not linked to personally identifiable information.
+
+## CONSENT :  
+Acceptance of Privacy Policy
+
+By using Hyundai websites, you signify your agreement to this Privacy Policy. Hyundai reserves the right to change this Privacy Policy at any time. All matters relating to these sites are governed by the laws of the State of California in the United States irrespective of its conflicts of laws provisions. In the event that Hyundai wishes to pursue legal action against you, it may bring such legal action in any federal or state court having jurisdiction. Lawsuits against Hyundai must be brought in federal or state court in Orange County, California. Hyundai will use, share, and disclose all personal and other user information in accordance with the Privacy Policy in effect at the time the information is collected. Please review the Privacy Policy on the website so that you are always aware of what information we collect, how we use it and under what circumstances we may disclose it. Continued use of a Hyundai website following changes to these terms will mean that you accept these changes.
+
+## CALIFORNIA PRIVACY RIGHTS DISCLOSURE : 
+
+Under California Civil Code Section 1798.83, also known as Senate Bill 27, or Shine the Light you are entitled to request and receive, free of charge, a copy of Hyundai's California Information Sharing Disclosure Notice for the previous calendar year. You may print this page, or call (800) 633-5151, to request a copy or email us at [consumeraffairs@hmausa.com](mailto:consumeraffairs@hmausa.com). We will provide the requested information to you at your email address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+
+Effective Date: March 11, 2011
