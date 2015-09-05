@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpthemes.co.nz privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233825id_/http%3A//wpdevshed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpthemes.co.nz privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905230059id_/http%3A//wpdevshed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » WP Dev Shed
 
