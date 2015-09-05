@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321040017id_/http%3A//www.wdrake.com/walterdrake/customerservice/faq.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdrake.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905081255id_/http%3A//www.wdrake.com/walterdrake/customerservice/faq.aspx%23SecurityandPrivacy) for the most accurate reproduction.*
 
 # Frequently Asked Questions - Walter Drake
 
@@ -46,7 +46,7 @@ Attn: Product Ideas
 Oshkosh, WI 54906  
 [newideas@wdrake.com](mailto:newideas@wdrake.com)
 
-Please submit all customer service issues by [CLICKING HERE](https://web.archive.org/web/20150321040017id_/http%3A//www.wdrake.com/walterdrake/customerservice/contactus.aspx). 
+Please submit all customer service issues by [CLICKING HERE](https://web.archive.org/web/20150905081255id_/http%3A//www.wdrake.com/walterdrake/customerservice/contactus.aspx). 
 
 How do I get to Walter Drake locations?
 
@@ -84,13 +84,13 @@ What is the Walter Drake Environmental Policy?
 
 Did you know?
 
-* Walter Drake Company has invested $150,000 in lighting upgrades at the distribution center that has resulted in the annual electricity savings of 1,100,000 kilowatt hours. This is the equivalent of providing electricity to 100 homes or the energy of 1990 barrels of oil. The impact of this project is reducing our carbon footprint by 2,522,920lbs of CO2 annually. [Click here for more detail](https://web.archive.org/web/20150321040017id_/http%3A//www.wdrake.com/walterdrake/images/docs/Copy%20of%20Environmental%20Emissions%20Equivalents.xls).  
+* Walter Drake Company has invested $150,000 in lighting upgrades at the distribution center that has resulted in the annual electricity savings of 1,100,000 kilowatt hours. This is the equivalent of providing electricity to 100 homes or the energy of 1990 barrels of oil. The impact of this project is reducing our carbon footprint by 2,522,920lbs of CO2 annually. [Click here for more detail](https://web.archive.org/web/20150905081255id_/http%3A//www.wdrake.com/walterdrake/images/docs/Copy%20of%20Environmental%20Emissions%20Equivalents.xls).  
 * Walter Drake Company uses corrugate shipping containers made from over 60% post consumer content.  
 * Walter Drake Company is committed to recycling. Annually, our distribution center recycles 600 tons of cardboard and 60 tons of office paper.  
-* From 2005 to 2007 our use of lighter weight paper has reduced our total wood use by 1,472 tons, or 10,191 trees. The energy saved was 21,806 million BTU’s, enough to power 240 homes each year. Greenhouse gases were reduced the equivalent of 4,364,582 lbs CO2, or the emissions from 396 cars per year. Wastewater was reduced 10,219,474 gallons. [Click here for more details](https://web.archive.org/web/20150321040017id_/http%3A//www.wdrake.com/walterdrake/images/docs/Paper%20Reduction%202005-2007.pdf).  
+* From 2005 to 2007 our use of lighter weight paper has reduced our total wood use by 1,472 tons, or 10,191 trees. The energy saved was 21,806 million BTU’s, enough to power 240 homes each year. Greenhouse gases were reduced the equivalent of 4,364,582 lbs CO2, or the emissions from 396 cars per year. Wastewater was reduced 10,219,474 gallons. [Click here for more details](https://web.archive.org/web/20150905081255id_/http%3A//www.wdrake.com/walterdrake/images/docs/Paper%20Reduction%202005-2007.pdf).  
 * The Walter Drake Foundation donates more than $100,000 each year to support charitable, scientific, literary and educational institutions
 
-[Click here to see our entire environmental policy and vision statement](https://web.archive.org/web/20150321040017id_/http%3A//www.wdrake.com/walterdrake/CustomerService/Environmental_Policy.aspx). 
+[Click here to see our entire environmental policy and vision statement](https://web.archive.org/web/20150905081255id_/http%3A//www.wdrake.com/walterdrake/CustomerService/Environmental_Policy.aspx). 
 
   
 
@@ -125,7 +125,7 @@ Please allow 24 hours turn-around time for an email response.
 
 Can I place an order online and send you a check?
 
-We do not offer that kind of payment option. However, you may download a [printable order form](https://web.archive.org/web/20150321040017id_/http%3A//www.wdrake.com/walterdrake/images/docs/OrderForm.pdf) from the website and mail it in with a check. 
+We do not offer that kind of payment option. However, you may download a [printable order form](https://web.archive.org/web/20150905081255id_/http%3A//www.wdrake.com/walterdrake/images/docs/OrderForm.pdf) from the website and mail it in with a check. 
 
 Do I have to pay sales tax?
 
@@ -145,7 +145,7 @@ Some customers have asked why these new requirements exist. We are required to p
 
 Do I have to register to place an order?
 
-No, but you may register to start an online account with your own unique password during the checkout process. You may use this password to check on the status of your order. You may feel free to create an online account by clicking this link: [My Account](https://web.archive.org/web/20150321040017id_/http%3A//www.wdrake.com/walterdrake/account/default.aspx). Please keep in mind that you will not be able to check your order history or the status of your order if you are not logged into your account at the time you submit an order. 
+No, but you may register to start an online account with your own unique password during the checkout process. You may use this password to check on the status of your order. You may feel free to create an online account by clicking this link: [My Account](https://web.archive.org/web/20150905081255id_/http%3A//www.wdrake.com/walterdrake/account/default.aspx). Please keep in mind that you will not be able to check your order history or the status of your order if you are not logged into your account at the time you submit an order. 
 
 How do I check the status of my web order?
 
@@ -290,7 +290,7 @@ Please note that you may upload photos to accompany your order by following the 
 
 After I've typed in the personalization for a product, how do I review it to make sure it is correct?
 
-You can review personalization when you are on the [Shopping Cart page](https://web.archive.org/web/20150321040017id_/http%3A//www.wdrake.com/walterdrake/checkout/checkoutstep1a.aspx). If the personalization is incorrect, click on the Edit button and make any changes you need. 
+You can review personalization when you are on the [Shopping Cart page](https://web.archive.org/web/20150905081255id_/http%3A//www.wdrake.com/walterdrake/checkout/shoppingcart.aspx). If the personalization is incorrect, click on the Edit button and make any changes you need. 
 
 If I order a personalized product and non-personalized product, will I receive all merchandise in the same order or in multiple shipments?
 
@@ -305,11 +305,11 @@ You can ship an order to yourself at a different address. Physical street addres
 
 Do you have express shipping?
 
-Yes, we have four express shipping methods in addition to the standard shipping. Express shipping is not available for shipments outside the contiguous US, to P.O. Boxes or for oversized, drop-ship or out-of-stock items. 
+Yes, we have four express shipping methods in addition to the Economy shipping. Express shipping is not available for shipments outside the contiguous US, to P.O. Boxes or for oversized, drop-ship or out-of-stock items. 
 
-  * **UPS Ground:** Your order will arrive in 3 to 4 business days after leaving our warehouse (see "How do you ship orders?" below for processing time). Delivery occurs Tuesday through Saturday for residences; Monday through Friday for business addresses. **Additional cost: $7.95**
-  *  **UPS 2nd Day:** Your order will arrive in 2 business days after leaving our warehouse (see "How do you ship orders?" below for processing time). Delivery occurs Monday through Friday. **Additional cost: $9.95**
-  *  **UPS Standard Overnight:** Your order will arrive the next day after leaving our warehouse (see "How do you ship orders?" below for processing time). Delivery occurs Monday through Friday. **Additional cost: $32.00**
+  * **Standard:** Your order will arrive in 3 to 6 business days after leaving our warehouse. Delivery occurs Tuesday through Saturday for residences; Monday through Friday for business addresses. **Additional cost: $7.95**
+  *  **Premium:** Your order will arrive in 3 business days after leaving our warehouse. Delivery occurs Monday through Friday. **Additional cost: $9.95**
+  *  **Next Business Day** (if ordered by 1:00PM Central): Your order will arrive the next day after leaving our warehouse. Delivery occurs Monday through Friday. **Additional cost: $32.00**
 
   
 USPS Priority Mail is for customers OUTSIDE THE CONTIGUOUS UNITED STATES ONLY. It is highly recommended that shipments to Alaska, Hawaii, Puerto Rico and U.S. Territories choose Priority Mail Service in order to receive their package in 7-10 business days; otherwise, it can take as much as 2 to 3 weeks. **Additional cost: $3.99.**
@@ -320,7 +320,7 @@ Yes, we will ship internationally in addition to APO and FPO address as well as 
 
 How do you ship orders?
 
-We use USPS as our primary delivery agent. In most cases, orders that ship from our distribution center will arrive in approximately 7 to 9 business days. We process all non-personalized, in-stock items within 2 business days of receipt of your order. Allow 2 to 3 additional business days for orders with personalized items. Upon completion of your order allow 5 business days for delivery. Please use a street address whenever possible; P.O. Boxes may delay delivery.
+We use USPS as our primary delivery agent. In most cases, orders that ship from our distribution center will arrive in approximately 4 to 8 business days. We process all non-personalized, in-stock items within 2 business days of receipt of your order. Allow an additional 2 business days for orders with personalized items. Please use a street address whenever possible; P.O. Boxes may delay delivery.
 
 All items that are in stock will ship together unless they are physically extra large or are drop-ship (direct delivered from another location).
 
@@ -383,7 +383,7 @@ Return Goods
 2155 S. Oakwood Rd.  
 Oshkosh, WI 54904
 
- **Use a Pre-paid Shipping Label.** For your convenience we offer the option of printing a prepaid merchandise return label online. A $7.00 charge will be deducted from your refund for using this service. Simply click [HERE](https://web.archive.org/web/20150321040017id_/http%3A//www.wdrake.com/walterdrake/customerservice/webonlyreturns.aspx), fill in your order specifics and personal information, and print the return label. Affix it to your package and drop the package off at one of the approved UPS locations found [HERE](http://www.ups.com/dropoff?autosubmit). 
+ **Use a Pre-paid Shipping Label.** For your convenience we offer the option of printing a prepaid merchandise return label online. A $7.00 charge will be deducted from your refund for using this service. Simply click [HERE](https://web.archive.org/web/20150905081255id_/http%3A//www.wdrake.com/walterdrake/customerservice/webonlyreturns.aspx), fill in your order specifics and personal information, and print the return label. Affix it to your package and drop the package off at one of the approved UPS locations found [HERE](http://www.ups.com/dropoff?autosubmit). 
 
   
 
@@ -452,7 +452,7 @@ We use the information collected for various purposes, including:
 * To identify products and services you prefer so that we can inform you of products, services, and promotions that may be of interest to you  
 * To improve the merchandise selection available to you  
 * To improve our customer service  
-*To assure billing accuracy.
+* To assure billing accuracy.
 
 We intend to continue improving the content and function of WDrake.com. For this reason, we gather the information mentioned above so that we can provide content of interest to you and a site that functions correctly on your computer system.
 
@@ -605,7 +605,7 @@ Within 24 hours of placing your order, you will receive an order confirmation em
 
 What is the returns policy for international orders?
 
-All returns must be made within 45 days from the date that you receive the shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship. If you have any damaged, missing, or incorrectly personalized item(s), call, write, or email our [Customer Service Department](https://web.archive.org/web/20150321040017id_/http%3A//www.wdrake.com/walterdrake/customerservice/ContactUs.aspx). All responses to customer service questions will be in English. Information on how to do a return is listed on the back of the packing slip that is included with every shipment. 
+All returns must be made within 45 days from the date that you receive the shipment. Personalized items cannot be returned for reasons other than defects in material or workmanship. If you have any damaged, missing, or incorrectly personalized item(s), call, write, or email our [Customer Service Department](https://web.archive.org/web/20150905081255id_/http%3A//www.wdrake.com/walterdrake/customerservice/ContactUs.aspx). All responses to customer service questions will be in English. Information on how to do a return is listed on the back of the packing slip that is included with every shipment. 
 
   
 
