@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the lavalife.ca privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611204838id_/http%3A//www.lavalife.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalife.ca privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054740id_/http%3A//www.lavalife.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Lavalife.com Online Dating Site & Mobile Apps – Where Singles Click® | Forgot Password
+
+  * FAQ
+  * PRIVACY POLICY
+  * TERMS OF USE
+  * REFUND POLICY
+  * CONTACT US
+
+
 
 ## Help
 
 FAQ
-
-TUTORIAL
 
 PRIVACY POLICY
 
@@ -24,9 +30,9 @@ Below you'll find answers to our members' most frequently asked questions. Befor
 
 Clicking the heart icon on someone else’s profile in search, mini profile or full profile view shows that specific Lavalife.com user that you’re interested in them, or that you like their profile. You can see the likes that your profile has received by clicking on the heart icon in your notifications bar in the upper right hand corner of the screen. You can unlike someone’s profile at any point by returning to their profile and clicking the heart icon once more, so that it changes back from red to clear.
 
-**How do “favourites” work?**
+**How do “favorites” work?**
 
-Clicking the star icon on someone else’s profile in search, mini profile or full profile view adds that particular profile to your “Favourites” list. Think of this list as a collection of bookmarked profiles. The person that you’ve added to your list doesn’t know they have been added. So, you can keep tabs on your favourite profiles or favourite a few to go back to and read in full later on. Just like “likes”, you can un-favourite a profile by returning to the profile and clicking the star icon once more, so that it changes back from yellow to clear.
+Clicking the star icon on someone else’s profile in search, mini profile or full profile view adds that particular profile to your “Favorites” list. Think of this list as a collection of bookmarked profiles. The person that you’ve added to your list doesn’t know they’ve been added. So, you can keep tabs on your favorite profiles or favorite a few to go back to and read in full later on. Just like “likes”, you can unfavorite a profile by returning to the profile and clicking the star icon once more, so that it changes back from yellow to clear.
 
 **How do “views” work?**
 
@@ -34,15 +40,15 @@ The eye icon in your notifications bar shows you a list of other Lavalife.com us
 
 **How do messages work?**
 
-The message centre is where all your sent and received messages are stored. The envelope icon in your notifications bar will show you a running total of all new messages received. As you read through your messages, you’ll notice the notification number decreasing until the notifications clear. You can also delete a message, click through to view a user’s full profile and even block a user directly from your message centre. 
+The message center is where all your sent and received messages are stored. The envelope icon in your notifications bar will show you a running total of all new messages received. As you read through your messages, you’ll notice the notification number decreasing until the notifications clear. You can also delete a message, click through to view a user’s full profile and even block a user directly from your message center. 
 
 **Are there fake profiles on Lavalife.com?**
 
-We never have and never will have fake profiles on Lavalife.com. We believe in connecting real local singles with other real local singles, and that is what we promise to continue to do. We are diligent in our screening process to weed out known problem users and to keep Lavalife.com the safest, most fun environment it can be.
+We never have and never will have fake profiles on Lavalife.com. We believe in connecting real local singles with other real local singles, and that’s what we promise to continue to do. 
 
 **Is Lavalife.com free?**
 
-It is always free to join Lavalife.com and to try it for a week. But, after the week, you will be notified that your free trial period is up and will be prompted to purchase a monthly subscription membership. We have a number of membership packages to choose from, all of which allow you full access to all Lavalife.com features.
+It’s always free to join Lavalife.com and to try it for a week. But, after the week, you’ll be notified that your free trial period is up and will be prompted to purchase a monthly subscription membership.
 
 **Can I use the same login for Lavalife.com and the Lavalife mobile app?**
 
@@ -50,7 +56,7 @@ Yes! Lavalife.com and the Lavalife mobile app are directly linked, so you can us
 
 **Another user or his/her profile content is bothering me on Lavalife.com. What can I do?**
 
-We take all user misconduct very seriously and strongly urge you to report and block any harassing or bothersome behaviour. Our team of dedicated customer service professionals carefully review and appropriately action any and all flagged profiles, messages and activity as quickly as possible. You should always feel safe on Lavalife.com, so please never hesitate to [contact us](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/contact-us.html) if we can help make your experience a more enjoyable one.
+We take all user misconduct very seriously and strongly urge you to report and block any harassing or bothersome behavior. Our team of dedicated customer service professionals carefully review and appropriately action any and all flagged profiles, messages and activity as quickly as possible. Your safety is our priority here at Lavalife. Please never hesitate to contact us if we can help make your experience a more enjoyable one.
 
 ### Making the Most out of Lavalife.com
 
@@ -60,77 +66,77 @@ A good profile picture can make or break an online dating profile’s success. A
 
 **How do I write a great “About Me”?**
 
-When it comes to writing your “About Me” section, it is important to play up the positives and avoid focusing on the negatives. You also want to be truthful, upfront and put forward your best self. For more tips and advice on how to write a great About Me, click [here](http://blog.lavalife.com/how-to-write-a-good-online-dating-profile-without-stretching-the-truth/) and [here](http://blog.lavalife.com/5-things-best-online-dating-profiles/).
+When it comes to writing your “About Me” section, it is important to play up the positives and avoid focusing on the negatives. You also want to be truthful, upfront and put your best self forward. For more tips and advice on how to write a great “About Me,” click [here](http://blog.lavalife.com/how-to-write-a-good-online-dating-profile-without-stretching-the-truth/) and [here](http://blog.lavalife.com/5-things-best-online-dating-profiles/).
 
 **How do I use the search function to find the right profiles for me?**
 
-Seeing too many results at once can be overwhelming, and we understand that! That is why we offer you two ways to narrow down your results. First, use the Basic Search to quickly narrow down your search results to see people looking for the same relationship type as you, within your preferred age range and within a specific distance. Then, use the Advanced Search to select more specific search criteria that will help comb through results and present you with people who most closely match what you are looking for.
+Seeing too many results at once can be overwhelming, and we understand that! That’s why we offer two ways to narrow down your results. First, use the “Basic Search” to quickly narrow down your search results to see people looking for the same relationship type as you, within your preferred age range and within a specific distance. Then, use the “Advanced Search” to select more specific search criteria that will help comb through results and present you with people who most closely match what you’re looking for.
 
 **How do I use the “In Common” feature to break the ice?**
 
-Lavalife.com’s “In Common” feature allows you to see what another user has in common with you straight away, so you can break the ice by sending a message about something you both enjoy. Do you have a specific sport in common? If so, ask about his or her favourite team. Do you both enjoy gourmet cooking? Ask about the last recipe they enjoyed. Our “In Common” feature is all about cutting through the noise and highlighting your common ground faster, helping you to strike up a conversation and get things moving.
+Lavalife.com’s “In Common” feature allows you to see what another user has in common with you straight away, so you can break the ice by sending a message about something you both enjoy. Do you have a specific sport in common? If so, ask about his or her favorite team. Do you both enjoy gourmet cooking? Ask about the last recipe they enjoyed. Our “In Common” feature is all about cutting through the noise and highlighting your common ground faster, helping you to strike up a conversation and get things moving.
 
 ### Privacy and Security
 
 **Will other users see my personal contact information?**
 
-No Lavalife.com users will ever see your personal contact information, including your real first and last names. All we show is what you include on your public profile. If you choose to share personally identifiable information within private messages (something we generally advise against unless you have decided to meet offline for a date), that is up to you. For more information on how we store and use your personal information, please visit our [Privacy Policy](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/privacy-policy.html) page.
+No Lavalife.com users will never see your personal contact information, including your real first and last names. All we show is what you include on your public profile. If you choose to share personally identifiable information within private messages (something we generally advise against unless you have decided to meet offline for a date), then that’s up to you. For more information on how we store and use your personal information, please visit our [Privacy Policy](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/privacy-policy.html) page.
 
 **Can anyone see my photos?**
 
-Any photo that you upload to Lavalife.com is viewable to other Lavalife.com members. If you do not wish for other users to see a photo, we strongly advise you to not upload it to Lavalife.com as it will be made publicly viewable immediately. While it is unlikely, it is always possible that search engines may index images from our website. However, we make every effort to prevent this from happening. 
+Any photo that you upload to Lavalife.com is viewable to other Lavalife.com members. If you don’t want other users to see a photo, we strongly advise you to not to upload it to Lavalife.com as it will be made publicly viewable immediately. While it’s unlikely, it’s always possible that search engines may index images from our website. However, we make every effort to prevent this from happening.
 
 **Do you share my email address or contact information with third parties?**
 
-We do not rent, trade or sell our members’ or subscribers’ email addresses with any third party. We care deeply about your privacy and ensure it is respected at every turn. We use StreamSend, a reputable and trusted email service provider, to send relevant, interesting email content to email addresses that have opted into email communication and always maintain complete ownership and control over our own email database. To unsubscribe from email communication, please visit your [Preferences Centre](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/dashboard.html#/account/).
+We don’t rent, trade or sell our members’ or subscribers’ email addresses with any third party. We care deeply about your privacy and ensure it’s respected at every turn. We use StreamSend, a reputable and trusted email service provider, to send relevant, interesting email content to email addresses that have opted into email communication and always maintain complete ownership and control over our own email database. To unsubscribe from email communication, please visit your [Preferences Centre](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/dashboard.html#/account/).
 
 **How do I keep safe while online dating?**
 
-Here at Lavalife.com, your safety is our primary concern. We have an entire section dedicated to online dating safety tips that we strongly encourage all our users to read carefully. Please [click here](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/safety-tips.html) to learn more.
+Here at Lavalife.com, your safety is our primary concern. We have an entire section dedicated to online dating safety tips that we strongly encourage all our users to read carefully. Please [click here](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/safety-tips.html) to learn more.
 
 **Do you have a Code of Conduct?**
 
-Yes, we have a publicly available Code of Ethics that we require all users to abide by in order to keep Lavalife.com a fun and safe environment. Please click here to [learn more](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/code-of-ethics.html).
+Yes, we have a publicly available Code of Ethics that we require all users to abide by in order to keep Lavalife.com a fun and safe environment. Please click here to [learn more](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/code-of-ethics.html).
 
 **Do you monitor all sent and received messages?**
 
-We do not monitor or screen sent and received private messages. We do, however, read and action any and all messages flagged as inappropriate. For more information on what is and is not acceptable on Lavalife.com, please read our [Code of Ethics](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/code-of-ethics.html).
+We don’t monitor or screen sent and received private messages. We do, however, read and action any and all messages flagged as inappropriate. For more information on what is and isn’t acceptable on Lavalife.com, please read our [Code of Ethics](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/code-of-ethics.html).
 
 **How do I know I can trust Lavalife.com?**
 
-Lavalife.com was one of the very first names in the online dating space and continues to be a trusted choice of thousands of online daters every single day. We carefully screen all new members, respond to and action all reports of misconduct as soon as possible and process all credit card transactions in accordance with best practices. All transactions are processed via our secure payment system, keeping your safety and security as our top priority.
+Lavalife.com was one of the very first names in the online dating space and continues to be a trusted choice of thousands of online daters every single day. We carefully screen all new members, respond to and action all reports of misconduct as soon as possible, and process all credit card transactions in accordance with best practices. All transactions are processed via our secure payment system, keeping your safety and security as our top priority.
 
 ### Billing and Account
 
 **Why do you need my real first and last names?**
 
-Your first and last name will never be revealed to other Lavalife.com members. We require this information for a couple of reasons. First, maintaining accurate and detailed records of all our member is one of the ways we are able to maintain a safe online dating experience. Second, we require this information for all credit card transactions and pre-authorized automatic subscription renewals. You can rest assured that your personal information will never be released on the website or shared with any third party. For more information on our Privacy Policy, [click here](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/privacy-policy.html).
+Your first and last name will never be revealed to other Lavalife.com members. We require this information for a couple of reasons. First, maintaining accurate and detailed records of all our member is one of the ways we are able to maintain a safe online dating experience. Second, we require this information for all credit card transactions and pre-authorized automatic subscription renewals. You can rest assured that your personal information will never be released on the website or shared with any third party. For more information on our Privacy Policy, [click here](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/privacy-policy.html).
 
 **How much does it cost to have a Lavalife.com membership?**
 
-Until January 5th 2015, Lavalife.com will be offering all members a free experience. On January 5th, we will be introducing new monthly subscription options ranging from $19.99 to $89.99. 
+As of January 5, 2015 we’ll be introducing new monthly subscription options ranging from $19.99 to $89.99. 
 
 **Will you charge my credit card without my permission?**
 
-We will never charge your credit card without your permission. When you sign up for a monthly subscription, you have the opportunity to opt out of auto renewal. If you opt out of this feature, we will only charge your card for the amount specified as a one-time charge. If you remain opted into the auto renewal feature, you will see a recurring charge in the amount specified and at the frequency specificed beginning the month your initially purchased subscription expires. For example, if you purchase a three month package at $49.99, you will be charged an additional $49.99 on the fourth month which will then extend your subscription an additional three months and so on and so forth.
+We’ll never charge your credit card without your permission. When you sign up for a monthly subscription, you have the opportunity to opt out of auto renewal. If you opt out of this feature, we’ll only charge your card for the amount specified as a one-time charge. If you remain opted into the auto renewal feature, you’ll see a recurring charge in the amount specified and at the frequency specified beginning the month your initially purchased subscription expires. For example, if you purchase a three month package at $49.99, you will be charged an additional $49.99 on the fourth month, which will then extend your subscription an additional three months and so on and so forth.
 
 **How do I cancel my account?**
 
-For information and instructions on how to cancel your Lavalife.com membership account, please [click here](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/dashboard.html#/account/).
+For information and instructions on how to cancel your Lavalife.com membership account, please [click here](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/dashboard.html#/account/).
 
 **Can I get a refund?**
 
-Due to the nature of monthly subscriptions and the refund policy set forth by Lavalife.com, we are unable to offer refunds on any purchase. We invite you to read more about our company policies and procedures within our [Terms of Use](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/terms-of-use.html).
+Due to the nature of monthly subscriptions and the refund policy set forth by Lavalife.com, we are unable to offer refunds on any purchase. We invite you to read more about our company policies and procedures within our [Terms of Use](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/terms-of-use.html).
 
 ### Miscellaneous
 
 **Where did my backstage gallery go and other older Lavalife.com features?**
 
-On November 20th 2014, Lavalife.com released a new and updated online dating experience. If you are a user who joined previous to that date, please visit our [New Site Guide](http://blog.lavalife.com/new-site-guide/) to learn all about the changes your profile has experienced and what to expect from the new Lavalife.com.
+On November 20, 2014, Lavalife.com released a new and updated online dating experience. If you’re a user who joined previous to that date, please visit our [New Site Guide](http://blog.lavalife.com/new-site-guide/) to learn all about the changes your profile has experienced and what to expect from the new Lavalife.com.
 
-**I did not find an answer to my question in your FAQ. What should I do?**
+**I didn’t find an answer to my question in your FAQ. What should I do?**
 
-If you did not find an answer to your question in our FAQ, we apologize! Please [contact us](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/contact-us.html) with your question or concern and we will get back to you as soon as we possibly can.
+If you didn’t find an answer to your question in our FAQ, we apologize! Please [contact us](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/contact-us.html) with your question or concern and we’ll get back to you as soon as possible.
 
 ## COMING SOON
 
@@ -148,25 +154,25 @@ We do use cookies to identify traffic that comes through advertising and to faci
 
 **What information will you ask me for?**
 
-When you register to use any Lavalife service you will be asked for some general identifying information which will enable us to provide you with this individualized service. We gather contact information (like your email address), demographic information (like your city of residence or age). We may share some of this information for our own research purposes with our professional advisors or consultants and third party partners, however the information shared will be limited to non-personally identifying demographic information shared under cover of a confidentiality agreement. If you choose to become a Full Member, we collect financial information (like your credit card number and expiry date). We will only use this information in the course of providing our service to you. 
+When you register to use any Lavalife service you will be asked for some general information, which enables us to provide you with this individualized service. We gather contact information (like your email address), demographic information (like your city of residence or age). We may share some of this information for our own research purposes with our professional advisors or consultants and third party partners, however the information shared will be limited to non-personally identifying demographic information shared under cover of a confidentiality agreement. If you choose to become a Full Member, we collect financial information (like your credit card number and expiry date). We will only use this information in the course of providing our service to you. 
 
-Once you have registered, you will be given the option of creating a pseudonymous profile (nickname and personal description) within any of our communities where your gender is applicable. Depending on which community you choose, you will be asked for some personal but non-identifying information to complete your profile (i.e. whether you have dependants, height, body type, race, religion, whether you smoke, etc). This information is not linked in any way to your personally identifiable information, for other members to see. Obviously, if you provide us with a photograph or video some of your information may become personally identifiable information.
+Once you have registered, you will be given the option of creating a pseudonymous profile (nickname and personal description) within any of our communities where your gender is applicable. Depending on which community you choose, you will be asked for some personal but non-identifying information to complete your profile (i.e. whether you have dependants, height, body type, race, religion, whether you smoke, etc.). This information is not linked in any way to your personally identifiable information, for other members to see. Obviously, if you provide us with a photograph or video some of your information may become personally identifiable information.
 
 **How will this information be used and who has access to it?**
 
 If you choose to have them sent to you, we may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. Our site provides you with the opportunity to opt-in to receiving different types of communications from us at the point where we request registration information. You may modify this choice at any time by selecting "Preferences" from the member home page. We reserve the right to use your contact information at any time to advise you of any updates that may materially affect your rights or status on our site.
 
-Your non-personally identifying demographic information is used to personalize your experience, allow other members to find you through a search, allow us to forward you further search results, to compose your personal profile - which is associated with a pseudonymous identity you have created - and to deliver targeted advertising and promotional offers to you from us and from external companies that are of the highest relevance to your demographic profile. Lavalife promotional offers and service information maybe sent to your contact email from time to time as well as to your Lavalife mailbox. In respect of all other promotions, only your Lavalife mail box, and not your contact email or other contact information may be made available to other members or organizations unless you have initiated or opted in to receive information or emails from the member or organization. 
+Your non-personally identifying demographic information is used to personalize your experience, allow other members to find you through a search, allow us to forward you further search results, to compose your personal profile—which is associated with a pseudonymous identity you have created—and to deliver targeted advertising and promotional offers to you from us and from external companies that are of the highest relevance to your demographic profile. Lavalife promotional offers and service information maybe sent to your contact email from time to time as well as to your Lavalife mailbox. In respect of all other promotions, only your Lavalife mailbox, and not your contact email or other contact information may be made available to other members or organizations unless you have initiated or opted in to receive information or emails from the member or organization. 
 
-In the event that you decide to become a Full Member of Lavalife community, you will be asked for your financial information (like credit card number) which cannot be read by others when you initiate your order through a secured system. You will know you are in secure mode when the tiny padlock icon - located at the bottom of your browser - appears "locked". 
+In the event that you decide to become a Full Member of Lavalife's community, you will be asked for your financial information (like your credit card number) , which cannot be read by others when you initiate your order through a secured system. You will know you are in secure mode when the tiny padlock icon—located at the bottom of your browser—appears "locked.” 
 
 The personally identifiable information we collect from you is used for internet review and to improve the content and functionality of our web server or customize the layout of our pages for each individual member. Additionally, we may, from time to time, use this information to identify other members that fit your search criteria and to contact you with the profiles of those members or to provide other members with your profile. The specific information we collect is not shared with other organizations and we will never release your personally identifiable information to an external organization without your prior consent except for the purposes of validating credit information and collecting debts. We may disclose your personally identifiable information if we reasonably believe we are required to do so by operation of law, which may include, but is not limited to a judicial proceeding, court order, or legal process served on Lavalife.
 
-Although Lavalife makes use of up to date technology in order to protect your pictures and video recordings from being copied or captured by unauthorized third parties, please keep in mind that we cannot ensure complete protection. When we use your pictures in our service or our marketing materials we include the Lavalife logo to serve as notice to third parties not to copy or use the pictures. The presence of this logo, or watermark does not in anyway imply copyright or other proprietary rights in and to the picture by Lavalife and is merely provided to discourage the unauthorized use of the picture.
+Although Lavalife makes use of up-to-date technology in order to protect your pictures and video recordings from being copied or captured by unauthorized third parties, please keep in mind that we cannot ensure complete protection. When we use your pictures in our service or our marketing materials we include the Lavalife logo to serve as notice to third parties not to copy or use the pictures. The presence of this logo, or watermark does not in anyway imply copyright or other proprietary rights in and to the picture by Lavalife and is merely provided to discourage the unauthorized use of the picture.
 
 **How long do you keep the information I've given you?**
 
-We keep the information you have given us for as long as you are a member on the siteor for as long as we are required to do so by law, which ever is longer.
+We keep the information you have given us for as long as you are a member on the site or for as long as we are required to do so by law, which ever is longer.
 
 **Can I change the information I have already given you?**
 
@@ -178,21 +184,21 @@ Any such request may also be made by contacting the Lavalife Privacy Officer at 
 
 Our members communicate with each other through instant messages and onsite mail. While we do not, as a rule, moderate or monitor members' private exchanges, we reserve the right to do so if we suspect users of being under 18 or of using our service for the purpose of solicitation or any other violation of our terms of use or Privacy Policy. Member submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site.
 
-Members may choose to participate in community polls. The results of these polls are tracked by gender only and do not reveal any personal identifiable information linked to the individual voters.
+Members may choose to participate in community polls. The results of these polls are tracked by gender only and do not reveal any personally identifiable information linked to the individual voters.
 
 **What security features do you have?**
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). SSL is the leading security protocol on the Internet, it ensures that information being transferred over the network is private through a process called encryption. Once encrypted the information is an unintelligible code until it is decoded upon arrival at the authorized destination. 
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). SSL is the leading security protocol on the Internet; it ensures that information being transferred over the network is private through a process called encryption. Once encrypted the information is an unintelligible code until it is decoded upon arrival at the authorized destination. 
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can contact us at the co-ordinates listed below.
+If you have any questions about security on our website, you can contact us at the coordinates listed below.
 
 **Advertisers**
 
 When you inquire about advertising opportunities on our site, you will be asked for contact information and information related to your advertising objectives. This information will be used to provide you with the business information you are seeking. Your information is only shared with internal staff and the external ad representation agencies that sell media space on the site, on our behalf. Lavalife sites may contain links to other sites not affiliated with Lavalife. Please note that these other sites may have privacy policies that differ from those of Lavalife. We have no control over any personal information that you provide to these sites.
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here.
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.allaboutcookies.org/manage-cookies/).
 
 **Associates**
 
@@ -200,7 +206,7 @@ When you register to become an Associate of our site, you will be asked for cont
 
 **Contacting us for privacy issues ONLY**
 
- _**Please note that this phone number will NOT connect you to a customer service representative.**_
+_**Please note that this phone number will NOT connect you to a customer service representative.**_
 
 Attn: Privacy Officer 
 
@@ -211,11 +217,11 @@ Etobicoke, Ontario, M8Z 5E3
 Fax: (416) 263-8338  
 Toll Free: 1-888-265-1633
 
-[Click here to send us your question or concern](https://web.archive.org/web/20150324190411id_/https://www.lavalife.com/contact-us.html)
+[Click here to send us your question or concern](https://web.archive.org/web/20150905115737id_/http://www.lavalife.com/contact-us.html)
 
-This Agreement is effective April 1, 2011
+This Agreement is effective April 1, 2011.
 
-The SERVICE is defined as the Lavalife® group of communities including Manline® and Womanline™ .
+The SERVICE is defined as the Lavalife® group of communities including Manline® and Womanline™.
 
 Please read the following terms and conditions carefully, as they form the agreement between us. If you do not agree to these terms and conditions, you may not use the Service and should not proceed to register. By using the Service after the Effective Date above you are agreeing to be bound by this Agreement, including all amendments made to date.
 
@@ -225,7 +231,7 @@ This Agreement constitutes your agreement with Lavalife Ltd. with respect to you
 
 **Right to Use**
 
-Your right to use the Service is subject to any limitations, conditions and restrictions established by us from time to time, in our sole discretion. We may alter, suspend or discontinue any aspect of the Service at any time, including the availability of any Service feature, database or content. We may also impose limits on certain features and aspects of the Service or restrict your access to parts or all of the Service without notice or liability. If you are a non-resident of Canada then your right to access the Services, and in particular log-in or access any database, is limited and restricted to a location situated outside of Canada. Any use of a database by a non-resident of Canada from a location within Canada is expressly prohibited.
+Your right to use the Service is subject to any limitations, conditions and restrictions established by us from time to time, in our sole discretion. We may alter, suspend or discontinue any aspect of the Service at any time, including the availability of any Service feature, database or content. We may also impose limits on certain features and aspects of the Service or restrict your access to parts or all of the Service without notice or liability. If you are a non-resident of Canada then your right to access the Services, and in particular log in or access any database, is limited and restricted to a location situated outside of Canada. Any use of a database by a non-resident of Canada from a location within Canada is expressly prohibited.
 
 **Adult**
 
@@ -236,13 +242,13 @@ You represent, warrant and covenant that you are at least 18 years old.
 You agree to use the Service in accordance with the following Code of Conduct:
 
   1. You will keep all information provided to you through the Service as private and confidential and will not give such information to anyone without the permission of the person who provided it to you;
-  2. You will not use the Service to engage in any form of harassment or offensive behaviour, including but not limited to the posting of communications, pictures, videos or audio recordings which contain libellous, slanderous, abusive or defamatory statements, or racist, pornographic, obscene, or offensive language or images;
+  2. You will not use the Service to engage in any form of harassment or offensive behavior, including but not limited to the posting of communications, pictures, videos or audio recordings which contain libellous, slanderous, abusive or defamatory statements, or racist, pornographic, obscene, or offensive language or images;
   3. You will not forward chain letters through the Service;
   4. You will not use the Service to infringe the privacy rights, property rights, or any other rights of any person;
   5. You will not post or otherwise distribute messages, pictures or recordings or use the Service in any way which: 
     1. Violates, plagiarizes or infringes upon the rights of any third party, including but not limited to any copyright or trade-mark law, privacy or other personal or proprietary rights, including other intellectual property rights; or
     2. Is fraudulent, misleading or otherwise unlawful or violates any law;
-  6. you will not use the Service to distribute, promote or otherwise publish any material containing any solicitation for funds, advertising or solicitation for goods or services;
+  6. you will not use the Service to distribute or upload any virus, trojan horses or do anything else that might cause harm to the Service, Lavalife systems or to other members' systems in any way; and
   7. you will not use the Service to distribute or up load any virus, trojan horses or do anything else that might cause harm to the Service, Lavalife systems or to other members' systems in any way; and
   8. you will not post or transmit in any manner any contact information including, but not limited to, email addresses, "instant messenger" nicknames, telephone numbers, postal addresses, URLs, or full names through your publicly posted information.
 
@@ -254,15 +260,15 @@ Unless you indicate on your Preferences page that you do not want to participate
 
 **Membership Categories**
 
-Users of the Service may become "Guests", "Free Members" or "Full Members" of the Service. Guests are allowed access to a minimal level of the Service's features and are not charged by us for the use of the features they can access. Free Members are allowed to access more features of the Service than are Guests, but are not allowed access to all of the features that Full Members are allowed to access. Free Members are not charged by us for the features they can access. Full Members are provided with access to additional features of the Service that are not available to Guests or Free Members, but are restricted to certain communities and limited features.
+Users of the Service may become "Guests," "Free Members" or "Full Members" of the Service. Guests are allowed access to a minimal level of the Service's features and are not charged by us for the use of the features they can access. Free Members are allowed to access more features of the Service than are Guests, but are not allowed access to all of the features that Full Members are allowed to access. Free Members are not charged by us for the features they can access. Full Members are provided with access to additional features of the Service that are not available to Guests or Free Members, but are restricted to certain communities and limited features.
 
 **Fees and Payments**
 
-A Full Member receives a subscription giving access to the "paid features" of the Service in all three communities and certain other features. Members will be able to send unlimited e-mails and instant messages for as long as the Subscription remains active. In order to purchase a Subscription, you may make an online charge to a credit card account or pay by cash in accordance with our pricing policy for Subscriptions as posted on the Service from time to time. Prices are exclusive of applicable taxes, if any, including GST and HST. Lavalife will charge and collect sales tax on any purchase made from a Canadian credit card, drawn on a Canadian account and/or from a Canadian location or address (default). A Subscription is valid for either 30 days from the time of payment (one month package), 90 days (3 month package) or 180 days (6 month package) from the time of payment. Once purchased, and UNLESS CANCELLED, SUBSCRIPTIONS AUTOMATICALLY RENEW either for further 30 day periods, 90 day periods or 180 day periods, as the case may be, and are charged to the credit card originally used to purchase the Subscription. Not all payment options or methods are available in all geographic areas.
+A Full Member receives a subscription giving access to the "paid features" of the Service in all three communities and certain other features. Members will be able to send unlimited e-mails and instant messages for as long as the Subscription remains active. In order to purchase a Subscription, you may make an online charge to a credit card account or pay by cash in accordance with our pricing policy for Subscriptions as posted on the Service from time to time. Prices are exclusive of applicable taxes, if any, including GST and HST. Lavalife will charge and collect sales tax on any purchase made from a Canadian credit card, drawn on a Canadian account and/or from a Canadian location or address (default). A Subscription is valid for either 30 days from the time of payment (one month package), 90 days (3 month package) or 180 days (6 month package) from the time of payment. Once purchased, and UNLESS CANCELLED, SUBSCRIPTIONS AUTOMATICALLY RENEW either for further 30-day periods, 90-day periods or 180-day periods, as the case may be, and are charged to the credit card originally used to purchase the Subscription. Not all payment options or methods are available in all geographic areas.
 
 **CANCELLATION**
 
-Subscriptions may be cancelled at any time prior to the end of any 30 day period, 90 day period or 180 day period as the case may be, by selecting your reason for cancellation and clicking on the "submit" button within the preferences tab on the account page. Cancellation will be effective as of the next billing date as long as notice is given at least 24 hours prior to the end of the applicable 30, 90, 180 day period. If your usage of the Service is terminated because of a breach of this Agreement or if it is terminated for any reason, any unused Subscription time is automatically and immediately forfeited. THE PURCHASE OF A SUBSCRIPTION IS NON-REFUNDABLE. Once purchased the Subscription has no monetary value and only entitles you to use of paid features on the Service for the Subscription Period based on your selected subscription package for a period of 30 days, 90 days or 180 days as the case may be. In addition to paying the published price, the purchaser is responsible for paying all applicable taxes in connection with the purchase of the Subscription. We reserve the right to change our pricing policy at any time at our sole discretion. We also reserve the right to change the method of payment which is acceptable to us, at our sole discretion. You agree to pay or have paid all fees and charges incurred in connection with your membership with the Service (including any applicable taxes) at the rates in effect when the charges were incurred. ALL FEES AND CHARGES ARE NON-REFUNDABLE. You also are responsible for any fees or charges incurred to access the Service through an Internet access provider or other third party service, including but not limited to telephone charges. YOU, AND NOT WE, ARE RESPONSIBLE FOR PAYING ANY AMOUNTS BILLED TO YOUR CREDIT CARD BY A THIRD PARTY, WHICH WERE NOT AUTHORIZED BY YOU.
+Subscriptions may be cancelled at any time prior to the end of any 30-day period, 90-day period or 180-day period as the case may be, by selecting your reason for cancellation and clicking on the "submit" button within the preferences tab on the account page. Cancellation will be effective as of the next billing date as long as notice is given at least 24 hours prior to the end of the applicable 30, 90, or 180-day period. If your usage of the Service is terminated because of a breach of this Agreement or if it is terminated for any reason, any unused Subscription time is automatically and immediately forfeited. THE PURCHASE OF A SUBSCRIPTION IS NON-REFUNDABLE. Once purchased the Subscription has no monetary value and only entitles you to use of paid features on the Service for the Subscription Period based on your selected subscription package for a period of 30 days, 90 days or 180 days as the case may be. In addition to paying the published price, the purchaser is responsible for paying all applicable taxes in connection with the purchase of the Subscription. We reserve the right to change our pricing policy at any time at our sole discretion. We also reserve the right to change the method of payment which is acceptable to us, at our sole discretion. You agree to pay or have paid all fees and charges incurred in connection with your membership with the Service (including any applicable taxes) at the rates in effect when the charges were incurred. ALL FEES AND CHARGES ARE NON-REFUNDABLE. You also are responsible for any fees or charges incurred to access the Service through an Internet access provider or other third party service, including but not limited to telephone charges. YOU, AND NOT WE, ARE RESPONSIBLE FOR PAYING ANY AMOUNTS BILLED TO YOUR CREDIT CARD BY A THIRD PARTY, WHICH WERE NOT AUTHORIZED BY YOU.
 
 **Privacy and Use of Information**
 
@@ -321,15 +327,15 @@ This Agreement is entered into in Ontario, Canada. You agree that it will be gov
 
 You do not have the right to assign this Agreement or any of your rights to the Service to anyone. Lavalife has the right to assign any or all of its rights and duties under this Agreement or to the Service to any third party. At the election of Lavalife, if Lavalife's obligations hereunder are assumed by a third party, Lavalife shall be relieved of any and all liability under this Agreement.
 
-© Lavalife Ltd, 2006 - 2014
+© Lavalife Ltd, 2006 - 2015
 
-Subscriptions may be cancelled at any time prior to the end of any 30 day period, 90 day period or 180 day period as the case may be, by selecting your reason for cancellation and clicking on the "submit" button within the preferences tab on the account page. Cancellation will be effective as of the next billing date as long as notice is given at least 24 hours prior to the end of the applicable 30, 90, 180 day period. 
+Subscriptions may be cancelled at any time prior to the end of any 30-day period, 90-day period or 180-day period as the case may be, by selecting your reason for cancellation and clicking on the "submit" button within the preferences tab on the account page. Cancellation will be effective as of the next billing date as long as notice is given at least 24 hours prior to the end of the applicable 30, 90, or 180-day period.
 
 If your usage of the Service is terminated because of a breach of this Agreement or if it is terminated for any reason, any unused Subscription time is automatically and immediately forfeited. THE PURCHASE OF A SUBSCRIPTION IS NON-REFUNDABLE. 
 
-Once purchased the Subscription has no monetary value and only entitles you to use of paid features on the Service for the Subscription Period based on your selected subscription package for a period of 30 days, 90 days or 180 days as the case may be. In addition to paying the published price, the purchaser is responsible for paying all applicable taxes in connection with the purchase of the Subscription. We reserve the right to change our pricing policy at any time at our sole discretion. We also reserve the right to change the method of payment which is acceptable to us, at our sole discretion. 
+Once purchased the Subscription has no monetary value and only entitles you to use of paid features on the Service for the Subscription Period based on your selected subscription package for a period of 30 days, 90 days or 180 days as the case may be. In addition to paying the published price, the purchaser is responsible for paying all applicable taxes in connection with the purchase of the Subscription. We reserve the right to change our pricing policy at any time at our sole discretion. We also reserve the right to change the method of payment, which is acceptable to us, at our sole discretion.
 
-You agree to pay or have paid all fees and charges incurred in connection with your membership with the Service (including any applicable taxes) at the rates in effect when the charges were incurred. ALL FEES AND CHARGES ARE NON-REFUNDABLE. You also are responsible for any fees or charges incurred to access the Service through an Internet access provider or other third party service, including but not limited to telephone charges. YOU, AND NOT WE, ARE RESPONSIBLE FOR PAYING ANY AMOUNTS BILLED TO YOUR CREDIT CARD BY A THIRD PARTY, WHICH WERE NOT AUTHORIZED BY YOU.
+You agree to pay or have paid all fees and charges incurred in connection with your membership with the Service (including any applicable taxes) at the rates in effect when the charges were incurred. ALL FEES AND CHARGES ARE NON-REFUNDABLE. You are also responsible for any fees or charges incurred to access the Service through an Internet access provider or other third-party service, including but not limited to telephone charges. YOU, AND NOT WE, ARE RESPONSIBLE FOR PAYING ANY AMOUNTS BILLED TO YOUR CREDIT CARD BY A THIRD PARTY, WHICH WERE NOT AUTHORIZED BY YOU.
 
 Do you have a question that wasn’t included in our FAQ or wish to speak with a Customer Service Representative? Please fill out the form to send us an email or call:
 
