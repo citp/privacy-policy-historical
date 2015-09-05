@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sixsenses.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424004802id_/http%3A//www.sixsenses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixsenses.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080741id_/http%3A//www.sixsenses.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Six Senses Hotels Resorts Spas
+# Luxury Spa Hotels, Five Star Resort - Six Senses Privacy Policy
 
 Six Senses Hotels Resorts Spas, which operates resorts and spas throughout the world under both the “Six Senses” and “Evason” brands, is comprised of a family of companies (collectively referred to as "Six Senses", "we", "our" or "us"), including Sustainable Luxury Mauritius Limited, which owns the sixsenses.com site (the “Site”).   This privacy policy contains information on how Six Senses collects, uses, and shares information collected from you as well as how such information is protected from unauthorized access.  This privacy policy only covers the Site.   By using the Site, you agree that Six Senses may collect, use, and share information consistent with this privacy policy. 
 
