@@ -1,62 +1,858 @@
-<!--The following is the downloaded HTML source of the singlehop.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315024648id_/https%3A//www.singlehop.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the singlehop.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905195845id_/https%3A//www.singlehop.com/legal/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://script.crazyegg.com/pages/scripts/0007/8696.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/d26b23bc-0b96-49c9-95d5-e9589c7d8592.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-83K3"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQOVVVaGwcEUlRXDwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-		<meta name="viewport" content="width=1200">
+<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="https://d31y97ze264gaa.cloudfront.net/assets/st/js/st.js"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/d26b23bc-0b96-49c9-95d5-e9589c7d8592.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-83K3"></script><script type="text/javascript" async="" src="https://s.po.st/static/v3/post-widget.js#publisherKey=qak4a8i8diko9bvacr9n"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQOVVVaGwcEUlRXDwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document;t(2);var f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 						<title>Privacy Policy | SingleHop</title>
 				<meta name="title" content="Privacy Policy | SingleHop">
 				<meta name="description" content="Please take a moment to read our privacy policy and see how we protect you and your data from third parties.">		<link rel="shortcut icon" href="https://www.singlehop.com/wp-content/themes/singlehop/favicon.ico">
 		<link rel="profile" href="//gmpg.org/xfn/11">
 		<link rel="pingback" href="https://www.singlehop.com/xmlrpc.php">
 		<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6045692/719644/css/fonts.css">
-		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/live-chat.css">
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/live-chat.css?1441483026">
 		<!--[if lte IE 9]>
-		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/ie.css"/>
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/ie.css?1441483026"/>
 		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/html5shiv.js"></script>
 		<![endif]-->
 		<script type="text/javascript">
 			site_url = "https://www.singlehop.com";
-			var page_section = "";
 		</script>
-		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/global_v_15.css">
-		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/inner_v_15.css">
+		<script type="text/javascript">
+				var page_section = "Company";
+				var responsive_auto_select = "why-singlehop";
+			</script>		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/global_v_15.css?1441483026">
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/inner_v_15.css?1441483026">
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/owl.carousel.css">
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/owl.theme.css">
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/slick-theme.css">
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/slick.css">
 		
 			<script type="text/javascript">
 				var current_geoip_country = "USA";
-				var ddData2 = [{"country":"China","text":"China","selected":false,"value":"4001203195 ","local":"","country_short_name":"CN","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_china.jpg"},{"country":"Colombia","text":"Colombia","selected":false,"value":"57-13819842","local":"","country_short_name":"CO","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_columbia.jpg"},{"country":"Brazil","text":"Brazil","selected":false,"value":"551139588045","local":"","country_short_name":"BR","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_brazil.jpg"},{"country":"Norway","text":"Norway","selected":false,"value":"47-85295497","local":"","country_short_name":"NO","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_norway.jpg"},{"country":"Netherlands","text":"Netherlands","selected":false,"value":"31-858880301","local":"","country_short_name":"NL","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_netherlands.jpg"},{"country":"Italy","text":"Italy","selected":false,"value":"39-199243116","local":"","country_short_name":"IT","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_italy.jpg"},{"country":"Ireland","text":"Ireland","selected":false,"value":"353-766805073","local":"","country_short_name":"IE","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_ireland.jpg"},{"country":"Greece","text":"Greece","selected":false,"value":"30-2111983401","local":"","country_short_name":"GR","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_greece.jpg"},{"country":"Germany","text":"Germany","selected":false,"value":"49-305683700512","local":"","country_short_name":"GE","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_germany.jpg"},{"country":"Finland","text":"Finland","selected":false,"value":"358-753263467","local":"","country_short_name":"FI","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_finland.jpg"},{"country":"Denmark","text":"Denmark","selected":false,"value":"45-78772931","local":"","country_short_name":"DE","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_denmark.jpg"},{"country":"Belgium","text":"Belgium","selected":false,"value":"32-78480338","local":"","country_short_name":"BE","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_belgium.jpg"},{"country":"Austria","text":"Austria","selected":false,"value":"43-720882773 ","local":"","country_short_name":"AT","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_austria.jpg"},{"country":"Canada","text":"Canada","selected":false,"value":"1 (888) 473-7024","local":"","country_short_name":"CA","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_ca.jpg"},{"country":"uk","text":"UK","selected":false,"value":"0 (808) 120-2343","local":"","country_short_name":"UK","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_uk.jpg"},{"country":"Mexico","text":"Mexico","selected":false,"value":"01 (800) 681-1819","local":"","country_short_name":"MX","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_mx.jpg"},{"country":"France","text":"France","selected":false,"value":"0 (800) 910978","local":"","country_short_name":"FR","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_fra.jpg"},{"country":"Bulgaria","text":"Bulgaria","selected":false,"value":"00 (800) 115-1127","local":"312-447-2580","country_short_name":"BG","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_bg.jpg"},{"country":"Australia","text":"Australia","selected":false,"value":"1 (800) 440-846","local":"312-447-2580","country_short_name":"AU","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_au.jpg"},{"country":"India","text":"India","selected":false,"value":"000-800-100-4264","local":"","country_short_name":"IND","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_india1.jpg"},{"country":"USA","text":"USA","selected":true,"value":"866-349-1027","local":"312-386-6210","country_short_name":"US","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_usa.jpg"}];
-			</script>		<script>var captch_html= '<div class="captcha H" rel="f0e6914c40006f9254f3f964edcf10d0"></div><div class="captcha C" rel="8b23716b7bceb1123ebe2457a756dc13"></div><div class="captcha K" rel="7ab8464df372307c1bcce9b2a043415a"></div><div class="captcha J" rel="571df53e6b6fc55ba413313a42bb4cf5"></div><div class="captcha B" rel="b894852d14bf5feb882fbb5ffa99c15e"></div><div class="captcha Q" rel="cc23301d29ab16eab705b35856f3c415"></div>'</script><link rel="alternate" type="application/rss+xml" title="SingleHop » Feed" href="https://www.singlehop.com/feed/">
+				var ddData2 = [{"country":"China","text":"China","selected":false,"value":"4001203195 ","local":"","country_short_name":"CN","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_china.jpg"},{"country":"Colombia","text":"Colombia","selected":false,"value":"57-13819842","local":"","country_short_name":"CO","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_columbia.jpg"},{"country":"Brazil","text":"Brazil","selected":false,"value":"551139588045","local":"","country_short_name":"BR","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_brazil.jpg"},{"country":"Germany","text":"Germany","selected":false,"value":"49-305683700512","local":"","country_short_name":"GE","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_germany.jpg"},{"country":"Canada","text":"Canada","selected":false,"value":"1 (888) 473-7024","local":"","country_short_name":"CA","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_ca.jpg"},{"country":"uk","text":"UK","selected":false,"value":"0 (808) 120-2343","local":"","country_short_name":"UK","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_uk.jpg"},{"country":"Mexico","text":"Mexico","selected":false,"value":"01 (800) 681-1819","local":"","country_short_name":"MX","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_mx.jpg"},{"country":"France","text":"France","selected":false,"value":"0 (800) 910978","local":"","country_short_name":"FR","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_fra.jpg"},{"country":"Bulgaria","text":"Bulgaria","selected":false,"value":"00 (800) 115-1127","local":"312-447-2580","country_short_name":"BG","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_bg.jpg"},{"country":"Australia","text":"Australia","selected":false,"value":"1 (800) 440-846","local":"312-447-2580","country_short_name":"AU","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_au.jpg"},{"country":"India","text":"India","selected":false,"value":"000-800-100-4264","local":"","country_short_name":"IND","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_india1.jpg"},{"country":"USA","text":"USA","selected":true,"value":"866-817-2811","local":"312-447-2580","country_short_name":"USA","imageSrc":"https:\/\/www.singlehop.com\/wp-content\/uploads\/2014\/06\/flag_usa.jpg"}];
+			</script>		<script>var captch_html= '<div class="captcha J" rel="04bd64aa169322e24617af6589d73936"></div><div class="captcha Q" rel="05af582963d938835b53d24582fdfc20"></div><div class="captcha C" rel="b29a53bb3f9d3711ee62f55f62abcbb0"></div><div class="captcha B" rel="3f616bcb8ecb6fad8367737ff0cbcf81"></div><div class="captcha K" rel="a65a51fa1f2f7143532f95b84b8aa55d"></div><div class="captcha H" rel="a59a7111f9162649a81a5bae734ed1f9"></div>'</script><link rel="alternate" type="application/rss+xml" title="SingleHop » Feed" href="https://www.singlehop.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="SingleHop » Comments Feed" href="https://www.singlehop.com/comments/feed/">
-<link rel="stylesheet" id="singlehop-style-css" href="https://www.singlehop.com/wp-content/themes/singlehop/style.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="sh-captcha-style-css" href="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-form-captcha/style.css?ver=4.0.1" type="text/css" media="all">
-<link rel="stylesheet" id="sh-servers-style-css" href="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-servers/sh-servers.css?ver=4.0.1" type="text/css" media="all">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.singlehop.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.singlehop.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.4" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="post-plugin-css" href="https://www.singlehop.com/wp-content/plugins/post/post-plugin.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="singlehop-style-css" href="https://www.singlehop.com/wp-content/themes/singlehop/style.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="sh-custom-page-style0-css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/about_v_15.css?ver=1441483026" type="text/css" media="all">
+<link rel="stylesheet" id="sh-captcha-style-css" href="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-form-captcha/style.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="sh-servers-style-css" href="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-servers/sh-servers.css?ver=4.2.4" type="text/css" media="all">
 <script type="text/javascript" src="https://cdn.bizible.com/scripts/bizible.js" async=""></script>
 <script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/js/jquery-1.11.1.min.js"></script>
-<script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-form-captcha/sh-captcha.js?ver=4.0.1"></script>
+<script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-form-captcha/sh-captcha.js?ver=4.2.4"></script>
 <script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-servers/sh-servers.js?ver=1"></script>
 <script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-hubspot/sh-hubspot.js?ver=1"></script>
-<script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-salesforce/sh-salesforce.js?ver=4.0.1"></script>
+<script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-salesforce/sh-salesforce.js?ver=4.2.4"></script>
 <script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-leap-acc/leap-acc.js?ver=1"></script>
 <script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/plugins/sh-resource/sh-resources.js?ver=1.0"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.singlehop.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.singlehop.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.0.1">
-<link rel="canonical" href="https://www.singlehop.com/legal/privacy-policy/">
+<meta name="generator" content="WordPress 4.2.4">
+<script type="text/javascript">
+(function ()
+{
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = ('https:' == document.location.protocol ? 'https://s' : 'http://i')
+	+ '.po.st/static/v3/post-widget.js#publisherKey=qak4a8i8diko9bvacr9n';
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+})();
+</script><link rel="canonical" href="https://www.singlehop.com/legal/privacy-policy/">
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/sub-banners.css">
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/sub-banners.css?1441483026">
 		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/featherlight.gallery.min.css">
 		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/featherlight.min.css">
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/fluid_singlehop.css?1441483026">
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/fluid_customizer.css?1441483026">
+		<link rel="stylesheet" type="text/css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/mobile_menu.css?1441483026">
+
+		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/owl.carousel.js"></script>
+		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/slick.js"></script>
 		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/jquery.dcmegamenu.1.3.3.js"></script>
 		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/featherlight.gallery.min.js"></script>
 		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/featherlight.min.js"></script>
-		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/common.js"></script>
+		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/stacktable.js"></script>
+		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/common.js?1441483026"></script>
 		<script>
 			var site_url = "https://www.singlehop.com"
 		</script>
+		<script>
+			var __concurra_queue =  {'setToken':'AKuFKwBskk'};
+		</script>
+		<script src="https://lab.concurra.com/tracker/tracker.js"></script>
 	</head>
-	<body itemscope="" itemtype="http://schema.org/WebPage" class="page page-id-10001570 page-child parent-pageid-10001544 page-template page-template-templatescommon-subpage-php custom-background">
-		<article class="fullWraper">
-			<div class="custom-hide">
-				<!-- Google Tag Manager -->
+	<body itemscope="" itemtype="http://schema.org/WebPage" class="page page-id-10001570 page-child parent-pageid-10001544 page-template page-template-templates page-template-common-subpage page-template-templatescommon-subpage-php">
+		<div class="fullWraper">
+			<div class="hidden-lg mobile_nav_menu_wrap">
+			<a class="sm_logo_sh" href="/">
+				<img src="https://www.singlehop.com/wp-content/themes/singlehop/img/sm_nav/logo.png" alt="SingleHop">
+			</a>
+			<div id="dl-menu" class="dl-menuwrapper">
+				<button class="dl-trigger">Open Menu</button>
+				<ul class="dl-menu"><li>
+    <a href="/why-singlehop/">Why SingleHop</a>
+</li><li class="managed-hosting">
+    <a href="javascript:;;" class="arrow_strict">Managed Hosting</a>   
+    <ul class="dl-submenu arrow_remover">
+        <li class="">
+            <a href="javascript:;;" class="arrow_strict">Hosting</a>
+            <ul class="dl-submenu arrow_remover">
+                <li>
+                    <a href="/managed-hosting/">Fully Managed Hosting</a>
+                    <a href="/managed-azure/">Managed Azure</a>
+                </li>
+            </ul>
+        </li>
+        <li class="">
+            <a href="javascript:;;" class="arrow_strict">Solutions</a>
+            <ul class="dl-submenu arrow_remover">
+                <li>
+<a href="/managed-solutions/">Managed Solutions</a>
+                    <a href="/managed-solutions/compliant-hosting/">Compliance Solutions</a>
+                    <a href="/managed-solutions/baas/">Veeam Backup Repository</a>
+                    <a href="/managed-solutions/draas/">Disaster Recovery</a>
+                    <a href="/managed-solutions/hybrid-cloud-hosting/">Hybrid Cloud Solutions</a>
+                <a href="/managed-dedicated-environments/">Managed Environments</a>
+                </li>
+            </ul>
+        </li>
+        <li class="">
+            <a href="javascript:;;" class="arrow_strict">Services</a>
+            <ul class="dl-submenu arrow_remover">
+                <li>
+<a href="/server-hosting/related-managed-services/">Services</a>
+                    <a href="/server-hosting/related-managed-services/system-administration/">System Administration</a>
+                    <a href="/server-hosting/related-managed-services/backup-services/">Backups</a>
+                    <a href="/server-hosting/related-managed-services/monitoring-services/">Monitoring &amp; Response</a>
+                    <a href="/server-hosting/related-managed-services/server-security-servers/">Security &amp; Compliance</a>
+                    <a href="/server-hosting/related-managed-services/network-bandwidth-services/">Networking</a>
+                    <a href="/secure-hosting/server-security/">Security</a>
+                </li>
+            </ul>
+        </li>
+    </ul>    
+</li><li class="">
+    <a href="javascript:;;">Infrastructure Products</a>
+    <ul class="dl-submenu arrow_remover">
+        <li>
+            <a href="/infrastructure-products/">Infrastructure Products</a>
+            <a href="/server-hosting/dedicated-servers/">Bare Metal Servers</a>
+            <a href="/server-hosting/virtual-servers/">Virtual Servers</a>
+            <a href="/private-cloud-hosting/">Hosted Private Clouds</a>
+        </li>
+    </ul>
+</li><li class="">
+    <a href="javascript:;;">ServiceFirst Support</a>
+    <ul class="dl-submenu arrow_remover">
+        <li>
+            <a href="/support/">Support Overview</a>
+            <a href="/sla/">SLA and Guarantees</a>
+            <a href="http://ot.singlehop.com/">System Status</a>
+            <a href="https://leap3.singlehop.com/">Login to LEAP</a>
+            <a href="/resource-center/">Resources &amp; Downloads</a>
+            <a href="http://dropzonewiki.singlehop.com/index.php?title=Main_Page">API Documentation</a>
+            <a href="/about/contact/">Contact Support</a>
+        </li>
+    </ul>
+</li><li>
+						<a class="static_head" target="_blank" href="https://leap3.singlehop.com/"><strong>LOGIN to LEAP</strong></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/modernizr.custom.js"></script>
+		<script src="https://www.singlehop.com/wp-content/themes/singlehop/js/jquery.dlmenu.js"></script>
+		<script>
+			$(function() {
+				(typeof(responsive_auto_select) == "undefined" || responsive_auto_select === null || (!responsive_auto_select.trim())) ? bindDlMenu(false) : $(".dl-trigger").on("click", preBindDlMenu);
+			});
+			function preBindDlMenu(){
+				$(".dl-trigger").addClass("dl-active");
+				$(".dl-menu").addClass("dl-menuopen");
+				if($(".dl-menu li." + responsive_auto_select).length > 0){
+					$(".dl-menu").addClass("dl-subview");
+					$(".dl-menu li." + responsive_auto_select).addClass("dl-subviewopen");
+					($(".dl-menu li." + responsive_auto_select).hasClass("child")) ? $(".dl-menu li." + responsive_auto_select).closest("ul").parent().addClass("dl-subview") : "";
+				}
+				$(".dl-trigger").off("click", preBindDlMenu);
+				bindDlMenu(true);
+			}
+			function bindDlMenu(flag){
+				$("#dl-menu").dlmenu({
+					animationClasses : {classin : "dl-animate-in-2", classout : "dl-animate-out-2"}
+				});
+				setTimeout( function(){
+					(flag) ? $(".dl-trigger.dl-active").trigger("click") : "";
+				}, 400 );
+			}
+		</script>			<div class="fixed-header-wrap visible-lg" id="fixedHeaderWrap">
+				<div id="top-header">
+					<div class="main-wrapper">
+						<span class="learn-link">Enterprise <a href="/private-cloud-hosting/dedicated-private-clouds/">Private Cloud</a> &amp; <a href="/server-hosting/dedicated-servers/">Dedicated Servers</a> On Demand.</span>
+						<ul class="top-links">
+							<li><a href="/about/">About Us</a></li>
+							<li><a href="/partners/">Partner With Us</a></li>
+							<li><a href="/news-room/">Newsroom</a></li>
+							<li>
+								<form action="/search/" method="get">
+									<input name="q" type="search">
+								</form>
+							</li>
+							<li><a href="#" class="chat custom_live_chat">Chat</a></li>
+							<li><a href="/about/contact/" class="phone"></a></li>
+							<li>
+								<div class="flag-contnr" id="flag-contnr">
+									<span id="country_list"></span>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+				<div class="chat-box-normal" id="chat-window">
+					<div class="green-chat">
+						<span></span>
+						<a href="javascript:void(0)" class="close"></a>
+					</div>
+					<div class="chat-data">
+						<div class="head"><span>Hello.</span> Thanks for visiting.</div>
+						<p>Have questions about SingleHop?</p>
+						<p>I'm here to help.</p>
+						<div class="input-box">
+							<div class="live-chat-green-border">
+			<span>
+				<span>
+					<a href="javascript:;;" onclick="return SnapEngage.startLink();">
+						<span>CHAT WITH AN EXPERT</span>
+					</a>
+				</span>
+			</span>
+		</div>
+						</div>
+					</div>
+					<div class="chat-call">
+						<p>Call us toll free at <a class="theme_phone_rotation" href="javascript:;;">866.349.0689</a></p>
+					</div>
+				</div>
+				<header id="main-header" class="revised-main-header" itemscope="" itemtype="http://schema.org/WPHeader">
+					<div class="main-wrapper">
+						<div><a href="/" class="default"><img src="https://www.singlehop.com/wp-content/themes/singlehop/img/global/logo.png" alt="Singlehop LLC"></a></div>
+						<nav id="aim-dropdown-frame" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+							<ul id="menu-live-mockup-menu-0815" class="mega-menu"><li id="menu-item-10014666" class="table-drops service-support-menu-drop menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singlehop.com/servicefirst-support/"><strong>ServiceFirst™ Support</strong> </a><ul class="">
+    <li>
+        <div class="custom-width-maker">
+            <div class="pseodo-table">
+                <div class="cell">
+                    <h5><a href="/support/">Get Support Now</a></h5>
+                    <h5><a href="https://leap3.singlehop.com/">Login to LEAP3</a></h5>
+                    <h5><a href="/servicefirst-support/">ServiceFirst Overview</a></h5>
+                    <ul>
+                        <li><a href="/about/contact/">Contact Us</a></li>
+                        <li><a href="/sla/">SLA and Guarantees</a></li>
+                        <li><a href="http://ot.singlehop.com/">System Status</a></li>
+                        <li><a href="http://dropzonewiki.singlehop.com/index.php?title=Main_Page">API Documentation</a></li>
+                        <li><a href="/resource-center/">Resources &amp; Downloads</a></li>                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul></li>
+<li id="menu-item-10014137" class="table-drops infrastructure-menu-drop menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singlehop.com/infrastructure-products/"><strong>Infrastructure Products</strong> </a><ul class="">
+    <li>
+        <div class="custom-width-maker">
+            <div class="pseodo-table">
+                <div class="cell">
+                    <h5><a href="/infrastructure-products/">Infrastructure Products</a></h5>
+                    <ul>
+                        <li><a href="/server-hosting/dedicated-servers/">Bare Metal Servers</a></li>
+                        <li><a href="/server-hosting/virtual-servers/">Virtual Servers</a></li>
+                        <li><a href="/private-cloud-hosting/">Hosted Private Clouds</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul></li>
+<li id="menu-item-10014659" class="table-drops managed-hosting-menu-drop menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singlehop.com/managed-hosting/"><strong>Managed Hosting</strong> </a><ul class="">
+    <li>
+        <div class="">
+            <div class="pseodo-table">
+                <div class="cell">
+                    <h5><a href="/managed-hosting/">Hosting</a></h5>
+                    <ul>
+                        <li><a href="/managed-hosting/">Fully Managed Hosting</a></li>
+                        <li><a href="/managed-azure/">Managed Azure</a></li>
+                    </ul>
+                </div>
+                <div class="cell cell-right">
+                    <h5><a href="/managed-solutions/">Solutions</a></h5>
+                    <ul>
+                        <li><a href="/managed-solutions/compliant-hosting/">Compliance Solutions</a></li>
+                        <li><a href="/managed-solutions/baas/">Veeam Backup Repository</a></li>
+                        <li><a href="/managed-solutions/draas/">Disaster Recovery</a></li>
+                        <li><a href="/managed-solutions/hybrid-cloud-hosting/">Hybrid Cloud Solutions</a></li>
+                        <li><a href="/managed-dedicated-environments/">Managed Environments</a></li>
+                    </ul>
+                </div>
+                <div class="cell cell-right">
+                    <h5><a href="/server-hosting/related-managed-services/">Services</a></h5>
+                    <ul>
+                        <li><a href="/server-hosting/related-managed-services/system-administration/">System Administration</a></li>
+                        <li><a href="/server-hosting/related-managed-services/backup-services/">Backups</a></li>
+                        <li><a href="/server-hosting/related-managed-services/monitoring-services/">Monitoring &amp; Response</a></li>
+                        <li><a href="/server-hosting/related-managed-services/server-security-servers/">Security &amp; Compliance</a></li>
+                        <li><a href="/server-hosting/related-managed-services/network-bandwidth-services/">Networking</a></li>
+                        <li><a href="/secure-hosting/server-security/">Security</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </li>
+</ul></li>
+<li id="menu-item-10014134" class="table-drops why-sh-menu-drop menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singlehop.com/why-singlehop/"><strong>Why SingleHop</strong> </a></li>
+</ul>						</nav>
+					</div>
+					<div class="popover pseudo-popover-bg"></div>
+				</header>
+			</div>
+
+	
+					<section class="sub-banner-frame datacenter">
+						<div class="main-wrapper">
+							<div class="left-block">
+								<h2>PRIVACY POLICY</h2>
+							</div>
+						</div>
+					</section>
+<div class="sub-navigation-section">
+    <div class="main-wrapper">
+        <nav class="sub-nav-revised">
+            <ul>
+                <li class="active-section" style="min-width:270px;"><a href="/about/"><h1>Company</h1></a></li>
+                <li data-rel-identifier="10001544"><a href="/legal/">Legal</a></li>
+                <li data-rel-identifier="10001241"><a href="/about/contact/">Company Information</a></li>
+                <li data-rel-identifier="10001529"><a href="/support/">Service &amp; Support</a></li>
+                <li data-rel-identifier="10006445"><a href="/enterprise-on-demand/">Platform Advantages</a></li>
+            </ul>
+            
+                    <a class="green-white-arrow custom_live_chat" href="javascript:;;">
+                        <span>Contact An Expert</span>
+                    </a>
+                
+        </nav>
+    </div>
+</div>
+<section class="inner-data-wrap investors">
+    <div class="main-wrapper">
+        <div class="leftcntnr">
+            <h2>Privacy Policy</h2>
+            <div class="left-data-block">
+                <div class="investors-wrap">
+                    <div class="textWrapper w90">
+                        <p>This Privacy Policy applies to the information that SingleHop LLC (“SingleHop”) collects through SingleHop.com and other websites, online features,
+                        applications and widgets owned or controlled by SingleHop and that post a link to this Privacy Policy (collectively, the “Site”). This Privacy Policy
+                        only covers information collected at the Site and does not cover any information collected offline by SingleHop (unless specifically stated otherwise)
+                        and does not apply to the services we provide to clients. Please review this Privacy Policy carefully.</p>
+                        <h4>SUMMARY</h4>
+                        <p>WE FULLY DESCRIBE OUR PRIVACY PRACTICES BELOW IN THIS PRIVACY POLICY. THIS SUMMARY HIGHLIGHTS SOME IMPORTANT INFORMATION REGARDING THE INFORMATION WE COLLECT
+                        AND OUR USE AND SHARING OF YOUR INFORMATION; BUT PLEASE REVIEW OUR FULL PRIVACY POLICY BEFORE USING OUR SITE.</p>
+                        <p>In connection with serving content and providing analytics and advertising services, third parties may collect certain information about your visits to this
+                        and other websites and we may receive information regarding the use of the Site and the effectiveness of our advertisements. These advertising networks,
+                        advertisers, advertising agencies, analytics service providers, and other vendors may set and access their own tracking technologies (including cookies and
+                        web beacons) and they may otherwise collect or have access to information about you and your online browsing activities.</p>
+                        <p>The Site is operated in the United States. If you are located outside the United States and use the Site or provide us with any information, you consent to the
+                        transfer, processing, and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the
+                        country where you reside or are a citizen SingleHop complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by
+                        the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+                        SingleHop has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+                        If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.
+                        To learn more about the Safe Harbor program, and to view SingleHop’s certification, please visit
+                        <a href="http://www.export.gov/safeharbor/" class="float-none">www.export.gov/safeharbor/</a></p>
+                        <h4>INFORMATION WE COLLECT THROUGH THE SITE</h4>
+                        <h4>Information You Provide to the Site</h4>
+                        <p>SingleHop may ask you to provide “Personal Information” (information that identifies you as a specific individual, such as, but not limited to, your name
+                        or e-mail address and other contact information), and information necessary to facilitate financial transactions between SingleHop and you (such as, but not
+                        limited to, financial account numbers). We may also collect demographic information (such as, but not limited to, your age, occupation, postal code, or similar
+                        information), certain information about your preferences and interests, customer questions and support information, and other information collected through surveys,
+                        chat features, and polls made available on the Site. If we combine these types of other information about you with Personal Information, we will treat the combined
+                        information as Personal Information under this Privacy Policy.</p>
+                        <p>The Site is a general audience web site. The Site does not knowingly collect any Personal Information from children younger than the age of thirteen (13),
+                        and SingleHop will delete any information later determined by us to be collected from a user younger than age thirteen (13).</p>
+                        <h4>User Content</h4>
+                        <p>The Site may provide you the opportunity to participate and post content publicly through interactive features. You may choose, through such features or
+                        otherwise, to submit or post reviews, comments, suggestions related to SingleHop’s services, or post free-form comments on its blog (collectively, “User Content”).
+                        Please note that certain information, such as your name and state of residence, and a link to any website URL you provide may be publicly displayed on the Site
+                        along with your User Content. However, SingleHop will not publish your e-mail address with these comments.</p>
+                        <p>Note that any User Content you post is public — others will have access to your User Content and may read it, see it, use it, and/or share it with third parties.
+                        If you choose to voluntarily disclose Personal Information in your User Content, that information will be considered public information and the protections of this
+                        Privacy Policy will not apply. If you submit User Content, it may be published online or offline (including on the Site, on-air, in a DVD, or any other format
+                        currently existing or later developed). In addition, we may use your User Content and any excerpt from your User Content in connection with our advertising,
+                        marketing, publicity, and promotional activities.</p>
+                        <h4>Information Third Parties Provide About You</h4>
+                        <p>We may also receive information about you from third parties. For example, if you are on another website that provides information about hosting service
+                        providers like SingleHop and you request to receive information from SingleHop, that website will forward your contact and other information to us so that we may
+                        contact you as requested. Third parties may also provide information about you in connection with a marketing arrangement we may have with those third parties.</p>
+                        <p>We also may supplement the information we collect with outside records from third parties in order to provide you with the information, goods, or services
+                        you have requested to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we
+                        believe may be of interest to you. We may combine the information we receive from those other outside sources with information we collect through the Site.
+                        In those cases, we will apply this Privacy Policy to the combined information.</p>
+                        <h4>Information We Collect Automatically; Cookies and Similar Technologies</h4>
+                        <p>In addition to any Personal Information or other information that you choose to submit to the Site, we and our third-party service providers, including any
+                        third-party content, advertising, and analytics providers, may use a variety of technologies that automatically or passively collect certain information about
+                        your use of the Site whenever you visit or interact with the Site (“Site Usage Information”). Site Usage Information may include the browser and operating system
+                        you are using, the URL or advertisement that referred you to our Site, the search terms you entered into a search engine that led you to our Site (if applicable),
+                        actions you take on the Site and all of the areas within our Site that you visit, and the time of day you visited the Site, among other information. Site Usage
+                        Information may also include the unique IP address or other unique identifiers (“Device Identifier”) for any computer, mobile phone, or other device
+                        (any, a “Device”) used to access the Site. A Device Identifier is a unique value that is automatically assigned to your Device, so that our servers can
+                        identify your Device by its Device Identifier.</p>
+                        <p>We may use Site Usage Information for a variety of purposes, including enhancing or otherwise improving the Site and our products and services. We may associate
+                        Site Usage Information with you as a specific and identifiable person. When we do so, we treat the combined information as Personal Information.</p>
+                        <p>The methods used to collect Site Usage Information may include the following:</p>
+                        <p><strong>Cookies.</strong> A cookie is a data file placed on a Device when it is used to visit the Site or otherwise access our online content. Cookies may be
+                        used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages. A Flash cookie is a data
+                        file placed on a Device via the Adobe Flash plugin that may be built in to or downloaded by you to your Device. Flash cookies may be used for various purposes,
+                        including, without limitation, enabling a Flash feature and remembering your preferences. For more information about Flash and the privacy choices Adobe offers,
+                        visit <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" class="float-none">
+                        www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a>.
+                        If you choose to disable cookies or to adjust your Flash privacy settings on your Device, some features of the Site may not function properly.</p>
+                        <p><strong>Web Beacons or Pixels.</strong> Web programming codes called web beacons (also known as “1×1 GIFs”, “clear images,” “pixels,” “tracking pixels,”
+                        or “tracking tags”) may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming
+                        code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without
+                        limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails that were sent were actually opened, or to count
+                        how many particular articles or links were actually viewed.</p>
+                        <p><strong>Embedded Scripts.</strong> An embedded script is programming code that is designed to collect information about your interactions with the Site,
+                        such as the specific links you click on, where your mouse moves, what advertising you clicked to direct you to the Site, and other information that is relevant.
+                        The code is temporarily downloaded onto your Device from our server or a third-party service provider, is active only while you are connected to the Site, and is
+                        deactivated or deleted thereafter. Embedded Scripts may collect information that you enter into forms on our website, which may be used by SingleHop for purposes
+                        consistent with this Privacy Policy.</p>
+                        <p>In addition, we may use a variety of other technologies that collect similar information for security and fraud detection purposes.</p>
+                        <h4>HOW WE USE THE INFORMATION COLLECTED</h4>
+                        <p>SingleHop may share non-personally identifiable information, such as aggregated user statistics, with third parties in our discretion. We do not share your
+                        Personal Information with third parties for those third parties’ marketing purposes unless we first provide you with the opportunity to opt-in or opt-out of such
+                        sharing. We may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information, with your
+                        consent, as described in this Privacy Policy, and in the following circumstances:</p>
+                        <h4>HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES</h4>
+                        <p>SingleHop may use information collected through the Site, including Personal Information and Site Usage Information, to: (1) allow you to use the Site and to
+                        provide related service, including responding to your questions and comments; (2) fulfill transactions and process your registration, orders and payments, including
+                        verifying the information you provide is accurate and active; (3) administer and develop our business relationship with you and the company you represent; (4)
+                        tailor content, recommendations and offers we display to you on the Site and elsewhere online; (5) provide you with information, products or services that you
+                        have requested or agreed to receive or that we otherwise believe will interest you, including, information and special offers from us, our advertisers, and our
+                        third party business partners; (6) conduct internal analyses, such as surveys and market research; (7) improve the Site, our products and services and for internal
+                        business purposes; (8) assess your employment application for a position with SingleHop and prepare related governmental and internal statistics reports; (9)
+                        contact you with administrative communications and, in our discretion, changes to Site policies; and (10) for purposes disclosed at the time you provide your
+                        information and as further described or permitted in this Privacy Policy; (11) to remember and restore your preferences when you return to the website; or (12)
+                        otherwise with your consent.</p>
+                        <h4>When You Agree to Receive Information from Third Parties or Request That We Share Your Information.</h4>
+                        <p>You may be presented with an opportunity to receive information and/or marketing offers from one or more third parties. If you agree at that time to have your
+                        Personal Information shared, your Personal Information will be disclosed to that third party (or parties) and will be subject to the privacy policy and practices
+                        of that third party. We are not responsible for the privacy policies and practices of third parties. If you later decide that you no longer want to receive
+                        communications from a third party, you will need to contact that third party directly. You also may request, sometimes through your use of an interactive feature
+                        or third-party application, that we share information about you with a third party and we will typically do so under those circumstances.</p>
+                        <h4>Third Parties Providing Services on our Behalf.</h4>
+                        <p>We may share information with third parties so that they may provide services to you, SingleHop, and the Site. Examples include conducting website usage analysis,
+                        sending e-mail or other communications on our behalf, providing sales and marketing assistance, or performing other administrative or support services.
+                        When we do so, the information is only to be used to provide services or help us provide services. Third-party systems used to deliver services to you may retain
+                        your information for a period of time after the services are provided.</p>
+                        <h4>Sweepstakes, Contests, and Promotions</h4>
+                        <p>We may offer sweepstakes, contests, and other promotions (any, a “Promotion”) that may require registration. By participating in a Promotion, you are agreeing
+                        to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s)
+                        of the Promotion to use your name, voice, likeness, or other indicia of persona in advertising or marketing associated with the Promotion. If you choose to enter
+                        a Promotion, your Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without
+                        limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules,
+                        such as on a winners list.</p>
+                        <h4>Administrative and Legal Reasons</h4>
+                        <p>We may transfer and disclose information, including your Personal Information, Usage Information, and your Device Identifier, to third parties: (i) to respond to
+                        subpoenas or other legal process or if in our opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an
+                        investigation; or (iii) to enforce applicable Site terms and policies; (iv) to respond to an emergency or otherwise to protect the safety, rights, property,
+                        or security of SingleHop, third parties, Site visitors, or the public. We may also use Device Identifiers to identify users, and may do so in cooperation with
+                        a court order or law enforcement agencies when legally compelled to do so.</p>
+                        <h4>Business Transfers</h4>
+                        <p>SingleHop may share information, including Personal Information, with its parent, subsidiaries, and affiliates, primarily for business and operational purposes.
+                        SingleHop may also disclose and transfer your information, including Personal Information: (i) to a subsequent owner, co-owner or operator of the Site or applicable
+                        database; or (ii) if SingleHop (or any of its affiliated, parent, or subsidiary companies) assigns its rights regarding any of your information to a third party;
+                        or (iii) in connection with a corporate merger, consolidation, restructuring, the sale of certain of our ownership interests, assets, or both, or other corporate
+                        change, including, without limitation, during the course of any due diligence process.</p>
+                        <h4>THIRD-PARTY ANALYTICS PROVIDERS AND AD SERVERS</h4>
+                        <p>The Site may contain content served by third parties and we work with vendors (including network advertisers, ad agencies, and analytics companies) to provide
+                        us with information regarding traffic on the Site, to serve advertisements, including our advertisements elsewhere online, and to provide us with information
+                        regarding the use of the Site and the effectiveness of our advertisements. For example, if you clicked on one of our advertisements that led you to the Site,
+                        our service provider(s) may be able to tell us information about your interaction, such as, but not limited to: which advertisement you clicked on, where you
+                        were viewing the advertisement, how often you viewed or clicked on it, and so forth. In connection with serving content and providing analytics and advertisement
+                        services, third parties may collect certain information about your visits to the Site or other websites. Some of these parties may collect Personal Information
+                        when you visit the Site or other websites or services. These third parties may set and access their own tracking technologies (including cookies and web beacons)
+                        and may otherwise collect or have access to your Device Identifier, Site Usage Information, and related information about you. Cookies and web beacons, including
+                        those set by third-party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many
+                        times, and to conduct research regarding the usefulness of certain advertisements to you. We may share Device Identifier and Site Usage Information about visitors
+                        with third-party advertising companies, analytics providers, and other vendors for similar purposes.</p>
+                        <p>While we may use a variety of service providers to perform advertising and analytics services, some of these companies are members of the Network Advertising
+                        Initiative (“NAI”) or the Digital Advertising Alliance (“DAA”) Self-Regulatory Program for Online Behavioral Advertising. You may want to visit
+                        <a href="http://www.networkadvertising.org/managing/opt_out.asp" class="float-none">www.networkadvertising.org/managing/opt_out.asp</a>,
+                        which provides information regarding targeted advertising and the “opt-out” procedures of NAI members. You may also want to visit or
+                        <a class="float-none" href="http://www.aboutads.info/choices/">www.aboutads.info/choices/</a>, which provides information regarding targeted advertising and offers
+                        an “opt-out” by participating companies in the DAA Self-Regulatory Program. Please note opting out through these mechanisms does not opt you out of being served
+                        advertising and not all online advertisers participate in these programs. You will continue to receive generic ads while visiting the Site and elsewhere online.</p>
+                        <h4>CHANGING YOUR INFORMATION, PREFERENCES, AND SUBSCRIPTIONS</h4>
+                        <p>You can correct or update some of the Personal Information you have provided to us several ways. If you are a customer, you can update your Personal Information
+                        by logging into LEAP and changing your profile in the system. If you are not yet a customer, then you may contact us via telephone (+1 312-447-2580) and request
+                        that we change your information. SingleHop will make good faith efforts to make requested changes in our active databases as soon as reasonably practicable.
+                        Note, however, that information you update or change may persist internally or for SingleHop’s administrative purposes. It is not always possible to completely
+                        remove or delete all of your information from our databases and residual data may remain on backup media or for other reasons. Also, if you have made any public
+                        postings, including User Content, these communications generally will not be removed. Users who receive a newsletter or other similar e-mails from us and who wish
+                        to remove themselves from the mailing list (i.e. opt out) can do so by following the link provided in an e-mail received. The Site may also offer an online
+                        mechanism for changing your preferences. However, please note that we reserve the right to send you certain communications relating to your use of our Site,
+                        service announcements, notices of changes to this Privacy Policy, or similar administrative or transactional messages, and these transactional account messages
+                        may be unaffected if you choose to opt-out from marketing communications.</p>
+                        <h4>THIRD-PARTY CONTENT, LINKS TO OTHER SITES, AND SITE CONTENT FOUND OUTSIDE OF THE SITE</h4>
+                        <p>Certain content on the Site may be hosted and served by third parties and the Site may contain links to third-party websites that SingleHop does not control.
+                        The Site may also contain certain third-party content or applications. These links and applications may use a SingleHop logo as part of a co-branding agreement.
+                        In addition, SingleHop widgets or other SingleHop content may be included on web pages and websites that are not associated with SingleHop and over which we have
+                        no control. These third parties may collect Site Usage Information through the use of their own cookies and web beacons, independently collect data or solicit
+                        Personal Information, and may have the ability to track your use of their sites and services. SingleHop is not responsible for the privacy practices employed by
+                        any third party.</p>
+                        <h4>APPLYING FOR A JOB THROUGH OUR SITE</h4>
+                        <p>If you apply for a job through the Site, we, or a human resources company assisting us, may ask you to provide self-identifying information (such as veteran
+                        status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission (“EEOC”), the Office of Federal
+                        Contract Compliance Programs (“OFCCP”), and similar state and local regulatory agencies. Providing self-identifying information is voluntary, but if you do provide
+                        us with that information, we may submit it to the EEOC, the OFCCP, and similar state and local regulatory agencies for business-related purposes, including
+                        responding to information requests, fulfilling regulatory reporting requirements, and defending against employment related complaints.</p>
+                        <h4>SECURITY</h4>
+                        <p>SingleHop takes commercially reasonable steps to protect your Personal Information. However, no data transmission over the Internet, wireless transmission,
+                        or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information we collect.
+                        You use our Site and provide us with your information at your own risk. Our employees are required to keep information covered by this Privacy Policy
+                        confidential – unless disclosure is authorized in this Privacy Policy, or by you.</p>                      
+                        <h4>USERS RESIDING OUTSIDE OF THE UNITED STATES AND CONSENT TO TRANSFER</h4>
+                        <p>The Site is operated in the United States. If you are located in the European Union, Canada, or elsewhere outside of the United States, please be aware that
+                        any information you provide to us may be transferred to and processed in the United States. By using the Site, or providing us with any information, you consent
+                        to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be different than those in
+                        the country where you reside or are a citizen.</p>
+                        <p>SingleHop has certified that it adheres to the EU Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of
+                        Commerce regarding the collection, use, and retention of data from the European Economic Area and Switzerland. To learn more about the Safe Harbor program, and
+                        to view our certification, please visit: <a class="float-none" href="http://www.export.gov/safeharbor/">www.export.gov/safeharbor/</a>.</p>
+                        <p>SingleHop has committed to refer unresolved privacy complaints under the Safe Harbor program to an independent dispute resolution mechanism,
+                        the BBB EU Safe Harbor Program, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint,
+                        or if your complaint is not satisfactorily addressed by us, you may contact the BBB EU Safe Harbor Program as described at:
+                        <a class="float-none" href="http://www.bbb.org/us/consumer/european-dispute-resolution/complaint-info/">www.bbb.org/us/consumer/european-dispute-resolution/complaint-info/</a>.</p>
+                        <h4>CHANGES TO THE PRIVACY POLICY</h4>
+                        <p>SingleHop reserves the right to change this Privacy Policy and will notify you of material changes by posting a notice and the new Privacy Policy on the Site.
+                        We may also provide notice to you in other ways in our discretion, such as through contact information you have provided. Any changes will be effective immediately
+                        upon the posting of the revised Privacy Policy. However, we will not make material changes to how we use your Personal Information, unless you consent to the new
+                        or revised policy or generally to such uses.</p>
+                        <h4>CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS</h4>
+                        <p>Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in
+                        California certain information relating to third parties to which the company has disclosed certain categories of personal information during the preceding year
+                        for the third parties’ direct marketing purposes. Alternatively, the law provides that a company may comply, as SingleHop does, by disclosing in its privacy policy
+                        that it provides consumers choice (opt-out or opt-in) regarding sharing Personal Information with third parties for those third parties’ direct marketing purposes
+                        and information on how to exercise that choice. As stated above in this Privacy Policy, SingleHop provides you choice prior to sharing your Personal Information
+                        with third parties for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time SingleHop offers that choice, SingleHop does
+                        not share your information with that identified third party for its direct marketing purposes.</p>
+                        <p>If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing
+                        purposes and your ability to exercise choice, please send your request to the following email address: ca-privacy-admin@singlehop.com or write to us at the
+                        following mailing address:</p>
+                        <p>Legal Department<br>SingleHop LLC<br>500 W. Madison St., Suite #801<br>Chicago, IL 60661</p>
+                        <p>You must put the statement “Your California Privacy Rights” in the subject field of your e-mail or include it in your writing if you choose to write to us at
+                        the designated mailing address. You must include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labeled
+                        or sent properly or do not have complete information.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rightcntnr">
+            
+					<div class="aside-right-mq">
+                        <div class="leftimg">
+                            <img src="https://www.singlehop.com/wp-content/themes/singlehop/img/global/inner/mq-square.png" alt="gmq">
+                        </div>
+                        <div class="aright">
+                            <p>SingleHop Named to the 2015 Cloud-Enabled Managed Hosting Magic Quadrant</p>
+                            <a href="/gartner-magic-quadrant-2015/" class="green-link-bottom">Read the Full Report<span></span></a>
+                        </div>
+                    </div>
+					<ul class="aside-top-right">
+                        <li class="iconchat"><div class="ico-wrap"></div><a href="javascript:;;" class="custom_live_chat"><span>Chat with an Expert<i></i></span></a></li>
+                        <li class="call"><div class="ico-wrap"></div><a href="javascript:;;"><span>Call us at <b class="theme_phone_rotation">866-349-1027</b><i></i></span></a></li>
+                        <li class="icondeploy"><div class="ico-wrap"></div><a href="/contact/sales/"><span>Deploy Now<i></i></span></a></li>
+                    </ul>
+                
+            <div class="right-data-block">
+                <ul class="resource-s">
+                        <li>
+                            <img width="203" height="204" src="https://www.singlehop.com/wp-content/uploads/2014/10/statosphere.png" class="attachment-post-thumbnail wp-post-image" alt="statosphere">
+                            <div class="res-head">Stratosphere Networks - SingleHop Case Study</div>
+                            <p><a href="https://www.singlehop.com/resource-center/stratosphere-networks-singlehop-case-study/">Read full report <span></span></a>
+                            </p>
+                        </li>
+                    
+                        <li>
+                            <img width="204" height="204" src="https://www.singlehop.com/wp-content/uploads/2015/06/nyc.png" class="attachment-post-thumbnail wp-post-image" alt="nyc">
+                            <div class="res-head">New York City Data Center</div>
+                            <p><a href="https://www.singlehop.com/resource-center/new-york-city-data-center/">Read full report <span></span></a>
+                            </p>
+                        </li>
+                    
+                        <li>
+                            <img width="203" height="204" src="https://www.singlehop.com/wp-content/uploads/resources_img/network_dc_details.png" class="attachment-post-thumbnail wp-post-image" alt="network_dc_details">
+                            <div class="res-head">SingleHop Network Design Overview</div>
+                            <p><a href="https://www.singlehop.com/resource-center/singlehop-network-design-overview/">Read full report <span></span></a>
+                            </p>
+                        </li>
+                    </ul>
+            </div>
+        </div> 
+    </div>            
+</section>
+	
+
+
+                    <script type="text/javascript" src="//platform.linkedin.com/in.js">/*
+                        api_key: 759b4bu91pg7ma
+                        scope: r_basicprofile r_emailaddress
+                        onLoad: onLinkedInLoad
+                        authorize: true
+                    */</script>
+                    <script type="text/javascript">
+                        function onLinkedInLoad(){
+                            $("a[id*=li_ui_li_gen_]").css({marginBottom:"20px"})
+                           .html("<img src=\"https://www.singlehop.com/wp-content/themes/singlehop/img/lead-forms/auto_fill_linkedin.png\" height=\"31\" width=\"200\" border=\"0\" alt=\"LinkedIn\"/>");
+                           $(".IN-widget").css("cssText", "display: block !important");
+                           IN.Event.on(IN, "auth", onLinkedInAuth);
+                        }
+                        function onLinkedInAuth(){
+                            $(".linkedin_loader").show();
+                            IN.API.Profile("me")
+                            .fields("id", "first-name", "last-name", "email-address","positions:(company:(name))","phone-numbers")
+                            .result(displayProfiles).error(displayProfilesErrors);
+                        }
+                        function displayProfiles(profiles) {
+                            var member = profiles.values[0];
+                            var first_name = "";
+                            var last_name = "";
+                            var email_address = "";
+                            var company_name = "";
+                            var phone_number = "";
+                            if(member.hasOwnProperty("firstName") && $(".IN-widget").closest(".f-box").find("form input[name=\"firstname\"]").length)
+                                $(".IN-widget").closest(".f-box").find("form input[name=\"firstname\"]").val(member.firstName);
+
+                            if(member.hasOwnProperty("lastName") && $(".IN-widget").closest(".f-box").find("form input[name=\"lastname\"]").length)
+                                $(".IN-widget").closest(".f-box").find("form input[name=\"lastname\"]").val(member.lastName);
+
+                            if(member.hasOwnProperty("emailAddress") && $(".IN-widget").closest(".f-box").find("form input[name=\"email\"]").length)
+                                $(".IN-widget").closest(".f-box").find("form input[name=\"email\"]").val(member.emailAddress);
+
+                            if(member.positions.hasOwnProperty("values")){
+                                if(member.positions.values[0].company.hasOwnProperty("name") && $(".IN-widget").closest(".f-box").find("form input[name=\"company\"]").length)
+                                    $(".IN-widget").closest(".f-box").find("form input[name=\"company\"]").val(member.positions.values[0].company.name);
+                            }
+                            $(".linkedin_loader").hide();
+                        }
+                        function displayProfilesErrors(){
+                            $(".linkedin_loader").hide();
+                        }
+                    </script>
+                
+
+	<footer itemscope="" itemtype="http://schema.org/WPFooter" class="contains_wider_partner_wrap">
+		<div class="custom-bg-forms" id="form-corporate-domain-mail-box" style="z-index: 5">
+			<div class="custom-close-form" id="form-corporate-domain-mail-box-close">X</div>
+			<div class="custom-form-data" id="form-corporate-domain-mail-box-data">
+				<div>
+					<p>This form does not accept free e-mail accounts. Please enter a business e-mail to submit it.</p>
+					<div class="row">
+						<i></i><input type="text" placeholder="Business Email*" name="form-corporate-domain-mail-box-email" id="form-corporate-domain-mail-box-email">
+						<input type="hidden" name="form-corporate-domain-mail-box-form_id" id="form-corporate-domain-mail-box-form_id">
+					</div>
+					<a href="javascript:;;" class="orange-flat-type1" id="form-corporate-domain-mail-box-test-drive-now">Submit Form</a>
+					<a href="javascript:;;" class="send-comparison-button auto-right" id="form-corporate-domain-mail-box-cancel">Cancel</a>
+				</div>
+			</div>
+		</div>
+		<div class="sm_footer">
+			<div class="main-wrapper">
+				<h5>Home</h5>
+				<div class="f-box">
+	                <a class="link" href="/why-singlehop/">Why SingleHop</a>
+	                <a class="link" href="/managed-hosting-services/">Fully Managed Hosting</a>
+		            <a class="link" href="/managed-azure/">Managed Azure</a>
+					<a class="link" href="/managed-hosting-services/">Managed Solutions</a>
+					<a class="link" href="/managed-hosting-services/">Managed Services</a>
+				</div>
+				<div class="f-box">
+					<a class="link" href="/server-hosting/related-managed-services/network-bandwidth-services/">Networking</a>
+		            <a class="link" href="/secure-hosting/server-security/">Security</a>
+					<a class="link" href="/server-hosting/related-managed-services/system-administration/">System Administration</a>
+		            <a class="link" href="/server-hosting/related-managed-services/backup-services/">Backups</a>
+					<a class="link" href="/server-hosting/related-managed-services/server-security-servers/">Security &amp; Compliance</a>
+				</div>
+				<div class="f-box">
+	                <a class="link" href="/infrastructure-products/">Infrastructure Products</a>
+					<a class="link" href="/server-hosting/dedicated-servers/">Bare Metal Servers</a>
+					<a class="link" href="/server-hosting/virtual-servers/">Virtual Servers</a>
+					<a class="link" href="/private-cloud-hosting/">Hosted Private Clouds</a>
+				</div>
+				<div class="f-box f-box-last">
+					<a class="link" href="/support/">ServiceFirst Support</a>
+	            	<a class="link" href="/about/">Corporate Overview</a>
+				</div>
+				<div class="footer_button_wrap_sm">
+					<a class="white-outline-type2 visible-xs" href="https://leap3.singlehop.com/">Leap Login</a>
+				</div>
+			</div>
+		</div>
+        <div class="top-f">
+            <div class="main-wrapper">
+				<div class="footer-left-wrapper">
+                    <div class="f-box col_1">
+		                <h5><a href="/why-singlehop/">Why SingleHop</a></h5>
+						
+						<h5 class="fsb-heads-more-tp"><a href="/managed-hosting/">Managed Hosting</a></h5>
+						<a class="link" href="/managed-hosting/">Fully Managed Hosting</a>
+		                <a class="link" href="/managed-azure/">Managed Azure</a>
+						
+						<h5 class="fsb-heads fsb-heads-more-tp"><a href="/managed-hosting-services/">Managed Solutions</a></h5>
+						<a class="link" href="/managed-solutions/compliant-hosting/">Compliance Solutions</a>
+		                <a class="link" href="/managed-solutions/baas/">Veeam Backup Repository</a>
+		                <a class="link" href="/managed-solutions/draas/">Disaster Recovery</a>
+		                <a class="link" href="/managed-solutions/hybrid-cloud-hosting/">Hybrid Cloud Solutions</a>
+		                <a class="link" href="/managed-dedicated-environments/">Managed Environments</a>
+		            </div>
+		            <div class="f-box">
+		                <h5><a href="/managed-hosting-services/">Managed Services</a></h5>
+		                <a class="link" href="/server-hosting/related-managed-services/system-administration/">System Administration</a>
+		                <a class="link" href="/server-hosting/related-managed-services/backup-services/">Backups</a>
+		                <a class="link" href="/server-hosting/related-managed-services/monitoring-services/">Monitoring &amp; Response</a>
+		                <a class="link" href="/server-hosting/related-managed-services/server-security-servers/">Security &amp; Compliance</a>
+		                <a class="link" href="/server-hosting/related-managed-services/network-bandwidth-services/">Networking</a>
+		                <a class="link" href="/secure-hosting/server-security/">Security</a>
+						
+						<h5 class="fsb-heads fsb-heads-more-tp"><a href="/infrastructure-products/">Infrastructure Products</a></h5>
+		                <a class="link" href="/server-hosting/dedicated-servers/">Bare Metal Servers</a>
+		                <a class="link" href="/server-hosting/virtual-servers/">Virtual Servers</a>
+		                <a class="link" href="/private-cloud-hosting/">Hosted Private Clouds</a>
+		            </div>
+		            <div class="f-box">
+		                <h5><a href="/support/">ServiceFirst Support</a></h5>
+		                <a class="link" href="/support/">Support Overview</a>
+		                <a class="link" href="/sla/">SLA and Guarantees</a>
+		                <a class="link" href="http://ot.singlehop.com/">System Status</a>
+		                <a class="link" href="https://leap3.singlehop.com/">Login to LEAP</a>
+		                <a class="link" href="/resource-center/">Resources &amp; Downloads</a>
+		                <a class="link" href="http://dropzonewiki.singlehop.com/index.php?title=Main_Page">API Documentation</a>
+		                <a class="link" href="/about/contact/">Contact Support</a>
+		            </div>
+		            <div class="f-box col_4">
+		            	<h5><a href="/about/">Corporate Overview</a></h5>
+		                <a class="link" href="/news-room/">Press/News Room</a>
+		                <a class="link" href="/blog/">Blog</a>
+		                <a class="link" href="/about/careers/">Careers</a>
+		            </div>
+                    <ul class="wider_logos_wrap_footer">
+                        <li>
+                            <h5>Compliance</h5>
+                            <img width="156" height="214" src="https://www.singlehop.com/wp-content/themes/singlehop/img/global/logo-sprite1.png" alt="Singlehop Compliance">
+                        </li>
+                        <li>
+                            <h5>Memberships</h5>
+                            <img width="108" height="214" src="https://www.singlehop.com/wp-content/themes/singlehop/img/global/logo-sprite2.png" alt="Singlehop Memberships">
+                        </li>
+                        <li class="wider_wrap_last">
+                            <h5>Tech Partners</h5>
+                            <img width="320" height="214" src="https://www.singlehop.com/wp-content/themes/singlehop/img/global/logo-sprite3.png" alt="Singlehop Tech Partners">
+                        </li>
+                    </ul>
+                </div>                <div class="f-box w292">
+                    <h5>Get Connected</h5>
+					<script type="IN/Login" data-onauth="onLinkedInAuth"></script>
+                    <!--footer contact form-->
+                    <div style="display: block;" class="f-contact" id="contactFormFrame">
+						<form enctype="multipart/form-data" class="hubspot-form" id="hubspot_b3d0c990-08eb-482b-939e-28a8f686116e" name="hubspot_b3d0c990-08eb-482b-939e-28a8f686116e" method="POST"><input type="hidden" id="leadsource_b3d0c990-08eb-482b-939e-28a8f686116e" name="leadsource" value="Web Form"><input type="hidden" id="lead_form_name_b3d0c990-08eb-482b-939e-28a8f686116e" name="lead_form_name" value="Sales - General">
+                                    <div class="row">
+                                        <i></i>
+                                        <input type="text" id="email_b3d0c990-08eb-482b-939e-28a8f686116e" name="email" placeholder="E-mail Address" value="">
+                                    </div>
+                                    <div class="row">
+                                        <i></i>
+                                        <input type="text" id="firstname_b3d0c990-08eb-482b-939e-28a8f686116e" name="firstname" placeholder="First Name" value="">
+                                    </div>
+                                    <div class="row">
+                                        <i></i>
+                                        <input type="text" id="lastname_b3d0c990-08eb-482b-939e-28a8f686116e" name="lastname" placeholder="Last Name" value="">
+                                    </div>
+                                    <div class="row">
+                                        <i></i>
+                                        <input type="text" id="company_b3d0c990-08eb-482b-939e-28a8f686116e" name="company" placeholder="Company" value="">
+                                    </div>
+                                    <div class="row">
+                                        <i></i>
+                                        <textarea name="description" id="description_b3d0c990-08eb-482b-939e-28a8f686116e" placeholder="Your Message"></textarea>
+                                    </div>
+                                <input type="hidden" id="utmsource__c_b3d0c990-08eb-482b-939e-28a8f686116e" name="utmsource__c" value=""><input type="hidden" id="utmmedium__c_b3d0c990-08eb-482b-939e-28a8f686116e" name="utmmedium__c" value=""><input type="hidden" id="utmcampaign__c_b3d0c990-08eb-482b-939e-28a8f686116e" name="utmcampaign__c" value=""><input type="hidden" id="utmcontent__c_b3d0c990-08eb-482b-939e-28a8f686116e" name="utmcontent__c" value=""><input type="hidden" id="utmkeyword__c_b3d0c990-08eb-482b-939e-28a8f686116e" name="utmkeyword__c" value=""><input type="hidden" id="company_owner_b3d0c990-08eb-482b-939e-28a8f686116e" name="company_owner" value="SingleHop"><a class="aside-button hub-submit" href="javascript:;;">submit message</a><input type="hidden" name="form-id" value="b3d0c990-08eb-482b-939e-28a8f686116e"><input type="hidden" name="page-url" class="page-url"><input type="hidden" name="page-title" class="page-title"></form>                    </div>
+                    <!--footer contact form ends-->
+                    <!--success message-->
+                    <div class="f-contact-msg">
+                        <div class="thanks">Thank you!</div>
+                        <div class="message">Thank you for contacting us. We appreciate your comments and your interest in SingleHop. We will get back to you shortly. </div>
+                    </div>
+					<div class="linkedin_loader"><p>Please wait...</p></div>
+                    <!--success message ends-->
+                </div>
+            </div>
+        </div>
+        <div class="bottom-f">
+            <div class="main-wrapper">
+                <div class="fb-box w399">
+                    <h5>Connect</h5>
+                    <a href="//www.facebook.com/singlehop" class="fb">Facebook</a>
+                    <a href="//twitter.com/singlehop" class="tw">Twitter</a>
+                    <a href="//www.linkedin.com/company/246148" class="in">Linkedin</a>
+                    <a href="//plus.google.com/112087244411664464052/posts" class="gp">Google+</a>
+                </div>
+                <div class="fb-box w520 newsletter-cont">
+                    <h5>Newsletter</h5>
+					<div class="newsletter-succcess" style="display: none;">
+						You have successfully signed up!
+					</div>
+					<form enctype="multipart/form-data" class="hubspot-form" id="hubspot_ccb9905e-c422-4968-bc5a-a54520629728" name="hubspot_ccb9905e-c422-4968-bc5a-a54520629728" method="POST">
+                                    <div class="row">
+                                        <i></i>
+                                        <input type="text" id="email_ccb9905e-c422-4968-bc5a-a54520629728" name="email" placeholder="E-mail Address" value="">
+                                    </div><input type="hidden" id="leadsource_ccb9905e-c422-4968-bc5a-a54520629728" name="leadsource" value="Web Form"><input type="hidden" id="lead_form_name_ccb9905e-c422-4968-bc5a-a54520629728" name="lead_form_name" value="Newsletter"><input type="hidden" id="utmcampaign__c_ccb9905e-c422-4968-bc5a-a54520629728" name="utmcampaign__c" value=""><input type="hidden" id="utmcontent__c_ccb9905e-c422-4968-bc5a-a54520629728" name="utmcontent__c" value=""><input type="hidden" id="utmkeyword__c_ccb9905e-c422-4968-bc5a-a54520629728" name="utmkeyword__c" value=""><input type="hidden" id="utmmedium__c_ccb9905e-c422-4968-bc5a-a54520629728" name="utmmedium__c" value=""><input type="hidden" id="utmsource__c_ccb9905e-c422-4968-bc5a-a54520629728" name="utmsource__c" value=""><input type="hidden" id="company_owner_ccb9905e-c422-4968-bc5a-a54520629728" name="company_owner" value="SingleHop"><a class="aside-button hub-submit" href="javascript:;;">subscribe</a><input type="hidden" name="form-id" value="ccb9905e-c422-4968-bc5a-a54520629728"><input type="hidden" name="page-url" class="page-url"><input type="hidden" name="page-title" class="page-title"></form>                </div>
+                <div class="fb-box w281">
+                    <p>© 2015 SingleHop, LLC.</p>
+                    <ul>
+                        <li><a href="/legal/privacy-policy/">Privacy</a></li>
+                        <li>|</li>
+                        <li><a href="/legal/">Legal &amp; MSA</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+		<div id="backToTop">
+			<a>
+				<span class="icon-arrow-up"></span>
+			</a>
+		</div>
+    </footer>
+	</div>
+	<!-- Google Tag Manager -->
 		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-83K3"
 		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
@@ -65,7 +861,7 @@
 		"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,"script","dataLayer","GTM-83K3");</script>
 		<!-- End Google Tag Manager -->
-					
+		
 			<!-- begin SnapEngage code -->
 			<script type="text/javascript">
 				(function() {
@@ -96,565 +892,26 @@
 				})();
 			</script>
 			<!-- end SnapEngage code -->
-					</div>
-			<article class="fixed-header-wrap" id="fixedHeaderWrap">
-				<section id="top-header">
-					<div class="main-wrapper">
-						<span class="learn-link">Enterprise <a href="/private-cloud-hosting/dedicated-private-clouds/">Private Cloud</a> &amp; <a href="/server-hosting/dedicated-servers/">Dedicated Servers</a> On Demand.</span>
-						<ul class="top-links">
-							<li><a href="/partners/">Become a Partner</a></li>
-							<li><a href="//leap3.singlehop.com">Login</a></li>
-							<li><a href="/support/">Support</a></li>
-							<li><a href="/resource-center/">Resources</a></li>
-							<li><a href="/blog/">Blog</a></li>
-							<li>
-								<form action="/search/" method="get">
-									<input name="q" type="search">
-								</form>
-							</li>
-							<li><a href="#" class="chat custom_live_chat">Chat</a></li>
-							<li><a href="/about/contact/" class="phone"></a></li>
-							<li>
-								<div class="flag-contnr" id="flag-contnr">
-									<span id="country_list"></span>
-								</div>
-							</li>
-							<li>
-								<div id="logins" class="usersLogin">
-									<a href="#" class="login" id="user-login"></a>
-								</div>
-							</li>
-						</ul>
-					</div>
-				</section>
-				<div class="chat-box-normal" id="chat-window">
-					<div class="green-chat">
-						<span></span>
-						<a href="javascript:void(0)" class="close"></a>
-					</div>
-					<div class="chat-data">
-						<div class="head"><span>Hello.</span> Thanks for visiting.</div>
-						<p>Have questions about SingleHop?</p>
-						<p>I'm here to help.</p>
-						<div class="input-box">
-							<div class="live-chat-green-border">
-			<span>
-				<span>
-					<a href="javascript:;;" onclick="return SnapEngage.startLink();">
-						<span>CHAT WITH AN EXPERT</span>
-					</a>
-				</span>
-			</span>
-		</div>
-						</div>
-					</div>
-					<div class="chat-call">
-						<p>Call us toll free at <a class="theme_phone_rotation" href="javascript:;;">866.349.0689</a></p>
-					</div>
-				</div>
-				<header id="main-header" class="revised-main-header" itemscope="" itemtype="http://schema.org/WPHeader">
-					<div class="main-wrapper">
-						<div><a href="/" class="default"><img src="//www.singlehop.com/wp-content/themes/singlehop/img/global/logo.png" alt="Singlehop LLC"></a></div>
-						<nav id="aim-dropdown-frame" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
-							<ul id="menu-sh-main-navigation" class="mega-menu"><li id="menu-item-10011009" class="table-drops fourth-child company menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singlehop.com/about/"><strong>Company</strong> </a><ul>
-    <li>
-        <div class="custom-width-maker">
-            <div class="pseodo-table">
-                <div class="cell">
-                    <h5><a href="/about/">About Us</a></h5>
-                    <ul>
-                        <li><a href="/about/">Company Overview</a></li>
-                        <li><a href="/about/our_people/">Leadership Team</a></li>
-                        <li><a href="/about/press/">Press Releases</a></li>
-                        <li><a href="/about/contact/">Contact Us</a></li>
-                        <li><a href="/about/careers/">Careers</a></li>
-                        <li><a href="/blog/">Blog</a></li>
-                        <li><a href="/customer-reviews/">Customer Stories</a></li>
-                    </ul>
-                </div>
-                <div class="cell cell-right">
-                    <h5><a href="/enterprise-on-demand/">Why SingleHop</a></h5>
-                    <ul>
-                        <li><a href="/enterprise-on-demand/">Overview</a></li>
-                        <li><a href="/sla/">SLA &amp; Guarantees</a></li>
-                        <li><a href="/about/on-boarding/">Onboarding Process</a></li>
-                        <li><a href="/advantages/transparency/">Transparency</a></li>
-                        <li><a href="/data-centers/">Data Centers &amp; Networks</a></li>
-                        <li><a href="/leap/">LEAP Control Panel</a></li>
-                        <li><a href="/secure-hosting/">Enterprise Security</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </li>
-</ul></li>
-<li id="menu-item-10012357" class="table-drops third-child managed-hosting menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singlehop.com/managed-solutions/"><strong>Managed Solutions</strong> </a><ul class="">
-    <li>
-        <div class="custom-width-maker">
-            <div class="pseodo-table">
-                <div class="cell">
-                    <h5><a href="/managed-hosting-services/">Managed Solutions</a></h5>
-                    <ul>
-                        <li><a href="/managed-solutions/">Overview</a></li>
-                        <li><a href="/managed-hosting-services/">Managed Hosting</a></li>
-                        <li><a href="/managed-hosting-services/hybrid-cloud-hosting/">Hybrid Hosting</a></li>
-                        <li><a href="/managed-hosting-services/compliant-hosting/">Compliant Hosting</a></li>
-                        <li><a href="/managed-hosting-services/baas/">Managed Backups </a></li>
-                        <li><a href="/managed-solutions/getting-started/">Getting Started</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="table-bottom-wrap">
-                <a href="/contact/managed/" class="white-outline-type1">Request A Demo</a>
-            </div>
-        </div>
-    </li>
-</ul></li>
-<li id="menu-item-10010839" class="table-drops second-child on-demand-servers menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singlehop.com/server-hosting/"><strong>On-Demand Servers</strong> </a><ul class="">
-    <li>
-        <div class="custom-width-maker">
-            <div class="pseodo-table">
-                <div class="cell">
-                    <h5><a href="/server-hosting/dedicated-servers/">Dedicated Servers</a></h5>
-                    <ul>
-                        <li><a href="/server-hosting/dedicated-servers/">Overview</a></li>
-                        <li><a href="/server-hosting/dedicated-servers/how-it-works/">How It Works</a></li>
-                        <li><a href="/server-hosting/dedicated-servers/use-cases/">Use Cases</a></li>
-                        <li><a href="/server-hosting/dedicated-servers/browse-deploy-servers/">Browse Servers</a></li>
-                    </ul>
-                </div>
-                <div class="cell cell-right">
-                    <h5><a href="/server-hosting/virtual-servers/">Virtual Servers</a></h5>
-                    <ul>
-                        <li><a href="/server-hosting/virtual-servers/">Overview</a></li>
-                        <li><a href="/server-hosting/virtual-servers/how-it-works/">How It Works</a></li>
-                        <li><a href="/server-hosting/virtual-servers/use-cases/">Use Cases</a></li>
-                        <li><a href="/server-hosting/virtual-servers/browse-deploy-servers/">Deploy Now</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="table-bottom-wrap">
-                <h5><a href="/server-hosting/">Cloud Overview</a></h5>
-                <a href="/contact/sales/" class="white-outline-type1">Request A Demo</a>
-            </div>
-        </div>
-        <div class="addon-wrap">
-            <h5><a href="/server-hosting/related-managed-services/">Managed Services</a></h5>
-            <ul>
-                <li><a href="/server-hosting/related-managed-services/">Services Overview</a></li>
-                <li><a href="/server-hosting/related-managed-services/backup-services/">Backups</a></li>
-                <li><a href="/server-hosting/related-managed-services/monitoring-services/">Monitoring</a></li>
-                <li><a href="/server-hosting/related-managed-services/server-security-servers/">Security &amp; Compliance</a></li>
-                <li><a href="/server-hosting/related-managed-services/network-bandwidth-services/">Network Services</a></li>
-                <li><a href="/server-hosting/related-managed-services/system-administration/" class="bottom-margin-eraser">System Administration</a></li>
-                <li><a href="/secure-hosting/">Enterprise Shield Security</a></li>
-            </ul>
-        </div>
-    </li>
-</ul></li>
-<li id="menu-item-10009919" class="table-drops first-child private-cloud-hosting menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.singlehop.com/private-cloud-hosting/"><strong>Private Cloud Hosting</strong> </a><ul class="">
-    <li>
-        <div class="custom-width-maker">
-            <div class="pseodo-table">
-                <div class="cell">
-                    <h5><a href="/private-cloud-hosting/virtual-private-cloud/">Virtual Private Cloud</a></h5>
-                    <ul>
-                        <li><a href="/private-cloud-hosting/virtual-private-cloud/">Overview</a></li>
-                        <li><a href="/private-cloud-hosting/virtual-private-cloud/product-tour/">Product Tour</a></li>
-                        <li><a href="/private-cloud-hosting/virtual-private-cloud/how-it-works/">How It Works</a></li>
-                        <li><a href="/private-cloud-hosting/virtual-private-cloud/use-cases/">Use Cases</a></li>
-                        <li><a href="/private-cloud-hosting/virtual-private-cloud/getting-started/">Getting Started</a></li>
-                    </ul>
-                   
-                </div>
-                <div class="cell cell-right">
-                   <h5><a href="/private-cloud-hosting/dedicated-private-cloud/">Dedicated Private Cloud</a></h5>
-                    <ul>
-                        <li><a href="/private-cloud-hosting/dedicated-private-cloud/">Overview</a></li>
-                        <li><a href="/private-cloud-hosting/dedicated-private-cloud/product-tour/">Product Tour</a></li>
-                        <li><a href="/private-cloud-hosting/dedicated-private-cloud/how-it-works/">How It Works</a></li>
-                        <li><a href="/private-cloud-hosting/dedicated-private-cloud/use-cases/">Use Cases</a></li>
-                        <li><a href="/private-cloud-hosting/dedicated-private-cloud/getting-started/">Getting Started</a></li>
-                    </ul>
-                 
-                </div>
-            </div>
-            <div class="table-bottom-wrap">
-                <h5><a href="/private-cloud-hosting/">Cloud Overview</a></h5>
-                <a href="/contact/private-cloud/" class="white-outline-type1">Request A Demo</a>
-            </div>
-        </div>
-    </li>
-</ul></li>
-</ul>						</nav>
-					</div>
-					<div class="popover pseudo-popover-bg"></div>
-									</header>
-			</article>
-
-	
-					<section class="sub-banner-frame datacenter">
-						<div class="main-wrapper">
-							<div class="left-block">
-								<h2>PRIVACY POLICY</h2>
-							</div>
-						</div>
-					</section>
-<section class="sub-navigation-section">
-    <div class="main-wrapper">
-        <nav class="sub-nav-revised">
-            <ul>
-                <li class="active-section" style="min-width:270px;"><a href="/about/"><h1>Company</h1></a></li>
-                <li rel="10001544"><a href="/legal/">Legal</a></li>
-                <li rel="10001241"><a href="/about/contact/">Company Information</a></li>
-                <li rel="10001529"><a href="/support/">Service &amp; Support</a></li>
-                <li rel="10006445"><a href="/enterprise-on-demand/">Platform Advantages</a></li>
-            </ul>
-            
-                    <a class="green-white-arrow custom_live_chat" href="javascript:;;">
-                        <span>Contact An Expert</span>
-                    </a>
-                
-        </nav>
-    </div>
-</section>
-<section class="inner-data-wrap investors">
-    <div class="main-wrapper">
-        <div class="leftcntnr">
-            <h2>Privacy Policy</h2>
-            <div class="left-data-block">
-                <div class="investors-wrap">
-                    <div class="textWrapper w90">
-                        <p>This Privacy Policy applies to the information that SingleHop LLC (“SingleHop”) collects through SingleHop.com and other websites, online features, applications and widgets owned or controlled by SingleHop and that post a link to this Privacy Policy (collectively, the “Site”). This Privacy Policy only covers information collected at the Site and does not cover any information collected offline by SingleHop (unless specifically stated otherwise) and does not apply to the services we provide to clients. Please review this Privacy Policy carefully.</p>
-                        <h4>SUMMARY</h4>
-                        <p>WE FULLY DESCRIBE OUR PRIVACY PRACTICES BELOW IN THIS PRIVACY POLICY. THIS SUMMARY HIGHLIGHTS SOME IMPORTANT INFORMATION REGARDING THE INFORMATION WE COLLECT AND OUR USE AND SHARING OF YOUR INFORMATION; BUT PLEASE REVIEW OUR FULL PRIVACY POLICY BEFORE USING OUR SITE.</p>
-                        <p>In connection with serving content and providing analytics and advertising services, third parties may collect certain information about your visits to this and other websites and we may receive information regarding the use of the Site and the effectiveness of our advertisements. These advertising networks, advertisers, advertising agencies, analytics service providers, and other vendors may set and access their own tracking technologies (including cookies and web beacons) and they may otherwise collect or have access to information about you and your online browsing activities.</p>
-                        <p>The Site is operated in the United States. If you are located outside the United States and use the Site or provide us with any information, you consent to the transfer, processing, and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside or are a citizen SingleHop complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. SingleHop has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view SingleHop’s certification, please visit <a href="http://www.export.gov/safeharbor/" class="float-none">www.export.gov/safeharbor/</a></p>
-                        <h4>INFORMATION WE COLLECT THROUGH THE SITE</h4>
-                        <h4>Information You Provide to the Site</h4>
-                        <p>SingleHop may ask you to provide “Personal Information” (information that identifies you as a specific individual, such as, but not limited to, your name or e-mail address and other contact information), and information necessary to facilitate financial transactions between SingleHop and you (such as, but not limited to, financial account numbers). We may also collect demographic information (such as, but not limited to, your age, occupation, postal code, or similar information), certain information about your preferences and interests, customer questions and support information, and other information collected through surveys, chat features, and polls made available on the Site. If we combine these types of other information about you with Personal Information, we will treat the combined information as Personal Information under this Privacy Policy.</p>
-                        <p>The Site is a general audience web site. The Site does not knowingly collect any Personal Information from children younger than the age of thirteen (13), and SingleHop will delete any information later determined by us to be collected from a user younger than age thirteen (13).</p>
-                        <h4>User Content</h4>
-                        <p>The Site may provide you the opportunity to participate and post content publicly through interactive features. You may choose, through such features or otherwise, to submit or post reviews, comments, suggestions related to SingleHop’s services, or post free-form comments on its blog (collectively, “User Content”). Please note that certain information, such as your name and state of residence, and a link to any website URL you provide may be publicly displayed on the Site along with your User Content. However, SingleHop will not publish your e-mail address with these comments.</p>
-                        <p>Note that any User Content you post is public — others will have access to your User Content and may read it, see it, use it, and/or share it with third parties. If you choose to voluntarily disclose Personal Information in your User Content, that information will be considered public information and the protections of this Privacy Policy will not apply. If you submit User Content, it may be published online or offline (including on the Site, on-air, in a DVD, or any other format currently existing or later developed). In addition, we may use your User Content and any excerpt from your User Content in connection with our advertising, marketing, publicity, and promotional activities.</p>
-                        <h4>Information Third Parties Provide About You</h4>
-                        <p>We may also receive information about you from third parties. For example, if you are on another website that provides information about hosting service providers like SingleHop and you request to receive information from SingleHop, that website will forward your contact and other information to us so that we may contact you as requested. Third parties may also provide information about you in connection with a marketing arrangement we may have with those third parties.</p>
-                        <p>We also may supplement the information we collect with outside records from third parties in order to provide you with the information, goods, or services you have requested to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those other outside sources with information we collect through the Site. In those cases, we will apply this Privacy Policy to the combined information.</p>
-                        <h4>Information We Collect Automatically; Cookies and Similar Technologies</h4>
-                        <p>In addition to any Personal Information or other information that you choose to submit to the Site, we and our third-party service providers, including any third-party content, advertising, and analytics providers, may use a variety of technologies that automatically or passively collect certain information about your use of the Site whenever you visit or interact with the Site (“Site Usage Information”). Site Usage Information may include the browser and operating system you are using, the URL or advertisement that referred you to our Site, the search terms you entered into a search engine that led you to our Site (if applicable), actions you take on the Site and all of the areas within our Site that you visit, and the time of day you visited the Site, among other information. Site Usage Information may also include the unique IP address or other unique identifiers (“Device Identifier”) for any computer, mobile phone, or other device (any, a “Device”) used to access the Site. A Device Identifier is a unique value that is automatically assigned to your Device, so that our servers can identify your Device by its Device Identifier.</p>
-                        <p>We may use Site Usage Information for a variety of purposes, including enhancing or otherwise improving the Site and our products and services. We may associate Site Usage Information with you as a specific and identifiable person. When we do so, we treat the combined information as Personal Information.</p>
-                        <p>The methods used to collect Site Usage Information may include the following:</p>
-                        <p><strong>Cookies.</strong> A cookie is a data file placed on a Device when it is used to visit the Site or otherwise access our online content. Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages. A Flash cookie is a data file placed on a Device via the Adobe Flash plugin that may be built in to or downloaded by you to your Device. Flash cookies may be used for various purposes, including, without limitation, enabling a Flash feature and remembering your preferences. For more information about Flash and the privacy choices Adobe offers, visit <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" class="float-none">www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a>. If you choose to disable cookies or to adjust your Flash privacy settings on your Device, some features of the Site may not function properly.</p>
-                        <p><strong>Web Beacons or Pixels.</strong> Web programming codes called web beacons (also known as “1×1 GIFs”, “clear images,” “pixels,” “tracking pixels,” or “tracking tags”) may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails that were sent were actually opened, or to count how many particular articles or links were actually viewed.</p>
-                        <p><strong>Embedded Scripts.</strong> An embedded script is programming code that is designed to collect information about your interactions with the Site, such as the specific links you click on, where your mouse moves, what advertising you clicked to direct you to the Site, and other information that is relevant. The code is temporarily downloaded onto your Device from our server or a third-party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter. Embedded Scripts may collect information that you enter into forms on our website, which may be used by SingleHop for purposes consistent with this Privacy Policy.</p>
-                        <p>In addition, we may use a variety of other technologies that collect similar information for security and fraud detection purposes.</p>
-                        <h4>HOW WE USE THE INFORMATION COLLECTED</h4>
-                        <p>SingleHop may share non-personally identifiable information, such as aggregated user statistics, with third parties in our discretion. We do not share your Personal Information with third parties for those third parties’ marketing purposes unless we first provide you with the opportunity to opt-in or opt-out of such sharing. We may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information, with your consent, as described in this Privacy Policy, and in the following circumstances:</p>
-                        <h4>HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES</h4>
-                        <p>SingleHop may use information collected through the Site, including Personal Information and Site Usage Information, to: (1) allow you to use the Site and to provide related service, including responding to your questions and comments; (2) fulfill transactions and process your registration, orders and payments, including verifying the information you provide is accurate and active; (3) administer and develop our business relationship with you and the company you represent; (4) tailor content, recommendations and offers we display to you on the Site and elsewhere online; (5) provide you with information, products or services that you have requested or agreed to receive or that we otherwise believe will interest you, including, information and special offers from us, our advertisers, and our third party business partners; (6) conduct internal analyses, such as surveys and market research; (7) improve the Site, our products and services and for internal business purposes; (8) assess your employment application for a position with SingleHop and prepare related governmental and internal statistics reports; (9) contact you with administrative communications and, in our discretion, changes to Site policies; and (10) for purposes disclosed at the time you provide your information and as further described or permitted in this Privacy Policy; (11) to remember and restore your preferences when you return to the website; or (12) otherwise with your consent.</p>
-                        <h4>When You Agree to Receive Information from Third Parties or Request That We Share Your Information.</h4>
-                        <p>You may be presented with an opportunity to receive information and/or marketing offers from one or more third parties. If you agree at that time to have your Personal Information shared, your Personal Information will be disclosed to that third party (or parties) and will be subject to the privacy policy and practices of that third party. We are not responsible for the privacy policies and practices of third parties. If you later decide that you no longer want to receive communications from a third party, you will need to contact that third party directly. You also may request, sometimes through your use of an interactive feature or third-party application, that we share information about you with a third party and we will typically do so under those circumstances.</p>
-                        <h4>Third Parties Providing Services on our Behalf.</h4>
-                        <p>We may share information with third parties so that they may provide services to you, SingleHop, and the Site. Examples include conducting website usage analysis, sending e-mail or other communications on our behalf, providing sales and marketing assistance, or performing other administrative or support services. When we do so, the information is only to be used to provide services or help us provide services. Third-party systems used to deliver services to you may retain your information for a period of time after the services are provided.</p>
-                        <h4>Sweepstakes, Contests, and Promotions</h4>
-                        <p>We may offer sweepstakes, contests, and other promotions (any, a “Promotion”) that may require registration. By participating in a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the Promotion to use your name, voice, likeness, or other indicia of persona in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, your Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.</p>
-                        <h4>Administrative and Legal Reasons</h4>
-                        <p>We may transfer and disclose information, including your Personal Information, Usage Information, and your Device Identifier, to third parties: (i) to respond to subpoenas or other legal process or if in our opinion such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; or (iii) to enforce applicable Site terms and policies; (iv) to respond to an emergency or otherwise to protect the safety, rights, property, or security of SingleHop, third parties, Site visitors, or the public. We may also use Device Identifiers to identify users, and may do so in cooperation with a court order or law enforcement agencies when legally compelled to do so.</p>
-                        <h4>Business Transfers</h4>
-                        <p>SingleHop may share information, including Personal Information, with its parent, subsidiaries, and affiliates, primarily for business and operational purposes. SingleHop may also disclose and transfer your information, including Personal Information: (i) to a subsequent owner, co-owner or operator of the Site or applicable database; or (ii) if SingleHop (or any of its affiliated, parent, or subsidiary companies) assigns its rights regarding any of your information to a third party; or (iii) in connection with a corporate merger, consolidation, restructuring, the sale of certain of our ownership interests, assets, or both, or other corporate change, including, without limitation, during the course of any due diligence process.</p>
-                        <h4>THIRD-PARTY ANALYTICS PROVIDERS AND AD SERVERS</h4>
-                        <p>The Site may contain content served by third parties and we work with vendors (including network advertisers, ad agencies, and analytics companies) to provide us with information regarding traffic on the Site, to serve advertisements, including our advertisements elsewhere online, and to provide us with information regarding the use of the Site and the effectiveness of our advertisements. For example, if you clicked on one of our advertisements that led you to the Site, our service provider(s) may be able to tell us information about your interaction, such as, but not limited to: which advertisement you clicked on, where you were viewing the advertisement, how often you viewed or clicked on it, and so forth. In connection with serving content and providing analytics and advertisement services, third parties may collect certain information about your visits to the Site or other websites. Some of these parties may collect Personal Information when you visit the Site or other websites or services. These third parties may set and access their own tracking technologies (including cookies and web beacons) and may otherwise collect or have access to your Device Identifier, Site Usage Information, and related information about you. Cookies and web beacons, including those set by third-party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times, and to conduct research regarding the usefulness of certain advertisements to you. We may share Device Identifier and Site Usage Information about visitors with third-party advertising companies, analytics providers, and other vendors for similar purposes.</p>
-                        <p>While we may use a variety of service providers to perform advertising and analytics services, some of these companies are members of the Network Advertising Initiative (“NAI”) or the Digital Advertising Alliance (“DAA”) Self-Regulatory Program for Online Behavioral Advertising. You may want to visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" class="float-none">www.networkadvertising.org/managing/opt_out.asp</a>, which provides information regarding targeted advertising and the “opt-out” procedures of NAI members. You may also want to visit or <a class="float-none" href="http://www.aboutads.info/choices/">www.aboutads.info/choices/</a>, which provides information regarding targeted advertising and offers an “opt-out” by participating companies in the DAA Self-Regulatory Program. Please note opting out through these mechanisms does not opt you out of being served advertising and not all online advertisers participate in these programs. You will continue to receive generic ads while visiting the Site and elsewhere online.</p>
-                        <h4>CHANGING YOUR INFORMATION, PREFERENCES, AND SUBSCRIPTIONS</h4>
-                        <p>You can correct or update some of the Personal Information you have provided to us several ways. If you are a customer, you can update your Personal Information by logging into LEAP and changing your profile in the system. If you are not yet a customer, then you may contact us via telephone (+1 312-447-2580) and request that we change your information. SingleHop will make good faith efforts to make requested changes in our active databases as soon as reasonably practicable. Note, however, that information you update or change may persist internally or for SingleHop’s administrative purposes. It is not always possible to completely remove or delete all of your information from our databases and residual data may remain on backup media or for other reasons. Also, if you have made any public postings, including User Content, these communications generally will not be removed. Users who receive a newsletter or other similar e-mails from us and who wish to remove themselves from the mailing list (i.e. opt out) can do so by following the link provided in an e-mail received. The Site may also offer an online mechanism for changing your preferences. However, please note that we reserve the right to send you certain communications relating to your use of our Site, service announcements, notices of changes to this Privacy Policy, or similar administrative or transactional messages, and these transactional account messages may be unaffected if you choose to opt-out from marketing communications.</p>
-                        <h4>THIRD-PARTY CONTENT, LINKS TO OTHER SITES, AND SITE CONTENT FOUND OUTSIDE OF THE SITE</h4>
-                        <p>Certain content on the Site may be hosted and served by third parties and the Site may contain links to third-party websites that SingleHop does not control. The Site may also contain certain third-party content or applications. These links and applications may use a SingleHop logo as part of a co-branding agreement. In addition, SingleHop widgets or other SingleHop content may be included on web pages and websites that are not associated with SingleHop and over which we have no control. These third parties may collect Site Usage Information through the use of their own cookies and web beacons, independently collect data or solicit Personal Information, and may have the ability to track your use of their sites and services. SingleHop is not responsible for the privacy practices employed by any third party.</p>
-                        <h4>APPLYING FOR A JOB THROUGH OUR SITE</h4>
-                        <p>If you apply for a job through the Site, we, or a human resources company assisting us, may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission (“EEOC”), the Office of Federal Contract Compliance Programs (“OFCCP”), and similar state and local regulatory agencies. Providing self-identifying information is voluntary, but if you do provide us with that information, we may submit it to the EEOC, the OFCCP, and similar state and local regulatory agencies for business-related purposes, including responding to information requests, fulfilling regulatory reporting requirements, and defending against employment related complaints.</p>
-                        <h4>SECURITY</h4>
-                        <p>SingleHop takes commercially reasonable steps to protect your Personal Information. However, no data transmission over the Internet, wireless transmission, or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information we collect. You use our Site and provide us with your information at your own risk. Our employees are required to keep information covered by this Privacy Policy confidential – unless disclosure is authorized in this Privacy Policy, or by you.</p>                      
-                        <h4>USERS RESIDING OUTSIDE OF THE UNITED STATES AND CONSENT TO TRANSFER</h4>
-                        <p>The Site is operated in the United States. If you are located in the European Union, Canada, or elsewhere outside of the United States, please be aware that any information you provide to us may be transferred to and processed in the United States. By using the Site, or providing us with any information, you consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be different than those in the country where you reside or are a citizen.</p>
-                        <p>SingleHop has certified that it adheres to the EU Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Economic Area and Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit: <a class="float-none" href="http://www.export.gov/safeharbor/">www.export.gov/safeharbor/</a>.</p>
-                        <p>SingleHop has committed to refer unresolved privacy complaints under the Safe Harbor program to an independent dispute resolution mechanism, the BBB EU Safe Harbor Program, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by us, you may contact the BBB EU Safe Harbor Program as described at: <a class="float-none" href="http://www.bbb.org/us/consumer/european-dispute-resolution/complaint-info/">www.bbb.org/us/consumer/european-dispute-resolution/complaint-info/</a>.</p>
-                        <h4>CHANGES TO THE PRIVACY POLICY</h4>
-                        <p>SingleHop reserves the right to change this Privacy Policy and will notify you of material changes by posting a notice and the new Privacy Policy on the Site. We may also provide notice to you in other ways in our discretion, such as through contact information you have provided. Any changes will be effective immediately upon the posting of the revised Privacy Policy. However, we will not make material changes to how we use your Personal Information, unless you consent to the new or revised policy or generally to such uses.</p>
-                        <h4>CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS</h4>
-                        <p>Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California certain information relating to third parties to which the company has disclosed certain categories of personal information during the preceding year for the third parties’ direct marketing purposes. Alternatively, the law provides that a company may comply, as SingleHop does, by disclosing in its privacy policy that it provides consumers choice (opt-out or opt-in) regarding sharing Personal Information with third parties for those third parties’ direct marketing purposes and information on how to exercise that choice. As stated above in this Privacy Policy, SingleHop provides you choice prior to sharing your Personal Information with third parties for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time SingleHop offers that choice, SingleHop does not share your information with that identified third party for its direct marketing purposes.</p>
-                        <p>If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please send your request to the following email address: ca-privacy-admin@singlehop.com or write to us at the following mailing address:</p>
-                        <p>Legal Department<br>SingleHop LLC<br>500 W. Madison St., Suite #801<br>Chicago, IL 60661</p>
-                        <p>You must put the statement “Your California Privacy Rights” in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labeled or sent properly or do not have complete information.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="rightcntnr">
-            
-					<ul class="aside-top-right">
-                        <li class="iconchat"><div class="ico-wrap"></div><a href="javascript:;;" class="custom_live_chat"><span>Chat with an Expert<i></i></span></a></li>
-                        <li class="call"><div class="ico-wrap"></div><a href="/about/contact/"><span>Call us at <b class="theme_phone_rotation">866-349-1027</b><i></i></span></a></li>
-                        <li class="icondeploy"><div class="ico-wrap"></div><a href="/contact/sales/"><span>Deploy Now<i></i></span></a></li>
-                    </ul>
-                
-            <div class="right-data-block">
-                <ul class="resource-s">
-                        <li>
-                            <img width="203" height="204" src="https://www.singlehop.com/wp-content/uploads/resources_img/amsterdam_dc.png" class="attachment-post-thumbnail wp-post-image" alt="amsterdam_dc">
-                            <div class="res-head">Amsterdam 1 Data Center Details</div>
-                            <p><a href="https://www.singlehop.com/resource-center/amsterdam-1-data-center-details/">Read full report <span></span></a>
-                            </p>
-                        </li>
-                    
-                        <li>
-                            <img width="203" height="204" src="https://www.singlehop.com/wp-content/uploads/resources_img/chicago_1_dc.png" class="attachment-post-thumbnail wp-post-image" alt="chicago_1_dc">
-                            <div class="res-head">Chicago 1 Data Center Details</div>
-                            <p><a href="https://www.singlehop.com/resource-center/chicago-1-data-center-details/">Read full report <span></span></a>
-                            </p>
-                        </li>
-                    
-                        <li>
-                            <img width="203" height="204" src="https://www.singlehop.com/wp-content/uploads/resources_img/proprietary_technology.png" class="attachment-post-thumbnail wp-post-image" alt="proprietary_technology">
-                            <div class="res-head">LEAP Platform Data Center Automation Overview</div>
-                            <p><a href="https://www.singlehop.com/resource-center/leap-platform-data-center-automation-overview/">Read full report <span></span></a>
-                            </p>
-                        </li>
-                    </ul>
-            </div>
-        </div> 
-    </div>            
-</section>
-	
-
-
-                    <script type="text/javascript" src="//platform.linkedin.com/in.js">/*
-                        api_key: 759b4bu91pg7ma
-                        scope: r_basicprofile r_emailaddress r_contactinfo
-                        onLoad: onLinkedInLoad
-                        authorize: true
-                    */</script>
-                    <script type="text/javascript">
-                        function onLinkedInLoad(){
-                            $("a[id*=li_ui_li_gen_]").css({marginBottom:"20px"})
-                           .html("<img src=\"https://www.singlehop.com/wp-content/themes/singlehop/img/lead-forms/auto_fill_linkedin.png\" height=\"31\" width=\"200\" border=\"0\" alt=\"LinkedIn\"/>");
-                           $(".IN-widget").css("cssText", "display: block !important");
-                           IN.Event.on(IN, "auth", onLinkedInAuth);
-                        }
-                        function onLinkedInAuth(){
-                            $(".linkedin_loader").show();
-                            IN.API.Profile("me")
-                            .fields("id", "first-name", "last-name", "email-address","positions:(company:(name))","phone-numbers")
-                            .result(displayProfiles).error(displayProfilesErrors);
-                        }
-                        function displayProfiles(profiles) {
-                            var member = profiles.values[0];
-                            var first_name = "";
-                            var last_name = "";
-                            var email_address = "";
-                            var company_name = "";
-                            var phone_number = "";
-                            if(member.hasOwnProperty("firstName") && $("#firstname").length)
-                                $("#firstname").val(member.firstName);
-
-                            if(member.hasOwnProperty("lastName") && $("#lastname").length)
-                                $("#lastname").val(member.lastName);
-
-                            if(member.hasOwnProperty("emailAddress") && $("#email").length)
-                                $("#email").val(member.emailAddress);
-
-                            if(member.positions.hasOwnProperty("values")){
-                                if(member.positions.values[0].company.hasOwnProperty("name") && $("#company").length)
-                                    $("#company").val(member.positions.values[0].company.name);
-                            }
-                            if(member.phoneNumbers.hasOwnProperty("values")){
-                                if(member.phoneNumbers.values[0].hasOwnProperty("phoneNumber") && $("#phone").length)
-                                    $("#phone").val(member.phoneNumbers.values[0].phoneNumber);
-                            }
-                            $(".linkedin_loader").hide();
-                        }
-                        function displayProfilesErrors(){
-                            $(".linkedin_loader").hide();
-                        }
-                    </script>
-                
-
-	<footer itemscope="" itemtype="http://schema.org/WPFooter" class="contains_wider_partner_wrap">
-		<div class="custom-bg-forms" id="form-corporate-domain-mail-box" style="z-index: 5">
-			<div class="custom-close-form" id="form-corporate-domain-mail-box-close">X</div>
-			<div class="custom-form-data" id="form-corporate-domain-mail-box-data">
-				<div>
-					<p>This form does not accept free e-mail accounts. Please enter a business e-mail to submit it.</p>
-					<div class="row">
-						<i></i><input type="text" placeholder="Business Email*" name="form-corporate-domain-mail-box-email" id="form-corporate-domain-mail-box-email">
-						<input type="hidden" name="form-corporate-domain-mail-box-form_id" id="form-corporate-domain-mail-box-form_id">
-					</div>
-					<a href="javascript:;;" class="orange-flat-type1" id="form-corporate-domain-mail-box-test-drive-now">Submit Form</a>
-					<a href="javascript:;;" class="send-comparison-button auto-right" id="form-corporate-domain-mail-box-cancel">Cancel</a>
-				</div>
-			</div>
-		</div>
-        <section class="top-f">
-            <div class="main-wrapper">
-				<div class="footer-left-wrapper">
-                    <div class="f-box col_1">
-                        <h5>Infrastructure</h5>
-                        <a class="link" href="/server-hosting/dedicated-servers/">Dedicated Server</a>
-                        <a class="link" href="/server-hosting/virtual-servers/">Virtual Server</a>
-                        <a class="link" href="/private-cloud-hosting/dedicated-private-cloud/">Dedicated Private Cloud</a>
-                        <a class="link" href="/private-cloud-hosting/virtual-private-cloud/">Virtual Private Cloud</a>
-                    </div>
-                    <div class="f-box">
-                        <h5>Solutions</h5>
-                        <a class="link" href="/managed-hosting-services/managed-hosting/">Fully Managed Hosting</a>
-                        <a class="link" href="/managed-hosting-services/baas/">Managed Backups</a>
-                        <a class="link" href="/managed-hosting-services/hybrid-cloud-hosting/">Hybrid Cloud</a>
-                        <a class="link" href="/managed-hosting-services/compliant-hosting/pci-dss/">PCI Compliant Hosting</a>
-                        <a class="link" href="/managed-hosting-services/compliant-hosting/hipaa/">HIPAA Compliant Hosting</a>
-                    </div>
-                    <div class="f-box">
-                        <h5>Company</h5>
-                        <a class="link" href="/about/contact/">Contact Information</a>
-                        <a class="link" href="/about/">Why SingleHop</a>
-                        <a class="link" href="/data-centers/">Global Data Centers</a>
-                        <a class="link" href="/sla/">Bill of Rights SLA</a>
-                        <a class="link" href="/leap/">LEAP Client Portal</a>
-                        <a class="link" href="/blog/">Official Blog</a>
-                    </div>
-                    <div class="f-box col_4">
-                        <h5>Customers</h5>
-                        <a class="link" href="/support/">Get Support Now</a>
-                        <a class="link" href="//leap3.singlehop.com/">Login to LEAP</a>
-                        <a class="link" href="/about/contact/">Contact Us</a>
-                    </div>
-                    <ul class="wider_logos_wrap_footer">
-                        <li>
-                            <h5>Compliance</h5>
-                            <img width="156" height="214" src="https://www.singlehop.com/wp-content/themes/singlehop/img/global/logo-sprite1.png" alt="Singlehop Compliance">
-                        </li>
-                        <li>
-                            <h5>Memberships</h5>
-                            <img width="108" height="214" src="https://www.singlehop.com/wp-content/themes/singlehop/img/global/logo-sprite2.png" alt="Singlehop Memberships">
-                        </li>
-                        <li class="wider_wrap_last">
-                            <h5>Tech Partners</h5>
-                            <img width="320" height="214" src="https://www.singlehop.com/wp-content/themes/singlehop/img/global/logo-sprite3.png" alt="Singlehop Tech Partners">
-                        </li>
-                    </ul>
-                </div>                <div class="f-box w292">
-                    <h5>Get Connected</h5>
-					<script type="IN/Login" data-onauth="onLinkedInAuth"></script>
-                    <!--footer contact form-->
-                    <div style="display: block;" class="f-contact" id="contactFormFrame">
-						<form enctype="multipart/form-data" class="hubspot-form" id="hubspot_b3d0c990-08eb-482b-939e-28a8f686116e" name="hubspot_b3d0c990-08eb-482b-939e-28a8f686116e" onsubmit="footer_form.validate" onsuccess="footer_form.onsuccess" onerror="footer_form.onerror" baseurl="https://www.singlehop.com" method="POST">
-                                    <div class="row">
-                                        <i></i>
-                                <select name="leadsource" id="leadsource" style="display:none;"><option value="Lead Form: Tandem Registration">Lead Form: Tandem Registration</option><option value="Channel Partner Provided Lists">Channel Partner Provided Lists</option><option value="Lead Form: Live Chat Closed">Lead Form: Live Chat Closed</option><option value="FREE LEAP3 SIGNUPS">FREE LEAP3 SIGNUPS</option><option value="Website: Live Chat">Website: Live Chat</option><option value="Unknown">Unknown</option><option value="Website: Phoenix Lead Form">Website: Phoenix Lead Form</option><option value="Website: Contact Form">Website: Contact Form</option><option value="Trade Show">Trade Show</option><option value="LiveChat">LiveChat</option><option value="ThanksgivingPromotion">ThanksgivingPromotion</option><option value="Inbound Call">Inbound Call</option><option value="Prospecting">Prospecting</option><option value="Search Engine">Search Engine</option><option value="Web Form" selected="selected">Web Form</option><option value="-">-</option><option value="Email">Email</option><option value="Event">Event</option><option value="Incomplete Website Order">Incomplete Website Order</option><option value="Jigsaw">Jigsaw</option><option value="Live Chat">Live Chat</option><option value="Other">Other</option><option value="Phone Call">Phone Call</option><option value="Existing Customer">Existing Customer</option><option value="Purchased List">Purchased List</option><option value="Referral">Referral</option><option value="Social Networking">Social Networking</option><option value="Website: Order Form Drop">Website: Order Form Drop</option><option value="Website Lead Form">Website Lead Form</option><option value="Website Lead Form: Amsterdam News Signup">Website Lead Form: Amsterdam News Signup</option><option value="Website Lead Form: Channel">Website Lead Form: Channel</option><option value="Website Lead Form: Contact Us: Abuse">Website Lead Form: Contact Us: Abuse</option><option value="Website Lead Form: Contact Us: Billing">Website Lead Form: Contact Us: Billing</option><option value="Website Lead Form: Contact Us: Channel">Website Lead Form: Contact Us: Channel</option><option value="Website Lead Form: Contact Us: Legal">Website Lead Form: Contact Us: Legal</option><option value="Website Lead Form: Contact Us: Marketing">Website Lead Form: Contact Us: Marketing</option><option value="Website Lead Form: Contact Us: Reseller">Website Lead Form: Contact Us: Reseller</option><option value="Website Lead Form: Contact Us: Sales">Website Lead Form: Contact Us: Sales</option><option value="Website Lead Form: CRA Bottom">Website Lead Form: CRA Bottom</option><option value="Website Lead Form: CRA Top">Website Lead Form: CRA Top</option><option value="Website Lead Form: Customer Build">Website Lead Form: Customer Build</option><option value="Website Lead Form: LiveChat Message">Website Lead Form: LiveChat Message</option><option value="Website Lead Form: Menubar iFrame">Website Lead Form: Menubar iFrame</option><option value="Website Lead Form: Newsletter Signup">Website Lead Form: Newsletter Signup</option><option value="Website Lead Form: Private Cloud Quote">Website Lead Form: Private Cloud Quote</option><option value="Website Lead Form: Request Leap Demo">Website Lead Form: Request Leap Demo</option><option value="Website Lead Form: Reseller">Website Lead Form: Reseller</option><option value="Website Lead Form: Resources Section">Website Lead Form: Resources Section</option><option value="Website Lead Form: Rooftop Cloud Expo">Website Lead Form: Rooftop Cloud Expo</option><option value="Website Lead Form: Sales">Website Lead Form: Sales</option><option value="Website Lead Form: Sidebar iFrame">Website Lead Form: Sidebar iFrame</option><option value="Website Lead Form: Upgrade Overkill">Website Lead Form: Upgrade Overkill</option><option value="Website Order">Website Order</option><option value="Website Lead Form: Free Leap Account">Website Lead Form: Free Leap Account</option><option value="Website Lead Form: Webinar Invite">Website Lead Form: Webinar Invite</option><option value="Collateral Driven Active Lead Gen">Collateral Driven Active Lead Gen</option><option value="Commissioner Gordon">Commissioner Gordon</option><option value="Partner Deal Registration">Partner Deal Registration</option><option value="NOLA BarHOP cPanel Con RSVP">NOLA BarHOP cPanel Con RSVP</option><option value="Channel Partner Deal Reg Form">Channel Partner Deal Reg Form</option><option value="Enterprise Contact Form">Enterprise Contact Form</option><option value="Channel Training Webinar 1">Channel Training Webinar 1</option><option value="Custom Quote">Custom Quote</option><option value="Channel Form">Channel Form</option><option value="Website Lead Form: Private Cloud">Website Lead Form: Private Cloud</option></select>
-                                    </div>
-                                <input type="hidden" id="b3d0c990-08eb-482b-939e-28a8f686116e_lead_form_name" name="lead_form_name" value="Sales - General">
-                                    <div class="row">
-                                        <i></i>
-                                        <input type="text" id="email" name="email" placeholder="Business Email" value="">
-                                    </div>
-                                    <div class="row">
-                                        <i></i>
-                                        <input type="text" id="firstname" name="firstname" placeholder="First Name" value="">
-                                    </div>
-                                    <div class="row">
-                                        <i></i>
-                                        <input type="text" id="lastname" name="lastname" placeholder="Last Name" value="">
-                                    </div>
-                                    <div class="row">
-                                        <i></i>
-                                        <input type="text" id="company" name="company" placeholder="Company" value="">
-                                    </div>
-                                    <div class="row">
-                                        <i></i>
-                                        <textarea name="description" id="description" placeholder="Your Message"></textarea>
-                                    </div>
-                                <input type="hidden" id="b3d0c990-08eb-482b-939e-28a8f686116e_utmsource__c" name="utmsource__c" value=""><input type="hidden" id="b3d0c990-08eb-482b-939e-28a8f686116e_utmmedium__c" name="utmmedium__c" value=""><input type="hidden" id="b3d0c990-08eb-482b-939e-28a8f686116e_utmcampaign__c" name="utmcampaign__c" value=""><input type="hidden" id="b3d0c990-08eb-482b-939e-28a8f686116e_utmcontent__c" name="utmcontent__c" value=""><input type="hidden" id="b3d0c990-08eb-482b-939e-28a8f686116e_utmkeyword__c" name="utmkeyword__c" value=""><a class=" aside-button btn-submit" href="javascript:void(0);">submit message</a><input type="hidden" name="form-id" value="b3d0c990-08eb-482b-939e-28a8f686116e"><input type="hidden" name="page-url" class="page-url"><input type="hidden" name="page-title" class="page-title"></form>                    </div>
-                    <!--footer contact form ends-->
-                    <!--success message-->
-                    <div class="f-contact-msg">
-                        <div class="thanks">Thank you!</div>
-                        <div class="message">Thank you for contacting us. We appreciate your comments and your interest in SingleHop. We will get back to you shortly. </div>
-                    </div>
-					<div class="linkedin_loader"><p>Please wait...</p></div>
-                    <!--success message ends-->
-                </div>
-            </div>
-        </section>
-        <section class="bottom-f">
-            <div class="main-wrapper">
-                <div class="fb-box w399">
-                    <h5>Connect</h5>
-                    <a href="//www.facebook.com/singlehop" class="fb">Facebook</a>
-                    <a href="//twitter.com/singlehop" class="tw">Twitter</a>
-                    <a href="//www.linkedin.com/company/246148" class="in">Linkedin</a>
-                    <a href="//plus.google.com/112087244411664464052/posts" class="gp">Google+</a>
-                </div>
-                <div class="fb-box w520 newsletter-cont">
-                    <h5>Newsletter</h5>
-					<div class="newsletter-succcess" style="display: none;">
-						You have successfully signed up!
-					</div>
-					<form enctype="multipart/form-data" class="hubspot-form" id="hubspot_ccb9905e-c422-4968-bc5a-a54520629728" name="hubspot_ccb9905e-c422-4968-bc5a-a54520629728" onsubmit="newsletter.validate" onsuccess="newsletter.onsuccess" onerror="newsletter.onerror" baseurl="https://www.singlehop.com" method="POST">
-                                    <div class="row">
-                                        <i></i>
-                                        <input type="text" id="email" name="email" placeholder="Business Email" value="">
-                                    </div>
-                                    <div class="row">
-                                        <i></i>
-                                <select name="leadsource" id="leadsource" style="display:none;"><option value="Lead Form: Tandem Registration">Lead Form: Tandem Registration</option><option value="Channel Partner Provided Lists">Channel Partner Provided Lists</option><option value="Lead Form: Live Chat Closed">Lead Form: Live Chat Closed</option><option value="FREE LEAP3 SIGNUPS">FREE LEAP3 SIGNUPS</option><option value="Website: Live Chat">Website: Live Chat</option><option value="Unknown">Unknown</option><option value="Website: Phoenix Lead Form">Website: Phoenix Lead Form</option><option value="Website: Contact Form">Website: Contact Form</option><option value="Trade Show">Trade Show</option><option value="LiveChat">LiveChat</option><option value="ThanksgivingPromotion">ThanksgivingPromotion</option><option value="Inbound Call">Inbound Call</option><option value="Prospecting">Prospecting</option><option value="Search Engine">Search Engine</option><option value="Web Form" selected="selected">Web Form</option><option value="-">-</option><option value="Email">Email</option><option value="Event">Event</option><option value="Incomplete Website Order">Incomplete Website Order</option><option value="Jigsaw">Jigsaw</option><option value="Live Chat">Live Chat</option><option value="Other">Other</option><option value="Phone Call">Phone Call</option><option value="Existing Customer">Existing Customer</option><option value="Purchased List">Purchased List</option><option value="Referral">Referral</option><option value="Social Networking">Social Networking</option><option value="Website: Order Form Drop">Website: Order Form Drop</option><option value="Website Lead Form">Website Lead Form</option><option value="Website Lead Form: Amsterdam News Signup">Website Lead Form: Amsterdam News Signup</option><option value="Website Lead Form: Channel">Website Lead Form: Channel</option><option value="Website Lead Form: Contact Us: Abuse">Website Lead Form: Contact Us: Abuse</option><option value="Website Lead Form: Contact Us: Billing">Website Lead Form: Contact Us: Billing</option><option value="Website Lead Form: Contact Us: Channel">Website Lead Form: Contact Us: Channel</option><option value="Website Lead Form: Contact Us: Legal">Website Lead Form: Contact Us: Legal</option><option value="Website Lead Form: Contact Us: Marketing">Website Lead Form: Contact Us: Marketing</option><option value="Website Lead Form: Contact Us: Reseller">Website Lead Form: Contact Us: Reseller</option><option value="Website Lead Form: Contact Us: Sales">Website Lead Form: Contact Us: Sales</option><option value="Website Lead Form: CRA Bottom">Website Lead Form: CRA Bottom</option><option value="Website Lead Form: CRA Top">Website Lead Form: CRA Top</option><option value="Website Lead Form: Customer Build">Website Lead Form: Customer Build</option><option value="Website Lead Form: LiveChat Message">Website Lead Form: LiveChat Message</option><option value="Website Lead Form: Menubar iFrame">Website Lead Form: Menubar iFrame</option><option value="Website Lead Form: Newsletter Signup">Website Lead Form: Newsletter Signup</option><option value="Website Lead Form: Private Cloud Quote">Website Lead Form: Private Cloud Quote</option><option value="Website Lead Form: Request Leap Demo">Website Lead Form: Request Leap Demo</option><option value="Website Lead Form: Reseller">Website Lead Form: Reseller</option><option value="Website Lead Form: Resources Section">Website Lead Form: Resources Section</option><option value="Website Lead Form: Rooftop Cloud Expo">Website Lead Form: Rooftop Cloud Expo</option><option value="Website Lead Form: Sales">Website Lead Form: Sales</option><option value="Website Lead Form: Sidebar iFrame">Website Lead Form: Sidebar iFrame</option><option value="Website Lead Form: Upgrade Overkill">Website Lead Form: Upgrade Overkill</option><option value="Website Order">Website Order</option><option value="Website Lead Form: Free Leap Account">Website Lead Form: Free Leap Account</option><option value="Website Lead Form: Webinar Invite">Website Lead Form: Webinar Invite</option><option value="Collateral Driven Active Lead Gen">Collateral Driven Active Lead Gen</option><option value="Commissioner Gordon">Commissioner Gordon</option><option value="Partner Deal Registration">Partner Deal Registration</option><option value="NOLA BarHOP cPanel Con RSVP">NOLA BarHOP cPanel Con RSVP</option><option value="Channel Partner Deal Reg Form">Channel Partner Deal Reg Form</option><option value="Enterprise Contact Form">Enterprise Contact Form</option><option value="Channel Training Webinar 1">Channel Training Webinar 1</option><option value="Custom Quote">Custom Quote</option><option value="Channel Form">Channel Form</option><option value="Website Lead Form: Private Cloud">Website Lead Form: Private Cloud</option></select>
-                                    </div>
-                                <input type="hidden" id="ccb9905e-c422-4968-bc5a-a54520629728_lead_form_name" name="lead_form_name" value="Newsletter"><input type="hidden" id="ccb9905e-c422-4968-bc5a-a54520629728_utmcampaign__c" name="utmcampaign__c" value=""><input type="hidden" id="ccb9905e-c422-4968-bc5a-a54520629728_utmcontent__c" name="utmcontent__c" value=""><input type="hidden" id="ccb9905e-c422-4968-bc5a-a54520629728_utmkeyword__c" name="utmkeyword__c" value=""><input type="hidden" id="ccb9905e-c422-4968-bc5a-a54520629728_utmmedium__c" name="utmmedium__c" value=""><input type="hidden" id="ccb9905e-c422-4968-bc5a-a54520629728_utmsource__c" name="utmsource__c" value=""><a class=" aside-button btn-submit" href="javascript:void(0);">subscribe</a><input type="hidden" name="form-id" value="ccb9905e-c422-4968-bc5a-a54520629728"><input type="hidden" name="page-url" class="page-url"><input type="hidden" name="page-title" class="page-title"></form>                </div>
-                <div class="fb-box w281">
-                    <p>© 2015 SingleHop, LLC.</p>
-                    <ul>
-                        <li><a href="/legal/privacy-policy/">Privacy</a></li>
-                        <li>|</li>
-                        <li><a href="/legal/">Legal &amp; MSA</a></li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-    </footer>
-	</article>
-	<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName('script')[0];
-a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0007/8696.js";
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-<link rel="stylesheet" id="sh-custom-page-style0-css" href="https://www.singlehop.com/wp-content/themes/singlehop/css/about_v_15.css?ver=4.0.1" type="text/css" media="all">
-<script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/js/jquery.ddslick.min.js"></script>
+			<script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/js/jquery.ddslick.min.js"></script>
 <script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/js/jquery.hoverIntent.minified.js"></script>
 <script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/js/jquery.validate.js"></script>
-<script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/js/jquery.plusslider.js"></script>
 	<script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/js/validate.js"></script>
+	<script type="text/javascript" src="https://www.singlehop.com/wp-content/themes/singlehop/js/cookie_config.js"></script>
 	<script type="text/javascript">
 		var template_uri = "https://www.singlehop.com/wp-content/themes/singlehop";
 	</script>
-	<!-- Mongoose Metrics Tracking Code -->
-		<script type="text/javascript">
-		var mm_c = '2555e6100debaf6102162f6d017a9e3d';
-		var mm_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
-		document.write(unescape("%3Cscript src='" + mm_protocol + "www.mongoosemetrics.com/jsfiles/js-correlation/mm-getvar.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://www.mongoosemetrics.com/jsfiles/js-correlation/mm-getvar.js" type="text/javascript"></script>
-		<script type="text/javascript">
-		/* Custom Parameters */
-		/* MANDATORY default_number Setup Parameter DO NOT REMOVE */
-		var default_number='8668172811'; /* 10 Digits Only i.e. 8881234567 */
-		var customer_number_format='1';
-		var overwrite_default_number = 'N';
-		/* var prefix_countrycode='1';	*/
-		var mm_onload='1';
-		</script>
-		<script type="text/javascript">
-		document.write(unescape("%3Cscript src='" + mm_protocol + "www.mongoosemetrics.com/jsfiles/js-correlation/mm-control.php%3F" + mm_variables + "' type='text/javascript'%3E%3C/script%3E"));
-		</script>
-		<script type="text/javascript">
-		mm_action_replace();
-		</script>
-	<!-- End Mongoose Metrics Tracking Code -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"c318279db6","applicationID":"4465580","transactionName":"YVBWMEZXCEtXB0cPDVgadQdAXwlWGQdcCw9ZWxkXQVQWWVEB","queueTime":0,"applicationTime":1754,"atts":"TRdVRg5NG0U=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+	<!-- DialogTech Tracking Code -->
+	<script type="text/javascript">
+        var _stk = "2fb46d71faa48e186dbc52bf6631e510c5281178";
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+        (function(){
+            var a=document, b=a.createElement("script"); b.type="text/javascript";
+            b.async=!0; b.src=('https:'==document.location.protocol ? 'https://' :
+            'http://') + 'd31y97ze264gaa.cloudfront.net/assets/st/js/st.js';
+            a=a.getElementsByTagName("script")[0]; a.parentNode.insertBefore(b,a);
+        })();
+    </script>
+	<!-- End DialogTech Tracking Code -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c318279db6","applicationID":"4465580","transactionName":"YVBWMEZXCEtXB0cPDVgadQdAXwlWGQdcCw9ZWxkXQVQWWVEB","queueTime":0,"applicationTime":1409,"atts":"TRdVRg5NG0U=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
+
+</body></html>
