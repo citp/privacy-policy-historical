@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silhouetteamerica.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021044id_/http%3A//www.silhouetteamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silhouetteamerica.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905234621id_/http%3A//www.silhouetteamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Silhouette America - Silhouette America - Privacy Policy
 
@@ -50,8 +50,8 @@ You can help Silhouette America maintain the accuracy of your personal informati
   * Send a letter to: 
     * Silhouette America, Inc.
     * Attn: Customer Service
-    * 1276 S 1380 W
-    * Orem, UT 84058
+    * 1250 East 200 South Suite 3C
+    * Lehi, UT 84043
   * Phone us at: (800) 859-8243
 
 
