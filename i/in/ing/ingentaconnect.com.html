@@ -1,24 +1,29 @@
-<!--The following is the downloaded HTML source of the ingentaconnect.com privacy policy that was archived on 2015-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319232740id_/http%3A//www.ingentaconnect.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ingentaconnect.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905074619id_/http%3A//www.ingentaconnect.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<!-- /* bootstrap responsive disabled hacks*/
-<meta name="viewport" content="width=device-width, initial-scale=1"> -->
+<!-- /* bootstrap responsive disabled hacks*/ -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- analytics -->
+<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript">
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:22,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:9,2:8,3:6,4:10,5:3,6:23,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:9,2:8,3:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],6:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,2:24,ee:"QJf3ax",gos:"7eSDFh"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:24,2:23,ee:"QJf3ax"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:24,2:23,ee:"QJf3ax"}],9:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:24,2:23,ee:"QJf3ax"}],10:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:6,2:24,ee:"QJf3ax"}],11:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:12,3:10,4:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],12:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],13:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:22,2:23,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:22,2:13,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],22:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],23:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],24:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:23,ee:"QJf3ax"}]},{},["G9z0Bl",4,11,5]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"fce9dc9e08",applicationID:"9572915",sa:1,agent:"js-agent.newrelic.com/nr-632.min.js"}
+</script>
 <!-- /WEB-INF/jsp/about/privacy.jsp -->
 <title>IngentaConnect Help Pages: ingentaconnect</title>
 <!-- Latest JQUERY for Bootstrap core JavaScript -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
-<link rel="stylesheet" href="/css/connect/jquery.bookmark.css" type="text/css" media="screen">
-<link rel="stylesheet" href="/css/connect/template_layout.css" type="text/css" media="screen">
-<link rel="stylesheet" href="/css/connect/content.css" type="text/css" media="screen">
-<link rel="stylesheet" href="/css/connect/menus.css" type="text/css" media="screen">
-<link rel="stylesheet" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/css/connect/reset.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/css/connect/bobby.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/css/connect/admin/ui-theme/cupertino/jquery-ui-1.7.custom.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/css/connect/print.css" type="text/css" media="print">
-<link rel="stylesheet" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/css/connect/about.css" type="text/css">
+<link rel="stylesheet" href="/css/connect/jquery.bookmark.css?release=responsive" type="text/css" media="screen">
+<link rel="stylesheet" href="/css/connect/template_layout.css?release=responsive" type="text/css" media="screen">
+<link rel="stylesheet" href="/css/connect/content.css?release=responsive" type="text/css" media="screen">
+<link rel="stylesheet" href="/css/connect/menus.css?release=responsive" type="text/css" media="screen">
+<link rel="stylesheet" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/css/connect/reset.css?release=responsive" type="text/css" media="all">
+<link rel="stylesheet" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/css/connect/bobby.css?release=responsive" type="text/css" media="all">
+<link rel="stylesheet" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/css/connect/admin/ui-theme/cupertino/jquery-ui-1.7.custom.css?release=responsive" type="text/css" media="all">
+<link rel="stylesheet" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/css/connect/print.css?release=responsive" type="text/css" media="print">
+<link rel="stylesheet" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/css/connect/about.css?release=responsive" type="text/css">
 <!--[if IE 7.0]><link rel="stylesheet" href="/css/connect/ie7.css" type="text/css" media="all"/><![endif]-->
 <!--[if IE 6]><link rel="stylesheet" href="/css/connect/ie6.css" type="text/css" media="all"/><![endif]-->
 <!--[if IE 5.5000]><link rel="stylesheet" href="/css/connect/ie55win.css" type="text/css" media="all"/><![endif]-->
@@ -28,108 +33,33 @@
 @import "/css/connect/macie.css";
 /**/ 
 </style>
-<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/common/loader.js" type="text/javascript"></script>
-<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/common/popup.js" type="text/javascript"></script>
-<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/jquery/jquery.v1-3-2.min.js" type="text/javascript"></script>
-<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/menus.js" type="text/javascript"></script>
-<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/sizeswitcher.js" type="text/javascript"></script>
-<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/jquery/jquery.functions.js" type="text/javascript"></script>
-<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/site.js" type="text/javascript"></script>
-<script src="/js/jquery/jquery.bookmark.js" type="text/javascript"></script>
+<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/common/loader.js?release=responsive" type="text/javascript"></script>
+<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/common/popup.js?release=responsive" type="text/javascript"></script>
+<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/jquery/jquery.v1-3-2.min.js?release=responsive" type="text/javascript"></script>
+<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/menus.js?release=responsive" type="text/javascript"></script>
+<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/sizeswitcher.js?release=responsive" type="text/javascript"></script>
+<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/jquery/jquery.functions.js?release=responsive" type="text/javascript"></script>
+<script src="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/js/site.js?release=responsive" type="text/javascript"></script>
+<script src="/js/jquery/jquery.bookmark.js?release=responsive" type="text/javascript"></script>
 <link rel="shortcut icon" href="http://a465.g.akamai.net/f/465/1984/1d/www.ingentaconnect.com/images/ic.ico">
+<script src="/js/rwd/enquire.min.js"></script>
+<script src="/js/rwd/enquire-settings.js"></script>
+<!--[if lt IE 9]>
+<script>
+HPCarouselnumbertoMove = [1,2];
+HPCarouselvisibleElements = HPCarouselnumbertoMove.length;
+</script>
+<![endif]-->
 <!-- Bootstrap core CSS -->
 <link href="/css/common/bootstrap.min.css" rel="stylesheet">
 <!-- Font Awesome CSS -->
 <link rel="stylesheet" href="/css/common/font-awesome.min.css">
-<!-- NEW re-branding CSS --> 
+<!-- NEW re-branding CSS -->
 <!-- <link rel="stylesheet" href="/css/common/ingenta.css"> -->
-<link rel="stylesheet" href="/Less/ingenta.css"> 
-<style> /* bootstrap responsove disabled hacks*/
-.container {
-width:993px !important;
-padding-right:0px !important;
-padding-left:0px !important;
-}
-.col-xs-3 {
-padding-left: 13px;
-} 
-body {
-padding-left: 8px;
-}
-@media (max-width: 768px) {
-.collapse {
-display:block;
-}
-.container-fluid {
-display:none;
-}
-.nav.navbar-nav.pull-right.about-section-nav-ul > li {
-float: left;
-}
-.nav.navbar-nav.nav-home-link {
-float: left;
-margin: 0;
-}
-.navbar-form {
-border: 0 none;
-box-shadow: none;
-margin-left: 0;
-margin-right: 0;
-padding-bottom: 0;
-}
-.navbar-form .form-group {
-display: inline-block;
-margin-bottom: 0;
-vertical-align: middle;
-}
-.navbar-collapse.about-section-nav.collapse.in{
-display:block;
-}
-.navbar-left {
-float: left !important;
-}
-.navbar-nav {
-float: left;
-margin: 0;
-}
-.nav.navbar-nav.navbar-right.nav-section-links {
-width: 240px;
-}
-.navbar-nav.navbar-right:last-child {
-margin-right: -15px;
-}
-.navbar-right {
-float: right !important;
-}	
-.navbar-nav > li {
-float: left;
-}
-.col-xs-12.col-sm-3.col-md-3 {
-width: 25%;
-}
-.col-xs-6 {
-width: 25%;
-} 
-.col-xs-12.col-sm-9.col-md-9 {
-width:73%;
-} 
-.signInContainer {
-position: relative;
-} 
-.collapse.navbar-collapse.signInContainer {
-margin-left: 15px;
-} 
-}
-html,body {
-height:100%;
-}
-.wrapper {
-min-height: 100%;
-}
-body h1 {
-margin-top: 0 !important;
-}
-</style>
+<link rel="stylesheet" href="/Less/ingenta.css?release=5.1.0.p5">
+<!--[if lt IE 8]>
+<link href="/css/common/bootstrap-ie7.css" rel="stylesheet">
+<![endif]-->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
@@ -153,37 +83,40 @@ GA_googleAddSlot("ca-pub-8127345560464004", "Skyscraper_body");
 </script>
 <script type="text/javascript">
 GA_googleAddSlot("ca-pub-8127345560464004", "Wide_Skyscraper");
-</script>	
+</script>
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
 <script language="JavaScript">
-</script> 
-<script src="/js/admin/metastore-tools-popup.js" type="text/javascript" charset="utf-8"></script>	
-<script src="/js/admin/jquery-ui-1.7.custom.min.js" type="text/javascript" charset="utf-8"></script>	
+</script>
+<script src="/js/admin/metastore-tools-popup.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/admin/jquery-ui-1.7.custom.min.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body class="ingenta">
+<div id="hiddenContext"></div>
+<div id="skiptocontent"><a href="#mainContents">Skip to main content</a></div>
 <div class="wrapper">
 <!-- <div id="container"> -->
 <!-- Start of NEW Branding Header -->
-<div class="container">
+<div class="container device-tab-mobile-buttons-container">
 <nav class="navbar navbar" role="navigation">
-<a class="navbar-brand " href="/"><img class="logo " alt="ingentaconnect" title="ingentaconnect" src="/images/ingenta-connect.png"></a>
-<div class="container-fluid">
-<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#about-section-nav">
-<span><i class="fa fa-ellipsis-h"></i></span>
+<a class="navbar-brand device-tab device-mob" href="/?logoHome=true"><img class="logo " alt="ingentaconnect" title="ingentaconnect" src="/images/ingenta-connect.png"></a>
+<div class="container-fluid device-buttons">
+<div class="buttons-container"><button type="button" class="navbar-toggle about-section-nav-button" data-toggle="collapse" data-target="#browseby-section-nav">
+<span><i class="fa fa-ellipsis-h fa-2x"></i></span>
 </button>
-<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<button type="button" class="navbar-toggle search-section-nav-button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 <span class="sr-only">Toggle navigation</span>
-<span class="fa fa-search"></span>
+<span class="fa fa-search fa-2x"></span>
 </button>
-<form class="cartButtonRWD" action="/cart">
-<input type="submit" class="navbar-toggle" value="">
-</form> 
-<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#sign-in-container">
-<span><i class="fa fa-user"></i></span>
+<a href="/cart" class="navbar-toggle cart-section-nav-button">
+<span class="fa fa-shopping-cart fa-2x"></span>
+</a>
+<button type="button" class="navbar-toggle signin-section-nav-button" data-toggle="collapse" data-target="#sign-in-container">
+<span><i class="fa fa-user fa-2x"></i></span>
 </button>
-<a class="navbar-brand " href="/?logoHome=true"><img class="logo " alt="ingentaconnect" title="ingentaconnect" src="/images/ingenta-connect.png"></a>
+</div>
+<a class="navbar-brand device-desk" href="/?logoHome=true"><img class="logo " alt="ingentaconnect" title="ingentaconnect" src="/images/ingenta-connect.png"></a>
 </div>
 <div class="collapse navbar-collapse about-section-nav" id="about-section-nav">
 <ul class="nav navbar-nav pull-right about-section-nav-ul"> 
@@ -209,10 +142,13 @@ GA_googleFetchAds();
 <input type="hidden" name="form_name" value="quicksearch">
 <input name="ie" type="hidden" value="॰">
 <input type="hidden" name="option1" value="tka" id="option1">
-<div class="form-group">
-<input type="text" class="form-control" placeholder="Search" name="value1" id="search-value1">
+<div class="form-group searchbox-main">
+<label>
+<span>Search</span>
+<input type="text" class="form-control" placeholder="Search ingentaconnect" name="value1" id="search-value1">
+</label>
 </div>
-<div class="btn-group">
+<div class="btn-group search-dropdown-container">
 <button type="button" class="btn btn-default dropdown-toggle nav-searchDropDown-links" data-toggle="dropdown">
 Search by <span class="fa fa-angle-down"></span>
 </button>
@@ -224,37 +160,58 @@ Search by <span class="fa fa-angle-down"></span>
 </ul>
 </div>
 <button type="submit" class="btn btn-default btn-ingenta-search"><i class="fa fa-search"></i></button>
-</form>
 <ul class="nav navbar-nav nav-advanceSearch-links">
 <li><a href="/search/advanced">Advanced <br>Search</a></li>
 </ul>
-<ul class="nav navbar-nav navbar-right nav-section-links">
+</form>
+<span class="browseBySpacer"></span>
+<!-- <ul class="nav navbar-nav navbar-right nav-section-links">
+<li class="shadedLine"></li>
+<li class="browseBysm"><span class="browsebyContent">Browse by:</span></li>
+<li class="firstShadedText"><a href="/content/title?j_type=online&j_startat=Aa&j_endat=Af&j_pagesize=200&j_page=1" class="divider">Publication</a></li>
+<li><a href="/content?type=publishers" class="divider">Publisher</a></li>
+<li><a href="/content?type=subjects">Subject</a></li>
+</ul> -->
+</div>
+<ul class="collapse navbar-collapse nav navbar-nav navbar-right nav-section-links" id="browseby-section-nav">
 <li class="shadedLine"></li>
 <li class="browseBysm"><span class="browsebyContent">Browse by:</span></li>
 <li class="firstShadedText"><a href="/content/title?j_type=online&amp;j_startat=Aa&amp;j_endat=Af&amp;j_pagesize=200&amp;j_page=1" class="divider">Publication</a></li>
 <li><a href="/content?type=publishers" class="divider">Publisher</a></li>
 <li><a href="/content?type=subjects">Subject</a></li>
 </ul>
-</div>
 </nav>
 </div>
 <!-- End of NEW Branding Header -->
 <div class="container">
-<div class="row mainRow"> 
+<div class="row mainRow">
 <!-- div class="col-xs-6 col-sm-4 col-md-3 pull-right"> -->
-<div class="col-xs-3 col-md-3 pull-right"> 
+<div class="col-xs-3 col-sm-4 col-md-3 pull-right signin-tools">
 <!-- <div id="rightnavbar"> -->
 <!-- <div class="rightnav"> -->
+<div class="sign-transparent-bg"></div>
 <div role="singin" class="collapse navbar-collapse signInContainer" id="sign-in-container">
+<button type="button" class="navbar-toggle signin-section-nav-button sign-up-account-button" data-toggle="collapse" data-target="#sign-in-container">
+<span><i class="fa fa-times-circle fa-2x"></i></span>
+</button>
 <h3 class="float-l"><a href="#" class="signInLink open">Sign-in <i class="fa fa-plus"></i></a></h3>
 <a href="/register/personal?url=%2fabout%2fprivacy" class="btn btn-general-white" title="Sign up here">Register <i class="fa fa-chevron-right"></i></a>
 <div id="sign-in-form">
 <form id="form-signin" method="post" action="/session">
 <ul id="signinform">
-<li class="usernameField"><input name="username" type="text" maxlength="100" class="form-input-text" placeholder="Username" id="username"></li>
-<li class="passwordField"><input name="password" type="password" maxlength="20" class="form-input-text" placeholder="Password" id="password"></li>
+<li class="usernameField">
+<label>
+Username:
+<input name="username" type="text" maxlength="100" class="form-input-text" id="username">
+</label>
+</li>
+<li class="passwordField">
+<label>
+Password:
+<input name="password" type="password" maxlength="20" class="form-input-text" id="password"></label></li>
+
 <input type="hidden" name="url" value="/about/privacy">
-<li><input type="submit" class="btn btn-general icbutton" value="SIGN IN NOW"></li>
+<li class="sign-in-button"><input type="submit" class="btn btn-general icbutton" value="SIGN IN NOW"></li>
 <li class="rememberMe listItemStackSplit"><input name="remember" type="checkbox" id="remember"> <label for="remember"> Remember Login</label></li>
 <li class=" forgottenLogin listItemStackSplit"><a href="/register/password-reminder" title="forgotten your login?" class="passwordremind">Login reminder</a></li>
 </ul>
@@ -269,11 +226,6 @@ Search by <span class="fa fa-angle-down"></span>
 </li>
 </ul>
 </div>	
-<!-- </div> -->
-<!--
--->	
-<!-- </div> -->
-<!-- </div> -->
 <script type="text/javascript" charset="utf-8">
 $(document).ready(function() {
 $(".signInLink").click(function() {
@@ -300,100 +252,8 @@ $(".signInLink").click();
 <a href="/" title="home">Home</a> /
 IngentaConnect Help Pages
 </div>
-<script type="text/javascript" src="//ingentaconnecttag.scholarlyiq.com/ntpagetag.js"></script>
-<noscript>
-<img src="/images/ntpagetag.gif?js=0" height="1" width="1" border="0" hspace="0" vspace="0" alt="" />
-</noscript>
-<script type="text/javascript">
-var valid;
-if ( "" ) {
-var eventTime = new Date().getTime();
-var NTPT_DATA = 'eventTime=' + eventTime + '&&';
-// If searchTerm present, URL encode and append to NTPT_PGEXTRA
-if ( "" ) {
-NTPT_DATA = 'eventTime=' + eventTime + '&&&searchTerm=' + encodeURIComponent( "" );
-}
-siqValidateAndTag( "/validate/siq", NTPT_DATA );
-}
-function fulltext(e){
-// console.info("unbind");
-$(e).unbind();
-var downloadURL = $(e).attr("data-popup");
-if ( downloadURL ) {
-// console.info("popup");
-popup(downloadURL,'downloadWindow','900','800');
-}
-var eventTime = new Date().getTime();
-var mimetype = $(e).hasClass(".pdf") ? 'PDF' : 'HTML';
-siqValidateAndTag( '/validate/siq', 'eventTime=' + eventTime + '&FullText' + mimetype + '&' );
-}
-function siqValidateAndTag( url, data ) {
-var ajaxUrl = url + "?" + data;
-if ( window.location.pathname.search( "/connect/" ) == 0 ) {
-ajaxUrl = "/connect" + url + "?" + data;
-}
-// console.info("ajaxUrl=" + ajaxUrl);
-valid = 0;
-ajaxOpts = {
-type: "HEAD",
-url: ajaxUrl,
-dataType: "html",
-success: ajaxOK,
-error: ajaxFail,
-complete: ajaxDone
-};
-$.ajax(ajaxOpts);
-checkValidAndTag(10, data);
-}
-function ajaxOK(resp, statusText) {
-// console.info("ajaxOK():" + statusText);
-valid = 1;
-}
-function ajaxFail(resp, statusText) {
-// console.info("ajaxFail():" + statusText);
-valid = -1;
-}
-function ajaxDone(resp, statusText) {
-// console.info("ajaxDone():" + statusText);
-}
-function checkValidAndTag(millis, data) {
-var intVal = setInterval(function(){
-// console.info("valid=" + valid);
-if ( valid != 0 ){
-clearInterval(intVal);
-var tag = ( valid == 1 );
-valid = 0; // reset in case of double click
-if ( tag ) {
-siqTag( data );
-}
-if (data.indexOf("FullText") != -1) {
-var mimetype = data.indexOf("PDF") != -1 ? "pdf" : "html";
-$(".fulltext").bind("click", function(){
-fulltext(".fulltext." + mimetype);
-});
-// console.info("click bound back onto " + mimetype);
-}
-}
-}, millis);
-}
-function siqTag( data ) {
-/* BEGIN: Scholarly iQ Page Tag */
-/* Copyright 2001-2010, IBM Corporation All rights reserved. */
-ntptEventTag(data);
-/* END: Scholarly iQ Page Tag */
-}
-</script>
-<script type="text/javascript">
-$(document).ready(function(){
-// Full Text click SIQ tagging request
-$(".fulltext").click(function(e) {
-// console.info("click");
-fulltext($(this));
-});
-});
-</script>
 <!-- <div class="col-xs-12 col-sm-9 col-md-9"> --><!-- sm-8 -->
-<div class="col-xs-9 col-md-9"> <!-- sm-8 -->
+<div class="col-xs-12 col-sm-8 col-md-9" id="mainContents"> <!-- sm-8 -->
 <div class="cmsIngenta"><h1>Data Privacy Statement</h1>
 <h2>Privacy of Information</h2>
 <p>In order to help you (individuals, institutions and companies) make use of subscriptions to publications that you have taken out, and to make use of certain other services and increase ease of use, we need to ask you to provide us with some information. Any information you give us will be treated as confidential.</p>
@@ -419,15 +279,16 @@ GA_googleFillSlot("Horizontal_banner_bottom");
 </script>
 </div>
 </div>
-<!-- <div class="col-xs-12 col-sm-3 col-md-3"> sm-4 -->
-<div class="col-xs-3 col-md-3"> <!-- sm-4 -->
+<div class="col-xs-12 col-sm-4 col-md-3"> <!-- sm-4 -->
 <div class="shareContent">
+<div class="dropdown">
+<div class="">
 <h4>Share Content</h4>
 <ul class="socialList">
-<li class="social"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.ingentaconnect.com%2F/about/privacy" class="socialIcons" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
-<li class="social"><a href="http://twitter.com/home?status=http%253A%252F%252Fwww.ingentaconnect.com%252F%2fabout%2fprivacy" target="_blank" class="socialIcons"><i class="fa fa-twitter-square"></i></a></li>
-<li class="social"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.ingentaconnect.com%2F/about/privacy" target="_blank" class="socialIcons"><i class="fa fa-linkedin-square"></i></a></li>
-<li class="social dropdown"><span class="moreSocialContaier" data-toggle="dropdown" data-target="shareContentDrop"> more <i class="fa fa-angle-down"></i></span>
+<li class="social"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.ingentaconnect.com%2F/about/privacy" class="socialIcons" target="_blank" title="Send to facebook"><i class="fa fa-facebook-square"></i></a></li>
+<li class="social"><a href="http://twitter.com/home?status=http%253A%252F%252Fwww.ingentaconnect.com%252F%2fabout%2fprivacy" target="_blank" class="socialIcons" title="Send to Twitter"><i class="fa fa-twitter-square"></i></a></li>
+<li class="social"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.ingentaconnect.com%2F/about/privacy" target="_blank" class="socialIcons" title="Send to Linkedin"><i class="fa fa-linkedin-square"></i></a></li>
+<li class="social dropdown"><a href="#" class="508Share" title="more share icons"></a><span class="moreSocialContaier" data-toggle="dropdown" data-target="shareContentDrop" title="More Share"> more <i class="fa fa-angle-down"></i></span>
 <div id="shareContentDrop" class="dropdown-menu">
 <div id="bookmarks-container">
 <a name="bookmarks"></a>
@@ -436,7 +297,9 @@ GA_googleFillSlot("Horizontal_banner_bottom");
 </div>
 </li>
 </ul>
-</div> 
+</div>
+</div>
+</div>
 <div class="icon-key">
 <h4>Access Key</h4>
 <div class="icon">
@@ -458,11 +321,6 @@ GA_googleFillSlot("Horizontal_banner_bottom");
 <!-- new re-brand element -->
 <!-- information for Publisher/Researcher/Libriarians -->
 <!-- end new re-brand element -->
-<!-- Not in design so commented out at present 
-<div id="text-size-control">
-<h4>Text size:</h4> 
-<a href="#" onClick="chooseStyle(0); return false;" class="small" title="Normal Font Size">A</a> | <a href="#" onClick="chooseStyle(1); return false;" class="medium" title="Medium Font Size">A</a> | <a href="#" onClick="chooseStyle(2); return false;" class="large" title="Large Font Size">A</a> | <a href="#" onClick="chooseStyle(3); return false;" class="xlarge" title="Extra Large Font Size">A</a>
-</div> --> 
 <div class="advertisingbanner">
 <!-- ca-pub-8127345560464004/Skyscraper -->
 <script type="text/javascript">
@@ -472,8 +330,7 @@ GA_googleFillSlot("Skyscraper");
 <script type="text/javascript">
 GA_googleFillSlot("Wide_Skyscraper");
 </script>
-</div> 
-<!-- </div> -->
+</div>
 </div>
 </div>
 </div>
@@ -493,23 +350,26 @@ pageTracker._trackPageview();
 <nav class="navbar" role="navigation">
 <div class="container">
 <div class="footerContainer">
-<ul class="listGroupStack">
+<ul class="listGroupStack col-sm-12 col-md-3">
 <li class="listItemStack"><a href="/content/title?j_type=online&amp;j_startat=Aa&amp;j_endat=Af&amp;j_pagesize=200&amp;j_page=1"><span>Browse by</span> Publication</a></li>
 <li class="listItemStack"><a href="/content?type=subjects"><span>Browse by</span> Subject</a></li>
 <li class="listItemStack"><a href="/content?type=publishers"><span>Browse by</span> Publisher</a></li>
 <li class="listItemStack"><a href="/search/advanced">Advanced Search</a></li>
 </ul>
-<ul class="listGroupStack">
+<ul class="listGroupStack col-sm-12 col-md-2">
 <li class="listItemStack"><a href="/about">About us</a></li>
 <li class="listItemStack"><a href="/about/researchermenu">Researchers</a></li>
 <li class="listItemStack"><a href="/about/librarianmenu">Librarians</a></li>
 <li class="listItemStack"><a href="/about/publishermenu">Publishers</a></li>
 </ul> 
-<ul class="listGroupStack">
+<ul class="listGroupStack col-sm-12 col-md-3">
 <li class="listItemStack"><a href="/about/newpublications">New featured titles</a></li>
 <li class="listItemStack"><a href="/about/help/index">Help</a></li>
 <li class="listItemStack"><a href="/about/contact">Contact us</a></li>
 <li class="listItemStack">&nbsp;</li>
+<li class="social"><a href="https://www.facebook.com/pages/ingentaconnect/298864060274861" class="socialIcons"><i class="fa fa-facebook-square"></i></a></li>
+<li class="social"><a href="https://twitter.com/ingentaconnect" class="socialIcons"><i class="fa fa-twitter-square"></i></a></li>
+<li class="social"><a href="https://www.linkedin.com/company/publishing-technology/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.ingentaconnect.com%2F/about/privacy" class="socialIcons"><i class="fa fa-linkedin-square"></i></a></li>
 </ul> 
 <div class="copyrights"> 
 Website © 
@@ -522,7 +382,7 @@ document.write(y);
 </script>2020 
 Publishing Technology. Article copyright remains with the publisher, society or author(s) as specified within the article.</div>
 <nav class="legalLinks" role="legallinks">
-<div class="container">
+<div class="inner_container">
 <ul class="nav navbar-nav termsandconditions">
 <li><a class="divider-white" href="/about/terms" title="Terms and conditions">Terms and Conditions</a></li>
 <li><a class="divider-white" href="/about/privacy" title="Privacy policy">Privacy</a></li>
@@ -535,10 +395,10 @@ Publishing Technology. Article copyright remains with the publisher, society or 
 </nav>
 </footer>
 <!-- End Footer-->
-<!-- </div>	-->
+<!-- </div> -->
 <form id="addArticleToVPub" action="" method="post"></form>
 <script language="JavaScript" charset="utf-8">
-$(document).ready(function(){	
+$(document).ready(function(){
 $(".addArticleToVJ").click(function(){
 var formaction = $(this).parent("span").parent("td").find(".formAction").val();
 $("#addArticleToVPub").attr("action",formaction);
@@ -560,12 +420,19 @@ return false;
 <a href="/about/privacy" class="findOutMore">Find out more</a>
 </div>
 <script type="text/javascript" src="/js/checkClearType.js"></script>
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
-<link rel="stylesheet" href="/Less/ie8.css"> 
-<link rel="stylesheet" href="/Less/ingenta.css"> 
+<script src="/js/html5shiv.js"></script>
+<script src="/js/respond.min.js"></script>
+<script src="/js/css-3-mediaqueries.js"></script>
+<link rel="stylesheet" href="/Less/ingenta.css">
+<link rel="stylesheet" href="/Less/ie8.css">
+<![endif]-->
+<!--[if lte IE 9]>
+<script src="/js/rwd/ie9-below.js"></script>
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="/Less/ie7.css">
 <![endif]-->
 
 
