@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seg.org privacy policy that was archived on 2014-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141127102250id_/http%3A//www.seg.org/footer/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seg.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085817id_/http%3A//www.seg.org/footer/privacynotice) for the most accurate reproduction.*
 
 # seg.org - Privacy Notice
 
@@ -105,7 +105,7 @@ SEG has instituted a panel of volunteer SEG Member moderators who have permissio
 
 It is incumbent upon all SEG members choosing to edit Wiki entries to represent the Society properly with well-written, concise, and factual information.
 
-_[Back to top](https://web.archive.org/web/20141127102250id_/http%3A/footer/privacynotice#top)_
+_[Back to top](https://web.archive.org/web/20150905085817id_/http%3A/footer/privacynotice#top)_
 
 **Standard Best Practices**  
 How can you help us maintain the security of your information and your committee activities and documents? The following outlines some standard best practices that will minimize the chances that someone can view or use your information.
