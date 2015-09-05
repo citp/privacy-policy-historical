@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncountry.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624091106id_/http%3A//www.suncountry.com/page/1/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncountry.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060539id_/http%3A//www.suncountry.com/page/1/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -22,7 +22,7 @@ Secure Flight provides numerous benefits to the traveling public. First, Secure 
 The privacy of individuals’ information is a cornerstone of Secure Flight. TSA collects the minimum amount of personal information necessary to conduct effective watch list matching. Furthermore, personal data is collected, used, distributed, stored, and disposed of in accordance with stringent guidelines and all applicable privacy laws and regulations.  
 
 
-For more information on Secure Flight, [click here](http://www.tsa.gov/what_we_do/layers/secureflight/index.shtm).  
+For more information on Secure Flight, [click here](https://www.tsa.gov/stakeholders/secure-flight-program).  
 
 
 **Cookies make your life convenient.**  
