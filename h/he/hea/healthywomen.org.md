@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609233826id_/http%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywomen.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074231id_/http%3A//www.healthywomen.org/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | HealthyWomen
 
@@ -127,15 +127,7 @@ Additionally, contact information for the organization is identified in the "Abo
 
 National Women's Health Resource Center, Inc.
 
-157 Broad Street
-
-Suite 200
-
-Red Bank, NJ 07701
-
-1-877-98-NWHRC
-
-[info@healthywomen.org](mailto:info@healthywomen.org)
+P.O. Box 430
 
 This Privacy Policy does not apply to content, business information, ideas, concepts or inventions that you send to HealthyWomen by email. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email to HealthyWomen. We try to answer every email within 48 business hours, but are not always able to do so.
 
