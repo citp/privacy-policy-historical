@@ -1,122 +1,115 @@
-> *The following text is extracted and transformed from the cintas.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034802id_/http%3A//www.cintas.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cintas.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055852id_/http%3A//www.cintas.com/privacy) for the most accurate reproduction.*
 
 # Commitment to Your Privacy | Cintas
 
-Last Updated: 7/30/2013
+Last Updated: 7/31/2015
 
-Commitment to Your Privacy
+This site (www.cintas.com, the “Site”) is owned and operated by Cintas Corporation. We have adopted this Privacy Policy to explain the types of information we collect when you use this Site, or any of our mobile or other applications (“Applications” and together with the Site, our “Services”), and how we use and share that information. For clarity, our Services include any promotion which refers to this Privacy Policy for terms regarding the collection and use of your information. While this Privacy Policy applies to information we collect through our Services, it does not apply to our collection of information from other sources (e.g., in person, over the telephone, etc.).
 
-This site (www.cintas.com, the “Site”) is owned and operated by Cintas Corporation. Your privacy while using this Site is of the utmost importance to us. At Cintas, we want to make your experience online as satisfying and safe as possible. This Privacy Policy discloses the types of Personal Information we collect and how we use and share that information. The phrase “Personal Information" refers to information that personally identifies you, such as your name, address, telephone number, email address, credit card number or other billing information.
+**If we decide to change our Privacy Policy, we will post those changes on this page.** Cintas may change this Privacy Policy at any time to reflect changes in our personal information practices. Thus, it is recommended that you check this Privacy Policy periodically to see if any such changes have been made. Any changes will be effective immediately upon the posting of the revised Privacy Policy. WHEN YOU USE OUR SERVICES, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP USING OUR SERVICES. Please note, however, that if we decide to use your personally identifiable information in a manner materially different than what is provided in this Privacy Policy or what we advised at the time it was collected, we will notify you of this change by e-mail to the last e-mail address provided to us or through our Applications. You will have a choice (by means of an “opt out” opportunity) as to whether or not we use their information in this different manner. In such case, we will use your personally identifiable information in accordance with the terms in place when the information was collected.
 
-Cintas reserves the right to change this Privacy Policy at any time. Thus, it is recommended that you check this Policy periodically to see if any such changes have been made. **By visiting and using this Site, you agree to be bound by the terms and conditions of this Privacy Policy. By providing any information on this Site, you expressly consent to the collection, use, processing, disclosure, and transfer of your Personal Information and other information in accordance with this Privacy Policy. This Privacy Policy incorporates by reference the[Terms of Use](http://www.cintas.com/Legal/) for the Site, which apply to this Privacy Policy. If you do not agree with the terms set forth herein, please do not use our Site.**
+##### Information Cintas Collects
 
-**If we decide to change our Privacy Policy, we will post those changes on this page. Such changes will be effective upon posting.**
+We typically collect two kinds of information about you when you use our Services: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you, but that we automatically collect or that you provide us.
 
-  
-We may obtain information about you from various sources, including our Site, when you call or email us or communicate with us through our Site or social media. We also may obtain information about you from our affiliate or subsidiary companies, designated service providers, business partners and other third parties and publicly available information.
+Our definition of Personally Identifiable Information includes any information that may be used to specifically identify or contact you. The types of Personally Identifiable Information we may obtain include:
 
-The types of information we may obtain include:
-
-  * Your Personal Information and demographic information (such as zip or postal code and company name), if you choose to provide it or if we obtain it in the manner described above. You do not have to give us any Personal Information or demographic information in order to read the content portions of the Site.
-  * Username and password for the account you may establish on the Site.
-  * Other details that you may submit to us or that may be included in the information provided to us by third parties.
+  * Your name, address, telephone number, email or other electronic address and/or company name.
+  * Username and password for the account you may establish through our Services.
+  * Information you provide in a resume, cover letter or other employment-related materials.
 
 
 
-We will not collect any Personal Information from you unless you provide it voluntarily.
+You generally do not have to give us any Personally Identifiable Information in order to read the content portions of the Services. Whether or not you provide us Personally Identifiable Information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content or features available through our Services.
 
-In addition, when you visit our Site, we may collect certain information by automated means, such as cookies, as described in more detail below. The information we may collect by automated means includes:
+When you visit our Site, we may also collect certain Non-Personally Identifiable Information by automated means, such as cookies (as described in more detail below) or you may provide Non-Personally Identifiable Information to us. Our definition of non-personal information is any information that does not personally identify you. Please note that Non-Personally Identifiable Information can include certain Personally Identifiable Information that has been de-identified; that is, information that has been rendered anonymous. The Non-Personally Identifiable Information we may collect includes:
 
   * Information about the devices our visitors use to access the Internet (such as the IP address and the device, browser and operating system type).
-  * Pages and URLs that refer visitors to our Site, also pages and URLs that visitors exit to once they leave our Site.
-  * Dates and times of visits to our Sites.
-  * Information on actions taken on our Site (such as page views and site navigation patterns).
-  * A general geographic location (such as country and city) from which a visitor accesses our Site.
-  * Search terms that visitors use to reach our Site.
+  * Pages and URLs that refer visitors to our Services, also pages and URLs that visitors exit to once they leave our Site.
+  * Dates and times of visits to or use of our Services.
+  * Information on actions taken through our Services (such as page views and site navigation patterns).
+  * A general geographic location (such as country and city) from which a visitor accesses our Services.
+  * Search terms that visitors use to reach our Services. 
 
 
 
-  
-Cintas.com is a general audience site and does not seek to gather personal information from or about persons under the age of thirteen. 
+##### Children's Privacy
 
-Cintas' primary goal in collecting Personal Information and other information on this Site is to give you an enjoyable and customized experience while using our Site and interactive online features, and to allow us to develop new services to better meet the needs of our users and customers. 
+The features, programs, promotions and other aspects of this Website or any of our Applications requiring the submission of Personally Identifiable Information are not intended for children. We do not knowingly collect Personally Identifiable Information from anyone under the age 18.
 
-We may use the information we obtain about you to:
+##### Use of Information
 
-  * Provide services requested by users, communicate with users regarding usage of our services, and enhance the operation and experience of our Site.
+Cintas' primary goal in collecting Personally Identifiable Information is to provide the products and services you request, to give you an enjoyable and customized experience while using our Services and interactive features, and to allow us to develop new services to better meet the needs of our users and customers.
+
+We may use the Personally Identifiable Information we obtain about you to:
+
+  * Provide services requested by users, communicate with users regarding usage of our services, and enhance the operation and experience of our Services.
   * Place, bill, and ship orders, send requested electronic communications to subscribers, send print catalogs, and manage online accounts.
-  * Provide administrative notices or communications applicable to your use of the Site.
-  * Respond to your questions and comments and provide customer support.
-  * Contact you and deliver information to you that, in some cases, is targeted to your interests; enable you to communicate with us through social media; and solicit your feedback and input. These communications will contain links for preference management and, where appropriate, unsubscribe links should you decide you do not want to receive further communications.
-  * Operate, evaluate and improve our business and the products and services we offer.
-  * Analyze trends and statistics regarding visitors’ use of our Site and social media assets.
+  * Provide administrative notices or communications applicable to your use of our Services.
+  * Respond to your enquiries, questions and comments and provide customer support.
+  * Process and respond to your application for current and future job opportunities.
+  * Send you promotional information to you that, in some cases, is targeted to your interests and solicit your feedback and input. These communications will contain links for preference management and, where appropriate, unsubscribe links should you decide you do not want to receive further marketing and promotional communications. Please note that if you unsubscribe from receiving marketing and promotional communications from us, you may continue to receive certain transactional messages, such as order confirmations and factual information about your account.
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users.
-  * Comply with applicable legal requirements and industry standards and our policies.
 
 
 
-We also use non-personally identifiable information and certain technical information about your computer and your access of the Site (including your internet protocol address) in order to operate, maintain and manage the Site. We collect this information by automated means, such as cookies, as described in more detail below.
+We use Non-Personally Identifiable Information in order to operate, maintain and manage our Services, to analyze trends and statistics regarding the use of our Services in order to help us understand activity and to monitor and improve our Services. We may use your Non-Personally Identifiable Information by itself or aggregate it with information we have obtained from other customers or other sources. We may, among other things, share your Non-Personally Identifiable Information with our affiliated companies, allow third parties to collect such information directly from you, and/or sell the information to third parties to achieve these and any other business objectives (e.g., generate revenue, form alliances, etc.). However, it is important to remember that your Non-Personally Identifiable Information (whether standing alone or combined with other Non-Personally Identifiable Information) is anonymous information that does not personally identify you.
 
-If we seek to use the information we obtain about you in other ways, we will provide specific notice and request your consent at the time of collection.
+##### Cookies and analytics
 
-  
-When you visit our Site, we may place a small text file called a "cookie" in the browser files of your computer to assist us in providing our services. The cookies themselves do not contain Personal Information, although they may be used to collect and process aggregate tracking information to determine which areas of our Site users like and do not like based on traffic to those areas. This helps us continue to build a better service for you and other Site users. Cookies also enable us to link your use of this Site to information that you have specifically and knowingly provided. The cookie will not be used to retrieve information from your computer that is unrelated to this Site or your interaction with it. A cookie can not read data off your hard disk or read cookie files created by other websites. If you wish, you may instruct your internet browser to prevent cookies from being used or to notify you before a cookie is placed. You do not need to have cookies turned on to use this Site. However, if you have cookies turned on, it enables us to more accurately customize your shopping on this Site.
+Our Site use a technology called “cookies”. A cookie is a tiny element of data that our Site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. We use cookies on the pages on our Sites where you are prompted to log in or that are customizable. If you have registered with our Site, these cookies (1) may let us know who you are, (2) may be necessary to access your account information (stored on our computers) in order to deliver products and personalized services, and (3) will provide us and our service providers with information that we will use to personalize our Site in accordance with your preferences.
 
-  
-Cintas does not sell our email lists or Personal Information to unaffiliated third parties so that they can market you. Cintas may disclose your Personal Information or other information to its affiliates or subsidiaries. Cintas may also disclose your Personal Information or other information to unaffiliated third parties if we believe in good faith that such disclosure is necessary: (a) to comply with applicable law or in response to a subpoena, court order, government request, or other valid legal process; (b) to produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings; (c) to protect the interests, rights, safety, or property of Cintas or others; (d) to enforce the terms of any agreement with Cintas; (e) to provide you with the services or products requested by you (including allowing a purchaser of Cintas or a Cintas division to continue to serve you), and to perform other activities related to such services and products, including billing and collection; (f) to provide you with special offers or promotions for Cintas products or services that may be of interest to you; or (g) to operate Cintas's systems properly. Further use and/or disclosure of your Personal Information or other information by third parties is not the responsibility of Cintas. Rather, such use and/or disclosure is governed by such parties’ privacy policies.
+The cookies may be used to collect and process aggregate tracking information to determine which areas of our Site users like and do not like based on traffic to those areas. This helps us continue to build a better service for you and other Site users. The cookie will not be used to retrieve information from your computer that is unrelated to this Site or your interaction with it. A cookie cannot read data off your hard disk or read cookie files created by other websites. If you wish, you may instruct your internet browser to prevent cookies from being used or to notify you before a cookie is placed. You do not need to have cookies turned on to use this Site. However, if you have cookies turned on, it enables us to more accurately customize your shopping on this Site. If you decide not to accept cookies from our Site, you may not be able to take advantage of all of the features of our Site.
 
-  
-To protect your Personal Information from unauthorized access and use and to maintain its accuracy and integrity, we use security measures that comply with applicable law. These measures include computer safeguards and secured files and buildings.
+Preference Based Advertising: We may work with third parties, including advertising companies and website analysis firms, who use cookies and web beacons to collect Non-Personally Identifiable Information when you visit our Site and third party sites. This information, collected through cookies or similar technology, is typically used by these third party advertising companies (i.e., advertising networks) to serve you with advertisements while on third party sites tailored to meet your preferences and needs. If you do not wish to participate in this activity, go to [www.aboutads.info](http://www.aboutads.info/) and follow the simple opt-out process. A couple of important notes about this opt-out tool: (1) it includes all the advertising networks that we may work with, but also many that we do not work with; and (2) it may rely on cookies to ensure that a given advertising network does not collect information about you (“Opt-out Cookies”) – an explanation of how Opt-out Cookies work can be found on www.aboutads.info. Therefore, if you use different Equipment, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the opt-out task again.
 
-Please note that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard Personal Information will never be defeated or fail, or that those measures will always be sufficient or effective. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your Personal Information will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site and the internet generally.
+Do Not Track Features: Certain browsers may offer you the option of providing notice to websites that you do not wish for your online activities to be tracked for preference based advertising purposes (“DNT Notice”). Some browsers are, by default, set to provide a DNT Notice, whether or not that reflects your preference. Providing DNT Notice is often touted as a means to ensure that cookies, Web beacons and similar technology are not used for preference based advertising purposes – that is, to restrict the collection of non-personally identifiable information about your online activities for advertising purposes. Unfortunately, given how preference based advertising works, DNT Notices may not effectively accomplish this goal. For this and a variety of other reasons, with respect to our Website, we do not take any action based on browser based DNT Notices. Rather, if you do not wish to participate in preference based advertising activities, you should follow the simple opt-out process identified above.
 
-  
-You may ask for a copy of your Personal Information, ask for your Personal Information to be updated or corrected, or ask us to remove your Personal Information from our records by contacting us at [catalogcustomerservice@cintas.com](mailto:catalogcustomerservice@cintas.com). All requests must include the following information: first name, last name, and email address. Cintas will make reasonable efforts to accommodate your request, but reserves the right to impose restrictions and requirements on such access requests, if allowed or required by applicable law. 
+##### Sharing of Information
 
-  
-Some of the uses and disclosures mentioned in this Privacy Policy may involve the transfer of your Personal Information to various countries around the world that may have different levels of privacy protection than your country. By submitting your Personal Information to Cintas, you consent to such transfers and to the processing of this information in various countries around the world.
+Cintas does not sell or share our email lists or Personally Identifiable Information to third parties so that they can independently market you unless we obtain your consent to do so.
 
-  
-We ask for your email address for online purchases in order to communicate with you about your orders. We also may notify you via email of any specials, promotions, or discounts at Cintas, as well as information on the latest trends in uniforms. If you do not want to receive any promotional emails, please contact us at [catalogcustomerservice@cintas.com](mailto:catalogcustomerservice@cintas.com). You can also always remove yourself from any Cintas email list by clicking the unsubscribe link provided in each message. 
+Service Providers: Cintas may transfer (or otherwise make available) your Personal Information to our affiliates, subsidiaries and other third parties who provide services on our behalf. For example, we may use service providers to authorize and process payments, deliver products, send email or other communications, conduct surveys, distribute our products, provide billing and collection services, or host our Site and operate certain of its features. Your personal information may be maintained and processed by our affiliates, subsidiaries and other third party service providers in the US or other jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes. For additional information about the way in which our third-party service providers treat your personal information, contact us as set out below.
 
-  
-We use Secure Sockets Layer (SSL) to encrypt your credit card number and payment information so only Cintas is able to decode your information. To check if your connection is secure, look at the lower left-hand corner of your browser window. If you see an unbroken key or closed lock (depending on your browser), the SSL is active and your information should is secure. 
+Legal/Compliance: Cintas may disclose your Personal Information or other information if we believe in good faith that such disclosure is necessary: (a) to comply with applicable laws or in response to a subpoena, court order, government, or law enforcement request, or other valid legal process; (b) to produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings; (c) to protect the interests, rights, safety, or property of Cintas or others; (d) to enforce the terms of any agreement with Cintas; (e) to operate Cintas' systems properly; (f) or as otherwise required or permitted by applicable law. Further use and/or disclosure of your Personally Identifiable Information by third parties once it has been disclosed by Cintas is not the responsibility of Cintas. Rather, such use and/or disclosure is governed by such parties’ privacy policies.
 
-  
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles (“Safe Harbor Principles”) to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal data (called “Personal Information” in this Policy) transferred from the European Union to the U.S. Cintas is a member of the Department of Commerce Safe Harbor and follows the Safe Harbor Principles with respect to Personal Information transferred from its locations within the European Union to the U.S. Those Principles are briefly described here, and further detail can be found at <http://www.export.gov/safeharbor/>: (1) _Notice_ : Cintas will notify data subjects about the purposes for which it collects and uses information about them; (2) _Choice_ : Cintas will give data subjects the opportunity to choose whether their Personal Information will be disclosed to a third party (other than third-party processors or service providers and as otherwise described herein) or used for a purpose other than the purpose for which the data was originally collected; (3) _Transfer_ : When Cintas transfers Personal Information to a third-party processor, it will ensure, by contract, by the third party’s Safe Harbor membership, or by some other means that the third party protects the data in accordance with the Safe Harbor Principles; (4) _Access_ : Data subjects are given access to their Personal Information held by Cintas and are able to correct, amend, or delete that information where it is inaccurate, except where the burden or expenses of providing access would be disproportionate to the risks to the individual’s privacy or where the rights of persons other than the individual would be violated; (5) _Security_ : Cintas takes reasonable precautions to protect Personal Information from loss, misuse, unauthorized access, disclosure, alteration, and destruction; (6) _Data integrity_ : The Personal Information Cintas collects is relevant for the purposes for which it is to be used, and Cintas takes reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current; (7) _Enforcement_ : Cintas has available mechanisms to investigate and attempt to resolve complaints and disputes regarding processing and disclosure of Personal Information and has adopted procedures to verify that its Safe Harbor commitments are implemented. 
+Sale of Business: We may transfer any Personal Information or other information we have about you as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of Cintas or as part of a corporate reorganization or stock sale or other change in corporate control.
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Cintas commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Cintas at:
+Your California Privacy Rights: Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing as provided below.
 
-Chief Privacy Officer  
+##### Accuracy and Security of Personal Information
+
+To protect your Personal Information in our custody or control from theft, unauthorized access, use, modification and disclosure, and to maintain its accuracy and integrity, we have implemented reasonable technical, physical and administrative security measures. These measures include computer safeguards and secured files and buildings.
+
+Although we have implemented reasonable safeguards, please note that no electronic transmission of information can be guaranteed to be entirely secure. You acknowledge and agree that we are not responsible for the theft, destruction, or inadvertent disclosure of your Personally Identifiable Information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation.
+
+##### Accessing Your Personal Information
+
+You may ask for access to your Personally Identifiable Information in our custody and control, ask for your Personally Identifiable Information to be updated or corrected, or ask us to remove your Personally Identifiable Information from our records (subject to our legal obligations to retain such information) by contacting us at [catalogcustomerservice@cintas.com](mailto:catalogcustomerservice@cintas.com) or at the contact information set out below. All requests must include the following information first name, last name, and email address. Cintas will make reasonable efforts to accommodate your request, but reserves the right to impose restrictions and requirements on such access requests, if allowed or required by applicable law.
+
+##### Email Privacy
+
+We ask for your email address for online purchases in order to communicate with you about your orders. We also may notify you via email of any specials, promotions, or discounts at Cintas, as well as information on the latest trends in uniforms. If you do not want to receive any marketing or promotional emails, please contact us at [catalogcustomerservice@cintas.com](mailto:catalogcustomerservice@cintas.com). You can also always remove yourself from any Cintas marketing or promotional email list by clicking the unsubscribe link provided in each message. Please note that if you unsubscribe from receiving marketing and promotional communications from us, you may continue to receive certain transactional messages, such as order confirmations and factual information about your account.
+
+##### Secure Shopping
+
+We use Secure Sockets Layer (SSL) to encrypt your credit card number and payment information. To check if your connection is secure, look at the lower left-hand corner of your browser window. If you see an unbroken key or closed lock (depending on your browser), the SSL is active.
+
+##### Links to other websites
+
+Our Services may contain links to other sites for your convenience and information. These sites may be operated by companies not owned by Cintas and may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites not owned by Cintas, any use of those sites, or those sites’ privacy practices.
+
+##### Contact Cintas
+
+Cintas welcomes your comments regarding this Privacy Policy. If you have questions, comments or complaints regarding this Privacy Policy or the manner in which we treat your personal information, please contact our Chief Privacy Officer by [email](mailto:privacy@cintas.com) or postal mail at the following address:
+
+Chief Compliance Officer  
 Cintas Corporation  
 6800 Cintas Boulevard  
 P.O. Box 625737  
 Cincinnati, Ohio 45262-5737  
-[Privacy@Cintas.com](mailto:Privacy@Cintas.com)
+[Privacy@Cintas.com](mailto:privacy@cintas.com)
 
-Cintas has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Cintas, please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+##### Sole Statement
 
-  
-Our Site may contain links to other sites for your convenience and information. These sites may be operated by companies not owned by Cintas and may have their own privacy notices, which you should review if you visit those sites. We are not responsible for the content of any sites not owned by Cintas, any use of those sites, or those sites’ privacy practices.
-
-  
-California law permits its residents to request and receive information about a business’ disclosure of certain categories of Personal Information to other companies for their use in direct marketing. If you are a California resident and a user of the Site, you can request a copy of this information from Cintas by contacting:
-
-Chief Privacy Officer  
-Cintas Corporation  
-6800 Cintas Boulevard  
-P.O. Box 625737  
-Cincinnati, Ohio 45262-5737  
-[Privacy@Cintas.com](mailto:Privacy@Cintas.com)
-
-Please include your name and email address in email requests, and your name and postal address in mail requests.
-
-  
-Cintas welcomes your comments regarding this Privacy Policy. If you have questions or comments regarding this Privacy Policy or Cintas’ membership in the Department of Commerce Safe Harbor, please contact our Chief Privacy Officer by [email](mailto:Privacy@Cintas.com) or postal mail at the following address: 
-
-Chief Privacy Officer  
-Cintas Corporation  
-6800 Cintas Boulevard  
-P.O. Box 625737  
-Cincinnati, Ohio 45262-5737  
-[Privacy@Cintas.com](mailto:Privacy@Cintas.com)
+This Privacy Policy is the sole statement of our privacy policy with respect to our Services, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Services.
