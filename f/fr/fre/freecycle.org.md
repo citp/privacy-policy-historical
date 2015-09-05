@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the freecycle.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319001259id_/https%3A//www.freecycle.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecycle.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905113423id_/https%3A//www.freecycle.org/about/privacy) for the most accurate reproduction.*
 
 # The Freecycle Network
+
+Please consider turning off your ad-blocking software for this site, and/or making a [donation](https://www.freecycle.org/donate). As a charitable nonprofit we rely on this income to keep this site running.   
+Big thank-you hug!
 
 changing the world  
 one gift at a time™
@@ -30,10 +33,6 @@ Before we collect any personally identifiable information, we will provide an ex
 ## Links
 
 While Freecycle is highly selective about which sites we provide links to, we do not control these Web sites, nor do we endorse or otherwise accept responsibility for the content or privacy policies of those sites. We encourage you to review the privacy policies posted on third party sites.
-
-## Yahoo!
-
-Most local Freecycle groups are currently members of Yahoo!Groups and to remain as such must follow Yahoo's privacy policy, which can be found at http://privacy.yahoo.com/privacy/us/
 
 ## Contact Us
 
