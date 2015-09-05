@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empiretoday.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502043404id_/http%3A//www.empiretoday.com/About-Empire/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empiretoday.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905082230id_/http%3A//www.empiretoday.com/About-Empire/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Empire Today
 
@@ -12,7 +12,7 @@ Welcome!  You have arrived at a web site that is owned and operated by Empire T
 
 **To the extent we provide you notice on our Site of different or additional privacy policies or practices (e.g., at the point of our collection), those additional terms shall govern such data collection and use.**
 
-In addition, please review the Site’s [**Terms of Use**](http://www2.empiretoday.com/about-empire/terms-of-use), which governs your use of the Site.  _By using our Site_ , _you consent to our Privacy Policy and Terms of Use and our collection, use and sharing of your information and data, and other activities, as described below._
+In addition, please review the Site’s [**Terms of Use**](https://web.archive.org/about-empire/terms-of-use), which governs your use of the Site.  _By using our Site_ , _you consent to our Privacy Policy and Terms of Use and our collection, use and sharing of your information and data, and other activities, as described below._
 
 You should read this entire Privacy Policy, but below is a list of some of the key topics that are explored in greater detail throughout the Privacy Policy and you can click **here** for a summary of each section of the Privacy Policy.  Any capitalized terms have the meanings given to them where defined in the Privacy Policy. 
 
