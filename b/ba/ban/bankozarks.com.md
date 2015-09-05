@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the bankozarks.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515015852id_/http%3A//www.bankozarks.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankozarks.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070515id_/http%3A//www.bankozarks.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Bank of the Ozarks
-
-[]()
-
-Privacy Policy 
-
-**Internet Privacy**
+# Bank of the Ozarks
 
 Visitors to the Bank of the Ozarks website remain anonymous. We do not collect identifying information about visitors to our site. We may use standard software to collect non-identifying information about our visitors, such as:
 
