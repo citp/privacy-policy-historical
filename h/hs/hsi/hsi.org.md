@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsi.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408034805id_/http%3A//www.hsi.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsi.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064744id_/http%3A//www.hsi.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Humane Society International
 
@@ -18,7 +18,7 @@ This Privacy Policy governs the URL [http://www.hsi.org](http://www.hsi.org/) an
 
 HSI uses cookies in order to make the results available for your on-site searches. Cookies are not used for any other reason on this site. A cookie is a small file that is sent out by a web site, accepted by the user's browser, and placed on the user's hard drive. You can always set your browser to warn of cookies being placed, and then chose which cookies you want to accept. HSI does not match any information gathered by cookies with personal information you may have voluntarily submitted to HSI.
 
-HSI uses remarketing with Google Adwords and Analytics to display content-specific advertisements to visitors who have previously visited our site when those visitors go to other websites that have the Google Display Network implemented.
+HSI uses remarketing with Google Adwords and Analytics to display content-specific advertisements to visitors who have previously visited our site when those visitors go to other websites that have the Google Display Network implemented. The HSUS also uses Google Analytics Demographics and Interest Reporting.
 
 HSI and other third-party vendors, including Google, use first-party and third-party cookies together to inform and serve ads based on a visitor’s past visits to our website.
 
