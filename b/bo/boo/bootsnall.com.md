@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the bootsnall.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315073730id_/http%3A//www.bootsnall.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootsnall.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061704id_/http%3A//www.bootsnall.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | BootsnAll Travel Blog
 
-[Privacy Policy](http://www.bootsnall.com/privacy.shtml "Permanent Link to Privacy Policy")
-    
-
-This is a web site of BootsnAll.com. We can be reached via e-mail [via this online form](http://help.bootsnall.com/).
+This is a web site of BootsnAll.com. We can be reached via [our customer support page](http://support.bootsnall.com/).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
@@ -20,5 +17,3 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
-
-_photo by[hyku](http://www.flickr.com/photos/hyku/368912557/)_
