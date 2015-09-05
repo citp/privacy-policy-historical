@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theice.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627203405id_/https%3A//www.intercontinentalexchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theice.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905223533id_/https%3A//www.intercontinentalexchange.com/privacy-policy) for the most accurate reproduction.*
 
 # Intercontinental Exchange: Privacy Policy
 
@@ -64,7 +64,7 @@ If you wish to stop receiving information concerning our services or products, p
 
 We may transfer, process, and store your personal information outside of your home country, including in the United States and Canada, which may not have the same level of data protection as your home country. For the avoidance of doubt, if you are resident in the EEA this may include the transfer of your personal information from within the EEA to a country outside of the EEA. 
 
-If you have submitted personal information through an ICE Website and you would like to access, update, or correct inaccuracies in your personal information, or have your name removed from our databases, please contact ICE via email at [privacy@theice.com](mailto:privacy@theice.com), or send a letter to our Privacy Compliance Officer, 2100 RiverEdge Parkway, Suite 500, Atlanta, GA 30328. 
+If you have submitted personal information through an ICE Website and you would like to access, update, or correct inaccuracies in your personal information, or have your name removed from our databases, please contact ICE via email at [privacy@theice.com](mailto:privacy@theice.com), or send a letter to our Privacy Compliance Officer, 5660 New Northside Drive, 3rd Floor, Atlanta, GA 30328. 
 
 If you are a registered user of our Website, you may also access your personal account information online and make changes by logging into your account.
 
@@ -83,7 +83,7 @@ This Website is not intended for use by minors (persons under the age of 18 and,
 
 Our Website may contain links to other sites that ICE does not own or operate. Also, links to our Website may be featured on third party websites on which we advertise. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to third party websites as a convenience to the user. These links are not intended as an endorsement of or referral to the linked websites. We recommend you read carefully the privacy statements, notices and terms of use of any linked websites. We do not have any control over such websites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information. 
 
-ICE takes your privacy concerns seriously. If you have any questions about this policy or if you believe that ICE has not complied with this Privacy Policy with respect to your personal information, you may write to [privacy@theice.com](mailto:privacy@theice.com%22) or send a letter to our Privacy Compliance Officer at Fifth Floor, 2100 River Edge Parkway, Atlanta, GA 30328.
+ICE takes your privacy concerns seriously. If you have any questions about this policy or if you believe that ICE has not complied with this Privacy Policy with respect to your personal information, you may write to [privacy@theice.com](mailto:privacy@theice.com%22) or send a letter to our Privacy Compliance Officer at 5660 New Northside Drive, 3rd Floor, Atlanta, GA 30328.
 
 Under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2008 will receive information regarding 2007 sharing activities). 
 
