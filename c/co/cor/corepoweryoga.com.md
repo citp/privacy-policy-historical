@@ -1,58 +1,121 @@
-> *The following text is extracted and transformed from the corepoweryoga.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423082050id_/http%3A//www.corepoweryoga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corepoweryoga.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905151531id_/http%3A//www.corepoweryoga.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CorePower Yoga
 
-**PRIVACY POLICY – corepoweryoga.com**
+**Privacy Policy**
 
-**PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE.**
+Effective date: May 1, 2015
 
-CorePower Yoga is committed to protecting the privacy and security of the users of our website. Visitors to our website are completely anonymous. We do not collect any information from your computer unless you voluntarily submit such information to us. In the event that we request personal identification information, you provide this information solely at your discretion.
+CorePower Yoga, LLC (“CorePower Yoga,” “we,” “us,” and “our”) owns and operates this website (this “Site”). This Online Privacy Policy (this “Policy”) describes our commitment to privacy and reflects the importance we place on earning and keeping your trust.
 
-**Scope of Privacy Policy**  
-This Privacy Policy applies to your use of this website. It does not apply to your use of unaffiliated sites to which this site only links. This policy covers only information collected on this site and does not cover any information collected offline by us.
+**Scope of This Policy**  
+This Policy applies to the information we collect from or about you through this Site. It does not apply to information we collect through other channels, such as over phone or in person, at our studios. Some of the information CorePower Yoga collects through this Site may be “personal information”—information that identifies you personally, alone or in combination with other information available to us. Other information may be nonpersonally identifiable, such as your IP address.
 
-**Information Collection, Use, and Sharing**  
-We are the sole owners of the information collected on this site. We only collect information that you voluntarily provide to us via email or other direct contact from you. We may ask you to voluntarily provide us with personal identification information on this site, for example, by creating a username and password to access online classes, and to create an account to sign up for a recurring subscription. If you complete a contact form on yogaonline.corepoweryoga.com, we will use your information only to respond to you regarding the reason you contacted us. We will never rent, sell, intentionally disclose or distribute your personal identification information to any third party without having received your permission with the following exceptions: (1) We will release specific information about you or your account to comply with any valid legal inquiry or process such as a search warrant, subpoena, statute or court order. (2) We will also release specific information in special cases, such as if there is an attempted breach of the security of the site, or a physical or property threat to you or others. (3) We may also transfer user information, including personally identifiable information, to a successor corporate entity in connection with a corporate merger, consolidation, sale of assets or corporate division or other fundamental corporate change.
+CorePower Yoga has provided this Policy so that you will know what information CorePower Yoga collects, how CorePower Yoga uses this information, the types of third parties with whom CorePower Yoga may share this information, and some of the choices that are available to you.
 
-Unless you ask us not to, we may contact you via email in the future to tell you about specials, programs and changes to our services or changes to this Privacy Policy.
+**Your Consent**  
+By using this Site, you are consenting to the collection, use, disclosure, and transfer of your information as described in this Policy. If you do not consent to the collection, use, disclosure and transfer of your information as described in this Policy, you may not use this Site. If you have questions about this Policy, please contact us by phone at 866-441-YOGA (9642).
 
-This site uses Google Analytics (and in the future may use other similar sites or services), which is a web analytics service provided by Google, Inc. (“Google”), to better assist CorePower Yoga in understanding how this site is used. Google Analytics will place cookies on your computer that will generate information that we select about your use of the site, including your computer’s IP address. That information will be transmitted to and stored by Google. The information will be used for the purpose of evaluating consumer use of the site, compiling reports on site activity for CorePower Yoga’s use, and providing other services relating to site activity and usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. To prevent this, you may refuse the use of cookies by selecting the appropriate settings on your browser. Please note that by doing so, you may not be able to use the full functionality of the site. The use of cookies by Google Analytics is covered by Google’s privacy policy.
+**Our Terms of Use**  
+This Policy is part of the [Terms of Use](https://web.archive.org/terms-use) that govern your use of this Site. A link to our Terms of Use is provided at the bottom of each page of this Site.
 
-This site also uses SurveyGizmo, a survey-generating technology, to gather information about your use of the site. This information is transmitted to and stored by SurveyGizmo. SurveyGizmo will place cookies on your computer that will generate information including your computer’s IP address (for geographical purposes). The information will be used for the purpose of reporting on and responding to questions, concerns, requests and feedback for internal CorePower Yoga use. You may refuse the use of cookies by selecting the appropriate settings on your browser. The use of cookies by SurveyGizmo is covered by SurveyGizmo’s privacy policy.
+**Your Choices**  
+ _In General._ We respect your right to make choices about the ways we collect, use, and disclose your information. This Policy describes some of your choices, such as your choice to opt out of receiving “cookies.” We may ask you to indicate your choices at the time and on the page where you provide your information.
 
-**Your Access to and Control over Information**  
-You may opt out of any future contacts from us at any time. You may also contact us via the email address or phone number given on our website to do the following:
+_Do Not Track Mechanisms_. California law requires this Policy to address how we respond to any “Do-Not-Track (‘DNT’) signal” delivered by your browser. Because of the changing state of technology and indecision within the industry regarding the meaning of DNT signals, we currently do not make any guarantee that we will honor DNT signals.
 
-  * Find out what information we have retained about you in our database, if any.
-  * Change/correct any data we have about you.
-  * Request us to delete any data we have about you.
-  * Express any concern you have about our use of your data.
+_Previously Expressed Preferences._ You may change previously expressed preferences regarding how we use your information. You may be able to change preferences through your account. Otherwise, please contact us using the information provided below. You may opt out of promotional emails by clicking the unsubscribe link in the footer of any promotional email we send you.
+
+**This Policy May Change**  
+CorePower Yoga reserves the right to update or modify this Policy, at any time and without prior notice, by posting the revised version of the Policy on this Site. These changes will only apply to the information we collect after we have posted the revised Policy on this Site.
+
+Your use of this Site following any such change constitutes your agreement that all information collected from or about you after the revised Policy is posted will be subject to the terms of the revised Policy. You may access the current version of this Policy at any time by clicking on the link marked “Privacy” at the bottom of each page of the public areas of this Site.
+
+**Information We Collect**  
+ _Information You Manually Provide_. CorePower Yoga collects the information you manually provide (using your keyboard, mouse, or touchpad) when you use this Site, for example, we collect the information you provide when you create an account, complete a questionnaire, communicate with us, sign up for an event, or otherwise interact with this Site.  Some of the information you manually provide may be personal information, such as your name and contact information.
+
+_Information From Third-Party Social Media Platforms._ You may be able to register with, log on to, or enhance your profile on this Site by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform (such as Facebook or Twitter). By doing this, you are asking the third-party platform to send us information, including personal information, from your profile on that platform. We treat that information as we do any other information you give to us when you register, log on, or enhance your profile.
+
+_Information from your browser or device._ CorePower Yoga collects information that is sent to us automatically by your web browser or mobile device. This information typically includes your IP address, the name of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. The information we receive may depend on your browser or device settings.
+
+The information we receive from your web browser and device is not, in and of itself, personally identifiable. Generally, we use this information in the aggregate to help us improve this Site and make it more compatible with the technology used by our visitors. However, we may combine it with other information in an attempt to identify you or we may combine it with information that does identify you. We may also review our server logs for security purposes—for example, to detect intrusions into our network—and we might share our server logs, which contain visitors’ IP addresses, with the appropriate investigative authorities who could use that information to trace and identify you.
+
+_Information Collected by Cookies and Other Technologies_. We use “cookies” and other technologies to collect information and support certain features of this Site. For example, we may use these technologies to:
+
+  * collect information about the ways visitors use this Site—which pages they visit, which links they use, and how long they stay on each page;
+  * support the features and functionality of this Site—for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits;
+  * personalize your experience when you use this Site; and
+  * improve our marketing efforts, including through use of targeted advertising.
 
 
 
-You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers although we will make reasonable efforts to do so upon your request. You are responsible for maintaining the confidentiality of your password. You shall be responsible for all uses of your registration, whether or not authorized by you. You agree to notify us immediately of any unauthorized use of your registration or password.
+The information we collect using cookies and similar technologies is not, in and of itself, personally identifiable, but we may link it to personal information that you provide. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit this Site, you may be unable to use all of the functionality of this Site if your browser rejects our cookies.
 
-**How We Store Your Information**  
-We take precautions to protect your information. When you submit personal identification information to us via the website, your information is protected both online and offline.
+**Information About Third-Party Cookies**  
+In addition to the cookies CorePower Yoga delivers to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. For example, we use Google Analytics, a web analytics tool that helps us understand how visitors engage with our Sites. To learn more about Google Analytics, [click here.](http://www.google.com/intl/en/analytics/privacyoverview.html)
 
-Whenever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser once you login, or looking for "https" at the beginning of the address of the web page.
+Other third parties may deliver cookies to your computer or mobile device for the purpose of tracking your online behaviors over time and across nonaffiliated websites and/or delivering targeted advertisements either on this Site or on other websites.
 
-While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+You have choices about the collection of information by third parties on our this Site. For example, if you don’t want information about your visit to this Site sent to Google Analytics, you may download an Opt-out Browser Add-on by [clicking here.](http://tools.google.com/dlpage/gaoptout?hl=en) Please note that the Add-on does not prevent information from being sent to CorePower Yoga.
 
-**Special Rules for Children**  
-Because of the federal Children’s Online Privacy Act, we cannot knowingly collect any personal information from a child under the age of thirteen without the consent of that child’s parent. The statements in this Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. We will not knowingly collect personally identifiable information from children under the age of thirteen.
+In addition, if you would like to opt-out of having interest-based information collected by certain entities during your visits to this Site or other websites, please [click here.](http://www.aboutads.info/choices) You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on this Site do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies.
 
-**Links to Other Sites**  
-Users may find advertising or other content on our site that link to the sites of our advertisers, suppliers, licensors, or other third parties. We do not control the content or links that appear on these sites. In addition, these sites or services may be constantly changing. These sites and services may have their own privacy policies and customer service policies, or no policy (policies) at all. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information.
+**How We Use Your Information**  
+Generally, we may use the information we collect through this Site:
 
-This Privacy Policy applies solely to information collected by CorePower Yoga through this website.  This Privacy Policy does not apply to other websites that are accessible through this site, including but not limited to, any third-party websites that process payments on behalf of CorePower Yoga.  Please be aware that third-party websites that process payments for CorePower Yoga may have their own privacy and data collection policies and practices. CorePower Yoga is not responsible for the privacy practices of such sites and will not be responsible for any actions or policies of such third parties.
+  * to provide the information, products and services you request;
+  * to provide you with effective customer service;
+  * to provide you with a personalized experience when you use this Site;
+  * to contact you with information and notices related to your use of this Site;
+  * to contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us);
+  * to invite you to participate in surveys and provide Feedback to us (in accordance with any privacy preferences you have expressed to us); 
+  * to improve the content, functionality and usability of this Site;
+  * to better understand your needs and interests;
+  * to improve our products and services;
+  * to improve our marketing and promotional efforts;
+  * for security, credit or fraud prevention purposes; and
+  * for any other purpose identified in an applicable click-through agreement or other agreement between you and us.
 
-**Changes to This Privacy Policy**  
-CorePower Yoga may amend this Privacy Policy from time to time. Should this Privacy Policy be amended in any substantive way, changes will be posted to this web page. As we may make changes from time to time without notifying you, we suggest that you periodically consult this Privacy Policy.
 
-**Your Acceptance of These Terms**  
-By using this site, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the site following the posting of changes to these terms will mean that you accept these changes.
 
-Last Updated:  12/10/2013
+**How We Share Your Information**  
+ _With Third–Party Vendors_. CorePower Yoga shares information collected through this Site with third-party vendors who act for us or on our behalf. For example, we may use third-party vendors to design and operate this Site; to conduct surveys; and to help us with our promotional efforts. These third-party vendors may need information about you to perform their functions.
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 866.441.9642 or via[email](https://web.archive.org/web/20150423082050id_/http%3A//www.corepoweryoga.com/contact-us).**
+_With Other Users of this Site_. You may be able to submit User-Generated Content on or through this Site. In this Policy, “User-Generated Content” or “UGC” refers to content that you post using the social networking tools we make available to you and that does not constitute “Feedback” (as that term is defined in our Terms of Use). Any personal information contained in UGC can be read, collected, or used by others. In addition, we may use UGC you submit for advertising campaigns and other promotions. We may or may not use your name in connection with such use, and we may or may not seek your consent before using the content for such purposes. Therefore, you should have no expectation of privacy with respect to UGC you submit on or through this Site.
+
+_With Other_ , _Carefully Selected Business Partners_. From time to time, we may share your information with selected third parties for their own marketing purposes. For example, we may partner with third parties to sponsor contests or other promotions, and we may share with these third parties the information you submit to us to participate in the contest or take advantage of the promotion. Before doing so, however, we may offer you the opportunity to “opt out” or “opt in,” as required by applicable law.
+
+_In aggregate or de-identified form._ We use information collected through this Site to create a compiled, aggregate view of usage patterns. We may share aggregate information with third parties so they can better understand our user base. We may also share with third parties information about how particular individuals use this Site, but only on a de-identified basis (“Individualized Data”). Individualized Data is not personally identifiable, but it does reflect the usage patterns of a particular Site user, as opposed to Site users collectively.
+
+_As Part of a Business Transfer_. Your information may be transferred to successor organization if, for example, we transfer the ownership or operation of this Site to another organization or if we merge with another organization, or if we liquidate our assets and sell them individually. If such a transfer occurs, the successor organization’s use of your information will still be subject to this Policy and the privacy preferences you have expressed to us.
+
+_To Comply with Laws and Protect Our Rights and the Rights of Others_. We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; or to protect our own rights or property or the rights, property or safety of our users or others.
+
+**How We Protect Your Information**  
+CorePower Yoga takes reasonable precautions to provide a level of security appropriate to the sensitivity of the information we collect. Although we use reasonable measures to help protect your information against unauthorized use or disclosure, we cannot guarantee the security of information provided over the Internet or stored in our databases and will not be responsible for breaches of security beyond our reasonable control.
+
+**A Note About Children’s Privacy**  
+You must be at least 13 years old to have our permission to use this Site. We do not knowingly collect, use or disclose personal information about visitors under 13 years of age. If you are under the age of 13, you can use this service only in conjunction with your parent’s or guardian’s permission.
+
+**Links to Other Websites**  
+This Policy applies only to this Site. This Site may contain links to websites that are not operated by CorePower Yoga.These links are provided for your reference and convenience only and do not imply any endorsement of the products sold or information provided through these websites, nor any association with their operators. CorePower Yoga does not control these websites and is not responsible for their data practices. Any information you provide to third parties on their websites is covered under their privacy and data collection policies and is not covered by this Policy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information.
+
+**Access to Your Information**  
+If you would like to review, correct and update the personal information you have provided to us through this Site, please contact us using the information provided below. We will respond to your request within the time limit set out by the applicable privacy legislation. We will use reasonable efforts to comply with your request, as required by applicable law.
+
+**Retention of Personal Information**  
+CorePower Yoga retains the personal information collected on this Site as long as necessary to provide the services, products and information you request or as permitted by applicable law.
+
+**This Site Is Hosted on Servers Located in the United States.**  
+CorePower Yoga is a U.S. corporation. The servers that support this Site are located in the United States. While it is in our possession, your information will generally be stored in CorePower Yoga databases or databases maintained by our third-party service providers on servers and data storage devices located in the United States. U.S. data protection laws may not provide as much protection as the data protection laws in force in some other countries, however, we will process your information in accordance with this Policy no matter where our data is stored. If you are located in a country outside the United States, by using this Site you consent to the transfer of your information to the United States.
+
+**Governing Law**  
+This Policy shall be governed under the laws of the State of Colorado United States of America without regard to its conflicts of law provisions.
+
+**Questions About This Policy or CorePower Yoga’s Data Practices**  
+If you have questions or concerns about this Policy, or CorePower Yoga’s data practices, please [contact us](http://www.corepoweryoga.com/contact-us). You may also contact us at:
+
+CorePower Yoga Corporate Headquarters  
+2434 W. Caithness Place  
+Denver, CO 80211  
+or phone at (866) 441-9642.
