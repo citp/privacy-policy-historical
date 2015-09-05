@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foxybingo.com privacy policy that was archived on 2015-03-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150319053156id_/http%3A//www.foxybingo.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxybingo.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905233042id_/https%3A//www.foxybingo.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,11 +7,13 @@
 <title>View Our Foxy Privacy Policy | FoxyBingo.com</title>
 <meta name="keywords" content="">
 <meta name="description" content="On this page you can find the full Foxy Bingo privacy policy. If you have any enquiry about this Privacy Policy please contact our Customer Services Team">
-<base href="http://www.foxybingo.com/">
-<link rel="stylesheet" type="text/css" href="/styles/reset.css">
-<link rel="stylesheet" type="text/css" href="/styles/prettyPhoto.css">
-<link rel="stylesheet" type="text/css" href="/styles/foxy.css?v=26">
-<link rel="stylesheet" type="text/css" href="/styles/foxy2.css?v=26">
+<base href="https://www.foxybingo.com/">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" media="(min-device-width: 668px) and (min-device-height: 668px)" href="/styles/reset.css">
+<link rel="stylesheet" type="text/css" media="(min-device-width: 668px) and (min-device-height: 668px)" href="/styles/prettyPhoto.css">
+<link rel="stylesheet" type="text/css" media="(min-device-width: 668px) and (min-device-height: 668px)" href="/styles/foxy.css?v=27">
+<link rel="stylesheet" type="text/css" media="(min-device-width: 668px) and (min-device-height: 668px)" href="/styles/foxy2.css?v=26">
+<link rel="stylesheet" type="text/css" media="(max-device-width: 667px), (max-device-height: 667px)" href="/styles/mobile.css?v=1">
 <!-- Font for Millionaire Genie in treasurechest ticker -->
 <link href="//fonts.googleapis.com/css?family=Merienda+One" rel="stylesheet" type="text/css">
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NMK35M"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript" charset="utf-8"></script>
@@ -22,6 +24,7 @@
 <script type="text/javascript" src="/scripts/jquery.infieldlabel.min.js"></script>
 <script type="text/javascript" src="/scripts/foxy.js"></script>
 <script type="text/javascript" src="/scripts/cashcade.js"></script>
+<script type="text/javascript" src="/scripts/utils.js"></script>
 <!--[if lte IE 6]>
 	<style type="text/css"> img, div .filter { behavior: url(scripts/iepngfix.htc) } </style>
 <![endif]-->
@@ -77,6 +80,86 @@ _gaq.push(['_trackPageview']);
 </head>
 <body class="cc-level-0 cc-lbmode ">
 
+<!-------------- DEEP LINK CODE ------------------->
+	<script type="text/javascript">
+    
+    /* functions */
+    if ( typeof launchDeepLinkCashier === 'undefined' ) {
+        var launchDeepLinkCashier = function() {
+
+            if (navigator.appName.indexOf("Microsoft") != -1) {
+                wb = window.open("", "AquaPayCashier", "height=576,width=700,top=100,left=100,scrollbars=1");
+            } else {
+                wb = window.open("", "AquaPayCashier", "height=576,width=700,screenY=100,screenX=100,scrollbars=yes");
+            }
+
+            document.bingoCashierDeepLinkForm.submit();
+        }
+    }
+
+    if ( typeof launchIGByGameGroup === 'undefined' ) {
+
+        var launchIGByGameGroup = function ( gameGroupId ) {
+        
+            var WINDOW_WIDTH = 500;
+            var WINDOW_HEIGHT = 300;
+        
+            var leftLocation = (screen.width - WINDOW_WIDTH) / 2;
+            var topLocation = (screen.height - WINDOW_HEIGHT) / 2;
+
+            if (igwn != null) {
+                igwn.close();
+                igwn = null;
+            }
+
+	        igwn = window.open("../members/IGLaunchPage.php?gameGroupId=" + gameGroupId,'igw', "height=" + WINDOW_HEIGHT + ",width=" + WINDOW_WIDTH + ",left=" + leftLocation + ",top=" + topLocation + ",resizable=yes,location=no,scrollbars=no,status=yes,toolbar=no,directories=no,menubar=no","true");
+
+	        try {
+
+                igwn.focus();
+
+            } catch(e) {
+        
+            }
+        }
+
+    }
+
+    if ( typeof launchClient === 'undefined' ) {
+
+        var launchClient = function ( dlid ) {
+	
+	        loc = "/skin/play.php?dlid=" + dlid + "&cache=" + ( Math.random() + '' );
+	    
+	        if (typeof playWin === 'undefined' || playWin.closed === true) {
+
+		        if (navigator.appName.indexOf("Microsoft") != -1) {
+			        h = (screen.height * 0.9) - 54 ;
+			        w = screen.width * 0.9 ;
+			        playWin = window.open(loc, "playWin", "height=" + h + ", width=" + w + ", top=1, left=1, resizable") ;
+		        }
+		        else 
+			        playWin = window.open(loc, "playWin", "height=" + (screen.height - 2) + ", width=" + (screen.width - 2) + ",screenY=1, screenX=1, resizable") ;
+	        }
+
+            try {
+
+	            playWin.focus();
+
+            } catch(e) {
+        
+            }
+
+        }
+    }
+
+	
+</script>
+
+
+
+	<!------------------------------------------------->
+
 
 <div style="height: 0; overflow: hidden; ">
 	
@@ -108,7 +191,7 @@ _gaq.push(['_trackPageview']);
 			<div id="bg3">
 				<a href="/" title="Foxybingo"><img class="foxy-logo" title="Foxybingo" src="../images/refresh/foxy-logo.png" alt="Foxy Bingo"></a>
 
-			<div id="logonarea"><form id="ccLoginForm" name="ccLoginForm" method="post" action="/members.php"><input name="form_action" id="form_action" type="hidden" value="LOGIN"><div class="login-online"><div class="login-online-count">357</div><div class="login-online-text">PLAYERS ARE ONLINE NOW!</div></div><br clear="all"><div class="login-mobile-logos"><a href="https://itunes.apple.com/gb/app/foxy-bingo/id634950874" target="_blank" title="apple sore"><img src="images/refresh/logo-app-store.jpg"></a><img src="images/refresh/logo-android.jpg"></div><div class="login-input-boxes"><input id="ccLoginBoxUserName" placeholder="Username" name="Alias" autocomplete="off" type="text" tabindex="1" onkeypress="clearLogonUN()" onmousedown="clearLogonUN()" onfocus="clearLogonUN()" value=""><br><input id="ccLoginBoxPassword" placeholder="Password" type="password" name="Password" value="" autocomplete="off" tabindex="2" onkeypress="clearLogonPW()" onmousedown="clearLogonPW()" onfocus="clearLogonPW()"><br><div id="ccForgotPassword"><a href="/forgotten-password.php">FORGOTTEN YOUR PASSWORD?</a></div></div><div class="login-buttons"><a href='javascript:document.forms["ccLoginForm"].submit()' class="btn-login">LOG IN</a><br><a class="btn-join" href="/register.php">JOIN</a></div><input type="text" name="ignore" style="visibility:hidden; display:none"><input type="submit" value="Login" style="display:none"></form></div>
+			<div id="logonarea"><form id="ccLoginForm" name="ccLoginForm" method="post" action="/members.php"><input name="form_action" id="form_action" type="hidden" value="LOGIN"><div class="login-online"><div class="login-online-count">1508</div><div class="login-online-text">PLAYERS ARE ONLINE NOW!</div></div><br clear="all"><div class="login-input-boxes"><input id="ccLoginBoxUserName" placeholder="Username" name="Alias" autocomplete="off" type="text" tabindex="1" onkeypress="clearLogonUN()" onmousedown="clearLogonUN()" onfocus="clearLogonUN()" value=""><br><input id="ccLoginBoxPassword" placeholder="Password" type="password" name="Password" value="" autocomplete="off" tabindex="2" onkeypress="clearLogonPW()" onmousedown="clearLogonPW()" onfocus="clearLogonPW()"><br><div id="ccForgotPassword"><a href="/forgotten-password.php">FORGOTTEN YOUR PASSWORD?</a></div></div><div class="login-buttons"><a href='javascript:document.forms["ccLoginForm"].submit()' class="btn-login">LOG IN</a><br><a class="btn-join" href="/register.php">JOIN</a></div><input type="text" name="ignore" style="visibility:hidden; display:none"><input type="submit" value="Login" style="display:none"></form></div>
 <script type="text/javascript">
 function clearLogonUN() { $("#ccLoginBoxUserName"); if(event.keyCode==13) document.forms["ccLoginForm"].submit(); }
 function clearLogonPW() { $("#ccLoginBoxPassword"); if(event.keyCode==13) document.forms["ccLoginForm"].submit(); }
@@ -131,16 +214,16 @@ function clearLogonPW() { $("#ccLoginBoxPassword"); if(event.keyCode==13) docume
 	<input type="hidden" name="cid" value="">
 	<input type="hidden" name="sid" value="">	
 	<input type="hidden" name="network" value="Foxy">
-	<input name="playerAlias" type="hidden" value="">		
-    <input name="playerCurrency" type="hidden" value="GBP">			  
-    <input name="skinURL" type="hidden" value="http://www.foxybingo.com">
-    <input name="siteID" type="hidden" value="601">
-    <input name="networkID" type="hidden" value="6">
+	<input type="hidden" name="playerAlias" value="">		
+    <input type="hidden" name="playerCurrency" value="GBP">			  
+    <input type="hidden" name="skinURL" value="https://www.foxybingo.com">
+    <input type="hidden" name="siteID" value="601">
+    <input type="hidden" name="networkID" value="6">
 	<input type="hidden" name="playerSR" value="">
 	<input type="hidden" name="version" value="1">
 	<input type="hidden" name="oCustomerSource" value="">
 	<input type="hidden" name="lang" value="en">
-	<input type="hidden" name="oSourceAppID" value="11">	
+	<input type="hidden" name="oSourceAppID" value="11">
 </form>
 
 	
@@ -153,9 +236,10 @@ function clearLogonPW() { $("#ccLoginBoxPassword"); if(event.keyCode==13) docume
 				<div id="ccSocialMedia">
 					<a href="https://twitter.com/FoxyBingoTeam" target="_blank" id="ccSocialTwitter"><div></div></a>
 					<a href="https://www.facebook.com/RealFoxyBingo" id="ccSocialFb"><div></div></a>
-					<a href="#" onclick="foxyEntertainment()" id="ccSocialFoxy"><div></div></a>
+					<!--<a href="#" onClick="foxyEntertainment()" id="ccSocialFoxy"><div></div></a>-->
 					<a href="http://www.youtube.com/user/FoxyBingo" id="ccSocialYouTube"><div></div></a>
 					<a href="http://www.foxybingo.com/RFL-Foxy.php" id="ccSocialSuperLeague"><div></div></a>
+					<a href="http://www.ladiesoftheleague.co.uk/" id="ccSocialLadiesOfTheLeague" target="_blank"><div></div></a>
 					<a target="_blank" href="/blog" id="ccBlog"><div></div></a>
 				</div>
 			</div>
@@ -244,9 +328,10 @@ div.buycardsbtn img { border-radius: 6px; }
 <div style="float:right; margin:0; width:200px; background-color:#c9287d; border-radius:10px;">
 
 <div style="margin:0; padding:5px 0; width:100%; text-align:center; border-radius:8px; background-color:#c9287d; color:#fff; font-family: FuturaMedium; line-height:23px;font-size:14px">
-Millionaire Genie Jackpot:<br>
+Mega Jackpot Total:<br>
 <strong id="millionairejp" style="color:#fff; line-height:23px; font-size:22px; font-family: FuturaMedium; ">£--,--.--</strong>
 </div> 
+<a href="javascript:launchIG(9098)"><div class="iwpromoImg" style="background-image:url(/ccsys/cmsMedia/GENERIC.INSTANTWIN.GAME__192x144_JPG_IrisRiches.jpg)"><img class="iwphover" src="/images2013/iw-playnow-green-160x120.png"></div></a>
 <a href="javascript:launchIG(9022)"><div class="iwpromoImg" style="background-image:url(/ccsys/cmsMedia/GENERIC.INSTANTWIN.GAME__2037_MillionaireGenie_160x120.jpg)"><img class="iwphover" src="/images2013/iw-playnow-green-160x120.png"></div></a>
 
 
@@ -256,6 +341,11 @@ Progressive Jackpot Total:<br><b id="jptot" style="color:#fff; line-height:23px;
 <a href="javascript:launchIG(481)"><div class="iwpromoImg" style="background-image:url(/ccsys/cmsMedia/GENERIC.INSTANTWIN.GAME__White_Wizard_JP_160x120.jpg)"><img class="iwphover" src="/images2013/iw-playnow-green-160x120.png"></div></a>
 <a href="javascript:launchIG(472)"><div class="iwpromoImg" style="background-image:url(/ccsys/cmsMedia/GENERIC.INSTANTWIN.GAME__ShamansDream_160x120_JP_03.jpg)"><img class="iwphover" src="/images2013/iw-playnow-green-160x120.png"></div></a>
 <a href="javascript:launchIG(477)"><div class="iwpromoImg" style="background-image:url(/ccsys/cmsMedia/GENERIC.INSTANTWIN.GAME__Fuffy_Favourites_JP_160x120_01.jpg)"><img class="iwphover" src="/images2013/iw-playnow-green-160x120.png"></div></a>
+
+<a href="javascript:launchIG(9030)" '=""><div class="iwpromoImg" style="background-image:url(/ccsys/cmsMedia/GENERIC.INSTANTWIN.GAME__192x144_JPG_SupermanJP.jpg)"><img class="iwphover" src="/images2013/iw-playnow-green-160x120.png"></div></a>
+<a href="javascript:launchIG(9062)"><div class="iwpromoImg" style="background-image:url(/ccsys/cmsMedia/GENERIC.INSTANTWIN.GAME__FB_ScalableImage_SnackTime_192x144.jpg)"><img class="iwphover" src="/images2013/iw-playnow-green-160x120.png"></div></a>
+<a href="javascript:launchIG(9032)"><div class="iwpromoImg" style="background-image:url(/ccsys/cmsMedia/GENERIC.INSTANTWIN.GAME__192x144_JPG_WonderWomanJP.jpg)"><img class="iwphover" src="/images2013/iw-playnow-green-160x120.png"></div></a>
+
 </div>
 
 
@@ -303,17 +393,18 @@ function updatePJT()
 	 * - also requires the font tag in the header
 	 * - <link href='http://fonts.googleapis.com/css?family=Merienda+One' rel='stylesheet' type='text/css'>
 	 */ 
-	if (document.getElementById('backimg').style.backgroundImage.indexOf('FOXY.INSTANTWIN.BANNER__GamesHeader-genie.jpg') != -1 && document.getElementById('millionairejp2') == null) {
+	if (document.getElementById('backimg').style.backgroundImage.indexOf('FOXY.INSTANTWIN.BANNER__848x171_Irish_Riches.jpg') != -1 && document.getElementById('millionairejp2') == null) {
 		var div = document.createElement("div");
 		div.id = "millionairejp2";
 		div.innerHTML = "&pound;--,--.--";
-		div.style.color = '#d2b955';
 		div.style.zIndex = 101;
-		div.style.fontSize = '17px';
+		div.style.fontSize = '22px';
 		div.style.fontFamily = "'Merienda One', cursive";
 		div.style.position = "absolute";
-		div.style.left = "44px";
-		div.style.top = "112px";
+		div.style.left = "10px";
+		div.style.top = "30px";
+		/*
+		div.style.color = '#d2b955';
 		div.style.transform = "skew(-25deg, -4deg)";
 		div.style.webkitTransform = "skew(-25deg, -4deg)";
 		div.style.MozTransform = "skew(-25deg, -4deg)";
@@ -324,16 +415,19 @@ function updatePJT()
 		div.style.msBoxShadow = "2px 2px 10px 0px rgba(0,0,0,0.75)";
 		div.style.OBoxShadow = "2px 2px 10px 0px rgba(0,0,0,0.75)";
 		div.style.mozBoxShadow = "2px 2px 10px 0px rgba(0,0,0,0.75)";
+		*/
 		document.getElementById('promoplaceholder').appendChild(div);
 		var div = document.createElement("div");
 		div.innerHTML = "JACKPOT";
 		div.style.zIndex = 100;
-		div.style.color = '#d2b955';
 		div.style.fontSize = '19px';
+		div.style.color = '#000';
 		div.style.fontFamily = "'Merienda One', cursive";
 		div.style.position = "absolute";
-		div.style.left = "60px";
-		div.style.top = "90px";
+		div.style.left = "30px";
+		div.style.top = "10px";
+		/*
+		div.style.color = '#d2b955';
 		div.style.transform = "skew(-25deg, -3deg)";
 		div.style.webkitTransform = "skew(-25deg, -3deg)";
 		div.style.MozTransform = "skew(-25deg, -3deg)";
@@ -344,6 +438,7 @@ function updatePJT()
 		div.style.msBoxShadow = "2px 2px 10px 0px rgba(0,0,0,0.75)";
 		div.style.OBoxShadow = "2px 2px 10px 0px rgba(0,0,0,0.75)";
 		div.style.mozBoxShadow = "2px 2px 10px 0px rgba(0,0,0,0.75)";
+		*/
 		document.getElementById('promoplaceholder').appendChild(div);
 	}
 
@@ -358,7 +453,7 @@ function numberWithCommas(x) {
 </script>
 
 
-<script src="http://ccsys.cashcade.co.uk/feed3.php?formatted=1&amp;type=jsonp&amp;callback=feedCallback"></script>
+<script src="//ccsys.cashcade.co.uk/feed3.php?formatted=1&amp;type=jsonp&amp;callback=feedCallback"></script>
 	</div>
 </div>
 
@@ -374,39 +469,77 @@ function numberWithCommas(x) {
 
 <div id="footerFade">
   <div class="footerOuter2013">
-    <div class="footer2013"> <a href="/faq.php">FAQs</a>&nbsp; |&nbsp; <a href="/banking.php">Banking</a>&nbsp; |&nbsp; <a href="responsible.php">Responsible gaming</a>&nbsp; |&nbsp; <a href="help-contact-us.php">Contact us</a>&nbsp; |&nbsp; <a href="about.php">About us</a>&nbsp; |&nbsp; <a href="privacy.php">Privacy policy</a>&nbsp; |&nbsp; <a href="http://affiliate.foxybingo.com/">Affiliates</a>&nbsp; |&nbsp; <a href="terms.php">Terms &amp; Conditions</a>&nbsp; |&nbsp; <a href="/fairplay.php">Fair Play</a> </div>
+
+    <div class="footer2013"> 
+      <a href="/faq.php">FAQs</a>&nbsp; |&nbsp; 
+      <a href="terms.php#banking">Banking</a>&nbsp; |&nbsp; 
+      <a href="responsible.php">Responsible gaming</a>&nbsp; |&nbsp; 
+      <a href="help-contact-us.php">Contact us</a>&nbsp; |&nbsp; 
+      <a href="about.php">About us</a>&nbsp; |&nbsp; 
+      <a href="privacy.php">Privacy policy</a>&nbsp; |&nbsp; 
+      <a href="http://affiliate.foxybingo.com/">Affiliates</a>&nbsp; |&nbsp; 
+      <a href="terms.php">Terms &amp; Conditions</a>&nbsp; |&nbsp; 
+      <a href="/fairplay.php">Fair Play</a> 
+    </div>
+    
+    <div class="login-mobile-logos">
+      <a title="apple sore" target="_blank" href="https://itunes.apple.com/gb/app/foxy-bingo/id634950874">
+        <img src="images/refresh/logo-app-store.jpg">
+      </a>
+      <img src="images/refresh/logo-android.jpg">
+    </div>
+
     <p>This website is operated by Cassava Enterprises (Gibraltar) Limited, which is licensed to offer online gaming services by the Government of Gibraltar (License Number 022), regulated by the Gibraltar Gambling Commissioner under the laws of Gibraltar, and makes no representation as to legality of such services in other jurisdictions. <br>
       As of November 1, 2014 our gambling services in the UK are operated and managed by 888 UK Limited, a company licensed and regulated by the <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028" target="_blank">United Kingdom Gambling Commission</a>, pursuant to the UK Gambling Act. (License Number 000-039028-R-319297-0016)<br>
       Our address: 601-701 Europort, Gibraltar.<br>
       We encourage responsible gambling and support GameCare.</p>
   </div>
+
 </div>
 <div id="footer-icons">
   <ul>
-    <li><img border="0" src="../images2013/footer-logos-ukash.png" alt="U Kash"></li>
-    <a title="responsible gambling" href="/responsible.php">
-    <li><img border="0" src="../images2013/footer-logos-18plus.gif" alt="18 Plus"></li>
-    </a>
-    <li><img border="0" src="../images2013/footer-logos-no-us.gif" alt="No-US"></li>
-    <li><img border="0" src="../images2013/footer-logos-new-visa.png" alt="Visa"></li>
-    <li><img border="0" src="../images2013/footer-logos-new-visaelectron.png" alt="Visa Electron"></li>
-    <li><img border="0" src="../images2013/footer-logos-paysafecard.jpg" alt="PaySafe Card"></li>
-    <li><img border="0" src="../images2013/footer-logos-mastercard.png" alt="Mastercard"></li>
-    <li><img border="0" src="../images2013/footer-logos-maestro.png" alt="Maestro"></li>
     <li><img border="0" src="../images2013/footer-logos-neteller.jpg" alt="Neteller"></li>
+    <li><img border="0" src="../images2013/footer-logos-new-visa.jpg" alt="Visa"></li>
+    <li><img border="0" src="../images2013/footer-logos-mastercard.jpg" alt="Mastercard"></li>
+    <li><img border="0" src="../images2013/footer-logos-maestro.jpg" alt="Maestro"></li>
+    <li><img border="0" src="../images2013/footer-logos-ukash.jpg" alt="UKash"></li>
+    <li><img border="0" src="../images2013/footer-logos-paysafecard.jpg" alt="PaySafe Card"></li>
     <li><img border="0" alt="paypal" src="../images2013/new-paypal.jpg"></li>
-
-    <a title="gamecare" target="_blank" href="http://www.gamcare.org.uk">
-    <li><img border="0" src="../images2013/GamCare_icon.gif" alt="Gamcare"></li>
-    </a>
-    <li><img border="0" src="../images2013/footer-logos-cashcade.jpg" alt="Cahscade"></li>
-    <li><img border="0" src="../images2013/footer-logos-brigend.gif" alt="Brigend"></li>
-    <a target="_blank" href="https://www.gibraltar.gov.gi/new/remote-gambling" title="Gibraltar Remote Gambling">
-    <li><img border="0" src="../images2013/footer-logos-crest.gif" alt="Crest"></li>
-    </a> <a title="gbga link" target="_blank" href="http://www.gbga.gi/">
-    <li><img border="0" src="../images2013/footer-logos-GBGA.png" alt="GBGA"></li>
-    </a>
-    <li><a target="_blank" href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39028"><img src="/images/gclogowhitebg.jpg" alt="Gambling Commission"></a></li>
+    <li>
+      <a target="_blank" href="https://www.gibraltar.gov.gi/new/remote-gambling" title="Gibraltar Remote Gambling">
+        <img border="0" src="../images2013/footer-logos-crest.png" alt="Crest">
+      </a> 
+    </li>
+    <li>
+      <a title="gamecare" target="_blank" href="http://www.gamcare.org.uk/">
+        <img border="0" src="../images2013/GamCare_icon.png" alt="Gamcare">
+      </a>
+    </li>
+    <li>
+      <a title="gbga link" target="_blank" href="http://gbga.gi/">
+        <img border="0" src="../images2013/footer-logos-GBGA.png" alt="GBGA">
+      </a>
+    </li>
+    <li>
+      <a target="_blank" href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRAccountDetails.aspx?accountNo=39028">
+        <img src="/images/gclogowhitebg.jpg" alt="Gambling Commission">
+      </a>
+    </li>    
+    <li>
+      <a target="_blank" href="http://www.gambleaware.co.uk/">
+        <img border="0" src="../images2013/gambleaware.jpg" alt="gambleaware">
+      </a>
+    </li>      
+    <li>
+      <a title="responsible gambling" href="/responsible.php">
+        <img border="0" src="../images2013/footer-logos-18plus.png" alt="18 Plus">
+      </a>
+    </li>
+    <li>
+      <a target="_blank" href="http://www.dragonfishtech.com/">
+        <img border="0" src="../images2013/dragonfishnew.png" alt="dragonfishnew">
+      </a>
+    </li>
   </ul>
 </div>
 <script type="text/javascript">
@@ -457,6 +590,7 @@ function numberWithCommas(x) {
 		}
 	}
 </script>
+<script src="/scripts/tracking-min-pp.js" async=""></script>
 
 
 <!-- Clicktale Bottom -->
