@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penzeys.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318162243id_/https%3A//www.penzeys.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penzeys.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174620id_/https%3A//www.penzeys.com/Privacy-policy) for the most accurate reproduction.*
 
 # Spices at Penzeys
 
