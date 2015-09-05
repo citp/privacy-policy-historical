@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azamaraclubcruises.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628223033id_/https%3A//www.azamaraclubcruises.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azamaraclubcruises.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102515id_/https%3A//www.azamaraclubcruises.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Azamara Club Cruises
 
@@ -40,7 +40,7 @@ We use the information that you share with us for these purposes:
 
 ### How do I tell Azamara that I don't want to be contacted or change my personally identifiable information?
 
-Our Web sites sometimes provide you the opportunity to opt-in to receive communications from us at the point where we request information from you. You always have the option of removing your name from our e-mail mailing list(s) so that you will not receive further e-mail promotional communications from us. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us since we operate numerous sites and e-mail lists. If you are unable to complete the process indicated in such communications, [e-mail](https://web.archive.org/email-us).
+Our Web sites sometimes provide you the opportunity to opt-in to receive communications from us at the point where we request information from you. You always have the option of removing your name from our e-mail mailing list(s) so that you will not receive further e-mail promotional communications from us. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us since we operate numerous sites and e-mail lists. If you are unable to complete the process indicated in such communications, [e-mail](https://web.archive.org/dk/email-us).
 
 ### Links and Third Parties
 
@@ -64,6 +64,6 @@ By using our Web sites, you signify your acceptance of this Privacy Policy. Azam
 
 ### Questions or Comments?
 
-If you have any further questions or comments regarding our If you have any further questions or comments regarding our Privacy Policy, please [send us an e-mail](https://web.archive.org/email-us) with your questions or comments.
+If you have any further questions or comments regarding our If you have any further questions or comments regarding our Privacy Policy, please [send us an e-mail](https://web.archive.org/dk/email-us) with your questions or comments.
 
 This Privacy Policy was last modified on March 2011.
