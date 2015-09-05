@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caltech.edu privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626120221id_/http%3A//www.caltech.edu/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caltech.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061137id_/http%3A//www.caltech.edu/content/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Caltech
 
