@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318114519id_/https%3A//www.flagstar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905083651id_/https%3A//www.flagstar.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ For our affiliates' everyday business purposes – information about your credit
 For our affiliates to market to you | No | We don't share  
 For nonaffiliates to market to you | No | We don't share  
   
-QUESTIONS? | Call (800) 642-0039 for banking questions or (800) 634-6486 for loan questions.  
+QUESTIONS? | Call (888) 248-6423 for banking questions or (800) 634-6486 for loan questions.  
 ---|---  
   
 WHAT WE DO  
@@ -64,6 +64,6 @@ _Our joint marketing partners include categories of companies such as insurance 
 ](https://web.archive.org/content/dam/flagstar/pdfs/about-flagstar/PrivacyPolicy.pdf "download now")
 
 **Contact Information**  
-(800) 642-0039 (Banking)  
+(888) 248-6423 (Banking)  
 (800) 634-6486 (Loan)  
 
