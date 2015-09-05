@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connectforhealthco.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000545id_/http%3A//connectforhealthco.com/site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectforhealthco.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185738id_/http%3A//connectforhealthco.com/site-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Connect for Health Colorado
+# Privacy Policy - Connect for Health Colorado
 
 Protecting your privacy is very important to us. We’re telling you about connectforhealthco.com’s privacy policy so you know what information we collect, why we collect it, and what we do with it.
 
