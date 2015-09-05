@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628212627id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906013029id_/https%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -34,17 +34,19 @@ Hy-Vee collects information as outlined in this privacy policy in order to deliv
 
 ## What Information Do We Collect?
 
- _Automatic Collection of Information:_  
+ _Automatic Collection of Information:_
+
 When you interact with our Services, our system will automatically gather and store certain information about you. This information does not identify you personally and is used in an aggregate way to help us improve our Services and tell us the number of users of our Services each day. Our Services automatically collect and record information from visitors, which includes, but is not limited to: domain name; your computer’s internet protocol address; data showing the order in which you accessed our Services; the name and release number of the web browser software you used; the operating system of the computer used; the date and time you access our Services; the address of the website that linked to our Services (referral URL); any search terms used when interacting with our Services.
 
 In addition to the automatic collection of information set forth above, we collect data that is publically available by providing you with a single sign-on service using your third-party social networking login credentials. This includes, but is not limited to, Facebook, Google, and Twitter. This improves our ability to contact you and increases the relevance of our marketing by providing better product recommendations or special offers that may interest you. We may also access and use available information from your third-party social network profile, such as your name, location, profile picture, profile information, gender, list of friends, friends’ profiles or postings, email addresses, wall postings and news feed. You should know that any information or content you post to a third-party site will be subject to that site’s own privacy policy.
 
- _Permission-based Collection of Information:_  
+ _Permission-based Collection of Information:_
+
 At different places within our Services, depending upon the feature(s) you use (i.e. forum, shopping cart, locator services), you may be asked to volunteer personal information, including, but not limited to, your name, credit and/or debit card information, physical location, e-mail address, mailing address and telephone number. We also collect the e-mail addresses of those who communicate with us via e-mail.
 
 ## How Do We Use the Information We Collect?
 
-The information we gather automatically and with your permission during your interaction with our Services is used in some the following ways: to monitor, review, measure and analyze website utilization; to modify and enhance our Services; to improve the content and design of our Services; to respond to your requests; to fulfill your requests or orders for our products and services; to communicate with you about your requests; to distribute news and other information; to administer surveys, promotions, giveaways, contests and sweepstakes; to alert you about product information and recalls; and to verify your identity. The foregoing list is not exclusive or exhaustive.
+The information we gather automatically and with your permission during your interaction with our Services is used in some the following ways: to monitor, review, measure and analyze website utilization; to modify and enhance our Services; to improve the content and design of our Services; to respond to your requests; to fulfill your requests or orders for our products and services; to communicate with you about your requests; to distribute news and other information; to administer surveys, promotions, giveaways, contests and sweepstakes, and loyalty and/or rewards programs; to alert you about product information and recalls; and to verify your identity. The foregoing list is not exclusive or exhaustive.
 
 ## With Whom Will the Information be Shared?
 
@@ -56,7 +58,7 @@ We may disclose or otherwise make available information we’ve gathered during 
 
 We may disclose information when the disclosure is necessary to protect the safety or the property rights of Hy-Vee, our customers, and/or our employees; when cooperating with reasonable requests from law enforcement; and when legally compelled to do so.
 
-In connection with sweepstakes, contests, giveaways and other types of promotional campaigns, we will post winners’ lists on our website and throughout our other advertising mediums, as well as make available winners’ lists to interested parties who may request the same in writing following the expiration of any such promotional campaign. In addition, we will provide winners’ names, addresses, telephone numbers, and if applicable social security numbers, with appropriate governmental agencies. In addition, certain promotional campaigns may require disclosure of personally identifiable information of entrants to promotional campaign participants, including but not limited to sponsors and promotional campaign administrators. If personally identifiable information is to be shared with promotional campaign participants, the rules applicable to each such promotional campaign shall disclose the fact that such information may be shared with such promotional campaign participants.
+In connection with sweepstakes, contests, giveaways, loyalty and/or rewards programs and other types of promotional campaigns, we will post winners’ lists on our website and throughout our other advertising mediums, as well as make available winners’ lists to interested parties who may request the same in writing following the expiration of any such promotional campaign. In addition, we will provide winners’ names, addresses, telephone numbers, and if applicable social security numbers, with appropriate governmental agencies. In addition, certain promotional campaigns may require disclosure of personally identifiable information of entrants to promotional campaign participants, including but not limited to sponsors and promotional campaign administrators. If personally identifiable information is to be shared with promotional campaign participants, the rules applicable to each such promotional campaign shall disclose the fact that such information may be shared with such promotional campaign participants.
 
 ## Communication Defaults: Opt-in, Opt-out
 
@@ -106,7 +108,7 @@ Hours of Operation:
 
 ## Modification Date
 
-This privacy policy was last modified on, and shall be effective from and after **August 4, 2014.**
+This privacy policy was last modified on, and shall be effective from and after **July 22, 2015**.
 
 |  | Corporate Citizenship Report  
 ---  
