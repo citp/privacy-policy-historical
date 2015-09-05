@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rabbies.com privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927131819id_/http%3A//www.rabbies.com/tours_vacations_faqs/privacy.asp%3Flng%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rabbies.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084010id_/https%3A//www.rabbies.com/tours_vacations_faqs/privacy.asp%3Flng%3Den) for the most accurate reproduction.*
 
 # Rabbie's Privacy and Cookie Policies
 
@@ -17,8 +17,7 @@ The list below describe the cookies we use on this site and what we use them for
 #### First Party Cookies 
 
   
-**These are cookies that are set by this website directly.**  
-**Google Analytics:** We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information.We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. You can find out more about Google's position on privacy as regards its analytics service [here](http://www.google.com/intl/en_uk/analytics/privacyoverview.html).
+**These are cookies that are set by this website directly.**
 
 **Website Preferences** : We use a simple session cookie to record your language preference when visiting this website. 
 
@@ -33,7 +32,9 @@ Please note that all these first party (i.e. Rabbie's) session cookies expire as
 
   
 **These are cookies set on your machine by external websites whose services are used on this site.**  
-Cookies of this type are the feeds and sharing buttons across this website, allowing visitors to share and recommend content onto social networks. Cookies are currently set by Twitter, Facebook and Tripadvisor. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. 
+Cookies of this type are the feeds and sharing buttons across this website, allowing visitors to share and recommend content onto social networks. Cookies are currently set by Google, Twitter, Facebook and Tripadvisor. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. 
+
+**Google Analytics:** We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information.We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. You can find out more about Google's position on privacy as regards its analytics service [here](https://www.google.co.uk/intl/en-GB/policies/privacy/partners/). 
 
 You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website. You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.   
 
