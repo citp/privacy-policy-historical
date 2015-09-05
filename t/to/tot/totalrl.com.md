@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316204312id_/http%3A//www.totalrl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052552id_/http%3A//www.totalrl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rugby League News, Features & Discussion
 
