@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the langhamhotels.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032405id_/http%3A//www.langhamhotels.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the langhamhotels.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905100448id_/http%3A//www.langhamhotels.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Luxury Hotels | The Langham Hotels and Resorts
 
@@ -13,6 +13,7 @@ Following is a list of the trademarks / brand names under Langham and their asso
 • Langham Place  
 • Eaton Hotel  
 • Eaton House  
+• Cordis  
 • Chuan Spa
 
  **Types of information we collect:  **
@@ -104,7 +105,7 @@ Use of or visit this site does not constitute any binding contract over any good
 
  **Copyright and Trademark Notices  **
 
-All contents of this website are: ©2011 L Langham Hotels International Limited. 2701, Great Eagle Centre, 23 Harbour Road, Wanchai, Hong Kong. All rights reserved. Langham Hospitality Group, Langham Hotels International and Langham Hotels' branded websites logo are registered trademarks or trademarks of Langham Hotels International Limited. Other product and company names mentioned herein may be the trademarks of their respective owners. 
+All contents of this website are: ©2011-2015 Langham Hotels International Limited. 2701, Great Eagle Centre, 23 Harbour Road, Wanchai, Hong Kong. All rights reserved. Langham Hospitality Group, Langham Hotels International and Langham Hotels' branded websites logo are registered trademarks or trademarks of Langham Hotels International Limited. Other product and company names mentioned herein may be the trademarks of their respective owners. 
 
 Langham Hotels' branded websites may contain or reference trademarks, patents, copyrighted materials, trade secrets, technologies, products, processes or other intellectual property or proprietary rights of Langham Hotels and/or other parties. No license to or right in any such trademarks, patents, copyrighted materials, trade secrets, technologies, products, processes and other intellectual property or proprietary rights of Langham and/or other parties is granted to or conferred upon you. 
 
