@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bensherman.co.uk privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610012139id_/http%3A//www.bensherman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bensherman.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185829id_/https%3A//www.bensherman.com/privacy-policy-page) for the most accurate reproduction.*
 
 # Privacy Policy | Ben Sherman
 
@@ -49,8 +49,6 @@ We may collect and process the following data about you:
 
 We may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. Some of the cookies we use are essential for the site to operate and, in particular, to allow you to shop from our site. Please see our [Cookies Policy](https://web.archive.org/terms-and-conditions-footer) for further details.
 
-We use first & third party tracking technology that allows us to collect and store data on which products users have viewed on site. Our Partner then uses the collected information to add personalised products into our emails making them more personalised for subscribers. 
-
 * * *
 
 ## Where we store your personal data
@@ -58,8 +56,6 @@ We use first & third party tracking technology that allows us to collect and sto
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 Our email campaigns are provided through Mailchimp, a service operated by Rocket Science Group LLC based in the United States. Email addresses and other profile information provided by you may be disclosed to Rocket Science Group LLC for the sole purpose of operating email campaigns on our behalf. Rocket Science Group LLC complies with the EU Safe Harbor framework as specified by the US Department of Commerce regarding the collection, use, and retention of data from the European Union. Details of their registration can be found here: <http://safeharbor.export.gov/companyinfo.aspx?id=10039>.
-
-The electronically transmitted purchase receipt in email format which may be offered to you as an optional service in a number of our retail stores is provided by a service operated by yReceipts Ltd based in the United Kingdom. Email addresses provided by you may be disclosed to yReceipts Ltd for the sole purpose of providing you with an electronically transmitted purchase receipt on our behalf. yReceipts complies with the EU Safe Harbor framework as specified by the US Department of Commerce regarding the collection, use, and retention of data from the European Union.  
 
 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
