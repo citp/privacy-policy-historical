@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thetileapp.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315063640id_/https%3A//www.thetileapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetileapp.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905154356id_/https%3A//www.thetileapp.com/privacy) for the most accurate reproduction.*
 
-# Tile - Privacy
+# Privacy - Tile, Leaders in Bluetooth Tracking Device and App - Tile - Never Lose Your Keys, Wallet Or Anything Again
 
-We, Tile, Inc. ("we"), offer object location services to users of our mobile tracking devices ("Tile device(s)"), through our website under www.thetileapp.com (the "Website") and/or our Tile mobile application (the "Tile app") (collectively referred to as the "Services"). This Privacy Policy describes: the information we collect from users; how we use that information; and your rights in connection with our collection and processing of the information.
+We, Tile, Inc. ("we"), offer object location services to users of our mobile tracking devices ("Tile device(s)"), through our website under [www.thetileapp.com](http://www.thetileapp.com/) (the "Website") and/or our Tile mobile application (the "Tile app") (collectively referred to as the "Services"). This Privacy Policy describes: the information we collect from users; how we use that information; and your rights in connection with our collection and processing of the information. 
 
 ### Definition of Personal Information
 
-In this Privacy Policy, the term "personal information" means any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to a name, an identification number, or, in certain circumstances, location information, an IP address or the unique identifier allocated to each Tile device.
+In this Privacy Policy, the term "personal information" means any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to a name, an identification number, or, in certain circumstances, location information, an IP address or the unique identifier allocated to each Tile device. 
 
 ### Data Controller
 
@@ -14,7 +14,7 @@ The owner and data controller of your personal information collected, processed,
 
 ### Location of Storage and Processing of Personal Information
 
-Your personal information is stored and processed at our headquarters in the USA, unless stated otherwise in the rest of this document.
+Your personal information is stored and processed at our headquarters in the USA, unless stated otherwise in the rest of this document. 
 
 ### Personal Information that we Collect
 
@@ -32,12 +32,10 @@ If you decide to interact with a social network when using our Services, we may 
 
 #### Our Object Location Services
 
-We will use and process
+We will use and process 
 
   * Your personal information from your registration and usage of our Services (including your location information and your Tile devices' location information) to provide you with our object location services, e.g., to help you track and find your Tile devices which are in reach of your mobile device, to remember the last known location of your Tile devices, and/or to communicate to you the location of your Tile device(s) in reach of other users' mobile devices; 
-
   * Your location information (i.e., the location of your mobile device that has tracked a Tile device of another user) to help other users of the Services to find their lost Tile device(s) by sending anonymous location updates to those other users when the Tile app on your mobile device "finds" their lost Tile device(s); (see Section 6 on "Our Use and Sharing of your Tile Device location information" for further details on how our service works). 
-
 
 
 
@@ -46,15 +44,10 @@ We will use and process
 In addition, we may use and process your personal information (including your location information and your Tile devices' location information 
 
   * To provide you with support and handle requests and complaints; 
-
   * To send you updates, notices, and additional information related to the Services; 
-
   * To create anonymous, statistical and aggregated data and reports (i.e., in a form where such data does not enable the identification of a specific user). See Section 9 on "Our Use and Sharing of Aggregated Information" below; 
-
   * To comply with any applicable law and assist law enforcement agencies under any applicable law, when we have a good faith belief that our cooperation with the law enforcement agencies is legally mandated or meets the applicable legal standards and procedures; 
-
   * To prevent fraud, misappropriation, infringements, identity theft and other illegal activities and misuse of the Services. 
-
 
 
 
@@ -108,7 +101,7 @@ While our Website and Tile app at this time do not recognize automated browser s
 
 ### Integration of Third Party Web Analysis Services and Social Functionalities
 
-In addition, our Services integrate the following services of third parties which may also place cookies on your computer’s hard drive and/or your mobile device's memory. We do not have access to or control over cookies or other features that advertisers and third party sites may use, and the information practices of these advertisers and third party websites are not covered by this Privacy Policy. 
+In addition, our Services integrate the following services of third parties which may also place cookies on your computer's hard drive and/or your mobile device's memory. We do not have access to or control over cookies or other features that advertisers and third party sites may use, and the information practices of these advertisers and third party websites are not covered by this Privacy Policy. 
 
 You can change your settings to refuse these third party cookies or to warn you before cookies are placed. However, if you choose not to accept cookies, you may not be able to take advantage of some of our features and services through our Services. 
 
@@ -125,9 +118,7 @@ You may opt-out from the collection of information stored and generated by the G
 Our Services integrate social plugins, widgets and other features from third party social networks, including the following: 
 
   * Twitter Tweet-Button, social widgets and other features allowing interaction with the Twitter social network as provided by Twitter, Inc.; further information on Twitter's privacy practices can be found under <https://twitter.com/privacy>. 
-
   * Facebook Like-Button, social widgets and other features allowing interaction with the Facebook social network as provided by Facebook. Inc.; further information on Facebook's privacy practices can be found under [ https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy). 
-
 
 
 
@@ -143,6 +134,10 @@ You have the right, at any time, to know whether your personal information has b
 
 If you request the deletion of your account and your personal information, we will delete such information, however please note we may not delete information from our back-up systems. 
 
+### Opt-Out
+
+We may periodically send you free newsletters and e-mails that directly promote our Services. When you receive such promotional communications from us, you will have the opportunity to “opt-out” (either through your Account or by following the unsubscribe instructions provided in the e-mail you receive). We do need to send you certain communications regarding the Services and you will not be able to opt out of those communications – e.g., communications regarding updates to our Terms of Service or information about billing. 
+
 ### Information Security
 
 We implement commercially reasonable systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access, disclosure, modification or use of information. However, these measures are unable to provide absolute assurance. Therefore, although we take great efforts to protect your personal information, we cannot guarantee and you cannot reasonably expect that our databases will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse. 
@@ -155,4 +150,4 @@ If there are any changes to this Privacy Policy, they will be posted on the Webs
 
 You agree to be bound by any of the changes made in the terms of this Privacy Policy. Continuing to use the Services after being notified of such changes will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must cease any further use of the Services. 
 
-### Last modified: 05/05/2014
+### Last modified: 07/10/2015
