@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329202243id_/https%3A//www.bookbrowse.com/information/index.cfm/fuseaction/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbrowse.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905160341id_/https%3A//www.bookbrowse.com/information/index.cfm/fuseaction/privacy) for the most accurate reproduction.*
 
 # BookBrowse.com's privacy statement
 
