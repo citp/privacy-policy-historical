@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the infoq.com privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627160759id_/http%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infoq.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905053730id_/http%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>InfoQ - Facilitating the spread of knowledge and innovation in enterprise software development</title>
@@ -20,22 +20,22 @@
         
 		
 		
-			<link href="http://fonts.googleapis.com/css?family=Gentium+Book+Basic" rel="stylesheet" type="text/css">
+			<link href="//fonts.googleapis.com/css?family=Gentium+Book+Basic" rel="stylesheet" type="text/css">
 		
-        <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.infoq.com/statics_s2_20150616-0231/styles/site.css">
-        <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.infoq.com/statics_s2_20150616-0231/styles/site_en.css">
-        <link rel="shortcut icon" href="http://cdn.infoq.com/statics_s2_20150616-0231/favicon.ico" type="image/x-icon">
-        <link rel="apple-touch-icon" href="http://cdn.infoq.com/statics_s2_20150616-0231/apple-touch-icon.png">
+        <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/site.css">
+        <link rel="stylesheet" type="text/css" media="screen" href="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/site_en.css">
+        <link rel="shortcut icon" href="http://cdn.infoq.com/statics_s1_20150902-03315u1/favicon.ico" type="image/x-icon">
+        <link rel="apple-touch-icon" href="http://cdn.infoq.com/statics_s1_20150902-03315u1/apple-touch-icon.png">
 
-        <link rel="stylesheet" href="http://cdn.infoq.com/statics_s2_20150616-0231/scripts/ui/jquery.jscrollpane.css" type="text/css">
+        <link rel="stylesheet" href="http://cdn.infoq.com/statics_s1_20150902-03315u1/scripts/ui/jquery.jscrollpane.css" type="text/css">
 
-        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/4285.js?439018" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+        <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0022/4285.js?439018" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
         	var device="desktop";
             var InfoQConstants = {};
             InfoQConstants.language = 'en';
             InfoQConstants.countryCode = '';
         </script>
-        <script type="text/javascript" src="http://cdn.infoq.com/statics_s2_20150616-0231/scripts/combinedJs.js"></script>
+        <script type="text/javascript" src="http://cdn.infoq.com/statics_s1_20150902-03315u1/scripts/combinedJs.js"></script>
         <script type="text/javascript">
             
                 var JSi18n = JSi18n || {}; // define only if not already defined
@@ -97,7 +97,7 @@
 
 
 
-
+<script src="/scripts/ads.js"></script>
 <script type="text/javascript">
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
@@ -123,10 +123,32 @@ googletag.cmd.push(function() {
 	googletag.defineSlot('/5286733/en_textlink5', [120, 100], 'id_ad_textlink5').addService(googletag.pubads());*/
 	googletag.defineSlot('/5286733/en_300x250_category', [300, 250], 'id_300x250_category').addService(googletag.pubads());
 	googletag.defineSlot('/5286733/en_300x250_banner_searchResults', [300, 250], 'id_300x250_banner_searchResults').addService(googletag.pubads());
-	googletag.pubads().enableSingleRequest();
-	googletag.pubads().collapseEmptyDivs();
+	googletag.pubads().enableSingleRequest();       
+    
+	// central function used for checking the GAM slots for displayed/not displayed ads 
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+	  	// on slot rendered we need to check multiple events for multiple elements defined in multiple places
+       	// ( text links, optional vcr, related rightbar native vcr box)
+        	
+       	 	
+       	// check the sponsored links (defined in see sponsoredLinks.jsp)
+       	if (typeof(sponsoredLinksSlotRendered) == typeof(Function)){
+       		sponsoredLinksSlotRendered(event);
+       	}
+       	
+       	// see the related rightbar optional vcr box(defined in rightbarOptionalVcrBox.js)
+       	if (optionalVcrBox && typeof(optionalVcrBox.relatedRightbarNativeVcrSlotRendered) == typeof(Function)){
+       		optionalVcrBox.relatedRightbarNativeVcrSlotRendered(event);
+       	}
+	});
+        
+   	googletag.pubads().collapseEmptyDivs();
 	googletag.enableServices();
 });
+
+function isAdBlocked(){
+    return ( window.noAdblocker === undefined );
+}
 </script>
 
 
@@ -134,8 +156,8 @@ googletag.cmd.push(function() {
         
         
         
-			<link rel="image_src" href="http://cdn.infoq.com/statics_s2_20150616-0231/styles/i/logo-big.jpg">
-			<meta property="og:image" content="http://cdn.infoq.com/statics_s2_20150616-0231/styles/i/logo-big.jpg">
+			<link rel="image_src" href="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/i/logo-big.jpg">
+			<meta property="og:image" content="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/i/logo-big.jpg">
 		
     </head>
 
@@ -196,17 +218,17 @@ googletag.cmd.push(function() {
     <ul class="list2">
         <li>Exclusive updates on:</li>
         
-	        <li><a href="http://twitter.com/infoq" target="_blank"><img src="http://cdn.infoq.com/statics_s2_20150616-0231/styles/i/twitter.jpg" alt="" border="0"></a></li>
-	        <li><a href="http://www.facebook.com/InfoQ" target="_blank"><img src="http://cdn.infoq.com/statics_s2_20150616-0231/styles/i/facebook.jpg" alt="" border="0"></a></li>
-	        <li><a href="http://www.linkedin.com/company/infoq" target="_blank"><img src="http://cdn.infoq.com/statics_s2_20150616-0231/styles/i/linkedin.gif" alt="" border="0"></a></li>
+	        <li><a href="http://twitter.com/infoq" target="_blank"><img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/i/twitter.jpg" alt="" border="0"></a></li>
+	        <li><a href="http://www.facebook.com/InfoQ" target="_blank"><img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/i/facebook.jpg" alt="" border="0"></a></li>
+	        <li><a href="http://www.linkedin.com/company/infoq" target="_blank"><img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/i/linkedin.gif" alt="" border="0"></a></li>
 	        
 	        
-	        	<li><a href="https://plus.google.com/104892343728609932454" target="_blank" rel="publisher"><img src="http://cdn.infoq.com/statics_s2_20150616-0231/styles/i/social/gplus-16.png" alt="" border="0"></a></li>
+	        	<li><a href="https://plus.google.com/104892343728609932454" target="_blank" rel="publisher"><img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/i/social/gplus-16.png" alt="" border="0"></a></li>
        		
        		
         
         
-        <li><a id="headerRssLink" href="#" title="" target="_blank"><img src="http://cdn.infoq.com/statics_s2_20150616-0231/styles/i/rss.jpg" alt="" border="0"></a></li>
+        <li><a id="headerRssLink" href="#" title="" target="_blank"><img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/i/rss.jpg" alt="" border="0"></a></li>
     </ul>
 	<div class="clear"></div>
 </div>
@@ -223,7 +245,7 @@ googletag.cmd.push(function() {
 				<input type="text" id="keyword" name="queryString" class="searchInput" value="Search" onfocus="if(this.value=='Search'){ this.value = ''; }" onblur="if(this.value==''){ this.value = 'Search'; }">
 				<input type="hidden" id="page" name="page" value="1">
                 <input type="hidden" id="searchOrder" size="15" name="searchOrder">
-				<input type="hidden" id="sst" name="sst" value="wq4HowTKK9zYzywG">
+				<input type="hidden" id="sst" name="sst" value="9usllvC6YsPEv2aZ">
 				<input type="submit" value="" id="search" class="submitCls">
 			</fieldset>
 		</form>
@@ -255,7 +277,7 @@ googletag.cmd.push(function() {
 	<!--	#######		logo	#########	 -->
 	<div class="logo">
 		<a class="image" href="/" title="">
-            <img src="http://cdn.infoq.com/statics_s2_20150616-0231/styles/i/logo_bigger.jpg" alt="" border="0">
+            <img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/i/logo_bigger.jpg" alt="" border="0">
         </a>
 		<div class="clear"></div>
 	    
@@ -280,7 +302,7 @@ googletag.cmd.push(function() {
 	
 	    
 	    
-	1,192,421 May unique visitors
+	1,527,766 Aug unique visitors
 </p>
 
 		<div class="clear"></div>
@@ -316,24 +338,54 @@ googletag.cmd.push(function() {
 							  <!-- <li><a class="more" href="#" title="">+ More topics</a></li> -->
 						</ul>
 					</div>
-					
-					<div class="menu_article">
-						<h2>Featured in <span id="developmentHDLabel"></span></h2>
-						<h3 id="developmentHDTitle"></h3>
-						<div class="clear"></div>
-						<p>
-							<img id="developmentHDImg" src="" alt="" border="0">
-							<span id="developmentHDSummary"></span>
-						</p>
-						<div class="clear"></div>	
-						<div class="alignCenter">
-							<a class="view_all_categ" href="/development/">
-								<span>All in <b id="developmentHDLabel2">Development</b></span>
-							</a>
-						</div>
-						<div class="clear"></div>	
-					</div>
-					
+
+                    
+                        
+                        
+                        
+                        
+                        
+                    
+
+
+
+
+    
+    
+
+
+<div class="menu_article">
+    <h2>
+        Featured in 
+        <span>
+        Development
+    </span>
+    </h2>
+
+    <h3>Metadata-Driven Design: Building Web APIs for Dynamic Mobile Apps</h3>
+
+    <div class="clear"></div>
+    <p>
+        <img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/resource/articles/mdd-webapi-for-mobile-apps/en/smallimage/logo-mobile.jpg" alt="" border="0">
+        <span>More than ten years ago, software architect Kevin Perera invented a design method for architectures that was called "metadata-driven design and development". In this article, Aaron Kendall explains how to use this design method and outlines similarities as well as differences to current techniques like RESTful services or HATEOAS by implementing a metadata-driven mobile application.</span>
+    </p>
+
+    <div class="clear"></div>
+    <div class="alignCenter">
+        
+            
+        
+        
+        <a class="view_all_categ" href="/development/" includeparams="none">
+            <span>
+                All in 
+                <b>Development</b>
+            </span>
+        </a>
+    </div>
+    <div class="clear"></div>
+</div>
+
 					<div class="clear"></div>
 				</div>
 			</li>
@@ -356,24 +408,54 @@ googletag.cmd.push(function() {
 							  <!-- <li><a class="more" href="#" title="">+ More topics</a></li> -->
 						</ul>
 					</div>
-					
-					<div class="menu_article">
-						<h2>Featured in <span id="architecture-designHDLabel"></span></h2>
-						<h3 id="architecture-designHDTitle"></h3>
-						<div class="clear"></div>
-						<p>
-							<img id="architecture-designHDImg" src="" alt="" border="0">
-							<span id="architecture-designHDSummary"></span>
-						</p>
-						<div class="clear"></div>	
-						<div class="alignCenter">
-							<a class="view_all_categ" href="/architecture-design/">
-								<span>All in <b id="architecture-designHDLabel2">Architecture &amp; Design</b></span>
-							</a>
-						</div>
-						<div class="clear"></div>	
-					</div>
-					
+
+                    
+                        
+                        
+                        
+                        
+                        
+                    
+
+
+
+
+    
+    
+
+
+<div class="menu_article">
+    <h2>
+        Featured in 
+        <span>
+        Architecture &amp; Design
+    </span>
+    </h2>
+
+    <h3>Fail Better: Radical Ideas from the Practice of Cloud Computing</h3>
+
+    <div class="clear"></div>
+    <p>
+        <img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/resource/presentations/resilient-distributed-systems/en/smallimage/Tom.JPG" alt="" border="0">
+        <span>Tom Limoncelli highlights some of the most radical advice from the new book “The Practice of Cloud System Administration”. Topics include: create resiliency at the most economic level, do risky procedures often, and create a blameless culture to encourage communication and improve system reliability.</span>
+    </p>
+
+    <div class="clear"></div>
+    <div class="alignCenter">
+        
+            
+        
+        
+        <a class="view_all_categ" href="/architecture-design/" includeparams="none">
+            <span>
+                All in 
+                <b>Architecture &amp; Design</b>
+            </span>
+        </a>
+    </div>
+    <div class="clear"></div>
+</div>
+
 					<div class="clear"></div>
 				</div>
 			</li>
@@ -392,24 +474,54 @@ googletag.cmd.push(function() {
 							  <!-- <li><a class="more" href="#" title="">+ More topics</a></li> -->
 						</ul>
 					</div>
-					
-					<div class="menu_article">
-						<h2>Featured in <span id="process-practicesHDLabel"></span></h2>
-						<h3 id="process-practicesHDTitle"></h3>
-						<div class="clear"></div>
-						<p>
-							<img id="process-practicesHDImg" src="" alt="" border="0">
-							<span id="process-practicesHDSummary"></span>
-						</p>
-						<div class="clear"></div>	
-						<div class="alignCenter">
-							<a class="view_all_categ" href="/process-practices/">
-								<span>All in <b id="process-practicesHDLabel2">Process &amp; Practices</b></span>
-							</a>
-						</div>
-						<div class="clear"></div>	
-					</div>
-					
+
+                    
+                        
+                        
+                        
+                        
+                        
+                    
+
+
+
+
+    
+    
+
+
+<div class="menu_article">
+    <h2>
+        Featured in 
+        <span>
+        Process &amp; Practices
+    </span>
+    </h2>
+
+    <h3>A Year in Swarm</h3>
+
+    <div class="clear"></div>
+    <p>
+        <img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/resource/articles/year-swarm/en/smallimage/logo-agile2.jpg" alt="" border="0">
+        <span>The article tells a story of a small team of tightly-knit developers, a “human swarm”, who largely worked on a single screen and keyboard practicing mob programming, had no formally defined roles, performed no estimates, seldom worked on more than one task at a time and delivered a quality product to a satisfied customer.</span>
+    </p>
+
+    <div class="clear"></div>
+    <div class="alignCenter">
+        
+            
+        
+        
+        <a class="view_all_categ" href="/process-practices/" includeparams="none">
+            <span>
+                All in 
+                <b>Process &amp; Practices</b>
+            </span>
+        </a>
+    </div>
+    <div class="clear"></div>
+</div>
+
 					<div class="clear"></div>
 				</div>
 			</li>
@@ -429,24 +541,54 @@ googletag.cmd.push(function() {
 							  <!-- <li><a class="more" href="#" title="">+ More topics</a></li> -->
 						</ul>
 					</div>
-					
-					<div class="menu_article">
-						<h2>Featured in <span id="operations-infrastructureHDLabel"></span></h2>
-						<h3 id="operations-infrastructureHDTitle"></h3>
-						<div class="clear"></div>
-						<p>
-							<img id="operations-infrastructureHDImg" src="" alt="" border="0">
-							<span id="operations-infrastructureHDSummary"></span>
-						</p>
-						<div class="clear"></div>	
-						<div class="alignCenter">
-							<a class="view_all_categ" href="/operations-infrastructure/">
-								<span>All in <b id="operations-infrastructureHDLabel2">Operations &amp; Infrastructure</b></span>
-							</a>
-						</div>
-						<div class="clear"></div>	
-					</div>
-					
+
+                    
+                        
+                        
+                        
+                        
+                        
+                    
+
+
+
+
+    
+    
+
+
+<div class="menu_article">
+    <h2>
+        Featured in 
+        <span>
+        Operations &amp; Infrastructure
+    </span>
+    </h2>
+
+    <h3>Real Threat and Real Defenses – Case Study of the Unknown</h3>
+
+    <div class="clear"></div>
+    <p>
+        <img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/resource/presentations/hackers-threat-defense/en/smallimage/Alex.JPG" alt="" border="0">
+        <span>Alex Holden examines hackers’ techniques, skills, and shortfalls. He takes a snapshot of the current threat landscape and derives practical lessons by analyzing a number of high profile breaches.  </span>
+    </p>
+
+    <div class="clear"></div>
+    <div class="alignCenter">
+        
+            
+        
+        
+        <a class="view_all_categ" href="/operations-infrastructure/" includeparams="none">
+            <span>
+                All in 
+                <b>Operations &amp; Infrastructure</b>
+            </span>
+        </a>
+    </div>
+    <div class="clear"></div>
+</div>
+
 					<div class="clear"></div>
 				</div>
 			</li>
@@ -464,24 +606,54 @@ googletag.cmd.push(function() {
 							  <!-- <li><a class="more" href="#" title="">+ More topics</a></li> -->
 						</ul>
 					</div>
-					
-					<div class="menu_article">
-						<h2>Featured in <span id="enterprise-architectHDLabel"></span></h2>
-						<h3 id="enterprise-architectHDTitle"></h3>
-						<div class="clear"></div>
-						<p>
-							<img id="enterprise-architectHDImg" src="" alt="" border="0">
-							<span id="enterprise-architectHDSummary"></span>
-						</p>
-						<div class="clear"></div>	
-						<div class="alignCenter">
-							<a class="view_all_categ" href="/enterprise-architect/">
-								<span>All in <b id="enterprise-architectHDLabel2">Enterprise Architecture</b></span>
-							</a>
-						</div>
-						<div class="clear"></div>	
-					</div>
-					
+
+                    
+                        
+                        
+                        
+                        
+                        
+                    
+
+
+
+
+    
+    
+
+
+<div class="menu_article">
+    <h2>
+        Featured in 
+        <span>
+        Enterprise Architecture
+    </span>
+    </h2>
+
+    <h3>Metadata-Driven Design: Building Web APIs for Dynamic Mobile Apps</h3>
+
+    <div class="clear"></div>
+    <p>
+        <img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/resource/articles/mdd-webapi-for-mobile-apps/en/smallimage/logo-mobile.jpg" alt="" border="0">
+        <span>More than ten years ago, software architect Kevin Perera invented a design method for architectures that was called "metadata-driven design and development". In this article, Aaron Kendall explains how to use this design method and outlines similarities as well as differences to current techniques like RESTful services or HATEOAS by implementing a metadata-driven mobile application.</span>
+    </p>
+
+    <div class="clear"></div>
+    <div class="alignCenter">
+        
+            
+        
+        
+        <a class="view_all_categ" href="/enterprise-architect/" includeparams="none">
+            <span>
+                All in 
+                <b>Enterprise Architecture</b>
+            </span>
+        </a>
+    </div>
+    <div class="clear"></div>
+</div>
+
 					<div class="clear"></div>
 				</div>
 			</li>
@@ -502,13 +674,13 @@ googletag.cmd.push(function() {
 
 <div class="qcon three">
     <p>
-        <a href="http://qconnewyork.com/?utm_source=infoq&amp;utm_medium=header&amp;utm_campaign=infoqheader" target="_blank" title="New York 2015"><strong>New York 2015,</strong> Jun 08 - 12</a>
-    </p>
-    <p>
         <a href="http://qconsf.com/?utm_source=infoq&amp;utm_medium=header&amp;utm_campaign=infoqheader" target="_blank" title="San Francisco 2015"><strong>San Francisco 2015,</strong> Nov 16 - 20</a>
     </p>
     <p>
         <a href="http://qconlondon.com/?utm_source=infoq&amp;utm_medium=header&amp;utm_campaign=infoqheader" target="_blank" title="London 2015"><strong>London 2016,</strong> Mar 07 - 11</a>
+    </p>
+    <p>
+        <a href="http://qconnewyork.com/?utm_source=infoq&amp;utm_medium=header&amp;utm_campaign=infoqheader" target="_blank" title="New York 2016"><strong>New York 2016,</strong> Jun 13 - 17</a>
     </p>
 </div>
 
@@ -532,12 +704,12 @@ googletag.cmd.push(function() {
     <li><a href="/javascript/?utm_source=infoq&amp;utm_medium=header_graybar&amp;utm_campaign=topic_clk" title="JavaScript">JavaScript</a></li>
 	<li><a href="/apm/?utm_source=infoq&amp;utm_medium=header_graybar&amp;utm_campaign=topic_clk" title="APM">APM</a></li>
 
-    <li><a href="/NoSQL/?utm_source=infoq&amp;utm_medium=header_graybar&amp;utm_campaign=topic_clk" title="NoSQL">NoSQL</a></li><li><a href="/java/?utm_source=infoq&amp;utm_medium=header_graybar&amp;utm_campaign=topic_clk" title="Java">Java</a></li><li><a href="/dotnet/?utm_source=infoq&amp;utm_medium=header_graybar&amp;utm_campaign=topic_clk" title=".NET">.NET</a></li><li><a class="last" href="/api/?utm_source=infoq&amp;utm_medium=header_graybar&amp;utm_campaign=topic_clk" title="API Design">API Design</a></li>
+    <li><a href="/devops/?utm_source=infoq&amp;utm_medium=header_graybar&amp;utm_campaign=topic_clk" title="DevOps">DevOps</a></li><li><a href="/NoSQL/?utm_source=infoq&amp;utm_medium=header_graybar&amp;utm_campaign=topic_clk" title="NoSQL">NoSQL</a></li><li><a href="/microservices/?utm_source=infoq&amp;utm_medium=header_graybar&amp;utm_campaign=topic_clk" title="Microservices">Microservices</a></li><li><a class="last" href="/api/?utm_source=infoq&amp;utm_medium=header_graybar&amp;utm_campaign=topic_clk" title="API Design">API Design</a></li>
 </ul>
 	
-    <div class="all_topics"><a href="/topics">All topics</a></div>       
+    <div class="all_topics"><a href="/topics">All topics</a></div>
     
-    <div class="all_topics" style="float: right;"><a style="color:#106CB6; text-shadow:1px 1px 1px #A7A7A7; margin-right:20px; font-size:14px;" href="http://www.infoq.com/coderally/" target="_blank">Code Rally - Coming Soon</a></div>
+    <div class="all_topics" style="float: right;"><a style="color:#106CB6; text-shadow:1px 1px 1px #A7A7A7; margin-right:20px; font-size:14px;" href="http://www.infoq.com/coderally/" target="_blank">Play Code Rally</a></div>
     
 
 	
@@ -607,7 +779,102 @@ C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any 
 <!--	#######		FOOTER START	#########	 -->
 <div id="footer">
 	<div class="footer_bg">
-		<div id="latestContent" class="footer_class"></div>
+        
+            
+            
+            
+            
+            
+        
+
+<div id="latestContent" class="footer_class">
+    
+        <div class="fcls">
+            <div class="title">Development</div>
+            
+                <p>
+                    <a href="/news/2015/09/VS-Online-Marketplace" title="Price Drop and Extension Marketplace for VS Online">Price Drop and Extension Marketplace for VS Online</a>
+                </p>
+            
+                <p>
+                    <a href="/news/2015/09/TFS-PowerTools-2015" title="TFS Power Tools is Now Available for Visual Studio Express">TFS Power Tools is Now Available for Visual Studio Express</a>
+                </p>
+            
+                <p>
+                    <a href="/news/2015/09/cnut-update" title="InfoQ China Establishes Container Technology Club">InfoQ China Establishes Container Technology Club</a>
+                </p>
+            
+        </div>
+    
+        <div class="fcls">
+            <div class="title">Architecture &amp; Design</div>
+            
+                <p>
+                    <a href="/presentations/resilient-distributed-systems" title="Fail Better: Radical Ideas from the Practice of Cloud Computing">Fail Better: Radical Ideas from the Practice of Cloud Computing</a>
+                </p>
+            
+                <p>
+                    <a href="/news/2015/09/microservices-with-go-kit" title="Building Microservices with Go and ‘Go kit’: Peter Bourgon Q&amp;A">Building Microservices with Go and ‘Go kit’: Peter Bourgon Q&amp;A</a>
+                </p>
+            
+                <p>
+                    <a href="/articles/mdd-webapi-for-mobile-apps" title="Metadata-Driven Design: Building Web APIs for Dynamic Mobile Apps">Metadata-Driven Design: Building Web APIs for Dynamic Mobile Apps</a>
+                </p>
+            
+        </div>
+    
+        <div class="fcls">
+            <div class="title">Process &amp; Practices</div>
+            
+                <p>
+                    <a href="/articles/year-swarm" title="A Year in Swarm">A Year in Swarm</a>
+                </p>
+            
+                <p>
+                    <a href="/presentations/resilient-distributed-systems" title="Fail Better: Radical Ideas from the Practice of Cloud Computing">Fail Better: Radical Ideas from the Practice of Cloud Computing</a>
+                </p>
+            
+                <p>
+                    <a href="/news/2015/09/mindshift-management-agility" title="Making a Mindshift in Management for Agility">Making a Mindshift in Management for Agility</a>
+                </p>
+            
+        </div>
+    
+        <div class="fcls">
+            <div class="title">Operations &amp; Infrastructure</div>
+            
+                <p>
+                    <a href="/presentations/hackers-threat-defense" title="Real Threat and Real Defenses – Case Study of the Unknown">Real Threat and Real Defenses – Case Study of the Unknown</a>
+                </p>
+            
+                <p>
+                    <a href="/news/2015/09/microservices-with-go-kit" title="Building Microservices with Go and ‘Go kit’: Peter Bourgon Q&amp;A">Building Microservices with Go and ‘Go kit’: Peter Bourgon Q&amp;A</a>
+                </p>
+            
+                <p>
+                    <a href="/news/2015/09/openbsd-vmm" title="OpenBSD to Receive Native Hypervisor">OpenBSD to Receive Native Hypervisor</a>
+                </p>
+            
+        </div>
+    
+        <div class="fcls">
+            <div class="title">Enterprise Architecture</div>
+            
+                <p>
+                    <a href="/news/2015/09/microservices-with-go-kit" title="Building Microservices with Go and ‘Go kit’: Peter Bourgon Q&amp;A">Building Microservices with Go and ‘Go kit’: Peter Bourgon Q&amp;A</a>
+                </p>
+            
+                <p>
+                    <a href="/articles/mdd-webapi-for-mobile-apps" title="Metadata-Driven Design: Building Web APIs for Dynamic Mobile Apps">Metadata-Driven Design: Building Web APIs for Dynamic Mobile Apps</a>
+                </p>
+            
+                <p>
+                    <a href="/news/2015/08/vpc-endpoints-amazon-s3" title="AWS Simplifies Resource Access with VPC Endpoints, Initially Supporting S3">AWS Simplifies Resource Access with VPC Endpoints, Initially Supporting S3</a>
+                </p>
+            
+        </div>
+    
+</div>
 		<div class="clear"></div>
 	</div>
 			
@@ -640,15 +907,21 @@ C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any 
 
 
 <ul class="footerTxt1">
-	<li><strong>QCons Worldwide</strong></li>	
+	<li><strong>QCons Worldwide</strong></li>
     
-    <li><img class="qconflag cn"><a href="http://qconbeijing.com/?utm_source=infoq&amp;utm_medium=listing&amp;utm_campaign=footer" target="_blank" title="Beijing 2015, Apr 23-25, 2015">Beijing<br>Apr 23-25, 2015</a></li>
-    <li><img class="qconflag jp"><a href="http://qcontokyo.com/" target="_blank" title="Tokyo 2015, April 21, 2015">Tokyo, <br>April 21, 2015</a></li>
-    <li><img class="qconflag us"><a href="http://qconnewyork.com/?utm_source=infoq&amp;utm_medium=listing&amp;utm_campaign=footer" target="_blank" title="New York 2015, June 08 - 12, 2015">New York<br>Jun 8-12, 2015</a></li>
+    
+    
+    
+    
+    
     <li><img class="qconflag br"><a href="http://qconrio.com/?utm_source=infoq&amp;utm_medium=listing&amp;utm_campaign=footer" target="_blank" title="Rio de Janeiro, Aug 24-28, 2015">Rio de Janeiro<br>Aug 24-28, 2015</a></li>
     <li><img class="qconflag cn"><a href="http://qconshanghai.com/?utm_source=infoq&amp;utm_medium=listing&amp;utm_campaign=footer" target="_blank" title="">Shanghai, <br>Oct 15-17, 2015</a></li>
     <li><img class="qconflag us"><a href="http://qconsf.com/?utm_source=infoq&amp;utm_medium=listing&amp;utm_campaign=footer" target="_blank" title="Nov 16-20, 2015">San Francisco<br>Nov 16-20, 2015</a></li>
     <li><img class="qconflag uk"><a href="http://www.qconlondon.com/?utm_source=infoq&amp;utm_medium=listing&amp;utm_campaign=footer" target="_blank" title="London, Mar 7-11, 2016">London<br>Mar 7-11, 2016</a></li>
+    <li><img class="qconflag br"><a href="http://www.qconsp.com/?utm_source=infoq&amp;utm_medium=listing&amp;utm_campaign=footer" target="_blank" title="São Paulo Mar 28-Apr 1, 2016">São Paulo<br>Mar 28-Apr 1, 2016</a></li>
+    <li><img class="qconflag cn"><a href="http://qconbeijing.com/?utm_source=infoq&amp;utm_medium=listing&amp;utm_campaign=footer" target="_blank" title="Beijing Apr, 2016">Beijing<br>Apr, 2016</a></li>
+    <li><img class="qconflag jp"><a href="http://qcontokyo.com/" target="_blank" title="Tokyo Apr, 2016">Tokyo <br>Apr, 2016</a></li>
+    <li><img class="qconflag us"><a href="http://qconnewyork.com/?utm_source=infoq&amp;utm_medium=listing&amp;utm_campaign=footer" target="_blank" title="New York June 13 - 17, 2016">New York<br>Jun 13-17, 2016</a></li>
 </ul>
 
 
@@ -672,7 +945,7 @@ C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any 
 		</div>
 		<div class="click2view">
 			<a target="_blank" href="/newsletter_sample.html">
-                <img src="http://cdn.infoq.com/statics_s2_20150616-0231/styles/i/click2view2_en.jpg" alt="" border="0">
+                <img src="http://cdn.infoq.com/statics_s1_20150902-03315u1/styles/i/click2view2_en.jpg" alt="" border="0">
 			</a>
 		</div>
 		<div class="clear"></div>
@@ -856,9 +1129,9 @@ C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any 
 	</div>
 </div>
 
-            <script src="http://cdn.infoq.com/statics_s2_20150616-0231/dwr/engine.js" type="text/javascript"></script>
-            <script src="http://cdn.infoq.com/statics_s2_20150616-0231/dwr/interface/UserCategoryUtil.js" type="text/javascript"></script>
-            <script src="http://cdn.infoq.com/statics_s2_20150616-0231/dwr/interface/DWRRewriteAction.js" type="text/javascript"></script>
+            <script src="http://cdn.infoq.com/statics_s1_20150902-03315u1/dwr/engine.js" type="text/javascript"></script>
+            <script src="http://cdn.infoq.com/statics_s1_20150902-03315u1/dwr/interface/UserCategoryUtil.js" type="text/javascript"></script>
+            <script src="http://cdn.infoq.com/statics_s1_20150902-03315u1/dwr/interface/DWRRewriteAction.js" type="text/javascript"></script>
             
             
 
@@ -909,10 +1182,10 @@ C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any 
 			</div>
 		</form>
 		
-		<form method="post" id="login_formPasswordReset" action="/resetpasswordinit.action" target="loginFrame" style="display:none;" onsubmit="UserActions_Login.showMessage(JSi18n.login_sendingRequest);">
+		<form method="post" id="login_formPasswordReset" action="/resetpasswordinit.action" target="loginFrame" style="display:none;" onsubmit="UserActions_Login.showMessage(JSi18n.login_sendingRequest); return UserActions_ResetPass.checkInputStatus('login_email','loginPopupMessage',JSi18n.login_invalid_email,'submit_resetPass');">
 			<label class="label_login">InfoQ Account Email</label>
-			<input type="text" name="email" id="login_email" class="login_text">
-			<button type="submit" name="submit-login" style="border: 1px solid #CCCCCC; width: 100%; padding: 8px 5px;" on="">Send Email</button>
+			<input type="text" name="email" id="login_email" class="login_text" onkeyup="UserActions_ResetPass.checkInputStatus('login_email','loginPopupMessage',JSi18n.login_invalid_email,'submit_resetPass');">
+			<button type="submit" name="submit-login" id="submit_resetPass" class="submit-resetPass active">Send Email</button>
 			<div class="more_links">
 				<p>
 					<a style="text-decoration:none;" href="#" onclick="UserActions_Login.showLoginForm();return false;">
@@ -994,10 +1267,10 @@ C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any 
   if($('#home_grid').size() > 0) {
       _gaq.push(['_setCustomVar', 2, 'Grid vs list view', 'Grid', 3]);
   }
+  if (typeof abcValueVcr !== 'undefined'){
+    _gaq.push(['_setCustomVar', 4, 'VCR Box homepage experiment', window.abcValueVcr, 1]);
+  }
   
-    if (typeof abcValueVcr !== 'undefined'){
-        _gaq.push(['_setCustomVar', 4, 'VCR Box homepage experiment', window.abcValueVcr, 1]);
-    }
   
     _gaq.push(['_trackPageview']);
     (function() {
@@ -1006,11 +1279,19 @@ C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any 
     ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-  $.getScript("/scripts/__hd.ifq?hdt=wq4HowTKK9zYzywG");
+  $.getScript("/scripts/__hd.ifq?hdt=9usllvC6YsPEv2aZ");
+  
+  function submitNativeAdCustomVar(position){
+        if (typeof abNativeVcrAds !== 'undefined'){
+            var customVar = window.abNativeVcrAds + position;
+            _gaq.push(['_setCustomVar', 5, 'VCR Native Ads experiment', customVar, 1]);
+            
+        }  
+  }
   
 </script>
 
-    <script src="http://cdn.infoq.com/statics_s2_20150616-0231/scripts/tracker.js" type="text/javascript"></script>
+    <script src="http://cdn.infoq.com/statics_s1_20150902-03315u1/scripts/tracker.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 Tracker.safeExec(Tracker.doTrackVcrImpressions);
@@ -1038,9 +1319,7 @@ Tracker.safeExec(Tracker.doTrackVcrImpressions);
 <script type="text/javascript">
 	var newsletterSubscriptionURL ='/newsletter/subscribe.action';
 	DynamicLinks.updateRssLinks('3405691582');
-	ContentTools.updateLatestContentSection();
-	ContentTools.updatePersonaDropdowns();
-	
+
 	ContentSummary.setSelectedTab('en');
 	//when user enters the main content area show default topics in the topics bar
 	$("#content-wrapper").mouseenter(function() {	
@@ -1058,7 +1337,7 @@ $(document).ready(function() {
 	 try {if ($buoop.ol) $buoop.ol();}catch (e) {} 
 	 var e = document.createElement("script"); 
 	 e.setAttribute("type", "text/javascript"); 
-	 e.setAttribute("src", "http://cdn.infoq.com/statics_s2_20150616-0231/scripts/lib/browser-update-org/update.js");
+	 e.setAttribute("src", "http://cdn.infoq.com/statics_s1_20150902-03315u1/scripts/lib/browser-update-org/update.js");
 	 document.body.appendChild(e); 
 });
 </script>
@@ -1126,24 +1405,27 @@ $(document).ready(function() {
 				<label class="label_register" for="role" id="label_roleId"><span id="roleIdSpan" class="mandatory">Update company role to:</span></label>
 				<select name="roleId" id="roleId" class="select_register" onblur="UserActions_Profile.validateNotEmpty('roleId');">
     <option value="-1"></option>
-    <option value="53">Software Developer / Programmer/ Engineer</option>
-    <option value="54">Senior Developer/ Engineer</option>
-    <option value="55">Ops Engineer</option>
-    <option value="56">Testing / QA Engineer</option>
-    <option value="57">Architect: Solution/Systems (integration focused)</option>
-    <option value="58">Architect: Technical/Application (platform specific)</option>
-    <option value="59">Enterprise Architect / Chief Architect</option>
-    <option value="60">Technical Team Lead</option>
-    <option value="61">Technical Project Manager</option>
-    <option value="62">Senior Management (VP, CTO, CIO, Director)</option>
-    <option value="63">Scrum Master / Team Facilitator</option>
-    <option value="64">Agile Coach</option>
-    <option value="65">Ops Manager</option>
-    <option value="66">Product Manager / Business Analyst</option>
-    <option value="67">Product Owner</option>
-    <option value="68">Systems Analyst</option>
-    <option value="69">UX Specialist</option>
-    <option value="70">Other</option>
+    <option value="71">Technical Team Lead</option>
+    <option value="72">Senior Developer / Engineer</option>
+    <option value="73">Software Developer / Programmer/ Engineer</option>
+    <option value="74">Ops Engineer</option>
+    <option value="-1"></option>
+    <option value="75">Architect: Technical/Application (platform specific)</option>
+    <option value="76">Architect: Solution/Systems (integration focused)</option>
+    <option value="77">Enterprise Architect / Chief Architect</option>
+    <option value="-1"></option>
+    <option value="78">Senior Management (VP, CTO, CIO, Director)</option>
+    <option value="79">Technical Project Manager</option>
+    <option value="80">Ops Manager</option>
+    <option value="-1"></option>
+    <option value="81">Product Manager / Business Analyst</option>
+    <option value="82">Product Owner</option>
+    <option value="83">Testing / QA Engineer</option>
+    <option value="84">Scrum Master / Team Facilitator</option>
+    <option value="85">Agile Coach</option>
+    <option value="86">Systems Analyst</option>
+    <option value="87">UX Specialist</option>
+    <option value="88">Other</option>
 </select>
 
 			</div>
@@ -1475,7 +1757,27 @@ $(document).ready(function() {
 		
 </script>
         </div>
+
+        
+            <script>(function() {
+                var _fbq = window._fbq || (window._fbq = []);
+                if (!_fbq.loaded) {
+                    var fbds = document.createElement('script');
+                    fbds.async = true;
+                    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(fbds, s);
+                    _fbq.loaded = true;
+                }
+                _fbq.push(['addPixelId', '842388869148196']);
+            })();
+            window._fbq = window._fbq || [];
+            window._fbq.push(['track', 'PixelInitialized', {}]);
+            </script>
+            <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=842388869148196&amp;ev=PixelInitialized" /></noscript>
+        
+
     
 
-<!-- s2 -->
+<!-- s1 -->
 </body></html>
