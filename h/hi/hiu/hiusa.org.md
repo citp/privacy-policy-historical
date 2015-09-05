@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216183938id_/http%3A//www.hiusa.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiusa.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905153930id_/http%3A//www.hiusa.org/about-us/privacy-policy) for the most accurate reproduction.*
 
-# HI Hostels – Youth Hostels USA & Backpacking Cheap Budget Travel | HI USA
+# HI USA | Hostelling International USA | HI Hostels Reservations
+
+## Privacy Policy 
 
 This document outlines Hostelling International USA's (HI-USA) online privacy policy, which governs personal information gathered on the national web site www.hiusa.org and its aliases.
 
