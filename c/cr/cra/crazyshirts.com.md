@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyshirts.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511143141id_/http%3A//www.crazyshirts.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyshirts.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073713id_/http%3A//www.crazyshirts.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Crazy Shirts Official Site
 
@@ -35,7 +35,7 @@ Crazy Shirts does not sell or rent customers' email addresses to other companies
 **Remove or update my personal information**   
 If you have registered for a crazyshirts.com account, we have provided you with a means to log into your account and edit your personal information including name, address, email address, phone number and account password to ensure its accuracy. 
 
-If you signed up to receive email communications and wish to remove your address from our mailing list, you may use the Unsubscribe link provided in our e-mails, call us at 1-800-771-2720 or click [here](http://signup.crazyshirts.com/preference). 
+If you signed up to receive email communications and wish to remove your address from our mailing list, you may use the Unsubscribe link provided in our e-mails, call us at 1-800-771-2720 or click [here](https://crazies.crazyshirts.com/pub/sf/ResponseForm?_ri_=X0Gzc2X%3DWQpglLjHJlTQGn5hbAkzc4dcLdWYeU4Aa0WpwunVXMtX%3DWQpglLjHJlTQGNzeSzcL4NzfGTlfoUerczdddfuHNn&_ei_=EkwRYXX_JFE95tjkB4_tS18). 
 
 **We listen to you!**  
 We read and respond to every message that is sent to us. A customer care representative will personally get back to you with in 24-48 hours. We do not retain any personal information from your email unless requested to do so.
