@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet49.com.sg privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503044008id_/http%3A//www.planet49.com.sg/cgi-bin/global.pl%3Ftodo%3Dshow_page%26wingame_pk%3D45%26ident%3Ddatenschutz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet49.com.sg privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102204id_/http%3A//www.planet49.com.sg/cgi-bin/global.pl%3Ftodo%3Dshow_page%26ident%3Ddatenschutz%26wingame_pk%3D50%26freetest_pk%3D42) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
