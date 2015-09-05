@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backstreetmerch.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323224054id_/https%3A//www.backstreetmerch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstreetmerch.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905154350id_/https%3A//www.backstreetmerch.com/privacy) for the most accurate reproduction.*
 
 # Backstreetmerch.com | Officially Licensed Music T shirts, Hoodies and other merchandise.
 
@@ -8,7 +8,7 @@ Backstreet International Merchandise Limited will use the information provided w
 
 We may collect anonymous information about use of this website from logs generated while ordering or browsing. We use this information for the purposes of fulfilling orders and other requests made to our customer support team; this allows us to tailor our site to help and provide a more reliable and stable service. 
 
-Most browsers automatically accept cookies; you can set your browser options so that you will not receive cookies from websites or from third party sites you can also delete existing cookies from your browser by using the options available. Many browsers can be set to suppress the full functionality of cookies which are sent from a web server to a web browser when that browser visits the server's site. Due to compatibility reasons cookies must be enabled for our two domain names backstreet-merch.com and securepod.com for any order to proceed, but no data will be stored on your computer and will be deleted at the point your browser closes. 
+Most browsers automatically accept cookies; you can set your browser options so that you will not receive cookies from websites or from third party sites you can also delete existing cookies from your browser by using the options available. Many browsers can be set to suppress the full functionality of cookies which are sent from a web server to a web browser when that browser visits the server's site. Due to compatibility reasons cookies must be enabled for our two domain names backstreet-merch.com and securepod.com for any order to proceed. 
 
 Our website contains "opt-out" boxes on pages where you provide personal information, if you do not want us to provide your personal information to trusted third parties as described, then you should uncheck the relevant box(s). Similarly if you do not want us to send you information as described where relevant, you should un-check the "opt-out" boxes. 
 
