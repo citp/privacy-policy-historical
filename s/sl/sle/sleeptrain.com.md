@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529082722id_/http%3A//www.sleeptrain.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905110836id_/http%3A//www.sleeptrain.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Sleep Train
 
 ## Archive
 
-  * [November 20, 2014](http://www.sleeptrain.com/legal-privacy-policy-nov-2014.html)
-  * [December 2, 2013](http://www.sleeptrain.com/legal-privacy-policy-02Dec2013.html)
-  * [January 22, 2013](http://www.sleeptrain.com/legal-privacy-policy-22Jan13.html)
-  * [October 26, 2012](http://www.sleeptrain.com/legal-privacy-policy-26Oct2012.html)
-  * [July 11, 2012](http://www.sleeptrain.com/legal-privacy-policy-11Jul2012.html)
-  * [June 15, 2012](http://www.sleeptrain.com/legal-privacy-policy-15Jun2012.html)
-  * [September 15, 2010](http://www.sleeptrain.com/legal-privacy-policy-15Sep2010.html)
-  * [October 12, 2010](http://www.sleeptrain.com/legal-privacy-policy-12Oct2010.html)
-  * [November 10, 2010](http://www.sleeptrain.com/legal-privacy-policy-10Nov2010.html)
+  * [November 20, 2014](https://www.sleeptrain.com/legal-privacy-policy-nov-2014.html)
+  * [December 2, 2013](https://www.sleeptrain.com/legal-privacy-policy-02Dec2013.html)
+  * [January 22, 2013](https://www.sleeptrain.com/legal-privacy-policy-22Jan13.html)
+  * [October 26, 2012](https://www.sleeptrain.com/legal-privacy-policy-26Oct2012.html)
+  * [July 11, 2012](https://www.sleeptrain.com/legal-privacy-policy-11Jul2012.html)
+  * [June 15, 2012](https://www.sleeptrain.com/legal-privacy-policy-15Jun2012.html)
+  * [September 15, 2010](https://www.sleeptrain.com/legal-privacy-policy-15Sep2010.html)
+  * [October 12, 2010](https://www.sleeptrain.com/legal-privacy-policy-12Oct2010.html)
+  * [November 10, 2010](https://www.sleeptrain.com/legal-privacy-policy-10Nov2010.html)
 
 
 
-[Your California Privacy Rights](http://www.sleeptrain.com/legal-california-privacy-rights.html)
+[Your California Privacy Rights](https://www.sleeptrain.com/legal-california-privacy-rights.html)
 
 **Last Updated: May 6, 2015**
 
 At Sleep Train we are committed to ensuring the privacy of our customers. This privacy policy explains Sleep Train’s privacy practices, including those of our Web site located at www.sleeptrain.com (“Site”), for our customers who purchase our products and services. By using our Site, you consent to the terms of this privacy policy.
 
-This policy does not apply to the Customer Ratings and Reviews Terms of Use. Please [click here](http://www.sleeptrain.com/bazaarvoice-terms-conditions.html) to access the Customer Ratings and Reviews Terms of Use. 
+This policy does not apply to the Customer Ratings and Reviews Terms of Use. Please [click here](https://www.sleeptrain.com/bazaarvoice-terms-conditions.html) to access the Customer Ratings and Reviews Terms of Use. 
 
 **What is Personal Information?**
 
