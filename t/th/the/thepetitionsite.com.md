@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thepetitionsite.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428120957id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepetitionsite.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905182630id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
 
 # Care2 Help Center
 
-Last Updated: 05/30/2014
+Last Updated: 05/27/2015
 
 Care2.com ("Care2") takes seriously the issue of safeguarding your privacy online. This privacy policy applies to www.care2.com and thepetitionsite.com owned and operated by Care2.com. This privacy policy describes how Care2.com collects and uses the personal information you provide on our web site: www.care2.com and www.thepetitionsite.com. Please read the following to understand our views and practices regarding this matter, and how they pertain to you as you use our many offerings. 
 
