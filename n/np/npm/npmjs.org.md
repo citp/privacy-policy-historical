@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npmjs.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195852id_/https%3A//www.npmjs.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npmjs.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060317id_/https%3A//www.npmjs.com/policies/privacy) for the most accurate reproduction.*
 
 # npm
 
@@ -44,7 +44,7 @@ The npm website uses Google Analytics to monitor and analyze user behavior. This
 
 You can opt out of Google Analytics entirely with the [Google Analytics opt-out browser addon](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631).
 
-The npm website uses HubSpot to collect and manage leads for marketing purposes. Full details of the information tracked by HubSpot can be found at the [HubSpot privacy policy](http://www.hubspot.com/legal/privacy-policy). We only contact users for marketing purposes when they have explicitly expressed interest in a product or service, for example by filling out a form expressing interest in a beta program. We never share contact information with third parties, or sell contact information to third parties.
+The npm website uses HubSpot to collect and manage leads for marketing purposes. Full details of the information tracked by HubSpot can be found at the [HubSpot privacy policy](https://www.hubspot.com/legal/privacy-policy). We only contact users for marketing purposes when they have explicitly expressed interest in a product or service, for example by filling out a form expressing interest in a beta program. We never share contact information with third parties, or sell contact information to third parties.
 
 ## Collection of Personally Identifying Information
 
