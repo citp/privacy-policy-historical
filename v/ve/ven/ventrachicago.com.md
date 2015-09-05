@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ventrachicago.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317201106id_/https%3A//www.ventrachicago.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventrachicago.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905225127id_/https%3A//www.ventrachicago.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ventra
 
