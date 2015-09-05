@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventbrite.ca privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324004035id_/https%3A//www.eventbrite.ca/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbrite.ca privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905201824id_/https%3A//www.eventbrite.ca/privacypolicy) for the most accurate reproduction.*
 
 # Eventbrite Privacy Policy
 
