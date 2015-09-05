@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addacommentname.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628033453id_/http%3A//kicktrend.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addacommentname.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905044421id_/http%3A//kicktrend.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Product smarter
+# Privacy - Product smarter
 
 Privacy
 
