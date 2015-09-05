@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tcbk.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703025918id_/https%3A//www.tcbk.com/tcb/assets/File/documents/ADV-22-GLBA-Privacy-Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcbk.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062718id_/https%3A//www.tcbk.com/media/documents/ADV-22_GLBA_privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                             Rev. 6/2014
+                                                                                                             Rev. 6/2015
 FACTS            WHAT DOES TRI COUNTIES BANK DO WITH YOUR PERSONAL INFORMATION?
 Why?              Financial companies choose how they share your personal information. Federal law gives consumers
                   the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share,
@@ -32,7 +32,7 @@ For non-affiliates to market to you                                        No   
 Questions?                                    Call 1-800-922-8742 or go to www.tricountiesbank.com
 
 
-                                                                                               Rev. 6/2014
+                                                                                               Rev. 6/2015
 Page 2
 What we do
 How does Tri Counties Bank protect my personal To protect your personal information from unauthorized access
