@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the employflorida.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317112008id_/https%3A//www.employflorida.com/vosnet/security.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the employflorida.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905211748id_/https%3A//www.employflorida.com/vosnet/security.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="ctl00_html" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" lang="en"><!--
 Virtual OneStop ©2012 
@@ -16,8 +16,8 @@ Palm Harbor, Florida 34683
 
     if (sPage.toLowerCase() != 'logoff.aspx' && sPage.toLowerCase() != 'timeout.aspx')
         {
-            var sessionTimeout = 120; // In minutes, 1 = 1 minute
-            var sessionTimeoutWarning = 105; // In minutes, 1 = 1 minute
+            var sessionTimeout = 480; // In minutes, 1 = 1 minute
+            var sessionTimeoutWarning = 465; // In minutes, 1 = 1 minute
             var timeOnPageLoad = new Date();
  
             //For warning
@@ -71,10 +71,11 @@ Palm Harbor, Florida 34683
             if (window.contentPageLoad) {
                 window.contentPageLoad(sender, args);
             }
+            
         }
             //]]>
     </script>
-        
+
     
     
 <!-- Google Universal Analytics -->
@@ -90,22 +91,14 @@ ga('send', 'pageview');
 </script>
 <!-- End Google Universal Analytics -->
 
-
-    
-    <style type="text/css">
-        #bodyid
-        {
-            margin-top: 18px;
-        }
-    </style>
-
-
 <script type="text/javascript" language="javascript" src="../includes/js/window.js"></script><script type="text/javascript" language="javascript" src="../includes/js/multisession.js?20120120900"></script><link href="App_Themes/ThemeVOS/Modal.css" type="text/css" rel="stylesheet"><link href="App_Themes/ThemeVOS/ReorderList.css" type="text/css" rel="stylesheet"><link href="App_Themes/ThemeVOS/Telerik.css" type="text/css" rel="stylesheet"><link href="App_Themes/ThemeVOS/vos.css" type="text/css" rel="stylesheet">
 <link href="Handlers/Content/Images/Image.ashx?apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
 <link href="Handlers/Content/Images/Image.ashx?favicon.ico" rel="shortcut icon">
 <link href="Handlers/Content/StyleSheets/StyleSheet.ashx?screen.css" rel="stylesheet" type="text/css" media="screen">
 <link href="Handlers/Content/StyleSheets/StyleSheet.ashx?dotnetreset.css" rel="stylesheet" type="text/css" media="screen">
 <link href="Handlers/Content/StyleSheets/StyleSheet.ashx?print.css" rel="stylesheet" type="text/css" media="print">
+<link href="Handlers/Content/StyleSheets/StyleSheet.ashx?resize1024x768.css" rel="stylesheet" type="text/css" media="screen">
+<link href="APP_THEMES/SiteClient/vos2201000000/CSS/mobile-defaults.css" rel="stylesheet" type="text/css" media="screen">
 <script type="text/javascript" language="javascript" src="JavaScript/jQueryLibrary/jquery-1.8.3.min.js"></script>
 <noscript>
 <meta http-equiv="refresh" content="0;url=settings.aspx?a=nojs" />
@@ -115,15 +108,31 @@ ga('send', 'pageview');
 <body id="ctl00_bodyid" onclick="handleClick(event);" class="">
     
 
-    <div class="noprint" id="gui_header">
-        <div id="skip-to-content"><a id="ctl00_SkiptoMainLink" accesskey="2" tabindex="1" href="#content-main" title="Key combination Alt+2 Enter to access the Skip to Main Content link" class="LinkHand">Skip to main content</a></div><!-- START 179041 display logo or text version of logo based on selected user theme--><h1>
+    <div class="noprint" id="gui_header">        
+        <div id="ctl00_adaPreference"><a id="ctl00_hlADAPreference" accesskey="1" tabindex="1" title="Page Preferences" class="LinkHand" href="javascript:Settings('userprefs.aspx');">Page Preferences</a></div>
+        <div id="skip-to-content"><a id="ctl00_SkiptoMainLink" accesskey="2" tabindex="2" href="#content-main" title="Key combination Alt+2 Enter to access the Skip to Main Content link." class="LinkHand">Skip to main content</a></div>
+        <div id="skip-to-footer"><a id="ctl00_SkiptoFooterLink" accesskey="3" tabindex="3" href="#content-footer" title="Key combination Alt+3 Enter to access the Skip to Page Footer link." class="LinkHand">Skip to page footer</a></div>
+        
+        
+
+        <!-- START 179041 display logo or text version of logo based on selected user theme-->
+        
+        <h1>
             <a href="Default.aspx">
-                <img alt="Logo" src="Handlers/Content/Images/Image.ashx?logo.gif" border="0"></a></h1><!-- END 179041 --><div id="gui_toolbar">
+                <img alt="Logo" src="Handlers/Content/Images/Image.ashx?logo.gif" border="0"></a></h1>
+        
+        <!-- END 179041 -->
+
+        
+        <div id="gui_toolbar">
             <ul id="gui_nav_header">
                 
+                
                 <li id="gui_nav_home" class="homesign" onclick="return NavLinkClick(this);">
-                    <a href="javascript:confirmLogOffHome('' );">
+                    <a href="javascript:confirmLogOffHome('G' );">
                     Home</a></li>
+                
+
                 <!-- JWJ 151709 -->
                 
                 <li id="gui_nav_login" class="homesign" onclick="return NavLinkClick(this);"><a href="../loginintro.asp">
@@ -131,12 +140,12 @@ ga('send', 'pageview');
                 
                 <!-- JWJ 151709 -->
                 
-                <li id="gui_nav_js" onclick="return NavLinkClick(this);"><a href="javascript:confirmIndServices();">
+                <li id="gui_nav_js" class="homesign" onclick="return NavLinkClick(this);"><a href="javascript:confirmIndServices();">
                     Services for Individuals</a></li>
                 
                 <!-- 171696 -->
                 
-                <li id="gui_nav_emp" onclick="return NavLinkClick(this);"><a href="javascript:confirmEmpServices();">
+                <li id="gui_nav_emp" class="homesign" onclick="return NavLinkClick(this);"><a href="javascript:confirmEmpServices();">
                     Services for Employers</a></li>
                 
 
@@ -148,14 +157,235 @@ ga('send', 'pageview');
     <div id="mstBody">
         
 
-<div class="noprint"> 
-<div id="ctl00_sidemenu_pnlMenu" style="width:175px;">
+<div class="noprint">    
+    <div id="ctl00_sidemenu_pnlMenu" style="width:175px;">
 	<div id="gui_menu">
+<div>
+<h2 class="active"><span class="collapse" title="Collapse menu"> </span><a id="ctl00_sidemenu_hlMyIndividualWorkspace738816" title="My Individual Workspace" name="hlMyIndividualWorkspace" class="LinkHand" href="dashboards/default.aspx?menuid=MENU_START_PAGE_DASHBOARD">My Individual Workspace</a></h2>
+<ul class="gui_menu_show">
+<li style="display: block;"><a id="ctl00_sidemenu_hlMyDashboard738817" title="My Dashboard" name="hlMyDashboard" class="LinkHand" href="dashboards/default.aspx?menuid=MENU_START_PAGE_DASHBOARD">My Dashboard</a></li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlHowWeCanHelpYou738818" title="How We Can Help You" name="hlHowWeCanHelpYou" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="parent" href="dashboards/default.aspx?menuid=MENU_START_PAGE_SUGGEST"><span>How We Can Help You</span></a>
+<ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlFindaJob738819" title="Find a Job" name="hlFindaJob" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="parent" href="Dashboards/Default.aspx?submenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB&amp;menuid=MENU_START_PAGE_SUGGEST"><span>Find a Job</span></a><ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlMyjobmatches738820" title="My job matches" name="hlMyjobmatches" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB_LIST&amp;submenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB&amp;menuid=MENU_START_PAGE_SUGGEST">My job matches</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlJobsbasedonemploymenthistory738821" title="Jobs based on employment history" name="hlJobsbasedonemploymenthistory" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB_LIST_EMPHIST&amp;submenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB&amp;menuid=MENU_START_PAGE_SUGGEST">Jobs based on employment history</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlJobsinrelatedoccupations738822" title="Jobs in related occupations" name="hlJobsinrelatedoccupations" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB_LIST_RELATED&amp;submenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB&amp;menuid=MENU_START_PAGE_SUGGEST">Jobs in related occupations</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlCurrentjobopeningsthatneedyourskills738823" title="Current job openings that need your skills" name="hlCurrentjobopeningsthatneedyourskills" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB_SKILLS&amp;submenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB&amp;menuid=MENU_START_PAGE_SUGGEST">Current job openings that need your skills</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlFeaturedjobs738824" title="Featured jobs" name="hlFeaturedjobs" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB_FEATURED&amp;submenuid=MENU_START_PAGE_SUGGEST_IDEAL_JOB&amp;menuid=MENU_START_PAGE_SUGGEST">Featured jobs</a></li>
+</ul>
+</li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlReviewtheJobMarket738825" title="Review the Job Market" name="hlReviewtheJobMarket" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="parent" href="Dashboards/Default.aspx?submenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT&amp;menuid=MENU_START_PAGE_SUGGEST"><span>Review the Job Market</span></a><ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlHotjoblocations738826" title="Hot job locations" name="hlHotjoblocations" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT_HOT_LOCS&amp;submenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT&amp;menuid=MENU_START_PAGE_SUGGEST">Hot job locations</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlAboutyourcompetition738827" title="About your competition" name="hlAboutyourcompetition" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT_COMP&amp;submenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT&amp;menuid=MENU_START_PAGE_SUGGEST">About your competition</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlReviewjobrequirements738828" title="Review job requirements" name="hlReviewjobrequirements" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT_REQUIRE&amp;submenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT&amp;menuid=MENU_START_PAGE_SUGGEST">Review job requirements</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlCompareyoursalaryexpectations738829" title="Compare your salary expectations" name="hlCompareyoursalaryexpectations" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT_SALARY&amp;submenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT&amp;menuid=MENU_START_PAGE_SUGGEST">Compare your salary expectations</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlEmployersthatarehiring738830" title="Employers that are hiring" name="hlEmployersthatarehiring" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT_EMPLOYERS&amp;submenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT&amp;menuid=MENU_START_PAGE_SUGGEST">Employers that are hiring</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlLocallabormarketforyouroccupation738831" title="Local labor market for your occupation" name="hlLocallabormarketforyouroccupation" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_ANALYZE_LMI_OCC_PROFILE&amp;submenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT&amp;menuid=MENU_START_PAGE_SUGGEST">Local labor market for your occupation</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlLocallabormarketprofile738832" title="Local labor market profile" name="hlLocallabormarketprofile" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_ANALYZE_LMI_AREA_PROFILE&amp;submenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT&amp;menuid=MENU_START_PAGE_SUGGEST">Local labor market profile</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlFAQsandanswers738833" title="FAQs and answers" name="hlFAQsandanswers" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_ANALYZE_LMI_LMF&amp;submenuid=MENU_START_PAGE_SUGGEST_REVIEW_JOB_MKT&amp;menuid=MENU_START_PAGE_SUGGEST">FAQs and answers</a></li>
+</ul>
+</li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlGetRecruitedBeProactive738834" title="Get Recruited &amp; Be Proactive" name="hlGetRecruitedBeProactive" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="parent" href="Dashboards/Default.aspx?submenuid=MENU_START_PAGE_SUGGEST_BE_PROACTIVE&amp;menuid=MENU_START_PAGE_SUGGEST"><span>Get Recruited &amp; Be Proactive</span></a><ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlPostyourresuméonline738835" title="Post your resumé online" name="hlPostyourresuméonline" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_BE_PROACTIVE_POST_RESUME&amp;submenuid=MENU_START_PAGE_SUGGEST_BE_PROACTIVE&amp;menuid=MENU_START_PAGE_SUGGEST">Post your resumé online</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlSetupyourVirtualRecruiter738836" title="Setup your Virtual Recruiter" name="hlSetupyourVirtualRecruiter" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_BE_PROACTIVE_VR&amp;submenuid=MENU_START_PAGE_SUGGEST_BE_PROACTIVE&amp;menuid=MENU_START_PAGE_SUGGEST">Setup your Virtual Recruiter</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlContactpotentialemployers738837" title="Contact potential employers" name="hlContactpotentialemployers" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_BE_PROACTIVE_CONTACT_EMP&amp;submenuid=MENU_START_PAGE_SUGGEST_BE_PROACTIVE&amp;menuid=MENU_START_PAGE_SUGGEST">Contact potential employers</a></li>
+</ul>
+</li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlExploreaNewCareer738838" title="Explore a New Career" name="hlExploreaNewCareer" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="parent" href="Dashboards/Default.aspx?submenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER&amp;menuid=MENU_START_PAGE_SUGGEST"><span>Explore a New Career</span></a><ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlFindindemandoccupations738839" title="Find in demand occupations" name="hlFindindemandoccupations" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER_HIGH_GROWTH&amp;submenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER&amp;menuid=MENU_START_PAGE_SUGGEST">Find in demand occupations</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlNewcareersthatmatchyourjobskills738840" title="New careers that match your job skills" name="hlNewcareersthatmatchyourjobskills" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER_JOB_SKILLS&amp;submenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER&amp;menuid=MENU_START_PAGE_SUGGEST">New careers that match your job skills</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlNewcareersthatmatchyourinterests738841" title="New careers that match your interests" name="hlNewcareersthatmatchyourinterests" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER_INTERESTS&amp;submenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER&amp;menuid=MENU_START_PAGE_SUGGEST">New careers that match your interests</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlNewcareersthatmatchwhatisimportanttoyouinajob738842" title="New careers that match what is important to you in a job" name="hlNewcareersthatmatchwhatisimportanttoyouinajob" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER_IMPORTANCE&amp;submenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER&amp;menuid=MENU_START_PAGE_SUGGEST">New careers that match what is important to you in a job</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlNewcareersthatmatchallyourassessments738843" title="New careers that match all your assessments" name="hlNewcareersthatmatchallyourassessments" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER_MULTIASS&amp;submenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER&amp;menuid=MENU_START_PAGE_SUGGEST">New careers that match all your assessments</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlFindoccupationsfromourCareerLadder738844" title="Find occupations from our Career Ladder" name="hlFindoccupationsfromourCareerLadder" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER_LADDER&amp;submenuid=MENU_START_PAGE_SUGGEST_EXPLORE_CAREER&amp;menuid=MENU_START_PAGE_SUGGEST">Find occupations from our Career Ladder</a></li>
+</ul>
+</li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlGetTrained738845" title="Get Trained" name="hlGetTrained" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="parent" href="Dashboards/Default.aspx?submenuid=MENU_START_PAGE_SUGGEST_TRAIN&amp;menuid=MENU_START_PAGE_SUGGEST"><span>Get Trained</span></a><ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlRelevanttrainingcoursesinyourarea738846" title="Relevant training courses in your area" name="hlRelevanttrainingcoursesinyourarea" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_TRAIN_TRAINING&amp;submenuid=MENU_START_PAGE_SUGGEST_TRAIN&amp;menuid=MENU_START_PAGE_SUGGEST">Relevant training courses in your area</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlFreeonlinetrainingcourses738847" title="Free online training courses" name="hlFreeonlinetrainingcourses" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_TRAIN_ALISON&amp;submenuid=MENU_START_PAGE_SUGGEST_TRAIN&amp;menuid=MENU_START_PAGE_SUGGEST">Free online training courses</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlFinancialaidavailablefortraininginyourarea738848" title="Financial aid available for training in your area" name="hlFinancialaidavailablefortraininginyourarea" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_TRAIN_FIN_AID&amp;submenuid=MENU_START_PAGE_SUGGEST_TRAIN&amp;menuid=MENU_START_PAGE_SUGGEST">Financial aid available for training in your area</a></li>
+</ul>
+</li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlReviewBenefitsAvailable738849" title="Review Benefits Available" name="hlReviewBenefitsAvailable" class="parent" href="Dashboards/Default.aspx?submenuid=MENU_START_PAGE_SUGGEST_HELP&amp;menuid=MENU_START_PAGE_SUGGEST"><span>Review Benefits Available</span></a><ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlSeeifyouqualifyforbenefitstoassistyouwithemploymentandtrainingandhowyoucanapply738850" title="See if you qualify for benefits to assist you with employment and training and how you can apply" name="hlSeeifyouqualifyforbenefitstoassistyouwithemploymentandtrainingandhowyoucanapply" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_HELP_BENEFITS&amp;submenuid=MENU_START_PAGE_SUGGEST_HELP&amp;menuid=MENU_START_PAGE_SUGGEST">See if you qualify for benefits to assist you with employment and training and how you can apply</a></li>
+</ul>
+</li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlOtherServices738851" title="Other Services" name="hlOtherServices" class="parent" href="Dashboards/Default.aspx?submenuid=MENU_START_PAGE_SUGGEST_OTHER&amp;menuid=MENU_START_PAGE_SUGGEST"><span>Other Services</span></a><ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlCheckoutourservicesforveterans738852" title="Check out our services for veterans" name="hlCheckoutourservicesforveterans" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_OTHER_VETERAN&amp;submenuid=MENU_START_PAGE_SUGGEST_OTHER&amp;menuid=MENU_START_PAGE_SUGGEST">Check out our services for veterans</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlCheckoutourservicesforyouth738853" title="Check out our services for youth" name="hlCheckoutourservicesforyouth" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_OTHER_YOUTH&amp;submenuid=MENU_START_PAGE_SUGGEST_OTHER&amp;menuid=MENU_START_PAGE_SUGGEST">Check out our services for youth</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlCheckoutourservicesforthedisabled738854" title="Check out our services for the disabled" name="hlCheckoutourservicesforthedisabled" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_OTHER_DISABILITY&amp;submenuid=MENU_START_PAGE_SUGGEST_OTHER&amp;menuid=MENU_START_PAGE_SUGGEST">Check out our services for the disabled</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlCheckoutourservicesforseniors738855" title="Check out our services for seniors" name="hlCheckoutourservicesforseniors" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_OTHER_SENIORS&amp;submenuid=MENU_START_PAGE_SUGGEST_OTHER&amp;menuid=MENU_START_PAGE_SUGGEST">Check out our services for seniors</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlReviewourstaffprovidedservices738856" title="Review our staff provided services" name="hlReviewourstaffprovidedservices" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_OTHER_STAFF&amp;submenuid=MENU_START_PAGE_SUGGEST_OTHER&amp;menuid=MENU_START_PAGE_SUGGEST">Review our staff provided services</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlNeedhelp?AccesstheAssistancecenter738857" title="Need help?  Access the Assistance center" name="hlNeedhelp?AccesstheAssistancecenter" class="LinkHand" href="Dashboards/Default.aspx?contentmenuid=MENU_START_PAGE_SUGGEST_OTHER_ASSIST_CENTER&amp;submenuid=MENU_START_PAGE_SUGGEST_OTHER&amp;menuid=MENU_START_PAGE_SUGGEST">Need help?  Access the Assistance center</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlDirectoryofServices738858" title="Directory of Services" name="hlDirectoryofServices" class="LinkHand" href="dashboards/default.aspx?menuid=MENU_START_PAGE_SERVICES&amp;apane=MENU_GROUP_IND">Directory of Services</a></li>
+</ul>
+</div>
+<div>
+<h2 class="active"><span class="collapse" title="Collapse menu"> </span><a href="javascript:void(0);">Quick Menu</a></h2>
+<ul class="gui_menu_show">
+<li style="display: block;"><a id="ctl00_sidemenu_hlJobSearch738859" title="Job Search" name="hlJobSearch" class="LinkHand" href="../permission.asp?whereto=jobsearch&amp;leftnav=true">Job Search</a></li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlResuméBuilder738860" title="Resumé Builder" name="hlResuméBuilder" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="../permission.asp?whereto=resumebldr">Resumé Builder</a></li>
+</ul>
+</div>
+<div>
+<h2 class="active"><span class="collapse" title="Collapse menu"> </span><a id="ctl00_sidemenu_hlServicesforIndividuals738861" title="Services for Individuals" name="hlServicesforIndividuals" class="LinkHand" href="dashboards/default.aspx?menuid=MENU_START_PAGE_SERVICES&amp;apane=MENU_GROUP_IND">Services for Individuals</a></h2>
+<ul class="gui_menu_show">
+<li style="display: block;"><a id="ctl00_sidemenu_hlCareerServices738862" title="Career Services" name="hlCareerServices" class="parent" href="MenuLandingPage.aspx?cat=MENU_CAREERS"><span>Career Services</span></a>
+<ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlCareerTips738863" title="Career Tips" name="hlCareerTips" class="LinkHand" href="careertips.aspx">Career Tips</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlCareerExplorer738864" title="Career Explorer" name="hlCareerExplorer" class="LinkHand" href="assessment/selfassessment.aspx">Career Explorer</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlCareerInformer738865" title="Career Informer" name="hlCareerInformer" class="LinkHand" href="../saintro.asp?session=occdetail">Career Informer</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlJobMarketExplorer738866" title="Job Market Explorer" name="hlJobMarketExplorer" class="LinkHand" href="../occanalyzer_onet.asp?session=occanalyzer">Job Market Explorer</a></li>
+</ul>
+</li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlJobSeekerServices738867" title="Job Seeker Services" name="hlJobSeekerServices" class="parent" href="MenuLandingPage.aspx?cat=MENU_JOBSEEKER"><span>Job Seeker Services</span></a>
+<ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hl10Steps738868" title="10 Steps" name="hl10Steps" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="ind/TenSteps.aspx">10 Steps</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlFindJobOpenings738869" title="Find Job Openings" name="hlFindJobOpenings" class="LinkHand" href="../permission.asp?whereto=jobsearch&amp;leftnav=true">Find Job Openings</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlJobMarketTrends738870" title="Job Market Trends" name="hlJobMarketTrends" class="LinkHand" href="../saintro.asp?session=jobmarkettrends">Job Market Trends</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlResuméBuilder738871" title="Resumé Builder" name="hlResuméBuilder" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="../permission.asp?whereto=resumebldr">Resumé Builder</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlLetterBuilder738872" title="Letter Builder" name="hlLetterBuilder" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="../permission.asp?whereto=letterbldr">Letter Builder</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlEmployers738873" title="Employers" name="hlEmployers" class="LinkHand" href="../permission.asp?whereto=saintro">Employers</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlEmployersPostingJobs738874" title="Employers Posting Jobs" name="hlEmployersPostingJobs" class="LinkHand" href="../permission.asp?whereto=emp_posting_jobs">Employers Posting Jobs</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlVirtualRecruiter738875" title="Virtual Recruiter" name="hlVirtualRecruiter" onclick="if (confirm('You must sign in to proceed further. Would you like to sign in or register at this time? ')) {window.location.href = '/loginintro.asp'; return false;} else { return false;}" class="LinkHand" href="../permission.asp?whereto=indagent">Virtual Recruiter</a></li>
+</ul>
+</li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlEducationServices738876" title="Education Services" name="hlEducationServices" class="parent" href="MenuLandingPage.aspx?cat=MENU_EDUCATION"><span>Education Services</span></a>
+<ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlTrainingProvidersandSchools738877" title="Training Providers and Schools" name="hlTrainingProvidersandSchools" class="LinkHand" href="../saintro.asp?session=provdetail">Training Providers and Schools</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlTrainingandEducationPrograms738878" title="Training and Education Programs" name="hlTrainingandEducationPrograms" class="LinkHand" href="../saintro.asp?session=progdetail">Training and Education Programs</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlEducationProgramCompleters738879" title="Education Program Completers" name="hlEducationProgramCompleters" class="LinkHand" href="../saintro.asp?session=educomplete">Education Program Completers</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlOnlineLearningResources738880" title="Online Learning Resources" name="hlOnlineLearningResources" class="LinkHand" href="OnlineLearning/Resources.aspx">Online Learning Resources</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlEducationProfileInformer738881" title="Education Profile Informer" name="hlEducationProfileInformer" class="LinkHand" href="../saintro.asp?session=edudetail&amp;returnto=education">Education Profile Informer</a></li>
+</ul>
+</li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlLaborMarketServices738882" title="Labor Market Services" name="hlLaborMarketServices" class="parent" href="MenuLandingPage.aspx?cat=MENU_LABORMARKET"><span>Labor Market Services</span></a>
+<ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlLaborMarketFacts738883" title="Labor Market Facts" name="hlLaborMarketFacts" class="LinkHand" href="lmi/faq.aspx?session=faq">Labor Market Facts</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlAreaProfile738884" title="Area Profile" name="hlAreaProfile" class="LinkHand" href="../saintro.asp?session=areadetail">Area Profile</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlIndustryProfile738885" title="Industry Profile" name="hlIndustryProfile" class="LinkHand" href="../saintro.asp?session=inddetail">Industry Profile</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlOccupationalProfile738886" title="Occupational Profile" name="hlOccupationalProfile" class="LinkHand" href="../saintro.asp?session=occdetail_lms">Occupational Profile</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlEducationProfile738887" title="Education Profile" name="hlEducationProfile" class="LinkHand" href="../saintro.asp?session=edudetail">Education Profile</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlFloridaFREIDA738888" title="Florida FREIDA" name="hlFloridaFREIDA" class="LinkHand" href="http://www.labormarketinfo.com/" target="_blank">Florida FREIDA</a></li>
+</ul>
+</li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlCommunityServicesandBenefits738889" title="Community Services and Benefits" name="hlCommunityServicesandBenefits" class="parent" href="MenuLandingPage.aspx?cat=MENU_BENEFITS"><span>Community Services and Benefits</span></a>
+<ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlEligibilityRequirements738890" title="Eligibility Requirements" name="hlEligibilityRequirements" class="LinkHand" href="folders/case/eligibilityrequirements.aspx">Eligibility Requirements</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlProgramsandServices738891" title="Programs and Services" name="hlProgramsandServices" class="LinkHand" href="local/benefits.aspx">Programs and Services</a></li>
+</ul>
+</li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlVeteranServices738892" title="Veteran Services" name="hlVeteranServices" class="LinkHand" href="veteran.aspx">Veteran Services</a></li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlYouthServices738893" title="Youth Services" name="hlYouthServices" class="LinkHand" href="youth.aspx">Youth Services</a></li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlSeniorServices738894" title="Senior Services" name="hlSeniorServices" class="LinkHand" href="senior.aspx">Senior Services</a></li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlDisabilityServices738895" title="Disability Services" name="hlDisabilityServices" class="LinkHand" href="Services/Disability.aspx">Disability Services</a></li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlMoreResources738896" title="More Resources" name="hlMoreResources" class="LinkHand" href="moreresources.aspx">More Resources</a></li>
+</ul>
+</div>
+<div>
+<h2 class="active"><span class="collapse" title="Collapse menu"> </span><a id="ctl00_sidemenu_hlOtherServices738897" title="Other Services" name="hlOtherServices" class="LinkHand" href="dashboards/default.aspx?menuid=MENU_START_PAGE_SERVICES&amp;apane=MENU_GROUP_OTHER">Other Services</a></h2>
+<ul class="gui_menu_show">
+<li style="display: block;"><a id="ctl00_sidemenu_hlAppointmentCenter738898" title="Appointment Center" name="hlAppointmentCenter" class="parent" href="MenuLandingPage.aspx?cat=MENU_APPOINTMENT_CENTER"><span>Appointment Center</span></a>
+<ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlEventsCalendar738899" title="Events Calendar" name="hlEventsCalendar" class="LinkHand" href="Events/Default.aspx">Events Calendar</a></li>
+</ul>
+</li>
+<li style="display: block;"><a id="ctl00_sidemenu_hlAssistanceCenter738900" title="Assistance Center" name="hlAssistanceCenter" class="parent" href="menulandingpage.aspx?cat=MENU_ASSIST_CENTER"><span>Assistance Center</span></a>
+<ul>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlAboutthisSite738901" title="About this Site" name="hlAboutthisSite" class="LinkHand" href="aboutsite.aspx">About this Site</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlQuickReferenceCards738902" title="Quick Reference Cards" name="hlQuickReferenceCards" class="LinkHand" href="refcards/quickreference.aspx">Quick Reference Cards</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlSiteMap738903" title="Site Map" name="hlSiteMap" class="LinkHand" href="sitemap.aspx">Site Map</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlSiteSearch738904" title="Site Search" name="hlSiteSearch" class="LinkHand" href="sitesearch.aspx">Site Search</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlMyPreferences738905" title="My Preferences" name="hlMyPreferences" class="LinkHand" href="javascript:Settings();">My Preferences</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlEmailYourQuestions738906" title="Email Your Questions" name="hlEmailYourQuestions" class="LinkHand" href="Retrieval/RetrievalContactStaff.aspx?retrievalaction=4">Email Your Questions</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlAccountRetrieval738907" title="Account Retrieval" name="hlAccountRetrieval" class="LinkHand" href="Retrieval/SelectRetrievalOptions.aspx">Account Retrieval</a></li>
+
+<li style="display: block;"><a id="ctl00_sidemenu_hlContactUsDirectly738908" title="Contact Us Directly" name="hlContactUsDirectly" class="LinkHand" href="contactus.aspx?1=1">Contact Us Directly</a></li>
+</ul>
+</li>
+<li style="display: block; position: relative;"><a id="ctl00_sidemenu_hlLearningCenter738909" title="Learning Center" name="hlLearningCenter" class="LinkHand" href="OnlineLearning/LearningCenter.aspx">Learning Center</a></li>
+</ul>
 </div>
 </div>
 
 </div>
-</div>  
+</div>
         
         <div id="mstContent">
             <!-- Main content -->
@@ -167,7 +397,7 @@ ga('send', 'pageview');
 <input type="hidden" name="ctl00_asmVos_HiddenField" id="ctl00_asmVos_HiddenField" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMxNjc3NTM3NQ9kFgJmD2QWAgIBDxYCHgRsYW5nBQJlbhYEAgEPZBYEAgQPFQgDMTIwAzEwNRtZb3VyIHNlc3Npb24gd2lsbCBleHBpcmUgaW5nbWludXRlcy4gUGxlYXNlIHNhdmUgeW91ciBpbmZvcm1hdGlvbiBvciBuYXZpZ2F0ZSB0byB5b3VyIG5leHQgc2NyZWVuIHRvIGNvbnRpbnVlIHlvdXIgY3VycmVudCBzZXNzaW9uLlxZb3VyIHByZXZpb3VzIHNlc3Npb24gaGFzIGV4cGlyZWQuIFlvdSB3aWxsIG5lZWQgdG8gbG9nIGluIHRvIGNvbnRpbnVlIHdvcmtpbmcgb24gdGhpcyBzaXRlLkJodHRwczovL3d3dy5lbXBsb3lmbG9yaWRhLmNvbS92b3NuZXQvTG9nb2ZmLmFzcHg/Y2xlYXJzZXNzaW9uPXRydWVcWW91ciBwcmV2aW91cyBzZXNzaW9uIGhhcyBleHBpcmVkLiBZb3Ugd2lsbCBuZWVkIHRvIGxvZyBpbiB0byBjb250aW51ZSB3b3JraW5nIG9uIHRoaXMgc2l0ZS5CaHR0cHM6Ly93d3cuZW1wbG95ZmxvcmlkYS5jb20vdm9zbmV0L0xvZ29mZi5hc3B4P2NsZWFyc2Vzc2lvbj10cnVlZAIGDxYCHgRUZXh0BasEDQo8IS0tIEdvb2dsZSBVbml2ZXJzYWwgQW5hbHl0aWNzIC0tPg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KKGZ1bmN0aW9uIChpLCBzLCBvLCBnLCByLCBhLCBtKSB7DQppWydHb29nbGVBbmFseXRpY3NPYmplY3QnXSA9IHI7IGlbcl0gPSBpW3JdIHx8IGZ1bmN0aW9uICgpIHsNCihpW3JdLnEgPSBpW3JdLnEgfHwgW10pLnB1c2goYXJndW1lbnRzKQ0KfSwgaVtyXS5sID0gMSAqIG5ldyBEYXRlKCk7IGEgPSBzLmNyZWF0ZUVsZW1lbnQobyksDQptID0gcy5nZXRFbGVtZW50c0J5VGFnTmFtZShvKVswXTsgYS5hc3luYyA9IDE7IGEuc3JjID0gZzsgbS5wYXJlbnROb2RlLmluc2VydEJlZm9yZShhLCBtKQ0KfSkod2luZG93LCBkb2N1bWVudCwgJ3NjcmlwdCcsICcvL3d3dy5nb29nbGUtYW5hbHl0aWNzLmNvbS9hbmFseXRpY3MuanMnLCAnZ2EnKTsNCmdhKCdjcmVhdGUnLCAnVUEtNzMwNjg3Ny0xMicsICdhdXRvJyk7DQpnYSgnc2VuZCcsICdwYWdldmlldycpOw0KPC9zY3JpcHQ+DQo8IS0tIEVuZCBHb29nbGUgVW5pdmVyc2FsIEFuYWx5dGljcyAtLT4NCg0KZAIDDxYCHgVjbGFzc2UWCgILDw8WAh8BBRFQcml2YWN5IFN0YXRlbWVudGRkAg0PFgIeBXRpdGxlBRFQcml2YWN5IFN0YXRlbWVudGQCEQ8PFgIeB1Zpc2libGVnZGQCFQ8WAh8BBcwDPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KdmFyIF9nYXEgPSBfZ2FxIHx8IFtdOw0KX2dhcS5wdXNoKFsnX3NldEFjY291bnQnLCAnVUEtNzMwNjg3Ny04J10pOw0KX2dhcS5wdXNoKFsnX3RyYWNrUGFnZXZpZXcnXSk7DQooZnVuY3Rpb24oKSB7DQp2YXIgZ2EgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgZ2EudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBnYS5hc3luYyA9IHRydWU7DQpnYS5zcmMgPSAoJ2h0dHBzOicgPT0gZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2wgPyAnaHR0cHM6Ly9zc2wnIDogJ2h0dHA6Ly93d3cnKSArICcuZ29vZ2xlLWFuYWx5dGljcy5jb20vZ2EuanMnOw0KIHZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOyBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGdhLCBzKTsNCn0pKCk7DQo8L3NjcmlwdD4NCmQCFw8WAh4JaW5uZXJodG1sBQEvZGSI1T8WmFkhXSPAhQb58lHGqUBcdQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMxNjc3NTM3NQ9kFgJmD2QWAgIBDxYCHgRsYW5nBQJlbhYEAgEPZBYEAgQPFQgDNDgwAzQ2NRtZb3VyIHNlc3Npb24gd2lsbCBleHBpcmUgaW5nbWludXRlcy4gUGxlYXNlIHNhdmUgeW91ciBpbmZvcm1hdGlvbiBvciBuYXZpZ2F0ZSB0byB5b3VyIG5leHQgc2NyZWVuIHRvIGNvbnRpbnVlIHlvdXIgY3VycmVudCBzZXNzaW9uLlxZb3VyIHByZXZpb3VzIHNlc3Npb24gaGFzIGV4cGlyZWQuIFlvdSB3aWxsIG5lZWQgdG8gbG9nIGluIHRvIGNvbnRpbnVlIHdvcmtpbmcgb24gdGhpcyBzaXRlLkJodHRwczovL3d3dy5lbXBsb3lmbG9yaWRhLmNvbS92b3NuZXQvTG9nb2ZmLmFzcHg/Y2xlYXJzZXNzaW9uPXRydWVcWW91ciBwcmV2aW91cyBzZXNzaW9uIGhhcyBleHBpcmVkLiBZb3Ugd2lsbCBuZWVkIHRvIGxvZyBpbiB0byBjb250aW51ZSB3b3JraW5nIG9uIHRoaXMgc2l0ZS5CaHR0cHM6Ly93d3cuZW1wbG95ZmxvcmlkYS5jb20vdm9zbmV0L0xvZ29mZi5hc3B4P2NsZWFyc2Vzc2lvbj10cnVlZAIGDxYCHgRUZXh0BasEDQo8IS0tIEdvb2dsZSBVbml2ZXJzYWwgQW5hbHl0aWNzIC0tPg0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KKGZ1bmN0aW9uIChpLCBzLCBvLCBnLCByLCBhLCBtKSB7DQppWydHb29nbGVBbmFseXRpY3NPYmplY3QnXSA9IHI7IGlbcl0gPSBpW3JdIHx8IGZ1bmN0aW9uICgpIHsNCihpW3JdLnEgPSBpW3JdLnEgfHwgW10pLnB1c2goYXJndW1lbnRzKQ0KfSwgaVtyXS5sID0gMSAqIG5ldyBEYXRlKCk7IGEgPSBzLmNyZWF0ZUVsZW1lbnQobyksDQptID0gcy5nZXRFbGVtZW50c0J5VGFnTmFtZShvKVswXTsgYS5hc3luYyA9IDE7IGEuc3JjID0gZzsgbS5wYXJlbnROb2RlLmluc2VydEJlZm9yZShhLCBtKQ0KfSkod2luZG93LCBkb2N1bWVudCwgJ3NjcmlwdCcsICcvL3d3dy5nb29nbGUtYW5hbHl0aWNzLmNvbS9hbmFseXRpY3MuanMnLCAnZ2EnKTsNCmdhKCdjcmVhdGUnLCAnVUEtNzMwNjg3Ny0xMicsICdhdXRvJyk7DQpnYSgnc2VuZCcsICdwYWdldmlldycpOw0KPC9zY3JpcHQ+DQo8IS0tIEVuZCBHb29nbGUgVW5pdmVyc2FsIEFuYWx5dGljcyAtLT4NCg0KZAIDDxYCHgVjbGFzc2UWDAIBD2QWAmYPDxYCHgtOYXZpZ2F0ZVVybAUmamF2YXNjcmlwdDpTZXR0aW5ncygndXNlcnByZWZzLmFzcHgnKTtkZAINDw8WAh8BBRFQcml2YWN5IFN0YXRlbWVudGRkAg8PFgIeBXRpdGxlBRFQcml2YWN5IFN0YXRlbWVudGQCEw8PFgIeB1Zpc2libGVnZGQCFw8WAh8BBcwDPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KdmFyIF9nYXEgPSBfZ2FxIHx8IFtdOw0KX2dhcS5wdXNoKFsnX3NldEFjY291bnQnLCAnVUEtNzMwNjg3Ny04J10pOw0KX2dhcS5wdXNoKFsnX3RyYWNrUGFnZXZpZXcnXSk7DQooZnVuY3Rpb24oKSB7DQp2YXIgZ2EgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgZ2EudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBnYS5hc3luYyA9IHRydWU7DQpnYS5zcmMgPSAoJ2h0dHBzOicgPT0gZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2wgPyAnaHR0cHM6Ly9zc2wnIDogJ2h0dHA6Ly93d3cnKSArICcuZ29vZ2xlLWFuYWx5dGljcy5jb20vZ2EuanMnOw0KIHZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOyBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGdhLCBzKTsNCn0pKCk7DQo8L3NjcmlwdD4NCmQCGQ8WAh4JaW5uZXJodG1sBQEvZGSzm6jeRHlcaH5DhG+WkS5HZZ5Luw==">
 </div>
 
 <script type="text/javascript">
@@ -187,7 +417,7 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/vosnet/WebResource.axd?d=8CpQQOFOlYM7dtEt226YhfZHbExLOGTezZWBoq42dlCfBV_uQMqjWKho1cc7jsEZzlyXgPTP4cZZfW0xtE8She1nMfc1&amp;t=635418460260000000" type="text/javascript"></script>
+<script src="/vosnet/WebResource.axd?d=8CpQQOFOlYM7dtEt226YhfZHbExLOGTezZWBoq42dlCfBV_uQMqjWKho1cc7jsEZzlyXgPTP4cZZfW0xtE8She1nMfc1&amp;t=635589255571259667" type="text/javascript"></script>
 
 
 <script src="Javascript/ajax.js" type="text/javascript"></script>
@@ -212,11 +442,13 @@ function confirmReleaseUser()
 //]]>
 </script>
 
+<script src="JavaScript/jQueryLibrary/JQueryAlreadyLoaded.js" type="text/javascript"></script>
 <script src="JavaScript/jQueryLibrary/JSON2.js" type="text/javascript"></script>
 <script src="JavaScript/jQueryLibrary/jquery.dataTables.js" type="text/javascript"></script>
 <script src="JavaScript/jQueryLibrary/jquery.tablesorter.min.js" type="text/javascript"></script>
 <script src="Javascript/GSIFrameWork.js" type="text/javascript"></script>
 <script src="JavaScript/Common.js" type="text/javascript"></script>
+<script src="JavaScript/waypoints/waypoints.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 var rootpath = '../';
@@ -266,9 +498,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$asmVos', 'aspnetForm', [], []
 //]]>
 </script>
 
+            
     <div style="padding: 0 10px 0 10px">
-        <p></p><h3>Privacy Statement</h3>
-<p>The Employ Florida Marketplace (EFM), as the State of Florida's official Workforce Labor Exchange, is strongly committed to maintaining the privacy of confidential information provided by its customers. For information on how to better protect your own privacy online, please see our <a href="https://www.employflorida.com/vosnet/protect.aspx" title="Learn more about how you can protect yourself">Protect Yourself</a> page. Personally identifying information is kept in a secure, encrypted database. Access to confidential information is restricted to authorized entities associated with the performance of the Workforce Investment Act of 1998. The operator of this website will not give, sell, or otherwise transfer electronic mail addresses maintained by EFM to any other party for the purposes of initiating, or enabling others to initiate, electronic mail messages. The collection, use and disclosure of your information are further governed by the following laws:</p>
+        <h3>Privacy Statement</h3>
+<p>The Employ Florida Marketplace (EFM), as the State of Florida's official Workforce Labor Exchange, is strongly committed to maintaining the privacy of confidential information provided by its customers. For information on how to better protect your own privacy online, please see our <a href="https://www.employflorida.com/vosnet/protect.aspx" title="Learn more about how you can protect yourself">Protect Yourself</a> page. Personally identifying information is kept in a secure, encrypted database. Access to confidential information is restricted to authorized entities associated with the performance of the Workforce Innovation and Opportunity Act of 2014. The operator of this website will not give, sell, or otherwise transfer electronic mail addresses maintained by EFM to any other party for the purposes of initiating, or enabling others to initiate, electronic mail messages. The collection, use and disclosure of your information are further governed by the following laws:</p>
 
 <ul><li>42 U.S.C. § 405(C)(2)(c) (Social Security Act)</li>
 <li>5 U.S.C. § 552a (Privacy Act of 1974)</li>
@@ -278,7 +511,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$asmVos', 'aspnetForm', [], []
 <li>Chapter 119, Florida Statutes (Public Records)</li>
 </ul>
 
-<p><strong>Providing your social security number is not mandatory.</strong> If you would like to register without providing your social security number, please ask a local One-Stop representative for assistance. If you are not in a One-Stop center, please call 1-800-438-4128 for assistance. This process may take up to thirty minutes for staff to collect the necessary information and create a full registration in the EFM System.</p>
+<p><strong>Providing your social security number is not mandatory.</strong> If you would like to register without providing your social security number, please ask a local One-Stop representative for assistance. If you are not in a One-Stop center, please call <span class="baec5a81-e4d6-4674-97f3-e9220f0136c1" style="white-space: nowrap;">1-800-438-4128<a href="#" style="margin: 0px; border: currentColor; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;" title="Call: 1-800-438-4128"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi+4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy+09555LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab+MNd4ghhQ2adIc1+ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD+SZ7DQesIkCG5S/JpkHYERQRmuNsrZ7Grc+Ef8/Bcoslkfae8Wc7CUHZ++TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg==" style="margin: 0px; border: currentColor; left: 0px; top: 0px; width: 16px; height: 16px; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none; display: inline; white-space: nowrap; position: static !important;" title="Call: 1-800-438-4128"></a></span> for assistance. This process may take up to thirty minutes for staff to collect the necessary information and create a full registration in the EFM System.</p>
 
 <p>For your protection, please do not use your social security number or FEIN when creating your user name.</p>
 
@@ -301,10 +534,17 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$asmVos', 'aspnetForm', [], []
 <p>Unauthorized attempts to upload or change information on this site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.</p>
 
     </div>
-</form><!-- Horizontal rule --><hr id="ctl00_mstContentRule">
+
+            
+</form>
+            <!-- Horizontal rule -->
+            <hr id="ctl00_mstContentRule">
             <!-- Portal Return Link -->
             
-            <!-- Standard return button --><div id="ctl00_mstReturnToButtonPanel">
+            
+            <!-- Standard return button -->
+            <a id="ADAskipfooter" name="content-footer"></a>
+            <div id="ctl00_mstReturnToButtonPanel">
 	
                 <div id="mstReturnToButton" style="text-align: center; padding-top: 5px;">
                     <form id="mstReturnToButtonForm" method="post" action="javascript:window.location.href='https://www.employflorida.com/vosnet/Default.aspx'">
@@ -391,7 +631,7 @@ function EncryptURLPopupWindowTrackingPage(encURL, strTitle, strParams) {
 
 <div id="ctl00_mstPageFooter_pnlGhostVersion" class="copyright">
 	
-    <span id="ctl00_mstPageFooter_lblGhostVersion">14.0</span>
+    <span id="ctl00_mstPageFooter_lblGhostVersion">15.3</span>
 
 </div>
 
@@ -402,9 +642,11 @@ function EncryptURLPopupWindowTrackingPage(encURL, strTitle, strParams) {
             <!-- If you need the third column add a ContentPlaceHolder control to your page with ContentPlaceHolderID="Third_Column" -->
         
         </div>
-    
+    </div>
     <div id="mstDebug">
-        </div><div id="GoogleAnalyitics">
+        
+    </div>
+    <div id="GoogleAnalyitics">
         <script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-7306877-8']);
@@ -415,14 +657,18 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
 </script>
-</div><div id="4Qinvite">
-        </div><div id="CookiePath" style="display: none;">/</div>
+
+    </div>
+    <div id="4Qinvite">
+        
+    </div>
+    <div id="CookiePath" style="display: none;">/</div>
     <div id="MultiSessionURL" style="display: none;">
         ../multisession.asp</div>
     <div id="AppUserTheme" class="hidden">
         </div>
 
-<!--TAWEBPVOS1280V-->
+<!--TAPVWEB0503FL-->
 
 
 </body></html>
