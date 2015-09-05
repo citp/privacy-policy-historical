@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the archaeology.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629015017id_/http%3A//archaeology.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archaeology.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072830id_/http%3A//www.archaeology.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Archaeology Magazine
 
-ARCHAEOLOGY is a publication of the Archaeological Institute of America, a 133-year-old nonprofit organization. The magazine has been published continuously for more than 65 years.
+Privacy Policy
 
-ARCHAEOLOGY and the Archaeological Institute of America (AIA) are committed to providing a secure private environment in which its members and customers can communicate and carry out  transactions online. This page summarizes our current information gathering and dissemination practices.
+  
 
-### Email Privacy ** **
+
+ARCHAEOLOGY is a publication of the Archaeological Institute of America, a 133-year-old nonprofit organization. The magazine has been published continuously for more than 65 years.
+
+ARCHAEOLOGY and the Archaeological Institute of America (AIA) are committed to providing a secure private environment in which its members and customers can communicate and carry out transactions online. This page summarizes our current information gathering and dissemination practices.
+
+### Email Privacy
 
 AIA use of email addresses  
-Your email address will be used only within the AIA. AIA-generated email includes three types of communication: automatically generated email services to which individuals may subscribe and easily unsubscribe (e.g, newsletters, listservs, new title notifications); periodic notifications provided as a service to members (e.g., dues renewal information) and/or to others in the archaeological community (e.g., subscription access information); and correspondence with individuals.
+Your email address will be used only within the AIA. AIA-generated email includes three types of communication: automatically generated email services to which individuals may subscribe and easily unsubscribe (e.g, newsletters, listservs, new title notifications); periodic notifications provided as a service to members (e.g., dues renewal information) and/or to others in the archaeological community (e.g., subscription access information); and correspondence with individuals.
 
 We do not sell or rent email addresses to anyone outside the AIA.
 
@@ -17,15 +22,15 @@ Choosing to be removed from AIA emails
 
 You may contact the AIA to opt-out of emails:
 
-*By email: [This email address is being protected from spambots. You need JavaScript enabled to view it..">[webmaster@archaeological.org](mailto:webmaster@archaeological.org).](mailto:%3Cspan%20id=) Or, if you have subscribed to the e-Update, instructions to “unsubscribe” are at the bottom of each message you receive.
+*By email: [This email address is being protected from spambots. You need JavaScript enabled to view it..">[webmaster@archaeological.org](mailto:webmaster@archaeological.org)](mailto:%3Cspan%20id=). Or, if you have subscribed to the e-Update, instructions to “unsubscribe” are at the bottom of each message you receive.
 
-*By mail: Archaeological Institute of America, Attn: Publications and New Media, 656 Beacon Street, Boston, MA 02215-2006, USA.
+*By mail: Archaeological Institute of America, Attn: Publications and New Media, 656 Beacon Street, Boston, MA 02215-2006, USA.
 
 *By telephone: 1-617-353-9361.
 
 *By fax: 1-617-353-6550.
 
-#### Security
+### Security
 
 Data Encryption and Processing  
 The AIA website uses SSL (Secure Sockets Layer, the industry-standard security protocol used to communicate with browsers). Data are strongly encrypted during transmission to ensure that personal and payment information are secure.
@@ -50,6 +55,16 @@ The AIA website provides links to other sites as a service to the archaeological
 
 ### Third Party Use
 
-The AIA collects names, mailing addresses, job title, and areas of archaeological interest from members, customers, and meeting attendees. This information may be rented in the form of a mailing list to third parties (e.g., professional societies, commercial publishers) for one-time use. Promotional and informational materials are subject to approval by the AIA prior to rental of a mailing list. You may choose to not receive promotional mailings by contacting [This email address is being protected from spambots. You need JavaScript enabled to view it.">](mailto:%3Cspan%20id=)[membership@aia.bu.edu](mailto:membership@aia.bu.edu). Email addresses are never included in mailing lists. See Email Privacy above for more information.
+The AIA collects names, mailing addresses, job title, and areas of archaeological interest from members, customers, and meeting attendees. This information may be rented in the form of a mailing list to third parties (e.g., professional societies, commercial publishers) for one-time use. Promotional and informational materials are subject to approval by the AIA prior to rental of a mailing list. You may choose to not receive promotional mailings by contacting [membership@aia.bu.edu](mailto:membership@aia.bu.edu). Email addresses are never included in mailing lists. See Email Privacy above for more information.
 
 Please also see [the privacy policy](http://archaeological.org/about/privacy) of the Archaeological Institute of America.
+
+Advertisement
+
+  *   * 
+
+
+  *   * 
+
+
+[](http://www.archaeological.org/)
