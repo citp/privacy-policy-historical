@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentor.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629075440id_/http%3A//www.mentor.com/terms_conditions/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentor.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053252id_/https%3A//www.mentor.com/terms_conditions/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mentor Graphics
 
@@ -20,7 +20,7 @@ By using our website or by opting into any product improvement program, you cons
 
 ### How we handle your information changes
 
-We realize that your personal information, including name, company, and email address, is subject to change over time. In the effort to keep your information current and accurate, we are working on tools that, once deployed, will allow you to review your information and update it as needed. In the meantime, if you need to update your information in our records, please send email to [Web_Privacy@mentor.com](mailto:web_info@mentor.com).
+We realize that your personal information, including name, company, and email address, is subject to change over time. In the effort to keep your information current and accurate, we are working on tools that, once deployed, will allow you to review your information and update it as needed. In the meantime, if you need to update your information in our records, please send email to [Web_Privacy@mentor.com](mailto:web_ops@mentor.com).
 
 ### How we treat your browser information
 
