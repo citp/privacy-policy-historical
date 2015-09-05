@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the troweprice.com privacy policy that was archived on 2015-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150521151516id_/http%3A//corporate.troweprice.com/ccw/home/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the troweprice.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905093144id_/http%3A//corporate.troweprice.com/ccw/home/privacyPolicy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,60 +22,50 @@
 		    
 		
 		
-		<link rel="stylesheet" href="/ccw/style/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/shared/branding/css/lib/bootstrap/bootstrap-3.1.1.min.css">
 		<!--[if lt IE 9]>
 	      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	    <![endif]-->
 		
-		<link rel="stylesheet" href="/ccw/style/css/animate.css" type="text/css">
-		<link rel="stylesheet" href="/ccw/style/css/font-awesome.css">
-		<link rel="stylesheet" href="/ccw/style/css/fonts.css" type="text/css">
+		<link rel="stylesheet" href="/shared/branding/css/lib/animate.css" type="text/css">
+		<link rel="stylesheet" href="/shared/branding/css/lib/font-awesome.css">
+		<link rel="stylesheet" href="/shared/branding/css/lib/fonts.css" type="text/css">
 			
 	
-		<link rel="stylesheet" href="/ccw/style/css/branding-wrapper-responsive.css" type="text/css">
+		<link rel="stylesheet" href="/shared/branding/css/v2/branding-wrapper-responsive.css" type="text/css">
 		<link rel="stylesheet" href="/ccw/style/css/style.css" type="text/css">
 		<link href="/ccw/style/css/print.css" media="print" rel="stylesheet" type="text/css">
 		
-		<script src="/ccw/js/jquery.min.js"></script>
-		<script src="/ccw/js/bootstrap.min.js"></script>
-		<script src="/ccw/js/jquery.cookie.js"></script>
-		<script language="JavaScript" src="/ccw/js/jquery.stellar.js"></script>
-		<script language="JavaScript" src="/ccw/js/jquery.url.js"></script>
-		<script src="/ccw/js/common.js"></script>
+		<script src="/shared/common/script/jquery/jquery-1.11.1.min.js"></script>
+		<script src="/shared/common/script/bootstrap/bootstrap.min.js"></script>
+		<script src="/shared/common/script/jquery/plugins/jquery.cookie.js"></script>
+		<script language="JavaScript" src="/shared/common/script/jquery/plugins/jquery.stellar.js"></script>
+		<script language="JavaScript" src="/shared/common/script/jquery/plugins/jquery.url.js"></script>
+		<script src="/shared/branding/script/v2/common.js"></script>
 
 
-
+<script>currentPage = "/ccw/home/privacyPolicy.do";</script>
 
 
 <script src="//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js" type="text/javascript"></script>
 
- 
-		
-		<script src="/ccw/js/trp.personalizationutil.js"></script>
-
-			
-					
-	
-
-
+<script src="/ccw/js/trp.personalizationutil.js"></script>
 
 <script language="Javascript" type="text/javascript">
 
 
 		$(document).ready(function (){
 				
-				
-				
 				trpPersonalizationUtil.getGeoLocationV2();
 				trpPersonalizationUtil.personalize();
 				
-			
 				
+				$(".nav-main li ul li a[href*='" + currentPage.split("/")[4] + "']:first").addClass('active');
 				
+				$(".nav-main li ul li a.active").parent().prev().find("div").addClass("transparent-rule");
 				
-				
-				//REMOVE FOR PROD
+        //REMOVE FOR PROD
 				if(document.domain == 'corporatequal.troweprice.com'){
 					$('li[data-attr="iws"] a').attr('href','https://www4qual.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/');
 					$('li[data-attr="icw"] a').attr('href','https://www4qual.troweprice.com/icw/consultant/site/Start?placementGUID=CorpHome');
@@ -83,7 +73,6 @@
 					$('li[data-attr="iws"] a').attr('href','https://www4dev.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/');
 					$('li[data-attr="icw"] a').attr('href','https://www4dev.troweprice.com/icw/consultant/site/Start?placementGUID=CorpHome');
 				}
-				
 				
 				$('.countries ul li a').click(function(){
 					if (document.location.href.indexOf('troweprice.com') === -1){ 
@@ -99,14 +88,7 @@
 				});
 
 
-
-
-
-
-
-
-
-				$( "#sm-fnt" ).click(function() {
+        $( "#sm-fnt" ).click(function() {
 					$('.trp-box-white').css("font-size", "0.9em");
 					$(this).attr('src','/ccw/images/font_smallAplainhover.gif');
 					$('#md-fnt').attr('src','/ccw/images/font_middiumAplain.gif');
@@ -509,7 +491,7 @@ style="display:none;width:0px;height:0px"></iframe>
 		        <nav>
 		        	<div>
 						<div class="header-global-select js-header-global-county header-global-country ">
-							<span><i class="flag flag-global-bw "></i> <span class="country"></span> <i class="fa fa-caret-down"></i></span>
+							<span><i class="flag flag-global-bw "></i><a><span class="country"></span> </a></span>
 							  <div class="js-global-menu menu-select menu-select-country">
 							    <div class="countries countries-americas group">
 							    	<div>Americas</div>
@@ -581,48 +563,50 @@ style="display:none;width:0px;height:0px"></iframe>
 								
 						</div>
 						<div class="header-global-select">
-							<span>TRowePrice.com <i class="fa fa-caret-down"></i></span>
+							<span><a>TRowePrice.com </a></span>
 							
 							<div class="js-global-menu menu-select menu-select-site">
 								<ul class="">
-								    <li>
-								        <a class="active" href="http://www.troweprice.com">
-								            TRowePrice.com
-								        </a>
-								    </li>
+									<li>
+										<a class="active" href="http://www.troweprice.com">
+                      <div>TRowePrice.com</div>
+										</a>
+									</li>
 									<li data-attr="publicSite">
-								        <a href="https://individual.troweprice.com/public/Retail">
-								            Personal Investing
-								        </a>
-								    </li>
-									
+										<a href="https://individual.troweprice.com/public/Retail">
+                      <div>Personal Investing</div>
+										</a>
+									</li>
 									<li data-attr="rws">
-								        <a href="https://www3.troweprice.com/rws/public/v/home.jsp">
-								            Workplace Retirement
-								        </a>
-								    </li>
-								   
-								    
-								    <li data-attr="iws">
-								        <a href="https://www4.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/">
-								            Institutional Investor
-								        </a>
-								    </li>
-								    <li data-attr="icw">
-								        <a href="https://www4.troweprice.com/icw/consultant/site/Start?placementGUID=CorpHome">
-								            Institutional Consultant
-								        </a>
-								    </li>
-								    <li data-attr="fa">
-								        <a href="https://www4.troweprice.com/iws/wps/portal/public_fi?src=CorpHome">
-								            Financial Advisor/Intermediary
-								        </a>
-								    </li>
+										<a href="https://www3.troweprice.com/rws/public/v/home.jsp">
+                      <div>Workplace Retirement</div>
+										</a>
+                  </li>
+									<li data-attr="iws">
+										<a href="https://www4.troweprice.com/iws/wps/screens/html/welcome.jsp?pdurl=/iws/wps/myportal/">
+                      <div>Institutional Investor</div>
+										</a>
+                  </li>
+                  <li class="hidden" data-attr="twx">
+                    <a href="">
+                      <div></div>
+                    </a>
+                  </li>
+                  <li data-attr="icw">
+										<a href="https://www4.troweprice.com/icw/consultant/site/Start?placementGUID=CorpHome">
+                      <div>Institutional Consultant</div>
+										</a>
+                  </li>
+                  <li data-attr="fa">
+										<a href="https://www4.troweprice.com/iws/wps/portal/public_fi?src=CorpHome">
+                      <div>Financial Advisor/Intermediary</div>
+										</a>
+                  </li>
 									<li data-attr="rms">
-			                			<a href="https://www3.troweprice.com/usrps/marketing/index.html">
-			                   				Recordkeeping Sponsor/Consultant
-			                			</a>
-			           			 	</li>
+										<a href="https://www3.troweprice.com/usrps/marketing/index.html">
+                      <div>Recordkeeping Sponsor/Consultant</div>
+										</a>
+           			 	</li>
 								</ul>
 							</div>
 						</div>
@@ -659,29 +643,29 @@ style="display:none;width:0px;height:0px"></iframe>
 							   		<a href="/ccw/home/about/companyOverview.do" class="">ABOUT</a>
 							   		<ul>
 										<li class="">
-											<a href="/ccw/home/about/companyOverview.do">Company Overview</a>
+											<a href="/ccw/home/about/companyOverview.do"><div>Company Overview</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/about/culture.do">Culture</a>
+											<a href="/ccw/home/about/culture.do"><div>Culture</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/about/investmentApproach.do">Investment Approach</a>
+											<a href="/ccw/home/about/investmentApproach.do"><div>Investment Approach</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/about/investmentCapabilities.do">Investment Capabilities</a>
+											<a href="/ccw/home/about/investmentCapabilities.do"><div>Investment Capabilities</div></a>
 										</li>
 										
 										<li class="">
-											<a href="/ccw/home/about/history.do">History</a>
+											<a href="/ccw/home/about/history.do"><div>History</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/about/leadership.do">Leadership</a>
+											<a href="/ccw/home/about/leadership.do"><div>Leadership</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/about/investmentPerspective.do">Investment Perspective</a>
+											<a href="/ccw/home/about/investmentPerspective.do"><div>Investment Perspective</div></a>
 										</li>
 										<li class="last">
-											<a href="/ccw/home/about/perspectives.do">Perspectives</a>
+											<a href="/ccw/home/about/perspectives.do"><div>Perspectives</div></a>
 										</li>
 									</ul>
 							   </li>
@@ -689,89 +673,86 @@ style="display:none;width:0px;height:0px"></iframe>
 							   		<a href="/ccw/home/responsibility/corporateSocialResponsibilityOverview.do" class="">RESPONSIBILITY</a>
 							   		<ul>
 										<li class="">
-											<a href="/ccw/home/responsibility/corporateSocialResponsibilityOverview.do">Corporate Social<br>Responsibility Overview</a>
+											<a href="/ccw/home/responsibility/corporateSocialResponsibilityOverview.do"><div>Corporate Social Responsibility Overview</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/responsibility/conductingBusinessResponsibly.do">Conducting Business<br>Responsibly</a>
+											<a href="/ccw/home/responsibility/conductingBusinessResponsibly.do"><div>Conducting Business Responsibly</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/responsibility/empoweringOurAssociates.do">Empowering Our<br>Associates</a>
+											<a href="/ccw/home/responsibility/empoweringOurAssociates.do"><div>Empowering Our Associates</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/responsibility/buildingFinancialCapabilityinCommunities.do">Building Financial<br>Capability in Communities</a>
+											<a href="/ccw/home/responsibility/buildingFinancialCapabilityinCommunities.do"><div>Building Financial Capability in Communities</div></a>
+										</li>
+										<li class="">
+											<a href="/ccw/home/responsibility/tRowePriceFoundation.do"><div>T. Rowe Price Foundation</div></a>
 										</li>
 										<li class="last">
-											<a href="/ccw/home/responsibility/tRowePriceFoundation.do">T. Rowe Price Foundation</a>
+											<a href="/ccw/home/responsibility/corporateSocialResponsibilityReports.do"><div>Corporate Social Responsibility Reports</div></a>
 										</li>
 									</ul>
 							   </li>
 							   <li><a href="/ccw/home/careers/investInYourCareer.do" class="">CAREERS</a>
 							   		<ul class="last-menu">
 										<li class="">
-											<a href="/ccw/home/careers/investInYourCareer.do">Invest In Your Career</a>
+											<a href="/ccw/home/careers/investInYourCareer.do"><div>Invest In Your Career</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/about/companyOverview.do">Company Overview</a>
+											<a href="/ccw/home/about/companyOverview.do"><div>Company Overview</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/careers/whyTRowePrice.do">Why T. Rowe Price</a>
+											<a href="/ccw/home/careers/whyTRowePrice.do"><div>Why T. Rowe Price</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/careers/whoWeHire.do">Who We Hire</a>
+											<a href="/ccw/home/careers/whoWeHire.do"><div>Who We Hire</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/careers/diversityAndInclusion.do">Diversity And Inclusion</a>
+											<a href="/ccw/home/careers/diversityAndInclusion.do"><div>Diversity And Inclusion</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/careers/seeOurOffices.do">See Our Offices</a>
+											<a href="/ccw/home/careers/seeOurOffices.do"><div>See Our Offices</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/careers/universityRecruiting.do">University Recruiting</a>
+											<a href="/ccw/home/careers/universityRecruiting.do"><div>University Recruiting</div></a>
 										</li>
 										<li class="">
-											<a href="/ccw/home/careers/hiringProcess.do">Hiring Process</a>
+											<a href="/ccw/home/careers/hiringProcess.do"><div>Hiring Process</div></a>
 										</li>
 										<li class="">
-											<a href="https://stgtroweprice.taleo.net/careersection/2/jobsearch.ftl?lang=en">Search Jobs</a>
+											<a href="https://stgtroweprice.taleo.net/careersection/2/jobsearch.ftl?lang=en"><div>Search Jobs</div></a>
 										</li>
 										<li class="">
-											<a href="https://stgtroweprice.taleo.net/careersection/2/jobsearch.ftl?lang=en&amp;amp;ftlcompclass=LoginComponent">Access Your Profile</a>
+											<a href="https://stgtroweprice.taleo.net/careersection/2/jobsearch.ftl?lang=en&amp;amp;ftlcompclass=LoginComponent"><div>Access Your Profile</div></a>
 										</li>
 										<li class="last">
-											<a href="/ccw/home/careers/eVerify.do">E-Verify</a>
+											<a href="/ccw/home/careers/eVerify.do"><div>E-Verify</div></a>
 										</li>
 									</ul>
 							   </li>
 							    <li class="hidden-xs">
-							   		<a href="/ccw/home/pressReleases.do">NEWS</a>
+							   		<a href="/ccw/home/pressReleases.do" class="">NEWS</a>
 							   </li>
 							   
 						</ul>
-					<div class="nav-login-wrapper pull-right" style="width: 80px;">
-						<ul class="nav-main nav-login-og">
-						<li class="menu-login menu-login-branded "><a class="nav-login-og-top js-nix-click" href="">LOG&nbsp;IN&nbsp;<i class="fa fa-chevron-down"></i></a>
-							   	
-								   		<ul>
-								   			<li class="mobile-login">
-							   					<a href="https://www3.troweprice.com/mai/maiweb/base/goToLogin.do?pdURL=/mbl/mobile/secure/accounts/balance&amp;jname=mobilemai">Mobile site log in</a>
-								   			</li>
-								   			<li class="mobile-login"><hr></li>
-											<li data-attr="publicSite" class="pi">
-												<a href="https://www3.troweprice.com/aaweb1/portfolioAnalytics/page/accounts-activity/summary.otc?src=CorpHome">Personal Investing log in<br><span class="mobile-login">(full site)</span></a>
-											</li>
-											<li><hr></li>
-											<li data-attr="rws" class="">
-												<a href="http://rps.troweprice.com/login">Workplace Retirement log in<br><span class="mobile-login">(full site)</span></a>
-											</li>
-										</ul>
-								
-							</li>
-						</ul>
-						
+						<div class="nav-login-wrapper pull-right" style="width: 80px;">
+							<ul class="nav-main nav-login-og">
+								<li class="menu-login menu-login-branded "><a class="nav-login-og-top js-nix-click" href="">LOG&nbsp;IN&nbsp;<i class="fa fa-chevron-down"></i></a>
+	                <ul>
+						   			<li class="mobile-login">
+					   					<a href="https://www3.troweprice.com/mai/maiweb/base/goToLogin.do?pdURL=/mbl/mobile/secure/accounts/balance&amp;jname=mobilemai"><div>Mobile site log in</div></a>
+						   			</li>
+							   		<li data-attr="publicSite" class="pi">
+											<a href="https://www3.troweprice.com/aaweb1/portfolioAnalytics/page/accounts-activity/summary.otc?src=CorpHome"><div>Personal Investing log in<span class="mobile-login">(full site)</span></div></a>
+										</li>
+										<li data-attr="rws" class="">
+											<a href="http://rps.troweprice.com/login"><div>Workplace Retirement log in<span class="mobile-login">(full site)</span></div></a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
 					
-					</div>
-					
-		        </nav>
+          </nav>
 		    </div>
 		</header>
 		
@@ -1112,12 +1093,9 @@ style="display:none;width:0px;height:0px"></iframe>
 			</div>
 			<div class="footer-links">
 				<ul class="footer-links-list">
-					  
-					   
-					   <li><a class="mdBlue10 js-oo-icon" href="javascript:void(0);" onclick="oo_feedback.show()"><img src="/ccw/js/opinionLab/oo_icon_wh.gif" border="0" class="" title="Feedback" style="margin-right: 5px;">Feedback</a> </li>
-					
-					  
-					</ul>
+          <li><a class="feedback mdBlue10 js-oo-icon" href="javascript:void(0);" onclick="oo_feedback.show()">Feedback</a> </li>
+          <li><a href="/ccw/jsp/pages/mobilesolutions/index.jsp">Mobile Solutions</a></li>
+        </ul>
 			</div>
 
 		</div>
@@ -1125,7 +1103,7 @@ style="display:none;width:0px;height:0px"></iframe>
 	<div class="footer-disclaimer">
 		<div>
 	  		<p class="js-rem-ous">
-				The mutual funds referred to in this website are offered and sold only to persons residing in the United States and are offered by prospectus only. The prospectuses include investment objectives, risks, fees, expenses, and other information that you should read and consider carefully before investing. <a href="http://individual.troweprice.com/public/Retail/Mutual-Funds/hProspectuses&amp;Reports/Prospectuses-&amp;-Reports">Download a prospectus</a>
+				The mutual funds referred to in this website are offered and sold only to persons residing in the United States and are offered by prospectus only. The prospectuses include investment objectives, risks, fees, expenses, and other information that you should read and consider carefully before investing. <a href="http://www.troweprice.com/prospectus">Download a prospectus</a>
 			</p>
 			<p class="ous-footer js-footer-v1 hidden">
 				T. ROWE PRICE, INVEST WITH CONFIDENCE, and the bighorn sheep design are trademarks or registered trademarks of T. Rowe Price Group, Inc. in the United States and other countries. All other trademarks are the property of T. Rowe Price or their respective owners.
