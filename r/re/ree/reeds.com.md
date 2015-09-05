@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510222645id_/http%3A//www.reeds.com/about/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052557id_/http%3A//www.reeds.com/about/Privacy.html) for the most accurate reproduction.*
 
 # REEDS Jewelers Privacy Policy | REEDS Jewelers
 
@@ -209,7 +209,7 @@ Websites owned or operated by REEDS Jewelers Inc., may include links to other In
 
 ###  Does REEDS Jewelers Recognize Browser Do Not Track Signals?
 
-Our websites honors Do Not Track signals for the post popular web browsers; however it is possible that a web browser may make a modification, update or release which would cause this functionality to fail on our website. To learn more about browser tracking signals and Do Not Track, please visit: <http://www.allaboutdnt.org/>
+Our websites honors Do Not Track signals for the most popular web browsers; however it is possible that a web browser may make a modification, update or release which would cause this functionality to fail on our website. To learn more about browser tracking signals and Do Not Track, please visit: <http://www.allaboutdnt.org/>
 
 ### Whom Do I Contact If I Have Additional Questions Or Concerns About This Policy?
 
