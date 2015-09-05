@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hbdirect.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610004711id_/http%3A//www.hbdirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbdirect.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052415id_/http%3A//www.hbdirect.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy Statement - HBDirect Genres
+# Privacy Policy Statement - HBDirect Classical
 
 HBDirect.com is committed to safeguarding the personal information of every visitor to our site. By visiting HBDirect.com, users are accepting the policies outlined in this Privacy Policy Statement. If you have any questions about this Privacy Policy, please feel free to contact us by any of the methods listed below under **Contact Us.**
 
