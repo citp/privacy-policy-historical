@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001510id_/http%3A//www.leaguelineup.com/faqs_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060213id_/http%3A//www.leaguelineup.com/faqs_privacypolicy.asp) for the most accurate reproduction.*
 
-# Free Websites for Youth Sports | Team and League Management & Website Builder
+# Sports League Management Software | Free Website Builder for Youth Teams & Leagues
 
 * * *
 
