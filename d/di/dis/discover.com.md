@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315080648id_/https%3A//www.discover.com/privacy-statement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905081052id_/https%3A//www.discover.com/privacy-statement/index.html) for the most accurate reproduction.*
 
 # Privacy Statements for Discover.com, mobile, and individual accounts
 
@@ -68,13 +68,13 @@ We may share information connected with our Websites with affiliates and third p
 
 You have certain choices about our Website sharing and marketing practices.
 
-**You can control cookies and tracking tools.** Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to clear past and reject future cookies. If you block cookies on your browser, certain features on our website may not work. Flash cookies cannot be controlled through your browser settings, but you can [**control flash settings**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). 
+**You can control cookies and tracking tools.** Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to clear past and reject future cookies. If you block cookies on your browser, certain features on our website may not work. Flash cookies cannot be controlled through your browser settings, but you can [**control flash settings**](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). 
 
 **You can opt out of receiving our marketing communications.**
 
   * For existing customers, you have the ability to control your marketing preferences by logging in to your Discover account and updating your profile page.
   * To stop receiving our promotional emails or texts, you can follow the instructions in any promotional message you receive from Discover. Even if you opt out of getting marketing messages, we may still send you transactional messages, including responses to your questions or information about your account.
-  * To opt out of receiving targeted advertisements on third-party sites, click the AdChoices opt-out logo in the corner of the advertisement or visit [**www.aboutads.info**](http://www.aboutads.info/). This opt-out is browser- and computer-specific. If you delete cookies after you opt out, you will need to opt out again on AdChoices because the opt-out is stored as a cookie. Please note that you may still continue to see our generic advertising even if you opt out of Discover targeted ads.
+  * To opt out of receiving targeted advertisements on third-party sites, click the AdChoices opt-out logo in the corner of the advertisement or visit [**www.aboutads.info**](https://www.aboutads.info/). This opt-out is browser- and computer-specific. If you delete cookies after you opt out, you will need to opt out again on AdChoices because the opt-out is stored as a cookie. Please note that you may still continue to see our generic advertising even if you opt out of Discover targeted ads.
 
 
 
