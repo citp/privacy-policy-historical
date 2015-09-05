@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315024919id_/http%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905113144id_/http%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy | AgriLife.org
 
@@ -41,4 +41,4 @@ We employ extensive security measures consistent with the Texas Administrative C
 
 ### Social Media
 
-[Public Social Media Notification](https://www.tamus.edu/offices/marcomm/socialmedia/public)
+[Public Social Media Notification](http://www.tamus.edu/offices/marcomm/socialmedia/public)
