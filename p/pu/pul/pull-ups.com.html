@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the pull-ups.com privacy policy that was archived on 2015-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150510221553id_/http%3A//www.pull-ups.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pull-ups.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905174121id_/https%3A//www.pull-ups.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="unknown  js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths filereader desktop unix" lang="en" style=""><!--<![endif]--><head>
+<!DOCTYPE html><html class="mozilla  js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths filereader desktop unix" lang="en" style=""><!--<![endif]--><head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -45,6 +45,7 @@
     <link rel="stylesheet" href="/stylesheets/privacy.css">
 
   
+  
 
   <!-- Lib Scripts -->
   <script type="text/javascript" src="/js/libs/jquery-1.9.1.min.js"></script>
@@ -75,19 +76,21 @@
    <script type="text/javascript" src="/js/pullups.core.js"></script>
    <script type="text/javascript" src="/js/pullups.nav.js"></script>
    <script type="text/javascript" src="/js/pullups.poll.js"></script>
-   
+    <script src="../../js/jquery.cookie.js" type="text/javascript"></script>
    <!-- Taging  -->
     <script type="text/javascript" src="/js/activities/IQ-SEOTag.js"></script>
  <script type="text/javascript">
+
      $(document).ready(function () {
+           
          $("#consumer_firstname,#consumer_lastname").attr('maxlength', '25');
          $("#consumer_email,#consumer_password").attr('maxlength', '100');
-         $("#consumer_city").attr('maxlength', '100'); 
+         $("#consumer_city").attr('maxlength', '100');
 
          $("input#q").on("keypress", function (e) {
              var key;
              document.all ? key = e.charCode : key = e.which;
-             return ((key > 47 && key < 58) || (key > 64 && key < 91) || (key > 96 && key < 123) || key == 0);
+             return ((key > 43 && key < 58) || (key > 64 && key < 91) || (key > 96 && key < 123) || key == 0 || key == 13 || key == 8 || key == 32 || key == 39 || key == 95 || key == 33 || key == 92 || key == 63);
          });
          var pathname = window.location.pathname;
 
@@ -96,7 +99,7 @@
          }
          if (pathname.indexOf("resources") > -1) {
              $("#main").addClass("resources");
-         }  
+         }
          if (pathname.indexOf("products") > -1) {
              $("#main").addClass("products");
          }
@@ -109,10 +112,11 @@
 
    <script type="text/javascript">
        function handleResponse(response) {
-               var data = eval(response);
-               var sentData = data.dataReceived;
-               $('#ideoclick_dd').html(sentData);
-           }
+           var data = eval(response);
+           var sentData = data.dataReceived;
+           $('#ideoclick_dd').html(sentData);
+       }
+
           
    </script>
           
@@ -126,7 +130,7 @@
 
 
 
-
+  <!-- <script src='https://code.jquery.com/jquery-latest.js'> -->
   <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>out of date!</em> <a href="https://browsehappy.com/">Upgrade to a different browser</a> or <a href="https://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
   <div id="FB_HiddenContainer" style="position:absolute; top:-10000px; width:0px; height:0px;"></div>
   <header id="site-header" class="pie-fix">    <script type="text/javascript">
@@ -148,8 +152,10 @@
 
 
             //Remove empty space before the social bookmark images
-            call_parse_socialnetwork_icons();
-        });
+            call_parse_socialnetwork_icons();            
+
+
+        });       
 
 
         /**
@@ -163,7 +169,7 @@
                 setTimeout(function () {
                     call_parse_socialnetwork_icons();
                 }, 1000);
-            }
+            } 
         }
 
         function parse_socialnetwork_icons() {
@@ -252,17 +258,17 @@
 
 <!-- begin header navigation -->
 <nav role="navigation" class="pie-fix">
-    
-    
+     
+
 
 <div id="poll-top-wrap">
     <form id="poll-form" name="poll-form">
-        <input name="questionId" value="11" type="hidden">
+        <input name="questionId" value="13" type="hidden">
         <input name="surveyId" value="1888105" type="hidden">
         <table id="poll-top" cellspacing="0" cellpadding="0" border="0">
             <tbody><tr>
                 <td class="poll-questions">
-                    <span class="poll-question">Did your child go with you to help shop for potty training items?</span>
+                    <span class="poll-question">Which potty training items are/were necessary for your Big Kid to start potty training?</span>
                 </td>
                 <td class="poll-answers-results">
                     <span class="poll-close">
@@ -275,25 +281,55 @@
                         <img class="ajax-loader" src="/img/poll/ajax-loader.gif" alt="Loading...">
                         <div class="poll-answer">
                                 <label class="radio">
-                                    <input class="question-input" name="pollAnswer" value="Yes" type="radio">
+                                    <input class="question-input" name="pollAnswer" value="Potty Seat" type="radio">
                                     <span class="outer"><span class="inner"></span></span>
-                                    Yes
+                                    Potty Seat
                                 </label>
                         </div>
                         <div class="poll-answer">
                                 <label class="radio">
-                                    <input class="question-input" name="pollAnswer" value="No" type="radio">
+                                    <input class="question-input" name="pollAnswer" value="Books" type="radio">
                                     <span class="outer"><span class="inner"></span></span>
-                                    No
+                                    Books
+                                </label>
+                        </div>
+                        <div class="poll-answer">
+                                <label class="radio">
+                                    <input class="question-input" name="pollAnswer" value="Training Pants" type="radio">
+                                    <span class="outer"><span class="inner"></span></span>
+                                    Training Pants
+                                </label>
+                        </div>
+                        <div class="poll-answer">
+                                <label class="radio">
+                                    <input class="question-input" name="pollAnswer" value="Rewards Chart" type="radio">
+                                    <span class="outer"><span class="inner"></span></span>
+                                    Rewards Chart
+                                </label>
+                        </div>
+                        <div class="poll-answer">
+                                <label class="radio">
+                                    <input class="question-input" name="pollAnswer" value="All of the above" type="radio">
+                                    <span class="outer"><span class="inner"></span></span>
+                                    All of the above
                                 </label>
                         </div>
                     </div>
                     <div class="poll-results">
-                        <div class="poll-result" data-poll-answer-value="Yes">
-                            Yes <span class="poll-result-percentage">0%</span>
+                        <div class="poll-result" data-poll-answer-value="Potty Seat">
+                            Potty Seat <span class="poll-result-percentage">0%</span>
                         </div>
-                        <div class="poll-result" data-poll-answer-value="No">
-                            No <span class="poll-result-percentage">0%</span>
+                        <div class="poll-result" data-poll-answer-value="Books">
+                            Books <span class="poll-result-percentage">0%</span>
+                        </div>
+                        <div class="poll-result" data-poll-answer-value="Training Pants">
+                            Training Pants <span class="poll-result-percentage">0%</span>
+                        </div>
+                        <div class="poll-result" data-poll-answer-value="Rewards Chart">
+                            Rewards Chart <span class="poll-result-percentage">0%</span>
+                        </div>
+                        <div class="poll-result" data-poll-answer-value="All of the above">
+                            All of the above <span class="poll-result-percentage">0%</span>
                         </div>
                     </div>
                 </td>
@@ -301,8 +337,6 @@
         </tbody></table>
     </form>
 </div>
-
-
 
     <div id="search-box-top">
         <form id="search-box-top-form" method="get" action="/search">
@@ -343,22 +377,28 @@
      <br>
      <div id="login-grey-bottom">
         <a id="loginbtn" class="flyout-login-button button-dark button-clear" href="/auth.sso" data-tracking-position="global">Sign In</a>
-        <a id="signupbtn" class="flyout-login-button button-dark button-clear" href="/registration.sso" data-tracking-position="global">Enroll Now</a>
+        <a id="signupbtn" class="flyout-login-button button-dark button-clear" href="/registration.sso" data-tracking-position="global">Sign Up</a>
      </div>
     </div>
                 </li>
 		  </ul>
 
         
-        <div id="logo-wrapper"><a id="hamburger-logo" class="logo-size" data-tracking-id="Pull-ups Logo" href="/"><img src="/img/nav/logo.png"></a></div>
+        <div id="logo-wrapper"><a id="hamburger-logo" class="logo-size" data-tracking-id="Pull-ups Logo" href="/"><img src="/img/nav/Pull_UpsMasterLogo.png"></a></div>
 
         <div id="menu-container">       
             <ul id="primary_links">
 
-                    <li id="logoListItem"><a id="logo" class="logo-size" data-tracking-id="Pull-ups Logo" href="/"><img src="/img/nav/logo.png"></a></li>
-                <li id="learning-library"><a href="/learning-library" data-tracking-position="primary">Learning Library</a></li>
-                <li id="products"><a href="/products" data-tracking-position="primary">Products</a></li>
-                <li id="offers"><a href="/offers" data-tracking-position="primary">Offers</a></li>
+                    <li id="logoListItem"><a id="logo" class="logo-size" data-tracking-id="Pull-ups Logo" href="/"><img src="/img/nav/Pull_UpsMasterLogo.png"></a></li>
+                <li id="learning-library"><a href="/learning-library" data-tracking-position="primary"> 
+Potty Training Tips                
+                 </a></li>
+                <li id="products"><a href="/products" data-tracking-position="primary"> 
+Products                
+                 </a></li>
+                <li id="offers"><a href="/offers" data-tracking-position="primary"> 
+Offers                
+                 </a></li>
             <li id="log-in-hamburger">
                 <a href="/auth.sso" class="hamburger-link-with-icon"><img src="/img/nav/login-2x.png"><span>SIGN&nbsp;IN</span></a>
             </li>
@@ -372,6 +412,7 @@
                 <form id="search-box-hamburger-form" method="get" action="/search">
                     <input type="text" id="q" name="q" class="text" placeholder="SEARCH" onblur="if(this.value=='')this.value='';" onfocus="if(this.value=='Search')this.value='';">
                     <input class="search-submit" type="image" src="/img/nav/search-2x.png">
+                    <input type="hidden" value="" id="myHiddenVar"> 
                 </form>
             </div>
 
@@ -772,20 +813,22 @@
             <!-- AddThis Button BEGIN -->
             <div class="addthis_toolbox addthis_default_style">
              
-                <a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:href="http://www.pull-ups.com" onmousedown="dcsMultiTrack('DCS.dcssip','www.pull-ups.com','DCS.dcsuri',window.location.pathname,'WT.ti','Potty Training Home Pull-Ups','WT.z_ll','content','WT.z_ln','Googleplus','WT.dl','4');"></a>
+                <a class="addthis_button_google_plusone" g:plusone:size="medium" g:plusone:href="http://www.pull-ups.com"></a>
             </div>
         </li>
 		</ul>
 
 		<ul id="corporate_links">
-           <li id="my-profile"><a href="/auth.sso?returnurl=http%3a%2f%2fwww.pull-ups.com%2fprofile.sso" data-tracking-position="footer">My Profile</a></li>
-           <li id="contact-us"><a href="/contact-us" data-tracking-position="footer">Contact Us</a></li>
-           <li id="site-map"><a href="/site-map" data-tracking-position="footer">Site Map</a></li>
-           <li class="active" id="kimberly-clark-privacy-policy"><a href="/privacy-policy" data-tracking-position="footer">Kimberly-Clark Privacy Policy</a></li>
-           <li id="legal-statement"><a href="/legal-statement" data-tracking-position="footer">Legal Statement</a></li>
-           <li id="english"><a href="http://pull-ups.com/" data-tracking-position="footer">English</a></li>
-        <li id="español">
-            <a mporgnav="" onclick="return switchLanguage('es');">Español</a></li>
+           <li id="my-profile"><a href="/auth.sso?returnurl=http%3a%2f%2fwww.pull-ups.com%2fprofile.sso" data-tracking-position="footer">My Profile</a></li>            
+           <li id="contact-us"><a href="/contact-us" data-tracking-position="footer">Contact Us</a></li>            
+           <li id="site-map"><a href="/site-map" data-tracking-position="footer">Site Map</a></li>            
+           <li class="active" id="kimberly-clark-privacy-policy"><a href="/privacy-policy" data-tracking-position="footer">Kimberly-Clark Privacy Policy</a></li>            
+           <li id="legal-statement"><a href="/legal-statement" data-tracking-position="footer">Legal Statement</a></li>            
+         <li id="español">
+        
+        <a mporgnav="" onclick="return switchLanguage('es');">Español</a>
+          </li>
+          
         <li id="français">
             <a mporgnav="" onclick="return switchLanguage('fr');">Français</a>
         </li>
@@ -817,55 +860,57 @@
 <script type="text/javascript">
     // stop bubbling from closing the overlay
 
-//    //start Taging
-//    var currenturl = window.location.href.toLowerCase();
-//    var urlLastVal = currenturl.substring(currenturl.lastIndexOf('/') + 1, currenturl.length);
+    //    //start Taging
+    //    var currenturl = window.location.href.toLowerCase();
+    //    var urlLastVal = currenturl.substring(currenturl.lastIndexOf('/') + 1, currenturl.length);
 
 
-//    $(document).ready(function () {
+    //    $(document).ready(function () {
 
-//        var lasturl = "https://www.pull-ups.com/sign-in?ReturnUrl=http://www.pull-ups.com/";
+    //        var lasturl = "https://www.pull-ups.com/sign-in?ReturnUrl=http://www.pull-ups.com/";
 
-//        if (urlLastVal.indexOf("shop-now") == 0) {
-//            //alert("not triger");
-//        } else
-//            if (urlLastVal.indexOf("registerstep1") == 0) {
-//                // alert("not triger");
-//            } else
-//                if (currenturl == lasturl) {
-//                    //alert("not triger");
-//                } else {
+    //        if (urlLastVal.indexOf("shop-now") == 0) {
+    //            //alert("not triger");
+    //        } else
+    //            if (urlLastVal.indexOf("registerstep1") == 0) {
+    //                // alert("not triger");
+    //            } else
+    //                if (currenturl == lasturl) {
+    //                    //alert("not triger");
+    //                } else {
 
-//                    //alert('activities');
-//                    var setScript = document.createElement("script");
-//                    setScript.setAttribute("type", "text/javascript");
-//                    setScript.setAttribute("src", "http://core.insightexpressai.com/adServer/adServerESI.aspx?bannerID=229260");
+    //                    //alert('activities');
+    //                    var setScript = document.createElement("script");
+    //                    setScript.setAttribute("type", "text/javascript");
+    //                    setScript.setAttribute("src", "http://core.insightexpressai.com/adServer/adServerESI.aspx?bannerID=229260");
 
-//                    var _ref = escape(document.referrer);
-//                    var _url = escape(location.href);
-//                    var _idt = new Date();
-//                    var _idn = _idt.getTime();
-//                    var _srz = screen.width + "X" + screen.height;
-//                    var _iwb = new Image(1, 1);
-//                    var _sch = "http://sc103.sitecompass.com";
-//                    if (document.location.protocol == "https:") { _sch = "https://scsec1.sitecompass.com/cl03"; }
-//                    _iwb.src = _sch + "/sc_cap/263/logo.php?acct=263&referrer=" + _ref + "&url=" + _url + "&sres=" + _srz + "&tm=" + _idn;
-//                    _iwb.onload = function () { _xnone(); }
+    //                    var _ref = escape(document.referrer);
+    //                    var _url = escape(location.href);
+    //                    var _idt = new Date();
+    //                    var _idn = _idt.getTime();
+    //                    var _srz = screen.width + "X" + screen.height;
+    //                    var _iwb = new Image(1, 1);
+    //                    var _sch = "http://sc103.sitecompass.com";
+    //                    if (document.location.protocol == "https:") { _sch = "https://scsec1.sitecompass.com/cl03"; }
+    //                    _iwb.src = _sch + "/sc_cap/263/logo.php?acct=263&referrer=" + _ref + "&url=" + _url + "&sres=" + _srz + "&tm=" + _idn;
+    //                    _iwb.onload = function () { _xnone(); }
 
-//                    function _xnone() { return; }
-//                }
+    //                    function _xnone() { return; }
+    //                }
 
-//    });
+    //    });
     //    //end Taging
 
     $(document).ready(function () {
-        if (window.location.protocol == 'http:') {
+        $(function () { 
+			if (window.location.protocol == 'http:') {
             ideourl = 'http://tools.ideoclick.info/demanddriver/testresponse.ashx?data=324&key=65853534-07fb-46da-a51c-76f76e83ec7e';
         }
         else {
             ideourl = 'https://tools.ideoclick.info/demanddriver/testresponse.ashx?data=324&key=65853534-07fb-46da-a51c-76f76e83ec7e';
         }
-
+    }); 
+		
     });
 
     function captureEvent(event) {
@@ -885,12 +930,12 @@
  
  
 <script type="text/javascript">
-   // $(document).ready(function () {
+    // $(document).ready(function () {
     //    if (document.URL.toLowerCase().indexOf('registerstep2') > 0) {
     //        var currentUrl = window.location.href.toLowerCase();
     //        dcsMultiTrack('DCS.dcssip', 'www.pull-ups.com', 'DCS.dcsuri', currentUrl, 'WT.ti', 'Pull-ups_Signup', 'WT.si_n', 'PU_Signup', 'WT.si_x', '1', 'WT.dl', '40');
     //    }
-   // });
+    // });
 </script>
   
 
