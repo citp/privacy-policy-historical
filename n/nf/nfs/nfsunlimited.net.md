@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323022308id_/https%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfsunlimited.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905230343id_/https%3A//www.nfsunlimited.net/privacy) for the most accurate reproduction.*
 
 # NFSUnlimited.net - Need for Speed Rivals, Most Wanted, World, and more - Privacy Policy
 
