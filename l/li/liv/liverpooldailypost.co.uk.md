@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liverpooldailypost.co.uk privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626172243id_/http%3A//www.liverpoolecho.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpooldailypost.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905124022id_/http%3A//www.liverpoolecho.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Liverpool Echo: Latest Liverpool and Merseyside news, sports and what's on
 
