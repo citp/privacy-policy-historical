@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medgadget.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606192103id_/http%3A//www.medgadget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medgadget.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905120352id_/http%3A//www.medgadget.com/privacy-policy) for the most accurate reproduction.*
 
-# Medgadget, LLC. Privacy Policy
+# Medgadget, LLC. Privacy Policy | Medgadget
 
 UPDATED 11.10.2012
 
@@ -78,4 +78,4 @@ All comments and other content contributed to Medgadget shall adhere to the foll
 
 Medgadget’s online social network is entirely opt-in by our members. The accounts listed in our database are created by members of the Medgadget Social network. Due to security considerations, Medgadget will not process account deletion requests made via email. To delete an account, the account holder must sign into the network using his/her email address or username in order to permanently delete his/her account. If the account holder no longer has access to the email account upon which the account was created, the account holder will not be able to delete the account.
 
-Medgadget will have the right to delete any account at any time (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law.
+Medgadget will have the right to delete any account at any time (i) in response to legal process, for example, in response to a court order, or (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law. 
