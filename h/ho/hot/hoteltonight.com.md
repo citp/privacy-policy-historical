@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoteltonight.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005706id_/https%3A//www.hoteltonight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoteltonight.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905221847id_/https%3A//www.hoteltonight.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HotelTonight | Book your Tonight, now up to 7 days in advance.
 
