@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the cancercenter.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315061950id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cancercenter.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905053229id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js "><head id="head"><meta http-equiv="Cache-control" content="public"><meta charset="utf-8">
+<!DOCTYPE html><html class=" js "><head id="head"><meta http-equiv="Cache-control" content="public"><meta charset="utf-8"><meta name="msvalidate.01" content="ABCB09907CC82645BB61E2BDD8A67B4A">
     <!-- inform browser of foreign domains -->
     <link rel="dns-prefetch" href="//ajax.googleapis.com"><link rel="dns-prefetch" href="//use.typekit.net"><link rel="dns-prefetch" href="//as00.estara.com">
     <!-- Always force latest IE rendering engine & Chrome Frame -->
@@ -24,7 +24,7 @@
 
     
     <meta name="DATE" content="1/1/0001">
-    <meta name="AGE" content="735671.055446137">
+    <meta name="AGE" content="735845.022563535">
     <meta name="CHARSET" content="utf-8">
     <meta name="LANGUAGE" content="en">
     <meta name="THUBNAIL" content="">
@@ -47,7 +47,7 @@
 
     <!-- css -->
     <!--[if !IE 7]><!-->
-    <link rel="stylesheet" href="/cancercenter_web/css/main.min.css?clear=4">
+    <link rel="stylesheet" href="/cancercenter_web/css/main.min.css?clear=11">
     <!--<![endif]-->
     <!--[if lt IE 9]>
 	    <link rel="stylesheet" href="/cancercenter_web/css/ie-8.min.css" />
@@ -56,7 +56,7 @@
 	    <link rel="stylesheet" href="/cancercenter_web/css/main-ie7.min.css" />
     <![endif]-->
 
-    <link rel="stylesheet" href="/cancercenter_web/css/responsive.min.css?clear=4">
+    <link rel="stylesheet" href="/cancercenter_web/css/responsive.min.css?clear=11">
 
     <!-- modernizr enables html5 elements & feature detects -->
     <script src="//tags.tiqcdn.com/utag/ctca/cancercenter/prod/utag.js" type="text/javascript" async=""></script><script src="/cancercenter_web/js/vendor/modernizr-2.6.2.min.js"></script>
@@ -68,6 +68,7 @@
     
     <!-- brightcove (will not work with https (http://support.brightcove.com/en/docs/publishing-brightcove-player-https-page) -->
     <script src="//admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+    <script src="//files.brightcove.com/bc-mapi.js"></script>
     <script>window.brightcove || document.write('<script src="/cancercenter_web/js/vendor/BrightcoveExperiences.js"><\/script>')</script><script src="/cancercenter_web/js/vendor/BrightcoveExperiences.js"></script>
     
 
@@ -86,90 +87,102 @@ return { isMobile: isMobile, isTablet: isTablet };
 </script>
 
 <script type="text/javascript">
-if (ctca.browser.isTablet()) {
-    // Tablet
-} else if (ctca.browser.isMobile()) {
-    // Mobile
-} else {
-    // Notebook or larger 
-    var omni = {
-        debug: false, //Set to false to disable messages
-        tagId: "mbox init:"
-    };
+if (typeof mboxCreate === "function") {
+    var href = window.location.href;
+    var slashCount = href.match(/\//g).length;
+    var pHome = /((cms.)*(beta)*cancercenter.com\/?)$/g;
+    var pCancer = /(\/(\w|-)*(cancer|melanoma|leukemia|lymphoma|mesothelioma)+\/(\w|-)*\/)/g;
+    var pSymptoms = /\/symptoms\//g;
+    var pLearning = /\/types\/|\/symptoms\/|\/risk-factors\/|\/stages\//g;
+    var pBlog = /discussions\/blog\//g;
+    var pRiskFactors = /\/risk-factors\//g;
+    var pCancerDrugs = /cancer-drugs/g;
+    var pOnlineChat = /contact\/patients-caregivers\/chat\//g;
+    var pChatProcessing = /contact\/patients-caregivers\/chat-form-processing\//g;
 
-    if (typeof mboxCreate === "function") {
+    if (ctca.browser.isTablet()) {
+        // Tablet
+    } else if (ctca.browser.isMobile()) {
+        // Mobile
+        try {
+            mboxCreate("mob-target-global-mbox");
+            //Home page. Will match prod and beta site         
+            if (href.match(pHome)) {
+                mboxCreate("mob-home_page_banner_mBox");
+            }
+            //Cancer specific pages  
+            if (href.match(pCancer) && !href.match(pLearning) && (slashCount === 5)) {
+                mboxCreate("mob-cancer_specific_pages_mBox");
+            }
+            //Symptoms pages
+            if (href.match(pSymptoms) && (slashCount === 5)) {
+                mboxCreate("mob-symptoms_content_mBox");
+            }
+            //Risk Factors pages
+            if (href.match(pRiskFactors) && (slashCount === 5)) {
+                mboxCreate("mob-risk_factors_content_mBox");
+            }
+            //Cancer Drugs pages
+            if (href.match(pCancerDrugs)) {
+                mboxCreate("mob-cancer_drugs_content_mBox");
+            }
+            //Blog pages
+            if (href.match(pBlog)) {
+                mboxCreate("mob-blog_content_mBox");
+            }
+            if (href.match(pOnlineChat)) {
+                mboxCreate("mob-chat_page_mBox");
+            }
+            if (href.match(pChatProcessing)) {
+                mboxCreate("mob-chat_activation_mBox");
+            }
+        } catch (err) {}
+    } else {
+        // Notebook or larger  
         try {
             mboxCreate("target-global-mbox");
-
-            var href = window.location.href;
-            var slashCount = href.match(/\//g).length;
-
-            var pHome = /((cms.)*(beta)*cancercenter.com\/?)$/g;
-            var pCancer = /(\/(\w|-)*(cancer|melanoma|leukemia|lymphoma|mesothelioma)+\/(\w|-)*\/)/g;
-            var pSymptoms = /\/symptoms\//g;
-            var pLearning = /\/types\/|\/symptoms\/|\/risk-factors\/|\/stages\//g;
-            var pBlog = /discussions\/blog\//g;
-            var pRiskFactors = /\/risk-factors\//g;
-            var pCancerDrugs = /cancer-drugs/g;
-
-
             //Home page. Will match prod and beta site         
             if (href.match(pHome)) {
                 mboxCreate("home_page_banner_mBox");
-                if (omni.debug) {
-                    console.log(omni.tagId + "Added: home_page_banner_mBox");
-                }
             }
             //Cancer specific pages  
             if (href.match(pCancer) && !href.match(pLearning) && (slashCount === 5)) {
                 mboxCreate("cancer_specific_pages_mBox");
-                if (omni.debug) {
-                    console.log(omni.tagId + "Added: cancer_specific_pages_mBox");
-                }
             }
             //Symptoms pages
             if (href.match(pSymptoms) && (slashCount === 5)) {
                 mboxCreate("symptoms_content_mBox");
-                if (omni.debug) {
-                    console.log(omni.tagId + "Added: symptoms_content_mBox");
-                }
             }
             //Risk Factors pages
             if (href.match(pRiskFactors) && (slashCount === 5)) {
                 mboxCreate("risk_factors_content_mBox");
-                if (omni.debug) {
-                    console.log(omni.tagId + "Added: risk_factors_content_mBox");
-                }
             }
             //Cancer Drugs pages
             if (href.match(pCancerDrugs)) {
                 mboxCreate("cancer_drugs_content_mBox");
-                if (omni.debug) {
-                    console.log(omni.tagId + "Added: cancer_drugs_content_mBox");
-                }
             }
             //Blog pages
             if (href.match(pBlog)) {
                 mboxCreate("blog_content_mBox");
-                if (omni.debug) {
-                    console.log(omni.tagId + "Added: blog_content_mBox");
-                }
             }
-
+            if (href.match(pOnlineChat)) {
+                mboxCreate("chat_page_mBox");
+            }
+            if (href.match(pChatProcessing)) {
+                mboxCreate("chat_activation_mBox");
+            }
         } catch (err) {
-            if (omni.debug) {
-                console.log(omni.tagId, err);
-            }
+            console.log("mbox error:", err);
         }
-
-    } else {
-        if (omni.debug) {
-            console.log(omni.tagId + "typeof mboxCreate:", typeof mboxCreate);
-        }
-    } 
+    }
 }
-</script></head><body><div class="mboxDefault" style="visibility: visible; display: block;"></div><div id="mboxMarker-default-target-global-mbox-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://cancertreatmentcente.tt.omtrdc.net/m2/cancertreatmentcente/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580491667980-395360&amp;mboxPage=1580491673562-385622&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;mbox=target-global-mbox&amp;mboxId=0&amp;mboxTime=1580491673564&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150315061950id_%2Fhttp%3A%2F%2Fwww.cancercenter.com%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=43" language="JavaScript"></script>
-<link href="https://plus.google.com/105798235039401879263/" rel="publisher"><title>
+</script></head><body><div class="mboxDefault" style="visibility: visible; display: block;"></div><div id="mboxMarker-default-target-global-mbox-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://cancertreatmentcente.tt.omtrdc.net/m2/cancertreatmentcente/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580491668193-159586&amp;mboxPage=1580491674096-834406&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;mbox=target-global-mbox&amp;mboxId=0&amp;mboxTime=1580491674100&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150905053229id_%2Fhttp%3A%2F%2Fwww.cancercenter.com%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=43" language="JavaScript"></script>
+<link href="https://plus.google.com/105798235039401879263/" rel="publisher">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/cancercenter_web/js/vendor/jquery-1.7.2.min.js"><\/script>')</script><script src="/cancercenter_web/js/vendor/jquery-1.7.2.min.js"></script>
+
+<title>
 
 </title>
 
@@ -183,14 +196,22 @@ if (ctca.browser.isTablet()) {
     })();
 </script>
     
-    <form method="post" action="/privacy-policy/" id="form1">
+    <form method="post" action="" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE4NTU1NTQ3N2QYAgVTY3RsMDAkY29udGVudCRtYWlucGxhY2Vob2xkZXJfMCRwYWdlX3NlY3Rpb25fc3Vic2VjdGlvbl9saXN0MSRsc3RQYWdlU2VjdGlvbkNvbnRlbnQPPCsADgMIZgxmDQL/////D2QFI2N0bDAwJHNlY3Rpb25OYXZpZ2F0aW9uJGxzdENoaWxkTmF2D2dk">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIOTYzOTExNTBkGAIFU2N0bDAwJGNvbnRlbnQkbWFpbnBsYWNlaG9sZGVyXzAkcGFnZV9zZWN0aW9uX3N1YnNlY3Rpb25fbGlzdDEkbHN0UGFnZVNlY3Rpb25Db250ZW50DzwrAA4DCGYMZg0C/////w9kBSNjdGwwMCRzZWN0aW9uTmF2aWdhdGlvbiRsc3RDaGlsZE5hdg9nZODcIAVhKc0jzrd2p9dVPa1hc90G">
 </div>
 
 
-<script src="/ScriptResource.axd?d=k642ESyeRbrAA5d88CR6OxCyYu_3nlCOYo2IpJDTvoTcAfPkNWTzu4NNshAGs5gtrlX14u5g_NRB0xasKE_56UPKrz_lQ12qkTY0n3RDXBu1wHESTcss1Ky3H4bK7yvUpM0ZCSzhUssfBhS9fS0MYDrLTIPlMXytuQWyzeUwrtpDrJXC0&amp;t=47727e12" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=k642ESyeRbrAA5d88CR6OxCyYu_3nlCOYo2IpJDTvoTcAfPkNWTzu4NNshAGs5gtrlX14u5g_NRB0xasKE_56UPKrz_lQ12qkTY0n3RDXBu1wHESTcss1Ky3H4bK7yvUpM0ZCSzhUssfBhS9fS0MYDrLTIPlMXytuQWyzeUwrtpDrJXC0&amp;t=5854e822" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1F3A3619">
+</div>
         
+        <!--[if lt IE 9]>
+        <link href="/cancercenter_web/css/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet">
+        <div id="browser-warning"><i class="fa fa-exclamation-circle"></i> Using a more current version of your browser can greatly improve your experience on cancercenter.com. <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">Click here for the latest update.</a></div>
+        <![endif]-->
         <!-- header -->
         <header class="header-main">
 
@@ -217,7 +238,8 @@ if (ctca.browser.isTablet()) {
       <div class="overlay-cta jq-overlay hide" style="top: 26px;left: 473px;">
         <div class="overlay-tab"></div>
         <div class="arrow-up"></div>
-        <div class="arrow-up-inner"></div>          
+        <div class="arrow-up-inner"></div>   
+        <button type="button" class="overlay-cta-close">×</button>       
         <h3>We're available 24/7<br>(800) 615-3055</h3>
         <div class="chat-middle form-chat-drop" data-tag="form-multiform-focus">
 <input type="hidden" name="formType" value="102" id="formType">
@@ -266,7 +288,7 @@ if (ctca.browser.isTablet()) {
           <p><a href="https://www.cancercenter.com/contact/patients-caregivers/chat-form-processing/" class="button chat-button jq-form-chat-drop tk-form-chat-pop" data-tag="btn-chat-multiform-click">Chat now<i class="icon-comments-alt"></i></a></p>
         </div>
         <h4>Other ways to contact us</h4>
-        
+        <a class="button last tk-form-video-chat-pop" data-tag="btn-video-multiform-click" id="topNavVideoChatButton" href="#">Video<br>chat<i class="icon-user icon-2x"></i><i class="icon-comment-alt"></i></a>
         <a class="button jq-c2c tk-form-click-to-call-pop" data-tag="btn-c2c-multiform-click" href="#">Have us<br>call you <i class="icon-phone icon-2x"></i></a>
       </div>
     </div>
@@ -274,7 +296,7 @@ if (ctca.browser.isTablet()) {
 
     <div class="jq-drop-button-call">
       <span class="contact-selection jq-button-holder-call" href="">
-        <img src="~/media/images/mvt/green_box_dual_B.png" style="position:absolute;left:-225px;top:-22px"><span style="position: absolute;left: -192px;top: 17px;color: white;font-size: 17px;font-weight: bold;"><a href="tel:(800) 615-3055" class="nolinkstyle">(800) 615-3055</a></span>
+        <img src="~/media/images/mvt/green_box_dual_B.png" style="position:absolute;left:-240px;top:-22px"><span style="position: absolute;left: -207px;top: 17px;color: white;font-size: 17px;font-weight: bold;"><a href="tel:(800) 615-3055" class="nolinkstyle">(800) 615-3055</a></span>
       </span> 
       <div class="overlay-cta-call hide" style="top: 26px;left: 390px;">
         <div class="overlay-tab-call"></div>      
@@ -282,7 +304,7 @@ if (ctca.browser.isTablet()) {
         <div class="arrow-up-inner"></div>        
         <p>Have questions? Call (800) 615-3055 to speak to a cancer information specialist.<br>Or <a href="#" class="jq-c2c tk-form-click-to-call-pop" data-tag="btn-c2c-click">we can call you</a>.</p>
       </div>
-      <div><img src="~/media/images/mvt/green_box_dual_A.png" style="position:absolute;left:275px;top:-22px"></div>
+      <div><img src="~/media/images/mvt/green_box_dual_A.png" style="position:absolute;left:260px;top:-22px"></div>
     </div>    
   </div>
 
@@ -301,16 +323,17 @@ if (ctca.browser.isTablet()) {
         <li><a href="http://www.cancercenter.com/what-to-expect/">What to Expect</a></li>
         <li><a href="http://www.cancercenter.com/ctca-results/">Our Treatment Results</a></li>
         <li><a href="http://www.cancercenter.com/treatments/">Find Treatments</a></li>
-        <li class="last"><a href="http://www.cancercenter.com/becoming-a-patient/">Become a Patient</a></li>
+         <li><a href="http://www.cancercenter.com/becoming-a-patient/">Become a Patient</a></li>
+         <li class="last"><a href="http://www.cancercenter.com/cancer-genomics/">Advanced Genomic Testing</a></li>
     </ul>
 </li>
 <li class="jq-drop">
     <a href="http://www.cancercenter.com/doctors-and-hospitals/" class="drop">Our Hospitals<div class="arrow-down"></div></a><a class="expand icon-plus" style="position:absolute; width: 30px !important; height: 39px !important; right: 10px; cursor: pointer;"></a>
     <ul class="nav-main-drop hide">
         <li><a href="http://www.cancercenter.com/doctors-and-hospitals/">See All Hospitals</a></li>
-        <li><a href="http://www.cancercenter.com/eastern/">Philadelphia</a></li>
         <li><a href="http://www.cancercenter.com/southeastern/">Atlanta</a></li>
         <li><a href="http://www.cancercenter.com/midwestern/">Chicago</a></li>
+        <li><a href="http://www.cancercenter.com/eastern/">Philadelphia</a></li>
         <li><a href="http://www.cancercenter.com/western/">Phoenix</a></li>
         <li><a href="http://www.cancercenter.com/southwestern/">Tulsa</a></li>
         <li class="last"><a href="http://www.cancercenter.com/doctors/">See All Doctors</a></li>
@@ -347,8 +370,8 @@ if (ctca.browser.isTablet()) {
     <input type="hidden" name="ctl00$content$hidPageID" id="hidPageID" value="{A50EA539-B822-4A71-815E-EE26CAF0E055}">
     <input type="hidden" name="ctl00$content$hidDatabase" id="hidDatabase" value="web">
     <input type="hidden" name="ctl00$content$hidVideoChatStatus" id="hidVideoChatStatus" value="false">
-    <input type="hidden" name="ctl00$content$hidRemoteClientIP" id="hidRemoteClientIP" value="207.241.229.198">
-    <input type="hidden" name="ctl00$content$hidServerName" id="hidServerName" value="MAVAPPENG002PZ">
+    <input type="hidden" name="ctl00$content$hidRemoteClientIP" id="hidRemoteClientIP" value="207.241.229.51">
+    <input type="hidden" name="ctl00$content$hidServerName" id="hidServerName" value="MAVAPPENG001PZ">
     <input type="hidden" name="ctl00$content$hidFirstTouchSource" id="hidFirstTouchSource" value="INTNET">
     <input type="hidden" name="ctl00$content$hid90DaySource" id="hid90DaySource" value="INTNET">
     <input type="hidden" name="ctl00$content$hidLastTouchSource" id="hidLastTouchSource" value="INTNET">
@@ -356,6 +379,10 @@ if (ctca.browser.isTablet()) {
     <input type="hidden" name="ctl00$content$hidIsSmartPhone" id="hidIsSmartPhone" value="False">
     <input type="hidden" name="ctl00$content$hidIsTablet" id="hidIsTablet" value="False">
     <input type="hidden" name="ctl00$content$hidIsMobile" id="hidIsMobile" value="False">
+    <input type="hidden" name="ctl00$content$hidUseClairVista" id="hidUseClairVista" value="true">
+    <input type="hidden" name="ctl00$content$hidClairVistaCategoryId" id="hidClairVistaCategoryId" value="171">
+    <input type="hidden" name="ctl00$content$hidPhoneNumber" id="hidPhoneNumber" value="(800) 615-3055">
+
        
         
 <div class="group wrapper">
@@ -428,10 +455,42 @@ Switzerland</p>
 </aside>
 
 
+
+
         </div>
     </div>
 </div>
     
+            <script src="//assets.liveexpert.net/widget/javascript/leaWidget.js"></script>
+            <script>
+                var config = {
+                    companyID: 32,
+                    sourceHost: "assets.liveexpert.net",
+                    assetLocation: "ctca",
+                    enterpriseURL: "liveexpert.net",
+                    largeVideo: 1,
+                    language: "EN",
+                    categoryID: 171,
+                    callTypeID: 1,
+                    camEnabled: false,
+                    micEnabled: false,
+                    enableTracking: true,
+                    widgetViewDelegate: 'hiddenWidgetViewDelegate'
+                };
+                liveexpert.LEAWidget.init(config);
+            </script>
+    
+        <div class="chatWidget">
+            <div class="chatWidgetRight">
+                <a class="jq-modal-video-chat" href="javascript:void(0);" data-tag="link-chat-click">
+                    <img src="/cancercenter_web/img/chatWidgetRight.png">
+                </a>
+            </div>
+            <div class="chatWidgetLeft">
+                <img src="/cancercenter_web/img/chatWidgetLeft.png">
+            </div>
+        </div>
+        
         <!-- footer -->
         <footer class="main">
 <div class="wrapper">
@@ -479,26 +538,35 @@ Switzerland</p>
 <ul class="list-indent">
     <li>Commonly Searched</li>
     <li><a href="/what-is-cancer/">What is cancer?  <em class="icon-facetime-video"></em></a></li>
-    <li><a href="/cancer/">Cancer Types</a></li>
+
+<li><a href="/cancer/">Cancer Types</a></li>
+
+
 <li><a href="/how-ctca-treats-cancer/">Treatments</a></li>
+
+
 <li><a href="/becoming-a-patient/insurance/">Insurance</a></li>
+
+
 <li><a href="/breast-cancer/">Breast Cancer</a></li>
+
+
 <li><a href="/lung-cancer/">Lung Cancer</a></li>
+
+
 <li><a href="/colorectal-cancer/">Colorectal Cancer</a></li>
+
+
 <li><a href="/ovarian-cancer/">Ovarian Cancer</a></li>
+
+
 <li><a href="/pancreatic-cancer/">Pancreatic Cancer</a></li>
+
+
 <li><a href="/prostate-cancer/">Prostate Cancer</a></li>
+
+
 <li><a href="/treatments/gynecologic-oncology/">Gynecologic Oncology</a></li>
-
-
-
-
-
-
-
-
-
-
 
 </ul>
 </div>
@@ -600,9 +668,13 @@ Switzerland</p>
     <li><a href="http://www.youtube.com/1cancercenter/"><img height="30" alt="View at YoutTube" width="30" src="~/media/00E0A613043E4EDA8F072034010EE78A.ashx"></a></li>
 </ul>
 </div>
-<div class="textwhite">
-©2015 Rising Tide
-</div>
+<div style="overflow: hidden;">
+    <div class="mobiAbout">
+        <a href="/about-us">About Us</a>
+    </div>
+    <div class="mobiCopyright">
+        ©2015 Rising Tide
+    </div>    
 </div>
 <!-- footer end -->
 <div class="mboxDefault" style="display: none !important;"></div>
@@ -616,11 +688,7 @@ Switzerland</p>
         <div class="hide">
             <div id="modal-other"></div>
         </div>
-        <!-- ie7 notification -->
-        <div class="notification-bar">Your browser (Internet Explorer 7) is out of date. <a href="http://windows.microsoft.com/en-us/windows/help/windows-update">Learn how to update your browser</a>.</div>
         <!-- scripts -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="/cancercenter_web/js/vendor/jquery-1.7.2.min.js"><\/script>')</script><script src="/cancercenter_web/js/vendor/jquery-1.7.2.min.js"></script>
         <!-- jQuery templates script (used on video library) -->
         <script src="/cancercenter_web/js/vendor/jquery.tmpl.min.js"></script>
         <!-- jQuery cookie -->
@@ -641,16 +709,15 @@ Switzerland</p>
         <!-- Publish/Subscribe Library -->
         <script src="/cancercenter_web/js/vendor/radio.min.js"></script>
         <!-- cancercenter main js -->
-        <script src="/cancercenter_web/js/main.min.js?clear=4"></script>
+        <script src="/cancercenter_web/js/main.min.js?clear=11"></script>
         <!-- placeholder for page specific scripts -->
         
     
     
     
 
-    </form>
-
-
+    
+    
     <!-- chat pop up -->
     <div class="hide">
         <div id="modal-chat">
@@ -658,6 +725,7 @@ Switzerland</p>
             <p>Fill out all of the form below and we will connect you to someone to assist you.</p>
             <div class="form-chat" data-tag="form-focus">
                 <input type="hidden" name="formType" value="106" id="formType">
+                <input type="hidden" name="chatType" id="chatType">
                 <label>
                     <p>First Name:</p>
                     <input class="input-form required" name="firstname" type="text">
@@ -703,10 +771,11 @@ Switzerland</p>
                     I have read and understand the <a data-url="/disclaimer/" href="#modalb" class="jq-modal-div">disclaimer</a>.
                     <span class="alert-required hide">Please review the disclaimer.</span>
                 </label>
-                <p><a href="/contact/patients-caregivers/chat-form-processing/" class="button jq-form-chat" data-tag="btn-chat-click">Chat now</a></p>
+                <p><a href="/contact/patients-caregivers/chat-form-processing/" class="button jq-form-popup-chat" data-tag="btn-chat-click">Chat now</a></p>
             </div>
         </div>
     </div>
+
     
 
     <form method="post" id="formActivation" class="hide"></form>
@@ -715,4 +784,4 @@ Switzerland</p>
     </script>
 
 
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div style="clear: left;"><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button id="cboxPrevious"></button><button id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button id="cboxClose"></button></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
+</div></form><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div style="clear: left;"><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button id="cboxPrevious"></button><button id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button id="cboxClose"></button></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
