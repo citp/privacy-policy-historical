@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumenis.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514173730id_/http%3A//www.lumenis.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumenis.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906004454id_/http%3A//www.lumenis.com/Privacy) for the most accurate reproduction.*
 
 # Lumenis - Energy to Healthcare
 
