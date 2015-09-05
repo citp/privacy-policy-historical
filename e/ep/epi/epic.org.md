@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2015-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150518115551id_/https%3A//epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065111id_/https%3A//www.epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
 
 # EPIC - Privacy Policy
 
@@ -22,8 +22,6 @@ For any other information about our privacy policy, please contact [epic-info@ep
 
 Share this page:
 
-[](https://web.archive.org/june1/)
-
 ### Subscribe to the EPIC Alert
 
-The EPIC Alert is a by-monthly newsletter highlighting emerging privacy issues.
+The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.
