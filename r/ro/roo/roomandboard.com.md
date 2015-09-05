@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401025927id_/http%3A//www.roomandboard.com/our_website/privacy.ftl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomandboard.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053959id_/http%3A//www.roomandboard.com/our_website/privacy.ftl) for the most accurate reproduction.*
 
 # Privacy Policy - Our Website - Room & Board
 
@@ -42,11 +42,13 @@ Our Web site is not targeted to persons under the age of 13, and we will not kno
 
 Anonymous, non-personally identifiable information such as your IP address, domain server, type of computer, type of web browser, and addresses of referring site, also known as traffic data, may be collected and used to diagnose problems with our server and administer our site. 
 
-We may use a third party to provide you with the opportunity to review our products or services. In that case, when you submit a product review, you become subject to the terms of use and privacy policy of this third party in addition to the Privacy Policy and Terms of Use of our Web site. The reviews you submit may be publicly posted on our Web site.
+We may have functionality on our Web site that is provided, in whole or in part, by a third party service provider. You can usually identify such third party functionality by the use of a trademark not owned by Room & Board on or near the functionality. In that case, when you use the functionality, you become subject to the terms of use and privacy policy of this third party in addition to the Privacy Policy and Terms of Use of our Web site. In some cases, you may need to visit that party’s web site and locate the terms of use and privacy policy. For example, we may use a third party to provide you with the opportunity to review our products or services. The reviews you submit may be publicly posted on our Web site.
 
-We may also use cookies, pixel tags, and action tags to collect information. Cookies, pixel tags, and action tags allow us to compile statistics and other information about how you use our site. We may use this data to analyze trends and improve the usability of our site as well as to administer the site and gather broad demographic statistics. We may also share such non-personally identifiable information with third parties on an aggregate basis.
+We may also use a third party technology that allows you to chat with Room & Board representatives via our Web site ("Web Chat"). We currently use LivePerson, Inc. to provide the Web Chat capability. When you participate in a Web Chat, LivePerson, Inc. is collecting and storing your chat data. For information about LivePerson's privacy practices, please review LivePerson's Technology Privacy Policy (also known as LivePerson's Customer Website Privacy Policy) located on the [www.liveperson.com](http://www.liveperson.com/) website.
 
-In addition, we may use third-party service providers to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may use cookies and other online tools such as pixel tags and action tags to serve ads and personalize your Web shopping experience based on your prior visits to our Web site. They may also use information about your visits to our Web site and other Web sites to target advertisements for products and services. This anonymous information is collected through the use of a cookie. No personally identifiable information is collected or used in this process. These third-party service providers do not know your name, phone number, address, e-mail address, or any other personally identifying information about you. If you would like more information about this practice and to opt out of having this anonymous information used by our third party service providers, visit the Network Advertising Initiative's consumer opt-out page by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). 
+We may also use cookies, pixel tags, action tags and similar tags to collect information. Cookies and tags allow us to compile statistics and other information about how you use our site. We may use this data to personalize your Web shopping experience based on your prior visits to our Web site. We may also use this data to analyze trends and improve the usability of our site as well as to administer the site and gather broad demographic statistics. We may also share such non-personally identifiable information with third parties on an aggregate basis.
+
+In addition, we may use third-party service providers to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may use cookies and other online tools such as pixel tags, action tags and similar tags to serve ads and personalize your Web shopping experience based on your prior visits to our Web site. They may also use information about your visits to our Web site and other Web sites to target advertisements for products and services. This anonymous information is collected through the use of a cookie. No personally identifiable information is collected or used in this process. These third-party service providers do not know your name, phone number, address, e-mail address, or any other personally identifying information about you. If you would like more information about this practice and to opt out of having this anonymous information used by our third party service providers, visit the Network Advertising Initiative's consumer opt-out page by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Our site may contain links to other Internet web sites that we think you may find of interest. We are not responsible for the content of these sites, nor do we control, sponsor, endorse or approve them. Your use of those links is at your own risk.
 
@@ -64,7 +66,7 @@ You can also call our Customer Service telephone line at 800.301.9720 to be remo
 
 ### Correcting or updating your information
 
-Click the following link to correct, change or update your personally identifiable information for the Web site account: [www.roomandboard.com/account/](https://www.roomandboard.com/shop/account/detail.do).
+Click the following link to correct, change or update your personally identifiable information for the Web site account: [www.roomandboard.com/account/account.ftl](https://www.roomandboard.com/account/account.ftl).
 
 ### Privacy Officer
 
@@ -77,6 +79,4 @@ Minneapolis, Minnesota 55422
 phone: 763.588.7525  
 e-mail: [privacyofficer@roomandboard.com](mailto:privacyofficer@roomandboard.com)
 
-© Room & Board, Inc. 2007 - 2011 - All Rights Reserved
-
-Last updated: July 29, 2011
+Last updated: June 4, 2015
