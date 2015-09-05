@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southuniversity.edu privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324142118id_/https%3A//www.southuniversity.edu/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southuniversity.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073858id_/https%3A//www.southuniversity.edu/home/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 This policy was last updated on December 20, 2014
 
