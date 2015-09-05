@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crossfit.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314210344id_/https%3A//athlete.crossfit.com/cf/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossfit.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052829id_/https%3A//athlete.crossfit.com/cf/privacy) for the most accurate reproduction.*
 
 # CrossFit - Privacy Policy
-
-## Privacy Policy
 
 CrossFit, Inc. respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using this Web Site (as defined below). We currently operate the website CrossFit.com, including all of its subsites (typically any web pages which end in crossfit.com, including, without limitation, the following subsites: games.crossfit.com, journal.crossfit.com, shopcrossfitreebok.com, and crossfitkids.com) and all software, products, features and services made available, displayed or offered by or through our web site or subsites (collectively, the " **Web Site** "). From time to time we may add new subsites to the Web Site that may not initially be listed above, but such subsites will provide a link to this Privacy Policy and will be governed by this Privacy Policy and the [**CrossFit Web Site Terms and Conditions of Use**](https://athlete.crossfit.com/cf/terms-and-conditions) (the "Terms of Use"). This Web Site is published and maintained by CrossFit, Inc., with offices located at 1500 Green Hills Road, Suite 201, Scotts Valley, CA 95066 (" **CrossFit** ").
 
