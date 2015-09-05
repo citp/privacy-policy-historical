@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justnews.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322103310id_/http%3A//www.local10.com/3989770) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnews.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062335id_/http%3A//www.local10.com/3989770) for the most accurate reproduction.*
 
 # Privacy Policy | Home - Home
 
@@ -128,14 +128,10 @@ If you have other questions or concerns about our privacy policies or data use w
 
 **Effective: June 15, 2010**
 
-[ ](http://www.local10.com/sports/2015-bracket-challenge-code/24982294)
-
-Advertisement
+[ ](http://www.local10.com/local-10s-wants-you-to-get-social-to-win/35015210) [ ](http://www.local10.com/sports/local-10-halftime-challenge/35065922)
 
 Advertisement
 
 [ ](http://www.local10.com/entertainment/movies/30559002)
-
-Advertisement
 
 Advertisement
