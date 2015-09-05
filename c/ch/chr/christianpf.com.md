@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the christianpf.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314203938id_/http%3A//christianpf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpf.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905145456id_/http%3A//christianpf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## The ChristianPF Privacy Policy
+## The SeedTime Privacy Policy
 
 ### The bottom line…
 
@@ -10,7 +10,7 @@ I hate spam as much as you do. If you subscribe to the [free newsletter](http://
 
 ### The full version…
 
-Your privacy is very important to CPF. So, this is a bit more detail to help understand how CPF will collect, use, communicate and disclose and make use of personal information. We will not rent, sell, lease, or give away any of your personal information.The following outlines our privacy policy. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
+Your privacy is very important to SeedTime. So, this is a bit more detail to help understand howSeedTime will collect, use, communicate and disclose and make use of personal information. We will not rent, sell, lease, or give away any of your personal information. The following outlines our privacy policy. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
   * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
@@ -24,7 +24,7 @@ Your privacy is very important to CPF. So, this is a bit more detail to help und
 
 ### Cookie/Tracking Technology
 
-CPF may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Google, in particular, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+SeedTime may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Google, in particular, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Information collected by third-parties.**
 
@@ -46,7 +46,7 @@ This website records information about how people access our RSS feeds, but does
 
 Comments submitted to this website are the responsibility of the commenter. We reserve the right to remove or edit comments at our discretion. Site URLs (if provided) are published along with comments. E-mail addresses are required with the submission of comments but are not disclosed, unless the commenter deliberately does so him/herself by entering the e-mail address in the main comment box in addition to the box clearly labeled for the e-mail address.
 
-ChristianPF reserves the right to delete any comments that it deems not beneficial to the readership. This includes but is not limited to comments containing profanity, self promotion, harrassment, threats, or spam of any sort.
+SeedTime reserves the right to delete any comments that it deems not beneficial to the readership. This includes but is not limited to comments containing profanity, self promotion, harrassment, threats, or spam of any sort.
 
 ### External Links
 
