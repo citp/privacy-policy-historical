@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the creditexpert.co.uk privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206041147id_/https%3A//www.creditexpert.co.uk/images/CreditExpert-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditexpert.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905125210id_/https%3A//www.creditexpert.co.uk/images/CreditExpert-Privacy-Policy-29012015.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-                               PRIVACY POLICY – Last updated 18th April 2013
+                               PRIVACY POLICY – Last updated 29th January 2015
 Who are we?
 Experian Limited is part of a group of companies, whose parent company is Experian plc which is listed on the
 London Stock Exchange (EXPN). For more information, visit the Experian group’s website on
@@ -70,6 +70,12 @@ and the primary purpose for which it is collected includes:
           we will alert you when we find that the details being monitored are visible on the web. We will contact
           you via email or text (SMS) depending on your preference. You can update these preferences at any
           time in the ‘Update my details´ section of your member centre.
+         As part of our on-going fraud prevention and detection we may collect information about your device
+          when you make a CreditExpert application or when you log into the service. This information may
+          include, how your device is connected to the internet, such as the Internet Protocol (IP) address being
+          used; device specific information, such as the screen resolution; browser data stored in your
+          machine, such as a cookie or information about the software being used, such as your internet
+          browser and other similar data.
 If we are unable to verify your identity from the information you provide to us on this web site we will advise
 you by e-mail to the e-mail address you specify and you may then wish to make a written application including
 further proof of identification.
