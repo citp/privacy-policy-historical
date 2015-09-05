@@ -1,98 +1,150 @@
-> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211142435id_/http%3A//www.wired2fish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072141id_/http%3A//www.scout.com/3/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy « Wired2Fish
+# Scout.com: Privacy Policy
 
-Wired2fish, Inc. (“Wired”), the owner and operator of Wired2Fish.com, appreciates your trust  
-and is committed to respecting your privacy and the security of your personal information. Any  
-information collected at www.wired2fish.com (the “Site”) is used for the express purpose of  
-making your future visits more worthwhile. This Privacy Policy works in conjunction with the  
-Terms of Service for the Site located [here](https://web.archive.org/Page138/Terms_and_Conditions.aspx) , but in the case of any conflict the Terms of Service will govern.   
-This policy is provided so that you can make educated decisions about the way your information is collected and used by  
-Wired.
+**PRIVACY POLICY**
 
-Wired may collect certain non-personally identifiable information (“Non-personal Data”) when  
-you visit the Site, such as the type of Internet browser you are using (e.g., Firefox, Internet  
-Explorer), the type of operating system you are using, (e.g., Windows XP, Mac OS or Linux),  
-the name of your Internet service provider (e.g., America Online, Comcast, etc.), your IP  
-address, data about the number of your visits to a site operated by Wired and/or data about the  
-pages you visited.
+Last updated on July 6, 2015.
 
-Wired uses the Non-personal Data to improve the design and content of our sites and to enable  
-it to improve your future visits to the Site. Non-personal Data will be used by Wired to track site  
-usage as well as create services and or offer products to fit your needs.
+Scout ("Scout" or "we" or "us") operates a digital media network, offers public forums, and publishes exclusive content focused on sports enthusiasts as well as other enthusiast-based channels. The services Scout offers include any Scout-branded URL and Club sites, Premium Subscriptions, which allows users to view premium online content and participate in premium forums, public forums and any other features, content, or applications offered from time to time by Scout in connection with Scout’s business, including when accessed via the Internet, mobile or other device (collectively, the "Scout Services").
 
-Wired may also ask you for information that tells us specifically who you are (“Personal  
-Information”), including but not limited to your name, e-mail address, postal address, telephone  
-number, fax number, age, gender and other similar information. We collect Personal Information  
-about you when you order products through our Site, participate in any survey if you enter any  
-promotions or sweepstakes, or in other circumstances such as requests for more information or  
-from messages sent to Wired.
+Scout provides this Privacy Policy to describe our data practices related to the Scout Services. Your use of the Scout Services constitutes your consent to the collection, use, and transfer of information from you as described in this Privacy Policy. 
 
-Wired stores records of your purchasing history to help manage inventory and select the products  
-offered at its sites. We will also use cookies to track the items you place in your virtual shopping  
-basket.
+This Privacy Policy applies for all websites that contain a link to this Privacy Policy including without limitation the following sites: 
 
-Wired collects all information that we need to fulfill an order you place through one of its sites.  
-This includes Personal Information such as your name, address, zip code, e-mail address and  
-credit card number. Wired will not use for Personal Information without your permission except  
-in the circumstances listed in this policy.
+• [North American Hunter](http://hunting.scout.com/)  
+• [North American Fisherman](http://fishing.scout.com/)   
+• [Handyman Club of America](http://handy.scout.com/)   
+• [National Home [FRIENDLYDOMAIN]](http://gardening.scout.com/)   
+• [[FRIENDLYDOMAIN]](http://golf.scout.com/)   
+• [[FRIENDLYDOMAIN] of America](http://cooking.scout.com/)   
+• [Warrior](http://warrior.scout.com/)   
+• [SCOUT](http://www.scout.com/)
 
-Personal Information may also be used to contact you in case you have won a contest, requested  
-information, or if there is a problem processing your order. It may also be used to compile  
-statistical information to learn where people who visit our site come from. Wired also uses the  
-Personal Information you provide about yourself: (1) to respond to questions about Wired or  
-products offered by Wired; (2) to collect on past-due accounts; (3) to provide you additional  
-and updated information, materials and other advertisements from Wired; (4) to offer you  
-other materials and/or information that may be of interest to you; (5) to cooperate with law  
-enforcement or government agencies or as otherwise required by law; (6) to protect the security
+**UNITED STATES ONLY**
 
-of the Sites; (7) to protect against a threat of safety or destruction of property; and (8) to protect  
-Wired against legal liability.
+The Scout Services are hosted in the United States. All matters relating to the Scout Services are governed by the laws of the State of New York. If you are a user located outside the United States, you understand and consent to having any personal information you provide transferred to, stored and processed in the United States. United States data protection and other relevant laws and regulations may not be the same as those in your jurisdiction. As a result, please read this Privacy Policy with care.
 
-Wired knows that you care how information about you is used and shared. Wired is not in the  
-business of selling customer’s e-mail to unrelated third-parties. Wired may, however, use your  
-email address or physical address to send you special offers through email or regular mail. These  
-special offers may come from Wired or Wired’s partners. You may unsubscribe from the mailing  
-list at any time by following the instructions in the message.
+**THE TYPES OF INFORMATION THAT SCOUT COLLECTS ONLINE**
 
-Broomball.com owns all Non-Personal Information and Personal Information collected at the  
-Site and will maintain copies of the Non-Personal Information and Personal Information as part  
-of its records. The Non-Personal Information and Personal Information may be transferred,  
-distributed or sold as part of Wired’s assets.
+**Information Provided By You** Scout receives personal information you voluntarily provide to us through the Scout Services. For instance, when you enroll in a club; enter a sweepstakes or contest; complete a survey; make a purchase; request information, services, or products; or register for any portion of our services, you may provide us information such as but not limited to your name, e-mail address, mailing address, or phone number. You may also elect to provide us with demographic type information such as your age or gender. 
 
-**Children’s Privacy Policy**
+Users of forums and message/bulletin boards should be aware that when they voluntarily disclose personal information (e.g., name, e-mail address, etc.) and content on a forum, message/bulletin board, in a chat area, or other interactive area where information can be posted, the information can be collected and used by other parties. We make no representations and undertake no obligations as to the security of information you voluntarily post in forums, chat rooms, message/bulletin boards, and other interactive areas. Please refer to the Terms of Service for additional terms regarding use of these services. 
 
-This section of the Privacy Policy provides Wired’s policy for the collection and use of personal  
-information about children under the Children’s Online Privacy and Protection Act (“COPPA”).
+**NON-PERSONAL INFORMATION COLLECTION AND USE**
 
-Under the Children’s Online Privacy Protection Act, a “child” is anyone under thirteen (13) years  
-of age and “personal information” is defined as individually identifiable information, such as a  
-first and last name; a home or other physical address including street name and city or town; an  
-e-mail address; a telephone number; a social security number; or persistent identifiers such as  
-customer or processor serial numbers held in a cookie, where the identifier is associated with  
-individually identifiable information. Wired normally does not collect personal information as  
-defined under COPPA from children under the age of thirteen (13). We collect and use only  
-as much information about a child as necessary, and do not condition use of the sites on the  
-disclosure of more personal information than is reasonably necessary.
+When you visit or use the Scout Services, Scout may collect non-personally identifiable information ("non-PII") about those visits. For example, in order to permit your connection to a Scout website, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Scout Services from a mobile or other device, we may collect a device identifier assigned to that device or other transactional information for that device in order to serve content to it. Other non-PII that may be collected includes click-stream information such as the address (or "URL") of the website that you came from before visiting our site, which pages you visit on our site, which browser you used to view our site and any search terms you have entered on our site.
 
-Wired contacts children by e-mail only in response to their requests for information. Wired uses  
-cookies solely for the purpose of holding information during online sessions (such as tracking  
-items placed in the shopping cart for purchase with parental consent). If, however, a child  
-voluntarily discloses personal information, such as a name or e-mail address, on any part of a  
-site that is accessible to other users, then such information could be collected and disclosed by  
-others. Wired is not responsible for such collection or disclosure.
+We may use this information to improve you experience, operate our Scout Services, provide accurate statistics to gauge usage of the Scout Services, for marketing and advertising, and for other operational purposes.
 
-Wired requires parental consent before collecting, using, or disclosing certain personal  
-information from children as required by COPPA. Parental consent must be demonstrated  
-through use of a valid credit card to create an order from Wired or by contacting Wired. Parents  
-may review and have their child’s personal information deleted from Wired’s records, and  
-may refuse to permit further collection or use of their child’s information by contacting Wired.  
-Wired’s agent for COPPA information requests is [please fill in agent contact information]  
-. Parents may consent to our collection and use of their child’s personal information without  
-consenting to the disclosure of that information to others.
+We may also collect demographic and other data that has been aggregated to share with other companies for advertising and marketing purposes. For example and without limitation, Scout may disclose aggregated data that includes your zip code, gender and/or age.
 
-Wired treats personal information collected from children in the same manner as it treats any  
-other Personal Information under the Privacy Policy listed above. Without verified parental  
-consent, Wired will not knowingly collect personal information relating to children under  
-thirteen (13) years of age, and if we learn that we inadvertently collected such information, it will  
-be promptly deleted.
+**HOW SCOUT USES INFORMATION PROVIDED BY YOU**
+
+We may use the information you provide to us to:
+
+  * fulfill requests for products, services or information,
+  * administer your membership accounts,
+  * provide and manage Scout Services,
+  * contact you,
+  * administer contests or promotions,
+  * offer and market our products and services and those of our affiliates and other parties we believe may be of interest to you,
+  * measure and improve the effectiveness of our websites or our marketing endeavors,
+  * tailor our online offerings and advertising to your preferences, and
+  * perform other business purposes as well as for purpose disclosed at the time of collection.
+
+
+
+We may combine personal information that you provide to us with other data to deliver and improve Scout Services as well as provide you with and to market to you products or provide services that we believe may be of interest to you.
+
+**Information Sharing**
+
+We many share personal information:
+
+  * With our affiliates and across Scout Services and websites for purposes described in this policy.
+  * With our service providers who provide services on our behalf including but not limited to website hosting, order processing and fulfillment, credit card clearance, e-commerce affiliation, data analysis, emailing and other services of an administrative nature.
+  * With select companies that we think can offer you services and products of interest to you.
+  * Where we believe it is necessary to comply by law, regulation, legal process, or governmental requests; enforce our Terms of Service; or protect the rights, property, or safety of Scout, its users or the public.
+  * To assign, sell, license, or otherwise transfer to a third party, all information collected from or in relation to you in connection with an assignment, sale, joint venture, bankruptcy proceeding, or other transfer or disposition of a portion or all of the assets or stock of Scout or its affiliated entities.
+
+
+
+Except as provided herein and so long as you activate your membership, Scout will not sell to any third party your e-mail address unless you provide your informed consent. 
+
+**DIGITAL ADVERTISING & COOKIES**
+
+Scout may work with third parties that support Scout Services by serving advertisements or providing Scout Services, such as allowing users to share content, view premium content, or post to the forums or tracking aggregate website usage statistics, may also use these technologies to collect information. Scout does not control these technologies used by third parties. The privacy policies of these third parties govern their use of such technologies.
+
+Scout may also work with third-party companies to display ads on Scout Services and elsewhere on the Internet. These companies may use cookies (a small text file), pixels, or other technologies used to gather information about your visits to Scout Services as well as your visits elsewhere on the Internet. These companies use this information to provide you more relevant advertising known as interest-based advertising. Some of these companies may be participants in the Digital Advertising Alliance ("DAA"). The DAA offers a choice mechanism with respect to certain types of data collection and use. Visit www.aboutads.info to exercise choice with respect to participants of the DAA. If you change computers or browsers, use multiple computers or browsers, or delete your cookies, you may need to repeat this process for each computer and each browser.
+
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to certain block cookies altogether. Please consult the "Help" section of your browser for more information. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through Scout Services.
+
+**SEND-TO-A-FRIEND TOOLS**
+
+Scout Services, from time to time, may include a send-to-a-friend application or social sharing tools that makes it easy for you to forward information or materials from the Scout Services to friends or family by e-mail or via a social network. In order to address your e-mail message, the application will ask you to input the recipient’s e-mail address and/or similar information (including your e-mail address) (collectively "Send-To-A-Friend Information"). Send-To-A-Friend information is only used by the application to address your message so that it can be properly sent. Scout does not retain any Send-To-A-Friend Information for any other purpose. Note that Scout does not control data shared via social networks. You should review the privacy policies of the social network to learn about their data practices.
+
+**THIRD PARTY RETAILERS AND OFFERS**
+
+Some of the Scout Services may from time to time work with a retailer or other third party to offer online shopping opportunities, games, services, subscriptions and other applications on a co-branded or cross-promotional basis. Those transactions may take place via a Scout Service, or the site of the third party. In any case, personal information you provide in connection with the transaction may be shared with the third party, as well as with any participating sponsors or advertisers of such opportunities and features.
+
+**Third Party Websites & Links**
+
+The Scout Services may contain links to other websites or services not operated by Scout. Scout is not responsible for the information practices or the content of such other websites or services. Scout encourages you to review the privacy statements of such other websites or services to understand their information practices.
+
+**SECURITY**
+
+Scout maintains reasonable practices and procedures designed to help secure personal information collection through the Scout Services. 
+
+**SCOUT’S OPT-OUT**
+
+You may request to have personal information about you suppressed in our records. Please note that we may need to retain certain information for record keeping purposes, and there may also be residual information that will remain within our databases and other records. We reserve the right, from time to time, to re-contact former users of the Websites.
+
+We give you the following options for removing your personal information from our records in order to stop receiving future communications from the Scout Services.
+
+1\. Follow directions on a marketing e-mail or direct mail communication from us regarding the removal of your personal information from our records. 
+
+2\. You can send your request via e-mail to the club-specific website:
+
+• [[FRIENDLYDOMAIN] of America](mailto:memberservices.cooking@scout.com)  
+• [Handyman Club of America](mailto:memberservices.handy@scout.com)  
+• [[FRIENDLYDOMAIN]](mailto:memberservices.fishing@scout.com)  
+• [National Home [FRIENDLYDOMAIN]](mailto:memberservices.gardening@scout.com)  
+• [[FRIENDLYDOMAIN]](mailto:memberservices.hunting@scout.com)  
+• [Warrior Club](mailto:memberservices.warrior@scout.com)  
+• [[FRIENDLYDOMAIN]](mailto:memberservices.golf@scout.com)  
+
+
+3\. You can send your request via e-mail to [optout@scout.com](mailto:optout@scout.com). 
+
+4\. You can send your request via U.S. Postal Service to the following mailing address. As indicated, please provide the specific club name in the first line of the address: 
+
+[insert club name]  
+SCOUT   
+1270 Avenue of the Americas, 9th Floor  
+New York, NY 10020
+
+Please note: We are not responsible for removing information from third-party lists or entities with which we have shared your information pursuant to this policy.
+
+**CHILDREN**
+
+The Scout Services are not directed at children under the age of 13 and are not intended for use by those under 18. If you are under 18, you may not provide any personal information to the Scout Services.
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**
+
+Customers residing in California may submit a request for a list of (1) the categories of personal information that we may share with third parties, and (2) a list of the names and addresses of all third parties with whom we have shared such information for their marketing purposes during the preceding calendar year. To request this information, please submit a request to: [caprivacyrights@scout.com](mailto:caprivacyrights@scout.com).
+
+**UPDATING YOUR INFORMATION**
+
+Through the My Profile option, you can access and edit your registration information, Member Profile Information, Premium Subscription information and "My HotList" Preferences. We may retain backup information related to your My Profile account and Premium Subscription on our servers for some time after deactivation for fraud detection or to comply with applicable law or our internal security policies. To update your shipping information, click "My Subscriptions" and then click on "Edit Shipping Address".
+
+**CONTACTING US**
+
+If you have any questions about this Privacy Policy, please feel free to contact us at:
+
+SCOUT   
+1270 Avenue of the Americas, 9th Floor  
+New York, NY 10020
+
+**REVISIONS TO OUR PRIVACY POLICY**
+
+Any of the policies or procedures in this Privacy Policy may be changed at any time without prior notice. You can determine if this Privacy Policy has been revised by referring to the "Last Updated" date at the top of this page. Use of the Websites constitutes your acceptance of the terms of our Privacy Policy then in effect. We encourage you periodically review this policy to ensure familiarity with the most current version of our Privacy Policy.
