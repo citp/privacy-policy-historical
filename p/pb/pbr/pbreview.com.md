@@ -1,47 +1,74 @@
-> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235817id_/http%3A//www.pbreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbreview.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073715id_/http%3A//www.ansgear.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | pbreview.com
+# Terms: Privacy
 
-pbReview.com respects users' privacy rights and believes that privacy protections are fundamental to a viable and safe Internet Community. Our goal is to provide Internet services, including an Internet "public square" where people can discuss issues related to the quality of paintball fields, paintball products and other similar issues related to the sport and culture of paintball.
+**Privacy Policy**
 
-Other than providing a forum for the exchange of views and opinions related to paintball, pbReview.com does not maintain a relationship with its individual users. Accordingly, pbReview.com does not endorse the views expressed by its registered users and does not warranty the accuracy or quality of its user postings.
+What information do we collect?
 
-In order to provide a vibrant forum for the collection of information, we need to collect certain user information. The pbReview.com Web site collects information on users in several ways.
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
+  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
 
-**REGISTRATION**
 
-First, users provide us with certain information such as your name, e-mail address and postal addresses when registering for a user name. Once a user registers for a new user account that user is no longer anonymous to pbReview.com, and is subject to the terms and conditions set forth in pbReview.com's both herein, in the [Terms of Use](http://www.pbreview.com/terms/), and on the Registration Page (collectively, "Governing Documents").
 
-**COOKIES**
+How do we use your information?
 
-Second, we may track your visit to our Web site by giving you a "cookie" when you enter. pbReview.com may use cookies for record keeping purposes and may store and track information about users for internal use. A cookie is a small piece of information sent by a Web server to a Web browser and stored on your computer's hard drive so it can later be read back from that browser.
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-**IP ADDRESSES**
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To quickly process your transactions.
+  * To administer a contest, promotion, survey or other site feature.
+  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
 
-Third, pbReview.com also collects IP addresses for system administration and provides aggregate information to our advertisers.
 
-**USE OF INFORMATION**
 
-Any information you provide to pbReview.com when registering for a user name is maintained and accessible only by pbReview.com and pbReview.com's affiliates. pbReview.com may use this information to offer you the opportunity to receive pbReview.com notices regarding other pbReview.com products or services and to further personalize your pbReview.com experience. At the time of such offer, you may opt out of receiving such notices. We may use anonymous click stream data to help our advertisers deliver better targeted advertisements.
+How do we protect visitor information?
 
-**SHARING OF INFORMATION**
+We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
-pbReview.com will not disclose to any non-affiliated third party, any identifying information about any individual user, except (i) with such users permission; (ii) when we believe in good faith that the law or legal process requires it to protect pbReview.com' property or rights or to protect the personal safety of our users or the public; (iii) for administrative and other purposes that we deem necessary to maintain, service, or improve products and services; (iv) in the event of a joint venture, merger, acquisition or change of control, to the successor entity or to its officers, directors, employees or affiliates.
+Do we use "cookies"?
 
-**GOVERNMENTAL DISCLOSURE**
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-Notwithstanding the foregoing, pbReview.com reserves the right, if requested by federal, state or local ruling, law or court order, to disclose any personal information provided herein to the requesting agency or to the other applicable government entity. However, pbReview.com will use commercially reasonable efforts to notify you of all such requests for your personal information.
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**SECURITY**
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
-Your pbReview.com account information is password-protected so that only you and pbReview.com have access to these items. However, please note that data transmission over the Internet can not be guaranteed to be 100% secure and that pbReview.com cannot guaranty the security of any data transmitted by users over its Web site. pbReview.com will not be responsible for any third party interception of your data. Please review the [Terms of Use](http://www.pbreview.com/terms/) for additional information regarding your security-related rights. For your protection, please not share your password with anyone.
+Do we disclose the information we collect to outside parties?
 
-**LINKS**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include WWW.ANSGEAR.COM. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-pbReview.com contains links to other Web sites. pbReview.com is not responsible for the privacy practices or the content of such Web sites. Similarly, other Web sites may contain hyperlinks to us. Such links to third-party Web sites are provided for reference only, and hyperlinks to or from this Web site do not imply endorsement of the material on such Web sites or association with the operators of such sites.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Please be aware that pbReview.com advertisers or Web sites that have links on our Web site may collect personal information about you. The information collection and dissemination practices of Web sites linked to pbReview.com are not covered by our [Privacy Policy](http://www.pbreview.com/privacy/) or by any related terms and conditions set forth in the Governing Documents.
+How can you opt-out, remove or modify information you have provided to us?
 
-**CHANGES**
+To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
 
-Pbreview.com reserves the right to change the [Privacy Policy](http://www.pbreview.com/privacy/) at any time. Please check back here frequently to review any changes that we have made. 
+To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+
+Third party links
+
+In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+
+Changes to our policy
+
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on January 21, 2010.
+
+Questions and feedback
+
+We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+
+Online Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions
+
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20150905073715id_/http%3A//www.ansgear.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+
+Your consent
+
+By using our site, you consent to our privacy policy.
