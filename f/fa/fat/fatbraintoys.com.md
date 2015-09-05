@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatbraintoys.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325151720id_/https%3A//www.fatbraintoys.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatbraintoys.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072622id_/https%3A//www.fatbraintoys.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Fat Brain Toys Privacy Policy
 
