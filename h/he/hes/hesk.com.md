@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hesk.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410222203id_/http%3A//www.hesk.com/knowledgebase/index.php%3Farticle%3D78) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hesk.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905140716id_/http%3A//www.hesk.com/knowledgebase/index.php%3Farticle%3D78) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -104,9 +104,8 @@ Was this article helpful? [yes](javascript:void\(0\)) / [no](javascript:void\(0\
 
 Article details | Article ID:  | 78  
 ---|---  
-Category:  | [Other](https://web.archive.org/web/20150410222203id_/http%3A//www.hesk.com/knowledgebase/index.php?category=8)  
-Views:  | 4840  
-Rating (Votes): |  (293)  
+Category:  | [Other](https://web.archive.org/web/20150905140716id_/http%3A//www.hesk.com/knowledgebase/index.php?category=8)  
+Rating (Votes): |  (355)  
   
    
 « Go back
