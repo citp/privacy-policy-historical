@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winkflash.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429205747id_/http%3A//www.winkflash.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkflash.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905120220id_/https%3A//www.winkflash.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Winkflash.com
 
