@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scottsigler.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510153139id_/http%3A//scottsigler.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scottsigler.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905115351id_/http%3A//scottsigler.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
