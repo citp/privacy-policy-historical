@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indiacollegesearch.com privacy policy that was archived on 2015-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150622052642id_/http%3A//www.indiacollegesearch.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiacollegesearch.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905221630id_/http%3A//www.indiacollegesearch.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Last-Modified" content="Wed, 12 Nov 2014 05:26:57 GMT"> 
@@ -1216,7 +1216,7 @@ success:function(response){
 
 
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="http://www.indiacollegesearch.com/js/jquery.autocomplete_universal_search.js" type="text/javascript"></script>
     <script type="text/javascript">
 	var d='all';
@@ -1247,6 +1247,7 @@ success:function(response){
 
 <!-- UNIVERSAL SEARCH: Ends KEEP THIS IN BODY -->  
   
+ 
 
 	
 <script type="text/javascript">
@@ -1342,17 +1343,17 @@ success:function(response){
 	
 }
 
-function visitProfile(id,course_type,place_of_click){
-	proxy='';
-	increaseClicks(id,course_type,place_of_click);
-	var main_url=full_path+"/ajax_visitProfile.php?institute_id="+id+"&place_of_click="+place_of_click+"&course_select="+course_type;
-	
-	$.ajax({type:"GET",url:main_url,async:false,
-success:function(response){
-		//var name=response;proxy=full_path+'/colleges/'+name;window.location.href=proxy;
-		return false;
-	}});
+function visitProfile(id,course_type,place_of_click){	
+	increaseClicks(id,course_type,place_of_click);	
 }
+
+function trackOrgnicFeatured(place_of_click, ic_id, loc){	
+	var main_url=full_path+"/ajax/ajax_newVisitProfile.php?place_of_click="+place_of_click+"&ic_id="+ic_id+"&loc="+loc;
+	$.ajax({type:"GET",url:main_url,async:false,
+success:function(response){}
+	  });
+}
+
 
 </script>
 
@@ -1567,7 +1568,7 @@ success:function(response){
 
 <!--Shield-->
 <script type="text/javascript">
-var __uzdbm_a = "ae81ed9d-2cdd-9c90-a99c-1b1af4cdcc58";
+var __uzdbm_a = "ae81ed9d-2cdd-69bb-d712-defb517cfd83";
 var __uzdbm_b = "/ShieldSquare/getData.php";
 var __uzdbm_c = 2+2;
 </script>
@@ -1643,26 +1644,26 @@ var __uzdbm_c = 2+2;
                                                 <li> <a href="http://www.indiacollegesearch.com/medical"> MBBS Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/mtech"> M.Tech / M.E. Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/media-pg"> Media PG Colleges in India</a></li>
+                                                <li> <a href="http://www.indiacollegesearch.com/bhms"> B.H.M.S Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/diploma-fashion"> Diploma in Fashion Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/mass-communication-pg"> Mass-Communication-PG Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/hotel-management-diploma"> Hotel Management - Diploma Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/design-pg"> Design - PG Colleges in India</a></li>
-                                                <li> <a href="http://www.indiacollegesearch.com/diploma-fine-arts"> Fine Arts - Diploma Colleges in India</a></li>
                               
                     </ul>  
                 </div>  
                 
                 <div class="floatRight hypList  colleges1" style="width:228px;display:none;">    
                 	<ul>      
-                    	                        <li> <a href="http://www.indiacollegesearch.com/diploma-media"> Media - Diploma Colleges in India</a></li>
+                    	                        <li> <a href="http://www.indiacollegesearch.com/bba"> BBA / BBM / BBS Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/law"> LLB Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/architecture-diploma"> Architecture - Diploma Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/dental"> BDS Colleges in India</a></li>
+                                                <li> <a href="http://www.indiacollegesearch.com/diploma-media"> Media - Diploma Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/mca"> MCA / MCM Colleges in India</a></li>
+                                                <li> <a href="http://www.indiacollegesearch.com/fashion-design-pg"> Fashion Design - PG Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/physiotherapy"> BPT Colleges in India</a></li>
                                                 <li> <a href="http://www.indiacollegesearch.com/mpt"> MPT Colleges in India</a></li>
-                                                <li> <a href="http://www.indiacollegesearch.com/dhmct"> Diploma in Hotel Management, Catering &amp; Tourism Colleges in India</a></li>
-                                                <li> <a href="http://www.indiacollegesearch.com/polytechnic"> Polytechnic Course Colleges in India</a></li>
                             
                     </ul>  
                 </div>
@@ -1950,6 +1951,7 @@ padding-top:76px;
             <h2 id="Login_Text_read_news" class="colorBlue" style="display:none;">Login to Read Entire News Story</h2>
             <h2 id="Login_Text_save_search" class="colorBlue" style="display:none;">Login to Save your Search</h2>
             <h2 id="Login_Text_mail_search" class="colorBlue" style="display:none;">Login to Mail your Search</h2>
+            <h2 id="Login_Text_apply_top_100" class="colorBlue" style="display:none;">Login and Apply to this Institute</h2>
             <h2 id="Login_Text_follow_exam" class="colorBlue" style="display:none;">Login to Follow this Exam</h2>
             
             
@@ -1962,6 +1964,7 @@ padding-top:76px;
             <h2 id="Register_Text_read_news" class="colorBlue" style="display:none;">Register to Read Entire News Story</h2>
             <h2 id="Register_Text_save_search" class="colorBlue" style="display:none;">Register to Save your Search</h2>
             <h2 id="Register_Text_mail_search" class="colorBlue" style="display:none;">Register to Mail your Search</h2>
+            <h2 id="Register_Text_apply_top_100" class="colorBlue" style="display:none;">Register and Apply to this Institute</h2>
             <h2 id="Register_Text_follow_exam" class="colorBlue" style="display:none;">Register to Follow this Exam</h2>
             <h2 id="Register_Text_exam_download_document" class="colorBlue" style="display:none;">Register to download this document</h2>
             
@@ -1972,17 +1975,17 @@ padding-top:76px;
             <form name="student_registration_frm" id="student_registration_frm" action="" method="post" onsubmit="return chkStudent_Registration();">
                 <div id="sig_div" class="relative">
                     <div class="relative mB20">
-                        <input type="text" style="width: 300px;" name="student_registration_name" class="log-input charonly" placeholder="Full Name" id="student_registration_name" tabindex="1" maxlength="50">
+                        <input type="text" style="width: 300px;" name="student_registration_name" class="log-input charonly" placeholder="Full Name" id="student_registration_name" tabindex="1" maxlength="50" required="">
                         <span id="student_registration_name_text" style="display:none;" class="error-message">Please enter your Full Name.</span></div>
                     <div class="relative mB20">
-                        <input type="text" style="width: 300px;" onblur="checkDuplicateStudent(this.value);" name="student_registration_email" class="log-input" placeholder="Email Address" id="student_registration_email" tabindex="2" maxlength="150">
+                        <input type="text" style="width: 300px;" onblur="checkDuplicateStudent(this.value);" name="student_registration_email" class="log-input" placeholder="Email Address" id="student_registration_email" tabindex="2" maxlength="150" required="">
                         <span id="student_registration_email_text" style="display:none;" class="error-message">Please enter your Email Address.</span></div>
                     <div class="relative mB20">
-                        <input type="password" style="width: 300px;" id="student_registration_password" name="student_registration_password" maxlength="15" tabindex="3" placeholder="Password" class="log-input">
+                        <input type="password" style="width: 300px;" id="student_registration_password" name="student_registration_password" maxlength="15" tabindex="3" placeholder="Password" class="log-input" required="">
                         <span id="student_registration_password_text" class="error-message" style="display:none;">Please enter your Password.</span></div>
                     
                     <div class="relative mB20">
-                        <input type="text" maxlength="15" tabindex="2" id="student_registration_mobile" placeholder="Mobile Number" class="log-input intonly" name="student_registration_mobile" style="width: 300px;">
+                        <input type="text" maxlength="15" tabindex="2" id="student_registration_mobile" placeholder="Mobile Number" class="log-input intonly" name="student_registration_mobile" style="width: 300px;" required="">
                         <span class="error-message" style="display:none;" id="student_registration_mobile_text">Please enter your Mobile Number.</span>
                     </div>
                         
@@ -2066,15 +2069,30 @@ padding-top:76px;
                         </select>
                         <span id="student_registration_course_text" class="error-message" style="display:none;">Please select Course.</span>
                     </div>
+                    
+                    <!--<div class="relative mB20">
+                       <select tabindex="3" id="student_registration_regfor" name="student_registration_regfor" class="log-input" style="width: 318px; background-color:#fff;" required>
+                            <option value="0">Registering for</option>
+                            <option value="self">Self</option> 
+                            <option value="son">Son</option>
+                            <option value="daughter">Daughter</option>
+                            <option value="brother">Brother</option>
+                            <option value="sister">Sister</option>
+                                  
+                        </select>
+                        <span id="student_registration_regfor_text" class="error-message" style="display:none;">Please select Registering for.</span>
+                    </div>-->
+                    <input type="hidden" id="student_registration_regfor" name="student_registration_regfor" value="self">
+                    
                     <div class="remember clearfix relative mB20" style="margin-top:5px;">
-                        <input type="checkbox" class=" floatLeft" name="agree" id="agree" value="Y" checked="">
+                        <input type="checkbox" class=" floatLeft" name="agree" id="agree" value="Y" checked="" required="">
                         <label class=" floatLeft" for="agree">I agree to the<a target="_blank" href="http://www.indiacollegesearch.com/terms-and-condition.php">Terms and Conditions</a> and 
                             <a target="_blank" href="http://www.indiacollegesearch.com/privacy-policy.php">Privacy Policy</a>.</label>
                         <span id="agree_msg" class="error-message" style="display:none;">Please check the box.</span>
                     </div>
                     <div class="remember clearfix" style="margin-top:5px;">
-                        <input type="checkbox" class="floatLeft" name="db_access" id="db_access" value="Y" checked="">
-                        <label class=" floatLeft bold" for="">I would like to be contacted by colleges which match <br>my requirements.</label>
+                        <input type="checkbox" class="floatLeft" name="db_access" id="db_access" value="Y">
+                        <label class=" floatLeft bold" for="">I am interested in availing an education loan.</label>
                     </div>
                     <input type="hidden" name="signup_institute_id" id="signup_institute_id" value="">
                     <input type="hidden" name="signup_course_type" id="signup_course_type" value="">
@@ -2088,20 +2106,25 @@ padding-top:76px;
                     <input type="hidden" name="is_signup_save_exam_course" id="is_signup_save_exam_course" value="0">
                     <input type="hidden" name="my_url" id="my_url_signup" value="/privacy-policy.php">
                     <input type="hidden" name="is_signup_my_exam" id="is_signup_my_exam" value="">
-                    
-                    <input type="submit" align="left" class="submit_btn_layout submit-text" value="Register" name="Register" style="cursor:pointer;">
+       <input type="hidden" name="is_signup_apply_top_100" id="is_signup_apply_top_100" value="">       <input type="hidden" name="signup_apply_institute_id" id="signup_apply_institute_id" value="">
+       <input type="hidden" name="signup_apply_course_type" id="signup_apply_course_type" value="">
+       <input type="hidden" name="signup_apply_sub_course_id" id="signup_apply_sub_course_id" value="">
+       <input type="hidden" name="apply_top_100_link" id="apply_top_100_link" value="">
+          
+                    <!-- value="Register" -->
+                    <input type="submit" align="left" class="submit_btn_layout submit-text" value="Register" name="Register" style="cursor:pointer; position:unset;">
                 </div>
             </form>
             
             <div id="log_div" class="relative">
                 <form name="student_login_frm" id="student_login_frm" action="" method="post" onsubmit="return check_Student_Login();">
                     <div class="relative mB20">
-                        <input type="text" style="width: 300px;" class="log-input" placeholder="Login Email" id="student_email" value="" name="student_email" tabindex="1" maxlength="150">
+                        <input type="text" style="width: 300px;" class="log-input" placeholder="Login Email" id="student_email" value="" name="student_email" tabindex="1" maxlength="150" required="">
                         <span class="error-message" id="student_email_text" style="display:none;">Please enter your Login Email .</span>
                         <span class="error-message" id="student_wrong_email_text" style="display:none;">Please enter the correct email address.</span>
                     </div>
                     <div class="relative mB20">
-                        <input type="password" style="width: 300px;" id="student_password" name="student_password" tabindex="3" placeholder="Password" class="log-input" maxlength="15"> 
+                        <input type="password" style="width: 300px;" id="student_password" name="student_password" tabindex="3" placeholder="Password" class="log-input" maxlength="15" required=""> 
                         <span id="student_password_text" style="display:none;" class="error-message">Please enter your Password.</span>
                     </div>
                     <div class="remember clearfix" style="margin-top:5px;">
@@ -2120,6 +2143,11 @@ padding-top:76px;
                     <input type="hidden" name="is_login_mail" id="is_login_mail" value="">
                     <input type="hidden" name="my_url" id="my_url_login" value="/privacy-policy.php">
                     <input type="hidden" name="is_login_my_exam" id="is_login_my_exam" value="">
+          <input type="hidden" name="is_login_apply_top_100" id="is_login_apply_top_100" value="">          <input type="hidden" name="login_apply_institute_id" id="login_apply_institute_id" value="">
+          <input type="hidden" name="login_apply_course_type" id="login_apply_course_type" value="">
+          <input type="hidden" name="login_apply_sub_course_id" id="login_apply_sub_course_id" value="">
+          <input type="hidden" name="apply_top_100_link" id="apply_top_100_link" value="">         
+                    
                     
                     <input type="submit" align="left" class="submit_btn_layout submit-text log-in" value="Sign In" name="Sign In" style="bottom:150px; cursor:pointer;">
                     <a class="forgot-password student_forgot_password" href="#studentForgotPasswordBox">Forgot password?</a>
