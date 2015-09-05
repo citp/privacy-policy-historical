@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the networkblazer.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608111141id_/http%3A//networkblazer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkblazer.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905233641id_/http%3A//www.networkblazer.com/privacy) for the most accurate reproduction.*
 
 # Network Blazer / Privacy Policy
 
-[Log In](https://web.archive.org/web/20150608111141id_/http://www.networkblazer.com/) [About](https://web.archive.org/web/20150608111141id_/http://www.networkblazer.com/about/) [Sign Up](https://web.archive.org/web/20150608111141id_/http://www.networkblazer.com/signup/) [Blog](http://networkblazer.tumblr.com/) [Help](https://web.archive.org/web/20150608111141id_/http://www.networkblazer.com/help/) [](https://web.archive.org/web/20150608111141id_/http://www.networkblazer.com/)
+[Log In](https://web.archive.org/web/20150905233641id_/http://www.networkblazer.com/) [About](https://web.archive.org/web/20150905233641id_/http://www.networkblazer.com/about/) [Sign Up](https://web.archive.org/web/20150905233641id_/http://www.networkblazer.com/signup/) [Blog](http://networkblazer.tumblr.com/) [Help](https://web.archive.org/web/20150905233641id_/http://www.networkblazer.com/help/) [](https://web.archive.org/web/20150905233641id_/http://www.networkblazer.com/)
 
 ## INTRODUCTION
 
