@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flybe.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630221308id_/http%3A//www.flybe.com/flightInfo/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybe.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905144955id_/http%3A//www.flybe.com/flightInfo/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy | Flybe | Cheap flights & budget flights
 
 Flybe Limited ("We" or “Flybe”) are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20150630221308id_/http%3A//www.flybe.com/flightInfo/website-terms-of-use.htm) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.flybe.com you are accepting and consenting to the practices described in this policy. 
+This policy (together with our [terms of use](https://web.archive.org/web/20150905144955id_/http%3A//www.flybe.com/flightInfo/website-terms-of-use.htm) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.flybe.com you are accepting and consenting to the practices described in this policy. 
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Flybe Limited of New Jack Walker Hangar, Exeter International Airport, Clyst Honiton, Exeter, EX5 2BA.   
 Our nominated representative for the purpose of the Act is Duncan Worthington.
@@ -24,7 +24,7 @@ Our nominated representative for the purpose of the Act is Duncan Worthington.
 
 ## **Cookies**
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://web.archive.org/web/20150630221308id_/http%3A//www.flybe.com/flightInfo/cookie-policy.htm).  
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://web.archive.org/web/20150905144955id_/http%3A//www.flybe.com/flightInfo/cookie-policy.htm).  
 
 
 ### **Uses made of the information**
@@ -59,7 +59,7 @@ We may share your information with selected third parties including:
   * We may disclose your personal information to third parties:
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Flybe or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20150630221308id_/http%3A//www.flybe.com/flightInfo/website-terms-of-use.htm) and other agreements; or to protect the rights, property, or safety of Flybe, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.]
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20150905144955id_/http%3A//www.flybe.com/flightInfo/website-terms-of-use.htm) and other agreements; or to protect the rights, property, or safety of Flybe, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.]
 
 
 
