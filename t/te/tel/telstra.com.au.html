@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the telstra.com.au privacy policy that was archived on 2015-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150405073207id_/https%3A//www.telstra.com.au/privacy/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the telstra.com.au privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905132303id_/https%3A//www.telstra.com.au/privacy/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
 
   
-    <script src="/etc/designs/tcom/global/js/touch.js"></script><script type="text/javascript" src="/dtagent56_jnp3_5802.js" data-dtconfig="rid=RID_1192112365|rpid=605801442|domain=telstra.com.au|reportUrl=/dynaTraceMonitor|tp=500,50,0"></script><script>
+    <link rel="stylesheet" href="/etc/designs/tcom/global/css/fonts/font-woff.css"><script src="/etc/designs/tcom/global/js/touch.js"></script><script>
       if (localStorage && localStorage.forceDesktop === 'true') {
         document.write('<meta name="viewport" content="width=1024, initial-scale=0.5, maximum-scale=1.0, minimum-scale=0.2, user-scalable=yes">');
       } else {
@@ -35,21 +36,61 @@ var tcom = tcom || {};
 tcom.baseUrl = '';
       
     
-tcom.runmodes = ["publ01stl","crx2","publish","nosamplecontent","crx3mongo","prod"];
+tcom.runmodes = ["publ03stl","crx2","publish","nosamplecontent","crx3mongo","prod"];
 tcom.isAuthor = false;
 tcom.siteSection = 'telstra';
+    
+        
+        
+        
+    
 </script>
 
+<script type="text/javascript">
+  /* Based on https://github.com/filamentgroup/loadCSS */
+  var fontPath = '/etc/designs/tcom/global/css/fonts/font-{0}.css';
+  var ua = navigator.userAgent;
+  // android webkit browser, non-chrome
+  if(ua.indexOf('Android') > -1 && ua.indexOf('like Gecko') > -1 && ua.indexOf('Chrome') === -1 ){
+    fontPath = fontPath.replace('{0}', 'ttf');
+  }
+  else if(document.documentElement.className.indexOf('lt-ie9') > -1){
+    fontPath = fontPath.replace('{0}', 'eot');
+  }
+  else {
+    fontPath = fontPath.replace('{0}', 'woff');
+  }
+  var injectref = document.getElementsByTagName('script')[0];
+  function loadCSS(href){
+    var fontslink = document.createElement('link');
+    fontslink.rel = 'stylesheet';
+    fontslink.href= href;
+    if(injectref && injectref.parentNode) {
+      injectref.parentNode.insertBefore(fontslink, injectref);
+    } else {
+      // uncommon, but oldIE timing
+      window.setTimeout(function() { loadCSS(href); }, 15);
+    }
+  }
+  loadCSS(fontPath);
+</script>
 
   
-    <link rel="stylesheet" href="/etc/designs/tcom/global/css/bootstrap-responsive.css" type="text/css">
-    <link rel="stylesheet" href="/etc/designs/tcom/global/css/styles-responsive.css" type="text/css">
+    <link rel="stylesheet" href="/etc/designs/tcom/global/css/bootstrap-responsive.css" type="text/css" media="all">
+    <link rel="stylesheet" href="/etc/designs/tcom/global/css/styles-responsive.css" type="text/css" media="all">
+	<!--[if lte IE 9]>
+		<link href="/etc/designs/tcom/global/css/styles-responsive-ie.css" rel="stylesheet" media="all">
+	<![endif]-->
   
   
 
+<link rel="stylesheet" href="/etc/designs/tcom/global/css/styles-print.css" media="print">
 
   <!-- Overlay headInclude.jsp to include additional scripts in page header -->
 <script src="/etc/designs/tcom/global/js/modernizr.js"></script>
+
+
+
 
 
 
@@ -95,13 +136,33 @@ tcom.siteSection = 'telstra';
 
 
 
+
+
+
   
   
 <!-- Check logged-in user has permission to write or not. -->
 
 
 
-<body role="document" class="base-orange ">
+<body role="document" class="base-orange  ">
+<div class="parbase clientcontext"><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/shared.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/underscore.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/personalization/kernel.js"></script>
+<script type="text/javascript">
+    $CQ(function() {
+        CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation");
+        CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/default","/content/tcom/privacy/privacy-statement");
+
+        
+    });
+</script>
+</div>
+
   
     
       
@@ -135,8 +196,20 @@ tcom.siteSection = 'telstra';
 
 
 
-<header>
+
+
+
+
+    
+       <header>
+    
+    
+
+
   
+
+
+
 
 
 
@@ -167,25 +240,8 @@ tcom.siteSection = 'telstra';
 </div>
 <![endif]-->
 <div id="global-nav" class="navbar navbar-inverse offcanvas headroom headroom--top" role="navigation">
-  <div class="container">
-    <div class="navbar-header visible-xs">
-
-      <button type="button" class="navbar-toggle pull-left" data-toggle="offcanvas" data-side="left">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-
-      <a href="//www.telstra.com.au" class="navbar-brand"><div class="site-logo"></div><span class="sr-only">Telstra.com</span></a>
-
-      <button type="button" class="navbar-toggle" data-toggle="offcanvas" data-side="right">
-        <span class="sr-only">Toggle Search</span>
-        <span class="td-icon icon-search-find"></span>
-      </button>
-
-    </div>
-    <div class="navbar-collapse collapse">
+  <div class="container">	
+	<div class="navbar-collapse collapse">
       <ul class="nav navbar-nav" id="global-nav-menu">
         
           <li class="active">
@@ -209,6 +265,8 @@ tcom.siteSection = 'telstra';
         </li>
         
       </ul>
+      <!-- Login Tile -->
+      <div id="login-placeholder"></div>
     </div>
   </div>
 </div>
@@ -218,10 +276,13 @@ tcom.siteSection = 'telstra';
   
   
 
-  <div id="primary-nav" class="navbar" role="navigation">
+  <div id="primary-nav" class="navbar visible-lg" role="navigation">
     <div class="container">
       <div class="navbar-collapse collapse">
         
+
+
+
 
 
 
@@ -266,8 +327,7 @@ tcom.siteSection = 'telstra';
 			    
 		    
       
-    
-    
+        
   </li>
 </ul>
 
@@ -292,9 +352,12 @@ tcom.siteSection = 'telstra';
 
 
 
+
+
+
 <form class="navbar-form navbar-right" role="search" action="https://telstra.com.au/search/simple-search/index.htm" method="GET" id="searchDesktop">
   <div class="form-group search-telstra">
-    <span class="twitter-typeahead" style="position: relative; display: inline-block; direction: ltr;"><input data-search-input="" type="text" class="form-control search-telstra-input tt-input" placeholder="Search Telstra.com" name="inpSearch" autocomplete="off" spellcheck="false" dir="auto" style="position: relative; vertical-align: top;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><span class="tt-dropdown-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none; right: auto;"><div class="tt-dataset-search"></div></span></span> 
+    <input data-search-input-desktop="" type="text" class="form-control search-telstra-input" placeholder="Search Telstra.com" name="inpSearch" autocomplete="off"> 
 	     
 	      
 	      
@@ -335,14 +398,17 @@ tcom.siteSection = 'telstra';
 
 
 
+
+
+
 <ul id="mega-menu" class="nav navbar-nav navbar-right">
   
     
       <li class="active">
-      
+    
     
   
-        <a href="http://www.telstra.com.au/personal/">Explore</a>
+        <a href="http://www.telstra.com.au/personal/">Shop</a>
         <div class="mega-menu-view">
           <div class="mega-menu-view-top clearfix ">
             <div class="text-center"><!--
@@ -352,7 +418,7 @@ tcom.siteSection = 'telstra';
                 <ul>
                   <li><a href="https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan">Mobile phones</a></li>
                   <li><a href="https://www.telstra.com.au/mobile-phones/plans-and-rates">Plans &amp; rates</a></li>
-                  <li><a href="https://www.telstra.com.au/mobile-phones/prepaid-mobiles">Telstra Pre-Paid</a></li>
+                  <li><a href="https://www.telstra.com.au/mobile-phones/prepaid-mobiles">Pre-Paid</a></li>
                   <li><a href="https://www.telstra.com.au/mobile-phones/international-roaming">International roaming</a></li>
                 </ul>
               </div><!--
@@ -372,7 +438,7 @@ tcom.siteSection = 'telstra';
                 <ul>
                   <li><a href="https://www.telstra.com.au/broadband/home-broadband">Home broadband</a></li>
                   <li><a href="https://www.telstra.com.au/broadband/mobile-broadband">Mobile broadband</a></li>
-                  <li><a href="https://www.telstra.com.au/broadband/home-broadband/nbn">NBN</a></li>
+                  <li><a href="https://www.telstra.com.au/broadband/nbn">NBN</a></li>
                   <li><a href="https://www.telstra.com.au/broadband/mobile-broadband/coverage-networks">Coverage &amp; networks</a></li>
                 </ul>
               </div><!--
@@ -391,9 +457,8 @@ tcom.siteSection = 'telstra';
                 <a class="mega-menu-heading" href="https://www.telstra.com.au/entertainment">Entertainment</a>
                 <ul>
                   <li><a href="https://www.telstra.com.au/entertainment/foxtel-from-telstra">Foxtel from Telstra</a></li>
-                  <li><a href="https://www.telstra.com.au/entertainment/foxtel-on-tbox">Foxtel on T-Box</a></li>
+                  <li><a href="https://www.telstra.com.au/applemusic">Apple Music</a></li>
                   <li><a href="https://www.telstra.com.au/entertainment/bigpond-movies">BigPond Movies</a></li>
-                  <li><a href="https://www.telstra.com.au/entertainment/tbox">T-Box</a></li>
                 </ul>
               </div><!--
          --></div>
@@ -403,7 +468,7 @@ tcom.siteSection = 'telstra';
              <span class="mega-menu-heading">Recommended links</span>
              <div class="row">
                <div class="col-xs-7"><a href="https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/iphone-6">iPhone 6</a></div>
-               <div class="col-xs-5"><a href="https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/samsung-galaxy-note-4">Samsung Note 4</a></div>
+               <div class="col-xs-5"><a href="https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan/samsung-galaxy-s6-edge-plus">Samsung Galaxy S6 edge+</a></div>
              </div>
              <div class="row">
                <div class="col-xs-7"><a href="https://www.telstra.com.au/mobile-phones/wearables">Wearables</a></div>
@@ -425,54 +490,11 @@ tcom.siteSection = 'telstra';
       </li>
 
   
-      
+    
     
       <li>
     
   
-        <a href="http://www.telstra.com.au/online-shop">Shop</a>
-        <div class="mega-menu-view">
-          <div class="mega-menu-view-top clearfix seven-icons"> 
-            <div class="text-center"><!--
-           --><a href="http://www.telstra.com.au/online-shop/tablets.cfm" class="mega-menu-icon-link">
-                <div class="td-icon-md icon-tablet"></div>
-                <p>Tablets</p>
-              </a><!--
-           --><a href="https://www.telstra.com.au/broadband/mobile-broadband/plans#plans" class="mega-menu-icon-link">
-                <div class="td-icon-md icon-mobile-broadband"></div>
-                <p>Mobile broadband</p>
-              </a><!--
-           --><a href="https://www.telstra.com.au/mobile-phones/prepaid-mobiles/mobiles-and-starter-kits" class="mega-menu-icon-link">
-                <div class="td-icon-md icon-mobile-prepaid"></div>
-                <p>Pre-Paid mobiles</p>
-              </a><!--
-           --><a href="https://www.telstra.com.au/mobile-phones/mobiles-on-a-plan" class="mega-menu-icon-link">
-                <div class="td-icon-md icon-mobile"></div>
-                <p>Mobiles on a plan</p>
-              </a><!--
-           --><a href="https://www.telstra.com.au/bundles#select" class="mega-menu-icon-link">
-                <div class="td-icon-md icon-bundle"></div>
-                <p>Bundles</p>
-              </a><!--
-           --><a href="https://www.telstra.com.au/broadband/home-broadband#service-qualifier" class="mega-menu-icon-link">
-                <div class="td-icon-md icon-internet"></div>
-                <p>Home broadband</p>
-              </a><!--
-           --><a href="https://www.telstra.com.au/home-phone/plans-rates#service-qualifier" class="mega-menu-icon-link">
-                <div class="td-icon-md icon-phone"></div>
-                <p>Home phone</p>
-              </a><!--
-         --></div>
-          </div>
-        </div>
-      </li>
-
-  
-      
-    
-      <li>
-    
-      
         <a href="http://support.telstra.com.au/t5/Support/ct-p/Support">Support</a>
         <div class="mega-menu-view">
           <div class="mega-menu-view-top clearfix">
@@ -524,7 +546,7 @@ tcom.siteSection = 'telstra';
       </li>
 
   
-      
+    
     
       <li>
     
@@ -566,6 +588,7 @@ tcom.siteSection = 'telstra';
         </div>
       </li>
 </ul>
+
 			      
 			    
         
@@ -573,8 +596,123 @@ tcom.siteSection = 'telstra';
     </div>
   </div>
 
+  <div class="site-header" role="navigation">
+    <div class="container">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
     
+    
+  
+  
+  
+  
+  
+  
+
+	<button type="button" class="nav-toggle" data-nav-id="nav">
+      <span class="menu">Menu</span>
+	  <div class="icon">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </div>
+    </button>
+    <a href="https://www.telstra.com.au/" class="site-logo"><span class="vh">Telstra.com</span></a>
+	
+		<ul class="site-actions">      
+      
+	  
+	  
+      <li>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<button data-popover-id="site-search" class="btn-search btn square search-toggle fn_popover">
+	<i class="td-icon icon-ui-search"></i><span class="vh">Open search panel</span>
+</button>
+<div id="site-search" class="feature-popover site-search" data-popover-focusto="#telstra-search" data-popover-position="search" data-popover-animate="slide-right">
+  <div class="popover-content">
+    <form class="telstra-search" role="search" action="https://telstra.com.au/search/simple-search/index.htm" method="GET">
+      <input type="text" id="telstra-search" title="telstra-search" name="inpSearch" placeholder="Search Telstra.com" autocomplete="off" spellcheck="false" dir="auto" data-search-input-mobile="">
+
+	  
+		  
+		  
+		  
+			  <input type="hidden" name="requestSiteId" value="personal">
+		  
+	  
+	  
+      <input type="hidden" name="searchFormSubmited" value="Yes">
+
+      <button type="submit" class="btn-search btn square">
+        <i class="td-icon icon-ui-search"></i>
+        <span class="vh">Submit Search</span>
+      </button>
+
+      <button class="popover-close btn square">
+        <i class="td-icon icon-ui-cross"></i>
+        <span class="vh">Close Search</span>
+      </button>
+    </form>
+  </div>
+</div>
+        
+      </li>
+	  
+    </ul>
+	
+		
+      </div>
+    </div>
+
+  
+    
+
+
+
 
 
 
@@ -634,7 +772,7 @@ tcom.siteSection = 'telstra';
       
     </div>
     
-      <div class="page-toolbar col-md-5">
+      <div class="page-toolbar col-md-5 visible-lg">
         
           <!-- contact us button -->
           <div class="btn-group page-toolbar-contact contact-share">
@@ -674,8 +812,9 @@ tcom.siteSection = 'telstra';
 </div>
   
 </header>
+
+
   
-  
 
 
 
@@ -697,48 +836,159 @@ tcom.siteSection = 'telstra';
 
 
 
+<div id="shareSMS" class="modal fade printable share-sms" tabindex="-1" role="dialog" aria-labelledby="shareSMSLabel" aria-hidden="true">
+  <div class="modal-dialog modal-medium"> 
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+        <h4 class="modal-title" id="shareSMSLabel">SMS this link</h4>
+      </div>
+      <div class="modal-body">
 
+        <form>
+          <p>Enter a phone number and we'll SMS a link to this page.</p>
+          <div class="row form-group">
+            <label class="col-md-12 control-label" for="mobileNumber">Mobile number:</label>
+            <div class="col col-md-4">
+              <input type="text" id="mobileNumber" name="mobileNumber" class="form-control">
+            </div>
+            <div class="col col-md-8 sms-error-msg small" role="alert" aria-live="assertive">
+              <p>Please enter a valid Australian mobile number</p>
+            </div>
+          </div>
 
+          <button type="submit" class="btn do-business" title="Send the link">Send the link</button>&nbsp;
+          <button type="reset" class="btn secondary" data-dismiss="modal" title="No thanks">No thanks</button>
+        </form>
 
-
-
-<div class="visible-xs sidebar sidebar-left offcanvas" id="mobile-nav" role="navigation" style="touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-  <div id="mobile-nav-wrapper" data-active-level="2" data-current-url="/privacy/privacy-statement" data-date="1427933758736" data-top-level="false" style="transform: translate(0px, 0px);">
-      <!-- 
-      -
-      - this navigation is generated in JS by mega-menu.js
-      -
-      -->
-    <div class="menu level-0" data-level="0" style="display: none;"></div>
-    <div class="menu level-1" data-level="1" style="display: none;"></div>
-    <div class="menu level-2" data-level="2" style="display: block;"></div>
-    <div class="menu level-3" data-level="3" style="display: none;"></div>
-    <div class="menu level-4" data-level="4" style="display: none;"></div>
-    <div class="menu level-5" data-level="5" style="display: none;"></div>
-    <div class="menu level-6" data-level="6" style="display: none;"></div>
-    <div class="menu level-7" data-level="7" style="display: none;"></div>
-    <div class="menu level-8" data-level="8" style="display: none;"></div>
-    <div class="menu level-9" data-level="9" style="display: none;"></div>
+        <div class="result" tabindex="-1">
+          <p>The link has been sent.</p>
+          <button type="button" class="btn secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
-<div class="visible-xs sidebar sidebar-right search-telstra offcanvas" role="navigation" style="touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
-  <form role="search" action="https://telstra.com.au/search/simple-search/index.htm" method="GET" class="sidebar-inner" id="searchMobile">
-      
-    <span class="twitter-typeahead" style="position: relative; display: inline-block; direction: ltr;"><input data-search-input="" type="text" placeholder="Search Telstra.com" name="inpSearch" autocomplete="off" class="tt-input" spellcheck="false" dir="auto" style="position: relative; vertical-align: top;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; word-spacing: 0px; letter-spacing: 0px; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><span class="tt-dropdown-menu" style="position: absolute; top: 100%; left: 0px; z-index: 100; display: none; right: auto;"><div class="tt-dataset-search"></div></span></span>
-       
-        
-        
-        
-            <input type="hidden" name="requestSiteId" value="personal">
-        
-      
-    <input type="hidden" name="searchFormSubmited" value="Yes">
-  </form>
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="nav" class="offscreen-nav fn_scrollbar" role="navigation" tabindex="-1" data-scrollbar-x="false">
+	<nav>
+		<div class="nav-inner">
+			<span class="site-logo is-light is-small"><span class="vh">Telstra.com</span></span>
+			<ul class="offscreen-nav-primary">
+				<li class="is-expanded"><a href="https://www.telstra.com.au/privacy" class="nav-lvl-1 has-children">Privacy</a><div class="children"><ul><li><a href="https://www.telstra.com.au/privacy/customer-access">Data access</a></li><li class=" is-active"><a href="https://www.telstra.com.au/privacy/privacy-statement">Privacy Statement (including Credit Reporting Policy)</a></li><li><a href="https://www.telstra.com.au/privacy/important-information-about-credit">Credit information</a></li><li><a href="https://www.telstra.com.au/privacy/online-safety">Online safety</a></li><li><a href="https://www.telstra.com.au/privacy/data-security">Data security</a></li><li><a href="https://www.telstra.com.au/privacy/online-privacy">Online privacy</a></li><li><a href="https://www.telstra.com.au/privacy/transparency">Transparency</a></li></ul></div></li>
+				
+				<li><a target="_self" href="//support.telstra.com.au/t5/Support/ct-p/Support" class="nav-lvl-1 has-children"> Support </a>
+					
+					<div class="children">
+						<ul>
+							
+								<li><a href="//support.telstra.com.au/t5/Accounts-and-Billing/ct-p/Accounts_Billing" target="_self"><i class="td-icon icon-billing"></i> Accounts &amp; Billing </a></li>
+							
+								<li><a href="//support.telstra.com.au/t5/Broadband/ct-p/LSP_Broadband" target="_self"><i class="td-icon icon-internet"></i> Broadband </a></li>
+							
+								<li><a href="//support.telstra.com.au/t5/Email/ct-p/LSP_Email" target="_self"><i class="td-icon icon-email"></i> Email </a></li>
+							
+								<li><a href="//support.telstra.com.au/t5/Mobiles-Tablet/ct-p/LSP_Mobiles_And_Tablet" target="_self"><i class="td-icon icon-mobile"></i> Mobiles &amp; Tablets </a></li>
+							
+								<li><a href="//support.telstra.com.au/t5/Entertainment/ct-p/LSP_Entertainment" target="_self"><i class="td-icon icon-tv"></i> Entertainment </a></li>
+							
+								<li><a href="//support.telstra.com.au/t5/Home-Phone/ct-p/LSP_Home_Phone" target="_self"><i class="td-icon icon-phone"></i> Home Phone </a></li>
+														
+						</ul>
+					</div>
+					
+				</li>
+				
+				
+				<li><a target="_self" href="//www.my.telstra.com.au/myaccount/home" class="nav-lvl-1 has-children"> My Account </a>
+					
+					<div class="children">
+						<ul>
+							
+								<li><a href="https://www.telstra.com.au/moving-home/move" target="_self"><i class="td-icon icon-home"></i> Moving Home </a></li>
+							
+								<li><a href="//www.my.telstra.com.au/activate" target="_self"><i class="td-icon icon-prepaid-activation"></i> Pre-Paid Activation </a></li>
+							
+								<li><a href="https://www.telstra.com.au/my-account/prepaid-recharge" target="_self"><i class="td-icon icon-mobile-prepaid"></i> Pre-Paid Recharge </a></li>
+							
+								<li><a href="https://www.telstra.com.au/account-services" target="_self"><i class="td-icon icon-manage-services"></i> Account Services </a></li>
+							
+								<li><a href="//www.my.telstra.com.au/myaccount/home" target="_self"><i class="td-icon icon-register"></i> Login/Register </a></li>
+							
+								<li><a href="http://www.telstra.com.au/latest_offers/loyalty/thanks.html" target="_self"><i class="td-icon icon-star"></i> Thanks </a></li>
+							
+								<li><a href="https://www.telstra.com.au/my-account/telstra-24x7-app" target="_self"><i class="td-icon icon-apps-24x7"></i> Telstra 24x7 App </a></li>
+														
+						</ul>
+					</div>
+					
+				</li>
+				
+			</ul>
+			<ul class="offscreen-nav-global">
+				
+					<li><a href="https://www.telstra.com.au/personal">Personal</a>
+					</li>
+				
+				
+					<li><a href="https://www.telstra.com.au/small-business">Small
+							Business</a></li>
+				
+				
+					<li><a href="https://www.telstra.com.au/business-enterprise">Business
+							&amp; Enterprise</a></li>
+				
+				
+					<li><a href="https://www.telstra.com.au/telstra-health">Health</a>
+					</li>
+				
+				<li><a href="http://media.telstra.com.au/home.html?ref=from_telstra_header">Sport
+						&amp; Entertainment</a></li>
+			</ul>
+			<button type="button" class="nav-close">
+				<span class="vh">Close navigation</span>
+			</button>
+		</div>
+	</nav>
 </div>
+
 
   <div class="main-content-wrapper offcanvas">
     
+
+
+
 
 
 
@@ -768,6 +1018,9 @@ tcom.siteSection = 'telstra';
 
 
 <div class="parbase textimage section heroRow">
+
+
+
 
 
 
@@ -852,35 +1105,24 @@ tcom.siteSection = 'telstra';
 
 
 
+
+
+
 <ul class="lh-nav" data-equalise-watch="heroRow">
     <li><a href="https://www.telstra.com.au/privacy">Privacy</a>
-      </li><li class="context active"><a href="https://www.telstra.com.au/privacy/privacy-statement">Privacy Statement (including Credit Reporting Policy)</a>
-        <ul class="lh-nav-submenu">
-        </ul>
+      </li><li><a href="https://www.telstra.com.au/privacy/customer-access">Data access</a>
+      </li>
+      <li class="context active"><a href="https://www.telstra.com.au/privacy/privacy-statement">Privacy Statement (including Credit Reporting Policy)</a>
       </li>
       <li><a href="https://www.telstra.com.au/privacy/important-information-about-credit">Credit information</a>
-        <ul class="flyout-menu">
-        </ul>
       </li>
       <li><a href="https://www.telstra.com.au/privacy/online-safety">Online safety</a>
-        <ul class="flyout-menu">
-        </ul>
       </li>
       <li><a href="https://www.telstra.com.au/privacy/data-security">Data security</a>
-        <ul class="flyout-menu">
-        </ul>
-      </li>
-      <li><a href="https://www.telstra.com.au/privacy/customer-access">Data access</a>
-        <ul class="flyout-menu">
-        </ul>
       </li>
       <li><a href="https://www.telstra.com.au/privacy/online-privacy">Online privacy</a>
-        <ul class="flyout-menu">
-        </ul>
       </li>
       <li><a href="https://www.telstra.com.au/privacy/transparency">Transparency</a>
-        <ul class="flyout-menu">
-        </ul>
       </li>
   
 
@@ -905,7 +1147,7 @@ your personal information.</p>
 </div>
 
 
-	<ul class="hero-links">
+	<ul class="hero-links visible-xs">
 		
 			<li>Explore this page</li>
 		
@@ -938,6 +1180,9 @@ your personal information.</p>
       <div class="col col-100-c0 last  first">
         <div class="col-wrapper">
           <div class="text parbase section">
+
+
+
 
 
 
@@ -1055,6 +1300,9 @@ your personal information.</p>
 
 
 
+
+
+
 <h3><span class="sub-heading">About this Statement</span></h3>
 <p>This Statement has been issued by Telstra Corporation Limited, effective as at 12 March 2014. From time to time, we may need to change this Statement. If we do so, we will post the updated version on our&nbsp;<a href="https://www.telstra.com.au/privacy">website</a>&nbsp;(www.telstra.com.au/privacy) and it will apply to all of your information held by us at the time.</p>
 
@@ -1094,6 +1342,9 @@ your personal information.</p>
 
 
 
+
+
+
 <h3><span class="sub-heading">How to contact us</span></h3>
 <p>If you have any questions in relation to this Statement or our management of your information, please let us know by contacting us on 1800 039 059 or writing to us at&nbsp;privacy@online.telstra.com.au.</p>
 
@@ -1116,6 +1367,9 @@ your personal information.</p>
       <div class="col col-100-c0 last  first">
         <div class="col-wrapper">
           <div class="text parbase section">
+
+
+
 
 
 
@@ -1194,6 +1448,9 @@ the delay and ask for your agreement to extend this 30 day period (if you do not
 
     <footer>
       
+
+
+
 
 
 
@@ -1317,6 +1574,7 @@ the delay and ask for your agreement to extend this 30 day period (if you do not
                         <li>
                             
                                 
+                                   
                                 
                                     <a href="http://www.telstra.com.au/store-locator">Find a store</a>
                                 
@@ -1336,6 +1594,7 @@ the delay and ask for your agreement to extend this 30 day period (if you do not
                     </ul>
                 </div>
             </div>
+            <div class="clearfix hidden-lg"></div>
             <div class="col col-25-25-25-25-c3">
                 <div class="col-wrapper">
                     <ul>
@@ -1363,28 +1622,31 @@ the delay and ask for your agreement to extend this 30 day period (if you do not
 
   
     <script src="/etc/designs/tcom/global/js/jquery.js"></script>
+    <script type="text/javascript" src="/content/dam/analytics/analytics.js"></script>
   
   <script src="/etc/designs/tcom/global/js/global.js"></script>
   
     <!-- Overlay bodyInclude.jsp to include additional scripts in page body -->
   
-  <script type="text/javascript" src="/content/dam/analytics/analytics.js"></script>
-  <script type="text/javascript">
-			if (typeof s === 'object' && typeof analytics === 'function') {
-				analytics();
-			}
-		</script>
   
       <!-- Live Person Tagging -->
-      <script type="text/javascript" src="/etc/designs/tcom/global/js/le-mtagconfig.js"></script>
-      <div id="chat-consumer-bundles-sales"></div>
+      <script type="text/javascript" src="/etc/designs/tcom/global/js/le-mtagconfig.js" async="��"></script>
   
   
   
   
+	
     
   
   <!-- cq:includeClientLib categories="tcom-publisherlibs" /-->
-  
+
    
+  <div class="servicecomponents cloudservices">
+</div>
+
+  <script type="text/javascript">
+    if (typeof s === 'object' && typeof analytics === 'function') {
+              analytics();
+       }
+</script>
 </body></html>
