@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsf.net privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318040546id_/https%3A//hsf.net/en/about-hsf/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsf.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905171159id_/https%3A//hsf.net/en/about-hsf/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HSF
 
@@ -75,7 +75,7 @@ We may share your personal information in the instances described below.  For f
   
 **Who we may share your information with:**
 
-  * We may share your information with third-party business partners, vendors, consultants, and other service providers that perform services on our behalf, in order to carry out their work for us, which may include content or service fulfillment, background checks, credit reports, billing, donation processing, e-commerce, or providing analytics services.
+  * We may share your information with third-party business partners, vendors, donors, consultants, and other service providers that perform services on our behalf, in order to carry out their work for us, which may include content or service fulfillment, background checks, credit reports, billing, donation processing, e-commerce, or providing analytics services.
 
 
   * Our business partners who offer a service to you jointly with us, for example, when running a co-sponsored scholarship or promotion
@@ -149,7 +149,7 @@ The Family Education Rights and Privacy Act (“FERPA”) requires that you must
   
 HSF may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically.  When we change the policy in a material manner we will let you know and update the ‘last modified’ date at the bottom of this page. 
 
-This Privacy Policy was last modified on December 11, 2014.
+This Privacy Policy was last modified on March 24, 2015.
 
 **HSF DONOR PRIVACY STATEMENT**
 
