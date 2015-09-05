@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316175137id_/https%3A//www.rocklandtrust.com/about-us/banking-tools--resources--advice-and-faqs/security-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905113816id_/https%3A//www.rocklandtrust.com/about-us/banking-tools--resources--advice-and-faqs/security-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › Rockland Trust
 
