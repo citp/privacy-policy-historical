@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233252id_/https%3A//www.afbank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064414id_/https%3A//www.afbank.com/privacy) for the most accurate reproduction.*
 
 # Privacy » Armed Forces Bank
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Protecting your financial and personal privacy is important to us. 
 
-Rev. 9/2013
+Rev. 6/2015
 
 FACTS |  What Does Armed Forces Bank Do With Your Personal Information?   
 ---|---  
@@ -78,7 +78,7 @@ Definitions
 ---  
 Affiliates | Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-  * Our affiliates include Dickinson Financial Corporation, Armed Forces Bank of California, Academy Bank, Southern Commerce Bank, and SunBank. 
+  * Our affiliates include Dickinson Financial Corporation and Academy Bank. 
 
   
 Nonaffiliates | Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
