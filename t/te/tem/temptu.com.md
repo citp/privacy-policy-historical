@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the temptu.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410123557id_/http%3A//temptu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temptu.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905101851id_/https%3A//temptu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TEMPTU
+# Privacy Policy
 
 TEMPTU, Inc. (“Company,” or “we,” or “us,” or “our”) has created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to this website (the “Site”) and our products and services (collectively “Products”).
 
