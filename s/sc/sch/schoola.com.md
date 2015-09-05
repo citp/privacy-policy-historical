@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the schoola.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624002209id_/http%3A//www.schoola.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoola.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905214320id_/https%3A//www.schoola.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Schoola
 
 ## Schoola™ : Privacy Policy
 
-Last Updated: September 21, 2012
+Last Updated: July 14, 2015
 
-Protecting your privacy is important to us. We (The Savvy Source for Parents, Inc.) are providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use the Schoola™ website (including any mobile or other version of that site that we may offer) or the services we provide through Schoola.com (all of the foregoing, our “Website”). This Privacy Policy applies only to our Website and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Website. 
+Protecting your privacy is important to us. We (Schoola, Inc.) are providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use the Schoola™ website (including any mobile or other version of that site that we may offer) or the services we provide through Schoola.com (all of the foregoing, our “Website”). This Privacy Policy applies only to our Website and doesn’t apply to any third-party websites, services or applications, even if they are accessible through our Website. 
 
 ## How do we collect and use information?
 
@@ -20,9 +20,9 @@ _Information Related to Use of the Website._ Our servers automatically record ce
 
 _Location Information._ In some cases we collect and store information about where you are located, such as by converting your IP address into a rough geolocation. We may use location information to improve and personalize our Website for you. 
 
-_Web Beacons._ Our Website and our related e-mail correspondence may contain “web beacons.” Web beacons allow us to count users that have visited a web page or opened an email that contains a web beacon and collect other types of aggregate information. Using this information, we are able to measure the effectiveness of our advertising and how visitors use our Website. This allows us to tailor our Website to the interests of our visitors. Some of the web beacons that are in place on our Website are used only by The Savvy Source, and other web beacons are from our vendors and advertisers who use this data to assist us in analyzing how our users use the Website. In addition, we may have agreements with various affiliate networks that promote the Website on their affiliate websites. These affiliate advertisers may use web beacons in their advertisements to track users who click through from the affiliate website to the Website. 
+_Web Beacons._ Our Website and our related e-mail correspondence may contain “web beacons.” Web beacons allow us to count users that have visited a web page or opened an email that contains a web beacon and collect other types of aggregate information. Using this information, we are able to measure the effectiveness of our advertising and how visitors use our Website. This allows us to tailor our Website to the interests of our visitors. Some of the web beacons that are in place on our Website are used only by Schoola, and other web beacons are from our vendors and advertisers who use this data to assist us in analyzing how our users use the Website. In addition, we may have agreements with various affiliate networks that promote the Website on their affiliate websites. These affiliate advertisers may use web beacons in their advertisements to track users who click through from the affiliate website to the Website. 
 
-_Email and Newsletters._ We may send you service-related announcements and emails from time to time. Where these communications are related to the administration of your account or your use of the Website, you may not be able to opt out (without deactivating your account). We may also use your information to send you e-newsletters, updates and communications about Schoola or The Savvy Source. You may opt-out of receiving these messages as described at the bottom of each communication. 
+_Email and Newsletters._ We may send you service-related announcements and emails from time to time. Where these communications are related to the administration of your account or your use of the Website, you may not be able to opt out (without deactivating your account). We may also use your information to send you e-newsletters, updates and communications about Schoola. You may opt-out of receiving these messages as described at the bottom of each communication. 
 
 _Demographic and Remarketing._ We may use information provided via analytics services (such as Google Analytics) to analyze the demographic information (including age, gender and interests) of users to inform and optimize content and advertising. This includes ads we serve through other websites based on your activities on our website via Google AdWords Remarketing. This information is gathered via both first and third-party cookies, including the Google Analytics and Doubleclick Cookies. 
 
@@ -61,7 +61,7 @@ We may modify and revise this Privacy Policy from time to time. If we make any m
 ## Questions?
 
 If you have any questions about our Privacy Policy, please contact us at [help@schoola.com](mailto:help@schoola.com) or by mail at:  
-The Savvy Source for Parents, Inc.  
+Schoola, Inc.  
 601 Montgomery Street, Suite 675  
 San Francisco, CA 94111  
 
