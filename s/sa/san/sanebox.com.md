@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620052752id_/http%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905150551id_/http%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
 
 # SaneBox Privacy Policy
 
@@ -39,7 +39,7 @@ Finally, we do not use or share the personally identifiable information provided
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-All payments and payment information on our site is handled through [Spreedly.com](http://spreedly.com/info/faq/) which is fully PCI DSS compliant. [PCI DSS](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml) is the global standard for safegaurding financial transaction data. No customer financial information is ever stored within our computer systems.
+All payments and payment information on our site is handled through [Pin Payments](https://subs.pinpayments.com/info/faq) which is fully PCI DSS compliant. [PCI DSS](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml) is the global standard for safegaurding financial transaction data. No customer financial information is ever stored within our computer systems.
 
 ## Our Commitment To Children's Privacy
 
