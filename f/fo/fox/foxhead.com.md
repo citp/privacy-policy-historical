@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the foxhead.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013083718id_/http%3A//www.foxhead.com/company/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxhead.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074853id_/http%3A//www.foxhead.com/us/info/privacy) for the most accurate reproduction.*
 
-# Fox Head | 2011
-
-  
-
+# Privacy Policy | Fox Racing - Foxhead.com
 
 Fox Head, Inc. respects the privacy of every individual who visits our websites. This Privacy Policy outlines the information Fox Head, Inc. may collect and how we may use that information.
 
@@ -26,5 +23,3 @@ In some cases, we may automatically (i.e., not via registration) collect technic
 INFORMATION PLACED AUTOMATICALLY ON YOUR COMPUTER -- COOKIES
 
 When you view one of our websites, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and can help us in many ways. For example, Cookies allow us to tailor a website to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
-
-| 
