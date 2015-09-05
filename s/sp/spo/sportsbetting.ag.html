@@ -1,23 +1,34 @@
-<!--The following is the downloaded HTML source of the sportsbetting.ag privacy policy that was archived on 2015-03-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150320225051id_/http%3A//www.sportsbetting.ag/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sportsbetting.ag privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905090802id_/http%3A//www.sportsbetting.ag/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="ctl00_ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=9"><title>
-	Privacy Policy
-</title>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="ctl00_ctl00_Head1"><meta name="google-site-verification" content="zgYyfIeoc64F6JmAa_vnXI12J6akaZTu-qeF4bsHkvU"><meta http-equiv="X-UA-Compatible" content="IE=9">
 	
 	<link type="text/css" rel="stylesheet" media="screen" href="http://ui.sportsbetting.ag/nts/css/gumby.css">
     <link type="text/css" rel="stylesheet" media="screen" href="http://ui.sportsbetting.ag/nts/css/tabs.css">
     <link type="text/css" rel="stylesheet" media="screen" href="http://ui.sportsbetting.ag/nts/css/style.css">
-     <link type="text/css" rel="stylesheet" media="screen" href="http://ui.sportsbetting.ag/nts/css/SpryTabbedPanels.css">
+    <link type="text/css" rel="stylesheet" media="screen" href="http://ui.sportsbetting.ag/nts/css/SpryTabbedPanels.css">
 	<!--[if IE]>
 	<link rel="stylesheet" type="text/css" href="http://ui.sportsbetting.ag/nts/css/ie-style.css" />
 	<![endif]-->
+	<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="http://ui.sportsbetting.ag/nts/css/ie7-style.css">
+    <![endif]-->
 	<link type="text/css" rel="stylesheet" media="screen" href="http://ui.sportsbetting.ag/nts/css/style2.css">
 	<link type="text/css" rel="stylesheet" media="screen" href="http://ui.sportsbetting.ag/nts/css/jquery-ui-1.7.3.custom.css">
-    <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="http://ui.sportsbetting.ag/nts/js/modernizr-2.6.2.min.js"></script>
-	<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-
+    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script>
+        !function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+            if (!d.getElementById(id)) {
+                js = d.createElement(s);
+                js.id = id;
+                js.src = p + '://platform.twitter.com/widgets.js';
+                fjs.parentNode.insertBefore(js, fjs);
+                }
+            } (document, 'script', 'twitter-wjs');
+    </script>
+    <script type="text/javascript" src="http://ui.sportsbetting.ag/nts/js/modernizr-2.6.2.min.js"></script>
+	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="" language="javascript"></script>
 
     <script type="text/javascript" src="http://ui.sportsbetting.ag/nts/js/gumby.min.js"></script>
     <script type="text/javascript" src="http://ui.sportsbetting.ag/nts/js/plugins.js"></script>
@@ -27,7 +38,7 @@
    
     <link type="text/css" rel="stylesheet" media="print" href="http://ui.sportsbetting.ag/css/print-ticket.css">
   
-
+    <!-- Link to Mobile Files !-->
 
 
     <meta name="content-language" content="en-US"><meta name="robots" content="index, follow"><meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><meta name="viewport" content="width=device-width">
@@ -47,12 +58,57 @@
     <script type="text/javascript" src="http://ui.sportsbetting.ag/Scripts/bol/jquery.widgets.betscalculator.configuration.sportsbetting.js" language="javascript"></script>    
     <script type="text/javascript" src="http://ui.sportsbetting.ag/Scripts/bol/SpryTabbedPanels.js" language="javascript"></script>
     <script type="text/javascript" src="http://ui.sportsbetting.ag/Scripts/Ga/GoogleAnalyticsFunctions.js" language="javascript"></script>
+ 
+
     
-
-
+    
      <script type="text/javascript">
+         function setCookie(cname, cvalue) {
+             document.cookie = cname + "=" + cvalue;
+         }
+
+         function getClickID(url) {
+             var pos_c = url.indexOf('c_');
+
+             if (pos_c != -1) {
+                 var substr1 = url.substring(pos_c + 2);
+                 var pos_amp = substr1.indexOf('&');
+                 var substr2 = substr1.substring(0, pos_amp);
+
+                 return substr2;
+             }
+             else {
+                 return "";
+             }
+         }
+         //--------------------------------------------------------------------------------
          $(document).ready(function () {
              $("#captchaShow").hide();
+             //** Validate before if an affiliate, then, call the ajax to get the affiliateID and comparate to create the cookie.
+             if (window.location.href.indexOf("?btag") != -1) {
+                 $.ajax({
+                     dataType: "json",
+                     url: "/Home/GetAffiliatePixelInformation",
+                     async: false,
+                     context: document.body,
+                     success: function (result) {
+                         var cookie_AffiD = getCookie("IncomeAccess"); //** Function of detection.js
+                         index = cookie_AffiD.indexOf("&");
+                         index = index + 7;
+                         cookie_AffiD = cookie_AffiD.substr(index);
+
+                         if (cookie_AffiD != "") {
+                             if (result.AffiliateID == cookie_AffiD) {
+                                 var clickID = getClickID(window.location.href);
+                                 if (clickID != "")
+                                     setCookie("ClickID", clickID);
+                             }
+                             else
+                                 setCookie("ClickID", "");
+                         }
+                     }
+                 });
+             }
          });
      </script>
 
@@ -73,7 +129,9 @@
 </script> 
 <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=420591848077619&amp;ev=NoScript" /></noscript> 
 
-<!-- sp__703 --><meta name="description" content="SportsBetting.ag's privacy policy takes clients' confidentiality very seriously; personal information you supply is strictly confidential. Any unauthorized use of your information, be it distribution or copying it partially or entirely, is strictly prohibited."><meta name="keywords" content="privacy policy, betonline.com privacy policy, betonline.com protection, betonline.com policy, betonline.com information policy, online betting privacy policy, betting privacy policy"><script type="text/javascript" charset="iso-8859-1" src="https://server.lon.liveperson.net/hcp/html/mTag.js?site=61318048"></script></head>
+<!-- sp__703 --><meta name="description" content="SportsBetting.ag's privacy policy takes clients' confidentiality very seriously; personal information you supply is strictly confidential. Any unauthorized use of your information, be it distribution or copying it partially or entirely, is strictly prohibited."><meta name="keywords" content="privacy policy, betonline.com privacy policy, betonline.com protection, betonline.com policy, betonline.com information policy, online betting privacy policy, betting privacy policy"><title>
+	Privacy Policy
+</title><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=61318048"></script></head>
 <body>
 <input id="domainUI" name="domainUI" type="hidden" value="ui.sportsbetting.ag">
 
@@ -87,8 +145,13 @@
     } (document, 'script', 'facebook-jssdk'));</script> 
 
 
-   <header>
-    
+   <header id="mobile-header">
+   
+    <!--div id="announcementbar" style="background-color:#8E0B01; width:100%; text-align:center; z-index: 5789; font-size: 12px; padding: 5px 0; color:#fff"><strong>Important:</strong>We are currently experiencing issues with our phone system. In the meantime please contact us via email or live chat in case you need to speak with our customer service team.</div>
+<script>if(window.location.href == "http://www.sportsbetting.ag" || window.location.href == "http://www.sportsbetting.ag/"){document.getElementById("announcementbar").style.display = 'block';}</script-->
+   
+
+        
 
             <script type="text/javascript">
                 //<![CDATA[             
@@ -157,8 +220,12 @@ $(document).ready(function(){
             <div class="container">
                 <div id="logo">
 		            <a href="/"><img alt="" src="//ui.sportsbetting.ag/img/ag/logo.png"></a>
-	            </div>	                      
-                         
+	            </div>	
+				
+	            <a href="/login" id="mobile-login" style="display:none;"><img src="//ui.sportsbetting.ag/nts/images/sportsbetting/login-nav.png" pagespeed_url_hash="2365101898"></a>
+
+            	<a href="/join" id="mobile-join" style="display:none;"><img src="//ui.sportsbetting.ag/nts/images/sportsbetting/join-nav.png" pagespeed_url_hash="802969823"></a>	                      
+                  
                     <div id="login">
                 <form id="loginForm" action="https://www.sportsbetting.ag/login" method="post">
 
@@ -445,7 +512,11 @@ $(document).ready(function(){
     <!--End overlay-->
     
     
-    <!-- BEGIN LivePerson Monitor. --><script language="javascript">                                          var lpMTagConfig = { 'lpServer': "server.lon.liveperson.net", 'lpNumber': "61318048", 'lpProtocol': (document.location.toString().indexOf('https:') == 0) ? 'https' : 'http' }; function lpAddMonitorTag(src) { if (typeof (src) == 'undefined' || typeof (src) == 'object') { src = lpMTagConfig.lpMTagSrc ? lpMTagConfig.lpMTagSrc : '/hcp/html/mTag.js'; } if (src.indexOf('http') != 0) { src = lpMTagConfig.lpProtocol + "://" + lpMTagConfig.lpServer + src + '?site=' + lpMTagConfig.lpNumber; } else { if (src.indexOf('site=') < 0) { if (src.indexOf('?') < 0) src = src + '?'; else src = src + '&'; src = src + 'site=' + lpMTagConfig.lpNumber; } }; var s = document.createElement('script'); s.setAttribute('type', 'text/javascript'); s.setAttribute('charset', 'iso-8859-1'); s.setAttribute('src', src); document.getElementsByTagName('head').item(0).appendChild(s); } if (window.attachEvent) window.attachEvent('onload', lpAddMonitorTag); else window.addEventListener("load", lpAddMonitorTag, false);</script><!-- END LivePerson Monitor. --> 
+    <!-- BEGIN LivePerson Monitor. -->
+    <script type="text/javascript">
+            window.lpTag = window.lpTag || {}; if (typeof window.lpTag._tagCount === 'undefined') { window.lpTag = { site: '61318048' || '', section: lpTag.section || '', autoStart: lpTag.autoStart === false ? false : true, ovr: lpTag.ovr || {}, _v: '1.5.1', _tagCount: 1, protocol: location.protocol, events: { bind: function (app, ev, fn) { lpTag.defer(function () { lpTag.events.bind(app, ev, fn); }, 0); }, trigger: function (app, ev, json) { lpTag.defer(function () { lpTag.events.trigger(app, ev, json); }, 1); } }, defer: function (fn, fnType) { if (fnType == 0) { this._defB = this._defB || []; this._defB.push(fn); } else if (fnType == 1) { this._defT = this._defT || []; this._defT.push(fn); } else { this._defL = this._defL || []; this._defL.push(fn); } }, load: function (src, chr, id) { var t = this; setTimeout(function () { t._load(src, chr, id); }, 0); }, _load: function (src, chr, id) { var url = src; if (!src) { url = this.protocol + '//' + ((this.ovr && this.ovr.domain) ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site; } var s = document.createElement('script'); s.setAttribute('charset', chr ? chr : 'UTF-8'); if (id) { s.setAttribute('id', id); } s.setAttribute('src', url); document.getElementsByTagName('head').item(0).appendChild(s); }, init: function () { this._timing = this._timing || {}; this._timing.start = (new Date()).getTime(); var that = this; if (window.attachEvent) { window.attachEvent('onload', function () { that._domReady('domReady'); }); } else { window.addEventListener('DOMContentLoaded', function () { that._domReady('contReady'); }, false); window.addEventListener('load', function () { that._domReady('domReady'); }, false); } if (typeof (window._lptStop) == 'undefined') { this.load(); } }, start: function () { this.autoStart = true; }, _domReady: function (n) { if (!this.isDom) { this.isDom = true; this.events.trigger('LPT', 'DOM_READY', { t: n }); } this._timing[n] = (new Date()).getTime(); }, vars: lpTag.vars || [], dbs: lpTag.dbs || [], ctn: lpTag.ctn || [], sdes: lpTag.sdes || [], ev: lpTag.ev || [] }; lpTag.init(); } else { window.lpTag._tagCount += 1; }
+    </script>
+    <!-- END LivePerson Monitor. --> 
     
 
     <script type="text/javascript" src="http://ui.sportsbetting.ag/Scripts/bol/detection.js"></script>
