@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cotswolds.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233905id_/http%3A//cotswolds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswolds.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062859id_/http%3A//cotswolds.com/privacy) for the most accurate reproduction.*
 
 # Cotswolds > Privacy
 
