@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citiprogram.org privacy policy that was archived on 2015-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150211075018id_/https%3A//www.citiprogram.org/index.cfm%3FpageID%3D266) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiprogram.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054231id_/https%3A//www.citiprogram.org/index.cfm%3FpageID%3D266) for the most accurate reproduction.*
 
 # CITI - Collaborative Institutional Training Initiative
 
@@ -24,7 +24,7 @@ For non-logged-in users accessing "public" areas of the site, we monitor page vi
 
 In addition to information collected by standard monitoring technology, some parts of the CITI Program websites may ask you to provide personal information, such as during the Learner Registration process to obtain a CITI Program username and password. You will know when you are sharing personal information with us because you will need to send a message, fill out a form or application or survey, and then agree to provide this information to us by clicking a "submit" or "send" button.
 
-These online forms, applications, and surveys may ask you to provide personal information like contact information (e.g., home address or email addresses or phone numbers), unique identifiers (e.g., employee or student ID number at your institution), or financial information (e.g., account or credit card numbers). If you choose to share personal information with us, we will use or disclose it only for the purposes you or the subscriber institution(s) with which you are affiliated have authorized by accepting the [**Terms of Service**](https://web.archive.org/web/20150211075018id_/https%3A//www.citiprogram.org/index.cfm?pageID=259) for CITI Program access. 
+These online forms, applications, and surveys may ask you to provide personal information like contact information (e.g., home address or email addresses or phone numbers), unique identifiers (e.g., employee or student ID number at your institution), or financial information (e.g., account or credit card numbers). If you choose to share personal information with us, we will use or disclose it only for the purposes you or the subscriber institution(s) with which you are affiliated have authorized by accepting the [**Terms of Service**](https://web.archive.org/web/20150905054231id_/https%3A//www.citiprogram.org/index.cfm?pageID=259) for CITI Program access. 
 
 Personal information may be used to configure your experience as a learner (e.g., selection of courses), respond to requests for information or materials for you, or to contact you when necessary or requested by institutions with which you are affiliated. Unique identifiers are collected to verify your identity in CITI Program record systems and for data transfers to the subscriber institution(s) with which you are affiliated. Financial information that is collected is used to bill you for products and services you have requested independently of those purchased by the institution(s) with which you are affiliated.
 
@@ -32,7 +32,7 @@ Some of the information that we collect or that you provide may be saved for a d
 
 **Information Related to Minors**
 
-CITI Program does not knowingly create accounts for nor collect information from minors under 18 years of age without parental consent or parental notification. CITI Program accounts are not knowingly provided to any persons under 13 years of age under any circumstances.  For information, see the [**Terms of Service**](https://web.archive.org/web/20150211075018id_/https%3A//www.citiprogram.org/index.cfm?pageID=259). 
+CITI Program does not knowingly create accounts for nor collect information from minors under 18 years of age without parental consent or parental notification. CITI Program accounts are not knowingly provided to any persons under 13 years of age under any circumstances.  For information, see the [**Terms of Service**](https://web.archive.org/web/20150905054231id_/https%3A//www.citiprogram.org/index.cfm?pageID=259). 
 
 **Mail and Other Communications**
 
