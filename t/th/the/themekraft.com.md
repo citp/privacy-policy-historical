@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themekraft.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415043521id_/http%3A//themekraft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themekraft.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085533id_/http%3A//themekraft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WordPress Themes by Themekraft
 
