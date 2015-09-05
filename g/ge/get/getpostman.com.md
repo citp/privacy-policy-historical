@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpostman.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410020042id_/http%3A//www.getpostman.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpostman.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905231416id_/https%3A//www.getpostman.com/privacy) for the most accurate reproduction.*
 
 # Postman | Privacy policy
 
