@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacu.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315090114id_/https%3A//www.vacu.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacu.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065440id_/https%3A//www.vacu.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Virginia Credit Union > Privacy
 
@@ -8,9 +8,11 @@ For purposes of this Policy, "online" means utilization of an internet communica
 
 ## Accessibility and cookies
 
-Cookies are pieces of data stored by your browser that are useful for expediting page loads or enhancing your online experience when you return to a website.
+Cookies are pieces of data stored by your Web browser that are useful for expediting page loads or enhancing your online experience when you return to a website.
 
-Although cookies do not reveal our members' identity, we do use cookies to help us to confirm our members' identities before granting access to our secure online banking system. To take full advantage of the level of security that we offer, your browser must meet certain requirements, such as supporting 128 bit encryption and being set to allow our servers to create a cookie on your system.
+Although cookies do not reveal our members' identity, we use cookies to help us confirm our members' identities before granting access to our secure online banking system. To take full advantage of the level of security that we offer, your browser must meet certain requirements, such as supporting 128-bit encryption and being set to allow our servers to create a cookie on your system.
+
+We also use Google Analytics Demographics and Interest Reporting cookies to analyze trends, administer the website, track users’ movements around the website, and gather aggregated demographic information. We may also contract with third-party companies who use cookies to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Virginia Credit Union. To opt-out of data from being used by Google Analytics, visit <https://tools.google.com/dlpage/gaoptout>.
 
 Please [contact us](https://web.archive.org/About_VACU/Contact_Us.aspx) if you have any questions, comments, or concerns about the accessibility of any page on our website.
 
@@ -26,7 +28,7 @@ Whenever you submit information to us using methods we make available to you on 
 
 For a full description of security measurements for transacting with us online and for specific browser requirements, please refer to our [Online Banking Agreement and Electronic Funds Transfer Disclosure](https://web.archive.org/portals/0/pdfs/onlinebankingagreement.pdf).
 
-**Google Maps API:** When accessing third-party Google Maps on our website, you are agreeing to Google’s [Terms of Service](https://developers.google.com/maps/terms) and [Privacy Policy](http://www.google.com/privacy.html).
+**Google Maps API:** When accessing third-party Google Maps on our website, you are agreeing to Google’s [Terms of Service](https://developers.google.com/maps/terms) and [Privacy Policy](http://www.google.com/policies/privacy/).
 
 ## How to stop or unsubscribe from receiving communication from us
 
@@ -34,7 +36,7 @@ If your email address or a phone number for receiving text messages is on record
 
 ## Children’s Online Privacy Protection Act (COPPA)
 
-Unless verifiable consent acceptable to us is obtained from a parent or legal guardian, we do not knowingly collect, maintain or use personal information obtained from our website about children under 13 years of age. We are not responsible for the data collection or use practices of any party to which our website may link. For more information about the Children's Online Privacy Protection Act (COPPA), visit the Federal Trade Commission website, [www.ftc.gov](http://www.ftc.gov/).
+Unless verifiable consent acceptable to us is obtained from a parent or legal guardian, we do not knowingly collect, maintain or use personal information obtained from our website about children under 13 years of age. We are not responsible for the data collection or use practices of any party to which our website may link. For more information about the Children's Online Privacy Protection Act (COPPA), visit the Federal Trade Commission website, [www.ftc.gov](https://www.ftc.gov/).
 
 ## Links to other websites or when other websites display our advertisements
 
