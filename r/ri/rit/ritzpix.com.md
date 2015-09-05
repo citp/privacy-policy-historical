@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512120424id_/http%3A//www.ritzpix.com/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074337id_/https%3A//www.ritzpix.com/help/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -21,7 +21,7 @@ RitzPix is also referred to in this Statement as "we" and "us".
 
 **In General**  
 **Your Photo Albums, Album Sharing, and Address Book**  
-RitzPix is committed to providing you with a safe environment to upload, share and print your photos. Except for albums you choose to share publicly without password protection, your photos are password protected and are not visible to others unless you explicitly share them. See **["Terms and Conditions"](http://www.ritzpix.com/help/terms-and-conditions)**. for further details.
+RitzPix is committed to providing you with a safe environment to upload, share and print your photos. Except for albums you choose to share publicly without password protection, your photos are password protected and are not visible to others unless you explicitly share them. See **["Terms and Conditions"](https://www.ritzpix.com/help/terms-and-conditions)**. for further details.
 
 If you invite visitors to see your photos, by clicking on the "Share" tab, RitzPix will send an email to your list of invitees containing the URL to your album. **Please note that your invitees can then forward the email containing the URL to other parties if they choose to do so when they share albums publicly.**
 
@@ -30,7 +30,7 @@ RitzPix only uses your personal information to conduct business with you. Your p
 
 **We may change this Privacy Policy without notice from time to time. Please visit this page for updates and changes. Regardless of later changes or updates, RitzPix will not use your information in a new way without first providing you with an opportunity to opt-out.**
 
-**Also, if you have not already done so, please click here to review the **["Terms and Conditions"](http://www.ritzpix.com/help/terms-and-conditions)** that govern your use of the Service. Our privacy policy is considered part of the Terms of Service. **
+**Also, if you have not already done so, please click here to review the **["Terms and Conditions"](https://www.ritzpix.com/help/terms-and-conditions)** that govern your use of the Service. Our privacy policy is considered part of the Terms of Service. **
 
 **Information We Collect and How We Use It**
 
@@ -61,7 +61,7 @@ If you entered RitzPix's Web site by clicking a link or promotion on another Web
 We may share your personally identifiable information with those companies that assist us in providing the Service to you. Following are some examples of our use of third party service providers: We may share your credit card information with a financial institution to effect your purchase of our products using your credit card. We may share personally identifiable information (not including credit card information) with third parties that assist us with the administration of our newsletters or contests or that help us understand what our customers want and need from our service, including analysis of the results of particular surveys we may perform. We also engage third parties to assist us by tracking the number of visitors to our Web site, including visitors that have "clicked-through" from specified promotions on third party Web sites and those visitors' activities on the site. We may also choose to offer certain third party products, such as Custom Printed Cards or PrePaid Cards through the Service and may disclose certain portions of your personally identifiable information (not including credit card information) to allow those product producers to fulfill your product order. 
 
 **Your Copyrights**  
-RitzPix Imaging Network respects the intellectual property rights of others. We claim no ownership rights in any image contained in any of your photo albums and will not share your images unless instructed by you or otherwise required by law. Please note that when you share a photo album, you allow the recipients of that album to share and make photographic prints from the images contained in that album. For more information, see our **["Terms and Conditions"](http://www.ritzpix.com/help/terms-and-conditions)**. 
+RitzPix Imaging Network respects the intellectual property rights of others. We claim no ownership rights in any image contained in any of your photo albums and will not share your images unless instructed by you or otherwise required by law. Please note that when you share a photo album, you allow the recipients of that album to share and make photographic prints from the images contained in that album. For more information, see our **["Terms and Conditions"](https://www.ritzpix.com/help/terms-and-conditions)**. 
 
 **Opting-Out, Updates and Security**
 
@@ -166,7 +166,7 @@ We do our best to send you the highest quality prints and products. Please keep 
 
  **If you paid for your order online and request a refund or redo,** please print and fill out the form below. Then mail the form with your order to the address below. Refunds will be posted after we receive your returned items, you will then see the refund post to your account within 4-5 business days.
 
-[Download Ritz Return Form](http://www.ritzpix.com/media/pdf/RitzpixReturnForm.pdf)
+[Download Ritz Return Form](https://www.ritzpix.com/media/pdf/RitzpixReturnForm.pdf)
 
 **_Please ship Mail Order returns to:_** _
 
