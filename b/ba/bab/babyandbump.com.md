@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the babyandbump.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405192131id_/http%3A//www.totallyher.com/privacy/%3Fsite%3Dwww.BabyAndBump.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyandbump.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905193832id_/http%3A//www.totallyher.com/privacy/%3Fsite%3Dwww.BabyAndBump.com) for the most accurate reproduction.*
 
 # TotallyHer
 
-**[www.BabyAndBump.com](http://www.babyandbump.com/) ****(the “Website”)**
+**[www.babyandbump.com](http://www.babyandbump.com/) ****(the “Website”)**
 
   **Privacy Policy**
 
 This privacy policy was last modified on September 4, 2014 (the “Effective Date”).
 
-TotallyHer (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.BabyAndBump.com](http://www.babyandbump.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
+TotallyHer (the “Company”), a subsidiary of Evolve Media, LLC and the owner and operator of the website [www.babyandbump.com](http://www.babyandbump.com/) (the “Site”), takes your privacy very seriously. This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected. If you have any questions about this privacy policy, please contact our legal team at [legal@evolvemediallc.com](mailto:legal@evolvemediallc.com).
 
   1. [Scope](http://www.totallyher.com/privacy/#scope)
   2. [What information the Site collects](http://www.totallyher.com/privacy/#collect)
