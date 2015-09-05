@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metronomeonline.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407130908id_/http%3A//www.metronomeonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metronomeonline.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905221235id_/https%3A//www.metronomeonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | METRONOME ONLINE - free!
+# Privacy Policy | METRONOME ONLINE - free online metronome
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE.**
 
