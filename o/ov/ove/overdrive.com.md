@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626165752id_/https%3A//www.overdrive.com/fine-print/account-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overdrive.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054316id_/https%3A//www.overdrive.com/fine-print/account-privacy-policy) for the most accurate reproduction.*
 
 # OverDrive Account Privacy Policy · OverDrive: eBooks, audiobooks and videos for libraries
 
@@ -54,9 +54,9 @@ Examples of information OverDrive tracks include, but are not limited to:
 
 
 
-OverDrive uses Google Analytics, including the Google Analytics Demographics and Interest Reporting feature, and other software to track website usage. 
+OverDrive uses Webtrends, Google Analytics, including the Google Analytics Demographics and Interest Reporting feature, and other software to track website usage. For more information on Webtrends, please visit [http://webtrends.com](http://webtrends.com/). For 
 
-For more information on Google Analytics, please visit <http://www.google.com/analytics/>. You can opt out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/u/0/ads).
+more information on Google Analytics, please visit <http://www.google.com/analytics/>. You can opt out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/u/0/ads).
 
 ### How does OverDrive use information?
 
