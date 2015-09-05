@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicdomainarchive.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021304id_/http%3A//publicdomainarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicdomainarchive.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195524id_/http%3A//publicdomainarchive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Public Domain Images | Free Stock Photos
 
@@ -22,11 +22,11 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 PublicDomainArchive.com may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
+  * _– To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To improve our Site_  
+  * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
