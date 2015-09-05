@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the consumercellular.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315091706id_/https%3A//www.consumercellular.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercellular.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905200405id_/https%3A//www.consumercellular.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy and Security - Consumer Cellular
 
-Protecting privacy and ensuring security is important to Consumer Cellular. Our privacy and security policies are outlined below. If you still have questions, feel free to call us at 1-888-345-5509. 
+Protecting privacy and ensuring security is important to Consumer Cellular. Our privacy and security policies are outlined below. If you still have questions, feel free to call us at (888) 345-5509. 
 
 ## Privacy
 
@@ -20,7 +20,7 @@ When contacting us via email, or the 'Contact Us' smart-form, please do not incl
 
 ## Your access to and control over information.
 
-You may opt out of any future contacts from us at any time. By contacting us via our contact form or calling 1-888-345-5509, you can do the following at any time: 
+You may opt out of any future contacts from us at any time. By contacting us via our contact form or calling (888) 345-5509, you can do the following at any time: 
 
   * See what data we have about you, if any.
   * Change/correct any data we have about you.
