@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lemonfree.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323031908id_/https%3A//www.lemonfree.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonfree.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905101503id_/https%3A//www.lemonfree.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LemonFree.com
 
