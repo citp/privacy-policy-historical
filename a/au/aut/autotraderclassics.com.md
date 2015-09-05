@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324115940id_/http%3A//www.autotraderclassics.com/help/privacy-statement.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotraderclassics.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905150824id_/http%3A//www.autotraderclassics.com/help/privacy-statement.xhtml) for the most accurate reproduction.*
 
 # AutoTraderClassics.com - Privacy Statement
 
