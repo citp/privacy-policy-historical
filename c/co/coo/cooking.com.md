@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229163532id_/http%3A//www.cooking.com/help/detail/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooking.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054226id_/http%3A//www.cooking.com/help/detail/privacy) for the most accurate reproduction.*
 
-# Privacy Policy at Cooking.com
+# Privacy Policy at cooking.com
 
 At Cooking.com, we want you to know how we collect, use, share and protect information about you. By interacting with Cooking.com, you consent to use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically. To help you track the changes, we include a history of changes below.
 
@@ -37,7 +37,11 @@ In order to provide the best guest experience possible, we also use these techno
 
 #### Third-Party Automated Collection
 
-We allow third-party companies to collect information when you visit our website and to use that information to serve ads for products or services or for the products or services of other companies when you visit this website or other websites. These companies collect non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, MAC address, cookie and session ID, and IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance website.](http://aboutads.info/)
+Cooking.com participates in online behavioral advertising (OBA), also known as interest-based advertising. We use third-party advertising companies to display ads tailored to your individual interests based on how you browse and shop online.
+
+We allow third-party companies to collect information when you visit our website and to use that information to serve ads for products or services or for the products or services of other companies when you visit this website or other websites. These companies collect non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, MAC address, cookie and session ID) and personally identifiable information (e.g. IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacon to collect this information.
+
+At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt out of behavioral advertising. To learn more about OBA or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance website.](http://aboutads.info/)
 
 ### Social Media Widgets 
 
@@ -217,4 +221,6 @@ By E-mail: Send an email request to [Customer Service](http://www.cooking.com/he
 
 ### 8\. Cooking.com Privacy Policy Revisions
 
-Last update: 11/20/2013
+Last update: 12/30/2013
+
+December 2013 Added information about Online Behavioral Advertising
