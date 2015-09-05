@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the megalytic.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012031847id_/https%3A//megalytic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megalytic.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905095017id_/https%3A//megalytic.com/privacy) for the most accurate reproduction.*
 
-# Megalytic - Privacy Policy
+# Megalytic | Privacy Policy
 
-### Privacy Policy
+Last Updated June 15, 2014
 
-Last Updated April 18, 2012
-
-Digital Brand Mine LLC (the “Company,” “we,” “us,” or “our”) owns and operates MEGALYTIC.COM (the “Site”), along with web services related to the Site (collectively, the "Service"). This privacy policy (the "Privacy Policy") describes how the Company collects and uses information and data from users of the Service.
+Digital Brand Mine LLC (the “Company,” “we,” “us,” or “our”) owns and operates MEGALYTIC.COM (the “Site”), along with web services related to the Site (collectively, the “Service”). This privacy policy (the “Privacy Policy”) describes how the Company collects and uses information and data from users of the Service.
 
 If you have any questions or comments regarding this privacy policy or its enforcement, please contact the Company at [legal@megalytic.com](mailto:legal@megalytic.com).
 
@@ -14,7 +12,7 @@ As used herein, the terms “you” and “your” refer to you (together with t
 
 #### 1\. Personal Information
 
-“Personal Information,” as used in this policy, is information that may be used to identify an individual, such as a person’s name, email address, or credit card number. 
+“Personal Information,” as used in this policy, is information that may be used to identify an individual, such as a person’s name, email address, or credit card number.
 
 ##### A. How We Collect Personal Information
 
@@ -38,7 +36,7 @@ If you post any of your information to a public area of the Service, please be a
 
 ##### D. Non-Personal Information We Collect, and How We Use It
 
-We may also collect information that is not personally identifiable, and may aggregate Personal Information or otherwise render it anonymous ( collectively, “Non-Personal Information). We may use Non-Personal Information that we collect to (a) provide, improve, and develop the Service and otherwise tailor your user experience, (b) prevent or investigate fraudulent or inappropriate usage of our Service, and (c) conduct research and development, and for the other purposes described in this Privacy Policy. We may also share Non-Personal Information with third parties. 
+We may also collect information that is not personally identifiable, and may aggregate Personal Information or otherwise render it anonymous ( collectively, “Non-Personal Information). We may use Non-Personal Information that we collect to (a) provide, improve, and develop the Service and otherwise tailor your user experience, (b) prevent or investigate fraudulent or inappropriate usage of our Service, and (c) conduct research and development, and for the other purposes described in this Privacy Policy. We may also share Non-Personal Information with third parties.
 
 ##### E. Usage Tracking and Passive Collection of Information
 
@@ -50,7 +48,7 @@ If we directly combine any Non-personal Information gathered through passive mea
 
 #### 2\. Children
 
-Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly collect Personal Information from anyone under the age of 13 without requiring parental consent. Any individual person who provides his or her Personal Information to us through the Service represents that he or she is older than 12 years of age. If we become aware that a person under 13 has provided Personal Information, the Company will take steps to remove such information and terminate the respective account. 
+Consistent with the federal Children’s Online Privacy Protection Act of 1998 (COPPA), we will never knowingly collect Personal Information from anyone under the age of 13 without requiring parental consent. Any individual person who provides his or her Personal Information to us through the Service represents that he or she is older than 12 years of age. If we become aware that a person under 13 has provided Personal Information, the Company will take steps to remove such information and terminate the respective account.
 
 #### 3\. Our Commitment to Data Security
 
@@ -60,29 +58,30 @@ If the Company learns of a security systems breach we may attempt to notify you 
 
 #### 4\. Third-Party Sites and Services
 
-Our Service may contain links to or interoperate with third-party sites and services. Any links to or interoperability with third-party sites or services are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of such third parties. Any Personal Information that you provide to any other third party is subject to that third party’s privacy practices and policies, not this policy. We encourage you to learn about their privacy and security practices and policies before providing them with Personal Information. 
+Our Service may contain links to or interoperate with third-party sites and services. Any links to or interoperability with third-party sites or services are provided for your convenience only, and we do not have control over the content or privacy and security practices and policies of such third parties. Any Personal Information that you provide to any other third party is subject to that third party’s privacy practices and policies, not this policy. We encourage you to learn about their privacy and security practices and policies before providing them with Personal Information.
 
 #### 5\. Business Transfers
 
-Information about our users, including Personal Information, may be disclosed to a successor to all or substantially all of the Company’s business or assets that concern the Service as part of a merger, acquisition, debt financing, sale of company assets, or similar transaction or in the unlikely event of an insolvency, bankruptcy, or receivership in which Personal Information would be transferred as one of our business assets. In the event of such a transfer, such successor will have all of the rights and be subject to all of the obligations of this Privacy Policy. 
+Information about our users, including Personal Information, may be disclosed to a successor to all or substantially all of the Company’s business or assets that concern the Service as part of a merger, acquisition, debt financing, sale of company assets, or similar transaction or in the unlikely event of an insolvency, bankruptcy, or receivership in which Personal Information would be transferred as one of our business assets. In the event of such a transfer, such successor will have all of the rights and be subject to all of the obligations of this Privacy Policy.
 
 #### 6\. International Visitors
 
-The Service is hosted in and provided from the United States of America (“USA”). If you use our Service from the European Union or other regions with laws governing data collection and use that may differ from USA law, please note that by using the Service you are transferring your personal data to the USA. All matters relating to the Service are governed by the laws the State of New York, USA. By providing your Personal Information, you consent to the transfer of your personal data to the USA and the storage, processing and use of your Personal Information, in accordance with this Privacy Policy. 
+The Service is hosted in and provided from the United States of America (“USA”). If you use our Service from the European Union or other regions with laws governing data collection and use that may differ from USA law, please note that by using the Service you are transferring your personal data to the USA. All matters relating to the Service are governed by the laws the State of New York, USA. By providing your Personal Information, you consent to the transfer of your personal data to the USA and the storage, processing and use of your Personal Information, in accordance with this Privacy Policy.
 
 #### 7\. Information Retention and Disposal
 
-We may retain Personal Information and Non-Personal Information for as long as we have a business need for it or applicable laws or regulations or government orders require us to retain it. For as long as all such information is retained, we will be subject to all of the obligations for the use and disclosure of such information set forth in this Privacy Policy. 
+We may retain Personal Information and Non-Personal Information for as long as we have a business need for it or applicable laws or regulations or government orders require us to retain it. For as long as all such information is retained, we will be subject to all of the obligations for the use and disclosure of such information set forth in this Privacy Policy.
 
 #### 8\. Changes and Updates
 
-We may occasionally update this Privacy Policy. When we do, we will also revise the “Last Updated” date at the top of this policy. We encourage you to review this Privacy Policy periodically to stay informed about our collection, use, and disclosure of Personal Information and Non-Personal Information. 
+We may occasionally update this Privacy Policy. When we do, we will also revise the “Last Updated” date at the top of this policy. We encourage you to review this Privacy Policy periodically to stay informed about our collection, use, and disclosure of Personal Information and Non-Personal Information.
 
 #### 9\. How to Contact Us
 
 Should you have other questions or concerns about this privacy policy, please contact us using the following contact information:
 
 **Digital Brand Mine LLC**  
-708 Third Avenue, 5th Floor  
+708 Third Avenue, 6th Floor  
 New York, NY 10017  
-[legal@megalytic.com](mailto:legal@megalytic.com)
+[legal@megalytic.com](mailto:legal@megalytic.com)  
+
