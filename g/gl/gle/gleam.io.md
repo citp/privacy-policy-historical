@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315052832id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleam.io privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906011854id_/https%3A//gleam.io/privacy) for the most accurate reproduction.*
 
 # Gleam Privacy Policy
 
-This Privacy Policy governs the manner in which Gleam collects, uses, maintains and discloses information collected from users (each, a "User") of the http://gleam.io website ("Site"). This privacy policy applies to the Site and all products and services offered by Gleam.
+Here at Gleam we take privacy and security very seriously. This Privacy Policy governs the manner in which Gleam collects, uses, maintains and discloses information collected from users (each, a "User") of the https://gleam.io website ("Site"). This privacy policy applies to the Site and all products or services offered by Gleam.
 
-## Personal Identification Information
+## Personally Identifable Information
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to our newsletter, fill out a form, or in connection with other activities, services, features or resources we make available. Users may be asked for, as appropriate, email address. Users may, however, also visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
@@ -12,9 +12,44 @@ We may collect personal identification information from Users in a variety of wa
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
+## Gleam Campaign Users
+
+Companies that use Gleam to run campaigns may require users to supply certain information to them.
+
+### Name + Email
+
+By default each campaign will collect basic login information from users that includes their full name and email address. By entering campaigns you are accepting that campaign owners will have access to the information you provide.
+
+### Social Logins
+
+Gleam also allows you to connect social accounts to your profile. Companies that have social logins enabled on their Campaigns will be able to see information related to accounts that you connect. This includes but is not limited to your social profile URL's and associated profile photos.
+
+  * Gleam will never use or post to these accounts without your permission and will always require your interaction with the widget to execute any specific actions.
+  * Gleam will only ever use information that you have made public or allowed us to access.
+  * Gleam does not know or store any passwords associated with your social accounts.
+  * If you wish to remove the link between Gleam and any social network, you can remove the Gleam Competitions app inside that specific social network.
+
+
+
+### Existing Users
+
+Gleam is a distrubuted platform, which means that if a user is already logged into our widget they will continue to stay logged in across other Campaigns owned by other Companies.
+
+Gleam does not provide any personal information to Companies that run contests until you complete at least 1 action in their Campaign. This means that you do not expose any personal information to Companies until you actively participate in a Campaign. 
+
 ## Cookies
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use Cookies to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site and Campaigns may not function properly.
+
+Campaigns use Cookies to track information about users in order to serve them content. This includes but is not limited to:
+
+  * Tracking logged in users across multiple Campaigns.
+  * Tracking Viral Share users.
+  * Tracking browser behaviours to show Capture campaigns.
+  * Tracking mouse movements to trigger exit campaigns.
+  * Tracked users referred by our Referral Program
+
+
 
 ## Information Security
 
@@ -22,7 +57,7 @@ We take all reasonable steps to ensure that the personal information we collect,
 
 ## How We Use Collected Information
 
-Gleam may collect and use Users personal information for the following purposes: 
+Gleam may collect and use Users personal information for the following purposes:
 
   * To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * To run a promotion, contest, survey or other Site feature: To send Users information they agreed to receive about topics we think will be of interest to them.
@@ -40,6 +75,10 @@ Sensitive and private data exchange between the Site and its Users happens over 
 
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
+## Notice To European Users
+
+leam's primary business operations are located in the USA, by providing information to us you agreeing that it will be transferred and stored out of the European Union.
+
 ## Third Party Websites
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
@@ -47,6 +86,10 @@ Users may find advertising or other content on our Site that link to the sites a
 ## Compliance With Children's Online Privacy Protection Act
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+## Business Transfers
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Gleam, or substantially all of its assets were to be acquired, or in the unlikely event that Gleam goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquire of Gleam or its assets may continue to use your Personal Information as set forth in this policy.
 
 ## Changes To This Privacy Policy
 
@@ -60,4 +103,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [hello@gleam.io](mailto:hello@gleam.io)
 
-This document was last updated on December 14, 2014
+This document was last updated on July 30, 2015
