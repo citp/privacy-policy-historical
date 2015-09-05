@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zefron.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206215930id_/http%3A//www.zefron.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zefron.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070536id_/http%3A//www.zefron.com/privacy) for the most accurate reproduction.*
 
 # ZAC EFRON | ZEFRON.COM – Your first stop and #1 source for all the latest on Zac Efron! » Privacy Policy
 
@@ -8,9 +8,7 @@ At www.zefron.com, the privacy of our visitors is of extreme importance to us. T
 
   
   
-style="display:inline-block;width:468px;height:60px"  
-data-ad-client="ca-pub-6151250532899397"  
-data-ad-slot="2373265297">  
+  
 
 
 **Log Files**  
