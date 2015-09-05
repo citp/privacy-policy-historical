@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allposters.com.au privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411033224id_/http%3A//www.allposters.com.au/help/guarantee.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allposters.com.au privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905071846id_/http%3A//www.allposters.com.au/help/guarantee.html%23privacy) for the most accurate reproduction.*
 
 # AllPosters.com.au Help Page
 
