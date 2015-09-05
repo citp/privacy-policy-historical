@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-savvy-marketing.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421042039id_/http%3A//www.web-savvy-marketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-savvy-marketing.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906002959id_/http%3A//www.web-savvy-marketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
