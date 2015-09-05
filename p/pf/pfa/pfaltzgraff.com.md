@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602210548id_/http%3A//www.pfaltzgraff.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905082931id_/http%3A//www.pfaltzgraff.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ Accepting cookies through your web browser is your personal choice. You can set 
 
 ## How can you contact us with your questions or comments?
 
-[You can choose from several methods available to get in touch with us.](http://www.pfaltzgraff.com/on/demandware.store/Sites-Pfaltzgraff-Site/default/Link-Page?cid=contact-us) We're always happy to answer your questions or listen to your comments.
+[You can choose from several methods available to get in touch with us.](https://www.pfaltzgraff.com/on/demandware.store/Sites-Pfaltzgraff-Site/default/Link-Page?cid=contact-us) We're always happy to answer your questions or listen to your comments.
 
 ## How do we protect your personal information?
 
