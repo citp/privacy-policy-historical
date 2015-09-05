@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the definitions.net privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516220105id_/http%3A//www.definitions.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitions.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053752id_/http%3A//www.definitions.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
