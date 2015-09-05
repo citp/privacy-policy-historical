@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cotopaxi.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508003949id_/http%3A//cotopaxi.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotopaxi.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905235305id_/http%3A//cotopaxi.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cotopaxi - Gear For Good
 
