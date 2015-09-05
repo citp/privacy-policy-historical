@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylinonline.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508235620id_/http%3A//www.stylinonline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylinonline.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905090541id_/http%3A//www.stylinonline.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Stylin Online Privacy Policy
 
@@ -51,4 +51,4 @@ Finally, we never use or share the personally identifiable information provided 
   
 How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 586-270-1086 or send us an email at [orders@stylinonline.com](mailto:orders@stylinonline.com).
+Should you have other questions or concerns about these privacy policies, please call us at 855-411-8337 or send us an email at [orders@stylinonline.com](mailto:orders@stylinonline.com). 
