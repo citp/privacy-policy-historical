@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcrosswords.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610090032id_/http%3A//www.bestcrosswords.com/bestcrosswords/Policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcrosswords.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905210639id_/http%3A//www.bestcrosswords.com/bestcrosswords/Policy.page%3Bjsessionid%3DD45A8F54394CD643C589ED77CEDD960A) for the most accurate reproduction.*
 
 # BestCrosswords.com - BESTCROSSWORDS.COM Privacy Policy
 
