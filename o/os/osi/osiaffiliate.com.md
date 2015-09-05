@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602071431id_/http%3A//www.osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905184452id_/http%3A//www.osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
 
 # affiliate software - privacy
 
+### Privacy Policy
+
 Omnistar Interactive has implemented this privacy policy to demonstrate our firm commitment to protecting our customers' privacy. This statement sets forth our information gathering and dissemination practices for all sites in the Omnistar Interactive family of sites.
 
-### What We Collect and Where 
+#### What We Collect and Where 
 
 Our sites use several different forms that our customers can use to request information, products, and services. From these forms, we collect the following information: 
 
-* -Visitors' contact information
-* -Financial information
-* -IP addresses
+* Visitors' contact information
+* Financial information
+* IP addresses
 
-### How Secure is the Information We Collect?
+#### How Secure is the Information We Collect?
 
 Omnistar makes every effort to follow industry standard security measures to prevent the loss, misuse and alteration of the information under our control.
 
-### What Do We Use This Information For?
+#### What Do We Use This Information For?
 
 **Contact Information**
 
@@ -24,8 +26,7 @@ We use your contact information to send you information about our company and to
 
 **Release of Personal Information in Extraordinary Circumstances**
 
-Except as provided for in this Privacy Policy, Service Provider will never share Customers' personal information with third parties without Customers' express permission unless extraordinary circumstances apply. With respect to the release of personal information, extraordinary circumstances may exist when the disclosure of such information is legally required or requested by a governmental entity, or when Service Provider, acting in good faith, believes that the disclosure of such information is necessary to conform to legal requirements or comply with legal process, protect the rights of Service Provider, prevent a crime or protect national security, or protect the personal safety of its Customers or the public.  
-
+Except as provided for in this Privacy Policy, Service Provider will never share Customers' personal information with third parties without Customers' express permission unless extraordinary circumstances apply. With respect to the release of personal information, extraordinary circumstances may exist when the disclosure of such information is legally required or requested by a governmental entity, or when Service Provider, acting in good faith, believes that the disclosure of such information is necessary to conform to legal requirements or comply with legal process, protect the rights of Service Provider, prevent a crime or protect national security, or protect the personal safety of its Customers or the public.
 
 **Privacy Policy Changes**
 
