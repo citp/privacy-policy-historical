@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the totango.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329105750id_/http%3A//www.totango.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totango.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905063315id_/https%3A//www.totango.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Totango
+# Privacy Policy | Totango | Customer Success Software
 
-[ ](https://privacy.truste.com/privacy-seal/Totango,-LLC/validation?rid=dd764eec-7c82-4509-9634-638dca4c1fad "Validate TRUSTe privacy certification")
-
-Like any cloud based offering, Totango understands that by using our services you are entrusting us with business critical and sensitive information. As such, we take serious measures, technical and procedural, to ensure data is kept secure and private and within your control. Totango, LLC has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://trusted%20cloud%20program%20requirementstrusted%20cloud%20program%20requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [http://totango.com](http://totango.com/) and Through the Totango Services.
+Like any cloud based offering, Totango understands that by using our services you are entrusting us with business critical and sensitive information. As such, we take serious measures, technical and procedural, to ensure data is kept secure and private and within your control. Totango, LLC has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](https://www.truste.com/privacy-certification-standards/trusted-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [http://totango.com](http://totango.com/) and Through the Totango Services.
 
 TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@totango.com. If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
@@ -15,11 +13,8 @@ You can read our complete privacy policy further down this page. The highlights 
 ## The Highlights
 
   *  It’s your data. At your request, we will provide you a full digital copy of your data and/or permanently remove all copies of it from our databases. You can request this at any time, from the first moment you signup for free trial, throughout your subscription and after. You decide what information to store in your Totango data-store, what parameters and for which accounts.
-
   * We will never use your data without your permission. We will not sell, resell or otherwise share your data with 3rd parties, either before, during or after your subscription with us. From time to time, Totango compiles industry wide benchmarks for the benefit of the online software community. These are always aggregated benchmarks, conducted from anonymized versions of customer data and cannot be linked back to individual accounts. You can decide to opt-out from these benchmarks at any time.
-
   * Your data is secure with Totango. Totango follows generally accepted industry standards to keep your data safe & secure. Communications to and from Totango are encrypted using state of the art SSL technology. Additionally we provide application-layer security features to further anonymize your sensitive data.
-
 
 
 
@@ -87,14 +82,14 @@ We partner with a third party ad network to either display advertising on our We
 
 13\. Links to 3rd Party Sites. Our Site includes links to other Web sites whose privacy practices may differ from those of Totango, LLC. If you submit Personally Identifiable Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
-14\. Modification. We reserve the right, at our discretion, to change the terms of this Privacy Policy at any time. Such change will become effective thirty (30) days following notification to our Customers by email or by posting an updated version on our website [www.totango.com](https://www.totango.com/) and shall not affect Personally Identifiable Information collected prior to the date when the change becomes effective.
+14\. Modification. We reserve the right, at our discretion, to change the terms of this Privacy Policy at any time. Such change will become effective thirty (30) days following notification to our Customers by email or by posting an updated version on our website [www.totango.com](http://www.totango.com/) and shall not affect Personally Identifiable Information collected prior to the date when the change becomes effective.
 
 15\. Contacting Us. Any comments, concerns, complaints, or questions regarding our Privacy Policy may be addressed to: [privacy@totango.com](mailto:privacy@totango.com?subject=Privacy%20Request) or
 
-Totango LLC   
-1200 Park Pl #200   
-San Mateo, CA 94403   
-United States   
-(800) 634-1990 
+Totango LLC  
+1200 Park Pl #200  
+San Mateo, CA 94403  
+United States  
+(800) 634-1990
 
 Effective Date: 08/16/2014
