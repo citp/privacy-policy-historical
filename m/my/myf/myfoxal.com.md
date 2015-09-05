@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfoxal.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160158id_/http%3A//www.myfoxal.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxal.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053338id_/http%3A//www.myfoxal.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyFoxAL.com - FOX6 WBRC Birmingham, AL
+# Privacy Policy - WBRC FOX6 - Birmingham, AL - WBRC.com
 
 We provide a variety of online web services, mobile applications, and services for location-enabled and other types of devices (collectively, the "Services") from news and weather to interactive entertainment to electronic commerce via our relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow") and other vendors. WorldNow is the host of the Services. Because the success of the Services is dependent on building and maintaining goodwill with our customers, the Services and WorldNow (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using the Services. 
 
