@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinamericancupid.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520123234id_/http%3A//www.latinamericancupid.com/en/general/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinamericancupid.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072751id_/http%3A//www.latinamericancupid.com/en/general/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | LatinAmericanCupid.com
 
