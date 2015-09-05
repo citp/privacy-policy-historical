@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shakespearesglobe.com privacy policy that was archived on 2014-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141015074043id_/http%3A//www.shakespearesglobe.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakespearesglobe.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053120id_/http%3A//www.shakespearesglobe.com/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy / Shakespeare's Globe
 
