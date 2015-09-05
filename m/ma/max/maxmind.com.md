@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the maxmind.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316164137id_/https%3A//www.maxmind.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxmind.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905153903id_/https%3A//www.maxmind.com/en/privacy_policy) for the most accurate reproduction.*
 
-# MaxMind - Privacy Policy
+# Privacy Policy | MaxMind
 
 _Effective Date: 2014/06/30_
 
 This Privacy Policy discloses the privacy practices of MaxMind, Inc. (sometimes referred to in this Privacy Policy as "MaxMind", "we", or "us"), in connection with the MaxMind.com website (the "Website") and any features and online services provided by MaxMind that post or include a link to this Privacy Policy. We have provided this statement of our Privacy Policy to answer your questions about the types of information that we gather and the ways in which we use and share this information.
 
-Please read this Privacy Policy carefully. By visiting and using the Website, you agree that your use of the Website is governed by this Privacy Policy. In addition to our Privacy Policy, your use of the Website is governed by our [Website Terms of Use](https://www.maxmind.com/en/terms_of_use),  which govern in the event of any conflict with this Privacy Policy.
+Please read this Privacy Policy carefully. By visiting and using the Website, you agree that your use of the Website is governed by this Privacy Policy. In addition to our Privacy Policy, your use of the Website is governed by our [Website Terms of Use](https://web.archive.org/en/terms_of_use),  which govern in the event of any conflict with this Privacy Policy.
 
 This Privacy Policy applies to the MaxMind.com website and any features and online services provided by MaxMind that post or include a link to this Privacy Policy. It does not apply to MaxMind's services that MaxMind's customers may use on their own websites, to other companies' or organizations' sites to which we link, or to companies that MaxMind does not own or control, even if such companies are contractors or business partners of MaxMind.
 
@@ -104,7 +104,7 @@ MaxMind may use the information we collect about you for a variety of website ad
 
 ## Usage of Non-Identifying Information
 
-Non-identifying information includes information collected from or about you that does not personally identify you. MaxMind treats IP addresses, log file information, user agent strings, computer IDs, and related information as non-identifying information, except if applicable law or the Safe Harbor principles require us to do otherwise. MaxMind may use non-identifying information for any purpose. We may also combine your non-identifying information with third party data sources (including data obtained from offline sources and data obtained from our customers using the Services) in our effort to improve our Services. Unless you [opt-out](https://www.maxmind.com/en/privacy_policy#optout), MaxMind may share such non-identifying information with customers, affiliates, and other third parties, for any purpose.
+Non-identifying information includes information collected from or about you that does not personally identify you. MaxMind treats IP addresses, log file information, user agent strings, computer IDs, and related information as non-identifying information, except if applicable law or the Safe Harbor principles require us to do otherwise. MaxMind may use non-identifying information for any purpose. We may also combine your non-identifying information with third party data sources (including data obtained from offline sources and data obtained from our customers using the Services) in our effort to improve our Services. Unless you [opt-out](https://web.archive.org/en/privacy_policy#optout), MaxMind may share such non-identifying information with customers, affiliates, and other third parties, for any purpose.
 
 ## IP Addresses, Unique ID, and EU/Swiss Data
 
@@ -124,7 +124,7 @@ We reserve the right to disclose your Personally Identifiable Information to app
 
 ## Aggregate Information and Non-Identifying Information
 
-MaxMind may share your non-identifying information (which may include non-identifying log file information or information derived from identifying information) with third parties, including our customers. While MaxMind may share such non-identifying information for any purpose (unless you [opt-out](https://www.maxmind.com/en/privacy_policy#optout) of such sharing), MaxMind typically shares such non-identifying information for industry analysis, aggregated demographic profiling, and the delivery of targeted advertising about other products and services. For example, MaxMind might provide such non-identifying information to an industry analyst who wants to use the information to determine the popularity of various web browsers and operating systems in different geographic areas.
+MaxMind may share your non-identifying information (which may include non-identifying log file information or information derived from identifying information) with third parties, including our customers. While MaxMind may share such non-identifying information for any purpose (unless you [opt-out](https://web.archive.org/en/privacy_policy#optout) of such sharing), MaxMind typically shares such non-identifying information for industry analysis, aggregated demographic profiling, and the delivery of targeted advertising about other products and services. For example, MaxMind might provide such non-identifying information to an industry analyst who wants to use the information to determine the popularity of various web browsers and operating systems in different geographic areas.
 
 ## Transfer of Business
 
@@ -134,7 +134,7 @@ With regard to the transfer of any EU/Swiss Data, such transfer will only occur 
 
 ## Opt-Out of Email Communications
 
-If you are a registered member of the Website, you can make changes to your account information by logging into the Website and modifying your preferences [here](https://www.maxmind.com/en/update_account). If you do not wish to receive email notifications from us, you may opt-out by contacting us at [info@maxmind.com](mailto:info@maxmind.com) with your request. In addition, certain email communications we send to you, such as newsletters and promotional announcements, contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Please note that we reserve the right to send you certain communications relating to your account or use of the Services (for example, administrative and service announcements) and these transactional account messages may be unaffected even if you opt-out from marketing communications.
+If you are a registered member of the Website, you can make changes to your account information by logging into the Website and modifying your preferences [here](https://web.archive.org/en/update_account). If you do not wish to receive email notifications from us, you may opt-out by contacting us at [info@maxmind.com](mailto:info@maxmind.com) with your request. In addition, certain email communications we send to you, such as newsletters and promotional announcements, contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Please note that we reserve the right to send you certain communications relating to your account or use of the Services (for example, administrative and service announcements) and these transactional account messages may be unaffected even if you opt-out from marketing communications.
 
 ## Opt-Out of Information Sharing
 
