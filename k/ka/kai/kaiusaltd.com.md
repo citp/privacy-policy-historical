@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaiusaltd.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512152411id_/http%3A//www.kaiusaltd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaiusaltd.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905122700id_/http%3A//kaiusaltd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KAI USA ltd.
 
