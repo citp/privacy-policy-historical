@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2015-02-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150217195557id_/http%3A//www.panpacific.com/en/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905074416id_/http%3A//www.panpacific.com/en/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="keywords" content="">
@@ -90,7 +91,7 @@ CQURLInfo = {
     "selectors": [],
     "extension": 'html',
     "suffix": null,
-    "systemId": '7d43e072-d152-433b-9752-f1f7ef69b0fd',
+    "systemId": '0b0ac761-8467-4bc3-89a1-4469cd972e72',
     "runModes": 'publish'
 };</script>
 <script type="text/javascript" src="/etc/designs/panpac/ppglobal-clientlib.js"></script>
@@ -182,7 +183,7 @@ var fscr = document.getElementsByTagName('script')[0]; fscr.parentNode.insertBef
 var axel = Math.random() + '';
 var a = axel * 10000000000000;
 document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/DFPAudiencePixel;ord=' + a + ';dc_seg=27653650?" width=1 height=1 border=0/>');
-</script></head><body><img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/DFPAudiencePixel;ord=4998083929479.558;dc_seg=27653650?" width="1" height="1" border="0/">
+</script></head><body><img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/DFPAudiencePixel;ord=7403656968095.416;dc_seg=27653650?" width="1" height="1" border="0/">
 <noscript>
 <img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/DFPAudiencePixel;ord=1;dc_seg=27653650?" width="1" height="1" border="0/">
 </noscript>
@@ -192,6 +193,13 @@ document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/D
 <script src="//cdn.optimizely.com/js/2283640093.js"></script> 
 <!-- END: Optimisely tagging -->   
     
+    
+    <!--Script Block-->
+<script>
+    window.optimizely = window.optimizely || [];
+    window.optimizely.push(['setDimensionValue', 'property', 'PPGLO']);
+    window.optimizely.push(['setDimensionValue', 2575071178, '/en']);
+</script>        
 
 
 
@@ -397,7 +405,7 @@ document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/D
         </div>
         
              
-                    <button id="booknow" type="button" class="sticky-btn" style="margin-left: 0px;"><span>Plan Your Stay<i class="icon-right-arrow"></i></span></button>
+                    <button id="booknow" type="button" class="sticky-btn" style="margin-left: 0px;"><span>Plan Your Stay <i class="icon-right-arrow"></i></span></button>
                 
         
     </div>
@@ -415,7 +423,7 @@ document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/D
             <div id="booking-overlay" class="mfp-with-anim">
                 <div id="enq-contact-header"></div>
                 <div id="enq-content">
-                    <h2><@if(pageTitle){@>Book Your <@=pageTitle@><@}else{@>Book Your Stay<@}@></h2>
+                    <h2><@if(pageTitle){@>Book Your <@=pageTitle@><@}else{@>Plan Your Stay <@}@></h2>
                     <button title="Close" type="button" class="mfp-close"><span></span></button>
                      
                     <form id="form-plan-your-stay" class="widget-content custom-ui" action="https://www.panpacific.com:443/en/booking/make.booking.html" method="post">
@@ -504,11 +512,11 @@ document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/D
 
                                     </select>
                                 </div>
-                                <div id="date-range-picker">
-                                    <input type="text" id="start-date" name="start-date" tabindex="2" data-samedates="" data-required="true" data-error-message="Please select arrival date" data-placeholder="Arrival" placeholder="Arrival" />
-                                    <input type="text" id="end-date" name="end-date" tabindex="3" data-samedates="" data-required="true" data-error-message="Please select your destination" data-placeholder="Departure" placeholder="Departure">
-                                    <div id="calendar-holder"></div>
-                                    <ul id="sameDateError" class="error-list hide">
+                                <div id="date-range-picker" class="date-range-picker">
+                                    <input type="text" class="start-date" name="start-date" tabindex="2" data-samedates="" data-required="true" data-error-message="Please select arrival date" data-placeholder="Arrival" placeholder="Arrival" />
+                                    <input type="text" class="end-date" name="end-date" tabindex="3" data-samedates="" data-required="true" data-error-message="Please select your destination" data-placeholder="Departure" placeholder="Departure">
+                                    <div id="date-range-picker-calendar-holder" class="calendar-holder"></div>
+                                    <ul class="sameDateErrorerror-list hide">
                                         <li class="custom-error-message">We are unable to reserve a room for the same arrival and departure date. Please change one of the date and try again.</li>
                                     </ul>
                                 </div>
@@ -598,16 +606,156 @@ document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/D
                          <@}@>
                         <div class="action-btn-big" id="submitsearch"><button onclick="ga(event);" class="action-btn big"><span>Find Rooms</span></button></div>
                     </form>
-                    <a href="http://www.gha.com" target="_blank">Find A GHA Hotel</a>
+                                          
+                      <!-- GHA Form - START -->
+                      <form id="form-GHA" class="custom-ui widget-content hidden" method="post" target="_blank">
+                        
+                            
+                            <a href="https://www.gha.com" target="_blank"><img class="gha-logo" src="/content/dam/pp/Global/GHA/gha-logo.png" ></a>
+                            
+                        
+                        
+                        
+                        <p class="gha-copy">Global Hotel Alliance (GHA) is today the world´s largest alliance of independent hotel brands. GHA currently includes brands such as Alila, Anantara, Art Series, AVANI, Corinthia, Doyle Collection, First, GLO, Individual Collection, Kempinski, Leela, Lungarno Collection, Marco Polo, Meritage Collection, Meydan, Mokara, Omni, Pan Pacific, PARKROYAL, Per AQUUM, QT, Rydges, Rixos, Shaza, Tangram, Thon, Tivoli, Ultratravel Collection and Viceroy encompassing over 550 upscale and luxury hotels with over 110,000 rooms in 76 different countries.</p>
+                        
+                        <div class="form-field-row widget gha-row">
+                          <label for="booking-properties"><h5>Your destination: </h5></label>
+                
+                          <div class="l-form-widget-properties marginLeft">
+                            <select id="gha-country" class="selectCustom" name="gha-country" tabindex="1" data-placeholder="Please select" data-required="true" data-error-message="Please select your destination">
+                              <option></option>
+                              
+  
+    <option value="-1">All</option>
+    <option value="3200">Australia</option>
+    <option value="16328">Austria</option>
+    <option value="3201">Azerbaijan</option>
+    <option value="3203">Bangladesh</option>
+    <option value="3204">Belgium</option>
+    <option value="159581">Botswana</option>
+    <option value="3206">Brazil</option>
+    <option value="3207">Bulgaria</option>
+    <option value="53903">Cambodia</option>
+    <option value="3208">Canada</option>
+    <option value="3209">Chad</option>
+    <option value="3210">China</option>
+    <option value="74435">Congo</option>
+    <option value="3211">Croatia</option>
+    <option value="3212">Czech Republic</option>
+    <option value="3213">Denmark</option>
+    <option value="3214">Egypt</option>
+    <option value="33287">Estonia</option>
+    <option value="70355">Finland</option>
+    <option value="156302">Georgia</option>
+    <option value="3215">Germany</option>
+    <option value="70887">Greece</option>
+    <option value="3217">Hungary</option>
+    <option value="139276">Iceland</option>
+    <option value="3218">India</option>
+    <option value="3219">Indonesia</option>
+    <option value="18897">Iraq</option>
+    <option value="3220">Ireland</option>
+    <option value="3221">Italy</option>
+    <option value="3223">Jordan</option>
+    <option value="44765">Kazakhstan</option>
+    <option value="28675">Kenya</option>
+    <option value="150130">Lesotho</option>
+    <option value="43984">Libya</option>
+    <option value="22079">Lithuania</option>
+    <option value="3224">Malaysia</option>
+    <option value="3225">Maldives</option>
+    <option value="3226">Malta</option>
+    <option value="3227">Mexico</option>
+    <option value="3228">Mongolia</option>
+    <option value="52615">Mozambique</option>
+    <option value="3229">Myanmar</option>
+    <option value="3230">Namibia</option>
+    <option value="3231">New Zealand</option>
+    <option value="126656">North Sudan</option>
+    <option value="3232">Norway</option>
+    <option value="68750">Oman</option>
+    <option value="3233">Philippines</option>
+    <option value="3234">Portugal</option>
+    <option value="3235">Qatar</option>
+    <option value="3236">Republic of Djibouti</option>
+    <option value="3237">Russia</option>
+    <option value="73203">Rwanda</option>
+    <option value="3238">Saudi Arabia</option>
+    <option value="16461">Seychelles</option>
+    <option value="3239">Singapore</option>
+    <option value="3240">Slovakia</option>
+    <option value="3241">Slovenia</option>
+    <option value="3242">Spain</option>
+    <option value="50941">Sri Lanka</option>
+    <option value="135850">St Lucia</option>
+    <option value="3243">Sweden</option>
+    <option value="3244">Switzerland</option>
+    <option value="3245">Thailand</option>
+    <option value="3246">Turkey</option>
+    <option value="3247">United Arab Emirates</option>
+    <option value="3248">United Kingdom</option>
+    <option value="3249">United States</option>
+    <option value="3250">Vietnam</option>
+    <option value="153562">Zambia</option>
+  
+
+
+                            </select>
+                          </div>
+                          <div id="gha-date-range-picker" class="date-range-picker">
+                            <input type="text" class="start-date" name="start-date" tabindex="2" data-required="true" data-error-message="Please select arrival date" data-placeholder="Arrival" placeholder="Arrival"/>
+                            <input type="text" class="end-date" name="end-date" tabindex="3" data-required="true" data-error-message="Please select your destination" data-placeholder="Departure" placeholder="Departure">
+                
+                            <div id="gha-date-range-picker-calendar-holder" class="calendar-holder"></div>
+                            <ul class="sameDateError error-list hide">
+                              <li class="custom-error-message">We are unable to reserve a room for the same arrival and departure date. Please change one of the date and try again.</li>
+                            </ul>
+                          </div>
+                        </div>
+                
+                        <div class="action-btn-big" id="gha-submitsearch">
+                          <button class="action-btn big"><span>Find Rooms</span></button>
+                        </div>
+                
+                      </form>
+                      <!-- GHA Form - END -->   
+                
+                      <!--<a href="#">Find a GHA partner hotel</a>-->
+                      <@if(!pageTitle){@>
+                      <a href="javascript:;" class="js-showGHA">Find other GHA Properties</a>
+                      <a href="javascript:;" class="js-hideGHA hidden">Back to properties</a>
+                      <@}@>      
+      
                     
                 </div>
             </div>
 
             <@ print("<sc" + "ript type='text/javascript'>"); @>
-                PPHGGlobal.initForm('#form-plan-your-stay', {}, false, false);
+                PPHGGlobal.initForm('#form-plan-your-stay', {}, true, false);
                 PPHGGlobal.initSelect('#form-plan-your-stay select');
                 PPHGGlobal.initRadioCheck();
                 PPHGGlobal.inputPlaceholder();
+                  
+                // --- GHA : START ---
+                PPHGGlobal.initForm('#form-GHA','',false,false);
+                PPHGGlobal.initSelect('#form-GHA select');
+                $('#form-GHA').on('validateComplete', function(){
+                // do something
+                log('Form GHA ready to submit');
+                ghaResultsPath = ghaResultsPath.replace("#country-code#", $('#gha-country').val());
+                ghaResultsPath = ghaResultsPath.replace("#check-in-date#", Kalendae.moment($('#form-GHA input.start-date').val(), Kalendae.moment().lang().longDateFormat('LL')).format('LLL'));
+                ghaResultsPath = ghaResultsPath.replace("#check-out-date#", Kalendae.moment($('#form-GHA input.end-date').val(), Kalendae.moment().lang().longDateFormat('LL')).format('LLL'));
+                $('#form-GHA').attr('action', ghaResultsPath);                
+                });
+                PPHGGlobal.initGHA('#booking-overlay');
+            
+                PPHGGlobal.initRangeDatepicker('#gha-date-range-picker', '+8', {
+                    format: Kalendae.moment().lang().longDateFormat('LL'),
+                    titleFormat: Kalendae.moment().lang().longDateFormat('LL'),
+                    errorbody: 'We noticed that there is an issue with dates selected, Please select the desired arrival or departure date again.'
+                });
+                // --- GHA : END ---
+  
                 PPHGGlobal.initRangeDatepicker('#date-range-picker', '+8', {
                     format: Kalendae.moment().lang().longDateFormat('LL'),
                     titleFormat: Kalendae.moment().lang().longDateFormat('LL'),
@@ -615,13 +763,14 @@ document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/D
                 });
             <@ print("</sc"+"ript>"); @>
         </script>
-        <div id="PropertyAdminDetails" class="hide">{"ppper":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppdac":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+6","maxadult":-1,"maxchild":-1},"ppyvr":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"-8","maxadult":-1,"maxchild":-1},"ppwhi":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"-8","maxadult":6,"maxchild":-1},"ppwhv":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"-8","maxadult":10,"maxchild":-1},"ppngb":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppszv":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"pptsn":{"minstay":-1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2014-01-28","blockoutenddate":"2014-10-20","timezone":"+8","maxadult":-1,"maxchild":-1},"ppxmn":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppsngb":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppcgk":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+7","maxadult":-1,"maxchild":-1},"ppdps":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppmnl":{"minstay":1,"minstaymsg":"","enabledayuse":true,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppsin":{"minstay":1,"minstaymsg":"","enabledayuse":true,"advancedays":-1,"blockoutstartdate":"2014-01-22","blockoutenddate":"2014-01-23","timezone":"+8","maxadult":-1,"maxchild":-1},"ppsgo":{"minstay":1,"minstaymsg":"","enabledayuse":true,"advancedays":-1,"blockoutstartdate":"2013-08-07","blockoutenddate":"2013-08-28","timezone":"+8","maxadult":-1,"maxchild":-1},"ppssbr":{"minstay":2,"minstaymsg":"A minimum 2 night stay is required.  For alternative arrangements, please contact us directly on +65 6678 8999","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppssin":{"minstay":7,"minstaymsg":"A minimum seven night stay is required. For alternative arrangements, please speak with us on +65 6884 5222.","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppsbkk":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+7","maxadult":-1,"maxchild":-1},"ppsea":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"-8","maxadult":-1,"maxchild":-1}}</div>
+        <div id="PropertyAdminDetails" class="hide">{"ppper":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppdac":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+6","maxadult":-1,"maxchild":-1},"ppyvr":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"-8","maxadult":-1,"maxchild":-1},"ppwhi":{"minstay":1,"minstaymsg":"All rates are based on two adults aged 19 and above occupying a suite. Additional charges of CAD30 per person per night excluding tax will apply.","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"-8","maxadult":6,"maxchild":-1},"ppwhv":{"minstay":1,"minstaymsg":"All rates are based on two adults aged 19 and above occupying a suite. Additional charges of CAD30 per person per night excluding tax will apply.","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"-8","maxadult":10,"maxchild":-1},"ppngb":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppszv":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"pptsn":{"minstay":-1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2014-01-28","blockoutenddate":"2014-10-20","timezone":"+8","maxadult":-1,"maxchild":-1},"ppxmn":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppsngb":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppcgk":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+7","maxadult":-1,"maxchild":-1},"ppdps":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppmnl":{"minstay":1,"minstaymsg":"","enabledayuse":true,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppsin":{"minstay":1,"minstaymsg":"","enabledayuse":true,"advancedays":-1,"blockoutstartdate":"2014-01-22","blockoutenddate":"2014-01-23","timezone":"+8","maxadult":-1,"maxchild":-1},"ppsgo":{"minstay":1,"minstaymsg":"","enabledayuse":true,"advancedays":-1,"blockoutstartdate":"2013-08-07","blockoutenddate":"2013-08-28","timezone":"+8","maxadult":-1,"maxchild":-1},"ppssbr":{"minstay":2,"minstaymsg":"A minimum 2 nights stay is required.  For alternative arrangements, please contact us directly on +65 6678 8999.","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppssin":{"minstay":7,"minstaymsg":"A minimum seven night stay is required. For alternative arrangements, please speak with us on +65 6884 5222.","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+8","maxadult":-1,"maxchild":-1},"ppsbkk":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"+7","maxadult":-1,"maxchild":-1},"ppsea":{"minstay":1,"minstaymsg":"","enabledayuse":false,"advancedays":-1,"blockoutstartdate":"2013-06-30","blockoutenddate":"2013-07-05","timezone":"-8","maxadult":-1,"maxchild":-1}}</div>
         <div id="ServerTimeURL" class="hide">{"getServerTimeApi":"/wsi/pphg/misc1.0/getCurrentTimestamp"}</div>
 <script type="text/javascript">
     var bookingPanelGMaxAdult = 4;
     var bookingPanelGMaxChild = 4;
     var bookingPanelPMaxAdult = -1;
     var bookingPanelPMaxChild = -1;
+    var ghaResultsPath = 'http://www.gha.com/nxc_gha/search_hotel/0/10/name/asc?country=#country-code#&start_date=#check-in-date#&end_date=#check-out-date#';
         
     var errArrivalLaterThanDeparture = 'We noticed that there is an issue with dates selected, Please select the desired arrival or departure date again.';
     
@@ -1163,7 +1312,7 @@ document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/D
         <div class="text">
             For Best Rate,<br>Always Book Direct.
             <br>
-            <a href="/en/the-direct-advantage.html" class="ga-edirect" target="_blank">Find out more</a>
+            <a href="/en/the-direct-advantage.html" class="ga-edirect" target="_blank">Find Out More</a>
         </div>
     </div>
 
