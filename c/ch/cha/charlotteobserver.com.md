@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the charlotteobserver.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322111530id_/http%3A//www.charlotteobserver.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlotteobserver.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062032id_/http%3A//www.charlotteobserver.com/customer-service/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
-# Find The Charlotte Observer newspaper and CharlotteObserver.com's Privacy Policy. The Charlotte Observer
+# Privacy Policy | CharlotteObserver.com & The Charlotte Observer
 
 **Effective Date: March 2014**
 
@@ -225,7 +225,7 @@ We endeavor to protect the security of your payment information during transmiss
 
 ### Notice to California Residents - Your California Privacy Rights:
 
-If you are a California resident, you have the right to receive: a) information identifying all third-party companies to which we may have disclosed, within the past year, personal information pertaining to you and your family for those companies' direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please email your request to [cmachalicky@newsobserver.com](mailto:cmachalicky@newsobserver.com). 
+If you are a California resident, you have the right to receive: a) information identifying all third-party companies to which we may have disclosed, within the past year, personal information pertaining to you and your family for those companies' direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please email your request to [radams@charlotteobserver.com](mailto:radams@charlotteobserver.com). 
 
 ### International Transfers of Information
 
@@ -241,7 +241,7 @@ If you have any questions or comments about our privacy practices, we may be rea
 CharlotteObserver.com,   
 600 S. Tryon Street, Charlotte, NC 28202,   
 704-358-5000   
-or at [cmachalicky@newsobserver.com](mailto:cmachalicky@newsobserver.com). 
+or at [radams@charlotteobserver.com](mailto:radams@charlotteobserver.com). 
 
 ### Definition of Certain Terms
 
