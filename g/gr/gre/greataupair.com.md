@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630024619id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greataupair.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905182637id_/http%3A//www.greataupair.com/support.cfm/topic/privacy) for the most accurate reproduction.*
 
 # Nanny Agency Au Pair Work Child Care Jobs Babysitter Service
 
