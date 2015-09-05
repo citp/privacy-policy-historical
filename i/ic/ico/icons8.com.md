@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icons8.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410044509id_/http%3A//icons8.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icons8.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906001216id_/https%3A//www.icons8.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Icons8
 
@@ -71,7 +71,7 @@ We may be legally required to disclose your Personally Identifiable Information,
 
 ##### Opt-Out
 
-We offer you the chance to "opt-out" of having your personally identifiable information used for particular functions, when we ask you for this detail. When you register for the Site, if you do not want to receive any additional material or notifications from us, you can [notify us](http://icons8.com/contact/).
+We offer you the chance to "opt-out" of having your personally identifiable information used for particular functions, when we ask you for this detail. When you register for the Site, if you do not want to receive any additional material or notifications from us, you can [notify us](https://icons8.com/contact/).
 
 ##### Links to Other Websites
 
