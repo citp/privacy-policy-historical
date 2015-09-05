@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503211542id_/http%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfresco.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905112836id_/https%3A//www.alfresco.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Alfresco
 
