@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famous-smoke.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629062544id_/http%3A//www.famous-smoke.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famous-smoke.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905091613id_/https%3A//www.famous-smoke.com/help/privacy) for the most accurate reproduction.*
 
 # Help Privacy | Famous Smoke Shop
 
@@ -6,7 +6,7 @@ Famous Smoke Shop is dedicated to earning your business as well as your trust. T
 
 Updating your personal information
 
-You may either update your personal information by logging into the Famous Smoke Shop website, then accessing the [My Account](https://web.archive.org/cigars/secur/acct/acct.cfm) page, or by calling customer service at 1-800-564-2486.
+You may either update your personal information by logging into the Famous Smoke Shop website, then accessing the [My Account](https://web.archive.org/account/billing-address) page, or by calling customer service at 1-800-564-2486.
 
 Updates to Famous Smoke Shop policies
 
@@ -14,7 +14,7 @@ Famous Smoke Shop reserves the right to notify its customers of changes to its p
 
 Opting Out
 
-Should you wish, at any time, and for any reason, to no longer receive communications from Famous Smoke Shop, you may either update your preferences by logging into the Famous Smoke Shop website, then accessing the [My Account](https://web.archive.org/cigars/secur/acct/acct.cfm) page, or by calling customer service at 1-800-564-2486.
+Should you wish, at any time, and for any reason, to no longer receive communications from Famous Smoke Shop, you may either update your preferences by logging into the Famous Smoke Shop website, then accessing the [My Account](https://web.archive.org/account/billing-address) page, or by calling customer service at 1-800-564-2486.
 
 Cookies
 
@@ -40,12 +40,12 @@ During the account creation process, and again when completing an order, you mus
 
 How does Famous use the information collected?
 
-  1. Email: If you've opted to receive Famous Smoke Shop's weekly emails, we will send exclusive, money-saving specials directly to your inbox. If you would rather not receive these emails, or pick and choose which you would like to receive, then please visit the [My Email Preferences](https://web.archive.org/cigars/secur/acct/emailpref.cfm) page and update your preferences accordingly, or contact customer service at 1-800-564-2486. 
+  1. Email: If you've opted to receive Famous Smoke Shop's weekly emails, we will send exclusive, money-saving specials directly to your inbox. If you would rather not receive these emails, or pick and choose which you would like to receive, then please visit the [My Email Preferences](https://web.archive.org/account/email-preferences) page and update your preferences accordingly, or contact customer service at 1-800-564-2486. 
 
 Additionally, we use your email address to send order confirmation emails and invoices. 
 
-  2. Catalog: Since you have shown an interest in Famous Smoke Shop's products, you may begin to receive printed catalogs from us. If you no longer wish to receive these catalogs, please update your preferences accordingly on the [My Account](https://web.archive.org/cigars/secur/acct/acct.cfm) page, or contact customer service at 1-800-564-2486 if you don't have an online account. 
-  3. Third Parties: Famous Smoke Shop works with certain third party companies that offer products and services cigar smokers may be interested in. If you purchase a product from us, it's possible that we may exchange your name with one or more of these companies. If you prefer to not have your name exchanged, you may update your preferences on the [My Account](https://web.archive.org/cigars/secur/acct/acct.cfm) page at any time, or contact customer service at 1-800-564-2486. 
+  2. Catalog: Since you have shown an interest in Famous Smoke Shop's products, you may begin to receive printed catalogs from us. If you no longer wish to receive these catalogs, please update your preferences accordingly on the [My Account](https://web.archive.org/account/billing-address) page, or contact customer service at 1-800-564-2486 if you don't have an online account. 
+  3. Third Parties: Famous Smoke Shop works with certain third party companies that offer products and services cigar smokers may be interested in. If you purchase a product from us, it's possible that we may exchange your name with one or more of these companies. If you prefer to not have your name exchanged, you may update your preferences on the [My Account](https://web.archive.org/account/billing-address) page at any time, or contact customer service at 1-800-564-2486. 
 
 
 
