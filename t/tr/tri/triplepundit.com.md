@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the triplepundit.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316215611id_/http%3A//www.triplepundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triplepundit.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055638id_/http%3A//www.triplepundit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TriplePundit
-
-### Privacy Policy
 
 3p’s privacy policy is straightforward. You don’t need to identify yourself or your affiliation to access the information on our website. It is our policy is to safeguard the personal information and protect the identity and confidentiality of all visitors and users.
 
