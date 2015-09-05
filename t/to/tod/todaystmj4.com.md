@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todaystmj4.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407104132id_/http%3A//www.scrippsmedia.com/tmj4/about/297817321.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaystmj4.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055500id_/http%3A//www.scrippsmedia.com/tmj4/about/297817321.html) for the most accurate reproduction.*
 
 # Scripps Privacy Policy - TODAY'S TMJ4
 
