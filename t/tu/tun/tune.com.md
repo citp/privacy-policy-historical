@@ -1,22 +1,28 @@
-> *The following text is extracted and transformed from the tune.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415113449id_/http%3A//www.tune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tune.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905220253id_/http%3A//www.tune.com/privacy-policy) for the most accurate reproduction.*
 
 # TUNE | Privacy Policy and Your Privacy Rights
 
-#### **Effective Date: September 15, 2014**
+#### **Effective Date: May 6, 2015**
 
-Tune, Inc. (“Tune”, “we”, “us”) is committed to protecting your privacy and the privacy of end users. This policy describes how we collect, use, and disclose information when you visit our websites, [http://www.tune.com](https://web.archive.org/ "Tune.com"), [http://www.hasoffers.com](http://www.hasoffers.com/ "HasOffers.com"), [http://www.mobileapptracking.com](http://www.mobileapptracking.com/ "MobileAppTracking.com"), and [http://www.mobiledevhq.com](http://mobiledevhq.com/ "MobileDevHQ.com") (“Websites”). For information about how we collect information through our MobileAppTracking platform, please click [here](http://mobileapptracking.com/privacy-policy/ "MobileAppTracking Privacy Policy"), for information about how we collect information through our HasOffers platform, please click [here](http://www.hasoffers.com/privacy-policy "HasOffers.com Privacy Policy"), for information about how we collect information through our MobileDevHQ platform, please click [here](http://www.mobiledevhq.com/privacy-policy "MobileDevHQ.com Privacy Policy"). If you are an end user and want to opt out of our mobile app analytics services, please visit [https://www.optoutmobile.com](https://optoutmobile.com/ "Opt Out Mobile")
+Tune, Inc. (“Tune”, “we”, “us”) is committed to protecting your privacy and the privacy of end users. This policy describes how we collect, use, and disclose information when you visit our website, http://www.tune.com. 
 
-Tune has been awarded TRUSTe's Privacy and Children’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe's program requirements") and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ "TRUSTed Cloud Program Requirements") including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through our Websites and our MobileAppTracking, HasOffers, and MobileDevHQ Platforms. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy+mat@tune.com](mailto:privacy+mat@tune.com). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request "Contact TRUSTe here").
+For MAT privacy policy, please [CLICK HERE.](https://www.tune.com/mat-privacy-policy/)   
+For the MDHQ privacy policy, [CLICK HERE](https://www.mobiledevhq.com/cards/privacy-policy/).   
+For the HasOffers privacy policy, [CLICK HERE](https://www.hasoffers.com/privacy-policy/). 
 
-**_COLLECTION OF INFORMATION_**
+#### U.S.—E.U. and U.S.—Swiss Safe Harbor
 
-We collect the information you voluntarily provide when you visit the Websites. For example, if you sign up for our service or request more information, we may collect information about you, your business, and others you add to your account. This information includes name, company name, website, address, email address, phone number and mobile number. 
+Tune complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Tune has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Tune certification, please visit <http://www.export.gov/safeharbor/>.
 
-When you visit the Websites, we automatically collect certain information about your computer or device and your use of the Websites. For example, we collect information about the type of browser you use, access times, pages viewed, your IP address, and the page you visited before navigating to the Websites. We also collect information about the computer or mobile device you use to access the Websites, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+#### Collection of Information
+
+We collect the information you voluntarily provide when you visit the Websites. For example, if you sign up for our service or request more information, we may collect information about you, your business, and others you add to your account. This information includes name, company name, website, address, email address, phone number and mobile number.
+
+When you visit the Websites, we automatically collect and store it in log files,  certain information about your computer or device and your use of the Websites. For example, we collect information about the type of browser you use, access times, pages viewed, your IP address, and the page you visited before navigating to the Websites. We also collect information about the computer or mobile device you use to access the Websites, including the hardware model, operating system and version, unique device identifiers, and mobile network information. We do not link this automatically collected data to other information we collect about you.
 
 We use various technologies to collect this information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used on our Websites or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below.
 
-**_USE OF INFORMATION_**
+#### Use of Information
 
 We may use the information we collect for various purposes, including but not limited to:
 
@@ -28,7 +34,11 @@ We may use the information we collect for various purposes, including but not li
 
 
 
-**_SHARING YOUR PERSONAL INFORMATION_**
+If you apply for a job on our Website we will collect your name, email address, phone number and resume. We use this information to contact you regarding the position in which you had applied and to determine if you are a good candidate for the position.
+
+If you wish to share a job post with your friend, we will collect their name and email address. We use this information to send them a one-time email inviting them to view the invite. We do not store this information for any reason.
+
+#### Sharing Your Personal Information
 
 Except as described in this Privacy Policy, Tune will not rent, sell, or share personally identifiable information collected on the Websites with other people or nonaffiliated companies unless we have your consent, or under the following circumstances:
 
@@ -41,155 +51,75 @@ Except as described in this Privacy Policy, Tune will not rent, sell, or share p
 
 We may occasionally allow other companies to offer our customers information about their products and services, but only when we believe that a significant number of our customers would be interested in receiving the information. We may also share aggregated or anonymized information in a form that does not directly identify you or any end users with any third parties.
 
-**_YOUR CHOICES_**
+#### User Access and Choice
 
-If you no longer wish to receive our newsletters, you may opt out by following the unsubscribe link located at the bottom of each communication. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+If you no longer wish to receive our newsletters, you may opt out by following the unsubscribe link located at the bottom of each communication or by contacting us by telephone or postal mail at the contact information listed below. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. We will respond to your request to access within a reasonable timeframe.
 
-If you wish to correct or delete any personal information we have collected, please log into your account and change the information. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. 
+If you wish to correct or delete any personal information we have collected, please log into your account and change the information. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies.
 
-**_SECURITY OF YOUR PERSONAL INFORMATION_**
+#### Tracking Technologies
 
-We use reasonable efforts including a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure.
+We, and our partners, affiliates, or analytics or service providers, use tracking technologies such as cookies, beacons, tags, and scripts, to analyze trends, administering the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies from these companies on an individual or aggregated basis.
 
-**_DATA RETENTION_**
+#### Local Shared Objects (Flash Cookies) and Local Storage (HTML5)
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@tune.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Third parties with whom we partner, use Local Shared Objects (Flash cookies), and we and our third parties use Local Storage (HTML5) to provide certain features on our website, to display advertising based on your web browsing activity, and to store content information and preferences. Various browsers may offer their own management tools for removing HTML 5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
 
-**_INTERNATIONAL TRANSFER OF DATA_**
+#### Advertising
+
+We partner with a third party to display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites to provide you advertising based on your browsing activities and interests.
+
+You may opt-out by visiting the website of that specific partner:
+
+  * <https://www.adroll.com/about/privacy>
+  * <https://www.linkedin.com/legal/privacy-policy>
+
+
+
+If you live in the European Union, you may opt-out at: <http://www.youronlinechoices.eu/>.
+
+Please note this does not opt you out of being served ads; you will continue to receive generic ads.
+
+#### Security of Your Personal Information
+
+We use reasonable efforts including a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [privacy+mat@tune.com](mailto:privacy+mat@tune.com).
+
+#### Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy+mat@tune.com](mailto:privacy+mat@tune.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+#### Links to Third Party Sites
+
+Our Website includes links to other websites whose privacy practices may differ from those of Tune. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+
+#### Blogs
+
+Our Web site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [privacy+mat@tune.com](mailto:privacy+mat@tune.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+#### Testimonials
+
+We display personal testimonials and other endorsements of satisfied customers on our site. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy+mat@tune.com](mailto:privacy+mat@tune.com).
+
+#### Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+#### Single Sign On
+
+You can log into our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share with us certain personal information, such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+
+#### Changes to This Policy 
+
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+#### International Transfer of Data
 
 In the process of providing services to you, we may transfer information that we collect to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. By using the Websites or signing up for an account with us, you consent to the transfer of your information to the United States.
 
-**_SAFE HARBOR_**
+#### Contact Information
 
-Tune complies with the U.S.–E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Tune has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Tune’s certification (listed as “HasOffers”), please visit <http://www.export.gov/safeharbor/>.
+If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: [privacy+mat@tune.com](mailto:privacy+mat@tune.com).
 
-**_CONTACT INFORMATION_**
-
-If you have any questions, comments or suggestions about this Privacy Policy or the practices relating to this Websites, or other questions about privacy, please contact us at [privacy+mat@tune.com](mailto:privacy+mat@tune.com) or by mail to Tune, Inc., 2220 Western Avenue, Seattle, WA 98121 or by telephone at 206-508-1318.
-
-More about cookies on tune.com
-
-Using tune.com requires the use of cookies. If you do not want to accept the cookies for tune.com or from any of our third parties, you will not be able to use our service.
-
-We use a cookie to remember your cookie preferences and this has a couple of consequences:
-
-  * If you delete all your cookies you will have to update your preferences with us again.
-  * If you use a different device, computer profile or browser you will have to tell us your preferences again.
-
-
-
-The cookies used on tune.com and our other Websites are based on the International Chamber of Commerce guide for cookie categories:
-
-  * [Strictly necessary](http://mobileapptracking.com/privacy-policy/#strictly_necessary "Strictly Necessary")
-  * [Performance](http://mobileapptracking.com/privacy-policy/#performance "Performance")
-  * [Functionality](http://mobileapptracking.com/privacy-policy/#functionality "Functionality")
-  * For more information about cookies see the [further reading](http://mobileapptracking.com/privacy-policy/#further_reading "Further Reading") link below.
-
-
-
-**Strictly Necessary**
-
-'Strictly Necessary' cookies let you move around the websites and login to your secure account. These cookies don't gather any information about you that could be used for marketing or remembering where you've been on the internet.
-
-**We use these Strictly Necessary cookies to...**
-
-  * Identify you as being logged in to our websites
-  * Remember things like information you've entered on forms when you navigate to different pages in a single web browser session
-  * Help you use specific features like testing tracking links
-  * Make sure you connect to the right service on our websites when we make any changes to the way the websites work
-
-
-
-**Cookies we have defined as 'Strictly Necessary' cookies will NOT be used to...**
-
-  * Gather information that could be used to advertise products or services to you
-  * Remember your preferences or username beyond your current visit
-
-
-
-**Accepting these cookies is a condition of using the websites, so if you prevent these cookies we can't guarantee your security or predict how our websites will perform during your visit.**
-
-**Here is a list of the cookies we have defined as 'strictly necessary'.**
-
-  * PHPSESSID
-
-
-
-**Cookies provided by 3rd parties**
-
-'Performance' cookies collect information about how you use our websites e.g. which pages you visit, and if you experience any errors. These cookies don't collect any information that could identify you – all the information collected is anonymous and is only used to help us improve how our websites work, understand what interests our users and measure how effective our advertising is.
-
-**We use performance cookies to...**
-
-  * Provide statistics on how our websites are used
-  * See how effective our adverts are (we don't use this information to target adverts to you when you visit other websites)
-  * Provide feedback to partners that one of our visitors also visited their website. This can include details of any products bought. This lets our partners improve their websites, but we don't allow our partners to reuse this information for further advertising
-  * Help us improve the websites by measuring any errors that occur
-  * Test different designs of our websites
-
-
-
-**Cookies we have defined as 'Performance' cookies will NOT be used to...**
-
-  * Remember your preferences or username beyond your current visit
-
-
-
-In some cases, some of these cookies are managed for us by third parties, but we don't allow the third party to use the cookies for any purpose other than those listed above.
-
-**Using our sites indicates that you accept the use of 'Performance' cookies. Accepting these cookies is a condition of using the websites, so if you prevent them we cannot guarantee how our site will perform for you.**
-
-**Here is a list of the cookies we have defined as 'Performance'.**
-
-  * aff_conversions
-  * __utma
-  * __utmb
-  * __utmc
-  * __utmz
-  * _pmy_visit
-  * _pmy_visitor
-  * is_returning
-  * chartbeat2
-
-
-
-**Cookies provided by 3rd parties**
-
-'Functionality' cookies are used to provide services or to remember settings to improve your visit.
-
-**We use 'Functionality' cookies to...**
-
-  * Remember settings you've applied such as layout, text size, preferences and colours
-  * Remember if we've already asked you if you want to fill in a survey
-  * Provide proactive live chat sessions to offer you support or submit a trouble ticket
-  * Show you when you're logged in to the websites
-  * Share information with partners to provide a service on our websites. The information shared is only to be used to provide the service, product or function and not for any other purpose
-
-
-
-**Cookies defined as 'Functionality' will not be used to...**
-
-  * Target you with adverts on other websites
-
-
-
-Some of these cookies are managed for us by third parties – where this is the case we don't allow the third party to use the cookies for any purpose other than those listed above.
-
-**You can control whether or not these cookies are used, but preventing them may mean we can't offer you some services, and will reduce the support we can offer you.** It's also possible that preventing these cookie stops us remembering that you didn't want a specific service.
-
-**Here is a list of the cookies we have defined as 'Functionality'.**
-
-  * app_user
-  * swidth
-
-
-
-**Cookies provided by 3rd parties**
-
-Cookie | Host  
----|---  
-edition | .tune.com  
-network_id | .tune.com  
-networkname | .tune.com  
-networkurl | .tune.com  
-__lc.serverchat1c | .livechatinc.com
+HasOffers, Inc.   
+2200 Western Ave., Suite 200   
+Seattle WA, 98121
