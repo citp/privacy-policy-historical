@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221211932id_/https%3A//www.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905133902id_/https%3A//www.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ Protecting the privacy of the very young is extremely important to us. For this 
 
 **How You Can Access or Correct Your Information**
 
-If you have registered on the Universal Class service as a Universal Class member, you have access to your personally identifiable information. You can update or correct this information under "My UniversalClass" by clicking on the link "[Edit Profile](http://members.universalclass.com/myclasses/secure/profile.htm)". Your profile is unique and secured by your Universal Class Username and Password. 
+If you have registered on the Universal Class service as a Universal Class member, you have access to your personally identifiable information. You can update or correct this information under "My UniversalClass" by clicking on the link "[Edit Profile](https://members.universalclass.com/myclasses/secure/profile.htm)". Your profile is unique and secured by your Universal Class Username and Password. 
 
 **Release of Student Records**
 
@@ -65,7 +65,7 @@ UniversalClass.com has taken several security measures in order to protect the i
 
 **Option to Discontinue Direct Communications**
 
-If you would like to discontinue communications with our company, simply submit your request to our online helpdesk: <http://www.universalclass.com/helpdesk> \-- please include your name, email address registered on the site, and username along with the removal request. Removal requests are usually processed within 1-2 business days. 
+If you would like to discontinue communications with our company, simply submit your request to our online helpdesk: <https://www.universalclass.com/helpdesk> \-- please include your name, email address registered on the site, and username along with the removal request. Removal requests are usually processed within 1-2 business days. 
 
 **How to Contact Us**
 
