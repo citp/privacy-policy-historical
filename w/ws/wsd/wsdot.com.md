@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526010024id_/http%3A//www.wsdot.wa.gov/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsdot.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070724id_/http%3A//www.wsdot.wa.gov/policy/privacy.htm) for the most accurate reproduction.*
 
 # WSDOT - Web Privacy Notice
 
