@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogmutt.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325052020id_/https%3A//www.blogmutt.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogmutt.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905194517id_/https%3A//app.blogmutt.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
