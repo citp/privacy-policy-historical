@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nm.org privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413025138id_/http%3A//nm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nm.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064113id_/http%3A//nm.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Northwestern Medicine | (312) 926-2000
 
@@ -24,7 +24,7 @@ Information about Web site use patterns will be utilized by the Internet Strateg
 
 ###  Consumer Choices 
 
-Personal information is only collected when a request for service as been issued. Users have the option of asking that personal information be removed from our site once the service has been completed and may end any subscription or request for information by submitting a cancellation request email to Internet Strategies at [webmaster@nmh.org](mailto:webmaster@nmh.org). If Web site users do not wish to have any "cookies" attached to their browser, they may disable cookies through their browser or Internet service company.
+Personal information is only collected when a request for service has been issued. Users have the option of asking that personal information be removed from our site once the service has been completed and may end any subscription or request for information by submitting a cancellation request email to Internet Strategies at [webmaster@nm.org](mailto:webmaster@nm.org). If Web site users do not wish to have any "cookies" attached to their browser, they may disable cookies through their browser or Internet service company.
 
 ###  E-mail Security 
 
