@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thegadgetflow.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627193001id_/http%3A//thegadgetflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegadgetflow.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080423id_/http%3A//thegadgetflow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Gadget Flow
+# Privacy Policy » The Gadget Flow
 
 The Gadget Flow values its visitors’ privacy. This privacy policy is effective from 12/12/12; it summarizes what information we might collect from a registered user or other visitor (“you”), and what we will and will not do with it.
 
