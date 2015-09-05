@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316180358id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905151055id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://privacy.truste.com/privacy-seal/Reach-Network,-Inc-/validation?rid=b3b16ca4-919b-41d1-bfdc-c939c88b9a8e "TRUSTe online privacy certification")
 
 Reach Network Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.GuidetoOnlineSchools.com. 
 
