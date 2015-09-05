@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the localwineevents.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315195025id_/http%3A//www.localwineevents.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localwineevents.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102443id_/http%3A//www.localwineevents.com/about/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy: LocalWineEvents.com : Wine, Food, Beer, Or Spirits
 
 ## Privacy Policy
 
-### Effetive Date: 2/9/2007
+### Effective Date: 2/9/2007
 
 **Our Policy**.
 
@@ -56,3 +56,6 @@ Local Wine Events.com
 2042 General Alexander Dr.  
 Malvern, PA. 19355  
 (610) 647-4888 
+
+##### **LocalWineEvents.com** is the **#1 ranked website** for consumers  
+who ARE ACTIVELY seeking local wine & food events to attend.
