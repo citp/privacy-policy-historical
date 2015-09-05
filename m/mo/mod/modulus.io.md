@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modulus.io privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015835id_/http%3A//modulus.io/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modulus.io privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055001id_/https%3A//modulus.io/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Modulus Node.js Hosting & MongoDB Platform
+# Privacy Policy | Modulus App Container Platform | Node.js, PHP & Java
 
 ## WHAT INFORMATION DO WE COLLECT?
 
