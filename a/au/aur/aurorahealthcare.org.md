@@ -1,103 +1,59 @@
-> *The following text is extracted and transformed from the aurorahealthcare.org privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402101130id_/http%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aurorahealthcare.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905132411id_/https%3A//www.aurorahealthcare.org/privacy-policy) for the most accurate reproduction.*
 
-# Website privacy policy, Aurora Health Care
+# Website privacy policy, Aurora Health Care | Aurora Health Care
 
-## Effective Date: 04/01/2012
+**Non-Personally Identifiable Information We Collect**
 
-This Privacy Policy describes Aurora Health Care's online data collection practices and how we use and protect your personal information. This Privacy Policy applies only to the information collected on the general website (www.aurorahealthcare.org) and the mobile website (m.aurorahealthcare.org) (collectively "Website"), and does not apply to information that Aurora Health Care obtains about you from other sources.
+When you visit our Website, we (or a third party vendor or contractor on our behalf) may passively collect non-personally identifiable information about you. 
 
-### Your Consent
+**IP Address**  
+Your IP address may be collected.  Your "IP address" is usually associated with the network location and physical location from which you enter the Internet.  We log IP addresses for systems administration purposes.  This information helps us determine how often different areas of our site are visited and we also use this information to personalize the content that is displayed to you on the Website based on your previous visits and the ads that you access.  We do not link IP address to any information that is personally identifiable. 
 
-By using the Website, you consent to the collection and use of your information in the manner we describe in this Privacy Policy. IF YOU DO NOT AGREE WITH THESE TERMS, DO NOT USE THIS WEBSITE.
+**Cookies**  
+We use both first party cookies (cookies that we place) and third party cookies (that may be placed by a third party).  We use cookies to track the use of our Website and to facilitate and enhance your experience on our Website by, among other things, displaying content that is personalized based on your previous visits and the ads that you access. The term "cookies" refers to electronic data stored by your computer browser. The cookies enable us to facilitate your access to different aspects of the Website. For example, by showing when and how you visit our Website, cookies help us to see which pages of the Website are popular and which are not. Cookies can also help us to improve your enjoyment of this Website, for example, by remembering your address or other information when you request information or services on the Website. We also use cookies for analytics, retargeting, and online behavioral advertising as set forth below.  
 
-### Changes to Our Policy
+Most web browsers automatically accept cookies, but you can disable this function so that your browser will not accept cookies. Please be aware that if you disable this function, it may impact your use and enjoyment of the Website.
 
-We reserve the right to modify or amend this Privacy Policy at any time. All changes to this Privacy Policy will be effective immediately upon their posting to the Website. We will notify you of material changes to this Privacy Policy by conspicuously posting the changes on the Website. Information collected before changes are made will be treated in accordance with the previous Privacy Policy. Each version of our Privacy Policy will be prominently marked with an effective date.
+**Web Beacons and Pixel Tags**  
+The term "web beacons" and “pixel tags” refer to Internet tools, such as transparent images on the Website or in emails that we may send to you that help us to determine whether a page has been viewed or an email opened. For example, when you ask us to send you information on a promotion or newsletter, we may use web beacons to determine how many of the emails that we sent you were actually opened. A pixel tag is a type of web beacon embedded in an image on the website.   In general, any electronic image viewed as part of a web page, including a banner ad, can contain a pixel tag or other web beacon. We may also use these Internet technology tools allow us to track the internet browser most commonly used to access our site and the pages that are most popular, which statistics assist us in making our Website more user-friendly and accessible.  Our Website may also have pixel tags from our vendors to help track your visit and set various cookies to manage ad content that may be delivered to you on the Website.
 
-## CONTINUED USE OF THE WEBSITE AFTER THE EFFECTIVE DATE OF A PRIVACY POLICY WILL INDICATE YOUR AGREEMENT TO ANY MODIFIED TERMS.
+**Statistical Identifiers and Device Recognition**  
+We (or our vendors on our behalf) may employ statistical identifiers, also known as device recognition tools.  These tools may be used to assist in managing the content and advertising on our Website by informing us (without using cookies) of the content that you use and view on the Website.  These tools collect various information about your device, such as your screen resolution, browser type, and operating system.  Many devices have unique, or near unique, device profiles such that collecting this information allows us and our vendors to determine with a reasonable level of statistical accuracy information on your engagement with our Website and advertisements on our Website, as well as your device when you interact with our Website.  We do not tie this statistical information to your personal information.
 
-### Health Insurance Portability and Accountability Act of 1996 (HIPAA)
+**Geolocation**  
+If you are on our mobile website, you will be asked whether you want us to access your geographic location based on the location of your mobile device. If you select yes, and save that setting, we will access and collect your IP address to display custom content to you based on your location.
 
-Aurora Health Care's use and disclosure of certain of your information may be subject to the requirements of the Health Insurance Portability and Accountability Act of 1996, commonly referred to as HIPAA, as amended by the Health Information Technology for Economic and Clinical Health Act ("HITECH Act"). Any information that you submit to us that constitutes "Protected Health Information," as defined by HIPAA, is subject to HIPAA and HITECH. The term **"Protected Health Information"** or **"PHI"** refers to personally identifiable information about your past, present or future physical or mental health or condition, the provision of health care to you or the past, present or future payment for such care. If any information collected on this Website constitutes PHI, then our [Notice of Privacy Practices](https://web.archive.org/misc/privacy-statement/index.asp) will apply.
-
-## Information We May Collect
-
-### Non-Personally Identifiable Information
-
-When you visit our Website, we may passively collect non-personally identifiable information about you via certain Internet technology tools. This information consists of your IP address, cookies and web beacons, as well as information regarding the type of browser and operating system that you use, along with other similar analytic data. Additionally, if you are using your mobile device to access Aurora Health Care's mobile website, we may also obtain the location of your mobile device with your express consent.
-
-Your "IP address" is usually associated with the network location and physical location from which you enter the Internet.
-
-The term "cookies" refers to electronic data stored by your computer browser. The cookies enable us to facilitate your access to different aspects of the Website. For example, by showing when and how you visit our Website, cookies help us to see which pages of the Website are popular and which are not. Cookies can also help us to improve your enjoyment of this Website, for example, by remembering your address or other information when you request information or services on the Website. Most web browsers automatically accept cookies, but you can disable this function so that your browser will not accept cookies. Please be aware that if you disable this function, it may impact your use and enjoyment of the Website. 
-
-The term "web beacons" refer to Internet tools, such as transparent images on the Website or in emails that we may send to you that help us to determine, for instance, whether a page has been viewed or an email opened. For example, when you ask us to send you information on a promotion or newsletter, we may use web beacons to determine how many of the emails that we sent you were actually opened. In general, any electronic image viewed as part of a web page, including a banner ad, can contain a web beacon. These Internet technology tools allow us to track the internet browser most commonly used to access our site and the pages that are most popular, which statistics assist us in making our Website more user-friendly and accessible.
-
-If you are on our mobile website, you will be asked whether you want us to access your geographic location based on the location of your mobile device. If you select yes, and save that setting, we will access and collect that data to be used as set forth below.
-
+**Surveys**  
 We may also ask that you participate in anonymous surveys, which allow us to collect additional data to help us improve our site. Participation in such surveys is voluntary and is not connected to any of your personal information.
 
-We may use third party service providers to assist us in collecting and analyzing this non-personally identifiable information.
+**Analytics**  
+We collect analytics internally from our Website content management system to track your IP address and the various pages of our Website that you visit and the information about your visit. 
 
-### Personally Identifiable Information
+Like many websites, we also use Google Analytics to collect information about your use of our Website. Google sets cookies and may also read preexisting cookies to collect data from your web browser, such as the domain from which you access the Internet, the web address of the website from which you linked to our site, the time and date of your visit the web pages that you view and click through and your IP address.  This information is stored on Google´s servers. Google uses this information to provide us with reports about traffic to our website and your visit to our website.  You may find additional information on how Google Analytics collects and processes data by visiting “How Google uses data when you use our partners’ sites or apps”, which can be found at <http://www.google.com/policies/privacy/partners>. 
 
-In your use of the Website, we may collect any information that you voluntarily share with us. This information may be collected when you send us emails or voluntarily submit information to us via the Website. This information may include your (1) contact information (such as name, address, email address and phone number), (2) age, (3) gender, (4) date of birth, (5) insurance information, (6) health and medical information or other PHI, (7) account numbers, (8) financial and payment information, and (9) any other information you choose to provide us, subject to applicable laws and the terms of this Privacy Policy.
+Google may also use this data in accordance with their Privacy Policy, which can be found at <http://www.google.com/privacy.html>.  For more detailed information on how Google uses your data through our website, please visit [http://www.google.com/policies/privacy/partners/.](http://www.google.com/policies/privacy/partners/)
 
-We may use third party service providers to assist us in collecting and maintaining this personally identifiable information. However, we require such service providers to maintain the confidentiality of such information.
+You may opt-out of our use of Google Analytics by visiting the [Google Analytics opt-out](https://tools.google.com/dlpage/gaoptout) page and installing the Google Analytics browser add-on, currently made available by Google at <https://tools.google.com/dlpage/gaoptout>.
 
-## How We Use the Information We Collect
+We will use this data to improve our website structure and content and we also use analytics data to provide you personalized content.
 
-### Non-Personally Identifiable Information
+**How We Use the Non-Personally Identifiable Information We Collect**
 
-We use non-personally identifiable information in the aggregate to determine how much traffic the Website receives, to statistically analyze Website usage, to improve our content, and to customize the Website's content, layout and services. In addition, we may use your IP address to help diagnose problems with our server, to manage the Website and to enhance the Website based on the usage pattern data we receive. Furthermore, if you are using our mobile website, upon you first granting us permission, we will obtain the location of your mobile device in order to allow us to provide you with information, including the Aurora Health Care facility or the Aurora Health Care physician closest to you.
+ **  
+** In addition to those uses set forth above, we use non-personally identifiable information in the aggregate to determine how much traffic the Website receives, to statistically analyze Website usage, to improve our content, and to customize the Website's content, layout and services. In addition, we may use your IP address to help diagnose problems with our server, to manage the Website and to enhance the Website based on the usage pattern data we receive.
 
-### Personally Identifiable Information
+**Retargeting and Remarketing**  
+We have also enabled additional Google Analytics Advertising Features:  Google Display Network Impression Reporting and Remarketing with Google Analytics.  The Google Display Network Impression Reporting uses the Google Analytics cookie to track our ad impressions and your interactions with those impressions, including the effectiveness of those ads, which generates reports for us to help us analyze our advertisements.  Remarketing with Google Analytics uses the Google Analytics and/or a third party cookie to serve advertisements to you across the Internet based on your visit to our Site.    
+We also use the Google AdWords service to serve ads on our behalf across the Internet and sometimes on this Website. Google uses cookies (or other similar identifiers) to collect anonymous information about your visits to our Website and your interaction with our products and services to generate targeted advertisements to you on other sites that you visit across the Internet.  
 
-We will use personally identifiable information for: (i) the purpose for which you provide it; (ii) as otherwise may be disclosed at the point of collection; and/or (iii) for the purposes described below. For example, we may use your contact information as provided to us, such as email address, telephone number, and/or mailing address, to contact you regarding administrative notices and communications related to your use of the Website or otherwise as you may request, such as for an employment application. As another example, we may use your financial and insurance information to process payments you request or otherwise adjust your account. We will not send you promotions or announcements unless you give us permission to do so.
+If you do not want Google to collect and use this information you may visit the [Google Ad Settings page](http://www.google.com/safetycenter/tools/#manage-your-ads-preferences) or you can also visit the website <http://www.networkadvertising.org/choices> to change your consumer preferences with respect to certain online ads and to obtain further information about third party ad networks and online behavioral advertising. You may also opt-out of our use of Google Analytics as described above.  Please remember that changing your settings with certain browsers and ad networks will not carry your privacy choices across browsers and other ad networks.
 
-We may use your personal information to provide you with certain medical content and information that we believe may be of interest or use to you and provide you with a customized experience on the Website.
+**Online Behavioral Advertising**  
+We use third party tools, including AddThis, that may collect anonymous information and data when you visit this Website to deliver ads to you that are likely to be of greater interest to you based upon your Internet activities. These third party tools may place their cookies, web beacons or other technology on this Website or in your browser to collect non-personally identifiable information about you when you visit this Website to enable those third parties and any affiliated ad networks to deliver advertisements to you on third party websites. We encourage you to view the privacy policy of advertisers and ad services to learn more about their cookies and other technologies.  To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).  You may find additional information on the data collection, use and disclosure practices of AddThis in their privacy policy located at <http://www.addthis.com/privacy/privacy-policy>.
 
-In providing our services to you, your personal information may be disclosed to or collected by third-party suppliers and service providers specifically involved in the processing of your information received via the Website and as otherwise necessary to manage our Website and provide the services you request. We may also use third party service providers to host the Website and gather and use on our behalf your personal information as contemplated by this Privacy Policy and applicable law. All such third parties are subject to confidentiality obligations in an attempt to protect your information as much as is commercially reasonable.
+You may stop AddThis from collecting any information about you for online behavioral advertising by visiting AddThis and opting out as instructed at <http://www.addthis.com/privacy/opt-out>.  In addition, if you do not want to receive targeted advertisements, look for the "Ad Choices" icon in the advertisements, which will contain a link to the privacy policy of the ad network that will provide you with information on how to opt-out of receiving such targeted advertising.
 
-In addition, we may use your personal information in the aggregate in a non-identifiable way in order to better understand the services being provided, how to improve these services and how to improve the Website. We may provide this aggregated information to third parties, but when we do so we do not provide any of your information without your express permission.
+**You can also visit the website[http://www.aboutads.info](http://www.aboutads.info/) to change your consumer preferences with respect to certain online ads and to obtain further information about third party ad networks and online behavioral advertising.**
 
-We may also use or disclose your personal information and review the status or activity of multiple users to resolve disputes, investigate problems, and enforce our Website [Terms of Use](https://web.archive.org/terms-of-use) or any other agreement with Aurora Health Care. We may disclose or access information whenever we believe in good faith that the law so requires, upon sale or reorganization of our company or some or all of its assets, or if we otherwise consider it necessary to do so to maintain service and improve our products and services. Except as stated above, we will never sell, distribute, or release to a third party your personal information without your express permission.
-
-### Access to Your Personally Identifiable Information
-
-Upon written request and verification of your identity, we will provide you with your personal information in our possession as well as the personal information, if any, that we have disclosed to third parties. Requests for such information should be sent to the contact information below.
-
-You may also update, correct, or delete your personal information in our possession by contacting us using the contact information below. If you have registered for a "members only" portion of our Website, or MyAurora, you may also update your personal information by logging into your account.
-
-### Handling of Electronic Records and Backup
-
-In general, we will retain all information collected through the Website for, at a minimum, the length of time permitted by law. However, we will delete any personally identifiable information in our database upon your [request](mailto:internet@aurora.org) or as otherwise required by law. We may, however, retain non-personally identifiable information indefinitely.
-
-We maintain backup files as a protection against natural disasters, equipment failures, or other disruptions. Backup files protect you and us because they lower the risk of losing valuable data. Backup files may contain records with your personal information. Removing a record from our active files and databases does not remove that record from any backup systems. Such backup data will eventually be passively deleted as backup records are erased through the normal recycling of backup files. In the meantime, as long as backup records exist, they receive the same security protections as our other records.
-
-### Security
-
-Communications between your browser and portions of the Website containing personally identifiable information are protected with Secure Socket Layer (SSL) encryption. This encryption is to help protect your information while it is being transmitted. Once we receive your information we strive to maintain the physical and electronic security of your personal information using commercially reasonable efforts.
-
-NO DATA TRANSMISSION OVER THE INTERNET OR ANY WIRELESS NETWORK CAN BE GUARANTEED TO BE PERFECTLY SECURED. AS A RESULT, WHILE WE STRIVE TO PROTECT YOUR PERSONAL INFORMATION USING COMMERICALTY AVAILABLE AND INDUSTRY STANDARD ENCRYPTION TECHNOLOGY, WE CANNOT ENSURE OR GUARANTEE THE SECURITY OF ANY INFORMATION YOU TRANSMIT TO US, AND YOU DO SO AT YOUR OWN RISK.
-
-### In the Event of a Security Breach of Your Personal Information
-
-If we determine that your personal information has or may reasonably have been disclosed due to a security breach of our systems, we will notify you, at the contact information provided to us, in accordance with and to the extent required by applicable state and federal law.
-
-### Third Party Privacy Practices
-
-This Privacy Policy applies only to the Website as provided by Aurora Health Care. This Website may contain links to other websites, which may be subject to a different privacy policy or are otherwise maintained or provided by a third party. We are not responsible for the privacy practices of any third party website you access from this Website. You should review the privacy policy of every website before using the website or submitting any information to the website.
-
-### Children under the Age of 13
-
-No part of the Website, or any services made available through the Website, are designed or intended to attract children under the age of 13. No personal information is knowingly collected from any person under the age of 13.
-
-### Contact Information
-
-If you have any questions or concerns about this Privacy Policy or Aurora Health Care's privacy practice, or access to your personal information, please contact us at the following:
-
-Aurora Health Care Administrative Offices  
-750 West Virginia Street  
-P.O. Box 341880  
-Milwaukee, WI 53204-1539  
-[internet@aurora.org](mailto:internet@aurora.org)
+**Do not track**  
+We will automatically collect cookies and other non-personally identifying information when you visit this site.  Due to this automatic collection, we do not currently honor do not track requests.
