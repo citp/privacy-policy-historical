@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623193611id_/http%3A//www.smm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905224100id_/http%3A//www.smm.org/privacy) for the most accurate reproduction.*
 
 # Science Museum of Minnesota - Privacy Statement
 
@@ -6,23 +6,23 @@
 
 **Contents**
 
-  * [ General Privacy Statement](http://www.smm.org/privacy#privacy)
-  * [Notification of Changes to this Policy](http://www.smm.org/privacy#changes)
-  * [Information Collected by the Museum](http://www.smm.org/privacy#collected)
-  * [Information Submitted by Third Parties](http://www.smm.org/privacy#submitted)
-  * [Personal Information Collected by the Museum Online](http://www.smm.org/privacy#collectedOnline)
-  * [Other Information Collected by the Museum Online](http://www.smm.org/privacy#collectedOther)
-  * [Museum Photography](http://www.smm.org/privacy#photography)
-  * [The Science Museum Computer Education Center](http://www.smm.org/privacy#compEd)
-  * [Cookies](http://www.smm.org/privacy#cookies)
-  * [SSL Encryption](http://www.smm.org/privacy#ssl)
-  * [Children's Privacy on the Web](http://www.smm.org/privacy#childrenPrivacy)
-  * [Use of Information](http://www.smm.org/privacy#use)
-  * [Sharing of Information](http://www.smm.org/privacy#sharing)
-  * [Email Correspondence, Newsletters, and Informational Updates](http://www.smm.org/privacy#email)
-  * [Reviewing Information](http://www.smm.org/privacy#reviewing)
-  * [Third Party Mailing Lists](http://www.smm.org/privacy#thirdParty)
-  * [Compliance with this Policy](http://www.smm.org/privacy#compliance)
+  * [ General Privacy Statement](https://www.smm.org/privacy#privacy)
+  * [Notification of Changes to this Policy](https://www.smm.org/privacy#changes)
+  * [Information Collected by the Museum](https://www.smm.org/privacy#collected)
+  * [Information Submitted by Third Parties](https://www.smm.org/privacy#submitted)
+  * [Personal Information Collected by the Museum Online](https://www.smm.org/privacy#collectedOnline)
+  * [Other Information Collected by the Museum Online](https://www.smm.org/privacy#collectedOther)
+  * [Museum Photography](https://www.smm.org/privacy#photography)
+  * [The Science Museum Computer Education Center](https://www.smm.org/privacy#compEd)
+  * [Cookies](https://www.smm.org/privacy#cookies)
+  * [SSL Encryption](https://www.smm.org/privacy#ssl)
+  * [Children's Privacy on the Web](https://www.smm.org/privacy#childrenPrivacy)
+  * [Use of Information](https://www.smm.org/privacy#use)
+  * [Sharing of Information](https://www.smm.org/privacy#sharing)
+  * [Email Correspondence, Newsletters, and Informational Updates](https://www.smm.org/privacy#email)
+  * [Reviewing Information](https://www.smm.org/privacy#reviewing)
+  * [Third Party Mailing Lists](https://www.smm.org/privacy#thirdParty)
+  * [Compliance with this Policy](https://www.smm.org/privacy#compliance)
 
 
 
@@ -32,7 +32,7 @@ The Science Museum of Minnesota is committed to its mission to "Turn on the scie
 
 The following privacy policy describes the Science Museum's current policies and practices with regard to information collected from and about its constituents. Unless otherwise indicated, all procedures apply to information collected online (via the Internet, World Wide Web, and email) and offline (via postal mail, telephone, fax, and in person). The collective term "constituents" is used to refer to Science Museum members, donors, website visitors, students, retail and rental customers, gift recipients for whom personal information is required, people who respond to offers sent by mail, people who request that information about the museum be sent to them, and all others from whom we collect information in order to provide requested services and products.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Notification of Changes to this Policy
 
@@ -40,55 +40,55 @@ To further its mission and better serve its constituents, the Science Museum is 
 
 If and when its information practices change, the Science Museum will post the policy changes to its website to notify its constituents of the changes and, where appropriate and practical, give them the opportunity to "opt-out" of the new programs and practices. If you are concerned about how your personal information is used, please check back at the Science Museum's website frequently or contact the Membership or Development Office; Computer Education Center students should contact the center directly.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Information Collected by the Museum
 
 The Science Museum currently collects constituent contact information (such as street address, phone and fax numbers, and email address); transactional information (such as information collected in connection with the purchase of tickets, memberships and member programs, retail purchases, and class registrations); information collected in connection with newsletter and email subscriptions; and information about donations made to the museum. Additional information provided by the constituent—such as responses to survey information and information collected to fulfill requests for information about the Science Museum—may also be added to museum databases. The Science Museum supplements its databases with commercially available marketing information about individuals whose names are already in its databases.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Information Submitted by Third Parties
 
 If, for example, a constituent purchases a gift certificate or reserves a ticket for someone else, or registers someone else for a class, the Science Museum collects not only the information the constituent provides about him or herself, but also the information the constituent provides about the other person. All of this information is subject to the practices within this policy. Gift memberships and class registrations are acknowledged by mail; advanced reservations are not. To inquire about information provided about you by someone else, please contact the Membership or Development Office); Computer Education Center students should contact the center directly.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Personal Information Collected by the Museum Online
 
 The Science Museum collects the personal information constituents specifically provide when they visit our website. This includes, for example, the information constituents provide when they purchase a membership or merchandise, register for a class, or complete a survey. In addition, our email newsletters and information updates often contain hyperlinks to additional information on our website and elsewhere on the web. The museum currently uses technology to track how often these links are used and which pages particular email subscribers choose to view. The museum uses this information to compile statistics, improve these email services and customize our future communications with email subscribers.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Other Information Collected by the Museum Online
 
 The Science Museum uses technology to collect a wide range of statistical information about the use of our website. For example, we currently use technology to determine how constituents access the website (this information may include the name of the visitor's Internet service provider or the type of web browser used) and which pages they view. This technology does not identify constituents personally—it simply enables the museum to compile statistics about our site visitors and the use of the site.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Museum Photography
 
 By visiting the Science Museum of Minnesota, each person grants permission to photograph, videotape, record or otherwise reproduce their image and/or voice of and all accompanying minors, without compensation, for the Science Museum's purposes, including copying, distribution and other uses.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### The Science Museum Computer Education Center
 
 The Science Museum Computer Education Center (CEC) operates an educational facility at the Science Museum and a website at [http://comped.smm.org](http://comped.smm.org/). Please refer to the privacy policy posted on the CEC site for details about its use of information, or contact the CEC directly.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Cookies
 
 Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable our systems to recognize your browser. The Science Museum currently uses cookies to store constituents' preferences and record session information such as items that consumers add to their online shopping carts in the ticketing area or while registering for classes. Cookies are also used to record page location to assist with navigation and menus on our site.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### SSL Encryption
 
 The Science Museum currently uses Secure Socket Layering (SSL) to encrypt certain types of sensitive information, such as financial information, while that data travels over the Internet.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Children's Privacy on the Web
 
@@ -98,13 +98,13 @@ In compliance with the Children's Online Privacy Protection Act, we do our best 
 
 To learn more about how to protect your child's privacy on the web, please see "Social Networking Sites: A Parent's Guide" from the Bureau of Consumer Protection at <http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec13.shtm>.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Use of Information
 
 The Science Museum currently uses the information it collects about its constituents to provide the products, services, and membership benefits our constituents request, to tailor marketing and fundraising contacts with specific individuals or groups of constituents; to administer science museum programs, to improve museum services and offerings; to improve the museum's websites and electronic communications; and to improve operating procedures to better serve constituents.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Sharing of Information
 
@@ -118,25 +118,25 @@ In addition, there may be some limited circumstances in which the Science Museum
 
 The Science Museum collects and maintains in its databases the names and postal addresses of many constituents. Science Museum constituents may receive periodic mailings from the museum with information on new products and services, upcoming events, or requests for donations to the museum. If you do not wish to receive such mailings, please contact the Membership or Development Office; Computer Education Center students should contact the center directly.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Email Correspondence, Newsletters, and Informational Updates
 
 The Science Museum of Minnesota does not share constituent email addresses with third parties and does not send unsolicited email. Email addresses provided to the museum are used for sending responses to questions and queries, providing purchase and registration confirmation, and communicating follow-up information. The museum also sends email newsletters and informational updates to those who request them. Constituents who receive email newsletters and updates may request to be removed from these lists at any time. Instructions on how to do so are provided within the message.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Reviewing Information
 
 Upon request, the Science Museum does its best to provide constituents with access to their own unique identifier information (e.g. member ID number), contact information (e.g., name, address, phone number, email address), and a description of other information that is maintained about them. The Science Museum does its best to correct any inaccuracies that are brought to its attention. Constituents who wish to review this information may contact the Membership or Development Office; Computer Education Center students should contact the center directly.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Third Party Mailing Lists
 
 When the Science Museum uses mailing lists provided by other organizations, a qualified list broker or vendor administers the list on behalf of the Science Museum. The broker or vendor does not share information directly with the Science Museum. Rather, the broker or vendor uses the list to mail materials provided by the museum to the people on the mailing list. The broker or vendor then deletes the list from its database. The Science Museum therefore only has access to personal information from those who respond to a mailing. When it receives a request to be removed from a mailing list that is administered by a third party, the museum forwards this request to the third party, but the museum cannot ensure that names will be removed from third party lists.
 
-[back to top](http://www.smm.org/privacy#top)
+[back to top](https://www.smm.org/privacy#top)
 
 #### Compliance with this Policy
 
