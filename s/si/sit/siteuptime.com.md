@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503063047id_/http%3A//siteuptime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905092818id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
 
-# SiteUptime - Website Monitoring Service
+# SiteUptime - Website and Server Monitoring Service
 
 This privacy policy sets out how SiteUptime LLC uses and protects any information that you provide to us when using our service. We recognize the importance of protecting the privacy of all information provided by our users. We have adopted this privacy policy to assure our users that their personal information will be kept confidential. 
 
