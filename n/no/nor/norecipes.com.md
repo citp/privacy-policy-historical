@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the norecipes.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004512id_/http%3A//norecipes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norecipes.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061741id_/http%3A//norecipes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - No Recipes
+# Privacy Statement
 
 Thank you for visiting NoRecipes.com. At No Recipes your privacy is important to us, which is why we’ve put together this Privacy Statement to explain our online information practices and the choices you can make in how your information is collected and used while you’re visting NoRecipes.com. We may change this statement from time to time by updating this page, so you should check this page from time to time to ensure that you are happy with any changes. This is effective from January 23, 2013.
 
