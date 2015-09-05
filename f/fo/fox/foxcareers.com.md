@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxcareers.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316063556id_/https%3A//www.foxcareers.com/Shared/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxcareers.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905193206id_/https%3A//www.foxcareers.com/Shared/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Fox Careers
 
