@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictioncenter.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512115805id_/https%3A//www.addictioncenter.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictioncenter.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905232644id_/https%3A//www.addictioncenter.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Addiction Center
 
@@ -32,7 +32,7 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
 
 ### Do we disclose any information to outside parties?
 
@@ -54,6 +54,10 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+### Google Analytics
+
+We are currently using Google Analytics to understand the audience of Addiction Center and how to best serve their needs. No personal information is collected from Google Analytics. For more information on Google’s privacy policy, please [click here](https://support.google.com/analytics/answer/6004245).
+
 ### Your Consent
 
 By using our site, you consent to our privacy policy.
@@ -62,16 +66,14 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 04/10/2014
+This policy was last modified on 08/03/2015
 
 ### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Addiction Center
-
-http://www.addictioncenter.com
-
+Addiction Center  
+http://www.addictioncenter.com  
 424 E Central Blvd.  
 #636  
 Orlando, FL 32801  
