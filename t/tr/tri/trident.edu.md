@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trident.edu privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627071518id_/http%3A//www.trident.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trident.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905112328id_/https%3A//www.trident.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Trident University
 
@@ -20,7 +20,7 @@ We occasionally conduct online surveys. Your responses are confidential and will
 
 **Non-personally Identifiable Information Collected Automatically**
 
-We collect IP addresses for the purpose of system administration and to report aggregate information. We monitor aggregate information such as the number of unique users who visit certain sections of our site. This information is not personally identifiable and is used to improve our site. We do not use ‘cookies’. At no time do we disclose site usage by individual IP addresses. In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the Internet browser you are using, the type of operating system, and the domain name of the website that linked you to our site. Please refer to your browser instructions or Help screen to learn more about these functions.
+We collect IP addresses for the purpose of system administration and to report aggregate information. We monitor aggregate information such as the number of unique users who visit certain sections of our site. This information is not personally identifiable and is used to improve our site. In some cases, we may collect information about you that is not personally identifiable. Examples of this type of information include the Internet browser you are using, the type of operating system, and the domain name of the website that linked you to our site. Please refer to your browser instructions or Help screen to learn more about these functions.
 
 **Use of Enrollment Information**
 
