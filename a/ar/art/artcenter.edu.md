@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artcenter.edu privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503103535id_/http%3A//www.artcenter.edu/accd/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artcenter.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905131352id_/http%3A//www.artcenter.edu/accd/privacy_policy.jsp) for the most accurate reproduction.*
 
 # | Pasadena, CA
 
