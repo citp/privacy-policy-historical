@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507001951id_/http%3A//www.phanfare.com/corp/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phanfare.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906014401id_/http%3A//www.phanfare.com/corp/privacy.aspx) for the most accurate reproduction.*
 
 # Phanfare - Where photos live.
 
