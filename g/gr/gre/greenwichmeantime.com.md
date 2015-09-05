@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenwichmeantime.com privacy policy that was archived on 2015-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150331002021id_/http%3A//greenwichmeantime.com/privacy-and-cookies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenwichmeantime.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055809id_/http%3A//www.greenwichmeantime.com/privacy-and-cookies.htm) for the most accurate reproduction.*
 
 # GMT: Greenwich Mean Time - World Time / Time in every Time Zone
 
