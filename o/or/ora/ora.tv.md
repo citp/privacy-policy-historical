@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ora.tv privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626165233id_/http%3A//www.ora.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ora.tv privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905205921id_/http%3A//www.ora.tv/privacy) for the most accurate reproduction.*
 
 # Ora.Tv - Privacy Policy
 
