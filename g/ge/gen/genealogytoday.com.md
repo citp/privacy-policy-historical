@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genealogytoday.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206160151id_/http%3A//www.genealogytoday.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogytoday.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905063610id_/http%3A//www.genealogytoday.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Genealogy Today
 
