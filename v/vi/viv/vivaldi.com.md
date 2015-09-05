@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivaldi.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626233839id_/https%3A//www.vivaldi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaldi.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102400id_/https%3A//vivaldi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy ◦ Vivaldi
+# Privacy Policy – Vivaldi
 
 ## General
 
