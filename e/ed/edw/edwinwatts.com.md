@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edwinwatts.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805034700id_/http%3A//www.edwinwattsgolf.com/Privacy_Policy_2010.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edwinwatts.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053142id_/http%3A//www.edwinwattsgolf.com/Privacy_Policy_2010.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Golf Clubs, Drivers, Irons, Hybrids, Wedges, Golf Shoes and Golf Equipment at Edwin Watts Golf
 
