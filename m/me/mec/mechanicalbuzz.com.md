@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mechanicalbuzz.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515101142id_/http%3A//www.mechanicalbuzz.com/p/this-blog-is-related-to-mechanical.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mechanicalbuzz.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905142903id_/http%3A//www.mechanicalbuzz.com/p/this-blog-is-related-to-mechanical.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
