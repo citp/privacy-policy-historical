@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the gerber.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401214642id_/https%3A//www.gerber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerber.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905101959id_/https%3A//www.gerber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Gerber Products Company Consumer Privacy Notice
 
 **Effective:** April 17, 2014  
-**Last Updated On:** April 17, 2014
+**Last Updated On:** May 4, 2015
 
 Gerber Products Company respects your right with regards to data privacy and data protection when you communicate (online or offline) with us through our various consumer-directed websites, mobile applications, offline programs and events. We have therefore developed this Privacy Notice to inform you how Gerber Products Company / Nestle Infant Nutrition (“Gerber,” “we,” or “our”) collects, stores, uses, shares, processes, and protects information about our consumers (“you”).  It also tells you how you can access and update your personal information and make certain choices about how your information is used.
 
@@ -62,10 +62,17 @@ This refers to information you create or set up when registering for an account 
 Demographic information  
 This includes information that describes the demographic or psychographic characteristics of you or your children, such as your gender and children’s genders, birthdates or expected due dates, data you provide through various tools like the pregnancy weight tracker, and information about your baby food buying habits, product and brand preferences, feeding styles, work status or professional credentials, and other related information.  We typically collect demographic information in connection with a variety of activities, including general website registration, newsletter sign-up, contests and other promotions, and consumer surveys.  If you create an account with us, you may be allowed to modify certain demographic information stored under your account.  To do so, log in to the relevant edit account section of our site (if available) or contact us here.  For more on how we use your information, please refer to Question 3 below. 
 
+Healthcare related information  
+In addition to basic demographic information (e.g., name, email address, etc.), we may also collect, in some cases through specific website tools, information about a consumer's interest in certain Gerber products (e.g., use of Gerber products, etc.) or a consumer's (and by proxy, their children’s) personal medical and health condition. 
+
+This information is used for the purposes identified at the time of collection (for example, to provide and send the registered user relevant nutritional and/or health information, including information about Gerber products or to give them access to member-only benefits and tools). Some tools may allow you to enter and display certain health information on the site itself.
+
+To the extent that personal information regarding medical conditions is stored, we may be required to disclose it in certain circumstances, including but not limited to, the following: the Food and Drug Administration pursuant to adverse events, public health authorities relative to preventing or controlling disease, as required by federal state or local law or as required pursuant to subpoena. Please note that Gerber Products Company may never have reason to make these types of disclosures. 
+
 #### 
 
 Technical computer information  
-This includes information about the computer system or other technological device that you may be using to access one of our websites or applications.  We typically collect this information through automated technologies such as cookies, pixels, or web beacons.  Examples of technical computer information may include your computer’s IP address, operating system type, and web browser type.  If you access a Gerber Site via a mobile device such as a smartphone, the collected information may also include your phone’s unique device ID or other similar mobile device data. 
+This includes information about the computer system or other technological devices that you may be using to access one of our websites or applications.  We typically collect this information through automated technologies such as cookies, pixels, or web beacons.  Examples of technical computer information may include your computer’s IP address, operating system type, and web browser type.  If you access a Gerber Site via a mobile device such as a smartphone, the collected information may also include your phone’s unique device ID or other similar mobile device data. 
 
 #### 
 
@@ -77,7 +84,7 @@ We may collect personal information about users over time and across different w
 
 
 Consumer feedback  
-This includes information that you voluntarily share with us about your experience in using our products and services, including our Sites.&nbsp; Examples may include unsolicited comments and suggestions, testimonials, or other questions or feedback related to our products.&nbsp; We typically collect this information in the form of consumer surveys, consumer panels, contact forms, “Ask the Expert” forms, and email correspondence.  
+This includes information that you voluntarily share with us about your experience in using our products and services, including our Sites. Examples may include unsolicited comments and suggestions, testimonials, or other questions or feedback related to our products. We typically collect this information in the form of consumer surveys, consumer panels, contact forms, “Ask the Expert” forms, and email correspondence.  
 
 
 #### 
@@ -116,9 +123,9 @@ To enter a Gerber contest or sweepstakes, you may be required to first register 
 #### 
 
 Marketing communications  
-We may collect and use your information to send you marketing communications, such as email communications and postal mailings. We may also send you samples and offers, if they become available. We or third parties may also show you marketing communications on other websites, including on social media sites where you are a member, by matching activities or information collected through our Sites with those collected on third-party sites (“Targeted Advertising”). These marketing communications will keep you up-to-date on the latest news, special offers, and promotions from Gerber. On occasion, these communications may also introduce you to other Gerber affiliated brands and partners and inform you about offers and promotions from other third party companies.  Sending you marketing communications mostly requires the collection and use of certain personal contact information and demographic information. In some instances (such as for mobile apps), this could involve the use of your precise geo-location, which may allow us to send you location-based offers and promotions.
+We may collect and use your information to send you marketing communications, such as email communications, SMS text messages and postal mailings. Please note that if you choose to receive SMS text messages, your plan fees for messaging will apply. We may also send you samples and offers, if they become available. We or third parties may also show you marketing communications on other websites, including on social media sites where you are a member, by matching activities or information collected through our Sites with those collected on third-party sites (“Targeted Advertising”). These marketing communications will keep you up-to-date on the latest news, special offers, and promotions from Gerber. On occasion, these communications may also introduce you to other Gerber affiliated brands and partners and inform you about offers and promotions from other third party companies.  Sending you marketing communications mostly requires the collection and use of certain personal contact information and demographic information. In some instances (such as for mobile apps and text messaging programs), this could involve the use of your precise geo-location, which may allow us to send you location-based offers and promotions.
 
-You can opt-out from receiving marketing-related email communications by following the unsubscribe instructions provided in each such communication.  If you have an account with us, you may be given the option to change your communication preferences under the relevant edit-account section of our site (if available) or by contacting us [here](https://web.archive.org/contact-us). You may also visit social media sites where you are a member to explore opt out options they may provide for Targeted Advertising.  Please note that even if you opt out from receiving marketing communications from us, you may still receive administrative communications from us, such as order confirmations, notifications about your account activities (e.g., account confirmations, password changes, etc.), and other important announcements. Likewise, if you opt out of Targeted Advertising, you will also still see generic ads on other websites, including on social media sites where you are a member.
+You can opt-out from receiving marketing-related email communications or text messages by following the unsubscribe instructions provided in each such communication.  If you have an account with us, you may be given the option to change your communication preferences under the relevant edit-account section of our site (if available) or by contacting us [here](https://web.archive.org/contact-us). You may also visit social media sites where you are a member to explore opt out options they may provide for Targeted Advertising.  Please note that even if you opt out from receiving marketing communications from us, you may still receive administrative communications from us, such as order confirmations, notifications about your account activities (e.g., account confirmations, password changes, etc.), and other important announcements. Likewise, if you opt out of Targeted Advertising, you will also still see generic ads on other websites, including on social media sites where you are a member.
 
 Also, please note that if you participated in a promotion that involved a third party company, and, as part of that promotion, you agreed to receive future marketing communications directly from that third party, you will need to contact the third party (not Gerber) to opt-out from such communications. This process may be outlined in the third party’s privacy policy.
 
