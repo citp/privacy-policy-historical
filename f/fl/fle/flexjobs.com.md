@@ -1,126 +1,109 @@
-> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813022813id_/http%3A//privacy-policy.truste.com/verified-policy/www.flexjobs.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905192322id_/https%3A//www.flexjobs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy for www.flexjobs.com
+# FlexJobs Privacy Policy
 
-Effective on November 10, 2010 
+FlexJobs is very committed to respecting and protecting the privacy of our users, and we strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to the FlexJobs website. Please note that the FlexJobs site is intended for adults 18 years of age or older.
 
-This privacy statement describes how FlexJobs collects and uses the personal information you provide on our Web site: [www.flexjobs.com ](https://www.flexjobs.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+  
 
-**TRUSTe**
 
-FlexJobs is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+## Collection and Information by FlexJobs
 
-If you have questions or concerns regarding this policy, you should first contact us at [feedback@flexjobs.com ](mailto:feedback@flexjobs.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+As is true of most Web sites, we gather or may gather certain information about you and your use of our site. These include: 
 
-## Collection and Use of Personal Information
-
-We collect the following personal information from you
-
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Unique Identifiers such as user name, account number, password
-  * Preferences Information such as product wish lists, order history, marketing preferences
+  * Personal information, including your name, address, e-mail address, telephone number, contact information, and other information from which your identity is discernible. 
+  * Demographic information that is not unique to you such as your ZIP code, preferences, gender, interests. 
+  * Computer and activity information, such as what areas you visit and what services you access, as well as information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
 
 
-We also collect the following information from you
+We use the information we gather on FlexJobs, whether personal, demographic, collective or technical, for the purpose of operating and improving our service, fostering a positive user experience, and delivering the products and services that we offer. For example, we use this information to:
 
-  * Demographic information such as age, education, gender, interests and zip code
-
-
-
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
-
-We use this information to
-
-  * Fulfill your order
+  * Fulfill your subscription
   * Send you an order confirmation
-  * Assess the needs of your business to determine suitable products
+  * Assess your needs to determine suitable products
   * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
+  * Respond to customer service requests, questions and concerns
   * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
+  * Send you a newsletter, job alerts, and related communications
   * Administer contests and sweepstakes you entered, and notify you if you won
-  * Respond to your questions and concerns
   * Improve our Web site and marketing efforts
   * Conduct research and analysis
   * Display content based upon your interests
   * Enable you to post your resume, search job postings, and contact or be contacted by prospective employers
-  * List you in our publicly accessible member directory. If you do not want to be listed in our directory contact us at [feedback@flexjobs.com ](mailto:feedback@flexjobs.com)
 
 
 
-**Choice/Opt-Out**
+Additionally, we have areas on the FlexJobs site where you can submit feedback. Any feedback you submit in these areas becomes our property, and we can use such feedback (such as success stories) for marketing purposes or to contact you for further information unless explicitly stated otherwise.
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [feedback@flexjobs.com ](mailto:feedback@flexjobs.com).
+If you provide personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us (such as if purchase a Gift Certificate or use our "Refer a Friend" functionality).
 
-**Information Obtained from Third Parties**
+## Security
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+The security of your personal information is very important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-## Information Sharing
+We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+If you have any questions about security on our Web site or about removing your information from our database, you can contact us at [feedback@flexjobs.com](mailto:feedback@flexjobs.com).
 
-We may also disclose your personal information
+## Disclosure of Personal Information to Others
 
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if FlexJobs is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
+We do not disclose your personal information to third parties, or your combined personal and demographic information or information about your use of FlexJobs, except as set forth below.
 
+  1. We disclose information to third parties if you consent to such disclosure. We use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the opportunities, products or services of a particular partner.
+  2. We disclose information to companies and individuals we employ to perform functions on our behalf. Examples include hosting our Web servers, analyzing data, providing marketing assistance, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
+  3. We disclose information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect our rights or property or our affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
+  4. We disclose and transfer information to a third party who acquires all or a substantial portion of our business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event we become the subject of a bankruptcy proceeding, whether voluntary or involuntary, we or our trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court.
+
+  
+
+
+## Personal Information on Resumes, Profiles, Cover Letters, and Work Samples
+
+Since FlexJobs is a career site, you can store your profiles, resumes, cover letters, and/or work samples in our database. Users have several privacy options to choose from for each resume profile (from being completely hidden from employers to allowing their resume profiles to be searchable publicly and indexed by search engines). 
+
+We attempt to limit access to our searchable resume database (or copies thereof) depending on each user's chosen settings. You may remove your resume on FlexJobs or delete your profile on FlexJobs at any time, but, employers, recruiters and others who have had access to the FlexJobs resume database may have retained a copy of your resume or FlexJobs profile in their own files or databases. We are not responsible for the retention, use or privacy of resumes or profiles in these instances.
+
+  
+
+
+## Posting to Public Areas of FlexJobs
+
+Please remember that if you post any of your personal information in public areas of FlexJobs, such as in comments on a blog, such information may be collected and used by others over whom we have no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of FlexJobs.
+
+  
 
 
 ## Cookies and Other Tracking Technologies
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+We use "cookies" to help personalize and maximize your online experience and time online. A cookie is a text file that is placed on your hard drive by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a Web server in the domain that issued the cookie to you.
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize FlexJobs pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. When you return to FlexJobs, the information you previously provided can be retrieved, so you can easily use the features that you customized. We also use cookies to track click streams and for load balancing.
 
-_Web beacons_
+You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on FlexJobs.
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+  
 
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+## Access to and Modification of Your Information
 
-_Links to Other Web Sites_
+You may review, correct, update or change your FlexJobs account at any time. From your FlexJobs account you may also opt out of receiving newsletters and certain other information from FlexJobs.
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of FlexJobs. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+To change your FlexJobs account information, simply log into your account, go to Account Settings, review your account information and, if you wish, edit it with the options provided. You can also cancel your account at any time from Account Settings.
 
-## Security
+We retain indefinitely all the information we gather about you in an effort to enable repeat use of FlexJobs and to comply with our legal obligations, resolve disputes, conduct research on user information to improve our service, and enforce our agreements.  Of course, you can delete your resume from FlexJobs' online database, or edit it, at any time. If you close your FlexJobs account, we will remove all our copies of your resume from FlexJobs, except for an archival copy which is not accessible on the Internet.
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+  
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [feedback@flexjobs.com](mailto:feedback@flexjobs.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+## Links to Other Sites
 
-If you have any questions about security on our Web site, you can contact us at [feedback@flexjobs.com ](mailto:feedback@flexjobs.com)
+This site provides access to third party content and links. You understand and agree that we're only acting as a conduit and that we have no liability related to the third-party, whether arising under the laws of copyright, libel, privacy or obscenity.
 
-## Additional Policy Information
+FlexJobs includes links to other Web sites whose privacy practices may differ from those of FlexJobs. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+## Changes to Privacy Statement
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+If we decide to materially change our Privacy Statement for FlexJobs and FlexJobs Networking, we will post those changes through a prominent notice on the web site so that you will always know what information we gather, how we might use that information, and to whom we will disclose it.
 
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [feedback@flexjobs.com ](mailto:feedback@flexjobs.com).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-FlexJobs 
-
-548 Market St, Suite #23790 
-
-San Francisco, CA, United States 94104
-
-Phone: 866-991-9222
+You can contact us about this privacy statement by phone at 1-866-991-9222, email at [feedback@flexjobs.com](mailto:feedback@flexjobs.com), or through our [Contact page](https://www.flexjobs.com/contact). 
