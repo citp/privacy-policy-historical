@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the superbabyonline.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629031629id_/http%3A//www.superbabyonline.com/%3Fpage_id%3D4049) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbabyonline.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905121755id_/http%3A//www.superbabyonline.com/%3Fpage_id%3D4049) for the most accurate reproduction.*
 
 # Privacy Policy - SuperBaby
 
 A-Cube Kids Entertainment Private Limited respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our web sites.
 
-In general, you can visit the superbabyonline website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.
+In general, you can visit the superbabyonline website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics using google analytics , but the individual user remains anonymous.
 
 Some of our web pages use “cookies” so that we can better serve you with customized information when you return to our site. Cookies are identifiers which a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you.
+
+This website uses the Facebook remarking , Google AdWords  remarketing service to advertise on third party websites (including Google) to visitors who have previously visited to our site. It means that we could advertise to previous visitors who have visited a certain page  on our site. Remarketing ads  could be on the Google search results page, or a site in the Google Display Network or on Facebook .  Any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can change your preferences for how Google advertises to you here: [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), You can also [opt out of interest-based advertising entirely](http://www.google.com/settings/ads/onweb/) .
 
 There are times when we may collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information. Generally, you will have the option not to provide the information, and in the future you will be able to “opt out” of certain uses of the information. If you choose not to provide the information we request, you can still visit the superbabyonline website, but you may be unable to access certain options, offers and services.
 
