@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegkitchen.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317023726id_/http%3A//www.vegkitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegkitchen.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053527id_/http%3A//www.vegkitchen.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
