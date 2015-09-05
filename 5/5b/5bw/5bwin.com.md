@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5bwin.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316200930id_/https%3A//help.bwin.com/en/general-information/security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5bwin.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905170437id_/https%3A//help.bwin.com/en/general-information/security/privacy-policy) for the most accurate reproduction.*
 
 # Help - General Information - Privacy Policy
 
