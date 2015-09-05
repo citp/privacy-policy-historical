@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aan.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316185932id_/https%3A//www.aan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aan.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072305id_/https%3A//www.aan.com/privacy-policy) for the most accurate reproduction.*
 
 # American Academy of Neurology®
 
