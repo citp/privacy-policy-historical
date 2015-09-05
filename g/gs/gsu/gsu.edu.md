@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsu.edu privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317222128id_/https%3A//app.gsu.edu/policies/policy_index.cfm%3Fview_policy%3D4320) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsu.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055031id_/https%3A//app.gsu.edu/policies/policy_index.cfm%3Fview_policy%3D4320) for the most accurate reproduction.*
 
 # Home | Policy Index
 
