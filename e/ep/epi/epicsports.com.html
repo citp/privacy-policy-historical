@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the epicsports.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316070119id_/http%3A//www.epicsports.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epicsports.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905115122id_/http%3A//www.epicsports.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:og="http://opengraphprotocol.org/schema" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -13,16 +13,16 @@
 <meta name="keywords" content="soccer jerseys,baseball jerseys,football jerseys,basketball uniforms,volleyballs,cheerleading">
 
 
-<link href="http://epicsports.cachefly.net/incl/main.css?3b533d38-f988-4953-8e2c-c70cd475eedc" rel="stylesheet" type="text/css" media="all">
-<!--[if lte IE 6]><link href="http://epicsports.cachefly.net/incl/main-ie6.css?3b533d38-f988-4953-8e2c-c70cd475eedc" rel="stylesheet" type="text/css" media="all" /><![endif]-->
-<!--[if IE 7]><link href="http://epicsports.cachefly.net/incl/main-ie7.css?3b533d38-f988-4953-8e2c-c70cd475eedc" rel="stylesheet" type="text/css" media="all" /><![endif]-->
-<link href="http://epicsports.cachefly.net/incl/homepage.css?3b533d38-f988-4953-8e2c-c70cd475eedc" rel="stylesheet" type="text/css" media="all">
+<link href="http://epicsports.cachefly.net/incl/main.css?6b83648a-e48b-4d27-8d4c-c2c9ebe5df43" rel="stylesheet" type="text/css" media="all">
+<!--[if lte IE 6]><link href="http://epicsports.cachefly.net/incl/main-ie6.css?6b83648a-e48b-4d27-8d4c-c2c9ebe5df43" rel="stylesheet" type="text/css" media="all" /><![endif]-->
+<!--[if IE 7]><link href="http://epicsports.cachefly.net/incl/main-ie7.css?6b83648a-e48b-4d27-8d4c-c2c9ebe5df43" rel="stylesheet" type="text/css" media="all" /><![endif]-->
+<link href="http://epicsports.cachefly.net/incl/homepage.css?6b83648a-e48b-4d27-8d4c-c2c9ebe5df43" rel="stylesheet" type="text/css" media="all">
 
 
 
 
 <script type="text/javascript" async="" src="https://vmss.boldchat.com/aid/5078422038915897153/bc.vms4/vms.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
-<script language="javascript1.1" src="/incl/arrays.aspx?3b533d38-f988-4953-8e2c-c70cd475eedc" type="text/javascript"></script>
+<script language="javascript1.1" src="/incl/arrays.aspx?6b83648a-e48b-4d27-8d4c-c2c9ebe5df43" type="text/javascript"></script>
 <script type="text/javascript" src="http://epicsports.cachefly.net/incl/epic.js"></script>
 
 <script type="text/javascript">
@@ -56,24 +56,7 @@
 
 
 <div id="fb-root"></div>
-<script type="text/javascript" language="javascript">
-    var badIE = false;
-</script>
-<!--[if lte IE 8]>
-<script type="text/javascript" language="javascript" >
-    badIE = true;
-</script>
-<![endif]-->
 
-
-<!--[if gt IE 6]-->
-<script type="text/javascript" language="javascript">
-    if (badIE)
-    {
-        loadFacebookScriptFrameworkAsync({ appId: 227961613958918, xfbml: true, oauth: true, channelUrl: 'soccer.epicsports.com/channel.html' });
-    }
-</script>
-<!--[endif]-->
 
 <div class="top-left">
   <a href="/" title="Epic Sports Home" style="background:url('http://epicsports.cachefly.net/images/logo-homepage-equipment.jpg') no-repeat 0 0;"></a>
@@ -128,7 +111,7 @@ $.ajax({
   
   <div class="searchbar">
     <form name="frmsearch" action="/productsearch.html" method="get" class="searchfrm">
-      <input name="term" type="text" size="50" maxlength="50" class="searchterm">      
+      <input name="term" type="text" id="term" size="50" maxlength="50" class="searchterm">      
       <button class="btn sprite sprite-search" style="height:32px; width:67px; border:0" type="submit">&nbsp;</button>
     </form>
   </div>
@@ -154,6 +137,28 @@ $.ajax({
 		e.preventDefault();
 		window.location = $("link[rel='alternate']").attr("href");
 	});
+
+	$("#term").autocomplete(
+	{
+		serviceUrl: '/autocomplete/keywords',
+		width: 500,
+		deferRequestBy: 100,
+		transformResult: function(response) {
+			return {
+				suggestions: $.map(jQuery.parseJSON(response), function(item) {
+					return { value: item.Phrase, data: item };
+				})
+			};
+		},
+		triggerSelectOnValidInput: false,
+		onSelect: function (suggestion)
+		{
+			if (0 < suggestion.value.length)
+			{
+				$(".searchfrm").submit();
+			}
+		}
+	});	
 </script>
 
 <div class="cleardiv"></div>
@@ -187,25 +192,25 @@ $.ajax({
 <ul class="testimonials">
 
 	<li>
-		<b>J. FUERTIS (CA)</b>
-		<p>"Great Quality" (E2238)</p>
+		<b>L. DAVIS (OK)</b>
+		<p>"Good product." (E3454)</p>
 		<hr width="80%" size="1" noshade="noshade">
 	</li>
 
 	<li>
-		<b>A. CIARLEGLIO (AZ)</b>
-		<p>"Great football, perfect feel and shape. Will be ordering more in the future." (E9327)</p>
+		<b>F. GOMEZ (FL)</b>
+		<p>"very good quality" (E7549)</p>
 		<hr width="80%" size="1" noshade="noshade">
 	</li>
 
 	<li>
-		<b>E. DINSMORE (VA)</b>
-		<p>"matched great with what we had" (E7099)</p>
+		<b>N. WEISSMAN (MT)</b>
+		<p>"These pants are great!" (E13364)</p>
 		<hr width="80%" size="1" noshade="noshade">
 	</li>
 
 </ul>
-  <span class="fb-control"><fb:like-box href="http://www.facebook.com/pages/Epic-Sports/162948754939" width="200" show_faces="true" stream="false" header="true"></fb:like-box></span>
+  <div class="fb-page" data-href="https://www.facebook.com/pages/Epic-Sports/162948754939" data-width="200" data-height="230" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/pages/Epic-Sports/162948754939"><a href="https://www.facebook.com/pages/Epic-Sports/162948754939">Epic Sports</a></blockquote></div></div>
   
   <ul class="adunit">
 	<script type="text/javascript"><!--
@@ -297,10 +302,7 @@ $.ajax({
 
 
 <script type="text/javascript" language="javascript">
-    if (!badIE)
-    {
-        loadFacebookScriptFrameworkAsync({ appId: 227961613958918, xfbml: true, oauth: true, channelUrl: 'soccer.epicsports.com/channel.html' });
-    }
+	loadFacebookScriptFrameworkAsync();
 </script>
 
 
