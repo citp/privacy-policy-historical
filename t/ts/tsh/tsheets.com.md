@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsheets.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511052435id_/http%3A//www.tsheets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsheets.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906003319id_/https%3A//www.tsheets.com/privacy-policy) for the most accurate reproduction.*
 
 # Mobile and Secure Online Timesheets and Employee Time Tracking Tools
 
