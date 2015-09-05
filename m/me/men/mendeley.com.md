@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320162604id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905082945id_/https%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mendeley
 
@@ -16,7 +16,7 @@ We recognize that protecting user privacy and confidentiality is essential to op
 
 This privacy policy describes how Mendeley Limited (“Mendeley”, “we”, “us” or “our”) will use the personal data collected when you visit the Mendeley websites, applications and mobile platforms that contain a link to this privacy policy (each, a “Service”). A Service may supplement this privacy policy with additional privacy terms or notices in connection with certain features of the Service. This privacy policy does not apply to websites, applications or mobile platforms that are not linked to this privacy policy or to those operated by third parties. 
 
-For the purpose of the UK Data Protection Act 1998 (the “Act”), the data controller is Mendeley Limited with its registered office at White Bear Yard, 144a Clerkenwell Road, London, EC1R 5DF, United Kingdom, Reg. No. Z1344315. 
+For the purpose of the UK Data Protection Act 1998 (the “Act”), the data controller is Mendeley Limited with its registered office at AlphaBeta Building, 14-18 Finsbury Square, London, EC2A 1BR, United Kingdom, Reg. No. Z1344315. 
 
 * TOP
 
@@ -140,10 +140,10 @@ We reserve the right to change this policy at any time. Any changes we may make 
 If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact or
 
 Mendeley Ltd.  
-Ground Floor  
-White Bear Yard  
-144a Clerkenwell Road  
-London, EC1R 5DF  
+3rd Floor  
+AlphaBeta Building  
+14-18 Finsbury Square  
+London EC2A 1BR  
 United Kingdom
 
-This privacy policy was last updated on 6 February 2014
+This privacy policy was last updated on 18 August 2015
