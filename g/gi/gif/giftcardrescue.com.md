@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftcardrescue.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508115143id_/http%3A//www.giftcardrescue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcardrescue.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062506id_/https%3A//www.giftcardrescue.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy : Buy Gift Cards Online : Gift Cards | GiftCardRescue
 
