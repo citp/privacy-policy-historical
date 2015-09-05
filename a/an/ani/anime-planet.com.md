@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020121id_/http%3A//www.anime-planet.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-planet.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061725id_/http%3A//www.anime-planet.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Anime-Planet
 
@@ -94,4 +94,4 @@ Anime-Planet may update this policy. We will notify you about significant change
 
 ## QUESTIONS AND SUGGESTIONS
 
-If you have questions or suggestions, please contact us via the [Contact Us](https://web.archive.org/contactus.php) form.
+If you have questions or suggestions, please contact us via the [Contact Us](https://web.archive.org/contact) form.
