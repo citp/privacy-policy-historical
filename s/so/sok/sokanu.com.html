@@ -1,443 +1,577 @@
-<!--The following is the downloaded HTML source of the sokanu.com privacy policy that was archived on 2015-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150324093538id_/https%3A//www.sokanu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sokanu.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905064703id_/https%3A//www.sokanu.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js"><head><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ8DVV5VGwICXVlQAQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-        <meta charset="utf-8">
-        <link rel="icon" type="image/x-icon" href="https://d2imr2faqwhte6.cloudfront.net/img/favicon.ico">
+<!DOCTYPE html><html lang="en-US"><head>
+        <title>Privacy</title>
 
-        <title>privacy</title>
+        <meta http-equiv="content-language" content="en-us">
 
-        <meta name="description" content="Sokanu's stance on the privacy of your information.">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Favicon -->
+        <link rel="icon" type="image/x-icon" href="https://d2imr2faqwhte6.cloudfront.net/compiled/images/favicon.ico">
+
+        <!-- Zoom limitations for mobile browsers -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
         <meta name="apple-mobile-web-app-capable" content="yes">
 
-        <script src="//use.typekit.net/hkg2ihu.js"></script>
-        <script>try{Typekit.load();}catch(e){}</script>
+        <link rel="stylesheet" href="https://d2imr2faqwhte6.cloudfront.net/compiled/styles/global.css">
 
-        <link rel="stylesheet" href="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/styles/external/critical.css">
-        <link rel="stylesheet" href="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/styles/external/non-critical.css">
-
-        <script>
-            var FACEBOOK_APP_ID = window.FACEBOOK_APP_ID = "263514677100821";
-            var pageTitle = window.pageTitle = 'privacy';
+        <script src="//beacon.errorception.com/55d66823396492340a0013da.js" async=""></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//use.typekit.net/eja1dls.js"></script><script src="https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/folding-nav.js" async=""></script><script src="https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/position-sticky.js" async=""></script><script>
+            (function(_,e,rr,s){_errs=[s];var c=_.onerror;_.onerror=function(){var a=arguments;_errs.push(a);
+            c&&c.apply(this,a)};var b=function(){var c=e.createElement(rr),b=e.getElementsByTagName(rr)[0];
+            c.src="//beacon.errorception.com/"+s+".js";c.async=!0;b.parentNode.insertBefore(c,b)};
+            _.addEventListener?_.addEventListener("load",b,!1):_.attachEvent("onload",b)})
+            (window,document,"script","55d66823396492340a0013da");
         </script>
 
-        <!-- <script src="https://d2imr2faqwhte6.cloudfront.net/lib/viewport-units-buggyfill/viewport-units-buggyfill.js"></script>
-        <script>window.viewportUnitsBuggyfill.init();</script> -->
+        <script>
+    (function (w) {
+        var doc = w.document;
+        var ref = doc.getElementsByTagName('script')[0];
+        window.load = function (src, type, callback) {
+            var el;
+            var ls = false;
+            try {
+                ls = w.localStorage;
+            } catch (e) {
+                // Some browsers have local storage disabled for security (e.name == 'SecurityError'). This isn't crucial.
+            }
+            if (type == 'script') {
+                el = doc.createElement('script');
+                el.src = src;
+                if (!ls || !ls[src]) {
+                    el.async = 'true';
+                }
+            } else {
+                el = doc.createElement('link');
+                el.rel = 'stylesheet';
+                if (!ls || !ls[src]) {
+                    el.media = 'only foo';
+                }
+                el.href = src;
+            }
 
-        
+            if (ls && !ls[src]) {
+                try {
+                    ls[src] = 'true';
+                } catch (e) {}
+            }
 
-        <script src="https://d2imr2faqwhte6.cloudfront.net/lib/jquery/jquery-min.js"></script>
-        <script src="https://d2imr2faqwhte6.cloudfront.net/lib/bootstrap/javascripts/bootstrap/modal.js"></script>
-        <script src="https://d2imr2faqwhte6.cloudfront.net/lib/bootstrap/javascripts/bootstrap/tooltip.js"></script>
-        <script src="https://d2imr2faqwhte6.cloudfront.net/lib/bootstrap/javascripts/bootstrap/popover.js"></script>
-        <script src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/scripts/facebook/login.js"></script>
-        <script src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/scripts/external.js"></script>
-    </head>
-    <body>
+            if (el.media) {
+                setTimeout(function () { el.media = 'all'; });
+            }
 
-        <!--[if lt IE 10]>
-            <p class="browse-happy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
+            var done = false;
+            el.onload = el.onReadyStateChange = function () {
+                var readyState = this.readyState;
+                if (done || readyState && readyState != 'complete' && readyState != 'loaded') return;
+                done = true;
+                if (callback) callback();
+            };
 
-        
+            ref.parentNode.insertBefore(el, ref);
 
-        
-
-<header class="page-header">
-    <div class="little-red-stripe"></div>
-    
-    <div class="container">
-        <div class="clearfix">
-            <hgroup class="logo-group">
-                <a class="link" href="/">
-                    <h1 class="logo">sokanu</h1>
-                    <h5 class="logo-helper">
-                        <span>so</span> <span>•</span>
-                        <span>can</span> <span>•</span>
-                        <span>you</span>
-                    </h5>
-                </a>
-            </hgroup>
-            <div class="pull-left">
-                <h2 class="page-title">privacy</h2>
-                <ol class="breadcrumb">
-                    
-                    <li class=""><a href="/">home</a></li>
-                    
-                    <li class="active">privacy</li>
-                    
-                </ol>
-            </div>
-            <nav class="access">
-                
-                <a href="/"><h4 class="homepage-link">The best career test anywhere</h4></a>
-                <a href="#" class="btn btn-sm btn-clear" data-toggle="modal" data-target="#sign-up">sign up</a>
-                <a href="#" class="btn btn-sm btn-clear" data-toggle="modal" data-target="#login">login</a>
-                
-            </nav>
-        </div>
-    </div>
-</header>
-
-        
-
-        
-        
-
-<link rel="stylesheet" href="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/styles/external/content-with-subnav.css">
-
-
-
-<div class="content-with-subnav">
-
-    <div class="js-subnav subnav">
-        
-<ul class="nav nav-stacked">
-    <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#information-collection">Information Collection and Use</a></li>
-    <li><a href="#information-sharing">Information Sharing and Disclosure</a></li>
-    <li><a href="#third-parties">Third Party Sites and Services</a></li>
-    <li><a href="#children">Children</a></li>
-    <li><a href="#changes">Changes to this Privacy Policy</a></li>
-    <li><a href="#contact">Contacting Us</a></li>
-</ul>
-
-    </div>
-
-    <div class="content">
-        
-<section id="introduction">
-    <h2>Introduction</h2>
-    <p> The Privacy Policy describes Sokanu's policies and procedures regarding
-    the personal information and other data collected through the Sokanu
-    Site. By using the Sokanu Site, you consent to the terms of this
-    Privacy Policy.</p>
-</section>
-
-<section id="information-collection">
-    <h2>Information Collection and Use</h2>
-
-    <p> When you create a Sokanu account, you will be asked to provide
-    some personal information, such as your name, username, password
-    and email address. Some of this information you provide during
-    the registration process (such as your name, gender and the
-    careers that you follow) will be listed on the Sokanu Site
-    and accessible by the public.</p>
-
-    <p> The Sokanu Site is designed to connect individuals to careers and
-    help them find their passion in life. Except as otherwise
-    specifically stated in this Privacy Policy, the information you
-    provide to us via the Sokanu Site will be made publicly available
-    on the Sokanu Site. Sokanu will store metadata associated with the
-    use of the Sokanu Site and may share this information with various
-    third parties, such as the career contributors you follow and the
-    Content with which you interact.</p>
-
-    <p> To better improve our Content and the Sokanu Site, we track some
-    of the actions you take on the Sokanu Site, such as "following" a
-    career portal or "commenting on" a post.</p>
-
-    <p> We use "cookie" technology to collect additional website usage
-    data and to improve the Sokanu Site. A cookie is a small data
-    file that is transferred to your computer's hard disk. Sokanu
-    may use cookies to better understand how you interact with our
-    Content and improve the Sokanu Site.</p>
-
-    <p> Sokanu uses a variety of services hosted by third parties to help
-    provide the Sokanu Site and to better understand the use of the
-    Sokanu Site. These services may collect information sent to
-    your browser as part of a web page requeust, such as cookies or
-    your IP request. </p>
-
-    <p> Sokanu uses certain third party social media web sites and
-    services such as Facebook, on the Sokanu Site. Sokanu may collect
-    information you have made available on these sites. In accessing
-    these services through Sokanu, you are sharing information with
-    those sites, and the information you share will be governed by
-    their privacy policies. You may be able to modify your privacy
-    settings with these third party social media web sites.</p>
-</section>
-
-<section id="information-sharing">
-    <h2>Information Sharing and Disclosure</h2>
-
-    <p> We use the information we collect to make the Sokanu Site
-    available to our users, to measure the use of the Sokanu Site,
-    to improve the Sokanu Site, and to provide you with customer
-    support. We may share or disclose information for these
-    purposes without prior consent.</p>
-
-    <p> We may share or disclose your non-private, aggregated or
-    otherwise non-personal information, such as your public posts
-    or the number of users who clicked on a particular piece of
-    Content.</p>
-
-    <p> We may share transaction information with the trusted third
-    parties responsible for such transactions, including donations
-    made through Network for Good. The beneficiaries of said
-    donations will be notified of your donation transaction.</p>
-
-    <p> We may disclose your information if we believe that it is
-    reasonable necessary to comply with a law, regulation or legal
-    request; to protect the safety of any person; to address
-    fraud, security or technical issues; or to protect Sokanu’s
-    rights or property.</p>
-
-    <p> Registered users are encouraged to keep their information
-    current and up to date. The Sokanu Site provides users with the
-    tools to access or modify personal information provided to
-    Sokanu via the Sokanu Site.</p>
-</section>
-
-<section id="third-parties">
-    <h2>Third Party Sites and Services</h2>
-
-    <p> The terms of this Privacy Policy apply only to information
-    that is collected through the Sokanu Site. The Sokanu Site may
-    contain links to third party sites and/or services, some of
-    which may collect personal data and/or other information from
-    users. Sokanu is not in control of or responsible for the
-    privacy practices of those third party sites and/or services.
-    Users are advised to contact the third parties directly for
-    information about their privacy policies. </p>
-</section>
-
-<section id="children">
-    <h2>Children</h2>
-
-    <p> The Sokanu Site is intended for users who are at least 13 years of age.
-    Users who are under the age of 13 are not permitted to use the Sokanu
-    Site or provide information to the Sokanu Site.</p>
-</section>
-
-<section id="changes">
-    <h2>Changes to this Privacy Policy</h2>
-
-    <p> The Sokanu Site may change from time to time. As a result, Sokanu
-    may need to make changes to this Privacy Policy.</p>
-
-    <p> Sokanu reserves the right to update or modify this Privacy
-    Policy without prior notice. Your continued use of the Site
-    after any changes or revisions to this Privacy Policy indicate
-    your agreement with the terms. This Privacy Policy was last
-    updated as of the date indicated above. Please check back and
-    review this Privacy each time before you provide information
-    to the Sokanu Site.</p>
-</section>
-
-<section id="contact">
-    <h2>Contacting Us</h2>
-    <p> If you have any questions or concerns about the online privacy
-    statement for this site or its implementation you may contact
-    us <a href="mailto:contact@sokanu.com">here</a>.</p>
-</section>
-
-    </div>
-</div>
-
-<script src="https://d2imr2faqwhte6.cloudfront.net/lib/bootstrap/javascripts/bootstrap/affix.js"></script>
-<script src="https://d2imr2faqwhte6.cloudfront.net/lib/bootstrap/javascripts/bootstrap/scrollspy.js"></script>
-<script src="https://d2imr2faqwhte6.cloudfront.net/lib/bootstrap/javascripts/bootstrap/transition.js"></script>
-<script src="https://d2imr2faqwhte6.cloudfront.net/lib/bootstrap/javascripts/bootstrap/collapse.js"></script>
-<script>
-$(document).ready(function () {
-    $('.js-subnav > .nav').affix({
-        offset: {
-            top: $('.page-header').outerHeight(true) + $('.page-navigation').outerHeight(true),
-            bottom: $('.site-footer').outerHeight(true)
-        }
-    });
-    var $spy = $('body').scrollspy({
-        target: '.js-subnav',
-        offset: 180
-    });
-    $('.collapse').on('shown.bs.collapse', function () {
-        $spy.scrollspy('refresh')
-    });
-    $('.collapse').on('hidden.bs.collapse', function () {
-        $spy.scrollspy('refresh')
-    });
-});
+        };
+    })(this);
 </script>
 
 
+        <script>
+            // Passing important vars from Django to JS.
+            var STATIC_URL = window.STATIC_URL = 'https://d2imr2faqwhte6.cloudfront.net/',
+                DEBUG = window.DEBUG = false,
+                FACEBOOK_APP_ID = window.FACEBOOK_APP_ID = '263514677100821';
+
+            // Non-blocking Typekit
+            load('//use.typekit.net/eja1dls.js', 'script', function () {
+                Typekit.load({
+                    active: function () {
+                        
+                    }
+                });
+            });
+
+            // Google Analytics
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            
+                ga('create', 'UA-29974300-1', 'auto');
+            
+            
+            ga('send', 'pageview');
+        </script>
+
+        
+            <script src="https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/vendor/modernizr.js"></script>
+        
+
+        
+    </head>
+    <body class="s-logged-out ">
+        <div id="fb-root"></div> <!-- required for any facebook UI interaction -->
+
+        
+        
+
+
+
+<nav class="top-bar logged-in-False" role="navigation" data-options="is_hover: false" data-topbar="">
+
+    <ul class="title-area">
+        <li class="name">
+            <a class="logo" href="/" track="mixpanel" data-target="Home" data-link-type="Logo">sokanu</a>
+        </li>
+        <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    </ul>
+
+    
+<section class="top-bar-section">
+
+    <!-- global navigation -->
+    <ul class="left">
 
         
 
+        <li class="">
+            
+                <a href="/careers/" track="mixpanel" data-target="Careers">Careers</a>
+            
+        </li>
+
+        <li class="">
+            <a href="/degrees/" track="mixpanel" data-target="Degrees">Degrees</a>
+        </li>
+
+        
+
+        
+
+        
+
+        
+        <li class="">
+            <a href="#" data-reveal-id="sign-up" data-target="Sign Up" track="mixpanel-modal" data-link-type="Header">Sign Up</a>
+        </li>
+        <li class="">
+            <a href="#" data-reveal-id="login" track="mixpanel-modal" data-target="Login">Log In</a>
+        </li> <!-- TODO: ?next=/privacy/ -->
+        
+
+        <li class="">
+            <a href="/blog/" track="mixpanel" data-target="Blog">Blog</a>
+        </li>
+
+    </ul>
+    <!-- end global navigation -->
+
+    <!-- account dropdown -->
+    
+    <!-- end account dropdown -->
+
+    <!-- autocompleting search for careers -->
+    <form class="right site-search " role="search" action="/search/">
+        <div class="js-site-search" data-value="" name="q"></div>
+        <button type="submit" class="site-search-button js-button">
+            <img class="icon search" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/search.svg">
+            <img class="icon close" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/close.svg">
+            <img class="icon check" src="https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/images/check.svg">
+        </button>
+    </form>
+    <!-- end search -->
+</section>
+
+
+    <div class="global-progress">
+        
+        
+        
+    </div>
+</nav>
+
+
+
+        
+<header class="page-header tiny">
+    <div class="row">
+        <div class="column">
+            <h1>Privacy</h1>
+        </div>
+    </div>
+</header>
+<div class="row folding-nav">
+    <a href="#" class="folding-nav-close"></a>
+    <div class="column large-3 folding-nav-menu fixedsticky">
+        <a href="#" class="folding-nav-toggle"><span class="hamburger"></span></a>
+        <ul class="side-nav">
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#information-collection">Information Collection and Use</a></li>
+            <li><a href="#information-sharing">Information Sharing and Disclosure</a></li>
+            <li><a href="#third-parties">Third Party Sites and Services</a></li>
+            <li><a href="#children">Children</a></li>
+            <li><a href="#changes">Changes to this Privacy Policy</a></li>
+            <li><a href="#contact">Contacting Us</a></li>
+        </ul>
+    </div>
+    <div class="column large-9 folding-nav-content">
+        <section class="page-section" id="introduction">
+            <h2>Introduction</h2>
+            <p> The Privacy Policy describes Sokanu's policies and procedures regarding
+            the personal information and other data collected through the Sokanu
+            Site. By using the Sokanu Site, you consent to the terms of this
+            Privacy Policy.</p>
+        </section>
+
+        <section class="page-section" id="information-collection">
+            <h2>Information Collection and Use</h2>
+
+            <p> When you create a Sokanu account, you will be asked to provide
+            some personal information, such as your name, username, password
+            and email address. Some of this information you provide during
+            the registration process (such as your name, gender and the
+            careers that you follow) will be listed on the Sokanu Site
+            and accessible by the public.</p>
+
+            <p> The Sokanu Site is designed to connect individuals to careers and
+            help them find their passion in life. Except as otherwise
+            specifically stated in this Privacy Policy, the information you
+            provide to us via the Sokanu Site will be made publicly available
+            on the Sokanu Site. Sokanu will store metadata associated with the
+            use of the Sokanu Site and may share this information with various
+            third parties, such as the career contributors you follow and the
+            Content with which you interact.</p>
+
+            <p> To better improve our Content and the Sokanu Site, we track some
+            of the actions you take on the Sokanu Site, such as "following" a
+            career portal or "commenting on" a post.</p>
+
+            <p> We use "cookie" technology to collect additional website usage
+            data and to improve the Sokanu Site. A cookie is a small data
+            file that is transferred to your computer's hard disk. Sokanu
+            may use cookies to better understand how you interact with our
+            Content and improve the Sokanu Site.</p>
+
+            <p> Sokanu uses a variety of services hosted by third parties to help
+            provide the Sokanu Site and to better understand the use of the
+            Sokanu Site. These services may collect information sent to
+            your browser as part of a web page requeust, such as cookies or
+            your IP request. </p>
+
+            <p> Sokanu uses certain third party social media web sites and
+            services such as Facebook, on the Sokanu Site. Sokanu may collect
+            information you have made available on these sites. In accessing
+            these services through Sokanu, you are sharing information with
+            those sites, and the information you share will be governed by
+            their privacy policies. You may be able to modify your privacy
+            settings with these third party social media web sites.</p>
+        </section>
+
+        <section class="page-section" id="information-sharing">
+            <h2>Information Sharing and Disclosure</h2>
+
+            <p> We use the information we collect to make the Sokanu Site
+            available to our users, to measure the use of the Sokanu Site,
+            to improve the Sokanu Site, and to provide you with customer
+            support. We may share or disclose information for these
+            purposes without prior consent.</p>
+
+            <p> We may share or disclose your non-private, aggregated or
+            otherwise non-personal information, such as your public posts
+            or the number of users who clicked on a particular piece of
+            Content.</p>
+
+            <p> We may share transaction information with the trusted third
+            parties responsible for such transactions, including donations
+            made through Network for Good. The beneficiaries of said
+            donations will be notified of your donation transaction.</p>
+
+            <p> We may disclose your information if we believe that it is
+            reasonable necessary to comply with a law, regulation or legal
+            request; to protect the safety of any person; to address
+            fraud, security or technical issues; or to protect Sokanu’s
+            rights or property.</p>
+
+            <p> Registered users are encouraged to keep their information
+            current and up to date. The Sokanu Site provides users with the
+            tools to access or modify personal information provided to
+            Sokanu via the Sokanu Site.</p>
+        </section>
+
+        <section class="page-section" id="third-parties">
+            <h2>Third Party Sites and Services</h2>
+
+            <p> The terms of this Privacy Policy apply only to information
+            that is collected through the Sokanu Site. The Sokanu Site may
+            contain links to third party sites and/or services, some of
+            which may collect personal data and/or other information from
+            users. Sokanu is not in control of or responsible for the
+            privacy practices of those third party sites and/or services.
+            Users are advised to contact the third parties directly for
+            information about their privacy policies. </p>
+        </section>
+
+        <section class="page-section" id="children">
+            <h2>Children</h2>
+
+            <p> The Sokanu Site is intended for users who are at least 13 years of age.
+            Users who are under the age of 13 are not permitted to use the Sokanu
+            Site or provide information to the Sokanu Site.</p>
+        </section>
+
+        <section class="page-section" id="changes">
+            <h2>Changes to this Privacy Policy</h2>
+
+            <p> The Sokanu Site may change from time to time. As a result, Sokanu
+            may need to make changes to this Privacy Policy.</p>
+
+            <p> Sokanu reserves the right to update or modify this Privacy
+            Policy without prior notice. Your continued use of the Site
+            after any changes or revisions to this Privacy Policy indicate
+            your agreement with the terms. This Privacy Policy was last
+            updated as of the date indicated above. Please check back and
+            review this Privacy each time before you provide information
+            to the Sokanu Site.</p>
+        </section>
+
+        <section class="page-section" id="contact">
+            <h2>Contacting Us</h2>
+            <p> If you have any questions or concerns about the online privacy
+            statement for this site or its implementation you may contact
+            us <a href="mailto:contact@sokanu.com">here</a>.</p>
+        </section>
+    </div>
+</div>
+
+
+        
         <div class="site-footer-container">
             <div class="container">
                 
 
 <footer class="site-footer">
     <div class="row">
-        <div class="col-sm-6">
-            <div class="link-group-header">
-                <p class="by-line">sokanu 2015<span class="location">Made in Vancouver, Canada</span></p>
-            </div>
+        <div class="columns medium-6">
+            <h6 class="underline">© Sokanu 2015 <span class="light hide-for-small" style="display: inline !important;">- Made in Vancouver, Canada</span></h6>
             <div class="row">
-                <div class="link-group">
-                    <ul class="list-unstyled">
-                        <li><a href="/careers/" class="small">Browse all careers</a></li>
-                        <li><a href="/archetypes/" class="small">Archetypes</a></li>
-                        <li><a href="/about/" class="small">About Sokanu</a></li>
-                        <li><a href="/partnership/" class="small">Partnership</a></li>
+                <div class="columns medium-6">
+                    <ul class="no-bullet">
+                        <li><a href="/careers/">Browse all careers</a></li>
+                        <li><a href="/careers/collections/">Career collections</a></li>
+                        <li><a href="/archetypes/">Archetypes</a></li>
+                        <li><a href="/about/">About Sokanu</a></li>
+                        
                     </ul>
                 </div>
-                <div class="link-group">
-                    <ul class="list-unstyled">
-                        <li><a href="/contact/" class="small">Contact</a></li>
-                        <li><a href="/work/" class="small">Work at sokanu</a></li>
-                        <li><a href="/terms/" class="small">Terms &amp; conditions</a></li>
-                        <li><a href="/privacy/" class="small">Privacy</a></li>
-                        <!-- <li><a href="#" class="small">Sitemap</a></li> -->
+                <div class="columns medium-6">
+                    <ul class="no-bullet">
+                        <li><a href="/contact/">Contact</a></li>
+                        <li><a href="/work/">Work at sokanu</a></li>
+                        <li><a href="/terms/">Terms &amp; conditions</a></li>
+                        <li><a href="/privacy/">Privacy</a></li>
+                        <!-- <li><a href="#">Sitemap</a></li> -->
                     </ul>
                 </div>
             </div>
         </div>
-        <div class="col-sm-6">
-            <div class="row">
-                <section class="link-group">
-    <div class="link-group-header"><h4 class="title">Find your perfect career</h4></div>
-    <ul class="list-unstyled">
-        
-        <li><a href="#login" data-toggle="modal" class="small">Login to your account</a></li>
-        <li><a href="#sign-up" data-toggle="modal" class="small">Create a new account</a></li>
-        
-        <li><a href="/career-test/" class="small">The sokanu career test</a></li>
-    </ul>
-</section>
-<section class="link-group">
-    <div class="link-group-header"><h4 class="title">For organizations</h4></div>
-    <ul class="list-unstyled">
-        <li><a href="http://www.peopleanalyticscorporation.com" class="small">People Analytics Corporation</a></li>
-        <li><a href="/edu/" class="small">Sokanu edu</a></li>
-        <li><a href="/science/" class="small">Technical manual</a></li>
-    </ul>
-</section>
+        <div class="columns medium-3">
+            <h6 class="underline">For Individuals</h6>
+            <ul class="no-bullet">
+                
+                <li><a href="#" data-reveal-id="login" class="small">Login to your account</a></li>
+                <li><a href="#" data-reveal-id="sign-up" class="small">Create a new account</a></li>
+                
+                <li><a href="/career-test/" class="small">The sokanu career test</a></li>
+            </ul>
+        </div>
+        <div class="columns medium-3">
+            <h6 class="underline">For Organizations</h6>
+            <ul class="no-bullet">
+                <li><a href="http://www.peopleanalyticscorporation.com" class="small">People Analytics Corporation</a></li>
+                <li><a href="/edu/" class="small">Sokanu edu</a></li>
+                <li><a href="/science/" class="small">Technical manual</a></li>
+            </ul>
+        </div>
+    </div>
 
+    
+        <div class="row secondary-links">
+            <div class="columns medium-6">
+                <h6>Popular careers</h6>
+                <p class="description small">
+                    Dive in and expose yourself to a vast expanse of knowledge covering more than 500 careers.
+                    Here are some of the questions people often ask.
+                </p>
+                <ul class="no-bullet">
+                    <li><a href="/careers/accountant/" class="small">What does an accountant do?</a></li>
+                    <li><a href="/careers/neurologist/" class="small">What does a neurologist do?</a></li>
+                    <li><a href="/careers/chiropractor/" class="small">What does an chiropractor do?</a></li>
+                    <li><a href="/careers/social-worker/" class="small">What does a social worker do?</a></li>
+                    <li><a href="/careers/paralegal/" class="small">What does a paralegal do?</a></li>
+                    <li><a href="/careers/mechanical-engineer/" class="small">What does a mechanical engineer do?</a></li>
+                    <li><a href="/careers/psychologist/" class="small">What does a psychologist do?</a></li>
+                    <li><a href="/careers/medical-assistant/" class="small">What does a medical assistant do?</a></li>
+                </ul>
+            </div>
+            <div class="columns medium-6">
+                <h6>Salary information</h6>
+                <p class="description small">
+                    How important is money? Whatever your answer is, sokanu has great information for you.
+                    See career salary ranges based on location, experience and more.
+                </p>
+                <ul class="no-bullet">
+                    <li><a href="/careers/physical-therapist/salary/" class="small">Physical therapist salary</a></li>
+                    <li><a href="/careers/pharmacist/salary/" class="small">Pharmacist salary</a></li>
+                    <li><a href="/careers/medical-assistant/salary/" class="small">Medical assistant salary</a></li>
+                    <li><a href="/careers/anesthesiologist/salary/" class="small">Anesthesiologist salary</a></li>
+                    <li><a href="/careers/flight-attendant/salary/" class="small">Flight attendant salary</a></li>
+                    <li><a href="/careers/dentist/salary/" class="small">Dentist salary</a></li>
+                    <li><a href="/careers/radiologist/salary/" class="small">Radiologist salary</a></li>
+                    <li><a href="/careers/paralegal/salary/" class="small">Paralegal salary</a></li>
+                </ul>
             </div>
         </div>
-    </div>
-    
-    <div class="row">
-        <section class="link-group seo small">
-    <div class="link-group-header"><h4 class="title">Popular questions</h4></div>
-    <p class="description">
-        Dive in and expose yourself to a vast expanse of knowledge covering more than 500 careers.
-        Here are some of the questions people often ask.
-    </p>
-    <ul class="list-unstyled">
-        <li><a href="/careers/accountant/" class="small">What does an accountant do?</a></li>
-        <li><a href="/careers/neurologist/" class="small">What does a neurologist do?</a></li>
-        <li><a href="/careers/chiropractor/" class="small">What does an chiropractor do?</a></li>
-        <li><a href="/careers/social-worker/" class="small">What does a social worker do?</a></li>
-        <li><a href="/careers/paralegal/" class="small">What does a paralegal do?</a></li>
-        <li><a href="/careers/mechanical-engineer/" class="small">What does a mechanical engineer do?</a></li>
-        <li><a href="/careers/psychologist/" class="small">What does a psychologist do?</a></li>
-        <li><a href="/careers/medical-assistant/" class="small">What does a medical assistant do?</a></li>
-    </ul>
-</section>
-<section class="link-group seo small">
-    <div class="link-group-header"><h4 class="title">Salary information</h4></div>
-    <p class="description">
-        How important is money? Whatever your answer is, sokanu has great information for you.
-        See career salary ranges based on location, experience and more.
-    </p>
-    <ul class="list-unstyled">
-        <li><a href="/careers/physical-therapist/salary/" class="small">Physical therapist salary</a></li>
-        <li><a href="/careers/pharmacist/salary/" class="small">Pharmacist salary</a></li>
-        <li><a href="/careers/medical-assistant/salary/" class="small">Medical assistant salary</a></li>
-        <li><a href="/careers/anesthesiologist/salary/" class="small">Anesthesiologist salary</a></li>
-        <li><a href="/careers/flight-attendant/salary/" class="small">Flight attendant salary</a></li>
-        <li><a href="/careers/dentist/salary/" class="small">Dentist salary</a></li>
-        <li><a href="/careers/radiologist/salary/" class="small">Radiologist salary</a></li>
-        <li><a href="/careers/paralegal/salary/" class="small">Paralegal salary</a></li>
-    </ul>
-</section>
-<section class="link-group seo up4 small">
-    <div class="link-group-header"><h4 class="title">Job listings</h4></div>
-    <p class="description">
-        Find your perfect career then find real job positions to really kick things off.
-        We provide job listings for most careers through our partners.
-    </p>
-    <ul class="list-unstyled">
-        <li><a href="/careers/flight-attendant/jobs/" class="small">Flight attendant jobs</a></li>
-        <li><a href="/careers/receptionist/jobs/" class="small">Receptionist jobs</a></li>
-        <li><a href="/careers/medical-assistant/jobs/" class="small">Medical assistant jobs</a></li>
-        <li><a href="/careers/nanny/jobs/" class="small">Nanny jobs</a></li>
-        <li><a href="/careers/firefighter/jobs/" class="small">Firefighter jobs</a></li>
-        <li><a href="/careers/pilot/jobs/" class="small">Pilot jobs</a></li>
-        <li><a href="/careers/dental-assistant/jobs/" class="small">Dental assistant jobs</a></li>
-        <li><a href="/careers/paralegal/jobs/" class="small">Paralegal jobs</a></li>
-    </ul>
-</section>
-<section class="link-group seo up4 small">
-    <div class="link-group-header"><h4 class="title">Popular careers</h4></div>
-    <p class="description">
-        Some careers are mandatory. These are the kinds of careers your parents want for you,
-        the ones that are ubiquitous the world over and the ones you wanted to be when you were a kid.
-    </p>
-    <ul class="list-unstyled">
-        <li><a href="/careers/translator/" class="small">Translator</a></li>
-        <li><a href="/careers/coach/" class="small">Coach</a></li>
-        <li><a href="/careers/entrepreneur/" class="small">Entrepreneur</a></li>
-        <li><a href="/careers/economist/" class="small">Economist</a></li>
-        <li><a href="/careers/principal/" class="small">Principal</a></li>
-        <li><a href="/careers/psychiatrist/" class="small">Psychiatrist</a></li>
-        <li><a href="/careers/gynecologist/" class="small">Gynecologist</a></li>
-        <li><a href="/careers/pediatrician/" class="small">Pediatrician</a></li>
-    </ul>
-</section>
-    </div>
+        <div class="row secondary-links">
+            <div class="columns medium-6">
+                <h6>Job listings</h6>
+                <p class="description small">
+                    Find your perfect career then find real job positions to really kick things off.
+                    We provide job listings for most careers through our partners.
+                </p>
+                <ul class="no-bullet">
+                    <li><a href="/careers/flight-attendant/jobs/" class="small">Flight attendant jobs</a></li>
+                    <li><a href="/careers/receptionist/jobs/" class="small">Receptionist jobs</a></li>
+                    <li><a href="/careers/medical-assistant/jobs/" class="small">Medical assistant jobs</a></li>
+                    <li><a href="/careers/nanny/jobs/" class="small">Nanny jobs</a></li>
+                    <li><a href="/careers/firefighter/jobs/" class="small">Firefighter jobs</a></li>
+                    <li><a href="/careers/pilot/jobs/" class="small">Pilot jobs</a></li>
+                    <li><a href="/careers/dental-assistant/jobs/" class="small">Dental assistant jobs</a></li>
+                    <li><a href="/careers/paralegal/jobs/" class="small">Paralegal jobs</a></li>
+                </ul>
+            </div>
+            
+            <div class="columns medium-6">
+                <h6>Career collections</h6>
+                <p class="description small">
+                    <em>Lists of careers</em> that help you see careers in a new light.
+                    Which are the <a href="/careers/collections/best-careers-2015/" class="plain">best careers for 2015</a>?
+                    Which careers offer the <a href="/careers/collections/highest-paying-jobs/" class="plain">highest paying jobs</a>?
+                    What are the <a href="/careers/collections/careers-for-introverts/" class="plain">best careers for introverts</a>?
+                </p>
+                <ul class="no-bullet">
+                    <li><a href="/careers/collections/creative-careers/" class="small">Creative Careers</a></li>
+                    <li><a href="/careers/collections/best-careers-2015/" class="small">Best Careers for 2015</a></li>
+                    <li><a href="/careers/collections/highest-paying-jobs/" class="small">Highest Paying Jobs</a></li>
+                    <li><a href="/careers/collections/intj-careers/" class="small">INTJ Careers</a></li>
+                    <li><a href="/careers/collections/outdoor-careers/" class="small">Outdoor Careers</a></li>
+                    <li><a href="/careers/collections/careers-for-introverts/" class="small">Careers for Introverts</a></li>
+                </ul>
+            </div>
+            
+        </div>
+        <div class="row secondary-links">
+            <div class="columns medium-6">
+                <h6>What can I do with my degree?</h6>
+                <p class="description small">
+                    Sometimes it's obvious what you can do with a degree. Sometimes it's not. Our degree pages let you explore career options for your degree.
+                </p>
+                <ul class="no-bullet">
+                    <li><a href="/degrees/psychology/" class="small">What can I do with a psychology degree?</a></li>
+                    <li><a href="/degrees/environmental-science/" class="small">What can I do with a environmental science degree?</a></li>
+                    <li><a href="/degrees/nursing/" class="small">What can I do with a nursing degree?</a></li>
+                    <li><a href="/degrees/social-work/" class="small">What can I do with a social work degree?</a></li>
+                    <li><a href="/degrees/sociology/" class="small">What can I do with an sociology degree?</a></li>
+                    <li><a href="/degrees/economics/" class="small">What can I do with an economics degree?</a></li>
+                    <li><a href="/degrees/history/" class="small">What can I do with a history degree?</a></li>
+                    <li><a href="/degrees/communications/" class="small">What can I do with a communications degree?</a></li>
+                </ul>
+            </div>
+            <div class="columns medium-6">
+                <h6>Popular Degrees</h6>
+                <p class="description small">
+                    Explore some of our more popular degrees. Learn how popular a degree is, how much graduates earn, and what the job market looks like for over 200 degrees.
+                </p>
+                <ul class="no-bullet">
+                    <li><a href="/degrees/photography/" class="small">Photography Degree</a></li>
+                    <li><a href="/degrees/graphic-design/" class="small">Graphic Design Degree</a></li>
+                    <li><a href="/degrees/computer-forensics/" class="small">Computer Forensics Degree</a></li>
+                    <li><a href="/degrees/cosmetology/" class="small">Cosmetology Degree</a></li>
+                    <li><a href="/degrees/geography/" class="small">Geography Degree</a></li>
+                    <li><a href="/degrees/petroleum-engineering/" class="small">Petroleum Engineering Degree</a></li>
+                    <li><a href="/degrees/botany/" class="small">Botany Degree</a></li>
+                    <li><a href="/degrees/physiology/" class="small">Physiology Degree</a></li>
+                </ul>
+            </div>
+        </div>
     
 </footer>
 
             </div>
         </div>
+        
 
-        <div class="modal fade" id="sign-up" tabindex="-1" role="dialog" aria-hidden="true">
-    <form action="/members/register/?next=" method="POST" class="modal-dialog js-track-form" data-action="email registration">
-        <input type="hidden" name="csrfmiddlewaretoken" value="NkklcID21QpXYe2kMjqysH4ie7e9aZyk">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                <h4 class="modal-title">Sign up with email or Facebook</h4>
-            </div>
-            <div class="modal-body form">
-                <input type="text" class="form-input" id="signup-fname" placeholder="Full name" name="full_name">
-                <input type="email" class="form-input" id="signup-email" name="email" placeholder="Email">
-                <input type="password" class="form-input" id="signup-password" name="password" placeholder="Password">
-            </div>
-            <div class="modal-footer">
-                <input type="submit" class="btn btn-lg btn-primary" value="Sign up">
-                <a href="#" class="form-alt btn btn-lg btn-facebook js-fb-auth js-track-link" data-fail-uri="/members/register/?next=" data-success-uri="/facebook/login_success/?next=" data-link="sign up with facebook #3" data-dismiss="modal">Facebook Signup</a>
-            </div>
-        </div>
-    </form>
-</div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script>
+            window.jQuery || document.write('<script src="https://d2imr2faqwhte6.cloudfront.net/lib/jquery/jquery-2.1.4.min.js"><\/script>');
+        </script><script src="https://d2imr2faqwhte6.cloudfront.net/lib/jquery/jquery-2.1.4.min.js"></script>
 
-        <div class="modal fade" id="login" tabindex="-1" role="dialog" aria-hidden="true">
-    <form method="POST" action="/members/login/" class="modal-dialog js-track-form" data-action="email login">
-        <input type="hidden" name="csrfmiddlewaretoken" value="NkklcID21QpXYe2kMjqysH4ie7e9aZyk">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                <h4 class="modal-title">Login with email or Facebook</h4>
-            </div>
-            <div class="modal-body form">
-                <input type="email" class="form-input" id="login-email" name="email" placeholder="Email">
-                <input type="password" class="form-input" id="login-password" name="password" placeholder="Password">
-                <a href="/forgot-password/" class="js-track-link" style="display: inline-block; margin: 8px 0 0 32px;" data-link="forgot password">Forgot Password</a>
-            </div>
-            <div class="modal-footer">
-                <input type="submit" class="btn btn-lg btn-primary" value="Login">
-                <a href="#" class="form-alt btn btn-lg btn-facebook js-fb-auth js-track-link" data-fail-uri="/members/register/" data-success-uri="/facebook/login_success/?next=" data-link="login with facebook" data-dismiss="modal">Facebook Login</a>
-            </div>
-        </div>
-    </form>
-</div>
+        
+<input type="hidden" name="csrfmiddlewaretoken" value="hgdY0iZx8XTC6CaqaA7uZfBk3B9wLDaf">
 
+<script>
+    function csrfSafeMethod(method) {
+        // these HTTP methods do not require CSRF protection
+        return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+    }
+
+    function sameOrigin(url) {
+        // test that a given url is a same-origin URL
+        // url could be relative or scheme relative or absolute
+        var host = document.location.host; // host + port
+        var protocol = document.location.protocol;
+        var sr_origin = '//' + host;
+        var origin = protocol + sr_origin;
+        // Allow absolute or scheme relative URLs to same origin
+        return (url == origin || url.slice(0, origin.length + 1) == origin + '/') ||
+            (url == sr_origin || url.slice(0, sr_origin.length + 1) == sr_origin + '/') ||
+            // or any other URL that isn't scheme relative or absolute i.e relative.
+            !(/^(\/\/|http:|https:).*/.test(url));
+    }
+
+    function ajaxCSRFSetup() {
+        $.ajaxSetup({
+            beforeSend: function(xhr, settings) {
+                if (!csrfSafeMethod(settings.type) && sameOrigin(settings.url)) {
+                    // Send the token to same-origin, relative URLs only.
+                    // Send the token only if the method warrants CSRF protection
+                    // Using the CSRFToken value acquired earlier
+                    xhr.setRequestHeader("X-CSRFToken", getCookie('csrftoken'));
+                }
+            }
+        });
+    }
+
+    $(function () {
+        window.getCookie = function (name) {
+            var cookieValue = null;
+            if (document.cookie && document.cookie != '') {
+                var cookies = document.cookie.split(';');
+                for (var i = 0; i < cookies.length; i++) {
+                    var cookie = $.trim(cookies[i]);
+                    // Does this cookie string begin with the name we want?
+                    if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                        break;
+                    }
+                }
+            }
+            return cookieValue;
+        }
+
+        var csrftoken = window.csrftoken = getCookie('csrftoken');
+
+        ajaxCSRFSetup();
+    });
+</script>
 
         
 
@@ -456,23 +590,166 @@ $(document).ready(function () {
 
 
 <script>
+    
+
     mixpanel.register({
-        'Registration Date': '',
-        'Experiment: Archetype Sharing': true,
-        'Experiment: Dashboard Flow': false,
         'Authenticated': false,
-        'Premium': false
+        'Premium': false,
+        'From Email': false,
+        'Experiment: Optional Newsletter': false,
+        
     });
 </script>
 
 
-
         <script>
-            $('[rel=popover]').popover();
+            $(function () {
+
+                // Mixpanel link tracking
+                var mixpanel_track_links_json = {},
+                    mixpanel_track_links_source = window.mixpanel_track_links_source = 'Undefined';
+
+                mixpanel.track_links('a[track="mixpanel"]', 'Link Clicked', function (el) {
+                    return $.extend({}, {
+                        'Source': window.mixpanel_track_links_source,
+                        'Target': $(el).data('target'),
+                        'Link Type': $(el).data('linkType')
+                    }, mixpanel_track_links_json);
+                });
+
+                // Special implementation for tracking reveal modals to workaround conflict between foundation and mixpanel track_links
+                $('a[track="mixpanel-modal"]').click(function (e) {
+                    var event_properties = $.extend({}, {
+                        'Source': mixpanel_track_links_source,
+                        'Target': $(this).data('target'),
+                        'Link Type': $(this).data('linkType')
+                    }, mixpanel_track_links_json);
+                    mixpanel.track('Link Clicked', event_properties);
+                    e.preventDefault();
+                });
+
+                load('https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/vendor/fastclick.js', 'script');
+
+                
+                    $(function () {
+                        load('https://d2imr2faqwhte6.cloudfront.net/lib/foundation/js/foundation.min.js', 'script', function () {
+                            $(document).foundation({
+                                reveal: {
+                                    animation: 'fade'
+                                }
+                            });
+                            
+                        });
+                    });
+                
+
+                load('https://fb.me/react-with-addons-0.13.3.min.js', 'script', function () {
+                    
+
+                    load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/typeahead-bundle.js', 'script', function () {
+                        
+
+                        load('https://d2imr2faqwhte6.cloudfront.net/sokanu/compiled/scripts/search.js', 'script');
+                    });
+                });
+
+                
+                // Non-blocking Facebook authentication
+                load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/facebook/login.js', 'script', function () {
+                    $('.js-fb-auth').facebook_login();
+                });
+                
+            });
         </script>
 
         
+    
 
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"queueTime":9,"beacon":"bam.nr-data.net","agent":"js-agent.newrelic.com/nr-627.min.js","errorBeacon":"bam.nr-data.net","licenseKey":"f54ad793da","applicationTime":114,"transactionName":"NFFaYEAHWBBVVk0PCQ0bfkFcBUIKW1sWFQkIVVZBHBBfBkNGAzYUCkJZV0swXwZD","applicationID":"1298261"}</script>
+    <script>
+        mixpanel.track('View External Page', {
+            'Page': 'Privacy'
+        });
 
-<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
+        load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/folding-nav.js', 'script', function () {
+            $('.folding-nav').foldingNav();
+        });
+        load('https://d2imr2faqwhte6.cloudfront.net/compiled/scripts/position-sticky.js', 'script', function () {
+            $('.fixedsticky').fixedsticky();
+        });
+    </script>
+
+
+        
+            
+            
+                
+                
+<div id="sign-up" class="reveal-modal" data-reveal="" aria-labelledby="myModalLabel" aria-hidden="true" role="dialog">
+    <form method="POST" action="/members/register/" id="deferred-user-email-form">
+        <input type="hidden" name="registration_form" value="email_only">
+        <input type="hidden" name="csrfmiddlewaretoken" value="hgdY0iZx8XTC6CaqaA7uZfBk3B9wLDaf">
+
+        <a class="close-reveal-modal" aria-label="Close">×</a>
+        <div class="registration-container clearfix">
+            <h3 class="modal-title" id="myModalLabel">Create an Account</h3>
+            <br>
+            <p style="margin-bottom:5px;">Enter your email and we will send you a temporary password. We don't spam.</p>
+            <input class="rounded" type="email" name="email" placeholder="Your Email Address">
+
+            
+            <input type="hidden" name="newsletter" value="true">
+
+            <p class="help-text">
+                <strong>Are you a student?</strong> Sign up with a .edu email and get 50% off premium.
+            </p>
+            
+            <input type="submit" class="round button primary right" value="Create Account">
+        </div>
+    </form>
+    <div class="facebook-registration-container clearfix">
+        <span style="color:#999; font-size:16px;">Or sign up with Facebook</span>
+        <a href="#" class="button right facebook-blue js-fb-auth js-track-link" data-fail-uri="/members/register/?next=" data-success-uri="/facebook/login_success/?next=" data-link="sign up with facebook #3" onclick="$(&quot;#sign-up&quot;).foundation(&quot;reveal&quot;, &quot;close&quot;);">Sign up with facebook</a>
+    </div>
+</div>
+
+
+<script>
+    window.addEventListener('load', function() {
+        $('#sign-up form').on('submit', function() {
+            $(this).find('input:submit').attr('disabled', true);
+        });
+    });
+</script>
+
+            
+
+            <!-- THIS ISN'T PROPERLY STYLED YET -- JUST WANTED TO MAKE IT WORK WITH HOMEPAGE -->
+
+<div id="login" class="reveal-modal" data-reveal="" aria-labelledby="myModalLabel" aria-hidden="true" role="dialog">
+    <form method="POST" action="/members/login/" class="modal-dialog js-track-form" data-action="email login">
+        <input type="hidden" name="csrfmiddlewaretoken" value="hgdY0iZx8XTC6CaqaA7uZfBk3B9wLDaf">
+
+        <a class="close-reveal-modal" aria-label="Close">×</a>
+        
+        <div class="registration-container clearfix">
+            <h3 class="modal-title">Login with email or Facebook</h3>
+            <br>
+            <input type="email" class="form-input" id="id_email" name="email" placeholder="Email">
+            <input type="password" class="form-input" id="id_password" name="password" placeholder="Password">
+            <a href="/forgot-password/" class="js-track-link" data-link="forgot password">Forgot Password</a>
+
+            <input type="submit" class="round button right primary" value="Login">
+        </div>
+        <div class="facebook-registration-container clearfix">
+            <span style="color:#999; font-size:16px; ">Or log in with Facebook</span>
+            <a href="#" class="button right facebook-blue js-fb-auth js-track-link" data-fail-uri="/members/register/" data-success-uri="/facebook/login_success/?next=" data-link="login with facebook" onclick="$(&quot;#sign-up&quot;).foundation(&quot;reveal&quot;, &quot;close&quot;);">Facebook Login</a>
+        </div>
+    </form>
+</div>
+
+        
+
+        
+    
+
+</body></html>
