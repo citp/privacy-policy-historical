@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitslyrics.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415083958id_/http%3A//www.hitslyrics.com/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitslyrics.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905235202id_/http%3A//www.hitslyrics.com/disclaimer.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hits Lyrics.com
 
@@ -8,7 +8,7 @@ HitsLyrics.com has created this privacy statement in order to demonstrate our co
 
 We use your IP address to help diagnose problems with our server and to administer our Web site.
 
- **Advertisers**
+**Advertisers**
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
@@ -38,4 +38,4 @@ of the copyrighted material as provided for in Title 17, Chapter 1 , section 107
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20150415083958id_/http%3A//www.hitslyrics.com/contact.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.hitslyrics.com/contact.html).
