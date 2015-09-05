@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014185343id_/https%3A//www.avma.org/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avma.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062244id_/https%3A//www.avma.org/Pages/privacy.aspx%3Futm_source%3Davma-org%26utm_medium%3Dweb%26utm_content%3Davma-sites%26utm_campaign%3Dsite-footer) for the most accurate reproduction.*
 
 # Privacy Policy for AVMA Websites
 
