@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050241id_/http%3A//store.netgate.com/Privacy-Statement-W23C113.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906013353id_/http%3A//store.netgate.com/Privacy-Statement-W23C113.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-This is the web site of Rubicon Communications, LP, DBA Netgate® (hereafter referred to as Netgate).
+This is the web site of Rubicon Communications, LLC, DBA Netgate® (hereafter referred to as Netgate).
 
 Our postal address is:   
 7212 McNeil Drive  
@@ -17,8 +17,7 @@ fax: 509 267 2369
 We are committed to ensuring the privacy of our customers.  Our privacy statement has been established to protect our customers.   
 
 The most important things to know are:   
- **The information we collect is not shared with other organizations.  We do not SPAM our customers.**  
-
+ **The information we collect is not shared with other organizations.  We do not SPAM our customers.**
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumers domain name, but not the e-mail address (where possible).
 
