@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318175720id_/https%3A//www.ediets.com/pages/about-ediets/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediets.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061701id_/https%3A//www.ediets.com/pages/about-ediets/privacy-policy.html) for the most accurate reproduction.*
 
 # eDiets.com | Privacy Policy
 
