@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experient-inc.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617034614id_/http%3A//www.experient-inc.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experient-inc.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905083008id_/http%3A//www.experient-inc.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Experient: Privacy Policy
 
@@ -22,10 +22,6 @@ For each visitor to the Knowledge Center portion of our Web site, our Web server
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclose in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. 
 
-### Choice/Opt-Out
-
-This site conforms with current legislation and gives users the option to remove their information from our database. Please provide us with your name and address and we will make sure your information is removed from our list.
-
 ### Contact Us
 
-If you have any questions about this privacy statement, the practices of Experient, or your dealings with this Web site, you can contact: [tom.kaufman@experient-inc.com](mailto:tom.kaufman@experient-inc.com) or call 330-425-8333.
+If you have any questions about this privacy statement, the practices of Experient, or your dealings with this Web site, call 330-425-8333.
