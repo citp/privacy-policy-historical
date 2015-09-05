@@ -1,35 +1,39 @@
-> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602091325id_/http%3A//www.thinkhost.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkhost.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905095439id_/https%3A//www.dreamhost.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy statement - ThinkHost
+# Privacy Policy – DreamHost
 
-ThinkHost's policies and procedures for handling customer information have been created in order to demonstrate our firm commitment to maintaining your privacy. This document discloses our information gathering and dissemination practices for the www.thinkhost.com web site.
+#### Last Updated:
 
-To provide service to our customers, ThinkHost, Inc. acquires and stores customer communications and information that customers may regard as private or sensitive. Information such as the customer's name, address, telephone number and credit card information is provided to ThinkHost, Inc. by its customers in order to establish service. Other information such as the customer's account status, choice of services, and customer logs is created and maintained in the normal course of providing service. ThinkHost, Inc. collects information from our users at several different points:
+December 9th, 2014.
 
-We use your IP address to help diagnose problems with our server, and to administer our web site and maintain aggregate statistics on the use of our site. 
+#### Collected Information
 
-Cookies are used to help identify you and your orders, as well as the referring web site.
+When you provide personally identifiable information to DreamHost we collect a variety of data from you. That includes, but is not limited to you, your name, e-mail address, billing address, security question (and answer), credit card or other payment information, social security number (in limited instances) and a password.
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information and financial information. Contact information from the order form is used to send news and information about our company to our customers. The customer's contact information is also used to communicate with the customer when necessary. Users may opt-out of receiving future notices or mailings by following the opt-out procedures; see the choice/opt-out section below. Financial information that is collected is used to bill the customer for products and services and is never distributed to other parties, unless specifically requested by the customer.
+We may also collect the URL from which you linked into our site, your IP address, your browser type and version, and a history of your actions on our website.
 
-Our online surveys ask visitors for contact information. We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future notices or mailings; see the choice/opt-out section below.
+We also, as a manner of course, collect information from you which is required to establish and maintain an account with us, some of which may be personally identifiable, depending on your needs and the needs of your hosted data.
 
-We run contests on our site in which we ask visitors for contact information. We use contact data from our contests to send users information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future notices or mailings; see the choice/opt-out section below.
+#### Use of Collected Information
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Privacy is something we take very seriously at DreamHost. With the exception of trusted business affiliates and/or associates who work on behalf of or in connection with DreamHost, DreamHost will not provide or sell to any third party your personal information and will keep all such data confidential.
 
-Upon request, we may provide third-party services to you. Although we will, only at your request, sign you up for the Partner's services (and share your customer information with the Partner), we are not responsible for the privacy practices of such Partners, and you should review such Partners' privacy statements before having us sign you up for their services. This privacy statement applies solely to information collected by ThinkHost, Inc..
+DreamHost customers with established accounts may review and alter the contact information associated with their DreamHost account(s) at the following URL: <https://panel.dreamhost.com/id/index.cgi?tab=contact>.
 
-In order to maintain the integrity and security of user data, it is often necessary for us to monitor all connections to our servers. While we take your privacy very seriously, we may disclose information about your account when ThinkHost, Inc. has a good faith belief that the law requires such disclosure, or to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of ThinkHost, Inc..
+DreamHost’s primary business operations are located in the state of California in the United States. As such, DreamHost is subject to obey the laws of this jurisdiction and may be called upon by various law enforcement agencies to comply with ongoing investigations. Compliance may include the secure handover of customer data to a legally-authorized government agency.
 
-Choice/Opt-Out: Our site provides users the opportunity to opt-out of receiving communications from us, and our Partners.
+When permitted by law DreamHost will disclose to any customer that is the subject of a government investigation and any data requests pertaining to customers’ personally identifiable information and/or hosted data.
 
-Our users have the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our websites' homepages or sending you a notification).
 
-  * You may send a request by [opening a support ticket](http://www.thinkhost.com/services/ticket/newticket.shtml)
+DreamHost may utilize third party platforms to provide web-based and email-based advertisements for DreamHost services after a user has visited and left DreamHost’s website. DreamHost and its advertising partners comply with “opt out” signals provided either by a user’s web browser automatically, by a user manually opting-out of web-based advertisements at <http://www.networkadvertising.org/choices/>, or by a user clicking the “unsubscribe” link in any promotional email.
 
+#### Whois Privacy Services
 
+Please note that the contact information that you provide to us is used to [register your domain name](https://web.archive.org/domains) and is, by the very nature of the domain registration system, available for public viewing in many places on the Internet via the use of the ‘whois’ tool.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please open a trouble ticket through our support forum, and one of our customer care consultants will help resolve the problem as soon as possible. 
+DreamHost's Whois Privacy, which masks your whois contact information via proxy, does not act as a shield from legal liability in conjunction with Domain Registration. In order to preserve neutrality in disputes between 3rd parties and domain registrants, DreamHost will act in accordance with ICANN's Registrar Accreditation Agreement Section 3.7.7.3, and will provide identifying information to third parties upon receipt of "reasonable evidence of actionable harm."
 
-ThinkHost, Inc. reserves the right to modify this policy at any time and without advance notice, effective upon making the modified provisions available on the ThinkHost, Inc. Web Site. You are responsible for regularly reviewing these documents, and continued use of the ThinkHost, Inc. Services after any such changes shall constitute your consent to such changes. ThinkHost, Inc. does not assume any obligation to notify you of any changes to the privacy policy. 
+#### Lucky Orange Web Analytics Service
+
+This site uses the Lucky Orange analytics system to help improve usability and the customer experience. Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on this website. Lucky Orange does not track this activity on any site that does not use the Lucky Orange system. You can choose to disable the Lucky Orange Service at <http://www.luckyorange.com/disable.php>.
