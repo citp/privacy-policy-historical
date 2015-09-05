@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaconads.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318142503id_/https%3A//beaconads.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaconads.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905112138id_/https%3A//beaconads.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beacon Ads
 
@@ -54,7 +54,7 @@ In your browser’s settings, there should be an option to remove cookies. The d
 
 **Questions or Comments:**
 
-If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [support@beaconads.com](mailto:support@beaconads.com) or by U.S. mail to 186 South Street, Boston, MA 02111.
+If you have any questions or comments regarding this Privacy Policy, please contact us by e-mail at [support@beaconads.com](mailto:support@beaconads.com) or by U.S. mail to 745 Atlantic Avenue, 8th Floor, Boston, MA 02111.
 
 Date last updated: September 10, 2014
 
