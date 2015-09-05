@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertytax.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316110446id_/https%3A//www.libertytax.com/online/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertytax.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072010id_/https%3A//www.libertytax.com/online/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Liberty Tax Service
 
@@ -22,11 +22,17 @@ If you use our Websites, we collect the following types of information:
 
 We use cookies for online customer support, and analytics service providers _._ Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
+**Behavioral Targeting/Re-Targeting**
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>.
+
 **Log files**. As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. 
 
 **LSOs/ HTML5.** We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
-**Voluntary Registration.** If you choose to submit your contact information to indicate an interest in either a franchise or tax course, we receive from you your name, address, telephone number and e-mail address. If you choose to submit your e-mail address to indicate an interest in our electronic newsletter, we receive from you your e-mail address. If you choose to use our electronic Refer a Friend on this site, we collect from you your name, address your e-mail address and your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at [privacy@libtax.com](mailto:privacy@libtax.com) to request that we remove this information from our database or use the opt-out mechanism in the email. We may receive your personal information, including (which includes, without limitation, your name, address, email or phone number) if you participate in any of our surveys or contests or if you request a service from us. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. 
+**Voluntary Registration.** If you choose to submit your contact information to indicate an interest in either a franchise or tax course, we receive from you your name, address, telephone number and e-mail address. If you choose to submit your e-mail address to indicate an interest in our electronic newsletter, we receive from you your e-mail address. We may receive your personal information, including (which includes, without limitation, your name, address, email or phone number) if you participate in any of our surveys or contests or if you request a service from us. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. 
 
 Our website does not currently support “do not track” settings on your browser or have any similar mechanism that allows you to opt out of or otherwise control the collection of certain information about your online activities.
 
@@ -54,12 +60,6 @@ We may disclose your information to non-affiliated third parties that perform op
 
 We may also disclose or transfer your information in response to legal process such as to comply with a subpoena, or similar legal process or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, where required by applicable law, or if we are acquired by or merged with another company. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified a prominent notice on our Website(s) of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-**Behavioral Targeting/Re-Targeting**
-
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
-
-We use Google AdSense to publish ads on this site. When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites. You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <http://www.google.com/privacy_ads.html>
-
 **Updating Your Information**
 
 If you are using our Websites to prepare and file your tax returns, you may update your log in and password information by logging into your account or by contacting customer support at [onlinesupport@libtax.com](mailto:onlinesupport@libtax.com). Other information we collect as described in this privacy policy is not stored in an online accessible format or does not identify you personally. For all other inquiries related to your information, including updating or deactivation, deleting or no longer using your submitted information please contact us via [privacy@libtax.com](mailto:privacy@libtax.com) or by postal mail to JTH Tax, Inc. c/o Privacy, 1716 Corporate Landing Parkway, Virginia Beach, Virginia 23454.
@@ -74,15 +74,15 @@ We maintain physical, electronic and procedural security measures that comply wi
 
 **Links to 3rd Party Sites.** Our Website(s) includes links to other Web sites whose privacy practices may differ from ours. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
-**Blogs.** Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+**Blogs.** Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. Our blog is also managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy. 
 
 **Social Media Widgets.** Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Acceptance of These Terms**
 
-_You understand that any information you provide to us through any of the Websites shall be governed by this privacy policy. If you do not agree with these terms, you should not use the Websites. Your continued use of the Websites indicates your acceptance of these terms._
+_You understand that any information you provide to us through any of the Websites shall be governed by this privacy policy. If you do not agree with these terms, you should not use the Websites. Your continued use of the Websites indicates your acceptance of these terms._  
 
-This privacy policy is effective December 20, 2014.
+This privacy policy is effective May 20, 2015.
 
 Because privacy is important, we pledge to work with you to protect and safeguard the security of your personal customer information. If this privacy policy changes, we will notify you of the changes by posting a notice on our Websites. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
