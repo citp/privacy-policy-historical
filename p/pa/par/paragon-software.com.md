@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2015-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150511071835id_/https%3A//www.paragon-software.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905201615id_/http%3A//www.paragon-software.com/privacy.htm) for the most accurate reproduction.*
 
 # PARAGON Software Group - Privacy Statement
 
@@ -32,9 +32,48 @@ A cookie is a short text snippet which is sent to your browser by a website you 
 
 We do not use cookies on our websites to collect personal or personalizable data.
 
-**Cookie management:**
+**Cookie management**
 
-Use your browser’s setting options if you do not want to allow the use of cookies. Most modern browsers allow you to manage cookies as you please. Many browsers give you the chance to set rules which you can use to manage cookies for each individual website. This way, you can rule out cookies from all websites which you don’t trust. As an alternative, you can also deactivate the use of cookies on your browser entirely and thus prevent them from being used all together. Please consult the handbook and/or instructions for your browser for further information.
+You can specify how cookies are to be processed by defining your cookie presets.
+
+The following steps might be different depending on the web browser version. Please check the instructions for your web browser.
+
+Chrome
+
+Click on the “Chrome” menu in the toolbar of your browser.  
+Choose your settings.  
+Click on “Show extended settings.”  
+Click “Content settings” in the “Data protection” section.  
+Select one of the cookie settings in the “Cookies” section:  
+Delete local data after closing the browser  
+Block local data saving for all websites  
+Allow local data saving  
+Keep local data and website data until browser is closed as standard  
+Exceptions for cookies and website data
+
+Mozilla Firefox
+
+Open Firefox and click on the Firefox menu in the toolbar of your browser.   
+Choose the privacy settings and activate “Use custom settings for history” in the history drop down menu.  
+Now you can control the cookie behavior of your browser with the following settings:  
+Check/uncheck “Accept cookies from sites” and then refine these settings in the “Accept third-party cookies” and the “Keep until:” drop down menu.
+
+Internet Explorer
+
+Click on “Extras” and select “Internet options.”  
+Click on the “Data protection” tab  
+Under “Settings,” move the slider upwards in order to block all cookies, or downward in order to accept all cookies.  
+Click “OK.”
+
+Safari 
+
+Choose Safari and Settings.  
+Click on data protection.  
+Go to the “Block cookies” and specify whether and when Safari should accept cookies from websites.   
+You can find explanations of the options by clicking “Help” (question mark).
+
+Note: Click “Details” to see which websites save cookies on your computer.  
+If you set Safari to block cookies, you may have to temporarily accept cookies in order to open certain webpages. Repeat the above-mentioned steps and click on “Never.” Once you’re finished, block the cookies from the page again and remove them. 
 
   
 
