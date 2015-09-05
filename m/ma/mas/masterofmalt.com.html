@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the masterofmalt.com privacy policy that was archived on 2015-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150406111100id_/https%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the masterofmalt.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905121923id_/https%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" class="no-js"><head id="Head1"><title>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" class="no-js"><head id="Head1"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?kJO4BBKzd15D7P2L0danoTHTSY8sNO32" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"819cd4f734","applicationID":"4484612,4484613","transactionName":"NVwEYhNWWkNWBUwLXgwWJ2UxGEdEVhJRAR8DShZO","queueTime":0,"applicationTime":17,"ttGuid":"C6ACA941F2B95C0F","agent":"js-agent.newrelic.com/nr-686.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4CUVZWGwcEXFVUBgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><title>
 	Privacy Policy - Master of Malt
 </title>    
-    <script async="" charset="utf-8" src="//cdn.zopim.com/?kJO4BBKzd15D7P2L0danoTHTSY8sNO32" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    <script type="text/javascript">
         document.domain = 'masterofmalt.com';
         // THIS IS THE GLOBAL MOM OBJECT
         // TODO: Load from Config.
@@ -20,8 +20,7 @@
         // END GLOBAL MOM OBJECT
 
         var javaCookie = false;
-        var showCurrencyPopup = false,
-            CurrencyData      = {},
+        var showCurrencyPopup = true,
             countryCode       = "US",    
             brandID           = 1,  
             basketTotal       = 0,
@@ -43,8 +42,8 @@
         <script>  mom.browsers.currentBrowserIsIE9 = true; </script>
     <![endif]-->
     
-    <link href="https://cdn2.masterofmalt.com/Css/crushed/crushed_master-c4898677.css" type="text/css" rel="stylesheet"><script src="https://cdn1.masterofmalt.com/Javascript/crushed/master.min-fa2a1445.js" type="text/javascript"></script>
-<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">  
+    <link href="https://cdn1.masterofmalt.com/Css/crushed/crushed_master-8d1edc55.css" type="text/css" rel="stylesheet"><script src="https://cdn2.masterofmalt.com/Javascript/crushed/master.min-612878ba.js" type="text/javascript"></script>
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Master Of Malt Search">  
         <link href="https://plus.google.com/111714992030919294968" rel="publisher">
     
   
@@ -66,7 +65,7 @@
         ga('require', 'displayfeatures');
         ga('send', 'pageview');
     </script>
-    
+    <meta name="theme-color" content="#F9F8ED"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="canonical" href="https://www.masterofmalt.com/privacy-policy/">
 </head>
 <body>    
@@ -74,13 +73,33 @@
     
     <form name="AspNetForm" method="post" action="/privacy-policy/" id="AspNetForm">
 <div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM0MjY5MDQwMWRkfjTnSMQcA4OLD1wn7KnqpU/XfGk=">
 </div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['AspNetForm'];
+if (!theForm) {
+    theForm = document.AspNetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
 
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5A785FF9">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAqYVESx2jXjOKB09qy2gsde0sZXUuMb66OpNB6E6wB8ouuOghdLZWKEiaxMUjhG8GtkTQDCQ60RDmWZPjs0LDbm4xIjuieuGK47UlD1ZKQDVv8DPB+KjHlYwckJQSSURV2VsieHvLsOZoIJnbqD/vdw9W85OXr0bp7Tx04iDVbt8J+SbE0af1ULMhygqX8i+OpotWyNrQhkJc8UG8XeJpL10kOEa5fwHvlZBdd6NDqHScDDX5o=">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAyYVESx2jXjOKB09qy2gsde0sZXUuMb66OpNB6E6wB8oh2MRLi+A3YN+sgbZ+OXWkvrjoIXS2VihImsTFI4RvBrZE0AwkOtEQ5lmT47NCw25hmm3kpV7j9Il/M3TkIlghfjEiO6J64YrjtSUPVkpANW/wM8H4qMeVjByQlBJJRFXZWyJ4e8uw5mggmduoP+93D1bzk5evRuntPHTiINVu3wn5JsTRp/VQsyHKCpfyL46mi1bI2tCGQlzxQbxd4mkvXuRbtc6HFRs6UsxW914dd7EyqJ+A==">
 </div>
     
     
@@ -88,7 +107,7 @@
     <input name="ctl00$hidSessionTimeOut" type="hidden" id="hidSessionTimeOut" value="1471168928">
 
     
-    <div id="ctl03_partnerHeaderContent" class="partnerHeaderContent"></div>
+    <div id="ctl06_partnerHeaderContent" class="partnerHeaderContent"></div>
 
 
 
@@ -100,7 +119,236 @@
     
     
     
-    
+    <div id="international_PopUp" class="international-pop-up" style="display:none;">        
+        <strong id="localisedWelcome">Hello</strong>
+
+        <div class="mom-input-group clearfix">
+            <label>We've set your shipping destination to</label>            
+            <img src="/Images/dnp/flags/48/US.png" id="shippingCountryFlag" class="js-InternationalPopupCountryFlag">
+            <select name="ctl00$shippingCountry" id="shippingCountry" class="js-international-pop-up-country-dropdown mom-input">
+	<option value="464" data-csc="GB">United Kingdom - Mainland</option>
+	<option value="482" data-csc="GB">United Kingdom - Isle Of Man</option>
+	<option value="481" data-csc="GB">United Kingdom - Northern Ireland</option>
+	<option value="480" data-csc="GB">United Kingdom - Highlands And Islands</option>
+	<option value="483" data-csc="GB">United Kingdom - Scilly Isles (Isles Of Scilly)</option>
+	<option value="484" data-csc="GB">United Kingdom - Channel Islands</option>
+	<option value="486" data-csc="GB">United Kingdom - Isle Of Wight</option>
+	<option selected="selected" value="465" data-csc="US">United States</option>
+	<option value="346" data-csc="JP">Japan</option>
+	<option value="253" data-csc="AU">Australia</option>
+	<option value="313" data-csc="FR">France</option>
+	<option value="389" data-csc="NL">Netherlands</option>
+	<option value="261" data-csc="BE">Belgium</option>
+	<option value="320" data-csc="DE">Germany</option>
+	<option value="342" data-csc="IE">Ireland</option>
+	<option value="241" data-csc="AF">Afghanistan</option>
+	<option value="242" data-csc="AL">Albania</option>
+	<option value="243" data-csc="DZ">Algeria</option>
+	<option value="244" data-csc="AS">American Samoa</option>
+	<option value="245" data-csc="AD">Andorra</option>
+	<option value="246" data-csc="AO">Angola</option>
+	<option value="247" data-csc="AI">Anguilla</option>
+	<option value="249" data-csc="AG">Antigua And Barbuda</option>
+	<option value="250" data-csc="AR">Argentina</option>
+	<option value="251" data-csc="AM">Armenia</option>
+	<option value="252" data-csc="AW">Aruba</option>
+	<option value="253" data-csc="AU">Australia</option>
+	<option value="254" data-csc="AT">Austria</option>
+	<option value="255" data-csc="AZ">Azerbaijan</option>
+	<option value="256" data-csc="BS">Bahamas</option>
+	<option value="257" data-csc="BH">Bahrain</option>
+	<option value="258" data-csc="BD">Bangladesh</option>
+	<option value="259" data-csc="BB">Barbados</option>
+	<option value="261" data-csc="BE">Belgium</option>
+	<option value="262" data-csc="BZ">Belize</option>
+	<option value="263" data-csc="BJ">Benin</option>
+	<option value="264" data-csc="BM">Bermuda</option>
+	<option value="265" data-csc="BT">Bhutan</option>
+	<option value="266" data-csc="BO">Bolivia</option>
+	<option value="267" data-csc="BA">Bosnia And Herzegowina</option>
+	<option value="268" data-csc="BW">Botswana</option>
+	<option value="272" data-csc="BN">Brunei Darussalam</option>
+	<option value="273" data-csc="BG">Bulgaria</option>
+	<option value="274" data-csc="BF">Burkina Faso</option>
+	<option value="275" data-csc="BI">Burundi</option>
+	<option value="277" data-csc="CM">Cameroon</option>
+	<option value="279" data-csc="CV">Cape Verde</option>
+	<option value="280" data-csc="KY">Cayman Islands</option>
+	<option value="281" data-csc="CF">Central African Republic</option>
+	<option value="282" data-csc="TD">Chad</option>
+	<option value="283" data-csc="CL">Chile</option>
+	<option value="284" data-csc="CN">China</option>
+	<option value="285" data-csc="CX">Christmas Island</option>
+	<option value="289" data-csc="CD">Congo, Democratic Republic Of (Was Zaire)</option>
+	<option value="291" data-csc="CK">Cook Islands</option>
+	<option value="292" data-csc="CR">Costa Rica</option>
+	<option value="294" data-csc="HR">Croatia (Local Name: Hrvatska)</option>
+	<option value="295" data-csc="CU">Cuba</option>
+	<option value="296" data-csc="CY">Cyprus</option>
+	<option value="297" data-csc="CZ">Czech Republic</option>
+	<option value="298" data-csc="DK">Denmark</option>
+	<option value="299" data-csc="DJ">Djibouti</option>
+	<option value="300" data-csc="DM">Dominica</option>
+	<option value="301" data-csc="DO">Dominican Republic</option>
+	<option value="303" data-csc="EG">Egypt</option>
+	<option value="304" data-csc="SV">El Salvador</option>
+	<option value="305" data-csc="GQ">Equatorial Guinea</option>
+	<option value="306" data-csc="ER">Eritrea</option>
+	<option value="307" data-csc="EE">Estonia</option>
+	<option value="308" data-csc="ET">Ethiopia</option>
+	<option value="311" data-csc="FJ">Fiji</option>
+	<option value="312" data-csc="FI">Finland</option>
+	<option value="313" data-csc="FR">France</option>
+	<option value="314" data-csc="GF">French Guiana</option>
+	<option value="315" data-csc="PF">French Polynesia</option>
+	<option value="317" data-csc="GA">Gabon</option>
+	<option value="318" data-csc="GM">Gambia</option>
+	<option value="319" data-csc="GE">Georgia</option>
+	<option value="320" data-csc="DE">Germany</option>
+	<option value="321" data-csc="GH">Ghana</option>
+	<option value="322" data-csc="GI">Gibraltar</option>
+	<option value="323" data-csc="GR">Greece</option>
+	<option value="324" data-csc="GL">Greenland</option>
+	<option value="325" data-csc="GD">Grenada</option>
+	<option value="326" data-csc="GP">Guadeloupe</option>
+	<option value="327" data-csc="GU">Guam</option>
+	<option value="328" data-csc="GT">Guatemala</option>
+	<option value="329" data-csc="GN">Guinea</option>
+	<option value="331" data-csc="GY">Guyana</option>
+	<option value="334" data-csc="HN">Honduras</option>
+	<option value="335" data-csc="HK">Hong Kong</option>
+	<option value="336" data-csc="HU">Hungary</option>
+	<option value="337" data-csc="IS">Iceland</option>
+	<option value="338" data-csc="IN">India</option>
+	<option value="339" data-csc="ID">Indonesia</option>
+	<option value="340" data-csc="IR">Iran (Islamic Republic Of)</option>
+	<option value="341" data-csc="IQ">Iraq</option>
+	<option value="342" data-csc="IE">Ireland</option>
+	<option value="343" data-csc="IL">Israel</option>
+	<option value="344" data-csc="IT">Italy</option>
+	<option value="345" data-csc="JM">Jamaica</option>
+	<option value="346" data-csc="JP">Japan</option>
+	<option value="348" data-csc="KZ">Kazakhstan</option>
+	<option value="350" data-csc="KI">Kiribati</option>
+	<option value="352" data-csc="KR">Korea, Republic Of</option>
+	<option value="353" data-csc="KW">Kuwait</option>
+	<option value="354" data-csc="KG">Kyrgyzstan</option>
+	<option value="355" data-csc="LA">Lao People's Democratic Republic</option>
+	<option value="356" data-csc="LV">Latvia</option>
+	<option value="357" data-csc="LB">Lebanon</option>
+	<option value="358" data-csc="LS">Lesotho</option>
+	<option value="359" data-csc="LR">Liberia</option>
+	<option value="360" data-csc="LY">Libyan Arab Jamahiriya</option>
+	<option value="361" data-csc="LI">Liechtenstein</option>
+	<option value="362" data-csc="LT">Lithuania</option>
+	<option value="363" data-csc="LU">Luxembourg</option>
+	<option value="364" data-csc="MO">Macau</option>
+	<option value="365" data-csc="MK">Macedonia, The Former Yugoslav Republic Of</option>
+	<option value="366" data-csc="MG">Madagascar</option>
+	<option value="367" data-csc="MW">Malawi</option>
+	<option value="368" data-csc="MY">Malaysia</option>
+	<option value="369" data-csc="MV">Maldives</option>
+	<option value="370" data-csc="ML">Mali</option>
+	<option value="371" data-csc="MT">Malta</option>
+	<option value="372" data-csc="MH">Marshall Islands</option>
+	<option value="373" data-csc="MQ">Martinique</option>
+	<option value="374" data-csc="MR">Mauritania</option>
+	<option value="375" data-csc="MU">Mauritius</option>
+	<option value="376" data-csc="YT">Mayotte</option>
+	<option value="378" data-csc="FM">Micronesia, Federated States Of</option>
+	<option value="379" data-csc="MD">Moldova, Republic Of</option>
+	<option value="380" data-csc="MC">Monaco</option>
+	<option value="381" data-csc="MN">Mongolia</option>
+	<option value="488" data-csc="ME">Montenegro</option>
+	<option value="382" data-csc="MS">Montserrat</option>
+	<option value="383" data-csc="MA">Morocco</option>
+	<option value="384" data-csc="MZ">Mozambique</option>
+	<option value="386" data-csc="NA">Namibia</option>
+	<option value="387" data-csc="NR">Nauru</option>
+	<option value="388" data-csc="NP">Nepal</option>
+	<option value="389" data-csc="NL">Netherlands</option>
+	<option value="391" data-csc="NC">New Caledonia</option>
+	<option value="392" data-csc="NZ">New Zealand</option>
+	<option value="393" data-csc="NI">Nicaragua</option>
+	<option value="394" data-csc="NE">Niger</option>
+	<option value="395" data-csc="NG">Nigeria</option>
+	<option value="397" data-csc="NF">Norfolk Island</option>
+	<option value="398" data-csc="MP">Northern Mariana Islands</option>
+	<option value="399" data-csc="NO">Norway</option>
+	<option value="400" data-csc="OM">Oman</option>
+	<option value="401" data-csc="PK">Pakistan</option>
+	<option value="402" data-csc="PW">Palau</option>
+	<option value="403" data-csc="PS">Palestinian Territory, Occupied</option>
+	<option value="404" data-csc="PA">Panama</option>
+	<option value="405" data-csc="PG">Papua New Guinea</option>
+	<option value="406" data-csc="PY">Paraguay</option>
+	<option value="407" data-csc="PE">Peru</option>
+	<option value="410" data-csc="PL">Poland</option>
+	<option value="411" data-csc="PT">Portugal</option>
+	<option value="412" data-csc="PR">Puerto Rico</option>
+	<option value="413" data-csc="QA">Qatar</option>
+	<option value="415" data-csc="RO">Romania</option>
+	<option value="417" data-csc="RW">Rwanda</option>
+	<option value="419" data-csc="KN">Saint Kitts And Nevis</option>
+	<option value="420" data-csc="LC">Saint Lucia</option>
+	<option value="421" data-csc="PM">Saint Pierre And Miquelon</option>
+	<option value="422" data-csc="VC">Saint Vincent And The Grenadines</option>
+	<option value="423" data-csc="WS">Samoa</option>
+	<option value="424" data-csc="SM">San Marino</option>
+	<option value="427" data-csc="SN">Senegal</option>
+	<option value="487" data-csc="RS">Serbia</option>
+	<option value="429" data-csc="SC">Seychelles</option>
+	<option value="430" data-csc="SL">Sierra Leone</option>
+	<option value="431" data-csc="SG">Singapore</option>
+	<option value="432" data-csc="SK">Slovakia</option>
+	<option value="433" data-csc="SI">Slovenia</option>
+	<option value="434" data-csc="SB">Solomon Islands</option>
+	<option value="436" data-csc="ZA">South Africa</option>
+	<option value="438" data-csc="ES">Spain</option>
+	<option value="439" data-csc="LK">Sri Lanka</option>
+	<option value="440" data-csc="SD">Sudan</option>
+	<option value="441" data-csc="SR">Suriname</option>
+	<option value="443" data-csc="SZ">Swaziland</option>
+	<option value="444" data-csc="SE">Sweden</option>
+	<option value="445" data-csc="CH">Switzerland</option>
+	<option value="448" data-csc="TJ">Tajikistan</option>
+	<option value="449" data-csc="TZ">Tanzania, United Republic Of</option>
+	<option value="451" data-csc="TL">Timor-Leste</option>
+	<option value="452" data-csc="TG">Togo</option>
+	<option value="454" data-csc="TO">Tonga</option>
+	<option value="456" data-csc="TN">Tunisia</option>
+	<option value="459" data-csc="TC">Turks And Caicos Islands</option>
+	<option value="460" data-csc="TV">Tuvalu</option>
+	<option value="461" data-csc="UG">Uganda</option>
+	<option value="484" data-csc="GB">United Kingdom - Channel Islands</option>
+	<option value="480" data-csc="GB">United Kingdom - Highlands And Islands</option>
+	<option value="482" data-csc="GB">United Kingdom - Isle Of Man</option>
+	<option value="486" data-csc="GB">United Kingdom - Isle Of Wight</option>
+	<option value="464" data-csc="GB">United Kingdom - Mainland</option>
+	<option value="481" data-csc="GB">United Kingdom - Northern Ireland</option>
+	<option value="483" data-csc="GB">United Kingdom - Scilly Isles (Isles Of Scilly)</option>
+	<option value="465" data-csc="US">United States</option>
+	<option value="467" data-csc="UY">Uruguay</option>
+	<option value="468" data-csc="UZ">Uzbekistan</option>
+	<option value="469" data-csc="VU">Vanuatu</option>
+	<option value="471" data-csc="VE">Venezuela</option>
+	<option value="472" data-csc="VN">Vietnam</option>
+	<option value="473" data-csc="VG">Virgin Islands (British)</option>
+	<option value="474" data-csc="VI">Virgin Islands (U.S.)</option>
+	<option value="477" data-csc="YE">Yemen</option>
+	<option value="478" data-csc="ZM">Zambia</option>
+	<option value="479" data-csc="ZW">Zimbabwe</option>
+</select>
+        </div>
+
+        <div class="international-pop-up-confirmation">        
+            <button class="js-international-pop-up-confirmation momBtn momBtnSubmit momBtnOk"></button>
+        </div>
+
+        <p class="international-pop-up-currency-text">
+            Prices vary based on delivery destination (it's a tax thing), so please change it if you're not shipping within <span id="shippingCountryName">United States</span> as it might affect the price! (<a href="/Blog/post/Buying-Whisky-in-the-USA-just-got-cheaper-and-clearer.aspx">Why?</a>)
+        </p>
+    </div>
     <div id="international_PopUp_background" class="ac_transparent" style="display:none;"></div>
 
     <div class="headerBackground">
@@ -117,8 +365,7 @@
                 </div>                
                 
                 <div id="div_Header_middle" class="headerMiddle">
-                    <a href="/Blog/post/Global-Online-Whisky-Retailer-of-the-Year-Worlds-Best-Blended-Whisky-more.aspx" id="headerAwardImg"><img src="https://cdn3.masterofmalt.com/images/dnp/iconsOfWhisky.png" alt="Online Retailer of the Year"> </a>   
-                    <a href="/samples/" id="headerDramImg"><img src="https://cdn3.masterofmalt.com/images/dnp/we_do_samples.png" alt="We do samples! Try before you buy!"> </a>              
+                    <div id="headerAwardIcon" class="headerAwardIcon"><img src="https://cdn2.masterofmalt.com/images/dnp/IWSC2014.png" alt="Online Retailer of the Year"></div>
                 </div>
                 <div class="headerRight">
                     
@@ -155,7 +402,7 @@
                         </div>
                         <img src="https://cdn2.masterofmalt.com/Images/dnp/international/dropDownArrow.png" class="right currencyDropDownArrow">
                     </div>
-                    <select name="ctl00$ucCart$ddl_Currency" id="ucCart_ddl_Currency" class="CurrencyDD">
+                    <select name="ctl00$ucCart$ddl_Currency" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ucCart$ddl_Currency\',\'\')', 0)" id="ucCart_ddl_Currency" class="CurrencyDD">
 	<option value="-1">GBP (£)</option>
 	<option selected="selected" value="57">USD ($)</option>
 	<option value="16">EUR (€)</option>
@@ -185,7 +432,7 @@
 <div class="searchHeadWrap">
     <div class="searchHeadInput"><input name="ctl00$ucSearch$ucSearch_searchHeadInput" type="text" id="ucSearch_ucSearch_searchHeadInput" autocomplete="off" class="searchHeadInputField" onkeydown="return Search(event)" onkeyup="searchBoxActivated()" onfocus="searchBoxActivated()"></div>    
     <div class="searchHeadMagny magny" onclick="Search('do')" title="Search"></div>
-    <div class="searchHeadWord"><div class="arrRight2 cartArrow"></div><a class="cartHeadAnchor" href="/search/">Go to Advanced Search</a></div>
+    <div class="searchHeadWord"><div class="arrRight2 cartArrow"></div><a class="cartHeadAnchor" href="/search/">Advanced Search</a></div>
     <div class="cb"></div>
     <div id="gssPopoutContainer" class="hidden">
         <div id="gssPopoutFilters">
@@ -204,6 +451,7 @@
         </div>
     </div>
     
+
 <div class="menu_back nav1Bgr">
     <div class="menuContainer">
         <div id="momMenu" class="mainMenuWrap">  
@@ -223,7 +471,7 @@
         </div>
         
         <div id="subMenuAll">
-            <iframe id="menuFrame" frameborder="0" scrolling="no" src="https://cdn2.masterofmalt.com/Menus.aspx?c=0305111923" allowtransparency="true"></iframe>
+            <iframe id="menuFrame" frameborder="0" scrolling="no" src="https://cdn2.masterofmalt.com/Menus.aspx?c=0816015624" allowtransparency="true"></iframe>
         </div>
         
     </div>
@@ -266,7 +514,7 @@
 	<p>The type of information we will collect about you may include your name, address, phone number, email address and payment details.</p>
 	<p>You may give us information by filling in forms on our website or by corresponding with us by phone or e-mail. You will provide information to us when you register to use our website, subscribe to any update service, search for a product, place an order, participate in social media functions or enter a competition or promotion.</p>
 	<p>We also collect technical information relating to your use of our website (including the IP address used to connect to the internet) and to your experience using our website (including the full URL clickstream to, through and from our site, download errors, methods used to browse away from each page and any phone number used to call our customer service number). In basic terms, we will collect as much information about your use of our website as we possibly can. In our experience, this is the best way of improving the experience of visitors to the website. Oh, and just because other websites don’t tell you that they do this, doesn’t mean that they don’t!</p>
-	<p>As part of our participation in Google’s Certified Shops Programme, certain information relating to transactions undertaken on our website will be collected and processed. We provide transaction information to Google to demonstrate that we deliver orders on time, have low occurrence of customer issues, and resolve customer issues quickly.</p>
+	<p>As part of our participation in Google’s Certified Shops Programme, certain information relating to transactions undertaken on our website will be collected and processed. We provide transaction information to Google to demonstrate that we deliver orders on time, have low occurrence of customer issues, and resolve customer issues quickly. As part of our participation in Trustpilot’s consumer review service, certain personal data of our customers is processed by Trustpilot for the purposes of obtaining and making available feedback regarding the quality of our customer service. Trustpilot is under a contractual obligation to implement the necessary security measures to ensure that our customers’ personal data is not lost, altered or damaged, accessed by unauthorised persons, misused or otherwise treated in violation of data protection law. By visiting our website you are accepting and consenting to the processing of personal data by Google and Trustpilot.</p>
 	<p>Technical information can be collected using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening, if you wish. The information collected in this way can be used to identify you unless you modify your browser settings. </p>
 	<p>We will never collect sensitive information about you without your explicit consent. Sensitive information includes information relating to your health and religion. We will use our reasonable endeavours to ensure that any information which we do hold will be accurate and up to date. </p>
 	<p>You can make a formal “data subject access request” under the Data Protection Act 1998 to access the information we hold about you. Any data subject access request may be subject to a fee of £10 to meet our costs. However, we want to make it as easy as possible for you to find out what information we hold about you, so you can check the information that we hold by simply sending us an email.  If you find any inaccuracies we will delete or correct them promptly.</p>
@@ -320,11 +568,11 @@
                 <a href="/about-us/">About Us</a>
             </div>
             <div class="footerLinks">
-                <span>Popular Categories</span>            
+                <span>Features</span>            
                 <a href="/gift-ideas/">Gift Ideas</a>
                 <a href="/personalised-whisky/">Personalised Whisky</a>
-                <a href="/samples/">Whisky Samples</a>
-                <a href="/tasting-sets/">Tasting Sets</a>
+                <a href="/we-buy-bottles-collections-and-casks/">We Buy Bottles</a>
+                <a href="/careers/">Careers</a>
             </div>
             <div class="footerLinks">
                 <span>Social &amp; Media</span>            
@@ -336,13 +584,14 @@
             <div class="footerLinks" style="width: 23%">
                 <span style="margin-right:0px">Legal Information</span>            
                 <b><a href="/important-allergen-information/" rel="nofollow">Important Allergen Information</a></b>
-                <a href="/the-legal-stuff/" rel="nofollow">The Legal Stuff</a>                
+                <a href="/the-legal-stuff/" rel="nofollow">The Legal Stuff</a>
                 <div>© 2015 Master of Malt.com</div>
                 <a href="#" style="text-align:right"><i>Back to top</i><div style="padding-top:0;" class="footerBack2Top"><span class="sprite_arrUp" style="display:inline-block; margin:0; border-bottom:none;"></span></div></a>
             </div>
         </div>
+        We think you're in <span class="gold">United States</span> (<span class="js-international-pop-up-link">change</span>) so we're displaying prices which don't include VAT.
         <br>
-        <div id="ucFooter_currencyDisclaimer" class="currencyDisclaimer">The prices currently being shown in USD are approximate, and should be used for illustrative purposes only.  All prices are in GBP and all orders are charged in GBP. The order total – the amount you will actually be charged – will be displayed in GBP before you place your order. <a href="javascript:showCurrencyDropDownTip();">Click here to change your currency</a>.</div>
+        <div id="ucFooter_currencyDisclaimer" class="currencyDisclaimer">The prices currently being shown in <span class="gold">USD</span> (<a href="javascript:showCurrencyDropDownTip();">change</a>) are approximate, and should be used for illustrative purposes only.  All prices are in GBP and all orders are charged in GBP. The order total – the amount you will actually be charged – will be displayed in GBP before you place your order.</div>
         <div class="footerLinksBottomCont">
             <div class="footerLinksBottom">
                 <div class="footerLinks2"> 
@@ -368,7 +617,7 @@
         </div>
         <div style="width:100%" class="footerIn">
             <div class="drinkawareBar"><a href="http://www.drinkaware.co.uk" style="display:block" rel="nofollow" class="footer_drinkaware"></a></div>
-            <span>Master of Malt supports responsible drinking - Sip, don't Gulp. </span>  
+            <span>Master of Malt supports responsible drinking - Sip, don't Gulp. </span>
         </div>
         <div class="cb"></div>
         <div id="legalFluff" style="font-size: 12px; margin-bottom: 10px;">ATOM Supplies Ltd trading as Master of Malt.  Registered office: North House, 198 High Street, Tonbridge, TN9 1BE. Registered in England &amp; Wales. Company number 3193057, VAT number GB 662241553.</div>
@@ -376,7 +625,7 @@
     
     <script type="text/javascript">
         var currencySymbol = "&#36;";
-        var exchangeRate = 1.49260;
+        var exchangeRate = 1.51791;
         var tradeGroupID = 0;   
     </script>        
 </div>
