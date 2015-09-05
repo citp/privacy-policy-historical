@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junaidjamshed.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607184442id_/http%3A//junaidjamshed.com/SecurityPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junaidjamshed.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905185814id_/http%3A//junaidjamshed.com/SecurityPrivacy.aspx) for the most accurate reproduction.*
 
 # Welcome to Junaid Jamshed
 
@@ -22,7 +22,7 @@ Privacy Statement
 
 **1.    ****Introduction**
 
-JunaidJamshed (Private) Limited (“J.”) values the privacy and security of the information that you share with us. This Privacy Statement applies to information collected through [www.junaidjamshed.net](http://www.junaidjamshed.net/ "www.junaidjamshed.net") (the “[Website](http://www.junaidjamshed.net/)”). This Statement describes how J. collects, uses, shares, protects, or otherwise processes your personal information.
+JunaidJamshed (Private) Limited (“J.”) values the privacy and security of the information that you share with us. This Privacy Statement applies to information collected through [www.junaidjamshed.com](http://www.junaidjamshed.com/) (the “[Website](http://www.junaidjamshed.com/)”). This Statement describes how J. collects, uses, shares, protects, or otherwise processes your personal information.
 
 You must read this privacy policy carefully and we recommend that you print and retain a copy for your future reference. By accessing, browsing or otherwise using this Website, you confirm that you have read, understood and agreed to this Privacy Policy in its entirety. If we change our Privacy Policy, we will post the changes on this Website so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. We will also email you, should we make any changes, to give you a chance to ask us not to use your information in that way.
 
@@ -33,7 +33,7 @@ You must read this privacy policy carefully and we recommend that you print and 
 
 **2.1.** **Personal Information**
 
-We will only collect information about you if you willingly provide it. The information you provide, which is about you, is referred to as personal information. Please make sure you update your personal information if any of your details change. You may do so by signing into your [account](http://store.junaidjamshed.net/Signup.aspx). 
+We will only collect information about you if you willingly provide it. The information you provide, which is about you, is referred to as personal information. Please make sure you update your personal information if any of your details change. You may do so by signing into your [account](http://store.junaidjamshed.com/Signup.aspx). 
 
   * When you register with J. and/or place an order, we need to know your name, delivery address, e-mail address and telephone number. This information allows us to fulfill your order and notify you of the status of your order.
   * When you register with us to receive our monthly newsletter or details of offers or products we will collect your e-mail address. 
@@ -100,7 +100,7 @@ J. may disclose aggregate or statistical information to our business partners, f
 
 
 
-You can access and change/correct your personal information under **[my account](http://store.junaidjamshed.net/Signup.aspx)**   **,** after logging into your account. However if an order has been dispatched/initiated we will not be able to change delivery address or other particulars related to that order.
+You can access and change/correct your personal information under **[my account](http://store.junaidjamshed.com/Signup.aspx)**   **,** after logging into your account. However if an order has been dispatched/initiated we will not be able to change delivery address or other particulars related to that order.
 
 **6.** **Security**
 
@@ -137,7 +137,7 @@ When you click on a link on this website that takes you to a website operated by
 
 
 
-We may send you information about our products and services. You may log into the account and update your Preferences to stop receiving this information. You may also opt out of J.’s marketing list or update your information by notifying us at privacy@junaidjamshed.net at any time.
+We may send you information about our products and services. You may log into the account and update your Preferences to stop receiving this information. You may also opt out of J.’s marketing list or update your information by notifying us at privacy@junaidjamshed.com at any time.
 
 **11.** **Amendments**
 
@@ -158,7 +158,7 @@ Please contact us with any questions or concerns related to this Privacy Stateme
 
 
 
-If you have questions or concerns related to this Privacy Statement, you may contact us by email at privacy@junaidjamshed.net or by writing to us at:
+If you have questions or concerns related to this Privacy Statement, you may contact us by email at privacy@junaidjamshed.com or by writing to us at:
 
 Attn: Privacy Officer
 
