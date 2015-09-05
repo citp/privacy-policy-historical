@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fisherpaykel.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925175623id_/http%3A//www.fisherpaykel.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fisherpaykel.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905130323id_/https%3A//www.fisherpaykel.com/us/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Fisher & Paykel Appliances United States of America
 
