@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reissonline.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325131033id_/https%3A//www.reiss.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reissonline.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906010201id_/https%3A//www.reiss.com/us/privacy) for the most accurate reproduction.*
 
 # Reiss Online | Privacy & Cookie Policy
 
