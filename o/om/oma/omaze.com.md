@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the omaze.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429171924id_/http%3A//www.omaze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omaze.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905134049id_/http%3A//www.omaze.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Omaze
 
-Effective: September 10, 2012
+**Effective: May 1, 2015**
 
-This Omaze.com Privacy Policy ( **Policy** ) describes the privacy policies of Omaze, LLC, ( **Omaze,** **we,** **us** or **our** ). We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Policy applies to all users of 198.101.209.250 (the **Website** ) and explains what information we collect, how we collect it, how we protect it, and when we disclose it to third parties.
+This Omaze.com Privacy Policy (“ **Policy** ”) describes the privacy policies of Omaze, Inc., (“Omaze,” “we,” “us,” or “our”). We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Policy applies to all users of www.omaze.com (the **Website** ) and explains what information we collect, how we collect it, how we protect it, and when we disclose it to third parties. **PLEASE READ THIS PRIVACY POLICY CAREFULLY.   **BY ENTERING ACCESSING, BROWSING, SUBMITTING INFORMATION TO, OR OTHERWISE USING THIS WEBSITE, YOU ACKNOWLEDGE AND AGREE TO THE FOLLOWING TERMS AND CONDITIONS.**   IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, DO NOT ACCESS OR USE THIS WEBSITE.**
 
 If you are registering for or participating in an Omaze sweepstakes contest, participation is subject to our Official Sweepstakes Rules and Regulations and any other rules and regulations applicable to such competition (collectively, **Rules** ). If this Policy conflicts with or is inconsistent with a statement in the Rules concerning your privacy, the Rules will apply.
 
@@ -44,6 +44,10 @@ Cookies. **** Cookies are bits of electronic information that a website can tran
 
 Other Information. Like the operators of most websites, we may use tracking software and similar technology, which automatically collects information about your computer hardware and software, and use of the Website. This information may be used by us for the operation of the Website and to provide general statistics regarding use of the Website.
 
+**Credit Card Information** ****
+
+When you use a credit card to make a donation to a, you are actually being redirected to our third party provider.  **WE DO NOT COLLECT, ACCESS, STORE OR PROCESS ANY CREDIT CARD INFORMATION.**
+
 **How Do We Protect Your Information?**
 
 Whenever we obtain your information, we will use reasonable practices to protect your information from unauthorized access or disclosure. While we will use such efforts, we cannot and will not insure the security of your information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions beyond our reasonable control.
@@ -72,10 +76,22 @@ Sweepstakes Winners. As further explained in our Rules, by entering into a sweep
 
 Our Website or our e-mails may link to third parties’ websites. It is also possible that third parties websites or e-mails may link to our Website. We are not responsible for the content or the privacy practices employed by third parties. We encourage you to read the privacy policies of these websites before transmitting any personal information to third parties.
 
+**What if I provide Information from Outside the United States?**
+
+Our Website is hosted in the United States and each Sweepstakes drawing takes place within the United States. Accordingly, by submitting any personal information to Omaze or enter a sweepstakes, you are transferring your personal information to the United States and you consent to such transfer.   **We adhere to and have certified our compliance with the Safe Harbor Privacy Principles, including notice, choice, onward transfer, security, data integrity, access, and enforcement, of the United States/European Union Data Protection Safe Harbor Framework and the United States/Switzerland Data Protection Safe Harbor Framework, both of which are made available by the U.S. Department of Commerce at http://www.export.gov/safeharbor.   Our certification can also be viewed at http://www.export.gov/safeharbor.  ******
+
+**Dispute Resolution**
+
+** ** If you believe that Omaze has not adhered to this Policy in connection with the transfer of your personal information to the United States, please contact Omaze by e-mail at service@Omaze.com.  We will do our best to address your concerns.  If you feel that your complaint has been addressed incompletely, we agree to settle your dispute exclusively under the JAMS Comprehensive Rules or International Rules of JAMS International (for more information, visit www.jamsinternational.com/rules-procedures/safeharbor). ****
+
+**California Users: Your California Privacy Rights** **.**
+
+We are in compliance with the California Online Privacy Protection Act. California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes.  Unless you provide personal information in connection with a sweepstakes, we are likely exempt from the requirements of California Civil Code section 1798.83 because we do not share such personal information with third parties for direct marketing purposes.  However, by providing personal information in connection with a sweepstakes or rewards program, you are expressly authorizing Omaze to share your name and contact information with both the charity benefiting from such sweepstakes and the entity providing prizes for that sweepstakes.  You expressly agree that these entities may use your information for marketing purposes. If you wish to find out about any rights you may have under California Civil Code section 1798.83, you may notify us in writing at privacy@omaze.com. If you want us to stop sharing your email contact information with third parties (if we have your email contact information), you may notify us at service@omaze.com. In order to fulfil certain rewards and prizes, we must share your information.  Please follow the instructions provided to you by third parties to unsubscribe from their messages. If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g., you enter into a new sweepstakes after opting-out), then your previous opt-out preferences will not apply.
+
 **How and When is the Policy Updated? How are You Notified of these Changes?**
 
-We reserve the right to modify or amend this policy at any time by posting the revised privacy policy on our website. If there are changes or additions to this Policy, we will post those changes here or in other formats for you to review. Material changes will only affect the information we collect after the effective date of the change to our privacy policy unless we clearly express otherwise. Each version of this Policy will be identified at the top of the page by its effective date.
+We reserve the right to modify or amend this policy at any time by posting the revised privacy policy on our website. If there are changes or additions to this Policy, we will post those changes here or in other formats for you to review. Each version of this Policy will be identified at the top of the page by its effective date.
 
 **How Do We Communicate With you?**
 
-If you have any questions or concerns regarding this Policy, please contact us at **service@omaze.com** , or **** Omaze, LLC, P.O. Box 866, 9942 Culver Blvd, Culver City, CA 90232. If we need, or are required, to contact you concerning any event that involves your information we may decide to do so by email, telephone, or mail.
+If you have any questions or concerns regarding this Policy, please contact us at **service@omaze.com** , or **** Omaze, Inc., P.O. Box 866, 9942 Culver Blvd, Culver City, CA 90232. If we need, or are required, to contact you concerning any event that involves your information we may decide to do so by email, telephone, or mail.
