@@ -1,21 +1,22 @@
-<!--The following is the downloaded HTML source of the metronomeonline.com privacy policy that was archived on 2015-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150407130908id_/http%3A//www.metronomeonline.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metronomeonline.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905221235id_/https%3A//www.metronomeonline.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="js js no-touch geolocation cssanimations csstransforms3d csstransitions localstorage"><head>
-            <title>Privacy Policy | METRONOME ONLINE - free!</title>
-    <meta name="Description" content="An online metronome ideal for quick and easy use while practicing music, this music tool helps with your rhythm as well as tempo selections and it is always available for free to all students of music at metronomeonline.com">
+<!DOCTYPE html><html xmlns="https://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" class="js js no-touch geolocation cssanimations csstransforms3d csstransitions localstorage"><head>
+            <title>Privacy Policy | METRONOME ONLINE - free online metronome</title>
+    <meta name="Description" content="Privacy policy for Metronomeonline.com">
     <meta name="Keywords" content="metronome, online, free, music, practice, tool, rhythm, tempo, student, share, track, learn">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
+    <meta http-equiv="content-language" content="en-US">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Open Graph -->
-    <meta property="og:image" content="http://www.metronomeonline.com/img/ogImage.png">
+    <meta property="og:image" content="https://www.metronomeonline.com/img/ogImage.png">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="400">
     <meta property="og:image:height" content="400">
-    <meta property="og:description" content="An online metronome ideal for quick and easy use while practicing music, this music tool helps with your rhythm as well as tempo selections and it is always available for free to all students of music at metronomeonline.com">
-    <meta property="og:title" content="METRONOME ONLINE - free!">
+    <meta property="og:description" content="Privacy policy for Metronomeonline.com">
+    <meta property="og:title" content="Privacy" policy="" |="" metronome="" online="" -="" free="" metronome"="">
     <meta property="og:site_name" content="Metronome Online">
-    <meta property="og:url" content="http://www.metronomeonline.com/">
+    <meta property="og:url" content="https://www.metronomeonline.com/">
 
     <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">document.documentElement.className = 'js';</script>
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -38,10 +39,14 @@
     <script src="/js/jquery-ui.min.js"></script>
     <script src="/js/jQueryRotateCompressed.js"></script>
     <script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
+    <script src="/js/swfobject.js" type="text/javascript"></script>
     <script src="/js/custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
     <script type="text/javascript" src="/components/chosen-build/chosen.jquery.min.js"></script>
     <script type="text/javascript" src="/components/iCheck/icheck.min.js"></script>
     <script src="/js/scripts.js"></script>
+    <script src="/js/snap.svg.js"></script>
+    <script src="/js/metronome.js"></script>
+    <script src="/js/AudioContextMonkeyPatch.js"></script>
     <script type="text/javascript">
       //fix facebook redirect url
       if (window.location.hash && window.location.hash == '#_=_') {
@@ -49,6 +54,29 @@
           history.pushState('', document.title, window.location.pathname); // nice and clean
           e.preventDefault(); // no page reload
       }
+      // start metronome
+      $(document).ready(function() {
+        if ($('section.main.home').length) {
+          var width=340;
+          var height=360;
+          if ($(window).outerWidth() <= 380) {
+            width=280;
+            height=300;
+          }
+          if(swfobject.hasFlashPlayerVersion("1")) {
+            swfobject.embedSWF("/swf/metronomePublic.swf", "flashContent", width, height, "6.0.0", "/swf/expressInstall.swf", {userId: "mooo"});
+          }
+          else {
+            var options = {
+              values: [40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 63, 66, 69, 72, 76, 80, 84, 88, 92, 96, 100, 104, 108, 112, 116, 120, 126, 132, 138, 144, 152, 160, 168, 176, 184, 192, 200, 208],
+              useTuner: true,
+              drawShadow: true,
+              startAngle: 90
+            }
+            window.m = new Metronome($('#flashContent'), options);
+          }
+        }
+      });
     </script>
       </head>
   <body>
@@ -241,8 +269,8 @@
     <div class="social">
       <p class="like"><img src="/img/heart.png" alt="Heart">Do you like Metronome?</p>
       <div class="socialButtons">
-        <div class="fb-like" data-href="http://www.metronomeonline.com/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
-        <div class="fb-share-button" data-href="http://www.metronomeonline.com/" data-type="button"></div>
+        <div class="fb-like" data-href="https://www.metronomeonline.com/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+        <div class="fb-share-button" data-href="https://www.metronomeonline.com/" data-type="button"></div>
       </div>
     </div>
     <div class="lowerFooter">
@@ -252,17 +280,24 @@
           <li><a target="_BLANK" href="http://www.drumeo.com/">Online Drum Lessons</a></li>
           <li><a target="_BLANK" href="http://www.fluteland.com/">Online Flute Lessons</a></li>
           <li><a target="_BLANK" href="http://www.guitartricks.com/ap/gt.php?id=1592&amp;tid1=motxft&amp;url=http://www.guitartricks.com/trial/">Online Guitar Lessons</a></li>
-          <li><a target="_BLANK" href="http://www.earbits.com/">Earbits Free Online Radio</a></li>
         </ul>
         <ul>
           <li><a href="/terms-of-use">Terms of Use</a></li>
           <li><a href="/privacy-policy">Privacy Policy</a></li>
           <li><a href="/bug-report">Report a Bug</a></li>
         </ul>
+        <ul>
+          <li><a href="/">English</a></li>
+          <li><a href="/deutsch">Deutsch</a></li>
+          <li><a href="/espanol">Espanol</a></li>
+          <li><a href="/francais">Francais</a></li>
+          <li><a href="/中国">中国</a></li>
+        </ul>
       </nav>
-      <a target="_BLANK" href="http://facebook.com/metronomeonline" class="facebook"></a>
+      <a target="_BLANK" href="https://facebook.com/metronomeonline" class="facebook"></a>
     </div>
   </div>
-</footer>  
+</footer>
+  
 
 </body></html>
