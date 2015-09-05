@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the linkinpark.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627035721id_/http%3A//groundctrl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkinpark.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054553id_/http%3A//wonderfulunion.com/privacy-policy) for the most accurate reproduction.*
 
-# Wonderful Union: A fan engagement company
+# Wonderful Privacy : Wonderful Union
 
-## ground(ctrl) Privacy Policy 2014
+## Wonderful Union Privacy Policy 2014
 
-Updated July 14th, 2014. [Previous Versions.](https://web.archive.org/terms-of-use-archive)
+Updated [CMS] July 14th, 2014. [Previous Versions.](https://web.archive.org/terms-of-use-archive)
 
 This policy is effective as of July 14th, 2014, and reflects only non-material changes and clarifications from the previous version. Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.
 
-### Privacy Policy 
+### Privacy Policy
 
-This Privacy Policy, effective July 14th, 2014, is designed to help you, the user, understand how ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member”. We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
+This Privacy Policy, effective July 14th, 2014, is designed to help you, the user, understand how Wonderful Union™ ("ground(ctrl), “us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member”. We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
 
-By accessing and/or using this web site, you are (1) becoming a member of the ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
+By accessing and/or using this web site, you are (1) becoming a member of the Wonderful Union™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
 
 We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at the mailing address, telephone number, or email address at the end of this page.
 
-### About ground(ctrl)™
+### About Wonderful Union™
 
-ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
+Wonderful Union™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
 
 To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
 
@@ -28,16 +28,15 @@ This privacy policy is provided in conformity with the Children’s Online Priva
 
 If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email address:
 
-ground(ctrl)  
+Wonderful Union  
 120 K Street Suite 300  
 Sacramento, CA 95814  
-Phone: 1 (877) GND-CTRL  
-Email: [info@groundctrl.com](mailto:info@groundctrl.com)  
-
+Phone: 1 (844) WNDRFUL  
+Email: [hello@wonderfulunion.com](mailto:hello@wonderfulunion.com)
 
 ### Correcting, Updating or Removing Your Information
 
-At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature. Our customers support staff can assist them as well. 
+At any time, members can correct, update, or remove any of their personal information (except their birthday) by logging into their account and accessing the “Edit Profile” feature. Our customers support staff can assist them as well.
 
 ### How We Use the Information
 
@@ -53,7 +52,7 @@ This web site is about sharing information with others of your choosing, and a l
 
   1. Enforce the network’s Terms and Conditions of Use Agreement;
   2. Protect the network’s rights;
-  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
+  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Wonderful Union™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
   4. Protect the safety of it’s members; or
   5. Enhance each member’s promotional and informational-sharing experience.
 
@@ -63,7 +62,7 @@ The network may provide services jointly with other companies and we may share c
 
 Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
 
-ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest.
+Wonderful Union™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Wonderful Union™, or the sale of a substantial portion of its assets to that successor in interest.
 
 ### Third-Party Advertising
 
@@ -91,9 +90,8 @@ You post User Content, as described above, on this web site at your own risk. De
 
 If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
 
-ground(ctrl)  
+Wonderful Union  
 120 K Street Suite 300  
 Sacramento, CA 95814  
-Phone: 1 (877) GND-CTRL  
-Email: [info@groundctrl.com](mailto:info@groundctrl.com)  
-
+Phone: 1 (844) WNDRFUL  
+Email: [hello@wonderfulunion.com](mailto:hello@wonderfulunion.com)
