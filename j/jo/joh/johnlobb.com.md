@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnlobb.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507202322id_/http%3A//www.johnlobb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnlobb.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054534id_/http%3A//www.johnlobb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | John Lobb - Official website
 
