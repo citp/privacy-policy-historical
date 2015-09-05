@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319123424id_/http%3A//www.turtlebeach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlebeach.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905134952id_/http%3A//www.turtlebeach.com/privacy) for the most accurate reproduction.*
 
 # privacy - Turtle Beach Corporation
 
