@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holycowvegan.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001915id_/http%3A//holycowvegan.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holycowvegan.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905142141id_/http%3A//holycowvegan.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Holy Cow Vegan Recipes | Easy, healthy vegan and vegetarian meals from scratch
+# Privacy Policy • Holy Cow! Vegan Recipes
 
 This privacy policy sets out how Holy Cow! uses and protects any information that you give while using holycowvegan.net. If you have any questions about the policy, please contact Vaishali at MyVeganWorld[at]gmail.com
 
