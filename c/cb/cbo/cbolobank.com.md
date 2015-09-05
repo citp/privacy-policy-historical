@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cbolobank.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323204654id_/https%3A//www.cbolobank.com/uploadedFiles/Central_Bank_of_Lake_of_the_Ozarks/Content/Legal_Compliance/bk011_Privacy_Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbolobank.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062534id_/https%3A//www.cbolobank.com/uploadedFiles/enterprise/files/privacy-statement-bk011.pdf) for the most accurate reproduction.*
 
 # Visit:
 
-A-16185                                                                                           Rev. July 2014           PAGE 1
+A-16185                                                                                          Rev. June 2015            PAGE 1
     FACTS           WHAT DOES CENTRAL BANCOMPANY DO WITH YOUR PERSONAL INFORMATION?
                     Financial companies choose how they share your personal information. Federal law gives consumers
      Why?           the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share,
@@ -15,21 +15,21 @@ A-16185                                                                         
                     All financial companies need to share customers’ personal information to run their everyday business.
      How?           In the section below, we list the reasons financial companies can share their customers’ personal
                     information; the reasons Central Bancompany chooses to share; and whether you can limit this sharing.
- Reasons we can share personal information                                                Does Central           Can you limit
-                                                                                      Bancompany share?          this sharing?
+ Reasons we can share personal information                                                Does Central          Can you limit
+                                                                                      Bancompany share?         this sharing?
  For our everyday business purposes - such as to process your
- transactions, maintain your account(s), respond to court orders and legal                      Yes                    No
+ transactions, maintain your account(s), respond to court orders and legal                      Yes                   No
  investigations, or report to credit bureaus
- For our marketing purposes - to offer our products and services to you                         Yes                    No
- For joint marketing with other financial companies                                             Yes                    No
+ For our marketing purposes - to offer our products and services to you                         Yes                   No
+ For joint marketing with other financial companies                                             Yes                   No
  For our affiliates everyday business purposes -
-                                                                                                Yes                    No
+                                                                                                Yes                   No
  information about your transactions and experiences
  For our affiliates everyday business purposes -
                                                                                                 Yes                   Yes
  information about your creditworthiness
  For our affiliates to market to you                                                            Yes                   Yes
- For our nonaffiliates to market to you                                                         No              We don’t share
+ For our nonaffiliates to market to you                                                         No             We don’t share
                      Detach and mail the form below to the address listed.
      To limit        Please note:
         our          If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice.
@@ -88,9 +88,9 @@ Joint marketing                    A formal agreement between nonaffiliated fina
                                       Our joint marketing partners include companies that provide marketing services
                                    on our behalf and other financial institutions with which we have joint marketing agreements.
 List of Affiliates
-Boone County National Bank                Central Trust & Investment Company                  InvestorServices
-Central Bank                              Central Mortgage Company                            Jefferson Bank of Missouri
-Central Bank of Audrain County            City Bank                                           ONB Bank & Trust Company
-Central Bank of Lake of the Ozarks        Dogwood Insurance Agency, L.L.C.                    Third National Bank
-Central Bank of St. Louis                 Empire Bank                                         Ozark Mountain Bank
-Central Bank of the Midwest               First Central Bank
+Central Bank                                Central Bank of Oklahoma                   Central Investment Advisors
+Central Bank of Audrain County              Central Bank of Sedalia                    Central Trust Company
+Central Bank of Boone County                Central Bank of St. Louis                  Central Mortgage Company
+Central Bank of Branson                     Central Bank of the Midwest                Dogwood Insurance Agency, L.L.C.
+Central Bank of Lake of the Ozarks          Central Bank of the Ozarks                 Jefferson Bank of Missouri
+Central Bank of Moberly                     Central Bank of Warrensburg
