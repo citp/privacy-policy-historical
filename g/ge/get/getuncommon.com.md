@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getuncommon.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418174046id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getuncommon.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906011449id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.*
 
 # Custom iPhone, iPod, iPad Cases | Privacy Policy | Uncommon
 
@@ -45,9 +45,8 @@ Uncommon may provide third party artwork for incorporation into Uncommon product
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Uncommon LLC  
-1556 W. Carroll  
-Space 202  
-Chicago IL, 60607
+2759 W. Lawrence Ave.  
+Chicago IL, 60625
 
 +1 877 MYUNCOMMON  
 E-Mail: [hello@getuncommon.com](mailto:hello@getuncommon.com)
