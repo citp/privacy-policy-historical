@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cctv-america.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316191846id_/http%3A//www.cctv-america.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cctv-america.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905203924id_/http%3A//www.cctv-america.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CCTV America
 
 **Last Changes to Privacy Policy: April 3, 2014**
 
-We are strongly committed to letting you know how we will collect and use your personal information. The policies below are applicable to MediaLinks TV, LLC’s network of websites, including [www.cctv-america.com](https://web.archive.org/web/20150316191846id_/http%3A//www.cctv-america.com/www.cctv-america.com) and its affiliated websites (including any versions optimized for viewing on a wireless or tablet device); all email newsletters published or distributed by MediaLinks; all apps published by MediaLinks; and all other interactive features, services, and communications provided by MediaLinks (collectively “Sites”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by MediaLinks TV, LLC (collectively “MediaLinks” or “we”, “us”, or “our”). We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to these Sites, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. 
+We are strongly committed to letting you know how we will collect and use your personal information. The policies below are applicable to MediaLinks TV, LLC’s network of websites, including [www.cctv-america.com](https://web.archive.org/web/20150905203924id_/http%3A//www.cctv-america.com/www.cctv-america.com) and its affiliated websites (including any versions optimized for viewing on a wireless or tablet device); all email newsletters published or distributed by MediaLinks; all apps published by MediaLinks; and all other interactive features, services, and communications provided by MediaLinks (collectively “Sites”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by MediaLinks TV, LLC (collectively “MediaLinks” or “we”, “us”, or “our”). We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to these Sites, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. 
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Sites. It does not apply to information that you may submit to us offline, or to Sites maintained by other companies or organizations to which we may link or who may link to us.
 
@@ -12,15 +12,15 @@ By visiting our Sites, you are accepting the practices described in our Privacy 
 
 If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at [digital.media@cctv-america.com](mailto:digital.media@cctv-america.com)
 
-**Controllers of Personal Information**
+ **Controllers of Personal Information**
 
 Any personal information provided to or to be gathered by MediaLinks is controlled primarily by MediaLinks.
 
-**What Information About Me Is Collected and Stored?**
+ **What Information About Me Is Collected and Stored?**
 
 We collect two basic types of information from you in conjunction with your use of the Sites, personal information and non-personal information. Personal information is information that you may supply to us, as described more fully below, i.e., when you register for a Site or any part thereof, upload content, participate in a community, or provide your e-mail address. Personal information is any information that can individually identify you and includes, among other things, your name, e-mail address, telephone number, postal address, and contact information. Non-personal information includes information that does not personally identify you, but it may include tracking and usage information about your location, demographics, use of the Sites and the Internet.
 
-**Personal Information**
+ **Personal Information**
 
 As a general matter, you can browse the Sites without submitting your personal information to us. However, there are a number of circumstances in which you may supply us with your personal information. The following lists the most common ways in which we may collect your personal information.
 
@@ -39,7 +39,7 @@ As a general matter, you can browse the Sites without submitting your personal i
 
 When you interact with any MediaLinks property page or account on a social media platform, such as Facebook, Disqus, Weibo, WeChat, Twitter, Google+, Tumblr, LinkedIn, YouTube, or Pinterest, we may collect the personal information that you make available to us on that page or account including your account ID or “handle.” However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personal information that we are permitted to collect by these social media platforms. If you choose to link or login to your MediaLinks account with or through a social networking service, MediaLinks and that service may share certain information about you and your activities. With your consent, we also may share information about your activities, including what you view on the Sites, with that social network’s users.
 
-**Non-Personal Information**
+ **Non-Personal Information**
 
 In addition, when you interact with the Sites, we may collect certain information that does not identify you individually and our servers may automatically keep an activity log of your use of our Sites (“Non-Personal Information”). Generally, we collect and store the following categories of Non-Personal Information:
 
@@ -57,11 +57,11 @@ In addition, when you interact with the Sites, we may collect certain informatio
 
 We collect and store your device’s source IP address which may disclose the location of your device at the time you access the Sites. In addition, in some cases the Sites can deliver content based on your current location if you choose to enable that feature. If you enable that feature, your current location will be stored locally on your device which will be used by the Sites to serve you certain content tied to your location. If you elect to have your location-based searches saved to your history, we will store such information on our servers.
 
-**Collection of Personal and Non-Personal Information From Other Sources**
+ **Collection of Personal and Non-Personal Information From Other Sources**
 
 We also may collect and store information about you that we receive from other sources (including by us from our offline interactions with you) to, among other things, enable us to update and correct the information contained in our database and to better customize your experience on the Sites.
 
-**Use of Cookies**
+ **Use of Cookies**
 
 Like many websites, we use “cookies”, which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences and actions. We use cookies to track use of our Sites and online services. We may also use cookies to monitor traffic, improve the Sites and make it easier and/or relevant for your use. You may occasionally get cookies from third parties with content or links on our Sites. We do not control these cookies, and these cookies are not subject to this cookie policy.
 
@@ -69,15 +69,15 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 The Sites use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics may also use cookies or other tracking technology to help us analyze how users interact with and use the Sites, compile reports on Site activity, and provide other services related to Site activity and usage. The cookies and other technology may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website. The Sites do not use Google Analytics to gather any Personal Information. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s privacy policies.
 
-**Is Personal Information Collected From Children?**
+ **Is Personal Information Collected From Children?**
 
 Unless otherwise disclosed during collection and with parent or guardian consent, MediaLinks does not knowingly collect personal identifiable information from children under 13 years of age. If you are under 13 years of age, you should not provide personally identifiable information to MediaLinks without providing us with consent from your parents. If MediaLinks discovers that a child under the age of 13 has provided MediaLinks with personally identifiable information and we do not have parental consent, MediaLinks will immediately delete that child’s information from the Sites.
 
-**How Do We Use Your Information?**
+ **How Do We Use Your Information?**
 
 We use the information we learn from you to help us personalize and continually improve your experience on the Sites. We may use your Personal and Non-Personal Information in the following ways:
 
-**General Uses**
+ **General Uses**
 
 • Provide you with the content, products and services you request  
 • Post your user generated content to our Sites as you request  
@@ -90,11 +90,11 @@ We use the information we learn from you to help us personalize and continually 
 • Detect, investigate, and prevent activities that may violate our policies or be illegal  
 • Perform statistical, demographic, and marketing analyses of users of the Sites and their usage patterns
 
-**Combination of Your Personal Information**
+ **Combination of Your Personal Information**
 
 We use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by MediaLinks, and we may combine information gathered from multiple portions of the Sites into a single customer record. We also use and/or combine information that we collect off-line or we collect or receive from third party sources to enhance, expand, and check the accuracy of your user records.
 
-**Use of Your Location Information**
+ **Use of Your Location Information**
 
 Specifically, we use your location information to:
 
@@ -105,58 +105,58 @@ Specifically, we use your location information to:
 • Detect, investigate, and prevent activities that may violate our policies or be illegal  
 • Perform statistical, demographic, and marketing analyses of users of the Sites and their usage patterns
 
-**Who Do We Provide Your Information To?**
+ **Who Do We Provide Your Information To?**
 
 Except as disclosed in this Privacy Policy, we do not disclose information about your Personal Information collected online to any companies not part of MediaLinks or its subsidiaries or related entities. Although, as disclosed below, we may provide your information to our partners, in no event will we sell or rent your Personal Information as part of a customer list or similar transaction.
 
-**Third-Party Agents**
+ **Third-Party Agents**
 
 We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, such as hosting, content syndication, content management tools, social media integration, marketing, analytics, customer service, fraud protection, etc. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites.
 
-**Business Partners and Third Parties**
+ **Business Partners and Third Parties**
 
 We may share your Personal Information with our business partners from time to time. We may also share your Personal Information with third parties that provide products and services that we think you may be interested in. Although our treatment of your Personal Information is governed by this Privacy Policy, the business partner or third party’s treatment of your Personal Information will be governed by the business partner or third party’s privacy policy. You may withdraw your consent to our sharing of your Personal Information with business partners and third parties at any time by following the opt-out process described below.
 
-**Emergency Situations**
+ **Emergency Situations**
 
 We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Sites; (b) protect and defend our rights or property, the Sites or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Sites or the public.
 
-**Use of Non-Personal Information**
+ **Use of Non-Personal Information**
 
 We may disclose or share Non-Personal Information (or other information, other than Personal Information) in any other manner that we deem appropriate or necessary. Among other things, we will disclose Non-Personal Information to third parties to help us determine how people use parts of the Sites and who our users are so we can improve our Sites. We will also disclose Non-Personal Information to our partners and other third parties about how our users collectively use the Sites.
 
-**What Steps Are Taken To Keep Personal Information Secure?**
+ **What Steps Are Taken To Keep Personal Information Secure?**
 
 We are concerned about ensuring the security of your Personal Information. Personal Information collected by our Sites are stored in secure operating environments that are not available to the public. Our security procedures mean that we may occasionally request proof of identity before we disclose your Personal Information to you. Please understand, however, that while we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
 
-**What Happens When I Link To or From Another Website?**
+ **What Happens When I Link To or From Another Website?**
 
 These Sites may contain links to other websites operated by affiliates of MediaLinks or third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other websites. We are not responsible for the actions and privacy policies of third parties and other websites.
 
-**Public Areas, Comments, and Community Areas**
+ **Public Areas, Comments, and Community Areas**
 
 Please remember that any information you share in public areas, such as comments to stories, becomes public and anyone may take and use that information. Please be careful about what you disclose and do not post any Personal Information that you expect to keep private.
 
-**Governing Law**
+ **Governing Law**
 
 These Sites are published in the United States. We attempt to protect the Personal Information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to our services, but our family of Sites are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to us.
 
-**Notice to Non-US Users**
+ **Notice to Non-US Users**
 
 If you are located outside the United States of America, you should be aware that your personally identifiable information will be transferred to the United States of America, the laws of which may be deemed by the your country to have inadequate data protection. If you are located in a country outside the United States of America and voluntarily submit personal information to us, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
 
-**Assignment**
+ **Assignment**
 
 We may change our ownership or corporate organization while providing the Sites and services. We may also sell certain assets associated with the Sites. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy.
 
-**Changes to This Policy**
+ **Changes to This Policy**
 
 As our Sites continue to develop, we may add new services and features to our Sites. In the event that these additions affect our Privacy Policy, this document will be updated appropriately. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Policy each time you use our Sites in case you missed our notice of changes to the Privacy Policy. We will not, however, materially change our policies and practices to make them less protective of Personal Information we have previously collected from you without your express consent.
 
-**How Do I Opt-Out or Correct Information About Me**
+ **How Do I Opt-Out or Correct Information About Me**
 
 You may always opt-out of receiving future e-mail messages and newsletters from MediaLinks. To opt-out, you can send us a message at [digital.media@cctv-america.com](mailto:digital.media@cctv-america.com).
 
-**Your California Privacy Rights**
+ **Your California Privacy Rights**
 
 California Civil Code Section 1798.83 permits customers of MediaLinks who are California residents to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [digital.media@cctv-america.com](mailto:digital.media@cctv-america.com).
