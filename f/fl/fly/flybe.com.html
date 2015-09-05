@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flybe.com privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630221308id_/http%3A//www.flybe.com/flightInfo/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flybe.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905144955id_/http%3A//www.flybe.com/flightInfo/privacy_policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!-- InstanceBegin template="/Templates/Secondary.dwt" codeOutsideHTMLIsLocked="false" --><!--<![endif]--><head>
     <!-- InstanceBeginEditable name="GAExperimentZone" -->
@@ -16,7 +16,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, target-densityDpi=device-dpi">
 	<meta property="og:image" content="/i/layout/logo.gif">
    
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KKN6HT"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/dtagent60_jn3_7000.js" data-dtconfig="rid=RID_-921838197|rpid=-1564278356|domain=flybe.com|tp=500,50,0"></script><link rel="stylesheet" href="/css/big-reset.css">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KKN6HT"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/dtagent60_jn3_7000.js" data-dtconfig="rid=RID_-921838197|rpid=-711533084|domain=flybe.com|tp=500,50,0"></script><link rel="stylesheet" href="/css/big-reset.css">
     <link rel="stylesheet" href="/lf/css/screen.css">
     <link rel="stylesheet" href="/lf/css/screen-leap.css">
     <link rel="stylesheet" href="/lf/css/responsive.css">
@@ -39,7 +39,7 @@
 
     <!-- jQuery libs -->
     <script type="text/javascript" src="/javascript/jquery-local.js"></script>
-    <script type="text/javascript" src="/js/jquery-ui-1.8.18.custom.min.js"></script>
+     <script src="/web-app/lib/jquery-ui/jquery-ui.min.js"></script>
     <script type="text/javascript" src="/lf/javascript/chosen.jquery.min.js"></script>
     <script type="text/javascript" src="/lf/js/script-leap.js"></script>
     <script type="text/javascript" src="/lf/javascript/underscore-1.7.js"></script>
@@ -90,6 +90,17 @@
 	<!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
 		    
+      <!--[if lte IE 9]>
+        <script src="/web-app/lib/jqueryext/jquery.xdomainrequest.min.js"></script>
+        <script src="/web-app/common/js/ieFixes/IEConsoleFix.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+        <script src="/web-app/common/js/ieFixes/json2.js"></script>
+        <link rel="stylesheet" href="/web-app/common/css/ie7.css">
+    <![endif]-->
+    <link rel="stylesheet" href="/web-app/lib/chosen/chosen.min.css">
+    <link rel="stylesheet" href="/web-app/search-widget/css/search-widget.css">
+    <script type="text/javascript" src="/web-app/dist/js/search-widget-standalone.min.js"></script>
 <link rel="stylesheet" href="/en/disruption/updates/css/disruption.css" type="text/css"><link rel="stylesheet" href="/en/disruption/updates/css/disruption.css" type="text/css"><link rel="stylesheet" href="/en/disruption/updates/css/disruption.css" type="text/css"></head>
 <body class="respond secondary">
 <!-- Google Tag Manager -->
@@ -112,7 +123,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <section id="headersection" class="container en-dis">
             <div class="flybe-logo"> <a href="/"><img src="/img/template/flybe-logo.png" alt="Flybe"></a></div>
             <ul class="mega-nav">
-
                 <li class="closed"><a href="/offers/">Special offers</a></li>
                 <li class="dropdown closed"> <a href="https://www.flybe.com/cam/findBooking.do" class="js-no-link">Manage booking</a>
                     <div class="dropdown_2columns menu1 submenu">
@@ -123,7 +133,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                         <div id="checkinToggle"><a data-tab="js-check-in">Check-in</a></div>
                                         <div id="veiwbookingToggle" class="not-active"><a data-tab="js-veiw-booking">View booking</a></div>
                                     </div>
-                                    <form id="findBookingForm" name="findBookingForm" method="post" action="https://web.archive.org/cam/findBooking.do">
+                                    <form id="findBookingForm" name="findBookingForm" method="get" action="https://web.archive.org/web-app/check-in.php">
                                         <ul class="mega-nav-form">
                                             <li>
                                                 <input type="hidden" name="__formTokenKey" value="">
@@ -211,7 +221,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <li><a href="/ticket-types/">Ticket types</a></li>
                                     <li><a href="/flex/">Flybe Flex</a></li>
                                     <li><a href="/business-travel/">Business travel</a></li>
-                                    <li><a href="/lock-down/">Price lock-down</a></li>
+                                    
                                     <li><a href="/groups">Groups</a></li>
                                     <li><a href="/children-and-infants/">Children &amp; Infants</a></li>
                                     <li><a href="/cam/adsInit.do">Air Discount Scheme</a></li>
@@ -259,9 +269,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </div>
                             <div class="col span_1_of_4 spaced-links">
                                 <ul>
-                                     <li><a href="/cheap-flights/">Cheap flights</a></li>
+                                    <li><a href="/cheap-flights/">Cheap flights</a></li>
                                     <li><a href="/cheap-flights/">Destination guides</a></li>
-                                    <li><a href="/route-map/">Route map</a></li>
+                                    <li><a href="/flights-from/">Airports we fly from</a></li>
+                                    <li><a href="/route-map/">Route Map</a></li>
                                     <li><a href="/timetable/">Timetable</a></li>
                                     <li><a href="/birminghamhub/">Birmingham hub</a></li>
                                     <li><a href="/manchesterhub/">Manchester hub</a></li>
@@ -301,7 +312,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             </div>
                             <div class="col"> 
                                 <a href="http://production.rent-at-avis.com/avisonline/gb/avis_partners2.nsf/c/flybe+Homepage">
-                                    <img src="/lf/img/menu/315x305_Flybe_Avis_Apr.jpg" width="315" height="305" alt="Avis car hire">
+                                    <img src="/lf/img/menu/315x305_Flybe_Avis_June.jpg" width="315" height="305" alt="Avis car hire">
                                 </a>
                             </div>
                         </div>
@@ -333,9 +344,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <li><a href="http://fr.flybe.com">Français<div class="flag flag-french-tricolour"></div></a></li>
                                     <li><a href="http://es.flybe.com">Español<div class="flag flag-spain"></div></a></li>
                                     <li><a href="http://de.flybe.com">Deutsch<div class="flag flag-germany"></div></a></li>
-                                    <li><a href="http://fi.flybe.com">Suomi<div class="flag flag-finland"></div></a></li>
-                                    <li><a href="http://fi-en.flybe.com">English (Finland)<div class="flag flag-union-jack"></div></a></li>
-                                    <li><a href="http://sv.flybe.com">Svenska<div class="flag flag-sweden"></div></a></li>
+                                    
                                 </ul>
                             </div>
                         </div>
@@ -378,170 +387,223 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <!--START:fltwgwrap-->
                         <div id="fltwgwrap">
 
-                            <div id="flightWidget">
-                                <a data-tab="1" class="tab-button" id="button-flight">Find flights</a>
-                                <a data-tab="2" class="tab-button non-active" id="button-checkin">Check-in</a>
-                                <div data-tab="1" class="tab flight-tab">
-                                <!--START:flight tab-->
-                                <div id="homepage-findaflight" class="findaflight mvtflightsearch">
-                                    <form id="flightSearchCriteria" method="post" action="/cam/executeFlightSearchCriteria.action">
-                                        <input type="hidden" name="flightSearchCriteria.flexibleWithDates" id="flexibleWithDates" value="False">
-                                        <input type="hidden" id="returnFlight" name="singleOrReturn" value="">
-                                        <fieldset>     
-
-                                            <div class="flight-dropdown">
-                                                <label id="flight-from-label">Flight from</label>
-                                                <select name="flightSearchCriteria.departureAirport" id="flightFrom" data-placeholder=" " class="chosen-select" tabindex="-1" style="position: absolute; left: -1000px; top: -1000px;"> <option value=""></option><option value="ABZ" data-end-date="undefined">Aberdeen - ABZ, United Kingdom</option><option value="ALC" data-end-date="undefined">Alicante - ALC, Spain</option><option value="AMS" data-end-date="undefined">Amsterdam - AMS, Netherlands</option><option value="AVN" data-end-date="undefined">Avignon - AVN, France</option><option value="BRR" data-end-date="undefined">Barra - BRR, United Kingdom</option><option value="BIA" data-end-date="undefined">Bastia - Corsica - BIA, France</option><option value="BHD" data-end-date="undefined">Belfast City - BHD, United Kingdom</option><option value="BEB" data-end-date="undefined">Benbecula - BEB, United Kingdom</option><option value="BGO" data-end-date="undefined">Bergen - BGO, Norway</option><option value="EGC" data-end-date="undefined">Bergerac - EGC, France</option><option value="TXL" data-end-date="undefined">Berlin - Tegel - TXL, Germany</option><option value="BIQ" data-end-date="undefined">Biarritz - BIQ, France</option><option value="BHX" data-end-date="undefined">Birmingham - BHX, United Kingdom</option><option value="BOD" data-end-date="undefined">Bordeaux - BOD, France</option><option value="BOH" data-end-date="undefined">Bournemouth - BOH, United Kingdom</option><option value="BES" data-end-date="undefined">Brest Brittany - BES, France</option><option value="BUD" data-end-date="undefined">Budapest - BUD, Hungary</option><option value="CFR" data-end-date="undefined">Caen - Normandy - CFR, France</option><option value="CAL" data-end-date="undefined">Campbeltown - CAL, United Kingdom</option><option value="CWL" data-end-date="undefined">Cardiff - CWL, United Kingdom</option><option value="CMF" data-end-date="undefined">Chambery - CMF, France</option><option value="CGN" data-end-date="undefined">Cologne - CGN, Germany</option><option value="ORK" data-end-date="undefined">Cork - ORK, Ireland</option><option value="DOL" data-end-date="undefined">Deauville - Normandy - DOL, France</option><option value="DSA" data-end-date="undefined">Doncaster Sheffield - DSA, United Kingdom</option><option value="DUB" data-end-date="undefined">Dublin - DUB, Ireland</option><option value="DND" data-end-date="undefined">Dundee - DND, United Kingdom</option><option value="MME" data-end-date="undefined">Durham Tees Valley - MME, United Kingdom</option><option value="DUS" data-end-date="undefined">Dusseldorf - DUS, Germany</option><option value="EMA" data-end-date="undefined">East Midlands - EMA, United Kingdom</option><option value="EDI" data-end-date="undefined">Edinburgh - EDI, United Kingdom</option><option value="ENF" data-end-date="undefined">Enontekio - ENF, Finland</option><option value="EXT" data-end-date="undefined">Exeter - EXT, United Kingdom</option><option value="FAO" data-end-date="undefined">Faro - FAO, Portugal</option><option value="FLR" data-end-date="undefined">Florence - FLR, Italy</option><option value="GVA" data-end-date="undefined">Geneva - GVA, Switzerland</option><option value="GLA" data-end-date="undefined">Glasgow Intl. - GLA, United Kingdom</option><option value="GNB" data-end-date="undefined">Grenoble - GNB, France</option><option value="GRQ" data-end-date="undefined">Groningen - GRQ, Netherlands</option><option value="GCI" data-end-date="undefined">Guernsey - GCI, United Kingdom</option><option value="HAM" data-end-date="undefined">Hamburg - HAM, Germany</option><option value="HAJ" data-end-date="undefined">Hannover - HAJ, Germany</option><option value="HEL" data-end-date="undefined">Helsinki-Vantaa - HEL, Finland</option><option value="HUY" data-end-date="undefined">Humberside - HUY, United Kingdom</option><option value="INV" data-end-date="undefined">Inverness - INV, United Kingdom</option><option value="ILY" data-end-date="undefined">Islay - ILY, United Kingdom</option><option value="IOM" data-end-date="undefined">Isle of Man - IOM, United Kingdom</option><option value="JER" data-end-date="undefined">Jersey - JER, United Kingdom</option><option value="JYV" data-end-date="undefined">Jyvaskyla - JYV, Finland</option><option value="KAJ" data-end-date="undefined">Kajaani - KAJ, Finland</option><option value="KEM" data-end-date="undefined">Kemi-Tornio - KEM, Finland</option><option value="KOI" data-end-date="undefined">Kirkwall - KOI, United Kingdom</option><option value="NOC" data-end-date="undefined">Knock - Ireland West - NOC, Ireland</option><option value="KOK" data-end-date="undefined">Kokkola-Pietarsaari - KOK, Finland</option><option value="LRH" data-end-date="undefined">La Rochelle - LRH, France</option><option value="LBA" data-end-date="undefined">Leeds Bradford - LBA, United Kingdom</option><option value="LIG" data-end-date="undefined">Limoges - LIG, France</option><option value="LPL" data-end-date="undefined">Liverpool - LPL, United Kingdom</option><option value="LCY" data-end-date="undefined">London City - LCY, United Kingdom</option><option value="LGW" data-end-date="undefined">London Gatwick - LGW, United Kingdom</option><option value="SEN" data-end-date="undefined">London Southend - SEN, United Kingdom</option><option value="STN" data-end-date="undefined">London Stansted - STN, United Kingdom</option><option value="LYS" data-end-date="undefined">Lyon - LYS, France</option><option value="MAD" data-end-date="undefined">Madrid - MAD, Spain</option><option value="AGP" data-end-date="undefined">Malaga - AGP, Spain</option><option value="MAN" data-end-date="undefined">Manchester - MAN, United Kingdom</option><option value="MHQ" data-end-date="undefined">Mariehamn - MHQ, Finland</option><option value="MXP" data-end-date="undefined">Milan Malpensa - MXP, Italy</option><option value="MUC" data-end-date="undefined">Munich - MUC, Germany</option><option value="FMO" data-end-date="undefined">Munster Osnabruck - FMO, Germany</option><option value="NTE" data-end-date="undefined">Nantes - NTE, France</option><option value="NCL" data-end-date="undefined">Newcastle - NCL, United Kingdom</option><option value="NQY" data-end-date="undefined">Newquay - NQY, United Kingdom</option><option value="NCE" data-end-date="undefined">Nice - NCE, France</option><option value="NRK" data-end-date="undefined">Norrkoping - NRK, Sweden</option><option value="NWI" data-end-date="undefined">Norwich - NWI, United Kingdom</option><option value="NUE" data-end-date="undefined">Nuremburg - NUE, Germany</option><option value="OSL" data-end-date="undefined">Oslo - OSL, Norway</option><option value="PMI" data-end-date="undefined">Palma Mallorca - PMI, Spain</option><option value="CDG" data-end-date="undefined">Paris CDG - CDG, France</option><option value="ORY" data-end-date="undefined">Paris Orly Ouest - ORY, France</option><option value="PGF" data-end-date="undefined">Perpignan - PGF, France</option><option value="OPO" data-end-date="undefined">Porto - OPO, Portugal</option><option value="PRG" data-end-date="undefined">Prague - PRG, Czech Republic</option><option value="RNS" data-end-date="undefined">Rennes - RNS, France</option><option value="KEF" data-end-date="undefined">Reykjavik - KEF, Iceland</option><option value="SZG" data-end-date="undefined">Salzburg - SZG, Austria</option><option value="SOF" data-end-date="undefined">Sofia - SOF, Bulgaria</option><option value="SOU" data-end-date="undefined">Southampton - SOU, United Kingdom</option><option value="SYY" data-end-date="undefined">Stornoway - SYY, United Kingdom</option><option value="STR" data-end-date="undefined">Stuttgart - STR, Germany</option><option value="LSI" data-end-date="undefined">Sumburgh - LSI, United Kingdom</option><option value="TAY" data-end-date="undefined">Tartu - TAY, Estonia</option><option value="TRE" data-end-date="undefined">Tiree - TRE, United Kingdom</option><option value="TLN" data-end-date="undefined">Toulon Cote d'azur - TLN, France</option><option value="TLS" data-end-date="undefined">Toulouse - TLS, France</option><option value="VRN" data-end-date="undefined">Verona - VRN, Italy</option><option value="VIE" data-end-date="undefined">Vienna - VIE, Austria</option><option value="VBY" data-end-date="undefined">Visby - VBY, Sweden</option><option value="WAW" data-end-date="undefined">Warsaw - WAW, Poland</option><option value="WAT" data-end-date="undefined">Waterford - WAT, Ireland</option><option value="WIC" data-end-date="undefined">Wick- John O Groats - WIC, United Kingdom</option><option value="ZAG" data-end-date="undefined">Zagreb - ZAG, Croatia</option><option value="ZRH" data-end-date="undefined">Zurich - ZRH, Switzerland</option></select><div class="chosen-container chosen-container-single" style="width: 328px;" title="" id="flightFrom_chosen"><a class="chosen-single chosen-default" tabindex="-1"><span> </span><div><b></b></div></a><div class="chosen-drop"><div class="chosen-search"><input type="text" autocomplete="off" tabindex="1"></div><ul class="chosen-results"></ul></div></div>
-                                            </div>
-
-                                            <div class="flight-dropdown">
-                                                <label id="flight-to-label">Flight to</label>
-                                                <select name="flightSearchCriteria.arrivalAirport" id="flightTo" data-placeholder=" " class="chosen-select" tabindex="-1" style="position: absolute; left: -1000px; top: -1000px;"><option value=""></option></select><div class="chosen-container chosen-container-single" style="width: 328px;" title="" id="flightTo_chosen"><a class="chosen-single chosen-default" tabindex="-1"><span> </span><div><b></b></div></a><div class="chosen-drop"><div class="chosen-search"><input type="text" autocomplete="off" tabindex="2"></div><ul class="chosen-results"></ul></div></div>
-                                            </div>
-
-                                            <div class="section group date-inputs">
-                                                <div class="depart-select date-container"> 
-                                                    <span id="calendarOutboundTrigger"> 
-                                                        <label for="departureDate">Depart<i class="fa fa-calendar"></i></label>
-                                                        <input type="text" class="datePicker1 hasDatepicker" id="departureDate" value="" aria-labelledby="describe-outbound-date" tabindex="5" autocomplete="off" onpaste="return false;">
-                                                        <!-- actually date sent to the server -->
-                                                        <input type="hidden" id="depart-date-alt" name="flightSearchCriteria.departureDate">
-                                                    </span> 
-                                                </div>
-
-                                                <div class="depart-return date-container"> 
-                                                    <span id="calendarReturnTrigger">
-                                                        <label for="returnDate">Return <i class="fa fa-calendar"></i></label>
-                                                        <input type="text" class="datePicker1 hasDatepicker" id="returnDate" value="" aria-labelledby="describe-return-date" tabindex="6" autocomplete="off" onpaste="return false;">
-                                                        <!-- actually date sent to the server -->
-                                                        <input type="hidden" id="return-date-alt" name="flightSearchCriteria.returnDate">
-                                                    </span> 
-                                                </div>
-                                            </div>
-
-                                            <div class="section group" id="pax-container">
-                                                <div id="js-adult-button">
-                                                    <div id="pax-display"> 1 Adult </div><i class="fa fa-sort-desc pax-dropdown"></i>
-                                                </div>
-                                                <div id="pax-selector" class="menu-shadow start-hidden">
-                                                    <div class="pax-close-button">
-                                                        <i class="fa fa-times"></i>
-                                                    </div>
-                                                    <div class="pax-steppers">
-                                                        <div class="pax-col" id="adultStepper">
-                                                            <div class="up pax-stepper" id="js-adult-up"><i class="fa fa-plus"></i></div>
-                                                            <div class="people-select">
-                                                                <input name="flightSearchCriteria.numberOfAdults" type="text" id="inputAdults" value="1" class="intInput pax-input " title="Number of adults">
-                                                                <label for="inputAdults">Adults <span class="age-display">(12 +)</span></label>
-                                                            </div>
-                                                            <div class="down pax-stepper disabled" id="js-adult-down"><i class="fa fa-minus"></i></div>
-                                                        </div>
-                                                        <div class="pax-col" id="childStepper">
-                                                            <div class="up pax-stepper" id="js-child-up"><i class="fa fa-plus"></i></div>
-                                                            <div class="people-select">
-                                                                <input name="flightSearchCriteria.numberOfChildren" type="text" id="inputChildren" value="0" class="intInput pax-input" title="Number of children">
-                                                                <label for="inputChildren">Children <span class="age-display">(2-11)</span></label>
-                                                            </div>
-                                                            <div class="down pax-stepper disabled" id="js-child-down"><i class="fa fa-minus"></i></div>
-                                                        </div>
-                                                        <div class="pax-col" id="infantsStepper">
-                                                            <div class="up pax-stepper" id="js-infant-up"><i class="fa fa-plus"></i></div>
-                                                            <div class="people-select">
-                                                                <input name="flightSearchCriteria.numberOfInfants" type="text" id="inputInfants" value="0" class="intInput pax-input" title="Number of infants">
-                                                                <label for="inputInfants">Infants <span class="age-display">(0 &lt; 2)</span></label>
-                                                            </div>
-                                                            <div class="down pax-stepper disabled" id="js-infant-down"><i class="fa fa-minus"></i></div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="has-error small-error" id="js-pax-error">
-                                                        <div class="error-groupBooking start-hidden">
-                                                            Booking for 9 or more passengers? Visit our <a href="/groups/">groups page</a>.
-                                                        </div> 
-                                                        <div class="error-unaccompaniedChild start-hidden">
-                                                            Trying to book for an unaccompanied child? Visit our <a href="/children-and-infants/">Children and Infants Page</a>.<br>
-                                                            <hr>
-                                                            <div style="text-align:left;">
-                                                                Please note:<br>
-                                                                When not travelling with an adult of at least 16 years of age, some children can be carried under the Unaccompanied Minor Scheme* on flybe operated flights.<br>
-                                                                <br>
-                                                               <div class="start-hidden" id="umfrance">The Flybe Unaccompanied Minor Scheme* is not available to children under 15 years of age on flights operated by Air France. These must be booked directly with Air France.* <br></div>
-                                                          
-                                                              <div id="umknock">The Flybe Unaccompanied Minor Scheme* is not available on  flights operated to and through Knock - Ireland West (NOC).<br></div>
-                                                                
-                                                                <a class="pointer" id="umhelp-button">Need more help?</a>
-                                                              <div class="start-hidden" id="umhelp">  If in doubt please contact the Flybe call centre for further advice on 0371 700 2000 (or 00 44 1392 683152 if calling from outside the UK. From the UK, calls to 03 numbers cost the same as calling 01 and 02 numbers and count towards inclusive allowances on land lines and mobiles. From abroad, calls to 03 numbers  are charged at international rates.</div>
-                                                              <br>
-                                                                <br>
-                                                                *Charges Apply 
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                            <div class="promo-container">
-                                                <label id="add-promo"><i class="fa fa-plus"></i> Promo code </label>
-                                                <input type="text" name="flightSearchCriteria.promoVoucherCode" id="inputPromoCode" value="" title="Promo code" class="start-hidden" maxlength="15">
-                                            </div>
-
-                                            <div class="flight-search-errors"></div>
-
-                                            <div class="section group">
-                                                <button type="submit" id="flight-search-button" class="mvtflightsearch">Find Flights</button>
-                                            </div>
-
-                                        </fieldset>
-                                    </form>
-                                </div>
-                                <!--END:flight tab-->
-                            </div>
-
-                            <!--START:checkin tab-->
-                            <div data-tab="2" class="tab checkin-tab" style="display:none;">
-                                <form id="checkin-widget" name="findBookingForm" method="post" action="https://web.archive.org/cam/findBooking.do">
-                                    <ul>
-                                        <li>
-                                            <input type="hidden" name="__formTokenKey" value="">
-                                            <input type="hidden" name="isRetrieved" value="true">
-                                            <input type="hidden" name="target" value="o">
-                                            <input type="hidden" name="action" class="js-redirect" value="">
+                            <div id="search-widget-container">
+                            <div class="container-fluid">
+                                <div role="tabpanel">
+                                    <!-- Nav tabs -->
+                                    <ul class="widget-tabs" role="tablist">
+                                        <li role="presentation" class="active">
+                                            <a href="#search-tab" aria-controls="search-tab" role="tab" data-toggle="tab">Find flights</a>
                                         </li>
-                                        <li>
-                                            <div>
-                                                <label for="label-booking-ref">Booking reference</label>
-                                                <input id="label-booking-ref" type="text" class="pnrLocator textBox js-booking-ref upper-case" name="pnrLocator" maxlength="6" size="8" value=""> 
-                                                <div class="error-feedback js-booking-ref-error" style="display:none;">
-                                                    <i class="fa fa-times error-cross"></i>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div>
-                                                <label for="label-forename">Forename</label>
-                                                <input id="label-forename" type="text" class="forename textBox js-forename" name="forename" maxlength="55" size="8" value="">
-                                                <div class="error-feedback js-forename-error" style="display:none;">
-                                                    <i class="fa fa-times error-cross"></i>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li> 
-                                            <div>
-                                                <label for="label-surname">Surname</label>
-                                                <input id="label-surname" type="text" class="surname textBox js-surname" name="surname" maxlength="25" size="8" value="">
-                                                <div class="error-feedback js-surname-error" style="display:none;">
-                                                    <i class="fa fa-times error-cross"></i>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <button type="submit" class="btn js-submit">Check-in</button>
+                                        <li role="presentation">
+                                            <a href="#checkin-tab" aria-controls="checkin-tab" role="tab" data-toggle="tab">Check-in</a>
                                         </li>
                                     </ul>
-                                </form>
+                                    <!-- Tab panes -->
+                                    <div class="tab-content clearfix">
+                                        <div role="tabpanel" class="tab-pane active" id="search-tab">
+                                            <form id="flightSearchCriteria" method="get" action="https://web.archive.org/web-app/index.html">
+                                                <input type="hidden" name="flightSearchCriteria.flexibleWithDates" id="flexibleWithDates" value="False">
+                                                <input type="hidden" id="returnFlight" name="singleOrReturn" value="">
+                                                <div class="row">
+                                                    <div class="col-xs-12">
+                                                        <label id="flight-from-label">Flight from</label>
+                                                        <select name="flightSearchCriteria.departureAirport" id="flight-from" data-placeholder=" " class="chosen-select dotted-form-field" tabindex="-1" style="position: absolute; left: -1000px; top: -1000px;"><option value=""></option><option value="ABZ">Aberdeen - ABZ, United Kingdom</option><option value="ALC">Alicante - ALC, Spain</option><option value="AMS">Amsterdam - AMS, Netherlands</option><option value="BRR">Barra - BRR, United Kingdom</option><option value="BIA">Bastia - Corsica - BIA, France</option><option value="BHD">Belfast City - BHD, United Kingdom</option><option value="BEB">Benbecula - BEB, United Kingdom</option><option value="EGC">Bergerac - EGC, France</option><option value="TXL">Berlin - Tegel - TXL, Germany</option><option value="BHX">Birmingham - BHX, United Kingdom</option><option value="BOD">Bordeaux - BOD, France</option><option value="BES">Brest Brittany - BES, France</option><option value="BRS">Bristol - BRS, United Kingdom</option><option value="BUD">Budapest - BUD, Hungary</option><option value="CFR">Caen - Normandy - CFR, France</option><option value="CAL">Campbeltown - CAL, United Kingdom</option><option value="CWL">Cardiff - CWL, United Kingdom</option><option value="CMF">Chambery - CMF, France</option><option value="ORK">Cork - ORK, Ireland</option><option value="DSA">Doncaster Sheffield - DSA, United Kingdom</option><option value="DUB">Dublin - DUB, Ireland</option><option value="DND">Dundee - DND, United Kingdom</option><option value="MME">Durham Tees Valley - MME, United Kingdom</option><option value="DUS">Dusseldorf - DUS, Germany</option><option value="EMA">East Midlands - EMA, United Kingdom</option><option value="EDI">Edinburgh - EDI, United Kingdom</option><option value="EXT">Exeter - EXT, United Kingdom</option><option value="FAO">Faro - FAO, Portugal</option><option value="GVA">Geneva - GVA, Switzerland</option><option value="GLA">Glasgow Intl. - GLA, United Kingdom</option><option value="GRQ">Groningen - GRQ, Netherlands</option><option value="GCI">Guernsey - GCI, United Kingdom</option><option value="HAJ">Hannover - HAJ, Germany</option><option value="HUY">Humberside - HUY, United Kingdom</option><option value="INN">Innsbruck - INN, Austria</option><option value="INV">Inverness - INV, United Kingdom</option><option value="ILY">Islay - ILY, United Kingdom</option><option value="IOM">Isle of Man - IOM, United Kingdom</option><option value="JER">Jersey - JER, United Kingdom</option><option value="KOI">Kirkwall - KOI, United Kingdom</option><option value="NOC">Knock - Ireland West - NOC, Ireland</option><option value="LRH">La Rochelle - LRH, France</option><option value="LBA">Leeds Bradford - LBA, United Kingdom</option><option value="LIG">Limoges - LIG, France</option><option value="LPL">Liverpool - LPL, United Kingdom</option><option value="LCY">London City - LCY, United Kingdom</option><option value="LGW">London Gatwick - LGW, United Kingdom</option><option value="SEN">London Southend - SEN, United Kingdom</option><option value="STN">London Stansted - STN, United Kingdom</option><option value="LUX">Luxembourg - LUX, Luxembourg</option><option value="LYS">Lyon - LYS, France</option><option value="MAD">Madrid - MAD, Spain</option><option value="AGP">Malaga - AGP, Spain</option><option value="MAN">Manchester - MAN, United Kingdom</option><option value="MXP">Milan Malpensa - MXP, Italy</option><option value="MUC">Munich - MUC, Germany</option><option value="NTE">Nantes - NTE, France</option><option value="NCL">Newcastle - NCL, United Kingdom</option><option value="NQY">Newquay - NQY, United Kingdom</option><option value="NCE">Nice - NCE, France</option><option value="NWI">Norwich - NWI, United Kingdom</option><option value="NUE">Nuremburg - NUE, Germany</option><option value="PMI">Palma Mallorca - PMI, Spain</option><option value="CDG">Paris CDG - CDG, France</option><option value="ORY">Paris Orly Ouest - ORY, France</option><option value="PGF">Perpignan - PGF, France</option><option value="PRG">Prague - PRG, Czech Republic</option><option value="RNS">Rennes - RNS, France</option><option value="FCO">Rome -  Fiumicino - FCO, Italy</option><option value="RTM">Rotterdam The Hague - RTM, Netherlands</option><option value="SOF">Sofia - SOF, Bulgaria</option><option value="SOU">Southampton - SOU, United Kingdom</option><option value="SYY">Stornoway - SYY, United Kingdom</option><option value="STR">Stuttgart - STR, Germany</option><option value="LSI">Sumburgh - LSI, United Kingdom</option><option value="TRE">Tiree - TRE, United Kingdom</option><option value="TLN">Toulon Cote d'azur - TLN, France</option><option value="TLS">Toulouse - TLS, France</option><option value="VRN">Verona - VRN, Italy</option><option value="VIE">Vienna - VIE, Austria</option><option value="WAW">Warsaw - WAW, Poland</option><option value="WIC">Wick- John O Groats - WIC, United Kingdom</option><option value="ZAG">Zagreb - ZAG, Croatia</option><option value="ZRH">Zurich - ZRH, Switzerland</option></select><div class="chosen-container chosen-container-single" style="width: 100%;" title="" id="flight_from_chosen"><a class="chosen-single chosen-default" tabindex="-1"><span> </span><div><b></b></div></a><div class="chosen-drop"><div class="chosen-search"><input type="text" autocomplete="off" tabindex="1" placeholder="Enter Airport or City"></div><ul class="chosen-results"></ul></div></div>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xs-12">
+                                                        <label id="flight-to-label">Flight to</label>
+                                                        <select name="flightSearchCriteria.arrivalAirport" id="flight-to" data-placeholder=" " class="chosen-select dotted-form-field" tabindex="-1" style="position: absolute; left: -1000px; top: -1000px;"><option value=""></option><option value="ABZ">Aberdeen - ABZ, United Kingdom</option><option value="ALC">Alicante - ALC, Spain</option><option value="AMS">Amsterdam - AMS, Netherlands</option><option value="BRR">Barra - BRR, United Kingdom</option><option value="BIA">Bastia - Corsica - BIA, France</option><option value="BHD">Belfast City - BHD, United Kingdom</option><option value="BEB">Benbecula - BEB, United Kingdom</option><option value="EGC">Bergerac - EGC, France</option><option value="TXL">Berlin - Tegel - TXL, Germany</option><option value="BHX">Birmingham - BHX, United Kingdom</option><option value="BOD">Bordeaux - BOD, France</option><option value="BES">Brest Brittany - BES, France</option><option value="BRS">Bristol - BRS, United Kingdom</option><option value="BUD">Budapest - BUD, Hungary</option><option value="CFR">Caen - Normandy - CFR, France</option><option value="CAL">Campbeltown - CAL, United Kingdom</option><option value="CWL">Cardiff - CWL, United Kingdom</option><option value="CMF">Chambery - CMF, France</option><option value="ORK">Cork - ORK, Ireland</option><option value="DSA">Doncaster Sheffield - DSA, United Kingdom</option><option value="DUB">Dublin - DUB, Ireland</option><option value="DND">Dundee - DND, United Kingdom</option><option value="MME">Durham Tees Valley - MME, United Kingdom</option><option value="DUS">Dusseldorf - DUS, Germany</option><option value="EMA">East Midlands - EMA, United Kingdom</option><option value="EDI">Edinburgh - EDI, United Kingdom</option><option value="EXT">Exeter - EXT, United Kingdom</option><option value="FAO">Faro - FAO, Portugal</option><option value="GVA">Geneva - GVA, Switzerland</option><option value="GLA">Glasgow Intl. - GLA, United Kingdom</option><option value="GRQ">Groningen - GRQ, Netherlands</option><option value="GCI">Guernsey - GCI, United Kingdom</option><option value="HAJ">Hannover - HAJ, Germany</option><option value="HUY">Humberside - HUY, United Kingdom</option><option value="INN">Innsbruck - INN, Austria</option><option value="INV">Inverness - INV, United Kingdom</option><option value="ILY">Islay - ILY, United Kingdom</option><option value="IOM">Isle of Man - IOM, United Kingdom</option><option value="JER">Jersey - JER, United Kingdom</option><option value="KOI">Kirkwall - KOI, United Kingdom</option><option value="NOC">Knock - Ireland West - NOC, Ireland</option><option value="LRH">La Rochelle - LRH, France</option><option value="LBA">Leeds Bradford - LBA, United Kingdom</option><option value="LIG">Limoges - LIG, France</option><option value="LPL">Liverpool - LPL, United Kingdom</option><option value="LCY">London City - LCY, United Kingdom</option><option value="LGW">London Gatwick - LGW, United Kingdom</option><option value="SEN">London Southend - SEN, United Kingdom</option><option value="STN">London Stansted - STN, United Kingdom</option><option value="LUX">Luxembourg - LUX, Luxembourg</option><option value="LYS">Lyon - LYS, France</option><option value="MAD">Madrid - MAD, Spain</option><option value="AGP">Malaga - AGP, Spain</option><option value="MAN">Manchester - MAN, United Kingdom</option><option value="MXP">Milan Malpensa - MXP, Italy</option><option value="MUC">Munich - MUC, Germany</option><option value="NTE">Nantes - NTE, France</option><option value="NCL">Newcastle - NCL, United Kingdom</option><option value="NQY">Newquay - NQY, United Kingdom</option><option value="NCE">Nice - NCE, France</option><option value="NWI">Norwich - NWI, United Kingdom</option><option value="NUE">Nuremburg - NUE, Germany</option><option value="PMI">Palma Mallorca - PMI, Spain</option><option value="CDG">Paris CDG - CDG, France</option><option value="ORY">Paris Orly Ouest - ORY, France</option><option value="PGF">Perpignan - PGF, France</option><option value="PRG">Prague - PRG, Czech Republic</option><option value="RNS">Rennes - RNS, France</option><option value="FCO">Rome -  Fiumicino - FCO, Italy</option><option value="RTM">Rotterdam The Hague - RTM, Netherlands</option><option value="SOF">Sofia - SOF, Bulgaria</option><option value="SOU">Southampton - SOU, United Kingdom</option><option value="SYY">Stornoway - SYY, United Kingdom</option><option value="STR">Stuttgart - STR, Germany</option><option value="LSI">Sumburgh - LSI, United Kingdom</option><option value="TRE">Tiree - TRE, United Kingdom</option><option value="TLN">Toulon Cote d'azur - TLN, France</option><option value="TLS">Toulouse - TLS, France</option><option value="VRN">Verona - VRN, Italy</option><option value="VIE">Vienna - VIE, Austria</option><option value="WAW">Warsaw - WAW, Poland</option><option value="WIC">Wick- John O Groats - WIC, United Kingdom</option><option value="ZAG">Zagreb - ZAG, Croatia</option><option value="ZRH">Zurich - ZRH, Switzerland</option></select><div class="chosen-container chosen-container-single" style="width: 100%;" title="" id="flight_to_chosen"><a class="chosen-single chosen-default" tabindex="-1"><span> </span><div><b></b></div></a><div class="chosen-drop"><div class="chosen-search"><input type="text" autocomplete="off" tabindex="2" placeholder="Enter Airport or City"></div><ul class="chosen-results"></ul></div></div>
+                                                    </div>
+                                                </div>
+                                                <div class="row date-picker-container">
+                                                    <div class="col-xs-6">
+                                                        <label for="departureDate">Depart<span class="glyphicon glyphicon-calendar"></span></label>
+                                                        <input type="text" class="datePicker1 dotted-form-field pointer hasDatepicker" id="departureDate" value="" aria-labelledby="describe-outbound-date" tabindex="5" autocomplete="off" onpaste="return false;" readonly="">
+                                                        <!-- actual date sent to the server -->
+                                                        <input type="hidden" id="depart-date-alt" name="flightSearchCriteria.departureDate">
+                                                    </div>
+                                                    <div class="col-xs-6">
+                                                        <label for="returnDate">Return <span class="glyphicon glyphicon-calendar"></span></label>
+                                                        <input type="text" class="datePicker1 dotted-form-field pointer hasDatepicker" id="returnDate" value="" aria-labelledby="describe-return-date" tabindex="6" style="border: 1px solid b" autocomplete="off" onpaste="return false;" readonly="">
+                                                        <!-- actual date sent to the server -->
+                                                        <input type="hidden" id="return-date-alt" name="flightSearchCriteria.returnDate">
+                                                    </div>
+                                                </div>
+                                                <div class="row pax-container">
+                                                    <div class="col-xs-12">
+                                                        <div id="js-adult-button">
+                                                            <div id="pax-display" class="dotted-form-field pointer">
+                                                                <span class="js-pax-string">1 Adult</span>&nbsp;
+                                                                <span class="glyphicon glyphicon-triangle-bottom"></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pax-selector menu-shadow start-hidden row">
+                                                            <div class="clearfix">
+                                                                <h3>Select passengers</h3>
+                                                                <div class="pax-close-button btn btn-default" title="close">
+                                                                    <span class="glyphicon glyphicon-remove"></span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="pax-steppers">
+                                                                <div class="pax-col adultStepper col-xs-3">
+                                                                    <label for="inputAdults">
+                                                                        Adults
+                                                                    </label>
+                                                                    <button type="button" class="btn btn-default up pax-stepper js-adult-up">
+                                                                        <span class="glyphicon glyphicon-plus"></span>
+                                                                    </button>
+                                                                    <input name="flightSearchCriteria.numberOfAdults" type="text" value="1" class="inputAdults intInput pax-input " title="Number of adults">
+                                                                    <button type="button" class="btn btn-default down pax-stepper disabled js-adult-down">
+                                                                        <span class="glyphicon glyphicon-minus"></span>
+                                                                    </button>
+                                                                    <label for="inputAdults">
+                                                                        <span class="age-display">(16&nbsp;+)</span>
+                                                                    </label>
+                                                                </div>
+                                                                <div class="pax-col teenStepper col-xs-3">
+                                                                    <label for="inputTeens">
+                                                                        Teens
+                                                                    </label>
+                                                                    <button type="button" class="btn btn-default up pax-stepper js-teen-up">
+                                                                        <span class="glyphicon glyphicon-plus"></span>
+                                                                    </button>
+                                                                    <input name="flightSearchCriteria.numberOfTeens" type="text" value="0" class="inputTeens intInput pax-input " title="Number of Teens">
+                                                                    <button type="button" class="btn btn-default down pax-stepper disabled js-teen-down">
+                                                                        <span class="glyphicon glyphicon-minus"></span>
+                                                                    </button>
+                                                                    <label for="inputTeens">
+                                                                        <span class="age-display">(12&nbsp;-&nbsp;15)</span>
+                                                                    </label>
+                                                                </div>
+                                                                <div class="pax-col childStepper col-xs-3">
+                                                                    <label for="inputChildren">
+                                                                        Children
+                                                                    </label>
+                                                                    <button type="button" class="btn btn-default up pax-stepper js-child-up">
+                                                                        <span class="glyphicon glyphicon-plus"></span>
+                                                                    </button>
+                                                                    <input name="flightSearchCriteria.numberOfChildren" type="text" value="0" class="inputChildren intInput pax-input" title="Number of children">
+                                                                    <button type="button" class="btn btn-default down pax-stepper disabled js-child-down">
+                                                                        <span class="glyphicon glyphicon-minus"></span>
+                                                                    </button>
+                                                                    <label for="inputChildren">
+                                                                        <span class="age-display">(2&nbsp;-&nbsp;11)</span>
+                                                                    </label>
+                                                                </div>
+                                                                <div class="pax-col infantsStepper col-xs-3">
+                                                                    <label for="inputInfants">
+                                                                        Infants
+                                                                    </label>
+                                                                    <button type="button" class="btn btn-default up pax-stepper js-infant-up">
+                                                                        <span class="glyphicon glyphicon-plus"></span>
+                                                                    </button>
+                                                                    <input name="flightSearchCriteria.numberOfInfants" type="text" value="0" class="inputInfants intInput pax-input" title="Number of infants">
+                                                                    <button type="button" class="btn btn-default down pax-stepper disabled js-infant-down">
+                                                                        <span class="glyphicon glyphicon-minus"></span>
+                                                                    </button>
+                                                                    <label for="inputInfants">
+                                                                        <span class="age-display">(0&nbsp;&lt;&nbsp;2)</span>
+                                                                    </label>
+                                                                </div>
+                                                            </div>
+                                                            <div class="has-error small-error" id="js-pax-error">
+                                                                <div class="error-groupBooking start-hidden">
+                                                                    Booking for 9 or more passengers? Visit our <a href="/groups/">groups page</a>.
+                                                                </div>
+                                                                <div class="teenItaly start-hidden">Teens cannot fly unaccompanied on flights to or from Italy.
+                                                                    <br>
+                                                                    <br>
+                                                                </div>
+                                                                <div class="error-unaccompaniedChild start-hidden">
+                                                                    Trying to book for an unaccompanied child? Visit our <a href="/children-and-infants/">Children and Infants Page</a>.
+                                                                    <br>
+                                                                    <hr>
+                                                                    <div style="text-align:left;">
+                                                                        Please note:
+                                                                        <br> When not travelling with an adult of at least 16 years of age, some children can be carried under the Unaccompanied Minor Scheme* on flybe operated flights.
+                                                                        <br>
+                                                                        <br>
+                                                                        <div class="start-hidden" id="umfrance">The Flybe Unaccompanied Minor Scheme* is not available to children under 15 years of age on flights operated by Air France and subsidiaries Hop Regional/City Jet. These must be booked directly with the operating airline.*
+                                                                            <br>
+                                                                        </div>
+                                                                        <div id="umknock" class="start-hidden">The Flybe Unaccompanied Minor Scheme* is not available on flights operated to and through Knock - Ireland West (NOC).</div>
+                                                                        <a class="pointer" id="umhelp-button">Need more help?</a>
+                                                                        <div class="start-hidden" id="umhelp"> If in doubt please contact the Flybe call centre for further advice on 0371 700 2000 (or 00 44 1392 683152 if calling from outside the UK. From the UK, calls to 03 numbers cost the same as calling 01 and 02 numbers and count towards inclusive allowances on land lines and mobiles. From abroad, calls to 03 numbers are charged at international rates.</div>
+                                                                        <br>
+                                                                        <br> *Charges Apply
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xs-12">
+                                                        <label class="js-add-promo promo-label"><span class="glyphicon glyphicon-plus"></span> Promo code </label>
+                                                        <input type="text" name="flightSearchCriteria.promoVoucherCode" value="" title="Promo code" class="inputPromoCode start-hidden dotted-form-field" maxlength="15">
+                                                    </div>
+                                                </div>
+                                                <div class="flight-search-errors alert alert-danger start-hidden"></div>
+                                                <button type="submit" class="submit-button" id="flight-search-button">Find Flights</button>
+                                            </form>
+                                        </div>
+                                        <!-- /#search-tab -->
+                                        <div role="tabpanel" class="tab-pane" id="checkin-tab">
+                                            <form class="checkin-widget" name="findBookingForm" method="get" action="https://web.archive.org/web-app/check-in.php">
+                                                <input type="hidden" name="__formTokenKey" value="">
+                                                <input type="hidden" name="isRetrieved" value="true">
+                                                <input type="hidden" name="target" value="o">
+                                                <input type="hidden" name="action" class="js-redirect" value="">
+                                                <div class="row">
+                                                    <div class="col-xs-12">
+                                                        <label for="label-booking-ref">
+                                                            Booking reference
+                                                            <div class="error-feedback js-booking-ref-error" style="display:none;">
+                                                                <i class="glyphicon glyphicon-remove error-cross"></i>
+                                                            </div>
+                                                        </label>
+                                                        <input id="label-booking-ref" type="text" class="pnrLocator dotted-form-field js-booking-ref upper-case" name="pnrLocator" maxlength="6" size="8" value="">
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xs-12">
+                                                        <label for="label-forename">
+                                                            Forename
+                                                            <div class="error-feedback js-forename-error" style="display:none;">
+                                                                <i class="glyphicon glyphicon-remove error-cross"></i>
+                                                            </div>
+                                                        </label>
+                                                        <input id="label-forename" type="text" class="forename dotted-form-field js-forename" name="forename" maxlength="25" size="8" value="">
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xs-12">
+                                                        <label for="label-surname">
+                                                            Surname
+                                                            <div class="error-feedback js-surname-error" style="display:none;">
+                                                                <i class="glyphicon glyphicon-remove error-cross"></i>
+                                                            </div>
+                                                        </label>
+                                                        <input id="label-surname" type="text" class="surname dotted-form-field js-surname" name="surname" maxlength="25" size="8" value="">
+                                                    </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-xs-12">
+                                                        <button type="submit" class="submit-button js-submit">Check-in</button>
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </div>
+                                        <!-- /#checkin-tab -->
+                                    </div>
+                                    <!-- /.tab-content -->
+                                </div>
+                                <!-- /role=tabpanel -->
                             </div>
-                            <!--END:checkin tab-->
-
-                            </div>
+                            <!-- /.container-fluid -->
+                        </div>
                         </div>
                         <!--END:fltwgwrap-->
                         
@@ -647,7 +709,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--START:Cheap Flight Section-->
         <section id="cheapsection" class="cheap-flights">
             <div class="container">
-                <!--[## page-footer.cheap-flights.HTML ##]--><h2 class="title" style="font-size: 200%;"><a href="/cheap-flights/">cheap flight destinations A – Z</a></h2><div class="section group"><ul class="col span_2_of_12"><li><a href="/cheap-flights/aberdeen/">Aberdeen</a></li><li><a href="/cheap-flights/alicante/">Alicante</a></li><li><a href="/cheap-flights/amsterdam/">Amsterdam</a></li><li><a href="/cheap-flights/avignon/">Avignon</a></li><li><a href="/cheap-flights/barra/">Barra</a></li><li><a href="/cheap-flights/belfast/">Belfast</a></li><li><a href="/cheap-flights/benbecula/">Benbecula</a></li><li><a href="/cheap-flights/bergen/">Bergen</a></li><li><a href="/cheap-flights/bergerac/">Bergerac</a></li><li><a href="/cheap-flights/berlin/">Berlin</a></li><li><a href="/cheap-flights/biarritz/">Biarritz</a></li><li><a href="/cheap-flights/birmingham/">Birmingham</a></li><li><a href="/cheap-flights/bordeaux/">Bordeaux</a></li><li><a href="/cheap-flights/bournemouth/">Bournemouth</a></li></ul><ul class="col span_2_of_12"><li><a href="/cheap-flights/brest/">Brest</a></li><li><a href="/cheap-flights/budapest/">Budapest</a></li><li><a href="/cheap-flights/caen/">Caen</a></li><li><a href="/cheap-flights/campbeltown/">Campbeltown</a></li><li><a href="/cheap-flights/cardiff/">Cardiff</a></li><li><a href="/cheap-flights/chambery/">Chambery</a></li><li><a href="/cheap-flights/cork/">Cork</a></li><li><a href="/cheap-flights/corsica/">Corsica</a></li><li><a href="/cheap-flights/deauville/">Deauville Normandy</a></li><li><a href="/cheap-flights/doncaster/">Doncaster</a></li><li><a href="/cheap-flights/dublin/">Dublin</a></li><li><a href="/cheap-flights/dundee/">Dundee</a></li><li><a href="/cheap-flights/durham-tees-valley/">Durham Tees Valley</a></li><li><a href="/cheap-flights/east-midlands/">East Midlands</a></li></ul><ul class="col span_2_of_12"><li><a href="/cheap-flights/edinburgh/">Edinburgh</a></li><li><a href="/cheap-flights/exeter/">Exeter</a></li><li><a href="/cheap-flights/faro/">Faro</a></li><li><a href="/cheap-flights/geneva/">Geneva</a></li><li><a href="/cheap-flights/glasgow/">Glasgow</a></li><li><a href="/cheap-flights/groningen/">Groningen</a></li><li><a href="/cheap-flights/guernsey/">Guernsey</a></li><li><a href="/cheap-flights/hamburg/">Hamburg</a></li><li><a href="/cheap-flights/hannover/">Hannover</a></li><li><a href="/cheap-flights/humberside/">Humberside</a></li><li><a href="/cheap-flights/inverness/">Inverness</a></li><li><a href="/cheap-flights/islay/">Islay</a></li><li><a href="/cheap-flights/isle-of-man/">Isle of Man</a></li><li><a href="/cheap-flights/jersey/">Jersey</a></li></ul><ul class="col span_2_of_12"><li><a href="/cheap-flights/kirkwall/">Kirkwall</a></li><li><a href="/cheap-flights/knock-ireland-west/">Knock - Ireland West</a></li><li><a href="/cheap-flights/la-rochelle/">La Rochelle</a></li><li><a href="/cheap-flights/leeds/">Leeds</a></li><li><a href="/cheap-flights/limoges/">Limoges</a></li><li><a href="/cheap-flights/liverpool/">Liverpool</a></li><li><a href="/cheap-flights/london/">London</a></li><li><a href="/cheap-flights/lyon/">Lyon</a></li><li><a href="/cheap-flights/madrid/">Madrid</a></li><li><a href="/cheap-flights/malaga/">Malaga</a></li><li><a href="/cheap-flights/manchester/">Manchester</a></li><li><a href="/cheap-flights/milan/">Milan</a></li><li><a href="/cheap-flights/munich/">Munich</a></li></ul><ul class="col span_2_of_12"><li><a href="/cheap-flights/munster/">Münster</a></li><li><a href="/cheap-flights/nantes/">Nantes</a></li><li><a href="/cheap-flights/newcastle/">Newcastle</a></li><li><a href="/cheap-flights/newquay/">Newquay</a></li><li><a href="/cheap-flights/nice/">Nice</a></li><li><a href="/cheap-flights/norwich/">Norwich</a></li><li><a href="/cheap-flights/nuremberg/">Nuremberg</a></li><li><a href="/cheap-flights/palma/">Palma</a></li><li><a href="/cheap-flights/paris/">Paris</a></li><li><a href="/cheap-flights/perpignan/">Perpignan</a></li><li><a href="/cheap-flights/prague/">Prague</a></li><li><a href="/cheap-flights/rennes/">Rennes</a></li><li><a href="/cheap-flights/sofia/">Sofia</a></li></ul><ul class="col span_2_of_12"><li><a href="/cheap-flights/southampton/">Southampton</a></li><li><a href="/cheap-flights/stornoway/">Stornoway</a></li><li><a href="/cheap-flights/stuttgart/">Stuttgart</a></li><li><a href="/cheap-flights/sumburgh/">Sumburgh</a></li><li><a href="/cheap-flights/tiree/">Tiree</a></li><li><a href="/cheap-flights/toulon/">Toulon</a></li><li><a href="/cheap-flights/toulouse/">Toulouse</a></li><li><a href="/cheap-flights/verona/">Verona</a></li><li><a href="/cheap-flights/vienna/">Vienna</a></li><li><a href="/cheap-flights/warsaw/">Warsaw</a></li><li><a href="/cheap-flights/wick/">Wick - John O Groats</a></li><li><a href="/cheap-flights/zagreb/">Zagreb</a></li><li><a href="/cheap-flights/zurich/">Zurich</a></li></ul></div><!--[####]-->
+                <!--[## page-footer.cheap-flights.HTML ##]--><h2 class="title" style="font-size: 200%;"><a href="/cheap-flights/">cheap flight destinations A – Z</a></h2><div class="section group"><ul class="col span_2_of_12"><li><a href="/cheap-flights/aberdeen/">Aberdeen</a></li><li><a href="/cheap-flights/alicante/">Alicante</a></li><li><a href="/cheap-flights/amsterdam/">Amsterdam</a></li><li><a href="/cheap-flights/avignon/">Avignon</a></li><li><a href="/cheap-flights/barra/">Barra</a></li><li><a href="/cheap-flights/belfast/">Belfast</a></li><li><a href="/cheap-flights/benbecula/">Benbecula</a></li><li><a href="/cheap-flights/bergen/">Bergen</a></li><li><a href="/cheap-flights/bergerac/">Bergerac</a></li><li><a href="/cheap-flights/berlin/">Berlin</a></li><li><a href="/cheap-flights/biarritz/">Biarritz</a></li><li><a href="/cheap-flights/birmingham/">Birmingham</a></li><li><a href="/cheap-flights/bordeaux/">Bordeaux</a></li><li><a href="/cheap-flights/bournemouth/">Bournemouth</a></li></ul><ul class="col span_2_of_12"><li><a href="/cheap-flights/brest/">Brest</a></li><li><a href="/cheap-flights/budapest/">Budapest</a></li><li><a href="/cheap-flights/caen/">Caen</a></li><li><a href="/cheap-flights/campbeltown/">Campbeltown</a></li><li><a href="/cheap-flights/cardiff/">Cardiff</a></li><li><a href="/cheap-flights/chambery/">Chambery</a></li><li><a href="/cheap-flights/cork/">Cork</a></li><li><a href="/cheap-flights/corsica/">Corsica</a></li><li><a href="/cheap-flights/deauville/">Deauville Normandy</a></li><li><a href="/cheap-flights/doncaster/">Doncaster</a></li><li><a href="/cheap-flights/dublin/">Dublin</a></li><li><a href="/cheap-flights/dundee/">Dundee</a></li><li><a href="/cheap-flights/durham-tees-valley/">Durham Tees Valley</a></li><li><a href="/cheap-flights/dusseldorf/">Dusseldorf</a></li></ul><ul class="col span_2_of_12"><li><a href="/cheap-flights/east-midlands/">East Midlands</a></li><li><a href="/cheap-flights/edinburgh/">Edinburgh</a></li><li><a href="/cheap-flights/exeter/">Exeter</a></li><li><a href="/cheap-flights/faro/">Faro</a></li><li><a href="/cheap-flights/geneva/">Geneva</a></li><li><a href="/cheap-flights/glasgow/">Glasgow</a></li><li><a href="/cheap-flights/groningen/">Groningen</a></li><li><a href="/cheap-flights/guernsey/">Guernsey</a></li><li><a href="/cheap-flights/hamburg/">Hamburg</a></li><li><a href="/cheap-flights/hannover/">Hannover</a></li><li><a href="/cheap-flights/humberside/">Humberside</a></li><li><a href="/cheap-flights/inverness/">Inverness</a></li><li><a href="/cheap-flights/islay/">Islay</a></li><li><a href="/cheap-flights/isle-of-man/">Isle of Man</a></li></ul><ul class="col span_2_of_12"><li><a href="/cheap-flights/jersey/">Jersey</a></li><li><a href="/cheap-flights/kirkwall/">Kirkwall</a></li><li><a href="/cheap-flights/knock-ireland-west/">Knock - Ireland West</a></li><li><a href="/cheap-flights/la-rochelle/">La Rochelle</a></li><li><a href="/cheap-flights/leeds/">Leeds</a></li><li><a href="/cheap-flights/limoges/">Limoges</a></li><li><a href="/cheap-flights/liverpool/">Liverpool</a></li><li><a href="/cheap-flights/london/">London</a></li><li><a href="/cheap-flights/lyon/">Lyon</a></li><li><a href="/cheap-flights/madrid/">Madrid</a></li><li><a href="/cheap-flights/malaga/">Malaga</a></li><li><a href="/cheap-flights/manchester/">Manchester</a></li><li><a href="/cheap-flights/milan/">Milan</a></li><li><a href="/cheap-flights/munich/">Munich</a></li></ul><ul class="col span_2_of_12"><li><a href="/cheap-flights/munster/">Münster</a></li><li><a href="/cheap-flights/nantes/">Nantes</a></li><li><a href="/cheap-flights/newcastle/">Newcastle</a></li><li><a href="/cheap-flights/newquay/">Newquay</a></li><li><a href="/cheap-flights/nice/">Nice</a></li><li><a href="/cheap-flights/norwich/">Norwich</a></li><li><a href="/cheap-flights/nuremberg/">Nuremberg</a></li><li><a href="/cheap-flights/palma/">Palma de Mallorc</a></li><li><a href="/cheap-flights/paris/">Paris</a></li><li><a href="/cheap-flights/perpignan/">Perpignan</a></li><li><a href="/cheap-flights/prague/">Prague</a></li><li><a href="/cheap-flights/rennes/">Rennes</a></li><li><a href="/cheap-flights/sofia/">Sofia</a></li></ul><ul class="col span_2_of_12"><li><a href="/cheap-flights/southampton/">Southampton</a></li><li><a href="/cheap-flights/stornoway/">Stornoway</a></li><li><a href="/cheap-flights/stuttgart/">Stuttgart</a></li><li><a href="/cheap-flights/sumburgh/">Sumburgh</a></li><li><a href="/cheap-flights/tiree/">Tiree</a></li><li><a href="/cheap-flights/toulon/">Toulon</a></li><li><a href="/cheap-flights/toulouse/">Toulouse</a></li><li><a href="/cheap-flights/verona/">Verona</a></li><li><a href="/cheap-flights/vienna/">Vienna</a></li><li><a href="/cheap-flights/warsaw/">Warsaw</a></li><li><a href="/cheap-flights/wick/">Wick - John O Groats</a></li><li><a href="/cheap-flights/zagreb/">Zagreb</a></li><li><a href="/cheap-flights/zurich/">Zurich</a></li></ul></div><!--[####]-->
             </div>
         </section>
         <!--END:Cheap Flight Section--> 
@@ -678,7 +740,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <nav>
                             <ul>
                                 <li class="header"><strong>Other Flybe sites</strong></li>
-                                <li><a href="http://www.flybeshopping.com">Flybe shopping</a></li>
+                                
                                 <li><a href="http://www.flybeas.com">Flybe aviation services</a></li>
                                 <li><a href="http://www.flybetraining.com">Flybe training academy</a></li>
                                 <li><a href="http://www.travelfusion.com/register">Flybe XML/API</a></li>
@@ -814,22 +876,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </noscript>
 
-    <script>
-        var APP = {
-            datacache: {
-                routing : {},
-                countries: {},
-                countryIndex: {},
-                airportNamesIndex: {}
-            }
-        };
-    </script>
-    <script src="/js/leapfrog/sessionStoreManager-1.0.0-min.js"></script>
-    <script src="/js/leapfrog/sessvars-1.0.0-min.js"></script>
-    <script type="text/javascript" src="/lf/javascript/countryCodes.js"></script>
-    <script type="text/javascript" src="/lf/js/leapfrog/checkin-validation.js"></script>
+
     <script type="text/javascript" src="/lf/js/leapfrog/navigation.js"></script>
-    <script type="text/javascript" src="/lf/js/leapfrog/searchWidget.js"></script>
+    
      <script type="text/javascript" src="/lf/js/ticktock.js"></script>
 	<script type="text/javascript" src="/lf/js/gatracking.js"></script>
     <!-- InstanceBeginEditable name="BeforeBodyClose" -->
