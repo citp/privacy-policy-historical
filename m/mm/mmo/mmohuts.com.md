@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the mmohuts.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613014220id_/http%3A//mmohuts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmohuts.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905071351id_/http%3A//mmohuts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MMOHuts
-
-### Privacy Policy
-
-  
-
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mmohut (at) gmail (dot) com.
 
