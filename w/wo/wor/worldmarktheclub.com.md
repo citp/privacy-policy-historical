@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045146id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073420id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WorldMark, The Club | Privacy Policy
 
@@ -24,138 +24,119 @@ Contact Us
 
 [ ](https://www.worldmarktravelsecure.com/)
 
-Privacy Policy
+PRIVACY NOTICE
 
-**Wyndham Vacation Ownership, Inc. ("WVO")** recognizes the importance of protecting the privacy of certain Information collected about the users and visitors ( **"user," "you" or "your"** ) of WVO’s Web site ( **"Web Site"** ). The following privacy and information practices policy discloses and describes what Information WVO may gather about you, how WVO may use such Information, and how you can correct or change such Information ( **"Privacy Policy"** ). This Privacy Policy is designed to give you an understanding about how WVO collects your Information and the uses WVO may make of such Information during the course of WVO’s business and in providing you with access to the information, products and services that may be available at this Web Site.
+Wyndham Vacation Ownership, Inc. ("WVO") is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Notice describes our practices in connection with information that we collect through websites operated by us from which you are accessing this Privacy Notice (the **"Websites"** ), through the software applications made available by us for use on or through computers and mobile devices (the **"Apps"** ), and through our social media pages that we control from which you are accessing this Privacy Notice (collectively, our **"Social Media Pages"** ), (collectively, including the Websites, the Apps and our Social Media Pages, the **"Services"** ). This Privacy Notice also applies to our offline collection of information. The information you provide helps us to operate effectively and continually provide you with the best hospitality products, services and experiences. 
 
-You should print a copy of this Privacy Policy for your records. Please note, however, that WVO may update and amend this Privacy Policy from time to time as WVO deems necessary in its sole discretion. Certain capitalized terms used in this Privacy Policy may be defined in WVO’s separate [Web Site Terms of Use](/legal/terms.shtml).
+Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. Please read the following to learn more about our privacy practices. 
 
-[Canadian Privacy Policy  
-](/legal/canadian_policy.shtml)Information on Your California Privacy Rights  
-Connecticut Residents
+Information on Your California Privacy Rights
 
-**NOTICE TO WVO TIMESHARE OWNERS/FINANCING CUSTOMERS:** You may receive a separate notice regarding "Your Financial Privacy" by mail. If this Web site provides you the ability to access your account online, and you agree to receive annual notices online, WVO will provide you with annual notices through this Web site. Further, if WVO provides you with updated notices online, WVO will require you to acknowledge receipt of the updated notice through this Web site.
+**NOTICE TO TIMESHARE OWNERS/FINANCING CUSTOMERS:** You may receive a separate notice regarding "Your Financial Privacy" by mail. If this Website provides you the ability to access your account online, and you agree to receive annual notices online, we will provide you with annual notices through this Website. Further, if we provide you with updated notices online, we will require you to acknowledge receipt of the updated notice through this Website or another identified Website.
 
-Table of Contents 
+**Acceptance of Our Privacy Notice:** By using the Services, you accept the terms of this Privacy Notice and the ways we may use your information. If you do not accept the terms of this Notice, please do not continue to use the Services.
 
-Purpose
+**We may collect personal information (which is information that identifies you or relates to you as an identifiable person) about you such as your:**
 
-WVO’s purpose in establishing this Privacy Policy is to balance its legitimate business interests in collecting and using its users’ Information with its users’ reasonable expectations of privacy. WVO’s intent is to provide to you certain offers, information, services and discounts that it believes are relevant to your interests. WVO believes that its users will benefit from promotional activity based on certain information employed to market goods and services offered by and through its businesses.
+• Name  
+• Postal address (including billing and shipping addresses)  
+• Telephone number  
+• Email address   
+• Credit and debit card number  
+• Financial information  
+• Profile picture  
+• Social media account ID  
+• Stay information  
+• Communication preferences  
 
-Affiliate Web Sites
 
-This Privacy Policy applies to this Web Site only. Please note that, to the extent that this Web Site permits you to link to other Web sites of WVO’s affiliated or related entities, or its Providers, separate privacy policies may apply to those linked Web sites, which separate privacy policies may contain different terms that are not the same as those terms contained in WVO’s Privacy Policy. **Your access to and use of such linked Web sites through links provided on this Web Site are not governed by this Privacy Policy but, instead, are governed by the privacy policies of those linked Web sites, and WVO disclaims any and all responsibility for your access to and use of such linked Web sites, as well as for any use of the Information that you may provide to, or any Information that may be collected about you at, such linked Web sites.**
+**We may collect information from you when you interact with us such as when you:**
 
-What Information Does WVO Collect? 
+• Register for a product or service  
+• Contact us with a question or request  
+• Use our Services   
+• Make a payment for a product or service   
+• Stay at one of our properties  
+• Provide a testimonial or story  
+• Participate in a competition or sweepstake  
+• Participate in our loyalty program  
 
-WVO gathers the following three types of Information about its users: (1) data that users provide through optional, voluntary registration on WVO’s Web Site; (2) data that WVO gathers from third party sources or Providers; and (3) data that WVO gathers through aggregated anonymous tracking of use activity and usage trends, mainly by tallying Web pages that are viewed by users throughout this Web Site. You should be assured, however, that WVO will not disclose any of your **Personal Information** (as defined below) to third parties without your consent, except as may otherwise be described in this Privacy Policy or disclosed to you when you submit the Personal Information.
 
-How Does WVO Collect Information?
+  * **Cookies:** This Website uses "cookies". By using this Website and agreeing to this Notice, you consent to our use of cookies in accordance with the terms of this Notice. Cookies are small text files that this Website sends to your computer for record-keeping purposes and this information is stored in a file on your computer’s hard drive. Cookies make web surfing and browsing easier for you by saving your preferences so that we can use these to improve your next visit to this Website. 
+    * One of the purposes of cookies is to simplify the use of the Website. A cookie may save a user's login details for example, so that the user does not need to login every time. Cookies, by themselves, do not provide us with your personal information.
+    * Cookies may be either "persistent" or "temporary" (or "session") cookies. A persistent cookie retains user preferences for a particular Website allowing those preferences to be used in future browsing sessions and remains valid until its set expiry date (unless deleted by the user before the expiry date). A temporary cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+  * Cookies are also used for statistical purposes, to determine how the Website is used. **Google Analytics:** We use Google Analytics to help us get a better understanding of how visitors use this Website. The information generated by the Google Analytics cookie about your use of this Website is transmitted to and stored by Google."If you do not want your activity on this Website to be tracked by Google Analytics, you may opt out by [downloading and installing](http://tools.google.com/dlpage/gaoptout?hl=en) the add-on to your web browser. 
+  
 
-**Optional Registration:**  
-WVO collects Information by specifically requesting it from you. Generally this occurs when you register at the Web Site or request information or a service. You may elect, at your sole option, whether to provide the requested Information, although you may not be able to use or gain access to certain portions or features of this Web Site if you elect not to provide such Information. Usually, WVO and/or its business partners use your Information to operate the Web Site and to deliver information and services to you. WVO also uses your Information to inform you about other products and/or services available from WVO, its affiliated or related entities, and/or its Providers. 
+  * **From Other Sources:** We may receive your personal information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties. For example, if you elect to social media account to your Website account, certain personal information from your social media account will be shared with us, which may include personal information that is part of your profile or your friends' profiles. 
+  
 
-Information from Third Party Sources:
+  * **Mobile Devices:** When you use or access our Services from a mobile device, we may collect information such as your unique device ID and your location information when you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
 
-WVO may collect information about you from third party sources to supplement the Information otherwise provided by you at this Web Site. This supplemental information allows WVO to verify Information that you have provided to WVO and to enhance WVO’s ability to provide you with information about its businesses, products and services, as further described in WVO’s Web Site Terms. WVO’s agreements with these third party sources typically limit how WVO may use this supplemental information.
 
-Use of Aggregate Tracking Information: 
 
-**Use of Internet Protocol ("IP") Addresses.**  
-An IP address is a unique number that is automatically assigned to your computer whenever you are surfing or browsing the Internet so that your computer can be identified by the main computers, known as "Web servers," that "serve up" Web sites and Web pages. This IP address allows WVO to identify and gather general information and data about users, such as the Web pages that users may view. 
+The information we collect from you helps us to identify ways that we can continue to serve you in the best way possible and provide you with personalized products and services that suit your lifestyle.   
+**We use personal information for the following purposes:**  
 
-WVO collects IP addresses for the following purposes: (1) helping WVO diagnose and resolve problems with its main computers; (2) administering its systems and this Web Site; (3) reporting aggregated anonymous information to its business partners and Providers; and (4) auditing the use of this Web Site. When users request Web pages from this Web Site, WVO’s Web servers log the user's IP address. WVO does not normally link IP addresses to any Personal Information, which means that a user’s session will be logged, but the user will remain anonymous to WVO. For example, WVO collects and/or tracks the home server domain name, the type of computer, and the type of Web browser used by you to access this Web Site. Such collection and tracking information is gathered by WVO as you navigate through this Web Site and the various Web Site pages, and shall be used by WVO for its business purposes only, as described above in this section.
 
-WVO can, and will, use IP addresses to identify you when WVO feels it is necessary to enforce compliance with its Web Site Terms and/or this Privacy Policy, or to protect its services, Web Site, systems, information, employees, business partners, Providers, users, customers or others.
+  * To respond to your inquiries and fulfill your requests, such as to send you newsletters.
+  * To send administrative information to you, for example, information regarding the Services or an event in which you are attending and changes to our terms, conditions, and policies.
+  * To complete and fulfill any purchases or requests for services, for example, to process your payments or a hotel stay or vacation rental, communicate with you regarding your purchase and provide you with related customer service.
+  * To send you marketing communications that we believe may be of interest to you via postal mail, email, telephone or SMS.
+  * To personalize your experience on the Services by presenting products and offers tailored to you.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully.
+  * To facilitate social sharing functionality.
+  * To allow you to send messages to a friend through the Services. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-**Use Of Cookies.**  
-WVO may place "cookies" on your web browser. Cookies are small pieces of information or text files that a Web site sends to your computer for record-keeping purposes, which information is stored in a file on your computer’s hard drive. Cookies make Web surfing and browsing easier for you by saving your preferences so that WVO can use the saved information to facilitate your use of, and improve your experience with, this Web Site when you navigate at or return to this Web Site. Cookies, by themselves, do not provide WVO with your individual identity or Personal Information unless you have chosen separately to provide it to WVO. WVO never saves passwords or credit card information in its cookies. The use of cookies is industry-standard and, as such, you will find that most major Web sites use them.
 
-By showing, tracking or recording how and when users use this Web Site, cookies help WVO see which areas of the Web Site are popular and which are not. Many of WVO’s improvements and updates to the Web Site and enhancements to the user experiences are based on the data and information compiled from these cookies in conjunction with the total number of users of, and Web pages viewed at, this Web Site. This data and information are most easily tracked with cookies.
 
-Most cookies expire after a defined period of time, or you can delete or disable your cookie file(s) at any time. Most Web browsers are initially set up to accept cookies. You can reset your Web browser to refuse cookies or to indicate when a cookie is being sent. You should note that some parts or features of WVO’s Web Site or services may not function properly or be accessible, or may be considerably slower, if you delete or refuse to accept cookies. For example, without cookies, you will not be able to set certain personalized preferences, and/or may have difficulty completing marketing or other Web Site transactions. 
+We may also aggregate and/or anonymize personal information for research, to improve our products and services; and for other business purposes.
 
-WVO has two (2) primary uses for cookies. First, WVO uses cookies to identify and specify a user’s preferences. Second, WVO uses cookies to track Web Site usage trends and patterns. This helps WVO to obtain a better understanding of its users’ needs and to improve areas of this Web Site. While both of these uses and related activities are dependent upon the use of cookies, you have the option, as described above, of disabling, deleting or refusing the cookies via your Web browser preferences or similar features.
+**Your information may be disclosed as follows:**
 
-In addition, you may occasionally receive cookies from WVO’s business partners or Providers, or when you link to other third party Web sites. WVO does not control these cookies, and disclaims any responsibility relating to the use or receipt of such cookies. You should note that the use of advertising cookies sent by third party Web servers is a standard practice in the Internet industry. 
+  * **Affiliates:** Other Wyndham businesses (our "Affiliates") may jointly use the personal information for the purposes described in this Privacy Notice. More information on our Affiliates can be found within Wyndham Worldwide's [10-K Annual Report](http://investor.wyndhamworldwide.com/phoenix.zhtml?c=200690&p=irol-landing).
+  * **Business Partners & Sponsors:** WVO may disclose some or all of your Personal Information to third party business partners or sponsors, as described elsewhere in this Privacy Policy. In the event and to the extent that there are additional uses of your Personal Information by WVO's business partners or sponsors (which additional uses are not otherwise described in or contemplated by this Policy), any such additional uses will be specifically described to you prior to or at the time such Personal Information is collected or prior to any transfer of such Personal Information to the business partners or sponsors. Many promotions offer opportunities for you to request additional information from such business partners and sponsors. By requesting additional information, you signify your consent to WVO's transfer of your Personal Information to the applicable business partners or sponsors so that they can respond to or fulfill your request. Although, in many instances, only your email address will be shared with these business sponsors and partners, WVO is not limited to the type of Personal Information that it may disclose, provided that you requested the additional information and that WVO has otherwise complied with this Privacy Policy.
+  * **Vacation rentals:** We may share your information with the owners and Business Partners of timeshare resorts we do not own, property owners associations and those we have a sales and marketing relationship with may share some or all of your Personal Information in order to provide you with services.
+  * **Vendors and Service Providers:** We may disclose your information to vendors and service providers retained by us in connection with our business such as: travel services companies and providers, financial services companies, credit bureaus, property owners’ associations, vacation insurance companies, website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, tax and financial advisers, legal advisers, accountants or auditing services.
+  * **Message Boards:** We may make message boards, blogs, and other such user-generated content facilities available to users. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information. We are not responsible for privacy practices of other users including website operators to whom you provide information.
+  * **Merger or Acquisition:** A third party who acquires any part of Wyndham Worldwide Corporation itself or any of its Affiliates, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets.
+  * **Disclosure Permitted by Law:** Law enforcement authorities, government or public agencies, regulators, insurers and/or to any other person or entity having appropriate legal authority or justification for receipt of your information, if we believe that we are required or permitted to do so by law or legal process, to respond to claims, or to protect the rights, property or safety of Wyndham or others.
+  * **Anonymized/Aggregated Information:** Because aggregated or anonymized information does not personally identify you, we may use it for any purpose. If we combine anonymized or aggregated data with personal information, we will treat the combined information as personal information according to this Privacy Notice.
 
-WVO may use a third party advertising technology to serve ads when you visit this Web Site. This technology uses information about your visits to this site ( _not_ including your name, address, or other Personal Information) to serve WVO’s ads to you. In the course of delivering WVO advertisements to you, a unique third party cookie may be placed or recognized on your browser. For more information about our third party ad server, cookies, and how to opt out, please [ click here](http://www.doubleclick.net/us/corporate/privacy). 
 
-**Use of Pixels.**  
-WVO and its third party ad servers may also use invisible pixels or Web beacons on this Web Site to count how many users visit certain Web pages. Information collected from invisible pixels or Web beacons is used and reported in the aggregate without the use of Personal Information. This information may be used to improve marketing programs and Content, and to target WVO’s Internet advertisements at this Web Site and/or other web sites.
+  * **Security of Your Information:** We will take reasonable steps to protect the information you provide us from loss, misuse and unauthorized access, disclosure, alteration and destruction. We have implemented appropriate physical, electronic and managerial procedures to help safeguard and secure your information from loss, misuse, unauthorized access or disclosure, alteration or destruction. Unfortunately, no security system is 100% secure, thus we cannot ensure the security of information that you provide to us via the Services.
 
-With Whom Does WVO Share Information?
 
-As a general rule, WVO will not share with or disclose to any third parties any specific personally identifiable information about you that you may submit or provide to WVO via this Web Site ( **"Personal Information"** ), in a manner that connects you with the Personal Information, except (a) as otherwise described in this Privacy Policy, (b) when WVO has your permission, or (c) under special circumstances, such as when WVO believes in good faith that the law requires such disclosure or under the circumstances described below. The following describes some of the ways that your Personal Information may be disclosed:
+  * **Information Provided on Someone Else's Behalf:** If you provide us with information about someone else, please ensure you have the person's permission to do so for the purposes detailed in this Privacy Notice.
+  * **Links to Websites:** The Services may have links to other websites that are not operated by us and therefore, we have no control over how these websites may collect your information. You should read the privacy notices on those other websites before you submit your information through them.
+  * **Social Media Sites:** Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any personal information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+  * **Changes to Our Privacy Notice:** From time to time we may revise this Notice and/or use personal information for new, unanticipated uses not previously disclosed in this Notice to meet changes in the regulatory or business environment, or to satisfy the needs of our customers and service providers. Updated and date stamped versions will be posted on the Services.
+  * **Minors:** We do not knowingly collect, maintain or use personal information from children under 18 years of age, and no part of Services is directed to individuals under the age of 18. 
+  * **Retention Period:** We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Notice unless a longer retention period is required or permitted by law.
 
-**Affiliates:**  
-WVO may share any or all of your Personal Information with and among its affiliated or related entities or family of companies. This is typically done so as to allow such entities and companies to offer to you information about their respective businesses, products and services that they believe may be of interest to you.
 
-**Business Partners & Sponsors:**  
-WVO may disclose some or all of your Personal Information to third party business partners or sponsors, as described elsewhere in this Privacy Policy. In the event and to the extent that there are additional uses of your Personal Information by WVO’s business partners or sponsors (which additional uses are not otherwise described in or contemplated by this Policy), any such additional uses will be specifically described to you prior to or at the time such Personal Information is collected or prior to any transfer of such Personal Information to the business partners or sponsors. Many promotions offer opportunities for you to request additional information from such business partners and sponsors. By requesting additional information, you signify your consent to WVO’s transfer of your Personal Information to the applicable business partners or sponsors so that they can respond to or fulfill your request. Although, in many instances, only your email address will be shared with these business sponsors and partners, WVO is not limited to the type of Personal Information that it may disclose, provided that you requested the additional information and that WVO has otherwise complied with this Privacy Policy.
+  * **Marketing:** We may contact you by email, telephone, SMS or postal mail with information about products or services offered by Wyndham or a third party that may be of interest to you. You can opt-out in this way at any time by: 
+    * Using the unsubscribe function in the email you receive from us. 
+    * [Unsubscribe](https://www.wyndhamvopromotions.com/unsubscribe/cw.asp) if you do not wish to receive further direct marketing from us about Wyndham products or services. 
+    * **Access to Information We Hold about You:** If you would like to access, obtain copies, update, correct or request that we suppress or delete any of the information we hold about you or if you require further information from us about how we use your information please contact us at [Ecommerce@wyn.com](mailto:Ecommerce@wyn.com) . In some jurisdictions, you may be charged a reasonable fee for access to your information.
 
-**Third Party & Aggregate Data: **  
-From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt to receive from these third parties information related to such materials or offers, WVO will (with your permission) share your name and email address with such third parties. Under confidentiality agreements, WVO may match Personal Information with data provided by these third parties. Also, from time to time, WVO may share your Personal Information with third parties that WVO feels offer products or services that may be of interest to you. This sharing of Personal Information is subject to confidentiality agreements as well.
 
-Also, as described above in this Privacy Policy, WVO may keep track of which portions of the Web Site users are visiting and other user statistics, and aggregate this information to help WVO create a better experience for users of this Web Site. This is all done without knowing your name or other Personal Information, and allows WVO (in addition to other lawful purposes) to describe its users’ preferences, and the types of services in which the users may be interested, to its business partners, advertisers, sponsors and other third parties.
 
-**Other:**  
-WVO may also disclose account information in special cases when it has reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Web Site Terms or this Privacy Policy, or may be causing injury to or interference (either intentionally or unintentionally) with any of WVO’s rights or property, other users, or anyone else. WVO may disclose or access account information when it believes in good faith that the law requires it (and/or if compelled to do so by law enforcement or government agencies, or by other legal action), and for administrative and other purposes that it deems necessary to maintain, service, and/or improve this Web Site or its products and services.
+##### Contact Information
 
-**Careers with WVO:**  
-This Web Site may provide you the ability to search for job postings and/or submit applications for potential employment opportunities. WVO may use third parties to collect and/or host these types of services or related information. If a third party service provider is used for these purposes, the third party provider is prohibited under agreement from using any Personal Information that you may submit in conjunction with these services for any purpose other than to collect and store such Personal Information on WVO’s behalf. The Personal Information that you submit for these purposes will not be used for any purpose other than to allow you to search for job postings, submit applications, or determine your qualifications for employment with WVO or its affiliated or related entities.
+If after reviewing this Notice, you have any questions or privacy concerns please send an email to [WVOPrivacy@wyn.com](mailto:WVOPrivacy@wyn.com) or send a letter to: 
 
-**Investor Center:**  
-This Web Site may allow you to subscribe to investor newsletters, press releases, email alerts, and other related communications. The Personal Information that you may provide in conjunction with these subscription services or offerings will be used only for the purpose of providing you with such services or for responding to your subscription requests.
-
-**Children:**  
-**This Web Site is not intended for use by children. WVO does not knowingly solicit or collect Personal Information from children under the age of 13. If you are under the age of 18, you must obtain the consent of your parent or guardian to use this Web Site.**
-
-Opting Out; How Can You Control the Use of Information?
-
-In the event that you decide that you want to opt out from WVO’s use of any Personal Information that you previously provided to (and/or authorized for use by) WVO, or if any of your Personal Information (such as your zip code or email address) changes, WVO will use reasonable efforts to provide you with a way to correct, update or remove such Personal Information. WVO makes repeated efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to WVO. In the event that you believe that any Personal Information held by WVO is inaccurate or outdated, WVO, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. WVO also gives you the opportunity to control or opt out from the communications that WVO directs to you. If you wish to update or change your Personal Information or opt out from any use or communication described in this Privacy Policy for any reason, you may notify WVO of such update, change or opt out as follows: 
-
-Change or opt out by completing this online form, [click here](http://media.trendwest.com/wbw_optout/).
-
-By mail, write to:   
-E-Commerce Department – Privacy  
+WVO Corporate Compliance Officer  
 Wyndham Vacation Ownership, Inc.  
 6277 Sea Harbor Drive  
-Orlando, FL 32821 
+Orlando, FL 32821  
+USA
 
-What Happens When You Link to a Third Party Site?
+**Notice to California Residents:** If you are a resident of California, California Civil Code Section 1798.83 allows you to request information regarding the disclosure of your personal information by us to third parties for the third parties' direct marketing purposes. With respect to these entities, this Notice applies only to their activities within the State of California. To request the above information, please write to us at: Wyndham Vacation Resorts Attn: California Disclosure Information 6277 Sea Harbor Drive, Orlando, FL 32821
 
-You should be aware that, when you are on WVO’s Web Site, you may be able to hyperlink, or may be directed, to other third party Web sites that are beyond WVO’s control and/or outside of its services. For example, if you “click” on a banner advertisement or a WVO search result, the “click” may transfer you off of this Web Site and to another unaffiliated Web site. These other Web sites may include sites of advertisers, sponsors, Providers and/or partners that may use WVO’s and/or WVO’s affiliated or related entities’ logos as part of a co-branding agreement. These other Web sites may send their own cookies to, or collect or solicit Information from, users. WVO does not control such third parties or their Web sites, and, therefore, is not responsible for the contents of these Web sites or the hyperlinks or advertising placed on such Web sites. WVO’s inclusion in this Web Site of hyperlinks to these other third party Web sites does not imply any endorsement of the material on such other Web sites or any association with the third party operators. This Privacy Policy does not extend to anything that is inherent in the operation of the Internet and/or that is beyond WVO’s control. 
+  * Effective Date: July 1, 2015
+  * Last Updated Date: July 1, 2015
 
-Please keep in mind that, whenever you give out information over the Internet or Web, or otherwise in on-line environments, (for example, via message boards or forums), such information can be collected and used by people you do not know. While WVO strives to protect users’ information and privacy, WVO cannot guarantee the security of any information you disclose in these environments, and you disclose such information at your own risk.
 
-Is Your Information Secure?
-
-The security of all Information associated with users of this Web Site is an important concern to WVO. WVO exercises reasonable care in providing secure transmission of your Information from your computer to WVO’s servers and databases. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while WVO strives to protect your Information, WVO cannot ensure or warrant the security of any Information you transmit to WVO, and you do so at your own risk. Once you complete the transmission of, and WVO receives, your Information, WVO uses industry standard efforts and practices to safeguard the confidentiality of your Personal Information, and uses commercially reasonable efforts to collect and secure such Personal Information consistent with all applicable laws and regulations. WVO takes commercially reasonable efforts to use a variety of different security measures (such as encryption, digital certificates, firewalls and Secure Socket Layers) designed to protect Personal Information from access by unauthorized users both inside and outside of WVO, and to protect against the unauthorized or improper alteration or destruction of such Personal Information. WVO’s communication system, software and database practices have been designed to aid in supporting authenticity, integrity and confidentiality. However, as described above, "perfect security" does not exist on the Internet and, despite these reasonable efforts by WVO to maintain data and Information security, WVO cannot guarantee the security of data or Information. 
-
-YOUR ACCEPTANCE OF THE TERMS OF THIS PRIVACY POLICY
-
-The security of all information associated with our Customers is an important concern to us. We exercise care in providing secure transmission of your Information from your computer to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Information, ****neither we nor our Affiliates can ensure or warrant the security of any Information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we use industry standard efforts to safeguard the confidentiality of your Information, such as firewalls and Secure Socket Layers. However, “perfect security” does not exist on the Internet.
-
-YOUR ACCEPTANCE OF THESE TERMS AND POLICY CHANGES
-
-By using this Web Site, you signify your agreement to the terms of WVO’s Internet Privacy Policy. **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE.** Your continued use of WVO’s Web Site following the posting of any changes or updates to the terms of this Privacy Policy will signify your acceptance of those changes and updates.
-
-Effective date: This policy was last updated on September 30, 2008 to add a notice to Conneticut residents.
-
-Your California Privacy Rights
-
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of the categories of personal information, such as name, address, email address, and the type of services provided to that customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please write to us at: 
-
-Wyndham Vacation Ownership, Inc.   
-Attn: California Disclosure Information  
-6277 Sea Harbor Drive  
-Orlando, FL 32821 
-
-We will respond to such written requests within 30 days following receipt at the mailing address above. We reserve the right not to respond to requests submitted other than to the address specified above or otherwise exempted by law. **Please note that we are required only to respond to each customer once per calendar year.**
-
-For Connecticut Residents (Effective October 1, 2008):
-
-CONFIDENTIALITY OF SOCIAL SECURITY NUMBERS: WVO may collect and use your Social Security number for purposes permitted or required by law, which may include but not be limited to identification, checking your credit (with your consent), tax reporting, and other purposes described in our applicable privacy policies. We endeavor to protect your Social Security number using physical, electronic or procedural security measures appropriate to the sensitivity of the information in our control. These measures include safeguards to protect your Social Security number against loss or theft, as well as unauthorized access, disclosure, copying, use and modification. Although "guaranteed security" does not exist either on or off the Internet, we make commercially reasonable efforts to make the collection and security of such information consistent with our privacy policies and all applicable laws and regulations. Access to your Social Security number is restricted to those WVO (including its affiliates) employees, agents and third party service providers who need such access to do their jobs and to fulfill the purposes for which the Social Security number was collected. 
-
-Effective date: This policy was last updated on September 30, 2008, to add a notice to Connecticut residents. __
