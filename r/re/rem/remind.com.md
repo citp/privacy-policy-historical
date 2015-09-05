@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the remind.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316170435id_/https%3A//www.remind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remind.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905063837id_/https%3A//www.remind.com/privacy-policy) for the most accurate reproduction.*
 
-# Remind | Privacy policy
+# Privacy policy | Remind
 
 At Remind101, Inc. (“Remind,” “we,” “us,” “our”), we know you care about how your personal information is used and shared, and we take your privacy seriously. Please read on to learn more about our Privacy Policy. By visiting Remind’s website at remind.com or any of our other websites, applications, domain names or other linked pages, or using any of our services (collectively, the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. By using the Services, you are consenting to have your personal data transferred to and processed in the United States. 
 
@@ -316,7 +316,7 @@ For under age users with an account that is inactive for twelve months or more (
 
 If yours or your child’s personal information changes, or if you no longer desire our Service, wish to refuse further contact by Remind with your child, you may review, correct, update, delete inaccuracies, request deletion of your child’s information, or amend it by contacting us at [contact@remind.com](mailto:contact@remind.com) or by logging into your account. We will respond to your request as quickly as possible. 
 
-We will retain yours or your child’s information for as long as your account is active or as needed to provide Services. If you wish to cancel yours or your child’s account or request that we no longer use the information to provide Services, contact us at contact@remind.com. Note we will retain and use information, for example, to comply with our audit and legal obligations, to resolve disputes, and to enforce our agreements. 
+We will retain yours or your child’s information for as long as your account is active or as needed to provide Services. If you wish to cancel yours or your child’s account or request that we no longer use the information to provide Services, contact us at [contact@remind.com](mailto:contact@remind.com). Note we will retain and use information, for example, to comply with our audit and legal obligations, to resolve disputes, and to enforce our agreements. 
 
 ##### What this is saying
 
@@ -338,7 +338,7 @@ If we update this Privacy Policy, we will let you know!
 
 ### Questions or concerns
 
-If you have any questions or concerns regarding privacy at Remind or [remind.com,](https://web.archive.org/) please send us a detailed message to [contact@remind.com](mailto:contact@remind.com). We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy at Remind or [remind.com](https://web.archive.org/), please send us a detailed message to [contact@remind.com](mailto:contact@remind.com). We will make every effort to resolve your concerns. 
 
 ##### What this is saying
 
