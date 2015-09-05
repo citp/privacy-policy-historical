@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikeinc.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315050436id_/http%3A//www.nike.com/us/en_us/c/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikeinc.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060651id_/http%3A//www.nike.com/us/en_us/c/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Nike.com
 
@@ -33,15 +33,17 @@ We may use your information to do the following:
 
 **ENABLE YOUR USE**
 
-\- Enhance, customize and personalize your NIKE experiences and communications
+  * Enhance, customize and personalize your NIKE experiences and communications
+  * Use NIKE features, such as running routes, race registrations, placing an order and other activities
 
-\- Use NIKE features, such as running routes, race registrations, placing an order and other activities
+
 
 **OPERATE, IMPROVE AND ANALYZE**
 
-\- Operate, provide, improve and maintain NIKE's products and services, including analyzing user behavior and trends
+  * Operate, provide, improve and maintain NIKE's products and services, including analyzing user behavior and trends
+  * Send you administrative messages and other information about NIKE. Communicate with you about your purchase, account information or customer service
 
-\- Send you administrative messages and other information about NIKE. Communicate with you about your purchase, account information or customer service
+
 
 **PROVIDE AND CONDUCT MARKETING AND PROMOTIONS**
 
