@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionfabricsclub.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317180532id_/https%3A//www.fashionfabricsclub.com/Page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionfabricsclub.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905115823id_/https%3A//www.fashionfabricsclub.com/Page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fabric By The Yard At Discount Prices
+# Privacy Policy | Discount By The Yard | Fashion Fabrics
 
 The privacy of our visitors to fashionfabricsclub.com is important to us. We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -52,4 +52,4 @@ fashionfabricsclub.com
 St. Louis, MO 63132  
 USA
 
-## [Email Us](https://web.archive.org/web/20150317180532id_/https%3A//Contact)
+## [Email Us](https://web.archive.org/web/20150905115823id_/https%3A//Contact)
