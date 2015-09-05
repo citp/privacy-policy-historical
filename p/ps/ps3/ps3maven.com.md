@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps3maven.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630151222id_/http%3A//ps3maven.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3maven.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055611id_/http%3A//ps3maven.com/privacy-policy) for the most accurate reproduction.*
 
 # PS3Maven Privacy Policy | Ps3 Maven
 
@@ -15,8 +15,8 @@ We use regular analytics applications in order to track the visits to our site, 
 **Email**
 
 We do not have your email address unless it was provided to us in one of the following ways:  
-\- Post comments: if you have commented on a post, an email address must be provided, yet it is not visible to the public nor is it shared with external sources. Such comments may also be displayed on a collaborating site (during Giveaway, Contests or Campaigns), yet no personal email identification will be present. Comments may also be removed if deemed offensive, abusive, interruptive, or for other requirements seemed necessary for the well being of the community and its members.  
-\- PS3Maven Newsletter: when subscribing to our Free Newsletter, you provide a valid email to receive the updates, yet this is also not shared with external organization or commercial use.
+– Post comments: if you have commented on a post, an email address must be provided, yet it is not visible to the public nor is it shared with external sources. Such comments may also be displayed on a collaborating site (during Giveaway, Contests or Campaigns), yet no personal email identification will be present. Comments may also be removed if deemed offensive, abusive, interruptive, or for other requirements seemed necessary for the well being of the community and its members.  
+– PS3Maven Newsletter: when subscribing to our Free Newsletter, you provide a valid email to receive the updates, yet this is also not shared with external organization or commercial use.
 
 **Cookies**
 
