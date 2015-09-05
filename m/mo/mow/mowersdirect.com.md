@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mowersdirect.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609033934id_/http%3A//www.mowersdirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mowersdirect.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053219id_/http%3A//www.mowersdirect.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ Mowers Direct.com - Your Online Mower Superstore
 
