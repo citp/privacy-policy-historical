@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misstravel.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319024543id_/https%3A//www.misstravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misstravel.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905191952id_/https%3A//www.misstravel.com/privacy) for the most accurate reproduction.*
 
 # MissTravel | #1 Travel Dating & Travel Companion Site
 
@@ -14,7 +14,7 @@ We are committed to protecting the privacy of our users. We want to provide a sa
 
 ### Privacy Scope
 
-This privacy policy covers MissTravel.com's treatment of personally identifiable information that is collected when you are on the MissTravel.com website, and when you use MissTravel.com services. This policy also covers our treatment of any personally identifiable information that our business partners share with us.
+This privacy policy covers MissTravel.com’s treatment of personally identifiable information that is collected when you are on the MissTravel.com website, and when you use MissTravel.com services. This policy also covers our treatment of any personally identifiable information that our business partners share with us.
 
 ### Information Collected
 
@@ -54,7 +54,7 @@ Our credit card transactions are processed by Paypal or through our merchant acc
 
 ### Cookies
 
-To enhance your experience at MissTravel.com and to access member services, we use a feature on your Internet browser called a cookie. Cookies are small files that your web browser places on your computer's hard drive. We use cookies for remembering user preferences, user sessions, tracking visits to understand visitor behavior, and planning for increased loads. Because of our use of cookies, we can deliver a faster services and a more personalized website experience. You have the option of setting your browser to reject cookies. However, doing so will hinder your ability to logon or use member services offered on our website.
+To enhance your experience at MissTravel.com and to access member services, we use a feature on your Internet browser called a cookie. Cookies are small files that your web browser places on your computer’s hard drive. We use cookies for remembering user preferences, user sessions, tracking visits to understand visitor behavior, and planning for increased loads. Because of our use of cookies, we can deliver a faster services and a more personalized website experience. You have the option of setting your browser to reject cookies. However, doing so will hinder your ability to logon or use member services offered on our website.
 
 ### Privacy Policy Changes
 
