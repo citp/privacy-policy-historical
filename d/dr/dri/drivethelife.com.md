@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivethelife.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608052611id_/http%3A//www.drivethelife.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivethelife.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195606id_/http%3A//www.drivethelife.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Drive The Life
 
