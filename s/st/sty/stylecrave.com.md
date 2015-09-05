@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylecrave.com privacy policy that was archived on 2015-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150223085343id_/http%3A//stylecrave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylecrave.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054343id_/http%3A//stylecrave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
