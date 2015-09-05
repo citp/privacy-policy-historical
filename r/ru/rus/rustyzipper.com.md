@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145322id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054039id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
-[](http://www.rustyzipper.com/shop.cfm?type=&ERA=ALL&GENDER=ALL&JUMPSHOW=0)   
+[](http://www.rustyzipper.com/)   
 
 
 **What information do we collect?**
