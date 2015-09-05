@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affiliatefuture.co.uk privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322043714id_/http%3A//www.affiliatefuture.co.uk/faq/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefuture.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905173303id_/http%3A//www.affiliatefuture.co.uk/Legal/privacy) for the most accurate reproduction.*
 
-# AffiliateFuture
+# Affiliate Future
 
-At AffiliateFuture we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. This Policy is updated from time to time so please review this Policy regularly.
+This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. This Policy is updated from time to time so please review this Policy regularly.
 
 For the purpose of the Data Protection Act 1998 our data controller is Progressive Media Group. Progressive Media Group is subject to the UK Data Protection Act 1998 and is registered in the UK with the Information Commissioner to process your personal information.
 
@@ -11,7 +11,7 @@ For the purpose of the Data Protection Act 1998 our data controller is Progressi
 In operating our website we may collect and process the following data about you:
 
 i. Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs, IP address, operating system, access times, what browser you are using and other communication data.   
-ii. A number of websites within our group of companies, subsidiaries, related companies and affiliates are tracked using Google Analytics and WebTrends. To view their respective privacy polices and details on opting out, please use the following links:  
+ii. A number of websites within our group of companies, subsidiaries, related companies and publishers are tracked using Google Analytics and WebTrends. To view their respective privacy polices and details on opting out, please use the following links:  
 \- http://www.google.com/intl/en_uk/analytics/tos.html   
 \- http://ondemand.webtrends.com/privacypolicy.asp#psfv   
 iii. Information that you provide by filling in forms on our website, such as when you register for information or make a purchase.   
@@ -31,22 +31,22 @@ Our advertisers may also use cookies, over which we have no control. Such cookie
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
-i. To provide you with information requested from us, relating to our products or services. To provide information on other products or services within our group of companies, subsidiaries, related companies and affiliates, which we feel may be of interest to you.   
+i. To provide you with information requested from us, relating to our products or services. To provide information on other products or services within our group of companies, subsidiaries, related companies and publishers, which we feel may be of interest to you.   
 ii. To meet our contractual commitments to you.   
 iii. To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.   
 iv. Personalise your experience.
 
-If you are a previous or existing customer, we may contact you with information about products and services similar to those which were the subject of a previous sale to you. Furthermore, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated products and services which we consider may be of interest to you. We or they may contact you about these products and services by any methods that you consented at the time your information was collected. You may stop these messages at any time by submitting a ticket at AffiliateFuture support centre at [www.affiliatefuturesupport.co.uk](http://www.affiliatefuturesupport.co.uk/) or opting-out using the opt-out tool at the bottom of the email communication.
+If you are a previous or existing customer, we may contact you with information about products and services similar to those which were the subject of a previous sale to you. Furthermore, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated products and services which we consider may be of interest to you. We or they may contact you about these products and services by any methods that you consented at the time your information was collected. You may stop these messages at any time by submitting a ticket at Affiliate Future support centre at [ www.affiliatefuturesupport.co.uk](http://www.affiliatefuturesupport.co.uk/) or opting-out using the opt-out tool at the bottom of the email communication.
 
 I **nformation About Other People**
 
 On certain parts of the website, you can submit information about other people. For example, you may be able to provide an email address of colleagues who may be interested in registering to attend an event. We will use this information to contact these people for the purposes of increasing event attendance.
 
-These messages can be stopped at any time by submitting a ticket at AffiliateFuture support centre at [www.affiliatefuturesupport.co.uk](http://www.affiliatefuturesupport.co.uk/) or opting-out using the opt-out tool at the bottom of the email communication.
+These messages can be stopped at any time by submitting a ticket at Affiliate Future support centre at [www.affiliatefuturesupport.co.uk](http://www.affiliatefuturesupport.co.uk/) or opting-out using the opt-out tool at the bottom of the email communication.
 
 **Chat and Message Boards**
 
-A number of websites within our group of companies, subsidiaries, related companies and affiliates offer chat and message boards. Please be advised that information posted in these venues may become public knowledge.
+A number of websites within our group of companies, subsidiaries, related companies and publishers offer chat and message boards. Please be advised that information posted in these venues may become public knowledge.
 
 **Storing Your Personal Data**
 
@@ -56,7 +56,7 @@ Data that is provided to us is stored on our secure servers. Details relating to
 
 **Disclosing Your Information**
 
-Where applicable, we may disclose your personal and non-personal information to any member of our group. This includes, where applicable, subsidiaries, related companies or affiliates.
+Where applicable, we may disclose your personal and non-personal information to any member of our group. This includes, where applicable, subsidiaries, related companies or publishers.
 
 We may also disclose your personal and non-personal information to third parties:
 
@@ -85,9 +85,9 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy.
 
-Please do not hesitate to contact us at: [www.affiliatefuturesupport.co.uk](http://www.affiliatefuturesupport.co.uk/)
+Please do not hesitate to contact us at: [ www.affiliatefuturesupport.co.uk](http://www.affiliatefuturesupport.co.uk/)
 
-**AffiliateFuture**  
+**Affiliate Future**   
 John Carpenter House   
 John Carpenter Street   
 London   
