@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offensive-security.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316010645id_/https%3A//www.offensive-security.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offensive-security.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102142id_/https%3A//www.offensive-security.com/privacy-policy) for the most accurate reproduction.*
 
 # Offensive Security Privacy Policy
 
