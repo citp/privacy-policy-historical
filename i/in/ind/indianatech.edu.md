@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianatech.edu privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325085946id_/http%3A//its.indianatech.edu/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianatech.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062437id_/http%3A//its.indianatech.edu/policies/privacy-policy) for the most accurate reproduction.*
 
 # Indiana Tech: IT Services: Privacy Policy
 
