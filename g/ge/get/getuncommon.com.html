@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getuncommon.com privacy policy that was archived on 2015-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150418174046id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getuncommon.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906011449id_/http%3A//www.getuncommon.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" xmlns:og="http://ogp.me/ns#" style=""><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -27,9 +27,9 @@
 <link rel="dns-prefetch" href="//platform.twitter.com">
 <link rel="dns-prefetch" href="//connect.facebook.net">
 <!-- End DNS Prefetching -->
-<link rel="stylesheet" href="/css/style.abcic2KkSBPg86qovbOWu.css">
-<link rel="stylesheet" href="/css/plugins.abcic2KkSBPg86qovbOWu.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<link rel="stylesheet" href="/css/style.abcNaCyFw35jtbCajLC_u.css">
+<link rel="stylesheet" href="/css/plugins.abcNaCyFw35jtbCajLC_u.css">
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
 <script>window.Modernizr || document.write("<script src='/js/libs/modernizr.min.js'>\x3C/script>")</script><script src="/js/libs/modernizr.min.js"></script>
 <script>window.jQuery || document.write("<script src='/js/libs/jquery-latest.min.js'>\x3C/script>")</script><script src="/js/libs/jquery-latest.min.js"></script>
@@ -63,18 +63,18 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   </script>
-<script type="text/javascript" src="http://go.accmgr.com/seg?add=809224&amp;t=1"></script></head>
-<body class="safari">
+</head>
+<body>
 <!-- sessionScope.customAppleWorkflow: '' -->
 <div class="shadow100">
 <div id="tophead">
 <div id="accountTabs">
-<div id="loggedoff" class="visible clearfix">
+<div id="loggedoff" class="hidden clearfix">
 <ul id="widgets" class="clearfix">
-<li class="tab uppercase closed" onclick="uncommon.ui.helpers.navigateTo('/checkout/cart/');">
+<li id="cartState" class="tab uppercase closed" onclick="uncommon.ui.helpers.navigateTo('/checkout/cart/');">
 <a href="/checkout/cart/" id="cart">
 <span class="label clearfix">Cart</span>
-<span class="count">0</span>
+<span id="decoratorItemCountLoggedOut" class="count"></span>
 </a>
 </li>
 <li class="tab uppercase closed" onclick="uncommon.ui.helpers.navigateTo('https://www.getuncommon.com/account/sign-up/');">
@@ -82,10 +82,10 @@
 Sign Up
 </a>
 </li>
-<li id="images" class="tab closed">
+<li id="images" class="tab">
 <a href="/account/my-images/">
 <span class="label clearfix">Images</span>
-<span class="count">0</span>
+<span class="count"></span>
 </a>
 </li>
 <li class="tab uppercase closed" onclick="uncommon.ui.helpers.showSignin();">
@@ -133,25 +133,25 @@ Sign Up
 <li id="cart" class="tab open">
 <a href="/checkout/cart/">
 <span class="label clearfix">Cart</span>
-<span class="count">0</span>
+<span id="decoratorItemCountLoggedIn" class="count"></span>
 </a>
 </li>
 <li id="designs" class="tab open">
 <a href="/account/saved-designs/">
 <span class="label clearfix">Designs</span>
-<span class="count"></span>
+<span id="decoratorDesignCount" class="count"></span>
 </a>
 </li>
 <li id="images" class="tab open">
 <a href="/account/my-images/">
 <span class="label clearfix">Images</span>
-<span class="count">0</span>
+<span class="count"></span>
 </a>
 </li>
 <li id="favorites" class="tab open">
 <a href="/account/my-favorites/">
 <span class="label clearfix">Favorites</span>
-<span class="count"></span>
+<span id="favoritesCount" class="count"></span>
 </a>
 </li>
 </ul>
@@ -204,6 +204,9 @@ Products
 <a href="/products/iphone/iphone5/" class="bold">iPhone 5/5s</a>
 </li>
 <li class="subcategory">
+<a href="/products/iphone/uncommon-colors/" class="bold">iPhone 5/5s UN Colors™</a>
+</li>
+<li class="subcategory">
 <a href="/products/iphone/iphone5c/" class="bold">iPhone 5c</a>
 </li>
 <li class="subcategory">
@@ -236,13 +239,19 @@ Products
 </li>
 <li class="divider left">&nbsp;</li>
 <!-- topCat: 'SAMSUNG' -->
-<li id="topNavMenu-samsung" class="category "><a href="http://www.getuncommon.com/products/samsung/galaxy-s6/deflector.galaxys6defl.html" class="linkedcolhead">Samsung</a>
+<li id="topNavMenu-samsung" class="category "><a href="http://www.getuncommon.com/products/samsung/" class="linkedcolhead">Samsung</a>
 <ul>
 <li class="subcategory">
-<a href="http://www.getuncommon.com/products/samsung/galaxy-s5/deflector.galaxys5defl.html" class="bold">Samsung Galaxy S5</a>
+<a href="http://www.getuncommon.com/products/samsung/galaxy-s6/deflector.galaxys6defl.html" class="bold">Galaxy S6</a>
 </li>
 <li class="subcategory">
-<a href="http://www.getuncommon.com/products/samsung/galaxy-s6/deflector.galaxys6defl.html" class="bold">Samsung Galaxy S6</a>
+<a href="http://www.getuncommon.com/products/samsung/galaxy-s6-edge/deflector.galaxys6edgedefl.html" class="bold">Galaxy S6 Edge</a>
+</li>
+<li class="subcategory">
+<a href="http://www.getuncommon.com/products/samsung/galaxy-s5/deflector.galaxys5defl.html" class="bold">Galaxy S5</a>
+</li>
+<li class="subcategory">
+<a href="http://www.getuncommon.com/products/samsung/galaxy-s4/deflector.galaxys4defl.html" class="bold">Galaxy S4</a>
 </li>
 </ul>
 </li>
@@ -268,6 +277,12 @@ Products
 <!-- topCat: 'ACCESSORIES' -->
 <li id="topNavMenu-accessories" class="category last"><a href="/products/accessories/" class="linkedcolhead">Accessories</a>
 <ul>
+<li class="subcategory">
+<a href="/products/accessories/cliptooth/" class="bold">ClipTooth™ Stereo</a>
+</li>
+<li class="subcategory">
+<a href="/products/accessories/cliptoothalu/" class="bold">ClipTooth™ Aluminum</a>
+</li>
 <li class="subcategory">
 <a href="/products/generic/screen-cloths/screencleaningcloth/screen-cleaning-cloth.screen-cleaning-cloth.html" class="bold">Screen Cleaning Cloth</a>
 </li>
@@ -305,23 +320,11 @@ Customize
 </li>
 </ul>
 <ul>
-<li><a href="/customize/designer/noelashby_r">Noel Ashby</a>
-</li>
-</ul>
-<ul>
-<li><a href="/customize/designer/david_goliath_r">David &amp; Goliath</a>
-</li>
-</ul>
-<ul>
 <li><a href="/customize/designer/samsung_s6_landing"></a>
 </li>
 </ul>
 <ul>
 <li><a href="/customize/designer/samsung_s5_landing"></a>
-</li>
-</ul>
-<ul>
-<li><a href="/customize/designer/samsung_galaxy">Samsung Galaxy Collection</a>
 </li>
 </ul>
 </li>
@@ -356,10 +359,10 @@ Customize
 <a href="/customize/grid/yellena-james/-14/">Yellena James</a>
 </li>
 <li class="hidden">
-<a href="/customize/grid/valentina-ramos/-14/">Valentina Ramos</a>
+<a href="/customize/grid/jill-bliss/-14/">Jill Bliss</a>
 </li>
 <li class="hidden">
-<a href="/customize/grid/jill-bliss/-14/">Jill Bliss</a>
+<a href="/customize/grid/valentina-ramos/-14/">Valentina Ramos</a>
 </li>
 <li class="hidden">
 <a href="/customize/grid/magda-sayeg/-14/">Magda Sayeg</a>
@@ -442,23 +445,26 @@ Ready-mades
 <div id="collections" class="menu flattop">
 <span class="sublabel">Browse Ready-Mades</span>
 <ul>
-<!-- facet: 'Brands:[Top Sellers (102), David <amp> Goliath (45), Paul Frank (160), ZooBorns (12), Isaac Mizrahi New York™ (48), Pixopop (54), The Public Zoo (42), Uglydoll (83), Birdie (24), Florence Broadhurst (12), FREE CITY (12), GAMA-GO (18)]' -->
+<!-- facet: 'Brands:[TripAdvisor® (22), Top Sellers (101), Paul Frank (160), Uglydoll (83), Isaac Mizrahi New York™ (48), ZooBorns (12), Pixopop (54), The Public Zoo (42), Florence Broadhurst (12), FREE CITY (12)]' -->
 <li class="category">Brands
 <ul>
 <li>
-<a href="/ready-mades/landing/top-sellers/-13/">Top Sellers</a>
+<a href="/ready-mades/landing/tripadvisor/-13/">TripAdvisor®</a>
 </li>
 <li>
-<a href="/ready-mades/landing/david_goliath/-13/">David <amp> Goliath</amp></a>
+<a href="/ready-mades/landing/top-sellers/-13/">Top Sellers</a>
 </li>
 <li>
 <a href="/ready-mades/landing/paul-frank/-13/">Paul Frank</a>
 </li>
 <li>
-<a href="/ready-mades/landing/zooborns/-13/">ZooBorns</a>
+<a href="/ready-mades/landing/uglydoll/-13/">Uglydoll</a>
 </li>
 <li>
 <a href="/ready-mades/landing/isaac-mizrahi/-13/">Isaac Mizrahi New York™</a>
+</li>
+<li>
+<a href="/ready-mades/landing/zooborns/-13/">ZooBorns</a>
 </li>
 <li>
 <a href="/ready-mades/landing/pixopop/-13/">Pixopop</a>
@@ -467,55 +473,46 @@ Ready-mades
 <a href="/ready-mades/landing/public-zoo/-13/">The Public Zoo</a>
 </li>
 <li>
-<a href="/ready-mades/landing/uglydoll/-13/">Uglydoll</a>
-</li>
-<li>
-<a href="/ready-mades/landing/birdie/-13/">Birdie</a>
-</li>
-<li>
 <a href="/ready-mades/landing/florence-broadhurst/-13/">Florence Broadhurst</a>
 </li>
 <li>
 <a href="/ready-mades/landing/free-city/-13/">FREE CITY</a>
 </li>
-<li>
-<a href="/ready-mades/landing/gama-go/-13/">GAMA-GO</a>
-</li>
 </ul>
 </li>
 <li class="divider left">&nbsp;</li>
-<!-- facet: 'Uncommon_Collections:[Samsung Galaxy Collection (12), Throwback (54), USA (12), Neoprene Sleeves (42), Power Gallery<sup>TM</sup> (21), Color Wheel (18), Animal (48), Floral (24), Sorority Life (310), Stripes (78), Quotes (42)]' -->
+<!-- facet: 'Uncommon_Collections:[Samsung Galaxy Collection (12), Neoprene Sleeves (42), USA (12), Throwback (54), Floral (24), Stripes (78), Sorority Life (310), Animal (48), Color Wheel (18), Power Gallery&lt;sup>TM&lt;/sup> (21), Quotes (42)]' -->
 <li class="category">Uncommon Collections
 <ul>
 <li>
 <a href="/ready-mades/landing/samsung-galaxy-collection/-11/">Samsung Galaxy Collection</a>
 </li>
 <li>
-<a href="/ready-mades/landing/throwback/-11/">Throwback</a>
+<a href="/ready-mades/landing/neoprene-sleeves/-11/">Neoprene Sleeves</a>
 </li>
 <li>
 <a href="/ready-mades/landing/usa/-11/">USA</a>
 </li>
 <li>
-<a href="/ready-mades/landing/neoprene-sleeves/-11/">Neoprene Sleeves</a>
-</li>
-<li>
-<a href="/ready-mades/landing/power-gallery-un/-11/">Power Gallery<sup>TM</sup></a>
-</li>
-<li>
-<a href="/ready-mades/landing/color-wheel/-11/">Color Wheel</a>
-</li>
-<li>
-<a href="/ready-mades/landing/animal/-11/">Animal</a>
+<a href="/ready-mades/landing/throwback/-11/">Throwback</a>
 </li>
 <li>
 <a href="/ready-mades/landing/florals/-11/">Floral</a>
 </li>
 <li>
+<a href="/ready-mades/landing/stripes/-11/">Stripes</a>
+</li>
+<li>
 <a href="/ready-mades/landing/sorority-life/-11/">Sorority Life</a>
 </li>
 <li>
-<a href="/ready-mades/landing/stripes/-11/">Stripes</a>
+<a href="/ready-mades/landing/animal/-11/">Animal</a>
+</li>
+<li>
+<a href="/ready-mades/landing/color-wheel/-11/">Color Wheel</a>
+</li>
+<li>
+<a href="/ready-mades/landing/power-gallery-un/-11/">Power Gallery<sup>TM</sup></a>
 </li>
 <li>
 <a href="/ready-mades/landing/quotes/-11/">Quotes</a>
@@ -523,12 +520,9 @@ Ready-mades
 </ul>
 </li>
 <li class="divider left">&nbsp;</li>
-<!-- facet: 'Featured_Designers:[Katie Rodgers (36), Khristian Howell (60), Margaret Berg (36), Noel Ashby (72), Yellena James (54), Ana Romero (54), Emily McDowell (48), Izak Zenou (48), Jessica Hische (182), Valentina Ramos (54), David Redon (39), Jill Bliss (40), Matthew Hoffman (66), Noteify (24), Sneaker St. (69), The Seventh Letter (75), swissted (90), Debbie Clapper (30), Children's Art Project (48), Kal Barteski (24), Gina Triplett (30), Pop Chart Lab (27)]' -->
+<!-- facet: 'Featured_Designers:[Khristian Howell (70), Margaret Berg (62), Noel Ashby (72), Yellena James (54), Ana Romero (70), Emily McDowell (48), Izak Zenou (48), Jessica Hische (182), Valentina Ramos (54), David Redon (39), Sneaker St. (69), Gina Triplett (30)]' -->
 <li class="category">Featured Designers
 <ul>
-<li>
-<a href="/ready-mades/landing/katie-rodgers/-12/">Katie Rodgers</a>
-</li>
 <li>
 <a href="/ready-mades/landing/khristian-howell-frost/-12/">Khristian Howell</a>
 </li>
@@ -560,42 +554,15 @@ Ready-mades
 <a href="/ready-mades/landing/david-redon/-12/">David Redon</a>
 </li>
 <li>
-<a href="/ready-mades/landing/jill-bliss/-12/">Jill Bliss</a>
-</li>
-<li>
-<a href="/ready-mades/landing/you-are-beautiful/-12/">Matthew Hoffman</a>
-</li>
-<li>
-<a href="/ready-mades/landing/noteify/-12/">Noteify</a>
-</li>
-<li>
 <a href="/ready-mades/landing/sneaker-st/-12/">Sneaker St.</a>
-</li>
-<li>
-<a href="/ready-mades/landing/the-seventh-letter/-12/">The Seventh Letter</a>
-</li>
-<li>
-<a href="/ready-mades/landing/swissted/-12/">swissted</a>
-</li>
-<li>
-<a href="/ready-mades/landing/debbie-clapper/-12/">Debbie Clapper</a>
-</li>
-<li>
-<a href="/ready-mades/landing/childrens-art-project/-12/">Children's Art Project</a>
-</li>
-<li>
-<a href="/ready-mades/landing/kal-barteski/-12/">Kal Barteski</a>
 </li>
 <li>
 <a href="/ready-mades/landing/gina-triplett/-12/">Gina Triplett</a>
 </li>
-<li>
-<a href="/ready-mades/landing/popchartlab/-12/">Pop Chart Lab</a>
-</li>
 </ul>
 </li>
 <li class="divider left">&nbsp;</li>
-<!-- facet: 'Clearly_Uncommon:[Gradients (20), UN Collection (23), For White iPhones (51), For Black iPhones (22)]' -->
+<!-- facet: 'Clearly_Uncommon:[Gradients (20), UN Collection (24), For White iPhones (51), For Black iPhones (22)]' -->
 <li class="category">Clearly Uncommon
 <ul>
 <li>
@@ -613,7 +580,7 @@ Ready-mades
 </ul>
 </li>
 <li class="divider left">&nbsp;</li>
-<!-- facet: 'Clearly_Frosted:[Hannah Yoon (12), Khristian Howell (12), Love & Stripes (12), Noel Ashby (12), Camo (12), Collegiate (333), Sorbet<sup>TM</sup> Series (20)]' -->
+<!-- facet: 'Clearly_Frosted:[Hannah Yoon (12), Khristian Howell (12), Love &amp; Stripes (12), Camo (12), Collegiate (176), Sorbet&lt;sup>TM&lt;/sup> Series (18)]' -->
 <li class="category">Clearly Frosted
 <ul>
 <li>
@@ -624,9 +591,6 @@ Ready-mades
 </li>
 <li>
 <a href="/ready-mades/landing/love-and-stripes/-19/">Love &amp; Stripes</a>
-</li>
-<li>
-<a href="/ready-mades/landing/noel-ashby/-19/">Noel Ashby</a>
 </li>
 <li>
 <a href="/ready-mades/landing/camo/-19/">Camo</a>
@@ -660,7 +624,7 @@ Gift Cards
 <div id="pagecopy" class="generic">
 <div class="contentblock clearfix">
 <h1>Privacy Policy</h1>
-<h4 class="lightgray">Last Updated: December 11, 2009</h4>
+<h4 class="lightgray">Last Updated: May 27, 2015</h4>
 <div class="copy">
 <p>This Privacy Policy is designed to notify you about how we collect, use, disclose, transfer, and otherwise process personally identifiable information that we collect on the site (‘Personal Information’). Each time you visit the site, you consent to the collection, use, disclosure, and processing of Personal Information in accordance with this Privacy Policy. In particular, if you are located in a jurisdiction outside the United States, you consent to the transfer of your Personal Information to our servers and computer systems anywhere in the world, including to countries that may not provide an equivalent level of data protection to the laws in your home jurisdiction. If you provide any Personal Information that relates to another person you hereby state and agree that you have obtained proper consent from such person for the use, disclosure, and processing of such Personal Information as described in this Privacy Policy.</p>
 <p>The site actively collects Personal Information from you when you register with the site, when you send any e-mail to the site administrator, and when you submit any information to the site. The kinds of Personal Information you may provide include your name, contact information including e-mail address, user ID, and other information that you include in any communication or submission. We may use this Personal Information to register you with the site, to respond to your inquiry or the issue you pose to the site administrator, to post your submissions to the site and to provide information to others regarding your use of the site. We may also use Personal Information to notify you about products and services that may be of interest to you. If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at <a href="mailto:hello@getuncommon.com">hello@getuncommon.com</a>.</p>
@@ -684,9 +648,8 @@ Gift Cards
 <h3>Contact Us</h3>
 <p>If you have any questions or suggestions regarding our privacy policy, please contact us at:</p>
 <p>Uncommon <span class="caps">LLC</span><br>
-1556 W. Carroll<br>
-Space 202<br>
-Chicago IL, 60607</p>
+2759 W. Lawrence Ave.<br>
+Chicago IL, 60625</p>
 <p>+1 877 <span class="caps">MYUNCOMMON</span><br>
 E-Mail: <a href="mailto:hello@getuncommon.com">hello@getuncommon.com</a></p>
 </div>
@@ -737,11 +700,13 @@ Sign up
 <div class="cell clearfix">
 <nav class="clearfix">
 <ul>
+<li><a href="/products/iphone/iphone6-plus/">iPhone 6 Plus Cases</a></li>
+<li><a href="/products/iphone/iphone6/">iPhone 6 Cases</a></li>
 <li><a href="/products/iphone/iphone5/">iPhone 5/5S Cases</a></li>
 <li><a href="/products/iphone/iphone4/">iPhone 4/4S Cases</a></li>
-<li><a href="/products/ipod-touch/ipod-touch4/">iPod Touch Cases</a></li>
+<li><a href="/products/ipod-touch/ipod-touch5/">iPod 5 Touch Cases</a></li>
 <li><a href="/products/ipad/ipad3/">iPad Cases</a></li>
-<li><a href="/products/giftcard/">Gift Cards</a></li>
+<!-- <li><a href="/products/giftcard/">Gift Cards</a></li> -->
 </ul>
 <ul>
 <li><a href="/customize/">Customize a Case</a></li>
@@ -766,18 +731,15 @@ Sign up
 <script src="/js/libs/jquery.tools.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 <script>jQuery().position || document.write("<script src='/js/libs/jquery-ui-latest.min.js'>\x3C/script>")</script>
-<script src="/js/scripts.min.abcic2KkSBPg86qovbOWu.js"></script>
+<script src="/js/scripts.min.abcNaCyFw35jtbCajLC_u.js"></script>
 <!-- end scripts-->
-<!-- Segment Pixel - Uncommon Homepage_SV - DO NOT MODIFY -->
 <script type="text/javascript">
-      var script = document.createElement("script");
-      script.type = "text/javascript";
-      script.src = "http://go.accmgr.com/seg?add=809224&t=1";
-      document.getElementsByTagName("head")[0].appendChild(script);
-      </script>
-<!-- End of Segment Pixel -->
-<!-- Segment Pixel - GetUncommon--Shoppers - DO NOT MODIFY -->
-<script src="http://ib.adnxs.com/seg?add=1057455&amp;t=1" type="text/javascript"></script>
-<!-- End of Segment Pixel -->
-
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
 </body></html>
