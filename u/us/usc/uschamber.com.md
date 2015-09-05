@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629044253id_/https%3A//www.uschamber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschamber.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905171611id_/https%3A//www.uschamber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Chamber of Commerce
 
