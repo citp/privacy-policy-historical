@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616041429id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905184848id_/https%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Red Lobster: Online Privacy Notice
 
-Effective Date: March 2, 2015 
+Effective Date: Friday, July 31, 2015 
 
 We at Red Lobster Management LLC, along with our affiliates (collectively, "Red Lobster"), respect your concerns about privacy. This Privacy Notice applies to personal information we collect on the Red Lobster websites on which we have posted this Privacy Notice (collectively, the "Sites"). 
 
@@ -33,7 +33,6 @@ We may obtain certain personal information (such as name and other contact detai
 
   * Contact information, such as your name, postal address, e-mail address, and telephone number;
   * Names, postal addresses, e-mail addresses and telephone numbers of others to whom you ask us to send information;
-  * Username and password to access Red Lobster products and services online;
   * Payment information (such as payment card details, financial account information and billing address);
   * Birth date;
   * Online order history;
