@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdspring.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607194015id_/http%3A//www.crowdspring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdspring.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052451id_/https%3A//www.crowdspring.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | crowdSPRING | crowdSPRING
 
