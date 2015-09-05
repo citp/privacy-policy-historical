@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034215id_/https%3A//www.firsttennessee.com/global/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftb.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905075416id_/https%3A//www.firsttennessee.com/global/Privacy) for the most accurate reproduction.*
 
 # Privacy Notice: First Tennessee Bank
 
@@ -78,8 +78,7 @@ We also collect your personal information from others, such as credit bureaus, a
 **Why can't I limit all sharing?**  
 Federal law gives you the right to limit only 
 
-  * sharing for affiliates' everyday business purposes
-  * information about your creditworthiness 
+  * sharing for affiliates' everyday business purposes – information about your creditworthiness 
   * affiliates from using your information to market to you 
   * sharing for non-affiliates to market to you 
 
@@ -93,7 +92,7 @@ Your choices will apply to everyone on your account.
 ### Definitions
 
 **Affiliates**  
-Companies related by common ownership or control. They can be financial and non-financial companies 
+Companies related by common ownership or control. They can be financial and non-financial companies.
 
   * _Our affiliates include companies with a First Horizon/First Tennessee name; financial companies such as First Tennessee Bank; and others such as FTB Advisors Insurance Services, Inc._
 
@@ -133,8 +132,8 @@ First Tennessee Home Loans¹
 FTN Financial Capital Markets¹  
 FTN Financial Main Street Advisors, LLC  
 FTN Financial Securities Corp.  
-
+ 
 
 ¹A division of First Tennessee Bank National Association
 
-Rev 4/2014
+Rev 4/2020
