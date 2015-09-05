@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trumphotelcollection.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626175758id_/http%3A//www.trumphotelcollection.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumphotelcollection.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074926id_/https%3A//www.trumphotelcollection.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Worldwide Luxury Hotels | Trump Hotel Collection™– Privacy Policy | Luxury 5 Star Hotels
+# Worldwide Luxury Hotels | Trump Hotel Collection™– Privacy Policy | Luxury Hotels International
 
 []()
 
