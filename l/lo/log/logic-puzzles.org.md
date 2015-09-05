@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logic-puzzles.org privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428151928id_/http%3A//www.logic-puzzles.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logic-puzzles.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053102id_/http%3A//www.logic-puzzles.org/privacy.php) for the most accurate reproduction.*
 
 # Logic Puzzles - Privacy Policy
 
