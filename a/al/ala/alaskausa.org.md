@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319141811id_/https%3A//www.alaskausa.org/service/security/privacynotice.asp%3Ft%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905102321id_/https%3A//www.alaskausa.org/service/security/privacynotice.asp%3Ft%3Df) for the most accurate reproduction.*
 
 # Alaska USA Privacy Notice
 
