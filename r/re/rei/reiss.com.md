@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reiss.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322083756id_/https%3A//www.reiss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reiss.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906010201id_/https%3A//www.reiss.com/us/privacy) for the most accurate reproduction.*
 
 # Reiss Online | Privacy & Cookie Policy
 
-[REISS](https://www.reiss.com/) / Privacy & Cookie Policy 
+[REISS](https://www.reiss.com/us/) / Privacy & Cookie Policy 
 
   * Privacy Statement 
   * Cookies 
