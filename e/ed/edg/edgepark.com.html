@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edgepark.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316141433id_/https%3A//www.edgepark.com/WebsitePrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edgepark.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905122231id_/https%3A//www.edgepark.com/WebsitePrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js filters-off" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -14,11 +14,11 @@
 		<link rel="shortcut icon" href="/_ui/desktop/common/images/ui/favicon.png" type="image/png">
 
 	<link rel="stylesheet" href="/_ui/desktop/common/css/reset.css">
-<link rel="stylesheet" href="/_ui/desktop/common/css/main-asm.css?ck=5142"> <link rel="stylesheet" href="/_ui/desktop/common/css/main.css?ck=5142">
-<link rel="stylesheet" href="/_ui/desktop/common/css/jquery-ui.css">
+<link rel="stylesheet" href="/_ui/desktop/common/css/main-asm.css?ck=5409"> <link rel="stylesheet" href="/_ui/desktop/common/css/main.css?ck=5409">
+<link rel="stylesheet" href="/_ui/desktop/common/css/jquery-ui-1.10.4.custom.css">
 <link rel="stylesheet" href="/_ui/desktop/common/css/skin.css">
-<link rel="stylesheet" href="/_ui/desktop/common/css/print.css?ck=5142" media="print">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/_ui/desktop/common/js/vendor/html5shiv.js"></script>
+<link rel="stylesheet" href="/_ui/desktop/common/css/print.css?ck=5409" media="print">
+<link rel="stylesheet" href="/_ui/desktop/common/css/select2-3.5.2.css?ck=5409"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/_ui/desktop/common/js/vendor/html5shiv.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="/_ui/desktop/common/js/vendor/jquery-1.8.1.min.js"><\/script>')</script><script src="/_ui/desktop/common/js/vendor/jquery-1.8.1.min.js"></script>
 	<script src="/_ui/desktop/common/js/vendor/jquery.fancybox.js"></script>
@@ -117,10 +117,34 @@ $(document).ready(function()
 		});
 	}
 	
+	//Balance and Payments Page
 	
 	$('.page-accountBalancePayments #field_700').click(function()
 	{
-		_gaq.push(['_trackEvent', 'Account Balance', 'Payment', 'Account Balance Payment', parseInt($('#balance-due-amount').text().match(/$(\d+)(?:.\d+)?/)[1])]);
+		 //_gaq.push(['_trackEvent', 'Account Balance', 'Payment', 'Account Balance Payment', parseInt($('#balance-due-amount').text().match(/$(\d+)(?:.\d+)?/)[1])]);
+		_gaq.push(['_trackEvent', 'Account Balance', 'Payment', 'Account Balance Payment', parseInt($('#field_7001').val())]);
+		
+	});
+	
+	//Simplee Login Page (https://www.edgepark.com/login/sso/simplee) 
+	$('.page-login #field_s').click(function()
+	{	
+		_gaq.push(['_trackEvent', 'Account Balance', 'Payment', 'Simplee Login Payment']);
+		
+	});  
+	
+	//Footer Link (2)
+	$("a[title='Make a Payment']").click(function()
+	{	
+		_gaq.push(['_trackEvent', 'Account Balance', 'Payment', 'Footer Make a Payment']);
+				
+	}); 
+	
+	//Notification (2)
+	$("button[data-notification-type-code='AccountBalanceBased-BalanceDue']").click(function()
+	{	
+		_gaq.push(['_trackEvent', 'Account Balance', 'Payment', 'Balance Notification']);
+				
 	});
 	
 	
@@ -128,6 +152,15 @@ $(document).ready(function()
 	{
 		_gaq.push(['_trackEvent', 'Site Type', 'Desktop Link Clicked']);
 	});
+	
+	
+	//View Balance on Order Confirmation
+	$('.page-accountBalancePayments #field_195').click(function()
+	{	
+		_gaq.push(['_trackEvent', 'Account Balance', 'Payment', 'Order Conformation - View Balance']);
+		
+	});
+	
 	
 	
 	$('a[href="/_s/ui-experience?level=Mobile"]').click(function()
@@ -352,7 +385,7 @@ $(document).ready(function()
 								<form name="search_form" method="get" action="/search">
 									<input id="search" class="text" type="text" name="text" maxlength="100" placeholder="Search Products"> 
 										<input type="submit" value="search">
-								<input type="hidden" name="as_sfid" value="AAAAAAU3E9JE99FjLce80Ri10C3DnduBVEMigQ-5BNfR7zms6nDfvRk8ZmH75nRnBHT-J7iOGWkX_6kwPFCMe6ajUMrNPFKAZ89p7chViUURatkhTQ=="><input type="hidden" name="as_fid" value="RvAqShrTJVe00npmT_xE"></form>
+								<input type="hidden" name="as_sfid" value="AAAAAAWXQxpkB2o97_hMa6GWklauAyhsAU-8rQHbgqR60Zpb9exQqveBVnPxVVnDMtmnCbCCCSJgDchALHrC3k8EYbx4OTKV4YbMjvDTlJ9jcqnSow=="><input type="hidden" name="as_fid" value="GIlNX9jKgt4nKO63Z3zK"></form>
 							</div>
 						</div>
 						<nav class="clearfix">
@@ -448,8 +481,8 @@ $(document).ready(function()
 				<div class="vert"></div>
 				<div class="related clearfix">
 					<ul class="bullet">
-						<li><a href="/ostomy_new" title="New to ostomy?">New to ostomy?</a></li>
 						<li><a href="/ostomy_living_with" title="Living with an ostomy">Living with an ostomy</a></li>
+						<li><a href="/ostomyaccessoriesguide" title="Ostomy accessories guide">Ostomy accessories guide</a></li>
 						<li><a href="https://www.edgepark.com/static/Catalog%20Files/2015_Ostomy_Catalog/index.html#/1/" title="View Ostomy Catalog" target="_blank">View Ostomy Catalog</a></li>
 						</ul>
 					<div class="co-op">
@@ -706,7 +739,10 @@ $(document).ready(function()
 						</nav>
 					</div>
 		
-				<div class="account-bar">
+				<div class="alerts clearfix">
+	<span class="attention">ATTENTION:</span> <span class="message"><p>Delivery schedule changes for the Labor Day holiday may affect some Edgepark orders. </p><a href="/holidaydeliveryschedule" class="button-link">Learn more</a>
+			</span>
+</div><div class="account-bar">
 						<div class="non-authenticated">
 								<form id="loginForm" action="/j_spring_security_check" method="post"><span class="greeting">Access Your Account</span>
 									<label class="inline">
@@ -717,7 +753,7 @@ $(document).ready(function()
 									</label>
 									<button id="field_808" type="submit" class="blue" data-href="">
 										Log in</button>
-								<input type="hidden" name="as_sfid" value="AAAAAAWF_LngE6gkM9uifYmoNcfSMI_AEZfWgBUsFeGfv01EkLtPxoQu0Q6d1nwfimCfyXKIzAbQUdCs4tbvRHxc4FhHLzwoa-5ZlxVsiRLuS4-JYw=="><input type="hidden" name="as_fid" value="P1mw7LKsCUPHY5mWYbtI"></form><div class="create-an-account">
+								<input type="hidden" name="as_sfid" value="AAAAAAXqk6hgy8wArLDLzHIR9gYWQMTFIKk5IsoddRbbpr-DZNU6tUAYvG81Key-vNOyz2ILelZmfqbNtQvVFqxNwqalQNrLkDXSbd34E8-ayxHQGg=="><input type="hidden" name="as_fid" value="536lx-f0XZNqWLc0S6G7"></form><div class="create-an-account">
 									<a href="/login/pw/request">Forgot Password?</a><a href="/login">Set up online access</a>
 								</div>
 							</div>
@@ -845,14 +881,16 @@ $(document).ready(function()
 </div>
 <form name="accessiblityForm">
 		<input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value="">
-	<input type="hidden" name="as_sfid" value="AAAAAAVgopp8eBMdghTOTPFoVF3YwjRuT0I8CE6c5c7e5wE2J2FjMk9H996Pw8Ey2s2LaapJL7m-u8aZLlTT0H-YFCoJcoCS3sjdMQzzetXRcLxp5A=="><input type="hidden" name="as_fid" value="Hn3Me2Ft-BY4LYnA_HUK"></form>
+	<input type="hidden" name="as_sfid" value="AAAAAAU-c4Fp5Akxzx27DnVE-ZyX2D2AMPLOA4A0vLYnfXWFJ6abptqdMQ-S39C-blNYb4fNCqqLDCthNMimn2x1tO1pXCJ1kr6-rKjniIii_Rr-rA=="><input type="hidden" name="as_fid" value="PLEV8ybZ37221Tq2mZeK"></form>
 	<div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
 
 	<script src="/_ui/desktop/common/js/vendor/jquery.dotdotdot-1.5.7-packed.js"></script>
 <script src="/_ui/desktop/common/js/vendor/jquery.placeholder.js"></script>
 <script src="/_ui/desktop/common/js/vendor/jquery.mask.min.js"></script>
-<script src="/_ui/desktop/common/js/vendor/jquery-ui-1.10.3.custom.min.js"></script>
+<script src="/_ui/desktop/common/js/vendor/jquery-ui-1.10.4.custom.min.js"></script>
 <script src="/_ui/desktop/common/js/vendor/jquery.jcarousel.min.js"></script>
-<script src="/_ui/desktop/common/js/application-asm.js?ck=5142"></script> <script src="/_ui/desktop/common/js/application.js?ck=5142"></script>
+<script src="/_ui/desktop/common/js/application-asm.js?ck=5409"></script> <script src="/_ui/desktop/common/js/application.js?ck=5409"></script>
+<script src="/_ui/desktop/common/js/vendor/select2-3.5.2.min.js"></script>
+<script src="/_ui/desktop/common/js/vendor/jquery.storage.js"></script>
 
 </body></html>
