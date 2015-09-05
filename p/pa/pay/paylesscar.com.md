@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315053339id_/https%3A//www.paylesscar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylesscar.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061427id_/https%3A//www.paylesscar.com/privacy) for the most accurate reproduction.*
 
 # Payless Car Rental - Privacy Policy
 
@@ -28,7 +28,7 @@ We collect customer data in two ways:
 > 
 > If, after signing up for a Payless contest or promotion, you no longer wish to participate, you may Opt-Out of all future mailings from Payless Car Rental System, Inc.
 > 
-> [Click here](https://web.archive.org/customer-care/new-rentals.do) to visit the Customer Care page and let us know you'd like to opt-out. 
+> [Click here](https://desk.paylesscar.com/home/open.php) to visit the Customer Care page and let us know you'd like to opt-out. 
 > 
 > Secondly, you may notify us using the “Option Provision” method below, which is a non-electronic version of our Opt-Out system. You may send us a Notification of Removal letter in which, when received by Payless Corporate, we will manually remove your personal information from our promotion database.
 > 
