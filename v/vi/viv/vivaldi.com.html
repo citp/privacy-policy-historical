@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vivaldi.com privacy policy that was archived on 2015-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150626233839id_/https%3A//www.vivaldi.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivaldi.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905102400id_/https%3A//vivaldi.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta charset="utf-8">
@@ -8,13 +8,42 @@
   <meta name="keywords" content="privacy,policy,data retention,statement">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:url" content="https://www.vivaldi.com">
-  <meta property="og:title" content="Privacy Policy ◦ Vivaldi">
+  <meta property="og:title" content="Privacy Policy – Vivaldi">
   <meta property="og:image" content="/images/viv-fb-og.jpg">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Vivaldi">
   <meta name="alexaVerifyID" content="X7KPbc_gA3vJ9NEhHWj3qG4Wfi8">
-  <title>Privacy Policy ◦ Vivaldi</title>
-  <link href="/assets/css/style-6768bc54.css" rel="stylesheet" type="text/css">
+  <title>Privacy Policy – Vivaldi</title>
+  <link href="/assets/css/style-f1d70e71.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" async="" defer="" src="https://vivaldi.com/piw/piwik.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+  <!-- SLIDESHOW ON FRONT PAGE START -->
+  <script>
+    $(function(){
+    $('.fadein img:gt(0)').hide();
+    setInterval(function(){
+      $('.fadein :first-child').fadeOut( 0 )
+         .next('img').fadeIn( 0 )
+         .end().appendTo('.fadein');},
+      3000);
+    });
+  </script>
+  <!-- SLIDESHOW ON FRONT PAGE END -->
+
+  <!-- QUOTES FRONT PAGE START -->
+  <script>
+    $(function(){
+    $('.quoteshow div:gt(0)').hide();
+    setInterval(function(){
+      $('.quoteshow :first-child').fadeOut( 0 )
+         .next('div').fadeIn( 0 )
+         .end().appendTo('.quoteshow');},
+      6000);
+    });
+  </script>
+  <!-- QUOTES FRONT PAGE END -->
+
+
   </head>
 
 <body class="privacy">
@@ -45,7 +74,7 @@
                     <a target="_blank" href="https://vivaldi.net/en-US/blogs/teamblog">Blog</a>
         </div>
       </nav>
-               <a href="/download/" class="btn-download ">
+               <a href="/download/" onclick="javascript:_paq.push(['trackEvent', 'Download Click', 'Header']);" class="btn-download ">
           <span>Download</span>
           <span class="mobile-hidden">Vivaldi</span>
         </a>
@@ -94,7 +123,7 @@
           <div class="mini-sitemap-section">
             <h3>Vivaldi</h3>
             <a href="/#features">Features</a>
-            <a href="/download/">Download</a>
+            <a href="/download/" onclick="javascript:_paq.push(['trackEvent', 'Download Click', 'Footer']);">Download</a>
             <a href="/bugreport/">Report a Bug</a>
           </div>
           <div class="mini-sitemap-section">
@@ -145,7 +174,7 @@
         </p>
       </div>
           </footer>
-    <script type="text/javascript" async="" defer="" src="https://vivaldi.com/piw/piwik.js"></script><script src="/assets/js/script-abd433aa.js"></script>
+    <script src="/assets/js/script-abd433aa.js"></script>
     <!-- Piwik -->
     <script type="text/javascript">
       var _paq = _paq || [];
