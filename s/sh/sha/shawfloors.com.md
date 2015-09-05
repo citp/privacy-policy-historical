@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606033917id_/https%3A//shawfloors.com/why-shaw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawfloors.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060753id_/https%3A//shawfloors.com/why-shaw/privacy-policy) for the most accurate reproduction.*
 
 # Why Shaw? | Privacy Policy | Shaw Floors
 
 ## Privacy Policy
 
-[Pin It](https://www.pinterest.com/pin/create/button/?url=https%3a%2f%2fshawfloors.com%2fwhy-shaw%2fprivacy-policy&media=http%3a%2f%2fshawfloors.scene7.com%2fis%2fimage%2fShawIndustries%2fSW432_18212_ROOM%3f&description=Privacy+Policy.+wid=1020)
+[Pin It](https://www.pinterest.com/pin/create/button/?url=https%3a%2f%2fshawfloors.com%2fwhy-shaw%2fprivacy-policy&media=http%3a%2f%2fshawfloors.scene7.com%2fis%2fimage%2fShawIndustries%2fSW548_01001_ROOM&description=Privacy+Policy.+wid=1020)
 
 Shaw Industries, Inc. is committed to respecting the privacy of all our visitors to our Web Site. We believe it is important you know how we treat the information about you we receive on the Internet. Although we track the total number of visitors to each of our sites in an aggregate form to allow us to update and improve our sites, personally identifiable information is not extracted in this process. 
 
