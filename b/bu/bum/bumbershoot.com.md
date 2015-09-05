@@ -1,29 +1,156 @@
-> *The following text is extracted and transformed from the bumbershoot.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116224542id_/http%3A//bumbershoot.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumbershoot.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905172424id_/http%3A//bumbershoot.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bumbershoot 2013
+# Privacy : Bumbershoot
 
-As part of the usage terms of our website, You, the user (“you”), will be asked to provide financial, demographic and contact information. This notice describes our privacy policy concerning the collection, use and dissemination of this information. We, Bumbershoot, are committed to protecting the privacy and accuracy of your confidential information. Other than as required by state and federal laws that guarantee access or require information disclosure, your personally identifiable information is not shared without your permission. Please review this policy periodically, as it is subject to change. 
+### Privacy Policy
 
-By accepting this Privacy Policy and Terms of Use, you consent to the use and dissemination practices prescribed in this policy. This privacy policy is not indented to, and does not create any contractual or other legal rights in or on behalf of ONE REEL.
+Privacy Policy
 
-### Information Collected
+ **General Overview**
 
-As part of our ticket ordering process, Bumbershoot collects your **contact information** (email address and/or name), and **computer network information** (IP address, web pages requested, referring web page, browser, and date and time), and **demographic information** (personal preferences and interests). The term “personal information” refers collectively to contact information, computer networks information and demographic information. The preceding list serves as examples only and may be expanded or modified without notice to users. We may collect personal information through customer surveys, contests, subscriptions, and newsletter registration. Please note that we do not knowingly collect personal information from children under the age of 13. This website complies with the Children’s Online Privacy Protection Act of 1998. Accordingly, **CHILDREN UNDER 13 YEARS OF AGE MAY NOT ACCESS THIS WEBSITE WITHOUT PARENTAL PERMISSION**.
+The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-### Use of Collected Information
+The Anshutz Entertainment Group (AEG) is committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request, and to provide you with a more personalized experience on our site. We have created this privacy policy statement in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. The following Privacy Policy discloses the information-gathering and dissemination practices and policies of AEG.
 
-Bumbershoot may use your information for the purpose of event promotion, quality assurance, and sales analysis. Contact information may be used to notify users of new services or content updates, as well as for surveys and newsletters. Computer network information may be used to diagnose service issues with our site and for demographic purposes. Demographic information may be used to enhance the user experience and to provide a content specific experience and for marketing purposes. 
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider, or you may visit other merchants through links on our site who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
 
-Much of this information is collected by the use of “Cookies.” Like most commercial websites, we use cookies to deliver content specific information, and to track purchases user activity on the website. Cookies are generally described as alphanumeric identifiers that are stored on your computer’s hard drive to enable recognition of your web browser. The use of cookies also allows the user to retrieve prior usage information and receive an enhanced user experience on the website. Sensitive personal information is not stored within these cookies. You may choose to disable cookies on your web browser but you may not be able to access certain areas or features of the website. Use of the term “Cookies” may also include similar technologies such as clear gifs, Javascript, web beacons, action tags, etc.
+Please read the following to learn more about our data collection policies and practices.
 
-Bumbershoot occasionally utilizes remarketing and interest-based marketing campaigns in order to serve display ads to potential patrons that have already shown an interest in Bumbershoot by visiting our website. Our remarketing and interest-based marketing campaigns will not collect personally identifiable information, including, but not limited to, email addresses, telephone numbers, and credit card numbers. Third-party vendors, including Google, show Bumbershoot ads on sites across the Internet by using cookies to serve ads based on someone’s past visits to our website. Information about how you can opt out of Google’s use of cookies can be found by visiting Google’s [Ads Preferences Manager](https://www.google.com/ads/preferences/). Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+  1. Types of Information that may be collected.
+  2. How is information collected?
+  3. How we use the information we collect.
+  4. With whom the information may be disclosed.
+  5. What choices do I have about AEG collecting, using, and sharing my information?
+  6. What security precautions are in place to protect against the loss, misuse, or alteration of your information?
+  7. Chat Rooms, Forums, and Message Boards.
+  8. Links to other Websites.
+  9. A special note for parents concerning privacy.
+  10. Limitation of Liability.
+  11. Notification of changes and acceptance of the Privacy Policy.
+  12. Correcting and updating personal information.
+  13. Opting out of Registration
+  14. Whom do I contact with questions or concerns about this privacy policy.
 
-Bumbershoot only sends marketing communications and offers to those who specifically opt-in to the service and submit their email addresses for that purpose. We will not sell to, trade or share email addresses with companies or other organizations without your express permission. You are given the opportunity to opt-out of our mailing list at any time. We may share anonymous, grouped information with advertisers for marketing purposes. 
 
-On the website, you may find hypertext links to web sites operated by third parties. Some of these websites may include our brand names while others do not. Bumbershoot does not control the content or information practices of external organizations. We recommend you review the privacy statements of these organizations.
 
-### Protecting Your Information
+ **Types of information that may be collected.**
 
-Bumbershoot will not ask you to provide your personal information in an unsolicited phone call or email message. You may also work to protect your information by using safe browsing practices such as: closing your browser window when you have finished; logging out of your account on a shared access computer; and encrypting data transmission on a wireless network. The use of the Bumbershoot website and transmission of your personal information is at the user’s risk. 
+The personally identifiable information we collect is used to facilitate delivery of tickets and/or other products and/or services to our customers. In the process of providing these products and/or services, we require our customers to provide certain personally identifiable information. Specific details may include, but are not limited to the following and may be subject to change:
 
-* * *
+In the case of contests, promotions, and/or newsletter registrations or other features that may or may not involve a purchase: We may require all users and/or customers wishing to participate in any of our contests, drawings, sweepstakes, promotions, newsletters, Fantasy Games, Webcasts or other interactive features which may or may not require a purchase to complete an entry form which will require the submission of certain personally-identifiable information.
+
+The personally-identifiable information that may be collected in an entry form includes, but may not be limited to: customer’s first name, last name, zip code, phone number, age and email address. Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personally identifiable information such as a shipping address and telephone number. If the privacy policy varies for a particular sweepstakes or promotion, that information will be disclosed in the sweepstakes or promotion rules.
+
+In the case of a ticket or other product and/or service which involves a purchase on our Site: In order to complete the purchase of a product and/or service, an online credit card transaction is required. During this process we generate and collect certain personally identifiable information.
+
+The personally identifiable information that may be collected from our customers in completion of a product and/or service purchase, includes, but may not be limited to: customer’s first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card security code, credit card expiration date, customer’s shipping address, phone number, and email address. You may also have the opportunity to permit us to maintain this information in a personal profile for you so you do not have to re-enter the information each time you make a purchase.
+
+If a customer sends us personal correspondence, such as emails or letters, we may collect such information into a file specific to such customer.
+
+ **How is information collected?**
+
+We may collect information from you in several different areas on our Site, including but not limited to those described below:
+
+ **Registration.**
+
+You may be asked first to complete a registration form and provide personally-identifiable information. You may also be asked to choose a user ID and password in order to take advantage of certain features our Site may choose to offer, including, but not limited to, newsletters, contests, forums, fantasy, webcasts or other subscription based services.
+
+ **Newsletters and Site Emails.**
+
+We may offer free newsletters to share information with you about our Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on our Site. You may cancel your free email subscription by following the instructions provided on our Site or in the designated area of the newsletters or emails.
+
+ **Contests or Sweepstakes.**
+
+We may operate contests and sweepstakes through our Site, which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. Your entry in the contest or sweepstakes may also result in your being added to our mailing lists as well as those of our promotional partners associated with the contest or sweepstakes. Acceptance of a prize may require you (unless prohibited by law) to allow us to post publicly some of your information on our Site, such as on a winner’s page, in the event you win a contest or sweepstakes. In some instances, a third-party advertiser or sponsor may operate or host a contest or sweepstakes on our Site, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the official rules of the contest/sweepstakes as well as the advertiser’s or sponsor’s privacy policy applicable to the contest or sweepstakes before participating.
+
+ **Surveys or Voting.**
+
+From time-to-time we may request personally-identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey.
+
+ **Cookies.**
+
+As with many Websites, our Site uses standard technology called “cookies,” which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to our Site whenever you visit our Site, and make using our Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use our Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on our Site. Cookies may also allow our Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of our Site may not provide you with a personalized experience if you have disabled the use of cookies.
+
+ **IP Addresses and Click-stream Data.**
+
+We may collect IP addresses and/or click-stream data for purposes of system administration, to improve our Site and to report aggregate information to our advertisers and sponsors or other internal uses. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from our Site, our computers log your IP address.
+
+Click-stream data is information collected by our computers when you request Web pages from our Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at our Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
+
+ **Transaction Information.**
+
+If you place an order or subscribe for any of the services offered on our Site, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, e.g., to deliver the information, products or other services that you order, and to invoice you. Such information is collected and stored through encrypted means for your protection.
+
+ **How we use the information we collect?**
+
+We internally use personally identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site’s content and layout. We believe these uses allow us to improve our Site and provide better service to our customers.
+
+We may use a customer’s email address and, in rare situations mailing address or phone number, to contact a customer regarding, administrative matters or notices, satisfaction with our Site and/or services and to provide further information regarding additional events, products or services we believe the customer would be interested in.
+
+We may use information in the file we maintain about a customer to resolve disputes and troubleshoot problems.
+
+ **With whom the information may be disclosed.**
+
+In order to process your requests we may provide your personally-identifiable information to service providers or other companies who work on our behalf in order, for example, to process the transaction and deliver the tickets or other goods or services you have ordered. When we do so, we use reasonable efforts to assure that they comply with our privacy policy and applicable law. Information we collect may be accessed by a variety of parties, depending upon the purpose for which the information was provided, and the context in which the information was provided.
+
+If you purchase a ticket to a specific event on our Site, your first name, last name, physical address, phone number and email address may be provided to the management of the artist(s) for that event.
+
+While we believe any disclosure of your information will result in opportunities that may be of interest to you, you have the right to opt out from receiving any future communications by contacting such third party directly. You may also opt out from receiving future communications from AEG through one of the following methods: (i) clicking on the appropriate links contained in our email communications; (ii) sending us a written request to the following address: Privacy Policy, C/O AEG Digital, 800 West Olympic Blvd., Suite 200, Los Angeles, CA 90015 or (iii) emailing: privacypolicy@aegworldwide.com
+
+Your request must include your name, email address, mailing address and must be signed. (Signature only required for written request sent by regular mail). Please allow six weeks to process your request. You may also opt out by clicking on the appropriate links contained in our email communications. Under some circumstances, such as where we are contractually required to disclose ticket purchase information to artist management, we may not be able to fulfill your ticket order if you have requested that we do not disclose your information to third parties.
+
+In addition, in the event that we go through an existing or potential business transition, such as a merger, acquisition, liquidation or sale of all or a portion of its assets, visitor information will, in most instances, be part of the assets transferred.
+
+Finally, we may, without your consent, access and disclose your personal information, any communications sent or received by you, and any other information that we may have about you as may be permitted or required by law, regulation, rule or court order; pursuant to requests from governmental, regulatory or administrative agencies or law enforcement authorities; or to prevent, investigate, identify persons or organizations potentially involved in, or take any action regarding suspected fraud, violations of our Terms of Service, or activity that appears to us to be illegal or we believe may expose us to legal liability. Additionally, we may disclose personal information in situations that we believe to be emergencies involving potential threats to the physical safety or any person or property if we believe that your information in any way relates to that threat.
+
+ **What choices do I have about collecting, using, and disclosing my information?**
+
+It is possible for you to use much of our Site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information — to limit e-mail communications from AEG and from our third-party partners. You can request at any time that AEG not send future e-mail to you either by unsubscribing from the communication or by contacting us at privacypolicy@aegworldwide.com. Also, as mentioned above, there are ways to limit the information collected through technology — though some of our Site features won’t work if you decide to do this.
+
+Even if you request that we not disclose your personal information to third parties, we may disclose personally identifiable information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal process, respond to any claims, or to protect the rights, property, or personal safety of AEG, Site users or the public. Information collected through this Site, including personally identifiable information, may be disclosed as part of, or during negotiations of, any merger, sale of company assets or acquisition.
+
+ **What security precautions are in place to protect against the loss, misuse, or alteration of your information?**
+
+We have implemented reasonable security measures to safeguard your personally identifiable information using reasonable industry standards. However, please keep in mind that “perfect security” does not exist on the Internet and/or the World Wide Web.
+
+ **Chat Rooms, Forums, Webcasts and Message Boards.**
+
+Our Site may make chat rooms, forums, webcasts and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. We strongly recommend that you do not use your personal information as your user name or that you post any personally identifiable information on line, since such information will be publicly available and you may receive unsolicited messages from other parties. AEG cannot ensure the security of any information you choose to make public in a chat room, forum, webcast, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy.
+
+ **Links to other Websites.**
+
+You should be aware that when you are on our Site you could be directed to other sites beyond our control. For example, if you seek to purchase a ticket to a concert that is not sold on our Site or “click” on a banner advertisement, the “click” may take you off our Site onto a different Website. This includes links from advertisers, sponsors and partners that may use our Site’s logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should review that site’s privacy policy before providing any personal information. This Privacy Policy does not apply to any information you submit to third-party Websites, including, without limitation, any Websites that may be connected to our Site by hypertext link or otherwise
+
+ **A special note for parents concerning privacy.**
+
+This Site is not intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from children.
+
+ **International Users.**
+
+If you are accessing this Site from outside of the United States, your information will be transferred to the United States. Regardless of where your information is collected or transferred, the information will be treated in accordance with this Privacy Policy.
+
+ **Limitation of Liability.**
+
+By providing us with any personal information you expressly and unconditionally release and hold harmless Anschutz Entertainment Group, Inc., its parents, shareholders, owners, members, and each of their subsidiaries, affiliates, directors, officers, employees and agents (collectively, the “Releasees”) from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information. In addition, while AEG takes efforts to ensure the proper and appropriate use of AEG data provided by AEG to third party companies, promotional partners or vendors, the Releasees are not liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information by such third parties.
+
+ **Notification of changes and acceptance of the Privacy Policy.**
+
+By using this Site, you signify your agreement to the terms of our Privacy Policy. AEG may change this Privacy Policy from time to time. If so, any such changes will be posted on this page, so that AEG may keep its users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy and/or any changes to this Privacy Policy. Your continued use of our Site shall constitute your acceptance of any such new or revised privacy policy. If at any point we decide to use personal information in a manner different from that stated at the time it was collected, we will send such person an email notifying him/her of such changes and giving him/her the option as to whether to allow us to use such information in such different manner. Without such consent, we will use personal information in accordance with the privacy policy under which it was collected.
+
+ **Opting out of Registration.**
+
+If you are a registered subscriber and no longer wish to receive our email communications, you may opt out. Choosing to opt out means we will remove your personal data from our database and you will not receive further communications from us. You may opt out by utilizing one of the following methods: (i) emailing us at[privacypolicy@aegworldwide.com](mailto:privacypolicy@aegworldwide.com), (ii) using an option out message contained in an email from us, or (iii) calling us at 888-929-7849.
+
+ **Whom do I contact with questions or concerns about this privacy policy?**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact Anschutz Entertainment Group by sending a letter to:
+
+Privacy Policy
+
+C/O AEG Digital
+
+800 West Olympic Blvd., Suite 200
+
+Los Angeles, CA 90015
+
+You may also contact us by e-mail at: [privacypolicy@aegworldwide.com](mailto:privacypolicy@aegworldwide.com).
