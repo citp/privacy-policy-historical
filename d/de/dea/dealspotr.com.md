@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the dealspotr.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519063615id_/http%3A//dealspotr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealspotr.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054608id_/https%3A//dealspotr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
+# Privacy Policy - Dealspotr
 
 ##### Last Updated: 9/2/2014
 
-The operator of this service, ZipfWorks, Inc (hereafter, "ZipfWorks," "we," "us" or "our") is committed to protecting the privacy of its users – namely, those individuals who navigate and use this service and other ZipfWorks services, including, Knoji.com, BluePromoCode.com, StyleSpotter.com, DayFire.com, ZipfWorks.com and ZipfCommerce.com (hereafter, collectively referred to as “Users” or “you”). This Privacy Policy applies to all of our websites (including Knoji.com, BluePromoCode.com, StyleSpotter.com, DayFire.com, ZipfWorks.com and ZipfCommerce.com), mobile applications and the services offered through those websites and mobile applications, including online referral services, information resources, product information, social networking services, shopping features, coupons, reviews, ratings, forums, and email services(collectively, the “Services”). We collect information about you through our websites in an effort to improve your experience and to communicate with you about our services, contests and promotions offered by our websites. As described in this Privacy Policy, we may share your information within ZipfWorks’ network of websites and mobile applications, and under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular service.
+The operator of this service, ZipfWorks, Inc (hereafter, "ZipfWorks," "we," "us" or "our") is committed to protecting the privacy of its users – namely, those individuals who navigate and use this service and other ZipfWorks services, including, Knoji.com, Dealspotr.com, StyleSpotter.com, DayFire.com, ZipfWorks.com and ZipfCommerce.com (hereafter, collectively referred to as “Users” or “you”). This Privacy Policy applies to all of our websites (including Knoji.com, Dealspotr.com, StyleSpotter.com, DayFire.com, ZipfWorks.com and ZipfCommerce.com), mobile applications and the services offered through those websites and mobile applications, including online referral services, information resources, product information, social networking services, shopping features, coupons, reviews, ratings, forums, and email services(collectively, the “Services”). We collect information about you through our websites in an effort to improve your experience and to communicate with you about our services, contests and promotions offered by our websites. As described in this Privacy Policy, we may share your information within ZipfWorks’ network of websites and mobile applications, and under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular service.
 
 Please note ZipfWorks is not responsible for the privacy practices of third party websites (even if we offered links to third party websites at one of our websites) and they are under no obligation to comply with this Privacy Policy. Before visiting another website and before providing any information to the party that operates or advertises on that third party website, Users should review the privacy policy and practices of that website to determine how information that they collect from users will be handled. Please further note, depending on a User’s particular interaction with our websites (e.g. Users who solely navigate one of our websites versus Users who create an account and use the Services at one of our websites), different portions of this Privacy Policy may apply to users at different times.
 
@@ -15,7 +12,7 @@ ZipfWorks reserves the right, at our discretion, to change, modify, add or remov
 
 ##### Your Agreement
 
-Your use of any of our websites or Services evidences your agreement to the terms of this Privacy Policy. PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE WEBSITE’S [TERMS OF USE](https://web.archive.org/terms/) IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
+Your use of any of our websites or Services evidences your agreement to the terms of this Privacy Policy. PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND THE WEBSITE’S [TERMS OF USE](https://web.archive.org/terms) IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
 
 ##### Information We Collect and How We Use It
 
@@ -43,7 +40,7 @@ Cookies are small files that are sent to and stored in you computer by the websi
 
 Why do we use cookies?
 
-ZipfWorks uses cookies to offer you a better user experience, and we may also include elements that set cookies on behalf of a third party - for example a “Like” button from Facebook or a “Tweet" button from Twitter.
+ZipfWorks uses cookies to offer you a better user experience, and we may also include elements that set cookies on behalf of a third party - for example a “Like” button from Facebook or a #Tweet# button from Twitter.
 
 How can I manage cookies?
 
@@ -57,9 +54,67 @@ It depends based on the type of cookies. Session cookies expire when you close t
 
 Cookies set by this website
 
-[](https://web.archive.org/images/privacy-cookies.jpg)
+Usage
 
-Further information is available at <http://www.aboutcookies.org/>.
+Type
+
+Name
+
+Value
+
+Domain
+
+Expires
+
+Starting URL for the user's session
+
+First Party
+
+landingUrl
+
+http://dealspotr.com
+
+.dealspotr.com
+
+end of session
+
+Referring URL for the user's session
+
+First Party
+
+referringUrl
+
+http://example.com
+
+.dealspotr.com
+
+end of session
+
+Google Analytics tracking code
+
+First Party
+
+_ga
+
+XXXXXXXX
+
+.dealspotr.com
+
+2 years
+
+Track logged in user's session
+
+First Party
+
+ds_session
+
+XXXXXXXX
+
+api.dealspotr.com
+
+7 days
+
+Further information is available at [www.aboutcookies.org](http://www.aboutcookies.org/).
 
 Log information - When you use the Services of ZipfWorks websites, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
