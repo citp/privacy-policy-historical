@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azonvideovault.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206063928id_/http%3A//azonvideovault.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azonvideovault.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905025721id_/http%3A//azonvideovault.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Azon Video Vault – Product Review Just Got Easy!
 
