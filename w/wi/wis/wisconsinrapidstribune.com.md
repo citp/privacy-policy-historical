@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisconsinrapidstribune.com privacy policy that was archived on 2015-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150307092842id_/http%3A//static.wisconsinrapidstribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisconsinrapidstribune.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054113id_/http%3A//static.wisconsinrapidstribune.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wisconsin Rapids Tribune
 
