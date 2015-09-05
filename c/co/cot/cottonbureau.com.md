@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cottonbureau.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315044620id_/https%3A//cottonbureau.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonbureau.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080700id_/https%3A//cottonbureau.com/privacy) for the most accurate reproduction.*
 
-# Cotton Bureau – Privacy
+# Privacy | Cotton Bureau
 
 Cotton Bureau respects your privacy and wants to give you a powerful online experience that you can trust. This Privacy Policy refers to the Cotton Bureau Website (the “Website”) and governs all of our data collection and usage policies. If you use or visit the Cotton Bureau Website, you are signifying to Cotton Bureau, LP (“Cotton Bureau”) that you agree to the data practices described in this Privacy Policy.
 
