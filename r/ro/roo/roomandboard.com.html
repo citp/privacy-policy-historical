@@ -1,52 +1,88 @@
-<!--The following is the downloaded HTML source of the roomandboard.com privacy policy that was archived on 2015-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150401025927id_/http%3A//www.roomandboard.com/our_website/privacy.ftl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roomandboard.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905053959id_/http%3A//www.roomandboard.com/our_website/privacy.ftl) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title> Privacy Policy - Our Website - Room &amp; Board </title><meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <meta name="copyright" content="Copyright 2015 Room &amp; Board, Inc. All Rights Reserved.">
 <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+	var RNB = {
+		Globals: {
+			addVar: function (name, value, options) {
+				RNB.Globals[name] = value;
+				// once the majority of these vars have been removed from the global ns, we'll swap this flag
+				if (!options || options.noGlobal) {
+					window[name] = value;
+				}
+			}
+		}
+	};
 
-	// These global vars can be used in any js file
-	var sitePath = "http://www.roomandboard.com";
-	var mobileSitePath = "http://www.roomandboard.com/m";
-    var dynaSitePath = "http://www.roomandboard.com";
-	var secureMobileSitePath = "https://www.roomandboard.com/m";
-	var secureSitePath = "https://www.roomandboard.com";
-	var protocolRelativeSitePath = "//www.roomandboard.com";
-	var protocolRelativeMobileSitePath = "//www.roomandboard.com/m";
-	var imagePath = "//www.roomandboard.com/images";
-	var pdfPath = "//www.roomandboard.com/images/pdf";
-	var reviewsPath = "http://www.roomandboard.com/";
-	var s7RenderPath = "http://s7d4.scene7.com/is/image/roomandboard";
-	var s7ImagePath = "http://s7d4.scene7.com/is/image/roomandboard";
-	var s7SecureImagePath = "https://a248.e.akamai.net/f/248/9086/10h/origin-d4.scene7.com/is/image/roomandboard";
-	var richfxConfig = "http://zoomcc.richfx.com/configurator_roomandboard/configurator.html";
-	var siteCatalystAccount = "roomandboardprod";
-	var isOnShop = false; // this will be overridden on shop pages.
-	var internal = false;
-    var searchURL = "http://sitesearch.roomandboard.com/";
-	var searchAutoCompleteURL = "//content.atomz.com/autocomplete/sp10/04/dd/fb/";
-    // completely turn off igd. Both in observing and recommending.
-	var igdEnable = true;
-    // toggle the displaying of recommendations globally.
-    var igdEnableRecommendations = true;
-	var igdObserverPath = "//roomandboard.collect.igodigital.com/igdrta.js";
-	var imageDebug = false;
+	(function (RNB) {
+		var ag = RNB.Globals.addVar;
+		var dynaSitePath = '';
+		var secureDynaSitePath = '';
+		var firstDir = '';
 
-	// devicePixelRatio for mobile.  But not for long!
-	var dpr = 1;
-	if(window.devicePixelRatio !== undefined) {
-	   dpr = window.devicePixelRatio;
-	}
+		// These global vars can be used in any js fil);
+		ag('sitePath', "http://www.roomandboard.com");
+		ag('mobileSitePath', "http://www.roomandboard.com/m");
+		ag('secureMobileSitePath', "https://www.roomandboard.com/m");
+		ag('secureSitePath', "https://www.roomandboard.com");
+		ag('protocolRelativeSitePath', "//www.roomandboard.com");
+		ag('protocolRelativeMobileSitePath', "//www.roomandboard.com/m");
+		ag('imagePath', "//www.roomandboard.com/images");
+		ag('pdfPath', "//www.roomandboard.com/images/pdf");
+		ag('reviewsPath', "http://www.roomandboard.com/");
+		ag('reviewsMerchantId', "771982");
+		ag('dynaViewDirs', "m");
+		ag('s7RenderPath', "http://s7d4.scene7.com/is/image/roomandboard");
+		ag('s7ImagePath', "http://s7d4.scene7.com/is/image/roomandboard");
+		ag('s7SecureImagePath', "https://a248.e.akamai.net/f/248/9086/10h/origin-d4.scene7.com/is/image/roomandboard");
+		ag('siteCatalystAccount', "roomandboardprod");
+		ag('isOnShop', false); // this will be overridden on shop pages);
+		ag('internal', false);
+		ag('searchURL', "http://sitesearch.roomandboard.com/");
+		ag('searchAutoCompleteURL', "//content.atomz.com/autocomplete/sp10/04/dd/fb/");
+		// completely turn off igd. Both in observing and recommending
+		ag('igdEnable', true);
+		// toggle the displaying of recommendations globally
+		ag('igdEnableRecommendations', true);
+		ag('igdObserverPath', "//roomandboard.collect.igodigital.com/igdrta.js");
+		ag('shopServiceUrl', "https://www.roomandboard.com");
+		ag('livePersonEnabled', true);
+		ag('sessionCookieName', "SESSION");
+		ag('fedexTrackingUrl', 'https://www.fedex.com/fedextrack/?cntry_code=us&tracknumbers=');
+		ag('upsTrackingUrl', 'http://wwwapps.ups.com/etracking/tracking.cgi?tracknums_displayed=5&TypeOfInquiryNumber=T&HTMLVersion=4.0&InquiryNumber1=');
+
+		// devicePixelRatio for mobile.  But not for long!
+		ag('dpr', window.devicePixelRatio || 1);
+
+		dynaSitePath = RNB.Globals.sitePath;
+		secureDynaSitePath = RNB.Globals.secureSitePath;
+		if (window.location.pathname.length > 0) {
+			firstDir = window.location.pathname.split("/")[1].toString();
+			if (firstDir && RNB.Globals.dynaViewDirs.indexOf(firstDir) > -1) {
+				ag('dynaViewDir', firstDir);
+				dynaSitePath += "/" + firstDir;
+				secureDynaSitePath += "/" + firstDir;
+			}
+		}
+		ag('dynaSitePath', dynaSitePath);
+		ag('secureDynaSitePath', secureDynaSitePath);
+
+		ag('isMobile', RNB.Globals.dynaViewDir === 'm');
+
+	}(RNB));
 
 	// PowerReviews stuff
-	var pr_locale= "en_US";
-	var pr_zip_location= "http://www.roomandboard.com/";
+	var pr_locale = "en_US";
+	var pr_zip_location = "http://www.roomandboard.com/";
+
 </script>
 
-<link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/gzip_N1212911308/bundles/layout.css">
+<link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/gzip_1591693688/bundles/layout.css">
 <link rel="stylesheet" type="text/css" media="all" href="//www.roomandboard.com/gzip_N1858731810/bundles/our_website.css">
 
 
@@ -65,22 +101,42 @@
 <!-- Bing webmaster -->
 <meta name="msvalidate.01" content="45B9E9B2F38529501DA7AE28AC6CF6EE">
 
-<script type="text/javascript" src="//www.roomandboard.com/gzip_565581827/bundles/jquery.js"></script>
+<script type="text/javascript" src="//www.roomandboard.com/gzip_N1062027630/bundles/jquery.js"></script>
 
+<script>
+	var RNB = RNB || {};
 
-<script type="text/javascript">
-   //<![CDATA[[
-   $SA={s:16534};
-   document.write(unescape("%3Cscript src='" + ("https:" == document.location.protocol ? "https://" + $SA.s + ".sa" : "http://" + $SA.s + ".a") + ".siteapps.com/" + $SA.s + ".js' type='text/javascript'%3E%3C/script%3E"));
-   //]]>
-</script><script src="https://16534.sa.siteapps.com/16534.js" type="text/javascript"></script>
-<script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	RNB.SiteApps = RNB.SiteApps || {
+		dfd: new $.Deferred(),
+		hasTimedOut: false,
+		appData: {},
+		countdownResolution: function (delay) {
+			var self = this;
 
-    ga('create', 'UA-9776619-2', 'roomandboard.com');
+			delay = delay || 1000;
+			window.setTimeout(function () {
+				if (self.dfd.state() === 'pending') {
+					self.dfd.reject({hasTimedOut: true});
+					self.hasTimedOut = true;
+					console.log('SiteApps never loaded or has timed out.');
+				}
+			}, delay);
+		}
+	};
+</script>
+	<script>
+		$SA = {
+			s: 16534
+		};
+			document.write('<script src="' + ('https:' === document.location.protocol ? 'https://' + $SA.s + '.sa' : 'http://' + $SA.s + '.a') + '.siteapps.com/' + $SA.s + '.js"><\/script>');
+	</script><script src="https://16534.sa.siteapps.com/16534.js"></script>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-9776619-2', 'roomandboard.com');
 
   ga('require', 'displayfeatures');
 
@@ -108,48 +164,35 @@
     <meta itemprop="name" content="Room &amp; Board">
     <meta itemprop="url" content="http://www.roomandboard.com">
     <meta itemprop="email" content="shop@roomandboard.com">
-	<div id="wishlist">
-		<a href="https://www.roomandboard.com/shop/wishlistcart/cartDetails.do">Wish List (<span class="qty">0</span>)</a>
-	</div>
-	<div id="cart">
-		<a href="https://www.roomandboard.com/shop/shoppingcart/cartDetails.do">Cart (<span class="qty">0</span>)</a>
-	</div>
-	<div id="account">
-		<a id="accountLink" href="https://www.roomandboard.com/shop/account/sign_in.ftl">Sign In/Create Account</a>
-	</div>
-	<div id="h_search">
-		<form action="http://sitesearch.roomandboard.com/" method="get">
-			<input type="hidden" name="tp" value="full">			
-			<label for="h_searchInput">Search</label>
-			<input name="search" type="text" id="h_searchInput">
-			<a class="button2" href="#" id="h_searchButton">Search</a>
-		</form>
-	</div>	<div id="hlinks">
-		<a id="h_phone" href="http://www.roomandboard.com/contactus/detail.do" class="hereToHelpTrigger" itemprop="telephone">800.301.9720</a>
-		<a id="findStore" href="http://www.roomandboard.com/more_ways_to_shop/stores/store_locations.ftl">Find a Store</a>
+    <div id="react-top-links"><div class="top-links"><div class="account-status"><a href="https://www.roomandboard.com/account/sign_in.ftl" class="signin-status-link">Sign in</a></div><a href="https://www.roomandboard.com/shop/shoppingcart/cartDetails.do" class="cart-items-status-link">Cart <span class="cart-items-summary-count">(0)</span></a><a href="https://www.roomandboard.com/shop/wishlistcart/cartDetails.do" class="wishlist-items-status-link">Wish list (0)</a></div></div>
+<div id="h_search">
+	<form action="http://sitesearch.roomandboard.com/" method="get">
+		<input type="hidden" name="tp" value="full">
+        <input type="hidden" name="xAuthToken" value="">
+		<label for="h_searchInput">Search</label>
+		<input name="search" type="text" id="h_searchInput" class="header-search-input">
+		<a class="button2" href="#" id="h_searchButton">Search</a>
+	</form>
+</div>	<div id="hlinks" class="top-links">
+		<a id="findStore" href="http://www.roomandboard.com/more_ways_to_shop/stores/store_locations.ftl">Find a Store</a><a id="h_phone" href="http://www.roomandboard.com/contactus/detail.do" class="hereToHelpTrigger" itemprop="telephone">800.301.9720</a>
+		<div id="LP_DIV_1436367643980" class="lp-container"></div>
 	</div>
 </div>
 <div id="topMenuOverflow">
     <div class="clearfix" id="topMenu">
         <ul>
-        <li class="first">
-            <a href="http://www.roomandboard.com/catalog/living" style="width: 55px;" title="Living">
-                <span>Living</span>
-            </a>
 
-    <div class="subMenu coll_4 clearfix">
+            <li class="first">
+                <a href="http://www.roomandboard.com/catalog/living" style="width: 55px;" title="Living">
+                    <span>Living</span>
+                </a>
+
+    <div class="subMenu coll_3 clearfix">
             <div class="menuColl coll-11">
 <div class="menu-node">
     <h2>Seating</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/living/sofas">Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/sectionals">Sectionals</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/sleeper-sofas">Sleeper Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/chairs">Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/recliners-and-lounge-chairs">Recliners &amp; Lounge Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/slipcover-collections">Slipcover Collections</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/ottomans">Ottomans</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/benches-and-stools">Benches &amp; Stools</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/chaises-and-studio-sofas">Chaises &amp; Studio Sofas</a> </li><li style="margin-top: 14px; "> <a href="http://www.roomandboard.com/swatchlist/list.do">See All Fabrics &gt;</a> </li>        </ul>
-</div>
-            </div>
-            <div class="menuColl coll-14">
-<div class="menu-node">
-    <h2>Custom Seating</h2>
-        <ul>
-<li> <a href="http://www.roomandboard.com/catalog/custom/sofas">Custom Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/sectionals">Custom Sectionals</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/sleeper-sofas">Custom Sleeper Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/chairs">Custom Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/recliners">Custom Recliners</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/slipcover-collections">Custom Slipcovers</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/ottomans">Custom Ottomans</a> </li><li> <a href="http://www.roomandboard.com/catalog/custom/chaises-and-studio-sofas">Custom Chaises &amp; Studio Sofas</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/living/sofas">Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/sectionals">Sectionals</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/sleeper-sofas">Sleeper Sofas</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/chairs">Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/recliners-and-lounge-chairs">Recliners &amp; Lounge Chairs</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/slipcover-collections">Slipcover Collections</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/ottomans">Ottomans</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/benches-and-stools">Benches &amp; Stools</a> </li><li> <a href="http://www.roomandboard.com/catalog/living/chaises-and-studio-sofas">Chaises &amp; Studio Sofas</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/custom_upholstery.ftl">Custom Upholstery</a> </li><li style="margin-top: 14px; "> <a href="http://www.roomandboard.com/swatchlist/list.do">See All Fabrics &gt;</a> </li>        </ul>
 </div>
             </div>
             <div class="menuColl coll-12">
@@ -170,16 +213,17 @@
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/living">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/small-spaces-big-style">Small Space Solutions</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/sleeper_guide.ftl">Sleeper Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/upholstered_furniture_guide/getting_started.ftl">Upholstered Furniture Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/color_collections.ftl">Color Collections</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Request free fabric swatches</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/living">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/small-spaces-big-style">Small Space Solutions</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/sleeper_guide.ftl">Sleeper Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/upholstered_furniture_guide/getting_started.ftl">Upholstered Furniture Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/design_ideas/custom_upholstery.ftl">Custom Upholstery Program</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Request free fabric swatches</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
 
-        </li>
-        <li>
-            <a href="http://www.roomandboard.com/catalog/dining" style="width: 72px;" title="Dining">
-                <span>Dining</span>
-            </a>
+            </li>
+
+            <li>
+                <a href="http://www.roomandboard.com/catalog/dining" style="width: 72px;" title="Dining">
+                    <span>Dining</span>
+                </a>
 
     <div class="subMenu coll_3 clearfix">
             <div class="menuColl coll-21">
@@ -212,11 +256,12 @@
             </div>
     </div>
 
-        </li>
-        <li>
-            <a href="http://www.roomandboard.com/catalog/bedroom" style="width: 92px;" title="Bedroom">
-                <span>Bedroom</span>
-            </a>
+            </li>
+
+            <li>
+                <a href="http://www.roomandboard.com/catalog/bedroom" style="width: 92px;" title="Bedroom">
+                    <span>Bedroom</span>
+                </a>
 
     <div class="subMenu coll_3 clearfix">
             <div class="menuColl coll-31">
@@ -249,11 +294,12 @@
             </div>
     </div>
 
-        </li>
-        <li>
-            <a href="http://www.roomandboard.com/catalog/entryway" style="width: 94px;" title="Entryway">
-                <span>Entryway</span>
-            </a>
+            </li>
+
+            <li>
+                <a href="http://www.roomandboard.com/catalog/entryway" style="width: 94px;" title="Entryway">
+                    <span>Entryway</span>
+                </a>
 
     <div class="subMenu coll_2 clearfix">
             <div class="menuColl coll-91">
@@ -279,11 +325,12 @@
             </div>
     </div>
 
-        </li>
-        <li>
-            <a href="http://www.roomandboard.com/catalog/kids" style="width: 58px;" title="Kids">
-                <span>Kids</span>
-            </a>
+            </li>
+
+            <li>
+                <a href="http://www.roomandboard.com/catalog/kids" style="width: 58px;" title="Kids">
+                    <span>Kids</span>
+                </a>
 
     <div class="subMenu coll_5 clearfix">
             <div class="menuColl coll-61">
@@ -323,16 +370,17 @@
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/kids">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Request free fabric swatches</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li style="clear: both; "> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/mattress_guide/getting_started.ftl">Mattress Guide</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/catalog/kids">Kids Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/catalog/baby-inspiration-gallery">Baby Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=fabric">Request free fabric swatches</a> </li><li style="clear: both; "> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/mattress_guide/getting_started.ftl">Mattress Guide</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
 
-        </li>
-        <li>
-            <a href="http://www.roomandboard.com/catalog/office" style="width: 70px;" title="Office">
-                <span>Office</span>
-            </a>
+            </li>
+
+            <li>
+                <a href="http://www.roomandboard.com/catalog/office" style="width: 70px;" title="Office">
+                    <span>Office</span>
+                </a>
 
     <div class="subMenu coll_3 clearfix">
             <div class="menuColl coll-41">
@@ -360,16 +408,17 @@
 <div class="menu-node">
     <h2>Ideas &amp; Advice</h2>
         <ul>
-<li> <a href="http://www.roomandboard.com/catalog/office">Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/more_ways_to_shop/business_interiors/business_interiors.ftl">Business Interiors</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/office_chair_guide.ftl">Office Chair Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
+<li> <a href="http://www.roomandboard.com/ideas_advice/buying_guides/office_chair_guide.ftl">Office Chair Guide</a> </li><li> <a href="http://www.roomandboard.com/ideas_advice/craftsmen/craftsmen.ftl">Learn about the craftsmen</a> </li><li> <a href="http://www.roomandboard.com/more_ways_to_shop/business_interiors/business_interiors.ftl">Business Interiors</a> </li><li> <a href="http://www.roomandboard.com/catalog/office">Office Inspiration Gallery</a> </li><li> <a href="http://www.roomandboard.com/swatchlist/list.do?tab=material">Request free material cards</a> </li><li> <a href="http://www.roomandboard.com/catalog/business-interiors-inspiration">Business Interiors Inspiration Gallery</a> </li><li style="clear: both; width: 200px; "> <a href="http://www.roomandboard.com/ideas_advice/ideas_advice.ftl">See all Ideas &amp; Advice &gt;</a> </li>        </ul>
 </div>
             </div>
     </div>
 
-        </li>
-        <li>
-            <a href="http://www.roomandboard.com/catalog/outdoor" style="width: 93px;" title="Outdoor">
-                <span>Outdoor</span>
-            </a>
+            </li>
+
+            <li>
+                <a href="http://www.roomandboard.com/catalog/outdoor" style="width: 93px;" title="Outdoor">
+                    <span>Outdoor</span>
+                </a>
 
     <div class="subMenu coll_5 clearfix" style="left: -180px; ">
             <div class="menuColl coll-outdoor-1">
@@ -414,11 +463,12 @@
             </div>
     </div>
 
-        </li>
-        <li>
-            <a href="http://www.roomandboard.com/catalog/window-treatments" style="width: 90px;" title="Windows">
-                <span>Windows</span>
-            </a>
+            </li>
+
+            <li>
+                <a href="http://www.roomandboard.com/catalog/window-treatments" style="width: 90px;" title="Windows">
+                    <span>Windows</span>
+                </a>
 
     <div class="subMenu coll_1 clearfix">
             <div class="menuColl coll-140">
@@ -437,11 +487,12 @@
             </div>
     </div>
 
-        </li>
-        <li>
-            <a href="http://www.roomandboard.com/catalog/lighting" style="width: 88px;" title="Lighting">
-                <span>Lighting</span>
-            </a>
+            </li>
+
+            <li>
+                <a href="http://www.roomandboard.com/catalog/lighting" style="width: 88px;" title="Lighting">
+                    <span>Lighting</span>
+                </a>
 
     <div class="subMenu coll_1 clearfix">
             <div class="menuColl coll-130">
@@ -460,11 +511,12 @@
             </div>
     </div>
 
-        </li>
-        <li>
-            <a href="http://www.roomandboard.com/catalog/rugs" style="width: 56px;" title="Rugs">
-                <span>Rugs</span>
-            </a>
+            </li>
+
+            <li>
+                <a href="http://www.roomandboard.com/catalog/rugs" style="width: 56px;" title="Rugs">
+                    <span>Rugs</span>
+                </a>
 
     <div class="subMenu coll_1 clearfix">
             <div class="menuColl coll-120">
@@ -483,11 +535,12 @@
             </div>
     </div>
 
-        </li>
-        <li>
-            <a href="http://www.roomandboard.com/catalog/accessories" style="width: 107px;" title="Accessories">
-                <span>Accessories</span>
-            </a>
+            </li>
+
+            <li>
+                <a href="http://www.roomandboard.com/catalog/accessories" style="width: 107px;" title="Accessories">
+                    <span>Accessories</span>
+                </a>
 
     <div class="subMenu coll_5 clearfix" style="left: -547px; ">
             <div class="menuColl coll-73">
@@ -532,11 +585,13 @@
             </div>
     </div>
 
-        </li>
-        <li class="last">
-            <a href="http://www.roomandboard.com/catalog/custom" style="width: 63px;" title="Custom">
-                <span>Custom</span>
-            </a>
+            </li>
+
+
+            <li class="last">
+                <a href="http://www.roomandboard.com/catalog/custom" style="width: 63px;" title="Custom">
+                    <span>Custom</span>
+                </a>
 
     <div class="subMenu coll_4 clearfix" style="left: -596px; ">
             <div class="menuColl coll-81">
@@ -576,7 +631,7 @@
             </div>
     </div>
 
-        </li>
+            </li>
         </ul>
     </div>
 </div>
@@ -620,7 +675,12 @@
 		
 
 			
-	<div id="ourWebsiteContent" data-automodal-options="{&quot;modalWidth&quot; : 680, &quot;modalId&quot;: &quot;privacyPolicy&quot;, &quot;modalHeaderTitle&quot;: &quot;Privacy Policy&quot;, &quot;modalWrapperClass&quot;: &quot;privacyModal&quot;, &quot;modalHeight&quot; : 500}">
+    	<div id="ourWebsiteContent" data-automodal-options="{
+			&quot;modalId&quot;: &quot;privacyPolicy&quot;,
+			&quot;modalHeaderTitle&quot;: &quot;Privacy Policy&quot;,
+			&quot;modalWrapperClass&quot;: &quot;privacyModal&quot;,
+			&quot;trackOverride&quot;: {&quot;description&quot; : &quot;Privacy Policy&quot;}
+		}">
 		<h1 class="primaryTitle terms">Room &amp; Board, Inc. Corporate Consumer Privacy Policy</h1>
 
 		<p>Room &amp; Board, Inc. is committed to respecting your private information and protecting it from misuse. Our Privacy Policy outlines our current policy on personally identifiable information concerning consumers, and covers the operations of our stores, our catalog and telephone sales, and within our Web site. We encourage you to read it whenever you visit our stores, catalogs or Web site, since we may change this policy from time to time due to enhancements to our systems or changes in the law. A copy of the current policy is always posted at <a href="http://www.roomandboard.com/our_website/privacy.ftl">www.roomandboard.com/privacy/</a>.  You may also obtain a copy of the current policy by contacting the office of the Privacy Officer shown at the end of this policy.</p>
@@ -659,11 +719,13 @@
 	
 		<p>Anonymous, non-personally identifiable information such as your IP address, domain server, type of computer, type of web browser, and addresses of referring site, also known as traffic data, may be collected and used to diagnose problems with our server and administer our site. </p>
 
-		<p>We may use a third party to provide you with the opportunity to review our products or services. In that case, when you submit a product review, you become subject to the terms of use and privacy policy of this third party in addition to the Privacy Policy and Terms of Use of our Web site.  The reviews you submit may be publicly posted on our Web site.</p>
-		
-		<p>We may also use cookies, pixel tags, and action tags to collect information. Cookies, pixel tags, and action tags allow us to compile statistics and other information about how you use our site. We may use this data to analyze trends and improve the usability of our site as well as to administer the site and gather broad demographic statistics. We may also share such non-personally identifiable information with third parties on an aggregate basis.</p>
+		<p>We may have functionality on our Web site that is provided, in whole or in part, by a third party service provider. You can usually identify such third party functionality by the use of a trademark not owned by Room &amp; Board on or near the functionality. In that case, when you use the functionality, you become subject to the terms of use and privacy policy of this third party in addition to the Privacy Policy and Terms of Use of our Web site. In some cases, you may need to visit that party’s web site and locate the terms of use and privacy policy. For example, we may use a third party to provide you with the opportunity to review our products or services. The reviews you submit may be publicly posted on our Web site.</p>
+
+		<p>We may also use a third party technology that allows you to chat with Room &amp; Board representatives via our Web site ("Web Chat"). We currently use LivePerson, Inc. to provide the Web Chat capability. When you participate in a Web Chat, LivePerson, Inc. is collecting and storing your chat data. For information about LivePerson's privacy practices, please review LivePerson's Technology Privacy Policy (also known as LivePerson's Customer Website Privacy Policy) located on the <a href="http://www.liveperson.com" target="_blank">www.liveperson.com</a> website.</p>
+
+		<p>We may also use cookies, pixel tags, action tags and similar tags to collect information. Cookies and tags allow us to compile statistics and other information about how you use our site. We may use this data to personalize your Web shopping experience based on your prior visits to our Web site. We may also use this data to analyze trends and improve the usability of our site as well as to administer the site and gather broad demographic statistics. We may also share such non-personally identifiable information with third parties on an aggregate basis.</p>
 			
-		<p>In addition, we may use third-party service providers to serve ads on our behalf across the Internet.  They may collect anonymous information about your visits to our Web site, and your interaction with our products and services.  They may use cookies and other online tools such as pixel tags and action tags to serve ads and personalize your Web shopping experience based on your prior visits to our Web site.  They may also use information about your visits to our Web site and other Web sites to target advertisements for products and services.  This anonymous information is collected through the use of a cookie.  No personally identifiable information is collected or used in this process.  These third-party service providers do not know your name, phone number, address, e-mail address, or any other personally identifying information about you.  If you would like more information about this practice and to opt out of having this anonymous information used by our third party service providers, visit the Network Advertising Initiative's consumer opt-out page by clicking <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a>. </p>
+		<p>In addition, we may use third-party service providers to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may use cookies and other online tools such as pixel tags, action tags and similar tags to serve ads and personalize your Web shopping experience based on your prior visits to our Web site. They may also use information about your visits to our Web site and other Web sites to target advertisements for products and services. This anonymous information is collected through the use of a cookie. No personally identifiable information is collected or used in this process. These third-party service providers do not know your name, phone number, address, e-mail address, or any other personally identifying information about you. If you would like more information about this practice and to opt out of having this anonymous information used by our third party service providers, visit the Network Advertising Initiative's consumer opt-out page by clicking <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a>.</p>
 		
 		<p>Our site may contain links to other Internet web sites that we think you may find of interest. We are not responsible for the content of these sites, nor do we control, sponsor, endorse or approve them. Your use of those links is at your own risk.</p>
 	
@@ -679,7 +741,7 @@
 		<p>You can also call our Customer Service telephone line at 800.301.9720 to be removed from either our e-mail or postal mail lists.</p>
 
 		<h3>Correcting or updating your information</h3>
-		<p>Click the following link to correct, change or update your personally identifiable information for the Web site account: <a href="https://www.roomandboard.com/shop/account/detail.do">www.roomandboard.com/account/</a>.</p>
+		<p>Click the following link to correct, change or update your personally identifiable information for the Web site account: <a href="https://www.roomandboard.com/account/account.ftl">www.roomandboard.com/account/account.ftl</a>.</p>
 		
 		<h3>Privacy Officer</h3>
 		<p>Please direct any questions or comments regarding our Privacy Policy to the office of our Privacy Officer:</p>
@@ -690,10 +752,9 @@
 		Minneapolis, Minnesota 55422<br>
 		phone: 763.588.7525<br>
 		e-mail: <a href="mailto:privacyofficer@roomandboard.com">privacyofficer@roomandboard.com</a></p>
+
 		
-		<p>© Room &amp; Board, Inc. 2007 - 2011 - All Rights Reserved</p>
-		
-		<p>Last updated:  July 29, 2011</p>
+		<p>Last updated:  June 4, 2015</p>
 
 	</div>
 
@@ -859,77 +920,89 @@
 
 </div>
 <!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" media="screen" href="//www.roomandboard.com/gzip_1823995823/bundles/ie6.css" />
-<![endif]--><script type="text/javascript" src="//www.roomandboard.com/gzip_1976205408/bundles/lib.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="//www.roomandboard.com/gzip_N673369022/bundles/ie6.css" />
+<![endif]--><script type="text/javascript" src="//www.roomandboard.com/gzip_N256949850/bundles/lib.js"></script>
 
 
 
 			<script type="text/javascript">
-				RNB.Widget.Help.initImage(7);
+				RNB.Widget.Help.initImage(5);
 			</script>
 		
 
 
 
+<!-- SiteCatalyst code version: H.17.
+Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<script>
+	<!--
+	s.pageName = "Our Website Privacy Policy"
+	s.server = ""
+	s.channel = ""
+	s.pageType = ""
+	s.prop1 = "Our Website"
+	s.prop2 = "Our Website:Privacy Policy"
+	s.prop3 = "Our Website:Privacy Policy:Our Website Privacy Policy"
+	s.prop4 = "Our Website:Privacy Policy:Our Website Privacy Policy"
+	s.prop5 = ""
+	s.prop7 = ""
+	s.prop22 = ""
+	/* Conversion Variables */
+	s.campaign = ""
+	s.state = ""
+	s.zip = ""
+	s.purchaseID = ""
+	s.eVar1 = ""
+	s.eVar2 = ""
+	s.eVar3 = ""
+	s.eVar4 = ""
+	s.eVar5 = ""
 
-    <!-- SiteCatalyst code version: H.17.
-    Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
-    <script language="JavaScript" type="text/javascript">
-    <!--
-    s.pageName="Our Website Privacy Policy"
-    s.server=""
-    s.channel=""
-    s.pageType=""
-    s.prop1="Our Website"
-    s.prop2="Our Website:Privacy Policy"
-    s.prop3="Our Website:Privacy Policy:Our Website Privacy Policy"
-    s.prop4="Our Website:Privacy Policy:Our Website Privacy Policy"
-    s.prop5=""
-    s.prop7=""
-	s.prop22=""
-    /* Conversion Variables */
-    s.campaign=""
-    s.state=""
-    s.zip=""
-    s.purchaseID=""
-    s.eVar1=""
-    s.eVar2=""
-    s.eVar3=""
-    s.eVar4=""
-    s.eVar5=""
-    
-    //make sure function exists
-    if(typeof checkForFeatures == 'function') {
-    	checkForFeatures();
+	//make sure function exists
+	if (RNB.Util.exists('RNB.Analytics.Impression') && typeof RNB.Analytics.Impression.checkForFeatures == 'function') {
+		RNB.Analytics.Impression.checkForFeatures();
 	}
 
-    /** RNB Inline overrides **/
-    
+	/** RNB Inline overrides **/
+	
 
-    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-    var s_code=s.t();if(s_code)document.write(s_code)
-    //--></script><script language="JavaScript" type="text/javascript"><!--if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-    //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics">
-    <img src="http://roomandboard.122.2o7.net/b/ss/roomandboarddev/1/H.17--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-    <!-- End SiteCatalyst code version: H.17. -->
+	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	var s_code = s.t();
+	if (s_code) {
+		document.write(s_code)
+	}
+	//--></script>
+<script><!--
+if (navigator.appVersion.indexOf('MSIE') >= 0) {
+	document.write(unescape('%3C') + '\!-' + '-')
+}
+//--></script>
+<noscript><a href="http://www.omniture.com" title="Web Analytics">
+	<img src="http://roomandboard.122.2o7.net/b/ss/roomandboarddev/1/H.17--NS/0" height="1" width="1" border="0"
+		 alt=""/></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.17. -->
 
-<script type="text/javascript">
-adroll_adv_id = "5EBDYW5VE5FRJFNNKBAFUS";
-adroll_pix_id = "QUBET3JEH5D2JHLLD5PMKN";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-__adroll_loaded=true;
-var scr = document.createElement("script");
-var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" :
-"http://a.adroll.com");
-scr.setAttribute('async', 'true');
-scr.type = "text/javascript";
-scr.src = host + "/j/roundtrip.js";
-((document.getElementsByTagName('head') || [null])[0] ||
-document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-if(oldonload){oldonload()}};
-}());
+<script>
+	adroll_adv_id = "5EBDYW5VE5FRJFNNKBAFUS";
+	adroll_pix_id = "QUBET3JEH5D2JHLLD5PMKN";
+	(function () {
+		var oldonload = window.onload;
+
+		window.onload = function () {
+			__adroll_loaded = true;
+			var scr = document.createElement("script");
+			var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" :
+					"http://a.adroll.com");
+			scr.setAttribute('async', 'true');
+			scr.type = "text/javascript";
+			scr.src = host + "/j/roundtrip.js";
+			((document.getElementsByTagName('head') || [null])[0] ||
+			 document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+			if (oldonload) {
+				oldonload()
+			}
+		};
+	}());
 </script>
 
 
