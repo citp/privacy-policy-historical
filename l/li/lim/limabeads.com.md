@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limabeads.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504231003id_/http%3A//www.limabeads.com/store/content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limabeads.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061026id_/http%3A//www.limabeads.com/store/content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Lima Beads
 
