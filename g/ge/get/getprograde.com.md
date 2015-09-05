@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getprograde.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002245id_/http%3A//www.getprograde.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprograde.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905180825id_/http%3A//www.getprograde.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
