@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227171315id_/http%3A//www.sportsauthority.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsauthority.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065428id_/http%3A//www.sportsauthority.com/category/index.jsp%3FcategoryId%3D2661943) for the most accurate reproduction.*
 
-# Sports Authority Helpdesk
+# Help - SportsAuthority.com
 
+  
 |  Safety, Security and Privacy  
 ---  
-   »| [Secure Shopping Guarantee](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=secure)  
-   »| [Terms & Conditions](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=terms)  
-   »| [Service Plan](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=warranty)  
-   »| [Privacy Policy](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=privacy)  
-   »| [MasterCard SecureCode](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=mastercard&topic=securecode)  
-   »| [Verified by Visa](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=vbv&topic=vbv)  
-|  | [](https://web.archive.org/helpdesk/index.jsp)  
+   »| [Secure Shopping Guarantee](http://www.sportsauthority.com/helpdesk/index.jsp?display=safety&subdisplay=secure)  
+   »| [Terms & Conditions](http://www.sportsauthority.com/helpdesk/index.jsp?display=safety&subdisplay=terms)  
+   »| [Service Plan](http://www.sportsauthority.com/helpdesk/index.jsp?display=safety&subdisplay=warranty)  
+   »| [Privacy Policy](http://www.sportsauthority.com/helpdesk/index.jsp?display=safety&subdisplay=privacy)  
+   »| [MasterCard SecureCode](http://www.sportsauthority.com/helpdesk/index.jsp?display=safety&subdisplay=mastercard&topic=securecode)  
+   »| [Verified by Visa](http://www.sportsauthority.com/helpdesk/index.jsp?display=safety&subdisplay=vbv&topic=vbv)  
+| [](http://www.sportsauthority.com/helpdesk/index.jsp)  
 ---  
+ **Sports Authority Privacy Policy |En Espanol**  
   
-_Updated November 6, 2013_
+ _Updated November 6, 2013_
 
 TSA Stores, Inc. ("SA," "Us," "We," and "Our") operates retail brick-and-mortar stores and websites ("Websites") and has created this Privacy Policy to inform you of Our collection, use and sharing practices for information we collect from you.
 
@@ -29,7 +31,7 @@ Because We want to demonstrate Our commitment to your privacy, We want to notify
 
 
 
-If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at [customerservice@thesportsauthority.com](mailto://customerservice@thesportsauthority.com), by completing the Customer Feedback Form in the Helpdesk section or by phone at 1.888.801.9164.
+If you have questions or concerns regarding this statement, you should contact our Customer Service Department by email at [customerservice@thesportsauthority.com](mailto://customerservice@thesportsauthority.com), by completing the Customer Feedback Form in the Helpdesk section or by phone at 1.888.801.9164 or write us at: Sports Authority 15 S Babcock Street Melbourne, FL 32901
 
 Visiting www.sportsauthority.com
 
@@ -79,7 +81,7 @@ You can correct you account data on our Websites by clicking on "My Account". If
 
 Receiving Promotions/Opt-Out
 
-From time to time, We will contact you about sales, special offers and new site features if you agreed to be included in Our email lists when you completed a purchase transaction with Us or otherwise provided us with your information. To customize the information you want to receive from Us on our Websites, simply sign on and select the specific information you wish to receive. To cancel Our free emails, follow the directions in the email communication you received from us. You can also send an email by completing the Customer Feedback Form in the Helpdesk section or call Us toll-free at 1-888-801-9164 and inform Us that you want to unsubscribe to Our email list.
+From time to time, We will contact you about sales, special offers and new site features if you agreed to be included in Our email lists when you completed a purchase transaction with Us or otherwise provided us with your information. To customize the information you want to receive from Us on our Websites, simply sign on and select the specific information you wish to receive. To cancel Our free emails, follow the directions in the email communication you received from us. You can also send an email by completing the Customer Feedback Form in the Helpdesk section or call Us toll-free at 1-888-801-9164 and inform Us that you want to unsubscribe to Our email list or, write us at: Sports Authority 15 S Babcock Street Melbourne, FL 32901
 
 Customer Service
 
@@ -105,11 +107,11 @@ Our Third Party Relationships
 
 We have established several relationships with third parties vendors to best serve Our customers and to operate our Websites.
 
-  * _Third Party Service Providers:_ We employ other companies and individuals to perform functions on Our behalf in connection with the operation of Our Websites. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, hosting and operating the Websites and providing customer service. These third parties have access to your information collected through Our Websites as needed to perform their functions, but may not use it for other purposes.
-  * _Affiliates:_ From time to time, We may establish one or more affiliate programs. An affiliate program allows other web sites to earn money by linking customers to Our Websites from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access Our customers' personal data. If you choose to apply to any of Our affiliate programs, We use the data you give Us strictly for conducting business with you. We may enter into certain agreements with certain third parties for the purpose of helping to administer affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the Website, but is restricted to only use such information in connection with its administration of the affiliate programs.
-  * _Order Fulfillment and Customer Service:_ GSI and certain vendors of ours provide customer order fulfillment and shipping services and customer service on Our behalf. These vendors have access only to information needed to accurately fulfill and ship orders that are processed through such vendors and to provide customer services. These vendors have agreed to not use any personally identifiable information of customers for any other purpose.
-  * _Credit Card Processing:_ We use a third party to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes.
-  * _Website Evaluation, Marketing and Promotions:_ From time to time, We may engage other third parties to assist in providing Website evaluation services, marketing, order processing, fulfillment and shipping services, as well as customer service. In addition, We or GSI may engage third parties to provide services such as fraud protection and credit risk reduction, product customization, data analysis and data cleansing. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services. Also, you permit Us to share your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. We may transfer your personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event. Additionally, We may share non-personal, non-individual statistical information with Our marketing partners, advertisers or other third parties for research purposes. That is, We will not tell Our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
+  *  _Third Party Service Providers:_ We employ other companies and individuals to perform functions on Our behalf in connection with the operation of Our Websites. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, hosting and operating the Websites and providing customer service. These third parties have access to your information collected through Our Websites as needed to perform their functions, but may not use it for other purposes.
+  *  _Affiliates:_ From time to time, We may establish one or more affiliate programs. An affiliate program allows other web sites to earn money by linking customers to Our Websites from their sites. These affiliates can only access data about the number of transactions and their resulting earnings. They cannot access Our customers' personal data. If you choose to apply to any of Our affiliate programs, We use the data you give Us strictly for conducting business with you. We may enter into certain agreements with certain third parties for the purpose of helping to administer affiliate programs. Such third parties may have access to certain of your information if you are an affiliate of the Website, but is restricted to only use such information in connection with its administration of the affiliate programs.
+  *  _Order Fulfillment and Customer Service:_ GSI and certain vendors of ours provide customer order fulfillment and shipping services and customer service on Our behalf. These vendors have access only to information needed to accurately fulfill and ship orders that are processed through such vendors and to provide customer services. These vendors have agreed to not use any personally identifiable information of customers for any other purpose.
+  *  _Credit Card Processing:_ We use a third party to process credit card orders. We supply them with data for credit card authorization and fraud detection only and they are restricted from using the data for any other purposes.
+  *  _Website Evaluation, Marketing and Promotions:_ From time to time, We may engage other third parties to assist in providing Website evaluation services, marketing, order processing, fulfillment and shipping services, as well as customer service. In addition, We or GSI may engage third parties to provide services such as fraud protection and credit risk reduction, product customization, data analysis and data cleansing. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services. Also, you permit Us to share your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. We may transfer your personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event. Additionally, We may share non-personal, non-individual statistical information with Our marketing partners, advertisers or other third parties for research purposes. That is, We will not tell Our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product.
 
 
 
@@ -127,11 +129,11 @@ If you have any questions regarding your privacy or any of Our policies, please 
 
 Your California Privacy Rights
 
-Under California law, you have the right to request and receive information from retailers concerning any third parties who have received personal information about you from such retailers for the third parties' direct marketing purposes. Any such requests for information from Us can be made by contacting Our Customer Service Department by completing the Customer Feedback Form in the Helpdesk section or by calling Us toll-free at 1-800-360-8721.
-
-**Sports Authority política de privacidad |In English**
-
-_Actualizada el 1ro. de abril de 2011_
+Under California law, you have the right to request and receive information from retailers concerning any third parties who have received personal information about you from such retailers for the third parties' direct marketing purposes. Any such requests for information from Us can be made by contacting Our Customer Service Department by completing the Customer Feedback Form in the Helpdesk section or by calling Us toll-free at 1-800-360-8721.  
+  
+ **Sports Authority política de privacidad |**  
+  
+ _Actualizada el 1ro. de abril de 2011_
 
 Nuestra política de privacidad
 
@@ -139,13 +141,13 @@ TSA Stores, Inc. (“SA”, “Nosotros”, “Nos” y “Nuestro”) opera tie
 
 Porque Nosotros queremos demostrarle Nuestro compromiso con su privacidad, queremos notificarle lo siguiente:
 
-1\. Cuál información identificable personalmente como suya recopilamos;  
-2\. Quién recopila esta información;  
-3\. Cómo se utiliza esta información;  
-4\. Con quién se comparte esta información;  
-5\. Qué opciones tiene usted disponibles en relación a la recopilación, uso y distribución de la información;  
-6\. Los tipos de procedimientos de seguridad que están activos para proteger en contra de la pérdida, el mal uso o la alteración de información bajo nuestro control; y  
-7\. Cómo usted puede corregir cualquier imprecisión en la información que Nosotros recopilamos.
+1.Cuál información identificable personalmente como suya recopilamos;  
+2.Quién recopila esta información;  
+3.Cómo se utiliza esta información;  
+4.Con quién se comparte esta información;  
+5.Qué opciones tiene usted disponibles en relación a la recopilación, uso y distribución de la información;  
+6.Los tipos de procedimientos de seguridad que están activos para proteger en contra de la pérdida, el mal uso o la alteración de información bajo nuestro control; y  
+7.Cómo usted puede corregir cualquier imprecisión en la información que Nosotros recopilamos.
 
 Si usted tiene preguntas o cualquier inquietud referente a la información brindada aquí, debe contactar nuestro Departamento de Servicio al Cliente, por correo electrónico (email) a la siguiente dirección: [customerservice@thesportsauthority.com](mailto:customerservice@thesportsauthority.com); puede también completar el formulario “Customer Feedback Form” en la Sección de “Helpdesk”; o por teléfono, libre de cargos, al número 1.888.801.9164.
 
@@ -195,11 +197,11 @@ Usted puede usar este formulario para brindarnos cualquier insumo que podamos us
 
 Hemos establecido varias relaciones con terceros proveedores de servicios y/o afiliados para servir mejor a Nuestros clientes y para operar Nuestros Websites.
 
-  * _Terceros proveedores de servicios:_ Empleamos otras compañías e individuos para efectuar funciones en favor Nuestro en relación con la operación de Nuestros Websites. Ejemplos incluyen el satisfacer órdenes, entregar paquetes, enviar correos electrónicos y correos postales, remover información repetitiva de nuestras listas de clientes, analizar datos, proveer asistencia de mercadeo, proveer resultados de búsquedas y enlaces (incluyendo publicaciones pagadas y otros enlaces), procesar pagos con tarjetas de crédito, alojar y operar Nuestros Websites y proveer servicios al cliente. Estos terceros proveedores tienen acceso a información suya recogida en Nuestros Websites según la necesiten para efectuar sus funciones, pero no pueden utilizarla para ningún otro propósito.
-  * _Afiliados:_ De tiempo en tiempo podemos establecer uno o más programas de afiliados. Un programa de afiliados permite que otros dueños de “web sites” puedan ganar dinero conectando sus clientes a Nuestros Websites. Estos afiliados pueden acceder solamente a información sobre el número de transacciones y sus recaudos. No pueden acceder información personal sobre Nuestros clientes. Si usted escoge solicitar participar en cualquiera de Nuestros programas de afiliados, Nosotros usamos la información que usted Nos brinde estrictamente para conducir Nuestros negocios con usted. Podemos llegar a ciertos acuerdos con ciertos terceros con el fin de ayudar a administrar los programas de afiliados. Estos terceros pueden tener acceso a parte de su información si usted es un afiliado de Nuestro Website, pero están impedidos a usar esta información que no sea en conexión con la administración de los programas de afiliados.
-  * _Satisfacción de órdenes y Servicio al Cliente:_ GSI y algunos de nuestros proveedores nos brindan servicios de satisfacción de órdenes de clientes, servicios de envío y servicios al cliente en favor Nuestro. Estos proveedores tienen acceso solamente a la información que necesitan para satisfacer con exactitud órdenes que procedan a través de estos proveedores, y enviarlas, además de proveer servicios al cliente. Estos proveedores tienen acuerdos con Nosotros de no usar ninguna información de Nuestros clientes que pueda ser identificada individual o personalmente para ningún otro fin.
-  * _Procesamiento de tarjetas de crédito:_ Usamos terceros proveedores para procesar órdenes con tarjetas de crédito. Solamente les suministramos datos sobre autorización de tarjetas de crédito y detección de fraudes y ellos están impedidos a usar esos datos con propósitos que no sean los acordados.
-  * _Evaluación de Nuestro Website, mercadeo y promociones:_ De tiempo en tiempo podemos contratar terceros proveedores para que Nos suministren servicios de evaluación de Nuestro Website, mercadeo, procesamiento de órdenes, servicios de satisfacción de órdenes y envío, así como de servicio al cliente. En adición Nosotros o GSI podemos contratar terceros proveedores para que Nos suministren servicios como protección de fraude, y reducción de riesgo de crédito, adecuación de productos, y análisis y limpieza de datos. Estos terceros tendrán acceso a información exclusivamente según sea necesario y estarán requeridos a no usar ninguna información personal para ningún otro propósito que no sea proveer estos servicios. De igual manera, usted Nos permitirá compartir su información personal en respuesta a una orden del tribunal, emplazamientos, investigaciones gubernamentales, o de alguna otra forma requerida por ley. Podemos transferir su información personal en el evento de una venta corporativa, consolidación, adquisición, disolución, o cualquier evento similar. Adicionalmente, Nosotros podremos compartir información estadística no personal, no individual, con Nuestros socios de mercadeo, anunciantes o terceros proveedores de investigación. Es decir, no le informaremos a Nuestros socios de mercadeo que usted hizo la compra de ningún producto en específico, pero podremos informarles cuántos clientes compraron ese producto.
+  *  _Terceros proveedores de servicios:_ Empleamos otras compañías e individuos para efectuar funciones en favor Nuestro en relación con la operación de Nuestros Websites. Ejemplos incluyen el satisfacer órdenes, entregar paquetes, enviar correos electrónicos y correos postales, remover información repetitiva de nuestras listas de clientes, analizar datos, proveer asistencia de mercadeo, proveer resultados de búsquedas y enlaces (incluyendo publicaciones pagadas y otros enlaces), procesar pagos con tarjetas de crédito, alojar y operar Nuestros Websites y proveer servicios al cliente. Estos terceros proveedores tienen acceso a información suya recogida en Nuestros Websites según la necesiten para efectuar sus funciones, pero no pueden utilizarla para ningún otro propósito.
+  *  _Afiliados:_ De tiempo en tiempo podemos establecer uno o más programas de afiliados. Un programa de afiliados permite que otros dueños de “web sites” puedan ganar dinero conectando sus clientes a Nuestros Websites. Estos afiliados pueden acceder solamente a información sobre el número de transacciones y sus recaudos. No pueden acceder información personal sobre Nuestros clientes. Si usted escoge solicitar participar en cualquiera de Nuestros programas de afiliados, Nosotros usamos la información que usted Nos brinde estrictamente para conducir Nuestros negocios con usted. Podemos llegar a ciertos acuerdos con ciertos terceros con el fin de ayudar a administrar los programas de afiliados. Estos terceros pueden tener acceso a parte de su información si usted es un afiliado de Nuestro Website, pero están impedidos a usar esta información que no sea en conexión con la administración de los programas de afiliados.
+  *  _Satisfacción de órdenes y Servicio al Cliente:_ GSI y algunos de nuestros proveedores nos brindan servicios de satisfacción de órdenes de clientes, servicios de envío y servicios al cliente en favor Nuestro. Estos proveedores tienen acceso solamente a la información que necesitan para satisfacer con exactitud órdenes que procedan a través de estos proveedores, y enviarlas, además de proveer servicios al cliente. Estos proveedores tienen acuerdos con Nosotros de no usar ninguna información de Nuestros clientes que pueda ser identificada individual o personalmente para ningún otro fin.
+  *  _Procesamiento de tarjetas de crédito:_ Usamos terceros proveedores para procesar órdenes con tarjetas de crédito. Solamente les suministramos datos sobre autorización de tarjetas de crédito y detección de fraudes y ellos están impedidos a usar esos datos con propósitos que no sean los acordados.
+  *  _Evaluación de Nuestro Website, mercadeo y promociones:_ De tiempo en tiempo podemos contratar terceros proveedores para que Nos suministren servicios de evaluación de Nuestro Website, mercadeo, procesamiento de órdenes, servicios de satisfacción de órdenes y envío, así como de servicio al cliente. En adición Nosotros o GSI podemos contratar terceros proveedores para que Nos suministren servicios como protección de fraude, y reducción de riesgo de crédito, adecuación de productos, y análisis y limpieza de datos. Estos terceros tendrán acceso a información exclusivamente según sea necesario y estarán requeridos a no usar ninguna información personal para ningún otro propósito que no sea proveer estos servicios. De igual manera, usted Nos permitirá compartir su información personal en respuesta a una orden del tribunal, emplazamientos, investigaciones gubernamentales, o de alguna otra forma requerida por ley. Podemos transferir su información personal en el evento de una venta corporativa, consolidación, adquisición, disolución, o cualquier evento similar. Adicionalmente, Nosotros podremos compartir información estadística no personal, no individual, con Nuestros socios de mercadeo, anunciantes o terceros proveedores de investigación. Es decir, no le informaremos a Nuestros socios de mercadeo que usted hizo la compra de ningún producto en específico, pero podremos informarles cuántos clientes compraron ese producto.
 
   
 Política de Seguridad
