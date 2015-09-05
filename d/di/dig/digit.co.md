@@ -1,75 +1,123 @@
-> *The following text is extracted and transformed from the digit.co privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330003010id_/https%3A//digit.co/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digit.co privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905224537id_/https%3A//digit.co/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digit
 
-Effective date: January 1, 2014
+Last updated: August 17, 2015
 
-We at Digit know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
+This privacy policy (this "Privacy Policy") explains how personal information is collected, used, stored, and disclosed by Hello Digit, Inc. ("Digit," "we," "us," and "our"). This Privacy Policy applies to consumer users (individually referred to as "you") of our websites, applications, and other online services to which this Privacy Policy is posted (collectively, our "Services").
 
-Remember that your use of Digit's Services is at all times subject to the [Terms of Use](https://web.archive.org/about/legal/terms-of-use), which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use](https://web.archive.org/about/legal/terms-of-use).
+This Privacy Policy is part of our [Terms of Use](https://web.archive.org/about/legal/terms-of-use). By accessing or using our Services, you agree to this Privacy Policy and our Terms of Use. The provisions contained in this Privacy Policy supersede all previous notices and statements regarding our privacy practices with respect to our Services. If you do not agree to every provision of this Privacy Policy and our Terms of Use, you may not access or use our Services.
 
-## What does this Privacy Policy cover?
+## Application of this Privacy Policy
 
-This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not to the practices of companies we don't own or control, or people that we don't manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below. 
+This Privacy Policy applies to your use of (regardless of means of access) our Services. You may access or use our Services through a desktop, laptop, mobile phone, tablet, or other consumer electronic device (each, a "Device").
 
-As noted in the [Terms of Use](https://web.archive.org/about/legal/terms-of-use), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [help@digit.co](mailto:help@digit.co).
+## Information We Collect
 
-## Will Digit ever change this Privacy Policy?
+### Information You Provide Us
 
-We're constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice at [https://digit.co](https://digit.co/), by sending you an email, and/or by some other means. Please note that if you've opted not to receive legal notice emails from us (or you haven't provided us with your email address), those legal notices will still govern your use of the Services, and you are still responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.
+In general, you can visit [digit.co](https://digit.co/) without telling us who you are or revealing any information about yourself. When you submit an inquiry via our Services or register for a Digit account, we may collect personal information from you, which may include your name, email address, mobile phone number, banking information, and other information that identifies you (collectively, "Personal Information"). By providing your Personal Information to us, you expressly agree to our collection, use, storage, and disclosure of such information as described in this Privacy Policy.
 
-## What information does Digit collect?
+We may also ask you to create login information for your Digit account, such as a username and password. When you provide your mobile phone number, we may ask for your consent to receive text messages relating to our Services at that number. You may withdraw your consent by contacting us as indicated below or by replying with "STOP" to any text message we send you. Please note that if you withdraw your consent to receive text messages from us, you may not be able to use some of our Services. Your mobile carrier's standard text message and data charges may apply to text messages you receive from us, and you are responsible for any fees charged by your mobile carrier if we contact you.
 
-**Information you provide to us.** We receive and store most information you knowingly provide to us. For example, through the registration process and/or through your account settings, we may collect Personal Information such as your name, email address, and phone number. However, while we ask you to provide your financial information to connect your financial accounts to the Service, we only use that information once and only for the purpose of connecting your financial accounts to the Service. After connecting your accounts, we immediately delete any and all financial information you have provided to the Service; however, your registration information is maintained by a Service Provider whose privacy policy can be found [here](http://www.yodlee.com/privacy-policy/).
+### Information About Your Transactions
 
-We may communicate with you if you've provided us the means to do so. For example, if you've given us your email address, we may email you about your use of the Services. Also, we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. If you do not want to receive communications from us, please indicate your preference by emailing [help@digit.co](mailto:help@digit.co) and requesting to opt-out from all email communications.
+We collect Personal Information about your transactions with us and others.
 
-**Information collected automatically.** Whenever you interact with our Services, we automatically receive and record information on our server logs from your browser or device, which may include your IP address, device identification, "cookie" information, the type of browser and/or device you're using to access our Services, and the page or feature you requested. "Cookies" are identifiers we transfer to your browser or device that allow us to recognize your browser or device and tell us how and when pages and features in our Services are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your device's acceptance of cookies, but this may prevent you from taking advantage of some of our features. Also, if you click on a link to a third party website or service, such third party may also transmit cookies to you. Again, this Privacy Policy does not cover the use of cookies by any third parties, and we aren't responsible for their privacy policies and practices.
+### Information From Third Parties
 
-We may use this data to customize content for you that we think you might like, based on your usage patterns. We may also use it to improve the Services - for example, this data can tell us how often users use a particular feature of the Services, and we can use that knowledge to make the Services interesting to as many users as possible. 
+We also collect Personal Information about you from other companies. For instance, we may receive Personal Information about you from a consumer reporting agency.
 
-## Will Digit Share any of the Personal Information it receives?
+### Information Automatically Collected
 
-We neither rent nor sell your Personal Information in personally identifiable form to anyone. However, we may share your Personal Information with third parties as described in this section:
+We (or our service providers acting on our behalf) may collect information about your use of our Services. This information may include Personal Information as well as statistical information that does not identify you ("Analytics"). Some Analytics may be correlated with Personal Information. When Analytics are, directly or indirectly, associated or combined with Personal Information, such Analytics will be considered Personal Information for purposes of this Privacy Policy.
 
-**Information that's no longer personally identifiable.** We may anonymize your Personal Information so that you are not individually identified, and provide that information to our partners. We may also provide aggregate usage information to our partners, who may use such information to understand how often and in what ways people use our Services, so that they, too, can provide you with an optimal online experience. However, we never disclose aggregate usage information to a partner in a manner that would identify you personally, as an individual. 
+Information that we automatically collect in connection with your access or use of our Services may include:
 
-We use Google Analytics to help analyze how Users use the Service. Google Analytics uses cookies to collect information such as how often Users visit the Service, what pages they visit, and what other sites they used prior to coming to the Service. We use the information we get from Google Analytics only to improve our Service. Google Analytics collects the IP address assigned to you on the date you visit the Service, but not your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with your Personal Information. Although Google Analytics plants a persistent Cookie on your web browser to identify you as a unique User the next time you visit the Service, the Cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to the Service is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You may opt-from Google Analytics by visiting <https://tools.google.com/dlpage/gaoptout/>. 
+Device Information: We may collect Device-specific information (such as hardware model, operating system version, unique Device identifiers, and mobile network Information, including your mobile phone number). We may associate your Device identifiers or mobile phone number with your Digit account.
 
-**Affiliated Businesses:** In certain situations, businesses or third party websites we're affiliated with may sell or provide products or services to you through or in connection with the Services (either alone or jointly with us). You can recognize when an affiliated business is associated with such a transaction or service, and we will share your Personal Information with that affiliated business only to the extent that it is related to such transaction or service. We have no control over the policies and practices of third party websites or businesses as to privacy or anything else, so if you choose to take part in any transaction or service relating to an affiliated website or business, please review all such business' or websites' policies.
+Log Information: We may record or log information from your Devices, their software, and your activity accessing or using our Services. This information may include:
 
-**Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we currently use an ACH payment processing gateway to process your Digit transfers. Additionally, we use a Service Provider to maintain your account credentials. Their privacy policy can be found [here](http://www.yodlee.com/privacy-policy/). Unless we tell you differently, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. 
-
-**Business Transfers:** We may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party. 
-
-**Protection of Digit and Others:** We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply our [Terms of Use](https://web.archive.org/about/legal/terms-of-use) and other agreements; or protect the rights, property, or safety of Digit, our employees, our users, or others. 
-
-## Is Personal Information about me secure?
-
-Your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password, appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
-
-We endeavor to protect the privacy of your account and other Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
-
-## What Personal Information can I access?
-
-Through your account settings, you may access, and, in some cases, edit or delete the following information you've provided to us:
-
-  * name and password
-  * email address
-  * mobile phone number
+  * The Device's Internet Protocol ("IP") address
+  * Identification numbers associated with your Devices
+  * Device event information, such as crashes, system activity, and hardware settings
+  * Location preferences
+  * Date and time stamps of transactions
+  * System configuration information
+  * Other interactions with our Services
 
 
 
-The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at [help@digit.co](mailto:help@digit.co). 
+### Information Collected Through Cookies and Similar Technologies
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [help@digit.co](mailto:help@digit.co).
+We use cookies to personalize our Services for you and to collect aggregate information about usage of our Services. A cookie is a text file or other local storage identifier provided by your browser or associated applications. We use cookies for record-keeping purposes and to enhance the quality of your use of our Services. The cookies assign random, unique numbers to your Devices to enable our systems to recognize your Devices and to allow us to see how you use our Services. Additional general information about cookies and how they work is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-## What choices do I have?
+The cookies we use in connection with our Services include:
 
-You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features.
+Session cookies: Session cookies are temporary cookies that expire and are automatically erased whenever you close your browser window. We use session cookies to grant users access to content and to enable actions they must be logged into their Digit account to perform.
 
-You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by emailing [help@digit.co](mailto:help@digit.co). Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. 
+Persistent cookies: Persistent cookies usually have an expiration date in the distant future and remain in your browser until they expire or you manually delete them. We use persistent cookies to better understand usage patterns so we can improve our Services. For example, we may use a persistent cookie to associate you with your Digit account or to remember your choices for our Services.
 
-## What if I have questions about this policy?
+Third-party cookies: We permit certain third parties to place cookies through our Services to provide us with better insights into the use of our Services and user demographics and to advertise our Services to you. These third parties may collect information about your online activities over time and across different websites when you access or use our Services. For example, we utilize Google Analytics to analyze usage patterns for our Services. Google Analytics generates a cookie to capture information about your use of our Services, which Google uses to compile reports on website activity for us and to provide other related services. Google may use a portion of your IP address to identify its cookie, but this will not be associated with any other data held by Google. We may also permit third-party service providers to place cookies for our Services, as indicated above, to perform analytic or marketing functions where you are notified of them and you have consented to the usage. We do not control the use of such third-party cookies or the resulting information, and we are not responsible for any actions or policies of such third parties.
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [help@digit.co](mailto:help@digit.co), and we will try to resolve your concerns.
+By accessing or using our Services, you consent to the placement of cookies on your Devices as described in this Privacy Policy. If you prefer not to receive cookies through our Services, you may control how your browser responds to cookies by adjusting the privacy and security settings of your web browser. Unless you set your browser settings to refuse all cookies, our system may issue cookies when you access or use our Services. If you set your browser settings to refuse all cookies, the performance of certain features of our Services may be limited or not work at all.
+
+### Do-Not-Track Signals
+
+Do Not Track ("DNT") is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third parties. We do not use technology that recognizes DNT signals from your web browser.
+
+## How We Use Information
+
+We may use Analytics as described elsewhere in this Privacy Policy and for research and commercial purposes, such as to improve our Services.
+
+We may use Personal Information for the purposes described elsewhere in this Privacy Policy and internally for our general commercial purposes, including, among other things, to offer our products and services and products and services of third parties that we think you might find of interest, but only Digit and our third-party service providers involved in distributing the offers or providing the products or services will have access to your Personal Information. Our third-party service providers will only be permitted to use Personal Information for that intended purpose.
+
+We may use your email address to respond to your inquiries and to provide you information about our Services. You may elect not to receive promotional emails from us either by "unsubscribing" to an email you receive from us or by contacting us as indicated below. If you unsubscribe from receiving emails from us, we may still send you non-promotional emails, such as emails about your Digit account or our ongoing business relations, unless you withdraw your consent to receive electronic communications as provided in our Terms of Use.
+
+## How We Share Information
+
+We do not share your Personal Information with: (1) other financial companies for joint marketing purposes; (2) affiliated companies for their everyday business purposes; or (3) any third parties so they can market to you.
+
+We may share your Personal Information with unaffiliated third parties: (1) if you request or authorize it; (2) if the information is provided to help complete a transaction for you; (3) if the information is provided to: (a) comply with applicable laws, rules, regulations, governmental and quasi-governmental requests, court orders, or subpoenas; (b) enforce our Terms of Use or other agreements; or (c) protect our rights, property, or safety or the rights, property, or safety of our users or others (e.g., to a consumer reporting agency for fraud protection, etc.); (4) if the disclosure is done as part of a purchase, transfer, or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, your Personal Information may be one of the transferred assets); (5) if the information is provided to our third-party service providers to perform functions on our behalf (e.g., analyzing data, providing marketing assistance, providing customer service, processing orders, etc.); (6) for our everyday business purposes; or (7) as permitted by applicable law or otherwise described in this Privacy Policy. When you are no longer our customer, we continue to share your information as described in this Privacy Policy.
+
+We may disclose Analytics with third parties as described elsewhere in this Privacy Policy and for our commercial purposes.
+
+## Opt-Out Rights
+
+If you do not wish to receive offers or other notices from us in the future, you can "opt out" by contacting us as indicated at the end of this Privacy Policy or by following the "unsubscribe" instructions in any communication you receive from us. Please be aware that you are not able to opt out of receiving communications about your Digit account or related transactions with us.
+
+## Accessing Your Information
+
+You must notify us of any change in your Personal Information by updating your Digit account profile through our Services. Any changes will affect only future uses of your Personal Information.
+
+Subject to applicable law, which might, from time to time, oblige us to store your Personal Information for a certain period of time, we will respect your wishes to correct inaccurate information. Otherwise, we will hold your Personal Information for as long as we believe it will help us achieve our objectives as detailed in this Privacy Policy.
+
+You can ask us whether we are storing your Personal Information and you can ask to receive a copy of that Personal Information. Before sending you any Personal Information, we will ask you to provide proof of your identity. If you are not able to provide proof of your identity, we reserve the right to refuse to send you any Personal Information. We will respond as quickly as we can to your requests for details of Personal Information we hold about you.
+
+## Information You Share Socially
+
+Our Services may allow you to connect and share your actions, comments, content, and information publicly or with friends. We are not responsible for maintaining the confidentiality of any information you share publicly or with friends.
+
+Our Services may also allow you to connect with us on, share on, and use third-party websites, applications, and services. Please be mindful of your personal privacy needs and the privacy needs of others, as you choose whom to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others. We also do not control the privacy practices of third parties. Please contact those sites and services directly if you want to learn about their privacy practices.
+
+## Security
+
+We have, and require our third-party service providers that receive Personal Information from us to have, a comprehensive written information security program that contains administrative, technical, and physical safeguards for our respective physical facilities and in our respective computer systems, databases, and communications networks that are reasonably designed to protect information contained within such systems from loss, misuse, or alteration. When your bank account information is transmitted via our Services, it will be protected by encryption technology, such as Secure Sockets Layer (SSL).
+
+No method of electronic transmission or storage is 100% secure. Therefore, we cannot guarantee absolute security of your Personal Information. You also play a role in protecting your Personal Information. Please safeguard your username and password for your Digit account and do not share them with others. If we receive instructions using your Digit account login information, we will consider that you have authorized the instructions. You agree to notify us immediately of any unauthorized use of your Digit account or any other breach of security. We reserve the right, in our sole discretion, to refuse to provide our Services, terminate Digit accounts, and to remove or edit content.
+
+## Protecting Children's Privacy
+
+Our Services are not directed, or intended to be attractive, to children under the age of 18. We do not knowingly collect Personal Information from children under the age of 18. If you are under the age of 18, do not use our Services or submit any information to us.
+
+## Links to Third-Party Websites
+
+When you use our Services, you may be directed to other websites that are beyond our control. We may also allow third-party websites or applications to link to our Services. We are not responsible for the privacy practices of any third parties or the content of linked websites, but we do encourage you to read the applicable privacy policies and terms and conditions of such parties and websites. This Privacy Policy only applies to our Services.
+
+## Changes to our Privacy Policy
+
+Subject to applicable law, we may revise this Privacy Policy at any time and in our sole discretion. When we revise this Privacy Policy, we will post the revised version via our Services and will update the date at the top of this Privacy Policy. The revised Privacy Policy will be effective upon posting via our Services, unless otherwise set forth therein or as otherwise required by applicable law. You are free to decide whether or not to accept a revised version of this Privacy Policy, but accepting this Privacy Policy, as revised, is required for you to continue accessing or using our Services. If you do not agree to the terms of this Privacy Policy or any revised version of this Privacy Policy, your sole recourse is to terminate your access and use of our Services. Except as otherwise expressly stated by us, your access and use of our Services is subject to the version of this Privacy Policy in effect at the time of access or use.
+
+## Contacting Us
+
+If you have any questions regarding this Privacy Policy, or if you wish to ask us to delete, correct, or show you your Personal Information as provided above, please contact us at [help@digit.co](mailto:help@digit.co), 1-888-322-3103, or Hello Digit, Inc., 220 Montgomery St., Suite 319, San Francisco, CA 94104.
