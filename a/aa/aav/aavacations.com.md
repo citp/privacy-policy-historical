@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aavacations.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627181839id_/http%3A//www.aa.com/i18n/footer/privacyPolicy.jsp%3FanchorEvent%3Dfalse%26from%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aavacations.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905094700id_/http%3A//www.aa.com/i18n/footer/privacyPolicy.jsp%3FanchorEvent%3Dfalse%26from%3Dfooter) for the most accurate reproduction.*
 
-# American Airlines Privacy Policy On aa.com
+# Privacy policy – Protecting your privacy – American Airlines
 
 Last updated February 20, 2015
 
