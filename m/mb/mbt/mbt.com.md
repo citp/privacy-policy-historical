@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mbt.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627104825id_/http%3A//www.mbt.com/ja-jp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbt.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070755id_/http%3A//www.mbt.com/Default.aspx%3FID%3D2864) for the most accurate reproduction.*
 
-# MBT Japan - Privacy Policy
+# MBT USA - Privacy Policy
 
 Masai International Pte Ltd and its affiliates (collectively, the "Company") are committed to protecting your privacy. This Privacy Policy explains our information gathering and dissemination practices. Please contact Company as described at the end of this Privacy Policy should you have any questions or concerns regarding this Privacy Policy. By interacting with the Company, you consent to our use of information that is collected or submitted as described in this Privacy Policy.
 
 For purposes of this Privacy Policy, the term "website" includes this website, our e-commerce site, and all mobile applications.
 
-Company may modify the Privacy Policy at any time. Any such modifications will be effective upon posting. If you continue to use the website, said use constitutes your acceptance of the Privacy Policy and any updates. The Privacy Policy is incorporated into and is subject to the [Terms of Use](http://www.mbt.com/ja-jp/legal-info).
+Company may modify the Privacy Policy at any time. Any such modifications will be effective upon posting. If you continue to use the website, said use constitutes your acceptance of the Privacy Policy and any updates. The Privacy Policy is incorporated into and is subject to the [Terms of Use](http://www.mbt.com/en-us/legal-info).
 
 #### **_1._** **_Which Information Does Company Collect?_**
 
@@ -107,7 +107,7 @@ We want to communicate with you in ways you want to hear from us. Examples are n
 We use an opt-in standard for phone and text messages. We also use an opt-in standard for sharing personal information with third parties for marketing purposes. Opt-in means we will only conduct the activity with your express consent.  
 We use an opt-out standard for email or for other communications like mail. Opt-out means we consider your consent is implied but will stop the activity on your request.
 
-You can provide us with your marketing preferences by visiting [Contact Us](http://www.mbt.com/ja-jp/contact-us), which also allows you to update or change your preferences about receiving marketing materials at any time. Or you may contact us as described below.
+You can provide us with your marketing preferences by visiting [Contact Us](http://www.mbt.com/en-us/contact-us), which also allows you to update or change your preferences about receiving marketing materials at any time. Or you may contact us as described below.
 
 If you contact us by email or mail, please be sure to include your full name, the types of communications you would like to receive or not receive, and your related contact information. For instance, if you would like to opt-out of mail, include your mailing address. Please allow sufficient time for your preferences to be processed. It may take up to 10 days to process your requests related to email and 4-6 weeks for other requests.
 
@@ -139,7 +139,7 @@ Yes. Please check our Privacy Policy periodically for changes. We will post the 
 
 #### 11.How Can I Contact Company?
 
-Please contact us [here](http://www.mbt.com/ja-jp/contact-us)
+Please contact us [here](http://www.mbt.com/en-us/contact-us)
 
   
 
