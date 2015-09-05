@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hokaoneone.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601011045id_/http%3A//www.hokaoneone.com/on/demandware.store/Sites-HOKA-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hokaoneone.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906002629id_/http%3A//www.hokaoneone.com/on/demandware.store/Sites-HOKA-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
 
 # HOKA ONE ONE® Official Site | Privacy Policy
 
@@ -27,6 +27,7 @@ By visiting the Site, or using any of our Services, you agree that your personal
   * What About Children?
   * Will You Transfer My Information Outside of My Home Country? 
   * Special Note for EU Users.
+  * Special Note to California Customers.
   * How Do I Get in Touch with Deckers?
   * What Happens if the Privacy Policy Changes?
 
@@ -209,6 +210,12 @@ The data controller for our EU website is:
 
 Your security is our highest priority, so we offer an additional step which is intended to provide a further level of security. Verified by Visa (VbV) and MasterCard®, Secure Code (MSC) (often referred to as 3-D Secure or Payment Authentication) acts like a Chip & Pin for your online purchases and helps protect you by asking for a secret password.   
 The new step within the payment process allows your card issuer to fully authenticate cardholders during the online purchase, reducing the likelihood of fraudulent usage.
+
+back to top
+
+### Special Note to California Customers
+
+For California customers, sales tax is reimbursement to the wholesaler.
 
 back to top
 
