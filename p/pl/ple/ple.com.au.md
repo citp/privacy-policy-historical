@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ple.com.au privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034245id_/https%3A//www.ple.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ple.com.au privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905233506id_/https%3A//www.ple.com.au/Privacy.aspx) for the most accurate reproduction.*
 
 # PLE Computers Privacy
 
