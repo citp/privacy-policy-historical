@@ -1,83 +1,165 @@
-> *The following text is extracted and transformed from the campbellskitchen.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408052755id_/http%3A//www.campbellsoupcompany.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campbellskitchen.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905221945id_/http%3A//www.campbellsoupcompany.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Campbell Soup Company
+# Privacy Policy
 
-**Campbell Soup Company Privacy Policy – PLEASE NOTE THAT AS OF 10/28/2007 WE HAVE MADE CHANGES TO OUR PRIVACY POLICY**
+Your privacy is very important to the Campbell Soup Company and its affiliates ("CSC," "we" or "us"). We have created this Privacy Policy to provide transparency about the type of information we collect from you; how we handle your information; and how you can make choices to control certain uses of your information.
 
-This website is owned and operated by Campbell Soup Company. 
+This Privacy Policy governs our websites, mobile applications and our applications and branded pages on third-party sites and platforms where it is posted (our "Site" or, collectively "Sites"). You may access our Sites from a number of different devices, such as a computer, mobile phone, tablet or other device; however, this Privacy Policy governs your use of our Sites regardless of the means of access. **By using or accessing our Sites, you consent to the terms of this Privacy Policy.**
 
-Here at Campbell, we recognize that many visitors to our sites are concerned about the information they provide to us, and how we treat that information. So we've developed a Privacy Policy to address this sensitive area. This policy is effective as of 10/28/07. We may from time to time update this policy and invite you to review this page periodically. In the event this policy changes, we will inform you by posting an updated policy on this web page. All changes will go into effect on the date that is posted in our policy. The new policy will apply to all past and current users of this site and will replace any prior policies. 
+We encourage you to read this Privacy Policy to learn more about: 
 
-Some of our sites may be directed in whole or in part to children under the age of 13. Our policy regarding these sites is described below under the heading “Children's Privacy Policy.” In addition, not all of our websites are subject to this policy. Please see the list of affiliated websites not subject to this policy listed under the heading “Links to Other Sites.” Whenever we refer to our “sites” in this policy, we mean only those sites subject to this Privacy Policy. 
+  * **Information We Collect**
+  * **How We Use and Share Your Information**
+  * **How We Protect Your Information**
+  * **Interest-Based Advertising**
+  * **Social Media Services**
+  * **Opting Out of Communications**
+  * **Children’s Privacy Policy**
+  * **Other Important Information**
+  * **Contact Us**
 
-If you have any questions about our Privacy Policy or our Children's Privacy Policy, you can contact us at: 
+ 
 
-Campbell Soup Company  
-Campbell Place  
-Camden, NJ 08103-1701  
-Attention: Legal Department  
-or Global Advertising Department  
-1-800-257-8443
+#### INFORMATION WE COLLECT
 
-Our offices are open from 9 a.m. - 7 p.m. Eastern Time, Monday through Friday. Please feel free to email us anytime by visiting our [Consumer Response Center](https://web.archive.org/connect-with-campbell.aspx). We'll be happy to answer your questions or hear your concerns. 
+We may collect various types of information from you depending on how you interact with our Sites, as described below. 
 
-**Our Policy**  
-At our sites, we do not collect personally-identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we do not require you to register or provide information to us in order to view any of our sites. If you register in order to use one or more of the many features of our sites, in addition to other purposes described in this Privacy Policy, we use the information you supply for the purpose of providing the services you've requested. These features may include: 
+**Information You Provide to Us**
 
-• Opt in email like Meal Mail  
-• Send to a friend  
-• Recipe Box  
-• Discussion board like the Kitchen Table 
+We may receive and store information that you provide to us voluntarily when you visit our Sites. For example, we may receive information from you when you register for an account or use any of our online tools (e.g., the Recipe Box on CampbellsKitchen.com); subscribe to an electronic newsletter; send us a question or comment; post a photograph or video; enter or respond to a survey, contest, sweepstakes or other promotional program; or otherwise provide information directly to us. Examples of the information that we may collect from you include:
 
-Depending on the feature you have registered to use, we may collect one or more of the following types of personally-identifiable information: name, address, phone number, email address, username and password. If you do not provide this information, you may not be able to register for that or other features on the site. You can always access and review your personally-identifiable information by visiting any of the sites on which you have registered. In addition, you can correct factual errors in your personally-identifiable information by editing your profile on any of our sites. 
+  * Name
+  * Email address
+  * Phone number
+  * Mailing address
+  * Age or date of birth
+  * Gender
+  * Username and/or password
+  * Payment information (e.g., credit card) when making a transaction
+  * Marital status
+  * Number and age or date of birth of your children
+  * Demographic information
+  * Preferences (e.g., on foods/recipe interests, website usage, grocery store chains, etc.)
 
-Creating, viewing and editing your personally-identifiable information can only be done with a valid member-provided user id and password. 
 
-If you specifically agree to follow-up contacts by us or ask to be put on our mailing list when you register, we may contact you from time to time. You can always change your preference for follow-up contacts or opt out of any further contacts or services just by e-mailing us at any time or by visiting the area of the site where you registered. However, unless you specifically register to receive communication from a site, that site will not contact you. 
 
-Except as described in this Privacy Policy, we don't share the information you give us with anyone outside of the Campbell Soup Company family of companies. In certain instances, we may disclose your personally-identifiable information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, Campbell Soup Company or others. We may also disclose your personally identifiable information when we believe the law requires it. In the event of a merger, consolidation or sale or transfer of all or substantially all of our company or its assets, it is possible that all user information collected by this site will be transferred to the purchaser or the new company. 
+If you choose to share information about yourself in a public forum, such as through a social media platform like Facebook or Twitter, or in any user-generated content area of our Sites, we consider that information to be public and not private. Others with access may read, collect and use that information. You assume the risk that your information may be read, collected and shared by such other parties.
 
-We may use the personal information you provide us to improve our marketing and promotional efforts; to statistically analyze website usage; and to improve our features and the content of our sites. You would never be opted into a service you did not request. 
+**Information We Automatically Collect From You**
 
-We may also use your personal information to customize the content that our sites deliver to you. For example, we may customize the recipes, product information and promotions we deliver to you based upon the information you have previously provided to us. 
+We may automatically collect information about your interactions with our Sites and online ads and may combine this information with other information about you in order to customize your online experience with us. The information we automatically collect may include your IP address, referring URLs, browser and device characteristics, browsing behavior (e.g., date and time of visit, length of visit, clicks on product information or other content) and your response to our email campaigns (e.g., whether and when you open our email, the links you click). We may use cookies, and other similar industry standard technologies to capture this information. A "cookie" is a small amount of data that is sent to your browser from a web server and stored on your computer or device. Among other things, cookies allow us to facilitate the administration and improve the effectiveness of our Sites as well as further tailor and enhance your experience to your interests. You may set your browser to decline cookies. If you do so, you may not be able to fully experience certain interactive features of our Sites.
 
-As an added convenience to you, when you register on anyone of our sites, your id and password can be used across the family of Campbell sites. Visit the Our Brands page, on campbellsoupcompany.com, for a list of our sites. 
+We may also use third party analytics companies, such as Google Analytics or Adobe Analytics, to analyze the usage of our Site for internal purposes. These analytics companies may use cookies and other tracking mechanisms to collect data about how you use our Sites and provide us with aggregate information on such usage, which helps us improve the performance of our Sites. Please review [**Google’s privacy policy**](http://www.google.com/intl/en/policies/privacy/) or [**Adobe’s privacy policy**](http://www.adobe.com/privacy.html) to learn more about each company’s privacy practices.
 
-**Cookies**  
-Like most companies, we use “cookie” technology on our sites to collect aggregate information. When you log into one of our sites, the cookie tells us whether you've visited us before or are a new visitor. This allows us to measure the appeal of our sites to new and return visitors. The cookie doesn't track any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. Cookies are simply the best way for us to be able to offer you the most enjoyable and hassle-free online environment. 
+We may also permit other third parties to gather information automatically on our Sites for advertising purposes, as described below in **Interest-Based Advertising.**
 
-**Contests and Sweepstakes**  
-Our sites sometimes include notices of contests, sweepstakes or other promotions we are conducting, and we may permit you to participate electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the contest, sweepstakes or promotion (e.g., to contact you if you're a winner). In addition, we may participate in internet related promotions sponsored by reputable third parties. In these instances, if you are a participant in such promotions, we may provide certain personally-identifiable information to these third parties in furtherance of the promotion. These parties have agreed to hold this information in confidence, not use it for any purpose except to carry out the requested service, and honor Campbell's privacy and security policies in the way this information is handled. 
+**Geolocation Information**
 
-**Questionnaires and Surveys**  
-From time to time, our sites may also be conducting questionnaires and surveys. Survey information will be treated like all of the information we collect, and it is used to help us improve the appeal of our products and our sites. 
+Our Sites may collect information on your specific location to provide location-based services, such as assisting you in finding stores that carry our products or identifying special offers that may be of interest to you. In order for our Sites to identify your location, you must enable this functionality through your device settings to allow the use of cell tower proximity, GPS, Wi-Fi or other similar technologies. You may opt-out of the continued collection and use of this information by adjusting the settings on your device. We have no control over your device’s settings to allow these technologies to collect and use geolocation data.
 
-**Third Parties Service Providers**  
-We sometimes employ other companies and individuals to perform services for us. For example, we hire agencies to help administer consumer promotions, to analyze data, to fulfill orders you place, and to provide customer service. These parties are required to maintain any personal information they receive from you in confidence and may only use it in connection with the services they are providing to us. 
+**Information Collected From Other Sources**
 
-**When you Shop with Us**  
-If you shop with us via our website, we collect the following information: name, address, phone number, email address, billing information including credit card number and expiration date as well as information such as an alternative address for shipping purposes. We only use your name, address, phone number, billing information/credit card information to process your order. The email address you provide is used for internal purposes only, such as confirming and tracking your order. We may also contact you via email or regular mail from time-to-time to keep you up-to-date on the latest news or to send you our latest offerings. If you previously opted-in for email communication and no longer wish to receive marketing emails from us, please opt-out by visiting the area of the site where you registered or you may email us at any time. 
+We may also collect similar or additional information about you from other sources, including public databases and data aggregators. This information may include purchase behavior, market research data or publicly observed data via online activities, such as blogs, social media or other user generated content sites. We may combine this information with other information we collect from you to customize and improve the relevancy of our online services to you.
 
-**Links to Other Sites**  
-Our sites may contain links to other sites, including other sites that are owned or operated by our affiliates or us. While we do our best to make sure that every link to a non-affiliated site sends you to a helpful place on the internet, we cannot guarantee the content of these non-affiliated sites. The non-affiliated sites will always have their own privacy policies. In addition, some of our affiliated sites also have their own privacy policies and are not subject to this policy. These affiliated sites include, but are not limited to: campbellsoup.ca; campbells-soup.ru; campbellsoup.com.sg; campbellsoup.com.my; campbellsoup.com.mx; campbellsoup.com.au; campbellsoup.de; campbellsoup.be; campbellsoup.fi; campbellsoup.se; campbellsoup.com.hk; campbellsoup.co.jp; campbellawayfromhome.com; stockpot.com;; erasco.de; heisse-tasse.de; raguletto.de; aiki.be; devoslemmens.be; royco.be; arnotts.com; labelsforeducation.ca; and gardennay.com. You should always check the privacy policy of the specific site you're visiting to understand your rights. 
+We may use your information in accordance with this Privacy Policy, including, without limitation:
 
-**Security**  
-Campbell takes your privacy and security seriously, for this reason we have established physical security measures including locked doors and files, electronic security and managerial controls that limit the potential for misuse of information by employees and contractors. 
+  * to respond to your inquiries, forward information you request and provide other customer service;
+  * to send you relevant administration information regarding our Sites;
+  * to supply you with newsletters, promotional emails about us and our partners, product information, event-related news and surveys and samples if you request to receive such communication from us;
+  * to communicate with you about our sweepstakes, contests, loyalty and rewards programs, coupons, rebates, premiums and other promotions which you have entered or joined or for which you have requested information, including for the purpose of notifying you if you win;
+  * to identify your consumer review on our Sites, if you provide your information for disclosure;
+  * to complete a transaction and fulfill your order;
+  * to conduct research and perform analysis in order to measure, maintain, protect, develop and improve our products and services;
+  * to detect, investigate and prevent activities that may violate the law or our policies;
+  * to target relevant advertising to you when you visit our Sites or other third party websites;
+  * to provide you with a personalized consumer experience on our Sites; and
+  * to otherwise maintain and optimize the online services our Sites provide to you.
 
-**Children's Privacy Policy**
 
-_Children's Privacy Policy -- General_
 
-Some of our sites may be directed in whole or in part to children under the age of 13. Generally, we do not directly or indirectly collect personally-identifiable information from children under the age of 13 in these areas. On some sites, children are allowed to send preprogrammed messages to friends regarding a particular feature of the site. In these instances, the child is prompted to enter the email addresses of his or her friends and some other non-identifiable information, such as his or her initials. This information is automatically discarded as soon as the preprogrammed message is delivered. From time to time, however, we may request limited personally-identifiable information in order to conduct online contests or sweepstakes. Our practices with respect to collection of personally-identifiable information from children under the age of 13 are described below. We do not condition a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to engage in the activity. In addition, a parent may at anytime review any personally-identifiable information collected about their child under the age of 13, have this information deleted and prohibit further collection or use of the child's information (although this may require the child to forfeit any prize won in a sweepstakes or contest). 
+We may share your information among our brands, affiliates and subsidiaries. We also hire third parties to perform services on our behalf and may share your information with them. These third parties are obligated to keep your information confidential and only use it as necessary to perform such services. For example, we may share your information with our agencies to help us administer a sweepstakes or other promotion; deliver content, samples, products, gifts and prizes; or provide you with customer service. When you make a purchase on our Sites, we may share your payment information with our online payment processor to fulfill your order. We do not rent, sell or trade your information to third-party marketers for commercial purposes without your consent.
 
-_Children's Privacy Policy - Information Collected in Contests and Sweepstakes_
+We may also share your information when we believe it is necessary to comply with the law or a government request; to prevent damage or injury to us or others; or to protect our rights. For example, we reserve the right to and may disclose your information in response to requests from local, state or federal law enforcement officials; any judicial, administrative or similar proceeding or order, such as a subpoena; to investigate suspected fraud, harassment, physical threats or other violations of our Site policies or the rights of third parties; or to investigate any suspected misconduct.
 
-Some of our sites directed in whole or in part to children under the age of 13 occasionally offer contests and/or sweepstakes. **Our contests and sweepstakes are designed in such a manner that a child under the age of 13 is not required to provide any personally- identifiable information about him/herself (other than a parent's e-mail address) prior to being named a winner.** To participate in these contests or sweepstakes, however, we may require the child to provide a screen name and a parent's e-mail address. We send an email to the parent notifying the parent that his/her child wishes to participate in the contest or sweepstakes. The parent has the option to withhold his/her consent to the child's participation. If the parent does not withhold his/her consent and the child is a potential winner of a prize in the sweepstakes or contest, the child is required to print a form requesting, among other things, the parent (and not the child) to provide the information necessary to award the prize, such as the child's name, address, social security number and other personally identifiable information. The parent is required to sign this form and return it to us. 
+We may also share your information in connection with a merger, acquisition, sale or reorganization or the potential thereof, including with our successors in business and purchasers of Site assets, or with our parent or affiliate companies for corporate reporting.
 
-The parental email address collected from each child is used solely to obtain parental consent, and it is not provided to any third party except those third parties we have engaged to assist us in running the contest or sweepstakes. These third parties are required to maintain the parental email in confidence and may only use it in connection with the services they are providing to us. The information collected from winners may be (i) used in advertising and promotional activities relating to our contest and/or sweepstakes, which may include making certain of this information publicly available, and (ii) passed on to third parties for the purpose of awarding prizes, and, depending on the type of prize, these third parties may not be prohibited from using the information for purposes other than awarding the prize (such as marketing or advertising). **Again, please note that personally-identifiable information (other than a parent's address) is only collected from the parents of children under the age of 13 who have potentially won a prize, and only after the parent consents to the award of the prize and the disclosure of the information**. 
+#### HOW WE PROTECT YOUR INFORMATION
 
-_Children's Privacy Policy - Contact Information_
+The security of your information is important to us. We have undertaken commercially reasonable efforts to prevent unauthorized access to the visitor data we retain. However, due to the inherent open nature of the Internet, we cannot ensure or warrant the security of any information you transmit to us or any information provided online, and you do so at your own risk. By using our Sites, you accept all risks associated with any data transmission, including the risk that your information may be intercepted in transit and agree that we will not be liable for disclosures of your information due to errors in transmission or unauthorized acts of third parties.
 
-If you have any questions about our Children's Privacy Policy, please do not hesitate to contact us at the address, phone number or e-mail address listed at the top of this Privacy Policy. 
+#### INTEREST-BASED ADVERTISING
 
-Revision History: September 2003, March 2003, August 2002, October 2007
+We may allow third parties to use cookies and other online tracking tools to better understand your behavior and browsing activities, so that we can serve you targeted advertising (also referred to as "interest-based advertising”) while on our Sites and display our ads to you when you visit other sites. These third parties may passively collect information with these tools so that content specific to your interests can be delivered to you online. To learn more about interest-based advertising, visit [**www.aboutads.info**](http://www.aboutads.info/). To manage your preferences or opt-out of interest-based advertising, please click here [**www.aboutads.info/choices**](http://www.aboutads.info/choices/).
+
+You can prevent your receipt of interest-based ads by deleting and declining cookies in your browser. If you block cookies, certain features on our Sites may not work. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt-out of certain mobile ads via their device settings.
+
+Some browsers offer a "Do Not Track" feature that lets you tell websites that you do not want to have your online activities tracked. Our Sites do not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+
+Our Sites may provide you with the ability to register, log on to, "like" or otherwise interact with social media services, such as Facebook, Instagram, Twitter, Pinterest or YouTube. We do not control these social media services or your profiles on these services, and we do not establish privacy settings or rules for how your information on such services will be used. If you choose to log on to or submit information through any of these social media services, your information will be subject to the applicable social media service’s privacy policy. You are encouraged to read such policy to learn more about how the social media service will handle your information. By accessing any social media service, you will be assuming the risk that the information you provide on that service may be viewed and/or used by us or third parties for any purpose. You agree that we are not responsible for any acts or omissions by these social media service providers.
+
+#### OPTING OUT OF COMMUNICATIONS
+
+You may exercise your opt-out rights to stop receiving our promotional communications by: 
+
+  * Clicking the "unsubscribe" link in the footer of any promotional electronic message from us and following the on-screen directions. If you created an online account with us, you may log-in to the applicable Site and make changes to your communications preferences. We may still need to contact you for administrative or transactional purposes.
+  * You may also contact us as provided below under [**Contact Us**](http://www.campbellsoupcompany.com/connect-with-campbell/) to make your opt-out request. Be sure to specify the Site and how you want to change, update or limit our use of your information.
+
+
+
+We will endeavor to accommodate your requests in our own databases as soon as we can reasonably do so. We are not responsible for removing your information from the lists of any third parties who have previously been provided your information in accordance with this Privacy Policy.
+
+#### CHILDREN’S PRIVACY POLICY
+
+We recognize the need to provide further privacy protections for children. While most of our Sites are intended for adults, certain Sites may be directed to children. This Children's Privacy Policy describes our practices with respect to the online collection of personal information from children under the age of 13.
+
+**What We Collect From Children and How We Use It**
+
+We do not require children to share any personal information in order to participate on our child-directed Sites. Children can surf, view content, play games and enjoy many features of our child-directed Sites without providing any personal information. If a child wants to use a Site for special activities, like earning badges, we may ask the child to "join" the Site. A child can join the Site anonymously by providing us with a username and password. On our child-directed Sites with the ability to enter a user name, we advise children not to provide any personal information in their username.
+
+On occasion, however, we may collect personal information, such as an email address, from children as part of an activity. For example:
+
+  * **Email address:** We may collect a child's email address via our child-directed Sites in order to respond to a one-time request from the child, such as if the child asks us a question. In this case, we delete the child’s email address from our system once we have responded, and we do not use the child’s email address for any other purpose.
+  * **Send-a-friend:** In the case of send-a-friend card or email service via our child-directed Sites, we may collect the friend’s email address to send the card/email. We do not store the friend’s email address for any longer than reasonably necessary to send the card/email.
+  * **Contests or Sweepstakes:** We may collect a child's email address to enter the child in a sweepstakes or contest via our child-directed Sites, and then use this email address to notify the child that he or she has won or lost that sweepstakes or contest. For certain promotions, we may require that a child give us his/her parent’s email address so we can obtain more information from the parent for prize fulfillment purposes; to tell the parent whether the child has registered in a promotion; or to notify and obtain consent from the parent if we need to collect more than a child’s email address to enter the child in the promotion.
+
+
+
+We will not collect other personal information from a child, such as a postal address or telephone number, without the consent of a parent or guardian. If parent or guardian consent is required, we will collect the email address of the parent or guardian so we can provide notice of our information practices and/or seek the consent of the parent or guardian. We will not condition a child's participation in any online activity on the child's disclosure of more personal information than is reasonably necessary to participate in and operate that activity.
+
+We may also collect information using automated tools solely to support the Site’s internal operations, including maintaining, securing, and analyzing the functioning of the Site. For example, we may collect this information to recognize returning visitors, understand and monitor usage of the Site, customize content on the Site, and otherwise improve performance of the Site. We do not permit interest-based advertising on our Sites directed to children.
+
+**Special Circumstances for Information Sharing and Platform Security**
+
+We may share a child's personal information with third parties if we are required to do so by law or to the extent reasonably necessary to protect the security or integrity of our Sites; take precautions against liability; or to respond to judicial process or requests from other governmental authorities. We also may share personal information collected from children with vendors that perform services for us. These services may include hosting our Sites, providing other technical services to us, fulfilling requests, or administering promotions. Such vendors are obligated to protect the confidentiality of the personal information we share with them. We may also share personal information if CSC reorganizes or transfers ownership, including with those who may purchase our Site assets, or with other parts of the company for corporate reporting.
+
+**Parents Rights**
+
+Under the Children’s Online Privacy Protection Act ("COPPA"), parents have the right to review and have their child’s personal information deleted from our records. Parents also have the right to tell us to stop collecting or using their child’s personal information. To exercise these options, parents may email, call, or write to us via the information listed in the [**Contact Us**](http://www.campbellsoupcompany.com/connect-with-campbell/) section below. Please reference "COPPA Information Request."
+
+#### OTHER IMPORTANT INFORMATION
+
+**Links to Other Sites**
+
+Our Sites may contain links to other sites, including to those of our affiliates or third party entities that may contain a different privacy statement. These sites may also refer you back to our Sites. We recommend that you read the privacy statements of each site you visit to understand the site’s privacy practices. We are not responsible for the privacy practices of sites that do not link to this Privacy Policy.
+
+**Privacy Policy Modifications**
+
+We reserve the right to modify or replace this Privacy Policy at any time. Please check back periodically to ensure that you are aware of any such modifications. We will indicate below the date we last updated this Privacy Policy. Your continued use of this Site following the posting of any changes to this Privacy Policy means you accept such changes.
+
+**Your California Privacy Rights**
+
+California Civil Code Section 1798.83 (the "Code") permits users who are California residents to request certain information regarding the disclosure of personal information to third parties which is used for their direct marketing purposes. To make such a request, to which we shall respond to the extent required by the Code, send us correspondence with your name, postal address and email, referencing "California Privacy Rights," via any of the methods provided in the [**Contact Us**](http://www.campbellsoupcompany.com/connect-with-campbell/) section below.
+
+**United States of America**
+
+This Site is maintained in and governed by the laws of the United States of America. By using this site, you authorize the export of your personal information to the USA and its storage and use as specified in this Privacy Policy.
+
+**Consent to Our Terms of Use and Privacy Policy**
+
+Your use of our Sites is subject to our [**Terms of Use**](http://www.campbellsoupcompany.com/terms-of-use/), which you agree to by using or accessing our Sites. If you do not agree to these Terms, please refrain from using our Sites and providing us with any information.
+
+#### CONTACT US
+
+If you have any questions or concerns about this Privacy Policy or our collection or handling of your personal information, please contact us at:
+
+Campbell Soup Company One Campbell Place Camden, NJ 08103-1799 Attention: General Counsel, Legal Department You may also call us at 1-800-257-8443. Our phone lines are staffed from 9 a.m. – 7 p.m. Eastern Time, Monday through Friday. Please also feel free to email us anytime by visiting our **[Consumer Response Center](http://www.campbellsoupcompany.com/connect-with-campbell/).** **Effective Date:** This Privacy Policy is effective and was last updated on May 07, 2015.
