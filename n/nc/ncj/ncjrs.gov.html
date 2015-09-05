@@ -1,10 +1,8 @@
-<!--The following is the downloaded HTML source of the ncjrs.gov privacy policy that was archived on 2015-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150630013420id_/https%3A//www.ncjrs.gov/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ncjrs.gov privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905084150id_/https%3A//www.ncjrs.gov/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!-- InstanceBegin template="/Templates/subpage_nosidebar.dwt" codeOutsideHTMLIsLocked="false" --><!--<![endif]--><head>
-<!-- InstanceBeginEditable name="doctitle" -->
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <title>Privacy Statement</title>
-<!-- InstanceEndEditable -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="The National Criminal Justice Reference Service (NCJRS) is a federally funded resource offering justice, substance abuse, and victim assistance information to support research, policy, and program development worldwide.">
@@ -24,12 +22,12 @@
 	var strIPDynamic = '<%=Request.ServerVariables("REMOTE_ADDR")%>';
 </script>
 <script language="JavaScript" src="/fsrscripts/validateIP.js"></script>
-<script language="JavaScript" src="/fsrscripts/SpryAccordion.js"></script>
-		<script language="javascript" type="text/javascript">
-		var qs = '?uid=' + uuid();
-		var sHtml = '<link rel=alternate type=application/rss+xml title=NCJRS href=/app/ncjrsfeed/feed.ashx' + qs + '>';
-		document.write(sHtml);
-		</script>
+
+<script language="javascript" type="text/javascript">
+	var qs = '?uid=' + uuid();
+	var sHtml = '<link rel=alternate type=application/rss+xml title=NCJRS href=/app/ncjrsfeed/feed.ashx' + qs + '>';
+	document.write(sHtml);
+</script>
 
 <script type="text/javascript">
 function removeValue(obj,origValue) {
@@ -112,179 +110,256 @@ document.getElementById(layer).style.display="block";
 }
 </script>
 
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
 <script type="text/javascript" src="/GoogleAnalystics/foresee-surveydef.js"></script></head>
 <body>
-<div class="gridContainer clearfix"><div id="login"><ul id="loginnav">
-<li><a href="App/LoginLogout.aspx">Account</a><ul>
-<li class="first"><a href="App/LoginLogout.aspx"><span id="spanLogin">Login</span></a></li>
-<li><a href="App/secure/Account/CustomerProfile.aspx">Manage</a></li></ul>
-</li><li style="margin-left: 5px;"><a href="abstractdb/subreg.asp">Subscribe</a><ul>
-<li class="first"><a href="https://puborder.ncjrs.gov/listservs/subscribe_JUSTINFO.asp">JUSTINFO</a></li>
-<li><a href="subreg.html">Register</a></li>
-<li><script language="javascript" type="text/javascript">
-				var qs = '?uid=' + uuid();
-				var sHtml = '<a href = /App/NCJRSFeed/rssinstructions.asp' + qs + '>RSS</a>';
-				document.write(sHtml);
-			</script></li></ul>
-</li><li class="cart"><a href="App/ShoppingCart/ShopCart.aspx">Shopping Cart</a></li><li><a href="App/ContactUs.aspx">Contact Us</a><ul>
-<li class="first"><a href="App/QA/SubmitQuestion.aspx">Email</a></li>
-<li><a href="App/Feedback.aspx">Feedback</a></li>
-<li><a href="https://webcontact.ncjrs.gov/ncjchat/chat.jsp">Chat</a></li>
-<li><a href="App/ContactUs.aspx">Phone or Mail</a></li></ul>
-</li><li class="log"><a href="help/index.html">Site Help</a></li></ul></div><div id="header"><div id="ojpheader"><a href="http://ojp.gov/"><img src="images/1_ncjrs_header_r.jpg" alt="Office of Justice Programs" usemap="#logoMap" class="image_nb" title="Office of Justice Programs">
-<map name="logoMap">
-<area shape="rect" coords="33,35,83,62" href="http://www.bja.gov/" alt="Bureau of Justice Assistance" title="Bureau of Justice Assistance">
-<area shape="rect" coords="87,36,137,63" href="http://www.bjs.gov/" alt="Bureau of Justice Statistics" title="Bureau of Justice Statistics">
-<area shape="rect" coords="138,35,189,63" href="http://www.nij.gov/" alt="National Institute of Justice" title="National Institute of Justice">
-<area shape="rect" coords="191,36,248,67" href="http://www.ojjdp.gov/" alt="Office of Juvenile Justice and Delinquency Prevention" title="Office of Juvenile Justice and Delinquency Prevention">
-<area shape="rect" coords="250,36,307,64" href="http://www.ovc.gov/" alt="Office for Victims of Crime" title="Office for Victims of Crime">
-<area shape="rect" coords="310,36,403,64" href="http://www.smart.gov/" alt="Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking" title="Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking">
-<area shape="rect" coords="405,-2,480,74" href="http://ojp.gov/" alt="Office of Justice Programs" title="Office of Justice Programs">
-</map>
-</a></div><div id="ncjrsheader"><a href="/index.html"><img src="images/1_ncjrs_header_l.jpg" alt="National Criminal Justice Reference Service" title="National Criminal Justice Reference Service"></a><div class="clearfloat"></div></div></div><div id="search"><form id="frmSearchBox" name="frmSearchBox" onsubmit="return ValidateForm();" method="get" action="/App/Search/SearchResults.aspx"><script language="javascript">
-		function ValidateForm(){
-			document.getElementById("imgbtnGo").disabled = true;
-			var strTemp = document.frmSearchBox.txtKeywordSearch.value;
-			strTemp = strTemp.replace(/^\s+/g, '').replace(/\s+$/g, '');
-			if( strTemp.length < 2 ){
-				document.getElementById("imgbtnGo").disabled = false;
-				alert('Search string must be at least 2 characters long.');
-				document.frmSearchBox.txtKeywordSearch.focus();
-				return false;
+	<div class="gridContainer clearfix">
+    	<div id="login"><!-- Login -->
+        	<ul id="loginnav">
+                <li><a href="/App/LoginLogout.aspx" title="Account">Account</a>
+                	<ul>
+                        <li class="first"><a href="/App/LoginLogout.aspx" title="Login"><span id="spanLogin">Login</span></a></li>
+                        <li><a href="/App/secure/Account/CustomerProfile.aspx" title="Manage">Manage</a></li>
+                    </ul>
+                </li>
+                <li class="li_pad"><a href="/abstractdb/subreg.asp" title="Subscribe">Subscribe</a>
+                	<ul>
+                        <li class="first"><a href="https://puborder.ncjrs.gov/listservs/subscribe_JUSTINFO.asp" title="JUSTINFO">JUSTINFO</a></li>
+                        <li><a href="/subreg.html">Register</a></li>
+                        <li><script language="javascript" type="text/javascript">
+                                var qs = '?uid=' + uuid();
+                                var sHtml = '<a href = /App/NCJRSFeed/rssinstructions.asp' + qs + '>RSS</a>';
+                                document.write(sHtml);
+                            </script></li>
+            		</ul>
+				</li>
+                <li class="cart"><a href="/App/ShoppingCart/ShopCart.aspx" title="Shopping Cart">Shopping Cart</a></li>
+                <li><a href="/App/ContactUs.aspx" title="Contact Us">Contact Us</a>
+                	<ul>
+						<li class="first"><a href="/App/QA/SubmitQuestion.aspx" title="Email">Email</a></li>
+						<li><a href="/App/Feedback.aspx" title="Feedback">Provide Feedback</a></li>
+						<li><a href="https://webcontact.ncjrs.gov/ncjchat/chat.jsp" title="Chat">Chat</a></li>
+						<li><a href="/App/ContactUs.aspx" title="Phone or Mail">Phone or Mail</a></li>
+                    </ul>
+				</li>
+                <li class="log"><a href="/help/index.html" title="Site Help">Site Help</a></li>
+           </ul>
+      </div><!-- end login -->
+      <div id="header"><!-- HEADER -->
+      	<div id="ojpheader">
+        	<a href="http://ojp.gov/"><img src="/images/1_ncjrs_header_r.jpg" alt="Office of Justice Programs" usemap="#logoMap" class="image_nb" title="Office of Justice Programs">
+                <map name="logoMap">
+                    <area shape="rect" coords="33,35,83,62" href="http://www.bja.gov/" alt="Bureau of Justice Assistance" title="Bureau of Justice Assistance">
+                    <area shape="rect" coords="87,36,137,63" href="http://www.bjs.gov/" alt="Bureau of Justice Statistics" title="Bureau of Justice Statistics">
+                    <area shape="rect" coords="138,35,189,63" href="http://www.nij.gov/" alt="National Institute of Justice" title="National Institute of Justice">
+                    <area shape="rect" coords="191,36,248,67" href="http://www.ojjdp.gov/" alt="Office of Juvenile Justice and Delinquency Prevention" title="Office of Juvenile Justice and Delinquency Prevention">
+                    <area shape="rect" coords="250,36,307,64" href="http://www.ovc.gov/" alt="Office for Victims of Crime" title="Office for Victims of Crime">
+                    <area shape="rect" coords="310,36,403,64" href="http://www.smart.gov/" alt="Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking" title="Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking">
+                    <area shape="rect" coords="405,-2,480,74" href="http://ojp.gov/" alt="Office of Justice Programs" title="Office of Justice Programs">
+                </map>
+			</a>
+       </div>
+       <div id="ncjrsheader">
+       		<a href="/index.html"><img src="/images/1_ncjrs_header_l.jpg" alt="National Criminal Justice Reference Service" title="National Criminal Justice Reference Service"></a>
+            <div class="clearfloat"></div>
+       </div>
+   </div><!-- end header -->
+   <div id="search"><!-- SEARCH -->
+   		<form id="frmSearchBox" name="frmSearchBox" onsubmit="return ValidateForm();" method="get" action="/App/Search/SearchResults.aspx">
+			<script language="javascript">
+				function ValidateForm(){
+				document.getElementById("imgbtnGo").disabled = true;
+				var strTemp = document.frmSearchBox.txtKeywordSearch.value;
+				strTemp = strTemp.replace(/^\s+/g, '').replace(/\s+$/g, '');
+				if( strTemp.length < 2 ){
+					document.getElementById("imgbtnGo").disabled = false;
+					alert('Search string must be at least 2 characters long.');
+					document.frmSearchBox.txtKeywordSearch.focus();
+					return false;
+				}
+				document.frmSearchBox.txtKeywordSearch.value = strTemp;
+				return true;
 			}
-			document.frmSearchBox.txtKeywordSearch.value = strTemp;
-			return true;
-		}
-</script><label for="txtKeywordSearch"><input type="text" name="txtKeywordSearch" value="SEARCH" size="29" maxlength="50" class="txtKeywordSearch" id="txtKeywordSearch" onclick="clearText(this)" style="vertical-align:text-bottom;"></label>&nbsp;&nbsp;<input id="imgbtnGo" type="image" src="images/1_go_bttn.png" name="Image1" alt="Go" title="Go" style="vertical-align:text-bottom; margin-bottom: 2px;"><input type="hidden" name="fromSearch" value="1">&nbsp;&nbsp;&nbsp;<div id="searchlinks"><a href="/App/search/AdvancedSearch.aspx">Advanced Search</a>&nbsp; &nbsp;<a href="/help/searchhelp.html" target="new">Search Help</a></div></form></div>
-<div id="leftnav"><div class="nav">
-<ul><div class="current"><a onclick="javascript:showlayer('myName')">Browse By Topics&nbsp;&nbsp;<img src="images/1_blue_arrow_dwn.png" alt="down arrow" class="image_arw"></a></div><div id="myName">
-  <li><a href="/viewall.html">A–Z Topics</a></li>
-		<li><a href="/App/Topics/Topic.aspx?TopicID=1">Corrections</a></li>
-		<li><a href="/App/Topics/Topic.aspx?TopicID=22">Courts</a></li>
-		<li><a href="/App/Topics/Topic.aspx?TopicID=56">Crime</a></li>
-		<li><a href="/App/Topics/Topic.aspx?TopicID=49">Crime Prevention</a></li>
-  <li><a href="/App/Topics/Topic.aspx?TopicID=93">Drugs</a></li>
-		<li><a href="/App/Topics/Topic.aspx?TopicID=109">Justice System</a></li>
-		<li><a href="/App/Topics/Topic.aspx?TopicID=122">Juvenile Justice</a></li>
-		<li><a href="/App/Topics/Topic.aspx?TopicID=158">Law Enforcement</a></li>
-  <li><a href="/App/Topics/Topic.aspx?TopicID=179">Victims</a></li>
-</div></ul></div>
-<p align="center">
-<a href="http://go.usa.gov/3ZTj5"><img src="images/1-justinfoHP.png" alt="JUSTINFO" title="JUSTINFO" class="image_ads"></a></p>
-<p align="center"><a href="http://www.crimesolutions.gov"><img src="images/1_crime_sol_ad.jpg" alt="CrimeSolutions.gov" title="CrimeSolutions.gov" class="image_ads"></a></p>
-<p align="center"><a href="App/eventscalendar/CalendarMainPage.aspx"><img src="images/1_cal_ad.jpg" alt="Add your conference to our Justice Events calendar" title="Add your conference to our Justice Events calendar" class="image_ads"></a></p>
-</div>
-<div id="mainnav"><ul id="topnav">
-<li class="first"><a href="/whatsncjrs.html">ABOUT NCJRS</a></li>
-<li><a href="/App/Publications/AlphaList.aspx">OJP PUBLICATIONS</a></li>
-<li><a href="/Library.html">LIBRARY</a></li>
-<li><a href="/App/QA/SearchQA.aspx">SEARCH Q &amp; A</a></li>
-<li><a href="/fedgrant.html">GRANTS &amp; FUNDING</a></li>
-<li class="last"><a href="/App/eventscalendar/CalendarMainPage.aspx">JUSTICE EVENTS</a></li></ul></div>
-<div id="maincontent_nosidebar"><div id="subcontent"><a id="content"></a><!-- InstanceBeginEditable name="MainContent" -->
-<div class="breadcrumbs"><a href="index.html">Home</a> / Privacy Statement</div>
+			</script>
+			<label for="txtKeywordSearch">
+            	<input type="text" name="txtKeywordSearch" value="SEARCH" size="29" maxlength="50" class="txtKeywordSearch" id="txtKeywordSearch" onclick="clearText(this)">
+            </label>&nbsp;&nbsp;
+            <input id="imgbtnGo" type="image" src="/images/1_go_bttn.png" name="Image1" alt="Go" title="Go">
+            <input type="hidden" name="fromSearch" value="1">&nbsp;&nbsp;&nbsp;
+            <div id="searchlinks"><a href="/App/search/AdvancedSearch.aspx" title="Advanced Search">Advanced Search</a>&nbsp; &nbsp;<a href="/help/searchhelp.html" target="new" title="Search Help">Search Help</a></div>
+       </form>
+  	</div><!-- end search -->
+  	<div id="leftnav"><!-- LEFT NAV -->
+    	<div class="nav">
+			<div id="browseTopics">
+				<div class="current">
+					<a onclick="javascript:showlayer('myName')">Browse By Topics<img src="/images/1_blue_arrow_dwn.png" alt="down arrow" class="image_arw image_pad"></a>
+				</div>
+				<ul id="myName">
+	  				<li><a href="/viewall.html" title="A - Z Topics">A–Z Topics</a></li>
+					<li><a href="/App/Topics/Topic.aspx?TopicID=1" title="Corrections">Corrections</a></li>
+					<li><a href="/App/Topics/Topic.aspx?TopicID=22" title="Courts">Courts</a></li>
+					<li><a href="/App/Topics/Topic.aspx?TopicID=56" title="Crime">Crime</a></li>
+					<li><a href="/App/Topics/Topic.aspx?TopicID=49" title="Crime Prevention">Crime Prevention</a></li>
+	  				<li><a href="/App/Topics/Topic.aspx?TopicID=93" title="Drugs">Drugs</a></li>
+					<li><a href="/App/Topics/Topic.aspx?TopicID=109" title="Justice System">Justice System</a></li>
+					<li><a href="/App/Topics/Topic.aspx?TopicID=122" title="Juvenile Justice">Juvenile Justice</a></li>
+					<li><a href="/App/Topics/Topic.aspx?TopicID=158" title="Law Enforcement">Law Enforcement</a></li>
+	  				<li><a href="/App/Topics/Topic.aspx?TopicID=179" title="Victims">Victims</a></li>
+				</ul>
+			</div><!-- end browseTopics -->
+        </div><!-- end nav -->
+       	<div class="image_links"><!-- ** SIDE IMAGE/ADS SIGN-UP ** -->
+        	<p><a href="http://go.usa.gov/3W9e9"><img src="/images/1_justinfoHP.png" alt="Justinfo Subscribe to Stay Informed" title="Justinfo Subscribe to Stay Informed" class="image_ads"></a></p>
+            <p><a href="http://www.crimesolutions.gov/"><img src="/images/1_crime_sol_ad.jpg" alt="CrimeSolutions.gov" title="CrimeSolutions.gov" class="image_ads"></a></p>
+            <p><a href="/App/eventscalendar/CalendarMainPage.aspx"><img src="/images/1_cal_ad.jpg" alt="Add your conference to our Justice Events calendar" title="Add your conference to our Justice Events calendar" class="image_ads"></a></p>
+        </div>
+	</div><!-- end left nav -->
+	<div id="mainnav"><!-- MAIN NAV -->
+    	<ul id="topnav">
+            <li class="first"><a href="/whatsncjrs.html" title="About NCJRS">ABOUT NCJRS</a></li>
+            <li><a href="/App/Publications/AlphaList.aspx" title="OJP Publications">OJP PUBLICATIONS</a></li>
+            <li><a href="/Library.html" title="Library">LIBRARY</a></li>
+            <li><a href="/App/QA/SearchQA.aspx" title="Search Q and A">SEARCH Q &amp; A</a></li>
+            <li><a href="/fedgrant.html" title="Grants and Funding">GRANTS &amp; FUNDING</a></li>
+            <li class="last"><a href="/App/eventscalendar/CalendarMainPage.aspx" title="Justice Events">JUSTICE EVENTS</a></li>
+        </ul>
+    </div><!-- end main nav -->
 
-<h1>PRIVACY STATEMENT</h1>
+	<div id="maincontent_nosidebar">
+		<!-- *** MAIN CONTENT *** -->
+    	<div id="subcontent"><!-- sub content -->
+        	<a id="content"></a>
+            
+		<div class="breadcrumbs"><a href="index.html">Home</a> / Privacy Statement</div>
 
-<p><strong>Thank you for visiting the National Criminal Justice Reference Service Web site of the Office of Justice Programs at the Department of Justice and reviewing our privacy and security notice. We remind you that if you link to a site outside of the Department of Justice, you are subject to the policies of the new site.</strong></p>
+            <h1>PRIVACY STATEMENT</h1>
+            
+            <p><strong>Thank you for visiting the National Criminal Justice Reference Service Web site of the Office of Justice Programs at the Department of Justice and reviewing our privacy and security notice. We remind you that if you link to a site outside of the Department of Justice, you are subject to the policies of the new site.</strong></p>
+            
+            <h2>Privacy</h2>
+            
+            <p>Here is how we handle information about your visit to our Web site:</p>
+            
+            <p><strong>A. Information Collected and Stored Automatically</strong></p>
+            
+            <p>If you visit our site to read or download information, we collect and store the following information about your visit:</p>
+            
+            <ul>
+              <li>The name of the Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you are connecting from a university's domain) and the IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our site;<br>
+              </li>
+              
+              <li>The type of browser and operating system used to access our site;<br>
+              </li>
+              
+              <li>The date and time you access our site;<br>
+              </li>
+              
+              <li>The Internet address of the Web site from which you linked directly to our site; and<br>
+              </li>
+              
+              <li>The pages you visit and the information you request.</li>
+            </ul>
+            
+            <p>This information is primarily collected for statistical analysis and technical improvements to the site. This government computer system uses software programs to create summary statistics, which may be used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. In certain circumstances, however, we may take additional steps to identify you based on this information and we may share this information, including your identity, with other government agencies.</p>
+            
+            <p><strong>B. If You Send Us Personal Information</strong></p>
+            
+            <p>You do not have to provide any personal information to visit this Web site. If you choose to provide us with personal information, such as by sending an e-mail or by filling out a form and submitting it through our Web site, we will use that information to respond to your message or to fulfill the stated purpose of the communication.</p>
+            
+            <p>We may share the information you give us with contractors acting on our behalf or with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, we may be required by law to disclose information you submit.</p>
+            
+            <p>Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of the FOIA can be found at  <a href="http://www.justice.gov/oip/foia_guide09.htm">http://www.justice.gov/oip/foia_guide09.htm</a>&nbsp; and a discussion about the Privacy Act can be found at <a href="http://www.justice.gov/opcl/privacyact1974.htm">http://www.justice.gov/opcl/privacyact1974.htm</a>.</p>
+            
+            <p>Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it by postal mail instead.</p>
+            
+            <p><strong>C. COPPA</strong></p>
+            
+            <p>We believe in the importance of protecting the privacy of children online and do not knowingly contact or collect personal information from children under 13.  Our site is not intended to solicit information of any kind from children under 13.</p>
+            
+            <p><strong>D. Cookies</strong></p>
+            
+            <p>Website measurement and  customization technologies (commonly called “cookies") are small bits of  text that are downloaded to your internet browser when you visit a website. The  Office of Management and Budget Memorandum <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf">M-10-22,  Guidance for Online Use of Web Measurement and Customization Technologies</a> defines conditions under which Federal agencies may use session and persistent  cookies, and categorizes them in “tiers” to identify their characteristics. You  may control permissions for cookies on this or any other website by adjusting  your individual browser settings for customized privacy protection – see <a href="http://www.usa.gov/optout-instructions.shtml">http://www.usa.gov/optout-instructions.shtml</a> for  helpful guidance. You can still use Department websites if you do not accept  the cookies, but you may be unable to use certain cookie-dependent features. </p>
+            <p><strong>Session cookies</strong><br>
+              Session cookies are not  stored on your computer’s hard drive, and are removed when you complete your  session or exit the site. Some Department websites use these “Tier 1” session  cookies to provide streamlined navigation and statistical analysis. No  personally identifying information is gathered. <br> <br>
+              <strong>Persistent cookies </strong><br>
+              Certain Department websites  use “Tier 2” persistent cookies that remain on your computer’s hard drive after  you complete an activity. For example, some Department websites use persistent  cookies in association with a voluntary customer satisfaction survey conducted  by a third party, <a href="http://www.foreseeresults.com/privacy-policy.shtml">Foresee  Results</a>™. These surveys obtain feedback and data regarding  visitors’ satisfaction with our websites, but they do not collect any  personally identifying information. If you are randomly selected to participate  in this survey, a persistent cookie may be stored on your computer’s hard drive  for 30 to 90 days to preclude a new invitation during that time. Some  Department websites also use persistent cookies to enable a <a href="http://www.google.com/analytics/learn/privacy.html">Google  Analytics</a> or <a href="http://webtrends.com/privacy-policy/">Webtrends</a> program to measure how new and returning visitors use our websites over time.  These persistent cookies do not collect any personally identifying information,  and the information that is collected is only used to improve our websites. </p>
+            
+            <p><strong>Security</strong></p>
+            
+            <p>For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.</p>
+            
+            <h2>Disclaimers</h2>
+            
+            <p>NCJRS tries to keep the information on this Web site timely and accurate, but we cannot guarantee either. Errors brought to our attention are corrected as soon as possible.</p>
+            
+            <p>Some of the documents on this Web site contain live references, or pointers, to information created and maintained by other organizations. Please note that we do not control and cannot guarantee the relevance, timeliness, accuracy, or even the existence of these outside materials.</p>
+            
+            <p>The information available on this Web site has been composed in a manner thought to be compatible with client software likely to be used to access the server. The final appearance of the documents, however, is dependent on the client software as implemented at the user's Web site. User feedback on the appearance of information across various clients is appreciated.</p>
+            
+            <p>The views and opinions of authors expressed herein do not necessarily reflect those of the United States Government.</p>
+            
+            <p>Reference herein to any specific commercial products, processes, or services by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government.</p>
+            
+            <p>The information and statements contained on this Web site shall not be used for the purposes of advertising, nor to imply the endorsement or recommendation of the United States Government.</p>
+            
+            <p>With respect to documents available from this Web site, neither the United States Government nor any of its employees make any warranty, express or implied, including but not limited to the warranties of merchantability and fitness for a particular purpose. Further, neither the United States Government nor any of its employees assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product or process disclosed; nor do they represent that its use would not infringe privately owned rights.</p>
+            
+            <h2>Copyright Status</h2>
+            
+            <p>The United States Government retains a non-exclusive, irrevocable, and royalty-free license to publish or reproduce these documents for U.S. Government purposes, or to allow others to do so.</p>
+            
+            <p>These documents may be freely distributed and used for non-commercial, scientific and educational purposes. Commercial use of the documents available from this server may be protected under U.S. and foreign copyright laws. If you wish to publish or reproduce these documents for commercial purposes, please&nbsp;<a href="App/QA/SubmitQuestion.aspx">contact us</a>&nbsp;with your request.</p>
+            
+            <p>Individual documents on this server may have different copyright conditions, and that fact will be noted with those documents.</p>
 
-<h2>Privacy</h2>
+		</div>
+	</div>
+    <div id="footer"><!-- ** FOOTER ** -->
+		<div id="ftcol1">
+			<div class="footertitle">
+				<a href="http://ojp.gov/" title="Office of Justice Programs">Office of Justice Programs</a> 
+				<a href="http://www.facebook.com/pages/Office-of-Justice-Programs/184230948375628" class="facebook" title="Share on Facebook"><img src="/images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;
+				<a href="https://twitter.com/ojpgov/" class="twitter" title="Share on Twitter"><img src="/images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a>
+			</div>
+			<div id="ftrow1">
+				<ul>
+					<li>
+						<a href="http://www.bja.gov/" title="Bureau of Justice Assistance">Bureau of Justice Assistance</a> <a href="https://www.facebook.com/pages/OJP-Bureau-of-Justice-Assistance/122368714596791" class="facebook" title="Share on Facebook"><img src="/images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;<a href="https://twitter.com/DOJBJA" class="twitter" title="Share on Twitter"><img src="/images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a></li>
+					<li><a href="http://www.bjs.gov/" title="Bureau of Justice Statistics">Bureau of Justice Statistics</a> <a href="https://twitter.com/BJSgov" class="twitter" title="Share on Twitter"><img src="/images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a></li>
+					<li>
+						<a href="http://www.nij.gov/" title="National Institute of Justice">National Institute of Justice</a> <a href="https://www.facebook.com/OJPNIJ" class="facebook" title="Share on Facebook"><img src="/images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;<a href="https://twitter.com/OJPNIJ" class="twitter" title="Share on Twitter"><img src="/images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a>
+					</li>
+					<li>
+						<a href="http://www.ovc.gov/" title="Office for Victims of Crime">Office for Victims of Crime</a> <a href="https://www.facebook.com/pages/Office-for-Victims-of-Crime/243785542420492" class="facebook" title="Share on Facebook"><img src="/images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;<a href="https://twitter.com/OJPOVC" class="twitter" title="Share on Twitter"><img src="/images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a>
+					</li>
+				</ul>
+			</div>
+			<div id="ftrow2">
+				<ul>
+					<li>
+						<a href="http://www.ojjdp.gov/" title="Office of Juvenile Justice and Delinquency Prevention">Office of Juvenile Justice and Delinquency Prevention</a> <a href="https://www.facebook.com/OJPOJJDP" class="facebook" title="Share on Facebook"><img src="/images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;<a href="https://twitter.com/OJPOJJDP" class="twitter" title="Share on Twitter"><img src="/images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a>
+					</li>
+					<li>
+						<a href="http://www.smart.gov/" title="Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking">Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking</a> <a href="https://www.facebook.com/NSOPW" class="facebook" title="Share on Facebook"><img src="/images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;
+						<a href="https://twitter.com/@DOJSMART" class="twitter" title="Share on Twitter"><img src="/images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="ftcol3">
+			<a href="/App/ContactUs.aspx" title="Contact Us">Contact Us</a> | <a href="/App/Feedback.aspx" title="Provide Feedback">Feedback</a> | <a href="/sitemap.html" title="Site Map">Site Map</a><br>
+			<a href="/freedom.html" title="Freedom of Information Act">Freedom of Information Act</a> | <a href="/privacy.html" title="Privacy Statement">Privacy Statement</a> | <a href="/policies.html" title="Legal Policies and Disclaimers">Legal Policies and Disclaimers</a><br>
+			<a href="http://www.usa.gov/" title="USA.gov">USA.gov</a> | <a href="http://www.crimesolutions.gov" title="CrimeSolutions.gov">CrimeSolutions.gov</a><br>
+			<a href="http://www.justice.gov/" title="Department of Justice">Department of Justice</a> | <a href="http://www.ojp.gov/" title="Office of Justice Programs">Office of Justice Programs</a>
+		</div>
+		<img id="imgLoginLogout" alt=" " src="/App/GetLoginLogoutImage.aspx">
+		<script>
+			window.setTimeout("document.getElementById('spanLogin').innerHTML = (document.getElementById('imgLoginLogout').width == 2) ? 'Logout' : 'Login'", 500);
+		</script>
+	</div><!-- end footer -->
+</div><!-- end grid container -->
+<!-- ******************************************** End Page Content ********************************************** -->
 
-<p>Here is how we handle information about your visit to our Web site:</p>
 
-<p><strong>A. Information Collected and Stored Automatically</strong></p>
 
-<p>If you visit our site to read or download information, we collect and store the following information about your visit:</p>
-
-<ul>
-<li>The name of the Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you are connecting from a university's domain) and the IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our site;<br>
-</li>
-
-<li>The type of browser and operating system used to access our site;<br>
-</li>
-
-<li>The date and time you access our site;<br>
-</li>
-
-<li>The Internet address of the Web site from which you linked directly to our site; and<br>
-</li>
-
-<li>The pages you visit and the information you request.</li>
-</ul>
-
-<p>This information is primarily collected for statistical analysis and technical improvements to the site. This government computer system uses software programs to create summary statistics, which may be used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. In certain circumstances, however, we may take additional steps to identify you based on this information and we may share this information, including your identity, with other government agencies.</p>
-
-<p><strong>B. If You Send Us Personal Information</strong></p>
-
-<p>You do not have to provide any personal information to visit this Web site. If you choose to provide us with personal information, such as by sending an e-mail or by filling out a form and submitting it through our Web site, we will use that information to respond to your message or to fulfill the stated purpose of the communication.</p>
-
-<p>We may share the information you give us with contractors acting on our behalf or with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, we may be required by law to disclose information you submit.</p>
-
-<p>Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of the FOIA can be found at  <a href="http://www.justice.gov/oip/foia_guide09.htm">http://www.justice.gov/oip/foia_guide09.htm</a>&nbsp; and a discussion about the Privacy Act can be found at <a href="http://www.justice.gov/opcl/privacyact1974.htm">http://www.justice.gov/opcl/privacyact1974.htm</a>.</p>
-
-<p>Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it by postal mail instead.</p>
-
-<p><strong>C. COPPA</strong></p>
-
-<p>We believe in the importance of protecting the privacy of children online and do not knowingly contact or collect personal information from children under 13.  Our site is not intended to solicit information of any kind from children under 13.</p>
-
-<p><strong>D. Cookies</strong></p>
-
-<p>Website measurement and  customization technologies (commonly called “cookies") are small bits of  text that are downloaded to your internet browser when you visit a website. The  Office of Management and Budget Memorandum <a href="http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf">M-10-22,  Guidance for Online Use of Web Measurement and Customization Technologies</a> defines conditions under which Federal agencies may use session and persistent  cookies, and categorizes them in “tiers” to identify their characteristics. You  may control permissions for cookies on this or any other website by adjusting  your individual browser settings for customized privacy protection – see <a href="http://www.usa.gov/optout-instructions.shtml">http://www.usa.gov/optout-instructions.shtml</a> for  helpful guidance. You can still use Department websites if you do not accept  the cookies, but you may be unable to use certain cookie-dependent features. </p>
-<p><strong>Session cookies</strong><br>
-  Session cookies are not  stored on your computer’s hard drive, and are removed when you complete your  session or exit the site. Some Department websites use these “Tier 1” session  cookies to provide streamlined navigation and statistical analysis. No  personally identifying information is gathered. <br> <br>
-  <strong>Persistent cookies </strong><br>
-  Certain Department websites  use “Tier 2” persistent cookies that remain on your computer’s hard drive after  you complete an activity. For example, some Department websites use persistent  cookies in association with a voluntary customer satisfaction survey conducted  by a third party, <a href="http://www.foreseeresults.com/privacy-policy.shtml">Foresee  Results</a>™. These surveys obtain feedback and data regarding  visitors’ satisfaction with our websites, but they do not collect any  personally identifying information. If you are randomly selected to participate  in this survey, a persistent cookie may be stored on your computer’s hard drive  for 30 to 90 days to preclude a new invitation during that time. Some  Department websites also use persistent cookies to enable a <a href="http://www.google.com/analytics/learn/privacy.html">Google  Analytics</a> or <a href="http://webtrends.com/privacy-policy/">Webtrends</a> program to measure how new and returning visitors use our websites over time.  These persistent cookies do not collect any personally identifying information,  and the information that is collected is only used to improve our websites. </p>
-
-<p><strong>Security</strong></p>
-
-<p>For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.</p>
-
-<h2>Disclaimers</h2>
-
-<p>NCJRS tries to keep the information on this Web site timely and accurate, but we cannot guarantee either. Errors brought to our attention are corrected as soon as possible.</p>
-
-<p>Some of the documents on this Web site contain live references, or pointers, to information created and maintained by other organizations. Please note that we do not control and cannot guarantee the relevance, timeliness, accuracy, or even the existence of these outside materials.</p>
-
-<p>The information available on this Web site has been composed in a manner thought to be compatible with client software likely to be used to access the server. The final appearance of the documents, however, is dependent on the client software as implemented at the user's Web site. User feedback on the appearance of information across various clients is appreciated.</p>
-
-<p>The views and opinions of authors expressed herein do not necessarily reflect those of the United States Government.</p>
-
-<p>Reference herein to any specific commercial products, processes, or services by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government.</p>
-
-<p>The information and statements contained on this Web site shall not be used for the purposes of advertising, nor to imply the endorsement or recommendation of the United States Government.</p>
-
-<p>With respect to documents available from this Web site, neither the United States Government nor any of its employees make any warranty, express or implied, including but not limited to the warranties of merchantability and fitness for a particular purpose. Further, neither the United States Government nor any of its employees assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product or process disclosed; nor do they represent that its use would not infringe privately owned rights.</p>
-
-<h2>Copyright Status</h2>
-
-<p>The United States Government retains a non-exclusive, irrevocable, and royalty-free license to publish or reproduce these documents for U.S. Government purposes, or to allow others to do so.</p>
-
-<p>These documents may be freely distributed and used for non-commercial, scientific and educational purposes. Commercial use of the documents available from this server may be protected under U.S. and foreign copyright laws. If you wish to publish or reproduce these documents for commercial purposes, please&nbsp;<a href="App/QA/SubmitQuestion.aspx">contact us</a>&nbsp;with your request.</p>
-
-<p>Individual documents on this server may have different copyright conditions, and that fact will be noted with those documents.</p>
-
-<!-- InstanceEndEditable --></div></div>
-<div id="footer"><div id="ftcol1"><div class="footertitle"><a href="http://ojp.gov/">Office of Justice Programs</a> <a href="http://www.facebook.com/pages/Office-of-Justice-Programs/184230948375628" class="facebook"><img src="images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;<a href="https://twitter.com/ojpgov/" class="twitter"><img src="images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a></div>
-<div id="ftrow1"><ul>
-<li><a href="http://www.bja.gov/">Bureau of Justice Assistance</a> <a href="https://www.facebook.com/pages/OJP-Bureau-of-Justice-Assistance/122368714596791" class="facebook"><img src="images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;<a href="https://twitter.com/DOJBJA" class="twitter"><img src="images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a></li>
-<li><a href="http://www.bjs.gov/">Bureau of Justice Statistics</a></li>
-<li><a href="http://www.nij.gov/">National Institute of Justice</a> <a href="https://www.facebook.com/OJPNIJ" class="facebook"><img src="images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;<a href="https://twitter.com/OJPNIJ" class="twitter"><img src="images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a></li>
-<li><a href="http://www.ovc.gov/">Office for Victims of Crime</a> <a href="https://www.facebook.com/pages/Office-for-Victims-of-Crime/243785542420492" class="facebook"><img src="images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;<a href="https://twitter.com/OJPOVC" class="twitter"><img src="images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a></li></ul></div>
-<div id="ftrow2"><ul><li><a href="http://www.ojjdp.gov/">Office of Juvenile Justice and Delinquency Prevention</a> <a href="https://www.facebook.com/OJPOJJDP" class="facebook"><img src="images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a>&nbsp;<a href="https://twitter.com/OJPOJJDP" class="twitter"><img src="images/1_twitter_icon_sm.png" class="image_nb" alt="Twitter" title="Twitter"></a></li><a href="https://twitter.com/OJPOJJDP" class="twitter">
-</a><li><a href="https://twitter.com/OJPOJJDP" class="twitter"></a><a href="http://www.smart.gov/">Office of Sex Offender Sentencing, Monitoring, Apprehending, Registering, and Tracking</a> <a href="https://www.facebook.com/NSOPW" class="facebook"><img src="images/1_facebook_icon_sm.png" class="image_nb" alt="Facebook" title="Facebook"></a></li></ul></div>
-</div>
-<div id="ftcol3"><a href="/App/ContactUs.aspx">Contact Us</a> | <a href="/App/Feedback.aspx">Feedback</a> | <a href="/sitemap.html">Site Map</a><br>
-<a href="/freedom.html">Freedom of Information Act</a> | <a href="/privacy.html">Privacy Statement</a> | <a href="/policies.html">Legal Policies and Disclaimers</a><br>
-<a href="http://www.usa.gov/">USA.gov</a> | <a href="http://www.crimesolutions.gov">CrimeSolutions.gov</a><br>
-<a href="http://www.justice.gov/">Department of Justice</a> | <a href="http://ojp.gov/">Office of Justice Programs</a></div><img id="imgLoginLogout" border="0" alt=" " src="App/GetLoginLogoutImage.aspx" style="position:absolute; left:0; top:0">
-<script language="javascript">
-	window.setTimeout("document.getElementById('spanLogin').innerHTML = (document.getElementById('imgLoginLogout').width == 2) ? 'Logout' : 'Login'", 500);
-</script>
-</div>
-</div>
-
-<!-- InstanceEnd -->
 </body></html>
