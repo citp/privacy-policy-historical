@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fthemes.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319051316id_/https%3A//fthemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fthemes.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905134702id_/https%3A//fthemes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free WordPress Themes
-
-## Privacy Policy
 
 We automatically collect IP addresses and Web site usage information from you when you visit our Web site. This information helps us evaluate how our visitors use and navigate our Web pages on an aggregate basis. This information is used only for our internal web trends analysis, and is never published or used to identify you in any way.
 
