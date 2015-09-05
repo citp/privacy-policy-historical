@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316161931id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arts.ac.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905140322id_/http%3A//www.arts.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - University of the Arts London
 
@@ -43,10 +43,11 @@ The types of information which we may collect and process about you are:
   * To ensure the safety of our staff and students.
   * For the purposes of reducing credit risk or preventing fraud.
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [websupport](mailto:websupport@arts.ac.uk).
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [websupport@arts.ac.uk](mailto:websupport@arts.ac.uk).
   * [Data Protection Act 1998  
 ](http://www.legislation.gov.uk/ukpga/1998/29/contents)
-  * [Freedom of Information Act 2000 ](http://www.legislation.gov.uk/ukpga/1998/29/contents)
+  * [Freedom of Information Act 2000  
+](http://www.legislation.gov.uk/ukpga/1998/29/contents)
   * [Information Commissioner's Office](http://www.ico.org.uk/)
 
 
