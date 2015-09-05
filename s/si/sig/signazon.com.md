@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signazon.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609045227id_/http%3A//www.signazon.com/privacy.aspx%3Fn%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signazon.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905151101id_/http%3A//www.signazon.com/privacy.aspx%3Fn%3Df) for the most accurate reproduction.*
 
 # Privacy Policy - Signazon
 
@@ -47,7 +47,7 @@ This information is used to:
 
 **Ability to Opt Out**
 
-You have the option to remove yourself from Signazon.com emails and marketing campaigns. To do so, select the unsubscribe link located at the bottom of each email, or you can contact [signazon@em.signazon.com](mailto:signazon@em.signazon.com). 
+You have the option to remove yourself from Signazon.com emails and marketing campaigns. To do so, select the unsubscribe link located at the bottom of each email. 
 
 **Third-Party Information**
 
@@ -89,7 +89,7 @@ In some areas, our site includes links to other websites that have privacy polic
 
 At Signazon.com, the security of your personal information is important. Any sensitive information (such as a credit card number) that is entered on our site is encrypted using Transport Layer Security (TLS) or Secure Sockets Layer (SSL) technology. 
 
-Signazon.com uses generally-accepted industry standards to protect any personal information that we receive, both during the time of transmission as well as once the information has been received; however, no Internet transmission method, or electronic storage method, is 100% secure. Thus, we cannot guarantee the absolute security of this information. If you have any questions about the security of Signazon.com, you can contact us by emailing [security@signazon.com](mailto:security@signazon.com). 
+Signazon.com uses generally-accepted industry standards to protect any personal information that we receive, both during the time of transmission as well as once the information has been received; however, no Internet transmission method, or electronic storage method, is 100% secure. Thus, we cannot guarantee the absolute security of this information. If you have any questions about the security of Signazon.com, please [contact us](https://web.archive.org/contact-us.aspx). 
 
 **Additional Information**
 
@@ -99,7 +99,7 @@ The Signazon.com website also offers a publicly-accessible blog. Please be aware
 
 **Updating Personal Information**
 
-If you would like to review and update your personal information to ensure its accuracy, please contact [security@signazon.com](mailto:security@signazon.com), or log in to your [Signazon.com account](https://web.archive.org/myaccount/login.aspx). 
+If you would like to review and update your personal information to ensure its accuracy, please [contact us](https://web.archive.org/contact-us.aspx), or log in to your [Signazon.com account](https://web.archive.org/myaccount/login.aspx). 
 
 **Notification of Changes to Privacy Policy**
 
@@ -107,10 +107,9 @@ This policy may periodically be updated to reflect changes and updates to our pr
 
 **Contact Information**
 
-If you have questions about this privacy policy, you can write to or email us at the following address: 
+If you have questions about this privacy policy, please [contact us here](https://web.archive.org/contact-us.aspx). 
 
 **Signazon.com**   
 11969 Plano Rd. Ste. 190   
 Dallas, TX 75243   
-**Email:** [security@signazon.com](mailto:security@signazon.com)   
 **Phone:** 1-800-518-1217 
