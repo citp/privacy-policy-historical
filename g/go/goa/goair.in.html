@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the goair.in privacy policy that was archived on 2015-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314211027id_/http%3A//www.goair.in/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goair.in privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905055015id_/https%3A//www.goair.in/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MSQ4V2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d71307b05a","applicationID":"5680366","transactionName":"YAFTMkcFXkBZBhBRDllLdQlBKlVHewoKTBNYCF0DR0tzXFYRAVYVGC1fAlAc","queueTime":0,"applicationTime":52,"ttGuid":"B6AEFD360DDC6AB8","agent":"js-agent.newrelic.com/nr-593.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYPV1BRGwYGXFFRAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><link rel="icon" href="/Images/favicon.ico" type="image/png"><link rel="shortcut icon" href="/Images/favicon.ico"><meta name="blitz" content="mu-b2128b2f-8a867c8f-9d863a01-9b6caf05">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MSQ4V2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d71307b05a","applicationID":"5680366","transactionName":"YAFTMkcFXkBZBhBRDllLcAVBDV9dFyYLVhVSCkUlWgpEQVcJCF0TGC1fAlAc","queueTime":0,"applicationTime":363,"ttGuid":"893E945E2064055B","agent":"js-agent.newrelic.com/nr-686.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQYPV1BRGwYGXFFRAQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><link rel="icon" href="/Images/favicon.ico" type="image/png"><link rel="shortcut icon" href="/Images/favicon.ico"><meta name="blitz" content="mu-b2128b2f-8a867c8f-9d863a01-9b6caf05">
 <link rel="apple-touch-icon" href="/upload/touchlogo.png" type="image/png">
 <meta name="description" content="Privacy Policy - Looking for Best &amp; Lowest Airfare for Domestic Flights in India? - GoAir is the leading Indian Airlines offering the lowest, cheapest fares for flight tickets. ">
 <meta name="keywords" content="Privacy Policy,flight tickets, domestic flights, lowest air ticket, air ticket offers">
-<meta name="title" content="GoAir - Privacy Policy"><script type="text/javascript" src="/scripts/combined_A2D082595D0AE7DFA08C267F800D2735.js"></script>
-<link rel="stylesheet" type="text/css" href="/styles/combined_21B8C87B6C53E41C588039E1A32122AE.css">
+<meta name="title" content="GoAir - Privacy Policy"><script type="text/javascript" src="/scripts/combined_3302136C82E0893FD955F8D06C462BA0.js"></script>
+<link rel="stylesheet" type="text/css" href="/styles/combined_C585AFDB68F6223B29F9FC3620136A6F.css">
 
 <link rel="stylesheet" type="text/css" href="/upload/override-web.css">
         <script type="text/javascript">
@@ -36,7 +36,6 @@
     
 					<script type="text/javascript">
 					</script>
-
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MSQ4V2"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -46,8 +45,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MSQ4V2');</script>
 <!-- End Google Tag Manager -->
-
-<script type="text/javascript">
+<script>
 				</script>
 
 
@@ -58,10 +56,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="top-bar">
 	<ul>
-		<li><p>GoAir Customer Care/ Tele Check-in</p>
- <span><p>Call: 092 - 2322 - 2111/020 - 2566 - 2111</p>
-</span></li>
-		<li> <span></span></li>
+		<li><p style="font-size:14px;">GoAir Customer Care</p>
+
+<p style="font-size:14px;color:#5B5959">Call: 092 - 2322 - 2111/020 - 2566 - 2111</p>
+
+<p style="color:#5B5959">&nbsp;</p>
+
+<p style="font-size:14px;">Monsoon Helpline:</p>
+
+<p style="font-size:14px;color:#5B5959">020 - 6689 - 5050</p>
+ <span></span></li>
+		<li><p><span style="color: #19398a;font-size:14px;">Download GoAir App: <a href="https://itunes.apple.com/us/app/go-airlines/id947310396?mt=8" target="_blank"><img height="25" src="https://lh5.googleusercontent.com/-M1Tk6TdDh2U/VOwkaewWC5I/AAAAAAAAARg/XyM29VZk5TQ/w426-h237/app-store.png"></a> <a href="https://play.google.com/store/apps/details?id=com.ezy.goair" target="_blank"><img height="25" src="https://lh5.googleusercontent.com/-JllzfTVYpJM/VOwk9EgnNJI/AAAAAAAAASo/2Q5_z1EttfQ/w426-h237/Google-App.png"></a></span></p>
+ <span></span></li>
 	</ul>
 </div><!-- /.top-bar -->
 
@@ -97,7 +103,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
            
                <a href="/menu/plan-my-trip/route-map" class="sub-menu">Route Map</a>
            
-               <a href="http://groups.goair.in/index.php" class="sub-menu">Group Bookings</a>
+               <a href="https://groups.goair.in/index.php" class="sub-menu">Group Bookings</a>
            
                <a href="/flight-schedule" class="sub-menu">Flight Schedule</a>
            
@@ -113,12 +119,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </li>
     
     <li class="item ">
-        <a href="http://holidays.goair.in" target="_blank">GoAir Holidays</a>
+        <a href="https://holidays.goair.in" target="_blank">GoHolidays</a>
         
     </li>
     
     <li class="item ">
-        <a href="http://www.goteam.in/bl_candidate/index.asp" target="_blank">Careers</a>
+        <a href="https://www.goteam.in/bl_candidate/index.asp" target="_blank">Careers</a>
         
     </li>
     
@@ -128,6 +134,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <ul>
                 
                <a href="/menu/promotions/defence-promotion" class="sub-menu">Defence Promotion</a>
+           
+               <a href="/menu/promotions/happy-tuesdays" class="sub-menu">Happy Tuesdays</a>
            
             </ul>
            
@@ -142,15 +150,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
            
                <a href="/menu/about-us/network" class="sub-menu">Network</a>
            
+               <a href="/menu/about-us/advertise-with-us" class="sub-menu">Advertise With Us</a>
+           
                <a href="/menu/about-us/contact-us" class="sub-menu">Contact Us</a>
            
             </ul>
            
-    </li>
-    
-    <li class="item ">
-        <a href="http://goair.booksecure.net/criteria.aspx" target="_blank">Old Version</a>
-        
     </li>
     
 	</ul>
@@ -264,7 +269,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<li><a href="/flight-status"><span>•</span>Flight Status</a></li>
 	<li><a href="/menu/plan-my-trip/travel-guide"><span>•</span>Travel Guide</a></li>
 	<li><a href="/menu/plan-my-trip/route-map"><span>•</span>Route Map</a></li>
-	<li><a href="http://groups.goair.in/index.php"><span>•</span>Group Bookings</a></li>
+	<li><a href="https://groups.goair.in/index.php"><span>•</span>Group Bookings</a></li>
 	<li><a href="/flight-schedule"><span>•</span>Flight Schedule</a></li>
 	<li><a href="/menu/plan-my-trip/charters"><span>•</span>Charters</a></li>
 </ul>
@@ -276,19 +281,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
 </ul>
 
-<h5><a href="http://holidays.goair.in" target="_blank">GoAir Holidays</a></h5>
+<h5><a href="https://holidays.goair.in" target="_blank">GoAir Holidays</a></h5>
 
 <ul>
 </ul>
 
-<h5><a href="http://www.goteam.in/bl_candidate/index.asp" target="_blank">Careers</a></h5>
+<h5><a href="https://www.goteam.in/bl_candidate/index.asp" target="_blank">Careers</a></h5>
 
 <ul>
 </ul>
 </div>
 
 <div class="footer-col">
-<h5><a href="/menu/promotions">Promotions</a></h5>
+<h5><a href="/menu/promotions">Promotion</a></h5>
 
 <ul>
 	<li><a href="/menu/promotions/defence-promotion"><span>•</span>Defence Promotion</a></li>
@@ -299,12 +304,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <ul>
 	<li><a href="/menu/about-us/our-offices"><span>•</span>Our Offices</a></li>
 	<li><a href="/menu/about-us/network"><span>•</span>Network</a></li>
+	<li><a href="/menu/about-us/advertise-with-us">• Advertise With Us</a></li>
 	<li><a href="/menu/about-us/contact-us"><span>•</span>Contact Us</a></li>
 </ul>
 </div>
 
 <div class="footer-col">
-<h5><a href="http://goair.booksecure.net/criteria.aspx" target="_blank">Old Version</a></h5>
+<h5><a href="https://goair.booksecure.net/criteria.aspx" target="_blank">Old Version</a></h5>
 
 <ul>
 </ul>
@@ -340,11 +346,11 @@ color: #313e9b;">Follow Us on</h5>
  
 <div> 
 <div class="footer-bottom">
-<p><a href="http://www.wadiagroup.com/">Wadia Group</a> <span>|</span> <a href="http://www.goair.in/citizens-charter">Citizens Charter</a> <span>|</span> <a href="http://www.goair.in/terms-conditions">Terms &amp; Conditions</a> <span>|</span> <a href="http://www.goair.in/disclaimer">Disclaimer</a> <span>|</span> <a href="http://www.goair.in/privacy-policy">Privacy Policy</a> <span>|</span> <a href="http://www.goair.in/upload/TARIFF.pdf">Tariff Sheet</a> <span>|</span> <a href="http://www.goair.in/bottom-menu/in-flight-magazine">In-flight Magazine</a> | <a href="http://www.goair.in/menu/plan-my-trip/travel-guide">Travel Guide</a></p>
+<p><a href="http://www.wadiagroup.com/">Wadia Group</a> <span>|</span> <a href="https://www.goair.in/citizens-charter">Citizens Charter</a> <span>|</span> <a href="https://www.goair.in/terms-conditions">Terms &amp; Conditions</a> <span>|</span> <a href="https://www.goair.in/bottom-menu/corporate-governance">Corporate Governance</a> <span>|</span> <a href="https://www.goair.in/disclaimer">Disclaimer</a> <span>|</span> <a href="https://www.goair.in/privacy-policy">Privacy Policy</a> <span>|</span> <a href="https://www.goair.in/upload/TARIFF.pdf">Tariff Sheet</a> <span>|</span> <a href="https://www.goair.in/bottom-menu/in-flight-magazine">In-flight Magazine</a> | <a href="https://www.goair.in/menu/plan-my-trip/travel-guide">Travel Guide</a></p>
 
-<div><a href="http://www.goair.in/testimonials">Testimonials</a> | <a href="http://www.goair.in/bottom-menu/travel-insurance">Travel Insurance</a> | <a a="" href="http://www.goair.in/bottom-menu/feedback-form">Feedback</a> | <a href="http://www.goair.in/bottom-menu/Credit-Card-Upload">Credit Card Upload</a> | <a href="http://www.goair.in/authorized-travel-agents">Authorized Travel Agents</a> | <a href="http://www.goair.in/menu/about-us/contact-us">Contact Us</a> | <a href="http://www.goair.in/sitemap">Sitemap</a></div>
+<div><a href="https://www.goair.in/testimonials">Testimonials</a> | <a href="https://www.goair.in/bottom-menu/travel-insurance">Travel Insurance</a> | <a a="" href="https://www.goair.in/bottom-menu/feedback-form">Feedback</a> | <a href="https://www.goair.in/bottom-menu/Credit-Card-Upload">Credit Card Upload</a> | <a href="https://www.goair.in/authorized-travel-agents">Authorized Travel Agents</a> | <a href="https://www.goair.in/menu/about-us/contact-us">Contact Us</a> | <a href="https://www.goair.in/sitemap">Sitemap</a></div>
 
-<p>GoAir: India's Low Cost Domestic Airline. © 2015. GoAir All Rights Reserved. Powered by <a href="http://radixx.com/" style="text-decoration: none;" target="_blank"> <img alt="Radixx" border="0" src="http://www.goair.in/upload/radixx.png" style="height:15px;"> </a> <a href="http://www.ezy.se/en" style="text-decoration: none;" target="_blank"> <img alt="ezy" border="0" src="http://www.goair.in/upload/ezyw.png" style="margin-left: 5px; height:15px;"> </a></p>
+<p>GoAir: India's Low Cost Domestic Airline. © 2015. GoAir All Rights Reserved. Powered by <a href="https://radixx.com/" style="text-decoration: none;" target="_blank"> <img alt="Radixx" border="0" src="/upload/radixx.png" style="height:15px;"> </a> <a href="https://www.ezy.se/en" style="text-decoration: none;" target="_blank"> <img alt="ezy" border="0" src="/upload/ezyw.png" style="margin-left: 5px; height:15px;"> </a></p>
 </div>
     
  
@@ -391,7 +397,7 @@ color: #313e9b;">Follow Us on</h5>
 
         <div class="group">
             <i class="icon-group"></i>
-            <a href="http://groups.goair.in/index.php"><span>Group bookings</span></a>
+            <a href="https://groups.goair.in/index.php"><span>Group bookings</span></a>
         </div>
         <!-- /.group -->
     </div>
@@ -401,7 +407,7 @@ color: #313e9b;">Follow Us on</h5>
         <div class="form-controls clearfix">
             <div class="select">
                 <label for="">From:</label>
-                <select id="departureCity1316fixedFooterCriteriaBox" onchange="flightSearchBox1316fixedFooterCriteriaBox.setCurrenciesFromAirport(this[this.selectedIndex].value);getDestinationAirports('toCity1316fixedFooterCriteriaBox',this.value, loadDestinationCity1316fixedFooterCriteriaBox, '-- Select To --','Please wait..', true, 'en-US', 'departureCity1316fixedFooterCriteriaBox','1316fixedFooterCriteriaBox');loadDestinationCity1316fixedFooterCriteriaBox = '';" class="fixed-width departureCity">
+                <select id="departureCity1316fixedFooterCriteriaBox" onchange="flightSearchBox1316fixedFooterCriteriaBox.setCurrenciesFromAirport(this[this.selectedIndex].value);getDestinationAirports('toCity1316fixedFooterCriteriaBox',this.value, loadDestinationCity1316fixedFooterCriteriaBox, '-- Select To --','Please wait..', true, 'en-US', 'departureCity1316fixedFooterCriteriaBox','1316fixedFooterCriteriaBox');" class="fixed-width departureCity">
                     <option value="">-- Select From --</option>
                 </select>
                 <input class="required" type="hidden" id="departureCityTypeId1316fixedFooterCriteriaBox" name="cityFrom">
@@ -526,8 +532,8 @@ color: #313e9b;">Follow Us on</h5>
 			ChooseDestinationAndOriginMessage: 'Choose origin and destination ',
 			DepartureDateErrorMessage: 'Departure date must be before return date ',
 			OnlyOneInfantPerAdultMessage: 'Only 1 infant per adult',
-			GroupTravelLink: 'http://groups.goair.in/index.php',
-			MaxNumberOfPassengersAllowedMessage: 'Max 9 passengers are allowed. Visit http://groups.goair.in/ for group bookings',
+			GroupTravelLink: 'https://groups.goair.in/index.php',
+			MaxNumberOfPassengersAllowedMessage: 'Max 9 passengers are allowed. Visit https://groups.goair.in/ for group bookings',
 		    DateIsNotOpenForBookingMessage: 'Please select a departure date',
 		    OneWayPopupText: 'Save more on your return tickets, book a Round Trip with us.',
 		    DisplayOneWayPopupText: true,
@@ -705,13 +711,13 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form1","ReplaceVa
 <div style="margin-right: 15px;" class="flight-date flightstatus-row">
     <label class="searchLabel">
         Flight Date :</label>
-    <select class="selectlist12" id="flightDateSelect" name="Criteria.FlightDate"><option value="2015-03-15">15-Mar-2015</option>
-<option value="2015-03-16">16-Mar-2015</option>
-<option value="2015-03-17">17-Mar-2015</option>
-<option value="2015-03-18">18-Mar-2015</option>
-<option value="2015-03-19">19-Mar-2015</option>
-<option value="2015-03-20">20-Mar-2015</option>
-<option value="2015-03-21">21-Mar-2015</option>
+    <select class="selectlist12" id="flightDateSelect" name="Criteria.FlightDate"><option value="2015-09-05">05-Sep-2015</option>
+<option value="2015-09-06">06-Sep-2015</option>
+<option value="2015-09-07">07-Sep-2015</option>
+<option value="2015-09-08">08-Sep-2015</option>
+<option value="2015-09-09">09-Sep-2015</option>
+<option value="2015-09-10">10-Sep-2015</option>
+<option value="2015-09-11">11-Sep-2015</option>
 </select>
 </div>
 
@@ -724,8 +730,8 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form1","ReplaceVa
 </div>
 
 <div id="flight-statustype-1316FixedFooterFlightStatusBoxpart" class="flight-status-type flightstatus-row">
-    <input checked="checked" id="FlightStatusType.FlightNumber1316FixedFooterFlightStatusBoxpart" name="Criteria.FlightStatusType" type="radio" value="FlightNumber">
-    <label for="FlightStatusType.FlightNumber1316FixedFooterFlightStatusBoxpart" class="data-flightnumber-1316FixedFooterFlightStatusBoxpart">Flight Number</label>
+    <input checked="checked" id="FlightStatusType.FlightId1316FixedFooterFlightStatusBoxpart" name="Criteria.FlightStatusType" type="radio" value="FlightId">
+    <label for="FlightStatusType.FlightId1316FixedFooterFlightStatusBoxpart" class="data-flightid-1316FixedFooterFlightStatusBoxpart">Flight Number</label>
     <input id="FlightStatusType.Route1316FixedFooterFlightStatusBoxpart" name="Criteria.FlightStatusType" type="radio" value="Route">
     <label for="FlightStatusType.Route1316FixedFooterFlightStatusBoxpart" class="data-bycity-1316FixedFooterFlightStatusBoxpart">By City</label>
 	<div class="clear"></div>
@@ -734,109 +740,142 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form1","ReplaceVa
 <div class="flight-city-selection flightstatus-row">
     <div class="flight-selection" id="FlightSelector1316FixedFooterFlightStatusBoxpart" style="display:block;">
         <label class="searchLabel">Flight Number :</label>
-        <select class="selectlist12" id="Criteria_FlightNo" name="Criteria.FlightNo"><option value="G8-101">G8-101 (CCU-IXZ)</option>
-<option value="G8-102">G8-102 (CCU-DEL)</option>
-<option value="G8-113">G8-113 (DEL-BLR)</option>
-<option value="G8-116">G8-116 (BLR-DEL)</option>
-<option value="G8-117">G8-117 (DEL-BLR)</option>
-<option value="G8-120">G8-120 (BLR-DEL)</option>
-<option value="G8-141">G8-141 (CCU-NAG)</option>
-<option value="G8-142">G8-142 (BOM-NAG)</option>
-<option value="G8-143">G8-143 (DEL-PAT)</option>
-<option value="G8-144">G8-144 (PAT-DEL)</option>
-<option value="G8-147">G8-147 (DEL-IXR)</option>
-<option value="G8-148">G8-148 (IXR-DEL)</option>
-<option value="G8-149">G8-149 (DEL-PAT)</option>
-<option value="G8-150">G8-150 (PAT-DEL)</option>
-<option value="G8-151">G8-151 (DEL-GAU)</option>
-<option value="G8-152">G8-152 (IXB-DEL)</option>
-<option value="G8-153">G8-153 (DEL-IXB)</option>
-<option value="G8-158">G8-158 (GAU-DEL)</option>
-<option value="G8-161">G8-161 (DEL-BBI)</option>
-<option value="G8-162">G8-162 (BBI-DEL)</option>
-<option value="G8-173">G8-173 (DEL-PNQ)</option>
-<option value="G8-174">G8-174 (PNQ-DEL)</option>
-<option value="G8-175">G8-175 (DEL-PNQ)</option>
-<option value="G8-176">G8-176 (PNQ-DEL)</option>
-<option value="G8-177">G8-177 (DEL-PNQ)</option>
-<option value="G8-178">G8-178 (PNQ-DEL)</option>
-<option value="G8-185">G8-185 (DEL-IXJ)</option>
-<option value="G8-186">G8-186 (IXJ-DEL)</option>
-<option value="G8-187">G8-187 (DEL-LKO)</option>
-<option value="G8-188">G8-188 (LKO-DEL)</option>
-<option value="G8-190">G8-190 (SXR-DEL)</option>
-<option value="G8-193">G8-193 (DEL-IXL)</option>
-<option value="G8-196">G8-196 (IXL-SXR)</option>
-<option value="G8-199">G8-199 (DEL-IXJ)</option>
-<option value="G8-241">G8-241 (BLR-PNQ)</option>
-<option value="G8-242">G8-242 (PNQ-BLR)</option>
-<option value="G8-243">G8-243 (BBI-BOM)</option>
-<option value="G8-244">G8-244 (BBI-CCU)</option>
-<option value="G8-283">G8-283 (BLR-PNQ)</option>
-<option value="G8-284">G8-284 (CCU-NAG)</option>
-<option value="G8-285">G8-285 (BLR-GOI)</option>
-<option value="G8-286">G8-286 (DEL-GOI)</option>
-<option value="G8-302">G8-302 (MAA-BOM)</option>
-<option value="G8-303">G8-303 (BOM-MAA)</option>
-<option value="G8-304">G8-304 (IXZ-MAA)</option>
-<option value="G8-305">G8-305 (BOM-MAA)</option>
-<option value="G8-317">G8-317 (BOM-BLR)</option>
-<option value="G8-319">G8-319 (BOM-DEL)</option>
-<option value="G8-320">G8-320 (BLR-BOM)</option>
-<option value="G8-322">G8-322 (BLR-BOM)</option>
-<option value="G8-323">G8-323 (BOM-BLR)</option>
-<option value="G8-325">G8-325 (BOM-BLR)</option>
-<option value="G8-326">G8-326 (BLR-BOM)</option>
-<option value="G8-327">G8-327 (BOM-DEL)</option>
-<option value="G8-329">G8-329 (BOM-DEL)</option>
-<option value="G8-330">G8-330 (DEL-BOM)</option>
-<option value="G8-332">G8-332 (DEL-BOM)</option>
-<option value="G8-334">G8-334 (DEL-BOM)</option>
-<option value="G8-336">G8-336 (BOM-COK)</option>
-<option value="G8-337">G8-337 (BOM-DEL)</option>
-<option value="G8-339">G8-339 (BOM-DEL)</option>
-<option value="G8-340">G8-340 (DEL-BOM)</option>
-<option value="G8-341">G8-341 (BOM-DEL)</option>
-<option value="G8-342">G8-342 (DEL-BOM)</option>
-<option value="G8-344">G8-344 (DEL-BOM)</option>
-<option value="G8-345">G8-345 (BOM-DEL)</option>
-<option value="G8-346">G8-346 (DEL-BOM)</option>
-<option value="G8-347">G8-347 (BOM-COK)</option>
-<option value="G8-348">G8-348 (COK-BOM)</option>
-<option value="G8-367">G8-367 (BOM-AMD)</option>
-<option value="G8-368">G8-368 (AMD-BOM)</option>
-<option value="G8-369">G8-369 (BOM-AMD)</option>
-<option value="G8-370">G8-370 (AMD-BOM)</option>
-<option value="G8-371">G8-371 (BOM-GOI)</option>
-<option value="G8-372">G8-372 (GOI-BOM)</option>
-<option value="G8-373">G8-373 (BOM-GOI)</option>
-<option value="G8-374">G8-374 (GOI-BOM)</option>
-<option value="G8-375">G8-375 (BOM-GOI)</option>
-<option value="G8-376">G8-376 (GOI-BOM)</option>
-<option value="G8-377">G8-377 (BOM-GOI)</option>
-<option value="G8-378">G8-378 (GOI-BOM)</option>
-<option value="G8-379">G8-379 (BOM-GOI)</option>
-<option value="G8-380">G8-380 (GOI-BOM)</option>
-<option value="G8-381">G8-381 (BOM-IXC)</option>
-<option value="G8-382">G8-382 (IXC-BOM)</option>
-<option value="G8-385">G8-385 (BOM-PAT)</option>
-<option value="G8-387">G8-387 (BOM-IXJ)</option>
-<option value="G8-391">G8-391 (BOM-JAI)</option>
-<option value="G8-392">G8-392 (JAI-BOM)</option>
-<option value="G8-393">G8-393 (BOM-JAI)</option>
-<option value="G8-394">G8-394 (JAI-BOM)</option>
-<option value="G8-395">G8-395 (BLR-BOM)</option>
-<option value="G8-396">G8-396 (BOM-BLR)</option>
-<option value="G8-397">G8-397 (BOM-LKO)</option>
-<option value="G8-398">G8-398 (LKO-BOM)</option>
-<option value="G8-451">G8-451 (MAA-PNQ)</option>
-<option value="G8-452">G8-452 (PNQ-MAA)</option>
-<option value="G8-532">G8-532 (AMD-CCU)</option>
-<option value="G8-537">G8-537 (CCU-AMD)</option>
-<option value="G8-541">G8-541 (CCU-PAT)</option>
-<option value="G8-542">G8-542 (PAT-CCU)</option>
-<option value="G8-545">G8-545 (CCU-GAU)</option>
-<option value="G8-546">G8-546 (GAU-CCU)</option>
+        <select class="selectlist12" id="Criteria_FlightId" name="Criteria.FlightId"><option value="340593">G8-101 (DEL-CCU)</option>
+<option value="340709">G8-102 (CCU-DEL)</option>
+<option value="340906">G8-113 (DEL-BLR)</option>
+<option value="340998">G8-116 (BLR-DEL)</option>
+<option value="341158">G8-117 (DEL-BLR)</option>
+<option value="341255">G8-118 (BLR-DEL)</option>
+<option value="341366">G8-141 (NAG-BOM)</option>
+<option value="341519">G8-142 (BOM-NAG)</option>
+<option value="341696">G8-143 (DEL-PAT)</option>
+<option value="341775">G8-144 (PAT-DEL)</option>
+<option value="341939">G8-147 (DEL-IXR)</option>
+<option value="342026">G8-148 (IXR-DEL)</option>
+<option value="342152">G8-149 (DEL-PAT)</option>
+<option value="342360">G8-150 (PAT-DEL)</option>
+<option value="342412">G8-151 (DEL-GAU)</option>
+<option value="342566">G8-152 (GAU-DEL)</option>
+<option value="342672">G8-153 (DEL-IXB)</option>
+<option value="342890">G8-154 (IXB-DEL)</option>
+<option value="342936">G8-162 (BBI-DEL)</option>
+<option value="343086">G8-163 (DEL-BBI)</option>
+<option value="343203">G8-173 (DEL-PNQ)</option>
+<option value="343414">G8-174 (PNQ-DEL)</option>
+<option value="343527">G8-175 (DEL-PNQ)</option>
+<option value="343594">G8-176 (PNQ-DEL)</option>
+<option value="343784">G8-177 (DEL-PNQ)</option>
+<option value="343878">G8-178 (PNQ-DEL)</option>
+<option value="344223">G8-180 (DEL-IXJ)</option>
+<option value="344275">G8-180 (IXJ-SXR)</option>
+<option value="344224">G8-180 (SXR-DEL)</option>
+<option value="344384">G8-183 (DEL-SXR)</option>
+<option value="344584">G8-184 (SXR-DEL)</option>
+<option value="344725">G8-185 (DEL-IXJ)</option>
+<option value="344839">G8-186 (IXJ-DEL)</option>
+<option value="344920">G8-187 (DEL-LKO)</option>
+<option value="345116">G8-188 (LKO-DEL)</option>
+<option value="345248">G8-190 (DEL-SXR)</option>
+<option value="345364">G8-192 (SXR-DEL)</option>
+<option value="345515">G8-193 (DEL-IXL)</option>
+<option value="345552">G8-194 (IXL-DEL)</option>
+<option value="345989">G8-197 (DEL-IXJ)</option>
+<option value="345988">G8-197 (IXJ-SXR)</option>
+<option value="345990">G8-197 (SXR-DEL)</option>
+<option value="346252">G8-201 (DEL-SXR)</option>
+<option value="346419">G8-202 (SXR-DEL)</option>
+<option value="346588">G8-203 (DEL-IXL)</option>
+<option value="346652">G8-204 (IXL-DEL)</option>
+<option value="346844">G8-241 (BLR-PNQ)</option>
+<option value="346998">G8-242 (PNQ-BLR)</option>
+<option value="347062">G8-243 (BBI-BOM)</option>
+<option value="347220">G8-243 (CCU-BBI)</option>
+<option value="347365">G8-244 (BBI-CCU)</option>
+<option value="347493">G8-244 (BOM-BBI)</option>
+<option value="347722">G8-283 (BLR-PNQ)</option>
+<option value="347723">G8-283 (PNQ-NAG)</option>
+<option value="347892">G8-284 (NAG-PNQ)</option>
+<option value="347893">G8-284 (PNQ-BLR)</option>
+<option value="348235">G8-285 (BLR-GOI)</option>
+<option value="348109">G8-285 (GOI-DEL)</option>
+<option value="348414">G8-286 (DEL-GOI)</option>
+<option value="348544">G8-286 (GOI-BLR)</option>
+<option value="348678">G8-302 (MAA-BOM)</option>
+<option value="348760">G8-303 (BOM-MAA)</option>
+<option value="359511">G8-304 (IXZ-MAA)</option>
+<option value="348962">G8-304 (MAA-BOM)</option>
+<option value="349079">G8-305 (BOM-MAA)</option>
+<option value="359512">G8-305 (MAA-IXZ)</option>
+<option value="349277">G8-317 (BOM-BLR)</option>
+<option value="359513">G8-318 (DEL-BOM)</option>
+<option value="349370">G8-319 (BOM-DEL)</option>
+<option value="349478">G8-320 (BLR-BOM)</option>
+<option value="349634">G8-322 (BLR-BOM)</option>
+<option value="349739">G8-323 (BOM-BLR)</option>
+<option value="349883">G8-325 (BOM-BLR)</option>
+<option value="350000">G8-326 (BLR-BOM)</option>
+<option value="350157">G8-327 (BOM-DEL)</option>
+<option value="350340">G8-329 (BOM-DEL)</option>
+<option value="350400">G8-330 (DEL-BOM)</option>
+<option value="350526">G8-332 (DEL-BOM)</option>
+<option value="350676">G8-334 (DEL-BOM)</option>
+<option value="350876">G8-336 (BOM-COK)</option>
+<option value="351009">G8-337 (BOM-DEL)</option>
+<option value="351198">G8-339 (BOM-DEL)</option>
+<option value="351381">G8-340 (DEL-BOM)</option>
+<option value="351498">G8-341 (BOM-DEL)</option>
+<option value="351601">G8-342 (DEL-BOM)</option>
+<option value="351756">G8-343 (BOM-DEL)</option>
+<option value="351790">G8-344 (DEL-BOM)</option>
+<option value="351951">G8-345 (BOM-DEL)</option>
+<option value="351919">G8-345 (COK-BOM)</option>
+<option value="352207">G8-346 (DEL-BOM)</option>
+<option value="352292">G8-347 (BOM-COK)</option>
+<option value="352498">G8-348 (COK-BOM)</option>
+<option value="352572">G8-365 (BOM-AMD)</option>
+<option value="352735">G8-368 (AMD-BOM)</option>
+<option value="352890">G8-369 (BOM-AMD)</option>
+<option value="352993">G8-370 (AMD-BOM)</option>
+<option value="353155">G8-371 (BOM-GOI)</option>
+<option value="353261">G8-372 (GOI-BOM)</option>
+<option value="353415">G8-373 (BOM-GOI)</option>
+<option value="353532">G8-374 (GOI-BOM)</option>
+<option value="353621">G8-375 (BOM-GOI)</option>
+<option value="353733">G8-376 (GOI-BOM)</option>
+<option value="353888">G8-379 (BOM-GOI)</option>
+<option value="353988">G8-380 (GOI-BOM)</option>
+<option value="354199">G8-381 (BOM-IXC)</option>
+<option value="354251">G8-382 (IXC-BOM)</option>
+<option value="354388">G8-383 (BOM-IXC)</option>
+<option value="354598">G8-384 (IXC-BOM)</option>
+<option value="354762">G8-385 (BOM-PAT)</option>
+<option value="354755">G8-385 (IXR-BOM)</option>
+<option value="354756">G8-385 (PAT-IXR)</option>
+<option value="355269">G8-387 (BOM-SXR)</option>
+<option value="355268">G8-387 (IXJ-BOM)</option>
+<option value="355267">G8-387 (SXR-IXJ)</option>
+<option value="355451">G8-388 (IXC-BOM)</option>
+<option value="355562">G8-389 (BOM-IXC)</option>
+<option value="355775">G8-390 (BOM-JAI)</option>
+<option value="355812">G8-391 (BOM-JAI)</option>
+<option value="355965">G8-392 (JAI-BOM)</option>
+<option value="356090">G8-394 (JAI-BOM)</option>
+<option value="356210">G8-395 (BLR-BOM)</option>
+<option value="356334">G8-395 (BOM-LKO)</option>
+<option value="356416">G8-396 (BOM-BLR)</option>
+<option value="356544">G8-396 (LKO-BOM)</option>
+<option value="356688">G8-397 (BOM-LKO)</option>
+<option value="356791">G8-398 (LKO-BOM)</option>
+<option value="356947">G8-451 (MAA-PNQ)</option>
+<option value="357123">G8-452 (PNQ-MAA)</option>
+<option value="357273">G8-532 (AMD-CCU)</option>
+<option value="357382">G8-537 (CCU-AMD)</option>
+<option value="357467">G8-541 (CCU-PAT)</option>
+<option value="357639">G8-542 (PAT-CCU)</option>
+<option value="357996">G8-545 (CCU-GAU)</option>
+<option value="358159">G8-546 (GAU-CCU)</option>
+<option value="359514">G8-633 (AMD-PNQ)</option>
+<option value="359515">G8-634 (PNQ-AMD)</option>
 </select>
     </div>
     <div class="city-selection" id="AirportSelector1316FixedFooterFlightStatusBoxpart" style="display:none;">
@@ -849,16 +888,14 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form1","ReplaceVa
 <option value="200">CHANDIGARH (IXC)</option>
 <option value="1">CHENNAI (MAA)</option>
 <option value="133">COCHIN (COK)</option>
-<option value="173">DABOLIM (GOI)</option>
 <option value="134">DELHI (DEL)</option>
+<option value="173">GOA (GOI)</option>
 <option value="170">GUWAHATI (GAU)</option>
-<option value="139">HYDERABAD (HYD)</option>
 <option value="141">JAIPUR (JAI)</option>
 <option value="197">JAMMU (IXJ)</option>
 <option value="118">KOLKATA (CCU)</option>
 <option value="203">LEH KUSHOK (IXL)</option>
 <option value="142">LUCKNOW (LKO)</option>
-<option value="57">MALE INTERNATIONAL AIRPORT (MLE)</option>
 <option value="130">MUMBAI (BOM)</option>
 <option value="143">NAGPUR (NAG)</option>
 <option value="176">PATNA (PAT)</option>
@@ -877,15 +914,14 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"form1","ReplaceVa
 <option value="200">CHANDIGARH (IXC)</option>
 <option value="1">CHENNAI (MAA)</option>
 <option value="133">COCHIN (COK)</option>
-<option value="173">DABOLIM (GOI)</option>
 <option value="134">DELHI (DEL)</option>
+<option value="173">GOA (GOI)</option>
 <option value="170">GUWAHATI (GAU)</option>
 <option value="141">JAIPUR (JAI)</option>
 <option value="197">JAMMU (IXJ)</option>
 <option value="118">KOLKATA (CCU)</option>
 <option value="203">LEH KUSHOK (IXL)</option>
 <option value="142">LUCKNOW (LKO)</option>
-<option value="57">MALE INTERNATIONAL AIRPORT (MLE)</option>
 <option value="130">MUMBAI (BOM)</option>
 <option value="143">NAGPUR (NAG)</option>
 <option value="176">PATNA (PAT)</option>
@@ -915,7 +951,7 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"formFlightStatus"
             var inputid = $(this).attr("for");
             $("#flight-statustype-1316FixedFooterFlightStatusBoxpart input[name='Criteria.FlightStatusType']").filter(function () {
                 if (this.id == inputid) {
-                    if (this.value == 'FlightNumber') {
+                    if (this.value == 'FlightId') {
                         flightSelector.show();
                         airportSelector.hide();
                         $(this).attr("checked", "checked");
@@ -1009,4 +1045,4 @@ window.mvcClientValidationMetadata.push({"Fields":[],"FormId":"formFlightStatus"
     
     
 
-<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
+</body></html>
