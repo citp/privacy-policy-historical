@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moveon.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704184148id_/http%3A//front.moveon.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveon.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061450id_/http%3A//front.moveon.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MoveOn.Org | Democracy In Action
 
