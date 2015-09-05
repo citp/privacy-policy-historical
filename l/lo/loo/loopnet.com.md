@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420191554id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905115027id_/http%3A//www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx%3FLinkCode%3D830) for the most accurate reproduction.*
 
 # LoopNet - Privacy Statement
 
@@ -16,7 +16,7 @@ LoopNet, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privac
 
 
 
-Questions regarding this statement should be directed to [privacy@loopnet.com](mailto:privacy@loopnet.com). Alternatively, please contact us by mail at LoopNet Administration -- Privacy Statement, 2100 E. Route 66, Suite 200, Glendora, CA 91740, or by telephone at (626) 803-5000.
+Questions regarding this statement should be directed to [privacy@loopnet.com](mailto:privacy@loopnet.com). Alternatively, please contact us by mail at LoopNet Administration -- Privacy Statement, 101 California St., 43rd Floor, San Francisco, CA 94111, or by telephone at (626) 803-5000.
 
 If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). For more information on TRUSTe, please go to [http://www.truste.com](http://www.truste.com/).
 
