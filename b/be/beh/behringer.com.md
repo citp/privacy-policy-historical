@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behringer.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515065013id_/http%3A//www.behringer.com/EN/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behringer.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905091748id_/http%3A//www.behringer.com/EN/privacy_policy.aspx) for the most accurate reproduction.*
 
 # BEHRINGER: Privacy Policy
 
@@ -39,3 +39,25 @@ We may share your personal information with the following:
 **Security**
 
 We use technical and organizational security measures to protect your personal data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure or access.
+
+**Google AdWords**
+
+We use Google AdWords Remarketing to advertise MUSIC Group across the Internet, in particular on the Google Display Network.
+
+AdWords remarketing will display ads to you based on what parts of the MUSIC Group website you have viewed by placing a cookie on your web browser.
+
+This cookie does not in any way identify you or give access to your computer or mobile device.
+
+The cookie is used to indicate to other websites that “This person visited a particular page, so show them ads relating to that page.”
+
+Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.
+
+  
+
+
+If you do not wish to see ads from MUSIC Group you can opt out in several ways:
+
+  1. Opt out of Google’s use of cookies by visiting Google’s Ads Settings.
+  2. Opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page. 
+
+
