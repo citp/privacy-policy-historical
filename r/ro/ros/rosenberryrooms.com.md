@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rosenberryrooms.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316024416id_/http%3A//www.rosenberryrooms.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosenberryrooms.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054050id_/http%3A//www.rosenberryrooms.com/privacypolicy1.html) for the most accurate reproduction.*
 
-# Rosenberry Rooms Privacy Policy, Secure Orders, Rosenberry Rooms Buyer Protection, Secure Online Ordering - Rosenberry Rooms
+# Rosenberry Rooms Privacy Policy
 
 Thanks for shopping at Rosenberry Rooms! It is our top priority to ensure the security and privacy of your transactions with us. Rosenberry Rooms has always been committed to maintaining the accuracy, confidentiality, and security of your personal and corporate information. We have established Privacy Principles to govern our use of customer information. 
 
