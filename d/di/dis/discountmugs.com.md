@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountmugs.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519070324id_/http%3A//www.discountmugs.com/nc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountmugs.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906013237id_/https%3A//www.discountmugs.com/nc/privacy.php) for the most accurate reproduction.*
 
 # DiscountMugs.com Privacy Policy – DiscountMugs Privacy Policy – Discount Mugs Privacy Policy
 
@@ -8,7 +8,7 @@ Discountmugs respects the privacy of anyone who uses a Discountmugs Web site and
 
 Discountmugs gathers important information from our visitors and customers. We publish this Privacy Policy to communicate how we gather and use information about you, how we protect it, and how you can participate in its protection.
 
-Discountmugs.com will, from time-to-time, e-mail members of our e-mail list with special promotions and offers. This will help you take advantage of savings on products that may be of interest to you. If you do not wish to receive promotional e-mails, you can unsubscribe your email by following this link: [Unsubscribe My Email](http://www.discountmugs.com/nc/email-unsubscribe.php). Removals are usually done within 24 hours. However, to ensure that the unsubscribe process has been completed successfully,.... read more
+Discountmugs.com will, from time-to-time, e-mail members of our e-mail list with special promotions and offers. This will help you take advantage of savings on products that may be of interest to you. If you do not wish to receive promotional e-mails, you can unsubscribe your email by following this link: [Unsubscribe My Email](https://web.archive.org/nc/email-unsubscribe.php). Removals are usually done within 24 hours. However, to ensure that the unsubscribe process has been completed successfully,.... read more
 
 Collected Information
 
