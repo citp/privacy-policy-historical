@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindujagruti.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316104315id_/http%3A//www.hindujagruti.org/about-us/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindujagruti.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905224137id_/http%3A//www.hindujagruti.org/about-us/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Hindu Janajagruti Samiti
 
