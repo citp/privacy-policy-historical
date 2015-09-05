@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the all4cellular.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507140959id_/http%3A//www.a4c.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all4cellular.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060236id_/http%3A//www.a4c.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | A4C.com
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
