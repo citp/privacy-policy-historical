@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505235214id_/http%3A//www.planetrugby.com/story/0%2C25883%2C9831_3796775%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053719id_/http%3A//www.planetrugby.com/story/0%2C25883%2C9831_3796775%2C00.html) for the most accurate reproduction.*
 
 # Planet Rugby | Rugby Union News | Planet Rugby Privacy Policy
 
