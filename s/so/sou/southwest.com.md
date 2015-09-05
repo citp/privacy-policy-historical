@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2014-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141202161756id_/http%3A//www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html%3Fclk%3DGFOOTER-BOTTOM-PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905112847id_/https%3A//www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html%3Fclk%3DGFOOTER-BOTTOM-PRIVACY) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,33 +94,33 @@ When you make a travel reservation with us and you provide your e-mail address d
 
 ### E-mail Promotions, Offers, and Updates
 
-As a Member of the Rapid Rewards® program, you may receive Rapid Rewards® e-mail communications, which may include program news and special offers, either during the Rapid Rewards® enrollment process or from your Rapid Rewards account preferences web page. During enrollment, the default option is to receive both Rapid Rewards® e-mail products.  If you are not interested in receiving these messages with special Members-only news and offers, the boxes should be unchecked prior to submitting the enrollment form. You may also opt-out of receiving these messages at any time by adjusting your preferences through the account preferences webpage.
+As a Member of the Rapid Rewards® program, you may receive Rapid Rewards e-mail communications, which may include program news and special offers, either during the Rapid Rewards enrollment process or from your Rapid Rewards account preferences web page. During enrollment, the default option is to receive both Rapid Rewards e-mail products.  If you are not interested in receiving these messages with special Members-only news and offers, the boxes should be unchecked prior to submitting the enrollment form. You may also opt-out of receiving these messages at any time by adjusting your preferences through the account preferences webpage.
 
-We also provided you with the option of subscribing to our Click 'n Save® and In A Nutshell™ e-mail updates without establishing a Rapid Rewards® or Southwest account.  To do so, click on the subscribe links below.  If you are no longer interested in receiving Click 'n Save® and/or In A Nutshell™ e-mails, you may unsubscribe from these services by clicking on an opt-out link provided in each e-mail.
+We also provided you with the option of subscribing to our Click 'n Save® and In A Nutshell™ e-mail updates without establishing a Rapid Rewards or Southwest account.  To do so, click on the subscribe links below.  If you are no longer interested in receiving Click 'n Save and/or In A Nutshell™ e-mails, you may unsubscribe from these services by clicking on an opt-out link provided in each e-mail.
 
 For your convenience, a brief description of the periodic e-mails you may choose to receive from us is also provided in the list below along with links to either subscribe or unsubscribe (as applicable) to each option.  
 
 **Click 'n Save ® Special Offers E-mail  
 **Weekly e-mail highlighting travel deals on flights, car rentals, hotels, cruises, and Southwest Vacations[  
-Subscribe](https://web.archive.org/html/email/click_n_save_signup.html)
+Subscribe](https://web.archive.org/html/email/click_n_save_signup.html) | [Unsubscribe](https://web.archive.org/account/info/view-communication-prefs)
 
 **In A Nutshell™ News & Promotions E-mail**  
-Monthly newsletter-style e-mail featuring announcements, upcoming promotions, events, contests, new products, and partner offers[  
-Subscribe](https://web.archive.org/flight/subscription/ian-email-subscribe.html)
+An e-mail featuring announcements, upcoming promotions, events, contests, new products, and partner offers[  
+Subscribe](https://web.archive.org/flight/subscription/ian-email-subscribe.html) | [Unsubscribe](https://web.archive.org/account/info/view-communication-prefs)
 
 **Rapid Rewards ® E-mail Updates**  
 Rapid Rewards news and offers for Members only  
-[Subscribe](https://web.archive.org/rapidrewards/emails) | [Unsubscribe](https://web.archive.org/rapidrewards/emails)
+[Subscribe](https://web.archive.org/rapidrewards/emails) | [Unsubscribe](https://web.archive.org/account/info/view-communication-prefs)
 
-**Rapid Rewards ® Reports  
-**Monthly report containing Rapid Rewards® account balance information, news, promotions and offers for Members only  
-[Subscribe](https://web.archive.org/rapidrewards/emails) | [Unsubscribe](https://web.archive.org/rapidrewards/emails)
+**Rapid Rewards Reports  
+** Monthly report containing Rapid Rewards account balance information, news, promotions and offers for Members only  
+[Subscribe](https://web.archive.org/rapidrewards/emails) | [Unsubscribe](https://web.archive.org/account/info/view-communication-prefs)
 
 ### Other E-mail Communication
 
  **SWABIZ ® Corporate Travel Manager E-mail Updates  
-**News related to SWABIZ®, Southwest's Business Travel website; for registered Corporate Travel Managers only  
-[Contact Your Area Marketing Manager](http://www.swabiz.com/html/air/business-groups/about-swabiz.html) to Subscribe or Unsubscribe
+**News related to SWABIZ, Southwest's Business Travel website; for registered Corporate Travel Managers only  
+[Contact Your Area Marketing Manager](http://www.swabiz.com/html/air/business-groups/about-swabiz.html) to Subscribe or Unsubscribe.
 
 **SWAMedia and Investor Relations E-mail Alerts  
 ** Southwest Airlines news releases and investor information  
@@ -128,7 +128,7 @@ Rapid Rewards news and offers for Members only
 
 ### Promotional Mailings
 
-As a Southwest Customer, Southwest account, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards® Customer Relations at 214-932-0333 (Monday - Friday, 7am-8pm CT).
+As a Southwest Customer, Southwest account, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards Customer Relations at 1-855-234-4654.
 
 ### Account Information
 
@@ -202,7 +202,7 @@ If you think we may have incorrect personally identifiable information about you
 
 ## Your Online Password
 
-Your Rapid Rewards® or Southwest account online password is unique to your account and is designed to protect your account from unauthorized use. Southwest Airlines will not be responsible for any lost, stolen, or otherwise disclosed passwords. Additionally, Southwest Airlines will not replace or reinstate any flight credits, partner credits, or program awards that are generated or redeemed by unauthorized password activity. Accordingly, your password should be guarded and not provided to anyone.
+Your Rapid Rewards® or Southwest account online password is unique to your account and is designed to protect your account from unauthorized use. Southwest Airlines will not be responsible for any lost, stolen, or otherwise disclosed passwords. Additionally, Southwest Airlines will not replace or reinstate any flight points, partner points, or program awards that are generated or redeemed by unauthorized password activity. Accordingly, your password should be guarded and not provided to anyone.
 
   
 We do not require your social security number to enroll in the Rapid Rewards Program, create a Southwest or SWABIZ account or when you make a purchase. You do, however, have the option to provide the last four digits of your social security number when you establish a Rapid Rewards account. This information will help us confirm your identity on **southwest.com**.
@@ -216,5 +216,3 @@ If you have any questions, complaints or suggestions regarding our privacy polic
 This privacy policy is current as of the effective date set forth below. Southwest Airlines Co. reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles. If we make changes to this Privacy Policy we will notify you by publication here. If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances.
 
 [Additional Privacy Policy for Mexico](https://web.archive.org/html/about-southwest/terms-and-conditions/mexican-privacy-policy.html)
-
-Updated: February 20, 2014
