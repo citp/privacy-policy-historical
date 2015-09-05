@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynorthwest.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627222402id_/http%3A//mynorthwest.com/130/22269/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynorthwest.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060725id_/http%3A//mynorthwest.com/130/22269/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyNorthwest | MyNorthwest.com
 
