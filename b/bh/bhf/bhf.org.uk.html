@@ -1,18 +1,16 @@
-<!--The following is the downloaded HTML source of the bhf.org.uk privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316035131id_/https%3A//www.bhf.org.uk/utilities/our-privacy-and-cookies-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bhf.org.uk privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905203748id_/https%3A//www.bhf.org.uk/utilities/our-privacy-and-cookies-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head id="Head1"><meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M3WB36"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"84e665e1fc","applicationID":"3354451","transactionName":"NlBTZhMDWEZQAU0LXA8acGExTVpUSA1MFkBOWFBbDw5XTF4XTUxSEkVJ","queueTime":15,"applicationTime":290,"ttGuid":"A7B1105D5DB8DCCB","agent":"js-agent.newrelic.com/nr-593.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcPUVZRGwADUVVWAgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><title>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" prefix="og: http://ogp.me/ns#" style=""><!--<![endif]--><head id="Head1"><meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M3WB36"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"84e665e1fc","applicationID":"3354451","transactionName":"NlBTZhMDWEZQAU0LXA8acGExTVpUSA1MFkBOWFBbDw5XTF4XTUxSEkVJ","queueTime":31,"applicationTime":482,"ttGuid":"CA8E27369C6D2E1E","agent":"js-agent.newrelic.com/nr-686.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwcPUVZRGwADUVVWAgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><title>
 	Our privacy and cookies policy - Utilities - British Heart Foundation
-</title><link rel="icon" type="image/png" href="/favicon.ico"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css"><link rel="stylesheet" type="text/css" href="//cloud.typography.com/7376432/776862/css/fonts.css">
+</title><link rel="icon" type="image/png" href="/favicon.ico"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="stylesheet" type="text/css" href="//cloud.typography.com/7376432/776862/css/fonts.css">
     <script src="/assets/js/vendor/modernizr.js"> </script>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"> </script>
-    <script> window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.10.2.min.js"><\/script>') </script><script src="/assets/js/vendor/jquery-1.10.2.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="/combres.axd/siteCss/732716164/" media="screen">
+    <link rel="stylesheet" type="text/css" href="/combres.axd/siteCss/1507974601/" media="screen">
 
     <!--[if IE 7]>
 	    <link rel="stylesheet" type="text/css" href="/assets/css/bhf-ie7.css" />
     <![endif]-->
-    <meta name="description" content="Read the British Heart Foundation's privacy and cookies policy."><!-- Maxymiser script start -->
+    <link rel="stylesheet" href="/assets/css/print.css" type="text/css" media="print"><meta name="description" content="Read the British Heart Foundation's privacy and cookies policy."><meta property="og:title" content="Our privacy and cookies policy"><meta property="og:type" content="website"><meta property="og:url" content="https://www.bhf.org.uk/utilities/our-privacy-and-cookies-policy"><meta property="og:image" content="https://www.bhf.org.uk/~/media/upload/facebook-share-image_v5-1.jpg"><!-- Maxymiser script start -->
 <script type="text/javascript" src="//service.maxymiser.net/cdn/bhf/js/mmcore.js">
 </script>
 <!-- Maxymiser script end --></head>
@@ -37,38 +35,38 @@ http://www.omniture.com -->
 <script type="text/javascript"><!--
     /* You may give each page an identifying name, server, and channel on
     the next lines. */
-    s.pageName = ""
-    s.channel = ""
-    s.pageType = ""
-    s.prop1 = ""
-    s.prop2 = ""
-    s.prop3 = ""
-    s.prop4 = ""
-    s.prop5 = ""
-    s.prop6 = ""
-    s.prop7 = ""
-    s.prop8 = ""
-    s.prop9 = ""
-    s.prop10 = ""
-    /* Conversion Variables */
-    s.campaign = ""
-    s.events = ""
-    s.products = ""
-    s.eVar1 = ""
-    s.eVar2 = ""
-    s.eVar3 = ""
-    s.eVar4 = ""
-    s.eVar5 = ""
-    s.eVar6 = ""
-    s.eVar7 = ""
-    s.eVar8 = ""
-    s.eVar9 = ""
-    s.eVar10 = ""
-    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+    s.pageName = "";
+    s.channel = "";
+    s.pageType = "";
+    s.prop1 = "";
+    s.prop2 = "";
+    s.prop3 = "";
+    s.prop4 = "";
+    s.prop5 = "";
+    s.prop6 = "";
+    s.prop7 = "";
+    s.prop8 = "";
+    s.prop9 = "";
+    s.prop10 = "";
+/* Conversion Variables */
+    s.campaign = "";
+    s.events = "";
+    s.products = "";
+    s.eVar1 = "";
+    s.eVar2 = "";
+    s.eVar3 = "";
+    s.eVar4 = "";
+    s.eVar5 = "";
+    s.eVar6 = "";
+    s.eVar7 = "";
+    s.eVar8 = "";
+    s.eVar9 = "";
+    s.eVar10 = "";
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code);
+//--></script>
 <script type="text/javascript"><!--
-    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
-    //--></script>
+    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');//--></script>
 <!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.3. -->
 
@@ -76,7 +74,7 @@ http://www.omniture.com -->
 
     <form method="post" action="/utilities/our-privacy-and-cookies-policy" id="frmMain">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYyMjk4NDMyOA8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgYCAQ9kFgQCBg8VAV48bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIvY29tYnJlcy5heGQvc2l0ZUNzcy83MzI3MTYxNjQvIiBtZWRpYT0ic2NyZWVuIi8+ZAIJDxYCHgdjb250ZW50BT9SZWFkIHRoZSBCcml0aXNoIEhlYXJ0IEZvdW5kYXRpb24ncyBwcml2YWN5IGFuZCBjb29raWVzIHBvbGljeS5kAgIPFQEAZAIDEGRkFgQCAQ9kFgJmD2QWAmYPZBYGZg8PFgIeBFRleHQFCFNpZ24gb3V0ZGQCAQ8PFgQfAgUSTG9nIGluIG9yIHJlZ2lzdGVyHgtOYXZpZ2F0ZVVybAU3L2xvZ2luP3JldFVybD0vdXRpbGl0aWVzL291ci1wcml2YWN5LWFuZC1jb29raWVzLXBvbGljeWRkAgQPDxYCHwIFBkRvbmF0ZWRkAgoPFQNPPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL2NvbWJyZXMuYXhkL3NpdGVKcy8tMTY5NjAwMjM3NC8iPjwvc2NyaXB0PgAAZGRtWCCo93yPtuSP89gGPP6JmyE7jw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTkwNjQ4MTI4OA8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgYCAQ9kFgoCBg8VAV88bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIvY29tYnJlcy5heGQvc2l0ZUNzcy8xNTA3OTc0NjAxLyIgbWVkaWE9InNjcmVlbiIvPmQCCg8WAh4HY29udGVudAU/UmVhZCB0aGUgQnJpdGlzaCBIZWFydCBGb3VuZGF0aW9uJ3MgcHJpdmFjeSBhbmQgY29va2llcyBwb2xpY3kuZAIMDxYCHwEFHk91ciBwcml2YWN5IGFuZCBjb29raWVzIHBvbGljeWQCDg8WAh8BBT9odHRwczovL3d3dy5iaGYub3JnLnVrL3V0aWxpdGllcy9vdXItcHJpdmFjeS1hbmQtY29va2llcy1wb2xpY3lkAg8PFgIfAQVDaHR0cHM6Ly93d3cuYmhmLm9yZy51ay9+L21lZGlhL3VwbG9hZC9mYWNlYm9vay1zaGFyZS1pbWFnZV92NS0xLmpwZ2QCAg8VAQBkAgMQZGQWBAIBD2QWAmYPZBYCZg9kFggCAQ8PFgIeBFRleHQFBkRvbmF0ZWRkAgQPDxYCHwIFCFNpZ24gb3V0ZGQCBQ8PFgQfAgUSTG9nIGluIG9yIHJlZ2lzdGVyHgtOYXZpZ2F0ZVVybAU3L2xvZ2luP3JldFVybD0vdXRpbGl0aWVzL291ci1wcml2YWN5LWFuZC1jb29raWVzLXBvbGljeWRkAgYPDxYCHwIFG0Jvb2sgYSBmdXJuaXR1cmUgY29sbGVjdGlvbmRkAgoPFQNNPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iL2NvbWJyZXMuYXhkL3NpdGVKcy85ODU3MDI2ODgvIj48L3NjcmlwdD4AAGRkfX74sQa5pPn1FbN1HZhD6JcIU9M=">
 </div>
 
 <div class="aspNetHidden">
@@ -84,7 +82,7 @@ http://www.omniture.com -->
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="29452C2B">
 	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAYHnawkMeWnYmBwb2oRM7fmGYd3D1yJRnBjPSNeVN4lqgOHe16VHbb7tqLZXMEYClF3fb+ebE1Rnf/0YjKy+QVoZ+q+VHI5pTSdGf5dQ+UDfp1KuejxLf3OTEqmGd0vMZEy1eymws3qM7JJZtnV9rVovR0shw==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAZR1Y89aVZ/CD5G7J09r5p5GYd3D1yJRnBjPSNeVN4lqnd9v55sTVGd//RiMrL5BWhn6r5UcjmlNJ0Z/l1D5QN+nUq56PEt/c5MSqYZ3S8xkay0s6nRH8fxubG0IVl9y3kEpy5o6F+v65NTK5zA6gdNI+0Xhg==">
 </div>
 
 
@@ -96,21 +94,12 @@ http://www.omniture.com -->
         <a href="/" class="site-logo"><img src="/~/media/images/admin/logo/bhf-logo.png" alt="BHF Logo"> </a>
     
     <div class="header-actions">
-
-        <div class="header-login is-desktop">   
-            <a id="header_0_hlkLogin" class="cta login" href="/login?retUrl=/utilities/our-privacy-and-cookies-policy">Log in or register</a>
-            
-        </div>
-
+        
         <input type="submit" name="header_0$mblBtnDonate" value="Donate" id="header_0_mblBtnDonate" class="cta float-left mblDonate">
         <span class="mobile-search is-mobile"><img src="/assets/img/icons/mbl-search.png" alt="search icon"></span>
-        <span class="mobile-global-menu is-mobile"><img src="/assets/img/icons/mbl-nav.png" alt="mobile navigation icon"></span>
-
+        <span class="mobile-global-menu cta is-mobile">Menu</span>
+        
         <div class="text-submit submit-donation header-donate">
-            <div class="dnt-field">
-                <input name="header_0$txtDonate" type="text" value="25" maxlength="256" id="header_0_txtDonate">
-                <span class="amt-ph">£</span>
-            </div>
             <input type="submit" name="header_0$btnDonate" value="Donate" id="header_0_btnDonate" class="cta">
         </div>
 
@@ -118,17 +107,23 @@ http://www.omniture.com -->
             <div id="header_0_searchPanel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'header_0_btnSiteSearch')">
 	
                 <label for="header_0_txtSearch" id="header_0_lblSearch" class="is-mobile">I am looking for</label>
-                <input name="header_0$txtSearch" type="text" maxlength="256" id="header_0_txtSearch">
+                <input name="header_0$txtSearch" type="text" maxlength="256" id="header_0_txtSearch" placeholder="Search">
                 <input type="submit" name="header_0$btnSiteSearch" value="Search" id="header_0_btnSiteSearch" class="cta">
             
 </div>
         </div>
-    </div>
 
-    
+        
         <a class="header-contact" href="/about-us/contact-us">Contact us</a>
-    
+         
 
+        <div class="header-login is-desktop">   
+            <a id="header_0_hlkLogin" class="cta login" href="/login?retUrl=/utilities/our-privacy-and-cookies-policy">Log in or register</a>
+            <input type="submit" name="header_0$btnCollection" value="Book a furniture collection" id="header_0_btnCollection" class="cta">
+        </div>
+        
+    </div>
+    
 </section>
 
 
@@ -169,6 +164,10 @@ http://www.omniture.com -->
 
                                 
                                 
+                                      <li><a href="/heart-health/healthcare-professionals">Healthcare Professionals</a></li>
+
+                                
+                                
                                       <li><a href="/heart-health/how-we-can-help">How we can help</a></li>
 
                                 
@@ -185,6 +184,10 @@ http://www.omniture.com -->
 
                                 
                                 
+                                      <li><a href="/heart-health/publications">Publications</a></li>
+
+                                
+                                
                                       <li><a href="/heart-health/tests">Tests for heart conditions</a></li>
 
                                 
@@ -193,15 +196,11 @@ http://www.omniture.com -->
 
                                 
                                 
-                                      <li><a href="/heart-health/cbhf">CBHF</a></li>
-
-                                
-                                
-                                      <li><a href="/heart-health/yheart">Yheart</a></li>
-
-                                
-                                
                                       <li><a href="/heart-health/external-link-page">Read our free magazine</a></li>
+
+                                
+                                
+                                      <li><a href="/heart-health/recipe-finder">Recipe finder</a></li>
 
                                 
                             </ul>
@@ -210,6 +209,17 @@ http://www.omniture.com -->
                         <div class="mega-section-features">
                             <h2 class="mega-menu-header">Featured</h2>
                             <div class="mega-section-feature">
+                                <img src="/~/media/images/hcps/mega-nav-hcps.jpg" alt="A heart health professional">
+                                <div class="content-wrap">
+                                    <h4>Support for healthcare professionals</h4>
+                                    <p>Find the information, resources,  support and opportunities we offer health professionals on the front line of patient care. </p>
+                                    
+                                    <a href="/healthcare-professionals">Find out more</a>
+                                    
+                                    
+                                </div>
+                            </div>
+                            <div class="mega-section-feature">
                                 
                                 <div class="content-wrap">
                                     <h4>Support for you</h4>
@@ -217,37 +227,10 @@ http://www.omniture.com -->
                                     
                                     
 
-                                            <ul class="arrow-list">
-                                                
-                                                    <li>
-                                                        <a href="/heart-health/how-we-can-help/heart-helpline">Call our Heart Helpline</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a href="/heart-health/how-we-can-help/heart-matters">Join Heart Matters</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a href="/publications">See our free publications</a>
-                                                    </li>
-                                            
-                                            </ul>
-
-                                        
-                                </div>
-                            </div>
-                            <div class="mega-section-feature">
-                                
-                                <div class="content-wrap">
-                                    <h4>More information and resources</h4>
-                                    <p></p>
-                                    
-                                    
-
                                            <ul class="arrow-list">
                                                
                                                     <li> 
-                                                        <a href="/healthcare-professionals">Healthcare professionals</a>
+                                                        <a href="/heart-health/how-we-can-help/heart-helpline">Call our Heart Helpline</a>
                                                     </li>
                                                
                                                     <li>
@@ -255,7 +238,7 @@ http://www.omniture.com -->
                                                     </li>
                                                
                                                 <li>
-                                                    <a href="/heart-health/children-and-young-people">Resources for children and schools</a>
+                                                    <a href="/heart-health/how-we-can-help/heart-matters">Join Heart Matters</a>
                                                 </li>
                                                
                                             </ul>
@@ -304,7 +287,7 @@ http://www.omniture.com -->
 
                                 
                                 
-                                      <li><a href="/get-involved/in-your-area">In your area</a></li>
+                                      <li><a href="/get-involved/in-your-area">BHF across the UK</a></li>
 
                                 
                                 
@@ -321,23 +304,23 @@ http://www.omniture.com -->
                         <div class="mega-section-features">
                             <h2 class="mega-menu-header">Featured</h2>
                             <div class="mega-section-feature">
-                                <img src="/~/media/images/get-involved/landing-page/parliament210x137.png" alt="The Houses of Parliament">
+                                <img src="/~/media/images/brand-campaign/tv_ad_article.jpg" alt="A boy in a classroom talking to his father">
                                 <div class="content-wrap">
-                                    <h4>Join our fight in the next government</h4>
-                                    <p>Help us achieve the urgent political action needed to improve outcomes for people affected by Cardiovascular Disease.</p>
+                                    <h4>Heart disease is heartless</h4>
+                                    <p>With your donations we can end the devastation and keep families together.</p>
                                     
-                                    <a href="/get-involved/campaigning/join-our-fight">Join our fight</a>
+                                    <a href="/life-saving-research">More about our new campaign</a>
                                     
                                     
                                 </div>
                             </div>
                             <div class="mega-section-feature">
-                                <img src="/~/media/images/get-involved/landing-page/events_cal210x137.png" alt="2 women with their bikes in the air">
+                                <img src="/~/media/images/events/cycle/london-to-brighton/training210x137.jpg" alt="cyclists on Ditchling Beacon, some walking, some riding">
                                 <div class="content-wrap">
-                                    <h4>Events calendar</h4>
-                                    <p>Our new events calendar is out. Run, cycle, swim or walk - choose your challenge for 2015. </p>
+                                    <h4>Sign up for an event</h4>
+                                    <p>Whether you want to take on the iconic London Marathon, walk Hadrian's Wall, cycle across Cuba or jump out of a plane, we have an event for you. </p>
                                     
-                                    <a href="/publications/events/events-calendar-2015">Get yours now</a>
+                                    <a href="/get-involved/events">Find an event for you</a>
                                     
                                     
                                 </div>
@@ -363,11 +346,11 @@ http://www.omniture.com -->
                             <ul class="section-nav arrow-list">
                                 
                                 
-                                      <li><a href="/shop/donating-goods">Donating goods</a></li>
+                                      <li><a href="/shop/donating-goods">Donate to our shops</a></li>
 
                                 
                                 
-                                      <li><a href="/shop/our-local-shops">Our local shops</a></li>
+                                      <li><a href="/shop/our-local-shops">Visit our shops</a></li>
 
                                 
                                 
@@ -382,33 +365,29 @@ http://www.omniture.com -->
                                       <li><a href="/shop/our-ebay-shop">Our eBay shop</a></li>
 
                                 
-                                
-                                      <li><a href="/shop/shop-with-our-partners">Shop with our partners</a></li>
-
-                                
                             </ul>
                         </div>
                             
                         <div class="mega-section-features">
                             <h2 class="mega-menu-header">Featured</h2>
                             <div class="mega-section-feature">
-                                <img src="/~/media/images/get-involved/fundraising/dechox/dechox_mug.jpg" alt="Give chocolate the finger mug">
+                                <img src="/~/media/images/shop/crystal_pin_badge_nav210x137.jpg" alt="new crystal pin badge">
                                 <div class="content-wrap">
-                                    <h4>DECHOX shop</h4>
-                                    <p>Get kitted-out with our DECHOX mug and badges. They're a great way to get the conversation started about DECHOX and get some sponsorship. </p>
+                                    <h4>Shop online with us</h4>
+                                    <p>The new Swarovski Crystal Heart Pin Badge is a great way to show your support for our life saving research for just £2.</p>
                                     
-                                    <a href="/get-involved/fundraising/dechox/dechox-shop">Shop online</a>
+                                    <a href="http://giftshop.bhf.org.uk/swarovski-crystal-pin-badge.html">Buy now</a>
                                     
                                     
                                 </div>
                             </div>
                             <div class="mega-section-feature">
-                                <img src="/~/media/images/shop/van-collection.jpg" alt="BHF van collection">
+                                <img src="/~/media/images/shop/dan_article.jpg" alt="A young boy in school uniform with a bag it beat it bag">
                                 <div class="content-wrap">
-                                    <h4>Book a free collection</h4>
-                                    <p>We'll collect your unwanted furniture and electrical goods to sell in our shops.</p>
+                                    <h4>Bag It. Beat It.</h4>
+                                    <p>This September clear out your clutter and fill a bag to fund life saving research.</p>
                                     
-                                    <a href="/shop/donating-goods/book-a-free-furniture-collection">Book a free collection</a>
+                                    <a href="https://bagit.bhf.org.uk/" target="_blank">Visit the Bag It. Beat It. site</a>
                                     
                                     
                                 </div>
@@ -438,15 +417,15 @@ http://www.omniture.com -->
 
                                 
                                 
-                                      <li><a href="/research/the-future-of-heart-research">The future of heart research</a></li>
-
-                                
-                                
                                       <li><a href="/research/our-science-blogs">Our science blogs</a></li>
 
                                 
                                 
                                       <li><a href="/research/our-top-professors">Our Professors</a></li>
+
+                                
+                                
+                                      <li><a href="/research/what-we-research">What we research</a></li>
 
                                 
                                 
@@ -471,12 +450,12 @@ http://www.omniture.com -->
                         <div class="mega-section-features">
                             <h2 class="mega-menu-header">Featured</h2>
                             <div class="mega-section-feature">
-                                <img src="/~/media/images/research/future_of_research_medium.jpg" alt="Researcher holding a test tube">
+                                <img src="/~/media/images/brand-campaign/louis_article.jpg" alt="A boy sitting in a recording studio">
                                 <div class="content-wrap">
-                                    <h4>Where we fund research</h4>
-                                    <p>We fund the best and brightest research into heart and circulatory disease.</p>
+                                    <h4>Keeping families together</h4>
+                                    <p>Find out how our research has helped save the lives of people with heart conditions.</p>
                                     
-                                    <a href="/research/where-we-fund-research">Where we fund research</a>
+                                    <a href="/life-saving-research/how-research-is-saving-lives">Read more</a>
                                     
                                     
                                 </div>
@@ -612,6 +591,10 @@ http://www.omniture.com -->
 
                                 
                                 
+                                      <li><a href="/about-us/feedback-and-complaints-policy">Feedback and complaints policy</a></li>
+
+                                
+                                
                                       <li><a href="/about-us/where-we-are">Where we are</a></li>
 
                                 
@@ -648,10 +631,6 @@ http://www.omniture.com -->
                                     
 
                                            <ul class="arrow-list">
-                                               
-                                                    <li> 
-                                                        <a href="/about-us/find-bhf-near-you">Find our services near you</a>
-                                                    </li>
                                                
                                                     <li>
                                                         <a href="/news-from-the-bhf">News from the BHF</a>
@@ -959,8 +938,10 @@ The cookies we specifically use when you visit our site. By continuing to use ou
 </section>
 
 
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"> </script>
+        <script> window.jQuery || document.write('<script src="/assets/js/vendor/jquery-1.10.2.min.js"><\/script>') </script><script src="/assets/js/vendor/jquery-1.10.2.min.js"></script>
         <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=thebhf"></script>
-        <script type="text/javascript" src="/combres.axd/siteJs/-1696002374/"></script>
+        <script type="text/javascript" src="/combres.axd/siteJs/985702688/"></script>
         
         
         
@@ -987,4 +968,4 @@ function __doPostBack(eventTarget, eventArgument) {
 <script src="/WebResource.axd?d=aGM9_fZC9j5dcOGh-fDHTG-uz4jxrJLnF6oRzHbbaSMo8cYPqFnzVk7As8f724XhR7jDDHG42AHjG2aryHrarMv9sTc1&amp;t=635370178285126825" type="text/javascript"></script>
 </form>
 
-<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
+</body></html>
