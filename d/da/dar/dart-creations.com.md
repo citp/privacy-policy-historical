@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dart-creations.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807025956id_/http%3A//www.dart-creations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dart-creations.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905111836id_/http%3A//dart-creations.com/web-design/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Web Design
 
 This site is owned and operated by DART Creations. Your privacy on the Internet is of the utmost importance to us. At DART Creations, we want to make your experience online satisfying and safe.
 
@@ -10,8 +10,7 @@ Because we gather certain types of information about our users, we feel you shou
 
 DART Creations gathers two types of information about users:
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:  
-
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
   * Information DART Creations gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because DART Creations derives some of its revenue from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our providing free  content to our users. Under no circumstances does DART Creations divulge any information about an individual user to a third party.
 
 
@@ -45,6 +44,8 @@ Cookies
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. DART Creations uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
 
 You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
+
+## Privacy Policy Use
 
 How the information you gather is used if relevent.
 
