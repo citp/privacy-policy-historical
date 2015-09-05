@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-zpassny.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425031903id_/https%3A//www.e-zpassny.com/en/other/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-zpassny.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905132744id_/https%3A//www.e-zpassny.com/en/other/privacy.shtml) for the most accurate reproduction.*
 
 # E-ZPass® New York - Privacy Policy
 
@@ -72,8 +72,9 @@ New York, NY 10004
 
 Privacy Compliance Officer  
 Port Authority of New York & New Jersey  
-1 Madison Avenue  
-New York, NY 10010
+4WTC  
+150 Greenwich Street  
+New York, NY 10007
 
 The Privacy Compliance Officer shall, within five (5) business days of the date of the receipt of a proper request: (i) provide access to the personal information; (ii) deny access in writing, explaining the reasons therefore; or (iii) acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment.
 
