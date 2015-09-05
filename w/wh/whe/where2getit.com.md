@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510190903id_/http%3A//www.where2getit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905235934id_/http%3A//www.where2getit.com/privacy.php) for the most accurate reproduction.*
 
-# Where 2 Get It
-
-[](https://web.archive.org/)
+# W2GI - Privacy
 
 The Where 2 Get It name and reputation were built on a foundation of trust. Where 2 Get It is committed to working with public policy organizations, industry groups and government institutions to understand and address privacy issues as they relate to visitors to our Website. This online privacy statement tells you about the information Where 2 Get It collects through the services available on our website, http://www.where2getit.com (the "Website"), how we use that information and how you can opt out of certain uses of information we may collect. If you have any questions about our privacy policy or our use of your information, you can email us at privacy@where2getit.com.
 
@@ -16,29 +14,43 @@ Where 2 Get It is the sole owner of the information collected on the Website. We
 
 Some of our services may be offered in conjunction with partner companies, hosting providers, affiliates or other companies or websites with which we work. In order for us to provide these services to you, it may be necessary for us to share your personal information with one of such entities. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service.
 
-## Cookies
+### Cookies
 
 A "cookie" is a piece of data stored on a user's hard drive containing information about the user. As part of offering and providing personalized services, we may use cookies to store and sometimes track your information, thereby saving time while you are on our Website. If a user rejects the cookie, they may still use the Website, however the user may be limited in some areas of the Website. Usage of a cookie is in no way linked to any personally identifiable information while on our Website. Generally we use cookies to:
 
 Remind us who you are and to access your account information; Track and target the interests of our users to enhance the experience on our Website; Estimate our audience size; and Measure certain traffic patterns. Some of our business partners may use cookies on our Website (e.g., advertisers), however we have no access to or control over these cookies.
 
-## Log Files
+The following cookies are required by our code in order for our locator to function properly: 
+
+#### *W2GISM:
+
+\- session cookie which allows us to cache values
+
+#### *Appkey:
+
+\- a unique UUID value assigned to a specific locator. One of two ways in which we ensure that the page and resources are loaded and used only by the authorized client.
+
+#### *Authsite:
+
+\- the url that has been authorized to use this locator. The other half of our security to ensure the page and resources are used only by the authorized client.
+
+### Log Files
 
 Every computer connected to the Internet is given an IP address. We use IP addresses to analyze trends, administer the Website, track users' movement and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information, and our web servers do not record the email addresses of our visitors.
 
-## Sharing
+### Sharing
 
 As a general rule, except as described in this privacy statement, we will not disclose any of your personally identifiable information except when we have your permission or under special circumstances (such as when we believe the law requires it). We may share aggregated demographic information with certain partners, affiliates and advertisers, however, except as described above, this is not linked to any personal information that can identify any individual person. We may collect, compile, store, publish, promote, report, sell or otherwise disclose or use any and all such aggregated information so long as it is related to the business of the Website. In addition, Where 2 Get It may disclose account or other personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Where 2 Get It's rights or property, other Website users or anyone else that could be harmed by such activities.
 
-## Links
+### Links
 
 This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to remain vigilant when they leave our Website and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website. Please keep in mind that whenever you voluntarily disclose personal information online — for example on message boards, through email or in chat areas — that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any registration information. Please be careful and responsible whenever you are online.
 
-## Surveys
+### Surveys
 
 From time to time our Website may request information from users via surveys. Participation in these surveys, to the extent we run any, is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code and age level). Survey information will be used for purposes of monitoring or improving the use and satisfaction of this Website.
 
-## Security
+### Security
 
 This Website takes numerous precautions to protect our users' information. When users submit sensitive information via the Website, such information is protected both on- and offline. Where 2 Get It goes to great lengths to ensure that no unauthorized parties can access information collected during the provision of services through the Website. We encrypt certain sensitive information using Secure Socket Layer (SSL) technology to ensure that our visitors' information is safe as it is sent over the Internet to our server. SSL works by using a private key to encrypt data that is transferred over the SSL connection. While we use SSL encryption to protect sensitive information online, we also take many precautions to protect user information offline. All of our users' sensitive information is restricted in our offices. While Where 2 Get It employs commercially reasonable security measures to protect our data and seeks to partner with companies which do the same, we cannot absolutely guarantee the security of any data transmission over the Internet or any wireless network. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure, and we therefore are not responsible for any breach of security or for any actions of any third parties that may receive any such information.
 
@@ -47,3 +59,21 @@ Site and Service Updates From time to time we may send our users Website and ser
 Choice/Opt-out Our users are given the opportunity to "opt-out" of receiving communications and/or allowing us to collect user data at the point where we ask for the information by sending us an email at privacy@where2getit.com.
 
 Notification of Changes If we decide to change our privacy statement, we will post those changes under the appropriate link on the "home page" of our Website so our users are always aware of what information we collect, how we use it and under what circumstances, if any, we disclose it. You are responsible for periodically reviewing this privacy statement to apprise yourself of any changes. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy statement under which the information was collected.
+
+If you have any questions or concerns regarding any issue relating to our privacy practices, you may contact us at:
+
+### Mailing Address:
+
+Where 2 Get It, Inc  
+5101 E. La Palma Avenue, Suite 107  
+Anaheim, CA 92807  
+Attn: Privacy Manager Contact Information:  
+Email: privacy@where2getit.com  
+Telephone: 888-377-2767
+
+Last Updated: 4/5/13
+
+### Contact Information:
+
+Email: privacy@where2getit.com  
+Telephone: 888-377-2767
