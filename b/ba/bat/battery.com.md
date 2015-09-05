@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battery.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206055833id_/https%3A//www.battery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battery.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905075020id_/https%3A//www.battery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Battery Ventures
 
@@ -70,7 +70,7 @@ Battery Ventures takes reasonable steps to protect the Personal Data provided vi
 
 **Other Terms and Conditions :**
 
-Your access to and use of this Site is subject to the [Terms of Use](http://www.battery.com/terms-use-agreement/ "Terms of Use").
+Your access to and use of this Site is subject to the [Terms of Use](https://www.battery.com/terms-use-agreement/ "Terms of Use").
 
 **Changes to Battery Ventures’ Privacy Policy :**
 
