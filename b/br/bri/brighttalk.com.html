@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brighttalk.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315021757id_/https%3A//www.brighttalk.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brighttalk.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906000321id_/https%3A//www.brighttalk.com/pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,22 +7,26 @@
         <meta name="description" content="BrightTALK recognizes that privacy is important when using the Web for communications. Learn more about BrightTALK's privacy policy.">
         <meta name="robots" content="index, follow">
         <meta name="viewport" content="width=980">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="brighttalk-page-name" content="">
     
     <title>Privacy policy | BrightTALK</title>
 
-    <!--[if IE 7]>
-<link rel="stylesheet" href="/resources/vendor/styleguide/font-awesome-ie7.css?v=59426610">
-<script src="/resources/vendor/json/js/json.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<!--[if IE 7]>
+<link rel="stylesheet" href="/resources/vendor/styleguide/font-awesome-ie7.css?v=123456789">
+<script src="/resources/vendor/json/js/json.js?v=123456789"></script>
 <![endif]-->
 
 <!--[if lt IE 9]>
-<script src="/resources/vendor/html5shiv/js/html5shiv.js"></script>
+<script src="/resources/vendor/html5shiv/js/html5shiv.js?v=123456789"></script>
 <![endif]-->
-                        <link type="text/css" rel="stylesheet" href="/compiled/css/common.css?v=59426610">
-            
-            <link type="text/css" rel="stylesheet" href="/compiled/css/brighttalkcontentbundle/default.css?v=59426610">
+
+                <link type="text/css" rel="stylesheet" href="/resources/vendor/styleguide/main.css?v=123456789">
+        <link type="text/css" rel="stylesheet" href="/compiled/css/base.css?v=123456789">
     
+    <link type="text/css" rel="stylesheet" href="/compiled/css/content-bundle/default.css?v=123456789">
+
         
     <link rel="canonical" href="/pages/privacy-policy">
 
@@ -52,7 +56,7 @@
 <meta name="theme-color" content="#ffffff">
 <meta name="msapplication-config" content="/resources/images/favicons/browserconfig.xml">
 </head>
-<body data-base-service-url="" data-ng-app="BTApp">
+<body data-base-service-url="" data-ng-app="BTApp" data-ng-controller="Main" data-ng-init="init()">
 
 <!-- Google Tag Manager -->
 <noscript>
@@ -75,392 +79,162 @@
 
 <div id="wrapper" class="base-wrapper">
 
-            <div class="headerWrapper">
-    <div class="header">
-        <div class="headerTop">
-            <a href="/" class="logo">
-                <img class="logoImage" src="/resources/images/logo-transparent-139x25.png?v=59426610" width="139" height="25" alt="BrightTALK">
+            <div class="container non-responsive-header">
+                                                
+<div class="logo-wrapper" itemscope="" itemtype="https://schema.org/Organization">
+
+            <a href="/" class="logoLink" title="BrightTALK">
+    
+    <img src="/resources/images/logo_b.png?v=123456789" width="43" height="41" class="logo" alt="BrightTALK" title="BrightTALK" itemprop="logo">
+
             </a>
-
-            <div id="userStatusOptions" class="userStatusWrapper">
-    <div id="loggedOutOptions" class="userStatusOptions loggedOut">
-        <ul class="loggedOutMenu">
-            <li class="userStatusOption">
-                <a class="registrationLink loggedOutOption" href="/join?redirect=%2Fpages%2Fprivacy-policy">Join</a>
-            </li>
-            <li class="userStatusOption">
-                <a class="loginLink loggedOutOption" href="/login?redirect=%2Fpages%2Fprivacy-policy">Login</a>
-            </li>
-        </ul>
+    
+    <meta itemprop="name" content="BrightTALK">
+    <meta itemprop="url" content="http://www.brighttalk.com">
+    <meta itemprop="sameAs" class="twitter-profile-meta" content="https://twitter.com/brighttalk">
+    <meta itemprop="sameAs" class="linkedin-profile-meta" content="https://www.linkedin.com/company/204345">
+    <meta itemprop="sameAs" class="facebook-profile-meta" content="https://www.facebook.com/BrightTALK">
+    <meta itemprop="sameAs" class="google-plus-profile-meta" content="https://plus.google.com/+BrightTALK">
+</div>
+                                                    <form id="searchForm" class="search-form" action="/search" method="get">
+    <div class="input-group input-group-search">
+        <input type="text" name="q" class="search-form-term input-group-input" id="searchField" placeholder="Find free videos and webinars on BrightTALK">
+        <button type="submit" class="search-form-submit input-group-icon">
+            <i class="icon-search"></i>
+        </button>
     </div>
+</form>
+                                                    
 
-    <div id="loggedInOptions" class="userStatusOptions loggedIn">
-        <span class="loggedInLinks">
-            <a id="loggedInMenuLink" class="loggedInMenuLink" href="#"></a>
-            <a id="userStatusUsername" class="username" href="/mybrighttalk"></a>
-        </span>
 
-        <div id="loggedInMenu" class="loggedInMenuWrapper BTShadow">
-            <div class="top">
-                <a id="closeLoggedInMenuLink" class="closeLoggedInMenuLink" href="#"></a>
+<div class="profile-menu desktop-profile-menu user-authentication-details" data-ng-cloak="" data-ng-show="session.initialized &amp;&amp; session.user">
+
+    <button class="js-profile-menu-toggle-button profile-menu-toggle-button desktop-profile-menu-toggle-button">
+        <img class="profile-menu-user-image" alt="" data-ng-if="session.user.profile.photo" data-ng-src="{{ session.user.profile.photo }}" data-ng-attr-title="{{ session.user.profile.displayName }}">
+        <img class="profile-menu-user-image" alt="" data-ng-if="!session.user.profile.photo" src="/resources/vendor/styleguide/images/profile-menu-user-image.png?v=123456789" data-ng-attr-title="{{ session.user.profile.displayName }}">
+    </button>
+
+    <button class="profile-menu-toggle-button mobile-profile-menu-toggle-button" data-snap-toggle="right">
+        <img class="profile-menu-user-image" alt="" data-ng-if="session.user.profile.photo" data-ng-src="{{ session.user.profile.photo }}" data-ng-attr-title="{{ session.user.profile.displayName }}">
+        <img class="profile-menu-user-image" alt="" data-ng-if="!session.user.profile.photo" src="/resources/vendor/styleguide/images/profile-menu-user-image.png?v=123456789" data-ng-attr-title="{{ session.user.profile.displayName }}">
+    </button>
+
+    <nav class="profile-menu-navigation hidden-xs">
+        <span class="profile-menu-user-name">Hi  {{ session.user.profile.firstName }}</span>
+<ul class="profile-menu-options">
+    <li class="profile-menu-option profile-menu-manage-option" data-ng-show="session.initialized &amp;&amp; session.user.isManager">
+        <a class="profile-menu-option-link profile-menu-manager-option-link" href="/admin/channel?utm_campaign=profile-dropdown-menu&amp;utm_content=Manage&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+            <span class="profile-menu-option-link-text">Manage</span>
+        </a>
+    </li>
+    <li class="profile-menu-option profile-menu-channels-i-own-option" data-ng-show="session.initialized &amp;&amp; session.user.isChannelOwner">
+        <a class="profile-menu-option-link profile-menu-channels-i-own-option-link" href="/mybrighttalk/own-channels?utm_campaign=profile-dropdown-menu&amp;utm_content=channels+I+own&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+            <span class="profile-menu-option-link-text">Channels I own</span>
+        </a>
+    </li>
+    <li class="profile-menu-option">
+        <a class="profile-menu-option-link profile-menu-knowledge-feed-link" href="/mybrighttalk/knowledge-feed?utm_campaign=profile-dropdown-menu&amp;utm_content=My+feed&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+            <span class="profile-menu-option-link-text">My feed</span>
+        </a>
+    </li>
+    <li class="profile-menu-option">
+        <a class="profile-menu-option-link profile-menu-my-viewing-history-link" href="/mybrighttalk/viewing-history?utm_campaign=profile-dropdown-menu&amp;utm_content=My+viewing+history&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+            <span class="profile-menu-option-link-text">My viewing history</span>
+        </a>
+    </li>
+    <li class="profile-menu-option">
+        <a class="profile-menu-option-link profile-menu-my-channels-link" href="/mybrighttalk/channels?utm_campaign=profile-dropdown-menu&amp;utm_content=My+channels&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+            <span class="profile-menu-option-link-text">My channels</span>
+        </a>
+    </li>
+        <li class="profile-menu-option">
+        <form novalidate="" method="post" enctype="multipart/form-data" class="profile-card-image-form">
+            <div class="profile-menu-option-link profile-menu-add-profile-photo">
+                <input type="file" name="desktop_profile_menu_profile_photo" class="profile-menu-add-profile-photo-button" data-ng-class="{'profile-card-add-photo-button': !session.user.profile.photo, 'profile-card-change-photo-button': session.user.profile.photo}" data-ng-file-select="onFileSelect($files)" data-profile-photo-upload="" data-ga-action="profile dropdown photo uploaded" data-api-key="493291559361555" data-upload-preset="core_profile_photo_upload" data-cloud-name="brighttalkprod" data-sign-url="/mybrighttalk/profile/photo/sign" data-save-url="/mybrighttalk/profile/photo" accept="image/*" data-ga-click-tracker="" data-ga-click-tracker-action="profile dropdown upload photo" data-ga-click-tracker-category="Social">
+                <span class="profile-menu-option-link-text" data-ng-if="!session.user.profile.photo">Add profile photo</span>
+                <span class="profile-menu-option-link-text" data-ng-if="session.user.profile.photo">Change profile photo</span>
             </div>
-            <ul class="loggedInMenu">
-                <li id="managerLink" class="userStatusOption managerLink">
-                    <a class="loggedInOption" href="/admin">Manage</a>
+        </form>
+    </li>
+        <li class="profile-menu-option">
+        <a class="profile-menu-option-link profile-menu-edit-profile-link" href="/mybrighttalk/profile/edit?utm_campaign=profile-dropdown-menu&amp;utm_content=Edit+profile&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+            <span class="profile-menu-option-link-text">Edit profile</span>
+        </a>
+    </li>
+    <li class="profile-menu-option">
+        <a class="profile-menu-option-link profile-menu-logout-link" href="/logout">
+            <span class="profile-menu-option-link-text">Log out</span>
+        </a>
+    </li>
+</ul>
+    </nav>
+</div>
+
+<nav id="userAuthenticationActions" class="auth-nav" data-ng-cloak="" data-ng-show="session.initialized &amp;&amp; !session.user">
+    <a href="/login?redirect=/pages/privacy-policy" class="login-link">Log in</a>
+    <a href="/join?redirect=/pages/privacy-policy" class="sign-up-link btn primary x-large">Join now</a>
+</nav>
+                            
+            <div class="clear"></div>
+        </div>
+    
+            
+<div class="breadcrumb-stripe hidden-xs">
+    <div class="container non-responsive-container">
+        <div class="dropdown-wrapper breadcrumb-community-menu">
+            <button class="breadcrumb-button dropdown-button" data-ga-click-tracker="" data-ga-click-tracker-action="Parent community menu opened" data-ga-click-tracker-category="Community menu">Browse communities <i class="icon-caret-down"></i></button>
+            <ul class="dropdown-menu dropdown-menu-hidden">
+                <li class="dropdown-menu-item">
+                    <a class="dropdown-menu-item-link all-brighttalk-webcasts-link" data-ga-click-tracker="" data-ga-click-tracker-action="Parent community menu clicked" data-ga-click-tracker-category="Community menu" data-ga-click-tracker-label="All BrightTALK" href="/webcasts?utm_campaign=parent-community-menu&amp;utm_content=All+BrightTALK&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+                        <span class="dropdown-menu-item-text">All BrightTALK</span>
+                    </a>
                 </li>
-                <li class="userStatusOption">
-                    <a class="loggedInOption" href="/mybrighttalk">My BrightTALK</a>
+                <li class="dropdown-menu-item">
+                    <a class="dropdown-menu-item-link business-management-parent-community-link" data-ga-click-tracker="" data-ga-click-tracker-action="Parent community menu clicked" data-ga-click-tracker-category="Community menu" data-ga-click-tracker-label="Business Management" href="/business-management?utm_campaign=parent-community-menu&amp;utm_content=Business+Management&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+                        <span class="dropdown-menu-item-text">Business Management</span>
+                    </a>
                 </li>
-                <li class="userStatusOption">
-                    <a class="loggedInOption" href="/mybrighttalk/profile">Edit profile</a>
+                <li class="dropdown-menu-item">
+                    <a class="dropdown-menu-item-link finance-parent-community-link" data-ga-click-tracker="" data-ga-click-tracker-action="Parent community menu clicked" data-ga-click-tracker-category="Community menu" data-ga-click-tracker-label="Finance" href="/finance?utm_campaign=parent-community-menu&amp;utm_content=Finance&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+                        <span class="dropdown-menu-item-text">Finance</span>
+                    </a>
                 </li>
-                <li class="userStatusOption last">
-                    <a id="logout" class="removeStorage loggedInOption" href="/logout">Log out</a>
+                <li class="dropdown-menu-item">
+                    <a class="dropdown-menu-item-link human-resources-parent-community-link" data-ga-click-tracker="" data-ga-click-tracker-action="Parent community menu clicked" data-ga-click-tracker-category="Community menu" data-ga-click-tracker-label="Human Resources" href="/human-resources?utm_campaign=parent-community-menu&amp;utm_content=Human+Resources&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+                        <span class="dropdown-menu-item-text">Human Resources</span>
+                    </a>
+                </li>
+                <li class="dropdown-menu-item">
+                    <a class="dropdown-menu-item-link it-parent-community-link" data-ga-click-tracker="" data-ga-click-tracker-action="Parent community menu clicked" data-ga-click-tracker-category="Community menu" data-ga-click-tracker-label="Information Technology" href="/information-technology?utm_campaign=parent-community-menu&amp;utm_content=Information+Technology&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+                        <span class="dropdown-menu-item-text">Information Technology</span>
+                    </a>
+                </li>
+                <li class="dropdown-menu-item">
+                    <a class="dropdown-menu-item-link legal-parent-community-link" data-ga-click-tracker="" data-ga-click-tracker-action="Parent community menu clicked" data-ga-click-tracker-category="Community menu" data-ga-click-tracker-label="Legal" href="/legal?utm_campaign=parent-community-menu&amp;utm_content=Legal&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+                        <span class="dropdown-menu-item-text">Legal</span>
+                    </a>
+                </li>
+                <li class="dropdown-menu-item">
+                    <a class="dropdown-menu-item-link marketing-parent-community-link" data-ga-click-tracker="" data-ga-click-tracker-action="Parent community menu clicked" data-ga-click-tracker-category="Community menu" data-ga-click-tracker-label="Marketing" href="/marketing?utm_campaign=parent-community-menu&amp;utm_content=Marketing&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+                        <span class="dropdown-menu-item-text">Marketing</span>
+                    </a>
+                </li>
+                <li class="dropdown-menu-item">
+                    <a class="dropdown-menu-item-link research-development-parent-community-link" data-ga-click-tracker="" data-ga-click-tracker-action="Parent community menu clicked" data-ga-click-tracker-category="Community menu" data-ga-click-tracker-label="Research &amp; Development" href="/research-development?utm_campaign=parent-community-menu&amp;utm_content=Research+%26+Development&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+                        <span class="dropdown-menu-item-text">Research &amp; Development</span>
+                    </a>
+                </li>
+                <li class="dropdown-menu-item">
+                    <a class="dropdown-menu-item-link sales-parent-community-link" data-ga-click-tracker="" data-ga-click-tracker-action="Parent community menu clicked" data-ga-click-tracker-category="Community menu" data-ga-click-tracker-label="Sales" href="/sales?utm_campaign=parent-community-menu&amp;utm_content=Sales&amp;utm_source=brighttalk-portal&amp;utm_medium=web&amp;utm_term=">
+                        <span class="dropdown-menu-item-text">Sales</span>
+                    </a>
                 </li>
             </ul>
         </div>
-    </div>
 
-    <div class="userStatusTimezoneWrapper">
-        <span class="timezoneText">Your time zone: <a href="/mybrighttalk/profile" id="userStatusTimezone">UTC</a></span>
-        <span id="headerTimezoneClock" class="timezoneClock usersTimezone">UTC</span>
-    </div>
+            </div>
 </div>
-        </div>
-
-        <div class="headerBottom">
-                            <div class="communitySelectorWrapper">
-                    <a href="#" id="communitySelector" class="communitySelector">Browse communities</a>
-
-                    <div id="communities" class="communities BTShadow">
-                        <span class="titleTab communitySelector">Browse communities</span>
-
-                                                    <div class="menuWrapper">
-                                    <ul>
-                <li class="allBrightTALK current first">        <a href="/webcasts">All BrightTALK</a>        
-    </li>
-
-        <li class="hasChildren">        <span>Business Management</span>            <ul class="menu_level_1">
-                <li class="first">        <a href="/community/customer-experience">Customer Experience</a>        
-    </li>
-
-        <li>        <a href="/community/cxo-strategy">CxO Strategy</a>        
-    </li>
-
-        <li>        <a href="/community/distribution-logisti">Distribution and Logistics</a>        
-    </li>
-
-        <li>        <a href="/community/business-finance">Finance</a>        
-    </li>
-
-        <li>        <a href="/community/hr">HR</a>        
-    </li>
-
-        <li>        <a href="/community/leadership">Leadership</a>        
-    </li>
-
-        <li>        <a href="/community/business-marketing">Marketing</a>        
-    </li>
-
-        <li>        <a href="/community/operations">Operations</a>        
-    </li>
-
-        <li>        <a href="/community/procurement-sourcing">Procurement and Sourcing</a>        
-    </li>
-
-        <li>        <a href="/community/production-quality">Production and Quality</a>        
-    </li>
-
-        <li>        <a href="/community/business-sales">Sales</a>        
-    </li>
-
-        <li class="last">        <a href="/community/small-business-management">Small Business</a>        
-    </li>
-
-
-    </ul>
-
-    </li>
-
-        <li class="hasChildren">        <span>Finance</span>            <ul class="menu_level_1">
-                <li class="first">        <a href="/community/accounting-tax">Accounting and Tax</a>        
-    </li>
-
-        <li>        <a href="/community/audit-compliance">Audit and Compliance</a>        
-    </li>
-
-        <li>        <a href="/community/banking-treasury">Banking and Treasury</a>        
-    </li>
-
-        <li>        <a href="/community/cfo-strategy">CFO Strategy</a>        
-    </li>
-
-        <li>        <a href="/community/financial-planning-a">Financial Planning and Analysis</a>        
-    </li>
-
-        <li>        <a href="/community/financial-regulation">Financial Regulation</a>        
-    </li>
-
-        <li>        <a href="/community/institutional-investors">Institutional Investors</a>        
-    </li>
-
-        <li>        <a href="/community/mergers-acquisitions">Mergers and Acquisitions</a>        
-    </li>
-
-        <li>        <a href="/community/european-investors">European Investors</a>        
-    </li>
-
-        <li>        <a href="/community/financial-advisers">UK Financial Advisers</a>        
-    </li>
-
-        <li>        <a href="/community/investment-management">UK Wealth Managers</a>        
-    </li>
-
-        <li>        <a href="/community/us-financial-advisors">US Financial Advisors</a>        
-    </li>
-
-        <li>        <a href="/community/us-wealth-managers">US Wealth Managers</a>        
-    </li>
-
-        <li class="last">        <a href="/community/venture-capital">Venture Capital</a>        
-    </li>
-
-
-    </ul>
-
-    </li>
-
-        <li class="hasChildren">        <span>Human Resources</span>            <ul class="menu_level_1">
-                <li class="first">        <a href="/community/benefits-compensation">Benefits and Compensation</a>        
-    </li>
-
-        <li>        <a href="/community/hr-management">HR Strategy</a>        
-    </li>
-
-        <li>        <a href="/community/learning-development">Learning and Development</a>        
-    </li>
-
-        <li>        <a href="/community/legislation">Legislation</a>        
-    </li>
-
-        <li>        <a href="/community/recruiting">Recruiting</a>        
-    </li>
-
-        <li class="last">        <a href="/community/talent-management">Talent Management</a>        
-    </li>
-
-
-    </ul>
-
-    </li>
-
-        <li class="hasChildren">        <span>Information Technology</span>            <ul class="menu_level_1">
-                <li class="first">        <a href="/community/application-development">Application Development</a>        
-    </li>
-
-        <li>        <a href="/community/application-management">Application Management</a>        
-    </li>
-
-        <li>        <a href="/community/big-data-management">Big Data and Data Management</a>        
-    </li>
-
-        <li>        <a href="/community/bc-dr">Business Continuity / Disaster Recovery</a>        
-    </li>
-
-        <li>        <a href="/community/business-intelligence">Business Intelligence and Analytics</a>        
-    </li>
-
-        <li>        <a href="/community/cloud-computing">Cloud Computing</a>        
-    </li>
-
-        <li>        <a href="/community/unified-communications">Collaboration and UC</a>        
-    </li>
-
-        <li>        <a href="/community/data-center">Data Center Management</a>        
-    </li>
-
-        <li>        <a href="/community/end-user-computing">End User Computing</a>        
-    </li>
-
-        <li>        <a href="/community/enterprise-applications">Enterprise Applications</a>        
-    </li>
-
-        <li>        <a href="/community/help-desk-support">Help Desk and Support</a>        
-    </li>
-
-        <li>        <a href="/community/governance-risk-compliance">IT Governance, Risk and Compliance</a>        
-    </li>
-
-        <li>        <a href="/community/it-project-management">IT Project Management</a>        
-    </li>
-
-        <li>        <a href="/community/it-security">IT Security</a>        
-    </li>
-
-        <li>        <a href="/community/it-service-management">IT Service Management</a>        
-    </li>
-
-        <li>        <a href="/community/mobile-computing">Mobile Computing</a>        
-    </li>
-
-        <li>        <a href="/community/network-infrastructure">Network Infrastructure</a>        
-    </li>
-
-        <li>        <a href="/community/storage">Storage</a>        
-    </li>
-
-        <li class="last">        <a href="/community/virtualization">Virtualization</a>        
-    </li>
-
-
-    </ul>
-
-    </li>
-
-        <li class="hasChildren">        <span>Legal</span>            <ul class="menu_level_1">
-                <li class="first">        <a href="/community/e-discovery">e-Discovery</a>        
-    </li>
-
-        <li>        <a href="/community/employment-law">Employment</a>        
-    </li>
-
-        <li>        <a href="/community/environmental-law">Environmental</a>        
-    </li>
-
-        <li class="last">        <a href="/community/intellectual-property">Intellectual Property</a>        
-    </li>
-
-
-    </ul>
-
-    </li>
-
-        <li class="hasChildren">        <span>Marketing</span>            <ul class="menu_level_1">
-                <li class="first">        <a href="/community/advertising">Advertising</a>        
-    </li>
-
-        <li>        <a href="/community/content-marketing">Content Marketing</a>        
-    </li>
-
-        <li>        <a href="/community/data-analytics">Data and Analytics</a>        
-    </li>
-
-        <li>        <a href="/community/demand-generation">Demand Generation</a>        
-    </li>
-
-        <li>        <a href="/community/e-commerce">E-commerce</a>        
-    </li>
-
-        <li>        <a href="/community/email-marketing">Email Marketing</a>        
-    </li>
-
-        <li>        <a href="/community/marketing-automation">Marketing Operations and Automation</a>        
-    </li>
-
-        <li>        <a href="/community/mobile-marketing">Mobile Marketing</a>        
-    </li>
-
-        <li>        <a href="/community/online-advertising">Online Advertising</a>        
-    </li>
-
-        <li>        <a href="/community/search-engine-optimization">Search Engine Optimization</a>        
-    </li>
-
-        <li>        <a href="/community/social-media-marketing">Social Media Marketing</a>        
-    </li>
-
-        <li class="last">        <a href="/community/webinar-video-marketing">Webinar and Video Marketing</a>        
-    </li>
-
-
-    </ul>
-
-    </li>
-
-        <li class="hasChildren">        <span>Research and Development</span>            <ul class="menu_level_1">
-                <li class="first">        <a href="/community/building-construction">Building and Construction</a>        
-    </li>
-
-        <li>        <a href="/community/emerging-technologie">Emerging Technologies</a>        
-    </li>
-
-        <li>        <a href="/community/energy-management">Energy Management</a>        
-    </li>
-
-        <li>        <a href="/community/environment">Environment</a>        
-    </li>
-
-        <li>        <a href="/community/forensic-science">Forensic Science</a>        
-    </li>
-
-        <li>        <a href="/community/health-it">Health IT</a>        
-    </li>
-
-        <li>        <a href="/community/life-sciences">Life Sciences</a>        
-    </li>
-
-        <li>        <a href="/community/manufacturing">Manufacturing</a>        
-    </li>
-
-        <li>        <a href="/community/medical-research">Medical Research</a>        
-    </li>
-
-        <li class="last">        <a href="/community/water-management">Water Management</a>        
-    </li>
-
-
-    </ul>
-
-    </li>
-
-        <li class="hasChildren last">        <span>Sales</span>            <ul class="menu_level_1">
-                <li class="first">        <a href="/community/channel-sales">Channel Sales</a>        
-    </li>
-
-        <li>        <a href="/community/customer-success">Customer Success</a>        
-    </li>
-
-        <li>        <a href="/community/inside-sales">Inside Sales</a>        
-    </li>
-
-        <li class="last">        <a href="/community/sales-management">Sales Strategy</a>        
-    </li>
-
-
-    </ul>
-
-    </li>
-
-
-    </ul>
-
-                            </div>
-                                            </div>
-                </div>
-
-                <form id="searchForm" class="search-form" action="/search" data-no-term-url="/webcasts" method="get">
-                    <input id="searchField" class="search-field" type="text" name="q" value="" placeholder="Find more webinars and videos">
-                    <button class="search-button" type="submit">Search</button>
-                </form>
-
-                <span class="presentingLinkWrapper">
-                    <a class="presentingLink" href="/presenting">Presenting a webinar?</a>
-                </span>
-                    </div>
-    </div>
-</div>    
-            <div class="breadcrumbsWrapper">
-    <div class="breadcrumbsInner">
-        <ul class="breadcrumbs">
-            <li class="breadcrumbWrapper">
-                <a href="/" class="breadcrumb homeBreadcrumb" title="Home">Home</a>
-            </li>
-                                                    <li class="breadcrumbWrapper">
-                <span class="breadcrumb currentBreadcrumb">Privacy policy</span>
-            </li>
-        </ul>
-    </div>
-</div>    
+    
     <div id="innerWrapper" class="inner-wrapper">
         <div id="pageBodyWrapper" class="page-body-wrapper">
             <div id="pageBodyBackgroundWrapper" class="page-body-background-wrapper">
@@ -614,37 +388,39 @@
 </div>
     </div>
 
+    <div data-ng-class="{'modal-visible': modal.visible}" class="modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Uploading your photo</h4>
+            </div>
+            <div class="modal-body">
+                <div class="profile-photo-uploading">
+                    <b class="icon-spin icon-spinner"></b>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <div data-ng-class="{'modal-visible': modal.visible}" data-ng-cloak="" class="modal-backdrop"></div>
 
         <!--[if lt IE 9]>
-    <script src="/resources/vendor/styleguide/script/respond.js"></script>
+    <script src="/resources/vendor/styleguide/script/respond.js?v=123456789"></script>
     <![endif]-->
 
     <script type="text/javascript" src="https://engine.adzerk.net/ados.js"></script>
 
-        <script type="text/javascript" src="/compiled/js/common.js?v=59426610"></script>
-    
     <script type="text/javascript">
         FileAPI = {
-            jsUrl: '/resources/vendor/FileAPI/js/FileAPI.min.js?v=59426610',
-            flashUrl: '/resources/vendor/FileAPI/swf/FileAPI.flash.swf?v=59426610'
+            jsUrl: '/resources/vendor/FileAPI/js/FileAPI.min.js?v=123456789',
+            flashUrl: '/resources/vendor/FileAPI/swf/FileAPI.flash.swf?v=123456789'
         }
     </script>
 
-        <!--[if gt IE 7]><!-->
-        <script type="text/javascript" src="/compiled/js/angular-file-upload-shim.js?v=59426610"></script>
-        <!--<![endif]-->
+    <script type="text/javascript" src="/bundles/brighttalkportal/js/Config/global_config.js?v=123456789"></script>
+    <script type="text/javascript" src="/compiled/js/base.js?v=123456789"></script>
 
-        <script type="text/javascript" src="/compiled/js/angular.js?v=59426610"></script>
-    
-        <script type="text/javascript" src="/compiled/js/brighttalkplayerbundle/angular-file-upload.js?v=59426610"></script>
-    
-        <!--[if IE 7]>
-        <script type="text/javascript" src="/compiled/js/angular-file-upload-ie7.js?v=59426610"></script>
-        <![endif]-->
+    <script type="text/javascript" src="/compiled/js/content-bundle/default.js?v=123456789"></script>
 
-            <script type="text/javascript" src="/compiled/js/app.js?v=59426610"></script>
-    
-            <script type="text/javascript" src="/compiled/js/brighttalkcontentbundle/default.js?v=59426610"></script>
-    
 
 </body></html>
