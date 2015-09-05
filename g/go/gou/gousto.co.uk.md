@@ -1,85 +1,88 @@
-> *The following text is extracted and transformed from the gousto.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315105007id_/https%3A//www.gousto.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gousto.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906004940id_/http%3A//www.gousto.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Choose Recipes, Get Fresh And Organic Ingredients Delivered & Cook Healthy Food
 
-## Privacy & cookies policy - your information & data protection
+Effective Date: 26/05/2015
 
-### 1About the Agreement
+## 1\. Who are we?
 
-(1) The provision of the website and any services we provide will be reliant on information provided by you, so you are responsible for ensuring that any information you provide is accurate, correct and up-to-date and in accordance the User Agreement Terms and Conditions at <https://www.gousto.co.uk/terms-and-conditions>. Please read this policy in conjunction with that document. We are committed to maintaining privacy and we always use our best endeavours to keep your information secure, but refer you to your obligations of keeping username and password secure as detailed within the User Agreement.
+  * 1.1 We are SCA Investments Limited trading as "Gousto". We own and operate this website. Our contact details are on the website. Please contact us if you have any questions or feedback about this policy.
+  * 1.2 We are registered with the Information Commissioner’s Register of Data Controllers under number **ZA029698**.
 
-### 2Consent
 
-(1) By using the website and any services, you are specifically providing your consent to our use of the information you provide (such as when you register) and our use of cookies in accordance with this Policy.
 
-(2) If you object, then please do NOT register with us nor use the website or our services.
+## 2\. What’s the point of this policy?
 
-(3) In addition, on occasions we may collect additional personal information from surveys on the website, which you will not be obliged to fill in or return to us.
+  * 2.1 This policy tells you how we deal with your "personal data" (i.e. technical term for information about any identified or identifiable living person). Please read on to find out what kinds of personal data we collect, how we use and protect it, to whom we disclose it and how you can access and rectify it.
+  * 2.2 Please do not use our website unless you are completely happy with this policy. If you do use our website, we will assume that you do accept it.
 
-(4) When you give us information about another individual or organisation, it is on the basis that they have agreed to this and that you have the right to provide such information and use it in this way.
 
-### 3Personal Information
 
-(1) When you email us information for upload or you upload information onto the website, including but not limited to any post onto the website, you do so on the understanding that you specifically understand and consent to the upload being visible on the website to all other users.
+## 3\. Might the policy change?
 
-(2) We are not responsible for any user upload. However we always advise that you understand that your upload will be visible on the website and advise caution in providing personal or other details. If you use our full recruitment services then you will enter into a separate agreement.
+  * 3.1 It may well do and so you should check it whenever you visit our website. We will assume you agree to the revised policy if you use the website after the effective date shown at the top of the policy.
 
-(3) Unless you have entered into a separate agreement with us, then any personal information we hold will be used, for example, to identify you, provide services, run the website and our business efficiently or, for analysing and marketing purposes (including any third party software used). Unless we have agreed otherwise, personal information will only be used by us and our subsidiary or parent companies and selected third parties, including those who perform services for us/on our behalf.
 
-(4) USERS (who are not Advertisers) -
 
-You will be sent updates and information communications (for example about new services or offers) and we will also send you a newsletter unless you opt out to receive one. You can opt out of receiving information by signing in and changing your preferences.
+## 4\. What personal or other data do we collect? 
 
-(5) ADVERTISERS -
+  * 4.1 We collect and store the information which you give us via forms on our website - such as your name, address, email address, phone number and so on - or when communicating with us by email or in some other way. This includes information stored within your account such as favourites, wishlist.
 
-(a) Agree to full use and disclosure of the information that they provide to us when ordering a service from us (with the exception of their account information) on this website and on any website which we operate and/or own.
 
-(b) Will receive our newsletter and updates on our website and services unless you specifically opt out
 
-### 4Non-Personal Information
+## 5\. What about cookies?
 
-(1) When you use the website, some information is also automatically logged and stored. However, this information does not identify you (or, as applicable, your business) personally. We use this aggregate information to analyse behaviour relating to our website generally. We may also share aggregate information with selected third parties, but we do not disclose your personal information.
+  * 5.1 We and/or third parties use cookies and other tracking technologies on our website. A cookie is an identifier (a small file of letters and numbers) that is sent to your computer. Our website’s functionality will be limited if you configure your browser to reject cookies. 
+  * 5.2 Cookies are widely used to make websites work, or work more efficiently, as well as to provide information to the website owner or others. Session cookies are temporary cookies that remain in the cookie file of your browser only until your browser is closed. They allow websites to link your actions during a browser session. Persistent cookies stay in the cookie file of your browser for longer (though how long will depend on the lifetime of the specific cookie). For further information on cookies, including how to use your browser to block them and how to delete cookies already stored on your device, visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  * 5.3 Cookies are used on this website for the following purposes: 
+    * a) Session cookies: We use session cookies to enable the website to keep track of your movement from page to page and store your selections so you do not get asked repeatedly for the same information. These cookies allow you to proceed through many pages of the website quickly and easily without having to authenticate or reprocess each new area you visit. For example, the session cookie remembers your shopping cart selection so will have the items you selected when you are ready to check out.
+    * b) Google Analytics ("GA") cookies: Google sets persistent cookies (up to two years) to recognize and count the number of website visitors as well as providing other information about the visit such as duration, route through the website and what sites the visitor came from. This information helps us to improve the way our website works, for example by making sure users find what they need easily. Click [here](https://www.google.co.uk/policies/technologies/types/) for more information about GA cookies. Click [here](https://tools.google.com/dlpage/gaoptout) to opt out of GA cookies. 
+    * c) Google advertising cookies (AdSense, Doubleclick): Google uses persistent advertising cookies (up to two years) in connection with Google advertising on our website to serve ads to you based on your visits to this and other websites and for various other purposes. Click [here](http://www.google.com/policies/privacy/ads/) for more information and to opt out of Google’s advertising cookies.
+    * d) Microsoft Bing Ads cookies: Microsoft sets persistent cookies (up to two years) for conversion tracking purposes, i.e. to record details of transactions by users who visit our site after clicking on an advertisement of ours on another site. Click [here](http://advertise.bingads.microsoft.com/en-uk/privacy-policy) for more information
+    * e) Social media cookies: We may use various social media and other third party features on our website including [like](https://www.facebook.com/help/250558818375285/) button from [Facebook](http://www.facebook.com/help/cookies), follow button from [Twitter](https://twitter.com/privacy)), [Plus +1](https://support.google.com/plus/answer/1319578?hl=en-GB) button from [Google](https://www.google.co.uk/policies/technologies/types/), Pin It button from [Pinterest](http://about.pinterest.com/en/privacy-policy), share / follow button from [LinkedIn](https://www.linkedin.com/legal/cookie-policy), embed button from [YouTube](https://www.google.co.uk/policies/technologies/types/), These features may involve the relevant companies using cookies or linking your visit with cookies previously placed by them on your computer in order for them to collect information relating to your visit to our website or your interaction with their services or otherwise. Click the links shown above for further information about the specific features and those companies’ cookie / privacy practices generally as well as to opt out where this is possible.
+    * f) Olark cookies: Olark, our provider of live chat software, places session and persistent cookies (up to two years) on our site to enable the software to function properly as well as to remember you and your message history between visits. Click [here](https://www.olark.com/help/cookies) for more information.
+    * g) Addthis cookies: Our website includes third party persistent cookies (up to 2 years) set by a third party Addthis in connection with the Addthis button designed to enable sharing via social media (Facebook, Twitter etc). AddThis requires us to tell you the following: "We allow third-party companies, including AddThis, to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/)." Click [](http://www.addthis.com/privacy#.T9beWfF5HhU)here for more information about AddThis privacy practices. Click [here](http://www.addthis.com/privacy/opt-out) to prevent AddThis from collecting any information about you for online behavioural advertising. 
+    * h) Third party advertising cookies: As do many other sites, we use third party advertisers and/or internet advertising companies working for them to fill ad space on our website including Appnexus (see [here](http://www.appnexus.com/cookies)) and AdRoll (see [here](http://www.adroll.com/about/privacy)). These third parties may use persistent cookies and other similar technologies (known as action tags, single pixel gifs and web beacons) to assess information about your visits to this and other sites. This is so they can track the effectiveness of their campaigns (including whether these advertisements are clicked on or viewed by users and later purchases by such users), avoid showing you the same advertisement repeatedly and display advertisements on this and other sites tailored to your preferences. We do not have any access to or control over these third party technologies. If you would like more information about these practices and to know your choices about not having this information used by certain of these companies, please visit [www.youronlinechoices.com](http://www.youronlinechoices.com/) and [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). Please contact the third parties directly for more information about their privacy practices.
+  * 5.4 By continuing to use our website, we assume that you consent to use of the cookies outlined above.
 
-(2) We use your IP address to help to identify you and to gather broad demographic information, help to diagnose problems with our server, and to administer the website and for security reasons, such as fraud detection.
 
-### 5Cookies
 
-(a) As with most other websites, we do use cookies which are files that web browsers place on a computer's hard drive which we use to
+## 6\. How do we use your personal data? 
 
-\- help us to distinguish visitors and identify whether you have visited the website previously, so that we can understand your browsing habits and make the experience as meaningful to you personally as is possible and to improve the website
+  * 6.1 We use your personal data to provide our services, e.g. send service messages, process payments and/or fulfil orders. 
+  * 6.2 We use your personal data to help us communicate with you effectively should you try to contact us via our website. 
+  * 6.3 If you have given permission on our website, we may use your personal data to send you emails (or other communications such as mail, phone or SMS) with details of our or third party goods or services which may be of interest to you including information about special offers or promotions. 
+  * 6.4 We may use personal data to recognize you when you visit or return to our website to track anonymised traffic and usage patterns, to prevent or detect fraud or abuses or to help us improve our website. We may use cookies to do this. See above.
+  * 6.5 If you supply us with a third party email address for a "Refer A Friend" or similar offer, we will use that email address only to transmit the referral message.
+  * 6.6 We retain personal data from closed accounts in order to comply with legal obligations, enforce our terms and conditions, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations and take other actions as permitted by law. 
+  * 6.7 We may access, remove, alter, store or otherwise use any personal data if we have reason to believe that it breaches our terms and conditions, or that such steps are necessary to protect us or others, or that a criminal act has been committed, or if we are required to do so by law or appropriate authority.
 
-\- deal with the administration of the website, to analyse and compile statistics about its use (e.g. how many visitors and which pages they visit) and to improve it. They are not used to read data from your hard drive, and cannot retrieve information from any other cookies created by other websites.
 
-(b) Standing alone, cookies do not identify you personally. They merely recognise your browser. Unless you choose to identify yourself, for example by registering with us or purchasing from us, then you remain anonymous to us. Cookies come in two types: session-based and persistent:
 
-(i) Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer
+## 7\. How do we protect personal data? 
 
-(ii) Persistent cookies remain on your computer after you have closed your browser or turned off your computer. They include such information as a unique identifier for your browser. We use persistent cookies that only we can read and use, to identify the fact that you are a website user or prior website user (whatever the case may be) and to track your use. We are especially careful about the security and confidentiality of the information stored in persistent cookies. These cookies expire after six months.
+  * 7.1 Security is a high priority for us. We take appropriate precautions to protect personal data. 
+  * 7.2 Email and other electronic communications are not secure if they have not been encrypted. Your communications will pass through a number of network nodes before they reach us. So we do not accept responsibility for any unauthorised access to or loss of personal data that stems from a cause beyond our control. Nor can we be held responsible for the actions or omissions of other users or third parties who may misuse your personal data which they collect from the website.
 
-(c) Some cookies are essential for parts of the website to operate and have already been set. You can delete and block all cookies from our website but that means that some parts of the website will not work. Users who disable their web browser's ability to accept cookies will be able to browse our website, but will not be able to successfully and completely use our websites and services. For information on blocking cookies refer to the instructions on your Browser which is often located under the “Tools” section. Help is also available at **[www.allaboutcookies.org](http://www.allaboutcookies.org/) and also at**:
 
-[http://www.direct.gov.uk/en/SiteInformation/Cookies/DG_WP201851?CID=Central&PLA=url_mon&CRE=managing_cookies](http://www.direct.gov.uk/en/SiteInformation/Cookies/DG_WP201851?CID=Central&PLA=url_mon&CRE=managing_cookies)
 
-(d) You can delete any cookies on your computer by referring to the instructions for your file management software to locate the file or directory that stores cookies and delete it. Help is also available at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and also at:
+## 8\. To whom do we disclose personal data? 
 
-[http://www.direct.gov.uk/en/SiteInformation/Cookies/DG_WP201851?CID=Central&PLA=url_mon&CRE=managing_cookies](http://www.direct.gov.uk/en/SiteInformation/Cookies/DG_WP201851?CID=Central&PLA=url_mon&CRE=managing_cookies)
+  * 8.1 Payment details including credit card numbers are supplied direct to our payment partner mentioned on our website. We do not receive such information. To ensure your details are not being used without consent, your personal data may be supplied by our payment partners to relevant third parties including credit reference and fraud prevention agencies, who may keep a record of that information.
+  * 8.2 We may allow access to your personal data by third parties who supply us with a service. Examples include e-commerce platform providers, couriers (to enable delivery of goods), website hosts, content delivery networks and businesses which assist us in undertaking communications or monitoring our website.
+  * 8.3 We may disclose your contact details to Trustpilot to enable it to email you inviting you to leave a review on our site.
+  * 8.4 We may disclose personal data so far as reasonably necessary: 
+    * a) if we have reason to believe that it breaches our terms and conditions, or that such steps are necessary to protect us or others, or that a criminal act has been committed, or if there has been a complaint about content posted by you, or if we are required to do so by law or appropriate authority; or
+    * b) in the case of an actual or proposed (including negotiations for a) sale or merger or business combination involving all or the relevant part of our business.
+  * 8.5 Except as otherwise specifically included in this policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to third parties, whether they are suppliers of services on our website (e.g. payment providers) or other websites, different rules will apply to their use or disclosure of your information. Please check their privacy policies carefully.
 
-(f) You can find information about the cookies we use at the end of this policy.
 
-### 6Third parties and Associates
 
-(1) If you visit our website by "clicking-through" from a website operated by a third party, including one of our associates, or you have registered with that third party, then certain information about you that you have provided to them may be transmitted to us. You should review the Privacy Policy of the website from which you reached our website in order to determine what information was collected and how you agreed that the associate could use that information. We may or may not retain that information; if we do, then we will only use it in accordance with our Privacy Policy, regardless of the policy of the associate website from which you came to us.
+## 9\. How can you access and rectify personal data? 
 
-(2) If you reach our website through third party, including one of our associates (whether or not you have registered with them), and you choose to register with us, we may be required to give the third party some or all of your registration information. We will only do so in accordance with this Policy, but we cannot control how the third party uses the information. If you have questions about a third party’s Privacy Policy, you should review their Policy before providing information to us. You can ensure that the personal information you provide to us is not shared with any third parties (except in accordance with this Policy), by visiting us directly instead of clicking-through from one of our associate.
+  * 9.1 You have the right to request personal data that we hold about you, subject to us reserving the right to withhold such data to the extent permitted by law. We may charge an administration fee in line with data protection laws and we may also require appropriate evidence of identity. Note that you may be able to rectify certain of your personal data within your account on our service (if applicable).
+  * 9.2 For information about your rights under UK data protection laws, see the website of the [UK Information Commissioner](http://www.ico.org.uk/).
 
-### 6Changing and viewing information
 
-(1) You can change any information you provide to us by e-mailing us at [info@gousto.co.uk](mailto:info@gousto.co.uk)
 
-(2) You are entitled to ask for a copy of your information (for which we may charge a small fee) please e-mail us at [info@gousto.co.uk](mailto:info@gousto.co.uk). However, we will only send this information to the current e-mail address which we hold for you, unless you send us your full postal address and request that we send the information to you at your postal address (and we are able to verify the validity of this address).
-
-### 7Queries
-
-(1) If you have any queries about this Privacy Policy or your information, please e-mail us at [info@gousto.co.uk](mailto:info@gousto.co.uk)
-
-(2) We aim to respond to any queries within 7 working days.
+Version 1.0.
