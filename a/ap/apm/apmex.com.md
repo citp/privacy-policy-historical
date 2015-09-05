@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | APMEX
 
@@ -8,20 +8,20 @@ APMEX does not sell, rent, or loan any personally identifiable information regar
 
 This privacy policy (“Privacy Policy”) applies solely to information collected through the APMEX family of web sites, web pages, interactive features, applications, widgets, blogs and their respective contents at the following URLs: apmex.com and mobile.apmex.com, in addition to Twitter, Facebook or other social networking sites, and their respective contents, whether accessed via computer, mobile device or other technology (collectively, the “Sites”). The Sites are offered by APMEX, Inc. and its parent, subsidiary and affiliated companies, Site developers and other promotional partners (collectively, “APMEX,” or “we”, “us”, “our”).
 
-This Privacy Policy explains what information may be collected through the Sites, how such information may be used and/or shared with others, how we safeguard it and how you may access and control its use in connection with our marketing communications and activities. Please read this Privacy Policy carefully, because by using the Sites you are acknowledging that you understand and agree to the terms of this Privacy Policy. In addition, please review our [User Agreement](http://e2.apmex.com/useragreement), which governs your use of the Sites and any content you submit to the Sites.
+This Privacy Policy explains what information may be collected through the Sites, how such information may be used and/or shared with others, how we safeguard it and how you may access and control its use in connection with our marketing communications and activities. Please read this Privacy Policy carefully, because by using the Sites you are acknowledging that you understand and agree to the terms of this Privacy Policy. In addition, please review our [User Agreement](https://web.archive.org/useragreement), which governs your use of the Sites and any content you submit to the Sites.
 
-  1. [Information We Collect On Our Sites](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?information#informationWeCollect)
-  2. [How We Use The Information We Collect](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?howWeUse#howWeUsetheInformation)
-  3. [Sharing Of Information](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?sharing#sharingofInformation)
-  4. [Information We Receive From Third Parties](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?thirdParties#informationWeReceive)
-  5. [Your Choice And Access](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?yourChoice#yourChoiceandAccess)
-  6. [Advertising/Behavioral Targeting; How To Opt-Out](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?advertising#advertisingBehavioralTargeting)
-  7. [Children](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?children#children)
-  8. [Security Of Your Information](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?security#securityofYourInformation)
-  9. [Other Sites](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?otherSites#otherSites)
-  10. [Consent To Processing And Transfer Of Information](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?consent#consenttoProcessing)
-  11. [Changes](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?changes#changes)
-  12. [Contact Us](https://web.archive.org/web/20150317131102id_/http%3A//www.apmex.com/privacypolicy?contacUs#contactUs)
+  1. [Information We Collect On Our Sites](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?information#informationWeCollect)
+  2. [How We Use The Information We Collect](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?howWeUse#howWeUsetheInformation)
+  3. [Sharing Of Information](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?sharing#sharingofInformation)
+  4. [Information We Receive From Third Parties](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?thirdParties#informationWeReceive)
+  5. [Your Choice And Access](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?yourChoice#yourChoiceandAccess)
+  6. [Advertising/Behavioral Targeting; How To Opt-Out](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?advertising#advertisingBehavioralTargeting)
+  7. [Children](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?children#children)
+  8. [Security Of Your Information](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?security#securityofYourInformation)
+  9. [Other Sites](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?otherSites#otherSites)
+  10. [Consent To Processing And Transfer Of Information](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?consent#consenttoProcessing)
+  11. [Changes](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?changes#changes)
+  12. [Contact Us](https://web.archive.org/web/20150905053551id_/http%3A//www.apmex.com/privacypolicy?contacUs#contactUs)
 
 
 
@@ -65,7 +65,7 @@ This Privacy Policy explains what information may be collected through the Sites
     * Your Personal Information may also be used by us or shared with our subsidiaries, affiliates and other entities in the family of companies controlled by APMEX, Inc. for internal reasons, primarily for business and operational purposes. As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all or substantially all of our assets, or assets related to the Sites, Personal Information, Usage Information, and any other information that we have collected about the users of the Sites may be disclosed to such entity as part of the due diligence process and will be transferred to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
   * #### D. Legal Disclosure
 
-    * APMEX may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [User Agreement](http://e2.apmex.com/useragreement) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public.
+    * APMEX may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [User Agreement](https://web.archive.org/useragreement) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public.
 
 
 
