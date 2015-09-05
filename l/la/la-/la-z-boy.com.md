@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the la-z-boy.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617190453id_/http%3A//www.la-z-boy.com/Privacy-Policy/%3FWT.ac%3Dprivacy%40FooterMenu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the la-z-boy.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905060833id_/http%3A//www.la-z-boy.com/Privacy-Policy/%3FWT.ac%3Dprivacy%40FooterMenu) for the most accurate reproduction.*
 
 # Online Shopping Security & Privacy - Official La-Z-Boy Website
 
