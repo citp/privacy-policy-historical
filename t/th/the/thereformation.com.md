@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thereformation.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317144034id_/https%3A//www.thereformation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereformation.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905233224id_/https%3A//www.thereformation.com/privacy) for the most accurate reproduction.*
 
 # Reformation
 
@@ -16,11 +16,11 @@ Our employees who have access to information collected on our site are aware of 
 
 ### Email Communications
 
-You may elect not to receive emails from us. If you did not opt out of our email program, we will use your email address to send you emails which may interest you. Emails will likely contain information regarding our products or offerings. To unsubscribe from these emails, please email [customerlove@thereformation.com](mailto:customerlove@thereformation.com) and we’ll take care of it for you.
+You may elect not to receive emails from us. If you did not opt out of our email program, we will use your email address to send you emails which may interest you. Emails will likely contain information regarding our products or offerings. To unsubscribe from these emails, please email [love@thereformation.com](mailto:love@thereformation.com) and we’ll take care of it for you.
 
 If we sell all or any part of our business or sell or transfer all or a material part of our assets or are otherwise involved in a merger or other transfer or disposition of any part our business, we reserve the right to access, transfer or disclose any and all information that we collect from our website’s visitors, or that we otherwise collect in connection with the website, to the party or parties involved in the transaction as part of that transaction.
 
-You may request to access and update your personally identifiable information by sending us an e-mail at [customerlove@thereformation.com](mailto:customerlove@thereformation.com). We will attempt to provide you with reasonable access to any personally identifiable information you have provided to us within 30 days at no cost. If access cannot be provided within that timeframe, we will provide you with a date by which the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied.
+You may request to access and update your personally identifiable information by sending us an e-mail at [love@thereformation.com](mailto:love@thereformation.com). We will attempt to provide you with reasonable access to any personally identifiable information you have provided to us within 30 days at no cost. If access cannot be provided within that timeframe, we will provide you with a date by which the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied.
 
 We update our Privacy Policy from time to time to make sure it complies with applicable law. If we make any material changes in our privacy practices, we’ll let you know by posting a notice on our site notifying users that there has been a change, and we will use reasonable efforts to detail changes in the Privacy Policy area of our site. We recommend you check our site periodically for modifications to this policy. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection through our site, we will notify you via email.
 
