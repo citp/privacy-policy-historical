@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panerabread.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418123758id_/https%3A//www.panerabread.com/en-us/company-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panerabread.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905101524id_/https%3A//www.panerabread.com/en-us/company-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Panera Bread
 
@@ -92,9 +92,12 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 permits cust
 
 If you have any questions regarding our Privacy Policy, please [Contact Us](https://panera.custhelp.com/) or write to us at:
 
-Customer Resource Group   
-Panera Bread   
-3630 S. Geyer Road  
+Customer Resource Group 
+
+Panera Bread 
+
+3630 S. Geyer Road
+
 St. Louis, MO 63127
 
 © 2009-2014 Panera Bread. All Rights Reserved.
