@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unionbank.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314232907id_/https%3A//www.unionbank.com/small-business/privacy-security/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionbank.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905130824id_/https%3A//www.unionbank.com/personal-banking/privacy-security/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Union Bank
 
