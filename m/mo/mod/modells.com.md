@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418035502id_/http%3A//www.modells.com/category/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modells.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055128id_/http%3A//www.modells.com/category/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy-modells - Product Groups- Modells.com
-
-[](https://web.archive.org/category/privacy+policy/summer_clearance.do?nType=3)
 
 |  |  | 
 
