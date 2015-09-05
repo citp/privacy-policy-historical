@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metvnetwork.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629231700id_/http%3A//metvnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metvnetwork.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085733id_/http%3A//metvnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # MeTV Network | Privacy Policy
 
