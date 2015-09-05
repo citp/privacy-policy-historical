@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aidpage.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503141438id_/http%3A//peoplenetworks.com/legal/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aidpage.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905024132id_/http%3A//peoplenetworks.com/legal/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - People Networks Inc.
 
@@ -71,8 +71,8 @@ In case People Networks sells its assets to another entity or is acquired or mer
 Should you have questions or concerns about this Privacy Policy, please write us at:
 
 People Networks Inc.  
-16192 Coastal Hwy  
-Lewes, DE 19958
+9577 Big Man St  
+Las Vegas, NV 89123
 
-© 2007-2014 People Networks. All Rights Reserved.  
+© 2007-2015 People Networks. All Rights Reserved.  
  
