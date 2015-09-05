@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshadestore.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316150052id_/https%3A//www.theshadestore.com/corporate-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshadestore.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062240id_/https%3A//www.theshadestore.com/corporate-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Shade Store
 
