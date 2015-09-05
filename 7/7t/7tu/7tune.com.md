@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7tune.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510124101id_/http%3A//www.7tune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7tune.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905031021id_/http%3A//www.7tune.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | 7TUNE
 
