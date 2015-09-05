@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wweshop.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630070209id_/http%3A//shop.wwe.com/Privacy-Policy/footer-privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wweshop.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905091410id_/http%3A//shop.wwe.com/Privacy-Policy/footer-privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
