@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stitchfix.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319052913id_/https%3A//www.stitchfix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitchfix.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905075431id_/https%3A//www.stitchfix.com/privacy) for the most accurate reproduction.*
 
 # Stitch Fix | Privacy Policy | We Ship Boxes of Handpicked Women's Clothes
 
 Stitch Fix, Inc. (“ **Stitch Fix** ”) is committed to protecting your privacy. Stitch Fix is a fashion retailer that blends expert styling, proprietary technology and a unique product to deliver a shopping experience that is truly personalized. Based on your style profile, Stitch Fix personal stylists handpick a “Fix,” a package of clothing items and accessories that are unique to your taste, budget and lifestyle that is sent to your home, office or any location you choose. You keep what you like and return the rest. We have prepared this Privacy Policy to describe to you our practices regarding the personal information we collect from users of our website, located at www.stitchfix.com (the “ **Site** ”) and the services offered through the Site (the “ **Services** ”). 
 
-**Questions; Contacting Stitch Fix; Reporting Violations.** If you have any questions, concerns or complaints about our Privacy Policy, our data collection or processing practices, or if you want to report any security violations to us, please contact us at [hello@stitchfix.com.](mailto:hello@stitchfix.com "Email Stitchfix")
+**Questions; Contacting Stitch Fix; Reporting Violations.** If you have any questions, concerns or complaints about our Privacy Policy, our data collection or processing practices, or if you want to report any security violations to us, please contact us at [hello@stitchfix.com](mailto:hello@stitchfix.com "Email Stitchfix"), or 731 Market Street, San Francisco, CA 94103 
 
 ## Information Collected
 
