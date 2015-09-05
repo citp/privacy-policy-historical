@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbssportsnetwork.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630023353id_/http%3A//www.cbssportsnetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbssportsnetwork.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905063841id_/http%3A//www.cbssportsnetwork.com/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | CBS Sports Network
 
