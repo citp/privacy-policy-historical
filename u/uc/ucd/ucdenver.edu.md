@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucdenver.edu privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008085927id_/http%3A//www.ucdenver.edu/policy/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucdenver.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905072717id_/http%3A//www.ucdenver.edu/policy/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | | Accredited Degrees, Research and Health Care | Denver, Colorado | University of Colorado Denver
 
@@ -144,7 +144,7 @@ You can ask for a paper copy of this notice at any time, even if you have agreed
 
   * You can complain if you feel we have violated your rights by contacting our Privacy Officer via phone (303) 724-0983 or email hipaa@ucdenver.edu  
 
-  * You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting [www.hhs.gov/ocr/privacy/hipaa/complaints/.](https://web.archive.org/policy/Pages/http%3b//www.hhs.gov/ocr/privacy/hipaa/complaints/ "HIPPA")
+  * You can file a complaint with the U.S. Department of Health and Human Services Office for Civil Rights by sending a letter to 200 Independence Avenue, S.W., Washington, D.C. 20201, calling 1-877-696-6775, or visiting [www.hhs.gov/ocr/privacy/hipaa/complaints/.](https://web.archive.org/policy/Pages/http;//www.hhs.gov/ocr/privacy/hipaa/complaints "HIPPA")
   * We will not retaliate against you for filing a complaint.
 
 
