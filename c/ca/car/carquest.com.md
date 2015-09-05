@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319143353id_/http%3A//www.carquest.com/webapp/wcs/stores/servlet/StaticView%3FstoreId%3D10151%26catalogId%3D10651%26content%3DPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905172449id_/http%3A//www.carquest.com/webapp/wcs/stores/servlet/StaticView%3FstoreId%3D10151%26catalogId%3D10651%26content%3DPrivacy.html) for the most accurate reproduction.*
 
 # CARQUEST
 
@@ -91,7 +91,7 @@ For your convenience, we may provide links to other websites and web pages that 
 
 ## **How To Contact Us**
 
-If you have any questions about this Policy or would like to learn more about how we protect privacy, please contact us by phone at 1-800-854-3999 or by email at Customer.Feedback@CARQUEST.com.  
+If you have any questions about this Policy or would like to learn more about how we protect privacy, please contact us by email at Customer.Feedback@CARQUEST.com.  
 
 
 Privacy Policy: last updated July 18, 2013.
