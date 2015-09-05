@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boltbus.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101185401id_/https%3A//www.boltbus.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltbus.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905091122id_/https%3A//www.boltbus.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # BoltBus - Privacy Policy
 
