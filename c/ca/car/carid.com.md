@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carid.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628182100id_/http%3A//www.carid.com/help-center/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carid.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055103id_/http%3A//www.carid.com/help-center/privacy.html) for the most accurate reproduction.*
 
 # CARiD.com - PRIVACY STATEMENT
 
