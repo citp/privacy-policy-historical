@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406111100id_/https%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterofmalt.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905121923id_/https%3A//www.masterofmalt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Master of Malt
 
@@ -17,7 +17,7 @@
 
 ### introduction
 
-This policy (together with our terms of use (which can be found here: <https://www.masterofmalt.com/terms-of-use>)) explains how we process personal data. Please read it carefully. By visiting [www.masterofmalt.com](https://web.archive.org/web/20150406111100id_/https://www.masterofmalt.com/privacy-policy/www.masterofmalt.com) (our website) you are accepting and consenting to the terms of this policy.
+This policy (together with our terms of use (which can be found here: <https://www.masterofmalt.com/terms-of-use>)) explains how we process personal data. Please read it carefully. By visiting [www.masterofmalt.com](https://web.archive.org/web/20150905121923id_/https://www.masterofmalt.com/privacy-policy/www.masterofmalt.com) (our website) you are accepting and consenting to the terms of this policy.
 
 We are committed to protecting your privacy. We will only use the information that we collect about you in accordance with the UK Data Protection Act 1998. For the purposes of that Act, the data controller is Atom Supplies Limited, a company registered in England and Wales under company number 03193057 whose registered office is at North House, 198 High Street, Tonbridge, Kent TN9 1BE. The nominated representative is Tom McGuinness, whose principal place of business is 8a London Road, Tunbridge Wells, Kent TN1 1DA.
 
@@ -31,7 +31,7 @@ You may give us information by filling in forms on our website or by correspondi
 
 We also collect technical information relating to your use of our website (including the IP address used to connect to the internet) and to your experience using our website (including the full URL clickstream to, through and from our site, download errors, methods used to browse away from each page and any phone number used to call our customer service number). In basic terms, we will collect as much information about your use of our website as we possibly can. In our experience, this is the best way of improving the experience of visitors to the website. Oh, and just because other websites don’t tell you that they do this, doesn’t mean that they don’t!
 
-As part of our participation in Google’s Certified Shops Programme, certain information relating to transactions undertaken on our website will be collected and processed. We provide transaction information to Google to demonstrate that we deliver orders on time, have low occurrence of customer issues, and resolve customer issues quickly.
+As part of our participation in Google’s Certified Shops Programme, certain information relating to transactions undertaken on our website will be collected and processed. We provide transaction information to Google to demonstrate that we deliver orders on time, have low occurrence of customer issues, and resolve customer issues quickly. As part of our participation in Trustpilot’s consumer review service, certain personal data of our customers is processed by Trustpilot for the purposes of obtaining and making available feedback regarding the quality of our customer service. Trustpilot is under a contractual obligation to implement the necessary security measures to ensure that our customers’ personal data is not lost, altered or damaged, accessed by unauthorised persons, misused or otherwise treated in violation of data protection law. By visiting our website you are accepting and consenting to the processing of personal data by Google and Trustpilot.
 
 Technical information can be collected using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening, if you wish. The information collected in this way can be used to identify you unless you modify your browser settings. 
 
@@ -55,7 +55,7 @@ A “cookie” is a small text file that’s stored on your device when you visi
 
 Some cookies are deleted when you close down your browser. Others remain on your device until they expire or you delete them from your cache. These enable us to remember things about you as a returning visitor.
 
-For more information about cookies, please visit [www.allaboutcookies.org](https://web.archive.org/web/20150406111100id_/https://www.masterofmalt.com/privacy-policy/www.allaboutcookies.org). Alternatively, you can search the internet for other independent information on cookies.
+For more information about cookies, please visit [www.allaboutcookies.org](https://web.archive.org/web/20150905121923id_/https://www.masterofmalt.com/privacy-policy/www.allaboutcookies.org). Alternatively, you can search the internet for other independent information on cookies.
 
 ### cookies - how we use them
 
