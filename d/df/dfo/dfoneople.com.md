@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfoneople.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419220645id_/http%3A//www.dfoneople.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfoneople.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073725id_/http%3A//www.dfoneople.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dungeon Fighter Online
 
