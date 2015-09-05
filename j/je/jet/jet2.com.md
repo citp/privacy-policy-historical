@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517052128id_/http%3A//www.jet2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074424id_/http%3A//www.jet2.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Jet2.com
 
