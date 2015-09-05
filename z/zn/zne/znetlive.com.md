@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the znetlive.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319041809id_/https%3A//www.znetlive.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the znetlive.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905232831id_/https%3A//www.znetlive.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZNetLive
 
 ## PRIVACY POLICY
 
-### Effective Date: Thursday March 19, 2015
+### Effective Date: Sunday September 06, 2015
 
 This privacy statement describes how ZNET Technologies Private Limited collects and uses the personal information you provide on our Web site: [ZNetLive.com.](https://www.znetlive.com/) It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
