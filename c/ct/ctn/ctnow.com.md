@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctnow.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627190005id_/http%3A//www.tribpub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctnow.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905174820id_/http%3A//www.tribpub.com/privacy-policy) for the most accurate reproduction.*
 
 # Tribune Publishing | Privacy Policy and Your Privacy Rights
 
