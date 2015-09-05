@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectpal.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315224702id_/https%3A//www.connectpal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectpal.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905132935id_/https%3A//www.connectpal.com/privacy_policy) for the most accurate reproduction.*
 
 # ConnectPal.com - Privacy Policy
 
@@ -6,7 +6,7 @@ Welcome to the Privacy Policy. We take your privacy very seriously, so please ta
 
 ## Information Collection and Usage:
 
-We may store and use your full name, email address, and other information you may provide with your account, such as your gender, birth date, and location. Your name, as well as any photo you submit through the registration process, will be publicly displayed as part of your account profile. You can modify some of the information associated with your account under your settings. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal by contacting[support](mailto:help@connectpal.com).
+We may store and use your full name, email address, and other information you may provide with your account, such as your gender, birth date, and location. Your name, as well as any photo you submit through the registration process, will be publicly displayed as part of your account profile. You can modify some of the information associated with your account under your settings. If you feel that an unauthorized account has been created depicting you or your likeness, you can request its removal by contacting [support](mailto:help@connectpal.com).
 
 The collection of your data helps the site in several ways, including the management our everyday business needs, such as administration of the Site, forum management, fulfillment, analytics, fraud prevention, and enforcement of our corporate reporting obligations and Terms of Use, or to comply with the law; Operating, maintaining and improving the Site and our services; and performing analytics and conduct customer research.
 
@@ -30,7 +30,7 @@ You can close your account by request. We will remove your public posts from vie
 
 ## Privacy Of Children Under 13:
 
-The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us here(LINK). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](https://web.archive.org/contact_us). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
 ## Changes:
 
