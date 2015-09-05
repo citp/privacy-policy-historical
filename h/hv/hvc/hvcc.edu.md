@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317000827id_/https%3A//www.hvcc.edu/its/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hvcc.edu privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905221215id_/https%3A//www.hvcc.edu/its/docs/privacy.html) for the most accurate reproduction.*
 
 # HVCC Privacy Policy
 
