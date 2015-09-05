@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bugaboo.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324080128id_/https%3A//www.bugaboo.com/US/en_US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugaboo.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905201305id_/https%3A//www.bugaboo.com/US/en_US/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy - bugaboo (United states) English
+# privacy policy
 
 ### PRIVACY POLICY 
 
