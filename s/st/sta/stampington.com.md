@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stampington.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421034613id_/http%3A//stampington.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stampington.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905205408id_/https%3A//stampington.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stampington
 
