@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ktuu.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627194227id_/http%3A//www.schurz.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktuu.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055323id_/http%3A//www.schurz.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Schurz Communications Inc.
 
 **PRIVACY POLICY**
 
-_Last Modified 12/12/1014_
+_Last Modified 12/12/2014_
 
 Schurz Communications Inc. and the companies identified at [http://www.schurz.com/properties](http://www.schurz.com/properties/) (each, a “Company”) strive to offer visitors to its websites identified at [http://www.schurz.com/properties](http://www.schurz.com/properties/) (each, a “Site”) the many advantages of Internet technology and to provide an interactive and personalized experience. In order to do so, we may obtain certain personal information from you. The purpose of this privacy policy (“Privacy Policy”) is to inform you about the types of information we gather about you when you visit the Site, how we may use that information, and the choices you have regarding our use of that information. This Privacy Policy supplements and is incorporated as a part of Company’s Terms of Use, which may be available at <http://www.schurz.com/about/terms-of-use/>. Throughout this Privacy Policy, “we,” “us,” or “our” refers to Company, and “you” or “your” refers to the person or entity who accesses or uses this Site or its content (the “User”).
 
