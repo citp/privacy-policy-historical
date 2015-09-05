@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technologyadvice.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315093208id_/http%3A//technologyadvice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologyadvice.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906010353id_/http%3A//technologyadvice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechnologyAdvice
 
@@ -8,7 +8,7 @@ Effective Date: March 1, 2014
 
 #### Privacy Statement
 
-Bell Holdings, LLC dba TechnologyAdvice (“TechnologyAdvice”) Is committed to safeguarding Your privacy online. This privacy policy applies to Your information that TechnologyAdvice collects and receives. By using this website, technologyadvice.com (“Website”), You agree to the terms of this Privacy Policy. Please read the following policy to understand how Your Personal Information will be treated as You use TechnologyAdvice’s Services. The following discloses our information gathering and dissemination practices. All capitalized terms not defined in this Privacy Policy have the same meaning as defined in TechnologyAdvice’s Terms of Use.
+TechnologyAdvice, LLC (“TechnologyAdvice”) Is committed to safeguarding Your privacy online. This privacy policy applies to Your information that TechnologyAdvice collects and receives. By using this website, technologyadvice.com (“Website”), You agree to the terms of this Privacy Policy. Please read the following policy to understand how Your Personal Information will be treated as You use TechnologyAdvice’s Services. The following discloses our information gathering and dissemination practices. All capitalized terms not defined in this Privacy Policy have the same meaning as defined in TechnologyAdvice’s Terms of Use.
 
 #### Personal Information Defined
 
