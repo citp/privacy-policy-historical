@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nordictrack.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074135id_/http%3A//www.nordictrack.com/fitness/PrivacyView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordictrack.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905172958id_/http%3A//www.nordictrack.com/fitness/PrivacyView%3FlangId%3D-1%26storeId%3D10301%26catalogId%3D12401) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,7 +80,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-We want you to feel confident using the Site. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
+We want you to feel confident using the Site. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at https://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
 
 ### Third party websites
 
