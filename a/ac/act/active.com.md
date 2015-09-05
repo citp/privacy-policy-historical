@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the active.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011073930id_/http%3A//www.activenetwork.com/information/privacy-policy-active-com-9-14-11.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the active.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064204id_/http%3A//www.activenetwork.com/information/privacy-policy-active-com-9-14-11.htm) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
@@ -191,7 +191,7 @@ Parents have the right to consent to the collection and use of personal informat
 
 **_Can I access and modify my Child’s personal information?_**
 
-If your Child’s personal information changes, if you no longer wish to allow your Child to participate on the Sites, or if you wish to delete your Child’s information and refuse further collection and use of the information, please email us at [privacy@activenetwork.com](https://web.archive.org/web/20141011154138id_/http://www.activenetwork.com/information/privacy@activenetwork.com). 
+If your Child’s personal information changes, if you no longer wish to allow your Child to participate on the Sites, or if you wish to delete your Child’s information and refuse further collection and use of the information, please email us at [privacy@activenetwork.com](https://web.archive.org/web/20150905070414id_/http://www.activenetwork.com/information/privacy@activenetwork.com). 
 
 **_How long is my Child’s information retained?_**
 
