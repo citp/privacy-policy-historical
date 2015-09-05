@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsinnigeria.careers privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428154215id_/http%3A//jobsinnigeria.careers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinnigeria.careers privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905232303id_/http%3A//jobsinnigeria.careers/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs in Nigeria
 
@@ -57,8 +57,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
-
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 http://jobsinnigeria.careers/
 
 http://jobsinnigeria.careers/
