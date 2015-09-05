@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stokke.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506033800id_/http%3A//www.stokke.com/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stokke.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905213108id_/https%3A//www.stokke.com/global/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,7 +61,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms of Use**    
-Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.stokke.com](http://www.stokke.com/)
+Please also visit our Terms of Use section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.stokke.com](https://www.stokke.com/)
 
 **Your Consent**    
 By using our site, you consent to our web site privacy policy.
@@ -75,7 +75,7 @@ This Privacy Policy will - at all times - be limited to the fullest extent permi
 **Contacting Us**    
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[http://www.stokke.com](http://www.stokke.com/)
+[https://www.stokke.com](https://www.stokke.com/)
 
 Parkgata 6  
 Ålesund, Ålesund 6001  
