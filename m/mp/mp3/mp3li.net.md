@@ -1,46 +1,62 @@
-> *The following text is extracted and transformed from the mp3li.net privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501234743id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3li.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905235147id_/http%3A//mp3li.net/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Updated: April 20, 2009
+This privacy policy sets out how administration (“we”) of mp3.li (“Website”) uses and protects any information that you give us when you use Website.
 
-Your privacy is important to us, so we have created the following Privacy Policy to let you know what information we collect when you visit our web sites and when we serve advertisements on our network of websites, why we collect it and how it is used.
+We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using Website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Please read this privacy policy carefully since by visiting this site you agree to be bound by the terms and conditions of this Privacy Policy and our website Terms and Conditions.
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-During your visit to the Site, we and/or our third party vendors may collect certain information, as follows.  
+## What we collect
+
+We may collect the following information: 
+
+  * IP address, country of residence
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
-## Personally Identifiable Information
 
-We do not collect "Personally Identifiable Information" or"PII" on any of our websites.  PII means any information that may be used to identify an individual, including first and last name, physical address, email address, or telephone number.
+## What we do with the information we gather
 
-## Non-Personally Identifiable Information
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-We automatically receive and record anonymous information that your browser sends whenever you visit our website. We use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, one or more cookies that may uniquely identify your browser, and responses by a web surfer to an advertisement delivered by us. This information may be stored on our systems for about one year. We use technology, including technology from its third party advertising vendors, which includes cookies, "web beacons" and/or "action tags." A "cookie" is a small text file stored by your browser on your computer when you visit our Network. A "web beacon" or "action tag" is a small image (usually 1x1 pixel) embedded in a web page or email. We use cookies, web beacons and action tags to collect non-personally identifiable data to provide better and more relevant services and messages to that user. Cookies, web beacons and action tags permit us to recognize users and avoid repetitive requests for the same information.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new offers or other information which we think you may find interesting using the email address which you have provided.
 
-As a rule, non-personally identifiable information is anonymous and is not used to identify a specific person.
 
-Web surfers may elect not to provide non-personally identifiable information by following the cookie opt-out procedures set forth below.
 
-## Personally identifiable information
+## Security
 
-We do not collect PII.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-## Non-personally identifiable information
+## How we use cookies
 
-We may use your non-personal information in order to better target advertisements, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.  We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use. 
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-We do not collect PII.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our Website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-We employ commercially reasonable security measures to ensure the security of all data. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Overall, cookies help us provide you with a better Website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-## Non-personally identifiable information
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of Website.
 
-Our advertising partners may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) and work with industry leading companies to address important privacy and consumer protection issues in online advertising.
+## Links to other websites
 
-If you prefer not to receive behavioral ads you may opt-out of this anonymous ad targeting. Please note that if you opt-out ad companies may continue to collect non-personal information in connection with ad serving for limited reporting and auditing purposes. Examples of these include but are not limited to reporting overall advertising performance, geographic activity, and other similar analyses.  Most browsers will accept cookies unless you change your browser settings to refuse them and opt-out of the use of cookies and those of our third party advertising technology vendors. For more information on cookies and how to manage and delete them, please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+Our Website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-We are very sensitive to the issue of children's privacy and make every effort to protect the privacy of children using the Internet. Our website, products, and services are not developed for or directed at children under 13. For that reason, we does not knowingly collect or maintain information on the websites from persons under 13 years of age. If you are under 13 years of age, please do not use or access the websites at any time or in any manner.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
 
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.  For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of this website constitutes your agreement to this Privacy Policy and any updates.
+2.
+
+Trailer Phim " Cô Em Họ Bất Đắc Dĩ " Trên Sntv - [Sctv6](http://mp3li.net/en/index.php?q=Trailer%20Phim%20%22%20C%C3%B4%20Em%20H%E1%BB%8D%20B%E1%BA%A5t%20%C4%90%E1%BA%AFc%20D%C4%A9%20%22%20Tr%C3%AAn%20Sntv%20-%20Sctv6 "Trailer Phim ")
+
+11.
+
+Fossen & Struijk Band - [Kiddeo](http://mp3li.net/en/index.php?q=Fossen%20%26%20Struijk%20Band%20-%20Kiddeo "Fossen & Struijk Band - Kiddeo")
+
+15.
+
+Raul Mezcolanza - [May1](http://mp3li.net/en/index.php?q=Raul%20Mezcolanza%20-%20May1 "Raul Mezcolanza - May1")
