@@ -1,42 +1,132 @@
-<!--The following is the downloaded HTML source of the thezoereport.com privacy policy that was archived on 2015-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150411205343id_/http%3A//thezoereport.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thezoereport.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905082617id_/http%3A//thezoereport.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
-	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/5896.js?439011" async="" type="text/javascript"></script><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="pubexchange-jssdk" async="" src="http://cdn.pubexchange.com/modules/partner/the_zoe_report"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="//u.heatmap.it/log.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwACVV9XGwYDV1lQAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
-	<meta name="viewport" content="width=device-width">
-	<link rel="icon" type="image/png" href="http://thezoereport.com/wp-content/themes/thezoereport/favicon.ico">
-
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]--><head>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/5896.js?439011" async="" type="text/javascript"></script><script id="facebook-jssdk" src="http://connect.facebook.net/en_US/all.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://static.bringhub.com/cart/loader.js?1580443182862"></script><script id="pubexchange-jssdk" async="" src="http://cdn.pubexchange.com/modules/partner/the_zoe_report"></script><script async="" src="//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="//u.heatmap.it/log.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="The Zoe Report is an online style destination curated by stylist Rachel Zoe. Learn how to be glamorous every day with fashion, beauty &amp; lifestyle articles by Rachel's team of editors. ">
+<meta name="URL" content="http://thezoereport.com">
+<meta name="copyright" content="Copyright © 2015 Zoe Media Group">
+<!-- Custom Meta -->
+<meta property="og:type" content="website">
 	<title>Privacy | The Zoe Report</title>
+	<meta property="og:description" content="Privacy Policy
+Introduction
+ Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through TheZoeReport.com (the &quot;Web Site&quot; or &quot;TheZoeReport.com&quot;) or our on-line newsletters (&quot;The Zoe Report and Zoe Beautiful&quot;) for the purposes set forth in this policy.  
+Note: This statement applies solely to information collected at or through the Web Site. However, we will frequently link to other glamorous online destinations, so we advise you carefully review their respective privacy policies. Please be aware that Zoe Media Group is not responsible for the contents and the privacy practices of such other sites.
+Information Collection and Usage
+In compliance with our mission statement to glamorize your internet and e-mail experience, Zoe Media Group collects personal information through the Web Site at several points. For instance, to subscribe to The Zoe Report and Zoe Beautiful, we require your e-mail address and zip code (this trade-off is truly bananas). Rest-assured, Zoe Media Group does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent (that would be tacky).
+When you visit our site, we also collect anonymous information such as your IP address or domain name to analyze site traffic, but this information is not personally identifiable. We will use this information to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
+If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a web site that does not seem to be affiliated with the Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at  info@rachelzoe.com  
+ Third Party Account Information 
+ If you provide or connect your third-party account credentials to an account with our Website, some content and/or information in those accounts may be transmitted into your account with us. For example, when you connect with Facebook, we receive and collect your name, email address and profile photo. 
+ Enforcement of Terms and Policies 
+We may share your information to enforce or apply our Privacy Policy, Terms of Service or our other policies or agreements.
+Review and Access
+Upon your request, we will provide you with a summary of the information we collect about you. You will have an opportunity to correct, update, or modify this information.
+How to Unsubscribe
+You can unsubscribe from receiving Zoe Media Group emails at any time. You can unsubscribe by clicking on the &quot;Unsubscribe&quot; link in the footer of any Zoe Media Group email and following the instructions. You can also unsubscribe by clicking on the &quot;Unsubscribe&quot; link on the bottom of the Zoe Media Group homepage and following the instructions. 
+Third Party Advertising
+Some of the window dressing appearing on our site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, e-mail, or other personal information), is used to serve ads to you. 
+Cookies
+Not to be confused with the chocolate chip variety (which we LOVE), an internet &quot;cookie&quot; is a small file which is placed on the user’s hard drive when you visit our site. It helps us learn which areas of our site are useful and which areas need some polishing. We also use cookies and the information we collect to show you relevant content and advertising. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our site may be diminished and some features may not work as they were intended. 
+Third Party Cookies
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+Payment Card Information 
+To use certain aspects of our e-commerce Services, such as subscribing to our membership services, we may require credit or debit card account information. By submitting your credit or debit card account information through the Services, you expressly consent to the sharing of your information with third party merchants, subscription and billing processors, and payment processors. These third parties may store your credit or debit card account information so you can use our Services in the future. We do not have your complete credit or debit card account information, store your credit or debit card account information, or have direct control over or responsibility for your credit or debit card account information. While we require that such third party merchants, subscription and billing processors, and payment processors use reasonable procedures to help protect your credit or debit card information, we cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third-party service providers. We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control.
+Security
+All of the information collected by Zoe Media Group is locked away safely with our Birkin collection, and also on our restricted database server.
+Modifications
+California Marketing
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: info@rachelzoe.com. 
+Do Not Track
+We currently do not participate in any &quot;Do Not Track&quot; frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your information. We may engage third parties, such as marketing or analytics partners, who may collect information about your online activities over time and across different websites when you use our website.
+Services Not Directed at Children
+The Website services are not directed to children under 13. We do not knowingly collect or solicit personally identifiable information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Website services or send any information about yourself to us. If a parent or guardian becomes aware of his or her child has provided us with personal information without their consent, please contact us at: info@rachelzoe.com . 
+Zoe Media Group may make changes to this policy in the future. We will reflect those changes in this statement, so please check back periodically.
+Contact Us
+If you have questions about this policy, or about the site, please contact us at: info@rachelzoe.com . xoxo
+ 
+">
+	<meta property="og:image" content="http://thezoereport.com/wp-content/themes/thezoereport/images/og-image.jpg">
+
+<!-- retina favicons -->
+<link rel="apple-touch-icon" sizes="57x57" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/apple-touch-icon-57x57.png?v=qA5edKKvxj">
+<link rel="apple-touch-icon" sizes="60x60" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/apple-touch-icon-60x60.png?v=qA5edKKvxj">
+<link rel="apple-touch-icon" sizes="72x72" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/apple-touch-icon-72x72.png?v=qA5edKKvxj">
+<link rel="apple-touch-icon" sizes="76x76" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/apple-touch-icon-76x76.png?v=qA5edKKvxj">
+<link rel="apple-touch-icon" sizes="114x114" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/apple-touch-icon-114x114.png?v=qA5edKKvxj">
+<link rel="apple-touch-icon" sizes="120x120" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/apple-touch-icon-120x120.png?v=qA5edKKvxj">
+<link rel="apple-touch-icon" sizes="144x144" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/apple-touch-icon-144x144.png?v=qA5edKKvxj">
+<link rel="apple-touch-icon" sizes="152x152" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/apple-touch-icon-152x152.png?v=qA5edKKvxj">
+<link rel="apple-touch-icon" sizes="180x180" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/apple-touch-icon-180x180.png?v=qA5edKKvxj">
+<link rel="icon" type="image/png" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/favicon-32x32.png?v=qA5edKKvxj" sizes="32x32">
+<link rel="icon" type="image/png" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/android-chrome-192x192.png?v=qA5edKKvxj" sizes="192x192">
+<link rel="icon" type="image/png" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/favicon-96x96.png?v=qA5edKKvxj" sizes="96x96">
+<link rel="icon" type="image/png" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/favicon-16x16.png?v=qA5edKKvxj" sizes="16x16">
+<link rel="manifest" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/manifest.json?v=qA5edKKvxj">
+<link rel="shortcut icon" href="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/favicon.ico?v=qA5edKKvxj">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/mstile-144x144.png?v=qA5edKKvxj">
+<meta name="msapplication-config" content="http://thezoereport.com/wp-content/themes/thezoereport/images/favicon/browserconfig.xml?v=qA5edKKvxj">
+<meta name="theme-color" content="#ffffff">
 
 	<script>(window.gaDevIds=window.gaDevIds||[]).push('5CDcaG');</script>
-<!-- This site is optimized with the Yoast WordPress SEO plugin v2.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Click to review The Zoe Report's Privacy Policy.">
 <link rel="canonical" href="http://thezoereport.com/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | The Zoe Report">
+<meta property="og:description" content="Click to review The Zoe Report's Privacy Policy.">
+<meta property="og:url" content="http://thezoereport.com/privacy/">
+<meta property="og:site_name" content="The Zoe Report">
+<meta property="article:publisher" content="https://www.facebook.com/thezoereport">
+<meta property="article:section" content="Fashion">
+<meta property="fb:app_id" content="508144045926494">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Introduction Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through TheZoeReport.com (the Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The Zoe Report and Zoe Beautiful”) for the purposes set forth in this policy. Note: This statement applies solely to information collected at or […]">
-<meta name="twitter:title" content="Privacy | The Zoe Report">
+<meta name="twitter:description" content="Click to review The Zoe Report's Privacy Policy.">
+<meta name="twitter:title" content="Privacy Policy | The Zoe Report">
 <meta name="twitter:site" content="@thezoereport">
 <meta name="twitter:domain" content="The Zoe Report">
 <meta name="twitter:creator" content="@thezoereport">
-<!-- / Yoast WordPress SEO plugin. -->
+<!-- / Yoast SEO plugin. -->
 
-<link rel="dns-prefetch" href="//connect.facebook.net">
-<link rel="alternate" type="application/rss+xml" title="The Zoe Report » Privacy Comments Feed" href="http://thezoereport.com/privacy/feed/">
-<link rel="stylesheet" id="bfctzrwp_mpcss-css" href="http://thezoereport.com/wp-content/plugins/bonfyre-concepts-wp-woocomm-tzr/js/mpop/mpop.css?ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="bfctzrwp_maincss-css" href="http://thezoereport.com/wp-content/plugins/bonfyre-concepts-wp-woocomm-tzr/css/bfctzrwp.css?ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-layout-css" href="//thezoereport.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.7" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//thezoereport.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.7" type="text/css" media="only screen and (max-width: 768px)">
-<link rel="stylesheet" id="woocommerce-general-css" href="//thezoereport.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.7" type="text/css" media="all">
-<link rel="stylesheet" id="flexslider-css-css" href="http://thezoereport.com/wp-content/themes/thezoereport/static/stylesheets/flexslider.css?ver=2.2.0" type="text/css" media="all">
-<link rel="stylesheet" id="screen-css-css" href="http://thezoereport.com/wp-content/themes/thezoereport/static/stylesheets/screen.css?ver=1428622047" type="text/css" media="all">
-<link rel="stylesheet" id="fancybox-css-css" href="http://thezoereport.com/wp-content/themes/thezoereport/static/js/fancybox/jquery.fancybox.css?ver=2.1.5" type="text/css" media="all">
-<link rel="stylesheet" id="wc-bundle-style-css" href="http://thezoereport.com/wp-content/plugins/woocommerce-product-bundles/assets/css/bundles-style.css?ver=4.8.5" type="text/css" media="all">
-<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<link rel="dns-prefetch" href="//connect.facebook.net"><link rel="alternate" type="application/rss+xml" title="The Zoe Report » Privacy Comments Feed" href="http://thezoereport.com/privacy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/thezoereport.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://thezoereport.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.4" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="bfctzrwp_mpcss-css" href="http://thezoereport.com/wp-content/plugins/bonfyre-concepts-wp-woocomm-tzr/js/mpop/mpop.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="bfctzrwp_maincss-css" href="http://thezoereport.com/wp-content/plugins/bonfyre-concepts-wp-woocomm-tzr/css/bfctzrwp.css" type="text/css" media="all">
+<link rel="stylesheet" id="smart-coupon-css" href="http://thezoereport.com/wp-content/plugins/woocommerce-smart-coupons/assets/css/smart-coupon.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//thezoereport.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.13" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//thezoereport.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.13" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="woocommerce-general-css" href="//thezoereport.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.13" type="text/css" media="all">
+<link rel="stylesheet" id="flexslider-css-css" href="http://thezoereport.com/wp-content/themes/thezoereport/assets/stylesheets/css/vendor/flexslider.css?ver=2.2.0" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css-css" href="http://thezoereport.com/wp-content/themes/thezoereport/assets/stylesheets/css/vendor/jquery.fancybox.css?ver=2.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="app-css-css" href="http://thezoereport.com/wp-content/themes/thezoereport/assets/stylesheets/css/app.css" type="text/css" media="all">
+<link rel="stylesheet" id="wc-bundle-style-css" href="http://thezoereport.com/wp-content/plugins/woocommerce-product-bundles/assets/css/bundles-style.css?ver=4.9.3" type="text/css" media="all">
+<script type="text/javascript" src="http://publisher.bringhub.com/js/bringhub_wp.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
 <script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://thezoereport.com/wp-content/themes/thezoereport/static/js/zoe-dfp.js?ver=0.0.3"></script>
+<script type="text/javascript" src="http://thezoereport.com/wp-content/themes/thezoereport/assets/javascripts/static/zoe-dfp.js?ver=0.0.3"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://thezoereport.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://thezoereport.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.1.1">
-<meta name="generator" content="WooCommerce 2.3.7">
 <link rel="shortlink" href="http://thezoereport.com/?p=272">
 <script type="text/javascript">
 (function() {
@@ -56,7 +146,7 @@ var dfp_ad_units_mobile = [];
 		gads.async = true;
 		gads.type = 'text/javascript';
 		var useSSL = 'https:' == document.location.protocol;
-		gads.src = (useSSL ? 'https:' : 'http:') + 
+		gads.src = (useSSL ? 'https:' : 'http:') +
 		'//www.googletagservices.com/tag/js/gpt.js';
 		var node = document.getElementsByTagName('script')[0];
 		node.parentNode.insertBefore(gads, node);
@@ -78,9 +168,10 @@ dfp_ad_units_small_desktop[2] = googletag.defineSlot('/1109910/' + zoe_dfp_prefi
 dfp_ad_units_small_desktop[3] = googletag.defineOutOfPageSlot('/1109910/' + zoe_dfp_prefix + 'Site-Interstitial', 'div-gpt-ad-site-interstitial').addService(googletag.pubads());
 have_ad_units = true;
 }else if ( zoe_dfp_screen == 'mobile') {
-dfp_ad_units_mobile[0] = googletag.defineSlot('/1109910/' + zoe_dfp_prefix + 'Sidebar', [300,250], 'div-gpt-ad-sidebar').addService(googletag.pubads());
-dfp_ad_units_mobile[1] = googletag.defineSlot('/1109910/' + zoe_dfp_prefix + 'Midpage', [300,250], 'div-gpt-ad-midpage').addService(googletag.pubads());
-dfp_ad_units_mobile[2] = googletag.defineOutOfPageSlot('/1109910/' + zoe_dfp_prefix + 'Site-Interstitial', 'div-gpt-ad-site-interstitial').addService(googletag.pubads());
+dfp_ad_units_mobile[0] = googletag.defineSlot('/1109910/' + zoe_dfp_prefix + 'Header-Mobile', [320,50], 'div-gpt-ad-header-mobile').addService(googletag.pubads());
+dfp_ad_units_mobile[1] = googletag.defineSlot('/1109910/' + zoe_dfp_prefix + 'Sidebar', [300,250], 'div-gpt-ad-sidebar').addService(googletag.pubads());
+dfp_ad_units_mobile[2] = googletag.defineSlot('/1109910/' + zoe_dfp_prefix + 'Midpage', [300,250], 'div-gpt-ad-midpage').addService(googletag.pubads());
+dfp_ad_units_mobile[3] = googletag.defineOutOfPageSlot('/1109910/' + zoe_dfp_prefix + 'Site-Interstitial', 'div-gpt-ad-site-interstitial').addService(googletag.pubads());
 have_ad_units = true;
 }			if ( have_ad_units ) {
 				googletag.pubads().setTargeting('page_type',"page").setTargeting('post_id',272);
@@ -100,6 +191,9 @@ have_ad_units = true;
 			// Create analytics object
 			ga('create', 'UA-9562182-1', 'auto');
 
+			// Tag your page for enhanced link attribution
+			ga('require', 'linkid', 'linkid.js');
+
 			
 			// Send analytics info
 			ga('send', 'pageview');
@@ -114,26 +208,45 @@ have_ad_units = true;
 			COMSCORE.beacon({ c1: "2", c2: "17920825" });
 		</script>
 		<!-- End comScore Tag -->
-		<meta property="og:site_name" content="The Zoe Report">
-<meta property="og:type" content="article">
-<meta property="og:locale" content="en_US">
-<meta property="fb:app_id" content="508144045926494">
-<meta property="og:url" content="http://thezoereport.com/privacy/">
-<meta property="og:title" content="Privacy | The Zoe Report">
-<meta property="og:description" content="Introduction Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through TheZoeReport.com (the Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The Zoe Report and Zoe Beautiful”) for the purposes set forth in this policy. Note: This statement applies solely to information collected at or …">
+			<!-- Facebook Audience pixel -->
+	<script>(function() {
+	var _fbq = window._fbq || (window._fbq = []);
+	if (!_fbq.loaded) {
+	var fbds = document.createElement('script');
+	fbds.async = true;
+	fbds.src = '//connect.facebook.net/en_US/fbds.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(fbds, s);
+	_fbq.loaded = true;
+	}
+	_fbq.push(['addPixelId', '382446735282709']);
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript>
+	<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=382446735282709&amp;ev=PixelInitialized" /></noscript>
 	<!--[if lt IE 9]>
 	  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
 	  <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
 	  <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
 	  <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
-	<link rel='stylesheet' id='screen-css'  href='http://thezoereport.com/wp-content/themes/thezoereport/static/stylesheets/ie.css' type='text/css'/>
+	<link rel='stylesheet' id='screen-css'  href='http://thezoereport.com/wp-content/themes/thezoereport/assets/stylesheets/css/ie.css' type='text/css'/>
 	<![endif]-->
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="page page-id-272 page-template-default no-skin">
-	<div class="page-wrapper">
-		<div class="page-container">
-			
+
+    <!-- Friendbuy pixel -->
+<script>
+    window['friendbuy'] = window['friendbuy'] || [];
+    window['friendbuy'].push(['site', 'site-a7b3dfe2-thezoereport.com']);    (function (f, r, n, d, b, y) {
+        b = f.createElement(r), y = f.getElementsByTagName(r)[0];b.async = 1;b.src = n;y.parentNode.insertBefore(b, y);
+    })(document, 'script', '//djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js');
+</script>
+    <div class="page-wrapper">
+        <div class="page-container">
+            
 <header id="masthead" class="site-header" role="banner">
 	<div id="div-gpt-ad-header-background" class="dfp-ad dfp-header-background">
 <div class="ad-wrapper">
@@ -154,161 +267,291 @@ have_ad_units = true;
 	</script>
 </div>
 </div>
-</div>	<div class="navbar-container">
-		<nav class="navbar navbar-inverse" role="navigation">
-			<!-- Brand and toggle get grouped for better mobile display -->
-			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main">
-					<span class="sr-only">Toggle navigation</span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-					<span class="icon-bar"></span>
-				</button>
-								<h4>
-												<a class="navbar-brand" href="/"><img src="http://thezoereport.com/wp-content/themes/thezoereport/images/logo.png" alt="The Zoe Report"></a>
-								</h4>
-							</div>
+</div>
 
-			<form role="search" method="get" id="searchform" action="http://thezoereport.com/">
+<div class="ad-container mobile-leader-top">
+	<div class="ad-inner">
+		<div id="div-gpt-ad-header-mobile" class="dfp-ad dfp-header-mobile">
+<div class="ad-wrapper">
+	<script type="text/javascript">
+		if ( typeof googletag != 'undefined' ) {
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-header-mobile'); });
+		}
+	</script>
+</div>
+</div>
+	</div>
+</div>	<div id="main-nav-wrapper">
+		<div id="nav-wrapper">
+			<div class="navbar-container">
+				<nav class="navbar navbar-inverse" role="navigation">
+					<div class="navbar-header">
+						<div id="trigger-mobile-nav">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</div>
+												<h4>
+												<div class="primarybrand">
+							<div id="logo">
+								<a href="/"><img src="http://thezoereport.com/wp-content/themes/thezoereport/images/logo.png" alt="The Zoe Report"></a>
+							</div>
+						</div>
+						<div class="secondarybrand">
+							<div class="logo">
+								<a href="/"><img src="http://thezoereport.com/wp-content/themes/thezoereport/images/logosm.png" alt="The Zoe Report"></a>
+							</div>
+						</div>
+												</h4>
+											</div>
+
+					<form role="search" method="get" id="searchform" action="http://thezoereport.com/">
 	<div class="form-elements">
 		<label class="screen-reader-text" for="s">Search for:</label>
 		<input type="text" value="search" name="s" id="s">
 		<input type="submit" id="searchsubmit" value="">
 		<span class="glyphicon glyphicon-search"></span>
 	</div>
-</form>			
-			<!-- Collect the nav links, forms, and other content for toggling -->
-			<div class="collapse navbar-collapse navbar-main">
-				<ul id="menu-primary-navigation" class="nav nav-justified"><li id="menu-item-34660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34660 dropdown"><a href="http://thezoereport.com/fashion/">Fashion</a><div class="dropdown-menu">
+</form>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse navbar-main" id="unsticky-nav">
+
+						<ul id="menu-primary-navigation" class="nav nav-justified"><li id="menu-item-34660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34660 dropdown"><a href="http://thezoereport.com/c/fashion/">Fashion</a><div class="dropdown-menu">
 <ul class="sub-menu sub-menu-tag-list">
-	<li id="menu-item-93542" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93542"><a href="http://thezoereport.com/tag/shopping-2/">shopping</a></li>
-	<li id="menu-item-93543" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93543"><a href="http://thezoereport.com/tag/fashion-designers/">fashion designers</a></li>
-	<li id="menu-item-93544" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93544"><a href="http://thezoereport.com/tag/street-style/">street style</a></li>
-	<li id="menu-item-93545" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93545"><a href="http://thezoereport.com/tag/rachel-zoe-collection-2/">rachel zoe collection</a></li>
-	<li id="menu-item-93821" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93821"><a href="http://thezoereport.com/tag/denim/">denim</a></li>
-	<li id="menu-item-93822" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93822"><a href="http://thezoereport.com/tag/wedding-style/">Wedding Style</a></li>
-	<li id="menu-item-93824" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93824"><a href="http://thezoereport.com/tag/styling-tips/">styling tips</a></li>
-	<li id="menu-item-93839" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93839"><a href="http://thezoereport.com/tag/fashion-trends/">fashion trends</a></li>
-	<li id="menu-item-94176" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-94176"><a href="http://thezoereport.com/tag/women-of-style/">women of style</a></li>
+	<li id="menu-item-201309" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201309"><a href="/c/fashion/street-style/">Street Style</a></li>
+	<li id="menu-item-201311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201311"><a href="/c/fashion/style-tips/">Style Tips</a></li>
+	<li id="menu-item-201312" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201312"><a href="/c/fashion/shopping/">Shopping</a></li>
+	<li id="menu-item-201310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201310"><a href="/c/fashion/trends/">Fashion Trends</a></li>
+	<li id="menu-item-201313" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201313"><a href="/c/fashion/fashion-week">Fashion Week</a></li>
 </ul>
-<ul class="sub-menu sub-menu-stories"><li id="menu-item-136554"><a href="http://thezoereport.com/2015-coachella-style/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/coachella-2015-street-style-3-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="coachella-2015-street-style-3"><span class="title">6 Cute Outfits From Coachella Day <span class="last-word">One</span></span></a></li><li id="menu-item-134402"><a href="http://thezoereport.com/australian-fashion-designers/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/Australian-Designers-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Australian Designers"><span class="title">10 Cool Brands To Shop For Aussie-Girl <span class="last-word">Style</span></span></a></li><li id="menu-item-134278"><a href="http://thezoereport.com/fashion-designers-first-jobs/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/lead-80010-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="How Tom Ford started his career"><span class="title">How 4 Iconic Fashion Designers Got Their <span class="last-word">Start</span></span></a></li></ul></div></li>
-<li id="menu-item-34658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34658 dropdown"><a href="http://thezoereport.com/beauty/">Beauty</a><div class="dropdown-menu">
+<ul class="sub-menu sub-menu-stories"><li id="menu-item-220097"><a href="http://thezoereport.com/fashion/trends/the-new-date-night-dress/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/bohemian-mini-dresses-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="bohemian mini dresses"><span class="title">The New Date-Night <span class="last-word">Dress</span></span></a></li><li id="menu-item-219805"><a href="http://thezoereport.com/fashion/how-to-do-off-duty-denim-two-ways/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/LW-Gap-lead-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="LW Gap lead"><span class="title">How To Do Off-Duty Denim, Two <span class="last-word">Ways</span></span></a></li><li id="menu-item-220048"><a href="http://thezoereport.com/fashion/fashion-week/rachel-zoe-on-the-evolution-of-fashion-week/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/WEB-GettyImages-463587818-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="rachel zoe fashion week"><span class="title">Rachel Zoe On The Evolution Of Fashion <span class="last-word">Week</span></span></a></li></ul></div></li>
+<li id="menu-item-34658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34658 dropdown"><a href="http://thezoereport.com/c/beauty/">Beauty</a><div class="dropdown-menu">
 <ul class="sub-menu sub-menu-tag-list">
-	<li id="menu-item-93547" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93547"><a href="http://thezoereport.com/tag/nails/">nails</a></li>
-	<li id="menu-item-93548" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93548"><a href="http://thezoereport.com/tag/hair/">hair</a></li>
-	<li id="menu-item-93549" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93549"><a href="http://thezoereport.com/tag/makeup-2/">makeup</a></li>
-	<li id="menu-item-93550" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93550"><a href="http://thezoereport.com/tag/skincare-2/">skincare</a></li>
-	<li id="menu-item-93551" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93551"><a href="http://thezoereport.com/tag/beauty-trends/">beauty trends</a></li>
-	<li id="menu-item-93552" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93552"><a href="http://thezoereport.com/tag/nail-art/">nail art</a></li>
-	<li id="menu-item-93826" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93826"><a href="http://thezoereport.com/tag/makeup-tips/">makeup tips</a></li>
+	<li id="menu-item-201314" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201314"><a href="/c/beauty/hair/">Hair</a></li>
+	<li id="menu-item-201316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201316"><a href="/c/beauty/makeup/">Makeup</a></li>
+	<li id="menu-item-201317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201317"><a href="/c/beauty/nails/">Nails</a></li>
+	<li id="menu-item-201318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201318"><a href="/c/beauty/skincare/">Skin Care</a></li>
+	<li id="menu-item-201320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201320"><a href="/c/beauty/expert-tips/">Expert Tips</a></li>
 </ul>
-<ul class="sub-menu sub-menu-stories"><li id="menu-item-135925"><a href="http://thezoereport.com/beauty-products-inspired-by-coachella/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/004831-R1-003-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="coachella inspired beauty products"><span class="title">Beauty Products Inspired By <span class="last-word">Coachella</span></span></a></li><li id="menu-item-129948"><a href="http://thezoereport.com/summer-glow/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/burts-bees-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="burts-bees"><span class="title">How To Achieve A Summer Glow In 5 <span class="last-word">Minutes</span></span></a></li><li id="menu-item-135691"><a href="http://thezoereport.com/music-festival-2015/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/lead-8009-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="festival season beauty coachella makeup music"><span class="title">10 Beauty Lessons We Learned From Music <span class="last-word">Lyrics</span></span></a></li></ul></div></li>
-<li id="menu-item-34657" class="center-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34657 dropdown"><a href="http://thezoereport.com/accessories/">Accessories</a><div class="dropdown-menu">
+<ul class="sub-menu sub-menu-stories"><li id="menu-item-220244"><a href="http://thezoereport.com/beauty/hair/5-sulfate-free-shampoos-to-try-right-now/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/800-lead-sulfate-shampoo-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="800-lead-sulfate-shampoo"><span class="title">5 Sulfate-Free Shampoos To Try Right <span class="last-word">Now</span></span></a></li><li id="menu-item-214525"><a href="http://thezoereport.com/beauty/skincare/the-product-that-instantly-brightened-my-skin/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/08/800-lead-korres-peel-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="korres-peel"><span class="title">The Product That Instantly Brightened My <span class="last-word">Skin</span></span></a></li><li id="menu-item-220304"><a href="http://thezoereport.com/beauty/nails/the-biggest-nail-trend-on-instagram-right-now/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/nail-art-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="nail-art"><span class="title">The Biggest Nail Trend on Instagram Right <span class="last-word">Now</span></span></a></li></ul></div></li>
+<li id="menu-item-34657" class="center-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34657 dropdown"><a href="http://thezoereport.com/c/accessories/">Accessories</a><div class="dropdown-menu">
 <ul class="sub-menu sub-menu-tag-list">
-	<li id="menu-item-93553" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93553"><a href="http://thezoereport.com/tag/jewelry/">Jewelry</a></li>
-	<li id="menu-item-93555" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93555"><a href="http://thezoereport.com/tag/handbags/">handbags</a></li>
-	<li id="menu-item-93586" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93586"><a href="http://thezoereport.com/tag/footwear/">footwear</a></li>
+	<li id="menu-item-201323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201323"><a href="/c/accessories/shoes">Shoes</a></li>
+	<li id="menu-item-201324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201324"><a href="/c/accessories/handbags">Handbags</a></li>
+	<li id="menu-item-201325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201325"><a href="/c/accessories/jewelry">Jewelry</a></li>
+	<li id="menu-item-201326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201326"><a href="/c/accessories/accessories-trends/">Accessories Trends</a></li>
+	<li id="menu-item-201327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201327"><a href="/c/accessories/under-500/">Under $500</a></li>
 </ul>
-<ul class="sub-menu sub-menu-stories"><li id="menu-item-135877"><a href="http://thezoereport.com/marquise-diamond-engagement-ring/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/Emily-Weiss-ENgagement-ring-marquis-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Emily-Weiss-ENgagement-ring-marquise"><span class="title">Marquise Diamonds Are Making A Serious <span class="last-word">Comeback</span></span></a></li><li id="menu-item-131196"><a href="http://thezoereport.com/how-to-style-a-bandana-scarf/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/Daytime-Bandana-Look-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="Daytime Bandana Look"><span class="title">How To Style A Bandana <span class="last-word">Scarf</span></span></a></li><li id="menu-item-130984"><a href="http://thezoereport.com/festival-season-bag-spill/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/bagspill2-150x150.gif" class="attachment-thumbnail wp-post-image" alt="elizabeth and james cynnie belt bag"><span class="title">Festival Bag Spill: Style Essentials &amp; How To Carry <span class="last-word">Them</span></span></a></li></ul></div></li>
-<li id="menu-item-93559" class="center-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-93559 dropdown"><a href="http://thezoereport.com/living/">Living</a><div class="dropdown-menu">
+<ul class="sub-menu sub-menu-stories"><li id="menu-item-219166"><a href="http://thezoereport.com/accessories/accessories-trends/how-kate-bosworth-instantly-brightens-up-a-black-outfit/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/kate-bosworth-outfit-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="kate bosworth outfit"><span class="title">How Kate Bosworth Instantly Brightens Up A Black <span class="last-word">Outfit</span></span></a></li><li id="menu-item-219200"><a href="http://thezoereport.com/accessories/shoes/5-things-you-didnt-know-about-gianvito-rossi/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/gv3-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="Barneys New York Fetes Shoe Designer Gianvito Rossi"><span class="title">5 Things You Didn't Know About Gianvito <span class="last-word">Rossi</span></span></a></li><li id="menu-item-219749"><a href="http://thezoereport.com/accessories/accessories-trends/burberry-continues-dominate-monogram-game/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/Cara-Scarf-Burberry-800-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="cara delevingne scarf"><span class="title">Burberry Continues To Dominate The Monogram <span class="last-word">Game</span></span></a></li></ul></div></li>
+<li id="menu-item-93559" class="center-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-93559 dropdown"><a href="http://thezoereport.com/c/living/">Living</a><div class="dropdown-menu">
 <ul class="sub-menu sub-menu-tag-list">
-	<li id="menu-item-93827" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93827"><a href="http://thezoereport.com/tag/decorating/">decorating</a></li>
-	<li id="menu-item-93557" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93557"><a href="http://thezoereport.com/tag/travel/">travel</a></li>
-	<li id="menu-item-93829" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93829"><a href="http://thezoereport.com/tag/eat-and-drink/">eat and drink</a></li>
-	<li id="menu-item-93835" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93835"><a href="http://thezoereport.com/tag/tech-trends/">tech trends</a></li>
-	<li id="menu-item-93850" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-93850"><a href="http://thezoereport.com/tag/health-and-wellness/">health and wellness</a></li>
-	<li id="menu-item-94912" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-94912"><a href="http://thezoereport.com/tag/eco-friendly/">eco friendly</a></li>
-	<li id="menu-item-94151" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-94151"><a href="http://thezoereport.com/tag/women-of-style/">women of style</a></li>
-	<li id="menu-item-114491" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-114491"><a href="http://thezoereport.com/tag/wedding-style/">Wedding Style</a></li>
+	<li id="menu-item-201328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201328"><a href="/c/living/entertainment/">Entertainment</a></li>
+	<li id="menu-item-201329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201329"><a href="/c/living/home/">Home</a></li>
+	<li id="menu-item-201332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201332"><a href="/c/living/jet-set-style">Jet-Set Style</a></li>
+	<li id="menu-item-151180" class="menu-item menu-item-type-post_type menu-item-object-hub menu-item-151180"><a href="http://thezoereport.com/wedding-season/">Weddings</a></li>
+	<li id="menu-item-201334" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201334"><a href="/c/living/wellness">Health &amp; Wellness</a></li>
 </ul>
-<ul class="sub-menu sub-menu-stories"><li id="menu-item-135686"><a href="http://thezoereport.com/zoe-report-coachella/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/zoe-report-2015-coachella-150x150.png" class="attachment-thumbnail wp-post-image" alt="zoe-report-2015-coachella"><span class="title">Inside Rachel Zoe And The Zoe Report's Palm Springs Pool <span class="last-word">Party</span></span></a></li><li id="menu-item-130726"><a href="http://thezoereport.com/best-home-decor-sites/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/home-decor-sites-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="home-decor-sites"><span class="title">7 Up-And-Coming Home Decor Sites We <span class="last-word">Love</span></span></a></li><li id="menu-item-131394"><a href="http://thezoereport.com/decorating-with-art/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/04/how-to-do-a-gallery-wall-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="how-to-do-a-gallery-wall"><span class="title">6 Tips For Decorating With Framed <span class="last-word">Art</span></span></a></li></ul></div></li>
-<li id="menu-item-34662" class="center-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34662 dropdown"><a href="http://thezoereport.com/styling/">Styling</a><div class="dropdown-menu"><ul class="sub-menu sub-menu-stories"><li id="menu-item-135968"><a href="http://thezoereport.com/day-dressing-ideas/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/05/sequin-top-street-style-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="sequin top street style"><span class="title">How To Wear Evening Pieces During The <span class="last-word">Day</span></span></a></li><li id="menu-item-133203"><a href="http://thezoereport.com/bohemian-rhapsody-2/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/05/printed-saint-laurent-dress--150x150.jpg" class="attachment-thumbnail wp-post-image" alt="printed saint laurent dress"><span class="title">Bohemian Rhapsody: Festival Style, Done <span class="last-word">Right</span></span></a></li><li id="menu-item-133450"><a href="http://thezoereport.com/patchwork-jeans/"><img width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/05/patchwork-denim-150x150.jpg" class="attachment-thumbnail wp-post-image" alt="patchwork denim"><span class="title">Trend To Try: Head-Turning <span class="last-word">Denim</span></span></a></li></ul></div></li>
-<li id="menu-item-129764" class="menu-item menu-item-type-post_type menu-item-object-hub menu-item-129764"><a href="http://thezoereport.com/festival-style-2015/">Festival Style</a></li>
+<ul class="sub-menu sub-menu-stories"><li id="menu-item-219779"><a href="http://thezoereport.com/living/home/inside-rachel-zoes-cozy-beverly-hills-living-room/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/Rachel-Zoes-Living-Room-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="Rachel-Zoe's-Living-Room"><span class="title">Inside Rachel Zoe's Cozy Beverly Hills Living <span class="last-word">Room</span></span></a></li><li id="menu-item-219954"><a href="http://thezoereport.com/living/entertainment/12-entertaining-extras-for-labor-day-weekend/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/labor-day-extras-lead-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="labor-day-extras-lead"><span class="title">12 Entertaining Extras For Labor Day <span class="last-word">Weekend</span></span></a></li><li id="menu-item-220012"><a href="http://thezoereport.com/living/pack-glamping-getaway/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/dku3t_1024x1024-600x600.jpeg" class="attachment-thumbnail wp-post-image" alt="camping"><span class="title">What To Pack For A Glamping <span class="last-word">Getaway</span></span></a></li></ul></div></li>
+<li id="menu-item-143977" class="center-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-143977 dropdown"><a href="http://thezoereport.com/c/people/">People</a><div class="dropdown-menu">
+<ul class="sub-menu sub-menu-tag-list">
+	<li id="menu-item-201335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201335"><a href="http://thezoereport.com/c/people/red-carpet/">Red Carpet</a></li>
+	<li id="menu-item-201336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201336"><a href="http://thezoereport.com/c/people/events">Events</a></li>
+	<li id="menu-item-201338" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201338"><a href="http://thezoereport.com/c/people/influencers">Influencers</a></li>
+	<li id="menu-item-201339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201339"><a href="http://thezoereport.com/c/people/style-icons">Style Icons</a></li>
+	<li id="menu-item-201337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201337"><a href="http://thezoereport.com/c/people/rachel-zoe">Rachel Zoe</a></li>
+</ul>
+<ul class="sub-menu sub-menu-stories"><li id="menu-item-219905"><a href="http://thezoereport.com/people/influencers/5-reasons-why-riccardo-tisci-is-changing-the-fashion-game/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/TISCI-BEY.jpg" class="attachment-thumbnail wp-post-image" alt="@givenchyofficial"><span class="title">5 Reasons Why Riccardo Tisci Is Changing the Fashion <span class="last-word">Game</span></span></a></li><li id="menu-item-219476"><a href="http://thezoereport.com/people/our-love-for-beyonce-summed-up-in-gifs/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/beyonce-countdown-gif.gif" class="attachment-thumbnail wp-post-image" alt="beyonce-countdown-gif"><span class="title">Our Love For Beyonce Summed Up In <span class="last-word">GIFs</span></span></a></li><li id="menu-item-220405"><a href="http://thezoereport.com/people/rachel-zoe/3-weeks-until-fashionably-late-premieres/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/rachel-zoe-fashionably-late-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="rachel-zoe-fashionably-late"><span class="title">Watch Rodger Pitch Segment Ideas for Rachel Zoe’s New Talk <span class="last-word">Show</span></span></a></li></ul></div></li>
+<li id="menu-item-212920" class="menu-item menu-item-type-post_type menu-item-object-hub menu-item-212920"><a href="http://thezoereport.com/boss-week-august-2015/">Boss Week</a></li>
 
 <li id="menu-item-tzrshop" class="right-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-tzrshop dropdown">
   <div class="tzrshop-navwrap">
     <div class="tzrshop-navcont">
-      <a href="http://thezoereport.com/shop/">Box of Style</a><a href="http://thezoereport.com/cart/"><span class="tzrshop-navbagwrap"><img src="http://thezoereport.com/wp-content/plugins/bonfyre-concepts-wp-woocomm-tzr/img/ic-bag.png" class="tzrshop-navbagbg"><span class="tzrshop-navccnt">0</span></span></a>
+      <a class="shop-link" href="http://thezoereport.com/shop/">Box of Style</a>
+      <a class="cart-link" href="http://thezoereport.com/cart/"><span class="tzrshop-navbagwrap"><img src="http://thezoereport.com/wp-content/plugins/bonfyre-concepts-wp-woocomm-tzr/img/ic-bag.png" class="tzrshop-navbagbg"><span class="tzrshop-navccnt">0</span></span></a>
       <hr class="tzrshop-mobnav-hr">
       <div class="tzrshop-mobnav-cont">
         &nbsp;• <a class="tzrwc-mobnav-a" href="http://thezoereport.com/cart/">My Cart</a><br>
         &nbsp;• <a class="tzrwc-mobnav-a" href="https://thezoereport.com/my-account/">My Account</a><br>
         &nbsp;• <a class="tzrwc-mobnav-a" href="http://thezoereport.com/box-of-style-faq/">FAQ</a><br>
         
-        &nbsp;• <a class="tzrwc-mobnav-a" href="https://thezoereport.com/my-account/">Sign in</a>
+        &nbsp;• <a class="tzrwc-mobnav-a signinout" href="https://thezoereport.com/my-account/">Sign in</a>
       </div>
     </div>
   </div>
   <div class="dropdown-menu">
-    
+
     <div class="tzrwc-navloggedin"></div>
-    
+
     <ul class="sub-menu sub-menu-tag-list">
       <li id="menu-item-tzrcart" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-tzrcart"><a href="http://thezoereport.com/cart/">My Cart</a></li>
       <li id="menu-item-tzraccount" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-tzraccount"><a href="https://thezoereport.com/my-account/">My Account</a></li>
-      <li id="menu-item-tzrlogin" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-tzrlogin"><a class="tzrwc-mobnav-a" href="https://thezoereport.com/my-account/">Sign in</a></li>
+      <li id="menu-item-tzrlogin" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-tzrlogin"><a class="tzrwc-mobnav-a signinout" href="https://thezoereport.com/my-account/">Sign in</a></li>
       <hr style="border-color:#444;"><li id="menu-item-tzrpb" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-tzrpb"><a href="http://thezoereport.com/box-of-style-faq/">FAQ</a></li>
     </ul>
     <ul class="sub-menu sub-menu-stories">
-                <li id="menu-item-tzrproductimg"><a href="http://thezoereport.com/box-of-style/box-of-style/"><img style="width:150px;height:auto;max-height:150px;" width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/03/box-of-style-square.jpg" class="attachment-thumbnail wp-post-image" alt="Box of Style"><span class="title">Subscribe: Box of Style - Summer <span class="last-word">2015</span></span></a></li>
+                <li id="menu-item-tzrproductimg"><a href="http://thezoereport.com/box-of-style/box-of-style-fall-2015/"><img style="width:150px;height:auto;max-height:150px;" width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/03/box-of-style-square.jpg" class="attachment-thumbnail wp-post-image" alt="Box of Style"><span class="title">Subscribe: Box of <span class="last-word">Style</span></span></a></li>
               </ul>
   </div>
 </li>
-        </ul>				
-			</div><!-- /.navbar-collapse -->
-		</nav>
+        </ul>
+					</div><!-- /.navbar-collapse -->
+				</nav>
+			</div>
+		</div>
+	</div><!-- / main-nav-wrapper -->
+	<div id="main-nav-mobile">
+		<div class="close-mobile-nav">
+		</div>
+		<div class="mobile-nav-inner">
+			<a href="http://thezoereport.com" class="mobilebrand">
+				<img src="http://thezoereport.com/wp-content/themes/thezoereport/images/logo.png" alt="The Zoe Report">
+			</a>
+			<ul id="menu-primary-navigation" class="nav nav-justified"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34660 dropdown"><a href="http://thezoereport.com/c/fashion/">Fashion</a><div class="dropdown-menu">
+<ul class="sub-menu sub-menu-tag-list">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201309"><a href="/c/fashion/street-style/">Street Style</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201311"><a href="/c/fashion/style-tips/">Style Tips</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201312"><a href="/c/fashion/shopping/">Shopping</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201310"><a href="/c/fashion/trends/">Fashion Trends</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201313"><a href="/c/fashion/fashion-week">Fashion Week</a></li>
+</ul>
+<ul class="sub-menu sub-menu-stories"><li id="menu-item-220097"><a href="http://thezoereport.com/fashion/trends/the-new-date-night-dress/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/bohemian-mini-dresses-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="bohemian mini dresses"><span class="title">The New Date-Night <span class="last-word">Dress</span></span></a></li><li id="menu-item-219805"><a href="http://thezoereport.com/fashion/how-to-do-off-duty-denim-two-ways/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/LW-Gap-lead-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="LW Gap lead"><span class="title">How To Do Off-Duty Denim, Two <span class="last-word">Ways</span></span></a></li><li id="menu-item-220048"><a href="http://thezoereport.com/fashion/fashion-week/rachel-zoe-on-the-evolution-of-fashion-week/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/WEB-GettyImages-463587818-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="rachel zoe fashion week"><span class="title">Rachel Zoe On The Evolution Of Fashion <span class="last-word">Week</span></span></a></li></ul></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34658 dropdown"><a href="http://thezoereport.com/c/beauty/">Beauty</a><div class="dropdown-menu">
+<ul class="sub-menu sub-menu-tag-list">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201314"><a href="/c/beauty/hair/">Hair</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201316"><a href="/c/beauty/makeup/">Makeup</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201317"><a href="/c/beauty/nails/">Nails</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201318"><a href="/c/beauty/skincare/">Skin Care</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201320"><a href="/c/beauty/expert-tips/">Expert Tips</a></li>
+</ul>
+<ul class="sub-menu sub-menu-stories"><li id="menu-item-220244"><a href="http://thezoereport.com/beauty/hair/5-sulfate-free-shampoos-to-try-right-now/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/800-lead-sulfate-shampoo-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="800-lead-sulfate-shampoo"><span class="title">5 Sulfate-Free Shampoos To Try Right <span class="last-word">Now</span></span></a></li><li id="menu-item-214525"><a href="http://thezoereport.com/beauty/skincare/the-product-that-instantly-brightened-my-skin/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/08/800-lead-korres-peel-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="korres-peel"><span class="title">The Product That Instantly Brightened My <span class="last-word">Skin</span></span></a></li><li id="menu-item-220304"><a href="http://thezoereport.com/beauty/nails/the-biggest-nail-trend-on-instagram-right-now/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/nail-art-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="nail-art"><span class="title">The Biggest Nail Trend on Instagram Right <span class="last-word">Now</span></span></a></li></ul></div></li>
+<li class="center-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34657 dropdown"><a href="http://thezoereport.com/c/accessories/">Accessories</a><div class="dropdown-menu">
+<ul class="sub-menu sub-menu-tag-list">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201323"><a href="/c/accessories/shoes">Shoes</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201324"><a href="/c/accessories/handbags">Handbags</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201325"><a href="/c/accessories/jewelry">Jewelry</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201326"><a href="/c/accessories/accessories-trends/">Accessories Trends</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201327"><a href="/c/accessories/under-500/">Under $500</a></li>
+</ul>
+<ul class="sub-menu sub-menu-stories"><li id="menu-item-219166"><a href="http://thezoereport.com/accessories/accessories-trends/how-kate-bosworth-instantly-brightens-up-a-black-outfit/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/kate-bosworth-outfit-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="kate bosworth outfit"><span class="title">How Kate Bosworth Instantly Brightens Up A Black <span class="last-word">Outfit</span></span></a></li><li id="menu-item-219200"><a href="http://thezoereport.com/accessories/shoes/5-things-you-didnt-know-about-gianvito-rossi/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/gv3-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="Barneys New York Fetes Shoe Designer Gianvito Rossi"><span class="title">5 Things You Didn't Know About Gianvito <span class="last-word">Rossi</span></span></a></li><li id="menu-item-219749"><a href="http://thezoereport.com/accessories/accessories-trends/burberry-continues-dominate-monogram-game/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/Cara-Scarf-Burberry-800-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="cara delevingne scarf"><span class="title">Burberry Continues To Dominate The Monogram <span class="last-word">Game</span></span></a></li></ul></div></li>
+<li class="center-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-93559 dropdown"><a href="http://thezoereport.com/c/living/">Living</a><div class="dropdown-menu">
+<ul class="sub-menu sub-menu-tag-list">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201328"><a href="/c/living/entertainment/">Entertainment</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201329"><a href="/c/living/home/">Home</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201332"><a href="/c/living/jet-set-style">Jet-Set Style</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-hub menu-item-151180"><a href="http://thezoereport.com/wedding-season/">Weddings</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201334"><a href="/c/living/wellness">Health &amp; Wellness</a></li>
+</ul>
+<ul class="sub-menu sub-menu-stories"><li id="menu-item-219779"><a href="http://thezoereport.com/living/home/inside-rachel-zoes-cozy-beverly-hills-living-room/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/Rachel-Zoes-Living-Room-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="Rachel-Zoe's-Living-Room"><span class="title">Inside Rachel Zoe's Cozy Beverly Hills Living <span class="last-word">Room</span></span></a></li><li id="menu-item-219954"><a href="http://thezoereport.com/living/entertainment/12-entertaining-extras-for-labor-day-weekend/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/labor-day-extras-lead-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="labor-day-extras-lead"><span class="title">12 Entertaining Extras For Labor Day <span class="last-word">Weekend</span></span></a></li><li id="menu-item-220012"><a href="http://thezoereport.com/living/pack-glamping-getaway/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/dku3t_1024x1024-600x600.jpeg" class="attachment-thumbnail wp-post-image" alt="camping"><span class="title">What To Pack For A Glamping <span class="last-word">Getaway</span></span></a></li></ul></div></li>
+<li class="center-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-143977 dropdown"><a href="http://thezoereport.com/c/people/">People</a><div class="dropdown-menu">
+<ul class="sub-menu sub-menu-tag-list">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201335"><a href="http://thezoereport.com/c/people/red-carpet/">Red Carpet</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201336"><a href="http://thezoereport.com/c/people/events">Events</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201338"><a href="http://thezoereport.com/c/people/influencers">Influencers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201339"><a href="http://thezoereport.com/c/people/style-icons">Style Icons</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201337"><a href="http://thezoereport.com/c/people/rachel-zoe">Rachel Zoe</a></li>
+</ul>
+<ul class="sub-menu sub-menu-stories"><li id="menu-item-219905"><a href="http://thezoereport.com/people/influencers/5-reasons-why-riccardo-tisci-is-changing-the-fashion-game/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/TISCI-BEY.jpg" class="attachment-thumbnail wp-post-image" alt="@givenchyofficial"><span class="title">5 Reasons Why Riccardo Tisci Is Changing the Fashion <span class="last-word">Game</span></span></a></li><li id="menu-item-219476"><a href="http://thezoereport.com/people/our-love-for-beyonce-summed-up-in-gifs/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/beyonce-countdown-gif.gif" class="attachment-thumbnail wp-post-image" alt="beyonce-countdown-gif"><span class="title">Our Love For Beyonce Summed Up In <span class="last-word">GIFs</span></span></a></li><li id="menu-item-220405"><a href="http://thezoereport.com/people/rachel-zoe/3-weeks-until-fashionably-late-premieres/"><img width="600" height="600" src="http://thezoereport.com/wp-content/uploads/2015/09/rachel-zoe-fashionably-late-600x600.jpg" class="attachment-thumbnail wp-post-image" alt="rachel-zoe-fashionably-late"><span class="title">Watch Rodger Pitch Segment Ideas for Rachel Zoe’s New Talk <span class="last-word">Show</span></span></a></li></ul></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-hub menu-item-212920"><a href="http://thezoereport.com/boss-week-august-2015/">Boss Week</a></li>
+
+<li id="menu-item-tzrshop" class="right-align-drop menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-tzrshop dropdown">
+  <div class="tzrshop-navwrap">
+    <div class="tzrshop-navcont">
+      <a class="shop-link" href="http://thezoereport.com/shop/">Box of Style</a>
+      <a class="cart-link" href="http://thezoereport.com/cart/"><span class="tzrshop-navbagwrap"><img src="http://thezoereport.com/wp-content/plugins/bonfyre-concepts-wp-woocomm-tzr/img/ic-bag.png" class="tzrshop-navbagbg"><span class="tzrshop-navccnt">0</span></span></a>
+      <hr class="tzrshop-mobnav-hr">
+      <div class="tzrshop-mobnav-cont">
+        &nbsp;• <a class="tzrwc-mobnav-a" href="http://thezoereport.com/cart/">My Cart</a><br>
+        &nbsp;• <a class="tzrwc-mobnav-a" href="https://thezoereport.com/my-account/">My Account</a><br>
+        &nbsp;• <a class="tzrwc-mobnav-a" href="http://thezoereport.com/box-of-style-faq/">FAQ</a><br>
+        
+        &nbsp;• <a class="tzrwc-mobnav-a signinout" href="https://thezoereport.com/my-account/">Sign in</a>
+      </div>
+    </div>
+  </div>
+  <div class="dropdown-menu">
+
+    <div class="tzrwc-navloggedin"></div>
+
+    <ul class="sub-menu sub-menu-tag-list">
+      <li id="menu-item-tzrcart" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-tzrcart"><a href="http://thezoereport.com/cart/">My Cart</a></li>
+      <li id="menu-item-tzraccount" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-tzraccount"><a href="https://thezoereport.com/my-account/">My Account</a></li>
+      <li id="menu-item-tzrlogin" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-tzrlogin"><a class="tzrwc-mobnav-a signinout" href="https://thezoereport.com/my-account/">Sign in</a></li>
+      <hr style="border-color:#444;"><li id="menu-item-tzrpb" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-tzrpb"><a href="http://thezoereport.com/box-of-style-faq/">FAQ</a></li>
+    </ul>
+    <ul class="sub-menu sub-menu-stories">
+                <li id="menu-item-tzrproductimg"><a href="http://thezoereport.com/box-of-style/box-of-style-fall-2015/"><img style="width:150px;height:auto;max-height:150px;" width="150" height="150" src="http://thezoereport.com/wp-content/uploads/2015/03/box-of-style-square.jpg" class="attachment-thumbnail wp-post-image" alt="Box of Style"><span class="title">Subscribe: Box of <span class="last-word">Style</span></span></a></li>
+              </ul>
+  </div>
+</li>
+        </ul>			<!-- LOAD INLINE SIGN UP for TZR and BOS -->
+			<p class="subscribe-label">Sign Up for Daily Updates</p>
+			<div id="inpagesubscribe"></div>
+			<div class="follow-us group">
+				<span class="section-label">Follow Us:</span>
+				<ul class="follow-links group">
+					<li class="facebook"><a class="symbol" href="http://facebook.com/thezoereport" rel="me" target="_blank"></a></li>
+					<li class="twitter"><a class="symbol" href="http://twitter.com/thezoereport" rel="me" target="_blank"></a></li>
+					<li class="instagram"><a class="symbol" href="http://instagram.com/thezoereport" rel="me" target="_blank"></a></li>
+					<li class="pinterest"><a class="symbol" href="http://pinterest.com/thezoereport" rel="me" target="_blank"></a></li>
+					<li class="tumblr"><a class="symbol" href="http://thezoereport.tumblr.com" rel="me" target="_blank"></a></li>
+				</ul>
+			</div>
+			<div class="menu-mobile-footer-navigation-container"><ul id="menu-mobile-footer-navigation" class="menu"><li id="menu-item-144366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144366"><a href="http://thezoereport.com/about/">About</a></li>
+<li id="menu-item-144367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144367"><a href="http://thezoereport.com/contact-us/">Contact</a></li>
+<li id="menu-item-144368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144368"><a target="_blank" href="http://rachelzoe.com">RachelZoe.com</a></li>
+</ul></div>		</div>
 	</div>
-</header><!-- #masthead -->			<div class="content-wrapper">
-				<div id="main-content-container" class="content-container">				<div class="content">
+</header><!-- #masthead -->            <div class="content-wrapper">
+                <div id="main-content-container" class="content-container">
+				<div class="content">
 				<div class="page-type-inner-container">
 					<h1 class="title">Privacy</h1>
 
 					<div class="intro">
-						<p><strong>Introduction</strong></p>
-<p>Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through TheZoeReport.com (the Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The Zoe Report and Zoe Beautiful”) for the purposes set forth in this policy.</p>
+						<h2>Privacy Policy</h2>
+<h3>Introduction</h3>
+<p> Zoe Media Group strongly respects each individual’s right to personal privacy and we will only collect and use information through <a href="thezoereport.com">TheZoeReport.com</a> (the “Web Site” or “TheZoeReport.com”) or our on-line newsletters (“The Zoe Report and Zoe Beautiful”) for the purposes set forth in this policy. </p>
 <p>Note: This statement applies solely to information collected at or through the Web Site. However, we will frequently link to other glamorous online destinations, so we advise you carefully review their respective privacy policies. Please be aware that Zoe Media Group is not responsible for the contents and the privacy practices of such other sites.</p>
-<p><strong>Information Collection and Usage</strong></p>
+<h3>Information Collection and Usage</h3>
 <p>In compliance with our mission statement to glamorize your internet and e-mail experience, Zoe Media Group collects personal information through the Web Site at several points. For instance, to subscribe to The Zoe Report and Zoe Beautiful, we require your e-mail address and zip code (this trade-off is truly bananas). Rest-assured, Zoe Media Group does not collect any personal information that you do not expressly provide and will not sell, rent, or share your personal information to any third party for marketing purposes without your consent (that would be tacky).</p>
 <p>When you visit our site, we also collect anonymous information such as your IP address or domain name to analyze site traffic, but this information is not personally identifiable. We will use this information to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.</p>
-<p>If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a web site that does not seem to be affiliated with the Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at info@rachelzoe.com<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p>
-<p><strong>Review and Access</strong></p>
+<p>If you receive an email or other correspondence requesting that you provide any sensitive information (including your Site password or credit card information) via email or to a web site that does not seem to be affiliated with the Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at <a href="mailto:info@rachelzoe.com"> info@rachelzoe.com </a></p>
+<h3> Third Party Account Information </h3>
+<p> If you provide or connect your third-party account credentials to an account with our Website, some content and/or information in those accounts may be transmitted into your account with us. For example, when you connect with Facebook, we receive and collect your name, email address and profile photo. </p>
+<h3> Enforcement of Terms and Policies </h3>
+<p>We may share your information to enforce or apply our Privacy Policy, Terms of Service or our other policies or agreements.</p>
+<h3>Review and Access</h3>
 <p>Upon your request, we will provide you with a summary of the information we collect about you. You will have an opportunity to correct, update, or modify this information.</p>
-<p><strong>How to Unsubscribe</strong></p>
-<p>You can unsubscribe from receiving Zoe Media Group emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Zoe Media Group email and following the instructions. You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the Zoe Media Group homepage and following the instructions.</p>
-<p><strong>Third Party Advertising</strong></p>
-<p>Some of the window dressing appearing on our site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, e-mail, or other personal information), is used to serve ads to you.</p>
-<p><strong>Cookies</strong></p>
+<h3>How to Unsubscribe</h3>
+<p>You can unsubscribe from receiving Zoe Media Group emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Zoe Media Group email and following the instructions. You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the Zoe Media Group homepage and following the instructions. </p>
+<h3>Third Party Advertising</h3>
+<p>Some of the window dressing appearing on our site may be delivered to you by our Web advertising partner or partners. Information about your visit to a partner site or sites, such as number of times you have viewed an ad (but not your name, e-mail, or other personal information), is used to serve ads to you. </p>
+<h3>Cookies</h3>
 <p>Not to be confused with the chocolate chip variety (which we LOVE), an internet “cookie” is a small file which is placed on the user’s hard drive when you visit our site. It helps us learn which areas of our site are useful and which areas need some polishing. We also use cookies and the information we collect to show you relevant content and advertising. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at our site may be diminished and some features may not work as they were intended.</p>
-<p><strong>Third Party Cookies</strong></p>
+<h3>Third Party Cookies</h3>
 <p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.</p>
-<p><strong>Payment Card Information</strong></p>
-<p>To use certain aspects of our e-commerce Services, such as subscribing to our membership services, we may require credit or debit card account information. By submitting your credit or debit card account information through the Services, you expressly consent to the sharing of your information with third party merchants, subscription and billing processors, and payment processors. Currently WooCommerce collects your credit or debit card account information and shares it with Stripe who processes such payments with our financial institutions. These third parties may store your credit or debit card account information so you can use our Services in the future. We do not have your complete credit or debit card account information, store your credit or debit card account information, or have direct control over or responsibility for your credit or debit card account information. While we require that WooCommerce and Stripe use reasonable procedures to help protect your credit or debit card information, we cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third-party service providers. We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control.</p>
-<p><strong>Security</strong></p>
+<h3>Payment Card Information</h3>
+<p>To use certain aspects of our e-commerce Services, such as subscribing to our membership services, we may require credit or debit card account information. By submitting your credit or debit card account information through the Services, you expressly consent to the sharing of your information with third party merchants, subscription and billing processors, and payment processors. These third parties may store your credit or debit card account information so you can use our Services in the future. We do not have your complete credit or debit card account information, store your credit or debit card account information, or have direct control over or responsibility for your credit or debit card account information. While we require that such third party merchants, subscription and billing processors, and payment processors use reasonable procedures to help protect your credit or debit card information, we cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorized third parties will never be able to defeat the security measures taken by us or our third-party service providers. We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control.</p>
+<h3>Security</h3>
 <p>All of the information collected by Zoe Media Group is locked away safely with our Birkin collection, and also on our restricted database server.</p>
-<p><strong>Modifications</strong></p>
+<h3>Modifications</h3>
+<h3>California Marketing</h3>
+<p>Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to:<a href="mailto:info@rachelzoe.com"> info@rachelzoe.com</a>. </p>
+<h3>Do Not Track</h3>
+<p>We currently do not participate in any “Do Not Track” frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your information. We may engage third parties, such as marketing or analytics partners, who may collect information about your online activities over time and across different websites when you use our website.</p>
+<h3>Services Not Directed at Children</h3>
+<p>The Website services are not directed to children under 13. We do not knowingly collect or solicit personally identifiable information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Website services or send any information about yourself to us. If a parent or guardian becomes aware of his or her child has provided us with personal information without their consent, please contact us at:<a href="mailto:info@rachelzoe.com"> info@rachelzoe.com </a>. </p>
 <p>Zoe Media Group may make changes to this policy in the future. We will reflect those changes in this statement, so please check back periodically.</p>
-<p><strong>Contact Us</strong></p>
-<p>If you have questions about this policy, or about the site, please contact us at info@rachelzoe.com.<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script> xoxo</p>
-<p>&nbsp;</p>
+<h3>Contact Us</h3>
+<p>If you have questions about this policy, or about the site, please contact us at:<a href="mailto:info@rachelzoe.com"> info@rachelzoe.com </a>. xoxo</p>
 					</div>
-					<div class="share-panel-container clearfix">
-<ul class="share-panel post-end">
-	<li class="facebook"><a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fthezoereport.com%2Fprivacy%2F" target="_blank">facebook</a></li>
-	<li class="twitter"><a href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fthezoereport.com%2Fprivacy%2F&amp;text=Privacy&amp;url=http%3A%2F%2Fthezoereport.com%2Fprivacy%2F&amp;via=thezoereport" target="_blank">twitter</a></li>
-	<li class="pinterest"><a href="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fthezoereport.com%2Fprivacy%2F&amp;media=&amp;description=Privacy" data-pin-do="buttonPin" data-pin-config="none">pinterest</a></li>
-	<li class="email"><a href="mailto:?subject=The%20Zoe%20Report%3A%20Privacy&amp;body=Introduction%20Zoe%20Media%20Group%20strongly%20respects%20each%20individual%E2%80%99s%20right%20to%20personal%20privacy%20and%20we%20will%20only%20collect%20and%20use%20information%20through%20TheZoeReport.com%20%28the%20Web%20Site%E2%80%9D%20or%20%E2%80%9CTheZoeReport.com%E2%80%9D%29%20or%20our%20on-line%20newsletters%20%28%E2%80%9CThe%20Zoe%20Report%20and%20Zoe%20Beautiful%E2%80%9D%29%20for%20the%20purposes%20set%20forth%20in%20this%20policy.%20Note%3A%20This%20statement%20applies%20solely%20to%20information%20collected%20at%20or%20%5B%E2%80%A6%5D:http%3A%2F%2Fthezoereport.com%2Fprivacy%2F" target="_blank">Email</a></li>
-</ul><dl class="meta">
-	<dt>Published</dt>
-	<dd>July 27, 2009</dd>
-		
-</dl></div>				</div>
-				
+					<div class="lastmodified">Last modified: July 28, 2015</div>
+									</div>
+
 			</div><!-- /.content -->
-			
-								
-				</div><!-- /.content-container -->
+
+											</div><!-- /.content-container -->
 			</div><!-- /.content-wrapper -->
 			<footer id="colophon" class="site-footer" role="contentinfo">
 				<div class="footer-container">
@@ -339,16 +582,38 @@ have_ad_units = true;
 <li id="menu-item-34669" class="privacy-policy menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-272 current_page_item menu-item-34669"><a href="http://thezoereport.com/privacy/">Privacy Policy</a></li>
 <li id="menu-item-34670" class="editorial-policy menu-item menu-item-type-post_type menu-item-object-page menu-item-34670"><a href="http://thezoereport.com/editorial-policy/">Editorial Policy</a></li>
 <li id="menu-item-34671" class="edit-preferences menu-item menu-item-type-post_type menu-item-object-page menu-item-34671"><a href="http://thezoereport.com/edit-preferences/">Edit Preferences</a></li>
-<li id="menu-item-35435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35435"><a href="http://rachelzoe.com">rachelzoe.com</a></li>
-<li id="menu-item-35436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35436"><a href="https://www.dropbox.com/s/dq4l819dtzfut16/MediaKit.pdf">Advertise</a></li>
+<li id="menu-item-35435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35435"><a href="http://rachelzoe.com">RachelZoe.com</a></li>
+<li id="menu-item-35436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35436"><a href="https://www.dropbox.com/s/dq4l819dtzfut16/MediaKit.pdf">Media Kit</a></li>
 </ul>						<span class="copyright">©2015 Zoe Media Group, LLC.  All rights reserved.</span>
 					</div>
-					
 
 				</div>
 			</footer><!-- /#colophon -->
 		</div><!-- /.page-container -->
 	</div><!-- /.page-wrapper -->
+
+			<!-- BringHub widget script -->
+        <script>
+            var _bh = _bh || [];
+            _bh.push(['_setPartnerId', '1057']);
+            _bh.push(['_setPublisherId', '10']);
+            _bh.push(['_setDefaultCollectionId', '112']);
+            _bh.push(['_setMobileCartContainer', '.mobile-nav-inner']);
+            function _bh_lw(v) {
+                _bh_sl('/cart/widget.js?version=' + v);
+            }
+            function _bh_sl(p) {
+                (function(d, t, p) {
+                    var g = d.createElement(t),
+                        s = d.getElementsByTagName(t)[0];
+                    g.src = 'https://static.bringhub.com'
+                    + p;
+                    s.parentNode.insertBefore(g, s);
+                }(document, 'script', p));
+            }
+            _bh_sl('/cart/loader.js?' + Date.now());
+        </script>
+		
 	<div id="div-gpt-ad-site-skin" class="dfp-ad dfp-site-skin">
 <div class="ad-wrapper">
 	<script type="text/javascript">
@@ -419,7 +684,7 @@ have_ad_units = true;
 				<script type="text/javascript">
 			var _sf_async_config={};
 			/** CONFIGURATION START **/
-			_sf_async_config.uid = 59761; 
+			_sf_async_config.uid = 59761;
 			_sf_async_config.domain = 'thezoereport.com';
 			_sf_async_config.useCanonical = true;
 			_sf_async_config.sections = 'uncategorized';
@@ -457,9 +722,9 @@ have_ad_units = true;
 		if(oldonload){oldonload()}};
 		}());
 	</script>
-<!--Enhanced Ecommerce Google Analytics Plugin for Woocommerce by Tatvic Plugin Version:1.0.16--><script type="text/javascript" src="http://thezoereport.com/wp-content/plugins/bonfyre-concepts-wp-woocomm-tzr/js/mpop/mpop.js?ver=4.1.1"></script>
-<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.2"></script>
+<!--Enhanced Ecommerce Google Analytics Plugin for Woocommerce by Tatvic Plugin Version:1.0.16--><script type="text/javascript" src="http://thezoereport.com/wp-content/plugins/bonfyre-concepts-wp-woocomm-tzr/js/mpop/mpop.js?ver=4.2.4"></script>
+<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4"></script>
 <script type="text/javascript" src="//platform.twitter.com/widgets.js?ver=1.0.0"></script>
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js?ver=1.0.0"></script>
 <script type="text/javascript">
@@ -467,45 +732,75 @@ have_ad_units = true;
 var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","i18n_view_cart":"View Cart","cart_url":"http:\/\/thezoereport.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//thezoereport.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.3.7"></script>
+<script type="text/javascript" src="//thezoereport.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.3.13"></script>
 <script type="text/javascript" src="//thezoereport.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//thezoereport.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.7"></script>
+<script type="text/javascript" src="//thezoereport.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.13"></script>
 <script type="text/javascript" src="//thezoereport.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//thezoereport.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.7"></script>
+<script type="text/javascript" src="//thezoereport.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.13"></script>
 <script type="text/javascript" src="//platform.twitter.com/widgets.js?ver=1.0.0"></script>
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js?ver=1.0.0"></script>
-<script type="text/javascript" src="http://thezoereport.com/wp-content/themes/thezoereport/static/js/fancybox/jquery.fancybox.pack.js?ver=2.1.5"></script>
-<script type="text/javascript" src="http://thezoereport.com/wp-content/themes/thezoereport/static/js/vendor.min.js?ver=1428431870"></script>
+<script type="text/javascript" src="http://thezoereport.com/wp-content/themes/thezoereport/assets/javascripts/static/vendor.min.js?ver=1440658007"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var zoeVars = {"ajaxUrl":"http:\/\/thezoereport.com\/wp-admin\/admin-ajax.php","homeUrl":"http:\/\/thezoereport.com","themeUrl":"http:\/\/thezoereport.com\/wp-content\/themes\/thezoereport","modal":"tzr"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://thezoereport.com/wp-content/themes/thezoereport/static/js/zoe.min.js?ver=1428609142"></script>
-<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.2"></script>
-<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://thezoereport.com/wp-content/themes/thezoereport/assets/javascripts/static/zoe.min.js?ver=1440658007"></script>
+<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://thezoereport.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"xfbml":true,"appId":"508144045926494"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}
 /* ]]> */
 </script>
 <script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="http:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
-<div id="fb-root"></div><!-- WooCommerce JavaScript -->
+<!-- WooCommerce JavaScript -->
 <script type="text/javascript">
 jQuery(function($) {
 tvc_lc="USD";
+
+
+        $( 'a.showcoupon' ).on('click', function() {
+            $( this ).addClass( 'prompthide' );
+        });
+        $( 'form.checkout_coupon input[name=apply_coupon]' ).on( 'click', function() {
+            $( 'a.showcoupon' ).removeClass( 'prompthide' );
+        });
+    
+
+
+        $( '#wc_checkout_add_ons' ).prepend( '<h2>Gift Options</h2>' );
+    
+
+
+        $( 'input[name=wc_checkout_add_ons_2]' ).change( function () {
+
+            if ( $( this ).is( ':checked' ) ) {
+
+                // show the gift checkout add-on
+                $( '#wc_checkout_add_ons_3_field' ).show();
+
+            } else {
+
+                // hide the gift checkout add-on
+                $( '#wc_checkout_add_ons_3_field' ).hide();
+
+            }
+
+        } ).change();
+    
 
 homepage_json_ATC_link=[];
 
@@ -521,10 +816,10 @@ tvc_pgc=[];
 
 catpage_json_ATC_link=[];
 
-tvc_smd={"tvc_wcv":"2.3.7","tvc_wpv":"4.1.1","tvc_eev":"1.0.16","tvc_cnf":{"t_ee":"yes","t_df":false,"t_gUser":true,"t_UAen":"no","t_thr":"6"}};
+tvc_smd={"tvc_wcv":"2.3.13","tvc_wpv":"4.2.4","tvc_eev":"1.0.16","tvc_cnf":{"t_ee":"yes","t_df":false,"t_gUser":true,"t_UAen":"no","t_thr":"6"}};
 });
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"52b8a4990d","applicationID":"5338257","transactionName":"NAQDYxZQXkMAV01cVg1OIFQQWF9eTkRYUlw=","queueTime":0,"applicationTime":490,"atts":"GEMAFV5KTU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
+<div id="fb-root"></div><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"52b8a4990d","applicationID":"7335955","transactionName":"NAQDYxZQXkMAV01cVg1OIFQQWF9eTkRYUlw=","queueTime":0,"applicationTime":997,"atts":"GEMAFV5KTU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script><script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
