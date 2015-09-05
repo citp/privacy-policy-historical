@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the csaa.com privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120110009id_/http%3A//calstate.aaa.com/about-aaa/aaa-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csaa.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905175125id_/https%3A//calstate.aaa.com/global/privacy-policy) for the most accurate reproduction.*
 
-# AAA NCNU Privacy Policy | Your Privacy Rights | AAA Northern California, Nevada and Utah
+# AAA NCNU Privacy Policy | AAA Northern California, Nevada & Utah
 
-AAA takes your privacy very seriously. Please take a moment to review our Privacy Policy to see how we protect personal information provided to us via our website and other sources.  
+###  AAA takes your privacy very seriously. Please take a moment to review our Privacy Policy to see how we protect personal information provided to us via our website and other sources.
 
+AAA takes your privacy very seriously. Please take a moment to review our Privacy Policy to see how we protect personal information provided to us via our website and other sources.
 
-This Privacy Policy applies to personal information collected on or from [calstate.aaa.com](http://www.calstate.aaa.com/) (the “Site”) and personal information collected from emails sent to AAA Northern California, Nevada, & Utah and via other sources, as described below. This Privacy Policy applies only to consumer customers, not to companies.
+This Privacy Policy applies to personal information collected on or from [calstate.aaa.com](http://www.calstate.aaa.com/) (the “Site”) and personal information collected from emails sent to AAA Northern California, Nevada, & Utah and via other sources, as described below. This Privacy Policy applies only to consumer customers, not to companies.
 
 **By visiting and using our Site, or otherwise providing personal information to us, you indicate that you accept the practices described in this Privacy Policy.**
 
@@ -13,8 +14,7 @@ This Privacy Policy applies to personal information collected on or from [calsta
 
 **We may have collected personal information from you before this Privacy Policy took effect. By using this Site, or otherwise providing personal information to us, you consent to our continued use of previously collected personal information under these terms. If you do not want us to do so, please contact us as provided in the How to Contact Us section below.**
 
-##   
-What Personal Information We Collect
+####  What Personal Information We Collect
 
 **All Site Visitors**
 
@@ -36,7 +36,7 @@ For service emails that we exchange with you (e.g., helpdesk or account question
 
 We track the open and click-through rate of our promotional emails for statistical purposes and to identify those emails that a specific recipient has opened. If you respond to one of our promotional emails, we record the information you provide with other data that we have and that is associated with that same email address.
 
-If you fill out one of the forms or questionnaires posted on our Site or made available in one of our local offices (e.g., to request a quote, request a newsletter, or sign up for a sweepstakes), we collect your e-mail address, as well as the other personal information that you provide in response to the questions. We may combine it with information, if any, that we may have in our database and that may be associated with your name or email address. The questions we ask are necessary for us to understand your needs, so that we can respond accordingly.
+If you fill out one of the forms or questionnaires posted on our Site or made available in one of our local offices (e.g., to request a quote, request a newsletter, or sign up for a sweepstakes), we collect your e-mail address, as well as the other personal information that you provide in response to the questions. We may combine it with information, if any,that we may have in our database and that may be associated with your name or email address. The questions we ask are necessary for us to understand your needs, so that we can respond accordingly.
 
 When you order services on our site, utilize our services through one of our local offices or over the telephone, or file a complaint with us, we will collect all of the information necessary to complete the transaction, perform the service, or resolve the matter at issue, including your name, membership number, telephone numbers, postal and e-mail addresses, vehicle and mobile phone information and general location, and billing information (such as credit card number, cardholder name, expiration date, security code and bank account information).
 
@@ -46,13 +46,11 @@ You can choose to complete your online profile by providing us with travel prefe
 
 **Insurance Customers (Prospective and Active)**
 
-In order to request an insurance quote from our Site, you must fill out a questionnaire posted on the Site. We collect the personal information that you provide in response to the questions. The questions we ask are necessary for us to understand your insurance needs, so that we can provide the quote. We use the personal information that you provide and information that we might have previously obtained from you through your prior business dealings with us or one of the AAA Companies. The **“AAA Companies”** are (a) the American Automobile Association, Inc.; (b) any entity with "AAA" or "American Automobile Association" in its name or brand, including each AAA auto club and AAA Northern California, Nevada & Utah Insurance Exchange; or (c) any entity affiliated with any of the foregoing or acting as an insurer or a re-insurer of any of the foregoing, including subsidiaries and holding companies such as AAA Club Partners, Inc.
+In order to request an insurance quote from our Site, you must fill out a questionnaire posted on the Site. We collect the personal information that you provide in response to the questions. The questions we ask are necessary for us to understand your insurance needs, so that we can provide the quote. We use the personal information that you provide and information that we might have previously obtained from you through your prior business dealings with us or one of the AAA Companies. The  **“AAA Companies”**  are (a) the American Automobile Association, Inc.; (b) any entity with "AAA" or "American Automobile Association" in its name or brand, including each AAA auto club and AAA Northern California, Nevada & Utah Insurance Exchange; or (c) any entity affiliated with any of the foregoing or acting as an insurer or a re-insurer of any of the foregoing, including subsidiaries and holding companies such as AAA Club Partners, Inc.
 
 The types of personal information we collect from you when you become an insurance customer depend on the product or service you have with us. This information can include your name, postal and e-mail addresses, Social Security Number, credit score, payment information, and motor vehicle or claims history reports. We collect your personal information from you when you, for example, apply for insurance, create an account or make a payment. We also collect personal information about you from others, such as affiliates, other unaffiliated companies, the DMV and consumer reporting agencies.
 
-## 
-
-How We Collect Personal Information
+####  How We Collect Personal Information
 
 **Directly from You**
 
@@ -88,8 +86,7 @@ When you use our travel services, we also may periodically obtain information ab
 
 If you log on to the Site with your login credentials from a social networking site, we may receive personal and/or anonymous information about you from such social networking site, in accordance with the terms of use and privacy policy of the third party provider of such social networking site. We may add this information to the information we have already collected from you via the Site.
 
-##   
-How We Use the Personal Information That We Collect
+####  How We Use the Personal Information That We Collect
 
 We use the personal information that we collect for several purposes:
 
@@ -115,8 +112,7 @@ We use billing information to issue invoices, administer accounts, collect and p
 
 We provide you with a quote that is based on the information identified above that we collect about you. We also send the quote and the information used to complete the quote (for example, credit score) to our local representative of AAA Insurance for follow-up contact. We may contact you about your policy and/or insurance needs. By filling out an insurance quote to our Site, you authorize representatives of the AAA Insurance products and services to contact you via email, phone or fax in order to respond to your request for insurance quotes and your insurance needs.
 
-##   
-What Personal Information We Disclose to Third Parties
+####  What Personal Information We Disclose to Third Parties
 
 We will not disclose personal information to other companies, affiliated or unaffiliated, outside of the AAA Companies for their marketing purposes without your consent. We will not disclose any personal information about our visitors, customers and former customers except as set forth below or as permitted or required by law.
 
@@ -144,24 +140,25 @@ We may disclose personal information to a party or a representative of a party t
 
 We also may disclose personal information:
 
-• To a law enforcement or other governmental authority pursuant to law; or in response to a facially valid administrative or judicial order, including a search warrant or subpoena;
+  * To a law enforcement or other governmental authority pursuant to law; or in response to a facially valid administrative or judicial order, including a search warrant or subpoena.
+  * To establish or exercise our legal rights; to defend against legal claims; or as required by law.
+  * To detect or prevent criminal activity, fraud, material misrepresentation, or material nondisclosure; to protect and defend the rights, property, or safety of our organization or others; or in connection with the enforcement of our Terms & Conditions and other agreements.
 
-• To establish or exercise our legal rights; to defend against legal claims; or as required by law.
 
-• To detect or prevent criminal activity, fraud, material misrepresentation, or material nondisclosure; to protect and defend the rights, property, or safety of our organization or others; or in connection with the enforcement of our Terms & Conditions and other agreements.
 
-**Notice to California Residents - Your California Privacy Rights** (As Provided by California Civil Code section 1798.83). California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses that share customer personal information with third parties for the third parties’ direct marketing purposes to respond to requests from California customers asking about the businesses’ practices related to such information-sharing. Alternately, such businesses may have in place a policy not to disclose a customer’s personal information to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As described in our Privacy Policy, you can opt-out of our sharing of your personal information with third parties for the third parties’ direct marketing purposes by following the instructions in the Your Choices section below. To find out more about your opt-out rights, please review our Privacy Policy or contact us by emailing or writing to us at the address listed below. Please note that under California law businesses are only required to respond to a customer making such a request once during any calendar year.
+###  Notice to California Residents - Your California Privacy Rights:
 
-##   
-Your Choices
+(As Provided by California Civil Code section 1798.83). California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses that share customer personal information with third parties for the third parties’ direct marketing purposes to respond to requests from California customers asking about the businesses’ practices related to such information-sharing. Alternately, such businesses may have in place a policy not to disclose a customer’s personal information to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place. As described in our Privacy Policy, you can opt-out of our sharing of your personal information with third parties for the third parties’ direct marketing purposes by following the instructions in the Your Choices section below. To find out more about your opt-out rights, please review our Privacy Policy or contact us by emailing or writing to us at the address listed below. Please note that under California law businesses are only required to respond to a customer making such a request once during any calendar year.
+
+###  Your Choices
 
 **AAA Members**
 
-There are many opportunities for you to provide us with your email address. For example, if you contact us via email; if you fill out a form to enter a contest or request a quote; or if you elect to register with our Site. If you wish to limit emails from us go to the “Unsubscribe” portion of our promotional emails, and follow the instructions to opt-out of further communications; or, if you are a registered member, go to your My AAA Contact Information / Email Preferences or [www.aaa.com/newsletter](http://www.aaa.com/newsletter "www.aaa.com/newsletter"), and follow the instructions to change your email preferences.
+There are many opportunities for you to provide us with your email address. For example, if you contact us via email; if you fill out a form to enter a contest or request a quote; or if you elect to register with our Site. If you wish to limit emails from us go to the “Unsubscribe” portion of our promotional emails, and follow the instructions to opt-out of further communications; or go to [www.aaa.com/newsletter](http://www.aaa.com/newsletter "www.aaa.com/newsletter"), and follow the instructions to change your email preferences.
 
 Your opt-out request will be processed in a timely manner; however, you may continue to receive materials while we are updating our lists. Please note that even if you have elected to unsubscribe from all of our e-newsletters and updates, we may still contact you from time to time about your account, or to provide other important notices.
 
-If you do not want us to link your website session information with your personal information for personalized advertising, click here: <http://www.omniture.com/en/privacy/2o7#optout>. Please be aware that a cookie will be used to block action tags on our Site. If you delete this cookie, your preference will be lost, and you will need to opt-out again to block our action tags.
+If you do not want us to link your website session information with your personal information for personalized advertising, click here: <http://www.adobe.com/privacy/analytics.html#optout>. Please be aware that a cookie will be used to block action tags on our Site. If you delete this cookie, your preference will be lost, and you will need to opt-out again to block our action tags.
 
 If you would like to opt out from us sharing your personal information with third parties for their marketing purposes, please contact us at (888) 413-5222 or AAA Solicitation Opt-out, 1900 Powell Street, Suite 1200, Emeryville, CA 94608.
 
@@ -169,7 +166,7 @@ If you would like to opt out from us sharing your personal information with thir
 
 Federal law gives our insurance customers the right to limit only (1) affiliated companies from using your personal information to market to you; (2) sharing of your personal information to unaffiliated companies to market to you; and (3) sharing of information about your creditworthiness and insurability among affiliated companies. If you are an insurance customer and wish to limit these disclosures and uses, please call us at (888) 413-5222 or visit us online and our menu will prompt you through our choices; if you do not wish to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by following the opt-out link contained in each such email. If you are a new customer, we can begin sharing your information 30 days from the date we posted this notice. When you are no longer our customer, we continue to share your information as described in this notice. You may be placed on our internal Do Not Call List by calling (888) 413-5222.
 
-How We Protect Your Personal Information
+####  How We Protect Your Personal Information
 
 To protect personal information from unauthorized access and use, we use reasonable security measures. These measures include computer safeguards and secured files and buildings. We review the data security practices of companies with whom we share data. We authorize only those employees who need Personal Information to perform their duties to access such data.
 
@@ -177,42 +174,32 @@ Email and Telephone Fraud - A warning about "phishing"
 
 Fraudulent emails, also known as "phishing" or "spoofing" are communications that appear to be from an insurance company, a regulatory agency, a retailer, but are not. These emails attempt to lure you into sending your personal information to a website without questioning or challenging the legitimacy of the request. We do not, and will not, at any time, request your credit information, personal account information, login name or password in an unsecure or unsolicited email or telephone communication.
 
-##   
-How You Can Protect Your Personal Information
+####  How You Can Protect Your Personal Information
 
 Please remember to protect your email address, login ID, password, and computer against unauthorized access. Remember to sign out of your password-protected account when you are done, and close your browser to prevent your settings from being displayed to the next user. Each member is responsible for keeping his/her login ID and password confidential. Please contact us immediately if you lose or misplace your login ID and/or password, or if you become aware of an authorized use of your login ID, password, or account information, so that we can deactivate your login ID. You will be held responsible for all activities and access to our Site - including all purchases made through our Site - that were made through that login ID and password, and that occurred before you notified us of their loss.
 
-##   
-Changes to this Privacy Policy
+####  Changes to this Privacy Policy
 
 We may revise this Privacy Policy from time to time. Each time changes are made they will be posted prominently on our Site. Your continued use of our Site following the posting of any changes to this Privacy Policy constitutes your acceptance to these changes. If there is a material change to the terms of this Privacy Policy, AAA will provide notice and choice in accordance with the then-applicable legal requirements.
 
-##   
-Other Privacy Policies
+####  Other Privacy Policies
 
 Some surveys may be subject to a different privacy policy. Please review the privacy policy that is linked to a survey form before filling out the form. In addition, some invitations to join our customer research groups or panels may also have a different privacy policy.
 
-##   
-Linking to Other Sites
+####  Linking to Other Sites
 
 Several pages of our Site may include links to third parties' websites, such as in the case of credit card or auto loan applications, or portions of our travel site. While these websites may have a similar look and feel as our Site, they are separate websites operated by separate entities. You may also be transported to a third party's website if you click on an advertisement that is displayed on our Site. When you choose to access these third party websites, a separate window will launch, and you will leave our Site. Please remember that whenever you leave our Site to visit a linked website, you are subject to the terms, conditions, and policies of that other website. We are not responsible for the terms and conditions, or the privacy practices of other websites. Please review these provisions before proceeding.
 
-##   
-How to Contact Us
+####  How to Contact Us
 
-The Site is operated by AAA Northern California, Nevada & Utah. If you have any questions or feedback about this Privacy Policy, our Site, or how our online practices affect you, please do not hesitate to contact us at [AAAOptOut@aaaemail.com](mailto:AAAOptOut@aaaemail.com). We will get back to you promptly.
+The Site is operated by AAA Northern California, Nevada & Utah. If you have any questions or feedback about this Privacy Policy, our Site, or how our online practices affect you, please do not hesitate to contact us at [AAAOptOut@aaaemail.com](mailto:AAAOptOut@aaaemail.com). We will get back to you promptly.
 
-##   
-How to Change Your Information
+####  How to Change Your Information
 
 **AAA Members**
 
-If you wish to correct, amend, or delete personal information, you must contact us at [AAAOptOut@aaaemail.com](mailto:AAAOptOut@aaaemail.com), explaining your requested correction. We will make the requested correction, amendment or deletion, or we may notify you of our refusal, as permitted by law.
+If you wish to correct, amend, or delete personal information, you must contact us at [AAAOptOut@aaaemail.com](mailto:AAAOptOut@aaaemail.com), explaining your requested correction. We will make the requested correction, amendment or deletion, or we may notify you of our refusal, as permitted by law.
 
 **Insurance Customers (Prospective and Active)**
 
 You have the right to see and, if necessary, correct Personal Information about you. This requires a written request, both to see personal information about you and to request correction. We do not have to change our records if we do not agree with your correction, but we will place your statement in our file. If you would like a copy of personal information about you, please write us at AAA Solicitation Opt-out, 1900 Powell Street, Suite 1200, Emeryville, CA 94608, and include your membership number or one of your insurance policy numbers.
-
-**Privacy Policy Revised: August 2013**
-
-**View our[previous Privacy Policy](https://web.archive.org/about-aaa/csaa-web-site-privacy-policy) and a high-level [summary of the changes](https://web.archive.org/about-aaa/aaa-privacy-policy-summary-of-changes) we made to the Privacy Policy.**
