@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motortopia.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316031049id_/http%3A//www.motortopia.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motortopia.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905124020id_/http%3A//www.motortopia.com/info/privacy) for the most accurate reproduction.*
 
-# Motortopia
+# Privacy Policy
 
 Motortopia.com is an online service that allows you to set up your individual personal profile that can be linked together through networks of your friends. After you join Motortopia.com, you can view others' profiles and communicate with friends. You can also meet new friends on the service, share photos, post blogs and comments, and talk about your interests.
 
