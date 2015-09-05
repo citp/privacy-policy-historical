@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the followup.cc privacy policy that was archived on 2015-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150517065621id_/http%3A//followup.cc/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followup.cc privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905152159id_/https%3A//followup.cc/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | FollowUp.cc
+# FollowUp.cc | Privacy Policy
 
 #### FollowUp is a lightweight email reminder service. This policy describes the types of personal information we may collect and how we use it to provide the FollowUp service.
 
@@ -83,8 +83,12 @@ You must promptly notify FollowUp of any breach of security related to the Servi
 
 ### Safe Harbor
 
-FollowUp.cc and its controlled U.S. subsidiaries, are participants in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. FollowUp.cc has certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the European Union and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor Web site](http://www.export.gov/safeharbor/). 
+FollowUp.cc complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. FollowUp.cc has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern, except in the case of data transfers from the EEA and Switzerland, which are covered under the US-EU and US-Swiss Safe Harbor Frameworks. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to: [ support@followup.cc](mailto:support@followup.cc). 
+### Transfer of information
 
-Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information on how to file a complaint. 
+Personal information collected by FollowUp may be stored and processed in the United States or any other country in which FollowUp maintains facilities. By using FollowUp, you consent to any such transfer of information outside of your country, except in the case of transfers from the EEA and Switzerland, which are covered under the Safe Harbor Frameworks. 
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to: [support@followup.cc](mailto:support@followup.cc)
+
+Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information on how to file a complaint. 
