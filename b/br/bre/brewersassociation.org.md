@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brewersassociation.org privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526210607id_/http%3A//www.brewersassociation.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brewersassociation.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074316id_/https%3A//www.brewersassociation.org/brewers-association/accountability/privacy-policy) for the most accurate reproduction.*
 
-# Brewers Association | Privacy Policy
+# Privacy Policy - Brewers Association
 
 The following discloses our information gathering and dissemination practices for this website www.BrewersAssociation.org.
 
@@ -10,7 +10,7 @@ This web server logs the IP addresses of the systems which access this site and 
 
 These logs are retained for our internal use only. In certain instances, we may ask visitors to provide voluntarily other information about themselves.
 
-Cookies may and will be used to maintain a user's identity between web sessions.
+Cookies may and will be used to maintain a user’s identity between web sessions.
 
 ## Use of information
 
@@ -18,9 +18,9 @@ We do not provide any personally identifiable information we gather or develop a
 
 Visitor IP address and accessed files are used to identify server problems and to provide site usage statistics. This information is used to provide future content suitable to our audience and to generate statistical reports. Individual site usage information will not be disclosed.
 
-Registered visitor's User ID will be displayed when they post a comment.
+Registered visitor’s User ID will be displayed when they post a comment.
 
-Registering on the site also means you will periodically receive communications from the Brewers Association. If youdo not want to receive these communications you can request to have your registration deleted or unsubscribe through the Brewers Association's email service when you receive a communication.
+Registering on the site also means you will periodically receive communications from the Brewers Association. If you do not want to receive these communications you can request to have your registration deleted or unsubscribe through the Brewers Association’s email service when you receive a communication.
 
 ## Security
 
