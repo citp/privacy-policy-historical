@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insurancequotes.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319095423id_/http%3A//www.insurancequotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancequotes.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905190115id_/http%3A//www.insurancequotes.com/privacy-policy) for the most accurate reproduction.*
 
 # insuranceQuotes.com | Privacy Policy
 
