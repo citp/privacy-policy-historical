@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629073348id_/http%3A//www.kob.com/article/stories/s409183.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905104652id_/http%3A//www.kob.com/article/stories/s409183.shtml) for the most accurate reproduction.*
 
 # KOB-TV Privacy Policy | KOB.com
 
