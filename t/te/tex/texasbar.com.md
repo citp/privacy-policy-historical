@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the texasbar.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607022531id_/http%3A//www.texasbar.com/AM/template.cfm%3Fsection%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasbar.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905080827id_/https%3A//texasbar.com/AM/template.cfm%3Fsection%3Dprivacy_policy) for the most accurate reproduction.*
 
 # State Bar of Texas | Privacy Policy
-
-## Privacy Policy
 
 ### Privacy Statement 
 
@@ -27,5 +25,3 @@ Certain features of TexasBar.com allow **attorneys** to request updates to their
 #### Security
 
 We have security measures in place that are intended to prevent the loss, misuse, or alteration of information under our control.
-
-## Article Options
