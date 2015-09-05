@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615012819id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squiglysplayhouse.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053628id_/http%3A//www.squiglysplayhouse.com/Privacy.html) for the most accurate reproduction.*
 
 # Squigly's Playhouse
 
@@ -16,7 +16,7 @@ This information is used to measure the number of visitors to the different sect
 
 If a visitor arrives as a result of clicking on one of our ads on another web site, that fact is recorded in order to gauge the effectiveness of our ads.
 
-  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20150615012819id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/index.php) form we record the following information (all fields are optional):
+  2. If you send us e-mail via the [Write to Squigly](https://web.archive.org/web/20150905053628id_/http%3A//www.squiglysplayhouse.com/WriteToSquigly/index.php) form we record the following information (all fields are optional):
 
 > Your **first name** is only recorded to personalize any respone and is then discarded. You are never required to enter your last name.
 > 
@@ -26,7 +26,7 @@ If a visitor arrives as a result of clicking on one of our ads on another web si
 
 No information received via this form is retained after we have appropriately responded.
 
-  3. Our [Quick Poll](https://web.archive.org/Poll/index.html "Cast your vote in Squigly's Quick Poll") places a cookie on the user's computer for 24 hours to prevent "ballot stuffing." There is no personally identifying information contained in the cookie.
+  3. Our [Quick Poll](https://web.archive.org/Poll/ "Cast your vote in Squigly's Quick Poll") places a cookie on the user's computer for 24 hours to prevent "ballot stuffing." There is no personally identifying information contained in the cookie.
 
   4. We have contracted with Burst! and Casale Media to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, Burst! and Casale may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser and these advertisers do not perform bahavioural advertising in relation to visits to Squigly's Playhouse. For more information about how the information is collected and used by these companies please see their privacy policies by clicking on the appropriate link below.
 
