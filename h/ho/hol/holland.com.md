@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holland.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216055142id_/http%3A//www.holland.com/us/tourism/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holland.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905092344id_/http%3A//www.holland.com/global/tourism/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy policy - Tourism in Holland - Holland.com
+# Privacy Policy & Cookies - Tourism in the Netherlands - Holland.com
 
 ## Introduction
 
@@ -17,8 +17,6 @@ Within the context of the provision of its services, the NBTC records data when 
 The NBTC website records and updates general, non-identifying visit data, including on the pages that are most in demand, in order to optimise the website. This data may also be used to include more targeted data on the site, thereby allowing the NBTC to further improve its service to you.
 
 The information recorded in the cookies is not shared with third parties. The information is reported exclusively at an overall level, which means that it cannot be traced to any specific user.
-
-You can adjust your cookie settings on the page Permission Settings.
 
 ## Use of cookies 
 
@@ -42,16 +40,22 @@ BCReferrerOverrule |  bc.holland.com |  Visitor behaviour on the website |  1 da
 AddThis |  www.holland.com |  |  | Enables information sharing via e-mail or social networks  
 METRIXLAB |  www.holland.com |  |  | Invites participation in a survey  
 Facebook Social Plugins |  www.holland.com |  |  |  Enables a connection to Facebook  
+is_returning  |  www.holland.com |  Visitor behaviour on the website |  5 years |  Visitor analysis  
   
 ## Bookable offering
 
 The NBTC website allows you to book accommodations and tickets. Such reservations are processed by external parties, which include:
 
-  * @Leisure
-  * Hotelscombined.com
-  * Booking.com
-
-
+@Leisure   
+Booking.com   
+Holland Ticket Services BV   
+Aan Zee Vakantiehuizen   
+Dutch Bike Tours   
+Cycletours fietsvakanties   
+Boat-Bike Tours   
+Camperrent Holland   
+Anne de theatervoorstelling   
+Holland Design & Gifts
 
 The legal agreements you enter into when booking accommodations and tickets are governed by the terms and conditions of the external party that processes the transaction. The NBTC is explicitly not a contract party in such agreements.
 
@@ -63,4 +67,6 @@ The website contains a number of links to other websites. Although these website
 
 The NBTC reserves the right to amend its privacy statement, which is why you should check it regularly.
 
-The Hague, 1 January 2013.
+Holland Ticket Services BV Aan Zee Vakantiehuizen Dutch Bike Tours Cycletours fietsvakanties Boat-Bike Tours Camperrent Holland Anne de theatervoorstelling Holland Design & Gifts
+
+The Hague, 30 June 2015.
