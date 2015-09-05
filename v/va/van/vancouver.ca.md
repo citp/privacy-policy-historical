@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323194405id_/http%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vancouver.ca privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905083716id_/http%3A//vancouver.ca/your-government/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | City of Vancouver
 
@@ -71,7 +71,7 @@ These transactions are done through SSL-encrypted technology. This means that yo
 
 ## Registering for a recreation program 
 
-Before you can register for a recreation program, you need to set up an account. Your account is protected by password so only you can access it. Your personal information will be stored with your account, but your credit card information will not.
+Before you can register for a recreation program, you need to set up an account. Your account is protected by password so only you can access it. Your personal information, including credit card information, will be stored with your account. The storage and handling of your credit card information is in compliance with all applicable Payment Card Industry security standards.
 
 ## What you can do
 
