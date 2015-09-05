@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iron.io privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613072514id_/http%3A//www.iron.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iron.io privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053108id_/http%3A//www.iron.io/privacy) for the most accurate reproduction.*
 
 # Iron.io | Privacy Policy
 
-Iron.io, Inc. (“Iron.io” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Iron.io’s Web site privacy practices. 
+Iron.io, Inc. (“Iron.io” or the “Company”) is committed to protecting the privacy of your information. This Privacy Statement describes Iron.io’s Web site privacy practices.
 
 * ##### Web Site Covered
 
@@ -12,11 +12,11 @@ This Privacy Statement covers the information practices of [http://iron.io](http
 
 Iron.io offers a variety of services that are collectively referred to as the “Services.” Iron.io collects information from individuals who visit the Company’s Web site (“Visitors”) and individuals who register to use the Services (“Customers”).
 
-  * When expressing an interest in obtaining additional information about the Services or registering to use the Services, Iron.io requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”). 
+  * When expressing an interest in obtaining additional information about the Services or registering to use the Services, Iron.io requires you to provide the Company with personal contact information, such as name, company name, address, phone number, and email address (“Required Contact Information”).
 
-  * When purchasing the Services, Iron.io requires you to provide the Company with financial qualification and billing information, such as billing name and address, and credit card number (“Billing Information”). 
+  * When purchasing the Services, Iron.io requires you to provide the Company with financial qualification and billing information, such as billing name and address, and credit card number (“Billing Information”).
 
-  * Iron.io may also ask you to provide additional information, such as industry, company revenues, or number of employees (“Optional Information”). 
+  * Iron.io may also ask you to provide additional information, such as industry, company revenues, or number of employees (“Optional Information”).
 
 
 
@@ -29,7 +29,7 @@ Required Contact Information, Billing Information, and Optional Information are 
 
 * ##### Use of Information Collected
 
-The Company uses Data About Iron.io Customers to perform the services requested. 
+The Company uses Data About Iron.io Customers to perform the services requested.
 
   * For example, if you fill out a “Contact Me” Web form, the Company will use the information provided to contact you about your interest in the Services.
 
@@ -95,7 +95,7 @@ Iron.io reserves the right to use or disclose information provided if required b
 
 * ##### International Safe Harbor Certifications
 
-Iron.io complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Iron.io has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. 
+Iron.io complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Iron.io has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
 To learn more about the Safe Harbor program, and to view Iron.io’s certification, please visit:
 
