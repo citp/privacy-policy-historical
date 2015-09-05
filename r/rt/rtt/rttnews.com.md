@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rttnews.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629010336id_/http%3A//www.rttnews.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rttnews.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905234437id_/http%3A//www.rttnews.com/Privacy.aspx) for the most accurate reproduction.*
 
 # RTTNews - Financial news, Forex news, Stock Market News, Target Advertising....
 
