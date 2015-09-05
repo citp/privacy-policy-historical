@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansible.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614012349id_/http%3A//www.ansible.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansible.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905183938id_/http%3A//www.ansible.com/privacy-policy) for the most accurate reproduction.*
 
 # Ansible Privacy Policy
 
@@ -114,6 +114,18 @@ You have the right to access, and receive copies of, Personal Data held about yo
 
 Transmission of information via the internet is not completely secure. Although we endeavor and are committed to protecting your Personal Data, we cannot guarantee the security of your information transmitted to our site.  Transmission is at your own risk.
 
+## ANSIBLE STORE
+
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
+
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+
+Payment:  If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+
+For more insight, you may also want to read Shopify’s Terms of Service ([https://www.shopify.com/legal/terms](https://www.shopify.com/legal/terms)) or Privacy Statement ([https://www.shopify.com/legal/privacy](https://www.shopify.com/legal/privacy)).
+
 ## CONTACT INFORMATION
 
 We welcome your comments or questions regarding this Privacy Policy and we will endeavor to resolve any concerns you may have about this Privacy Policy. Please e-mail us at [info@ansible.com](mailto:info@ansible.com) or contact us at the following address:
@@ -135,4 +147,4 @@ If you believe that we have not adhered to this Privacy Policy, please contact u
 
 Ansible, Inc. reserves the right to change this policy from time to time. If we do make changes, the revised privacy policy will be posted on this site. A notice will be posted on our homepage for 30 days whenever this privacy statement is changed in a material way.
 
-This privacy statement was last revised on March 14, 2014.
+This privacy statement was last revised on July 21, 2015.
