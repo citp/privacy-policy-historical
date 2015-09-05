@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gotpantheon.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408005408id_/https%3A//pantheon.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotpantheon.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905175606id_/https%3A//pantheon.io/privacy) for the most accurate reproduction.*
 
 # Privacy | Pantheon
 
 ### Pantheon Systems, Inc. ("Pantheon") Privacy Policy
 
-This Privacy Policy ("Privacy Policy") covers the information practices of [http://www.getpantheon.com](http://www.getpantheon.com/). Questions regarding this statement should be e-mailed to [legal@getpantheon.com](mailto:legal@getpantheon.com).
+This Privacy Policy ("Privacy Policy") covers the information practices of <https://pantheon.io/>. Questions regarding this statement should be e-mailed to [legal@getpantheon.com](mailto:legal@getpantheon.com).
 
 Pantheon has created this Privacy Policy ("Privacy Policy") to demonstrate our commitment to user and visitor privacy at our web site (the "Site") and within the services (the "Services") delivered by Pantheon. This Privacy Policy describes our information-gathering and dissemination practices. By visiting the Site or using the Services, you are agreeing to the collection and use of information in the manner described below.
 
