@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkins.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322060242id_/http%3A//www.atkins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkins.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052606id_/http%3A//www.atkins.com/privacy-policy) for the most accurate reproduction.*
 
 # Effective Date: 11/17/14 | Atkins
 
