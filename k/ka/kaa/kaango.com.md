@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaango.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503232450id_/http%3A//www.kaango.com/help/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaango.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905131725id_/http%3A//www.kaango.com/help/view/privacy) for the most accurate reproduction.*
 
 # Help - Kaango.com Classifieds
 
