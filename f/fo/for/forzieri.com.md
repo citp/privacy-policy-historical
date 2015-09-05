@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317175145id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055444id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
 
 # FORZIERI | Help | Security & Privacy | Privacy Policy
 
-Last Updated on 2011-07-22
+## Privacy Policy
+
+Last Updated on 2015-04-15
 
 We want to assure you that FORZIERI respects your privacy. Information provided to us as a result of your online purchase is completely confidential - FORZIERI does not sell, rent, or loan any personally identifiable information regarding its customers to any third party in ways different than disclosed in this privacy policy
 
@@ -105,10 +107,6 @@ We may include links to other sites and if you decide to follow those links, alt
 #### Order information
 
 To make any changes to your order, please [contact us via e-mail](http://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=O) or phone 011 39 055 210731 and we will be happy to assist you. FORZIERI will send you a confirmation after receiving any changes/updates made to your order.
-
-#### Forzieri Privileges Club subscription
-
-To subscribe to or unsubscribe from our newsletter, please visit the [Forzieri Privileges Club Page](http://www.forzieri.com/usa/privclub.asp?l=usa&c=usa) and use the available online forms. To change your e-mail address, please unsubscribe using the old address and re-subscribe using the new address. To unsubscribe from our Privileges Club simply use the same online form to unsubscribe.
 
 #### Sweepstakes entry
 
