@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verawangonweddings.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401032937id_/http%3A//www.verawangonweddings.com/EN/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verawangonweddings.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053544id_/http%3A//verawangonweddings.com/EN/about/privacy-policy) for the most accurate reproduction.*
 
 # Wedding Dresses, Bridal Gowns by Vera Wang | Privacy Policy | VeraWang.com
 
