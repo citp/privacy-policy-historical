@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zanesvilletimesrecorder.com privacy policy that was archived on 2014-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141110072835id_/http%3A//static.zanesvilletimesrecorder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zanesvilletimesrecorder.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905232631id_/http%3A//static.zanesvilletimesrecorder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | zanesvilletimesrecorder.com
 
