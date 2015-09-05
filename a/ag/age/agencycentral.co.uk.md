@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agencycentral.co.uk privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504093114id_/http%3A//www.agencycentral.co.uk/contact-us/articles/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agencycentral.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905082355id_/http%3A//www.agencycentral.co.uk/contact-us/articles/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -22,7 +22,7 @@ When you visit a website, you disclose certain information, such as your Interne
 
 Cookies are pieces of information that are transferred to your computer from a web server.
 
-We use cookies to store visitor preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site and to customize Web page content based on visitors' browser type or other information that the visitor sends.
+We use cookies to store visitor preferences, record session information, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site and to customise Web page content based on visitors' browser type or other information that the visitor sends.
 
 Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies.
 
@@ -40,24 +40,24 @@ Information about our users is important to us. Access to your information is ne
 
 6\. Methods We Use to Protect Your Information.
 
-We follow Data Protection Guidelines to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons.
+We follow Data Protection Guidelines to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorised persons.
 
- 8\. How You Can Access Your Information.
+7\. How You Can Access Your Information.
 
 You can request access to all your personally identifiable information maintained by us by sending an e-mail to us at the address listed below. Upon request we offer you the ability to have inaccuracies corrected in your personally identifiable information. You can have this information corrected by sending us an e-mail at the address listed below.
 
-9\. Consent.
+8\. Consent.
 
 By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy.
 
-10\. Changes to Privacy Policy.
+9\. Changes to Privacy Policy.
 
 If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change.
 
-11\. Effective Date.
+10\. Effective Date.
 
 This Privacy Policy is effective as of November 25th, 2013.
 
-12\. Contact E-Mail.
+11\. Contact E-Mail.
 
 You may contact us concerning this Privacy Policy by using any of the contact options shown on this site.
