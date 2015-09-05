@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearcrave.com privacy policy that was archived on 2014-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141125072142id_/http%3A//gearcrave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearcrave.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905155214id_/http%3A//gearcrave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of GearCrave.com | The ultimate buyers guide for Men.
 
