@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campussuite.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318055827id_/http%3A//www.campussuite.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campussuite.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905163925id_/http%3A//www.campussuite.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Campus Suite CMS for Schools and Higher Education
 
