@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kaaboodelmar.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322042753id_/https%3A//www.kaaboodelmar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaaboodelmar.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905214717id_/https%3A//www.kaaboodelmar.com/privacy) for the most accurate reproduction.*
 
 # KAABOO Del Mar: Legal
 
-The Website located at www.kaaboodelmar.com (the “Website”) is operated by HorsePower Entertainment, LLC (“HorsePower,” “us,” or “we”). This Privacy Policy discloses the privacy practices for the Website. 
+The Website located at www.kaaboodelmar.com (the “Website”) is operated by KAABOOWORKS, LLC (“KAABOOWORKS,” “us,” or “we”). This Privacy Policy discloses the privacy practices for the Website. 
 
 You acknowledge that this Privacy Policy is part of our Site Terms of Use, and by accessing or using our site, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not access or use this site. 
 
@@ -45,7 +45,7 @@ When you submit your Personally Identifiable Information (i.e. your name, email 
 You have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by accessing your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by writing us at: 
     
     
-    HorsePower Entertainment, LLC  
+    KAABOOWORKS, LLC  
     
     5619 DTC Pkwy. Ste. 800  
     
@@ -57,7 +57,7 @@ You have the ability to access and edit the Personally Identifiable Information 
 
 Please include your name, address, and/or email address when you contact us. We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on this site. In addition, it may be impossible to completely delete your information without some residual information because of backups.5. User Choices on Collection and Use of Information 
 
-We may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only HorsePower (or agents working on behalf of HorsePower and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time, you can easily edit your account information to no longer receive such offers and mailings. You may opt out of any promotional emails from us by following the instructions on the emails you receive. We will process your request promptly. Opting out of promotional emails will not prevent us from sending you transactional emails. 
+We may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only KAABOOWORKS (or agents working on behalf of KAABOOWORKS and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time, you can easily edit your account information to no longer receive such offers and mailings. You may opt out of any promotional emails from us by following the instructions on the emails you receive. We will process your request promptly. Opting out of promotional emails will not prevent us from sending you transactional emails. 
 
 You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies, some parts of our site may not work properly. 
 
@@ -94,7 +94,7 @@ When you use the Site or our service, you may be directed to other websites that
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to: 
     
     
-    HorsePower Entertainment, LLC  
+    KAABOOWORKS, LLC  
     
     5619 DTC Pkwy, Ste. 800  
     
@@ -104,4 +104,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
     
     
 
-Effective Date: October 16, 2014. 
+Effective Date: October 16, 2014. Updated: July 8, 2015. 
