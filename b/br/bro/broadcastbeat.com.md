@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316032133id_/http%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905223804id_/http%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
 
-# Broadcast Beat Magazine: 2015 NAB Show News – Privacy Policy
+# 2015 IBC Show Daily News: IBC Show Exhibitors and IBC2015 Exhibition Guide – Privacy Policy
 
 ### Privacy Policy
 
@@ -68,8 +68,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.broadcastbeat.com
-
+http://www.broadcastbeat.com  
 Fort Lauderdale, FL 33309  
 USA  
 855-44-BBEAT
