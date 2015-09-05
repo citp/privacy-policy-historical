@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the unionbank.com privacy policy that was archived on 2015-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150314232907id_/https%3A//www.unionbank.com/small-business/privacy-security/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unionbank.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905130824id_/https%3A//www.unionbank.com/personal-banking/privacy-security/privacy-policy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="small-business" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:tridion="http://www.tridion.com/ContentManager/5.0" style="background-image: url(&quot;/ubimages/ub-sb-bg-gradient.jpg&quot;);"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="personal" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:tridion="http://www.tridion.com/ContentManager/5.0" style="background-image: url(&quot;/ubimages/ub-p-bg-gradient.jpg&quot;);"><head>
 <title>Privacy Policy - Union Bank</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="en-us">
@@ -16,7 +16,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="/ubincludes/css/non-lob-pages.css">
 <link rel="stylesheet" type="text/css" media="print" href="/ubincludes/css/layout-print.css">
 
-	<link rel="stylesheet" type="text/css" media="all" href="/ubincludes/css/small-business.css">
+	<link rel="stylesheet" type="text/css" media="all" href="/ubincludes/css/personal.css">
 
 <!--[if lt IE 7]>
 	<link rel="stylesheet" type="text/css" media="all" href="/ubincludes/css/layout-ie6.css" />
@@ -27,12 +27,12 @@
 
 
 <script type="text/javascript">
-	var tridionPageId = "tcm:9-66950-64";
+	var tridionPageId = "tcm:9-66948-64";
 	var page = ub.pages.Factory.create( "ProductLanding" );
 </script>
 
 
-<link rel="canonical" href="https://www.unionbank.com/small-business/privacy-security/privacy-policy.jsp">
+<link rel="canonical" href="https://www.unionbank.com/personal-banking/privacy-security/privacy-policy.jsp">
 <script type="text/javascript" src="/ubincludes/js/foresee-surveydef.js"></script></head>
 <body class="product-landing">
 
@@ -44,30 +44,31 @@
 <div class="header-wrapper"><div class="header-bg">
 <div class="header-container">
     
-    <a href="https://web.archive.org/small-business/index.jsp" class="logo"><span class="hidden">Union Bank</span></a>
+    <a href="https://web.archive.org/personal-banking/index.jsp" class="logo"><span class="hidden">Union Bank</span></a>
         
     
-                <div class="sign-on">
-            <a href="#Single-Sign-On" class="sign-on-toggle"><span class="hidden">SIGN ON</span></a>
-            <form class="sign-on-form" id="sign-on-form" action="https://sso.unionbank.com/unp/SSOLoginServlet" method="post">
-                <div class="clearfix">
-                    <input type="text" name="userId" class="sign-on-user-id default-text default-text-active" title="User Id" autocomplete="off">
-                    <button type="submit" class="sign-on-submit">Sign On</button>
-                </div>
-                <a href="/global/help/user-id-password-help.jsp" class="sign-on-help">User ID / Password Help &gt;</a>
-                <a href="https://www.mystreetscape.com/my/ubis" class="sign-on-investing">Sign on to Online Investing &gt;</a>
-            </form>
-        </div>
-        <script language="javascript" type="text/javascript" src="/ubincludes/js/ub.itg.js"></script>
-        <script language="javascript" type="text/javascript">
-            dom.query(function($) {
-                ub.itg.goSSO.init("form.sign-on-form", "https://sso.unionbank.com/unp/SSOLoginServlet");                
-            });
-        </script>    
+        <script type="text/javascript" src="/ubincludes/js/ub.itg.js"></script>
+<div class="sign-on">
+	<a href="#Single-Sign-On" class="sign-on-toggle"><span class="hidden">SIGN ON</span></a>
+	<form class="sign-on-form" id="sign-on-form" action="https://sso.unionbank.com/unp/SSOLoginServlet" method="post">
+		<div class="clearfix">
+			<input type="text" name="userId" class="sign-on-user-id default-text default-text-active" title="User Id" autocomplete="off">
+			<button type="submit" class="sign-on-submit">Sign On</button>
+		</div>
+		<a href="/global/help/user-id-password-help.jsp" class="sign-on-help">User ID / Password Help &gt;</a>
+		<a href="https://www.mystreetscape.com/my/ubis" class="sign-on-investing">Sign on to Online Investing &gt;</a>
+	</form>
+</div>
+<script type="text/javascript" src="/ubincludes/js/ub.itg.goSSOLogin.js?v=20150710-1600"></script>
+<script type="text/javascript">
+dom.query(function($) {
+	goSSOLogin("form.sign-on-form", "https://sso.unionbank.com/unp/SSOLoginServlet");
+});
+</script>    
     
     <ul class="top-nav">
-            <li id="nav-personal" class="top-nav-item first"><a href="/personal-banking/index.jsp" class="top-nav-item-face">Personal</a></li>
-            <li id="nav-small-business" class="top-nav-item current">      <a href="/small-business/index.jsp" class="top-nav-item-face">Small Business</a></li>
+            <li id="nav-personal" class="top-nav-item first current"><a href="/personal-banking/index.jsp" class="top-nav-item-face">Personal</a></li>
+            <li id="nav-small-business" class="top-nav-item">      <a href="/small-business/index.jsp" class="top-nav-item-face">Small Business</a></li>
             <li id="nav-commercial-institutional" class="top-nav-item">      <a href="/commercial-bank/index.jsp" class="top-nav-item-face">Commercial &amp; Institutional</a></li>
             <li id="nav-the-private-bank" class="top-nav-item last"> <a href="/private-bank/index.jsp" class="top-nav-item-face">The Private Bank</a></li>
     </ul>
@@ -81,8 +82,8 @@
 	<input type="hidden" name="client" value="ub2_frontend">
 	<input type="hidden" name="proxystylesheet" value="ub2_frontend">
 	<input type="hidden" name="site" value="ub2_collection">
-	<input type="hidden" name="ubtopmenu" value="small-business">
-	<input type="hidden" name="ubbkimage" value="url(&quot;/ubimages/ub-sb-bg-gradient.jpg&quot;)">
+	<input type="hidden" name="ubtopmenu" value="personal">
+	<input type="hidden" name="ubbkimage" value="url(&quot;/ubimages/ub-p-bg-gradient.jpg&quot;)">
 	<div class="clearfix">
 		<input type="text" name="q" class="top-search-text default-text default-text-active" title="Search">
 		<button type="submit" class="top-search-submit"></button>
@@ -248,6 +249,30 @@ dom.query("form.top-search").ready(function ($) {
 <li class="sub-nav-flyout-link"><a href="/small-business/business-services/employee-benefits/index.jsp"> Employee Benefits</a></li>
 <li class="sub-nav-flyout-link"><a href="/small-business/business-services/resource-center/index.jsp"> Resource Center</a></li>
 </ul>
+
+
+<div class="sub-nav-flyout-col">
+<span class="disclaimer-group-ref">tcm:9-69393</span>
+	
+		<img src="/Images/SBRC-Flyout-Image.jpg" alt="Small Business Resource Center" title="Small Business Resource Center">
+	 
+	
+		<div class="h5">Small Business Resource Center</div>
+	 
+	
+		<p>Get information you can use to manage and grow your business.</p>
+	 
+	
+		
+			<a href="http://unionbank.sbresources.com/?cm_sp=SmallBusiness_Flyout-BusinessServices_SBRC_NoTarget_0515-_-SmallBusiness_Flyout-BusinessServices_SBRC_NoTarget_0515-_-SmallBusiness_Flyout-BusinessServices_SBRC_NoTarget_0515" class="more ">
+				Learn More
+			</a>
+		 
+		 
+		 
+	
+</div>
+
 <div class="clear"></div>
 <div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
 </div>
@@ -261,7 +286,6 @@ dom.query("form.top-search").ready(function ($) {
 <ul class="sub-nav-flyout-links">
 <li class="sub-nav-flyout-link"><a href="/small-business/online-banking/online-banking/index.jsp"> Online Banking</a></li>
 <li class="sub-nav-flyout-link"><a href="/small-business/online-banking/mobile-banking/index.jsp"> Mobile Banking</a></li>
-<li class="sub-nav-flyout-link"><a href="/small-business/online-banking/payment-solutions/index.jsp"> Online Payment Solutions</a></li>
 </ul>
 <div class="clear"></div>
 <div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
@@ -423,6 +447,27 @@ dom.query("form.top-search").ready(function ($) {
 <li class="sub-nav-flyout-link"><a href="/private-bank/loans-deposits/treasury-management/index.jsp"> Treasury Management</a></li>
 <li class="sub-nav-flyout-link"><a href="/private-bank/loans-deposits/foreign-exchange/index.jsp"> Foreign Exchange</a></li>
 </ul>
+
+
+<div class="sub-nav-flyout-col">
+<span class="disclaimer-group-ref">tcm:9-43214</span>
+	
+		<img src="/Images/online-mobile-flyout_148x63.jpg" alt="Online &amp; Mobile Banking" title="Online &amp; Mobile Banking">
+	 
+	
+		<div class="h5">Online &amp; Mobile Banking</div>
+	 
+	
+		<p>Enjoy the convenience of&nbsp;Online &amp; Mobile Banking.</p>
+	 
+	
+		 
+		
+			<a href="/private-bank/loans-deposits/online-banking/index.jsp" class="more ">Learn More</a>		 
+		 
+	
+</div>
+
 <div class="clear"></div>
 <div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
 </div>
@@ -472,8 +517,8 @@ dom.query("form.top-search").ready(function ($) {
 <div class="sub-nav-flyout-panel shadow-box">
 <ul class="sub-nav-flyout-links">
 <li class="sub-nav-flyout-link"><a href="/private-bank/investments/overview/index.jsp"> Investments -- Overview</a></li>
-<li class="sub-nav-flyout-link"><a href="/private-bank/investments/investment-management/index.jsp"> Investment Management</a></li>
-<li class="sub-nav-flyout-link"><a href="/private-bank/investments/brokerage-insurance/index.jsp"> Brokerage &amp; Insurance</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/investments/investment-management/index.jsp"> Managed Account Program</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/investments/brokerage-insurance/index.jsp"> Brokerage Services</a></li>
 </ul>
 <div class="clear"></div>
 <div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
@@ -583,10 +628,10 @@ window.dom.query(document).ready(function ($) {
 
 		<div class="top-actions-container content-panel">
 			<p class="left breadcrumb">
-				<a href="/small-business/index.jsp" class="breadcrumb-item">Small Business</a>&nbsp;<span class="path-separator">&gt;</span>&nbsp;<a href="/small-business/privacy-security/privacy-policy.jsp" class="breadcrumb-item">Privacy Policy</a>&nbsp;
+				<a href="/personal-banking/index.jsp" class="breadcrumb-item">Personal</a>&nbsp;<span class="path-separator">&gt;</span>&nbsp;<a href="/personal-banking/privacy-security/index.jsp" class="breadcrumb-item">Privacy and Security</a>&nbsp;<span class="path-separator">&gt;</span>&nbsp;<a href="/personal-banking/privacy-security/privacy-policy.jsp" class="breadcrumb-item">Privacy Policy</a>&nbsp;
 			</p>
 			<p class="right">
-				<a href="#" class="action-item" id="action-print-page">Print</a> | <a href="mailto:?subject=Privacy%20Policy%20-%20Union%20Bank&amp;body=https%3A//web.archive.org/web/20150314232907id_/https%253A//www.unionbank.com/small-business/privacy-security/privacy-policy.jsp" class="action-item" id="action-email-page">Email</a>
+				<a href="#" class="action-item" id="action-print-page">Print</a> | <a href="mailto:?subject=Privacy%20Policy%20-%20Union%20Bank&amp;body=https%3A//web.archive.org/web/20150905130824id_/https%253A//www.unionbank.com/personal-banking/privacy-security/privacy-policy.jsp" class="action-item" id="action-email-page">Email</a>
 			</p>
 			<div class="clear"></div>
 		</div>
@@ -601,14 +646,14 @@ window.dom.query(document).ready(function ($) {
 				<div class="tabbed-menu-content-general shadow shadow-box" style="display: block;">
 					
 						<script type="text/javascript">ub.BeginComponent('.tabbed-menu-content-general')</script>
-<input type="hidden" name="currentTab" value="\small-business\privacy-security\privacy-policy.jsp">
+<input type="hidden" name="currentTab" value="\personal-banking\privacy-security\privacy-policy.jsp">
 
 	<div class="tab-menu-panel">
-		<div class="tab-title"><a href="/small-business/privacy-security/privacy-policy.jsp">Privacy Policy</a></div>
+		<div class="tab-title"><a href="/personal-banking/privacy-security/privacy-policy.jsp">Privacy Policy</a></div>
 	</div>
 
 	<div class="tab-menu-panel">
-		<div class="tab-title"><a href="/small-business/privacy-security/online-privacy-practices.jsp">Online Privacy Practices</a></div>
+		<div class="tab-title"><a href="/personal-banking/privacy-security/online-privacy-practices.jsp">Online Privacy Practices</a></div>
 	</div>
 
 <script type="text/javascript">ub.EndComponent()</script>					
@@ -664,7 +709,7 @@ cmCreatePageElementTag("2_0 P_Privacy Policy - Privacy Po:" + tridionPageId, "Co
 					
 
 <div class="get-started component shadow shadow-box">
-<span class="disclaimer-group-ref">tcm:9-41475</span>
+<span class="disclaimer-group-ref">tcm:9-41459</span>
   <div class="get-started-panel">
      <div class="get-started-title">Get Started Now</div>
      
@@ -676,16 +721,40 @@ cmCreatePageElementTag("2_0 P_Privacy Policy - Privacy Po:" + tridionPageId, "Co
                </div>
                <div class="right">
                     
-                         
-          <p>Online Banking</p>
-        
+                         <p>Set Up an Account</p>
                     
 
                      
 
                     
                          
-                              <a href="https://banking.unionbank.com/web/Banking/ENRLoginFrameset.jsp" class="cta-button ">
+                              <a href="https://oao.unionbank.com" class="cta-button ">
+                                   <span class="text">Open Online</span>
+                              </a>
+                          
+                          
+                          
+                    
+               </div>
+               <div class="clear"></div>
+          </div>
+     
+          <div class="get-started-row">
+               <div class="left">
+                    
+                         <img src="/Images/get-started-icon-account.png" alt="Account" title="Account" width="50" height="40">
+                     
+               </div>
+               <div class="right">
+                    
+                         <p>Set Up Online Banking</p>
+                    
+
+                     
+
+                    
+                         
+                              <a href="https://www.unionbank.com/signuponline" class="cta-button ">
                                    <span class="text">Sign Up</span>
                               </a>
                           
@@ -704,11 +773,8 @@ cmCreatePageElementTag("2_0 P_Privacy Policy - Privacy Po:" + tridionPageId, "Co
                </div>
                <div class="right">
                     
-                         
-          <p>Call Us
-<br>
-1-866-876-7065, option 1</p>
-        
+                         <p>Call Us
+<br><strong>1-800-238-4486</strong></p>
                     
 
                      
@@ -777,7 +843,7 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
             <div>
                 
 
-<span class="disclaimer-group-ref">tcm:9-43063</span>
+<span class="disclaimer-group-ref">tcm:9-42792</span>
 <dl class="footer-links">
 <dt style="height: 15px;">About Us</dt>
 <dd>
@@ -800,7 +866,7 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
 		 
 		 
 		
-			<li><a href="/Images/CB534-Corporate%20Profile_R24sz.pdf" onclick="cmCreatePageElementTag('/CB534-Corporate%20Profile_R24sz.:'+tridionPageId,'PDF', null);">
+			<li><a href="/Images/MUFG_Corporate_Profile.PDF" onclick="cmCreatePageElementTag(':'+tridionPageId,'PDF', null);">
 				Corporate Profile
 			</a></li>
 		 
@@ -836,7 +902,7 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
             <div>
                 
 
-<span class="disclaimer-group-ref">tcm:9-43064</span>
+<span class="disclaimer-group-ref">tcm:9-42793</span>
 <dl class="footer-links">
 <dt style="height: 15px;">Privacy &amp; Security</dt>
 <dd>
@@ -844,13 +910,15 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
 	
 		 
 		
-			<li><a href="/personal-banking/privacy-security/index.jsp">Privacy and Security Center</a></li>
+			<li><a href="/personal-banking/privacy-security/index.jsp">Privacy &amp; Security Center</a></li>
 		 
 		 
 	
-		 
 		
-			<li><a href="/small-business/privacy-security/online-security/index.jsp">Online Security</a></li>
+			<li><a href="/personal-banking/privacy-security/online-security/index.jsp">
+				Online Security
+			</a></li>
+		 
 		 
 		 
 	
@@ -862,13 +930,15 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
 	
 		 
 		
-			<li><a href="/small-business/privacy-security/fraud-education/index.jsp">Fraud Education</a></li>
+			<li><a href="/personal-banking/privacy-security/fraud-education/index.jsp">Fraud Education</a></li>
 		 
 		 
 	
-		 
 		
-			<li><a href="/small-business/privacy-security/privacy-policy.jsp">Privacy Policy</a></li>
+			<li><a href="/personal-banking/privacy-security/privacy-policy.jsp">
+				Privacy Policy
+			</a></li>
+		 
 		 
 		 
 	
@@ -879,7 +949,7 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
             <div>
                 
 
-<span class="disclaimer-group-ref">tcm:9-61430</span>
+<span class="disclaimer-group-ref">tcm:9-61390</span>
 <dl class="footer-links">
 <dt style="height: 15px;">Resources</dt>
 <dd>
@@ -899,7 +969,7 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
 	
 		 
 		
-			<li><a href="/global/help/small-business/index.jsp">FAQs</a></li>
+			<li><a href="/global/help/personal-banking/index.jsp">FAQs</a></li>
 		 
 		 
 	
@@ -934,7 +1004,7 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
             <div>
                 
 
-<span class="disclaimer-group-ref">tcm:9-43065</span>
+<span class="disclaimer-group-ref">tcm:9-42798</span>
 <dl class="footer-links">
 <dt style="height: 15px;">Popular Links</dt>
 <dd>
@@ -948,7 +1018,15 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
 	
 		 
 		
-			<li><a href="/small-business/checking-savings/checking/order-business-checks.jsp">Order Checks</a></li>
+			<li><a href="/personal-banking/checking-savings/checking/reorder-checks.jsp">Order Checks</a></li>
+		 
+		 
+	
+		
+			<li><a href="https://oao.unionbank.com/oao/consumer/enrollOnline.seam?cid=17559">
+				Open an Account Online
+			</a></li>
+		 
 		 
 		 
 	
@@ -980,7 +1058,7 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
 
    
            <script type="text/javascript">
-     ub.backgrounds = ['/ubimages/ub-sb-bg-gradient.jpg'];
+     ub.backgrounds = ['/ubimages/ub-p-bg-gradient.jpg'];
 </script>
    
 
@@ -1025,7 +1103,7 @@ cmCreatePageElementTag(":" + tridionPageId, "Components", null);
 //]]>
 </script>
 <!-- ForeSee -->
-<script type="text/javascript">var strIP = '207.241.229.212';</script>
+<script type="text/javascript">var strIP = '207.241.229.149';</script>
 <script type="text/javascript" src="/ubincludes/js/foresee-trigger.js"></script>
 <!-- /ForeSee -->	
 <div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
@@ -1052,7 +1130,7 @@ cmSetClientID("90140508",true,"data.coremetrics.com","unionbank.com");
 cmSetClientID("60140508",true,"testdata.coremetrics.com","unionbank.com");
 }
 } catch(err) {}
-			cmCreatePageviewTag("2_0 Privacy Policy", "2_0 200 Small Business", null, null);
+			cmCreatePageviewTag("2_0 Privacy Policy", "2_0 100 Personal", null, null);
 		</script><script language="javascript1.2" src="//web.archive.org/web/20130509080631/https://libs.coremetrics.com/configs/60140508.js"></script>
 	<!-- End Coremetrics -->
 
