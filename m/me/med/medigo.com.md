@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medigo.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317143851id_/https%3A//www.medigo.com/en/terms-and-conditions%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medigo.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905191124id_/https%3A//www.medigo.com/en/terms-and-conditions%23privacy-policy) for the most accurate reproduction.*
 
 # Terms and Conditions - MEDIGO Medical Travel
 
@@ -28,7 +28,7 @@ The User is furthermore permitted to contact Providers. MEDIGO only provides the
 
     4. 1.4.
 
-Certain types of forums are set up on MEDIGO's website enabling the User (i) to provide information in order to review the services of Providers and to exchange experiences and opinions with other users, (ii) to evaluate Providers by way of a rating system and (iii) to give recommendations to MEDIGO, other users or Providers. Contributions reflect personal perceptions, experiences and assessments of the Users. Only when MEDIGO becomes aware or is made aware by third parties of a contribution that is not permitted by law or which is not in accordance with MEDIGO's policy regarding fairness in dealing with business partners, the respective contribution will be deleted. 
+Certain types of forums are set up on MEDIGO's website enabling the User (i) to provide information in order to review the services of Providers and to exchange experiences and opinions with other users, (ii) to evaluate Providers by way of a rating system and (iii) to give recommendations to MEDIGO, other users or Providers. Contributions reflect personal perceptions, experiences and assessments of the Users. Only when MEDIGO becomes aware or is made aware by third parties of a contribution that is not permitted by law or which is not in accordance with MEDIGO's policy regarding fairness in dealing with business partners, the respective contribution will be deleted.
 
 **The User agrees to the long-term storage and publishing of his or her contributions made in forums.**
 
@@ -114,7 +114,7 @@ The user is obliged to indemnify and compensate MEDIGO for any damages due to Us
 
   2.     1. 6.1.
 
-MEDIGO's Privacy Policies explain under which circumstances User's data are collected, processed and used when using MEDIGO's Services. 
+MEDIGO's Privacy Policies explain under which circumstances User's data are collected, processed and used when using MEDIGO's Services.
 
 
 
@@ -142,7 +142,7 @@ Only MEDIGO's Terms shall apply regarding the use of MEDIGO's website and its Se
 
     2. 8.2.
 
-These Terms remain in force until they have been changed or terminated by MEDIGO. If the User does not consent with these Terms, he or she has immediately to cease the use of the Services and the User is obligated to terminate his or her user account (see also under § 1.6). 
+These Terms remain in force until they have been changed or terminated by MEDIGO. If the User does not consent with these Terms, he or she has immediately to cease the use of the Services and the User is obligated to terminate his or her user account (see also under § 1.6).
 
     3. 8.3.
 
