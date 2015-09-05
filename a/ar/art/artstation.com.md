@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the artstation.com privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403170050id_/https%3A//artstation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artstation.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905124446id_/https%3A//www.artstation.com/privacy) for the most accurate reproduction.*
 
 # ArtStation - Privacy Policy
 
-Ballistiq is committed to maintaining the security, confidentiality and privacy of your personal information. This document describes our general privacy policies.
+ArtStation is committed to maintaining the security, confidentiality and privacy of your personal information. This document describes our general privacy policies.
 
-#### Scope of Policy
+### Scope of Policy
 
 This policy applies to personal information about individuals and does not apply to the information collected, used or disclosed with respect to corporate or commercial entities. 
 
 This policy does not impose any limits on our collection, use or disclosure of the information exempted under applicable privacy legislation, including business contact information and certain publicly available information. 
 
-#### Changes
+### Changes
 
 We may change this Policy at any time by posting the revised policy on our website. Please check our website regularly for these changes.
 
-#### Accountability
+### Accountability
 
 We have designated a Privacy Officer who is accountable for our compliance with this policy. The Privacy Officer’s contact information is below.
 
-#### Purposes 
+### Purposes 
 
 When collecting personal information, we will state the purpose of collection and will provide, on request, contact information for the Privacy Officer who can answer questions about the collection.
 
@@ -51,11 +51,11 @@ When your personal information is to be used for a purpose not previously identi
 
 We may work with other companies to provide services on our behalf, such as website hosting services, payment processing services and product delivery services. Those service providers will be permitted to obtain only the personal information they need to deliver the service in question, and they will be required to maintain the confidentiality of that information. 
 
-#### Cookies
+### Cookies
 
 We may use cookies to collect your personal information. Cookies are unique identifiers which are used to customize your website, mobile application or social media site experience. Most web browsers automatically accept cookies, but you can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept the cookie. A cookie does not tell us who you are, your email address, or any other personal information. We use the information it provides to help us improve our website, mobile application, social media site and our services, and to provide our visitors with a better visit. Even without accepting a cookie you can still access many of the features on the site. There may, however, be limitations on your use of some site functions.
 
-#### Consent
+### Consent
 
 We will not sell or rent your personal information to third parties, and we will obtain your consent to collect, use or disclose personal information except where we are authorized or required by law to do so without consent. For example, we may collect, use or disclose personal information without your knowledge or consent where:
 
@@ -75,11 +75,11 @@ You may withdraw consent at any time, subject to legal, contractual and other re
 
 Any material, information or other communication (including questions, comments and suggestions) you transmit to us through our website, social media sites or other online sites, or mobile applications will be considered non-confidential and non-proprietary. We may forward your communications and other personal information to any of our offices or affiliates throughout the world in connection with any products or services you request, or in connection with any communications you wish to have with us, and you consent to us doing so.
 
-#### Limits on Collection 
+### Limits on Collection 
 
 We will not collect information indiscriminately and will limit collection of information to that which is reasonable and necessary for the above purposes. We will also collect information as is otherwise authorized by law. 
 
-#### Limits on Using, Disclosing and Retaining Personal Information 
+### Limits on Using, Disclosing and Retaining Personal Information 
 
 We will only use and disclose your personal information for the purposes set out above and as authorized by law. 
 
@@ -89,7 +89,7 @@ We will destroy, erase or make anonymous documents or other records containing p
 
 We will take due care when destroying personal information so as to prevent unauthorized access to the information. 
 
-#### Accuracy
+### Accuracy
 
 We will make a reasonable effort to ensure that personal information we are using or disclosing is accurate and complete. In some cases, we rely on you to ensure that certain information, such as your address or telephone number, is current, complete and accurate.
 
@@ -97,13 +97,13 @@ If you demonstrate the inaccuracy or incompleteness of personal information, we 
 
 When a challenge regarding the accuracy of personal information is not resolved to your satisfaction, we will annotate the personal information under its control with a note that the correction was requested but not made.
 
-#### Safeguards
+### Safeguards
 
 We protect the personal information in our custody or control by making reasonable security arrangements to prevent unauthorized access, collection, use, disclosure, copying, modification, disposal or similar risks.
 
 We will take reasonable steps, through contractual or other reasonable means, to ensure that a comparable level of personal information protection is implemented by the suppliers and agents who assist in providing services to you. However, confidentiality and security are not assured when information is transmitted electronically. 
 
-#### Providing Access
+### Providing Access
 
 Upon written request and authentication of identity, we will provide you with your other personal information under our control, information about the ways in which that information is being used and a description of the individuals and organizations to whom that information has been disclosed. We will make the information available within 30 days or provide written notice where additional time is required to fulfil the request.
 
@@ -111,11 +111,11 @@ In some situations we may not be able to provide access to certain personal info
 
 Where an access request is refused, we will notify you in writing, document the reasons for refusal and outline further steps which are available to you.
 
-#### Links to other Websites
+### Links to other Websites
 
 Our website, social media sites and mobile applications may contain links to websites of third parties. We are not responsible for the privacy practices or the content of those other websites. 
 
-#### Complaints
+### Complaints
 
 Upon your request, we will provide information regarding our complaint procedures. 
 
