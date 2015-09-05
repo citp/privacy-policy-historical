@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509064444id_/http%3A//www.cityvisitor.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-visitor.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905164636id_/http%3A//www.cityvisitor.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cityvisitor
 
@@ -56,9 +56,24 @@ We may also provide anonymous statistics about user's browsing activity to reput
 
 ## Cookies
 
-A cookie is a data file that certain web sites write to your computer's hard drive when you visit such sites. Our site uses cookies to recognise returning visitors and to deliver content specific to your interests. We use this data on an anonymous basis and we do not correlate this information with personal data of any user but may use it to personalise your experience on the site.
+Information About Our Use of Cookies
 
-Most web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our web site, you may not be able to use certain features of the site.
+Infoserve uses cookies to distinguish you from other users of our websites. This helps us to provide you with a good experience when you browse our websites and also allows us to improve our sites. By continuing to browse our sites, you are agreeing to our use of cookies.
+
+A cookie is a small file of letters and numbers chosen by each website. Your browser stores these cookies and returns them when you revisit that website.
+
+We use the following cookies:
+
+  * **Strictly necessary cookies.** These are cookies that are required for the operation of our websites. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+  * **Analytical/performance cookies.** They allow us to recognise and count the number of visitors and to see how visitors move around our websites. This helps us to improve the way our websites work, for example, by ensuring that users are finding what they are looking for easily.
+  * **Functionality cookies.** These are used to recognise you when you return to our websites. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * **Targeting cookies.** These cookies record your visit to our websites, the pages you have visited and the links you have followed. We will use this information to make our websites and the advertising displayed on them more relevant to your interests. We may also share this information with third parties for this purpose.
+
+
+
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+You may block cookies by activating the setting on your browser or device that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our sites.
 
 ## Third party links
 
