@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vigilantcitizen.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522104048id_/http%3A//vigilantcitizen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vigilantcitizen.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064816id_/http%3A//vigilantcitizen.com/privacy-policy) for the most accurate reproduction.*
 
 # The Vigilant Citizen
 
