@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factba.se privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603030024id_/http%3A//www.factba.se/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factba.se privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905114550id_/http%3A//factba.se/privacy.php) for the most accurate reproduction.*
 
 # Factba.se: Gazetteer - Privacy Policy
 
