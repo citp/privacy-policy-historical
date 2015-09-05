@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeccafe.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610161740id_/http%3A//www10.aeccafe.com/policy/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeccafe.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905231139id_/http%3A//www10.aeccafe.com/policy/privacy_policy.php) for the most accurate reproduction.*
 
 # AECCafe: Privacy Policy
 
