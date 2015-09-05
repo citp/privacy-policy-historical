@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406082046id_/https%3A//www.informatica.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905191339id_/https%3A//www.informatica.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Informatica Privacy Policy
+# Informatica Privacy Policy | Informatica US
 
 **Last Updated:   March 6, 2015**
 
