@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoemall.com privacy policy that was archived on 2012-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120113024100id_/http%3A//www.shoemall.com/custserv/custserv.jsp%3FpageName%3DSecurity-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoemall.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074129id_/http%3A//www.shoemall.com/custserv/custserv.jsp%3FpageName%3DSecurity-Privacy) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -10,8 +10,8 @@
   
   * Our Commitment To Privacy
   * The Information We Collect
+  * Communication Consent
   * The way we use the information
-  * Customer Review Postings
   * Third Party Advertising
   * Cookies
   * Our Commitment To Data Security
@@ -50,11 +50,19 @@ On some pages, you can submit information about other people. For example, if yo
   
 
 
+### Communication Consent
+
+  
+  
+You authorized us, our affiliates, agents, and others calling at our request or on our behalf to contact you at any number or email address you have provided to us or have used to contact us or which is lawfully obtained by or on our behalf for the servicing, management and/or collection of your account. We may contact you in any manner consistent with the information we have obtained, including e-mail, telephone calls and text messages. We may use automated technology for the purpose of contacting you, including but not limited to automatic dialing or similar equipment. We may monitor or record calls from you to us and calls from us to you. When you give us your mobile telephone number we may contact you at that number using automated dialing equipment and we can leave pre-recorded or other messages, even if you are charged for it by your provider.  
+  
+
+
 ### The Way We Use Information:
 
   
   
-We use the information you provide when placing an order to complete that order. We occasionally make our customer list available to carefully screened companies whose products or services we feel may interest you. If you do not wish us to share this information, please relay your request along with your mailing address to us by phone toll free at 1-800-704-5478 or write to us at: 
+We use the information you provide when placing an order to complete that order. We occasionally make our customer list available to carefully screened companies whose products or services we feel may interest you. It is our corporate policy however, to never share your email address with any third party. If you do not wish us to share this information, please relay your request along with your mailing address to us by phone toll free at 1-800-704-5478 or write to us at: 
 
 ShoeMall   
 425 Wells Street, Suite 100   
@@ -62,14 +70,6 @@ Chippewa Falls, WI 54729-1400
   
   
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out.   
-  
-
-
-### Customer Review Postings
-
-  
-  
-ShoeMall.com has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PR") ([http://www.buzzillions.com](http://www.buzzillions.com/)) to facilitate customer reviews of products sold by ShoeMall.com. When you submit a review to PR, you will be subject to PR’s terms of use and privacy policies. The reviews you submit may be posted on both PR’s site (<http://www.buzzillions.com/cz_4294966871_shoes_reviews>) and our site.   
   
 
 
@@ -96,7 +96,7 @@ If you would like more information about cookies and how to manage them, please 
   
 ShoeMall uses VeriSign, which offers state-of-the-art, completely dependable security infrastructure and is the most trusted, recognized, security brand on the web. Secure Site by VeriSign provides the ultimate in credibility for online transactions. You can be confident each purchase is backed by the most reliable, secure operations infrastructure, comprehensive security, trust, and authentication practices.  
 VeriSign authentication procedures have withstood the most rigorous scrutiny from independent third-party auditors. In fact, VeriSign is the only Certificate Authority in the world to have passed an extensive independent Type #SAS 70 audit by KPMG, the global accounting and consulting firm. (The Statement of Auditing Standard 70, Type #SAS 70, was established by the American Institute of Certified Public Accountants to certify trusted practices.) For more information visit [VeriSign](http://www.verisign.com/).   
-ShoeMall has taken several steps to ensure Your Credit Card Transactions are Secure GUARANTEED. Our servers use Secure Socket Layer (SSL) advanced encryption. ShoeMall uses state-of-the-art technology to protect your personal information and privacy. All credit card transactions are secured by 128-bit encryption. As an added measure, in the unlikely event of fraudulent charges on your credit card, there is still no risk to you. The Fair Credit Act states that your credit card company can hold you liable for a maximum of $50.00 in fraudulent charges. ShoeMall will reimburse you for any charges up to the $50.00 maximum your credit card company can charge if those charges result from an order you placed on our secure server. You can enjoy shopping worry free at [http://www.shoemall.com](https://web.archive.org/home.jsp).   
+ShoeMall has taken several steps to ensure Your Credit Card Transactions are Secure GUARANTEED. Our servers use Secure Socket Layer (SSL) advanced encryption. ShoeMall uses state-of-the-art technology to protect your personal information and privacy. As an added measure, in the unlikely event of fraudulent charges on your credit card, there is still no risk to you. The Fair Credit Act states that your credit card company can hold you liable for a maximum of $50.00 in fraudulent charges. ShoeMall will reimburse you for any charges up to the $50.00 maximum your credit card company can charge if those charges result from an order you placed on our secure server. You can enjoy shopping worry free at [http://www.shoemall.com](https://web.archive.org/home.jsp).   
   
 
 
@@ -155,4 +155,4 @@ Should you have other questions or concerns about these security and privacy pol
 **Product Information** \- The products displayed at this Site are available while supplies last. The prices displayed at this Site are quoted in U.S. dollars.   
 **Links To Other Web Sites And Services** \- This Site may contain links to outside services or resources that ShoeMall does not control. Any concern about these services and resources should be directed to that outside Site. First, try to work this out with the Linked Site. If you are not able to resolve it, please let us know.   
 **Terms Of Use** \- We welcome you to the ShoeMall website. The rules that apply to your use of our Site are set forth in on this webpage. By using our Site you are agreeing to those rules. We reserve the right to change the rules from time to time. Your ongoing use of the Site means that you agree to the rules as changed.   
-**Property Rights** \- The entire Site as a whole is protected by copyright and trade dress laws. All rights, ownership and interest in are owned by ShoeMall and its parent companies. All identified trademarks appearing at the site are trademarks of ShoeMall and its parent companies and all affiliated trademarks of other companies are used with permission. Excepting trademarks and brand names of third parties for merchandise depicted on the Site, or as otherwise noted, all images, materials, designs, photographs, illustrations, icons, videos and other materials that are part of this Site are copyrights, trademarks, trade dress and/or other intellectual properties owned, controlled or licensed by ShoeMall and its parent companies. Our Site as a whole, and its contents, are intended solely for personal, non-commercial use by Site users. It is permissible to download or copy contents and other materials subject to downloaded capability displayed on the Site for personal use only. No right, title or interest in any downloaded images or materials or software is transferred to you as a result of any personal copying or downloading. As a Site user, you may not reproduce (except for personal use as noted above), publish, transmit, distribute, display, modify, create derivative works from, sell or participate in any sale of, or otherwise utilize in any way, in whole or in part, any of the Contents, the Site, or any related software without the express written permission of ShoeMall. 
+**Property Rights** \- The entire Site as a whole is protected by copyright and trade dress laws. All rights, ownership and interest in are owned by ShoeMall and its parent companies. All identified trademarks appearing at the site are trademarks of ShoeMall and its parent companies and all affiliated trademarks of other companies are used with permission. One or more patents may apply to this web site, including without limitations: US Patent Nos. 5,528,490; 5,761,649; 7,908,173; and 7,908,176. Excepting trademarks and brand names of third parties for merchandise depicted on the Site, or as otherwise noted, all images, materials, designs, photographs, illustrations, icons, videos and other materials that are part of this Site are copyrights, trademarks, trade dress and/or other intellectual properties owned, controlled or licensed by ShoeMall and its parent companies. Our Site as a whole, and its contents, are intended solely for personal, non-commercial use by Site users. It is permissible to download or copy contents and other materials subject to downloaded capability displayed on the Site for personal use only. No right, title or interest in any downloaded images or materials or software is transferred to you as a result of any personal copying or downloading. As a Site user, you may not reproduce (except for personal use as noted above), publish, transmit, distribute, display, modify, create derivative works from, sell or participate in any sale of, or otherwise utilize in any way, in whole or in part, any of the Contents, the Site, or any related software without the express written permission of ShoeMall. 
