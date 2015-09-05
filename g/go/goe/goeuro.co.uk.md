@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goeuro.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607141907id_/http%3A//www.goeuro.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goeuro.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905165635id_/http%3A//www.goeuro.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | GoEuro
 
@@ -97,8 +97,7 @@ Managing Director: Naren Shaam
 
 Postal Adress:   
 GoEuro Corp.  
-Saarbrücker Str. 20/21  
-10405 Berlin  
-Germany
-
+Sonnenburger Str. 73  
+10437 Berlin  
+Germany  
 legal@goeuro.com
