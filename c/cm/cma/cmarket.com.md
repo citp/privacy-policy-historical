@@ -1,71 +1,108 @@
-> *The following text is extracted and transformed from the cmarket.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326120917id_/https%3A//www.biddingforgood.com/auction/communicate/privacypolicy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmarket.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905210858id_/https%3A//www.biddingforgood.com/auction/communicate/privacypolicy.action) for the most accurate reproduction.*
 
 # Privacy Policy - BiddingForGood Fundraising Auction
 
-The privacy of your personal information is very important to us. As such, BiddingForGood, Inc. ("BiddingForGood") (formerly cMarket, Inc.) presents this statement to give our users a clear understanding of how we operate our Web site and how we handle your personal information. If you have any questions or concerns relating to privacy or security, please send an email to [webmaster@biddingforgood.com](mailto:webmaster@biddingforgood.com). BiddingForGood may modify this statement at any time, and, if we do, we will notify our users that we have done so.
+## Last Updated: April 16, 2015.
 
-### What Information We Collect
+The privacy of your personal information is very important to us. As such, BiddingForGood, Inc. ("BiddingForGood," "we," or "us") presents this Privacy Policy ("Policy") that describes how we collect, use, and disclose information through the websites, mobile applications, and other online services and products that link to or post this Policy (collectively, the "Services"). Please read the entire Privacy Policy before using our Services.
 
-When you visit and navigate our Web site, we will not collect personal information about you unless you provide us that information voluntarily. By "personal information," we mean data that is unique to an individual, such as a name, address, email address, telephone number or credit card related information.
+### 1\. Information We Collect
 
-When you register for any service or feature on our site, we require the following personal information: email address and first and last name. We may also ask you to select a personal username and password. In addition, we request that you provide additional information, such as gender, telephone number, street address, city, state, zip code and country. If you register for any service under which BiddingForGood will process payments made by you, then we may require certain financial information (such as the name on the credit card, credit card number and expiration date).
+When you visit our Services, we will not collect personal information about you unless you provide us that information voluntarily. We may ask you for some or all of the following types of information when you register with, access or use our Services, respond to any surveys or polls, or directly contact us with questions or feedback:
 
-BiddingForGood does not collect information posted in any discussion or chat areas on our site.
+  * Contact information, such as first and last name, e-mail address, postal address, and telephone number;
+  * User name and password;
+  * Demographic information, such as age information and gender;
+  * Payment information, such as credit card number and expiration date;
+  * Geolocation information;
+  * Communications preferences;
+  * Correspondence and other information that you send to us; and
+  * Additional information as otherwise described to you at the point of collection or pursuant to your consent.
 
-### How We Use Information
 
-Because we consider any personal information you give us as confidential, except in the limited circumstances described below, BiddingForGood uses information collected from you in aggregate form only. In other words, we combine the information with data collected from other individuals to produce anonymous, aggregated statistical information. We collect and use demographic information in order to improve the products and services we offer, to conduct market research, to generate profiles and reports, and to improve the overall experience of our site. We also may share this anonymous, aggregated information -- which does not identify individuals -- with partners, advertisers or other third parties.
 
-That said, except as described below, BiddingForGood will not disclose to third parties any identifying personal information gathered from you (including your email address) unless (1) we tell you how your information will be used and you give BiddingForGood specific permission to share this information or (2) BiddingForGood is required to disclose such information by any applicable law or legal process (like a subpoena or court order). Specifically, when users provide email addresses during an auction, those email addresses remain entirely under the control of the organization holding the auction, except as described below.
+We also may collect certain information automatically when you visit the Services, including:
 
-An exception to this general rule concerns our role as a facilitator of online fundraising events. In order to fulfill this role effectively, BiddingForGood must be able to provide personal information of users to the organization holding the event. Specifically, BiddingForGood discloses the following information: (1) name, email and mailing address (and/or other contact information) of all donors, (2) name and email of all "interested parties" - e.g., individuals who access the BiddingForGood site via refer your friends, email-this-page and/or email update functionalities, as well as individuals who place watches on items, and (3) name, email, mailing address (and/or other contact information) and credit card number or all high bidders and second-highest bidders (in case the high bidder is ineligible).
+  * Your browser type and operating system;
+  * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
+  * Other unique identifiers, including mobile device identification numbers;
+  * Sites you visited before and after visiting the Services;
+  * Pages you view and links you click on within the Services;
+  * Information collected through cookies, web beacons, and other technologies;
+  * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were opened or forwarded; and
+  * Standard Server Log Information.
 
-Two other exceptions to this general rule: (1) when a user arrives at, registers and bids in a BiddingForGood auction via a third party media source, BiddingForGood may share that contact information (email address) with that third party media source, as well as non-personalized bidder information; and (2) when a user registers for the BiddingForGood Bidder Community or participates in an auction that has elected to access the BiddingForGood Bidder Community, the user agrees to receive communications and other information regarding BiddingForGood.
 
-Finally, as a general matter, BiddingForGood may contact registered users to an auction with promotions or special offers related to products or services bid on by those users. Users may unsubscribe from receiving such information at any time.
 
-Please note that we do share non-personally-identifiable information (such as anonymous usage data, referring/exit pages and URLs, number of clicks, etc.) with interested third-parties so that they can understand usage patterns on our Site and assist us both in enhancing the BiddingForGood Service and improving your experience.
+We may use cookies, pixel tags, and similar technologies to automatically collect this information. Cookies are small bits of information that are stored by your computer’s web browser. Pixel tags are very small images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs," that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. By using the Services, you consent to our use of cookies and similar technologies. You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser. However, if you choose to reject cookies, you may not be able to use certain online products, services, or features on the Services.
 
-### Security
+### 2\. Use of Information
 
-BiddingForGood utilizes generally-accepted security measures (such as encryption) to protect against the misuse or unauthorized disclosure of any personal information you submit to us. However, like other Internet sites, we cannot guarantee that it is completely secure from people who might attempt to evade security measures or intercept transmissions over the Internet.
+We may use information that we collect through the Services for a variety of purposes, including to:
 
-### Updating Information and Opting-Out
+  * Provide you with the products, promotions, services, newsletters, and information you request and respond to correspondence that we receive from you;
+  * Customize and personalize your use of the Services;
+  * Contact you via email and otherwise about promotions, products, services, surveys and events that we think might be of interest to you, including with respect to our Services, auctions in which you have participated, and products or services you have bid on or placed a “watch” at an auction;
+  * Contact you with surveys, legal notices, and other information that may be relevant to your use of the Services;
+  * Maintain or administer the Services, perform business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services we offer; and
+  * As otherwise described to you at the point of collection or pursuant to your consent.
 
-We provide you with the ability to correct or update any information you have provided us. Simply click on the "My Acccount " link located at the top of each BiddingForGood auction page.
 
-If you no longer wish to receive communications from BiddingForGood, you may email us at [webmaster@biddingforgood.com](mailto:webmaster@biddingforgood.com) or click on the "unsubscribe" link at the bottom of any email sent to you by BiddingForGood.
 
-You should know that opting-out or unsubscribing from our site does not delete the personal information from our system that may exist in backup or disaster-recovery files.
+### 3\. Sharing of Information
 
-### Cookies
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect. 
 
-Cookies are pieces of data stored on your computer's hard drive by a Web site. Cookies are an industry standard and used by most major Web sites to improve their services.
+  * _Corporate Parents, Affiliates, and Subsidiaries_. We may share your information with our corporate parents, subsidiaries, and other affiliated entities for a variety of purposes, including business, operational, and marketing purposes. 
+  * _Service Providers_. We may share your information with service providers that perform certain functions or services on our behalf, such as to host the Services, manage databases, host a store or other e-commerce platform, perform analyses, or send communications for us. 
+  * _Select Business Partners_. As a facilitator of online fundraising events and donation requests, we must be able to provide your personal information to the organization holding the fundraising event and to the vendors from which you request donations. However, BiddingForGood is not responsible for the privacy practices of these business partners, which may use your information for their own purposes. 
+  * _Other Parties When Required By Law or as Necessary to Protect the Services_. We may disclose your information to third parties in order to protect the legal rights, safety, and security of BiddingForGood, our corporate parents, affiliates, and subsidiaries, and the users of our Services; enforce our Terms of Use; prevent fraud (or for risk management purposes); and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required. 
+  * _In Connection With a Transfer of Assets_. If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger, acquisition or business transfer, or in the event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction. 
+  * Other Parties With Your Consent. We may share information about you with third parties when you consent to such sharing, including when you post information to a public area of the Services, such as a chat room, discussion board, forum, blog, or other community tool. 
+  * _Aggregate Information_. We may disclose to third parties information that does not describe or identify individual users, such as aggregate website usage data or demographic reports. 
 
-BiddingForGood uses cookies for user convenience. The cookie will tell our system certain information so you don't have to fill in the same information each time you visit us. However, BiddingForGood does not store this information. Our site can only read the cookies placed on your computer by us. We cannot access any information on your hard drive placed there by you or any other source.
 
-Cookies also may be used by BiddingForGood on an aggregate basis to track site navigation. This information is not traceable to an individual user.
 
-The cookie feature can be turned off on your browser. For more information on turning off the cookie feature, consult your browser "Help" section. If you choose to turn off cookies, you can still access all areas of our site. However, you might have to "refuse" a cookie each time you encounter one searching our site.
+We may allow third parties to place and read their own cookies, web beacons, Local Shared Objects, and similar technologies to collect information through the Services. For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics. 
 
-### IP Addresses
+### 4\. Data Security
 
-An Internet Protocol (IP) address is a number that is automatically assigned to your computer by your Internet service provider whenever you access the Internet. This number may be the same each time you access the Internet or it may change. Like other Internet sites, BiddingForGood uses IP addresses to collect aggregate information about numbers of visitors and site usage. The address is logged on our server when your computer requests information from BiddingForGood. However, to allow users to access our site anonymously, your IP address is not linked with personal information about you. However, BiddingForGood reserves the right, in rare instances, to use IP addresses to identify individuals who threaten our site, service or users.
+We maintain security procedures to help protect against loss, misuse, unauthorized access, disclosure, alteration or destruction of the information you submit to us. Please note that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information. 
 
-### Chats And Discussion Boards
+You are responsible for maintaining the confidentiality of your account password and for any access to or use of the Services using your password, whether or not authorized by you. Please notify us immediately of any unauthorized use of your password or account or any other breach of security. 
 
-Please be aware that chat areas and discussion boards are open to the public so others using these areas on our site can read your posts. Any information you include when participating in chats or in posts to discussion areas is available to anyone with Internet access. For example, if you include your email address in a message you post on a discussion board, it is publicly accessible.
+### 5\. Children’s Privacy
 
-Chats and discussion boards are monitored. BiddingForGood reserves the right to remove any posts we feel are inappropriate, contain abusive language or threaten or violate the privacy of our company, sponsors or visitors.
+The Services do not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by the Children’s Online Privacy Protection Act ("COPPA"). If we learn that we inadvertently have collected identifying personal information from an individual under the age of 13, we will promptly delete that information from our system. 
 
-### Surveys and Polls
+### 6\. Social Networking Services
 
-If you respond to any surveys or polls on our site, we may ask you for demographic information such as your gender or age. This information is collected only as anonymous, aggregated information and is used for statistical purposes. Otherwise, we do not collect or store your personal responses.
+BiddingForGood has worked with certain third-party social media providers to offer you their social networking services through our Services. For example, you can use third-party social networking services, including but not limited to Facebook, Twitter, LinkedIn and others to share information about your experience on our Services with your friends and followers on those social networking services. These social networking services may be able to collect information about you, including your activity on our Services. These third-party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies. If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services. 
 
-### Children
+### 7\. Privacy Policy Updates
 
-We ask that only individuals who are over the age of 18 register on our site. If we learn that we inadvertently have collected identifying personal information from an individual under the age of 18, we will promptly delete that information from our system.
+We may modify this Privacy Policy at any time by posting revisions to the Services or other appropriate notice. Your continued use of the Services after any modification to the Privacy Policy will constitute your acceptance of the new terms and conditions of the Privacy Policy. 
 
-### Other Web Sites
+### 8\. Links to Third Party Sites and Services
 
-This privacy statement applies only as long as you remain on the BiddingForGood Web site. Once you leave BiddingForGood to visit another site, we have no control over your privacy or security issues even if you reached the other site by clicking on a link within BiddingForGood.
+The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under the control of or maintained by BiddingForGood. Such links do not constitute an endorsement by BiddingForGood of those other websites, the content displayed therein, or the persons or entities associated therewith. This Privacy Policy does not apply to this third-party content. We encourage you to review the privacy policies of these third-party websites or services. 
+
+### 9\. International Users
+
+By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States. While some of these countries may offer a different level of privacy protection, BiddingForGood commits to uphold the privacy protections as explained in this Policy. 
+
+### 10\. Your California Privacy Rights
+
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. To obtain such information, please email your request to [webmaster@biddingforgood.com](mailto:webmaster@biddingforgood.com). 
+
+Some web browsers may transmit "do-not-track" signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, BiddingForGood currently does not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals. 
+
+### 11\. Updating Communications Preferences
+
+You may choose to receive promotional emails, newsletters, and similar communications from us. You may opt out of receiving commercial emails from us by clicking on the opt-out or "unsubscribe" link included at the bottom of the commercial e-mails you receive or email us at [webmaster@biddingforgood.com](mailto:webmaster@biddingforgood.com). Your opt-out request will not apply to messages that you request or that are not commercial in nature. 
+
+Opting-out of commercial emails or unsubscribing from our Services does not delete the personal information from our system that may exist in backup or disaster-recovery files. 
+
+### 12\. Contact Us
+
+If you have any questions about this Privacy Policy, you may contact us at: [webmaster@biddingforgood.com](mailto:webmaster@biddingforgood.com). 
