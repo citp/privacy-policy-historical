@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonsense.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628212432id_/https%3A//www.commonsensemedia.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsense.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053229id_/https%3A//www.commonsensemedia.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Your California Privacy Rights | Common Sense Media
 
