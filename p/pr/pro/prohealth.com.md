@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prohealth.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626232135id_/https%3A//www.prohealth.com/shop/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prohealth.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054338id_/https%3A//www.prohealth.com/shop/privacy.cfm) for the most accurate reproduction.*
 
 # ProHealth Vitamin & Supplement Store: Privacy Policy
 
@@ -38,8 +38,8 @@ If you do not wish to receive email or postal mail from us, or have any question
 > [customerloyalty@prohealth.com](mailto:customerloyalty@prohealth.com)
 > 
 > ProHealth, Inc.  
->  2040 Alameda Padre Serra  
->  Santa Barbara, CA 93103 USA  
+>  555 Maple Ave  
+>  Carpinteria, CA 93013 USA  
 >  Customer Service: (800) 366-6056  
 >  International: 001.805.564.3064  
->  Fax: (805) 963-4515 
+>  Fax: (805) 684-6199 
