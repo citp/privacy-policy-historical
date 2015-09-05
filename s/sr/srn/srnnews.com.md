@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srnnews.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316164642id_/http%3A//www.srnnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srnnews.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084138id_/http%3A//www.srnnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SRN News
 
@@ -117,32 +117,32 @@ Parents can give written parental consent for their child to use Salem Websites,
 
 ### Most Popular
 
-  * [Two officers shot outside Ferguson police headquarters after chief quits  
-Mar 12, 2015](http://www.srnnews.com/two-officers-shot-outside-ferguson-police-headquarters-after-chief-quits-3/ "Two officers shot outside Ferguson police headquarters after chief quits")
-  * [Missouri court rules worship act violates First Amendment  
-Mar 11, 2015](http://www.srnnews.com/missouri-court-rules-worship-act-violates-first-amendment/ "Missouri court rules worship act violates First Amendment")
-  * [Judge dismisses suit over Oklahoma Ten Commandments monument  
-Mar 11, 2015](http://www.srnnews.com/judge-dismisses-suit-oklahoma-ten-commandments-monument/ "Judge dismisses suit over Oklahoma Ten Commandments monument")
-  * [11 Marines and Soldiers Presumed Dead in Florida Chopper Crash  
-Mar 11, 2015](http://www.srnnews.com/remains-found-after-11-service-members-involved-in-crash-off-florida-coast-3/ "11 Marines and Soldiers Presumed Dead in Florida Chopper Crash")
-  * [Navy chaplain in SC reassigned after complaints about views  
-Mar 16, 2015](http://www.srnnews.com/navy-chaplain-in-sc-reassigned-after-complaints-about-views/ "Navy chaplain in SC reassigned after complaints about views")
-  * [Democratic ally: Clinton should explain use of private email  
-Mar 9, 2015](http://www.srnnews.com/democratic-ally-clinton-should-explain-use-of-private-email/ "Democratic ally: Clinton should explain use of private email")
-  * [Senators decry US pastor’s imprisonment in Iran  
-Mar 12, 2015](http://www.srnnews.com/senators-decry-us-pastors-imprisonment-in-iran/ "Senators decry US pastor’s imprisonment in Iran")
-  * [Clinton emails breathe new life into Benghazi panel  
-Mar 12, 2015](http://www.srnnews.com/clinton-emails-breathe-new-life-into-benghazi-panel/ "Clinton emails breathe new life into Benghazi panel")
-  * [Republican chairman skeptical of Clinton email explanation  
-Mar 10, 2015](http://www.srnnews.com/republican-chairman-skeptical-clinton-email-explanation/ "Republican chairman skeptical of Clinton email explanation")
-  * [Clinton says used personal email account for convenience  
-Mar 10, 2015](http://www.srnnews.com/clinton-says-used-personal-email-account-for-convenience/ "Clinton says used personal email account for convenience")
+  * [With clerk jailed, gay Kentucky couple gets marriage license  
+Sep 4, 2015](http://www.srnnews.com/eyes-on-office-of-kentucky-county-clerk-jailed-in-gay-marriage-dispute-2/ "With clerk jailed, gay Kentucky couple gets marriage license")
+  * [Unprecedented migrant crisis forces EU to seek answers  
+Aug 31, 2015](http://www.srnnews.com/unprecedented-migrant-crisis-forces-eu-to-seek-answers-12/ "Unprecedented migrant crisis forces EU to seek answers")
+  * [Billy Graham’s son-in-law dies days after found in pool  
+Aug 20, 2015](http://www.srnnews.com/billy-grahams-son-in-law-dies-days-after-found-in-pool/ "Billy Graham’s son-in-law dies days after found in pool")
+  * [Trump accuses Salem Radio talk-show host of ‘gotcha’ question  
+Sep 3, 2015](http://www.srnnews.com/trump-accuses-talk-show-radio-host-of-gotcha-question/ "Trump accuses Salem Radio talk-show host of ‘gotcha’ question")
+  * [Some North Carolina officials refuse to perform marriages  
+Sep 4, 2015](http://www.srnnews.com/1153262/ "Some North Carolina officials refuse to perform marriages")
+  * [Iran nuclear deal now backed by 31 senators  
+Aug 30, 2015](http://www.srnnews.com/iran-nuclear-deal-now-backed-by-31-senators/ "Iran nuclear deal now backed by 31 senators")
+  * [Initial Common Core goals unfulfilled as results trickle in  
+Aug 31, 2015](http://www.srnnews.com/initial-common-core-goals-unfulfilled-as-results-trickle-in-2/ "Initial Common Core goals unfulfilled as results trickle in")
+  * [Kentucky clerk invokes “God’s authority” in denying same-sex marriage licenses  
+Sep 1, 2015](http://www.srnnews.com/kentucky-clerk-invokes-gods-authority-in-denying-same-sex-marriage-licenses/ "Kentucky clerk invokes “God’s authority” in denying same-sex marriage licenses")
+  * [Trump: I love the Bible  
+Aug 26, 2015](http://www.srnnews.com/trump-i-love-the-bible/ "Trump: I love the Bible")
+  * [Christian university protests same-sex marriage stance  
+Aug 21, 2015](http://www.srnnews.com/christian-university-protests-same-sex-marriage-stance/ "Christian university protests same-sex marriage stance")
 
 
 
 ### Editorial Cartoons
 
-[View More »](https://web.archive.org/opinion/cartoons/) [](http://www.srnnews.com/cartoon/new-gary-varvel-for-03122015/)
+[View More »](https://web.archive.org/opinion/cartoons/) [](http://www.srnnews.com/cartoon/new-michael-ramirez-for-08282015/)
 
-**Gary Varvel**  
-Thu, Mar 12, 2015
+**Michael Ramirez**  
+Fri, Aug 28, 2015
