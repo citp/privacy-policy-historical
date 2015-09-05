@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlsend2.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330083250id_/https%3A//www.mlsend2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlsend2.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905063659id_/https%3A//www.mailerlite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MailerLite
 
@@ -41,7 +41,3 @@ United Kingdom
 **Telephone:** +44 20 3286 4547
 
 **Email:** [info@mailerlite.com](mailto:info@mailerlite.com)
-
-### Join our newsletter
-
-We send weekly digest with useful articles, latest surveys and our blog posts about email marketing.
