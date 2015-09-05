@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralnic.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318130355id_/https%3A//www.centralnic.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralnic.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905101608id_/https%3A//www.centralnic.com/support/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Support | CentralNic
 
