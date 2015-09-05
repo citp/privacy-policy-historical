@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315090333id_/https%3A//www.salemfive.com/customer-support/security-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905222949id_/https%3A//www.salemfive.com/customer-support/security-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
