@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygreatlakes.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319041526id_/https%3A//home.mygreatlakes.org/web/about/gl/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygreatlakes.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905100325id_/https%3A//home.mygreatlakes.org/web/about/gl/PrivacyPolicy) for the most accurate reproduction.*
 
 # Great Lakes Higher Education Corporation & Affiliates
 
@@ -11,6 +11,12 @@
 
 
 If you have any questions, please contact us at [privacy@glhec.org](mailto:privacy@glhec.org).
+
+## Other Privacy Policies
+
+  * [U.S. Department of Education](https://web.archive.org/mglstatic/sharedcontent/forms/privacy_usdoe.pdf)
+
+
 
 ## Website Privacy Policy
 
