@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greyhound.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606184711id_/https%3A//www.greyhound.com/en/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greyhound.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905063135id_/https%3A//www.greyhound.com/en/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Greyhound.com | Privacy Policy
 
