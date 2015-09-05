@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vans.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317160052id_/http%3A//www.vans.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vans.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905061303id_/http%3A//www.vans.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js vfrs cms wf-loading" lang="en"><!--<![endif]--><head>
 	<title>Privacy Policy</title>
@@ -7,10 +7,11 @@
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="keywords" content="">
+<link rel="canonical" href="http://www.vans.com/privacy.html">
+
+	<meta name="keywords" content="">
 	<meta name="description" content="">
 	<link rel="shortcut icon" href="//www.vans.com/wcsstore/vans-storefront/images/favicon.ico">
-		<link rel="apple-touch-icon" href="apple-touch-icon.png">
 	
 
 
@@ -44,17 +45,16 @@
 	
 		<!-- ESI include -->
 		
-				<!-- generated: Tue Mar 17 10:24:42 EDT 2015 -->
+				<!-- generated: Fri Sep 04 15:27:40 EDT 2015 -->
 
 
-<link rel="vf-store-messages" href="//www.vans.com/shop/VFAjaxStoreMessagesView?langId=-1&amp;storeId=10153">
+<link rel="vf-store-messages" href="//www.vans.com/shop/VFAjaxStoreMessagesView?isJSONPEnabled=true&amp;langId=-1&amp;storeId=10153">
 
 
 <meta name="storeId" content="10153">
 <meta name="langId" content="-1">
 <meta name="catalogId" content="10703">
 <meta name="ecomEnabled" content="true">
-
 
 
 <script>
@@ -95,7 +95,11 @@
 		return _value;
 	};
 
-
+	WCS_CONFIG.global = {
+		"triggerEventsByGTM": false, 
+		"miniCartLocation": 'right',
+		"miniCartAutoHideTime": '6000'
+	};
     WCS_CONFIG.cart = {
         "showCartOnlyWhenActive": false,
         "shortShippingMethodNameEnabled": false
@@ -109,12 +113,18 @@
  	 	"productDescriptionListDelimiter": '|',
  	 	"marketingVideoEnabled": false,
  	 	"productVideoEnabled": false,
- 	 	"olapicEnabled": true
+ 	 	"olapicEnabled": true,
+ 	 	"hideAddToCartAllItemsOutOfStock": true,
+ 	 	"pdpHideOutOfStockSizesWhenNotifyMeNotPresent": false,
+ 	 	"pdpHideButtonsBasedOnAttribute": false,
+ 	 	"setPriceContainerHeightEnabled": true,
+ 	 	"ignoreSelectionOnFirstLoad": false
 	};
 
 	WCS_CONFIG.grid = {
 		"showLoadingNotification": false,
-		"productGridColorClickThroughEnabled": false
+		"productGridColorClickThroughEnabled": false,
+		"isAlternateViewEnabled": true
 	};
 	
 	WCS_CONFIG.owlCarousel = {
@@ -122,18 +132,24 @@
  	};
 	
 	WCS_CONFIG.checkout = {
- 		"giftCardAndPromotionCollapsedByDefault" : true
+ 		"giftCardAndPromotionCollapsedByDefault" : true,
+ 		"checkoutBillingPaymentInfoDisplayMode" : 'RADIO_DISPLAY'
  	};
 
 	WCS_CONFIG.topnav = {
  	 	 "upperNavUnderDropdown": false,
  	 	 "dropdownBackButtonNoArrow": false,
  	 	 "dropdownStackedList":  false,
+ 	 	 "dropdownStackedListConfigEnabled": false,
  	 	 "navHeaderExcludeMore": false,
+ 	 	 "navHeaderExcludeSearch": false,
  	 	 "dropdownAuxLinksEnabled": false,
+ 	 	 "navHeaderLogoSeparateLineTabletEnabled": false ,
  	 	 "navHeaderIncludeDropdownsInMore" : false,
  	 	 "dropdownSignoutMobileEnabled": false,
- 	 	 "navHeaderSignInLabelEnabled": false
+ 	 	 "navHeaderSignInLabelEnabled": false,
+ 	 	 "mobileScrollToTop": false,
+ 	 	 "navHoverDelay": 500
  	};
  	
  	WCS_CONFIG.quickView = {
@@ -163,16 +179,21 @@
 		"BREAKPOINTS": {
 			"MOBILE" : {"MIN": 0, "MAX" : 639},
 			"TABLET" : {"MIN": 640, "MAX" : 1023},
-			"DESKTOP" : {"MIN": 1024, "MAX" : 9999}
+			"DESKTOP" : {"MIN": 1024, "MAX" : 1128}
 		}
 	};
 	
 	
+	WCS_CONFIG.zclookup = {
+		"isZConfigured": 'false', 
+		"zcLength": '5'
+	};
 	
 	    WCS_CONFIG.scene7 = {
    			scene7PDPViewer: 'FlyoutViewer',
 			scene7PDPViewerName: 'FlyoutViewer',
-			scene7ProductImageSetSuffix: '_is?req=imageset,json&handler=imageSetCallBack'
+			scene7ProductImageSetSuffix: '_is?req=imageset,json&handler=imageSetCallBack',
+			scene7ImageSetPattern: 'PARTNUMBER'
        	};
 
 		var SCENE7 = {
@@ -196,7 +217,7 @@
 			"ENDPOINT"                : '/customers/',
 			"URL"                     : 'https://photorankapi-a.akamaihd.net',
 			"KEY"                     : '50cf838b14048d90154684cbe682d55fe8667992a1acc8dab2e4d195ddd59069',
-			"LIMIT"                   : '100',
+			"LIMIT"                   : '1',
 			"VERSION"                 : 'v2.2',
 			"COVER_MEDIA_ONLY"        : false,
 			"ASSET_DATA_ASSIGNMENT_BY": 'color',
@@ -207,7 +228,7 @@
 </script>
 
 
-<link rel="stylesheet" type="text/css" href="//www.vans.com/wcsstore/vf-storefront/css/scene7-override.css?v=26">
+<link rel="stylesheet" type="text/css" href="//www.vans.com/wcsstore/vf-storefront/css/scene7-override.css?v=35">
 <script type="text/javascript" src="//images.vans.com/s7viewers/html5/js/FlyoutViewer.js"></script>
 
 
@@ -221,6 +242,7 @@
 	var espotHeaderNavCloneEnabled = true;
 	var hideSearchResultsOnMobile  = 'false';
 	var productSearchSuggestionKeywordsEnabled = 'false';
+	var headerAutoSuggestEnabled = 'true';
 </script>
 
 
@@ -229,7 +251,7 @@
 			var AEM = {
 				"PATH"	: '/content/vfcorp/vans/north-america/en_us',
 				"MAX"	: '1',
-				"ARTICLE_RESULTS" : '//www.vans.com/content/vfcorp/vans/north-america/en_us/utility/article_search_results.html'
+				"ARTICLE_RESULTS" : '//www.vans.com/en_us/utility/article_search_results.html'
 			};
 		</script>
 	
@@ -241,6 +263,16 @@
 		"SAVE" : 'Saving',
 		"PROCESS" : 'Processing',
 		"UPDATE" : 'Updating'
+	};
+</script>
+
+<script>
+	var STORE_MESSAGES = {
+		"nsc" : 'Please remove the following invalid character{title}.',
+		"pattern" : 'Please match the requested format{title}.',
+		"ageRequirement" : 'You must be at least 13 years old.',
+		"strictEmail" : 'Please enter a valid email address',
+		"dob" : 'Please enter a valid date.'
 	};
 </script>
 
@@ -261,13 +293,14 @@
 	  })();
 	</script>
 		<!-- -->
-<script type="text/javascript" src="//www.vans.com/wcsstore/vf-storefront/js/metrics/zmetrics.js?v=26"></script>
+<script type="text/javascript" src="//www.vans.com/wcsstore/vf-storefront/js/metrics/zmetrics.js?v=35"></script>
 
 
 	<script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script>
-	<script type="text/javascript" src="//www.vans.com/wcsstore/vf-storefront/js/metrics/cm-listener.js?v=26"></script>
+	<script type="text/javascript" src="//www.vans.com/wcsstore/vf-storefront/js/metrics/cm-listener.js?v=35"></script>
 <!-- Google Tag Manager GTM-55FXG5 --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-55FXG5');</script><!-- End Google Tag Manager -->
-	<script type="text/javascript" src="//www.vans.com/wcsstore/vf-storefront/js/metrics/gtm-listener.js?v=26"></script>
+<script type="text/javascript" src="//www.vans.com/wcsstore/vf-storefront/js/metrics/gtm-listener.js?v=35"></script>
+
 
 
 <script type="text/javascript">
@@ -276,8 +309,10 @@
 		var cmParams = {clientId: "90176502", cmManaged: true, dcDomain: "data.coremetrics.com", cookieDomain: "vans.com"};
 		cm.initMetrics(cmParams);
 	
-		//initialize google tag manager listener
-		gtm.initMetrics();
+
+	//initialize google tag manager listener
+	gtm.initMetrics();
+	
 		
 </script>
 
@@ -287,19 +322,11 @@
 	
 
 <!-- ESI/SSI End Head Remote-->
-<!--<link href="//www.vans.com/wcsstore/vans-storefront/css/global.css" rel="stylesheet" type="text/css" />
-        <link href="//www.vans.com/wcsstore/vans-storefront/css/catalog.css" rel="stylesheet" type="text/css" />
-        <link href="//www.vans.com/wcsstore/vans-storefront/css/print.css" rel="stylesheet" type="text/css" />-->
-        <!--<link rel="stylesheet" type="text/css" href="/etc/designs/vfcorp/vans/clientlibs/global/css/global-wcs.css"/>-->
-        <link rel="stylesheet" type="text/css" href="/etc/designs/vfcorp/vans/clientlibs/global/css/global-cms.css">
-        <link rel="stylesheet" type="text/css" href="/etc/designs/vfcorp/vans/clientlibs/global/css/catalog.css">
-        <link rel="stylesheet" type="text/css" href="/etc/designs/vfcorp/vans/clientlibs/global/css/print.css">
-        
-       	<script src="/etc/designs/vfcorp/vans/clientlibs/global/js/manifest.js"></script>
-        <script data-main="/etc/designs/vfcorp/vans/clientlibs/global/js/main-cms.js" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/require.js"></script> 
-        <!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
-	<script type="text/javascript">
-		require([ 'jquery' ], function($) {
+<link href="/etc/designs/vfcorp/vans/clientlibs/global/css/global-cms.css" rel="stylesheet" type="text/css">
+
+<!-- Begin Monetate Custom Tag -->
+		<!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
+		<script type="text/javascript">
 			var monetateT = new Date().getTime();
 			(function() {
 				var p = document.location.protocol;
@@ -307,25 +334,35 @@
 					var m = document.createElement('script');
 					m.type = 'text/javascript';
 					m.async = true;
-					m.src = (p == "https:" ? "https://s" : "http://")
-							+ "b.monetate.net/js/1/a-1c6f575e/p/vans.com/"
-							+ Math.floor((monetateT + 1858910) / 3600000)
-							+ "/g";
+					m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-1c6f575e/p/vans.com/" + Math.floor((monetateT + 1858910) / 3600000) + "/g";
 					var s = document.getElementsByTagName('script')[0];
 					s.parentNode.insertBefore(m, s);
 				}
 			})();
-		});
-	</script>
-	<!-- End Monetate tag. -->
-<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/etc/designs/vfcorp/vans/clientlibs/global/js/main-cms.js" src="/etc/designs/vfcorp/vans/clientlibs/global/js/main-cms.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//web.archive.org/web/20150911121213/http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="shared.equalizer" src="/etc/designs/vfcorp/vans/clientlibs/global/js/shared/equalizer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="domReady" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/domReady-2.0.1.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="picturefill" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/picturefill.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cycle" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/jquery.cycle2.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="matchmedia" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/matchMedia-0.2.0.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modernizr" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/modernizr.js"></script></head>
-<body class="">
+		</script>
+		<!-- End Monetate tag. --><!-- END Monetate tag. -->
+	<script src="/etc/designs/vfcorp/vans/clientlibs/global/js/manifest.js"></script>
+        <script data-main="/etc/designs/vfcorp/vans/clientlibs/global/js/main-cms.js" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/require.js"></script> 
+        <meta property="og:title" content="Privacy Policy">
+
+<meta property="og:site_name" content="Vans USA - English">
+
+<meta property="og:url" content="http://www.vans.com/privacy.html">
+
+<meta property="og:description" content="">
+
+<!-- No og:image set -->
+	<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="/etc/designs/vfcorp/vans/clientlibs/global/js/main-cms.js" src="/etc/designs/vfcorp/vans/clientlibs/global/js/main-cms.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="//web.archive.org/web/20150911121213/http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="shared.equalizer" src="/etc/designs/vfcorp/vans/clientlibs/global/js/shared/equalizer.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="domReady" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/domReady-2.0.1.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="picturefill" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/picturefill.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="matchmedia" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/matchMedia-0.2.0.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="modernizr" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/modernizr.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="cycle" src="/etc/designs/vfcorp/vans/clientlibs/global/js/vendor/jquery.cycle2.js"></script></head>
+<body id="" class="">
+	<!--[if lt IE 9]>
+	    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
 	<div id="master-container" class="wroot">
 		<div class="masthead header"><!-- ESI/SSI Start MastHead-->
-<!-- IncludeURL: http://www.vans.com/webapp/wcs/stores/servlet/VFHeaderDisplayView?storeId=10153&langId=-1 -->
+<!-- IncludeURL: http://www.vans.com/webapp/wcs/stores/servlet/VFHeaderDisplayView?storeId=10153&langId=-1&aem=true -->
 <!-- ESI include -->
 		
-				<!-- generated: Tue Mar 17 10:26:29 EDT 2015 -->
+				<!-- generated: Fri Sep 04 15:27:40 EDT 2015 -->
 
 <!-- -->			
 
@@ -333,11 +370,9 @@
 
 		
 
-    <!--[if lt IE 9]>
-    	<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
 
-<section id="global-cart-wishlist-panels" class="global-cart-wishlist-panels-js" data-currency="USD">
+
+<section id="global-cart-wishlist-panels" class="l-right global-cart-wishlist-panels-js global-cart-wishlist-panels-top-js" data-currency="USD">
 	<ul class="tags">
 		<li class="cart cart-js" data-tabcontent-id="shopcart">
 			<span class="nav-shoppingbag-qty-js"></span>
@@ -353,19 +388,19 @@
 		<article class="shopcart cart-list" data-tabcontent="shopcart"></article>
 		<article class="wishlist cart-list" data-tabcontent="wishlist"></article>
 	</div>
-	<div class="notification"></div>
+	<div class="notification hide"></div>
 </section>
 
 <div id="global-body-overlay" title="Click to close"></div>
 
 <div class="contain-to-grid contain-to-grid-js">
 		<div id="master-header" class="master-header">
-        <nav class="top-bar top-bar-js" data-options="custom_back_text: false">
+        <nav class="top-bar top-bar-js" data-options="custom_back_text:true; mobile_show_parent_link: true; back_text: Back">
     		<ul class="title-area">
     			<li class="name">
     				<nav class="store-logo">
                 					
-							<!-- generated: Tue Mar 17 10:10:26 EDT 2015 -->
+							<!-- generated: Fri Sep 04 14:41:10 EDT 2015 -->
 
 
 
@@ -400,7 +435,7 @@
                 </li>
 				
 				    					
-							<!-- generated: Tue Mar 17 10:10:26 EDT 2015 -->
+							<!-- generated: Fri Sep 04 14:41:10 EDT 2015 -->
 
 
 
@@ -421,20 +456,20 @@
     			
         	<section class="top-bar-section">
     			    					
-							<!-- generated: Tue Mar 17 10:10:26 EDT 2015 -->
+							<!-- generated: Fri Sep 04 14:41:10 EDT 2015 -->
 
 
 
 <ul class="right upper">
 
 	
-			<li class="unav-1 ">
+			<li class="unav-1  ">
 				
 						<a href="http://www.vans.com/utility/store-locator.html"><span>Find Store</span></a>
 					
 			</li>
 		
-			<li class="unav-2 ">
+			<li class="unav-2  ">
 				
 						<a href="http://www.vans.com/gift-card.html"><span>Gift Card</span></a>
 					
@@ -498,14 +533,15 @@
 </ul>
 
 					    			    			
-    			<ul class="right lower cat-menu-js">
-    						
-							<!-- generated: Tue Mar 17 10:10:26 EDT 2015 -->
+				<div class="lower-container lower-container-js">
+        			<ul class="right lower cat-menu-js">
+        						
+							<!-- generated: Fri Sep 04 14:41:10 EDT 2015 -->
 
 
 					
 					
-					<li class="hidden-nav-item more-link-js">
+					<li class="more-link-js">
 						
 								<a href="/shop.html">Shop</a>
 							
@@ -519,7 +555,6 @@
 								<span class="dropdown-arrow"></span>
 								
 								<!-- -->			
-
 
 
 
@@ -538,17 +573,22 @@
                 </ul> 
             </div> 
         </li>
-		<li class="has-dropdown has-dropdown-js featured-items-list">
-    	    	    	    		    			<div class="featured-items">
+        
+        
+    	    	    	    		    			
+    			    				<li class="has-dropdown has-dropdown-js featured-items-list">
+    			    			
+    			<div class="featured-items">
     				<div class="sub-category-header">Shop By</div>
     				<ul>
-    																				<li><a class="button-link" href="http://www.vans.com/shop/mens-new-and-popular-arrivals">New Arrivals</a></li>
-							    																				<li><a class="button-link" href="/classic-styles.html">Classic Styles</a></li>
-							    																				<li><a class="button-link" href="/custom-shoes.html">Custom Shoes</a></li>
-							    																				<li><a class="button-link" href="/fit-guides/mens-denim-fit-guie.html">Pants and Denim Fit Guide</a></li>
+    																				<li><a class="button-link" href="http://www.vans.com/shop/mens-new-and-popular-arrivals"><p class="catLabel">New Arrivals</p></a></li>
+							    																				<li><a class="button-link" href="/classic-styles.html"><p class="catLabel">Classic Styles</p></a></li>
+							    																				<li><a class="button-link" href="/custom-shoes.html"><p class="catLabel">Custom Shoes</p></a></li>
+							    																				<li><a class="button-link" href="/shoe-style-guide.html"><p class="catLabel">Footwear Guide</p></a></li>
 							    					    				</ul>
     			</div>
-    				    				    				    				    				    				        </li>
+    			    				</li>
+    			    				    				    				    				    				    				        
 												        						        										<li class="has-dropdown has-dropdown-js sub-category">
                     
 											<a href="http://www.vans.com/shop/mens-shoes" class="sub-category-header">Shoes</a>
@@ -562,10 +602,11 @@
 																												<li><a href="http://www.vans.com/shop/mens-shoes-california-collection">California Collection</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-shoes-lxvi">LXVI®</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-shoes-bmx">BMX</a></li>
-																												<li><a href="/vault.html">Vault®</a></li>
+																												<li><a href="http://www.vans.com/shop/mens-shoes-snowboarding-boots">Snowboard Boots</a></li>
+																												<li><a href="/vault.html">Vans Vault®</a></li>
 																												<li><a href="/syndicate.html">Syndicate®</a></li>
-																			<li><a href="http://www.vans.com/shop/mens-shoes" class="all">Shop All Shoes</a></li>
-					</ul>
+																										<li><a href="http://www.vans.com/shop/mens-shoes" class="all">Shop All Shoes</a></li>
+											</ul>
 				</li>
 			        										<li class="has-dropdown has-dropdown-js sub-category">
                     
@@ -573,75 +614,67 @@
 										
 					<ul class="content dropdown">
 																					<li><a href="http://www.vans.com/shop/mens-clothes-tees">T-Shirts</a></li>
-																												<li><a href="http://www.vans.com/shop/mens-clothes-tank-tops">Tanks</a></li>
-																												<li><a href="http://www.vans.com/shop/mens-clothes-shirts">Shirts</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-clothes-fleece-hoodies-sweatshirts">Sweatshirts &amp; Hoodies</a></li>
+																												<li><a href="http://www.vans.com/shop/mens-clothes-shirts">Shirts</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-clothes-jackets">Jackets</a></li>
+																												<li><a href="http://www.vans.com/shop/mens-clothes-sweaters">Sweaters</a></li>
+																												<li><a href="http://www.vans.com/shop/mens-clothes-denim-jeans">Jeans</a></li>
+																												<li><a href="http://www.vans.com/shop/mens-clothes-pants">Pants &amp; Joggers</a></li>
+																												<li><a href="http://www.vans.com/shop/mens-clothes-tank-tops">Tanks</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-clothes-shorts">Shorts</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-clothes-boardshorts">Boardshorts</a></li>
-																												<li><a href="http://www.vans.com/shop/mens-clothes-pants">Pants &amp; Joggers</a></li>
-																												<li><a href="http://www.vans.com/shop/mens-clothes-denim-jeans">Jeans</a></li>
-																			<li><a href="http://www.vans.com/shop/mens-clothes" class="all">Shop All Clothing</a></li>
-					</ul>
+																										<li><a href="http://www.vans.com/shop/mens-clothes" class="all">Shop All Clothing</a></li>
+											</ul>
 				</li>
 			        										<li class="has-dropdown has-dropdown-js sub-category">
                     
 											<a href="http://www.vans.com/shop/mens-accessories" class="sub-category-header">Accessories</a>
 										
 					<ul class="content dropdown">
-																					<li><a href="http://www.vans.com/shop/mens-accessories-hats-snapbacks">Hats &amp; Snapbacks</a></li>
+																					<li><a href="http://www.vans.com/shop/mens-accessories-backpacks-bags">Backpacks &amp; Bags</a></li>
+																												<li><a href="http://www.vans.com/shop/mens-accessories-hats-snapbacks">Hats &amp; Snapbacks</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-accessories-beanies">Beanies</a></li>
-																												<li><a href="http://www.vans.com/shop/mens-accessories-backpacks-bags">Backpacks &amp; Bags</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-accessories-socks">Socks</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-accessories-sunglasses">Sunglasses</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-accessories-wallets">Wallets</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-accessories-belts">Belts</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-accessories-laces">Laces</a></li>
-																			<li><a href="http://www.vans.com/shop/mens-accessories" class="all">Shop All Accessories</a></li>
-					</ul>
+																										<li><a href="http://www.vans.com/shop/mens-accessories" class="all">Shop All Accessories</a></li>
+											</ul>
 				</li>
 			        										<li class="has-dropdown has-dropdown-js sub-category">
                     
-											<a href="/mens-collaborations.html" class="sub-category-header">Collaborations</a>
+											<a href="/shop/mens-collaborations" class="sub-category-header">Collaborations</a>
 										
 					<ul class="content dropdown">
-																					<li><a href="http://www.vans.com/shop/mens-collaborations-zio-ziegler-otw">Vans x Zio Ziegler</a></li>
+																					<li><a href="http://www.vans.com/shop/disney-and-vans">Disney and Vans</a></li>
+																												<li><a href="http://www.vans.com/shop/m-vans-x-eley-kishimoto-collaboration">Vans x Eley Kishimoto</a></li>
 																												<li><a href="http://www.vans.com/shop/mens-collaborations-anti-hero">Vans x Anti Hero</a></li>
-																												<li><a href="http://www.vans.com/shop/mens-collaborations-star-wars">Vans x Star Wars</a></li>
-																												<li><a href="http://www.vans.com/shop/mens-collaborations-liberty-art-fabrics">Vans x Liberty</a></li>
-																			<li><a href="/mens-collaborations.html" class="all">Shop All Collaborations</a></li>
-					</ul>
+																												<li><a href="http://www.vans.com/shop/m-vans-x-truth">Vans x truth</a></li>
+																												<li><a href="http://www.vans.com/shop/mens-collaborations-zio-ziegler-otw">Vans x Zio Ziegler</a></li>
+																												<li><a href="/shop/womens-collaborations-aspca">Vans x ASPCA</a></li>
+																												<li><a href="http://www.vans.com/shop/vans-x-nixon-collaboration">Vans x Nixon</a></li>
+																										<li><a href="/shop/mens-collaborations" class="all">Shop All Collaborations</a></li>
+											</ul>
 				</li>
 			        		
 				
         	    		        	        					        		    				    				
     				<li class="has-dropdown has-dropdown-js nav-product-carousel">
         				<div class="product-carousel">
-        					<div class="sub-category-header">Our Favorites</div>
+        					<div class="sub-category-header">Suggested For You</div>
         						<ul class="header-nav-carousel-js header-nav-carousel">
         							        
-        								    									                                            									
+        								                                        
+    									    									                                            									
         								<li>
-            								<div class="slide-img"><a href="http://www.vans.com/shop/chima-ferguson-pro-acid-wash-light-navy"><img alt="Chima Ferguson Pro" src="//images.vans.com/is/image/Vans/UARF6B-HERO?$168x168$"></a></div>
+            								<div class="slide-img"><a href="http://www.vans.com/shop/canvas-sk8-hi-formula-one"><img alt="Canvas SK8-Hi" src="//images.vans.com/is/image/Vans/TS9GYK-HERO?$168x168$"></a></div>
             								<div class="name">
-            									<span><a href="http://www.vans.com/shop/chima-ferguson-pro-acid-wash-light-navy">Chima Ferguson Pro</a></span>
+            									<span><a href="http://www.vans.com/shop/canvas-sk8-hi-formula-one">Canvas SK8-Hi</a></span>
             								</div>
         									                								<div class="price">
                 									<span class="current-price">
-            											            												$65.00
-            											            										</span>
-                								</div>
-        									            							</li>
-        							        
-        								    									                                            									
-        								<li>
-            								<div class="slide-img"><a href="http://www.vans.com/shop/coyote-hills-backpack-wampum"><img alt="Coyote Hills Backpack" src="//images.vans.com/is/image/Vans/XUWG0B-HERO?$168x168$"></a></div>
-            								<div class="name">
-            									<span><a href="http://www.vans.com/shop/coyote-hills-backpack-wampum">Coyote Hills Backpack</a></span>
-            								</div>
-        									                								<div class="price">
-                									<span class="current-price">
-            											            												$55.00
+            											            												$60.00
             											            										</span>
                 								</div>
         									            							</li>
@@ -664,7 +697,6 @@
 
 
 
-
 	<ul class="dropdown">
 		<li> 
             <div class="shop-all"> 
@@ -679,17 +711,22 @@
                 </ul> 
             </div> 
         </li>
-		<li class="has-dropdown has-dropdown-js featured-items-list">
-    	    	    	    		    			<div class="featured-items">
+        
+        
+    	    	    	    		    			
+    			    				<li class="has-dropdown has-dropdown-js featured-items-list">
+    			    			
+    			<div class="featured-items">
     				<div class="sub-category-header">Shop By</div>
     				<ul>
-    																				<li><a class="button-link" href="http://www.vans.com/shop/womens-new-and-popular-arrivals">New Arrivals</a></li>
-							    																				<li><a class="button-link" href="/classic-styles.html">Classic Styles</a></li>
-							    																				<li><a class="button-link" href="/custom-shoes.html">Custom Shoes</a></li>
-							    																				<li><a class="button-link" href="/fit-guides/womens-fit-guide.html">Tee Fit Guide</a></li>
+    																				<li><a class="button-link" href="http://www.vans.com/shop/womens-new-and-popular-arrivals"><p class="catLabel">New Arrivals</p></a></li>
+							    																				<li><a class="button-link" href="/classic-styles.html"><p class="catLabel">Classic Styles</p></a></li>
+							    																				<li><a class="button-link" href="/custom-shoes.html"><p class="catLabel">Custom Shoes</p></a></li>
+							    																				<li><a class="button-link" href="/shop-the-look.html"><p class="catLabel">Shop the Look</p></a></li>
 							    					    				</ul>
     			</div>
-    				    				    				    				    				    				        </li>
+    			    				</li>
+    			    				    				    				    				    				    				        
 												        						        										<li class="has-dropdown has-dropdown-js sub-category">
                     
 											<a href="http://www.vans.com/shop/womens-shoes" class="sub-category-header">Shoes</a>
@@ -700,8 +737,10 @@
 																												<li><a href="http://www.vans.com/shop/womens-shoes-surf">Surf</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-shoes-sandals">Sandals</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-shoes-california-collection">California Collection</a></li>
-																			<li><a href="http://www.vans.com/shop/womens-shoes" class="all">Shop All Shoes</a></li>
-					</ul>
+																												<li><a href="http://www.vans.com/shop/womens-shoes-lxvi">LXVI®</a></li>
+																												<li><a href="http://www.vans.com/shop/womens-shoes-snowboard-boots">Snowboard Boots</a></li>
+																										<li><a href="http://www.vans.com/shop/womens-shoes" class="all">Shop All Shoes</a></li>
+											</ul>
 				</li>
 			        										<li class="has-dropdown has-dropdown-js sub-category">
                     
@@ -711,14 +750,14 @@
 																					<li><a href="http://www.vans.com/shop/womens-clothes-tees">T-Shirts &amp; Tanks</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-clothes-fleece-hoodies-sweatshirts">Sweatshirts &amp; Hoodies</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-clothes-tops">Shirts &amp; Tops</a></li>
-																												<li><a href="http://www.vans.com/shop/womens-clothes-jackets">Jackets</a></li>
-																												<li><a href="http://www.vans.com/shop/womens-clothes-pants">Pants &amp; Leggings</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-clothes-dresses">Dresses &amp; Skirts</a></li>
-																												<li><a href="http://www.vans.com/shop/womens-clothes-shorts">Shorts</a></li>
+																												<li><a href="http://www.vans.com/shop/womens-clothes-jackets">Jackets</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-clothes-sweaters">Sweaters</a></li>
+																												<li><a href="http://www.vans.com/shop/womens-clothes-pants">Pants &amp; Leggings</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-clothes-denim-jeans">Jeans</a></li>
-																			<li><a href="http://www.vans.com/shop/womens-clothes" class="all">Shop All Clothing</a></li>
-					</ul>
+																												<li><a href="/shop-the-look.html">Shop the Look</a></li>
+																										<li><a href="http://www.vans.com/shop/womens-clothes" class="all">Shop All Clothing</a></li>
+											</ul>
 				</li>
 			        										<li class="has-dropdown has-dropdown-js sub-category">
                     
@@ -726,59 +765,49 @@
 										
 					<ul class="content dropdown">
 																					<li><a href="http://www.vans.com/shop/womens-accessories-backpacks-bags">Backpacks &amp; Bags</a></li>
-																												<li><a href="http://www.vans.com/shop/womens-accessories-beanies">Beanies</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-accessories-hats">Hats</a></li>
+																												<li><a href="http://www.vans.com/shop/womens-accessories-beanies">Beanies</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-accessories-socks">Socks</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-accessories-sunglasses">Sunglasses</a></li>
+																												<li><a href="http://www.vans.com/shop/womens-accessories-coldwear">Scarves &amp; Gloves</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-accessories-wallets">Wallets</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-accessories-keychains">Keychains</a></li>
-																												<li><a href="http://www.vans.com/shop/womens-accessories-coldwear">Scarves &amp; Gloves</a></li>
-																			<li><a href="http://www.vans.com/shop/womens-accessories" class="all">Shop All Accessories</a></li>
-					</ul>
+																												<li><a href="/shop-the-look.html">Shop the Look</a></li>
+																										<li><a href="http://www.vans.com/shop/womens-accessories" class="all">Shop All Accessories</a></li>
+											</ul>
 				</li>
 			        										<li class="has-dropdown has-dropdown-js sub-category">
                     
-											<a href="/womens-collaborations.html" class="sub-category-header">Collaborations</a>
+											<a href="http://www.vans.com/shop/womens-collaborations" class="sub-category-header">Collaborations</a>
 										
 					<ul class="content dropdown">
-																					<li><a href="http://www.vans.com/shop/womens-collaborations-aspca">Vans x ASPCA</a></li>
+																					<li><a href="http://www.vans.com/shop/disney-and-vans-womens">Disney and Vans</a></li>
+																												<li><a href="http://www.vans.com/shop/vans-x-eley-kishimoto">Vans x Eley Kishimoto</a></li>
+																												<li><a href="http://www.vans.com/shop/w-vans-x-truth">Vans x truth</a></li>
+																												<li><a href="http://www.vans.com/shop/womens-collaborations-aspca">Vans x ASPCA</a></li>
 																												<li><a href="http://www.vans.com/shop/womens-collaborations-zio-ziegler-otw">Vans x Zio Ziegler</a></li>
-																												<li><a href="http://www.vans.com/shop/womens-collaborations-liberty-art-prints">Vans x Liberty</a></li>
-																												<li><a href="http://www.vans.com/shop/womens-collaborations-star-wars">Vans x Star Wars</a></li>
-																												<li><a href="http://www.vans.com/shop/womens-collaborations-seea">Vans x Seea</a></li>
-																			<li><a href="/womens-collaborations.html" class="all">Shop All Collaborations</a></li>
-					</ul>
+																												<li><a href="http://www.vans.com/shop/w-vans-nixon-collaboration">Vans x Nixon</a></li>
+																										<li><a href="http://www.vans.com/shop/womens-collaborations" class="all">Shop All Collaborations</a></li>
+											</ul>
 				</li>
 			        		
 				
         	    		        	        					        		    				    				
     				<li class="has-dropdown has-dropdown-js nav-product-carousel">
         				<div class="product-carousel">
-        					<div class="sub-category-header">Our Favorites</div>
+        					<div class="sub-category-header">Suggested For You</div>
         						<ul class="header-nav-carousel-js header-nav-carousel">
         							        
-        								    									                                            									
+        								                                        
+    									    									                                            									
         								<li>
-            								<div class="slide-img"><a href="http://www.vans.com/shop/metallic-leather-slip-on-gold"><img alt="Metallic Leather Slip-On" src="//images.vans.com/is/image/Vans/0MEG8U-HERO?$168x168$"></a></div>
+            								<div class="slide-img"><a href="http://www.vans.com/shop/sk8-hi-slim-windsor-wine"><img alt="Sk8-Hi Slim" src="//images.vans.com/is/image/Vans/18IJMA-HERO?$168x168$"></a></div>
             								<div class="name">
-            									<span><a href="http://www.vans.com/shop/metallic-leather-slip-on-gold">Metallic Leather Slip-On</a></span>
+            									<span><a href="http://www.vans.com/shop/sk8-hi-slim-windsor-wine">Sk8-Hi Slim</a></span>
             								</div>
         									                								<div class="price">
                 									<span class="current-price">
-            											            												$60.00
-            											            										</span>
-                								</div>
-        									            							</li>
-        							        
-        								    									                                            									
-        								<li>
-            								<div class="slide-img"><a href="http://www.vans.com/shop/realm-floral-backpack-hawaiian-black"><img alt="Realm Hawaiian Floral Backpack" src="//images.vans.com/is/image/Vans/NZ0FWY-HERO?$168x168$"></a></div>
-            								<div class="name">
-            									<span><a href="http://www.vans.com/shop/realm-floral-backpack-hawaiian-black">Realm Hawaiian Floral Backpack</a></span>
-            								</div>
-        									                								<div class="price">
-                									<span class="current-price">
-            											            												$35.00
+            											            												$55.00
             											            										</span>
                 								</div>
         									            							</li>
@@ -803,50 +832,50 @@
             	            		<li class="item">
             			            				<a href="http://www.vans.com/shop/kids-boys-shoes" class="img">
             			            			
-            				            				<img src="//images.vans.com/is/image/Vans/ZUKFSW-HERO?$CATEGORY-THUMBNAIL$" alt="Boy's Shoes" class="show-for-medium-up">
+            				            				<img src="//images.vans.com/is/image/Vans/Y6XFF4-HERO?$CATEGORY-THUMBNAIL$" alt="Boy's Shoes" class="show-for-medium-up">
                             <span>Boy's Shoes</span>
             			</a>
-            			<a href="#" class="desc show-for-medium-up"><p>Size 3.5-6.0</p></a>
+						<a href="http://www.vans.com/shop/kids-boys-shoes" class="desc show-for-medium-up"><p>Size 3.5-6.0</p></a>
             		</li>
             	            		<li class="item">
             			            				<a href="http://www.vans.com/shop/kids-girls-shoes" class="img">
             			            			
-            				            				<img src="//images.vans.com/is/image/Vans/ZUQFG0-HERO?$CATEGORY-THUMBNAIL$" alt="Girl's Shoes" class="show-for-medium-up">
+            				            				<img src="//images.vans.com/is/image/Vans/W6MGG6-HERO?$CATEGORY-THUMBNAIL$" alt="Girl's Shoes" class="show-for-medium-up">
                             <span>Girl's Shoes</span>
             			</a>
-            			<a href="#" class="desc show-for-medium-up"><p>Size 10.5-4.0</p></a>
+						<a href="http://www.vans.com/shop/kids-girls-shoes" class="desc show-for-medium-up"><p>Size 10.5-4.0</p></a>
             		</li>
             	            		<li class="item">
             			            				<a href="http://www.vans.com/shop/kids-little-boys-shoes" class="img">
             			            			
-            				            				<img src="//images.vans.com/is/image/Vans/SD5FA9-HERO?$CATEGORY-THUMBNAIL$" alt="Little Boy's Shoes" class="show-for-medium-up">
+            				            				<img src="//images.vans.com/is/image/Vans/D5F6BT-HERO?$CATEGORY-THUMBNAIL$" alt="Little Boy's Shoes" class="show-for-medium-up">
                             <span>Little Boy's Shoes</span>
             			</a>
-            			<a href="#" class="desc show-for-medium-up"><p>Size 10.5-3.0</p></a>
+						<a href="http://www.vans.com/shop/kids-little-boys-shoes" class="desc show-for-medium-up"><p>Size 10.5-3.0</p></a>
             		</li>
             	            		<li class="item">
             			            				<a href="http://www.vans.com/shop/kids-toddler-baby-shoes" class="img">
             			            			
-            				            				<img src="//images.vans.com/is/image/Vans/UC0FA9-HERO?$CATEGORY-THUMBNAIL$" alt="Toddler/Infant Shoes" class="show-for-medium-up">
+            				            				<img src="//images.vans.com/is/image/Vans/LYHCK2-HERO?$CATEGORY-THUMBNAIL$" alt="Toddler/Infant Shoes" class="show-for-medium-up">
                             <span>Toddler/Infant Shoes</span>
             			</a>
-            			<a href="#" class="desc show-for-medium-up"><p>Toddlers 4.0-10.0 <br> Infants 0-9 Months <br></p></a>
+						<a href="http://www.vans.com/shop/kids-toddler-baby-shoes" class="desc show-for-medium-up"><p>Toddlers 4.0-10.0 <br> Infants 0-9 Months <br></p></a>
             		</li>
             	            		<li class="item">
             			            				<a href="http://www.vans.com/shop/kids-boys-clothes" class="img">
             			            			
-            				            				<img src="//images.vans.com/is/image/Vans/0WM0D4-HERO?$CATEGORY-THUMBNAIL$" alt="Boy's Clothes" class="show-for-medium-up">
+            				            				<img src="//images.vans.com/is/image/Vans/2R8HTG-HERO?$CATEGORY-THUMBNAIL$" alt="Boy's Clothes" class="show-for-medium-up">
                             <span>Boy's Clothes</span>
             			</a>
-            			<a href="#" class="desc show-for-medium-up"><p></p></a>
+						<a href="http://www.vans.com/shop/kids-boys-clothes" class="desc show-for-medium-up"><p></p></a>
             		</li>
             	            		<li class="item">
             			            				<a href="http://www.vans.com/shop/kids-accessories" class="img">
             			            			
-            				            				<img src="//images.vans.com/is/image/Vans/NQWFW5-HERO?$CATEGORY-THUMBNAIL$" alt="Accessories" class="show-for-medium-up">
+            				            				<img src="//images.vans.com/is/image/Vans/U8G9RJ-HERO?$CATEGORY-THUMBNAIL$" alt="Accessories" class="show-for-medium-up">
                             <span>Accessories</span>
             			</a>
-            			<a href="#" class="desc show-for-medium-up"><p></p></a>
+						<a href="http://www.vans.com/shop/kids-accessories" class="desc show-for-medium-up"><p></p></a>
             		</li>
             	            	
             	            	            		<li class="item">
@@ -854,7 +883,7 @@
             				            				<img src="//images.vans.com/is/image/VansBrand/shop%2Dall%2Dkids?fmt=jpeg&amp;qlt=100,0" alt="Kids" class="show-for-medium-up">
             				<span>Kids</span>
             			</a>
-            			<a href="#" class="desc show-for-medium-up"><p></p></a>
+						<a href="/kids.html" class="desc show-for-medium-up"><p></p></a>
             		</li>
     						</ul>
 		</div>
@@ -864,7 +893,15 @@
 				
 					
 					
-					<li class="hidden-nav-item more-link-js">
+					<li class="more-link-js">
+						
+								<a href="/customs.html">Customs</a>
+							
+					</li>
+				
+					
+					
+					<li class="more-link-js">
 						
 								<a href="/skate.html">Skate</a>
 							
@@ -872,7 +909,7 @@
 				
 					
 					
-					<li class="hidden-nav-item more-link-js">
+					<li class="more-link-js">
 						
 								<a href="/surf.html">Surf</a>
 							
@@ -880,7 +917,7 @@
 				
 					
 					
-					<li class="hidden-nav-item more-link-js">
+					<li class="more-link-js">
 						
 								<a href="/snow.html">Snow</a>
 							
@@ -895,7 +932,7 @@
 								
 								<!-- --><ul class="dropdown-list dropdown dropdown-list-js">
 				<li class="mega sub-category has-dropdown has-dropdown-js">
-			<a href="http://www.vans.com/shop/on-vanscom" class="sub-category-header">On Vans.com</a>
+			<a href="#" class="sub-category-header">On Vans.com</a>
 			
 						
 									
@@ -907,7 +944,7 @@
 																				<li class="more-link-js"><a href="/skateparks-orange.html">Orange Skatepark</a></li>
 																				<li class="more-link-js"><a href="/skateparks-hb.html">HB Skatepark</a></li>
 																				<li class="more-link-js"><a href="/events.html">Events</a></li>
-																				<li class="more-link-js"><a href="/custom-shoes.html">Custom Shoes</a></li>
+																				<li class="more-link-js"><a href="/customs.html">Customs</a></li>
 																				<li class="more-link-js"><a href="/lxvi.html">LXVI®</a></li>
 																				<li class="more-link-js"><a href="/otw.html">OTW Collection®</a></li>
 																				<li class="more-link-js"><a href="/vault.html">Vault®</a></li>
@@ -916,7 +953,7 @@
 												</ul>
         </li>
 					<li class="mega sub-category has-dropdown has-dropdown-js">
-			<a href="http://www.vans.com/shop/elsewhere" class="sub-category-header">Elsewhere</a>
+			<a href="#" class="sub-category-header">Elsewhere</a>
 			
 						
 						
@@ -933,18 +970,20 @@
 			</ul><!-- -->
 					</li>
 				
-					                </ul>
+					                    </ul>
+				</div>
+				
         	</section>
          </nav>
     	 
     	 <!-- START: SEARCH -->
     	<div class="search-form-container">
     				
-							<!-- generated: Tue Mar 17 10:10:27 EDT 2015 -->
+							<!-- generated: Fri Sep 04 14:41:12 EDT 2015 -->
 
 
 
-<form class="menu-content search-form-js" action="http://www.vans.com/shop/SearchDisplay?" method="get" novalidate="novalidate">
+<form class="menu-content search-form-js wcs-form" action="/shop/SearchDisplay" method="get" novalidate="novalidate">
 	<input type="hidden" name="storeId" value="10153">
 	<input type="hidden" name="catalogId" value="10703">
 	<input type="hidden" name="langId" id="siteLangId" value="-1">
@@ -958,7 +997,7 @@
 		<div class="topbar-search-form topbar-search-form-js">
 			<span class="dropdown-arrow"></span>
 			<div class="search-input-container">
-				<input class="formPlaceHolder hearder-search-term-input-js search-input-js" type="text" id="search" name="searchTerm" placeholder="Search Vans" autocomplete="off">
+				<input class="formPlaceHolder header-search-term-input-js search-input-js" type="text" id="search" name="searchTerm" placeholder="Search Vans" autocomplete="off">
 			</div>
 			<div class="search-button-container">
 				<input class="search-button search-button-mobile-js" type="submit" value="Search">
@@ -977,7 +1016,7 @@
 	<div class="page-util-container">
 				<div id="espot-header" class="espot-header-js">
 					
-							<!-- generated: Tue Mar 17 10:10:27 EDT 2015 -->
+							<!-- generated: Fri Sep 04 14:41:12 EDT 2015 -->
 
 
 
@@ -1000,10 +1039,16 @@
 						
 			
 <div class="promo-content">
-     Free Shipping Available on Orders of $49 or More!
+     Get a $15 eGift and Free Shipping on $49+ Orders!
 <span class="offer">
      <a href="/help-promo-rules.html">See Details</a></span>
 </div>
+
+<style type="text/css">
+     .promo-content{
+           padding: 5px 0px 5px 0px;
+}
+</style>
 						
 	</div>
 
@@ -1079,39 +1124,89 @@ font-weight: 800;
 	
 <h3>OUR PRIVACY POLICY</h3><br>
 
-Vans, a division of VF Outdoor, Inc. recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy informs you of how information is collected on and through vans.com (the "Web Site") and how we use and disclose this information. Information collected on or through this Web Site may be collected by Vans or by third-party service providers acting on our behalf. The term "we" as used in this Privacy Policy may include our third-party service providers, particularly with respect to the collection, use and storage of information. By accessing this Web Site, you agree to be bound by this Privacy Policy.<br><br>&nbsp;Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Web Site and, where applicable, through the Customer Service Department in connection with this Web Site. This Privacy Policy does not necessarily reflect our practices with respect to information gathered through other web sites that we operate or through off-line means.
-This Privacy Policy was last updated September 22, 2010. This Privacy Policy may be updated from time to time. Please check back periodically for further updates and changes.<br><br>
+Vans recognizes that you care how information about you is used and shared and respects your privacy. This Privacy Policy describes what information we may collect from you, how we collect that information, how we use that information, and the choices you have regarding your information. By using our website, mobile applications, or providing information to us in other ways, you agree to be bound by this Privacy Policy. <br><br>
 
-<span class="subhead-legal">Please note:</span> The servers that make the Web Site available and that store the information that is collected on or through the Web Site may be located in the United States of America ("USA"). If you are located outside the USA, please note that the information you provide will be transferred to the USA. The laws of the USA may not provide the same level of legal data protection as the country from which you access the Web Site. By using the Web Site and submitting Personal Information to us, you consent to and authorize such transfers and the use and processing by us of information as described in this Privacy Policy.&nbsp;<br><br>&nbsp;For the purposes of this Privacy Policy, "Personal Information" is personally identifiable information about an individual person including, but not limited to, a person's name, physical address, e-mail address, and telephone number, as more particularly described under applicable U.S. privacy laws.<br><br>
+This Privacy Policy was lasted updated March 4, 2015 and may be updated from time to time. Please check back periodically for further updates and changes. The most updated version will be the one that is available on this website.<br><br>
 
-<span class="subhead-legal">What Information About Me Is Collected and Stored?</span><span class="subhead-legal">Information You Provide:</span>We collect and store information that you provide on or through the Web Site and that you provide to our Customer Service Department in connection with your access and use of this Web Site. Though you may use portions of this Web Site without providing any Personal Information, in order to take advantage of the full capabilities of this Web Site, you will be required to provide certain Personal Information. For example, you must provide Personal Information in order to place an order or to register for an account on or through this Web Site. We may request, collect and store some or all of the following types of Personal Information: name, billing address, shipping address, e-mail address, telephone number, financial and payment information, such as credit card number and expiration date, and other similar information.<br><br>&nbsp;In addition, you may provide certain Personal Information about third parties on or through the Web Site. For example, you must provide us with Personal Information about a third party when you request that we ship an order to a third party or request that we send your "wish list" to a third party. The information collected regarding a third party may include that third party's name, address, phone number, fax number, e-mail address, physical address, and other similar information.<br><br>&nbsp;If you provide Personal Information to us, including Personal Information about individuals other than yourself, you represent and warrant: (i) you have the authority to provide that Personal Information and to grant us the right to use that Personal Information consistently with this Privacy Policy, (ii) you have provided that Personal Information voluntarily, and (iii) you consent to the use of that Personal Information in the manner indicated by this Privacy Policy. If you provide a third party's e-mail address to us, you represent and warrant that you have the consent of that third party to provide his/her e-mail address to us.<br><br>
+<span class="subhead-legal">What Information About Me Is Collected and Stored?</span>We collect and store information that you provide to us through our websites, in our stores, through our customer service representatives, at events, through mobile applications, through marketing efforts, including contests, sweepstakes and events, and through third parties, or any other way we interact with you. We are one of the VF Corporation family of brands and may also receive information about you from other brands held by VF Corporation.<br><br>
 
-<span class="subhead-legal">Aggregate and Automatically Collected Information: </span>We collect and store certain other non-personally identifiable information automatically whenever you interact with this Web Site. For example, we may collect your Internet Protocol (IP) address, browser information and reference site domain name when you visit this Web Site.<br><br>
+You may choose not to provide certain information, but then you might not be able to take advantage of certain capabilities of this website, our mobile applications or other services we may offer.  For example, you must provide certain personal information in order to place an order or to register for an account on or through this website.<br><br>
 
-Use of Cookies/Web Beacons. Like many other web sites, we may collect information regarding customer traffic patterns and site usage by using cookies, web beacons and related technologies. We use the information gathered from cookies, web beacons and related technologies to analyze and understand how the Web Site is used and to enhance your visits to the Web Site. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv) save your password so you do not have to provide it each time you visit the Web Site. "Cookies" are small text files that a web site sends to a user's hard drive through the browser for data storage. Most browsers accept cookies automatically but allow you to disable them. By disabling or otherwise rejecting cookies, you may not be able to take full advantage of all offerings on this Web Site. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Web Site.<br><br>&nbsp;We use third-party service providers to provide Internet data hosting and to help us measure and determine how visitors use our Web Site and the effectiveness of our Web Site and promotions in order to help us improve and optimize our Web Site and the products and services we offer. Those third parties may place web beacons or pixel tags on certain pages of our Web Site or use cookies in order to facilitate collection of information regarding your use of the Web Site each time you visit the Web Site.&nbsp;<br><br>&nbsp;In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the Web Site. By clicking on one of these URLs, you will automatically enter our Web Site and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications.
+We may request, collect and store some or all of the following types of personal information: name, billing address, shipping address, e-mail address, telephone number, financial and payment information, such as credit card number and expiration date, gender, personal interests, birthday, information about a third party you provide when we ship an order. We may also maintain a record of your product interest and purchases.<br><br>
 
-<br><br><span class="subhead-legal">How is Information Used and Disclosed?</span><span class="subhead-legal">Personal Information:</span>Personal Information collected on or through this Web Site is used to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations and to provide customer service. If you sign up to our e-mail list or otherwise opt-in to receive promotional communications in connection with this Web Site, we may also use the Personal Information you provide to contact you about sales, special offers and new site features and to send you other promotional communications. You may manage your preferences as described below under "Can I Indicate Whether or Not I Want To Receive Promotional Communications?"<br><br>&nbsp;If you request us to ship products to a third party and we are able to determine the information you provided pertains to a third party, we will use the Personal Information you provide regarding that third party only to process and ship the product to that third party and to confirm shipment. In addition, we may retain that Personal Information as reasonably necessary to appropriately document our business activities and for archival and record retention purposes. If you request us to send your "wish list" to a third party, we will use that third party's e-mail address only to send the requested e-mail.<br><br>
+If you access our website or mobile applications with your log-in credentials from a social networking site (e.g. Facebook, Pinterest, or Twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this to the information we have already collected from you via other interactions.<br><br>
 
-<span class="subhead-legal">Aggregate and Automatically Collected Information:</span>Automatically collected information is used to analyze and improve this Web Site, gauge the effectiveness of our e-mail communications and your level of interest in particular areas and to provide our customers with a fulfilling shopping experience.&nbsp;<br><br>&nbsp;We may aggregate and use certain automatically collected information and non-personally identifiable information for research or marketing purposes and may share, sell, rent, trade or publish that aggregate information and statistical data derived from such information with our marketing partners, advertisers or other third parties for research or marketing purposes. We do not use automatically collected information to identify a particular user.&nbsp;<br><br>&nbsp;We may on occasion combine information we received on or through this Web Site with information obtained from other sources and outside records to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
+When you download or use our mobile applications, we may receive information about your location and your mobile device. We may use this information to provide you with location-based services like local store information, search results, and other personalized content. Most mobile devices allow users to disable location services by using controls located in the device's settings menu. If you have questions about how to disable your device's location services, please contact your mobile service carrier or your device manufacturer.<br><br>
 
-<br><br><br><span class="subhead-legal">With Whom is Information Shared?</span>Except with your consent or as described in this Privacy Policy, we do not sell, rent or share with third parties any Personal Information that you provide to us on or through this Web Site or through the Customer Service Department in connection with the Web Site.
-We may share Personal Information you provide to us with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating this Web Site, hosting this Web Site, providing the products and services you request through this Web Site, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or disclose Personal Information you provide to us on or through this Web Site for any purpose other than to perform the services designated by us.
-We may share Personal Information you provide to us with a third party if we are required by law to disclose that Personal Information. For example, we may be required to disclose Personal Information to respond to a subpoena, court order or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our Web Site or as otherwise required or permitted by law. In addition, the Personal Information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of Vans or as part of a corporate reorganization, stock sale or other change of control.<br><br><span class="subhead-legal">Children and Privacy</span>This Web Site is a general audience website and is not directed for use by children. We do not intend to collect Personal Information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any Personal Information to us and you should use this Web Site only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided Personal Information on or through the Web Site, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"<br><br><span class="subhead-legal">What Steps Are Taken To Keep Personal Information Secure?</span>The security of your information is important to us. The Web Site employs various technical and security measures designed to help protect the Personal Information we collect about you. We have instituted security procedures and measures to protect our servers and networks that store Personal Information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information.
-In order to help protect Personal Information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"<br><br><span class="subhead-legal">How Can I Access, Correct and Update Personal Information?</span>You may access, correct and update certain Personal Information that you have provided to us by clicking on the "My Account" area of this Web Site and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?"<br>
-We reserve the right to retain any Personal Information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store Personal Information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?"<br><br>
+<span class="subhead-legal">Automatically Collected Information </span>We collect and store certain other non-personally identifiable information automatically whenever you interact with us. For example, we may collect your Internet Protocol (IP) address and browser information and reference site domain name when you visit this website and analyze this data for preferences, trends, and site usage statistics.<br><br>
 
-<span class="subhead-legal">Can I Indicate Whether or Not I Want To Receive Promotional Communications?</span>There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set-up an account or click on the "My Account" area of this Web Site, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. If you have not established an account but have instead signed-up for our e-mail list, you will be able to change your e-mail preferences by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. Please note that removal of Personal Information from our database or "opting-out" will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request.&nbsp;<br><br>&nbsp;If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the Web Site.<br><br>
+We may also collect information by using cookies, web beacons, and related technologies in order to analyze and understand how the website is used and to enhance your visits to the website. For example, we may use cookies and related technologies to: (i) customize account pages for you, (ii) track user visits and account features, (iii) determine what features and pages are most frequently requested or visited, and (iv) save your password so you do not have to provide it each time you visit the website.<br><br>
 
-<span class="subhead-legal">What Happens When I Link To or From Another Web Site?</span>This Web Site may contain links to or from web sites to which this Privacy Policy does not apply ("Linked Web Sites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Web Sites or the owners or operators of those Linked Web Sites. Your use of Linked Web Sites will be governed by the terms of use, privacy policies and other terms, notices and policies set forth on or referenced in those Linked Web Sites. We encourage you to be aware of when you leave this Web Site and to read the privacy policies of each and every web site that you visit.<br><br>
+We use third-party companies to provide Internet data hosting and to help us measure and determine how visitors use our website and the effectiveness of our website and promotions in order to help us improve and optimize our website and the products and services we offer. We also use third-party companies to serve advertisements (banners or links) on our behalf across the Internet. These companies use tracking technologies (including cookies and pixel tags) to collect non-identifiable information about your visits to our website and your interactions with our products and services in order to provide tailored advertisements based on your interests and browsing of our website (remarketing) on our behalf and on behalf of other advertisers across the Internet. We use third-party audience data (such as age, gender, and interests) to better understand and advertise to audiences that visit our website. We do not use or associate personally identifiable information with remarketing lists, cookies, data feeds, or other anonymous identifiers.<br><br>
 
-<span class="subhead-legal">Surveys, Contests and Sweepstakes</span>We may conduct surveys and run contests or sweepstakes relating to this Web Site, either ourselves or through a third party. In the event we conduct surveys or run a contest or sweepstakes, a set of rules or terms governing the survey, contest or sweepstakes will be provided. The rules or terms for each survey, contest or sweepstakes will specify how the information gathered from you in connection with the survey, contest or sweepstakes will be used and disclosed and otherwise govern your participation in the survey, contest or sweepstakes. Please read such rules carefully before participating in or entering any survey, contest or sweepstakes relating to this Web Site or any other web site.<br><br>
+Our websites currently do not have a mechanism to recognize “Do Not Track” signals, but several of the third-party companies who utilize these cookies or beacons enable you to opt out of this advertising. If you wish to opt out of receiving this third-party interest-based advertising, you may obtain more information <a href="http://www.networkadvertising.org/choices" target="_blank">here</a>. Please note this does not opt you out of receiving marketing communications from us.<br><br>
 
-<span class="subhead-legal">Changes to This Privacy Policy</span>We reserve the right, in our sole discretion, to revise, change, or modify this Privacy Policy at any time. You should check this Web Site periodically to see if any recent changes to this Privacy Policy have occurred.<br><br>
+In addition, some of our e-mail communications to you may include a "click-through URL" linked to a particular page on the website. By clicking on one of these URLs, you will automatically enter our website and we may collect information related to the "click-through." You may avoid having this information collected by not clicking on URL links in our e-mail communications.<br><br>
+
+We also may use a variety of retail analytics tools in our stores for operational and marketing purposes, such as measuring and analyzing traffic patterns. These tools may collect data from sensors, including video cameras, smartphone detectors, Wi-Fi networks, or other devices, to improve your in-store experience. <br><br>
+
+<span class="subhead-legal">Information from Other Sources</span>
+We may collect information about you from third-party sources and information that is publicly available. For example, information you submit in a public forum (e.g., a blog, chat room, or social network site) can be read, collected, or used by us and others, and could be used to personalize your experience. You are responsible for the information you choose to submit in these instances. Another example, is that we may receive demographic information about you from a third party to make our service and marketing efforts more efficient and personalized for you.  <br><br>
+
+
+<span class="subhead-legal">How is Information Used?</span>We use the personal information we collect to conduct our business, communicate with you, and provide great products, services, and experiences. We or third-party service providers we engage may use the information to provide the products and services that you have ordered or requested, to process and ship orders, to send order and shipping confirmations, to provide customer service, to respond to your comments, questions or complaints, to personalize your experiences, to analyze your preferences and shopping habits, to analyze trends and statistics, to administer and fulfill our contests and other promotions, to analyze and improve the website and our products and services, and to send you marketing communications and other information regarding our products, services, marketing, or special events. We also use your information for business purposes such as security, payment processing, analytics, operations, fraud detection, reporting, making back-ups, and legal compliance.<br><br>
+
+You always have the choice not to receive marketing communications. For instructions on opting out of those communications, please see the section entitled “Can I Indicate Whether or Not I Want to Receive Promotional Communications?” below.<br><br>
+
+We display personal testimonials/reviews of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at 855-909-8267 or email us at <a href="mailto:vanscustserv@vfc.com">vanscustserv@vfc.com</a><br><br>
+
+<br><br><br><span class="subhead-legal">With Whom is Information Shared?</span>Except with your consent or as described in this Privacy Policy, we do not sell, rent, or share with third parties any of your personal information.<br><br>
+
+We may share your personal information with other brands within the VF Corporation family of brands (including, for example, The North Face ®, Timberland ®, Nautica ®, Kipling ®, Wrangler ®, Lee ®, 7 For All Mankind ®, Jansport ®, Reef ®, Splendid ®, and Ella Moss ®).<br><br>
+
+We may share personal information with certain third parties that perform services on our behalf. The services provided by those third parties may include: operating the website, hosting the website, providing the products and services you request, authorization and processing of your payments, product fulfillment, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, loyalty program management, promotions fulfillment, web site evaluation, data analysis and, where applicable, data cleansing. Those third parties are not authorized to use or disclose personal information you provide to us on or through this website for any purpose other than to perform the services designated by us.<br><br>
+
+We may share personal information with a third party if we are required by law to disclose that personal information. For example, we may be required to disclose personal information to respond to a subpoena, court order, or other legal process. We may also disclose this information in response to a law enforcement agency's request, or where we believe it is necessary to investigate or address unlawful acts or acts that may endanger the health or safety of a consumer or the general public, to verify or enforce compliance with the terms of use and policies that govern our website or as otherwise required or permitted by law. In addition, the personal information you provide to us may be transferred as an asset in connection with a merger or sale involving all or part of Vans or as part of a corporate reorganization, stock sale or other change of control.<br><br>
+
+
+<span class="subhead-legal">What About the Privacy of Children Under 13?</span>
+We do not intend to collect personal information from anyone who is under the age of 13. If you are under the age of 13 you should not provide any personal information to us and you should use this website only with the involvement of a parent or guardian. If you are a parent or guardian of a child under the age of 13 and suspect he/she has provided personal information on or through the website, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"<br><br>
+
+
+<span class="subhead-legal">What Steps Are Taken To Keep Personal Information Secure?</span>
+The security of your information is important to us. We have instituted security procedures and measures to protect our servers and networks that store personal information. Unfortunately, no transmission of information over the Internet can be guaranteed to be 100% secure and, therefore, we cannot ensure or warrant the security of any information. In order to help protect personal information you provide to us, you: (i) should not share your password or account information with others, (ii) should use a secure web browser, and (iii) should change your password frequently. If you wish to cancel a password, or if you become aware of any loss, theft, or unauthorized use of a password, please contact us as set forth below under "How Can I Contact You Regarding This Privacy Policy?"<br><br>
+
+
+<span class="subhead-legal">How Can I Access, Correct, and Update Personal Information?</span>
+ You may access, correct and update certain personal information that you have provided to us by clicking on the "My Account" area of this website and following the instructions set forth therein or by contacting us with your request as set forth below under "How Can I Contact You Regarding This Privacy Policy?"<br><br>
+
+ We reserve the right to retain any personal information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store personal information for as long as reasonably necessary for the purposes described in this Privacy Policy. You may find out more details regarding this Privacy Policy by contacting us as provided below under "How Can I Contact You Regarding This Privacy Policy?"<br><br>
+
+
+<span class="subhead-legal">Can I Indicate Whether or Not I Want To Receive Promotional Communications?</span>There are several ways in which you can tell us whether or not you want to receive promotional communications from us. When you set-up an account or click on the "My Account" area of this website, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. If you have not established an account but have instead signed-up for our e-mail list, you will be able to change your e-mail preferences by clicking on an "unsubscribe" hyperlink contained in promotional e-mails we send you. Please note that removal of personal information from our database or "opting-out" will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request.<br><br>
+
+If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the website.<br><br>
+
+<span class="subhead-legal">What Happens When I Link To or From Another Web Site?</span>This website may contain links to or from websites to which this Privacy Policy does not apply ("Linked Websites"). Please be advised that the practices described in this Privacy Policy do not reflect the practices regarding information collection, use and disclosure of Linked Websites or the owners or operators of those Linked Websites. Your use of Linked Websites will be governed by the terms of use, privacy policies, and other terms, notices, and policies set forth on or referenced in those Linked Websites. We encourage you to be aware of when you leave this website and to read the privacy policies of each and every website that you visit.<br><br>
 
 <span class="subhead-legal">How Can I Contact You Regarding This Privacy Policy?</span>If you have any questions or concerns regarding your privacy or the Privacy Policy you can send a request with your concerns or any further questions to us by using the contact information provided below:<br><br>
 
-Vans 
-Attn:</div><div class="small-12 columns legal-text">Customer Service</div><div class="small-12 columns legal-text">6550 Katella Avenue</div><div class="small-12 columns legal-text">Cypress, CA 90630 
+Vans
+<br>
+<div class="small-12 columns legal-text">Attn: Customer Service</div><div class="small-12 columns legal-text">6550 Katella Avenue</div><div class="small-12 columns legal-text">Cypress, CA 90630<br><br>
+
+<span class="subhead-legal">What If I Am A Resident of California?</span>California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:<br><br>
+
+Vans
+<br>
+<div class="small-12 columns legal-text">Attn: Customer Service</div><div class="small-12 columns legal-text">6550 Katella Avenue</div><div class="small-12 columns legal-text">Cypress, CA 90630<br><br>
+
+
+<span class="subhead-legal">What If I Am An International User?</span>Our digital operations are conducted, in whole or in part, in the United States. Regardless of where you live, you consent to have your personal data transferred, processed, and stored in the United States, and allow Vans to use and collect your personal information in accordance with this Privacy Policy.<br><br>
+
+
+<span class="subhead-legal">Changes to This Privacy Policy</span>We reserve the right, in our sole discretion, to revise, change, or modify this Privacy Policy at any time. You should check this Web Site periodically to see if any recent changes to this Privacy Policy have occurred.<br><br>
+
 
 
 
@@ -1121,15 +1216,7 @@ Attn:</div><div class="small-12 columns legal-text">Customer Service</div><div c
 
 
 </div>
-
-
-
-
-
-
-
-
-</div>
+</div></div></div>
 
 
 
@@ -1157,7 +1244,6 @@ Attn:</div><div class="small-12 columns legal-text">Customer Service</div><div c
 
 </div>
 </section>
-	
 		<div class="footer"><!--START: VANS FOOTER-->
 
 <footer role="siteinfo" class="extended">
@@ -1167,26 +1253,21 @@ Attn:</div><div class="small-12 columns legal-text">Customer Service</div><div c
 			<div>
 				<ul>
 					<li>By Category</li>
-
-							<li><a href="/shop.html"> Shop Home</a></li>
-								<li><a href="/mens.html"> Mens</a></li>
-								<li><a href="/womens.html"> Womens</a></li>
-								<li><a href="/kids.html"> Kids</a></li>
-								<li><a href="/classics.html"> Classics</a></li>
-								<li><a href="/otw.html"> OTW</a></li>
-								<li><a href="/california-collection.html"> California Collection</a></li>
-								<li><a href="/lxvi.html"> LXVI</a></li>
-								</ul>
+							<li><a href="/shop.html">Shop Home</a></li>
+									<li><a href="/mens.html">Mens</a></li>
+									<li><a href="/womens.html">Womens</a></li>
+									<li><a href="/kids.html">Kids</a></li>
+									<li><a href="/classics.html">Classics</a></li>
+									</ul>
 			</div>
 			<div>
 				<ul>
 					<li>By Sport</li>
-
-							<li><a href="/skate.html"> Skate</a></li>
-								<li><a href="/surf.html"> Surf</a></li>
-								<li><a href="/snow.html"> Snow</a></li>
-								<li><a href="/bmx.html"> BMX</a></li>
-								</ul>
+							<li><a href="/skate.html">Skate</a></li>
+									<li><a href="/surf.html">Surf</a></li>
+									<li><a href="/snow.html">Snow</a></li>
+									<li><a href="/bmx.html">BMX</a></li>
+									</ul>
 			</div>
 		</div>
 		<div class="footer-category accordion">
@@ -1194,24 +1275,22 @@ Attn:</div><div class="small-12 columns legal-text">Customer Service</div><div c
 			<div>
 				<ul>
 					<li>Shopping</li>
-
-							<li><a href="http://www.vans.com/utility/store-locator.html?"> Store Locator</a></li>
-								<li><a href="http://www.vans.com/webapp/wcs/stores/servlet/LogonForm?pageName=orderlookup&amp;langId=-1&amp;storeId=10153"> Order Status</a></li>
-								</ul>
+							<li><a href="/utility/store-locator.html">Store Locator</a></li>
+									<li><a href="http://www.vans.com/webapp/wcs/stores/servlet/LogonForm?pageName=orderlookup&amp;langId=-1&amp;storeId=10153">Order Status</a></li>
+									</ul>
 			</div>
 			<div>
 				<ul>
 					<li>Company</li>
-
-							<li><a href="/help.html"> Customer Service</a></li>
-								<li><a href="/terms-conditions.html"> Terms of Use</a></li>
-								<li><a href="/privacy.html"> Privacy</a></li>
-								<li><a href="http://sites.vans.com/careers"> Careers</a></li>
-								<li><a href="/sustainability.html"> Sustainability</a></li>
-								<li><a href="http://sites.vans.com/recall"> Recall Info</a></li>
-								<li><a href="/mobile-signup.html"> Text Alerts</a></li>
-								<li><a href="/affiliates.html"> Affiliates</a></li>
-								</ul>
+							<li><a href="/help.html">Customer Service</a></li>
+									<li><a href="/terms-conditions.html">Terms of Use</a></li>
+									<li><a href="/privacy.html">Privacy</a></li>
+									<li><a href="http://sites.vans.com/careers?ref=footer">Careers</a></li>
+									<li><a href="/sustainability.html">Sustainability</a></li>
+									<li><a href="http://sites.vans.com/recall">Recall Info</a></li>
+									<li><a href="/mobile-signup.html">Text Alerts</a></li>
+									<li><a href="/affiliates.html">Affiliates</a></li>
+									</ul>
 			</div>
 		</div>
 		<div class="footer-category accordion">
@@ -1251,35 +1330,45 @@ Attn:</div><div class="small-12 columns legal-text">Customer Service</div><div c
 	        </div>
 </div>
 		<div class="footer-extended">
+			<div class="footer-signup">
+				<form class="signup" type="GET" action="//www.vans.com/webapp/wcs/stores/servlet/VFCAjaxEmailSubscriptionAdd" data-signupform-options="{&quot;successMessage&quot;:&quot;Thank you for signing up.&quot;,&quot;errorMessage&quot;:&quot;There was a problem. Please try again later.&quot;}" data-abide="��">
+		<div class="heading">Subscribe</div>
+		<p class="show-for-large-up">Receive product news and updates in your inbox.</p>
 
-			<div id="footer-subscribe-title" class="footer-category-title">Subscribe</div>
-			<div class="subscribe-block">
-				<div>Receive product news and updates in your inbox.</div>
-				<form class="signup" type="POST" action="//www.vans.com/webapp/wcs/stores/servlet/VFCAjaxEmailSubscriptionAdd" data-signupform-options="{&quot;successMessage&quot;:&quot;Thank you for signing up.&quot;,&quot;errorMessage&quot;:&quot;There was a problem. Please try again later.&quot;}">
-
-					<div class="row">
-						<div class="small-12 columns input-wrapper">
-							<input class="email" type="email" name="email" required="" placeholder="Email Address">
-							<div class="small-2 columns email-wrapper">
-								<button class="icon-arrow-right-indicator-open postfix" type="submit"></button>
-							</div>
-						</div>
-					</div>
-					<div class="row message hide"></div>
-				</form>
+		<div class="row collapse">
+			<div class="small-10 columns input-wrapper">
+				<input class="email" type="email" name="email" required="" placeholder="Email Address"> <small class="error">A
+					valid email address is required.</small>
 			</div>
-			<div class="footer-category-title">Follow Vans</div>
-				<div class="social">
-				<a href="https://www.facebook.com/VANS?ref=vanscom" class="social-icon icon-facebook" target="_blank" title="facebook"></a>
-							<a href="https://twitter.com/VANS_66" class="social-icon icon-twitter" target="_blank" title="twitter"></a>
-							<a href="https://www.youtube.com/user/VansShoes66" class="social-icon icon-youtube" target="_blank" title="youtube"></a>
-							<a href="http://www.instagram.com/vans" class="social-icon icon-instagram" target="_blank" title="instagram"></a>
-							<a href="https://www.pinterest.com/vans/" class="social-icon icon-pinterest" target="_blank" title="pinterest"></a>
-							<a href="http://vans.tumblr.com" class="social-icon icon-tumblr" target="_blank" title="tumblr"></a>
-							<a href="https://plus.google.com/+VansShoes66" class="social-icon icon-googleplus" target="_blank" title="googleplus"></a>
-							<a href="https://vine.co/Vans" class="social-icon icon-vine" target="_blank" title="vine"></a>
-							<a href="http://wanelo.com/store/vans" class="social-icon icon-wanelo" target="_blank" title="wanelo"></a>
-							</div>
+			<div class="small-2 columns email-wrapper">
+				<button class="icon-arrow-right-indicator-open postfix" type="submit"></button>
+			</div>
+		</div>
+
+		<input type="hidden" name="storeId" value="10153">
+		<input type="hidden" name="type" value="Account">
+		<input type="hidden" name="action" value="Email_SignUp">
+		<input type="hidden" name="field1Name" value="email">
+		<input type="hidden" name="field2Name" value="location">
+		<input type="hidden" name="location" value="Footer">
+
+		<div class="row signup-message hide"></div>
+	</form>
+</div>
+			<div class="footer-social">
+				<div class="heading">Follow Vans</div>
+	<div>
+	<a href="https://www.facebook.com/VANS?ref=vanscom" class="social-icon icon-facebook" target="_blank" title="facebook"></a>
+			<a href="https://twitter.com/VANS_66" class="social-icon icon-twitter" target="_blank" title="twitter"></a>
+			<a href="https://www.youtube.com/user/VansShoes66" class="social-icon icon-youtube" target="_blank" title="youtube"></a>
+			<a href="http://www.instagram.com/vans" class="social-icon icon-instagram" target="_blank" title="instagram"></a>
+			<a href="https://www.pinterest.com/vans/" class="social-icon icon-pinterest" target="_blank" title="pinterest"></a>
+			<a href="http://vans.tumblr.com" class="social-icon icon-tumblr" target="_blank" title="tumblr"></a>
+			<a href="https://plus.google.com/+VansShoes66" class="social-icon icon-googleplus" target="_blank" title="googleplus"></a>
+			<a href="https://vine.co/Vans" class="social-icon icon-vine" target="_blank" title="vine"></a>
+			<a href="http://wanelo.com/store/vans" class="social-icon icon-wanelo" target="_blank" title="wanelo"></a>
+			</div>
+</div>
 		</div>
 	</div>
 	<!-- /footer-content -->
@@ -1289,34 +1378,33 @@ Attn:</div><div class="small-12 columns legal-text">Customer Service</div><div c
 					<select name="localization" id="Localization">
 						<!-- Page Language: en_US -->
 						<!-- Page Language Target: languageTarget=en_US -->
-
 						<option class="usa" value="http://www.vans.com?languageTarget=en&amp;CountryPref=http%3A%2F%2Fwww.vans.com&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.com">USA</option>
-									<option class="canada (english)" value="http://www.vans.com?languageTarget=en_CA&amp;CountryPref=http%3A%2F%2Fwww.vans.ca/en_ca/homepage.html&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.ca/en_ca/homepage.html">Canada (English)</option>
-									<option class="canada (french)" value="http://www.vans.com?languageTarget=fr_CA&amp;CountryPref=http%3A%2F%2Fwww.vans.ca/fr_ca/homepage.html&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.ca/fr_ca/homepage.html">Canada (French)</option>
-									<option class="mexico (spanish)" value="http://www.vans.com?languageTarget=es_MX&amp;CountryPref=http%3A%2F%2Fwww.vans.mx/es_mx/homepage.html&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.mx/es_mx/homepage.html">Mexico (Spanish)</option>
-									<option class="brazil" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vansdobrasil.com/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vansdobrasil.com/">Brazil</option>
-									<option class="argentina" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vansargentina.com/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vansargentina.com/">Argentina</option>
-									<option class="austria" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.at/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.at/">Austria</option>
-									<option class="france" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.fr/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.fr/">France</option>
-									<option class="germany" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.de/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.de/">Germany</option>
-									<option class="ireland" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.ie/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.ie/">Ireland</option>
-									<option class="israel" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.co.il/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.co.il/">Israel</option>
-									<option class="italy" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.it/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.it/">Italy</option>
-									<option class="netherlands" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.nl/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.nl/">Netherlands</option>
-									<option class="poland" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.pl/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.pl/">Poland</option>
-									<option class="portugal" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.pt/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.pt/">Portugal</option>
-									<option class="russia" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.ru/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.ru/">Russia</option>
-									<option class="spain" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.es/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.es/">Spain</option>
-									<option class="sweden" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.se/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.se/">Sweden</option>
-									<option class="switzerland" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.ch/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.ch/">Switzerland</option>
-									<option class="turkey" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.com.tr/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.com.tr/">Turkey</option>
-									<option class="united kingdom" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.co.uk/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.co.uk/">United Kingdom</option>
-									<option class="japan" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vansjapan.com/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vansjapan.com/">Japan</option>
-									<option class="taiwan" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vanstaiwan.com/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vanstaiwan.com/">Taiwan</option>
-									<option class="korea" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vanskorea.com/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vanskorea.com/">Korea</option>
-									<option class="australia" value="http:/www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.net.au/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.net.au/">Australia</option>
-									<option class="new zealand" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.co.nz/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.co.nz/">New Zealand</option>
-									</select>
+								<option class="canada (english)" value="http://www.vans.com?languageTarget=en_CA&amp;CountryPref=http%3A%2F%2Fwww.vans.ca/en_ca/homepage.html&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.ca/en_ca/homepage.html">Canada (English)</option>
+								<option class="canada (french)" value="http://www.vans.com?languageTarget=fr_CA&amp;CountryPref=http%3A%2F%2Fwww.vans.ca/fr_ca/homepage.html&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.ca/fr_ca/homepage.html">Canada (French)</option>
+								<option class="mexico (spanish)" value="http://www.vans.com?languageTarget=es_MX&amp;CountryPref=http%3A%2F%2Fwww.vans.mx/es_mx/homepage.html&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.mx/es_mx/homepage.html">Mexico (Spanish)</option>
+								<option class="brazil" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vansdobrasil.com/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vansdobrasil.com/">Brazil</option>
+								<option class="argentina" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vansargentina.com/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vansargentina.com/">Argentina</option>
+								<option class="austria" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.at/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.at/">Austria</option>
+								<option class="france" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.fr/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.fr/">France</option>
+								<option class="germany" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.de/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.de/">Germany</option>
+								<option class="ireland" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.ie/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.ie/">Ireland</option>
+								<option class="israel" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.co.il/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.co.il/">Israel</option>
+								<option class="italy" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.it/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.it/">Italy</option>
+								<option class="netherlands" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.nl/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.nl/">Netherlands</option>
+								<option class="poland" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.pl/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.pl/">Poland</option>
+								<option class="portugal" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.pt/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.pt/">Portugal</option>
+								<option class="russia" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.ru/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.ru/">Russia</option>
+								<option class="spain" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.es/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.es/">Spain</option>
+								<option class="sweden" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.se/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.se/">Sweden</option>
+								<option class="switzerland" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.ch/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.ch/">Switzerland</option>
+								<option class="turkey" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.com.tr/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.com.tr/">Turkey</option>
+								<option class="united kingdom" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.co.uk/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.co.uk/">United Kingdom</option>
+								<option class="japan" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vansjapan.com/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vansjapan.com/">Japan</option>
+								<option class="taiwan" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vanstaiwan.com/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vanstaiwan.com/">Taiwan</option>
+								<option class="korea" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vanskorea.com/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vanskorea.com/">Korea</option>
+								<option class="australia" value="http:/www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.net.au/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.net.au/">Australia</option>
+								<option class="new zealand" value="http://www.vans.com?CountryPref=http%3A%2F%2Fwww.vans.co.nz/&amp;RedirectURL%3Dhttp%3A%2F%2Fwww.vans.co.nz/">New Zealand</option>
+								</select>
 				</div>
 		<div id="copyright">
 			<a href="/"><div class="brand-footer-logo" title="vans off the wall"></div></a>
