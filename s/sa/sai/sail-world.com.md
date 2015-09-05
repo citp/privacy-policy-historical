@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sail-world.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528202654id_/http%3A//www.sail-world.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sail-world.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905053452id_/http%3A//www.sail-world.com/privacy-policy) for the most accurate reproduction.*
 
 # Sail World - The Worlds largest sailing news network: Sail and sailing, cruising, boating news
 
