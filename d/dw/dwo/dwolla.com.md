@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the dwolla.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317122340id_/https%3A//www.dwolla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwolla.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905125408id_/https%3A//www.dwolla.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dwolla
-
-## Dwolla Privacy Policy
 
 #### Last Updated July 22, 2014
 
 [](https://privacy.truste.com/privacy-seal/Dwolla/validation?rid=b8ff2192-aa52-489a-9cff-09fa78dc481b "TRUSTe online privacy certification")
 
-Dwolla, Inc. (“Dwolla”) is committed to protecting your privacy and earning your trust. This Privacy Policy discloses our privacy practices for personal information we collect when you use or access our products, services, features, or content through any website, application, or service (“Dwolla Services”), even if you have not opened a Dwolla account or visited our websites [www.dwolla.com](https://www.dwolla.com/), [www.dwollalabs.com](http://www.dwollalabs.com/), or our mobile application (“Dwolla Sites”). We may, in our sole discretion, change this Privacy Policy from time to time by posting a revised version at [www.dwolla.com/privacy](https://www.dwolla.com/privacy). If we make any material change, we will notify you by email (as listed in your account profile) or by means of a notice on [www.dwolla.com/privacy](https://www.dwolla.com/privacy) prior to the change becoming effective.
+Dwolla, Inc. (“Dwolla”) is committed to protecting your privacy and earning your trust. This Privacy Policy discloses our privacy practices for personal information we collect when you use or access our products, services, features, or content through any website, application, or service (“Dwolla Services”), even if you have not opened a Dwolla account or visited our websites [www.dwolla.com](https://www.dwolla.com/), [www.dwollalabs.com](http://www.dwollalabs.com/), or our mobile application (“Dwolla Sites”). We may, in our sole discretion, change this Privacy Policy from time to time by posting a revised version at legal.dwolla.com/privacy. If we make any material change, we will notify you by email (as listed in your account profile) or by means of a notice on legal.dwolla.com/privacy prior to the change becoming effective.
 
 Dwolla has received TRUSTe's Privacy Seal certification, signifying that this Privacy Policy and its practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/). This certification covers information collected through the Dwolla Sites, as defined above. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at [privacy@dwolla.com](mailto:privacy@dwolla.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
@@ -49,6 +47,24 @@ We collect your personal information to:
 
 ### How does Dwolla share my personal information?
 
+We collect your personal information to:
+
+  * Provide the Dwolla Services to you.
+  * Notify you about your account activity.
+  * Process transactions and collect fees.
+  * Provide customer support and resolve disputes.
+  * Verify your identity and account information.
+  * Identify, prevent, and report potentially prohibited, fraudulent, or illegal activities.
+  * Customize and improve your Dwolla experience and the Dwolla Services.
+  * Contact you at your telephone number by voice or SMS to validate the telephone number or your Dwolla account.
+  * Notify you about important changes to the Dwolla Services and/or Dwolla’s terms and conditions.
+  * Provide you with news, offers, and information about the Dwolla Services based on your communications preferences.
+  * Any other purpose that we disclose to you in the course of providing the Dwolla Services to you.
+
+
+
+### How does Dwolla share my personal information?
+
 We may share your personal information as follows:
 
   * When you send or receive money using the Dwolla Services, we will provide the other Dwolla user with your registered name, city and state, and your avatar photo (if any).
@@ -65,7 +81,7 @@ Other than as stated in this Privacy Policy, Dwolla does not disclose or sell an
 
 ### How does Dwolla use cookies and web beacons?
 
-Cookies and web beacons are technologies that Dwolla and our third party service providers use to collect Web Browser Information in order to track how the Dwolla Sites and Dwolla Services are used. Cookies are small data files that are stored on your computer’s hard drive and web beacons are tiny graphics embedded on webpages. These technologies allow us to: provide you with a personalized experience by recognizing you when you return to the Dwolla Sites; better understand our users by tracking how they use the Dwolla Services; improve the design and content of the Dwolla Sites by tracking how users interact with the Dwolla Sites; and identify and prevent fraudulent activity. We may link Web Browser Information to any personal information that you submit while on the Dwolla Sites. Our third party service providers may use cookies and web beacons to provide analytics services to Dwolla, or to serve you advertisements in connection with the Dwolla Services. 
+Cookies and web beacons are technologies that Dwolla and our third party service providers use to collect Web Browser Information in order to track how the Dwolla Sites and Dwolla Services are used. Cookies are small data files that are stored on your computer’s hard drive and web beacons are tiny graphics embedded on webpages. These technologies allow us to: provide you with a personalized experience by recognizing you when you return to the Dwolla Sites; better understand our users by tracking how they use the Dwolla Services; improve the design and content of the Dwolla Sites by tracking how users interact with the Dwolla Sites; and identify and prevent fraudulent activity. We may link Web Browser Information to any personal information that you submit while on the Dwolla Sites. Our third party service providers may use cookies and web beacons to provide analytics services to Dwolla, or to serve you advertisements in connection with the Dwolla Services.
 
 The Dwolla Sites include social media features that allow you to “Like” or share content on third party sites. These features may be hosted by the third party sites or the Dwolla Sites, and may collect your IP address, the Dwolla Site page you are visiting, and may set a cookie to enable the feature to function. You can change your browser settings to refuse cookies, but this may interfere with your use of the Dwolla Sites. Third parties with whom we partner to provide some content such as video clips, use Flash cookies which cannot be removed using your browser settings. To learn how to manage your Flash cookie preferences, visit the Flash Player Settings Manager Help page [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
 
