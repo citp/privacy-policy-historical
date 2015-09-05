@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myecp.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628211010id_/https%3A//www.myecp.com/HtmlPages/AE_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myecp.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905231949id_/https%3A//www.myecp.com/HtmlPages/AE_PrivacyPolicy) for the most accurate reproduction.*
 
 # MyECP : Privacy Policy
 
