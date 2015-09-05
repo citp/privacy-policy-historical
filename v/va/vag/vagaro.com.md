@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vagaro.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151102id_/https%3A//www.vagaro.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagaro.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905115749id_/https%3A//www.vagaro.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Online Spa Software, Salon Software, Salon POS, Hair Salon Software
 
 ### LAST UPDATED ON October 1, 2009.
 
-This privacy policy applies to Your use of Vagaro, LLC’s (" **Vagaro** ") website, located at www.vagaro.com (the " **Site** "), but not does apply to any third party sites that may be linked to it, or any relationships that You may have with the businesses, individuals or entities listed or advertised on the Site.
+This privacy policy applies to Your use of Vagaro, Inc’s (" **Vagaro** ") website, located at www.vagaro.com (the " **Site** "), but not does apply to any third party sites that may be linked to it, or any relationships that You may have with the businesses, individuals or entities listed or advertised on the Site.
 
 The terms “ **We** ” and “ **Us** ” refer exclusively to Vagaro. The terms “ **You** ”, “ **Your** ” and “ **Yourself** ” refer exclusively to You, as a user of any portion of the Site. The term “ **Personal Information** ” means information that You provide to Us, which personally identifies You as an individual to be contacted or identified, such as Your name, telephone number, e-mail address and any other data that is tied to such information. 
 
@@ -70,10 +70,10 @@ We may modify this Privacy Policy at any time, in Our sole discretion and We wil
 
 If You have any concerns relating to this Privacy Policy You may correspond with Us at the following address: 
 
-Vagaro, LLC   
+Vagaro, Inc   
 Privacy Officer   
-3090 Independence Drive suite 200  
-Livermore, CA 94551  
-E-mail: [sales@vagaro.com](mailto:sales@vagaro.com)
+4120 Dublin Blvd suite 110  
+Dublin, CA 94568  
+E-mail: [support@vagaro.com](mailto:support@vagaro.com)
 
 In Your letter, please describe in as much detail as possible ways in which You believe the Privacy Policy has not been complied with. We will investigate Your complaint promptly.
