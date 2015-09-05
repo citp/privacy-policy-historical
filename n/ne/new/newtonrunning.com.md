@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtonrunning.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321131810id_/https%3A//www.newtonrunning.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtonrunning.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905134157id_/http%3A//www.newtonrunning.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy/Terms
 
