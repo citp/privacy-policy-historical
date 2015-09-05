@@ -1,58 +1,223 @@
-> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418142342id_/https%3A//www.erieinsurance.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erieinsurance.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905090851id_/https%3A//www.erieinsurance.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice from Erie Insurance
 
-The privacy and security of your personal information is important to us. This notice will inform you about our policies and procedures concerning the personal information about you that we collect, maintain and disclose in connection with the insurance policies you obtain from us. In order to offer the highest quality insurance products at the lowest possible rates, we collect, maintain, and, in some instances, disclose "nonpublic personal information" about you. Nonpublic personal information may include your name, address, social security number, wage information, driving record, policy coverages, medical information or credit history. It may also include transaction information such as your premium payment or claims history with us. We appreciate the importance of your personal privacy and are committed to protecting it as we provide for your insurance needs.
+**FACTS**
 
-Questions concerning our privacy policy may be sent to us at Customer Service Department, 100 Erie Insurance Place, Erie, PA 16530. You may also [contact us through our Web site](https://web.archive.org/customer-service/email-us).
+| 
 
-## Collection of Information
+**WHAT DOES ERIE INSURANCE DO WITH  
+YOUR PERSONAL INFORMATION? **  
+  
+---|---  
+  
+**Why?**
 
-We obtain nonpublic personal information about you from the following sources:
+| 
 
-  * Your insurance Agent or Producer;
-  * From you through applications or other forms such as claims forms or underwriting questionnaires;
-  * Insurance support organizations such as claims reporting services and other parties who provide information on insurance related transactions you have conducted with us, our affiliates, as listed above, or others; 
-  * Consumer reporting agencies. 
+Insurance companies choose how they share your personal information. Federal and state law gives consumers the right to limit some, but not all, sharing. Federal and state law also requires us to tell you how we collect, share and protect your personal information. Please read this notice carefully to understand what we do.  
+  
+**What?**
 
+| 
 
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-## We Do Not Sell Your Information to Others for Marketing Purposes
+     • Social Security number, date of birth, driving record, income,  
+     • Credit history, credit-based insurance scores, insurance claim history, payment history.  
+  
+**How?**
 
-Because we respect your privacy, we do not sell, trade or otherwise disclose your identity or any other personal information about you to third parties for their marketing purposes. This includes information we obtain concerning all applicants, customers and former customers. We may, however, share information regarding your transactions with us with our affiliates, as listed below, or companies that perform marketing services on our behalf to assist us in providing our products and services to you. These companies are required to keep your information confidential.
+| 
 
-## Information We May Provide to Others
+Insurance companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons insurance companies can share their customers’ personal information; the reasons Erie Insurance chooses to share; and whether you can limit this sharing.  
+  
+**Reasons we can share your  
+nonpublic personal information**
 
-We only disclose nonpublic personal information about our applicants, customers and former customers as permitted or required by law in conjunction with our normal insurance operations. Here are some examples:
+| 
 
-  * We may disclose information to others such as our claims adjusters and our attorneys in the processing of an insurance claim;
-  * We may be required by a court of law to provide information in connection with a legal proceeding;
-  * We share information with consumer reporting agencies and insurance support organizations;
-  * We may share information with government agencies which conduct examinations of our procedures.
+**Does Erie Insurance share?**
 
+| 
 
+**Can you limit sharing?**  
+  
+---|---|---  
+  
+**For our everyday business purposes** –as permitted or required by law, we may disclose information about you to third parties such as:
 
-## Security of Your Personal Information
+     • Erie Insurance agents and other companies to process and service insurance transactions  
+     • Claims adjusters and attorneys in the processing of an insurance claim  
+     • A court of law in connection with a legal proceeding  
+     • Consumer reporting agencies and insurance support organizations  
+     • Government agencies which conduct examinations of our procedures.
 
-While your nonpublic personal information is under our control, access is limited to those employees who have legitimate business needs for such information with respect to your insurance coverages. In accordance with applicable state and federal regulations we maintain physical, procedural and electronic safeguards to protect the privacy and confidentiality of your nonpublic personal information.
+| 
 
-## Corporate Code of Conduct
+Yes
 
-Read more about ERIE's [code of conduct](https://web.archive.org/-/media/files/investors/codeofconduct.pdf).
+| 
 
-## Code of Ethics for Senior Financial Officers
+No  
+  
+**For our marketing purposes** –to offer our products and services to you, we may disclose information we receive from you on applications or other forms such as your name and contact information to companies that perform marketing services for us such as Erie Insurance agents, mail houses and data processors.
 
-Read more about ERIE's [code of ethics for Senior Financial Officers](https://web.archive.org/-/media/files/investors/codeofethics.pdf). 
+| 
 
-## Affiliates of Erie Insurance Group
+Yes
 
-  * ERIE INSURANCE EXCHANGE
-  * ERIE FAMILY LIFE INSURANCE COMPANY
-  * ERIE INDEMNITY COMPANY
-  * ERIE INSURANCE COMPANY OF NEW YORK
-  * ERIE INSURANCE COMPANY
-  * ERIE INSURANCE PROPERTY AND CASUALTY COMPANY
-  * FLAGSHIP CITY INSURANCE COMPANY
-  * E I SERVICE CORP.
+| 
 
+No  
+  
+**For joint marketing with other financial companies** –we may disclose information we receive from you on applications or other forms such as your name and contact information to other financial companies with which we have joint marketing agreements such as Erie Insurance agents.
 
+| 
+
+Yes
+
+| 
+
+No  
+  
+**For our affiliates’ everyday business purposes** –information about your transactions and experiences – this can include information such as your policy coverage, premiums, and payment history.
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+**For our affiliates’ everyday business purposes** –information about your creditworthiness – this can include information we receive from a credit reporting agency such as insurance score and claims history.
+
+| 
+
+Yes
+
+| 
+
+Yes*  
+  
+**For nonaffiliates to market to you**
+
+| 
+
+No
+
+| 
+
+We do not share  
+  
+**To limit our sharing**
+
+| 
+
+     • Call **1-800-458-0811** –Option 4 for Customer Service **or**  
+     • Visit us online: **[erieinsurance.com/optout](http://www.erieinsurance.com/optout)**
+
+*** Please note:** If you are a **new** **** customer, we can begin sharing this information among the Erie Insurance affiliates 30 days from the date we provided this notice. When you are **no longer** our customer, we continue to share and protect your information as described in this notice. However, you can contact us at any time to limit our sharing.  
+  
+---|---  
+  
+**Questions?**
+
+| 
+
+Call **1-800-458-0811** –Option 4 for Customer Service  
+  
+**Who we are**  
+  
+---  
+  
+**Who is providing this notice?**
+
+| 
+
+The Erie Insurance Group companies including property and casualty and life insurance licensees and financial companies listed below are providing this notice.  
+  
+**What we do**  
+  
+---  
+  
+**How does Erie Insurance protect my personal information?**
+
+| 
+
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We protect your nonpublic personal information under our control by:
+
+     • limiting access for legitimate business needs and  
+     • maintaining physical, electronic, and procedural safeguards in accordance with applicable laws and regulations.  
+  
+**How does Erie Insurance collect my personal information?**
+
+| 
+
+We collect your personal information, for example, when you:
+
+     • apply for insurance  
+     • pay insurance premiums  
+     • file an insurance claim  
+     • give us your income information  
+     • give us your contact information. 
+
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies including, for example, from:
+
+     • your insurance agent or producer  
+     • you on applications or other forms such as claims forms or underwriting questionnaires  
+     • your transactions with Erie Insurance affiliates listed below or others  
+     • consumer reporting agencies.  
+  
+**Why can’t I limit all sharing?**
+
+| 
+
+Federal and state law gives you the right to limit only:
+
+     • sharing for affiliates everyday business purposes–information about your creditworthiness and insurability  
+     • affiliates from using your information to market to you  
+     • sharing for nonaffiliates to market to you.  
+  
+**What happens when I limit sharing for a policy I hold jointly with someone else?**
+
+| 
+
+Your choices will apply to everyone on your policy.  
+  
+**Definitions**  
+  
+---  
+  
+**Affiliates**
+
+| 
+
+Companies related by common ownership or control. They can be financial and nonfinancial companies. Our affiliates include companies affiliated with Erie Insurance Exchange; financial companies such as Erie Indemnity Company and insurance licensees such as Erie Insurance Exchange, Flagship City Insurance Company and Erie Family Life Insurance Company.  
+  
+**Nonaffiliates**
+
+| 
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies. Erie Insurance does not share with non-Erie Insurance companies so they can market their products to you.  
+  
+**Joint marketing**
+
+| 
+
+A formal agreement between nonaffiliated financial companies that together market insurance products or services to you. Our joint marketing partners include insurance licensees such as Erie Insurance agents.  
+  
+     • Erie Insurance Exchange  
+     • Erie Indemnity Company  
+     • Erie Family Life Insurance Company   
+     • Erie Insurance Company
+
+| 
+
+     • Erie Insurance Company of New York  
+     • Erie Insurance Property and Casualty Company  
+     • Flagship City Insurance Company  
+     • E I Service Corp  
+  
+---|---
