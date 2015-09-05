@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pictify.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611083926id_/http%3A//pictify.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictify.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905195256id_/http%3A//pictify.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Pictify - your social art network
 
