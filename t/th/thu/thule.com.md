@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423150717id_/http%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thule.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054607id_/http%3A//www.thule.com/en-us/us/legal-and-privacy-policy) for the most accurate reproduction.*
 
 # Legal and Privacy Policy - Thule
 
