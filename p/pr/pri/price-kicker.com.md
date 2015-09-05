@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the price-kicker.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603035054id_/https%3A//www.price-kicker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the price-kicker.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905085458id_/https%3A//www.price-kicker.com/privacy.html) for the most accurate reproduction.*
 
 # Price-Kicker.com
 
@@ -6,10 +6,14 @@ If you require any more information or have any questions about our privacypolic
 
 At price-kicker.co.uk, the privacy of our visitors is of extreme importance tous. This privacy policy document outlines the types of personal information isreceived and collected by price-kicker.co.uk and how it is used.
 
- **Log Files**
+**Log Files**
 
 Like many other Web sites, price-kicker.co.uk makes use of log files. The information inside the log files includes internet protocol  (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **Cookies and Web Beacons**
+**Cookies and Web Beacons**
 
 price-kicker.co.uk does use cookies to store information about visitors preferences and behaviour. See our [cookie policy](https://www.price-kicker.com/cookie_policy.html) for further details.
+
+**Retargeting**
+
+We point out, that on this site captify is used for retargeting. [http://www.captify.de/policy](http://www.captify.de/privacy)
