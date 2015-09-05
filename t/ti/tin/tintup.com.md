@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tintup.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502154617id_/https%3A//www.tintup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tintup.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905180339id_/http%3A//www.tintup.com/privacy) for the most accurate reproduction.*
 
 # Tint Privacy Policy
 
@@ -8,7 +8,7 @@ This Statement of Privacy applies to the Tint website ([http://tintup.com](http:
 
 This Privacy Policy applies only to information that you provide to us through this Site. This Privacy Policy may be updated from time to time to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service (
 
- _<http://www.tintup.com/tos>_ ). 
+ _<http://www.tintup.com/termsofservice>_ ). 
 
 As used in this Privacy Policy, the terms “using” and “processing” information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.
 
