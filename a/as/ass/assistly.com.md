@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the assistly.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024104639id_/http%3A//www.desk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assistly.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905162857id_/http%3A//www.desk.com/privacy) for the most accurate reproduction.*
 
-# Terms of Service
+# Privacy | Desk.com
 
-[](https://privacy.truste.com/privacy-seal/salesforce-com,-inc-/validation?rid=d294a82b-391c-42c7-baf4-ae106278e6d3 "TRUSTe online privacy certification")
+[ ](https://privacy.truste.com/privacy-seal/salesforce-com,-inc-/validation?rid=89c5f057-7f71-4e69-9b74-43994ce03f69 "TRUSTe European Safe Harbor certification")
 
 Desk.com (or the “Company”), a salesforce.com, inc. company, is committed to protecting the privacy of individuals who visit the Company’s Web sites and individuals who register to use the Services as defined below. This Privacy Statement describes Desk.com’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by Desk.com (the “Services”). 
 
@@ -209,7 +209,7 @@ For European visitors to the Desk.com Web site and users of the Desk.com Service
 
 ### 8\. Communications Preferences
 
-Desk.com offers Visitors and Customers who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [unsubscribe@desk.com](mailto:unsubscribe@desk.com) or visit <http://www.desk.com/marketing/unsubscribe>. Customers cannot opt out of receiving transactional emails related to their account with Desk.com or the Services.
+Desk.com offers Visitors and Customers who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to [unsubscribe@desk.com](mailto:unsubscribe@desk.com) or [click here to unsubscribe](http://help.desk.com/l/26172/2014-02-05/5yxp9). Customers cannot opt out of receiving transactional emails related to their account with Desk.com or the Services.
 
 ### 9\. Correcting and Updating Your Information
 
