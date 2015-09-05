@@ -1,78 +1,127 @@
-> *The following text is extracted and transformed from the tcunet.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602210706id_/http%3A//www.tcunet.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcunet.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905184131id_/https%3A//www.tcunet.com/home/about/privacy) for the most accurate reproduction.*
 
-# privacy statement
+# Teachers Credit Union - About TCU - Privacy Statement
 
-| 
+[](https://web.archive.org/home/personal/checking/checking-account)
 
-Privacy Statement
+Rev. 9/2010
 
-Our Privacy Policy  
-**WHO “WE” ARE:  
-**In this brochure, “we” means  
-• **Teachers Credit Union** \- A credit union located in South Bend, Indiana, serving members in 50 states  
-• **TCU Travel LLC** \- A subsidiary of Teachers Credit Union, offering a travel agency to members and non members of Teachers Credit Union.  
-• **TCU Investment Services LLC,** a subsidiary to Teachers Credit Union offering securities, brokerage, financial planning, insurance products and services to members and non members of Teachers Credit Union, and  
-• **TCU Agency LLC** \- A subsidiary to Teachers Credit Union, offering insurance products.  
-We are “affiliates” of each other.  
-**WHAT THIS IS:  
-**This disclosure is the privacy policy for all entities above (us). We are combining this disclosure because our policies are similar; you might be a member/client of more than one of us; and, if you opt out, your opt out will affect each of us.   
-In this brochure, we will tell you (among other things):  
-Where we get information about you (our sources);   
-with whom we might share any of that information, and why;   
-what you can do if you don’t want us to share certain information about you and   
-what we do to protect the information we have about you from unintended users.  
-**WHO “YOU” ARE:  
-**This policy applies to our consumer members/clients who have continuing relationships with one (or more) of us.  
-You have a continuing relationship with the Credit Union if, for example, you have a  
-• Deposit (share) account • Internet Service (Home Banking/Account Aggregation) • Retail installment contract we hold and service  
-• Loan account • Safe deposit box • Self-directed Individual Retirement Account   
-• Credit card • Automobile lease we service where we act as custodian  
-You have a continuing relationship with the TCU Travel LLC, TCU Investment Services LLC, or TCU Agency, LLC if you, for example purchase an insurance policy, create a brokerage account, or obtain financial planning services from or through one of these affiliates.  
-**MORE DEFINITIONS:  
-**“ **Information** ” means “nonpublic personal information,” which is a technical term that generally means information that can identify you; that is not available publicly; and that we collect in connection with providing a financial product or service to you.   
-We will use the word “information” in this brochure to mean “nonpublic personal information.”  
-**Affiliate** is a company one of us owns, a company that owns one of us, or a company that is owned or controlled by a company that owns one of us. The Credit Union, the TCU Travel LLC, TCU Investment Services LLC, and TCU Agency, LLC are affiliates of each other.  
-**Nonaffiliate** includes a person who is not employed by one of us, or a company that is not an affiliate.  
-**Opt out** means a choice you make to prevent us from sharing information about you with others.  
-**JOINT ACCOUNTS:**  
-If you have a joint account with us, you should share this notice with the persons who share your account. They may not get a separate notice. You may only get one of these disclosures, no matter how many of us you have an account with, and no matter how many accounts you might have. (The number of such disclosures might depend on how our computer sorts information we have about you.)  
-**SOURCES FOR INFORMATION:**  
-Each of us collects information about our members/clients from the following sources:   
-Information you might provide on applications and other forms;   
-Information about transactions one of us might conduct for you;  
-Information about transactions you might conduct through an affiliate; or   
-Information about your transactions with nonaffiliated third parties.  
-The Credit Union also may collect information about you from a consumer reporting agency.  
-**THE CONFIDENTIALITY, SECURITY, AND INTEGRITY OF YOUR INFORMATION**  
-Each of us restricts access to information about you to those employees who need to know that information to provide products or services to you. Each of us maintains physical, electronic, and procedural safeguards to guard your information. Federal regulations require such safeguards.  
-**INFORMATION WE DISCLOSE ABOUT YOU BETWEEN US (WITH AFFILIATES):  
-****Transaction information:  
-**We may share the following types of information about you with each other (affiliates) derived from the transactions either (or all) of us conducts on your behalf:   
-name, address, account balances, account activity, types of accounts, deposit history, parties to the transaction, phone number, age  
-Federal law allows us to share information derived from the transactions we do for you with each other. You do not have a right to opt out of the sharing of this information.  
-**Non transaction information:  
-**We share between us the following information, derived from applications and other forms submitted by customers, such as assets and income.  
-Members/clients of each entity can opt out of the sharing of this information listed immediately above (taken from applications and other forms).   
-The instructions for and the effect of an opt out are below.   
-**Reasons For Disclosure  
-**We share the information listed above between us so our members/clients can be aware of all the financial products that we offer through all our entities.   
-**JOINT MARKETING**  
-We may disclose the following information to other financial service providers with whom we have joint marketing agreements:  
-Information from applications and other forms, such as name, address, social security number, deposit balances, and loan balances.  
-**Exceptions:  
-**The Credit Union does not share information about members located in Alabama, Alaska, Idaho, North Dakota and Vermont for joint marketing purposes.  
-The Credit Union does not share information derived from deposit accounts about members located in Massachusetts, Mississippi and New Jersey.   
-**Types of Businesses  
-**The credit union provides this information for joint marketing purposes to financial service providers, such as securities broker-dealers, insurance or title insurance companies and private label (TCU Card) credit card issuers.  
-**Reasons For Disclosing  
-**We may disclose information about you pursuant to joint marketing agreements so we can provide you with information about additional products and services that we might not be able to offer you ourselves but which we can offer you together with others.  
-**YOUR INFORMATION AND OTHER PARTIES  
-**We will not disclose information about you to anyone except as disclosed in this policy or as permitted by law.  
-**INFORMATION ABOUT FORMER MEMBERS  
-**We have the same policy about disclosing information about former members as we do about current members.  
-**YOUR RIGHT TO BLOCK THE DISCLOSURE OF YOUR INFORMATION - INSTRUCTIONS AND EFFECT  
-**You have the right to ask us not to share between us the information derived from sources other than the transactions we conduct on your behalf, as mentioned earlier. This is referred to as an opt out. If you wish to opt out of disclosures, you may do so by calling 800-552-4745 or [complete and return a form](https://web.archive.org/web/20030602210706id_/http%3A//www.tcunet.com/OptOut.pdf) which you can obtain at our website at www.tcunet.com  
-If you have one or more joint accounts, an opt out instruction given by one participant of such an account will affect all of the accounts of the person who opts out and all information from those accounts about others who participate in those accounts. An opt out instruction will apply to all of us. This means that an opt out will prevent the Credit Union from sharing the non transaction information with TCU Travel LLC, TCU Investment Services LLC, and TCU Agency LLC, and them from sharing the same information with the Credit Union, or each other. An opt out will remain in effect until you change it, or the law changes and we give you further notice of that change.  
+FACTS | **WHAT DOES TEACHERS CREDIT UNION OR TCU DO WITH YOUR PERSONAL INFORMATION?**  
+---|---  
+Why? | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+---|---  
+What? | The types of personal information we collect and share depend on the product or service you have with us. This information can include:  
+ 
+
+  * Social Security number
+  * Account balances
+  * Transaction or loss history
 
 
-Rev. 2/03
+
+  * Credit history
+  * Credit scores
+  * Checking account information
+
+  
+  
+---|---  
+How? | All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Teachers Credit Union or TCU chooses to share; and whether you can limit this sharing.  
+---|---  
+Reasons we can share your personal information | Does Teachers Credit Union or TCU share? | Can you limit this sharing?  
+---|---|---  
+**For our everyday business purposes —**  
+such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | Yes | No  
+**For our marketing purposes —**  
+to offer our products and services to you | Yes | No  
+**For joint marketing with other financial companies** | Yes | No  
+**For our affiliates' everyday business purposes —**  
+information about your transactions and experiences | Yes | No  
+**For our affiliates' everyday business purposes —**  
+information about your creditworthiness | Yes | Yes  
+**For affiliates to market to you** | Yes | Yes  
+**For nonaffiliates to market to you** | No | We don't share  
+To limit our sharing | 
+
+  * Call Toll-free 800-552-4745 - our menu will prompt you through your choice(s)
+  * Visit us online: www.TCUnet.com  
+ _ **Please note:**_
+
+
+
+If you are a _new_ member, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ a member, we continue to share your information as described in this notice.
+
+However, you can contact us at any time to limit our sharing.  
+  
+---|---  
+Who We Are  
+---  
+Who is providing this notice? | Teachers Credit Union or TCU means the following institutions: Teachers Credit Union, TCU Agency, LLC and TCU Lending Agency, LLC.  
+What we do  
+---  
+How does Teachers Credit Union or TCU protect my personal information? | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+We also maintain other physical, electronic and procedural safeguards to protect this information and we limit access to information to those employees for whom access is appropriate.  
+How does Teachers Credit Union or TCU collect my personal information? | 
+
+We collect your personal information, for example, when you
+
+ 
+
+  * Open an account
+  * Apply for a loan
+  * Make deposits or withdrawals from your account
+
+
+
+  * Tell us about your investment or retirement portfolio
+  * Show your driver's license
+
+
+
+ 
+
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+  
+Why can't I limit all sharing? | Federal law gives you the right to limit only 
+
+  * sharing for affiliates' everyday business purposes- information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
+
+State laws and individual companies may give you additional rights to limit sharing.  
+See below for more on your rights under state law.  
+What happens when I limit sharing for an account I hold jointly with someone else? | Your choices will apply to everyone on your account.  
+Definitions  
+---  
+Affiliates | Companies related by common ownership or control. They can be financial and non-financial companies. 
+
+  * _Our affiliates include:_
+    * _Companies with a Teachers Credit Union or TCU name_
+
+  
+Nonaffiliates | Companies not related by common ownership or control. They can be financial and non-financial companies. 
+
+  * _Teachers Credit Union or TCU does not share with nonaffiliates so they can market to you._
+
+  
+Joint marketing | A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
+
+  * _Our joint marketing partners include Securities Broker Dealers, Insurance or Title Insurance Companies or Agencies, Trust Companies, Real Estate Agencies or Private Label Credit Card Issuers._
+
+  
+Other Important Information  
+---  
+  
+**For Alaska Members**. We will not share personal information with nonaffiliates either for them to market to you or for joint marketing - without your authorization.
+
+**For Illinois, Maryland and North Dakota Members**. We will not share personal information with nonaffiliates either for them to market to you or for joint marketing - without your authorization.
+
+**For California Members**. We will not share personal information with nonaffiliates either for them to market to you or for joint marketing - without your authorization. We will also limit our sharing of personal information about you with our affiliates to comply with all California privacy laws that apply to us.
+
+**For Massachusetts, Mississippi and New Jersey Members**. We will not share personal information from deposit or share relationships with nonaffiliates either for them to market to you or for joint marketing - without your authorization.
+
+**For Vermont Members**. We will not share personal information with nonaffiliates either for them to market to you or for joint marketing - without your authorization, and we will not share personal information with affiliates about your creditworthiness without your authorization.  
+  
+Rev 9/2010
+
+Back to Top
