@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the spreaker.com privacy policy that was archived on 2015-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150628123934id_/http%3A//www.spreaker.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spreaker.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905195647id_/http%3A//www.spreaker.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:sp="https://www.spreaker.com/namespaces/sp" xmlns:og="http://ogp.me/ns#"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# spreaker_radio: http://ogp.me/ns/fb/spreaker_radio#">
 
     <meta charset="utf-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy | Spreaker</title>
+<title>Privacy Policy</title>
 <meta name="description" content="Discover the upcoming talent in the biggest community of broadcasters, producers, and musicians.">
 <link rel="canonical" href="https://www.spreaker.com/privacy">
 <meta name="referrer" content="origin-when-crossorigin">
@@ -33,7 +33,11 @@
                 window.location = "/page#!" + l.pathname + l.search + l.hash;
             }
         } else if (p && l.pathname === "/page" && l.hash.indexOf('#!') !== -1) {
-            window.location = l.hash.replace("#!", "");
+            if ((new RegExp("^[^\/]*javascript:", "i")).test(l.hash)) {
+                window.location = "/";
+            } else {
+                window.location = l.hash.replace(/^\#\!/, "");
+            }
         }
     </script>
 
@@ -63,6 +67,7 @@
 <meta name="twitter:app:name:googleplay" content="Spreaker Radio">
 <meta name="twitter:app:id:googleplay" content="com.spreaker.android">
     
+    <meta name="theme-color" content="#212322">
 
     <!-- Standard -->
 <link rel="shortcut icon" href="https://dsgubxm9tkl6s.cloudfront.net/images/favicons/favicon.ico">
@@ -77,9 +82,9 @@
 
 <!-- iPhone Non Retina -->
 <link rel="apple-touch-icon-precomposed" href="https://dsgubxm9tkl6s.cloudfront.net/images/favicons/apple_touch_57.png">
-    <link rel="stylesheet" type="text/css" media="screen" href="https://d1sojsgu0jwtb7.cloudfront.net/css/e557f447d84d3dcfd3f5f373bf3dfa87/frontend.min.css">
-<link rel="stylesheet" type="text/css" media="screen" href="https://d1sojsgu0jwtb7.cloudfront.net/css/e557f447d84d3dcfd3f5f373bf3dfa87/terms.min.css">
-    <script type="text/javascript" src="https://d1sojsgu0jwtb7.cloudfront.net/js/03db49ebcbef995a6d84e61176b5b20a/frontend-core.en_US.min.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://d1sojsgu0jwtb7.cloudfront.net/css/7ccf1a48301fcfb82082b30ff6fe047e/frontend.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://d1sojsgu0jwtb7.cloudfront.net/css/7ccf1a48301fcfb82082b30ff6fe047e/terms.min.css">
+    <script type="text/javascript" src="https://d1sojsgu0jwtb7.cloudfront.net/js/a84fefc1ab43b5eac63fdf5bbbea4883/frontend-core.en_US.min.js"></script>
 
     
 <script type="text/javascript">
@@ -89,24 +94,24 @@
         USER:                   null,
         DOMAIN:                 "spreaker.com",
         API_URL:                "https:\/\/api.spreaker.com",
-        API_RECEIVER_URL:       "https:\/\/api.spreaker.com\/receiver.html?v=e144b943e85647c0b9a5605f8f2d96e1",
+        API_RECEIVER_URL:       "https:\/\/api.spreaker.com\/receiver.html?v=1e3cd88e7895c3adad5f6e38c4a6bfca",
         API_CULTURE:            "en_US",
         SITE_URL:               "https:\/\/www.spreaker.com",
         VALIDATION_URL:         "\/ajax\/validate\/form",
-        UPLOADER_URL:           "https:\/\/www.spreaker.com\/swf\/swfupload.swf?v=b9c2ca3dc695aec3796281aa3fbeca42",
+        UPLOADER_URL:           "https:\/\/www.spreaker.com\/swf\/swfupload.swf?v=63f74043ec321318af9ec3a31eca93d1",
         SEARCH_URL:             "https:\/\/search.spreaker.com",
-        SEARCH_RECEIVER_URL:    "https:\/\/search.spreaker.com\/receiver.html?v=e144b943e85647c0b9a5605f8f2d96e1",
+        SEARCH_RECEIVER_URL:    "https:\/\/search.spreaker.com\/receiver.html?v=1e3cd88e7895c3adad5f6e38c4a6bfca",
         REDIRECT_URL:           "\/",
-        STORAGE_SWF_URL:        "https:\/\/www.spreaker.com\/swf\/Storage.swf?v=b9c2ca3dc695aec3796281aa3fbeca42",
-        AJAX_VERSION:           "e144b943e85647c0b9a5605f8f2d96e1",
+        STORAGE_SWF_URL:        "https:\/\/www.spreaker.com\/swf\/Storage.swf?v=63f74043ec321318af9ec3a31eca93d1",
+        AJAX_VERSION:           "1e3cd88e7895c3adad5f6e38c4a6bfca",
         AUTH_COOKIE:            "spreaker_user",
         AUTH_URL:               "\/connect",
         PUSHER_APP_KEY:         "43f80ebf8fa8d7c1ebee",
         STRIPE_PREMIUM_PUBLISHABLE_KEY: "pk_0DkdqskXokGWhGzZZCwBbUPQ3owQq",
         STRIPE_STORE_PUBLISHABLE_KEY:   "pk_live_sbI2q15f2zAg8Rfqiw8xmh9q",
         IMAGES_BASE_PATH:       "\/\/dsgubxm9tkl6s.cloudfront.net\/images",
-        PLAYER:                 {"swf_url":"https:\/\/www.spreaker.com\/swf\/PlayerHeadless.swf?v=b9c2ca3dc695aec3796281aa3fbeca42","station_url":null,"playlist_url":null,"autoplay":false,"referrer":"www.spreaker.com"},
-        CONNECT:                {"fb_app_id":215002133707,"tw_connect_url":"\/twitter\/connect","go_connect_url":"\/google\/connect","sc_connect_url":"\/soundcloud\/connect","tb_connect_url":"\/tumblr\/connect","yt_connect_url":"\/youtube\/connect"}    });
+        PLAYER:                 {"swf_url":"https:\/\/www.spreaker.com\/swf\/PlayerHeadless.swf?v=63f74043ec321318af9ec3a31eca93d1","station_url":null,"playlist_url":null,"autoplay":false,"referrer":"www.spreaker.com"},
+        CONNECT:                {"fb_app_id":215002133707,"tw_connect_url":"https:\/\/www.spreaker.com\/twitter\/connect","go_connect_url":"https:\/\/www.spreaker.com\/google\/connect","sc_connect_url":"https:\/\/www.spreaker.com\/soundcloud\/connect","tb_connect_url":"https:\/\/www.spreaker.com\/tumblr\/connect","yt_connect_url":"https:\/\/www.spreaker.com\/youtube\/connect"}    });
 
     // Modules configuration
     SP.Config.addModuleConfig('ajax', {"modules":{"page_header":{"persistent":true},"page_header_search":{"persistent":true},"compatibility":{"persistent":true},"ajax":{"persistent":true},"auth":{"persistent":true},"embed":{"persistent":true},"pusher":{"persistent":true},"follow":{"persistent":true},"like":{"persistent":true},"ban":{"persistent":true},"culture":{"persistent":true},"flash_message":{"persistent":true},"cohort_events":{"persistent":true},"facebook_invite":{"persistent":true},"facebook_share":{"persistent":true},"notifications":{"persistent":true},"player_desktop":{"persistent":true},"player_buttons":{"persistent":true},"mobile_ios":{"persistent":true},"performance_tracking":{"persistent":true},"staff_metadata":{"persistent":true}},"history_url":"https:\/\/www.spreaker.com\/history.html","push_state":true});
@@ -226,6 +231,8 @@
                     <li class="nb_item ">
                 <a onclick="SP.Ajax.onClick(this, arguments);" ontouchstart="SP.Ajax.onTouchStart(this, arguments);" href="/terms/pricing">Pricing Terms and Conditions</a>            </li>
                     <li class="nb_item ">
+                <a onclick="SP.Ajax.onClick(this, arguments);" ontouchstart="SP.Ajax.onTouchStart(this, arguments);" href="/community-rules">Community Rules</a>            </li>
+                    <li class="nb_item ">
                 <a onclick="SP.Ajax.onClick(this, arguments);" ontouchstart="SP.Ajax.onTouchStart(this, arguments);" href="/privacy">Privacy Information</a>            </li>
                     <li class="nb_item ">
                 <a onclick="SP.Ajax.onClick(this, arguments);" ontouchstart="SP.Ajax.onTouchStart(this, arguments);" href="/cookies">Cookies Policy</a>            </li>
@@ -240,6 +247,8 @@
                     Terms of Service                </option>
                             <option data-url="/terms/pricing">
                     Pricing Terms and Conditions                </option>
+                            <option data-url="/community-rules">
+                    Community Rules                </option>
                             <option data-url="/privacy">
                     Privacy Information                </option>
                             <option data-url="/cookies">
@@ -370,9 +379,10 @@
                     <h4 class="ft_title">About</h4>
                     <ul class="ft_links">
                         <li class="ft_link"><a title="Spreaker" onclick="SP.Ajax.onClick(this, arguments);" ontouchstart="SP.Ajax.onTouchStart(this, arguments);" href="/about">Company</a></li>
-                        <li class="ft_link ft_only_desktop"><a target="_blank" title="Blog - Spreaker" href="http://blog.spreaker.com">Blog</a></li>
+                        <li class="ft_link"><a target="_blank" title="Blog - Spreaker" href="http://blog.spreaker.com">Blog</a></li>
                         <li class="ft_link ft_only_desktop"><a title="Jobs" onclick="SP.Ajax.onClick(this, arguments);" ontouchstart="SP.Ajax.onTouchStart(this, arguments);" href="/jobs">Jobs</a></li>
                         <li class="ft_link"><a title="Terms and Conditions" onclick="SP.Ajax.onClick(this, arguments);" ontouchstart="SP.Ajax.onTouchStart(this, arguments);" href="/terms">Terms and Conditions</a></li>
+                        <li class="ft_link"><a title="Community Rules" onclick="SP.Ajax.onClick(this, arguments);" ontouchstart="SP.Ajax.onTouchStart(this, arguments);" href="/community-rules">Community Rules</a></li>
                         <li class="ft_link ft_only_desktop"><a title="Privacy Policy" onclick="SP.Ajax.onClick(this, arguments);" ontouchstart="SP.Ajax.onTouchStart(this, arguments);" href="/privacy">Privacy Policy</a></li>
                     </ul>
                     <ul class="ft_links fea_mobile_plans">
@@ -389,6 +399,7 @@
                         <li class="ft_link"><a title="Press Resources" onclick="SP.Ajax.onClick(this, arguments);" ontouchstart="SP.Ajax.onTouchStart(this, arguments);" href="/press">Press Resources</a></li>
                         <li class="ft_link"><a title="Join our Newsletter" href="/newsletter/subscription">Join our Newsletter</a></li>
                         <li class="ft_link"><a target="_blank" href="/newsletter/latest">Current Newsletter</a></li>
+                        <li class="ft_link"><a title="All the on demand podcast audio shows you will Adore. Adore.fm is managed, curated and powered by Spreaker, the leading podcasting and live streaming platform. Adore content spans comedy, entertainment, music, health, fitness, politics, sports and travel." target="_blank" href="http://adore.fm">Adore Podcast Network</a></li>
                     </ul>
                 </div>
 
