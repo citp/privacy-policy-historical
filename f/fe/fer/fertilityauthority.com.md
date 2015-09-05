@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fertilityauthority.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327111319id_/https%3A//www.fertilityauthority.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilityauthority.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905210254id_/https%3A//www.fertilityauthority.com/privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use/Privacy Policy
 
