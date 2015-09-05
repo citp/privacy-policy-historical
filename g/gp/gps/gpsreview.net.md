@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gpsreview.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317062616id_/http%3A//www.gpsreview.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpsreview.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905054650id_/http%3A//www.gpsreview.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy GPS Review
+# Privacy and Cookies Policy GPS Review
 
 As most websites do, we collect data in a “log file” for record keeping. We collect things like your IP address, the browser you are using, which pages you visited, and which page you came from. We also use cookies to store information such as your personal preferences. For example if you submit a comment we will try to remember your name so you don’t have to fill it out again, or if you login to some of our features such as the forums, we’ll remember your login information through a cookie. Most browsers allow you to turn off cookies if you don’t want them used, however some of our website features require them.
 
@@ -12,6 +12,8 @@ We also use third party advertising companies to serve ads. These companies may 
 
 As an example, we use advertisements from Google on this website. They may store a cookie on your computer which enables them to serve relevant advertisements to you based on your visits here and on other websites. You may opt out of Google’s DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). You may opt out of Shopzilla targeted advertising by visiting [Shopzilla Opt Out](http://www.shopzilla.com/ad_retarget_global_opt_out).
 
-_(Updated 21 Mar 2014)_
+This site uses cookies – small text files that are placed on your machine to help the site provide a better user experience. In general, cookies are used to retain user preferences, store information for things like shopping carts, and provide anonymised tracking data to third party applications like Google Analytics. As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at [the About Cookies website](http://www.aboutcookies.org/) which offers guidance for all modern browsers.
+
+_(Updated 27 Jul 2015)_
 
 Comments are closed.
