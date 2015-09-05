@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociocaster.com privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425000805id_/http%3A//sociocaster.com/app/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociocaster.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905205626id_/http%3A//sociocaster.com/app/privacypolicy) for the most accurate reproduction.*
 
 # Sociocaster - Social Media Tool For Business
 
