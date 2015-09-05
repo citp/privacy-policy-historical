@@ -1,29 +1,25 @@
-> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318165850id_/https%3A//www.gigmasters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905130059id_/https%3A//www.gigmasters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Gigmasters-com,-Inc-/validation?rid=faf95f53-0153-4e45-9f93-cacc33f8b56b "TRUSTe online privacy certification")
-
 ### GigMasters Privacy Policy
 
-_Effective October 7th, 2014_
+_Effective July 30th, 2015_
 
 This privacy policy applies to www.gigmasters.com owned and operated by GigMasters.com, Inc. This privacy policy describes how Gigmasters.com, Inc. collects and uses the personal information you provide on our web site: www.gigmasters.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-GigMasters.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [www.gigmasters.com](http://www.gigmasters.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
-
-If users have questions or concerns regarding this statement, they should first contact Michael Caldwell, Customer Support, by [e-mail](http://www.gigmasters.com/contact), by telephone 866-342-9794, by postal mail GigMasters.com, Inc., 33 South Main Street, Norwalk, CT 06854. If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact TRUSTe through <https://feedback-form.truste.com/watchdog/request>. TRUSTe will serve as a liaison with the Web site to resolve users concerns.
+If users have questions or concerns regarding this statement, they should first contact Michael Caldwell, Customer Support, by [e-mail](http://www.gigmasters.com/contact), by telephone 866-342-9794, by postal mail GigMasters.com, Inc., 33 South Main Street, Norwalk, CT 06854. 
 
 **Log Files  
 ** Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are linked to personal information to help identify you and your shopping cart.
 
 **Cookies and Other Tracking Technologies  
-** Technologies such as: cookies, beacons, tags and scripts are used by Gigmasters.com and our partners [specify type e.g. marketing partners], affiliates, or analytics or service providers  [specify type e.g. online customer support provider, etc]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+** Technologies such as: cookies, beacons, tags and scripts are used by Gigmasters.com and our affiliates, analytics, or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use Local Storage Objects (LSOs) such as HTML5 [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
 
 **Behavioral Targeting/ Re-Targeting  
-** We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+** We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [e-mail](http://www.gigmasters.com/contact) or by telephone 866-342-9794. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **Social Media Widgets  
 ** Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
