@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529034034id_/http%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052854id_/http%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Math, Science, English, Test Prep - Brightstorm
 
-Last Updated: December 31, 2014 
+Last Updated: September 1, 2015 
 
 At Brightstorm, protecting your privacy is really important to us. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [www.brightstorm.com/terms-of-service](http://www.brightstorm.com/terms-of-service). This Privacy Policy applies to the website www.brightstorm.com and services included within "Services" and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
-
-Brightstorm has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.brightstorm.com. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 ###### How do we collect and use information?
 
@@ -34,7 +30,7 @@ We use Local Storage Objects (LSOs) such as HTML5 to store [content information 
 
 <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)) Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. 
 
 ###### Location Information.
 
