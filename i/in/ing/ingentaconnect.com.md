@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ingentaconnect.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319232740id_/http%3A//www.ingentaconnect.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingentaconnect.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905074619id_/http%3A//www.ingentaconnect.com/about/privacy) for the most accurate reproduction.*
 
 # IngentaConnect Help Pages: ingentaconnect
-
-[Home](https://web.archive.org/ "home") / IngentaConnect Help Pages 
 
 ## Privacy of Information
 
@@ -33,15 +31,3 @@ ingentaconnect provides links to a variety of other Internet resources. These si
 ## Modifications
 
 ingentaconnect encourages users of ingentaconnect to review the ingentaconnect Privacy Policy Statement periodically for updates. ingentaconnect reserves the right to change its privacy policies at any time. Changes are effective when posted to this site.
-
-#### Access Key
-
-Free content 
-
-New content 
-
-Open access content 
-
-Subscribed content 
-
-Free trial content 
