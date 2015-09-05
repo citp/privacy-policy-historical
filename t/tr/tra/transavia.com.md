@@ -1,66 +1,74 @@
-> *The following text is extracted and transformed from the transavia.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315010925id_/https%3A//www.transavia.com/en-EU/the-small-print/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transavia.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061757id_/https%3A//www.transavia.com/en-EU/the-small-print/privacy) for the most accurate reproduction.*
 
-# Privacy - transavia.com
+# Privacy - Transavia
 
-## Process of personal data
-
-You can visit our website without telling us who you are or revealing any (personal) information regarding your good selves. However in order to be able to provide our transavia.com products and services and execute contracts, we need to process certain personal data such as your name, address, email address, telephone number, travel preferences, personal interests and possibly information required for payment. In accordance with the Personal Data Protection Act (WBP), transavia.com has reported how it processes your personal details to the Data Protection Board (CBP), previously known as the Registration Board) in The Hague.
-
-## For what purposes does transavia.com process your data?
-
-transavia.com tries to co-ordinate its services and products as closely as possible to the wishes of it customers and website visitors. To achieve this, transavia.com inquires into your interests and preferences. In order to ensure we provide you with the correct services, you will be asked to supply (personal) details when purchasing products or services, or when taking part in items such as surveys, games or competitions. We will use the details that you have supplied us with, such as your name, address, e-mail address, telephone number, personal (travel) preferences and interests, so that we are able to inform you about transavia.com products, services, activities and news. By processing your details, this also helps us to develop new services and products.
-
-Of course you can ask transavia.com at any time to alter or remove from our database any of the details that you supplied us with. To do so, simply fill out the complaint form.
-
-## transavia.com e-mail magazine
-
-You can subscribe to the transavia.com e-mail magazine. If you sign up to receive the magazine, you are giving transavia.com permission to use your e-mail address for sending you the newsletter and other mail such as surveys and news about special offers.
-
-Please follow the instructions below to subscribe or unsubscribe to the e-mail magazine.
-
-**Subscribe:**
-
-  * type your e-mail address in the form’s text field and click on the arrow to subscribe 
-  * you will receive an e-mail with instructions on how to confirm your subscription
+Transavia Airlines C.V. and Transavia France S.A.S. (hereinafter jointly referred to as ‘Transavia’) believe strongly that your personal information should be treated in a careful and safe manner. The general principle here is that you have as much control over this information as possible and that Transavia does not make your personal information available to third parties without your consent.   
 
 
+## This privacy statement contains information on:
 
-**Unsubscribe:**
+- How Transavia handles the personal information you provide to Transavia when booking a flight.
 
-  * below every e-mail magazine is the link “Unsubscribe” 
-  * click this link to open a new window requesting you to confirm that you wish to unsubscribe 
-  * click on the “unsubscribe” button to complete the process 
+- The use of the Transavia website, which is the property of Transavia Airlines C.V.
+
+The Transavia Airlines C.V. registered office is located in (1117 EE) Schiphol at Piet Guilonardweg 15, the Netherlands. The Transavia France S.A.S. registered office is located in (91550) Paray-Vieille-Poste at 3 allée Hélène Boucher, France.
+
+## Processing of personal information
+
+In order to offer our Transavia products and services, it is necessary for us to process such information as your name, address, e-mail address, phone number, travel preferences, personal interests and any information required for payment purposes. You are not required to provide this information to Transavia. However, if you do not wish to provide this information, we will not always be able to provide the requested service and/or product. 
+
+Transavia does not share the information you provide with third parties without your consent. The information is also stored and protected from improper use in accordance with the requirements that may be imposed on it. This means that, among other things, only authorised personnel can access your information and Transavia uses well-established technologies for the storage and protection of your data. 
+
+According to the Personal Data Protection Act (WBP), Transavia Airlines has registered the methods for processing your personal data with the Dutch Data Protection Authority (CBP) in The Hague. This information can be found on the CBP website at [www.collegebeschermingpersoonsgegevens.nl](https://www.collegebeschermingpersoonsgegevens.nl/). According to the ‘Loi Informatique et Libertés’, Transavia France S.A.S. has registered the methods for processing your personal data with the ‘Commission Nationale de l’Informatique et des Libertés’ (CNIL) in Paris. Information on this can be found on the CNIL website at [www.cnil.fr](https://www.cnil.fr/).
+
+## For what other purposes does Transavia process your personal information?
+
+In addition to processing your information in order to deliver services and products, we also use the information you provide to inform you in a customised manner about the available services, products, events and news. The processing of your information also helps us develop new services and products. 
+
+If you do not wish for us to use your information for these purposes, please let us know. We will no longer use the data for these purposes in that case. It goes without saying that you can always ask Transavia to view the information or to change or delete the information you provide. You do this using the [Complaint form](http://service-en.transavia.com/app/ask/). 
+
+## Newsletter
+
+You can subscribe to the Transavia newsletter. If you sign up for the newsletter, you are authorising Transavia to use your e-mail address to send the newsletter and other information, such as special offers, competitions/prize contests and surveys.
+
+If you wish to subscribe or unsubscribe to the newsletter, you do so as follows: 
+
+Subscribe: Transavia homepage – enter e-mail address under ‘Newsletter subscription’   
+Unsubscribe: click on the ‘Unsubscribe’ link at the bottom of the Transavia newsletter
 
 
 
-## IP addresses / cookies
-
-IP addresses are automatically gathered by our web server. Your IP address is a number that is used by computers on the network to identify your computer so that data (such as the WebPages ) can be send to you. In offering its services, transavia.com uses what are known as ‘cookies’. A cookie is a compact piece of information stored in your computer. This cookie is created and consulted during your visit to the transavia.com website. transavia.com uses both temporary and special cookies. Temporary cookies contain no personal information and are intended solely to make it easier for you to use the website. The special cookies make it possible for you to be recognised every time you visit the website. In this way, the website’s settings can be personalised so that using the website is even easier. If you have turned off the use of cookies in your browser, you can still visit most of the sections at the website. We use IP addresses and Cookies to analyse trends, administer this website, track user’s movement (number of visitors, the site's busy and less busy hours), prevent fraud and gather broad demographic information for aggregate use. This information is then used to keep improving the layout of the website in response to the needs of visitors and to make more specific information available at the site. In this way, transavia.com can continue to optimise its digital provision of services.
 
 ## Links
 
-This transavia.com website contains links to other websites and/or resources maintained by others then transavia.com. We do not have any control over such sites and resources. Therefore this privacy statement only applies for the information collected by this website. For good order sake, please be aware that transavia.com is not responsible or liable for the privacy policy of these other websites and resources. We strongly suggest that you always read the applicable privacy statements before you give away any personally identifiable information. Protection of Data transavia.com is doing everything possible to safeguard your personal data from wrongful use. Only authorised personnel have access to your data. The storage and sending of your data over the Internet is safeguarded by means of up-to-date, commonly used technology.
+The Transavia website contains links to other websites and/or sources. Transavia assumes no responsibility and/or liability for these. This privacy statement therefore does not apply to these websites and/or sources. 
 
-## Advertising
+If you purchase other services when booking a flight that are provided by third parties, your information may be provided by Transavia to this third party for purposes of concluding an agreement with this third party. By selecting this service, you are authorising Transavia to share your information with this third party. Naturally, this information will only be kept and processed by this third party if you actually conclude an agreement with this party. To this end we can also share information with these third parties, for example in relation to your account, so that we can serve you fully, act on the agreement in the right way and undertake marketing activities. 
 
-We use external advertising technology from a reputable agency (YD) to learn more about the behaviour of visitors to our website. Our goal is to determine the effectiveness of online advertising on our sites and the sites of third parties. This is done using web beacons and cookies provided by YD and installed by us. The first is aimed at determining the external website from which you arrived at our website and whether this leads to conversion. The information gathered makes it possible to determine the effectiveness of our online advertisements on third party websites. The second, cookies, is aimed at registering certain actions and transactions by visitors to our website and using this information to designate profiles for the visitors concerned. When the visitor in question visits a website within the YD network, an advertisement is shown based on the designated profile. In both instances, we pass on the website usage information of visitors to our website to the YD servers. In both cases in which information is gathered on our behalf within the framework of the advertising campaign on the YD network and maintained using this technology, you are not personally identifiable. For more information on YD or your options with regard to not using this information to offer you targeted advertisements, see the [YD](http://info.evidon.co.uk/more_info/12721) website.
+However, Transavia is not responsible for the privacy policy of these other websites, sources or third parties. We strongly recommend that you always read carefully through the privacy policies of other websites and/or sources and/or third parties.
 
-## Current policies related to personal data
+## Current policy with regard to processing of personal information
 
-transavia.com is increasingly being required to inform various authorities in countries throughout the world, particularly customs and immigration services, about the personal and travel data of its customers within the normal framework of carrying out its flights. This release of information is necessary to implement the travel agreement and is done in the interests of safety. We wish to emphasise that these authorities have assured us that your booking information will be used only in the interests of safety and will be accessible only to authorised personnel.
+Transavia is increasingly obliged to provide various authorities in countries around the world – particularly customs and immigration services – in advance with the personal and travel details of its passengers in connection with normal flight operations. This is necessary for the fulfilment of the contract of carriage and for reasons of safety in particular. We wish to emphasise that the authorities concerned have assured us that your reservation details will only be used for safety purposes and can only be accessed by authorised personnel.
 
-## No Fly List
+## No-fly list
 
-To ensure proper order and safety before, during, and after the flight, transavia.com uses a no fly list. This list includes the names of passengers who have disrupted the safety, proper order and discipline on board an aircraft or on the ground in such a way that they will not be transported for a certain/undetermined length of time or will be transported only under certain conditions determined by transavia.com. These persons will be notified personally (and in writing, if possible) by transavia.com about their placement on this list and about the period of time involved.
+To maintain and manage the proper order and safety of and during flights, Transavia has a No-fly list. This list contains the names of passengers who have disrupted safety, good order and discipline on board and/or on the ground to such an extent that they may not be flown on board a Transavia flight for a limited or unlimited period of time – or under conditions to be determined by Transavia. The persons concerned are informed personally by Transavia – and in writing if possible – about their placement on this list and the applicable time period.
 
 ## Changes
 
-This privacy statement is tailored to the usage and the possibilities of this website. Along with the adjustments and or changes made to this website, this privacy statement may alter accordingly. You should therefore periodically review this privacy statement. We will use the information in accordance with privacy policy under which the information was collected. However, if transavia.com decides to change the use of the personally identifiable information in a manner different from that stated at the time it was collected, transavia.com will notify the concerning users of this website by way of an email. The user will then have the choice to withhold there consent to the usage’s of their information in this different manner.
+This privacy statement pertains to the use of your personal information by Transavia and the possibilities of this website. Any adaptations and/or changes to this website may lead to changes in this privacy statement. It is therefore advisable to read through this privacy statement on a regular basis.  
+After all, Transavia will only use the information provided in accordance with this privacy statement and for the purpose for which this information was collected. If Transavia decides to use personally identifiable information in a manner other than prescribed in the privacy statement, Transavia must inform the persons concerned of this by e-mail. You will then have the choice as to whether or not to authorise this use. 
+
+## Cookies
+
+When visiting the website, the Transavia web server automatically stores your IP address. Your IP address is a number that makes it possible for computers in the network to identify your computer, so that information (such as web pages) can be sent to your computer. Transavia uses cookies when offering its services. A cookie is a compact piece of information that is stored on your computer. When visiting the Transavia website, this cookie is created and read. For more information on cookies, read the [Transavia cookie policy](https://www.transavia.com/en-EU/the-small-print/cookie-policy/).
 
 ## Questions
 
-Should you have any questions that was not addressed in this privacy statement, please contact the transavia.com call centre.
+If you have any questions or complaints on the protection of your personal data by Transavia, please contact us via the [Transavia Call Centre](https://www.transavia.com/en-EU/service/customer-service/).
 
-Transavia Airlines C.V.
+Transavia Airlines C.V.  
+Transavia France S.A.S.
 
-Schiphol, The Netherlands, November 2008
+April 2015
