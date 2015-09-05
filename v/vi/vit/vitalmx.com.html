@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the vitalmx.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316204730id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitalmx.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905231339id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="mx" xmlns:fb="http://ogp.me/ns/fb#" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="ZQzoKNPWZohAzoB+rfR7YY7TsvEpeI1stSsm+YLe2x4=" name="csrf-token">
+<meta content="bCQAy6wrNSc/KGf+3SQoTRlrIdwX/Tibk9ilPFv9VEs=" name="csrf-token">
 <!--[if lte IE 8]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -17,7 +17,7 @@
 
 
 
-<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" charset="utf-8">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//cdn.viglink.com/api/vglnk.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" charset="utf-8">
   var thisUserID = '';
   var thisUserName = '';
   var thisUserURL = '';
@@ -45,10 +45,12 @@
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 <link href="/assets/fancybox/jquery.fancybox-1.3.1-58be82c266c119dc0356d9b64608946a.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/assets/fancybox/jquery.fancybox-patch-f4d36e69503b6525f0625dd6ee6225e5.css" media="screen" rel="stylesheet" type="text/css">
-<script src="/assets/fancybox/jquery.fancybox-1.3.1-6b708f4e5464aec503d925b4738d1182.js" type="text/javascript"></script>
-<script src="/assets/vital.apps-0e7ece866ef738def58cc2c68fe5f08e.js" type="text/javascript"></script>
+<script src="/assets/fancybox/jquery.fancybox-1.3.1-a1fc139bc31694ef6af92f26797e99c1.js" type="text/javascript"></script>
+<script src="/assets/vital.apps-8d1e49deafb4186e9b8d1f2d579c3064.js" type="text/javascript"></script>
 <script src="/assets/jquery_ujs-c6fbeabc851203300f4b221feb01b2d5.js" type="text/javascript"></script>
+<script src="/assets/jquery.role-8b6b06de318e555d4b6a824acfe379af.js" type="text/javascript"></script>
 <script src="/assets/advertisement-47736c0909f6b8441f95e5ac266e2668.js" type="text/javascript"></script></head><body id="privacy_policy" class="small_scrn"><div id="tester" style="display:none;">an advertisement</div>
+<script src="/assets/arrive.min-a101b3680903e197a0099ec7018cb79d.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -77,12 +79,12 @@ $j(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
 if (document.getElementById("tester") != undefined){
   //alert('You are not blocking ads!');
   $j(document).ready(function() {
-    _gaq.push(['_trackEvent', 'Adblock Test', 'Adblocker', 'off', true]);
+    _gaq.push(['_trackEvent', 'Adblock Test', 'Adblocker', 'off']);
   });
 } else {
   //alert('You are blocking ads!');
   $j(document).ready(function() {
-    _gaq.push(['_trackEvent', 'Adblock Test', 'Adblocker', 'on', true]);
+    _gaq.push(['_trackEvent', 'Adblock Test', 'Adblocker', 'on']);
   });
 }
 </script>
@@ -103,7 +105,70 @@ window.fbAsyncInit = function() {
 	  _gaq.push(['_setAccount', 'UA-561000-12'],['_trackSocial', 'facebook', 'share', targetUrl]);
 	});
 	
+}
+
+/*Responsive Video Embeds*/
+$j(document).ready(function() {
+	$j('.content_inner iframe, .content_inner embed').not('.videoDesc iframe, .videoDesc embed, #video_detail_view iframe, #video_detail_view embed, .playerWrapper iframe, .playerWrapper embed').each(function() {
+		thisSrc = $j(this).attr('src');
+		if ( thisSrc && (thisSrc.indexOf('youtube') !== -1 || thisSrc.indexOf('vimeo') !== -1) ) {
+		  $j(this).wrap('<div class="playerWrapper"></div>');
+		}
+	});
+});
+
+function sortRespVideoPerspective() {
+	$j('.playerWrapper iframe, .playerWrapper embed').each(function() {
+		origWidth = $j(this).attr('width');
+		origHeight = $j(this).attr('height');
+		if(origWidth){
+			newPadding = (origHeight / origWidth)*100;
+			$j(this).parents('.playerWrapper').css('padding-top','0').css('padding-bottom', newPadding+'%');
+		}
+	});
+}
+$j(window).load(function() { sortRespVideoPerspective(); });
+
+/*Body Length on Video Edit*/
+$j(document).ready(function() {
+	var bodyID = $j('body').attr('id');
+	if( bodyID == 'view_video_new' || bodyID == 'edit_video_uploads' || bodyID == 'edit_video_embeds' || bodyID == 'new_video_embeds' || bodyID == 'new_video_uploads' ){
+		 bodyLengthFix();
+		 $j(window).resize(function() {
+		 	 bodyLengthFix();
+		 });
+		 setInterval(function() {
+		 	bodyLengthFix();
+		 }, 500);
+	}
+});
+
+function bodyLengthFix() {
+	$j('.content').css('min-height', '0px');
+	
+	contentHeight = $j('#container').outerHeight(true) + $j('#container').offset().top;
+	windowHeight = $j(window).height();
+
+	if(contentHeight < windowHeight){
+		contentMinHeight = windowHeight - $j('.content').offset().top - $j('#footer').outerHeight(true);
+		$j('.content').css('min-height', contentMinHeight);
+	}
+	
+	$j('#wpadWrapper, #wpadContainer').css('height', $j('#container').height());
 }	
+
+/*Responsive Wallpaper Ads Fix*/
+function responsiveWallpaperAds() {
+	if (navigator.userAgent && navigator.userAgent.match(/(iphone|ipad)/gi) && $j('#wpadWrapper')){
+		
+	} else {
+		wpadTop = $j('#container').offset().top;
+		$j('#wpadWrapper').css('top', wpadTop);
+		vitalPage.showWallpaperAd();
+	}
+}
+$j(document).ready(function() { responsiveWallpaperAds(); });
+$j(window).resize(function() { responsiveWallpaperAds(); });
 </script>
 
 <script type="text/javascript" charset="utf-8">
@@ -115,7 +180,7 @@ var $originalCommentParams = {"user_notification":null};
 })(jQuery);
 </script>
 
-<link href="/assets/120111_main.min-4492223eb039f716bde2ec6d9e29ca07.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/120111_main.min-0ce0d40c710d494b5a4c8890e866ef15.css" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE]><link href="http://assets.vitalmedianet.com/stylesheets/ie.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <link href="/assets/120305_comments.min-079986066495b6060bbd046f63f18a07.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
@@ -139,7 +204,7 @@ s.parentNode.insertBefore(po, s);
 
 <meta property="fb:app_id" content="124914807538785">
 <meta property="og:site_name" content="Vital MX">
-<meta property="og:image" content="http://assets.vitalmedianet.com/images/_mx/logo_fb_1200.png">
+<meta property="og:image" content="http://assets.vitalmedianet.com/images/_mx/logo_fb_968.png">
 
   <meta property="og:type" content="article">
 
@@ -162,7 +227,7 @@ var addthis_config = {
 
 
 <!-- expanding ad JS -->
-<script src="/assets/vital.exp_ad-091fe4774e232ff39aeddaa7c6d77dba.js" type="text/javascript"></script>
+<script src="/assets/vital.exp_ad-d76e7b094660e32690275a33c24b8c90.js" type="text/javascript"></script>
 <script type="text/javascript"> 
 	var opt = { items: [
 		{ 'ids': [37465], 'adslots': ['Moto_pit_bits_2013_budds_creek_1128x250', 'Moto_pit_bits_2013_budds_creek_1128x53'] },
@@ -240,6 +305,8 @@ node.parentNode.insertBefore(gads, node);
     if (exp_ad_adslots.pencil !== undefined) {
       googletag.defineSlot("/1007152/" + exp_ad_adslots.pencil, [1128, 53], exp_ad_adslots.pencil).addService(googletag.pubads());
     }
+
+
     googletag.pubads().enableSingleRequest();
     googletag.pubads().collapseEmptyDivs();
     googletag.enableServices();
@@ -269,7 +336,6 @@ node.parentNode.insertBefore(gads, node);
     function asyncGAInit () {
       pageTracker = _gat._getTracker('UA-561000-1');
       pageTracker._initData();
-      pageTracker._setCampaignCookieTimeout(7200000);
       pageTracker._addIgnoredOrganic('vital mx');
       pageTracker._addIgnoredOrganic('vitalmx');
       pageTracker._addIgnoredOrganic('vital mx.com');
@@ -277,11 +343,12 @@ node.parentNode.insertBefore(gads, node);
       pageTracker._addIgnoredOrganic('www.vitalmx.com');
       pageTracker._addIgnoredOrganic('http://vitalmx.com/');
       pageTracker._setVar(user.getSegment());
+      pageTracker._addIgnoredOrganic(['_setCustomVar', 1, 'login_status', user.getSegment()]);
       pageTracker._trackPageview();
       pageTracker = _gat._getTracker('UA-561000-12');
       pageTracker._initData();
       pageTracker._trackPageview();
-      pageTracker._trackPageLoadTime;
+      //pageTracker._trackPageLoadTime;
       $j.post('/unblock_ie_bots');
     	detach(window,"mousemove",arguments.callee);
     	detach(window,"scroll",arguments.callee);
@@ -294,7 +361,6 @@ node.parentNode.insertBefore(gads, node);
     
   } else {
     var _gaq = _gaq || [];
-    _gaq.push(['_setCampaignCookieTimeout', 7200000]);
     _gaq.push(['_addIgnoredOrganic', 'vital mx']);
     _gaq.push(['_addIgnoredOrganic', 'vitalmx']);
     _gaq.push(['_addIgnoredOrganic', 'vitalmx.com']);
@@ -302,11 +368,12 @@ node.parentNode.insertBefore(gads, node);
     _gaq.push(['_addIgnoredOrganic', 'www.vitalmx.com']);
     _gaq.push(['_addIgnoredOrganic', 'http://vitalmx.com/']);
     _gaq.push(['_setVar', user.getSegment()]);
+    _gaq.push(['_setCustomVar', 1, 'login_status', user.getSegment()]);
     _gaq.push(['_setAccount', 'UA-561000-1']);
     _gaq.push(['_trackPageview']);
     _gaq.push(['_setAccount', 'UA-561000-12']);
   	_gaq.push(['_trackPageview']);
-  	_gaq.push(['_trackPageLoadTime']);
+  	//_gaq.push(['_trackPageLoadTime']);
   	(function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -382,6 +449,7 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         <ul>
         <li><a href="/videos/main">All Videos</a></li>
         <li><a href="/videos/commercials">Commercials</a></li>
+        <li><a href="/techtips">Tech Tips</a></li>
         <li><a href="/dealerexpo2011">Dealer Expo 2011</a></li>
         <li><a href="/dealerexpo2012">Dealer Expo 2012</a></li>
         <li><a href="/dealerexpo2013">Dealer Expo 2013</a></li>
@@ -402,11 +470,15 @@ if (window.screen.width <= 1024 || navigator.userAgent.match(/iPad/i) || navigat
         <li><a href="/product/deals">Vital MX Deals</a></li>
         </ul>
       </li>
-      <li id="main_nav_features">
-        <a href="/features/main">Features</a>
-      </li>
       <li id="main_nav_news">
-        <a href="/news/main">News</a>
+        <a href="/news/all">News</a>
+        <ul>
+        <li><a href="/news/all">All</a></li>
+        <li><a href="/news/main">News</a></li>
+        <li><a href="/news/features/main">Feature Stories</a></li>
+        <li><a href="/news/blog/main">Member Blogs</a></li>
+        <li><a href="/news/press-release/main">Press Releases</a></li>
+        </ul>
       </li>
       <li id="main_nav_forum">
         <a href="/forums/main">Forum</a>
@@ -459,7 +531,7 @@ else vitalPage.showWallpaperAd();
     <div class="css_dd_menu">
   <ul>
 	  <li class="right"><a href="/login">Sign in</a></li>
-	  <!--<li class="right"><a href="https://graph.facebook.com/oauth/authorize?client_id=124914807538785&amp;redirect_uri=http://www.vitalmx.com/fb_connect&amp;scope=email,user_birthday,publish_stream" class="no_bg fb_connect"><img alt="Fb_connect_sm" height="20" src="http://assets.vitalmedianet.com/images/buttons/fb_connect_sm.gif" width="84" /></a></li>-->
+	  <!--<li class="right"><a href="https://graph.facebook.com/v2.0/oauth/authorize?client_id=124914807538785&amp;redirect_uri=http://www.vitalmx.com/fb_connect&amp;scope=email,publish_stream,publish_actions" class="no_bg fb_connect"><img alt="Fb_connect_sm" height="20" src="http://assets.vitalmedianet.com/images/buttons/fb_connect_sm.gif" width="84" /></a></li>-->
          <li class="right"><strong>Not a Member?</strong> <a href="/join">Join Today</a></li>
   </ul>
 </div>
@@ -468,7 +540,7 @@ else vitalPage.showWallpaperAd();
   
 <div class="fb_share_info:hide_tmp" id="message_bar"> 
   <div class="inner"> 
-	<a href="https://graph.facebook.com/oauth/authorize?client_id=124914807538785&amp;redirect_uri=http://www.vitalmx.com/fb_connect&amp;scope=email,user_birthday,publish_stream" class="no_bg fb_connect"><img alt="4li2k73z" height="21" src="http://assets.vitalmedianet.com/images/4li2k73z.gif" width="169"></a>   
+	<a href="https://graph.facebook.com/v2.0/oauth/authorize?client_id=124914807538785&amp;redirect_uri=http://www.vitalmx.com/fb_connect&amp;scope=email,publish_stream,publish_actions" class="no_bg fb_connect"><img alt="4li2k73z" height="21" src="http://assets.vitalmedianet.com/images/4li2k73z.gif" width="169"></a>   
 	<span><strong>Share your Vital activity on Facebook</strong> (<a href="/fb_connect/faq">More info</a>)</span> 
 	<div class="post_txt"></div> 
 	<span class="close"> 
@@ -695,13 +767,11 @@ qacct:"p-5bUjnbj6Bo8KU"
 
 <!-- Begin VigLink Tag -->
 <script type="text/javascript">
-  var vglnk = { api_url: '//api.viglink.com/api',
-                key: '1b2c4fc4a746c7fe4364e669d7178543' };
-
+  var vglnk = { key: '1b2c4fc4a746c7fe4364e669d7178543' };
+  
   (function(d, t) {
     var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
-    s.src = ('https:' == document.location.protocol ? vglnk.api_url :
-             '//cdn.viglink.com/api') + '/vglnk.js';
+    s.src = '//cdn.viglink.com/api/vglnk.js';
     var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
   }(document, 'script'));
 </script>
