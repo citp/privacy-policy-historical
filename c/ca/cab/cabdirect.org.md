@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabdirect.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315054524id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabdirect.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905123723id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,7 +8,13 @@ Like most websites we use cookies. This is to ensure that we give you the best e
 
 Continuing to use www.cabi.org/privacy-policy means you agree to our use of cookies. If you would like to, you can learn more about the cookies we use.
 
-Improving lives by solving problems in agriculture and the environment...
+**Sign up for the CABI e-zine Newsletter**
+
+  * Your are here:
+  * [Home](https://web.archive.org/)
+  * Privacy policy
+
+
 
   *     * [ Who we are](https://web.archive.org/about-cabi/)
     * [ CABI blog](http://cabiblog.typepad.com/hand_picked/)
