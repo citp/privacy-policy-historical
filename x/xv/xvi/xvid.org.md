@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xvid.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315084123id_/https%3A//www.xvid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xvid.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905215655id_/https%3A//www.xvid.com/privacy) for the most accurate reproduction.*
 
 # Xvid - Privacy
 
@@ -32,6 +32,13 @@ Cookies are files with small amount of data, which may include an anonymous uniq
 Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept any cookies, you may not be able to use some portions of our Site.
 
 Apart from enhancing the functionality and user experience of our site, we use cookies also for assembling web analytics and statistics. 
+
+  
+
+
+### Auto Updates
+
+When enabling auto-updates in any of our software, some information about your computer like your IP address or other Log Data may be collected by our update servers. We promise to not share this data any third party and to use it only for statistical purposes and to improve our service.
 
   
 
