@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michiganlottery.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317114407id_/https%3A//info.michiganlottery.com/Privacy.aspx%3Fpopup%3D1%26LNG%3DENU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganlottery.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084604id_/https%3A//info.michiganlottery.com/Privacy.aspx%3Fpopup%3D1%26LNG%3DENU) for the most accurate reproduction.*
 
-# 
+# michiganlottery.com
 
 Thank you for visiting michiganlottery.com, official player website of the Michigan Lottery. This Privacy Policy describes the Michigan Lottery’s practices regarding information collected from users of this website.   
 As used herein, “this policy” refers to this Privacy Policy; “this website” refers to michiganlottery.com; “we,” “us,” and “our” refer to the Michigan Lottery, its agents, contractors, sub-contractors, and third parties involved in producing or delivering this website; and “you” or “your” refers to you, the website user.   
@@ -26,7 +26,7 @@ If you choose to do so, you can configure your browser to notify you when a new 
 LOCATION INFORMATION   
 
 
-You may access this website from anywhere, but you must be physically located within the State of Michigan to visit certain areas of this website or purchase a lottery ticket. By visiting this website, we automatically collect information about your location through your IP address and geo-location technology. In certain instances, such as when you use a mobile device, we may require use of a geo-location service. If you consent to use a geo-location service, you may opt-out at any time. If we cannot verify your location, you are prohibited from making any purchases and will be blocked. Information about your location may be retained for 14 months. 
+You may access this website from anywhere, but you must be physically located within the State of Michigan and a Michigan resident to visit certain areas of this website or purchase a lottery ticket. By visiting this website, we automatically collect information about your location through your IP address and geo-location technology. In certain instances, such as when you use a mobile device, we may require use of a geo-location service. If you consent to use a geo-location service, you may opt-out at any time. If we cannot verify your location, you are prohibited from making any purchases and will be blocked. Information about your location may be retained for 14 months. 
 
 COOKIES   
 
