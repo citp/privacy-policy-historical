@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogecapital.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316222649id_/https%3A//www.mysynchrony.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogecapital.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905214202id_/https%3A//www.mysynchrony.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Internet Privacy Policy | Synchrony Bank
 
