@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wendys.com privacy policy that was archived on 2015-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150519045033id_/https%3A//www.wendys.com/en-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wendys.com privacy policy that was archived on 2015-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905075220id_/https%3A//www.wendys.com/en-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -51,10 +51,10 @@
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 	var jsProperties = {
-		authKey: "EA418FA2A5F882159003C8E4FBC091F815B227157872FD9A5E227110C543E1196D0F983AC9DD5EC89DF2FA6356B3B632",
-		deviceId: "X4nFVh1dNWkMx1hvz2hWvgQh58TyQVtgrp7sP6QTBVP2gZ748k0Q!544811045!1432010717261",
+		authKey: "EFB5E746C055B6C7DBCB315804EC9348EB3788EA0B32938A6D29B28140483D5B59C2D4C23FEAE6E40E6E1EF3929A4890",
+		deviceId: "FccJVqfJJhsTtkm89B2S7Wn02njdpgRQnth4kX2r1F2WR8hBhT4H!799710998!1441439540205",
 		givexUrl: "https://wwws.givex.com/",
 		locale: "en_US",
 		mealbuilder:{
@@ -63,9 +63,10 @@
 		},
 		sourceCode: "WENDYS.COM",
 		token: null,
-		wsVersion: "4.0.0",
+		wsVersion: "4.2.0",
 		wenServicesUrl: "https://services.wendys.com"
 	};
+	
 </script>
 
 
@@ -187,6 +188,10 @@
 	
 	
 	
+	
+	
+	
+
 	
 	
 	
@@ -404,148 +409,111 @@ function redirect(site){
 		
 
 <nav id="main_nav" class="main">
-			<div class="locale desktop">
-				
-				<select class="locale-select"></select>
+	<div class="locale desktop">
+		<select class="locale-select"></select>
+	</div>
+
+	
+	
+	<div data-bind="visible: ! megamenu.find.helpers.isShowingMobileFeaturedLocation()" id="mobile_location" class="locate mobile">
+		<form data-bind="submit: megamenu.find.storeHound.huntViaAddressForm">
+			<input data-bind="value: megamenu.find.storeHound.searchParams.address, attr: { placeholder: i18n.dictionary.geolocation.searchPL }" id="zip" type="text">
+			<input id="btnFind" type="submit" data-bind="ga: 'Locations | Manual Search | Filtered by ' + megamenu.find.storeHound.activeFiltersText()">
+		</form>
+		<a data-bind="click: megamenu.find.storeHound.huntViaGeoLocation, ga: 'Locations | Geolocated Search | Filtered by ' + megamenu.find.storeHound.activeFiltersText()" id="mobileLocate" href="#">Use Current Location</a>
+	</div>
+	
+	<div data-bind="visible: megamenu.find.helpers.isShowingMobileFeaturedLocation()" id="mobile_location_current" class="mobile" style="display:none;">
+		<p id="my_closest_loc">{{ megamenu.find.featuredLocation.address1() }}</p>
+		<p>
+			<a id="my_closest_loc_directions" href="{{ megamenu.find.featuredLocation.directionsPageURL }}">{{ i18n.dictionary.restaurant.directions }}</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+			<a id="my_closest_loc_directions" data-bind="click: megamenu.find.helpers.showMobileSearchForm">{{ i18n.dictionary.restaurant.find }}</a>
+		</p>
+	</div>
+	<div class="clear mobile"></div>
+	
+	<div data-bind="visible: megamenu.find.storeHound.hasRun()" id="mobileLocationsContainer" class="mobile filter_container" style="display:none;">
+		<div class="filter" data-bind="forEachProp: megamenu.find.storeHound.filters()">
+			<div>
+				<input type="checkbox" data-bind="checked: value.active" style="display:none;">
+				<span class="styledCheck" data-bind="css:{'checked': value.active() }, click: value.toggle"></span><!-- is .checked iff value === true -->
+				<label data-bind="click: value.toggle">
+					<p class="{{ value.cssClass }}"><!-- ko html: value.cssClass() === "indicator_cf" ? '<span class="cf-script-icon-white"></span>' : value.label --><!-- /ko --></p>
+				</label>
 			</div>
-
-
-
-
-
-
-
-
-
-
-			
-			<div data-bind="visible: ! megamenu.find.helpers.isShowingMobileFeaturedLocation()" id="mobile_location" class="locate mobile">
-				<form data-bind="submit: megamenu.find.storeHound.huntViaAddressForm">
-					<input data-bind="value: megamenu.find.storeHound.searchParams.address, attr: { placeholder: i18n.dictionary.geolocation.searchPL }" id="zip" type="text">
-					<input id="btnFind" type="submit">
-				</form>
-				<a data-bind="click: megamenu.find.storeHound.huntViaGeoLocation" id="mobileLocate" href="#">Use Current Location</a>
+		</div>
+		<div id="mobileLocations" class="results" style="margin-bottom:10px;">
+			<div class="slide-viewport">
+				<ul class="slides" id="locationListMobile" data-bind="foreach: megamenu.find.storeHound.storeLocations()" data-items-in-viewport="1">
+					<li>
+						<p class="store_name">{{ name() }}</p>
+						<p class="store_distance">{{ distance() | suffix: i18n.dictionary.unit.distance }}</p>
+						<div class="store_features" data-bind="forEachProp: $root.megamenu.find.storeHound.filters()">
+							<p class="{{ value.cssClass }}" title="{{ value.label }}" data-bind="visible: $parents[0][key]">
+						</p></div>
+						<p class="store_address"> {{ address1() }}<br>{{ address2() }}<br>{{ phone() | phone }}</p>
+						<p class="store_hours">{{ hours() | prefix: i18n.dictionary.restaurant.open:hasHours() }}<br>{{ i18n.dictionary.restaurant.holidayHoursMayVary }}</p>
+						<p class="map_link">
+							<a href="#" data-bind="visible: ! isSaved(), click: save, text: i18n.dictionary.restaurant.saveLocation" data-ga="Locations | Saved Location | Save from Megamenu"></a>
+							<a href="#" data-bind="visible: isSaved(), text: i18n.dictionary.restaurant.saved" onclick="return false;"></a>
+							<a href="#" data-bind="visible: ! defaultFlag(), click: makeDefault, text: i18n.dictionary.restaurant.makeDefault" data-ga="Locations | Set Default Location | Set Default from Megamenu"></a>
+							<a href="#" data-bind="visible: defaultFlag(), text: i18n.dictionary.restaurant.defaultLocation" onclick="return false;"></a>
+							<a href="{{ directionsPageURL() }}" data-bind="text: i18n.dictionary.restaurant.directions" data-ga="Locations | Got Directions | Directed from Megamenu"></a>
+						</p>
+					</li>
+				</ul>
 			</div>
-
 			
-			<div data-bind="visible: megamenu.find.helpers.isShowingMobileFeaturedLocation()" id="mobile_location_current" class="mobile" style="display:none;">
-				<p id="my_closest_loc">{{ megamenu.find.featuredLocation.address1() }}</p>
-
-				<p>
-					<a id="my_closest_loc_directions" href="{{ megamenu.find.featuredLocation.directionsPageURL }}">{{ i18n.dictionary.restaurant.directions }}</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a id="my_closest_loc_directions" data-bind="click: megamenu.find.helpers.showMobileSearchForm">{{ i18n.dictionary.restaurant.find }}</a>
+			<div class="flex-direction-nav" data-bind="visible: megamenu.find.storeHound.storeLocations().length > 2">
+				<ul>
+					<li style="border-top:none;"><a href="#" class="flex-prev"></a></li>
+					<li style="border-top:none;"><a href="#" class="flex-next"></a></li>
+				</ul>
+			</div>
+		</div>
+		
+		<div id="searchMessage">
+			
+			<div class="no-results-message" data-bind="visible: megamenu.find.storeHound.noResultsExist()" style="display:none">
+				No locations match your search criteria.
+			</div>
+			
+			<div data-bind="visible: megamenu.find.storeHound.ambiguousResultsExist()" class="ambiguous-results" style="display:none">
+				<h4>Did you mean</h4>
+				<div data-bind="foreach: megamenu.find.storeHound.ambiguousLocations">
+					<p class="copy">
+						<a data-bind="click: $root.megamenu.find.storeHound.huntViaAmbiguousResult" href="#">{{ address2 }}</a>
+					</p>
+				</div>
+			</div>
+			
+			<div data-bind="visible: $root.dmaPageResolver.hasDma()">
+				<p class="copy">
+					<a data-bind="attr:{ href: $root.dmaPageResolver.page.href }, text: $root.dmaPageResolver.page.title" style="display:block; margin-left:10px; text-decoration:underline; font-size:11px;"></a>
 				</p>
 			</div>
-			<div class="clear mobile"></div>
+		</div>
+	</div>
+	
 
 
 
 
 
 
-			
-			<div data-bind="visible: megamenu.find.storeHound.hasRun()" id="mobileLocationsContainer" class="mobile filter_container" style="display:none;">
-				<!--  This loop (below) looks weird because we're iterating over properties of an object not items of an array.  (See ko.extensions.js::forEachProp) -->
-				<!--  A forEachProp loop exposes an object for each item in the loop, e.g, {key:"hasBreakfast", value:Filter} -->
-				<!--  thus our Filter instance is accessible via the value property within the loop -->
-				<!--  TODO refactor store-hound to treat filters as an array, it's a lot easier to read. -->
-				<div class="filter" data-bind="forEachProp: megamenu.find.storeHound.filters()">
-					<div>
-						<input type="checkbox" data-bind="checked: value.active" style="display:none;">
-						<span class="styledCheck" data-bind="css:{'checked': value.active() }, click: value.toggle"></span><!-- is .checked iff value === true -->
-						<label data-bind="click: value.toggle">
-							<p class="{{ value.cssClass }}"><!-- ko html: value.cssClass() === "indicator_cf" ? '<span class="cf-script-icon-white"></span>' : value.label --><!-- /ko --></p>
-						</label>
-					</div>
-				</div>
-					<div id="mobileLocations" class="results" style="margin-bottom:10px;">
-						<div class="slide-viewport">
-							<ul class="slides" id="locationListMobile" data-bind="foreach: megamenu.find.storeHound.storeLocations()" data-items-in-viewport="1">
-								<li>
-									<p class="store_name">{{ name() }}</p>
-									<p class="store_distance">{{ distance() | suffix: i18n.dictionary.unit.distance }}</p>
-
-									<div class="store_features" data-bind="forEachProp: $root.megamenu.find.storeHound.filters()">
-										<p class="{{ value.cssClass }}" title="{{ value.label }}" data-bind="visible: $parents[0][key]">
-									</p></div>
-
-									<p class="store_address"> 
-										{{ address1() }}<br>
-										{{ address2() }}<br>
-										{{ phone() | phone }}
-									</p>
-
-									<p class="store_hours">
-										{{ hours() | prefix: i18n.dictionary.restaurant.open:hasHours() }}<br>
-										{{ i18n.dictionary.restaurant.holidayHoursMayVary }}
-									</p>
-
-									<p class="map_link">
-                                        <a href="#" data-bind="visible: ! isSaved(), click: save, text: i18n.dictionary.restaurant.saveLocation"></a>
-                                        <a href="#" data-bind="visible: isSaved(), text: i18n.dictionary.restaurant.saved" onclick="return false;"></a>
-                                        <a href="#" data-bind="visible: ! defaultFlag(), click: makeDefault, text: i18n.dictionary.restaurant.makeDefault"></a>
-                                        <a href="#" data-bind="visible: defaultFlag(), text: i18n.dictionary.restaurant.defaultLocation" onclick="return false;"></a>
-                                        <a href="{{ directionsPageURL() }}" data-bind="text: i18n.dictionary.restaurant.directions"></a>
-									</p>
-								</li>
-							</ul>
-						</div>
-						
-						<div class="flex-direction-nav" data-bind="visible: megamenu.find.storeHound.storeLocations().length > 2">
-							<ul>
-								<li style="border-top:none;">
-									<a href="#" class="flex-prev"></a>
-								</li>
-								<li style="border-top:none;">
-									<a href="#" class="flex-next"></a>
-								</li>
-							</ul>
-						</div>
-					</div>
-
-
-					
-					<div id="searchMessage">
-						
-						<div class="no-results-message" data-bind="visible: megamenu.find.storeHound.noResultsExist()" style="display:none">
-							No locations match your search criteria.
-						</div>
-
-						
-						<div data-bind="visible: megamenu.find.storeHound.ambiguousResultsExist()" class="ambiguous-results" style="display:none">
-							<h4>Did you mean</h4>
-							<div data-bind="foreach: megamenu.find.storeHound.ambiguousLocations">
-								<p class="copy">
-									<a data-bind="click: $root.megamenu.find.storeHound.huntViaAmbiguousResult" href="#">{{ address2 }}</a>
-								</p>
-							</div>
-						</div>
-						
-						
-						<div data-bind="visible: $root.dmaPageResolver.hasDma()">
-							<p class="copy">
-								<a data-bind="attr:{ href: $root.dmaPageResolver.page.href }, text: $root.dmaPageResolver.page.title" style="display:block; margin-left:10px; text-decoration:underline; font-size:11px;"></a>
-							</p>
-						</div>
-					</div>
-				</div>
 
 
 
-	  
-			
+<ul>
+
+
+	
 		
-		
-		<ul>
-
-	   	
-	   		
+			
+			
+			
 				
-					
-					
-						
-							
-							
+				
 
    			 
 	    				
@@ -667,7 +635,7 @@ function redirect(site){
              
 
 	                                                                        
-		<a href="#">Dine</a>                                                                
+		<a href="#" data-ga="Navigation | Clicked Global Navigation | Dine">Dine</a>                                                                
 	
 
 							
@@ -686,14 +654,15 @@ function redirect(site){
                         
                      
                      
-                     <li>  <a class="family1" href="/en-us/hamburgers">
+                     <li class="" data-ga="Navigation | Clicked Global Navigation | Dine - Cheeseburgers">
+                     	<a class="family1" href="/en-us/hamburgers">
                             
 	                            <span>Cheeseburgers</span>
                              
                        
                              
-		             <div class="desktop" data-picture="" data-alt="Cheeseburgers">
-		             <div data-src="/redesign/wendys/images/filler.png"></div>
+		             	<div class="desktop" data-picture="" data-alt="Cheeseburgers">
+		             		<div data-src="/redesign/wendys/images/filler.png"></div>
 		            
                     
 						
@@ -703,12 +672,12 @@ function redirect(site){
 						
 					
 							
-		            <div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665464829&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
-		            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665464829&ssbinary=true"></div><![endif]-->
-                    <noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665464829&ssbinary=true" alt="Wendy's Hamburgers 100% Fresh Beef "></noscript>
-                    </div>
-			          
-	    				 </a>
+		            		<div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665464829&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+		            		<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665464829&ssbinary=true"></div><![endif]-->
+                    		<noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665464829&ssbinary=true" alt="Wendy's Hamburgers 100% Fresh Beef "></noscript>
+                    	</div>
+			          	
+	    				</a>
 	    			</li>
                     
 		        	 
@@ -722,14 +691,15 @@ function redirect(site){
                         
                      
                      
-                     <li>  <a class="family2" href="/en-us/chicken">
+                     <li class="" data-ga="Navigation | Clicked Global Navigation | Dine - Chicken &amp; Wraps">
+                     	<a class="family2" href="/en-us/chicken">
                             
 	                            <span>Chicken &amp; Wraps</span>
                              
                        
                              
-		             <div class="desktop" data-picture="" data-alt="Chicken &amp; Wraps">
-		             <div data-src="/redesign/wendys/images/filler.png"></div>
+		             	<div class="desktop" data-picture="" data-alt="Chicken &amp; Wraps">
+		             		<div data-src="/redesign/wendys/images/filler.png"></div>
 		            
                     
 						
@@ -739,12 +709,12 @@ function redirect(site){
 						
 					
 							
-		            <div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665176863&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
-		            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176863&ssbinary=true"></div><![endif]-->
-                    <noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176863&ssbinary=true" alt="Chicken n Wraps"></noscript>
-                    </div>
-			          
-	    				 </a>
+		            		<div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665176863&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+		            		<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176863&ssbinary=true"></div><![endif]-->
+                    		<noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176863&ssbinary=true" alt="Chicken n Wraps"></noscript>
+                    	</div>
+			          	
+	    				</a>
 	    			</li>
                     
 		        	 
@@ -758,14 +728,15 @@ function redirect(site){
                         
                      
                      
-                     <li>  <a class="family3" href="/en-us/salads">
+                     <li class="" data-ga="Navigation | Clicked Global Navigation | Dine - Fresh-Made Salads">
+                     	<a class="family3" href="/en-us/salads">
                             
 	                            <span>Fresh-Made Salads</span>
                              
                        
                              
-		             <div class="desktop" data-picture="" data-alt="Fresh-Made Salads">
-		             <div data-src="/redesign/wendys/images/filler.png"></div>
+		             	<div class="desktop" data-picture="" data-alt="Fresh-Made Salads">
+		             		<div data-src="/redesign/wendys/images/filler.png"></div>
 		            
                     
 						
@@ -775,12 +746,12 @@ function redirect(site){
 						
 					
 							
-		            <div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665176581&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
-		            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176581&ssbinary=true"></div><![endif]-->
-                    <noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176581&ssbinary=true" alt="Wendy's Fresh-Made Salads"></noscript>
-                    </div>
-			          
-	    				 </a>
+		            		<div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665176581&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+		            		<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176581&ssbinary=true"></div><![endif]-->
+                    		<noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176581&ssbinary=true" alt="Wendy's Fresh-Made Salads"></noscript>
+                    	</div>
+			          	
+	    				</a>
 	    			</li>
                     
 		        	 
@@ -794,14 +765,15 @@ function redirect(site){
                         
                      
                      
-                     <li class="noRborder">  <a class="family4" href="/en-us/right-price-right-size">
+                     <li class="noRborder" data-ga="Navigation | Clicked Global Navigation | Dine - Right Price Right Size Menu®">
+                     	<a class="family4" href="/en-us/right-price-right-size">
                             
 	                            <span>Right Price Right Size Menu®</span>
                              
                        
                              
-		             <div class="desktop" data-picture="" data-alt="Right Price Right Size Menu®">
-		             <div data-src="/redesign/wendys/images/filler.png"></div>
+		             	<div class="desktop" data-picture="" data-alt="Right Price Right Size Menu®">
+		             		<div data-src="/redesign/wendys/images/filler.png"></div>
 		            
                     
 						
@@ -811,12 +783,12 @@ function redirect(site){
 						
 					
 							
-		            <div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665028624&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
-		            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665028624&ssbinary=true"></div><![endif]-->
-                    <noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665028624&ssbinary=true" alt="Right Price Right Size"></noscript>
-                    </div>
-			          
-	    				 </a>
+		            		<div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665028624&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+		            		<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665028624&ssbinary=true"></div><![endif]-->
+                    		<noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665028624&ssbinary=true" alt="Right Price Right Size"></noscript>
+                    	</div>
+			          	
+	    				</a>
 	    			</li>
                     
 		        	 
@@ -830,14 +802,15 @@ function redirect(site){
                         
                      
                      
-                     <li class="noBborder">  <a class="family5" href="/en-us/fries-sides">
+                     <li class="noBborder" data-ga="Navigation | Clicked Global Navigation | Dine - Fries &amp; Sides">
+                     	<a class="family5" href="/en-us/fries-sides">
                             
 	                            <span>Fries &amp; Sides</span>
                              
                        
                              
-		             <div class="desktop" data-picture="" data-alt="Fries &amp; Sides">
-		             <div data-src="/redesign/wendys/images/filler.png"></div>
+		             	<div class="desktop" data-picture="" data-alt="Fries &amp; Sides">
+		             		<div data-src="/redesign/wendys/images/filler.png"></div>
 		            
                     
 						
@@ -847,12 +820,12 @@ function redirect(site){
 						
 					
 							
-		            <div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665176812&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
-		            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176812&ssbinary=true"></div><![endif]-->
-                    <noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176812&ssbinary=true" alt="Fries & Sides"></noscript>
-                    </div>
-			          
-	    				 </a>
+		            		<div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665176812&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+		            		<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176812&ssbinary=true"></div><![endif]-->
+                    		<noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176812&ssbinary=true" alt="Fries & Sides"></noscript>
+                    	</div>
+			          	
+	    				</a>
 	    			</li>
                     
 		        	 
@@ -866,14 +839,15 @@ function redirect(site){
                         
                      
                      
-                     <li class="noBborder">  <a class="family6" href="/en-us/beverages">
+                     <li class="noBborder" data-ga="Navigation | Clicked Global Navigation | Dine - Beverages">
+                     	<a class="family6" href="/en-us/beverages">
                             
 	                            <span>Beverages</span>
                              
                        
                              
-		             <div class="desktop" data-picture="" data-alt="Beverages">
-		             <div data-src="/redesign/wendys/images/filler.png"></div>
+		             	<div class="desktop" data-picture="" data-alt="Beverages">
+		             		<div data-src="/redesign/wendys/images/filler.png"></div>
 		            
                     
 						
@@ -883,12 +857,12 @@ function redirect(site){
 						
 					
 							
-		            <div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665174303&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
-		            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665174303&ssbinary=true"></div><![endif]-->
-                    <noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665174303&ssbinary=true" alt="Beverages"></noscript>
-                    </div>
-			          
-	    				 </a>
+		            		<div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665174303&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+		            		<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665174303&ssbinary=true"></div><![endif]-->
+                    		<noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665174303&ssbinary=true" alt="Beverages"></noscript>
+                    	</div>
+			          	
+	    				</a>
 	    			</li>
                     
 		        	 
@@ -902,14 +876,15 @@ function redirect(site){
                         
                      
                      
-                     <li class="noBborder">  <a class="family7" href="/en-us/kids-meals">
+                     <li class="noBborder" data-ga="Navigation | Clicked Global Navigation | Dine - Wendy's Kids' Meal®">
+                     	<a class="family7" href="/en-us/kids-meals">
                             
 	                            <span>Wendy's Kids' Meal®</span>
                              
                        
                              
-		             <div class="desktop" data-picture="" data-alt="Wendy's Kids' Meal®">
-		             <div data-src="/redesign/wendys/images/filler.png"></div>
+		             	<div class="desktop" data-picture="" data-alt="Wendy's Kids' Meal®">
+		             		<div data-src="/redesign/wendys/images/filler.png"></div>
 		            
                     
 						
@@ -919,12 +894,12 @@ function redirect(site){
 						
 					
 							
-		            <div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665176476&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
-		            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176476&ssbinary=true"></div><![endif]-->
-                    <noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176476&ssbinary=true" alt="Wendy's Kids' Meals"></noscript>
-                    </div>
-			          
-	    				 </a>
+		            		<div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665176476&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+		            		<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176476&ssbinary=true"></div><![endif]-->
+                    		<noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176476&ssbinary=true" alt="Wendy's Kids' Meals"></noscript>
+                    	</div>
+			          	
+	    				</a>
 	    			</li>
                     
 		        	 
@@ -938,14 +913,15 @@ function redirect(site){
                         
                      
                      
-                     <li class="noRborder noBborder">  <a class="family8" href="/en-us/frosty">
+                     <li class="noRborder noBborder" data-ga="Navigation | Clicked Global Navigation | Dine - Frosty®">
+                     	<a class="family8" href="/en-us/frosty">
                             
 	                            <span>Frosty®</span>
                              
                        
                              
-		             <div class="desktop" data-picture="" data-alt="Frosty®">
-		             <div data-src="/redesign/wendys/images/filler.png"></div>
+		             	<div class="desktop" data-picture="" data-alt="Frosty®">
+		             		<div data-src="/redesign/wendys/images/filler.png"></div>
 		            
                     
 						
@@ -955,12 +931,12 @@ function redirect(site){
 						
 					
 							
-		            <div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665176738&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
-		            	<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176738&ssbinary=true"></div><![endif]-->
-                    <noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176738&ssbinary=true" alt="Wendy's Fresh Frosty Desserts"></noscript>
-                    </div>
-			          
-	    				 </a>
+		            		<div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665176738&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+		            		<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176738&ssbinary=true"></div><![endif]-->
+                    		<noscript><img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665176738&ssbinary=true" alt="Wendy's Fresh Frosty Desserts"></noscript>
+                    	</div>
+			          	
+	    				</a>
 	    			</li>
                     
 		    </ul>
@@ -1073,29 +1049,30 @@ function redirect(site){
 	
 
 
- 
-     
-     
+
+
+	
+
+
+
 			
-			
-			
-			
-			
+				
+				
+				
+				
+				
 			
 			
 		
 		
-		
-		
 			
-		
 		
 
- 			
-		<a class="desktop" href="/en-us/breakfast">
-		<img src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665030493&amp;ssbinary=true" alt="Breakfast">
-		</a> 
-	 				
+ 		
+			<a class="desktop" href="/en-us/breakfast" data-ga="Static Promo | Clicked Static Promo | Zone  null">
+				<img src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fjpeg&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665030493&amp;ssbinary=true" alt="Breakfast">
+			</a> 
+		 				
 
  
 
@@ -1104,13 +1081,13 @@ function redirect(site){
 
 						</li>
 						
+			
 		
-	
-					
-					
-						
-							
-							
+			
+			
+			
+				
+				
 
    			 
    						
@@ -1160,7 +1137,7 @@ function redirect(site){
              
 
 	                                                                        
-		<a href="#">Learn</a>                                                                
+		<a href="#" data-ga="Navigation | Clicked Global Navigation | Learn">Learn</a>                                                                
 	
 
 
@@ -1291,29 +1268,34 @@ function redirect(site){
 	
 
 
- 
-     
-     
-			
-			
-			
-			
-			
-			
-			
+
+
+	
 		
+	
+
+
+
+			
 				
 				
 				
 				
 				
-				
-				
-				
-				
-				
-				
-					<a href="/en-us/nutrition-info">
+			
+			
+					
+						
+						
+							
+						
+						
+						
+						
+						
+					
+					
+					<a href="/en-us/nutrition-info" data-ga="Static Promo | Clicked Static Promo | Zone 1 Mega Menu Nutrition Info">
 			     	
 							<span>Nutrition</span>
 						
@@ -1338,12 +1320,10 @@ function redirect(site){
 			
 		
 		
-		
 			
 		
-		
 
- 							
+ 						
 
  
 
@@ -1462,18 +1442,23 @@ function redirect(site){
 	
 
 
- 
-     
-     
-			
-			
-			
-			
-			
-			
-			
+
+
+	
 		
-					<a href="http://www.amazon.com/Wendys-20-Gift-Card/dp/B00P3DUFRW/ref=sr_1_6?ie=UTF8&amp;qid=1417455051&amp;sr=8-6&amp;keywords=wendy">
+	
+
+
+
+			
+				
+				
+				
+				
+				
+			
+			
+					<a href="http://www.amazon.com/Wendys-20-Gift-Card/dp/B00P3DUFRW/ref=sr_1_6?ie=UTF8&amp;qid=1417455051&amp;sr=8-6&amp;keywords=wendy" data-ga="Static Promo | Clicked Static Promo | Zone 2 Mega Menu Gift Cards">
 			     	
 						<span><style type="text/css">
 .learn2 span.mobile { display:block!important; }</style>
@@ -1501,12 +1486,10 @@ function redirect(site){
 			
 		
 		
-		
 			
 		
-		
 
- 							
+ 						
 
  
 
@@ -1628,29 +1611,34 @@ function redirect(site){
 	
 
 
- 
-     
-     
-			
-			
-			
-			
-			
-			
-			
+
+
+	
 		
+	
+
+
+
+			
 				
 				
 				
 				
 				
-				
-				
-				
-				
-				
-				
-					<a href="/en-us/meal-builder">
+			
+			
+					
+						
+						
+							
+						
+						
+						
+						
+						
+					
+					
+					<a href="/en-us/meal-builder" data-ga="Static Promo | Clicked Static Promo | Zone 3 Mega Menu Meal Builder">
 			     	
 							<span><p>
 	Meal Builder</p>
@@ -1677,12 +1665,10 @@ function redirect(site){
 			
 		
 		
-		
 			
 		
-		
 
- 							
+ 						
 
  
 
@@ -1695,13 +1681,13 @@ function redirect(site){
 
 						</li>
 						
+			
 		
-	
-					
-					
-						
-							
-							
+			
+			
+			
+				
+				
 
    			 
 						
@@ -1754,7 +1740,7 @@ function redirect(site){
 	
 	
 		
-			<a href="#">Play</a>
+			<a href="#" data-ga="Navigation | Clicked Global Navigation | Play">Play</a>
 		
 	
 	
@@ -1873,22 +1859,26 @@ function redirect(site){
 	
 
 
- 
-     
-     
+
+
+	
+		
+	
+
+
+
 			
-			
-			
-			
-			
+				
+				
+				
+				
+				
 			
 			
 		
 		
-		
-		
 			
-				<a href="https://www.wendys.com/en-us/wendys-kids-meal ">
+				<a href="https://www.wendys.com/en-us/wendys-kids-meal " data-ga="Static Promo | Clicked Static Promo | Zone 1 Mega Menu Kids' Meal">
 					
 						
 							<span><p>
@@ -1912,9 +1902,8 @@ function redirect(site){
 	 			
 			
 		
-		
 
- 							
+ 						
 
  
 
@@ -2032,22 +2021,26 @@ function redirect(site){
 	
 
 
- 
-     
-     
+
+
+	
+		
+	
+
+
+
 			
-			
-			
-			
-			
+				
+				
+				
+				
+				
 			
 			
 		
 		
-		
-		
 			
-				<a href="http://www.wendys.com/en-us/sign-up" target="_blank">
+				<a href="http://www.wendys.com/en-us/sign-up" target="_blank" data-ga="Static Promo | Clicked Static Promo | Zone 2 Mega Menu WendyMail">
 					
 						
 							<span><style type="text/css">
@@ -2073,9 +2066,8 @@ function redirect(site){
 	 			
 			
 		
-		
 
- 							
+ 						
 
  
 
@@ -2193,52 +2185,51 @@ function redirect(site){
 	
 
 
- 
-     
-     
+
+
+	
+		
+	
+
+
+
 			
-			
-			
-			
-			
+				
+				
+				
+				
+				
 			
 			
 		
 		
-		
-		
 			
-				<a href="https://www.youtube.com/watch?v=mRCIS_Zjt_I&amp;feature=youtu.be">
+				<a href="https://www.youtube.com/watch?v=rmbl2kqs0eA" target="_blank" data-ga="Static Promo | Clicked Static Promo | Zone 3 Mega Menu Spicy Chicken Sandwich">
 					
 						
 							<span><p>
-	Feel the Heat</p>
+	Satisfy The Craving</p>
 </span>
 						
 					
-	 				<div data-picture="" data-alt="Feel the Heat">
+	 				<div data-picture="" data-alt="Spicy Chicken Sandwich">
 	 					<div data-src="/redesign/wendys/images/filler.png"></div>
-	 					<div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365665720281&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
-	 					<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665720281&ssbinary=true" ></div><![endif]-->
+	 					<div data-src="/cs/Satellite?blobcol=urldata&amp;blobheader=image%2Fjpe&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1365666214851&amp;ssbinary=true" data-media="(min-width: 720px)"></div>
+	 					<!--[if (lt IE 9) & (!IEMobile)]><div data-src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpe&blobkey=id&blobtable=MungoBlobs&blobwhere=1365666214851&ssbinary=true" ></div><![endif]-->
 	 					<noscript>
-	 					<img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fpng&blobkey=id&blobtable=MungoBlobs&blobwhere=1365665720281&ssbinary=true" alt="Feel the Heat"></noscript>
+	 					<img src="/cs/Satellite?blobcol=urldata&blobheader=image%2Fjpe&blobkey=id&blobtable=MungoBlobs&blobwhere=1365666214851&ssbinary=true" alt="Spicy Chicken Sandwich"></noscript>
 	 				</div>
 				</a>
 	 			
 	 				
+	 					<p class="redButton desktop"><a href="https://www.youtube.com/watch?v=rmbl2kqs0eA" target="_blank">See You Soon</a></p>
 	 				
-	 					
-	 						
-								<p class="redButton desktop"><a href="https://www.youtube.com/watch?v=mRCIS_Zjt_I&amp;feature=youtu.be">Feel the Heat</a></p>
-							
-						
 	 				
 	 			
 			
 		
-		
 
- 							
+ 						
 
  
 
@@ -2249,13 +2240,13 @@ function redirect(site){
 
 						</li>
 						
+			
 		
-	
-					
-					
-						
-							
-							
+			
+			
+			
+				
+				
 
    			 
 						
@@ -2286,6 +2277,7 @@ function redirect(site){
 
 
 
+
 	
 		
 			
@@ -2302,7 +2294,7 @@ function redirect(site){
 	
 	
 		
-			<a id="searchInit" href="#">Find</a>
+			<a id="searchInit" href="#" data-ga="Navigation | Clicked Global Navigation | Find">Find</a>
 		
 	
 	<a href="#" id="navDesktopFind" class="find" data-bind="visible: ! megamenu.find.featuredLocation.exists(), click: megamenu.find.storeHound.huntViaGeoLocation">
@@ -2321,10 +2313,11 @@ function redirect(site){
 		<div id="locSearch">
 			<form data-bind="submit: megamenu.find.storeHound.huntViaAddressForm">
 				<input id="postal" data-bind="value: megamenu.find.storeHound.searchParams.address, attr: {placeholder: i18n.dictionary.geolocation.searchPL }" name="postal" type="text" placeholder="">
-				<button id="submit_search" data-bind="text: i18n.dictionary.buttons.search"></button>
+				
+				<button id="submit_search" data-bind="text: i18n.dictionary.buttons.search, ga: 'Locations | Manual Search | Filtered by ' + megamenu.find.storeHound.activeFiltersText()"></button>
 
 				<div>
-					<a id="desktopLocate" href="#" data-bind="click: megamenu.find.storeHound.huntViaGeoLocation"><span data-bind="text: i18n.dictionary.geolocation.useCurrentLocation"></span> »</a>
+					<a id="desktopLocate" href="#" data-bind="click: megamenu.find.storeHound.huntViaGeoLocation, ga: 'Locations | Geolocated Search | Filtered by ' + megamenu.find.storeHound.activeFiltersText()"><span data-bind="text: i18n.dictionary.geolocation.useCurrentLocation"></span> »</a>
 				</div>
 
 				<div class="filter" data-bind="forEachProp: megamenu.find.storeHound.filters()">
@@ -2396,11 +2389,11 @@ function redirect(site){
 						<img class="store-map-thumbnail" data-bind="attr.src: mapThumbnail()" style="border:1px solid #999; width:100%;">
 
 						<div class="maplinks">
-							<a href="#" data-bind="visible: ! isSaved(), click: save, text: i18n.dictionary.restaurant.saveLocation + ' | '"></a>
+							<a href="#" data-bind="visible: ! isSaved(), click: save, text: i18n.dictionary.restaurant.saveLocation + ' | '" data-ga="Locations | Saved Location | Save from Megamenu"></a>
 							<a href="#" data-bind="visible: isSaved(), text: i18n.dictionary.restaurant.saved + ' | '" onclick="return false;"></a>
-							<a href="#" data-bind="visible: ! defaultFlag(), click: makeDefault, text: i18n.dictionary.restaurant.makeDefault + (i18n.locale.language == 'en' ? ' | ' : ' |')"></a>
+							<a href="#" data-bind="visible: ! defaultFlag(), click: makeDefault, text: i18n.dictionary.restaurant.makeDefault + (i18n.locale.language == 'en' ? ' | ' : ' |')" data-ga="Locations | Set Default Location | Set Default from Megamenu"></a>
 							<a href="#" data-bind="visible: defaultFlag(), text: i18n.dictionary.restaurant.defaultLocation + (i18n.locale.language == 'en' ? ' | ' : ' |')" onclick="return false;"></a>
-							<a href="{{ directionsPageURL() }}" data-bind="text: ' ' + i18n.dictionary.restaurant.directions"></a>
+							<a href="{{ directionsPageURL() }}" data-bind="text: ' ' + i18n.dictionary.restaurant.directions" data-ga="Locations | Got Directions | Directed from Megamenu"></a>
 						</div>
 					</li>
 				</ul>
@@ -2426,13 +2419,13 @@ function redirect(site){
 
 						</li>
 						
+			
 		
-	
-					
-					
-						
-							
-							
+			
+			
+			
+				
+				
 
    			 
 						
@@ -2509,7 +2502,7 @@ function redirect(site){
 	
 	
 
-<a href="#">My Wendy's
+<a href="#" data-ga="Navigation | Clicked Global Navigation | My Wendy's">My Wendy's
 <span class="mobile">{{ i18n.dictionary.signIn.login }}</span>
 </a>
 
@@ -2531,7 +2524,7 @@ function redirect(site){
 			
 		
 
-		<form action="#" method="post"><input type="HIDDEN" name="_authkey_" value="EA418FA2A5F882159003C8E4FBC091F815B227157872FD9A5E227110C543E1196D0F983AC9DD5EC89DF2FA6356B3B632">
+		<form action="#" method="post"><input type="HIDDEN" name="_authkey_" value="EFB5E746C055B6C7DBCB315804EC9348EB3788EA0B32938A6D29B28140483D5B59C2D4C23FEAE6E40E6E1EF3929A4890">
 			<label for="main_un">{{ i18n.dictionary.signIn.username }}</label>
 			<input id="main_un" class="text username" name="username" type="text">
 
@@ -2539,7 +2532,7 @@ function redirect(site){
 			<input id="main_pw" class="text password" name="password" type="password">
 			<a class="reset_pw" href="#forgot_pw_form">{{ i18n.dictionary.signIn.forgotPassword }}</a>
 			<div class="clear"></div>
-			<div class="redButton submit">
+			<div class="redButton submit" data-ga="User | Logged In from Megamenu">
                 <a class="submit-signIn" href="#">{{ i18n.dictionary.signIn.signIn }}</a>
                </div>
 			<div class="clear"></div>
@@ -2568,7 +2561,7 @@ function redirect(site){
 			</div>
 			<div class="clear"></div>
 		</div>
-		<p class="redButton"><a href="/en-us/sign-up" data-bind="text: i18n.dictionary.signIn.registerNow"></a></p>
+		<p class="redButton" data-ga="User | Clicked Register Now from Megamenu"><a href="/en-us/sign-up" data-bind="text: i18n.dictionary.signIn.registerNow"></a></p>
 	</div>
 
 
@@ -2577,10 +2570,11 @@ function redirect(site){
 
 						</li>
 						
+			
 		
 	
 
-	</ul>
+</ul>
 
 		
 			
@@ -2604,12 +2598,7 @@ function redirect(site){
 			</p>
 		
 
-			
-			
-			
-
 			<div class="locale mobile">
-				
 				<select class="locale-select"></select>
 			</div>
 		</nav>
@@ -2957,11 +2946,130 @@ function redirect(site){
 		
 		<!-- /ko --><!-- Ends the Knockout "with: content" context -->
 		
-		
+				
+						 
+						 
+					
+				
 			
-			
-			 
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3096,7 +3204,7 @@ function redirect(site){
 												     			
 												     			
 												     		
-															<li><a href="https://www.facebook.com/WendysCanada" target="_blank"><span class="link">Facebook</span></a></li>
+															<li><a href="https://www.facebook.com/Wendys" target="_blank"><span class="link">Facebook</span></a></li>
 										     			
 										     		
 										     	
@@ -4327,7 +4435,7 @@ function redirect(site){
 					        <div class="copyright pull-left">
 					        	
 					        	<p>
-	©2015 Oldemark LLC.</p>
+	© 2015 Quality Is Our Recipe, LLC</p>
 <address>
 	One Dave Thomas Boulevard, Dublin, OH 43017 / <span class="desktop">(614) 764-3100</span><a class="mobile" href="tel:(614)764-3100">(614)764-3100</a></address>
 
@@ -4466,53 +4574,198 @@ function redirect(site){
 
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
-<script type="text/javascript" src="https://www.youtube.com/player_api"></script>
 
    
 
 	
 	
 		<script src="/redesign/wendys/javascripts-dist/global.js"></script>
+	 
+
+
+	
+	
+	
+	<script type="text/javascript" src="/redesign/wendys/data/dictionary.en_US.js"></script>
+	
+    <!-- Page specific javascript -->
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+	
+
+<!-- Load only page specific javascripts here -->
+
+
+
+	
+	
+	
+	
+	
+
+
+
+
+	
+	
+	
+	
+	
+
+
+
+
+	
+	
+	
+	
+	
+
+
+
+
+   
+
+	 
+	
+		
+	
+
+		
+
+	
+
+
+
+	
+
+
+
 	
 
 	 
-<script type="text/javascript" src="/redesign/wendys/data/dictionary.en_US.js"></script>
+
+	
 
 
 
 	
+ 
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+ 
+
+	
+
+
+	
+
+		
+
+    
+    <script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+
+    <script>
+    	ko.punches.enableAll();
+        // After all global and page-specific JS has been processed
+        // (prior to and after the 'document ready' event)
+        // we bind the master view model (Knockout).
+        $(function(){
+            ko.applyBindings(window.vm);
+            vm._initialized(true);
+        });
+    </script>
+
+    <!--[if lte IE 8 ]>
+    <link href="css/old_ie.css" rel="Stylesheet" type="text/css" />
+    <script src="/redesign/wendys/javascripts/respond.js" type="text/javascript"></script>
+    <![endif]-->
+ 
+    
 	
 	
+	
+    <script type="text/javascript">
+    var googleAccountID = 'UA-7557226-1';
+    if (window.location.host !== 'www.wendys.com') googleAccountID = 'UA-7557226-10'; // test account
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+     	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+     	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m);
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', googleAccountID, 'auto');
+    ga('send', 'pageview');
+    </script>
+    
+    
 
-
-
-<script>
-	ko.punches.enableAll();
-	$(function(){
-		ko.applyBindings(window.vm);
-		vm._initialized(true);
-	});
-</script>
-
-<!--[if lte IE 8 ]>
-	<link href="css/old_ie.css" rel="Stylesheet" type="text/css" />
-	<script src="/redesign/wendys/javascripts/vendor/respond.js" type="text/javascript"></script>
-<![endif]-->
-
-
-<script type="text/javascript">
-	var accountID = 'UA-7557226-1';
-	var domain = window.location.host;
-	if (domain !== 'www.wendys.com') accountID = 'UA-7557226-10'; // test account
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', accountID]);
-	_gaq.push(['_trackPageview']);
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>
+    
 
 
 		
