@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamelootnetwork.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527052206id_/http%3A//gamelootnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamelootnetwork.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055619id_/http%3A//gamelootnetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Game Loot – Privacy Policy
+# Privacy Policy - Game Loot
 
 This site (the “Site”) is owned by Game Loot Network, LLC, a Kansas limited liability company (“us,” “we,” or “Company”). We created this Privacy Policy (“Privacy Policy”) to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy.
 
