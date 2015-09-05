@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amctheatres.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627194844id_/https%3A//www.amctheatres.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amctheatres.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061744id_/https%3A//www.amctheatres.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AMC Theatres
 
@@ -67,7 +67,7 @@ AMC may combine personally identifiable information collected by an AMC affiliat
 
 AMC shares aggregated information with its third party service providers to assist AMC with collecting demographic information and improving the AMC websites and Applications. AMC shares aggregated information with potential advertisers, contractors, investors and other third parties in connection with the sale of advertising to be delivered on AMC websites and Applications and the marketing of AMC’s products and services. 
 
-AMC may share your personally identifiable information with third parties that AMC believes to have products and services that you might like and allow those third parties to offer those products or services directly to you.  AMC will share the necessary portion of your personally identifiable information with those third parties for that limited purpose.  You may, at any time, opt out of receiving these offers by sending an e-mail to [privacymanager@amctheatres.com](mailto:privacymanager@amctheatres.com) with your removal request, and AMC will remove your personally identifiable information from its shared database.  
+AMC may share your personally identifiable information with third parties that AMC believes to have products and services that you might like and allow those third parties to offer those products or services directly to you.  AMC will share the necessary portion of your personally identifiable information with those third parties for that limited purpose.  You may, at any time, opt out of receiving these offers by sending a letter to AMC Theatres, Attention: Privacy Manager at 11500 Ash Street, Leawood, KS 66211 with your removal request, and AMC will remove your personally identifiable information from its shared database.  
 
 AMC also uses third parties to assist it in providing services, fulfilling orders, Data and information requests, to improve your experience with the Applications and on AMC’s websites and for other business purposes. AMC will share your personally identifiable information with these third parties for these purposes; however, these third parties will not contact you directly. 
 
@@ -109,11 +109,11 @@ If you voluntarily disclose personally identifiable information in a public area
 
 AMC retains your personally identifiable information for as long as you use the Application, remain a member of the AMC Stubs™ loyalty program, or maintain an online account with an AMC website, and for a reasonable time thereafter.  AMC retains anonymous information it collects under this privacy policy for up to two years from the date of collection, and thereafter may only retain such information in the aggregate.
 
-You may obtain a copy of your personally identifiable information maintained by AMC by contacting AMC Entertainment, Attention: Privacy Manager, 920 Main Street, Kansas City, MO 64105 or at [privacymanager@amctheatres.com](mailto:privacymanager@amctheatres.com). For your protection, you will be required to provide proof of your identity to obtain a copy of your personally identifiable information. You may correct any errors in your personally identifiable information by providing AMC with the correct information.  You may uninstall an Application from your mobile device at any time, and AMC will delete the personally identifiable information in its possession concerning your use of the Application; however, you will continue to receive e-mail, SMS text messages and other communications if you selected those services through your account at the AMC website.  AMC will delete all of your personally identifiable information (except for your transaction history) from AMC's records upon your written request. However, you will not be able to access some areas of the AMC website, use some aspects of the Application or have the Application function properly if you choose to delete your personally identifiable information. 
+You may obtain a copy of your personally identifiable information maintained by AMC by contacting AMC Entertainment, Attention: Privacy Manager, 11500 Ash Street , Leawood, KS 66211. For your protection, you will be required to provide proof of your identity to obtain a copy of your personally identifiable information. You may correct any errors in your personally identifiable information by providing AMC with the correct information.  You may uninstall an Application from your mobile device at any time, and AMC will delete the personally identifiable information in its possession concerning your use of the Application; however, you will continue to receive e-mail, SMS text messages and other communications if you selected those services through your account at the AMC website.  AMC will delete all of your personally identifiable information (except for your transaction history) from AMC's records upon your written request. However, you will not be able to access some areas of the AMC website, use some aspects of the Application or have the Application function properly if you choose to delete your personally identifiable information. 
 
 ### California Civil Code Section 1798.83
 
-California Civil Code Section 1798.83 permits guests and customers of the AMC family of companies who are California residents to request certain information regarding AMC's disclosure of personally identifiable information to third parties for their direct marketing purposes. You may make such a request by contacting AMC Theatres, Attention: Privacy Manager, 920 Main Street, Kansas City, MO 64105 or at [privacymanager@amctheatres.com](mailto:privacymanager@amctheatres.com). 
+California Civil Code Section 1798.83 permits guests and customers of the AMC family of companies who are California residents to request certain information regarding AMC's disclosure of personally identifiable information to third parties for their direct marketing purposes. You may make such a request by contacting AMC Theatres, Attention: Privacy Manager, 11500 Ash Street , Leawood, KS 66211 or at. 
 
 ## 8\. How Do I Opt Out of Receiving Marketing Communications from AMC and Others?
 
@@ -121,8 +121,8 @@ When you create an account with AMC and during certain purchase transactions, yo
 
 AMC Entertainment  
 Attn: Privacy Manager   
-920 Main Street   
-Kansas City, MO 64105 
+11500 Ash Street    
+Leawood, KS 66211 
 
 You may stop the delivery of Push Notification or other e-mail messages from AMC by managing your notification preferences in the account settings section of the Application or your online account with an AMC website.
 
@@ -134,8 +134,8 @@ If at any time you want to stop receiving SMS text alerts from AMC, please send 
 
 AMC Entertainment  
 Attn: Privacy Manager   
-920 Main Street   
-Kansas City, MO 64105
+11500 Ash Street    
+Leawood, KS 66211
 
 Your mobile phone number will be removed or suppressed from AMC's SMS text messaging database within 30 days. You will not receive any further SMS text messages from AMC unless you solicit the communication.
 
@@ -151,6 +151,6 @@ AMC may change this privacy policy at any time. If AMC modifies this privacy pol
 
 Any modification will affect the use and disclosure of information collected prior to the date of posting unless the modified privacy policy states otherwise. If you do not wish to allow such material changes, you must notify AMC in the manner AMC specifies prior to the effective date of the modification. If you provide AMC with this notice, AMC may choose to deactivate your online or Application account. Regardless of whether you provide AMC with notice, any modification to this privacy policy will apply to personally identifiable information you provide AMC on or after the effective date of the modification. 
 
-Your use of an AMC website or Application means that you accept the terms of this privacy policy and that AMC has the right to use information it collects from you, whether personally identifiable information or anonymous, as stated in this privacy policy. If you do not accept the terms of this privacy policy, you must not use the AMC websites or Applications. Use of an AMC website or Application after a change to this privacy policy means that you accept the changes made to terms of this privacy policy. If you have any additional questions, please feel free to contact AMC any time at [privacymanager@amctheatres.com](mailto:privacymanager@amctheatres.com). 
+Your use of an AMC website or Application means that you accept the terms of this privacy policy and that AMC has the right to use information it collects from you, whether personally identifiable information or anonymous, as stated in this privacy policy. If you do not accept the terms of this privacy policy, you must not use the AMC websites or Applications. Use of an AMC website or Application after a change to this privacy policy means that you accept the changes made to terms of this privacy policy. If you have any additional questions, please feel free to contact AMC any time at. 
 
-_Last revision date: March 5, 2012._
+_Last revision date: August 17, 2015._
