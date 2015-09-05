@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the heroup.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325232709id_/https%3A//www.heroup.com/legal-docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroup.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906003242id_/https%3A//www.heroup.com/legal-docs/privacy-policy) for the most accurate reproduction.*
 
 # Super Hero Squad Online | Privacy Policy | HeroUp.com
 
 ### Effective as of: September 3, 2013
+
+[](http://www.esrb.org/confirm/gazillion-confirmation.jsp)
 
 Welcome to the Gazillion Privacy Policy. Privacy is very important to us, and it should be to you too. We are dedicated to safeguarding all personal information collected online and to helping our visitors learn how to exercise control over personal information while on Gazillion Sites.
 
