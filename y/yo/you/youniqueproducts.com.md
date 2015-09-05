@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youniqueproducts.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316154222id_/https%3A//www.youniqueproducts.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youniqueproducts.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905213456id_/https%3A//www.youniqueproducts.com/business/privacy) for the most accurate reproduction.*
 
 # Younique - Uplift. Empower. Validate.
 
@@ -8,7 +8,7 @@ Younique, LLC, a company organized under the laws of the State of Utah (referred
 
 * * *
 
-###  Information Collection
+### Information Collection
 
 Younique may collect two different types of information, Personally Identifiable Information and Non- Personally Identifiable Information. 
 
@@ -16,7 +16,7 @@ Younique may collect two different types of information, Personally Identifiable
 
 * * *
 
-###  Information Use
+### Information Use
 
 Younique may collect PII about you to establish or maintain our relationship with you, respond to your inquiries, provide you with services you have requested, keep you informed of services we think may be of interest to you, personalize your experience with us, and other reasons. Without PII, Younique may be unable to provide you with the services you have requested. 
 
@@ -29,6 +29,16 @@ Younique does not sell or lease PII about you to others.
 Younique may share PII about you with others as permitted by contractual agreement or as required by law, such as our affiliates, third parties in connection with the provision of services to you, government entities and regulatory bodies, and those with whom you have requested us to share information. Younique requires third parties who perform services for us to agree to treat PII about you confidentially and securely. 
 
 Unless restricted by law, regulation, contract or professional standards, Younique may transfer PII about you outside of the United States to other countries for the purposes described in this privacy notice. Younique will not share PII about you with an unaffiliated third party who is not performing services for us without first obtaining your permission, except if such sharing is otherwise permitted by this privacy notice. 
+
+Younique will provide PII about you to the following types of third parties for the associated reasons: 
+
+Carriers: Younique will provide your name and address to companies which provide a delivery service between Younique and its customers as a means of delivering our products to you as quickly as possible. 
+
+Financial Institutions: Younique will provide financial institutions with your payment information, name, address, and phone number in order to process any orders placed by you and complete payment of the transaction to Younique. 
+
+Logistics: Younique will provide your name, address and phone number to those entities or people within our network of distribution in order to process and ship your orders with speed and accuracy. 
+
+Younique requires third parties who perform services for us to agree to treat PII about you confidentially and securely. Note that this statement does not address the privacy practices or polices of our Independent Presenters. However, Younique Independent Presenters agree, as specified in our Policies and Procedures, to comply with all applicable privacy laws and regulations. 
 
 Notwithstanding any other provision of this notice or the Terms and Conditions of Use to the contrary, we reserve the right to disclose and use your PII if we believe that we are required to do so: (a) by law; (b) in response to legal process, for example, in response to a court order or a subpoena; (c) in response to a law enforcement agency’s request; (d) to enforce our other terms, conditions, or policies; (e) to protect our operations; (f) to protect the rights, privacy, safety or property of Younique, you or others; and/or (g) to permit us to pursue available remedies or limit the damages we may sustain. For example, we may to the fullest extent the law allows, disclose PII about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities. 
 
@@ -50,10 +60,24 @@ Younique maintains reasonable physical, administrative and technical safeguards 
 
 * * *
 
+###  Cookies 
+
+A cookie is a small file placed on your computer by a website that uses the cookie to store information about your use of the website. Younique may use cookies to recognize you when you return to the Younique website in order to provide you with a better user experience. Our cookies do not contain any PII, such as your name, or sensitive information, such as your credit card number. We also allow our affiliates and third-party vendors to use cookies on our website; some of these parties may use cookies in ways that we do not. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Younique website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
+
+* * *
+
+### Safe Harbor
+
+In order to comply with EU data privacy directives, Younique applies the US-EU and US-Swiss Safe Harbor Framework developed by the US Department of Commerce pertaining to the collection, use, and retention of personal information from the European Union member countries. Younique complies with the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. For more information or questions concerning the Safe Harbor program please visit:<http://export.gov/safeharbor/index.asp>
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Younique commits to resolve complaints about your privacy and our collection or use of your PII. European Union or Swiss citizens with inquiries or complaints regarding this privacy notice should first contact Younique at the address provided in the questions section of this privacy notice. 
+
+Younique has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Younique, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
+
+* * *
+
 ###  Changes to This Privacy Notice
 
 Younique reserves the right to change this privacy notice. Any changes to this notice will become effective upon posting of the revised notice on the Internet or as required by law. 
 
-Questions If you have any questions or concerns regarding this notice, please contact us either by email at legal@Younique.com, or by regular mail at Younique, LLC, Attn: Legal Department, 597 S Pleasant Grove Blvd., Suite 9, Pleasant Grove, Utah 84062. Please note that email communications are not necessarily secure. Accordingly you should not include credit card information or other sensitive information in your email correspondence to us. 
-
-* * *
+If you have any questions or concerns regarding this notice, please contact us either by email through our Support Center [here](https://web.archive.org/business/support), or by regular mail at Younique, LLC, Attn: Legal Department, 2889 Ashton Boulevard, Suite 150, Lehi, Utah 84043. Please note that email communications are not necessarily secure. Accordingly you should not include credit card information or other sensitive information in your email correspondence to us. 
