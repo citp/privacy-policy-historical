@@ -1,145 +1,254 @@
-> *The following text is extracted and transformed from the fastly.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530072708id_/http%3A//www.fastly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastly.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905073655id_/https%3A//www.fastly.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Fastly - The Next Gen CDN
+# Privacy Policy | Fastly
 
-FASTLY, INC. PRIVACY POLICY
+Last modified: 12/08/2014
 
-Version 1.0
+#### **I. Introduction**
 
-Effective: May 1, 2013
+This privacy policy (this “ **Privacy Policy** ”) covers and describes how Fastly, Inc. and its subsidiaries (“ **Fastly** ”, “ **We** ” or “ **Us** ”) collect, use and disclose the information we collect through [http://www.fastly.com](https://web.archive.org/), [http://app.fastly.com](http://app.fastly.com/), [http://docs.fastly.com](http://docs.fastly.com/), [http://status.fastly.com](http://status.fastly.com/), [http://demo.stream.fastly.com](http://demo.stream.fastly.com/), and [http://community.fastly.com](http://community.fastly.com/) (our “ **Websites** ”), as well as our CDN Services (our “ **Services** ”).
 
-Fastly, Inc. (" **Fastly** ") is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at Fastly.com, and Fastly products (the " **Products** ") and services (the " **Services** ").
+The use of information collected through our Services shall be limited to the purpose of providing the Services for which subscribers to our Services (our “ **Subscribers** ”) have engaged Fastly.
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.fastly.com)
+[](https://privacy.truste.com/privacy-seal/Fastly/validation?rid=e864daae-e54e-4aba-9ae0-6a76f78e0962 "Validate TRUSTe privacy certification")
 
-Fastly has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, [http://www.fastly.com](http://www.fastly.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@fastly.com](mailto:privacy@fastly.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Fastly has received TRUSTe's Privacy Seal signifying that this Privacy Policy, and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-## 1\. USER CONSENT
+The TRUSTe program covers our collection, use and disclosure of information we collect through our Websites ([https://www.fastly.com](https://www.fastly.com/) and subdomains listed above) and our Services. It does not cover information that may be collected through mobile applications or downloadable software. Fastly complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Fastly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Fastly’s certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor).
 
-By submitting Personal Data through our website, Products, or Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy.
+#### **II. Subscription Agreements**
 
-## 2\. A NOTE ABOUT CHILDREN
+Fastly Subscribers may electronically submit data or information to the Services for caching and processing purposes (“ **Subscriber Data** ”). Fastly will not review, share, distribute, or reference any such Subscriber Data except as provided in our subscription agreements with our Subscribers, such as our Terms of Service available at [https://www.fastly.com/terms](https://web.archive.org/terms) (each a “ **Subscription Agreement** ”), or as may be required by law. In accordance with the Subscription Agreement, Fastly may access Subscriber Data only for the purpose of providing the Services or preventing or addressing service or technical problems or as may be required by law. Additional information about our privacy and security practices with respect to Subscriber Data is available at [http://docs.fastly.com](http://docs.fastly.com/).
 
-We do not intentionally gather Personal Data about visitors who are under the age of 13.
+**A. Information Related to Data Collected Through our Services**
 
-## 3\. A NOTE TO USERS OUTSIDE OF THE UNITED STATES
+Our Services collect information under the direction of our Subscribers. Fastly has no direct relationship with the individuals whose personal data is processed by the Services.
 
-Fastly complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Fastly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Fastly's certification, please visit <http://www.export.gov/safeharbor/>
+**B. Choice**
 
-## 4\. TYPES OF DATA WE COLLECT
+Our Services collect information for our Subscribers. If you are a customer of one of our Subscribers and would no longer like to be contacted by one of our Subscribers that use our Services, please contact that Subscriber directly.
 
-Fastly collects Personal Data and Anonymous Data from you when you visit our website, when you send us information or communications, and/or when you download and use our Products or Services. " **Personal Data** " means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. " **Anonymous Data** " means data that is not associated with or linked to your Personal Data; Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+**C. Service Provider, Sub-Processors/Onward Transfer**
 
-### 4.1 Personal Data You Provide to Us
+Fastly may transfer personal information to companies that help us provide our Services. Transfers to subsequent third parties are covered by the provisions regarding notice and choice in the Subscription Agreements with our Subscribers.
 
-When you create an account on Fastly.com, we will ask you to create a user name and password and to provide us with your email address. In addition, while it is not required, you may provide us with further information, such as your name and address, to complete your profile on Fastly.com. When you purchase services on Fastly.com, we will ask you to provide personally identifiable information ("PII"), including your name, address, phone number and financial information (e.g. your credit card number and expiration date). If you provide us feedback or contact us via e-mail (e.g., in response to an employment opportunity posted on our website), we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply, and any information that you submit to us, such as a resume. If you choose to send an invitation to a colleague, we will ask for your colleague's email address. We will automatically send that person a one-time email inviting them to visit the site.
+**D. Access to Data Controlled by our Subscribers**
 
-### 4.2 Personal Data Collected via Technology
+Fastly has no direct relationship with the individuals whose personal data the Services process. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query the appropriate Fastly Subscriber (the data controller). If the Subscriber requests that Fastly remove the data, we will respond to their request within 30 business days.
 
-  * **Information Collected by Our Servers:** To make our website, Products and Services more useful to you, our servers (which may be hosted by a third party service provider) collect data from you, including browser type, operating system, Internet Protocol (" **IP** ") address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit. This data is aggregated, and isn't personally identifiable.
+**E. Data Retention**
 
-  * **Cookies:** We also use Cookies (as defined below) and navigational data like Uniform Resource Locators (URL) to gather information and log information from incoming requests. This information includes, but is not limited to, the date and time of the request, what information was requested, the Fastly customer that sent the request, and any errors that occur while processing the request (client, server, or otherwise). "Cookies" are small pieces of information that are sent by our servers in the header of HTTP responses.
+Fastly will retain personal data we process on behalf of our Subscribers for as long as needed to provide services to our Subscribers. Fastly will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+Fastly Subscribers may electronically submit data or information to the Services for hosting and processing purposes (“ **Subscriber Data** ”). Fastly will not review, share, distribute, or reference any such Subscriber Data except as provided in our subscription agreements with our Subscribers (“ **Subscription Agreements** ”), or as may be required by law. In accordance with the Subscription Agreement, Fastly may access Subscriber Data only for the purpose of providing the Services or preventing or addressing service or technical problems or as may be required by law. Additional information about our privacy and security practices with respect to Subscriber Data is available at [http://docs.fastly.com](http://docs.fastly.com/).
 
+#### **III. Websites Privacy Policy**
 
+This policy applies to information we collect:
 
-When Internet applications (e.g. browsers) process the HTTP response they parse and then store the Cookie on the client computer's hard drive. We may use both session Cookies and persistent Cookies. Session Cookies are removed from the client computer once the internet browser has left the page from which they were served. Persistent Cookies are stored on the client hard drive for longer periods of time (e.g. 30 days) after which they expire. Internet browsers also allow users to manually delete persistent Cookies before their expiration date (usually through the browser settings or configuration panel). We use persistent Cookies to provide a more personal and interactive experience to our users and our configuration application will not function if cookies are disabled by the end user.
+  1. On our Websites.
+  2. In e-mail, text and other electronic messages between you and Us.
+  3. When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
-  * **Log Files:** As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider ("ISP"), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the website, track users' movements around the website, gather demographic information about our user base as a whole, and better tailor our Products and Services to our users' needs. For example, some of the information may be collected so that when you visit the website or the Services again, it will recognize you and the information could then be used to serve information appropriate to your interests. This data is anonymized, and we do not link this automatically-collected data to Personal Data.
 
-  * **User Tracking and Analytics:** We use services such as Google Analytics([http://www.google.com/analytics](http://www.google.com/analytics/)), MixPanel ([http://www.mixpanel.com](https://web.archive.org/web/20140530072708id_/http://www.fastly.com/privacy/href=%22http://www.mixpanel.com) Tout ([http://www.toutapp.com](http://www.toutapp.com/) and Swiftype ([http://www.swiftype.com](http://www.swiftype.com/)) to track and analyze how our customers use our website and web based configuration application. Google Analytics uses Cookies to collect information such as how often users visit the website, what pages they visit, and what other sites they used prior to coming to the website. MixPanel is sent usage information directly from out configuration application which is then used to track how our users interact with features and navigate between pages. Tout is a Gmail extension which allows Fastly to know if a sales email, sent to someone who is not yet a Fastly customer, has been read, and the Fastly website has been visited. Swiftype is a search engine that powers our website search, it helps us see what terms users are searching for on our website and what searches are producing results. It ranks searches and also missed searches in terms of how many times a term was searched. Information from these services is not correlated with personal customer information in any way. For more information on the way that these services track user information please visit their respective websites and read the Terms of Use and Privacy Policy. We do not have access or control over these cookies.
 
+It does not apply to information collected by:
 
+  1. Fastly offline or through any other means, including on any other website operated by us or any third party including our affiliates and subsidiaries; or
+  2. Any third party including our affiliates and subsidiaries, including through any application or content (including advertising) that may link to or be accessible from or on the Websites.
+  3. Subscriber Data cached and processed by our Services according to a Subscription Agreement.
 
 
-## 5\. USE OF YOUR DATA
 
-### 5.1 General Use
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Websites. By accessing or using our Websites, you agree to this Privacy Policy. This policy may change from time to time (see _Changes to our Privacy Policy_ below). Your continued use of our Websites after we make changes is deemed to be acceptance of those changes, so please check this Privacy Policy periodically for updates.
 
-In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. Fastly uses your Personal Data in the following ways, e.g., to facilitate the creation of and secure your account; identify you as a user in our system; provide improved administration of our website and Products and Services; improve the quality of experience when you interact with our website and our Products and Services; send you a welcome e-mail to verify ownership of the e-mail address provided when your account was created; send you administrative e-mail notifications, such as security or support and maintenance advisories; connect to third party providers via connectors provided as a part of the Products or Services or via connectors provided by you; respond to your inquiries related to employment opportunities at Fastly or to other requests, or provide you with special notices. You may opt out of receiving future communications at any time (see opt-out procedures below).
+**A. Children Under the Age of 13**
 
-### 5.2 Creation of Anonymous Data
+Our Websites are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Websites. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on our Websites or on or through any of their features, register on the Websites, make any purchases through the Websites, use any of the interactive or public comment features of our Websites or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us via the **Contact Information** section below.
 
-We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Products and Services and improve site navigation. Fastly reserves the right to use and disclose Anonymous Data to Third Party Companies in its discretion.
+**B. Information We Collect About You and How We Collect It**
 
-### 5.3 Feedback
+We collect several types of information from and about users of the Websites, including information:
 
-If you provide feedback on any of our Products or Services to us, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Data. Fastly will collect any information contained in such communication and will treat the Personal Data in such communication in accordance with this Privacy Policy.
+  1. By which you may be personally identified, such as name, postal address, e-mail address, telephone number, or any other identifier by which you may be contacted online or offline (" **personal information** ").
+  2. About your Internet connection, the equipment you use to access our Websites and usage details.
 
-### 5.4 Data Integrity
 
-Fastly will use Personal Data only in ways that are compatible with the purposes for which it was collected or subsequently authorized by you. Fastly will take reasonable steps to ensure that Personal Data is relevant to its intended use, accurate, complete, and current. Fastly depends on you to update and correct your Personal Data to the extent necessary for the purposes for which it was collected and subsequently authorized by you.
 
-## 6\. DISCLOSURE OF YOUR PERSONAL DATA
+We collect this information:
 
-### 6.1 Affiliates
+  1. Directly from you when you provide it to us.
+  2. Automatically as you navigate through our Websites. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.
+  3. From third parties, for example, our business partners.
 
-Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, " **Affiliates** "), we may in the future. We may share some or all of your Personal Data with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.
 
-### 6.2 Corporate Restructuring
 
-We may share some or all of your Personal Data in connection with or during negotiation of any merger, financing, acquisition or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy or receivership, Personal Data may also be transferred as a business asset. If another company acquires our company, business or assets, that company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+**C. Information You Provide to Us**
 
-### 6.3 Third Party Service Providers
+The information we collect on or through our Websites may include:
 
-Fastly customers who sign up for certain services, such as technical support, must supply contact information to those third parties. You can enter third party information such as name, email address and company in the "Create a Contact" section of your account on the site. We endeavor to ensure that any third party service providers we work with use data with the same care we do, but please be sure to check their privacy policy before giving them your information.
+  1. Information that you provide by filling in forms on our Websites. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Websites.
 
-### 6.4 Other Disclosures
+  2. Records and copies of your correspondence (including e-mail addresses, IRC handles and Twitter handles), if you contact us.
 
-Regardless of any choices you make regarding your Personal Data (as described below), Fastly may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Fastly; or (b) protect or defend the rights or property of Fastly or users of the Products or Services.
+  3. Your responses to surveys that we might ask you to complete for research purposes.
 
-## 7\. THIRD PARTIES
+  4. Details of transactions you carry out through our Websites and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Websites.
 
-### 7.1 Personal and/or Anonymous Data Collected by Third Parties
+  5. Your search queries on our Websites.
 
-(a) Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave our site and go to another site. During this process, another entity may collect Personal Data or Anonymous Data from you.
 
-(b) We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
 
-### 7.2 Disclosure to Third Party Companies
 
-We may enter into agreements with third party companies that provide our Products or Services (" **Third Party Companies** "). We will not disclose your Personal Data to Third Party Companies, unless you have "opted-in" by following the instructions we provide to allow such disclosure. If you have opted-in to receive e-mail communications from a Third Party Company and later wish to discontinue receipt of these e-mails, please contact the Third Party Company directly to update your preferences. The privacy policies of our Third Party Companies may apply to the use and disclosure of your Personal Data that we collect and disclose to such Third Party Companies. Because we do not control the privacy practices of our Third Party Companies, you should read and understand their privacy policies.
+You also may provide information to be published or displayed (hereinafter, " **posted** ") on public areas of our Websites, or transmitted to other users of our Websites or third parties (collectively, " **User Contributions** "). Your User Contributions are posted on and transmitted to others at your own risk. We limit access to certain pages on our Websites and allow you to set certain privacy settings via your account profile; however, be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of our Websites with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. To request removal of your personal information, please contact us via the information supplied in the **Contact Information** section below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-## 8\. YOUR CHOICES REGARDING YOUR PERSONAL DATA
+**D. Information We Collect Through Automatic Data Collection Technologies**
 
-### 8.1 Choices
+As you navigate through and interact with our Websites, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
-We offer you choices regarding the collection, use, and sharing of your Personal Data. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Service or Privacy Policy.
+  1. Details of your visits to our Websites, including traffic data, location data, logs and other communication data and the resources that you access and use on our Websites.
 
-Privacy Statement shall state when the Individual can exercise control over the use and sharing of their PII and how to exercise that control Such mechanism shall be easy to use and offered at no cost to the Individual
+  2. Information about your computer and Internet connection, including your IP address, operating system and browser type.
 
-### 8.2 Changes to Personal Data
 
-You may access your Personal Data by logging into your account. You may change or delete any of your Personal Data in your account by editing your profile within the Account setting. You may request closure of your account and deletion of your Personal Data by us through the account closing mechanism provided by us. We will respond to your request to access within 30 days. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@fastly.com](mailto:privacy@fastly.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. When we delete any information, it will be deleted from the active database, but may remain in our archives.
 
-## 9\. SECURITY OF YOUR PERSONAL DATA
 
-Fastly is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your account information. Please do not disclose your account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Fastly uses reasonably efforts to protect your Personal Data, Fastly cannot guarantee its absolute security. When you enter sensitive information on our site, we encrypt the transmission of that information using secure socket layer technology (SSL).
+The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. This information helps us to improve our Websites and to deliver better and more personalized service, including by enabling us to:
 
-## 10\. OPT-OUT PROCEDURES
+  1. Estimate our audience size and usage patterns.
 
-Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us via one of the methods listed below.
+  2. Store information about your preferences, allowing us to customize our Website according to your individual interests.
 
-## **11\. CONTACT INFORMATION**
+  3. Speed up your web browsing and/or download experiences.
 
-Fastly welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at [privacy@fastly.com](mailto:privacy@fastly.com) or contact us at the following address:
+  4. Recognize you when you return to our Websites.
 
-Fastly, Inc.
 
-Privacy
 
-501 Folsom Street, First Floor
 
-San Francisco, CA 94105
+The technologies we use for this automatic data collection may include:
 
-## 12\. ENFORCEMENT
+  1. Cookies ( **browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Websites.
 
-Fastly conducts periodic self-assessments to verify that the attestations and assertions it makes about its privacy practices are true and that such privacy practices have been implemented as presented. Fastly will take steps to remedy any problems arising out of failure to comply with the Safe Harbor principles.
+  2. Web **Beacons.** Pages of our Websites and our e-mails may contain small electronic files known as web beacons, which are also referred to as clear GIFs. Pixel tags and single-pixel gifs that permit Fastly, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics for example, recording the popularity of certain website content and verifying system and server integrity. We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
 
-## 13\. DISPUTE RESOLUTION
 
-If you believe that Fastly has not adhered to this Policy, please contact Fastly by e-mail at [privacy@fastly.com](mailto:privacy@fastly.com). We will do our best to address your concerns.
 
-## 14\. CHANGES TO THIS PRIVACY POLICY
 
-This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, we will notify you be sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website prior to the change becoming effective. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website. These changes will be effective immediately for new users of our Products and Services. Please note that at all time you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of our website, Products or Services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+**E. Third-party Use of Cookies and Other Tracking Technologies**
+
+Some content or applications, including advertisements, on our Websites are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+
+**F. How We Use Your Information**
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  1. To present our Websites and their contents to you.
+
+  2. To provide you with information, products or services that you request from us.
+
+  3. To fulfill any other purpose for which you provide it.
+
+  4. To provide you with notices about your account and/or subscription, including expiration and renewal notices.
+
+  5. To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+
+  6. To notify you about changes to our Websites or any products or services we offer or provide though it.
+
+  7. To allow you to participate in interactive features on our Websites.
+
+  8. In any other way we may describe when you provide the information.
+
+  9. For any other purpose with your consent.
+
+
+
+
+We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
+
+**G. Disclosure of Your Information**
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+We may disclose personal information that we collect or you provide as described in this Privacy Policy:
+
+  1. To our subsidiaries and affiliates.
+
+  2. To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+
+  3. To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Fastly’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Fastly about our Websites users is among the assets transferred. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+  4. To third parties to market their products or services to you if you have consented to them. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them. For more information, please contact us via the **Contact Information** section below.
+
+  5. For any other purpose disclosed by us when you provide the information.
+
+  6. With your consent.
+
+
+
+
+We may also disclose your personal information:
+
+  1. To comply with any court order, law or legal process, including responding to any government or regulatory request.
+
+  2. To enforce or apply our [terms of service](https://web.archive.org/terms/) and other agreements, including for billing and collection purposes.
+
+  3. If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Fastly, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+
+**H. Choices About How We Use and Disclose Your Information**
+
+We strive to provide you with choices regarding the personal information you provide to us. Mechanisms are in place to provide you with the following control over your information:
+
+  1. Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+
+  2. Opt-out Preferences. If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails.
+
+
+
+
+**I. Accessing and Correcting Your Information**
+
+You can review, delete or change your personal information by logging into the appropriate Website and visiting your account profile page.
+
+You may also send us an e-mail at the address noted in the **Contact Information** section below to request access to, correction of, or deletion of any personal information that you have provided to us. You may also request closure of your account through the [account closing mechanism](https://docs.fastly.com/guides/billing-and-prices/how-do-i-cancel-my-account) within your account settings. We will respond to your request within 30 days.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. When we delete any information, it will be deleted from the active database, but may remain in our archives.
+
+**J. Blog / Forum**
+
+Our Website offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To remove your personal information from our blog, please follow the instructions to [remove posts](https://help.disqus.com/customer/portal/articles/466229-removing-and-editing-your-comments) or [delete your user account](https://help.disqus.com/customer/portal/articles/472013-deleting-your-account). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+**K. Social Media Widgets**
+
+Our Website includes Social media features, such as the Facebook Like button, and widgets, such as the “Share” button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features are either hosted by a third party or hosted directly on our Websites. Your interactions with these social media features are governed by the privacy policy of the company providing them.
+
+**L. Single Sign-On**
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on our Websites to your profile page to share with others within your network.
+
+**M. Your California Privacy Rights**
+
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail or write us at our mailing address noted in the **Contact Information** section below.
+
+**N. Data Security**
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any sensitive information will be encrypted using Transport Layer Security (also known as Secure Sockets Layer or “SSL”).
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Websites, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of our Websites like message boards. The information you share in public areas may be viewed by any user of our Websites.
+
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Websites. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on our Websites.
+
+#### **IV. Changes to This Privacy Policy**
+
+It is our policy to post any changes we make to this Privacy Policy on this page with a notice that this Privacy Policy has been updated on <http://docs.fastly.com/changes>. If we make material changes to how we treat our users' personal information, we will notify you by e-mail to the primary e-mail address specified in your account and/or through a notice on <http://docs.fastly.com/changes> page thirty (30) days prior to the change becoming effective. The date this Privacy Policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting <http://docs.fastly.com/changes> and this Privacy Policy to check for any changes.
+
+#### **V. Contact Information**
+
+To ask questions or comment about this Privacy Policy and our privacy practices, contact us at:
+
+Fastly, Inc. General Counsel 475 Brannan St, Suite 320 San Francisco, CA 94107 [abuse@fastly.com](mailto:abuse@fastly.com)
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
