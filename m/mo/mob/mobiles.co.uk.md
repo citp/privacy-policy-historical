@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316094656id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905142822id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Mobiles.co.uk privacy policy
 
@@ -11,7 +11,7 @@
 
 Mobiles.co.uk, a trading division of The Carphone Warehouse Limited ("we", "us", "our"", are committed to protecting and respecting your privacy.
 
-This summary, together with our full privacy policy and terms of use (which can be found [here](http://media.mobiles.co.uk/images/mobiles.co.uk/whitelabel-shared-files/terms-conditions-19-04-2012.pdf "Terms and Conditions")) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This summary, together with our full privacy policy and terms of use (which can be found [here](http://media.mobiles.co.uk/tandc/mobiles/terms_and_conditions.pdf "Terms and Conditions")) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the "Act"), the data controller is The Carphone Warehouse Limited (company number 02142673) of 1 Portal Way, London, W3 6RS.
 
@@ -28,7 +28,7 @@ We may collect and process the following data about you:
 
 
 
-Please see our terms of use [here](http://media.mobiles.co.uk/images/mobiles.co.uk/whitelabel-shared-files/terms-conditions-19-04-2012.pdf "Terms and Conditions") for further details.
+Please see our terms of use [here](http://media.mobiles.co.uk/tandc/mobiles/terms_and_conditions.pdf "Terms and Conditions") for further details.
 
 ### IP addresses
 
@@ -113,7 +113,7 @@ We may disclose your personal information to third parties:
 
 
 
-We may also provide information about our dealings with you to credit reference and fraud prevention agencies. For full details about the third parties to which your data may be disclosed and how they may process this data, please see our privacy policy and terms of use available [here](http://media.mobiles.co.uk/images/mobiles.co.uk/whitelabel-shared-files/terms-conditions-19-04-2012.pdf "Terms and Conditions").
+We may also provide information about our dealings with you to credit reference and fraud prevention agencies. For full details about the third parties to which your data may be disclosed and how they may process this data, please see our privacy policy and terms of use available [here](http://media.mobiles.co.uk/tandc/mobiles/terms_and_conditions.pdf "Terms and Conditions").
 
 If you are an existing customer, we may also contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
@@ -148,7 +148,7 @@ Once we receive your request, along with your cheque and proof of identity, weâ€
 
 ### Changes to our privacy policy
 
-Any changes we may make to our privacy policy in the future will be posted on this page and/or in our privacy policy and terms of use available [here](http://media.mobiles.co.uk/images/mobiles.co.uk/whitelabel-shared-files/terms-conditions-19-04-2012.pdf "Terms and Conditions").
+Any changes we may make to our privacy policy in the future will be posted on this page and/or in our privacy policy and terms of use available [here](http://media.mobiles.co.uk/tandc/mobiles/terms_and_conditions.pdf "Terms and Conditions").
 
 ### Contact
 
