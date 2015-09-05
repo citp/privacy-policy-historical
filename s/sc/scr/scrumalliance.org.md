@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrumalliance.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317003333id_/https%3A//www.scrumalliance.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrumalliance.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905114503id_/https%3A//www.scrumalliance.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scrum Alliance
 
@@ -68,12 +68,12 @@ If you are a California resident, California Civil Code Section 1798.83 provides
 
 ##  12\. Contact information
 
-SA is located in Indianapolis, Indiana, U.S.A. Any questions, comments or suggestions regarding this Privacy Policy should be provided to the Administrator as follows:
+Scrum Alliance, Inc., is located in Westminster, Colorado, USA. Any questions, comments, or suggestions regarding this Privacy Policy should be provided to the Administrator as follows:
 
-By E-mail: info @ scrumalliance.org
+By e-mail: info@scrumalliance.org
 
-By Postal Mail: PO BOX 40097, INDIANAPOLIS, IN, U.S.A. 46240-0097
+By postal mail: 7401 Church Ranch Blvd. #210, Westminster, CO 80021 USA
 
 This Privacy Statement is effective March 15, 2011 Last updated: March 15, 2011
 
-Copyright © 2011 Scrum Alliance, Inc.; All rights reserved.
+Copyright © 2015 Scrum Alliance, Inc.; All rights reserved.
