@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goroost.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315073115id_/https%3A//goroost.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goroost.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905215426id_/http%3A//goroost.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Roost
 
@@ -36,6 +36,24 @@ Notice uses third party vendors and hosting partners to provide the necessary ha
 #### DISCLOSURE
 
 Notice may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://goroost.com/pages/terms).
+
+#### SAFE HARBOR
+
+Notice Software complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Notice Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view Notice Software’s certification, please visit <http://www.export.gov/safeharbor/>
+
+#### SAFE HARBOR DISPUTE RESOLUTION
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, Notice Software commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Notice Software at:
+
+Notice Software  
+300 Madison Ave, #270  
+Toledo, OH 43604
+
+OR 
+
+support@goroost.com
+
+Notice Software has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
 #### CHANGES
 
