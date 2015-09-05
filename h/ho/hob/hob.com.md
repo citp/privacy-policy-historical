@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hob.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316034633id_/http%3A//concerts.livenation.com/h/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hob.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905052923id_/http%3A//concerts.livenation.com/h/privacy.html) for the most accurate reproduction.*
 
 # Live Nation Concerts | Privacy Policy
 
-Effective July 20, 2012 (last updated October 08, 2013)
+Effective July 20, 2012 (last updated July 24, 2015)
 
 ## This Privacy Policy applies to the sites and apps where it appears.
 
