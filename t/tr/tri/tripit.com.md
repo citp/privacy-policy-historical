@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316152332id_/https%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905061956id_/https%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
 
 # TripIt Privacy Policy
 
-(last revised September 2, 2014) 
+(last revised April 7, 2015) 
 
 [ ](https://privacy.truste.com/privacy-seal/Concur-Technologies/validation?rid=4fcfda29-644c-4fb3-ae00-fb94131a4122 "TRUSTe European Safe Harbor certification")
 
@@ -109,7 +109,9 @@ You may manage the SMS alerts regarding flight delays, gate changes, and other a
 
 We may not recognize or respond to every type of "do not track" signal or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party websites or online services, but we give you certain choices about how we collect personally identifiable information as described in this Policy. Many Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site including certain opt-out cookies. Cookie management tools provided by your browser usually will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies, visit the [Macromedia website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) (or, in the EU, the [Your Online Choices](http://www.youronlinechoices.com/) website). 
 
-We encourage you to review the [privacy policies of our third-party advertisers and analytics service providers](http://preferences-mgr.truste.com/) to learn about your choices about information they collect from you. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers information about some of the Internet advertising companies we may use, including how to opt-out of interest based advertising they deliver. To opt-out of Google Analytics web tracking you can download the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). [Modify you interest based ad settings.](https://web.archive.org/uhp/ppid)
+You can opt out of TripIt PPIDs to serve personalized ads and content on and across the devices you use to access the Services at any time by visiting the [TripIt PPID Opt-Out page](https://web.archive.org/uhp/ppid). Note that the TripIt PPID Opt-Out will not affect non-personalized ads on the Services and elsewhere, use of TripIt PPIDs for other analytics purposes, such as to improve Services and track effectiveness and frequency of non-personalized ads, or personalized or interest-based ads on the Services and elsewhere that use identifiers other than TripIt PPIDs (such as cookies and PPIDs that Concur and its affiliates may use in connection with non-TripIt branded services). To learn about use of PPIDs in connection with other non-TripIt branded sites and services from Concur, please visit the Concur Privacy Policy. 
+
+We encourage you to review the [privacy policies of our third-party advertisers and analytics service providers](http://preferences-mgr.truste.com/) to learn about your choices about information they collect from you. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers information about some of the Internet advertising companies we may use, including how to opt out of interest-based advertising they deliver. To opt out of Google Analytics, you can download the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). [Modify your personalized ad choices.](https://web.archive.org/uhp/ppid)
 
 ## 7\. International Users: Applicable Law
 
