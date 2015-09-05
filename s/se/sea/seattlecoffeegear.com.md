@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlecoffeegear.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325212055id_/https%3A//www.seattlecoffeegear.com/scg-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlecoffeegear.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905070247id_/https%3A//www.seattlecoffeegear.com/scg-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Seattle Coffee Gear
 
@@ -28,6 +28,17 @@ We may use the information we collect from you when you register, purchase produ
 #### How do we protect visitor information?
 
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+
+#### Saved Payment Methods
+
+Seattle Coffee Gear now offers the ability to save payment information for future purchases. Intended to simplify the ordering process, this functionality allows you to save a payment method to your account for use during checkout. This information is protected in the following ways:
+
+  * Encryption is always used when transmitting credit card details.
+  * Seattle Coffee Gear does not store credit card numbers. Instead, a token is created that associates your payment details with an authorization from the payment processor.
+  * The token that is created is what Seattle Coffee Gear stores and cannot be used to retrieve either the full credit card number or security code (CVV2).
+  * You may delete or edit a payment method at any time.
+
+
 
 #### Do we use 'cookies'?
 
