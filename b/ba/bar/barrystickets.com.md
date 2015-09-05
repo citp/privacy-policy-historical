@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrystickets.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623031941id_/http%3A//www.barrystickets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrystickets.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064151id_/http%3A//www.barrystickets.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy For Barry's Ticket Service and BarrysTickets.com
 
@@ -6,9 +6,9 @@
 
 ## Barry's Tickets - Privacy Policy
 
-Member Information and Registration To use Barrystickets.com basic features you do not have to divulge any personal information. Some forms will contain optional questions, which help us improve the usefulness of this site. Required fields will always be clearly marked to distinguish them from optional fields.
+When using Barrystickets.com’s basic features, you do not have to divulge any personal information. Some forms will contain optional questions, which help us improve the usefulness of this site. Required fields will always be clearly marked to distinguish them from optional fields. 
 
-No individual personal information about you will be shared with anybody, without your permission, and will only be used by Barrystickets.com and its licensed partners. Some demographic information may be shared in aggregate form with reputable third parties for advertising purposes (i.e. delivering online ads or taking you to Web sites that best match your interests). Examples of giving permission are selecting the opt-in option on a registration form or taking part in a contest sponsored by a third party. 
+No individual personal information about you will be shared with anybody, without your permission, and will only be used by Barrystickets.com and its licensed partners for the purpose for which it was collected. If you choose to opt-in on a registration form, or take part in a contest sponsored by a third party, some demographic information may be shared in aggregate form with reputable third parties for advertising purposes (i.e. delivering online ads or taking you to Web sites that best match your interests). 
 
 In the event that Barrystickets.com is acquired by or merged with a third party, individual personal information may be transferred to the third party pursuant to such acquisition or merger. If an aquisition or merger does occur you will be notified via email and instructions for removing your registration information will be included in that email. 
 
