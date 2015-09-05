@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osnews.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629080547id_/http%3A//www.osnews.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osnews.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905055939id_/http%3A//www.osnews.com/docs/privacy) for the most accurate reproduction.*
 
 # OSNews is Exploring the Future of Computing
 
