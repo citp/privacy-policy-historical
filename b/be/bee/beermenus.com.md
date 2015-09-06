@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beermenus.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321094828id_/https%3A//www.beermenus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beermenus.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906130004id_/https%3A//www.beermenus.com/privacy) for the most accurate reproduction.*
 
 # BeerMenus Privacy Policy
 
@@ -36,7 +36,7 @@ All new menus and events are stored in our database, and may be archived elsewhe
 
   5. **Archiving and display of BeerMenus pages by search engines and other sites**
 
-Search engines and other sites not affiliated with BeerMenus - including archive.org and google.com, and groups.yahoo.com - archive or otherwise make available BeerMenus pages.
+Search engines and other sites not affiliated with BeerMenus - including archive.org and google.com - archive or otherwise make available BeerMenus pages.
 
   6. **Circumstances in which BeerMenus may release information**
 
@@ -46,9 +46,11 @@ BeerMenus may also disclose information about its users to law enforcement offic
 
 In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if BeerMenus, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
-International Users By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of BeerMenus we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data.
+  7. **International Users**
+
+By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of BeerMenus we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data.
+
+
+
 
 We welcome your feedback on this document. Email [support@beermenus.com](mailto:support@beermenus.com)
-
-
-
