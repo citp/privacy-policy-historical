@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelation.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314205457id_/http%3A//www.travelation.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelation.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907014124id_/http%3A//www.travelation.com/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Travelation.com Privacy Policy
 
