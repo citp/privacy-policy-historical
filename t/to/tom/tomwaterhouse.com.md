@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomwaterhouse.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627201248id_/https%3A//www.tomwaterhouse.com/betting/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomwaterhouse.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906093333id_/https%3A//www.tomwaterhouse.com/betting/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help
 
@@ -190,4 +190,6 @@ For further information about privacy issues in Australia, visit the Australian 
 
 If you have any further queries please contact us on 1800 928 374 or email us at [service@tomwaterhouse.com](mailto:service@tomwaterhouse.com).
 
-Last updated: 23 June 2015
+[Privacy Collection Notice](http://www.sportingbet.com.au/content/images/Privacy%20Collection%20Notice%20TW%2018062015%20\(3\).pdf) (PDF).
+
+Last updated: 17 July 2015
