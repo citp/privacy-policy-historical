@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datto.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627182249id_/http%3A//datto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datto.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906212003id_/http%3A//www.datto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Datto, Inc.
 
 Datto, Inc. (“Datto”) respects your privacy and is committed to protecting Personal Information that you provide to us. This statement explains our policies and practices regarding the use and disclosure of your Personal Information by Datto. By using the Datto website, you consent to the usage of your Personal Information by Datto as explained below.
 
