@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fundrazr.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317100843id_/https%3A//fundrazr.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundrazr.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906124811id_/https%3A//fundrazr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - FundRazr — FundRazr
+# Privacy policy - FundRazr
 
 _Revised on January 19, 2015_
 
@@ -14,7 +14,7 @@ We believe that you should have control over your information including how it i
 
 If you have questions about the Privacy Policy or would like to suggest improvements, please contact us at [privacy@connectionpoint.ca](mailto:privacy@connectionpoint.ca?Subject=Privacy%20Policy) or Privacy Department, ConnectionPoint Systems Inc, 200 – 171 Water St, Vancouver, BC, Canada, V6B 1A7.
 
-##### Information You Provide
+#### Information You Provide
 
 While using the Application, you may provide us with anonymous information, personal information and additional materials.
 
@@ -22,9 +22,9 @@ You provide us with anonymous information such as your IP address, areas of the 
 
 You provide us personal information if you register in the Application.
 
-You may also post information, opinions, text, sounds, photographs, audio, video, images, graphics, and other content or materials of any nature (collectively, “Materials”) to the Application. You have control of who sees this Material on Social Networks through your use of the privacy setting available in your Social Network accounts and the Promote features of the Application. 
+You may also post information, opinions, text, sounds, photographs, audio, video, images, graphics, and other content or materials of any nature (collectively, “Materials”) to the Application. You have control of who sees this Material on Social Networks through your use of the privacy setting available in your Social Network accounts and the Promote features of the Application.
 
-##### Use of the Information We Collect
+#### Use of the Information We Collect
 
 You are in control of sharing personal information that you provide to the Application, including by using the privacy settings of the Social Networks. If you choose to post Materials directly to public portions of the Application, including but not limited to the Summary, the Story, Story Updates, Comments, etc. obviously those Materials become publicly available and can be viewed by other users and anyone with the URL to your campaign, and may also show up in search engine results.
 
@@ -51,11 +51,11 @@ CPSI uses cookies for the following purposes:
 
 
 
-##### Use of Intercom Services
+#### Use of Intercom Services
 
 We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. (“Intercom”) and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. Intercom analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please look [here](http://docs.intercom.io/privacy). Intercom’s services are governed by Intercom’s terms of use which can be found [here](http://docs.intercom.io/terms). If you would like to opt out of having this information collected by or submitted to Intercom, please contact us.
 
-##### Sharing of Information
+#### Sharing of Information
 
 We share your personally identifiable information in four cases: (1) with your permission, (2) with our payment providers in special circumstances (3) as required by law, and (4) change of ownership, each as more fully described in the paragraphs below.
 
@@ -69,29 +69,29 @@ If the ownership of all or substantially all of CPSI’s business, or substantia
 
 Please remember that anyone who has access to your Social Network usernames and passwords may be able to access your personal information; therefore, we encourage you to keep your passwords secret to prevent any unwanted access.
 
-##### Deletions / Corrections / Updates
+#### Deletions / Corrections / Updates
 
 Prior to receiving a donation, you can delete your campaign on the Campaign tab of the Application. You can also edit your information to ensure that it is correct and up-to-date. You can revoke your permission for the Application to connect to your Social Network accounts at any time.
 
-##### Child Protection
+#### Child Protection
 
 CPSI is concerned about the safety and privacy of all its Users, particularly children. For this reason, and to be consistent with the payment provider user agreements of [PayPal](https://www.paypal.com/ca/cgi-bin/webscr?cmd=p/gen/ua/ua-outside) and [WePay](https://www.wepay.com/legal/terms-of-service), to use this Application, you must meet or exceed the minimum age requirement to register for a PayPal or WePay account. CPSI does not knowingly collect or solicit information from anyone under the minimum age requirement.
 
-##### Links to Other Websites
+#### Links to Other Websites
 
 The Application may contain links to other websites, including but not limited to businesses, nonprofits, PACs, and other organizations. CPSI is not responsible for the privacy practices or the content of other websites that may be linked to the Application.
 
-##### Agreement
+#### Agreement
 
 If you choose to use the Application, your use is subject to the current Terms of Service and Privacy Policy and you consent to our limited use of information as outlined in our Privacy Policy. We reserve the right to change this Privacy Policy from time to time. If we do make changes, we will indicate the date the changes were made at the top of our Privacy Policy. Non-material changes are effective upon posting. Material changes are effective 15 days after posting. Unless stated otherwise, our current Privacy Policy applies to all information in our possession.
 
-##### Security
+#### Security
 
-CPSI takes reasonable precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. We cannot control the actions of other users with whom you may choose to share your information. Even after removal, copies of Materials may remain viewable in cached and archived pages or if other users have copied or stored your Materials. If you have any questions about the security of the Application, please contact us at [privacy@connectionpoint.ca](mailto:privacy@connectionpoint.ca?Subject=Privacy%20Policy).
+CPSI takes reasonable precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. We cannot control the actions of other users with whom you may choose to share your information. Even after removal, copies of Materials may remain viewable in cached and archived pages or if other users have copied or stored your Materials. If you have any questions about the security of the Application, please contact us at [privacy@connectionpoint.ca](mailto:privacy@connectionpoint.ca?subject=Privacy%20Policy).
 
-##### Opting out of communications
+#### Opting out of communications
 
-You can choose to opt out of receiving emails from CPSI by clicking on the “unsubscribe” link in any such e-mail. Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective. Your unsubscribe change will be processed promptly, and in no event longer than 10 business days. Alternatively, you may email us at [privacy@connectionpoint.ca](mailto:privacy@connectionpoint.ca?Subject=Privacy%20Policy) or reach us at the following contact information:
+You can choose to opt out of receiving emails from CPSI by clicking on the “unsubscribe” link in any such e-mail. Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective. Your unsubscribe change will be processed promptly, and in no event longer than 10 business days. Alternatively, you may email us at [privacy@connectionpoint.ca](mailto:privacy@connectionpoint.ca?subject=Privacy%20Policy) or reach us at the following contact information:
 
 ConnectionPoint Systems Inc.,  
 200 – 171 Water St,  
