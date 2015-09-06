@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspirationalspark.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720155125id_/http%3A//www.inspirationalspark.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirationalspark.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906115716id_/http%3A//www.inspirationalspark.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Resources for Inspirational Spark Readers
 
@@ -12,12 +12,6 @@ InspirationalSpark.com does collect the first name and email address of newslett
 
 Please feel free to [write us](http://www.inspirationalspark.com/feedback.html) with any suggestions you may have for other sites, articles, etc.
 
-**Share this page:  **| | | |   
----|---|---|---|---  
-| | |   
-  
-Enjoy this page? Please pay it forward. Here's how...  
-  
 [](http://click.linksynergy.com/fs-bin/stat?id=EeYeroLa5f0&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fus%252Fapp%252Finspirational-spark-quotes%252Fid584931859%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30)
 
 ###### Follow Us!
