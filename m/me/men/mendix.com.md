@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317160211id_/http%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendix.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906223859id_/https%3A//www.mendix.com/privacy-policy) for the most accurate reproduction.*
 
 # Mendix Privacy Policy
-
-_Last updated September 14, 2012_
 
 Your privacy is important to us (“Mendix”). This Privacy Policy (the “Policy”) discloses our information practices, including our policies regarding the types of information that is gathered and tracked through our web sites and applications, descriptions of how such information is used, and identification of the parties with whom the information may be shared. This Policy will be applicable to the Mendix Web sites and applications (each, a “Mendix Site”).
 
@@ -62,4 +60,4 @@ We may change our business and the Mendix Site from time to time. As a result, a
 
 ### Access to Personal Information and Other Questions
 
-You will have the right to contact us to request information about the Personal Information we have collected from you and to request the correction, modification or deletion of such information. To make such a request and/or to pose any other questions regarding this Policy, please contact the Mendix Site webmaster via http://www.mendix.com. You may also correct, modify or delete inaccuracies by logging into your account and going to the account settings link on the site.
+You will have the right to contact us to request information about the Personal Information we have collected from you and to request the correction, modification or deletion of such information. To make such a request and/or to pose any other questions regarding this Policy, please contact the Mendix Site webmaster via https://www.mendix.com. You may also correct, modify or delete inaccuracies by logging into your account and going to the account settings link on the site.
