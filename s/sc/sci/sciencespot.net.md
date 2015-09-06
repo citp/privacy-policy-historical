@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sciencespot.net privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608000246id_/http%3A//sciencespot.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencespot.net privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906142538id_/http%3A//sciencespot.net/privacy.html) for the most accurate reproduction.*
 
 # The Science Spot
 
-(Last update: February 2015)
+(Last update: July 2015)
 
 ### What information do you gather? How is it used? Who has access to it?
 
@@ -16,8 +16,11 @@ _Note:   Users who may submit questions or comments through the site's Contact 
 
 To safeguard your personal information, we do not share information with any third party with the exception for advertisers as outlined below.
 
-Third party advertisers on our site, such as Hot Chalk Network and Google AdSense, may use cookies for tracking purposes. 
+Third party advertisers on our site, such as Sovrn, Hot Chalk Network/Mode, and Google AdSense, may use cookies for tracking purposes. 
 
 Google, as a third party vendor, uses cookies to serve ads. Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet. Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 For more information about opting out of Google AdSense cookies, please visit <http://www.google.com/privacy_ads.html>.
+
+**Notice Regarding Online Behavioral Advertising**  
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at [ http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit [ http://www.aboutads.info/choices](http://www.aboutads.info/choices).  
