@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the piazza.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317044418id_/https%3A//piazza.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piazza.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906041356id_/https%3A//piazza.com/legal/privacy) for the most accurate reproduction.*
 
-# Piazza • Privacy Policy
+# Piazza • Ask. Answer. Explore. Whenever.
 
 Piazza recognizes that your privacy is very important and take it seriously. This Privacy Policy describes Piazza's policies and procedures on the collection, use and disclosure of your information when you use the Piazza Service, via the Piazza website, your mobile phone, or through Piazza's applications for mobile devices (e.g., the Piazza iPhone application). We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/legal/terms).
 
@@ -8,7 +8,7 @@ Piazza recognizes that your privacy is very important and take it seriously. Thi
 
 Piazza uses information we collect to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track User Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws.
 
-#### User-Provided Information
+#### **User-Provided Information**
 
 When you register for a member account with the Service, you will provide us information about yourself, such as your name and email address. If you create a profile, certain member information, including without limitation your name, groups, school and any additional content that you submit on your profile will be displayed to other users at your school or in your groups to facilitate user interaction within our services.
 
@@ -24,7 +24,7 @@ Any content you upload to your profile, along with any personal information or c
 
 If you choose to opt-in to Piazza Careers and participate in the Piazza Careers program, you consent to share your profile information with companies that participate in Piazza Careers. These companies will have access to any information in your user profile, and will have the ability to communicate with you by sending you a private message. Participation in Piazza Careers is wholly optional and you may opt-out of the program at any time.
 
-#### Information Collected Automatically
+#### **Information Collected Automatically**
 
 When you use the Service, we use persistent and session cookies and other tracking technologies to: (a) store your username and password; (b) analyze the usage of the Service; (c) customize the Service to your preferences; and (d) enhance your navigation through the site. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
@@ -36,7 +36,7 @@ Piazza discloses a subset of this automatically collected information. Specifica
 
 ### How We Share Your Information
 
-#### Personally Identifiable Information
+#### **Personally Identifiable Information**
 
 We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. Piazza may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Piazza (for instance, on servers or databases co-located with hosting providers).
 
