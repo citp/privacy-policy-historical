@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628172916id_/https%3A//www.whitman.edu/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906080955id_/https%3A//www.whitman.edu/website-privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy| Whitman College
+# Website Privacy Policy | Whitman College
 
 ## Scope
 
