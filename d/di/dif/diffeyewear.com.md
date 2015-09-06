@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diffeyewear.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609032033id_/http%3A//diffeyewear.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diffeyewear.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906231350id_/http%3A//diffeyewear.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | DIFF Eyewear
 
@@ -72,4 +72,4 @@ The following includes a list of instances in which your personal information ma
 
 **Contact**
 
-If you have any questions regarding this privacy policy, please contact DIFF Eyewear at [sales@diffeyewear.com](https://web.archive.org/web/20150609032033id_/http%3A//diffeyewear.com/pages/sales@diffeyewear.com) or 15521 Broadway Center Street, Gardena CA, 90248.
+If you have any questions regarding this privacy policy, please contact DIFF Eyewear at [sales@diffeyewear.com](https://web.archive.org/web/20150906231350id_/http%3A//diffeyewear.com/pages/sales@diffeyewear.com) or 15521 Broadway Center Street, Gardena CA, 90248.
