@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballpools.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319023447id_/https%3A//www.footballpools.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballpools.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906123721id_/https%3A//www.footballpools.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Football Pools | Privacy Policy
 
