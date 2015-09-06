@@ -1,197 +1,110 @@
-> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629162509id_/http%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usertesting.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906071804id_/https%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.*
 
 # UserTesting Privacy Policy
 
-This privacy policy explains how UserTesting handles your information and data. We value your trust, so we’ve strived to present this policy in clear, plain language instead of legalese. The policy is structured so you can quickly find answers to the questions which interest you the most.
+## About UserTesting
 
-## If you create surveys:
+UserTesting, Inc. provides a platform and service (“ **UserTesting Services** ”) that allows UserTesting Clients (“ **Clients** ”) to conduct usability tests and testers (“ **Testers** ”) to perform and record tests.
 
-  * **Your survey data is owned by you.** Not only that, but UserTesting treats your surveys as if they were private. We don’t sell them to anyone and we don’t use the survey responses you collect for our own purposes, except in a limited set of circumstances (see our “Terms and Conditions”).
+UserTesting is a service provider for our Clients. This Privacy Policy explains the information practices and policies of UserTesting. It describes how we collect, use, and disclose information as consumers and Clients interact with UserTesting Services, including its corporate website.
 
-  * **We safeguard respondents’ email addresses.** To make it easier for you to invite people to take your private panel or moderated surveys via email, you may send us email addresses, in which case UserTesting acts as a mere custodian of that data. We don’t sell these email addresses and we use them only as directed by you and in accordance with this policy.
+**This Policy does not apply to the collection, use and disclosure of Tester information; Collection, use and disclosure practices for Testers are covered by the terms of the UserTesting Tester Agreement and Privacy FAQs for Testers.**
 
-  * **Survey data is stored on servers located in the United States.** UserTesting will process your survey data on your behalf and under your instructions (including the ones agreed to in this privacy policy).
+## Collection and Use of Client Information
 
+### Client Information
 
+UserTesting collects information about our Clients and consumers who visit the UserTesting website (“ **Visitors** ”). This information can include Personal Information (which means individually identifiable information that would allow us to determine the actual identity of, and contact, a specific living person), billing information, account settings and other data (“ **Client Data** ”).
 
+UserTesting collects this data in order to provide UserTesting Services to our Clients and does not disclose, sell or use Client Data for any purpose other than those outlined in this Policy or in the UserTesting Services Agreement.
 
-## Privacy for survey creators
+UserTesting acts as a limited agent (and as a data processor in the EU context) to each Client only for the purpose of providing UserTesting Services. UserTesting does not use Client Data for our own purposes, except in limited circumstances described in this Policy, or unless we have express consent. UserTesting does not sell Client Data to third parties. UserTesting collects, uses and discloses Client Data to:
 
-### 1\. What information does UserTesting collect?
+  * Provide our Services
 
-When you use UserTesting, we collect information relating to you and your use of our services from a variety of sources. These are listed below. The sections afterward describe what we do with this information.
+  * Manage our Services
 
-Information we collect directly from you:
+  * Monitor and Improve our Services and Features
 
-  * **Registration information.** You need a UserTesting account before you can create surveys on UserTesting. When you register for an account, we collect your username, password and email address.
+  * Create New Services, Features or Content
 
-  * **Billing information.** If you make a payment to UserTesting, we require you to provide your billing details, such as a name, address, email address and financial information corresponding to your selected method of payment (e.g. a credit card number and expiration date or a bank account number). If you provide a billing address, we will regard that as the location of the account holder.
+  * Contact Clients about Service or Account
 
-  * **Account settings.** You can set various preferences and personal details on pages like your account settings page. For example, your email, password and other account settings.
+  * Contact Clients for Marketing Purposes
 
-  * **Survey data.** We store your survey data (videos, questions, and responses) for you.
+  * Respond to Legal Requests
 
-  * **Other data you intentionally share.** We may collect your personal information or data if you submit it to us in other contexts. For example, if you provide us with a testimonial, or participate in a UserTesting contest.
 
 
 
+### Public Data and Metadata
 
-**We safeguard your respondents’ email addresses.** Rest assured, UserTesting will not email your private panel survey respondents except at your direction. We definitely don’t sell those email addresses to any third parties.
+UserTesting may anonymize Client survey metadata to create and provide new services, features, or content. Neither individual Clients nor Testers will be identified or identifiable unless UserTesting obtains Client or Tester permission.
 
-Information we collect about you from other sources:
+### Usage and Device Data
 
-  * **Usage data.** We collect usage data about you whenever you interact with our services. This may include which webpages you visit, what you click on, when you performed those actions, and so on. Additionally, like most websites today, our web servers keep log files that record data each time a device accesses those servers. The log files contain data about the nature of each access, including originating IP addresses.
+UserTesting collects usage data about Visitors to our website, including pageviews, clicks, and log files containing originating IP addresses. In addition, UserTesting collects data from the device and applications used to access our Services including IP address and browser type.
 
-  * **Device data.** We collect data from the device and application you use to access our services, such as your IP address and browser type. We may also infer your geographic location based on your IP address.
+### Referral Data
 
-  * **Referral data.** If you arrive at a UserTesting website from an external source (such as a link on another website or in an email), we record information about the source that referred you to us.
+UserTesting records if a Visitor arrives at UserTesting website from an external source (such as a link on another website or in an email).
 
-  * **Information from third parties.** We may collect your personal information or data from third parties if you give permission to those third parties to share your information with us.
+### Information from Third Parties
 
-  * **Information from page tags.** We use tracking services that employ cookies and page tags (also known as [web beacons](http://en.wikipedia.org/wiki/Web_bug)) to collect aggregated and anonymized data about visitors to our websites. This data includes usage and user statistics.
+UserTesting collects Personal Information or other data from third parties, if Clients give permission to those third parties to share your information with us.
 
+### Cookies
 
+UserTesting uses cookies and page tags on our websites. Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. Some cookies will remain on a computer’s hard drive until they are deleted manually using browser or operating system software.
 
+Visitors have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but individuals can usually modify browser settings to decline cookies. More information about disabling cookies is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Choosing to decline cookies may result in decreased function on UserTesting websites.
 
-### 2\. How does UserTesting use the information we collect?
+## Processing of EU Data
 
-**We treat your survey questions and responses as information that is private to you.** We know that, in many cases, you want to keep your survey questions and responses (which we collectively refer to as “survey data”) private. Unless you decide to share your survey questions and/or responses with the public, we do not use your survey data for our own purposes, except in the limited circumstances described in this privacy policy, our terms and conditions, or we have your express consent. We do not sell your survey data to third parties.
+UserTesting provides some of its services to Clients in the EU.
 
-Generally, we use the information we collect from you in connection with providing our services to you and, on your behalf, to your survey respondents. For example, specific ways we use this information are listed below. (See the next section of this privacy policy to see who we share your information with.)
+By accessing the Services and voluntarily providing UserTesting with Personal Information, you consent to the collection and use of the information in accordance with the Privacy Policy including transfers from the European Economic Area (EEA) to the United States. Individuals who do not consent to the collection, use, or disclosure of their personal information as outlined in this policy should not provide any personal information to UserTesting. If an individual has provided Personal Information to UserTesting and no longer consents to its use or disclosure as outlined here, then the individual should contact UserTesting at [support@usertesting.com](mailto:support@usertesting.com).
 
-  * **To provide you with our services.** This includes providing you with customer support, which requires us to access your information to assist you (such as with survey design and creation or technical troubleshooting).
+## Data Integrity
 
-  * **To manage our services.** We internally use your information, including certain survey data, for the following limited purposes:
+UserTesting will use Personal Information only in ways compatible with the purposes for which it was collected or authorized by our Clients, or as requested in connection with Tester requests.
 
-    * **To monitor and improve our services and features.** We internally perform statistical and other analysis on information we collect (including usage data, device data, referral data, and information from page tags) to analyze and measure user behavior and trends, to understand how people use our services, and to monitor, troubleshoot and improve our services. However, we do not use the non-public content of surveys (i.e. the content of questions and responses that you have not publicly shared) for these purposes.
+## Information Retention
 
-    * To assist the enforcement of our Terms and Conditions.
+Our Clients limit UserTesting’s collection, use and disclosure of their customers’ information through the UserTesting Services. We keep information we need to provide our services to our Clients as long as we have a valid business purpose, in accordance with applicable law and our Service and/or Tester Agreements.
 
-    * To prevent potentially illegal activities.
+## Access/Correction
 
-  * **To create new services, features or content (public data and metadata only).** We may use anonymized survey metadata (that is, data about the characteristics of a survey but not its non-public content), to create and provide new services, features or content. For example, we may look at statistics like response rates, features used, and the average number of surveys per month and publish interesting observations about these for informational or marketing purposes. When we do this, neither individual survey creators nor survey respondents will be identified or identifiable unless we have obtained their permission.
+In most cases, our collection of Personal information is related to our Clients and Testers and collected under the terms of our Service Agreement and Tester Agreement, respectively.
 
-  * **To contact you about your service or account.** We occasionally send you communications of a transactional nature (e.g. service-related announcements, billing-related matters, changes to our services or policies, a welcome email when you first register). You can’t opt out of these communications since they are required to provide our services to you.
+Individuals that wish to request access to, correction, or deletion of Personal Information they submitted to the UserTesting corporate website should contact UserTesting at [support@usertesting.com](mailto:support@usertesting.com).
 
-  * **To contact you for marketing purposes (if you opt in).** We will only do this periodically and you may opt out at any time by contacting customer support.
+## Oversight/Enforcement
 
-  * **To respond to legal requests and prevent harm.** If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
+UserTesting has a privacy officer (“ **Privacy Officer** ”) who is responsible for UserTesting’s compliance with and enforcement of this Privacy Policy. The Privacy Officer is available to any of its employees, Clients, Testers, business partners, vendors or others who may have questions concerning this Privacy Policy or UserTesting’s data security practices. UserTesting’s Privacy Officer may be contacted at: [privacy@usertesting.com](mailto:privacy@usertesting.com).
 
+## Security
 
+No data transmissions over the Internet can be guaranteed to be 100% secure. UserTesting cannot ensure or warrant the security of any information transmitted to UserTesting. All transmissions of information are done at the senders own risk. Once UserTesting is in possession of any information, UserTesting will make reasonable efforts to ensure the security of its systems.
 
+UserTesting has adopted physical, technological, and administrative procedures to safeguard and secure the information we process.
 
-### 3\. With whom do we share or disclose your information?
+By using this website or providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this website.
 
-**We don’t sell your survey data!**
+## Safe Harbor
 
-**When might we disclose your survey data to third parties?** Only for a limited number of reasons. Most commonly, we share your information with our service providers who help us to provide our services to you. We contractually bind these service providers to keep your information confidential and to use it only for the purpose of providing their services to us. For example, we use payment processors who help us to process credit card transactions. By using our services, you authorize UserTesting to sub-contract in this manner on your behalf.
+UserTesting complies with the U.S.-EU and US-Swiss Safe Harbor framework for the collection, use and retention of personal information from the European Union member countries and Switzerland, as set out by the U.S. Department of Commerce. UserTesting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view UserTesting’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-Rare circumstances include when we need to share information if required by law, or in a corporate restructuring or acquisition context (see below for more details).
+As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through JAMS ADR. For more information and to contact JAMS ADR directly, visit [www.jamsadr.com](http://www.jamsadr.com/).
 
-**Sharing your surveys with the public.** After you create a survey it is released to our tester pool to perform the survey. You may have the test cancelled at any time by contacting customer support.
+## Changes and Updates
 
-We recognize that you have entrusted us with safeguarding the privacy of your information. Because that trust is very important to us, the only time we will disclose or share your personal information or survey data with a third party is when we have done one of three things, in accordance with applicable law: (a) given you notice, such as in this privacy policy; (b) obtained your express consent, such as through an opt-in checkbox; or (c) anonymized the information so that individuals cannot be identified by it. Where required by law, we will obtain your express consent prior to disclosing or sharing any personal information.
+UserTesting will maintain Personal Information in accordance with this Privacy Policy. If UserTesting decides to change this Privacy Policy, UserTesting will post the changes on this page so that Clients, Testers and Visitors are aware of our practices. If at any point UserTesting decides to retain or use Personal Information in a different manner, UserTesting will notify its Clients or Testers using methods set out by the terms of its Services Agreement or Tester Agreement.
 
-We may disclose:
+## Contacting UserTesting
 
-  * **Your information to our service providers.** We use service providers who help us to provide you with our services. We give relevant persons working for some of these providers access to your information, but only to the extent necessary for them to perform their services for us. We also implement reasonable contractual and technical protections to ensure the confidentiality of your personal information and data is maintained, used only for the provision of their services to us, and handled in accordance with this privacy policy. Examples of service providers include payment processors, email service providers, and web traffic analytics tools.
+If you have questions, comments, or concerns about UserTesting or this Privacy Policy, please email us at: [support@usertesting.com](mailto:%20support@usertesting.com)
 
-  * **Your account details to your billing contact.** If your details (as the account holder) are different to the billing contact listed for your account, we may disclose your identity and account details to the billing contact upon their request (we also will usually attempt to notify you of such requests). By using our services and agreeing to this privacy policy, you consent to this disclosure.
+User Testing, Inc. 2672 Bayshore Parkway, Suite 703  Mountain View, CA 94043 _Attn: Legal Department_
 
-  * **Aggregated information to third parties to improve or promote our services.** No individuals can be identified or linked to any part of the information we share with third parties to improve or promote our services.
-
-  * **The presence of a cookie to advertise our services.** We may ask advertisers to display ads promoting our services on other websites. We may ask them to deliver those ads based on the presence of a cookie but in doing so will not share any other information with the advertiser. Our advertising network partners may use cookies and page tags or web beacons to collect certain non-personal information about your activities on this and other websites to provide you with targeted advertising based upon your interests.
-
-  * **Your information if required or permitted by law.** We may disclose your information as required or permitted by law, or when we believe that disclosure is necessary to protect our rights, and/or to comply with a judicial proceeding, court order, subpoena, or other legal process served on us.
-
-  * **Your information if there’s a change in business ownership or structure.** If ownership of all or substantially all of our business changes, or we undertake a corporate reorganization (including a merger or consolidation) or any other action or transfer between UserTesting entities, you expressly consent to UserTesting transferring your information to the new owner or successor entity so that we can continue providing our services. If required, UserTesting will notify the applicable data protection agency in each jurisdiction of such a transfer in accordance with the notification procedures under applicable data protection laws.
-
-  * **Information you expressly consent to be shared.** For example, we may expressly request your permission to provide your contact details to third parties for various purposes, including to allow those third parties to contact you for marketing purposes. (You may later revoke your permission, but if you wish to stop receiving communications from a third party to which we provided your information with your permission, you will need to contact that third party directly.)
-
-
-
-
-### 4\. What are your rights to your information?
-
-You can:
-
-  * **Update your account details.** You can update your registration and other account information on your dashboard. Information is updated immediately.
-
-  * **Download/backup your survey data.** We provide you with the ability to export, share and publish your survey data in a variety of formats. This allows you to create your own backups or conduct offline data analysis.
-
-  * **Delete your survey data.** To the extent permitted by law, we will permanently delete your data if you request to cancel your account.
-
-  * **Cancel your account.** To cancel and delete your account, please contact customer support. Deleting your account will cause all the survey data in the account to be permanently deleted, as permitted by law, and will disable your access to any other services that require a UserTesting account. We will respond to any such request, and any appropriate request to access, correct, update or delete your personal information within the time period specified by law (if applicable) or without excessive delay. We will promptly fulfill requests to delete personal data unless the request is not technically feasible or such data is required to be retained by law (in which case we will block access to such data, if required by law).
-
-  * **For how long do we retain your data?** We generally retain your data for as long as you have an account with us, or to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-
-
-
-### 5\. Security, cookies and other important information
-
-**Changes to this privacy policy.** We may modify this privacy policy at any time, but if we do so, we will notify you by publishing the changes on this website. If we determine the changes are material, we will provide you with additional, prominent notice as is appropriate under the circumstances.
-
-For any changes to this privacy policy for which you are required to provide prior consent, we will provide you with reasonable notice of such changes before they become effective and provide you with the opportunity to consent to those changes. If you do not cancel your subscription and continue to use our services beyond the advance-notice period, you will be considered as having expressly consented to the changes in our privacy policy. If you disagree with the terms of this privacy policy or any updated privacy policy, you may close your account at any time.
-
-  * **Security.** UserTesting has a sophisticated security program intended to keep the information stored in our system protected from unauthorized access. We store your information in a secure data center located in the United States. Our system is configured with data encryption, or scrambling technologies and firewalls constructed to the highest industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. The bottom line is, when it comes to information security, we mean business.
-
-  * **Cookies.** We use cookies on our websites. Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. We use cookies for several reasons:
-
-    * **To make our site easier to use.** We may store your username in a cookie to make it quicker for you to sign in whenever you return to UserTesting.
-
-    * **For security reasons.** We use cookies to authenticate your identity, such as confirming whether you are currently logged into UserTesting.
-
-    * **To provide you with personalized content.** We may store user preferences, such as your default language, in cookies to personalize the content you see. We also use cookies to ensure that users can’t retake certain surveys that they have already completed.
-
-    * **To improve our services.** We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users.
-
-
-
-
-You can enable your browser to refuse cookies, but doing so may disable access to our services. Refer to your [web browser’s configuration documentation](http://www.aboutcookies.org/Default.aspx?page=1) to learn how to do this. Enabling cookies ensures a smoother experience when using our websites. By using our websites and agreeing to this privacy policy, you expressly consent to the use of cookies as described in this policy.
-
-  * **Blogs and Forums.** Our website offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site. To request removal of your personal information from our blog or community forum, contact us at [support@usertesting.com](mailto:support@usertesting.com). In some cases, we may not be able to fulfill your request and we will let you know why.
-
-  * **Social Media Features.** Our websites may include social media features or widgets, such as the Facebook Like button. Use of these features may allow them to collect your IP address, detect which page you are visiting on our site, and set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the third party providing it.
-
-  * **Safety of Children and COPPA.** Our services are not intended for and may not be used by those under the age of 13. UserTesting.com does not knowingly collect personal data from minors under 13 or allow them to register. If it comes to our attention that we have collected personal data from a minor under 13, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us at [support@usertesting.com](mailto:support@usertesting.com).
-
-
-
-
-### 6\. Additional Information for European Union users
-
-UserTesting provides some of its services to users in the EU.
-
-  * **“Personal data”.** For users located in the EU, references to “personal information” in this policy are equivalent to what is commonly referred to as “personal data” in the EU.
-
-  * **Accessing and correcting your personal data.** You have the right to access and correct the personal information that Usertesting holds about you. This right may be exercised by emailing [support@usertesting.com](mailto:support@usertesting.com).
-
-
-
-
-**About IP addresses.** Our servers record the incoming IP addresses of visitors to our websites (whether or not the visitor has a Usertesting account) and store the IP addresses in log files. We use these log files for purposes such as system administration and maintenance, record keeping, tracking referring web sites, inferring your location, and security purposes (e.g. controlling abuse, spam and DDOS attacks). We also store IP addresses along with certain actions you take on our system. By agreeing to this privacy policy, you expressly consent to Usertesting using your IP address for the foregoing purposes. If you wish to opt out from the foregoing consent to use your IP address, you must cancel your account (if you have one).
-
-### Consent
-
-**By clicking “I Agree” or any other button indicating your acceptance of this privacy policy, you expressly consent to the following:**
-
-  * You consent to the collection, use, disclosure and processing of your personal data in the manner described in this privacy policy, including our procedures relating to **cookies, IP addresses and log files.**
-
-  * Our servers are based in the United States, so your personal data will be primarily processed by us in the United States. You consent to the transfer and processing of your personal data in the United States
-
-  * You consent and agree that we may transfer your data to data processors located in countries, including the United States, which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area. Your consent is voluntary, and you may revoke your consent by opting out at any time. Please note that if you opt-out, we may no longer be able to provide you our services.
-
-  * You consent to us sharing your personal data with relevant persons working for service providers who assist us to provide our services.
-
-  * If you have enabled cookies on your web browser, you consent to our use of cookies as described in this privacy policy.
-
-
-
-
-If you have any questions about our privacy policy, please contact us at [support@usertesting.com](mailto:support@usertesting.com).
-
-UserTesting 2672 Bayshore Parkway, Suite #703  Mountain View, CA 94043 USA
-
-Last Updated: Jul. 11, 2014
+Last Updated: Jul. 16, 2015
