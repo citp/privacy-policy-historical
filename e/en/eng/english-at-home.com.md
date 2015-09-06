@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the english-at-home.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316124300id_/http%3A//www.english-at-home.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-at-home.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906030441id_/http%3A//www.english-at-home.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,3 +21,6 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 Please share this page :-)  
 360
+
+  
+
