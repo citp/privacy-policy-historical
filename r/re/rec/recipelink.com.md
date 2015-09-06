@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001957id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906065919id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
 
 # Recipelink.com Privacy Policy
 
@@ -154,34 +154,34 @@ We caution you not to disclose e-mail addresses or personal information about yo
 
 Latest Recipes Posted
 
-  * [Garlic Onion Muffins (using diced cream cheese, mini muffin variation)](https://web.archive.org/msgbrd/board_31/2015/MAR/57784.html)
-  * [Irish Coffee Muffins (using coffee liqueur and Irish whiskey)](https://web.archive.org/msgbrd/board_31/2015/MAR/57783.html)
-  * [Giant Overnight Cinnamon Rolls (using hot roll mix, 13x9-inch pan)](https://web.archive.org/msgbrd/board_31/2015/MAR/57782.html)
-  * [Grands Buffalo Chicken Sandwiches (using biscuits for buns)](https://web.archive.org/msgbrd/board_31/2015/MAR/57781.html)
-  * [Weekend Baking Recipes - 03-14-15 Daily Recipe Swap](https://web.archive.org/msgbrd/board_31/2015/MAR/57780.html)
-  * [Grady's American Grill Grilled Chicken Pasta](https://web.archive.org/msgbrd/board_14/2015/MAR/38549.html)
-  * [Quick Swiss Chard Saute (with garlic, soy sauce and sesame seed)](https://web.archive.org/msgbrd/board_31/2015/MAR/57778.html)
-  * [Spicy Cheddar Crustless Quiche (using green onion and crushed red pepper)](https://web.archive.org/msgbrd/board_31/2015/MAR/57777.html)
-  * [Quick Lemon Chicken Pasta (with broccoli)](https://web.archive.org/msgbrd/board_31/2015/MAR/57776.html)
-  * [Letter Q Recipes - 03-13-15 Daily Recipe Swap](https://web.archive.org/msgbrd/board_31/2015/MAR/57775.html)
-  * [Winter Mushroom Soup (with barley, carrots, parsnips and potatoes)](https://web.archive.org/msgbrd/board_31/2015/MAR/57774.html)
-  * [Madam Russell Baked Beans (using molasses, brown sugar and salt pork)](https://web.archive.org/msgbrd/board_31/2015/MAR/57773.html)
-  * [Roasted Red Pepper Soup (with red onion, garlic and tomatoes, blender)](https://web.archive.org/msgbrd/board_31/2015/MAR/57772.html)
-  * [Quadruple Four In One Cookies (toffee squares, praline squares, raspberry jam squares, apricot fudge bars) - repost](https://web.archive.org/msgbrd/board_3/2015/MAR/13028.html)
-  * [Whole Wheat Raspberry Ricotta Scones (freeze ahead)](https://web.archive.org/msgbrd/board_31/2015/MAR/57771.html)
-  * [Chi-Chi's Quick Black Bean Soup (using picante sauce and bacon)](https://web.archive.org/msgbrd/board_31/2015/MAR/57770.html)
-  * [Any Recipe Can Happen Thursday! - 03-12-15 Daily Recipe Swap](https://web.archive.org/msgbrd/board_31/2015/MAR/57769.html)
-  * [Jalapeno Apple Glazed Chicken Breasts (using apple jelly)](https://web.archive.org/msgbrd/board_31/2015/MAR/57768.html)
-  * [Asian Vegetable Rice with Sesame and Almonds](https://web.archive.org/msgbrd/board_31/2015/MAR/57767.html)
-  * [Pepper Bean Salad with Lime-Cilantro Dressing](https://web.archive.org/msgbrd/board_31/2015/MAR/57766.html)
+  * [Dilly Tuna-Zucchini Patties (or salmon patties, broiled)](https://web.archive.org/msgbrd/board_31/2015/SEP/58576.html)
+  * [Calabacitas (squash, corn, chiles and cheese, baked)](https://web.archive.org/msgbrd/board_3/2015/SEP/13043.html)
+  * [Zucchini Parmesan (serves 2)](https://web.archive.org/msgbrd/board_16/2015/SEP/1636.html)
+  * [Baked Zucchini Casserole (using ground beef, peppers and onions)](https://web.archive.org/msgbrd/board_31/2015/SEP/58575.html)
+  * [Vegetable Garden Loaf (no meat, using zucchini, carrots, oats, and cheese)](https://web.archive.org/msgbrd/board_6/2015/SEP/2745.html)
+  * [Fruited Perfection Salad (using Jell-O, pineapple, cabbage and nuts)](https://web.archive.org/msgbrd/board_1/2015/SEP/11272.html)
+  * [Tequila Lime Ice with Shrimp (Sunset magazine, 1980's)](https://web.archive.org/msgbrd/board_1/2015/SEP/11271.html)
+  * [Shrimp Cocktail Mazatlan-Style (1980's)](https://web.archive.org/msgbrd/board_1/2015/SEP/11270.html)
+  * [Ceviche (LA Times, 1980's)](https://web.archive.org/msgbrd/board_1/2015/SEP/11269.html)
+  * [Shrimp Salad Guadalajara with Jalapeno Dressing (with onion, peppers, tomatoes and olives)](https://web.archive.org/msgbrd/board_39/2015/SEP/1285.html)
+  * [Mandarin Barbecued Pork (marinated and roasted, coated with warm honey)](https://web.archive.org/msgbrd/board_31/2015/SEP/58574.html)
+  * [Classic Diner Reuben Sandwiches (grilled)](https://web.archive.org/msgbrd/board_23/2015/SEP/741.html)
+  * [Classic Sweet and Sour Meatballs (using pineapple and bell pepper, 1980's)](https://web.archive.org/msgbrd/board_1/2015/SEP/11268.html)
+  * [Gingerbread People Cookies (using honey, Arrowhead Mills recipe)](https://web.archive.org/msgbrd/board_2/2015/SEP/26622.html)
+  * [Corn Cups for Chili (mini-size, using cornmeal and cream cheese)](https://web.archive.org/msgbrd/board_31/2015/SEP/58573.html)
+  * [Dinah Shore's Cioppino (make ahead, 1970's)](https://web.archive.org/msgbrd/board_1/2015/SEP/11267.html)
+  * [Mussel, Shrimp and Roasted Red Pepper Paella](https://web.archive.org/msgbrd/board_31/2015/SEP/58571.html)
+  * [Easy Chocolate Delight Pie (using cream cheese, freeze ahead)](https://web.archive.org/msgbrd/board_31/2015/SEP/58572.html)
+  * [The Ultimate Bran Muffins with Variations](https://web.archive.org/msgbrd/board_2/2015/SEP/26621.html)
+  * [Turtle Pecan Pie with Chocolate Crust (using ice cream, no bake)](https://web.archive.org/msgbrd/board_31/2015/SEP/58570.html)
 
 
 
 What's Cooking
 
-  * [](https://web.archive.org/msgbrd/board_2/2007/NOV/21771.html)
-  * [Almond Fig Bars](https://web.archive.org/msgbrd/board_2/2007/NOV/21771.html)
-  * Using whole wheat flour and applesauce. - From: AICR
+  * [](https://web.archive.org/msgbrd/board_31/2015/JAN/57556.html)
+  * [Can-Do Veggie Burger Chili](https://web.archive.org/msgbrd/board_31/2015/JAN/57556.html)
+  * "A can of this and a can of that, combined with crumbled veggie burgers, make this easy chili a favorite with college students." - From: The Vegetarian Chili Cookbook
 
 
 
