@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plastiq.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084234id_/https%3A//www.plastiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plastiq.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906054521id_/https%3A//www.plastiq.com/privacy) for the most accurate reproduction.*
 
-# Plastiq | Privacy Policy
+# Pay for tuition, taxes, utilities and more with credit card
 
 ## Welcome to Plastiq
 
@@ -12,7 +12,7 @@ This Privacy Policy was last updated on March 12, 2013
 
 By using the Website or our Services you consent to the use of your Personal Data as described in this Policy. By using the Services, you are accepting the practices described in this Policy. If you do not agree with this Policy, you do not have Plastiq's permission to use our Website and/or Platform. Except as set forth in this Policy, your Personal Data will not be used for any other purpose without your consent. You may withdraw your consent to our processing of your Personal Data at any time. However, withdrawing consent may result in your inability to continue using certain features of the Website and/or the Services. Your continued use of our Website or Platform signifies your acceptance of this Policy.
 
-This Privacy Policy will answer the following questions: 
+### This Privacy Policy will answer the following questions:
 
   * What does this Policy apply to?
   * What information does Plastiq collect?
@@ -26,7 +26,7 @@ This Privacy Policy will answer the following questions:
 
 If this Policy raises any further privacy questions, comments, or suggestions or if you wish to request a copy of the Personal Data we hold about you, we encourage you to reach out to us at privacy@plastiq.com. Our policies will continually adjust to the exciting and ever-changing landscape of credit card payments and will be informed by the valuable feedback of our visitors and users.
 
-Please also review the [Terms of Service](https://web.archive.org/tos) which governs your use of our Services. Capitalized terms in this Policy not otherwise defined herein have the same meanings as the definitions of those terms in the User Agreement.
+Please also review the [Terms of Service](https://web.archive.org/terms) which governs your use of our Services. Capitalized terms in this Policy not otherwise defined herein have the same meanings as the definitions of those terms in the User Agreement.
 
 ### A note for children under 13 years old.
 
@@ -54,12 +54,12 @@ This Website may contain links to other websites not operated or controlled by P
 
 The term "Personal Data", as used in this Policy, refers to any information that can be used to identify a specific person, and/or that is linked to a specific identified person. Personal Data does not include information that has been aggregated or made anonymous such that it can no longer identify a specific person.
 
-Plastiq will specifically collect the following Personal Data and other non-identifiable information: 
+Plastiq will specifically collect the following Personal Data and other non-identifiable information:
 
-  * **Registration Information:** We collect Personal Information from you, such as your contact and payment information, when you register for and use our Services.
-  * **Transaction Information:** When you use our Platform to make or accept payments, we collect information about when the transactions occurred, a description of the transactions, the payment amounts, and the merchant you designated to receive the payment.
-  * **Device Information:** We collect device-specific information when you access our Platform, including your hardware model, operating system and version, unique device identifiers, mobile network information, and information about the device's interaction with our Platform. We may also identify other software running on the device (but will not collect any content from such software) for anti-fraud and malware-prevention purposes.
-  * **Use Information:** We collect information about how you use our Platform, including your access times, browser types and language, and Internet Protocol ("IP") addresses.
+  *  **Registration Information:** We collect Personal Information from you, such as your contact and payment information, when you register for and use our Services.
+  *  **Transaction Information:** When you use our Platform to make or accept payments, we collect information about when the transactions occurred, a description of the transactions, the payment amounts, and the merchant you designated to receive the payment.
+  *  **Device Information:** We collect device-specific information when you access our Platform, including your hardware model, operating system and version, unique device identifiers, mobile network information, and information about the device's interaction with our Platform. We may also identify other software running on the device (but will not collect any content from such software) for anti-fraud and malware-prevention purposes.
+  *  **Use Information:** We collect information about how you use our Platform, including your access times, browser types and language, and Internet Protocol ("IP") addresses.
 
 
 
@@ -97,7 +97,7 @@ We may disclose your Personal Data to law enforcement, government officials, reg
 
 In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
 
-From time to time we may employ third parties to help us improve the Website and/or the Services. These third parties may have limited access to databases of user information solely for the purpose of helping us to improve the Website and/or the Services. 
+From time to time we may employ third parties to help us improve the Website and/or the Services. These third parties may have limited access to databases of user information solely for the purpose of helping us to improve the Website and/or the Services.
 
 ## How does Plastiq secure Personal Data?
 
