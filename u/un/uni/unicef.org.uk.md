@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411011203id_/http%3A//www.unicef.org.uk/About-us/Notices/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906132624id_/http%3A//www.unicef.org.uk/About-us/Notices/Privacy-statement) for the most accurate reproduction.*
 
 # Cookies and privacy | Unicef UK
 
@@ -79,7 +79,7 @@ We do agree from time to time with other like-minded organisations to contact ea
 
 When submitting your personal information, you will be given the option not to be included in mailings or other contacts from Unicef or other organisations. If you don’t object to us sending you this information, and later decide that you no longer wish to be contacted, you can let us know by emailing: [supportercare@unicef.org.uk](mailto:helpdesk@unicef.org.uk).
 
-Alternatively, you can let us know your comminications preferences by [completing this preferences form](http://www.unicef.org.uk/preferences). 
+Alternatively, you can let us know your comminications preferences by [completing this preferences form](https://www.unicef.org.uk/asp/regions/events/application_new/?event=24F5282C-FFAC-4424-96C2-047BFA40ECCD). 
 
 If we contact you by email, each time you receive a message you will also have the option to decline to receive further information from us.      
 
