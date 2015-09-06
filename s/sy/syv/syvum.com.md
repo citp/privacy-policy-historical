@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504000048id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syvum.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906110548id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Syvum Privacy Policy
 
