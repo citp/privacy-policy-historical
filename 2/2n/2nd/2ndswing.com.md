@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2ndswing.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516080659id_/http%3A//www.2ndswing.com/t-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ndswing.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906175700id_/http%3A//www.2ndswing.com/t-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
