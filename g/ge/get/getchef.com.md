@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getchef.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319225729id_/https%3A//www.chef.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getchef.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906065558id_/https%3A//www.chef.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chef
 
@@ -94,9 +94,15 @@ We may also disclose your Personal Information:
 
         Our Sites are not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Sites. We do not knowingly collect Personal Information from children under 13. If you are under 13, do not use or provide any information on the Sites or on or through any of its features, make any purchases through the Sites, use any of the interactive or public comment features of this Sites or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [legal@chef.io](mailto:legal@chef.io).
 
+#### _SAFE HARBOR COMPLIANCE_
+
+        Chef complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Chef has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+
+        To learn more about the Safe Harbor program, and to view Chef’s certification, please visit <http://www.export.gov/safeharbor/>.
+
 #### _CHANGES TO OUR PRIVACY POLICY_
 
-        It is our policy to post any changes we make to our privacy policy on this page [with a notice that the privacy policy has been updated on the Sites home page]. If we make material changes to how we treat our users' Personal Information, we will notify you [by e-mail to the [primary] e-mail address specified in your account [ [and/or] through a notice on the Sites home page]]. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Sites and this privacy policy to check for any changes.
+        It is our policy to post any changes we make to our privacy policy on this. If we make material changes to how we treat our users' Personal Information, we will notify you by e-mail to the primary e-mail address specified in your account and/or through a notice on the Site’s home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Sites and this privacy policy to check for any changes.
 
 #### _CONTACT INFORMATION_
 
