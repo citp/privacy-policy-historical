@@ -1,0 +1,75 @@
+> *The following text is extracted and transformed from the protonmail.ch privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906132153id_/https%3A//protonmail.ch/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | ProtonMail
+
+In the following policy, ProtonMail refers to the service offered by Proton Technologies AG through the protonmail.ch website.
+
+By visiting protonmail.ch and using the services provided here, you consent to the use of information as outlined in this privacy policy.
+
+### Laws and Regulations
+
+Our company is based entirely in Switzerland and has no foreign subsidiaries or parent companies so we operate solely under the laws and regulations of the Swiss Confederation.
+
+Under Swiss law, the technical means for lawful interceptions of customer communications is governed by the Swiss Federal Act on the Surveillance of Postal and Telecommunications Traffic (SPTT) last amended in 2012. In the SPTT, the obligation to provide the technical means for lawful interception is imposed only on Internet access providers so ProtonMail, as a mere Internet application provider is entirely exempt from the SPTT’s scope of application. Thus, due to our entirely Swiss domicile, ProtonMail is not required to, and cannot be compelled, to build in the technical means to intercept customer communications.
+
+### Email Policy
+
+Any emails provided to ProtonMail through either our waiting list or enabling the notification email setting in your account are considered privileged information under the protection of the Swiss Federal Data Protection Act (DPA). Your email will never be sold or shared with any third parties.
+
+Furthermore, if you disable notifications on your account, your email is permanently removed from our system.
+
+Your email address will only be used to contact you with news and updates regarding ProtonMail beta, and to send you an invitation link when your ProtonMail account can be created.
+
+### Data Collection
+
+Our company’s overriding policy is to collect as little user information as possible to ensure a completely private and anonymous user experience. 
+
+During the course of our public BETA, some additional data collection will be in place to ensure we have enough information to do debugging and security testing. Data collection that will occur only during the ProtonMail BETA phase begin with the label [BETA ONLY].
+
+ProtonMail’s user data collection is limited to the following:
+
+  1. Visiting our website: We employ a local installation of Piwik on the home page only. Piwik is not employed on any of the internal pages.
+  2. Account creation: We do not require ANY personal information to create an account. Should you choose to provide it, we do associate another email address with your account (for password recovery, or notifications only).
+  3. Account activity: Due to limitations of the SMTP protocol, we have access to the following email metadata: sender and recipient email addresses, the ip address incoming messages originated from, message subject, and message sent and received times. We do NOT have access to encrypted message content. We also have access to the following records of account activity: number of messages sent, amount of storage space used, total number of messages, last login time.
+
+[BETA ONLY] We are logging web server activity for debugging purposes so the IP addresses of ProtonMail users are logged. However, we have no ability to match an IP to a specific user account.
+
+  4. Communicating with ProtonMail: Your communications with ProtonMail, such as sales and support requests, bug reports, or feature requests are retained and may be saved by our staff.
+  5. IP Logging: ProtonMail’s policy is to NOT log any IP information. However, during the BETA period, limited logging will be performed as detailed above in Section 3.
+
+
+
+### Data Use
+
+ProtonMail does not have any advertising on our site. We also have no technical means to access your encrypted message contents. Any data that we do have will never be shared except under the circumstances described below in Data Disclosure. We do NOT do any analysis on the limited email data we do possess with two exceptions:
+
+  1. Emails sent unencrypted to ProtonMail accounts (e.g. Gmail to ProtonMail) are scanned automatically for spam so we can block IPs which are sending a lot of spam to ProtonMail users and place spam messages in a spam directory. We do not possess the technical ability to scan encrypted messages.
+  2. Emails sent by ProtonMail users to outside (e.g. Gmail) users with encryption disabled are scanned automatically for spam. This is to ensure a ProtonMail account which is being used for spamming purposes can be automatically locked.
+
+
+
+### Data Storage
+
+All ProtonMail servers are located in Switzerland and wholly owned and operated by Proton Technologies AG. Only employees of Proton Technologies AG have physical or other access to ProtonMail servers.
+
+Data is ALWAYS stored in encrypted format on our servers. Offsite backups may be stored periodically, but these are also fully encrypted. ProtonMail does not possess the ability to access any user encrypted message content on either the live servers or in the backups.
+
+### Data Retention
+
+When a ProtonMail account is closed, data is immediately deleted. Data may be retained for up to 7 days in our backups. Accounts that are inactive for over 3 months may be automatically deleted. Active accounts will have data retained indefinitely. Deleted emails are instantly deleted, although they may be retained in our backups for up to 7 days.
+
+### Data Disclosure
+
+ProtonMail will only disclose the limited user data we possess if we receive an enforceable court order from either the Cantonal Courts of Geneva or the Swiss Federal Supreme Court. If a request is made for encrypted message content that ProtonMail does not possess the ability to decrypt, the fully encrypted message content may be turned over. If permitted by law, ProtonMail will always contact a user first before any data disclosure.
+
+### Payment Information
+
+All credit card transactions are processed by third parties and ProtonMail does not retain any customer payment information but we do store data on which account was paid for by a particular transaction. For cash or bitcoin payments, the only information ProtonMail retains is the account username to which the payment was applied.
+
+### Modifications to Privacy Policy
+
+ProtonMail reserves the right to periodically review and change this policy from time to time. All users will be notified at their ProtonMail email address whenever our Privacy Policy is changed.
+
+### Applicable Law
+
+This Agreement shall be governed in all respects by the laws of the Republic and Canton of Geneva, Swiss Confederation. All actions commenced pursuant hereto shall be brought in a court of competent jurisdiction residing in the Republic and Canton of Geneva.
