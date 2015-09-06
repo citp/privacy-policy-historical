@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maropost.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408154646id_/http%3A//www.maropost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maropost.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906135534id_/http%3A//www.maropost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Email Service Provider
+# Privacy Policy | Maropost | Email Marketing Service Provider
 
 #### Effective Date: 08/06/2014
 
@@ -22,13 +22,13 @@ f. How users can correct any inaccuracies in the information.
 
 If users have questions or concerns regarding this policy, they should contact Maropost Customer Support by email at [support@maropost.com](mailto:support@maropost.com).
 
-Maropost, Inc. has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our Website: [www.marapost.com](http://www.maropost.com/) and our service [http://app.maropost.com/users/sign_in.](http://app.maropost.com/users/sign_in) The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged.
+Maropost, Inc. has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our Website: [www.marapost.com](http://maropost.wpengine.com/) and our service [http://app.maropost.com/users/sign_in.](http://app.maropost.com/users/sign_in) The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "https://feedback-form.truste.com/watchdog/request").
 
 **A) Information Collection**
 
-Maropost is the sole owner of the information collected on its web properties, including [http://www.maropost.com](http://www.maropost.com/). Maropost collects information from its users at several different points on our Web sites.
+Maropost is the sole owner of the information collected on its web properties, including [http://maropost.wpengine.com](http://maropost.wpengine.com/). Maropost collects information from its users at several different points on our Web sites.
 
 **1) Registration**  
 In order to use Maropost services at any level, and to access certain information or areas of the website (including various downloads, “Test Drives”, webinars, etc.), a user must first complete the registration form. During registration a user is required to give contact information (such as name, telephone number or an email address). We use this information to contact the user about services on our sites. It is optional customer to provide demographic information (such as income level and gender), but encouraged so we can provide a more personalized experience on our sites.
