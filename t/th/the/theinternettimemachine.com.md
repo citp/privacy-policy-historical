@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinternettimemachine.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529134442id_/http%3A//theinternettimemachine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternettimemachine.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907012010id_/http%3A//www.theinternettimemachine.com/privacy) for the most accurate reproduction.*
 
 # The Internet Time Machine - Privacy Policy
 
