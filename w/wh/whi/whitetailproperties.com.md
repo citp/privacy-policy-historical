@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitetailproperties.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123193148id_/http%3A//www.whitetailproperties.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitetailproperties.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906131326id_/https%3A//www.whitetailproperties.com/privacy) for the most accurate reproduction.*
 
 # Customer Privacy Policy | Whitetail Properties
 
@@ -74,13 +74,13 @@ In some of our email messages we may use a “click-through URL” linked to con
 
 In addition, we may use pixel tags—tiny graphic images—to tell us what parts of our website customers have visited or to measure the effectiveness of searches customers perform on our site. Pixel tags also enable us to send email messages in a format customers can read. These also tell us whether emails have been opened to ensure that we’re sending only messages that are of interest to our customers. We may use this information to reduce or eliminate messages sent to a customer. We store all of this information in a secure database.
 
-## 10\. Commitment to Your Privacy
+## 10\. Google Analytics & Advertising Features
+
+We have enabled Google Analytics to collect data about our traffic through the use of Google Advertising cookies and other anonymous identifiers.  An “anonymous identifier” is a random string of characters that is used for the exact same reasons as cookies and are used where cookie technology is not available.This data helps our company better understand our customers and provide website visitors with a more tailored experience. Visitors can opt-out of these features by editing your browser ad settings accordingly. Furthermore, feel free to learn more about Google’s opt-out browser add-on [here](https://tools.google.com/dlpage/gaoptout/).
+
+## 11\. Commitment to Your Privacy
 
 As we said, the Company takes protecting your privacy very seriously. To make sure your personal information is secure, we communicate these guidelines to our employees and strictly enforce privacy safeguards within the company. In addition, the Company supports industry initiatives to preserve privacy rights on the Internet and in all aspects of electronic commerce.
-
-## 11\. International Users
-
-The Company abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union.
 
 ## 12\. Links to Sites of Other Companies
 
