@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the breather.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615133623id_/http%3A//breather.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breather.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906050003id_/http%3A//breather.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Breather
 
-Breather Products Inc. ( **Breather** or **we** or **us** ) recognizes the need to protect the privacy of the personal information you provide to Breather with respect to your access and use of Breather’s website ([http://breather.com](http://breather.com/)) (the **Website** ) or through Breather’s mobile and web applications (the Website and such mobile and web applications being collectively referred to as the **Applications** ).
+Breather Products Inc. ( **Breather** or **we** or **us** ) recognizes the need to protect the privacy of the personal information you provide to Breather with respect to your access and use of Breather’s website ([https://breather.com](https://breather.com/)) (the **Website** ) or through Breather’s mobile and web applications (the Website and such mobile and web applications being collectively referred to as the **Applications** ).
 
 Therefore, we have adopted this privacy policy (the **Privacy Policy** ), which sets forth, among other things, the type of information that will be collected, the purpose and use of the collected information, and your rights with regard to the collected information. By accessing the Applications, you are consenting to the collection and the use of your information by Breather, but only to the extent described herein. Should you wish to revoke your consent, you may do so in accordance with the provisions of Section 4 below.
 
@@ -64,7 +64,7 @@ Your information may be transferred to and maintained on computers located outsi
 
 ### Terms and Conditions of Use
 
-This Privacy Policy is incorporated into and forms part of the Terms and Conditions of Use, which outlines the terms and conditions you agree to when accessing and using the Applications, and which can be found here: <http://breather.com/tos>.
+This Privacy Policy is incorporated into and forms part of the Terms and Conditions of Use, which outlines the terms and conditions you agree to when accessing and using the Applications, and which can be found here: <https://breather.com/tos>.
 
 ### Persons Under 18
 
