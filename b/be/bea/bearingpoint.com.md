@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401122803id_/http%3A//www.bearingpoint.com/en-other/7633-3275/privacy-policy/%3Fcpssessionid%3DSID-004EA5F1-EFCBFF81) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearingpoint.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906025700id_/http%3A//www.bearingpoint.com/en-us/7633-3275/privacy-policy/) for the most accurate reproduction.*
 
 # Privacy Policy - BearingPoint
 
