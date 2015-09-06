@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkup.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329043355id_/http%3A//www.linkup.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkup.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906131951id_/http%3A//www.linkup.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LinkUp.com
 
@@ -37,5 +37,5 @@ You may be able to block cookies via your browser settings but this may prevent 
 Questions or feedback regarding this Privacy Policy should be directed to [support@linkup.com](mailto:support@linkup.com) or via USPS mail to the following address:
 
 JobDig, Inc  
-5051 Hwy 7, Suite 240  
-St. Louis Park, MN 55416 
+430 1st Ave N, Suite 790  
+Minneapolis, MN 55401 
