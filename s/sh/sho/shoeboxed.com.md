@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325172937id_/https%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeboxed.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906224839id_/https%3A//www.shoeboxed.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Shoeboxed.com | Shoeboxed.com
 
-Last Updated: August 15, 2014
+Last Updated: July 16, 2015
 
 Shoeboxed Privacy Practices Verified by TRUSTe
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.shoeboxed.com "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/Shoeboxed-Inc-/validation?rid=498bd3e2-bfab-4d48-b19e-4f0aee1efb17 "TRUSTe online privacy certification")
 
 ## Introduction
 
@@ -16,9 +16,9 @@ The Policy will address how Shoeboxed (referring to Shoeboxed, Inc. and all its 
 
 The Policy does not apply to or bind third parties that Shoeboxed does not control or to individuals that have special permission from Shoeboxed to break it.
 
-Shoeboxed has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Website, www.shoeboxed.com and does not cover information that may be collected through our mobile applications.
+Shoeboxed has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site: www.shoeboxed.com and does not cover information that may be collected through downloadable software.
 
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [help@team.shoeboxed.com](mailto:help@team.shoeboxed.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
 
 ## We limit the collection and use of personal information
 
@@ -39,15 +39,17 @@ We collect the following information from our users:
 
 
 
-Traffic data is collected by Shoeboxed and our third-party traffic analysis provider through the use of javascript and tags that are included in our website as well as cookies that are stored temporarily on your computer. Together, these technologies help us manage our content by identifying what content is effective. We do not, and our third-party traffic analysis provider does not, tie the traffic data to our customers’ personal information. Other cookies created by Shoeboxed.com are used to secure your login session and to help ensure the security of your account. Such cookies are unrelated to the aforementioned traffic analysis and are never shared with third parties.
-
-Shoeboxed and our advertising partners employ a software technology called clear gifs (also known as Web Beacons or Web Bugs) that helps us manage our content by identifying what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on your computer, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personal information.
-
 ## Your information in your Shoeboxed account
 
 Shoeboxed may use the information listed above to: enforce our Terms of Service, customize and improve Shoeboxed’s software and website, provide customer service, resolve disputes and troubleshoot problems, better understand common traits of our customers in order to develop and improve Shoeboxed’s marketing campaigns, inform users of targeted marketing, service updates and promotional offers unless you opt out and verify your identity. You can opt out of these messages by clicking Manage your subscription at the bottom of your e-mails and/or by contacting us at [help@team.shoeboxed.com](mailto:help@team.shoeboxed.com). Your data may be shared with other users if and only if you choose to share it. Registration is required if you want to use many of the services of Shoeboxed. As part of this registration, Shoeboxed will require that you submit certain information, such as your e-mail address. Any and all information submitted to Shoeboxed as feedback may be gathered and processed by Shoeboxed to improve its software and website. Shoeboxed may use anonymous information gathered through feedback for marketing purposes. Shoeboxed will not use feedback information that identifies you specifically without your permission.
 
 We gather and store certain types of information whenever you use Shoeboxed products or services. Shoeboxed records traffic data from your browser, including your IP address, cookie information, and the pages you are visiting within the site, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. Traffic data is helpful in identifying and fixing problems with the site. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+
+Tracking Technologies: We Shoeboxed and our marketing partners, affiliates, or analytics or customer support service providers, use technologies such as cookies, beacons, tags, and scripts to analyze trends,administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+
+We use cookies to remember users’ settings (e.g. language preference). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 Shoeboxed may display on any page within the site how many times that page has been viewed.
 
@@ -55,17 +57,11 @@ Programs are available that can help you visit websites anonymously, but using s
 
 Passive information is automatically generated. Shoeboxed will only use this information on an aggregated level for software and website improvement or for statistical information.
 
-Shoeboxed uses cookies to enable the site to recognize your browser and relay traffic data back to our servers. Shoeboxed cookies do not collect personal information, and information from cookies is not combined with other personal information to identify specific users’ browsing frequency or actions.
-
-You are strongly encouraged to keep your cookie settings enabled, because they allow you to fully experience many of Shoeboxed’s features.
-
-Some of Shoeboxed partners, especially site analyzers, use cookies on shoeboxed.com, but we do not use, access or control those cookies or their uses.
-
 Shoeboxed uses credit card processors to provide our Receipt Mail-In service. When you sign up for Receipt Mail-In, your name and payment and mailing information will be sent as necessary to these processors to provide the service. These processors are prohibited from using your personal information for any other purpose than processing your payment of Receipt Mail-In as directed by Shoeboxed.
 
-These companies are authorized to use your personally identifiable information _only_ as necessary to _provide_ these services to us.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-The information users provide to Shoeboxed is integral to the functioning of the website. We will not rent or sell your personal information to anyone. We share such data only in certain circumstances, as listed below:
+The information users provide to Shoeboxed is integral to the functioning of the website. We share such data with third parties only in certain circumstances, as listed below:
 
   * Shoeboxed employees, consultants and contracted workers may use or come into contact with user information during the course of their normal working duties for Shoeboxed.
   * Shoeboxed will release personal user information if it is required under the law or the Terms of Service, or is otherwise necessary to protect the rights, property or safety of Shoeboxed, its employees, users or others. We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our site.
@@ -94,7 +90,7 @@ Shoeboxed does not post any user information along with testimonials unless we h
 
 If you choose to submit any personal information on our blog, you should be aware that this information can be read, collected, or used by other users on these forums. We are not responsible for the information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [help@team.shoeboxed.com](mailto:help@team.shoeboxed.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the said application and removing the information or by contacting the appropriate third party application.
 
-If you have a complaint about Shoeboxed’s privacy policy, please send it via email to help@team.shoeboxed or mail it to PO Box 1411, Durham, NC 27701 (Street address: 112 Broadway St, Suite B, Durham NC 27701. You can also contact us to opt-out of having your personal information used for certain purposes, including promotional communications, newsletters, or sweepstakes. Your complaint will be filed and reviewed by a qualified member of the Shoeboxed team. If required, you will receive a response to your message as soon as possible. If necessary, Shoeboxed will incorporate any changes that are necessary as soon as possible.
+If you have a complaint about Shoeboxed’s privacy policy, please send it via email to help@team.shoeboxed or mail it to PO Box 1411, Durham, NC 27701 (Street address: 512 S Mangum Street, Suite 402 Durham, NC 27701). You can also contact us to opt-out of having your personal information used for certain purposes, including promotional communications, newsletters, or sweepstakes. Your complaint will be filed and reviewed by a qualified member of the Shoeboxed team. If required, you will receive a response to your message as soon as possible. If necessary, Shoeboxed will incorporate any changes that are necessary as soon as possible.
 
 ## Behavioral Targeting / Re-Targeting
 
@@ -103,6 +99,10 @@ We partner with a third party ad network to either display advertising on our We
 ## Data Retention
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [help@team.shoeboxed.com](mailto:help@team.shoeboxed.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## Links to Third Party Websites
+
+Our website includes links to other websites whose privacy practices may differ from those of Shoeboxed. If you submit personal information to any of those websites, your information is governed by their privacy policy. We encourage you to carefully read the privacy policy of any website you visit.
 
 ## Social Media Widgets
 
