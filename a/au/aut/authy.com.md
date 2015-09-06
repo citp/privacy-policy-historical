@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authy.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409230703id_/https%3A//www.authy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authy.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906083707id_/https%3A//www.authy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Authy
 
