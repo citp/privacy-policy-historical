@@ -1,58 +1,58 @@
-> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623115302id_/http%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906074000id_/https%3A//www.extremerestraints.com/information/policies/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement | Bondage Gear - Sex Toys - Fucking Machines
 
 Categories
 
-[New Items](http://www.extremerestraints.com/products_new.php)
+[New Items](https://www.extremerestraints.com/products_new.php)
 
-[25% Off Strict Leather](http://www.extremerestraints.com/strict-leather_375/?utm_source=frontpage&utm_medium=banner&utm_campaign=15June8FPStrictLeatherSideLink)
+[Master Series Sale](https://www.extremerestraints.com/master-series_507/?utm_source=frontpage&utm_medium=banner&utm_campaign=15Sept1ControlMSSideLink)
 
-[Bondage Gear](http://www.extremerestraints.com/bondage-gear_10/)
+[Bondage Gear](https://www.extremerestraints.com/bondage-gear_10/)
 
-[Sex Toys](http://www.extremerestraints.com/information/new/sextoys.html)
+[Sex Toys](https://www.extremerestraints.com/information/new/sextoys.html)
 
-[ElectroSex Gear](http://www.extremerestraints.com/electrosex-gear_43/)
+[ElectroSex Gear](https://www.extremerestraints.com/electrosex-gear_43/)
 
-[Dildos & Insertables](http://www.extremerestraints.com/dildos-and-ables_180/)
+[Dildos & Insertables](https://www.extremerestraints.com/dildos-and-ables_180/)
 
-[Vibrating Sex Toys](http://www.extremerestraints.com/vibrating-sex-toys_80/)
+[Vibrating Sex Toys](https://www.extremerestraints.com/vibrating-sex-toys_80/)
 
-[Cock and Ball Toys](http://www.extremerestraints.com/cock-and-ball-toys_191/)
+[Cock and Ball Toys](https://www.extremerestraints.com/cock-and-ball-toys_191/)
 
-[Fucking Machines](http://www.extremerestraints.com/fucking-machines_48/)
+[Fucking Machines](https://www.extremerestraints.com/fucking-machines_48/)
 
-[Chastity Devices](http://www.extremerestraints.com/chastity-devices_26/)
+[Chastity Devices](https://www.extremerestraints.com/chastity-devices_26/)
 
-[Strap Ons](http://www.extremerestraints.com/strap-ons_36/)
+[Strap Ons](https://www.extremerestraints.com/strap-ons_36/)
 
-[Nipple Toys](http://www.extremerestraints.com/nipple-toys_60/)
+[Nipple Toys](https://www.extremerestraints.com/nipple-toys_60/)
 
-[Mouth Gags](http://www.extremerestraints.com/mouth-gags_22/)
+[Mouth Gags](https://www.extremerestraints.com/mouth-gags_22/)
 
-[Remote Sex Toys](http://www.extremerestraints.com/remote-sex-toys_147/)
+[Remote Sex Toys](https://www.extremerestraints.com/remote-sex-toys_147/)
 
-[Enema Supplies](http://www.extremerestraints.com/enema-supplies_212/)
+[Enema Supplies](https://www.extremerestraints.com/enema-supplies_212/)
 
-[Sex Furniture](http://www.extremerestraints.com/sex-furniture_167/)
+[Sex Furniture](https://www.extremerestraints.com/sex-furniture_167/)
 
-[Bedroom Bondage](http://www.extremerestraints.com/bedroom-bondage_337/)
+[Bedroom Bondage](https://www.extremerestraints.com/bedroom-bondage_337/)
 
-[Fetish Clothing](http://www.extremerestraints.com/fetish-clothing_27/)
+[Fetish Clothing](https://www.extremerestraints.com/fetish-clothing_27/)
 
-[Penis Pumps](http://www.extremerestraints.com/penis-pumps_62/)
+[Penis Pumps](https://www.extremerestraints.com/penis-pumps_62/)
 
-[Floggers & Whips](http://www.extremerestraints.com/floggers-and-whips_159/)
+[Floggers & Whips](https://www.extremerestraints.com/floggers-and-whips_159/)
 
-[Nipple & Pussy Pumps](http://www.extremerestraints.com/nipple-and-pussy-pumps_221/)
+[Nipple & Pussy Pumps](https://www.extremerestraints.com/nipple-and-pussy-pumps_221/)
 
-[Masturbation Toys](http://www.extremerestraints.com/masturbation-toys_455/)
+[Masturbation Toys](https://www.extremerestraints.com/masturbation-toys_455/)
 
-[Medical Fetish](http://www.extremerestraints.com/medical-fetish_155/)
+[Medical Fetish](https://www.extremerestraints.com/medical-fetish_155/)
 
-[Miscellaneous](http://www.extremerestraints.com/miscellaneous_51/)
+[Miscellaneous](https://www.extremerestraints.com/miscellaneous_51/)
 
-[Lubes & Creams](http://www.extremerestraints.com/lubes-and-creams_49/)
+[Lubes & Creams](https://www.extremerestraints.com/lubes-and-creams_49/)
 
   
 
@@ -71,11 +71,11 @@ Extreme Promos
   
 ---  
   
-[Clearance](http://www.extremerestraints.com/clearance_401/)  
-[Overstock](http://www.extremerestraints.com/extreme-overstock_608/)  
-[First Time Buyer](http://www.extremerestraints.com/first-time-buyer-promotion_798.html)  
-[Products on Sale](http://www.extremerestraints.com/specials.php)  
-[Daily Specials](http://www.extremerestraints.com/daily_specials.php)  
+[Clearance](https://www.extremerestraints.com/clearance_401/)  
+[Overstock](https://www.extremerestraints.com/extreme-overstock_608/)  
+[First Time Buyer](https://www.extremerestraints.com/first-time-buyer-promotion_798.html)  
+[Products on Sale](https://www.extremerestraints.com/specials.php)  
+[Daily Specials](https://www.extremerestraints.com/daily_specials.php)  
   
   
 
@@ -83,20 +83,7 @@ Extreme Promos
 Subscribe Now  
   
 ---  
-[](http://www.extremerestraints.com/information/forms/xr-newsletter-signup.html)  
-  
-  
-
-
-Community  
-  
----  
-  
-[Webmasters](http://www.nicheshops.com/ER/benefits.html)  
-[General Info](http://www.extremerestraints.com/information/customer-service/general-info.html)  
-[Product Guides](http://www.extremerestraints.com/product_guides.php)  
-[Testimonials](http://www.extremerestraints.com/information/content/testimonials.html)  
-  
+[](https://www.extremerestraints.com/information/forms/xr-newsletter-signup.html)  
   
   
 
@@ -106,6 +93,8 @@ Currencies
 ---  
   
   
+
+
 [](http://www.comodo.com/hackerproof/ "SSL Certificate Authority")
 
 ## Privacy Statement
