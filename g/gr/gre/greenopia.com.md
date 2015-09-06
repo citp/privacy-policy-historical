@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenopia.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503141047id_/https%3A//www.greenopia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenopia.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906034039id_/https%3A//www.greenopia.com/privacy-policy) for the most accurate reproduction.*
 
 # Eco-friendly businesses and services, independently rated according to sustainable practices - Greenopia
 
