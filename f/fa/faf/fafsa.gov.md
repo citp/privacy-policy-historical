@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafsa.gov privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607034719id_/http%3A//fafsa.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa.gov privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906080437id_/https%3A//fafsa.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy - FAFSA on the Web - Federal Student Aid
 
