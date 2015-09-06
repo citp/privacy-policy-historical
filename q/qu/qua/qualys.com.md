@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316170452id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906031019id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Highlights | Qualys, Inc.
 
@@ -10,7 +10,7 @@ This Privacy Statement Highlights provides a high-level summary of Qualys' entir
 
 ## Overview
 
-Qualys®, Inc. (Qualys) is committed to providing you with excellent service for its QualysGuard® services ("Services"). Qualys adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing Qualys services. Please read about [Qualys' participation in Safe Harbor](https://web.archive.org/company/privacy/statement/#safe-harbor).
+Qualys®, Inc. (Qualys) is committed to providing you with excellent service for its Qualys services ("Services"). Qualys adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing Qualys services. Please read about [Qualys' participation in Safe Harbor](https://web.archive.org/company/privacy/statement/#safe-harbor).
 
   
 
