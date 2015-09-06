@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322061335id_/https%3A//www.internetretailer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailer.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906125625id_/https%3A//www.internetretailer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Internet Retailer
+# Privacy Policy
 
 ## Effective Date: February 17, 2009
 
