@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rookmedia.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315041750id_/https%3A//www.rookmedia.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rookmedia.net privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906043036id_/https%3A//rookmedia.net/privacy) for the most accurate reproduction.*
 
 # Rookmedia.net
 
