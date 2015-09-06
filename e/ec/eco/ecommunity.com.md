@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502010845id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommunity.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/notice-of-privacy-practices) for the most accurate reproduction.*
 
 # Privacy Notice / HIPAA | Notice of Privacy Practices | Community Health Network
 
@@ -9,7 +9,7 @@ NOTICE OF PRIVACY PRACTICES
 
 ### THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-This Notice describes privacy practices of Community Health Network, Inc., Community Hospital North, Community Hospital East, Community Hospital South, Community Heart and Vascular Hospital (a facility of Community Hospital East), Community Howard Regional Health, Community Westview Hospital, Community Howard Specialty Hospital, Community Physician Network, Community Howard Physician Network, Community Home Health, Community Surgery Center North, Community Surgery Center East, Community Surgery Center South, Community Surgery Center Hamilton, Community Surgery Center Howard, Community Surgery Center Northwest, Community Endoscopy Center Indianapolis, Community Digestive Center Anderson, and their affiliates, including: any medical staff members, employees, volunteers, and health care professionals authorized to enter information into your health/medical records (hereinafter referred to as Community Health Network or Network).
+This Notice describes privacy practices of Community Health Network, Inc., Community Hospital North, Community Hospital East, Community Hospital South, Community Heart and Vascular Hospital (a facility of Community Hospital East), Community Howard Regional Health, Community Westview Hospital (a facility of Community Hospital East), Community Howard Specialty Hospital, Community Physician Network, Community Howard Physician Network, Community Home Health, Community Surgery Center North, Community Surgery Center East, Community Surgery Center South, Community Surgery Center Hamilton, Community Surgery Center Howard, Community Surgery Center Northwest, Community Endoscopy Center Indianapolis, Community Digestive Center Anderson, and their affiliates, including: any medical staff members, employees, volunteers, and health care professionals authorized to enter information into your health/medical records (hereinafter referred to as Community Health Network or Network).
 
 ### I. Our Duty to Safeguard Your Protected Health Information:
 
@@ -81,27 +81,27 @@ If you have questions about this Notice or complaints about our privacy practice
 
 Marti A. Baker, Network Privacy & Compliance Consultant  
 317-621-7321  
-[e-mail Marti Baker](https://web.archive.org/web/20150502010845id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/mabaker@eCommunity.com)
+[E-mail Marti Baker](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/mabaker@eCommunity.com)
 
 Melissa Kleine, Chief Quality and Compliance Officer, Community Home Health  
 317-621-4832  
-[e-mail Melissa Kleine](https://web.archive.org/web/20150502010845id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/mkleine@eCommunity.com)
+[E-mail Melissa Kleine](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/mkleine@eCommunity.com)
 
 Emily Rogers, Director of Human Resources, Community Westview Hospital  
 317-920-7273  
-[e-mail Emily Rogers](https://web.archive.org/web/20150502010845id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/erogers2@eCommunity.com)
+[E-mail Emily Rogers](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/erogers2@eCommunity.com)
 
 Leslee Lantz, Director of Corporate Compliance, Community Howard Regional Health  
 765-453-8462  
-[e-mail Leslee Lantz](https://web.archive.org/web/20150502010845id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/llantz@communityhoward.org)
+[E-mail Leslee Lantz](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/llantz@communityhoward.org)
 
 Beth Wilhelm, Director, Risk Management and Safety, Community Physician Network  
 317-621-7186  
-[e-mail Beth Wilhelm](https://web.archive.org/web/20150502010845id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/bwilhelm@eCommunity.com)
+[E-mail Beth Wilhelm](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/bwilhelm@eCommunity.com)
 
 Jackie Smith, Network Privacy & Compliance Officer  
 317-621-7324  
-[e-mail Jackie Smith](https://web.archive.org/web/20150502010845id_/http%3A//www.ecommunity.com/s/privacy-notice-hipaa/Jackie.Smith@eCommunity.com)
+[E-mail Jackie Smith](https://web.archive.org/web/20150907014538id_/https%3A//www.ecommunity.com/s/privacy-notice-hipaa/Jackie.Smith@eCommunity.com)
 
 ### VI. Instructions for Revoking an Authorization:
 
@@ -109,4 +109,4 @@ You may revoke an authorization to access, use or disclose your PHI, in writing,
 
 ### VII. Effective Date:
 
-This Notice was effective on 4/14/03. This Notice was updated on 10/15/04, 1/1/05, 1/21/05, 3/30/07, 1/1/10, 10/1/12, 9/23/13 and 10/1/14.
+This Notice was effective on 4/14/03. This Notice was updated on 10/15/04, 1/1/05, 1/21/05, 3/30/07, 1/1/10, 10/1/12, 9/23/13, 10/1/14 and 7/1/15.
