@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the radius.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315111356id_/http%3A//radius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radius.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906231229id_/http%3A//radius.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Radius : Radius
+# Privacy Policy • Radius
 
 #### Success! Your contact request has been received.
 
 Thanks for reaching out, we will be in touch with you shortly. If you’d like to get into contact immediately give us a call at [1-855-RADIUS-0](tel:18557234870).
 
-### We'd love to Connect
+#### We'd love to hear from you!
 
-Let us know how you would like to be contacted. Our sales team is ready to answer any of your questions.
+Do you have questions about the Radius Platform, data, trials, pricing, and so forth? Our sales team is ready to answer any of your questions.
 
   * [Trust & Security](http://radius.com/trust-security)
   * [Terms of Service](http://radius.com/terms)
