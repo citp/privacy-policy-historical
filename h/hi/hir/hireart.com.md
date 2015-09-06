@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hireart.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322165742id_/https%3A//www.hireart.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireart.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906172726id_/https%3A//www.hireart.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -78,4 +78,4 @@ To keep your Personal Data accurate, current, and complete, please contact us as
 
 Please also feel free to contact us if you have any questions about HireArt's Privacy Policy or the information practices of this Site. 
 
-You may contact us as follows: info@hireart.com 
+You may contact us as follows: support@hireart.com 
