@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cms2cms.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207191218id_/http%3A//www.cms2cms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cms2cms.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906200553id_/https%3A//www.cms2cms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ We restrict access to personal information to MagneticOne employees, contractors
 ## Information Sharing
 
 We do not share, sell or rent any kind of personal information provided by our users, customers or website visitors to third-parties. We ensure the confidentiality of your private data.  
-Certain pieces of aggregated, non-personal information, which does not identify your personality, may be shared with third-parties to optimize CMS2CMS service. This may include the number of users that migrated to a particular shopping cart, the number of clicks on a certain ad, etc.
+Certain pieces of aggregated, non-personal information, which does not identify your personality, may be shared with third-parties to optimize CMS2CMS service. This may include the number of users that migrated to a particular CMS platform, the number of clicks on a certain ad, etc.
 
 ## Data Integrity
 
