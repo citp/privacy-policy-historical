@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitedangerous.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013510id_/https%3A//store.elitedangerous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitedangerous.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906164710id_/https%3A//www.frontierstore.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -124,7 +124,7 @@ In the event that the business is sold or integrated with another business, your
 
 ### 11\. UPDATING YOUR INFORMATION
 
-You may review, correct, update or change your personal information at any time by amending your details online after logging into [My Account](https://store.elitedangerous.com/customer/account/login/). 
+You may review, correct, update or change your personal information at any time by amending your details online after logging into [My Account](https://www.frontierstore.net/customer/account/login/). 
 
 If you opted to receive newsletters, commercial emails or other communications from us at the time you registered on this website but subsequently change your mind, you may opt-out by clicking on the provided link at the end of email communications.
 
