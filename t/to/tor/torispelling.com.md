@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torispelling.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014234id_/http%3A//torispelling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torispelling.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906150959id_/http%3A//torispelling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ediTORIal by Tori Spelling
 
