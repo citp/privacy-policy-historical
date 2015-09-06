@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the incgamers.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045318id_/http%3A//www.incgamers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incgamers.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906062424id_/http%3A//www.pcinvasion.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | IncGamers.com | IncGamers
+# Privacy Policy - PC Invasion
 
 **Introduction**
 
-We IncGamers are incorporated in England carrying on business as an online videogame network and we are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
+We PCInvasion are incorporated in Scotland carrying on business as an online videogame network and we are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
 
  **We are committed to protecting your privacy**
 
-We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information.  
-Information Collected
+We collect the minimum amount of information about you that is commensurate with providing you with a satisfactory service. This Policy indicates the type of processes that may result in data being collected about you. Your use of this website gives us the right to collect that information. Information Collected
 
 We may collect all of the information that you give us depending on the type of transaction you enter into, including your email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website.
 
@@ -35,4 +34,4 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
  **Contacting Us**
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at privacy@incgamers.com. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at privacy@pcinvasion.com. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
