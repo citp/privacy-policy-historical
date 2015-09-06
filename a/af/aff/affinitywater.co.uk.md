@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinitywater.co.uk privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323142608id_/https%3A//www.affinitywater.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinitywater.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906044726id_/https%3A//www.affinitywater.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Affinity Water
 
@@ -6,7 +6,7 @@
 
 Affinity Water Limited is registered under the Data Protection Act 1998. Confidentiality and the privacy of customers and users of this website are of utmost importance to us. The information that we gather from you through this website is used by us to ensure that we can give you the best possible service and for our own internal market analysis.
 
-[Click here to view our Privacy policy >>](https://web.archive.org/docs/Website-privacy-policy\(1\).pdf)
+[Click here to view our Privacy policy >>](https://web.archive.org/privacy-policy.aspx)
 
 #### Protecting Personal Information
 
