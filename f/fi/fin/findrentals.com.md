@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findrentals.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316160323id_/http%3A//www.findrentals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findrentals.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906103113id_/http%3A//www.findrentals.com/privacy.html) for the most accurate reproduction.*
 
 # Vacation Rentals on FindRentals.com - Privacy Policy
 
