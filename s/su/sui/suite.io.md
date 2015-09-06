@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the suite.io privacy policy that was archived on 2014-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141008162325id_/https%3A//suite.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suite.io privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906095743id_/https%3A//suite.io/privacy) for the most accurate reproduction.*
 
 # Privacy – Suite
-
-Protecting your privacy is important to us.
-
-This Privacy Policy explains how Suite collects, uses, and discloses the personal information you may provide while using suite.io (the "Website") and the services provided through any of the Website. It is always your choice whether or not to provide personal information through the Website. Any personal information you provide will be treated in accordance with this Privacy Policy.
 
 ## Your consent
 
