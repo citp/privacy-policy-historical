@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tryinteract.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323211811id_/https%3A//www.tryinteract.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryinteract.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906024628id_/https%3A//www.tryinteract.com/privacy.php) for the most accurate reproduction.*
 
 # Interact | Privacy Policy
 
