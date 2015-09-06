@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the vultr.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021206id_/https%3A//www.vultr.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vultr.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906033629id_/https%3A//www.vultr.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Vultr.com
 
-Privacy Policy  |  [Terms of Service](https://web.archive.org/legal/tos.php)  |  [Use Policy](https://web.archive.org/legal/use_policy.php)  |  [Anti-spam Policy](https://web.archive.org/legal/antispam_policy.php)
+Privacy Policy |  [Terms of Service](https://web.archive.org/legal/tos.php) |  [Use Policy](https://web.archive.org/legal/use_policy.php) |  [Anti-spam Policy](https://web.archive.org/legal/antispam_policy.php) |  [SLA](https://web.archive.org/legal/sla.php)
 
 **Privacy Policy for Vultr.com
 
 Effective Date ___02/19/2014___  
-Last Updated: ___01/29/2015___
+Last Updated: ___04/28/2015___
 
 **
 
  **I. General**
 
-**** A. The operative parties referred to in this policy are COMPANY and you, the user of this site.
+**** A. The operative parties referred to in this policy are Vultr Holdings LLC and you, the user of this site.
 
-1\. Vultr Holdings LLC, is the publisher and operator of the web site [http://www.vultr.com](http://www.vultr.com/). Hereinafter referred to as “COMPANY”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Vultr Holdings LLC. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to [http://www.vultr.com](http://www.vultr.com/).
+1\. Vultr Holdings LLC, is the publisher and operator of the web site [http://www.vultr.com](http://www.vultr.com/). Hereinafter referred to as “vultr.com”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Vultr Holdings LLC. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to [http://www.vultr.com](http://www.vultr.com/).
 
 2\. **You, the User** – As the user of this site, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns.
 
