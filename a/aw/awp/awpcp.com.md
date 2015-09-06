@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awpcp.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315002218id_/http%3A//awpcp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awpcp.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907014040id_/http%3A//awpcp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AWPCP.com
 
@@ -30,7 +30,7 @@ Your information, whether public or private, will not be sold, exchanged, transf
 
 * To send periodic emails
 
-The email address you provide for job processing, will only be used to send you information and updates pertaining to your jobs or monitors, or upgrade offers pertaining to either.
+The email address you provide for purchases, will only be used to send you information and updates pertaining to your modules, or upgrade offers.
 
 **Do we use cookies?**
 
@@ -64,17 +64,11 @@ By using our site, you consent to our web site privacy policy (this document).
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes.
 
-This policy was last modified on 8/3/2010
+This policy was last modified on 3/20/2015
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-AWPCP.com
-
-c/o Skyline Consulting  
-14194 W Amherst Ave  
-Lakewood, Colorado 80228  
-USA  
-support@awpcp.com  
-+1 (888) 320-8510
+AWPCP.com  
+support [at] awpcp [dot] com
