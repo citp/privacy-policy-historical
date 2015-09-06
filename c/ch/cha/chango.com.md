@@ -1,85 +1,106 @@
-> *The following text is extracted and transformed from the chango.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613031127id_/http%3A//www.chango.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chango.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906171846id_/http%3A//www.chango.com/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Retargeting | Chango
 
-_To opt-out of receiving advertisements targeted by Chango go[here.](https://web.archive.org/privacy/opt-out/)_
+_Last Updated 8/10/2015_
 
-Introduction
+The Rubicon Project Chango, Inc. (“Chango”) is committed to transparency, and we want you to fully understand how we may collect, use, and share data relating to you, and the choices that are available to you. This privacy policy governs Chango’s collection and use of data on websites that use our technology to purchase and deliver ads, and to the collection and use of data on Chango’s [website](http://www.chango.com/).
 
-Chango, Inc. strongly believes that all information deserves protection. By using our website you consent and agree to the collection, use and disclosure of personal information and to the privacy practices set out in this policy. We expressly reserve the right to change this privacy policy at any time.
+Data We Collect
 
-This privacy policy is intended to inform you of the collection, use and disclosure of information that we collect. All references to “we,” “us” and “our” are intended to mean Chango Inc, and all references to “you” and “your” are intended to mean users who have been exposed to our services. “Partner Sites” refer to advertiser and publisher websites that use our services. Because our Privacy Policy may be updated periodically, we encourage you to review these pages on a regular basis.
+Using our Advertising Technology
 
-Chango is a member of the Network Advertising Initiative (NAI); we are committed to transparency & choice and adhere to the NAI code.
+When you visit a website that displays an ad using our technology, we do not collect any information that identifies you. Instead, we may collect certain non-personally identifiable information about you and your device (“User Data”). Some of this User Data, including for example your IP addresses and certain unique device identifiers, may identify a particular computer or device, and may be considered “personal data” in some jurisdictions in the European Union and elsewhere, but none of this data identifies you individually.
 
-Our Services
+User Data that we may collect includes: IP address, domain, browser type and language, referring website addresses, date/time of visits, page view data, search keywords, visitor activities and actions on publisher’s sites, browser history, Internet service provider, referring/exit pages, platform type, date/time stamp, geolocation (including city, country, and zip code), click data, types of advertisements viewed, and information about visitor’s device including device make, device model, device operating system, device operating system version, and data connection type. To be clear, we do not collect any “sensitive personal data” as defined in the European Union.
 
-At Chango Inc, we collect certain anonymous and non-personally identifiable information about users in order to display effective advertisements. Based on the behavior and preferences of the users that we have identified, we seek to group those users into certain categories. We then seek to display the most relevant advertisements to the users in those categories.
+We collect User Data using the following standard web technologies:
 
-Non-Personally Identifiable Information
+  * “Tags and Pixels” are blocks of code that we and our customers may use to track your navigation of websites or apps using our technology, and your browsing behavior. We use pixels to coordinate User Data with our customers and other third parties.
+  * “Cookies” are data files that often include an anonymous unique identifier, and are placed on a visitor’s device or computer. We use cookies on our customers’ websites in order to operate our technology and collect User Data. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  * We work with Tapad, Inc., a technology company that may use information about your visits to various websites or applications across multiple devices in order to provide you with content of interest to you across those devices. To learn more about Tapad, Inc., and how to opt out of their cross-device technology on your desktop or mobile devices, please visit their privacy policy at <http://www.tapad.com/privacy-policy/>.
 
-The Non-Personally Identifiable Information that we collect about users through our services is anonymous, non-personally identifiable information and may include such information as your Internet Protocol address, your browser, recent search history, and your activity on the websites of our partners (the “Non-Personally Identifiable Information”). (An Internet Protocol (“IP”) address is an address on the Internet that is automatically assigned to your computer when you establish a connection on the Internet.)
 
-Personally Identifiable Information
 
-We do collect certain personally identifiable information if you register with us on our website. This personally identifiable information, which may include your name, company information, address, and your website information (collectively, “PII”), is only captured when you register on our site. This PII is not shared, sold or rented to any other third parties. If you would like to have this PII changed, you can contact us at the email below.
+We additionally obtain User Data from various vendors and third parties that have collected that data independently. This privacy policy does not cover the collection of User Data by such third parties, but does cover our usage of such data.
 
-How We Collect the Non-Personally Identifiable Information
+On our Website
 
-We may collect this Non-Personally Identifiable Information, directly or indirectly, from our network of Partner Sites, or we may purchase this Non-Personally Identifiable Information from other third party providers.
+When you visit our website, you may optionally choose to sign-up on our Web forms and provide us with personally identifiable information you knowingly choose to disclose that is collected on an individual basis. Additionally, we collect certain non-personally identifiable information about how you use our website. Together, we refer to this data as “Website Data.”
 
-For Non-Personally Identifiable Information that we purchase from third party providers, the Privacy Policy for such third party providers applies to the provisioning of that Non-Personally Identifiable Information. The use of that Non-Personally Identifiable Information by Chango Inc, however, is governed by this Policy.
+PERSONALLY IDENTIFIABLE INFORMATION (“PII”)
 
-For Non-Personally Identifiable Information that we collect, directly or indirectly, we employ the use of “pixel tags” and/or “cookies.” Pixel tags are small bits of code that provide a method of delivery information on a webpage which allow the operator of the page or a third party to collect information about the users of the page. Cookies are small text files that are stored on the browser of your computer that uniquely identify your browser and provide information to the cookie sender. Many websites send cookies to the browsers that are visiting those sites, and many browsers are initially configured to accept cookies. You may be able to change your browser settings to refuse cookies or to alert you of when a cookie has been placed on your browser. Check your browser for details.
+When requesting market reports or requesting additional information or contact from RChango, our customers may be asked to provide the following: Name, Company Name, Mailing Address, Email Address, Phone Number, Basic Site Information (URL, Channel, Impression Traffic), Username, Tax I.D. Number and Password. In addition, if you choose to correspond with us through email or blog postings, we may retain the content of your email messages together with your email address and our responses.
 
-Use of Non-Personally Identifiable Information
+NON-PERSONALLY IDENTIFIABLE INFORMATION (“NON-PII”)
 
-We use the Non-Personally Identifiable Information that we collect in order to display advertisements that we believe may be relevant to you. In seeking to identify relevant advertisements, we use this Non-Personally Identifiable Information to create and refine user segments, develop and refine algorithms, and to understand better how your interaction with a website might be of interest to advertisers. We do not link any Non-Personally Identifiable Information to the PII collected on our website. If you have any questions or concerns, please contact privacy@chango.com.
+Similar to other commercial websites, we collect information about how our website is used. Some of this information, including for example your IP addresses and certain unique device identifiers, may identify a particular computer or device, and may be considered “personal data” in some jurisdictions in the European Union and elsewhere even though it does not identify you individually. Non-PII collected may include the following: IP address, domain, browser type and language, referring website addresses, date/time of visits, page view data, and search keywords. We collect this data using Cookies and Web Beacons, which are discussed in more detail above.
 
-Sharing of Anonymous Information
+How We Use Data
 
-Further, we may share aggregated information that we have learned from the use of the Non-Personally Identifiable Information with third parties. Such information may include traffic patterns, sales, and other site information. For example, we might share statistics on how many customers viewed or clicked on a particular advertisement.
+We use User Data and Website Data to deliver consumers more relevant advertising, including by helping our customers conduct Online Behavioral Advertising (OBA), which delivers you targeted advertising based on information that we believe will be of particular interest to you. For more information about how OBA works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
 
-We do not share unaggregated Non-Personally Identifiable Information with third parties unless they are acting on our behalf.
+Our other uses of User Data and Website Data may include, for example, to:
 
-Blogs and Testimonials
+  * Operate and improve our technology;
+  * Conduct research and development;
+  * Create profiles and infer demographic and interest-based information about consumers, and to place each user into interest-based segments that are targetable in our ad platform;
+  * Enable standard advertising controls;
+  * Prepare reports that summarize visitor activity;
+  * Report on ad performance, campaign reporting, and campaign forecasting;
+  * Determine non-personally identified user response to advertisements and promotions; and
+  * Protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
 
-Please note that if you use a blog on our site, you should be aware that anything you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. As a result, we are not responsible for the PII you choose to submit in these forums. Some of our clients have chosen to post testimonials on our site. We have obtained the approvals of such clients to post their PII along with the testimonial.
 
-Please note that we have a third party cookie, Google Sitemap, on our site which assists us with the operation, maintenance and analytics of the website.
 
-Non-Personally Identifiable Information Security
+Data Retention
 
-We employ reasonable industry standard measures to protect against the unauthorized access, disclosure, modification or destruction of the Non-Personally Identifiable Information. While we are committed to ensuring the security of the Non-Personally Identifiable Information, you should be aware that no Non-Personally Identifiable Information protection measures can provide 100% guarantee of security. Consequently, we do not warrant or guarantee the security of the Non-Personally Identifiable Information.
+We may store User Data for up to 30 days. After that period, User Data may be anonymized and aggregated into summary reports that may be stored for longer than 30 days.
 
-Non-Personally Identifiable Information Retention
+Sharing of Data
 
-Chango Inc does not use or retain any personally identifiable information (PII) and only relies upon non-PII. Chango will retain Non-Personally Identifiable Information for targeting purposes for 60 days, after which the data is aggregated for analysis.
+We may share User Data and Website Data with others, including advertisers, and website and app publishers for a variety of reasons. For example:
 
-Opt Out
+  * We may share User Data or Website Data with our customers to help them deliver target advertisements to you;
+  * We may share User Data or Website Data for the purposes of a business deal (or negotiation of a business deal) involving sale or transfer of all or a part of our business or assets. Business deals may include any merger, financing, acquisition, or bankruptcy transaction or proceeding;
+  * We may share User Data or Website Data for legal, protection, security, and safety purposes, including:
+    * To comply with laws or regulatory requirements and to respond to lawful requests and legal process;
+    * To protect the rights and property of Chango, our agents, customers, and others, including enforcing our agreements, policies, and terms of use and protecting our network and physical assets; and/or
+    * In an emergency, including protecting the safety of our employees and agents, our customers, or any person.
+  * We may share information with parties who may use that information to provide us with services or do work for us.
 
-You may opt-out of receiving advertisements targeted by Chango [here](https://web.archive.org/privacy/opt-out/). Note that if you use a different computer, browser or clear your cookies then you must restate your opt-out choice.
 
-Changes to Chango Inc’s Corporate Structure
 
-If all or part of Chango Inc is sold, merged, or otherwise transferred to another entity, the Non-Personally Identifiable Information and PII gathered by Chango Inc may be transferred as part of that transaction. Chango Inc will take reasonable measures to ensure that such Non-Personally Identifiable Information is used in a manner consistent with the Privacy Policy under which it was collected. If such a change in Chango Inc’s corporate structure occurs, you will be notified as described below in the section entitled “Your Consent and Right to Change this Policy.”
+Your Choices
 
-Disclosure
+There are many ways to opt-out of OBA we may conduct using our technology. If you opt-out of OBA, we will continue to collect the same User Data and Website Data described above. However, this information won’t be used to target you with interested based ads.
 
-The above notwithstanding, we may disclose any of the Non-Personally Identifiable Information, any PII or any other information we collect when we believe that we have a legal obligation to do so. For example, we may disclose any of the above in order to (i) protect our rights and/or comply with a judicial proceeding, court order, or legal process served or (ii) protect or defend our proprietary rights.
+First, you can visit our opt-out page, at <http://www.chango.com/privacy/opt-out/>. Second, because we are a member of the Network Advertising Initiative (“NAI”) and adhere to the NAI’s code of conduct, you can opt-out of OBA by participating companies, including Chango, at <http://www.networkadvertising.org/choices/>. Third, because we adhere to the Digital Advertising Alliance’s Self-Regulatory Principles, you can visit the Digital Advertising Alliance’s opt-out page at <http://www.aboutads.info/choices/>.
 
-Disclaimer
+Please note that these opt-outs operate by placing a cookie on your device that is unique to the browser and device you use to opt-out. If you change browsers or computers, or delete the cookies on your computer, you will need to opt-out again. You also can set your browser to notify you when a cookie is being set and to block most cookies, including ours.
 
-We have no control over, nor any responsibility for, the privacy policies and/or content of any of our Partner Sites. As a result, we disclaim any and all responsibility for, or affiliation with, any third party cookies, pixels or practices.
+Security
 
-Your Consent & Right to Change This Policy
+We use many different measures to help protect information transmitted over or stored on our systems. No transmission of information, however, is guaranteed to be completely secure. In particular, we cannot guarantee that your data will not be disclosed, altered, or accessed accidentally, or through unlawful or unauthorized acts of others.
 
-By visiting our website (Chango Inc.com) and/or the website of any of our partners, you hereby consent to our collection, storage, and dissemination of your Non-Personally Identifiable Information as described above. If we decide to change our privacy policy materially, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of such changes. We reserve the right to modify this privacy statement at any time, so please review it frequently.
+Changes
 
-Effective Date and Governing Law
+We reserve the right to modify this privacy policy at any time. If we make material changes to this policy, we will notify you here or by means of a notice on our home page.
 
-This policy was updated on August 1st, 2011. This Privacy Policy and any matter relating to this Web Site, shall be governed by the laws of Canada. If any part of this agreement is deemed to be invalid, illegal or unenforceable, then the invalid or unenforceable part shall be removed without affecting the legality, validity and enforceability of the remainder of this Privacy Policy. Further, the illegal, invalid or unenforceable provision removed shall be replaced by a legal, valid, enforceable provision that most closely reflects the original intent of the original provision.
+U.S.-E.U. Safe Harbor
 
-Health Transparency
+Chango’s parent entity, The Rubicon Project, Inc. (“Rubicon Project”) is a participant in the U.S.-E.U. Safe Harbor, and in this regard, we may transfer certain personal data about you to or from Rubicon Project in compliance with the Safe Harbor Privacy Principles. For more information about the U.S.-E.U. Safe Harbor, please visit <http://export.gov/safeharbor/>.
 
-Chango adheres to the NAI’s requirements with respect to sensitive consumer information, and does not create interest segments related to health conditions or treatments.
+In accordance with the Safe Harbor Privacy Principles, Rubicon Project has designated JAMS, Inc. as its independent recourse mechanism to mediate any disputes or compliance regarding compliance with the Safe Harbor. Such mediation will be governed by the JAMS International Mediation Rules. To submit a complaint to JAMS for mediation, please visit <http://www.jamsadr.com/file-safe-harbor-claim/>.
+
+Contact Us
+
+For more information, if you have questions, or if you would like to make a complaint, please contact us at:
+
+Chango  
+c/o Rubicon Project  
+Attn: Privacy Officer, Legal Department  
+12181 Bluff Creek Drive, 4th Floor  
+Playa Vista, CA 90094  
+Phone: 310.207.0272  
+Contact us by e-mail at [privacy@rubiconproject.com](mailto:privacy@rubiconproject.com)
