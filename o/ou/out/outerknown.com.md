@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the outerknown.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627144858id_/http%3A//outerknown.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outerknown.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906112449id_/http%3A//www.outerknown.com/privacy-policy) for the most accurate reproduction.*
 
-# Outerknown Privacy Policy
+# Outerknown | Privacy
 
-**_PRIVACY POLICY_**
+Effective Date: September 8, 2014
 
-**Effective Date:   September 8, 2014**   
-**Updated: September 8, 2014**
+Thank you for visiting OUTERKNOWN.com, a general audience site. OUTERKNOWN.com is operated by Outerknown, LLC ("OK") (sometimes referred to herein as "we", "our", or "us"). This privacy policy is applicable to the Website(s) located at the domains " OUTERKNOWN.com," and other sites and platforms operated by OUTERKNOWN.com or which post a link to this privacy policy (collectively, the "Site(s)").
 
-Thank you for visiting OUTERKNOWN.com, a general audience site. OUTERKNOWN.com is operated by Outerknown, LLC (“ **OK** ”) (sometimes referred to herein as " **we** ", " **our** ", or " **us** "). This privacy policy is applicable to the Website(s) located at the domains " OUTERKNOWN.com," and other sites and platforms operated by OUTERKNOWN.com or which post a link to this privacy policy (collectively, the " **Site(s)** ").
+Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used. Please be advised that the practices described in this Privacy Policy apply only to information gathered through and in connection with the Sites and do not necessarily reflect practices for other sites that may be linked to or from this Site which do not post a link to this privacy policy.
 
-Your privacy is important to us. To better protect your privacy, we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used. Please be advised that the practices described in this Privacy Policy apply only to information gathered through and in connection with the Sites and do not necessarily reflect practices for other sites that may be linked to or from this Site which do not post a link to this privacy policy.
-
-**1\. THE INFORMATION WE COLLECT.**
+## 1\. THE INFORMATION WE COLLECT.
 
 At some Sites, you may be able to order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of personal information. Examples of the types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
@@ -19,29 +16,31 @@ At some Sites, you may also be able to submit information about other people. Fo
 
 At certain parts of some of our Sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the Site's activities and offerings.
 
-We, our service providers, advertisers and partners may collect various types of non-personally identifiable information when you visit any of our Sites. A representative list of the types of non-personally identifiable information we may collect include: current Internet protocol address and type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., Comcast, Verizon or AT&T), the web pages you have visited, sites visited before and after you visit one of our Sites, the type of handheld or mobile device used to view the Site (e.g., iPhone, Blackberry), location information, the Site content you have accessed and the advertisements you have been shown and/or clicked on.
+We, our service providers, advertisers and partners may collect various types of non-personally identifiable information when you visit any of our Sites. A representative list of the types of non-personally identifiable information we may collect include: current Internet protocol address and type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using, (e.g., Microsoft Windows or Mac OS), the domain name of your Internet service provider (e.g., Comcast, Verizon or AT&T), the web pages you have visited, sites visited before and after you visit one of our Sites, the type of handheld or mobile device used to view the Site (e.g., iPhone, Blackberry), location information, the Site content you have accessed and the advertisements you have been shown and/or clicked on.
 
-You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook, or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application.
+You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook, or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the likes you make) to deliver the content or as part of the operation of the application.
 
 When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards. By doing so, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an application, on our Sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
 
 We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
 
-Through some social networking sites’ privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
+Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
 
-**2\. HOW WE USE THE INFORMATION.**
+Children’s Privacy- we do not knowingly collect or solicit personal information from children under 13.
+
+## 2\. HOW WE USE THE INFORMATION.
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to offer you other products, programs or services that we believe may be of interest to you, to enforce the legal terms that govern your use of our sites, and/or for the purposes for which you provided the information.
 
 We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our terms of service, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
 
-   The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
 
 If you choose to submit content for publication (e.g., a letter to our editors, comments sent to our television personalities, a posting to a blog or a discussion board, a video), we may publish your screen name and other information you have provided to us. We may on occasion combine information we collect through our Sites with information that we collect from other sources. Without limiting the generality of the foregoing, if you register and create a profile with our site, the screen name you select as well as other content you submit to your profile (e.g., photos, comments, video, reviews) will be displayed publicly on the Sites and may be reused and redistributed by us in our discretion.
 
 We use the non-personally identifiable information that we collect to improve the design and content of our Sites, to deliver more relevant marketing messages and advertisements and to enable us to personalize your Internet experience. We also may use this information to analyze usage of our Sites, as well as to offer you products, programs, or services.
 
-**3\. INFORMATION SHARING AND DISCLOSURE.**
+## 3\. INFORMATION SHARING AND DISCLOSURE.
 
 We may disclose personally identifiable information in response to a legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or when we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements.
 
@@ -57,7 +56,7 @@ If you have signed up to receive our e-mails and prefer not to receive marketing
 
 To provide visitors with additional or more relevant product and service opportunities, we may share non-personally identifiable information with third parties.
 
-**4\. COOKIES & WEB BEACONS.**
+## 4\. COOKIES & WEB BEACONS.
 
 To enhance your online experience, we may use "cookies" or similar technologies. Cookies are text files placed in your computer's browser to store your preferences. Cookies do not contain personally identifiable information; however, once you choose to furnish a site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
@@ -65,7 +64,7 @@ We use cookies to understand Site and Internet usage and to improve or customize
 
 We, our third party service providers, advertisers or our partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
 
-**5\. COLLECTION OF INFORMATION BY THIRD-PARTY SITES, AD SERVERS, AND SPONSORS.**
+## 5\. COLLECTION OF INFORMATION BY THIRD-PARTY SITES, AD SERVERS, AND SPONSORS.
 
 Some of our sites contain links to or integrations with other sites such as Instagram, Facebook, Twitter, Google, LinkedIn, etc., whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
@@ -73,27 +72,27 @@ The Sites covered by this privacy statement may offer content (e.g., contests, s
 
 We also use the services of reputable third parties to provide us with data collection, reporting, ad response measurement, and site analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement.
 
-**6\. INTERNATIONAL TRANSFER.**
+## 6\. INTERNATIONAL TRANSFER.
 
 The Sites operate globally so it is necessary to transfer your information internationally. In particular, your information will likely be transferred to and processed in the United States where many of our central databases operate. The data protection and other laws of other countries may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By using this site you consent to your information being collected, used and transferred as set forth in this privacy statement.
 
-**7\. OUR COMMITMENT TO SECURITY.**
+## 7\. OUR COMMITMENT TO SECURITY.
 
 We have put in place reasonable physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online.
 
-**8\. HOW YOU CAN ACCESS OR CORRECT INFORMATION.**
+## 8\. HOW YOU CAN ACCESS OR CORRECT INFORMATION.
 
-Access to personally identifiable information that is collected from our sites and that we maintain may be available to you. For example, if you created a password-protected account within our site, you can access that account to review the information you provided.  
-You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service.
+Access to personally identifiable information that is collected from our sites and that we maintain may be available to you. For example, if you created a password-protected account within our site, you can access that account to review the information you provided.
 
-Outerknown, LLC – Web Management  
-info@outerknown.com
+You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service. 
 
-**9\. HOW TO CONTACT US.**
+Outerknown, LLC Web Management, 9300 Jefferson Blvd., Culver City, CA 90232
 
-If you have any questions or concerns about the online privacy statement for this Site or its implementation you may contact us info@outerknown.com.
+## 9\. HOW TO CONTACT US.
 
-**10\. UPDATES & EFFECTIVE DATE.**
+If you have any questions or concerns about the online privacy statement for this Site or its implementation you may contact us [info@outerknown.com](mailto:info@outerknown.com).
+
+## 10\. UPDATES & EFFECTIVE DATE.
 
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
