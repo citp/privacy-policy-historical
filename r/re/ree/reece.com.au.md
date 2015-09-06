@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reece.com.au privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603044641id_/http%3A//www.reece.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reece.com.au privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906053601id_/http%3A//www.reece.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
