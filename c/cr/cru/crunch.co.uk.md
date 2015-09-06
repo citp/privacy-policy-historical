@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crunch.co.uk privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321063455id_/https%3A//signup.crunch.co.uk/signup/privacypolicy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crunch.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906042824id_/https%3A//signup.crunch.co.uk/signup/privacypolicy.xhtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,6 +34,10 @@ The information you provide allows us to:
   * offer specific support and guidance;
   * provide further services;
   * notify you about changes to our services;
+  * electronically contact you with information regarding Crunch’s promotions;
+  * electronically contact you with news of Crunch’s business activities;
+  * we may regularly contact you electronically with Crunch’s business advice content;
+  * if you have provided us with your phone number then we may call you to ascertain your interest or not in becoming a crunch client;
 
 
 
@@ -195,6 +199,6 @@ Any changes we may make to our Policy in the future will be posted on this page 
 
 * ####  __**Please read our Terms of Service**
 
-Use of the Crunch service is subject to the Crunch [Terms of Service](https://web.archive.org/web/20150321063455id_/https%3A//signup.crunch.co.uk/signup/termsofservice.xhtml "Terms of Service") and this Privacy Policy should be read in conjunction with this. In the event of a conflict or disagreement between this Privacy Policy and the Terms of Service, the Terms of Service will prevail.
+Use of the Crunch service is subject to the Crunch [Terms of Service](https://web.archive.org/web/20150906042824id_/https%3A//signup.crunch.co.uk/signup/termsofservice.xhtml "Terms of Service") and this Privacy Policy should be read in conjunction with this. In the event of a conflict or disagreement between this Privacy Policy and the Terms of Service, the Terms of Service will prevail.
 
 If you have a question, comment or complaint about the Crunch Privacy Policy please send it to [dp@crunch.co.uk](mailto:dp@crunch.co.uk).
