@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506090639id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906062014id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pazsaz Entertainment Network
 
@@ -47,9 +47,7 @@ If you have any questions about this Privacy Policy, please feel free to contact
 
 Pazsaz Entertainment Network Privacy Matters   
 PO Box 209   
-Santa Monica, CA 90406 
-
-[](http://www.shareasale.com/r.cfm?b=669186&u=249594&m=17483&urllink=&afftrack=)  
+Santa Monica, CA 90406   
   
    
 Site Sponsors | Check this out!      
