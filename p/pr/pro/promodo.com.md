@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promodo.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316225208id_/https%3A//www.promodo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promodo.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906203528id_/https%3A//www.promodo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
