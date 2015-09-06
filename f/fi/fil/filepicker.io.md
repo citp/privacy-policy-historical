@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filepicker.io privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025742id_/https%3A//www.inkfilepicker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filepicker.io privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906153138id_/https%3A//www.filepicker.com/privacy) for the most accurate reproduction.*
 
-# Ink File Picker | Privacy Policy
+# Privacy | Filepicker
 
 ## What information do we collect?
 
@@ -36,7 +36,31 @@ We transfer your files to the applications that you have chosen to share this in
 
 ## California Online Privacy Protection Act Compliance
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. Childrens Online Privacy Protection Act Compliance We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. Childrens Online Privacy Protection Act Compliance We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+## Data Integrity
+
+Filepicker processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+## Safe Harbor Framework
+
+Filepicker complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Filepicker has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Filepicker’s certification, please visit <http://export.gov/safeharbor/>.
+
+## Enforcement
+
+Enforcement – Customer Service is staffed to assist and support our customers’ activities and accounts, and also to enforce adherence to our User Agreement terms and conditions. Customer Service can suspend and/or terminate service for any account for breach of those terms or operating in a manner inconsistent with the terms of service. Filepicker’s Human Resources department also works closely with department heads to ensure policies are adhered to and when necessary to terminate employment for any employee, permanent or temporary, that breaches the terms of hire, or presents a security risk. 
+
+Filepicker regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Filepicker's treatment of personal information by contacting us through this web site or by writing to us at Your Privacy Rights, c/o Filepicker, PO Box 29502 #23426, Las Vegas, NV 89126-9502. When we receive formal written complaints at this address, it is Filepicker's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Filepicker and an individual. 
+
+European residents with inquiries regarding data privacy can contact us at the above address or at privacy@filepicker.com. If, after contacting us, you believe your data privacy inquiry has not been resolved to your satisfaction, you may contact the Direct Marketing Association at: 
+
+Safe Harbor   
+Direct Marketing Association   
+1615 L St. NW, Ste 1100   
+Washington, DC 20036-5624   
+[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)   
+<https://thedma.org/consumer-guide/>   
+
 
 ## Online Privacy Policy Only 
 
@@ -48,18 +72,19 @@ By using our site, you consent to our web site privacy policy.
 
 ## Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on June 18, 2012
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on July 27, 2015
 
 ## Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Ink  
-188 King St. #603  
-San Francisco, CA 94107 
+Filepicker.io  
+10161 Park Run Drive, Suite 150  
+Las Vegas, NV 89145 
 
 ## Changes made to this Policy
 
+  * July 27, 2015: Added 'Data Integrity', 'Safe Harbor Framework' and 'Enforcement' sections.
   * June 18, 2013: Updated contact name from Filepicker.io to Ink
   * November 5, 2012: Updated contact address from Palo Alto to San Francisco
   * June 18, 2012: Updated contact address from Boston to Palo Alto
