@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623125248id_/https%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906051315id_/https%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy) for the most accurate reproduction.*
 
 # About - Legal - Privacy Policy - Vodafone Australia
 
