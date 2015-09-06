@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aimersoft.com privacy policy that was archived on 2015-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150517035932id_/http%3A//www.aimersoft.com/other/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aimersoft.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906034554id_/http%3A//www.aimersoft.com/other/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -96,7 +96,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="subNav" style="display:none; width:200px; left:200px;">
           <dl>
             <dt>Free Tools <img src="http://www.aimersoft.com/style/images/iconhot.gif" alt="hot"></dt>
-<dd class="pic"><a href="http://www.aimersoft.com/pdf-password-remover-online.html">PDF Password Remover Online</a></dd>
 <dd class="pic"><a href="http://www.aimersoft.com/free-youtube-downloader.html">Free YouTube Downloader <img src="http://www.aimersoft.com/style/images/iconnew.gif" alt="new"></a></dd>
 <dd class="pic"><a href="http://www.aimersoft.com/mac-free-youtube-downloader.html">Free YouTube Downloader Mac</a></dd>        </dl>
         </div>
@@ -112,6 +111,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 var isAndroid = navigator.userAgent.toLowerCase().match(/android/i) == "android";
 var isIphone = navigator.userAgent.toLowerCase().match(/iphone os/i) == "iphone os";
 var isIpad = navigator.userAgent.toLowerCase().match(/ipad/i) == "ipad";
+var isWin = navigator.userAgent.toLowerCase().match(/windows phone/i) == "windows phone";
 //toggle nav	
 $(".header .nav li .subNav dd").each(function(){
     $(this).find("span").prepend("<a href=''>Windows</a>");
@@ -125,7 +125,7 @@ $(".header .nav li .subNav dd span a").hover(function(){
 },function(){
 	$(".header .nav li .subNav dd span a").removeClass("curr");
 })
-if(isAndroid || isIpad || isIphone){	
+if(isAndroid || isIpad || isIphone || isWin){	
 $(".header .nav li a.title").bind('click',function(){
 var url = $(this).attr("href");
 if($(this).parent().find(".subNav").length){
