@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tetris.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622090131id_/http%3A//tetris.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tetris.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906112202id_/http%3A//tetris.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tetris | Official Web SiteTetris | Official Web Site
 
