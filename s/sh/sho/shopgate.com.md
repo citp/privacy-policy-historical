@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the shopgate.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014321id_/https%3A//www.shopgate.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopgate.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906143819id_/https%3A//www.shopgate.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Shopgate, privacy policy
+# Privacy Policy | Shopgate
+
+### Privacy Policy
 
 1) Shopgate Inc., based in 2225 E. Bayshore Road, Suite 200, Palo Alto, CA 94303 (subsequently “Shopgate” or “Provider”), uses the personal data of Buyers or Merchants (e.g. title, name, address, e-mail address, phone number, fax number, bank details) according to the regulations of the American data protection law.
 
