@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saleae.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324154202id_/https%3A//www.saleae.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saleae.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906151224id_/https%3A//www.saleae.com/privacypolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
@@ -10,7 +10,7 @@ By now you have read our Terms of Service. If you have not, please do so now as 
 
 Throughout this Agreement, we may use big fancy lawyer words, phrases, or ancient hieroglyphics, and it is important that you understand the meaning of them. The list is not all-encompassing and no definition should be considered binding to the point that it renders this Agreement nonsensical:
 
-  * “Saleae” refers to our company, known as “Saleae LLC”; our Site; our Service; our mascot which is a three-legged hamster named “Saleae”; or a combination of all or some of the preceding definitions, depending on the context in which the word is used;
+  * “Saleae” refers to our company, known as “Saleae, Inc.”; our Site; our Service; our mascot which is a three-legged hamster named “Saleae”; or a combination of all or some of the preceding definitions, depending on the context in which the word is used;
   
 
   * “Service” refers to the services that we provide through our Site, including our Site itself;
