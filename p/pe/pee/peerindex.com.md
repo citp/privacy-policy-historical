@@ -1,130 +1,39 @@
-> *The following text is extracted and transformed from the peerindex.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407122052id_/http%3A//www.peerindex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerindex.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906103005id_/https%3A//www.brandwatch.com/privacy-policy-2) for the most accurate reproduction.*
 
-# PeerIndex — Think People
+# Website Privacy Policy - Brandwatch
 
-### Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+**Brandwatch Privacy Statement**  
+Brandwatch has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer privacy. Privacy on the Brandwatch web site (the “Site”) is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
 
-PeerIndex Limited ("We") are committed to protecting and respecting your privacy.
+**Collected Information**  
+We require customers who register to use the services offered on our Site (collectively, the “Service”) to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organisation that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by logging into the Website and editing their Personal Information within Settings. Customers can view their updated profile to confirm their edits have been made.
 
-This policy (together with our terms of use [http://www.peerindex.com/terms.php](https://web.archive.org/terms.php) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Personal data is information that identifies you, such as your name, email address or image, or that can be used to identify you when combined with other information. 
+Brandwatch uses the information that we collect to set up the Service for individuals and their organisations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers are invited to receive an email newsletter by providing an email address. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to contact at brandwatch.com. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing contact at brandwatch.com at the time it is distributed, or at the time any customer registers for the Service.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is PeerIndex Limited of Second Floor, Cardiff House, Tilling Road, London, NW2 1LJ.
+Except as we explicitly state at the time we request information, or as provided for in the Brandwatch Master Subscription Agreement, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Brandwatch for marketing or promotional purposes. Brandwatch uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. Other third parties, such as content providers, may provide content on the web Site but they are not permitted to collect any information nor does Brandwatch share user information with these parties.
 
-### Information we may collect from you
+Customers of the Service will be using the Site to host data and information (“Customer Data”). Brandwatch will not review, share, distribute, print, or reference any such Customer Data except as provided in the Brandwatch Master Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
 
-We may collect and process the following data about you:
+Brandwatch may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyse non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.  
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Brandwatch will automatically send the friend a one-time email inviting them to visit the site.
 
-  * Information that you provide by filling in forms on our site http://www.peerindex.com (our site). We may also ask you for information when you report a problem with our site.
-  * If you contact us, we may keep a record of that correspondence.
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
-  * When you sign in to your account through third-party social networking sites, such as Facebook or Twitter, or third-party social media plug-ins and applications, you are allowing us to have access to both personal and non-personal data from your social media profile. That personal data may be publicly viewed and may possibly be used by other members of these sites. IP addresses
-  * We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+**Cookies**  
+When you interact with the Brandwatch Website we strive to make that experience easy and meaningful. When you come to our Web site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer’s hard drive and are used to tell us whether customers and visitors have visited the Site previously.
 
+Standing alone, cookies do not identify you personally. They merely recognize your browser. Unless you choose to identify yourself to Brandwatch, either by responding to a promotional offer, opening an account, or registering for a trial, you remain anonymous to Brandwatch.  Cookies come in two flavours: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. They include such information as a unique identifier for your browser.
 
+Brandwatch uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in. This information allows Brandwatch to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you have logged in and are required in order to use the Brandwatch application. Brandwatch uses persistent cookies, that only Brandwatch can read and use, to identify the fact that you are a Brandwatch customer or prior Brandwatch Website visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. Users who disable their Web browsers’ ability to accept cookies will be able to browse our Website but will not be able to successfully use our Service.
 
-### Cookies
+Third Party Cookies: We may from time to time engage third parties to track and analyse non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behaviour. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of Brandwatch is used only to provide us with information on site usage and is not shared with any other third parties.
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [detailed Cookie policy](https://web.archive.org/web/20150407122052id_/http%3A//www.peerindex.com/privacy.php#cookies) below.
+**Third-Party Sites**  
+The Site contains links to other web sites. Brandwatch is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
 
-### Where we store your personal data
+**Security**  
+Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Netscape Navigator, or Microsoft Internet Explorer versions 5.5 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. Brandwatch provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorised access, maintain data accuracy, and ensure the appropriate use of Data.
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+**Opt-Out Policy**  
+Brandwatch offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering the Service, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply send your request to contact at brandwatch.com.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-### Uses made of the information
-
-We use information held about you in the following ways:
-
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
-  * There are some circumstances when we may share personal data with trusted third party business partners.
-
-
-
-We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these.
-
-### Disclosure of your information
-
-We may disclose your personal information and personal data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-
-We may disclose your personal information to third parties:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If PeerIndex Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use <http://about.peerindex.com/terms/> and other agreements; or to protect the rights, property, or safety of PeerIndex Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-
-
-### Your rights
-
-You have the right to ask us not to process your personal data for marketing purposes. You can also exercise the right at any time by contacting us at support@peerindex.com.
-
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-### Access to information
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-### Changes to our privacy policy
-
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
-
-### Contact
-
-Don't be shy! Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@peerindex.com](mailto:support@peerindex.com "support@peerindex.com").
-
-Want to see what data we hold on you? 
-
-### __Detailed Cookie policy
-
-#### Why do we use cookies?
-
-We use cookies to help us remember your logged in status and site usage details to improve your user experience.
-
-#### What is a cookie?
-
-Cookies are simple text files stored on your computer or mobile device by a website server to help expedite load times and retrieval of basic information.
-
-#### How can I remove cookies?
-
-If you want, you can remove PeerIndex cookies but doing so may lessen the experience (and in some cases prevent you from logging in).
-
-To manually remove cookies, search for peerindex.com and www.peerindex.com in your browser privacy settings. Highlight the cookies that are shown and press delete. This will remove the cookies from your machine until you visit PeerIndex again.
-
-#### Which cookies do we use?
-
-##### PHPSESSID
-
-This cookie allows you to login to PeerIndex. This cookie is persistent and expires 1 year after login. If you logout this cookie is removed.
-
-##### _utma, _utmc, _utmb, _utmz, _utmx, _utmxx
-
-Set by Google Analytics to help us understand how people are using the site. They are persistent and you can learn more about them [here](http://www.google.co.uk/intl/en_uk/analytics/privacyoverview.html).
-
-##### _vis_opt_exp_*, _vis_opt_s
-
-Set by Visual Website Optimizer; used during experiments on what pages and functions produce the best experience. Learn more about the cookies [here](http://visualwebsiteoptimizer.com/knowledge/what-are-the-various-cookies-used-by-visual-website-optimizer/).
-
-##### mp_*_mixpanel
-
-Set by Mixpanel Analytics to help us understand how people are using the site so we can improve the experience. The cookie is persistent and lasts for 1 year. [Learn more about mixpanel cookies](https://mixpanel.com/privacy/) and [opt out](https://mixpanel.com/optout/).
-
-##### NREUM
-
-Used to track the performance of PeerIndex such as page load time and 404 errors and is set by our partner NewRelic. This is a session cookie and expires when you close the browser. Learn more about the cookie [here](https://newrelic.com/docs/subscriptions/what-cookies-does-newrelic-create).
-
-##### fmb_* and fbsr_*
-
-These are set by Facebook and are used to support logins and Facebook features such as Like button. They are persistent and set for 1 year.
-
-### Coral
-
-Head of Social Marketing
-
-“PiQ's biggest strength is that it gets rid of the things which stop us getting social marketing done. Tasks like finding influencers, easy reporting, using insight to beat our competition used to be overly complex, or we would have had to pay an agency to do it for us. Using PiQ, these obstacles have been removed and it's helping my team by more efficient, more productive and achieve bigger wins.” 
-
-* * *
+**Correcting & Updating Your Information**  
+If customers need to update or change registration information they may do so by editing the user or organisation record. To update a User Profile, log on to Brandwatch and select Settings to add or update information. To update billing information please email contact@brandwatch.com or call +44 (0)1273 234 290. To discontinue the Service and to have data deleted, email contact at brandwatch.com or call +44 (0)1273 234 290. Brandwatch will respond to your correction or update request within at most 30 days from the date of your request.
