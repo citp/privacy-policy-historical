@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tagul.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318053629id_/https%3A//tagul.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagul.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906113021id_/https%3A//tagul.com/privacy-policy) for the most accurate reproduction.*
 
 # Tagul » Privacy Policy
 
