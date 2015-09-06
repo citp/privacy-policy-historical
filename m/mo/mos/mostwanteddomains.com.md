@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostwanteddomains.com privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520233734id_/http%3A//mostwanteddomains.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostwanteddomains.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906233719id_/http%3A//mostwanteddomains.com/privacy-policy) for the most accurate reproduction.*
 
 # Most Wanted Domains | Domain Shop
 
