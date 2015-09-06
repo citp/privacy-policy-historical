@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkcu.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410103031id_/https%3A//www.landmarkcu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkcu.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906104152id_/https%3A//www.landmarkcu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Landmark Credit Union
 
@@ -83,8 +83,8 @@ Id: "loan-modal" (Only visible in editor)
 
 Apply now within Online Banking. If not registered for Online Banking, click Enroll to register.
 
-  * [Login](https://web.archive.org/web/20150410103031id_/https%3A//www.landmarkcu.com/login)
-  * [Enroll](https://web.archive.org/web/20150410103031id_/https%3A//www.landmarkcu.com/enroll)
+  * [Login](https://web.archive.org/web/20150906104152id_/https%3A//www.landmarkcu.com/login)
+  * [Enroll](https://web.archive.org/web/20150906104152id_/https%3A//www.landmarkcu.com/enroll)
 
 
 
@@ -94,7 +94,7 @@ Id: "account-modal" (Only visible in editor)
 
 Open your new account within Online Banking.  If not registered for Online Banking, click Enroll to register.
 
-  * [Login](https://web.archive.org/web/20150410103031id_/https%3A//www.landmarkcu.com/login)
-  * [Enroll](https://web.archive.org/web/20150410103031id_/https%3A//www.landmarkcu.com/enroll)
+  * [Login](https://web.archive.org/web/20150906104152id_/https%3A//www.landmarkcu.com/login)
+  * [Enroll](https://web.archive.org/web/20150906104152id_/https%3A//www.landmarkcu.com/enroll)
 
 
