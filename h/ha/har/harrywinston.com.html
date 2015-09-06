@@ -1,1523 +1,443 @@
-<!--The following is the downloaded HTML source of the harrywinston.com privacy policy that was archived on 2015-03-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150318085350id_/http%3A//www.harrywinston.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harrywinston.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906020211id_/http%3A//www.harrywinston.com/en/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script id="swo" src="https://web.archive.org/web/20120104022637/http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script><script id="gjsapi" src="https://www.google.com/jsapi" type="text/javascript"></script><script id="jquery" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
- <script type="text/javascript" src="http://www.google.com/jsapi"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
-     <script type="text/javascript" src="/account/config"></script>
-       <script type="text/javascript" src="//connect.facebook.net/en_US/all.js"></script>
-    
-    <script src="https://dev4csx.blob.core.windows.net/system/html5/html5.js" type="text/javascript"></script>
-
-     
-
-    <link href="http://storage.harrywinston.com/shared/css/site-dev.css" rel="stylesheet" type="text/css"> 
-    
-    
-    <script src="http://storage.harrywinston.com/shared/js/jquery.selectbox-0.5.js" type="text/javascript"></script>
-    <script src="/Scripts/MicrosoftAjax.debug.js" type="text/javascript"></script>
-    <script src="/Scripts/MicrosoftMvcAjax.debug.js" type="text/javascript"></script>
-    <script src="/Scripts/MicrosoftMvcValidation.debug.js" type="text/javascript"></script>
-
-    <!--[if lte IE 8]>
-        <link href="http://storage.harrywinston.com/shared/css/ie-only.css" rel="stylesheet" type="text/css"></link>
-<![endif]-->
-    <script type="text/javascript">
-
-        function checkEnter(e) {
-            var val = $('.headerSearchField').val()
-
-            if (!e) e = window.event;
-            if (e.keyCode == 13 && $('.headerSearchField').val().length > 0) {
-                window.location = "/Search/" + val
-                // window.location = 'search?q=' + $('.headerSearchField').val();
-            }
-        }
-
-        function searchOnBlur(e) {
-            if (!e) e = window.event;
-            var el;
-            var t;
-            if (e.currentTarget) {
-                el = e.currentTarget;
-                t = el.value;
-            }
-            else {
-                el = e.srcElement;
-                t = el.value
-            }
-            while (t.charAt(0) == " ") {
-                t = t.substring(1);
-            }
-            while (t.charAt(t.length - 1) == " ") {
-                t = t.substring(0, t.length - 1);
-            }
-            if (t.length == 0) {
-
-                el.value = "Search";
-                el.style.color = "#aaaaaa";
-                searchFlag = false;
-            }
-            else {
-                el.value = t;
-                el.style.color = "#000";
-                searchFlag = true
-            }
-
-        }
-
-        var searchFlag = false;
-        function searchOnFocus(e) {
-            if (!e) e = window.event;
-            var el;
-            var t;
-            if (e.currentTarget) {
-                el = e.currentTarget;
-                t = el.value;
-            }
-            else {
-                el = e.srcElement;
-                t = el.value
-            }
-            if (!searchFlag) {
-                el.value = "";
-                el.style.color = "#000";
-            }
-
-        }
-
-
-        function MM_swapImgRestore() { //v3.0
-            var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
-        }
-        function MM_preloadImages() { //v3.0
-            var d = document; if (d.images) {
-                if (!d.MM_p) d.MM_p = new Array();
-                var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
-                    if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; }
-            }
-        }
-
-        function MM_findObj(n, d) { //v4.01
-            var p, i, x; if (!d) d = document; if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
-                d = parent.frames[n.substring(p + 1)].document; n = n.substring(0, p);
-            }
-            if (!(x = d[n]) && d.all) x = d.all[n]; for (i = 0; !x && i < d.forms.length; i++) x = d.forms[i][n];
-            for (i = 0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
-            if (!x && d.getElementById) x = d.getElementById(n); return x;
-        }
-
-        function MM_swapImage() { //v3.0
-            var i, j = 0, x, a = MM_swapImage.arguments; document.MM_sr = new Array; for (i = 0; i < (a.length - 2); i += 3)
-                if ((x = MM_findObj(a[i])) != null) { document.MM_sr[j++] = x; if (!x.oSrc) x.oSrc = x.src; x.src = a[i + 2]; }
-        }
-
-        function newPopup(url, width, height) {
-            var left = (window.screen.width - width) / 2;
-            var top = (window.screen.height - height) / 2;
-            var str = "location=0,status=0,scrollbars=0,menubar=0,resizable=0,width=" + width + ",height=" + height + ", top=" + top + ", left=" + left;
-            var mywindow = window.open(url, "", str);
-            mywindow.focus();
-        }
-        function openFullScreen(url) {
-            //var str = "toolbar=no, fullscreen=yes";
-            var width = screen.availWidth;
-            var height = screen.availHeight;
-            var left = 0;
-            var top = 0;
-            var str = "location=0,status=0,scrollbars=0,menubar=0,width=" + width + ",height=" + height + ", top=" + top + ", left=" + left;
-
-            var mywindow = window.open(url, "", str);
-            mywindow.focus();
-        }
-        //-->
-    </script>
-    <style type="text/css">
-        .usa-only
-        {
-            /* display: none;*/
-        }
-        .non-usa
-        {
-            display: none;
-        }
-    </style>
-    
-
-    <title>Privacy Policy</title>
-
-    <link href="https://plus.google.com/{+PageId}" rel="publisher">
-</head>
-<body class="revd062113"><script id="ga_track" src="https://web.archive.org/web/20120104022637/https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script src="/api/connect.js" type="text/javascript"></script><script id="mlc" src="https://web.archive.org/web/20111005084342/https://dev4csx.blob.core.windows.net/system/mlc.js" type="text/javascript"></script>
-<div id="fb-root"></div>
- <script type="text/javascript">
-     FB.init({
-         appId: window.fbappid,
-         status: true,
-         cookie: true,
-         xfbml: true,
-         oauth: true
-     });
-    </script>
-<div class="container">
-<header>
-<div id="logo">
-<a href="/"><img alt="Harry Winston" src="http://storage.harrywinston.com/shared/images/hw-logo-new.png"></a>
-</div>
-
-<div id="topnav">
-<ul>
-<li><a href="/client-services">Client Services</a></li>
-<li><a href="/email-signup">email sign up</a></li>
-
-<li>SEARCH
-<input id="Text1" onkeypress="checkEnter(event)" class="headerSearchField" type="text">
-</li>
-</ul>
-</div>
-
-
-<div id="navbar">
-<ul>
-<li class="navEngagement"><a href="/landing/engagement" class="imgreplace">Engagement</a></li>
-<li class="navJewels"><a href="/landing/jewels" class="imgreplace">Jewels</a></li>
-<li class="navIncredibles"><a href="/incredibles" class="imgreplace">The Incredibles</a></li>
-<li class="navTimepieces"><a href="/landing/timepieces" class="imgreplace">Timepieces</a></li>
-<li class="navStory"><a href="/our-story" class="imgreplace">Our Story</a></li>
-<li class="navVisit"><a href="/visit-us" class="imgreplace">Visit Us</a></li>
-</ul>
-</div>
-
-</header>
-        
-        <div class="content">
-            
-<link href="http://storage.harrywinston.com/pages/privacy/css/Privacy.css" rel="stylesheet" type="text/css">
-<div id="title">
-    <img src="http://storage.harrywinston.com/pages/privacy/images/Privacy.jpg" width="304" height="150" alt="Privacy Policy">
-</div>
-<style>
-    .privacy-text li
-    {
-        line-height: 16px;
-    }
-    
-    .privacy-text li a[href]
-    {
-        color: #000;
-        text-decoration: underline;
-    }
-    
-    #HW-address p
-    {
-        line-height: 16px;
-        font-style: normal;
-        margin: 0;
-    }
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://www.harrywinston.com/sites/all/themes/harryw/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="description" content="Harry Winston knows that your privacy is important to you, and we want you to know that it is important to us too. We created this Privacy Policy to explain the types of information we collect through our Web sites (on which it is linked to in the footer) and the various social networking platforms that we use (each, a “Website”). This Privacy Policy does not apply to information that we collect offline, such as in our retail salons.">
+<meta name="keywords" content="harry,winston,high,jewelry,timepieces,secrets,wedding,engagement,jeweler,diamonds">
+<meta name="generator" content="actweb agence digitale">
+<meta name="rights" content="Harry Winston">
+<link rel="canonical" href="http://www.harrywinston.com/en/privacy-policy">
+<link rel="shortlink" href="http://www.harrywinston.com/en/node/2079">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Harry Winston knows that your privacy is important to you, and we want you to know that it is important to us too. We created this Privacy Policy to explain the types of information we collect through our Web sites (on which it is linked to in the footer) and the various social networking platforms that we use (each, a “Website”). This Privacy Policy does not apply to information that we collect offline, such as in our retail salons.">
+<meta property="og:updated_time" content="2015-07-07T18:24:48+02:00">
+<meta property="article:published_time" content="2015-01-01T19:03:13+01:00">
+<meta property="article:modified_time" content="2015-07-07T18:24:48+02:00">
+  <title>Privacy Policy | Harry Winston</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=750, user-scalable=0">
+    <link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/harryw/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/sites/all/themes/harryw/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/harryw/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/harryw/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/harryw/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/harryw/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/harryw/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/harryw/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/harryw/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="/sites/all/themes/harryw/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/sites/all/themes/harryw/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/sites/all/themes/harryw/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/sites/all/themes/harryw/favicon-16x16.png">
+  <style type="text/css" media="all">
+@import url("http://www.harrywinston.com/modules/system/system.base.css?nu5mvj");
+@import url("http://www.harrywinston.com/modules/system/system.menus.css?nu5mvj");
+@import url("http://www.harrywinston.com/modules/system/system.messages.css?nu5mvj");
+@import url("http://www.harrywinston.com/modules/system/system.theme.css?nu5mvj");
 </style>
-<script>
-    $(document).ready(function () {
-        $('.show-region').click(function () {
-            $('.privacy-region').hide();
-            $('.' + $(this).attr('rel')).show();
-        });
-    });
+<style type="text/css" media="all">
+@import url("http://www.harrywinston.com/sites/all/modules/contrib/simplenews/simplenews.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/modules/contrib/adaptive_image/css/adaptive-image.css?nu5mvj");
+@import url("http://www.harrywinston.com/modules/field/theme/field.css?nu5mvj");
+@import url("http://www.harrywinston.com/modules/node/node.css?nu5mvj");
+@import url("http://www.harrywinston.com/modules/user/user.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/modules/contrib/views/css/views.css?nu5mvj");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.harrywinston.com/sites/all/modules/contrib/colorbox/styles/stockholmsyndrome/colorbox_style.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/modules/contrib/ctools/css/ctools.css?nu5mvj");
+@import url("http://www.harrywinston.com/modules/locale/locale.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/modules/contrib/print/print_ui/css/print_ui.theme.css?nu5mvj");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.harrywinston.com/sites/all/themes/harryw/css/styles.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/themes/harryw/css/base.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/themes/harryw/css/taxonomy.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/themes/harryw/css/module-tooltip-share.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/themes/harryw/css/select.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/themes/harryw/css/wedding.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/themes/harryw/css/news.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/themes/harryw/js/lib/fancybox/jquery.fancybox.css?nu5mvj");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.harrywinston.com/sites/all/themes/harryw/js/lib/bxslider/jquery.bxslider.css?nu5mvj");
+@import url("http://www.harrywinston.com/sites/all/themes/harryw/js/lib/tooltipster/jquery.tooltipster.css?nu5mvj");
+</style>
+
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="http://www.harrywinston.com/sites/all/themes/harryw/css/ie.css?nu5mvj" media="all" />
+<![endif]-->
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';
+//--><!]]>
 </script>
-<div id="text" class="privacy-text">
-    <div>
-        <a href="javascript:void(0);" class="show-US show-region" rel="privacy-US">US</a>
-        | <a href="javascript:void(0);" class="show-FR show-region" rel="privacy-FR">France</a>
-        | <a href="javascript:void(0);" class="show-AS show-region" rel="privacy-AS">China</a>
-    </div>
-    <div class="privacy-FR privacy-region" style="display: none;">
-        <h3>
-            Politique de Confidentialité de Harry Winston : Vos droits à la vie privée</h3>
-        <p>
-            Harry Winston sait combien la protection de votre vie privée est importante à vos
-            yeux, et nous voulons que vous sachiez que cela nous tient également à cœur. Nous
-            avons établi la présente Politique de Confidentialité pour expliquer les différents
-            types de données que nous collectons à travers nos sites web (vers lesquels vous
-            trouverez des liens en bas de page) et les diverses plateformes de réseaux sociaux
-            dont nous nous servons (ci-après dénommées individuellement un « Site »), ainsi
-            que dans nos salons de vente au détail. La présente Politique de Confidentialité
-            décrit les données personnelles vous concernant que nous collectons ou que vous
-            nous fournissez, la manière dont vos données personnelles seront traitées et la
-            façon dont vous pouvez vous désengager de certaines de nos utilisations de vos données.
-        </p>
-        <p>
-            Vous trouverez ci-après quelques principes généraux à garder à l’esprit à mesure
-            que vous lirez la présente Politique :</p>
-        <ul>
-            <li>Le Site et nos salons de vente au détail appartiennent et sont gérés par Harry Winston,
-                Inc. et ses sociétés affiliées. En France, cette société affiliée est Harry Winston,
-                SARL, 29 Avenue Montaigne 75008 Paris, inscrite au Registre du Commerce et des Sociétés
-                de Paris sous le numéro 572 220 408, qui est le contrôleur des données (ci-après
-                dénommé collectivement dans la présente politique « nous », « notre », « nos » et
-                autres pronoms similaires). </li>
-            <li>Comme notre activité évolue, la présente Politique peut changer et nous vous invitons
-                donc à consulter périodiquement cette page afin de vous assurer que vous comprenez
-                bien la manière dont vos données personnelles seront traitées.</li>
-            <li>La présente Politique fait partie intégrante de nos <a href="http://www.harrywinston.com/terms">
-                Conditions générales d’utilisation</a>, qui régissent votre utilisation de nos Sites
-                dans leur ensemble.</li>
-            <li><strong>Si vous résidez en dehors des États-Unis, vous devez savoir que les données
-                que vous nous fournissez sont transmises à Harry Winston Inc., 718 Fifth Avenue,
-                New York, NY 10019, États-Unis et traitées aux États-Unis aux fins définies dans
-                la présente Politique de Confidentialité. Un niveau adéquat de protection de vos
-                Données personnelles est assuré car vos Données personnelles seront protégées par
-                la présente Politique de Confidentialité et par les clauses contractuelles types
-                établies par la Commission européenne et/ou d’autres accords relatifs aux transferts
-                de données. Le transfert a été [notifié / approuvé] par la CNIL [ajouter le numéro
-                de l’autorisation le cas échéant]. En envoyant vos données personnelles, vous acceptez
-                leur transfert, leur stockage et leur traitement. Nous prendrons les mesures raisonnablement
-                nécessaires pour nous assurer que vos données sont traitées en toute sécurité et
-                conformément à la présente Politique de Confidentialité. Ces mesures sont décrites
-                ci-après en détail.</strong></li>
-            <li><strong>En outre, ce Site place des cookies et des objets locaux partagés décrits
-                ci-après sur votre ordinateur ou sur votre appareil.</strong></li>
-        </ul>
-        <h3>
-            Engagement et désengagement</h3>
-        <p>
-            Vous avez le droit d’opter pour ou contre certaines de nos utilisations de vos Données
-            personnelles.
-        </p>
-        <p>
-            Nous pouvons utiliser vos Données personnelles ou autoriser des tierces parties
-            soigneusement sélectionnées à utiliser vos données, à vous fournir des informations
-            concernant des biens et des services pouvant vous intéresser et nous pourrons ou
-            lesdites tierces parties pourront vous contacter par courrier ou par téléphone.</p>
-        <p>
-            Si vous êtes déjà client, nous ne vous contacterons que par voie électronique (e-mail
-            ou SMS) pour vous donner des informations au sujet de biens et de services similaires
-            à ceux ayant fait l’objet d’un achat antérieur de votre part.</p>
-        <p>
-            Si vous êtes un nouveau client, et si nous autorisons des tierces parties soigneusement
-            sélectionnées à utiliser vos données, nous (ou lesdites parties) ne vous contacterons
-            par voie électronique que si vous avez opté pour ce mode de communication et si
-            vous y avez consenti.</p>
-        <p>
-            Si vous ne voulez pas que nous utilisions ainsi vos données ou que nous transmettions
-            vos coordonnées à des tierces parties à des fins commerciales, veuillez vous désengager
-            en cochant la case correspondante située sur le formulaire par lequel nous collectons
-            vos données. Autrement, vous pouvez contacter le Service Clientèle de Harry Winston
-            à tout moment à l’adresse suivante : <a href="mailto:clientservices@harrywinston.com">
-                clientservices@harrywinston.com</a>.
-        </p>
-        <p>
-            Nous vous remercions de comprendre le délai qui peut nous être nécessaire pour traiter
-            toute demande de désengagement et que même si vous avez choisi de ne pas recevoir
-            de courriers publicitaires de notre part, nous pourrons tout de même vous contacter
-            au sujet de vos rapports, de vos activités, de vos transactions et de vos communications
-            avec nous. De même, pour arrêter de recevoir des messages publicitaires de la part
-            de tierces parties qui disposent déjà de vos coordonnées, veuillez prendre directement
-            contact avec elles.</p>
-        <h3>
-            Quelles sont les données qui sont collectées sur ce Site ?</h3>
-        <p>
-            </p><blockquote>
-                <i>Données fournies par l’utilisateur</i></blockquote>
-        <p></p>
-        <p>
-            Les « Données personnelles » sont des informations qui peuvent être utilisées pour
-            vous identifier en tant personne physique ou pour permettre à quelqu’un de vous
-            contacter, ainsi que des informations attribuées avec ces informations. Nous collectons
-            les Données personnelles telles que votre nom ; le nom de votre employeur ; vos
-            jour et mois de naissance ; vos adresses postales ; vos adresses e-mail ; vos numéros
-            de téléphone ; vos numéros de télécopie ; les adresses de vos appareils sans fil
-            (y compris les adresses des messages texte) ; votre photographie ; votre sexe ;
-            les données concernant votre carte de crédit et autres moyens de paiement ; votre
-            historique d’achats, de visites du Site et de transactions ; les informations concernant
-            votre historique professionnel et vos candidatures ; et vos intérêts, loisirs et
-            données démographiques. Nous collectons des Données personnelles par exemple lorsque
-            vous faites un achat ou que vous demandez des renseignements dans l’un de nos salons
-            ; lorsque vous procédez à une transaction sur notre Site ; lorsque vous vous inscrivez
-            sur notre Site ou dans un salon ; lorsque vous vous inscrivez pour recevoir des
-            e-mails de notre part ; lorsque vous demandez un catalogue ; lorsque vous demandez
-            à un membre de notre personnel de ventes de vous contacter ; lorsque vous convenez
-            d’un rendez-vous dans notre salon ; lorsque vous créez un compte sur notre Site
-            ; lorsque vous créez une liste de souhaits sur notre Site ; lorsque vous vous inscrivez
-            pour recevoir notre bulletin d’informations ; lorsque vous participez à des tirages
-            au sort et à des concours ; lorsque vous répondez à des enquêtes ; lorsque vous
-            participez à une salle de conversation, à un bulletin d’information, à une liste
-            de diffusion, à un blog, à un wiki ou à tout autre forum social sur le Site ; ou
-            lorsque vous nous adressez un commentaire ou une question en vous servant de la
-            fonction « Nous contacter » ou d’une fonction similaire sur le Site.
-        </p>
-        <p>
-            Certaines des Données personnelles que nous vous demandons sont nécessaires pour
-            que vous puissiez utiliser notre Site et nos services. Si vous ne souhaitez pas
-            nous fournir ces Données personnelles, vous n’y êtes pas obligé(e) mais, de ce fait,
-            vous ne pourrez pas utiliser les services proposés sur notre Site. Toutefois, certaines
-            des Données personnelles que nous vous demandons sont facultatives. Cela signifie
-            que vous pourrez choisir de ne pas nous les fournir et que vous pourrez tout de
-            même utiliser les services proposés sur notre Site. Dans la plupart des cas, nous
-            identifions les Données personnelles obligatoires en faisant figurer un astérisque
-            (*) à côté du champ sur lequel nous demandons de porter les Données personnelles
-            obligatoires.</p>
-        <p>
-            <u>Formulaire IRS 8300</u>: En outre, aux États-Unis, lorsque vous payez en espèces
-            un achat de plus de dix mille dollars (10 000 $) dans l’une de nos boutiques, vous
-            devrez remplir un Formulaire IRS 8300, qui comprend votre Numéro d’identification
-            de contribuable et le numéro et les informations concernant votre Pièce d’identité
-            (telles que les informations concernant votre permis de conduire ou une pièce d’identité
-            délivrée par un organisme d’état ou fédéral) et nous permettre de faire une photocopie
-            de votre pièce d’identité. Vous devrez remplir et signer ce formulaire imprimé,
-            nous l’enverrons avec une photocopie de votre pièce d’identité à l’administration
-            fiscale (IRS) et nous en conserverons un exemplaire dans un endroit physiquement
-            sécurisé conformément à notre politique de conservation de dossiers jusqu’à ce que
-            nous les détruisions. Seul le personnel de Harry Winston en ayant un besoin commercial
-            légitime aura accès aux Formulaires IRS 8300 remplis.</p>
-        <p>
-            <u>Lutte contre le blanchiment d’argent</u>: Dans certains cas, lorsque vous faites
-            un achat dans des circonstances correspondant à certains critères définis par Harry
-            Winston ou conformes à la réglementation en vigueur, vous devrez présenter une pièce
-            d’identité, comme par exemple un permis de conduire ou une carte d’identité ou un
-            passeport délivré(e) par les autorités gouvernementales. Nous pourrons faire une
-            photocopie dudit document et le conserver dans un endroit physiquement sécurisé
-            conformément à notre politique de conservation de dossiers.</p>
-        <p>
-            <u>Achats à crédit</u>: Pour certaines transactions impliquant un octroi de crédit,
-            vous devrez présenter une pièce d’identité, comme par exemple un permis de conduire
-            ou une carte d’identité ou un passeport délivré(e) par les autorités gouvernementales.
-            Nous ferons une photocopie dudit document et nous le conserverons dans un endroit
-            physiquement sécurisé conformément à notre politique de conservation de dossiers.</p>
-        <p>
-            <u>Achats exonérés de taxes ou de TVA</u>: Lorsque vous faites un achat exonéré
-            de taxes, il pourra vous être demandé de présenter une pièce d’identité, comme par
-            exemple un permis de conduire ou une carte d’identité ou un passeport délivré(e)
-            par les autorités gouvernementales. Nous ferons une photocopie dudit document et
-            nous le conserverons dans un endroit physiquement sécurisé conformément à notre
-            politique de conservation de dossiers.</p>
-        <p>
-            Une fonction « Envoyer à un ami » figurant sur le Site et/ou dans nos e-mails vous
-            permet d’envoyer des informations au sujet de nos produits à des amis ou à des proches.
-            Veuillez vous assurer que vous n’envoyez des communications qu’à des amis ou à des
-            proches qui souhaitent recevoir les informations que vous leur envoyez. Vous pouvez
-            également acheter des cadeaux pour quelqu’un d’autre sur notre Site ou dans nos
-            salons. Lorsque vous faites usage de ces offres, nous vous demandons le nom et les
-            coordonnées de l’autre personne, et ces informations seront protégées conformément
-            à la présente politique de confidentialité. Nous ne nous servirons pas des données
-            de l’autre personne à d’autres fins sans leur accord.</p>
-        <p>
-            </p><blockquote>
-                <i>Informations relatives à l’utilisation du site</i></blockquote>
-        <p></p>
-        <p>
-            Comme beaucoup de sites web, nos serveurs collectent automatiquement votre adresse
-            IP lorsque vous visitez notre Site et nous pouvons y associer votre nom de domaine
-            ou d’hôte ou celui de votre fournisseur d’accès Internet. Nous pouvons également
-            capturer certaines « données de parcours de navigation » correspondant à votre utilisation
-            du Site. Les données de parcours de navigation comprennent, par exemple, des informations
-            concernant votre ordinateur ou votre appareil, votre navigateur Internet et votre
-            système d’exploitation et leurs paramètres, la page d’origine dont un lien vous
-            a envoyé(e) sur le Site, les pages, contenus ou publicités que vous voyez ou sur
-            lesquel(le)s vous cliquez au cours de votre visite et à quel moment et pendant combien
-            de temps vous vous y connectez, les éléments que vous avez téléchargés, le site
-            web suivant que vous visitez lorsque vous quittez le Site, et tous les termes de
-            recherche que vous avez saisis sur le Site ou sur un site d’aiguillage.
-        </p>
-        <p>
-            En outre, nous pouvons déployer plusieurs technologies de repérage sur le Site en
-            vue de collecter des informations additionnelles relatives à vos visites sur le
-            Site, avec votre accord. Par exemple :</p>
-        <p>
-            Les cookies sont de petits fichiers de données stockés sur votre ordinateur ou sur
-            votre appareil à la demande d’un site web. Un cookie attribue un identifiant numérique
-            unique à votre navigateur Internet et peut permettre de vous reconnaître comme étant
-            le même utilisateur qui est venu sur le Site par le passé et lier votre utilisation
-            du Site à d’autres informations vous concernant, telles que des informations relatives
-            à votre utilisation du Site et vos Données personnelles. Les cookies peuvent être
-            également utilisés pour améliorer votre expérience sur le Site (par exemple, en
-            mémorisant votre identifiant afin que vous puissiez vous connecter facilement, en
-            vous maintenant connecté(e) sur le Site une fois que vous aurez fourni votre mot
-            de passe et en mémorisant le contenu de votre panier d’achat tout au long de votre
-            visite) ou pour collecter l’utilisation générale et l’ensemble des informations
-            statistiques et détecter et prévenir la fraude ou pour afficher sur notre Site des
-            messages publicitaires spécialement choisis pour vous. Vous pouvez désactiver les
-            cookies de votre navigateur et effacer tous les cookies actuellement stockés sur
-            votre ordinateur. Sur Microsoft Internet Explorer, vous pouvez le faire en choisissant
-            « Outils/Options Internet » et en modifiant vos paramètres de confidentialité ou
-            en choisissant « Supprimer les cookies ». Il convient toutefois de noter que cela
-            peut vous empêcher de profiter pleinement du Site. Vous pouvez trouver comment procéder
-            sur votre propre navigateur en cliquant sur « Aide » sur le menu de votre navigateur
-            ou en vous rendant sur <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.</p>
-        <p>
-            Les objets locaux partagés, comme par exemple les « cookies Flash » peuvent être
-            stockés sur votre ordinateur ou votre appareil au moyen d’un lecteur multimédia
-            ou un autre logiciel installé sur votre ordinateur ou sur votre appareil. L’action
-            des objets locaux partagés ressemble beaucoup à celle des cookies, mais ils ne peuvent
-            pas être gérés de la même façon. En fonction de la manière dont les objets locaux
-            partagés sont configurés sur votre ordinateur ou sur votre appareil, vous pouvez
-            les gérer en utilisant les paramètres du logiciel. Pour plus d’informations sur
-            la gestion des cookies Flash, par exemple, <a href="http://kb2.adobe.com/cps/526/52697ee8.html" target="_blank">cliquez ici</a>.
-        </p>
-        <p>
-            HTML5 (le langage dans lequel certains sites web sont codés) peut être utilisé pour
-            mémoriser sur votre ordinateur ou sur votre appareil des informations concernant
-            vos activités relatives à l’utilisation du Site. Nous pourrons récupérer ces informations
-            pour déterminer la manière dont notre Site est utilisé par nos visiteurs et comment
-            il peut être amélioré et personnalisé pour nos utilisateurs.</p>
-        <p>
-            Un pixel invisible (également dénommé « GIF invisible » ou « balise Web ») est une
-            minuscule image – typiquement juste un pixel – qui peut être placée sur une page
-            web ou dans les communications électroniques que nous vous adressons afin de mesurer
-            l’efficacité de notre contenu, par exemple en comptant le nombre de personnes qui
-            nous visitent en ligne ou en vérifiant si vous avez ouvert un de nos emails ou regardé
-            une de nos pages web.
-        </p>
-        <p>
-            Ces technologies de repérage peuvent être déployées par nous-mêmes et/ou par nos
-            prestataires de services ou partenaires pour notre compte. Ces technologies nous
-            permettent de vous attribuer un numéro unique et de relier les Informations relatives
-            à votre Utilisation du Site à d’autres informations vous concernant, y compris à
-            vos Données personnelles.</p>
-        <h3>
-            Comment vos informations sont-elles utilisées ?</h3>
-        <p>
-            Nous pouvons nous servir et/ou nos prestataires de services peuvent se servir des
-            informations que nous collectons en votre provenance et vous concernant afin d’exécuter
-            les fonctions commerciales suivantes :</p>
-        <p>
-            traiter et exécuter vos transactions
-            <br>
-            permettre aux utilisateurs de faire usage de notre Site et de ses fonctions
-            <br>
-            administrer le Site, ses fonctions et votre crédit ou un autre compte chez nous
-            <br>
-            répondre à vos demandes, questions et inquiétudes
-            <br>
-            réaliser des études de marché
-            <br>
-            développer de nouvelles fonctions et offres
-            <br>
-            en fonction des préférences de communications que vous nous avez communiquées, vous
-            envoyer des informations publicitaires et autres, y compris des informations au
-            sujet des produits, des services et des événements, de notre gamme ou d’autres gammes,
-            qui, à notre avis, pourraient vous intéresser. (vos droits à cet égard sont décrits
-            dans la section Droit d’engagement et de désengagement ci-dessus.)
-            <br>
-            protéger nos droits et nos biens
-            <br>
-            recouvrer nos créances et prévenir la fraude
-            <br>
-            personnaliser notre Site pour qu’il corresponde à vos intérêts et à votre historique
-            chez nous
-            <br>
-            personnaliser les publicités affichées sur notre Site à votre attention pour qu’elles
-            correspondent à vos intérêts et à votre historique
-            <br>
-            gérer votre participation à un concours, à une promotion ou à des tirages au sort
-            <br>
-            traiter votre candidature à un poste de travail
-            <br>
-            satisfaire à nos obligations découlant de contrats conclus entre vous et nous
-            <br>
-            fournir des services de conservation et de réparation des produits
-            <br>
-            convenir d’un rendez-vous dans un salon ou gérer votre participation à un séminaire
-            ou à un événement
-            <br>
-            autres fins qui vous sont communiquées lorsque des données personnelles nous sont
-            fournies</p>
-        <p>
-            Pour exécuter les fonctions ci-dessus, nous pouvons combiner des informations vous
-            concernant collectées par différents moyens ou à différentes dates, y compris à
-            la fois des Données personnelles et des Informations d’Utilisation du Site, et nous
-            servir de ces informations en même temps que des informations obtenues d’autres
-            sources (y compris de tierces parties) telles que des données démographiques et
-            des coordonnées mises à jour. Cela nous permet de maintenir l’exactitude de vos
-            Données personnelles et de comprendre et d’améliorer nos offres de produits et de
-            services. Nous pourrons, de même que nos prestataires de services, nous servir de
-            vos données pour évaluer le niveau d’intérêt porté au Site, et le niveau d’utilisation
-            de celui-ci, en vous avertissant des modifications apportées à notre service, à
-            nos e-mails et à nos autres campagnes par voie de messages tant individuellement
-            que pour l’ensemble des utilisateurs.
-        </p>
-        <h3>
-            Réseaux sociaux</h3>
-        <p>
-            Nous sommes présents sur plusieurs réseaux sociaux et plateformes de blogs, et nous
-            incorporons également quelques fonctions de réseaux sociaux de tierces parties sur
-            notre Site. À travers ces plateformes et ces fonctions, nous recevons quelques Données
-            personnelles (telles que votre nom, votre adresse e-mail, votre sexe, votre date
-            de naissance, la ville où vous habitez) et quelques Informations d’Utilisation du
-            Site vous concernant, et la présente Politique de Confidentialité s’applique également
-            à ces informations. En outre, les plateformes de réseaux sociaux et les plateformes
-            de blogs de tierces parties disposent de leurs propres politiques de confidentialité
-            qui expliquent la manière dont les tierces parties qui nous les fournissent utilisent
-            et protègent vos informations. Conformément à ces politiques (et à vos paramètres
-            de confidentialité dans vos comptes de réseaux sociaux) les informations relatives
-            à vos activités sur notre Site (telles que « Mary Jane “ aime ” notre collier de
-            Diamants Tassel ») peuvent être publiées dans votre réseau social.
-        </p>
-        <h3>
-            Est-ce que nous partageons les Données personnelles et les Informations d’Utilisation
-            du Site avec des tiers ?</h3>
-        <p>
-            Oui. Nous pouvons partager les données que nous collectons sur le Site et dans nos
-            salons avec des tiers pour de nombreuses raisons. Nous ne divulguerons pas, ni n’échangerons,
-            ni ne louerons, ni ne vendrons, ni ne transmettrons autrement vos données personnelles
-            sans votre accord, sauf dans les limites prévues aux présentes et conformément à
-            la réglementation en vigueur. Outre les types de partages d’informations auxquels
-            vous pourriez vous attendre, comme par exemple le partage avec des tierces parties
-            ayant besoin de vos données afin de nous fournir des services (ou de fournir des
-            services pour notre compte et sous réserve de nos engagements de confidentialité)
-            et le partage que vous publiez volontairement sur des sections publiques sur le
-            Site avec d’autres utilisateurs du Site, nous pouvons partager vos données :</p>
-        <p>
-            avec nos sociétés affiliées (pour qu’elles fournissent des services pour notre compte)
-            <br>
-            avec des tierces parties non affiliées, à des fins de publicité ou à d’autres fins,
-            si vous avez opté pour ce partage
-            <br>
-            avec notre ou nos autre(s) commanditaire(s) si nous obtenons vos données en rapport
-            avec un concours, des tirages au sort, des offres ou une autre activité publicitaire
-            proposé(e)(s) conjointement par nous-mêmes et par tous tiers, sauf si vous nous
-            avez demandé de nous en abstenir en suivant les instructions de la section Engagement
-            et désengagement ci-dessus
-            <br>
-            lorsque nous estimons de bonne foi que la divulgation s’avère nécessaire pour protéger
-            nos droits ou notre propriété, pour protéger votre sécurité et celle d’autres personnes,
-            pour authentifier des transactions et l’identité de personnes faisant des achats
-            ou pour enquêter ou prévenir la fraude ou une activité illégale, pour répondre à
-            une demande des autorités, d’application de la réglementation, à une demande judiciaire
-            ou légale, ou pour nous conformer à des obligations légales à l’endroit où nous-mêmes
-            ou nos prestataires de services sommes situés.
-            <br>
-            avec des organismes de crédit, comme par exemple dans le cas de retards de paiements,
-            de défauts de paiement ou d’autres manquements sur votre compte
-            <br>
-            en rapport avec une modification ou une dissolution d’entreprise, y compris, par
-            exemple, une fusion, une acquisition, une réorganisation, une consolidation, une
-            banqueroute, une liquidation, une vente d’actifs ou une réduction de l’entreprise,
-            auquel cas nous pourrons communiquer vos données personnelles au vendeur ou à l’acheteur
-            potentiel.
-            <br>
-            si les lois en vigueur l’exigent ou le permettent.</p>
-        <p>
-            En outre, nous pourrons partager les Informations d’Utilisation du Site ne vous
-            identifiant pas personnellement (y compris l’ensemble des données) avec des tiers,
-            pour leur propre usage, sous une forme n’incluant ni votre nom ni vos coordonnées.
-        </p>
-        <h3>
-            Service de message texte</h3>
-        <p>
-            Nous pourrons chercher à vous adresser des messages sur votre appareil portable
-            par un service de messages courts (« Messagerie Texte »). Si vous vous inscrivez
-            (engagement) pour la Messagerie Texte, vous acceptez de recevoir des messages texte
-            de la part de Harry Winston à l’adresse que vous fournissez à ces fins à moins et
-            jusqu’à ce que vous choisissiez de ne pas recevoir ces messages en adressant un
-            message texte STOP au numéro abrégé applicable. Vous pouvez vous désengager de la
-            Messagerie texte à tout moment en adressant un message texte STOP au numéro abrégé
-            applicable, mais vos tarifs standard de télécommunications sans fil s’appliqueront
-            à tous les messages que vous recevez. Votre désengagement sera effectif une fois
-            que nous vous aurons envoyé une confirmation par message texte de votre désengagement.
-            Vous déclarez que vous êtes le ou la propriétaire ou l’utilisateur ou l’utilisatrice
-            autorisé(e) de l’appareil dont vous vous servez pour adresser les Messages Texte,
-            et que vous êtes autorisé(e) à approuver les frais correspondants. Vous devez être
-            majeur(e) dans votre juridiction ou lieu de résidence pour vous servir de notre
-            Messagerie Texte. Vous devez d’abord vous inscrire et fournir toutes les Données
-            personnelles obligatoires, qui peuvent comprendre, par exemple, votre nom, votre
-            adresse texte, votre fournisseur de télécommunication sans fil et les informations
-            de facturation (si des droits sont applicables à la Messagerie Texte) qui peuvent
-            être soit les coordonnées de votre carte de crédit soit les informations relatives
-            au fournisseur de téléphonie mobile. Nous pourrons également obtenir la date, l’heure
-            et le contenu de vos messages pendant que vous utilisez la Messagerie Texte. Nous
-            nous servirons des informations que nous obtiendrons en rapport avec notre Messagerie
-            Texte conformément à la présente Politique de Confidentialité. Si des droits sont
-            facturés sur votre facture de télécommunication sans fil, nous pourrons fournir
-            des informations à votre fournisseur à ce sujet. Votre fournisseur de télécommunication
-            sans fil et d’autres prestataires de services pourront également collecter des données
-            au sujet de votre utilisation de votre appareil sans fil et leurs pratiques sont
-            régies par leurs propres politiques. Nous pourrons également accéder au contenu
-            de votre compte et/ou de votre compte de télécommunication sans fil avec votre fournisseur
-            aux fins d’identifier et de résoudre des problèmes techniques et/ou de réclamations
-            relatives au service.
-        </p>
-        <h3>
-            Vos droits d’accès</h3>
-        <p>
-            Vous pourrez, à titre gratuit, examiner, mettre à jour ou modifier certaines de
-            vos Données personnelles qui sont mémorisées dans votre compte utilisateur sur le
-            Site (si vous en avez un) en vous connectant sur « Mon compte » ou sur une section
-            similaire du Site, sous réserve de certaines exceptions prescrites par la réglementation.
-            Vous pourrez demander d’accéder, de mettre à jour et de rectifier des erreurs au
-            niveau de vos Données personnelles en nous contactant au moyen des informations
-            « Nous contacter Site» ci-dessous. Vous pourrez également vous opposer, pour des
-            raisons impérieuses et légitimes, à ce que vos Données personnelles continuent d’être
-            utilisées (cela peut impliquer la clôture de votre compte). En outre, vous pourrez
-            vous désengager de nouvelles communications publicitaires, sans avoir à vous justifier
-            (cela n’impliquera pas la clôture de votre compte). Nous pourrons vous poser des
-            questions afin de vérifier votre identité et vous demander de fournir d’autres données
-            avant de pouvoir vous fournir des informations, rectifier des erreurs ou effacer
-            des données. Les Données personnelles demandées aux fins de vous permettre de vous
-            servir de vos droits d’accès seront conservées pendant trois ans après votre demande
-            et ne seront utilisées à aucune autre fin. Votre droit de supprimer vos données
-            dépend de nos politiques de conservation des dossiers et de la réglementation en
-            vigueur (voir ci-dessous).</p>
-        <h3>
-            Conservation des Données personnelles</h3>
-        <p>
-            Nous conserverons vos Données personnelles tant que vous disposerez d’un compte
-            chez nous, à moins que vous vous opposiez à ce que nous continuions de nous en servir
-            pour des raisons impérieuses et légitimes. En outre, toutes les Données personnelles
-            nécessaires pour démontrer l’existence d’un droit ou d’un contrat seront stockées
-            pendant la période prévue par la réglementation en vigueur.
-        </p>
-        <p>
-            Les Données personnelles utilisées afin de vous adresser des informations commerciales
-            seront conservées pendant une période de trois ans après la fin de nos relations
-            commerciales ou après la collecte des données si vous n’êtes pas un client (un prospect),
-            à moins que vous vous désengagiez de nouvelles communications publicitaires. Par
-            la suite, nous effacerons vos Données personnelles ou nous les stockerons conformément
-            à la réglementation en vigueur s’il s’avère nécessaire de démontrer l’existence
-            d’un droit ou d’un contrat.
-        </p>
-        <p>
-            Les informations relatives à la carte de crédit seront conservées pendant une période
-            de 15 mois après le paiement afin d’être utilisées en cas de différend concernant
-            la transaction.
-        </p>
-        <p>
-            Les informations collectées par les cookies ou les technologies de repérage relatives
-            à votre utilisation du Site seront conservées pendant une période de six mois. Après
-            cette période, lesdites informations seront effacées ou anonymisées.
-        </p>
-        <h3>
-            Sécurité</h3>
-        <p>
-            Nous conservons des sauvegardes administratives, techniques et physiques raisonnables
-            dans un effort de protection des Données personnelles en notre possession et en
-            contrôlons tout accès, utilisation, modification et divulgation non autorisés. Bien
-            que tant nous-mêmes que nos prestataires de services fassions de notre mieux pour
-            protéger la sécurité et l’intégrité des Données personnelles sensibles, collectées
-            à travers ce Site, par des sauvegardes physiques, techniques et administratives
-            appropriées, à cause de la nature inhérente d’Internet en tant que véhicule de communications
-            internationales ouvertes, nous ne pouvons pas garantir que toutes les informations,
-            au cours de leur transmission par Internet ou pendant qu’elles sont stockées dans
-            notre système ou autrement sous notre garde, seront tout à fait en sécurité contre
-            une intrusion par des tiers, comme par exemple par des pirates informatiques.
-        </p>
-        <p>
-            Si vous correspondez avec nous par e-mail, messagerie texte, ou par des formulaires
-            web tels que la fonction « Nous contacter » sur notre Site, vous devez savoir que
-            votre transmission peut ne pas être sécurisée. Une tierce partie pourrait voir les
-            informations que vous envoyez en transit par ce moyen. Nous ne serons aucunement
-            tenus responsables de la divulgation de vos données du fait d’erreurs ou d’actes
-            non autorisés de tierces parties pendant ou après la transmission.</p>
-        <p>
-            Si vous créez un compte sur notre Site, vous serez seul responsable du maintien
-            de la stricte confidentialité du mot de passe de votre compte, et vous serez responsable
-            de toute activité qui se produirait en utilisant les identifiants de votre compte,
-            que vous ayez ou non autorisé une telle activité. Veuillez nous avertir de toute
-            utilisation non autorisée de votre mot de passe ou de toute autre violation de sécurité.</p>
-        <p>
-            Si nous pensons que la sécurité de vos Données personnelles en notre possession
-            peut avoir été compromise, nous pourrons chercher à vous prévenir de cette situation.
-            S’il convient de vous adresser une notification, nous ferons de notre mieux pour
-            vous avertir dès que possible de ces circonstances. Si nous disposons de votre adresse
-            e-mail, nous pourrons vous avertir par e-mail. <strong>Vous acceptez que nous nous servions
-                de votre adresse e-mail comme mode de notification. Si vous préférez que nous utilisions
-                le courrier postal pour vous avertir de cette situation, veuillez nous adresser
-                un e-mail à <a href="mailto:clientservices@harrywinston.com">clientservices@harrywinston.com</a></strong>.
-        </p>
-        <h3>
-            Liens vers d’autres sites web</h3>
-        <p>
-            Le Site peut contenir des liens, des bannières, des widgets ou des publicités conduisant
-            à d’autres sites web. Nous déclinons toute responsabilité pour ces autres sites,
-            et donc leurs politiques publiées de confidentialité (et non pas la présente Politique)
-            régiront la collecte et l’utilisation de vos informations sur lesdits sites. Nous
-            vous invitons à lire les déclarations relatives à la confidentialité de chaque site
-            web visité après avoir quitté le Site pour en savoir plus au sujet de la manière
-            dont vos données sont traitées par d’autres.</p>
-        <h3>
-            Modifications de la présente Politique de Confidentialité</h3>
-        <p>
-            Nous pourrons modifier la présente Politique le cas échéant. Lorsque cela se produira,
-            nous vous en informerons en publiant la Politique modifiée sur cette page avec une
-            nouvelle date de « Dernière mise à jour ». Dans certains cas (par exemple si nous
-            augmentons significativement la portée de notre utilisation ou du partage de vos
-            Données personnelles), nous pourrons également vous faire part des modifications
-            par des moyens additionnels, comme par exemple en vous envoyant un e-mail à l’adresse
-            e-mail apparaissant dans nos dossiers. Dans certains cas, nous pourrons vous demander
-            votre accord à propos de ces modifications.
-        </p>
-        <h3>
-            Nous contacter</h3>
-        <p>
-            Si vous avez des questions, des demandes ou des commentaires concernant nos pratiques
-            de confidentialité ou celles de nos prestataires de services, vous pouvez nous contacter
-            à l’adresse suivante :</p>
-        <p>
-            Harry Winston
-            <br>
-            1330 Avenue of the Americas
-            <br>
-            New York, NY 10019
-            <br>
-            U.S.A.
-            <br>
-            Téléphone : 1-800-988-4110
-            <br>
-            Vous pouvez également nous joindre par e-mail à l’adresse suivante : <a href="mailto:clientservices@harrywinston.com">
-                clientservices@harrywinston.com</a>.</p>
-        <h3>
-            Date d’entrée en vigueur : 4/26/ 2013</h3>
-    </div>
-    <div class="privacy-US privacy-region">
-        <h3>
-            Harry Winston Privacy Policy: Your Privacy Rights</h3>
-        <p>
-            Harry Winston knows that your privacy is important to you, and we want you to know
-            that it is important to us too. We created this Privacy Policy to explain the types
-            of information we collect through our Web sites (on which it is linked to in the
-            footer) and the various social networking platforms that we use (each, a “Site”),
-            as well as in our retail salons. This Privacy Policy describes how we will use,
-            disclose and protect this information once it is collected, and how you can opt-out
-            of some of our uses of your information.
-        </p>
-        <h3>
-            Here are a few general principles to keep in mind as you read through this Policy:</h3>
-        <ul>
-            <li>The Site and our retail salons are owned and operated by Harry Winston Diamond Corporation
-                and its corporate affiliates (referred to collectively in this policy as “we,” “us,”
-                “our” and other similar pronouns). </li>
-            <li>California’s Shine the Light" law, Civil Code section 1798.83, requires certain
-                businesses to respond to requests from California customers asking about the businesses'
-                practices related to disclosing personal information to third parties for the third
-                parties' direct marketing purposes. Alternatively, businesses may have in place
-                a policy not to disclose personal information of customers to third parties for
-                the third parties' direct marketing purposes unless the customer has opted-in to
-                such information sharing. Accordingly, we will not share your personal information
-                with third parties other than our affiliates for the third party’s own marketing
-                purposes unless you opt-in, for example by checking a consent check box when providing
-                us with your information. We will, however, share your personal information with
-                our affiliates for marketing purposes. To request a list of the affiliates with
-                whom we have shared your personal information for marketing purposes in the last
-                year, write to us at Harry Winston, 718 Fifth Avenue, New York, NY 10019 and include
-                the words “California Shine The Light Request” in the “Regarding” line. </li>
-            <li>As our business evolves, this Policy may change, so check back to this page periodically
-                to make sure you understand how your personal information will be treated. </li>
-            <li>This Policy is incorporated into, and part of, our <a href="/terms" style="color: #000;
-                text-decoration: underline;">Terms of Use</a>, which govern your use of our Sites
-                as a whole. </li>
-            <li>If you are located outside of the United States, you should know that the information
-                you provide to us is being transmitted to us and processed in the United States
-                and will be protected subject to this privacy policy and United States laws, which
-                may not be as protective as the laws in your country. Also, this Site places cookies
-                and local shared objects on your computer or device which are further described
-                below. </li>
-        </ul>
-        <h3>
-            Opt In and Opt Out</h3>
-        <p>
-            You may have the right to opt in to or opt out of certain of our uses of your Personal
-            Information. For example, when you are asked to provide Personal Information on
-            this Site or at our salons, you may have the opportunity to elect to, or not to,
-            receive messages from us by e-mail, text message, phone or postal mail. You may
-            tell us that you do not want to receive our promotional messages by visiting the
-            marketing preferences area of or Web site or by sending us your written request
-            along with your name, address, e-mail and phone number to: <a href="mailto:clientservices@harrywinston.com">
-                clientservices@harrywinston.com</a> , Harry Winston, Inc., Privacy Officer,
-            718 Fifth Avenue, New York, NY 10019, or by calling (212) 315-7900. You can also
-            opt-out of our promotional emails by clicking on the opt-out link within the e-mail
-            you receive. To opt out of our SMS messages, please text STOP to the applicable
-            short code. Please understand that it may take us time to process any opt out request
-            and that even if you opt out of receiving promotional correspondence from us, we
-            may still contact you in connection with your relationship, activities, transactions
-            and communications with us. Also, to stop receiving promotional messages from third
-            parties who already have your contact information, please contact them directly.
-        </p>
-        <h3>
-            What information is collected on this Site?</h3>
-        <p>
-            User-Provided Information</p>
-        <p>
-            <strong style="text-decoration: underline;">“Personal Information”</strong> is information
-            that can be used to identify you as an individual or allow someone to contact you,
-            as well as information attributed with such information. We collect Personal Information
-            such as your name; employer name; day and month of birth; postal addresses; e-mail
-            addresses; telephone numbers; fax numbers; wireless device addresses (including
-            text message addresses); photograph; gender; credit card and other payment information;
-            purchase, Site browsing and transaction history; job history and application information;
-            and interests, hobbies and demographic information. For example, we collect Personal
-            Information when you make a purchase or inquiry at one of our salons; conduct a
-            transaction on our Site; register on our Site or at a salon; sign up to receive
-            emails from us; request a catalog; request a sales associate to contact you; schedule
-            a visit to our salon; create an account on our Site; create a wish list on our Site;
-            sign up for our newsletters; enter sweepstakes and contests; complete surveys; contribute
-            to a chat room, bulletin board, list serve, blog, wiki or other social forum on
-            the Site; or submit a comment or question to us using a “contact us” or similar
-            feature on the Site.
-        </p>
-        <p>
-            <strong style="text-decoration: underline;">IRS Form 8300:</strong> In addition,
-            when you make a cash payment at one of our stores of over ten thousand dollars ($10,000),
-            you are required to complete IRS Form 8300, which includes your Taxpayer identification
-            number and Identifying document number and information (such as you driver’s license
-            or state or federal ID information), and to allow us to make a copy of your identification
-            document. You will be required to complete and sign this form in print, and we will
-            submit it along with a copy of your identification documentation to the IRS and
-            maintain a copy of them in a physically secure location in accordance with or records
-            retention policy until we shred it upon disposal. Only Harry Winston personnel with
-            a legitimate business need will have access to completed IRS Forms 8300.
-        </p>
-        <br>
-        <p>
-            <strong style="text-decoration: underline;">Anti-money laundering:</strong> Under
-            certain circumstances, when you make a purchase the circumstances of which meet
-            certain criteria maintained by Harry Winston, you will be required to provide documentation
-            of your identity, such as a driver’s license, state ID card or passport. We will
-            make a copy of this document and maintain it in a physically secure location in
-            accordance with our records retention policy.
-        </p>
-        <p>
-            <strong style="text-decoration: underline;">Purchases on Credit Terms:</strong>
-            For certain transactions involving the extension of credit, you will be required
-            to provide documentation of your identity, such as a driver’s license, state ID
-            card or passport. We will make a copy of this document and maintain it in a physically
-            secure location in accordance with our records retention policy.
-        </p>
-        <p>
-            <strong style="text-decoration: underline;">Tax or VAT Exempt Purchases:</strong>
-            When you make a cash exempt purchase, you will be required to provide documentation
-            of your identity, such as a driver’s license, state ID card or passport. We will
-            make a copy of this document and maintain it in a physically secure location in
-            accordance with our records retention policy.
-        </p>
-        <p>
-            A <strong>“tell-a-friend”</strong> tool provided on the Site and/or in our e-mails
-            allows you to send information about our products and offerings to another person.
-            You may also be able to purchase gifts for another person on our Site or at our
-            salons. When you use these offerings, we ask you for the name and contact information
-            of the other person, and that information will be protected pursuant to this privacy
-            policy. We will not use the other person’s information for additional purposes without
-            their consent.
-        </p>
-        <h3>
-            Site Usage Information</h3>
-        <p>
-            As is the case with many Web sites, our servers automatically collect your IP address
-            when you visit our Site, and we may associate that with your domain name or that
-            of your Internet access provider. We may also capture certain “clickstream data”
-            pertaining to your Site usage. Clickstream data includes, for example, information
-            about your computer or device, Web browser and operating system and their settings,
-            the referring page that linked you to the Site, the pages, content or ads you see
-            or click on during your visit and when and for how long you do so, items you download,
-            the next Web site you visit when you leave the Site, and any search terms you have
-            entered on the Site or a referral site.
-        </p>
-        <p>
-            In addition, we may deploy various tracking technologies on the Site to collect
-            additional information about your Site visits. For example:
-        </p>
-        <ul>
-            <li>Cookies are small data files stored on your computer or device at the request of
-                a Web site. A cookie assigns a unique numerical identifier to your Web browser,
-                and may enable us to recognize you as the same user who was at our Site in the past,
-                and relate your use of the Site to other information about you, such as your Site
-                usage information and Personal Information. Cookies may also be used to enhance
-                your experience on the Site (for example, by storing your username so you can log
-                in easily, keeping you logged into the Site after you have provided your password,
-                and storing the contents of your shopping cart as you browse) or to collect general
-                usage and aggregated statistical information and detect and prevent fraud. Most
-                browsers can be set to detect cookies and give you an opportunity to reject them,
-                but refusing cookies may, in some cases, inhibit or preclude your use of the Site
-                or its features. To learn more about the use of cookies, including how to manage
-                or delete them, <a href="" style="color: #000; text-decoration: underline;">click here</a>.
-            </li>
-            <li>Local shared objects, such as “Flash cookies,” may be stored on your computer or
-                device using a media player or other software installed on your computer or device.
-                Local shared objects operate a lot like cookies, but cannot be managed in the same
-                way. Depending on how local shared objects are enabled on your computer or device,
-                you may be able to manage them using software settings. For information on managing
-                Flash cookies, for example, click here. </li>
-            <li>HTML5 (the language some Web sites are coded in) may be used to store information
-                on your computer or device about your Site usage activities. This information can
-                be retrieved by us to determine how our Site is being used by our visitors, how
-                it can be improved, and to customize it for our users. </li>
-            <li>A pixel tag (also known as a “clear GIF” or “web beacon”) is a tiny image – typically
-                just one- pixel – that can be placed on a Web page or in our electronic communications
-                to you in order to help us measure the effectiveness of our content by, for example,
-                counting the number of individuals who visit us online or verifying whether you’ve
-                opened one of our emails or seen one of our Web pages. </li>
-        </ul>
-        <p>
-            These tracking technologies may be deployed by us and/or by our service providers
-            or partners on our behalf. These technologies enable us to assign a unique number
-            to you, and relate your Site Usage Information to other information about you, including
-            your Personal Information.
-        </p>
-        <h3>
-            How is your information used?</h3>
-        <p>
-            We or our service providers may use the information we collect from and about you
-            to perform the following business functions:
-        </p>
-        <ul>
-            <li>processing and fulfilling your transactions </li>
-            <li>enabling users to use our Site and its features </li>
-            <li>administering the Site and your account with us </li>
-            <li>responding to your requests, questions, and concerns </li>
-            <li>market research </li>
-            <li>developing new features and offerings </li>
-            <li>consistent with any communications preferences you have conveyed to us, sending
-                you marketing and other communications, including information about products, services,
-                and events, of ours and of others, that we think might interest you. (You may opt
-                out of receiving such notices from us by following the instructions in the Right
-                to Opt In and Opt Out section above.) </li>
-            <li>protecting our rights and property </li>
-            <li>recovering debt and preventing fraud </li>
-            <li>customizing our Site to your interests and history with us </li>
-            <li>tailoring ads displayed to you on our Site and elsewhere to your interests and history
-                with us </li>
-            <li>other purposes disclosed when personal information is submitted to us </li>
-        </ul>
-        <p>
-            To perform the above functions, we may match information collected from you through
-            different means or at different times, including both Personal Information and Site
-            Usage Information, and use such information along with information obtained from
-            other sources (including third parties) such as demographic information and updated
-            contact information. We or our service providers may also use your information to
-            assess the level of interest in, and use of, the Site, our e-mails and our other
-            messaging campaigns both on an individual basis and in the aggregate.
-        </p>
-        <br>
-        <h3>
-            Social Networking</h3>
-        <p>
-            We maintain presence on several social networking and blogging platforms, and we
-            also incorporate some third party social networking features onto our Site. Through
-            these platforms and features, we receive some Personal Information and some Site
-            Usage Information about you, and this Privacy Policy applies to that information
-            as well. In addition, third party social networking platforms and blogging platforms
-            have their own privacy policies which explain how the third parties that provide
-            them will use and protect your information. In accordance with those policies (and
-            your privacy settings within your social networking accounts) information about
-            your activities on our Site (such as “Mary Jane “likes” our Diamond Tassel necklace”)
-            may be published to your social network.
-        </p>
-        <h3>
-            Do we share Personal Information and Site Usage Information with others?</h3>
-        <p>
-            Yes. We may share the information we collect on the Site and in our salons with
-            others for a variety of reasons. In addition to the kinds of information sharing
-            you might expect, such as sharing with third parties who need your information in
-            order to provide services to us (or on our behalf and subject to confidentiality
-            commitments) and sharing what you voluntarily post to public areas on the Site with
-            other Site users, we may share your information:
-        </p>
-        <ul>
-            <li>with our affiliates </li>
-            <li>with unaffiliated third parties for their marketing and other purposes, if you have
-                opted-in to this sharing </li>
-            <li>with our co-sponsor(s) if we obtain your information in connection with a contest,
-                sweepstakes, offering, or other promotional activity that is jointly offered by
-                us and any third parties, unless you instruct us not to by following the instructions
-                in the Opt-in and Opt-out section above </li>
-            <li>when we believe in good faith that disclosure is necessary to protect our rights
-                or property, protect your safety or the safety of others, authenticate transactions
-                and the identity of individuals making purchases, investigate or prevent fraud or
-                illegal activity, respond to a government, law enforcement, judicial or other legal
-                request, or to comply with the law. </li>
-            <li>with credit bureaus, such as late payments, missed payments, or other defaults on
-                your account </li>
-            <li>in connection with a corporate change or dissolution, including for example a merger,
-                acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets
-                or wind down of business </li>
-        </ul>
-        <p>
-            In addition, we may share non-personally identifiable Site Usage Information (including
-            aggregate data) with others, for their own use, in a form that does not include
-            your name or contact information.
-        </p>
-        <h3>
-            Text Message Service</h3>
-        <p>
-            We may seek to send messages to you on your wireless device via short message service
-            (“Text Messaging”). If you sign up for Text Messaging, you agree to receive text
-            messages from Harry Winston at the address you provide for such purposes unless
-            and until you elect not to receive such messages by texting STOP to the applicable
-            short code. You may opt out of Text Messaging at any time by texting STOP to the
-            applicable short code, but your wireless carrier’s standard rates will apply to
-            any messages you receive. Your opt-out will be effective once we send you a text
-            confirmation of your opt-out. You represent that you are the owner or authorized
-            user of the device you use to sign up for Text Messaging, and that you are authorized
-            to approve the applicable charges. You must be 18 years of age or older and reside
-            in the United States to use our Text Messaging. You must first register and provide
-            all required Personal Information, which may include, for example, your name, text
-            address, wireless carrier, and billing information (if fees are applicable to the
-            Text Messaging), which may be either your credit card information or mobile service
-            carrier information. We may also obtain the date, time and content of your messages
-            in the course of your use of Text Messaging. We will use the information we obtain
-            in connection with our Text Messaging in accordance with this Privacy Policy. If
-            fees are charged to your wireless account invoice, we may provide information to
-            your carrier about them. Your wireless carrier and other service providers may also
-            collect data about your wireless device usage, and their practices are governed
-            by their own policies. We may also access the content of your account and/or wireless
-            account with your carrier for the purpose of identifying and resolving technical
-            problems and/ or service-related complaints.
-        </p>
-        <h3>
-            Your Access Rights</h3>
-        <p>
-            You may review, update or modify certain of the Personal Information that is stored
-            in your user account on the Site (if you have one) by logging in to the “My Account”
-            or similar area of the Site or by contacting us using the “Contact US” information
-            below. We may ask you to verify your identity and to provide other details before
-            we are able to provide you with any information, correct any inaccuracies, or delete
-            any information. Your right to delete your information is subject to our records
-            retention policies.
-        </p>
-        <h3>
-            Security</h3>
-        <p>
-            While we endeavor to protect the security and integrity of sensitive Personal Information
-            collected via this Site, due to the inherent nature of the Internet as an open global
-            communications vehicle, we cannot guarantee that any information, during transmission
-            through the Internet or while stored on our system or otherwise in our care, will
-            be absolutely safe from intrusion by others, such as hackers. If you correspond
-            with us by e-mail, text message, or using Web forms like a “contact us” feature
-            on our Site, you should be aware that your transmission might not be secure. A third
-            party could view the information you send in transit by such means. We will have
-            no liability for disclosure of your information due to errors or unauthorized acts
-            of third parties during or after transmission. If you create an account on our Site,
-            you are responsible for maintaining the strict confidentiality of your account password,
-            and you shall be responsible for any activity that occurs using your account credentials,
-            whether or not you authorized such activity. Please notify us of any unauthorized
-            use of your password or account or any other breach of security. If we believe that
-            the security of your Personal Information in our care may have been compromised,
-            we may seek to notify you of that development. If a notification is appropriate,
-            we will endeavor to notify you as promptly as possible under the circumstances.
-            If we have your e-mail address, we may notify you by e-mail. You consent to our
-            use of e-mail as a means of such notification. If you prefer for us to use the U.S.
-            Postal Service to notify you in this situation, please e-mail us at <a href="mailto:clientservices@harrywinston.com" style="color: #000; text-decoration: underline;">clientservices@harrywinston.com.</a>
-        </p>
-        <h3>
-            “Linked-To” Web Sites</h3>
-        <p>
-            The Site may contain links, banners, widgets or advertisements that lead to other
-            Web sites. We are not responsible for these other sites, and so their posted privacy
-            policies (not this Policy) will govern the collection and use of your information
-            on them. We encourage you to read the privacy statements of each Web site visited
-            after leaving the Site to learn about how your information is treated by others.
-        </p>
-        <h3>
-            Changes to this Privacy Policy</h3>
-        <p>
-            We may change this Policy from time to time. When we do, we will let you know by
-            posting the changed Policy on this page with a new “Last Updated” date. In some
-            cases (for example, if we significantly expand our use or sharing of your Personal
-            Information), we may also tell you about changes by additional means, such as by
-            sending an e-mail to the e-mail address we have on file for you. In some cases,
-            we may request your consent to the changes.
-        </p>
-        <h3>
-            Contact Us</h3>
-        <p>
-            If you have any questions or comments regarding our privacy practices, you may contact
-            us at:
-        </p>
-        <address id="HW-address">
-            <p>
-                Harry Winston</p>
-            <p>
-                1330 Avenue of the Americas</p>
-            <p>
-                New York, NY 10019</p>
-            <p>
-                U.S.A.</p>
-            <p>
-                Phone: 1-800-988-4110</p>
-        </address>
-        <p>
-            We also can be reached by e-mail at <a href="mailto:clientservices@harrywinston.com" style="color: #000; text-decoration: underline;">clientservices@harrywinston.com.</a>
-        </p>
-        <p>
-            <strong>Date: 11/21/2012</strong>
-        </p>
-    </div>
-    <div class="privacy-AS privacy-region" style="display: none;">
-        <h3>
-            Harry Winston 隐私政策：您的隐私权</h3>
-        <p>
-            Harry Winston 深知您的隐私对您很重要，我们想让您知道，您的隐私对我们也很重要。 我们制定本隐私政策，说明我们从我们的网站（页脚有网站链接）、我们使用的各种社交网络平台（均称为“网站”）以及在我们的零售沙龙中收集的信息类型。
-            本隐私政策说明信息收集后我们将如何使用、披露和保护，以及您如何退出我们对您信息的某些使用。</p>
-        <p>
-            阅读本隐私政策时，请谨记几项通则：</p>
-        <ul>
-            <li>网站和我们的零售沙龙归 Harry Winston Diamond Corporation 及其企业附属机构（本隐私政策中统称为“我们”、“我们的”及其他类似代词）所有，由其经营。
-            </li>
-            <li><strong>我们不会为第三方自身的营销目的而与我们附属机构以外之第三方共享您的个人信息（定义见下文），除非您向我们提供信息时通过勾选同意复选框等方式选择参加。
-                但我们将与我们的附属机构共享您的个人信息，向您发送营销和其他通讯信息，包括我们认为您可能感兴趣的与我们的产品、服务及活动相关的信息（详情见下文“如何使用您的信息？”
-                部分）。 将被共享的个人信息有：姓名；雇主名称；出生月日；通信地址；电子邮件地址；电话号码；传真号码；无线设备地址（包括短信发送地址）；照片；性别；信用卡和其他支付信息；购买、网站浏览和交易历史；工作经历和申请信息（适用于申请人）；兴趣、爱好和人口统计信息。
-                欲索取去年我们为营销目的与之共享您的个人信息的附属机构名单，请致信联系我们，地址：Harry Winston, Inc., Privacy Officer, 1330
-                Avenue of the Americas, New York, NY 10019。 我们附属机构中的业务运营商 Harry Winston, Inc. 负责管理您的个人信息。</strong></li>
-            <li>本隐私政策可能随我们业务变化而改变，因此请定期查看此页面，确保您了解您的个人信息将被如何处理。</li>
-            <li>本隐私政策是我们使用条款的组成部分，使用条款从整体上规管您对我们网站的使用。</li>
-            <li><strong>如果您位于美国境外，应知悉，您提供予我们的信息将由我们按照本隐私政策和适用地方法律在您所在国家进行处理，同时传输给我们在美国进行处理，并将根据本隐私政策和美国法律得到保护，本隐私政策和美国法律的保护强度可能弱于您所在国家的法律。
-                此外，本网站将 cookie 和本地共享对象置于您的计算机或设备中，这些在下文有进一步说明。 </strong></li>
-        </ul>
-        <h3>
-            参加与退出</h3>
-        <p>
-            您有权选择参加或退出我们对您个人信息的某些使用。 例如，当要求您在本网站或我们的沙龙中提供个人信息时，您可选择接收或不接收我们通过电子邮件、短信、电话或邮政信件发出的讯息。
-            您可告知我们您不想接收我们的推广讯息，方式有：访问网站的营销偏好区或寄送您的书面请求并附上您的姓名、地址、电子邮件地址和电话号码至：<a href="mailto:clientservices@harrywinston.com">clientservices@harrywinston.com</a>，Harry
-            Winston, Inc.，隐私官 (Privacy Officer) 收，地址：1330 Avenue of the Americas, New York,
-            NY 10019，或致电 1-800-988-4110。 您也可点击所收电子邮件中的退出链接，不再接收我们的推广电邮。 要拒绝接收我们的短信，请编辑 STOP
-            发送至适用的短代码。 请理解，处理退出请求需要时间，且即使您拒绝接收我们的推广通信，我们仍可就您与我们的关系、活动、交易和通讯与您联系。 此外，要拒绝接收已拥有您联系信息之第三方的推广讯息，请直接与之联系。</p>
-        <h3>
-            本网站收集哪些信息？</h3>
-        <h3>
-            <blockquote>
-                <i>用户提供的信息</i></blockquote>
-        </h3>
-        <p>
-            “个人信息”指可用于识别您作为个体的信息（包括可轻易与其他信息参照从而对您进行识别的信息），或可使某人与您联系的信息，以及属于此类信息的信息。 我们收集的个人信息有：您的姓名；雇主名称；出生月日；通信地址；电子邮件地址；电话号码；传真号码；无线设备地址（包括短信发送地址）；照片；性别；信用卡和其他支付信息；购买、网站浏览和交易历史；工作经历和申请信息；兴趣、爱好和人口统计信息。
-            例如，我们收集个人信息的情况有：您在我们的一家沙龙里进行购买或咨询；在我们网站进行交易；在我们网站或沙龙中登记；注册接收我们的电子邮件；索取产品目录；要求销售人员与您联系；安排到访我们的沙龙；在我们网站上创建账户；在我们网站上创建愿望清单；注册接收新闻简报；参与抽奖和竞赛；填写调查问卷；加入本网站的聊天室、公告板、邮件列表服务、博客、维基或其他社交论坛；或使用本网站中的“联系我们”或类似功能向我们提交评论或问题。
-        </p>
-        <p>
-            <u>反洗钱</u>： 在某些情况下，如果您进行购买的情况符合 Harry Winston 规定的特定标准，将会要求您提供您的身份证明文件，如驾照、国家身份证或护照。
-            我们将对此文件进行备份，并按照我们的记录保存政策将之保存于安全的实际场所。</p>
-        <p>
-            <u>以信用条款购买</u>： 某些交易涉及信用额度，将会要求您提供您的身份证明文件，如驾照、国家身份证或护照。 我们将对此文件进行备份，并按照我们的记录保存政策将之保存于安全的实际场所。</p>
-        <p>
-            <u>免税或免增值税之购买</u>： 当您进行现金免税购买时，将会要求您提供您的身份证明文件，如驾照、国家身份证或护照。 我们将对此文件进行备份，并按照我们的记录保存政策将之保存于安全的实际场所。</p>
-        <p>
-            本网站和/或我们的电子邮件中提供的“告诉朋友” (tell-a-friend) 工具，可以让您将我们的产品和服务相关信息发送给他人。 您也可以在我们的网站或沙龙购买礼品送人。
-            当您使用这些服务时，我们会向您索要相关他人的姓名和联系方式，此等信息将按照本隐私政策予以保护。 未经他人同意，我们不会将他们的信息用于其他目的。</p>
-        <h3>
-            <blockquote>
-                <i>网站使用信息</i></blockquote>
-        </h3>
-        <p>
-            与许多网站一样，当您访问我们的网站时，我们的服务器自动收集您的 IP 地址，我们可能将 IP 地址与您的域名或您互联网接入提供商的域名相关联。 我们也可能捕捉与您的网站使用相关的特定“点击流数据”。
-            点击流数据包括您的计算机或设备、网页浏览器和操作系统及其设置的相关信息，让您链接至本网站的来源页面，您访问时查看或点击的页面、内容或广告，您何时查看或点击，为时多久，您下载的内容，您离开本网站后访问的下一个网站，及您在本网站或推介网站输入的任何搜索词。
-        </p>
-        <p>
-            另外，我们可能在本网站配置各种追踪技术，收集有关您网站访问的其他信息（<strong>“网站使用信息”</strong>）。 例如：</p>
-        <ul>
-            <li><strong>Cookie</strong> 是应网站要求存储于您的计算机或设备的小型数据文件。 Cookie 为您的网页浏览器分配一个独特的数字标识符，使我们能够辨别出您是过去曾访问过我们网站的同一位用户，并将您对本网站的使用与您的其他相关信息相关联，如您的网站使用信息和个人信息。
-                Cookie 也可以用于增强您在本网站的体验（例如，存储您的用户名便于您登录；在您提供密码后使您在本网站保持登录状态；您浏览时保存您购物车的物品），或收集一般使用信息和汇总统计信息，并侦测和防止欺诈。
-                多数浏览器可进行设置删除 cookie，并使您可以拒绝 cookie，但在某些情况下，拒绝 cookie 可能会禁止或妨碍您使用本网站或其功能。 欲了解 cookie
-                使用的更多相关信息，包括如何进行管理或删除，请点击此处。 </li>
-            <li><strong>“Flash cookie”</strong> 等本地共享对象可通过您计算机或设备中安装的媒体播放器或其他软件存储于您的计算机或设备中。 本地共享对象的运行与
-                cookie 相似，但管理方式并不一样。 根据本地共享对象在您的计算机或设备上的许可方式，您或可使用软件设置对其进行管理。 欲了解管理 Flash cookie
-                等信息，请点击此处。 </li>
-            <li><strong>HTML5</strong>（某些网站的编码语言）可用于将您的网站使用活动相关信息存储于您的计算机或设备上。 我们可以检索这种信息，判断我们的访客如何使用我们的网站、决定如何改善网站及如何为我们的用户定制网站。</li>
-            <li>像素标签（也称为“透明 GIF”或“网站信标”）是一种微小图像——通常仅为一像素——可放在网页上或是我们给您的电子通讯中，通过计算在线访问数量或核实您是否已打开我们的电子邮件或看过我们的网页等方式，协助我们衡量我们网站内容的效果。
-            </li>
-        </ul>
-        <p>
-            这些追踪技术可由我们和/或我们的服务提供商或合作伙伴（由我们委托处理包括您个人信息在内的信息）代表我们进行配置。 这些技术使我们能够为您分配一个独特号码，并将您的网站使用信息与您的其他信息（包括您的个人信息）相关联。</p>
-        <h3>
-            如何使用您的信息？</h3>
-        <p>
-            我们或我们的服务提供商将我们从您这里收集到的与您相关的信息用于执行以下业务职能：</p>
-        <ul>
-            <li>办理和完成您的交易</li>
-            <li>使用户能够使用我们的网站及其功能</li>
-            <li>管理网站和您在我们网站的账户 </li>
-            <li>回复您的要求、问题、疑虑 </li>
-            <li>市场调查</li>
-            <li>开发新功能和服务 </li>
-            <li>根据您向我们传达的通讯偏好，向您发送营销及其他通讯信息，包括我们认为您可能感兴趣的与我们和他人的产品、服务及活动相关的信息，这些信息与我们公司的产品相关。 （您可以拒绝接收我们的这些通知，操作方式见上文的<strong>参加和退出权利</strong>部分。）</li>
-            <li>保护我们的权利和所有权 </li>
-            <li>收回债务和防止欺诈</li>
-            <li>根据您的兴趣和记录定制我们的网站</li>
-            <li>根据您的兴趣和记录挑选在网站和其他地方向您展示的广告</li>
-            <li>向我们提交个人信息时披露的其他目的</li>
-        </ul>
-        <p>
-            为执行上述职能，我们可能将在不同时间用不同方式对从您这里收集的信息进行匹配，包括个人信息和网站使用信息，并将此等信息与从其他渠道（包括第三方）获取的信息（如人口统计信息和更新的联系信息）一同使用。
-            我们或我们的服务提供商也可能以个体和汇总的方式将您的信息用于评估对网站、电子邮件和我们的其他讯息传送活动的感兴趣程度和使用情况。
-        </p>
-        <h3>
-            社交网络</h3>
-        <p>
-            我们在多个社交网络和博客平台都有运营，我们也将一些第三方社交网络功能纳入我们网站。 我们通过这些平台和功能接收您的一些个人信息和网站使用信息，本隐私政策也同样适用于这些信息。
-            另外，第三方社交网络平台和博客平台有自己的隐私政策，这些政策解释了提供这些平台的第三方将如何使用和保护您的信息。 根据这些政策（及您在社交网络账户中的隐私设置），您在我们网站的活动信息（如“Mary
-            Jane ‘喜欢’我们的钻石流苏项链”）可能发布于您的社交网络中。</p>
-        <h3>
-            我们是否与他人共享个人信息和网站使用信息？</h3>
-        <p>
-            是的。 我们可能由于多种原因将我们在网站和沙龙收集到的信息与他人共享。 除了您预料中的信息共享类型，如与需要您的信息以向我们（或代表我们且受保密承诺约束）提供服务的第三方共享，与其他网站用户共享您主动发布在网站公告区域的信息，我们还可能与以下各方共享您的信息：</p>
-        <ul>
-            <li>与我们的附属机构共享，前提是您已选择参加此共享</li>
-            <li>与非附属第三方共享，用于其营销和其他目的，前提是您已选择参加此共享</li>
-            <li>与我们的共同主办方共享，前提是我们从与任何第三方共同主办的竞赛、抽奖、服务或其他促销活动中获取您的信息，且您已选择参加此共享 </li>
-            <li>当我们诚意相信在适用地方法律允许范围内有必要披露信息以保护我们的权利或所有权，保护您或他人的安全，证实交易和购买个人的身份，调查或防止欺诈或非法活动，对政府、执法、司法或其他法律要求作出回应，或遵纪守法。
-            </li>
-            <li>与征信所共享，如逾期付款、未付款或您账户的其他拖欠问题， 前提是您已选择参加此共享</li>
-            <li>在适用地方法律许可范围内与公司变动或解散相关，包括兼并、收购、重组、合并、破产、清算、资产出售或逐渐结束业务等。</li>
-        </ul>
-        <p>
-            此外，我们可能与他人共享非个人可识别的网站使用信息（包括汇总数据）用于他人自身目的，共享形式不含有您的姓名或联系信息。</p>
-        <h3>
-            短信服务
-        </h3>
-        <p>
-            我们可能采取短信服务的方式向您的无线设备发送讯息（<strong>“短信服务”</strong>）。 如果您注册接受短信服务，即表示您同意接收 Harry Winston
-            向您为此目的提供的地址发送短信，除非您编辑 STOP 发送至适用短代码选择不接收此类讯息。 您可以随时编辑 STOP 发送至适用短代码选择退出短信服务，但您的无线运营商的标准费率将适用于您接收的任何讯息。
-            <strong>您的退出选择将在我们向您发送短信确认您退出后生效</strong>。 您声明您是用于注册短信服务的设备之所有人或授权用户，且您经授权同意适用收费。
-            您须年满 18 岁且居住于美国境内方可使用我们的短信服务。 您必须先注册并提供所有要求的个人信息，可包括您的姓名、短信发送地址、无线运营商和账单信息（如果短信服务要收费），账单信息可以是您的信用卡信息或移动服务运营商信息。
-            我们也可能在您使用短信服务过程中获取您的讯息日期、时间和内容。 我们将按照本隐私政策使用我们在短信服务中获取的信息。 如果向您的无线账户开具收费发票，我们可向您的运营商提供相关信息。
-            您的无线运营商和其他服务提供商也可能收集与您的无线设备使用相关的数据，他们的行为受他们自身政策规管。 我们也可能访问您的账户内容和/或您在运营商的无线账户内容，用于确定和解决技术问题和/或服务类投诉。
-        </p>
-        <h3>
-            您的访问权限</h3>
-        <p>
-            对于您的个人信息，您有以下权利： (i) 查看和审核我们向您收集的个人信息；(ii) 索取个人信息副本；(iii) 更新个人信息；(iv) 要求我们停止收集、处理和/或使用您的信息；及
-            (v) 要求我们删除个人信息。 我们将在法律许可范围内根据您的要求采取行动。 您可以登录网站的“我的账户”或类似区域，或使用下文的“联系我们”信息联系我们，审核、更新或修改存储于网站上您的用户账户（如有）中的个人信息。
-            在我们为您提供信息、改正错误或删除信息前，我们可能要求您核实您的身份并提供其他详细信息。 您删除您信息的权利受我们的记录保存政策约束。 我们对您个人信息的保存期限为您继续允许我们为本隐私政策中阐述之目的使用该等信息的期限，或适用法律许可的更长期限。</p>
-        <h3>
-            安全性</h3>
-        <p>
-            尽管我们尽力保护本网站收集的敏感个人信息之安全性和完整性，但由于互联网的固有属性为全球开放性通讯媒介，我们无法保证任何信息在互联网传输过程中或存储于我们系统或以其他方式由我们保存时，能绝对安全不受黑客等他人的入侵。
-        </p>
-        <p>
-            如果您通过电子邮件、短信或使用网络形式，如我们网站的“联系我们”功能，与我们通信，您应意识到您的传输可能并不安全。 第三方可能查看您通过这些方式传送的信息。 如果传输过程中或传输后由于第三方失误或未经授权行为导致您的信息泄露，我们对此不承担任何责任。</p>
-        <p>
-            如果您在我们网站创建账户，您有责任维护您账户密码的高度保密性，您应对使用您的账户凭据进行的任何活动负责，无论您是否授权此等活动。 如存在对您的密码或账户的任何非授权使用或任何违反安全性的行为，请通知我们。</p>
-        <p>
-            如果我们认为我们保管的您的个人信息安全性可能已受到损害，我们将设法通知您相关进展情况。 如果适合通知，在此情况下我们将努力尽快通知您。 如果我们有您的电子邮件地址，我们将用电子邮件通知您。
-            <strong>您同意我们将电子邮件作为此等通知的方式。 如果在此情况下您更希望我们通过邮寄方式通知您，请发送电子邮件至：<a href="mailto:clientservices@harrywinston.com">clientservices@harrywinston.com</a></strong>。
-        </p>
-        <h3>
-            “链接”网站</h3>
-        <p>
-            本网站可能包含导向其他网站的链接、横幅、小组件或广告。 我们对此类网站不承担责任，他们发布的隐私政策（非该政策）将规管这些网站上对您的信息的收集和使用。 我们建议您阅读离开本网站后访问的每个网站的隐私声明，了解他人将如何处理您的信息。</p>
-        <h3>
-            隐私政策变更</h3>
-        <p>
-            我们可能随时变更该政策。 变更时，我们将在本页面发布变更后的政策，附上新的“最近更新”日期，以此通知您。 某些情况下（例如我们显著扩大对您的个人信息的使用或共享），
-            我们也会通过其他方式通知您相关变更，如发送电子邮件至我们存档的您的电子邮件地址。 某些情况下，我们可能就变更征求您的同意。</p>
-        <h3>
-            联系我们</h3>
-        <p>
-            如对我们的隐私做法有任何问题或评论，您可通过以下方式联系我们：</p>
-        <p>
-            Harry Winston<br>
-            1330 Avenue of the Americas<br>
-            New York, NY 10019, U.S.A.<br>
-            电话： 1-800-988-4110
-        </p>
-        <p>
-            也可以发送电子邮件至 clientservices@harrywinston.com 联系我们。</p>
-        <p>
-            <strong>生效日期： 2013 年 4 月 1 日</strong></p>
-    </div>
-</div>
-<div class="h21px">
-</div>
-
-        </div>
-        <div class="footer">
-            <ul>
-                <li class="facebook"><a href="http://www.facebook.com/HarryWinston?ref=ts" target="_blank" class="imgreplace">Facebook</a></li>
-                <li class="twitter"><a href="https://twitter.com/HarryWinston" target="_blank" class="imgreplace">Twitter</a></li>
-                <li class="pintrest"><a href="http://pinterest.com/HarryWinstonInc/" target="_blank" class="imgreplace">Pintrest</a></li>
-                <li class="youtube"><a href="http://www.youtube.com/user/harrywinston" target="_blank" class="imgreplace">YouTube</a></li>
-                <li class="googlePlus"><a href="https://plus.google.com/u/0/113055134269200399965/posts" target="_blank" rel="publisher" class="imgreplace">google plus</a></li>
-                <li><a href="/Contact">Contact Us</a></li>
-                <li><a href="http://careers.harrywinston.com" target="_blank">Careers</a></li>
-               
-               
-
-                <li><a href="/privacy">Privacy Policy</a></li>
-                <li><a href="/terms">Terms and Conditions</a></li>
-                <li><a href="/catalogs">Catalogs</a></li>
-                <li class="Japan"><a href="http://www.harrywinston.jp/" target="_blank">日本語</a></li>
-                <li class="Japan"><a href="http://www.harrywinston.cn/v2/tw/main.php?lang=zh-tw">繁體中文</a></li>
-                <li class="ssl"><a href="http://www.harrywinston.cn/v2/cn/main.php?lang=zh-cn">简体中文</a></li>
-            </ul>
-        </div>
-        <div id="footerBottom">
-            <p>
-                © 2013 Harry Winston, Inc. Use of this Web site constitutes acceptance of our Terms
-                and Conditions and Privacy Policy.</p>
-           </div>
-    </div>
-    <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "stats.g.doubleclick.net/dc.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.stats.g.doubleclick.net/dc.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        try {
-            var pageTracker = _gat._getTracker("UA-7939941-5");
-            pageTracker._trackPageview();
-        } catch (err) { }
-    </script>
-    <script type="text/javascript">
-        var detected_country_code = "NONE";
-
-        var hasDetected;
-        var loc = get_cookie("loc");
-        if (loc) {
-            var l = loc.split("=");
-            detected_country_code = (l.length > 1) ? l[1] : "NONE";
-            hasDetected = true;
-        }
-        if (hasDetected) {
-            if (detected_country_code == "US") {
-                usaOnlyShow();
-            }
-            else {
-                usaOnlyHide();
-            }
-        }
-
-
-        function set_cookie(c_name, value, alive) {
-            var exdate;
-            if (alive) {
-                exdate = new Date();
-                var st = exdate.getTime();
-                exdate.setTime(st + alive);
-            }
-            document.cookie = c_name + "=" + escape(value) + (exdate ? (";expires=" + exdate.toGMTString()) : "") + "; path=/";
-        }
-
-        function get_cookie(c_name) {
-            if (document.cookie.length > 0) {
-                c_start = document.cookie.indexOf(c_name + "=");
-                if (c_start != -1) {
-                    c_start = c_start + c_name.length + 1;
-                    c_end = document.cookie.indexOf(";", c_start);
-                    if (c_end == -1) c_end = document.cookie.length;
-                    return unescape(document.cookie.substring(c_start, c_end));
-                }
-            }
-            return null;
-        }
-
-
-        function set_geo_cookie(o) {
-            if (!o || !o.countryCode || (o.countryCode == "US" || o.countryCode == "-")) {
-                //display US
-                detected_country_code = ((o && o.countryCode) ? o.countryCode : "-");
-                set_cookie("loc", "a=US");
-                usaOnlyShow();
-                hasDetected = true;
-            }
-            else {
-                //display Non-US
-                set_cookie("loc", ((o && o.countryCode) ? o.countryCode : "-"));
-                usaOnlyHide();
-                hasDetected = true;
-            }
-
-        };
-
-        $(function () {
-            //
-
-
-            //
-            if (!hasDetected) {
-
-                if (false && google && google.loader && google.loader.ClientLocation) {
-                    var cl = google.loader.ClientLocation;
-                    if (cl.address && cl.address.country_code) {
-                        detected_country_code = cl.address.country_code;
-                        if (cl.address.country_code == "US") {
-                            //is US
-                            usaOnlyShow();
-                        }
-                        else {
-                            usaOnlyHide();
-                        }
-                    }
-                    else {
-                        $.getScript("http://api.ipinfodb.com/v3/ip-country/?key=59b8ae7c1eb9337017fc72df5c70fce359fd8c6a139159a01755a52bbd26b193&format=json&callback=set_geo_cookie");
-
-                        //                        try {
-                        //                            var MyIP = new SmartIP();
-                        //                            MyIP.load();
-                        //                            MyIP.onload = function () {
-                        //                                //alert(MyIP.getCountryName()); // in this case instead of MyIP
-                        //                                // you can use "this" operator
-                        //                                detected_country_code = MyIP.getCountryCode();
-                        //                                if (MyIP.getCountryCode() != "unknown" && MyIP.getCountryCode() != "US") {
-                        //                                    usaOnlyHide();
-                        //                                } else {
-                        //                                    usaOnlyShow();
-                        //                                }
-                        //                            }
-                        //                        } catch (err) { usaOnlyShow(); };
-                    }
-                }
-                else {
-                    $.getScript("http://api.ipinfodb.com/v3/ip-country/?key=59b8ae7c1eb9337017fc72df5c70fce359fd8c6a139159a01755a52bbd26b193&format=json&callback=set_geo_cookie");
-
-                    //                    try {
-                    //                        var MyIP = new SmartIP();
-                    //                        MyIP.load();
-                    //                        MyIP.onload = function () {
-                    //                            //alert(MyIP.getCountryName()); // in this case instead of MyIP
-                    //                            // you can use "this" operator
-                    //                            detected_country_code = MyIP.getCountryCode();
-                    //                            if (MyIP.getCountryCode() != "unknown" && MyIP.getCountryCode() != "US") {
-                    //                                usaOnlyHide();
-                    //                            }
-                    //                            else {
-                    //                                usaOnlyShow();
-                    //                            }
-                    //                        }
-                    //                    } catch (err) { usaOnlyShow(); };
-                }
-            }
-        });
-
-        function usaOnlyHide() {
-            $(".left-menu table").each(function (i) {
-                $that = $(this);
-                if ($("a", $that).attr("href").indexOf("online") > -1) {
-                    $that.addClass("usa-only");
-                }
-            });
-            $(".usa-only").hide();
-            $(".non-usa").show();
-            $(".navShop").hide();
-            $(".country-detection").html("Detected Country: " + detected_country_code);
-        }
-        function usaOnlyShow() {
-            $(".left-menu table").each(function (i) {
-                $that = $(this);
-                if ($("a", $that).attr("href").indexOf("Online") > -1) {
-                    $that.addClass("usa-only")
-                }
-            });
-            $(".usa-only").show();
-            $(".non-usa").hide();
-
-            $(".country-detection").html("Detected Country: " + detected_country_code);
-        }
-        
-    </script>
-    <div id="dvdate" style="display: none">3/18/2015 3:35:50 AM</div>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/lib/jquery-1.11.1.min.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/misc/drupal.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/modernizr.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/lib/bxslider/jquery.bxslider.min.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/lib/tooltipster/jquery.tooltipster.min.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/modules/contrib/colorbox/js/colorbox.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/modules/contrib/colorbox/styles/stockholmsyndrome/colorbox_style.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/modules/contrib/colorbox/js/colorbox_load.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/modules/contrib/google_analytics/googleanalytics.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/modules/contrib/clientside_validation/jquery-validate/jquery.validate.min.js?nu5mvj"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-55069627-1", "auto");ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/lib/fancybox/jquery.fancybox.pack.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/lib/jquery.tinyscrollbar.min.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/lib/jquery-ui.min.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/lib/select-widget-min.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/lib/jquery.onscreen.min.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/scripts.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/themes/harryw/js/aw_base.js?nu5mvj"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"harryw","theme_token":"tIQI9WdHp6pBSH9Py_OoIUaBtj7QtbOtuB50Nrejaus","js":{"0":1,"http:\/\/s7.addthis.com\/js\/300\/addthis_widget.js#pubid=\u0026async=1":1,"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.ie8.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation_html5\/clientside_validation_html5.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/clientside_validation.js":1,"1":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/harryw\/js\/modernizr.js":1,"sites\/all\/themes\/harryw\/js\/lib\/bxslider\/jquery.bxslider.min.js":1,"sites\/all\/themes\/harryw\/js\/lib\/tooltipster\/jquery.tooltipster.min.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/contrib\/clientside_validation\/jquery-validate\/jquery.validate.min.js":1,"2":1,"sites\/all\/themes\/harryw\/js\/lib\/fancybox\/jquery.fancybox.pack.js":1,"sites\/all\/themes\/harryw\/js\/lib\/jquery.tinyscrollbar.min.js":1,"sites\/all\/themes\/harryw\/js\/lib\/jquery-ui.min.js":1,"sites\/all\/themes\/harryw\/js\/lib\/select-widget-min.js":1,"sites\/all\/themes\/harryw\/js\/lib\/jquery.onscreen.min.js":1,"sites\/all\/themes\/harryw\/js\/scripts.js":1,"sites\/all\/themes\/harryw\/js\/aw_base.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/simplenews\/simplenews.css":1,"sites\/all\/modules\/contrib\/adaptive_image\/css\/adaptive-image.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/stockholmsyndrome\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"modules\/locale\/locale.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/themes\/harryw\/css\/styles.css":1,"sites\/all\/themes\/harryw\/css\/base.css":1,"sites\/all\/themes\/harryw\/css\/taxonomy.css":1,"sites\/all\/themes\/harryw\/css\/module-tooltip-share.css":1,"sites\/all\/themes\/harryw\/css\/select.css":1,"sites\/all\/themes\/harryw\/css\/wedding.css":1,"sites\/all\/themes\/harryw\/css\/news.css":1,"sites\/all\/themes\/harryw\/js\/lib\/fancybox\/jquery.fancybox.css":1,"sites\/all\/themes\/harryw\/js\/lib\/bxslider\/jquery.bxslider.css":1,"sites\/all\/themes\/harryw\/js\/lib\/tooltipster\/jquery.tooltipster.css":1,"sites\/all\/themes\/harryw\/css\/ie.css":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"addthis":{"load_type":"async"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"path_to_theme":"sites\/all\/themes\/harryw","clientsideValidation":{"forms":{"views-exposed-form-search-results-page":{"errorPlacement":"1","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":1,"scrollSpeed":"1000","disableHtml5Validation":"1","validateOnBlur":"1","validateOnBlurAlways":"0","validateOnKeyUp":"1","validateBeforeAjax":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"input":{"required":true,"messages":{"required":"\u0022input\u0022 field is required.","maxlength":"\u0022input\u0022 field has to have maximum 128 values."},"maxlength":128}}},"hw-newsletter-footer":{"errorPlacement":"1","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":1,"scrollSpeed":"1000","disableHtml5Validation":"1","validateOnBlur":"1","validateOnBlurAlways":"0","validateOnKeyUp":"1","validateBeforeAjax":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"news":{"required":true,"messages":{"required":"\u0022Email Preferences\u0022 field is required.","blacklist":"\u0022Email Preferences\u0022 field is required."},"blacklist":{"values":["_none"],"negate":false}},"email":{"required":true,"messages":{"required":"\u0022Email\u0022 field is required.","maxlength":"\u0022Email\u0022 field has to have maximum 128 values.","email":"\u003Cem class=\u0022placeholder\u0022\u003E\u0026quot;Email\u0026quot;\u003C\/em\u003E is not a valid email."},"maxlength":128,"email":true}}}},"general":{"usexregxp":0,"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}},"groups":{"views-exposed-form-search-results-page":{},"hw-newsletter-footer":{}}}});
+//--><!]]>
+</script>
+  
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-2079 node-type-page i18n-en desktop">
+    <div id="page-wrapper">
+  <header class="header">
+          <div class="logo">
+                  <a href="/en" title="Home" rel="home" id="logo">
+            <img src="http://www.harrywinston.com/sites/all/themes/harryw/logo.png" alt="Home">
+          </a>
+              </div>
     
-   
-<script type="text/javascript"> <!--
-    var _ref = escape(document.referrer);
-    var _url = escape(location.href);
-    var _idt = new Date();
-    var _idn = _idt.getTime();
-    var _srz = screen.width + "X" + screen.height;
-    var _iwb = new Image(1, 1);
-    var _sch = "http://sc104.sitecompass.com";
-    if (document.location.protocol == "https:") { _sch = "https://scsec1.sitecompass.com/cl04"; }
-    _iwb.src = _sch + "/sc_cap/256/logo.php?acct=256&referrer=" + _ref + "&url=" + _url + "&sres=" + _srz + "&tm=" + _idn;
-    _iwb.onload = function () { _xnone(); }
-    function _xnone() { return; }    
-// --> 
+      <div class="region region-header">
+    <div id="block-views-exp-search-results-page" class="block block-views">
+
+    
+  <div class="content">
+    <form action="/en/search" method="get" id="views-exposed-form-search-results-page" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-input-wrapper" class="views-exposed-widget views-widget-filter-search_api_views_fulltext">
+                  <label for="edit-input">
+            Search          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-input">
+ <input type="text" id="edit-input" name="input" value="" size="30" maxlength="128" class="form-text required error">
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-search-results" name="" value="Search" class="form-submit">    </div>
+      </div>
+</div>
+</div></form>  </div>
+</div>
+  </div>
+      <div class="region region-main-menu">
+    <div id="block-auto-menu-menu-enhanced" class="block block-auto-menu">
+
+    
+  <div class="content">
+    <ul class="main-menu-enhanced"><li id="menu-1464" class="first-level  children"><a href="/en/company" class="menu-level-1  children">Company</a><div class="menu-1464 submenu company "><div class="item-list"><ul class="menu-1464"><li class="menu-items-list content first odd  first"><a href="/en/history" data-img="http://www.harrywinston.com/sites/default/files/menu-item-img/historyandheritageOK.png">History &amp; Heritage</a></li>
+<li class="menu-items-list content  even "><a href="/en/art-watchmaking" data-img="http://www.harrywinston.com/sites/default/files/menu-item-img/artofwatch_0.png">Art of Watchmaking</a></li>
+<li class="menu-items-list content  odd "><a href="/en/news-events" data-img="http://www.harrywinston.com/sites/default/files/menu-item-img/newsevent_0.png">News &amp; Events</a></li>
+<li class="menu-items-list content  even "><a href="/en/king-diamonds" data-img="http://www.harrywinston.com/sites/default/files/menu-item-img/kingofdiamonds.png">King of Diamonds</a></li>
+<li class="menu-items-list content  odd "><a href="/en/jeweler-stars" data-img="http://www.harrywinston.com/sites/default/files/menu-item-img/jewelertothestar.png">Jeweler to the Stars</a></li>
+<li class="menu-items-list content  even "><a href="/en/vintage-jewelry" data-img="http://www.harrywinston.com/sites/default/files/menu-item-img/vintagejewelry.png">Vintage Jewelry</a></li>
+<li class="menu-items-list content  odd last last"><a href="/en/brilliant-futures" data-img="http://www.harrywinston.com/sites/default/files/menu-item-img/philantropy.png">Philanthropy</a></li>
+</ul></div></div></li><li id="menu-1077" class="first-level  children"><a href="/en/jewelry" class="menu-level-1  children">Jewelry</a><div class="menu-1077 submenu with_push "><div class="item-list"><h3>High Jewelry</h3><ul class="menu-1077"><li class="menu-items-list collection first"><a href="/en/collections/high-jewelry" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/highjewelry.png">See all</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/high-jewelry/secrets-by-harry-winston" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/secrets.png">Secrets <i>by</i> Harry Winston</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/high-jewelry/winston-icons" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/icons.png">Winston Icons</a></li>
+<li class="menu-items-list collection last"><a href="/en/collection/high-jewelry/the-incredibles" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/incredibles2.png">The Incredibles</a></li>
+</ul></div><div class="item-list"><h3>Jewelry</h3><ul class="menu-1077"><li class="menu-items-list collection first"><a href="/en/collections/jewelry" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/jewelry.png">See all</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/jewelry/lily-cluster-by-harry-winston" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/FRDPMQRFLC_263742_1_Masked.png">Lily Cluster <i>by</i> Harry Winston</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/jewelry/sunflower-by-harry-winston" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/sunflower.png">Sunflower <i>by</i> Harry Winston</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/jewelry/diamond-loop-by-harry-winston" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/Diamond-loop.png">Diamond Loop <i>by</i> Harry Winston</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/jewelry/diamond-links-by-harry-winston" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/Diamond-links_0.png">Diamond Links <i>by</i> Harry Winston</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/jewelry/winston-cluster-by-harry-winston" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/Winstoncluster.png">Winston Cluster <i>by</i> Harry Winston</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/jewelry/new-york-collection-by-harry-winston" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/NewYork.png">New York Collection <i>by</i> Harry Winston</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/jewelry/charms-by-harry-winston" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/CMDYRDPALOG_263796_HANG_a1_Masked.png">Charms <i>by</i> Harry Winston</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/jewelry/classics" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/classics.png">Classics</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/jewelry/belle-by-harry-winston" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/Belle.png">Belle <i>by</i> Harry Winston</a></li>
+<li class="menu-items-list collection last"><a href="/en/collection/jewelry/symbols-by-harry-winston" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/Symbols.png">Symbols <i>by</i> Harry Winston</a></li>
+</ul></div><div class=" item-list picture_area"></div><div class="item-list"><h3>Categories</h3><ul class="menu-1077"><li class="menu-items-list category first"><a href="/en/category/accessories" data-img="">Accessories</a></li>
+<li class="menu-items-list category"><a href="/en/category/bracelets" data-img="">Bracelets</a></li>
+<li class="menu-items-list category"><a href="/en/category/charms" data-img="">Charms</a></li>
+<li class="menu-items-list category"><a href="/en/category/earrings" data-img="">Earrings</a></li>
+<li class="menu-items-list category"><a href="/en/category/engagement-rings" data-img="">Engagement Rings</a></li>
+<li class="menu-items-list category"><a href="/en/category/men-s-jewelry" data-img="">Men's Jewelry</a></li>
+<li class="menu-items-list category"><a href="/en/category/necklaces" data-img="">Necklaces</a></li>
+<li class="menu-items-list category"><a href="/en/category/pendants" data-img="">Pendants</a></li>
+<li class="menu-items-list category"><a href="/en/category/rings" data-img="">Rings</a></li>
+<li class="menu-items-list category last"><a href="/en/category/wedding-bands" data-img="">Wedding Bands</a></li>
+</ul></div><div class="item-list jewelry-push"><h4>High Jewelry Timepieces</h4><hr class="line-separator"><a href="/en/collection/high-jewelry-timepieces"><img src="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/HJTQHM32WW001_Original_21156.png?itok=R6wWOZyE"></a><a href="/en/collection/high-jewelry-timepieces" class="btn-discover button collection-discover"><span>Discover</span></a></div></div></li><li id="menu-1324" class="first-level weddings children"><a href="/en/engagement-wedding" class="menu-level-1 weddings children">Wedding</a><div class="menu-1324 submenu wedding weddings"><div class="item-list"><ul class="menu-1324"><li class="menu-items-list content first odd  first"><a href="/en/category/engagement-rings" data-img="http://www.harrywinston.com/sites/default/files/menu-item-img/engagementring_0_1.png">Engagement Rings</a></li>
+<li class="menu-items-list content  even "><a href="/en/category/wedding-bands" data-img="http://www.harrywinston.com/sites/default/files/menu-item-img/weddingbands_0_0.png">Wedding Bands</a></li>
+<li class="menu-items-list content  odd "><a href="/en/history-engagement-ring" data-img="http://www.harrywinston.com/sites/default/files/menu-item-img/history_0.png">History of the Engagement Ring</a></li>
+<li class="menu-items-list content  even last last"><a href="/en/our-hands-yours" data-img="http://www.harrywinston.com/sites/default/files/fromourhands.png">From Our Hands to Yours</a></li>
+</ul></div></div></li><li id="menu-426" class="first-level  children"><a href="/en/timepieces" class="menu-level-1  children">Timepieces</a><div class="menu-426 submenu with_push "><div class="item-list"><h3>Collections</h3><ul class="menu-426"><li class="menu-items-list collection first"><a href="/en/collections/timepieces" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/landing_watches.png">See all</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/harry-winston-midnight-collection-tm" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/thumb_midnight-collection_0.png">Harry Winston Midnight Collection™</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/harry-winston-the-avenue-collection-tm" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/thumb-avenue-collec_1.png">Harry Winston The Avenue Collection™</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/harry-winston-the-ocean-collection-tm" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/thumb_ocean-collection_0.png">Harry Winston The Ocean Collection™</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/harry-winston-the-premier-collection-tm" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/thumb-premier-collection.png">Harry Winston The Premier Collection™</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/high-jewelry-timepieces" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/HJTQHM32WW001_Original_21156.png">High Jewelry Timepieces</a></li>
+<li class="menu-items-list collection"><a href="/en/collection/high-complications" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/high-complications.png">High Complications</a></li>
+<li class="menu-items-list collection last"><a href="/en/collection/project-z" data-img="http://www.harrywinston.com/sites/default/files/styles/menu_collection/public/slideshow/OCEATZ44ZZ009_0.png">Project Z</a></li>
+</ul></div><div class=" item-list picture_area"></div><div class="item-list timepieces-push"><h4>Timepieces<br>Finder</h4><hr class="line-separator"><a href="/en/watch-finder"><img src="/sites/default/files/timepieces_watchfinder.png" style="height: auto;margin-top:30px;"></a><a href="/en/watch-finder" class="btn-discover button collection-discover"><span>Find your watch</span></a></div></div></li><li id="menu-1321" class="first-level  "><a href="/en/point-of-sale" class="menu-level-1  ">Locations</a></li></ul>  </div>
+</div>
+  </div>
+    <button type="button" id="search-toggle" class="search-mobile"><i>Search</i></button>
+    <button type="button" id="menu-toggle" class="menu-burger"><i>Menu</i></button>
+  </header> <!-- /#header -->
+
+
+  <main id="main-wrapper">
+    <div id="content">
+      
+        <div class="region region-content">
+    <div id="block-addthis-addthis-block" class="block block-addthis">
+
+    
+  <div class="content">
+      </div>
+</div>
+<div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-2079" class="node node-page node-page clearfix">
+  <div class="content-header">
+    <h1>Privacy Policy</h1>
+    <hr class="line-separator">
+          <div class="node-description">
+        Access to our <a href="/legal-terms" style="text-decoration:underline;">Terms of Use</a>      </div>
+        <div class="arrow-container"><a href="" class="scrollto"><hr class="arrow-bottom"></a></div>
+  </div>
+
+  <div class="content clearfix rte">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Harry Winston knows that your privacy is important to you, and we want you to know that it is important to us too.  We created this Privacy Policy to explain the types of information we collect through our Web sites (on which it is linked to in the footer) and the various social networking platforms that we use (each, a “Website”).  This Privacy Policy does not apply to information that we collect offline, such as in our retail salons.  This Privacy Policy describes how we will use, disclose and protect this information once it is collected, and how you can opt-out of some of our uses of your information.</p>
+<p>Here are a few general principles to keep in mind as you read through this Policy:</p>
+<ul><li>The Website is owned and operated by Harry Winston, Inc. and its corporate affiliates (referred to collectively in this policy as “we,” “us,” “our” and other similar pronouns).</li>
+<li>California’s Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternatively, businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes unless the customer has opted-in to such information sharing.  Accordingly, we will not share your personal information with third parties other than our affiliates for the third party’s own marketing purposes unless you opt-in, for example by checking a consent check box when providing us with your information.  We will, however, share your personal information with our affiliates for marketing purposes.  To request a list of the affiliates with whom we have shared your personal information for marketing purposes in the last year, write to us at Harry Winston, 718 Fifth Avenue, New York, NY 10019 and include the words “California Shine The Light Request” in the “Regarding” line.</li>
+<li>As our business evolves, this Policy may change, so check back to this page periodically to make sure you understand how your personal information will be treated.</li>
+<li>This Policy is incorporated into, and part of, our <a href="/legal-terms" style="text-decoration:underline;">Terms of Use</a>, which govern your use of our Websites as a whole.</li>
+<li>If you are located outside of the United States, you should know that the information you provide to us is being transmitted to us and processed in the United States and will be protected subject to this privacy policy and United States laws, which may not be as protective as the laws in your country. Also, this Website places cookies and local shared objects on your computer or device which are further described below.</li>
+</ul><hr class="line-separator"><div class="golden">Opt In and Opt Out</div>
+<p class="text-2-cols">You may have the right to opt in to or opt out of certain of our uses of your Personal Information. For example, when you are asked to provide Personal Information on this Website, you may have the opportunity to elect to, or not to, receive messages from us by e-mail, phone or postal mail. You may tell us that you do not want to receive our promotional messages by visiting the marketing preferences area of or Website or by sending us your written request along with your name, address, e-mail and phone number to: <a href="mailto:clientservices@harrywinston.com">clientservices@harrywinston.com</a>, Harry Winston, Inc.,Privacy Officer, 718 Fifth Avenue, New York, NY 10019, or by calling (212) 315-7900. You can also opt-out of our promotional emails by clicking on the opt-out link within the e-mail you receive. Please understand that it may take us time to process any opt out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, to stop receiving promotional messages from third parties who already have your contact information, please contact them directly. </p>
+<hr class="line-separator"><div class="golden">What information is collected on this Website?</div>
+<h5>User-Provided Information</h5>
+<p class="text-2-cols">“Personal Information” is information that can be used to identify you as an individual or allow someone to contact you, as well as information attributed with such information.  We collect Personal Information such as your name; employer name; day and month of birth; postal addresses; e-mail addresses; telephone numbers; fax numbers; photograph; gender; Website browsing and transaction history; job history and application information; and interests, hobbies and demographic information.  For example, we collect Personal Information when you sign up to receive emails from us; request a catalog; request a sales associate to contact you; schedule a visit to our salon; create a wish list on our Website; sign up for our newsletters; enter sweepstakes and contests; complete surveys; contribute to a chat room, bulletin board, blog or other social forum on the Website; or submit a comment or question to us using a “contact us” or similar feature on the Website.<br>
+A “tell-a-friend” tool provided on the Website and/or in our e-mails allows you to send information about our products and offerings to another person. You may also be able to purchase gifts for another person on our Website.  When you use these offerings, we ask you for the name and contact information of the other person, and that information will be protected pursuant to this privacy policy. We will not use the other person’s information for additional purposes without their consent.
+</p>
+<hr class="line-separator"><h5>Website Usage Information</h5>
+<p class="text-2-cols">As is the case with many websites, our servers automatically collect your IP address when you visit our Website, and we may associate that with your domain name or that of your Internet access provider.  We may also capture certain “clickstream data” pertaining to your Website usage.  Clickstream data includes, for example, information about your computer or device, Web browser and operating system and their settings, the referring page that linked you to the Website, the pages, content or ads you see or click on during your visit and when and for how long you do so, items you download, the next website you visit when you leave the Website, and any search terms you have entered on the Website or a referral site.<br>
+To opt-out of your Site usage being included in our Google analytics reports, you may follow these <a href="https://tools.google.com/dlpage/gaoptout" style="text-decoration:underline;" target="_blank">instructions</a>.<br>
+In addition, we may deploy various tracking technologies on the Website to collect additional information about your Website visits.  For example:</p>
+<ul><li>Cookies are small data files stored on your computer or device at the request of a website.  A cookie assigns a unique numerical identifier to your Web browser, and may enable us to recognize you as the same user who was at our Website in the past, and relate your use of the Website to other information about you, such as your Website usage information and Personal Information.  Cookies may also be used to enhance your experience on the Website (for example, by storing your username so you can log in easily, keeping you logged into the Website after you have provided your password, and storing the contents of your shopping cart as you browse) or to collect general usage and aggregated statistical information and detect and prevent fraud. Most browsers can be set to detect cookies and give you an opportunity to reject them, but refusing cookies may, in some cases, inhibit or preclude your use of the Website or its features.  To learn more about the use of cookies, including how to manage or delete them, <a href="http://www.allaboutcookies.org/" style="text-decoration:underline;" target="_blank">click here.</a></li>
+<li>Local shared objects, such as “Flash cookies,” may be stored on your computer or device using a media player or other software installed on your computer or device.  Local shared objects operate a lot like cookies, but cannot be managed in the same way.  Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings.  For information on managing Flash cookies, for example, <a href="https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html" style="text-decoration:underline;" target="_blank">click here.</a></li>
+<li>HTML5 (the language some websites are coded in) may be used to store information on your computer or device about your Website usage activities.  This information can be retrieved by us to determine how our Website is being used by our visitors, how it can be improved, and to customize it for our users.</li>
+<li>A pixel tag (also known as a “clear GIF” or “web beacon”) is a tiny image – typically just one-pixel – that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you’ve opened one of our emails or seen one of our Web pages.</li>
+</ul><p>These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Website Usage Information to other information about you, including your Personal Information.</p>
+<hr class="line-separator"><div class="golden">Do Not Track Disclosures</div>
+<p class="text-2-cols">This Web site does not process Do-Not-Track headers transmitted by Web browsers.  Our third party web analytics companies collect information about your online activities over time. These third parties do not change their tracking practices in response to DNT settings in your web browser and we do not obligate these parties to honor DNT settings. We utilize Google analytics for our web analytics and you can opt out from your usage data being included in our Google Analytics reports by visiting <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>.</p>
+<hr class="line-separator"><div class="golden">How is your information used?</div>
+<p>We or our service providers may use the information we collect from and about you to perform the following business functions:</p>
+<ul><li>processing and fulfilling your transactions</li>
+<li>enabling users to use our Website and its features</li>
+<li>administering the Website and your account with us</li>
+<li>responding to your requests, questions, and concerns</li>
+<li>market research</li>
+<li>developing new features and offerings </li>
+<li>consistent with any communications preferences you have conveyed to us, sending you marketing and other communications, including information about products, services, and events, of ours and of others, that we think might interest you. (You may opt out of receiving such notices from us by following the instructions in the Right to Opt In and Opt Out section above.)</li>
+<li>protecting our rights and property  </li>
+<li>recovering debt and preventing fraud</li>
+<li>customizing our Website to your interests and history with us</li>
+<li>customizing our Website to your interests and history with us</li>
+<li>other purposes disclosed when personal information is submitted to us</li>
+</ul><p>To perform the above functions, we may match information collected from you through different means or at different times, including both Personal Information and Website Usage Information, and use such information along with information obtained from other sources (including third parties) such as demographic information and updated contact information.  We or our service providers may also use your information to assess the level of interest in, and use of, the Website, our e-mails and our other messaging campaigns both on an individual basis and in the aggregate.  </p>
+<hr class="line-separator"><div class="golden">Social Networking</div>
+<p class="text-2-cols">We maintain presence on several social networking and blogging platforms, and we also incorporate some third party social networking features onto our Website.  Through these platforms and features, we receive some Personal Information and some Website Usage Information about you, and this Privacy Policy applies to that information as well.  In addition, third party social networking platforms and blogging platforms have their own privacy policies which explain how the third parties that provide them will use and protect your information.  In accordance with those policies (and your privacy settings within your social networking accounts) information about your activities on our Website (such as “Mary Jane “likes” our Diamond Tassel necklace”) may be published to your social network. </p>
+<hr class="line-separator"><div class="golden">Do we share Personal Information and Website Usage Information with others?</div>
+<p class="text-2-cols">Yes.  We may share the information we collect on the Website with others for a variety of reasons.  In addition to the kinds of information sharing you might expect, such as sharing with third parties who need your information in order to provide services to us (or on our behalf and subject to confidentiality commitments) and sharing what you voluntarily post to public areas on the Website with other Website users, we may share your information:</p>
+<ul><li>with our affiliates and retail salons both in the US and abroad  </li>
+<li>with unaffiliated third parties for their marketing and other purposes, if you have opted-in to this sharing  </li>
+<li>with our co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, offering, or other promotional activity that is jointly offered by us and any third parties, unless you instruct us not to by following the instructions in the Opt-in and Opt-out section above </li>
+<li>with our co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, offering, or other promotional activity that is jointly offered by us and any third parties, unless you instruct us not to by following the instructions in the Opt-in and Opt-out section above </li>
+<li>in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business</li>
+</ul><p>In addition, we may share non-personally identifiable Website Usage Information (including aggregate data) with others, for their own use, in a form that does not include your name or contact information. </p>
+<hr class="line-separator"><div class="golden">Your Access Rights</div>
+<p class="text-2-cols">You may review, update or modify certain of the Personal Information that is stored in your user account on the Website (if you have one) by logging in to the “My Account” or similar area of the Website or by contacting us using the “Contact US” information below.  We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information.  Your right to delete your information is subject to our records retention policies.</p>
+<hr class="line-separator"><div class="golden">Security</div>
+<p class="text-2-cols">While we endeavor to protect the security and integrity of sensitive Personal Information collected via this Website, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.<br>
+If you correspond with us by e-mail or using Web forms like a “contact us” feature on our Website, you should be aware that your transmission might not be secure.  A third party could view the information you send in transit by such means.  We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.<br>
+If we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development.  If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances.  If we have your e-mail address, we may notify you by e-mail.  You consent to our use of e-mail as a means of such notification.  If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at <a href="mailto:clientservices@harrywinston.com">clientservices@harrywinston.com</a>.
+</p>
+<hr class="line-separator"><div class="golden">“Linked-To” Websites</div>
+<p class="text-2-cols">The Website may contain links, banners, widgets or advertisements that lead to other websites.  We are not responsible for these other sites, and so their posted privacy policies (not this Policy) will govern the collection and use of your information on them.  We encourage you to read the privacy statements of each Web site visited after leaving the Website to learn about how your information is treated by others.</p>
+<hr class="line-separator"><div class="golden">Changes to this Privacy Policy</div>
+<p class="text-2-cols">We may change this Policy from time to time.  When we do, we will let you know by posting the changed Policy on this page with a new “Last Updated” date.  In some cases (for example, if we significantly expand our use or sharing of your Personal Information),  we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you.   In some cases, we may request your consent to the changes. </p>
+<hr class="line-separator"><div class="golden">Contact us</div>
+<p>If you have any questions or comments regarding our privacy practices, you may contact us at:</p>
+<p>
+            Harry Winston<br>
+            1330 Avenue of the americas new york, ny 10019 u.s.a<br>
+            phone. 1-800-988-4110<br><br><br>
+            We also can be reached by e-mail at <a href="mailto:clientservices@harrywinston.com">clientservices@harrywinston.com</a>.</p>
+<p>Effective Date:  July 7th 2015</p>
+</div></div></div>  </div>
+
+  
+      <div class="link-wrapper">
+          </div>
+  
+  </div>  </div>
+</div>
+  </div>
+    </div><!-- /#content -->
+  </main> <!-- /#main-wrapper -->
+
+  <footer class="footer">
+      <div class="region region-footer">
+    <div id="block-locale-language" class="block block-locale footer_submenu footer-language">
+    <div class="block-header-container">
+         <div class="block-header">
+              Change language     <div class="close">Close</div>
+         </div>
+    </div>
+    <div class="block-content-container">
+          <div class="language-block">
+            <ul class="language-switcher-locale-url"><li class="en first active"><a href="/en/privacy-policy" class="language-link active" xml:lang="en">English</a></li>
+<li class="fr"><a href="/fr/politique-de-confidentialite" class="language-link" xml:lang="fr">Français</a></li>
+<li class="ja"><a href="/jp/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC" class="language-link" xml:lang="ja">日本語</a></li>
+<li class="zh-hans last"><a href="/cn/%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" class="language-link" xml:lang="zh-hans">简体中文</a></li>
+</ul>          </div>
+    </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block footer-client-services footer_submenu">
+
+    
+  <div class="content">
+    <div class="block-header-container">
+  <div class="block-header">
+    Clients Services<div class="close">Close</div>
+  </div>
+</div>
+<div class="block-content-container menu-block-wrapper menu-block-1 menu-name-menu-footer-menu parent-mlid-430 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1381"><a href="/en/schedule-appointment">Schedule an appointment</a></li>
+<li class="leaf menu-mlid-1382"><a href="/en/contact">Request assistance</a></li>
+<li class="leaf menu-mlid-1383"><a href="/en/point-of-sale">Store locations</a></li>
+<li class="leaf menu-mlid-1384"><a href="/en/catalogs">Request a catalog</a></li>
+<li class="leaf menu-mlid-1385"><a href="/en/faq">FAQ</a></li>
+<li class="last leaf menu-mlid-1386"><a href="/en/sitemap">Sitemap</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-2" class="block block-menu-block footer-corporate footer_submenu">
+
+    
+  <div class="content">
+    <div class="block-header-container">
+  <div class="block-header">
+    Corporate<div class="close">Close</div>
+  </div>
+</div>
+<div class="block-content-container menu-block-wrapper menu-block-2 menu-name-menu-footer-menu parent-mlid-431 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1379"><a href="/en/brilliant-futures">Philantropy</a></li>
+<li class="leaf menu-mlid-1380"><a href="https://press.harrywinston.com" target="_blank">Press Office</a></li>
+<li class="last leaf menu-mlid-1378"><a href="/en/careers">Careers</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-block-1" class="block block-block footer_submenu footer-network">
+
+    
+  <div class="content">
+    <div class="block-header-container">
+     <div class="block-header">
+          Follow us     <div class="close">Close</div>
+     </div>
+</div>
+<div class="block-content-container"><ul class="social-network">
+<li><a target="_blank" class="btn-social btn-facebook" href="https://www.facebook.com/HarryWinston"><span>Facebook</span></a></li>
+<li><a target="_blank" class="btn-social btn-twitter" href="https://twitter.com/HarryWinston"><span>Twitter</span></a></li>
+<li><a target="_blank" class="btn-social btn-pinterest" href="https://www.pinterest.com/HarryWinstonInc/"><span>Pinterest</span></a></li>
+<li><a target="_blank" class="btn-social btn-google" href="https://plus.google.com/u/0/+harrywinston/posts"><span>Google</span></a></li>
+<li><a target="_blank" class="btn-social btn-youtube" href="https://www.youtube.com/user/harrywinston"><span>Youtube</span></a></li>
+<li><a target="_blank" class="btn-social btn-instagram" href="http://www.instagram.com/harrywinston"><span>Instagram</span></a></li>
+</ul>
+</div>
+  </div>
+</div>
+<div id="block-harrywsnews-harrys-newsletter" class="block block-harrywsnews footer_submenu footer-newsletter">
+
+  <div class="block-header-container">
+    <div class="block-header">
+        Email          <div class="close">Close</div>
+    </div>
+  </div>
+
+  <div class="content">
+    <form action="/en/subscribed" method="post" id="hw-newsletter-footer" accept-charset="UTF-8"><div><div class="block-content-container harrywsnews-block_container webform-client-form"><div class="form-item form-type-select form-item-news">
+  <label for="edit-news">Email Preferences <span class="form-required" title="This field is required.">*</span></label>
+ <select id="edit-news" name="news" class="form-select required"><option value="" selected="selected">- Select -</option><option value="2267">All categories</option><option value="2268">Bridal</option><option value="2112">Jewelry</option><option value="2269">High Jewelry</option><option value="1084">Timepieces</option></select>
+</div>
+<div class="form-item form-type-textfield form-item-email">
+  <label for="edit-email">Email <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="example@mail.com" type="text" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text required">
+</div>
+<div class="form-actions"><input type="submit" id="edit-submit" name="op" value="Submit" class="form-submit"></div></div><input type="hidden" name="form_build_id" value="form-T5lajyTrtCzjN44U4E3c7TjuthjEwMdXGF_v7RLmkXs">
+<input type="hidden" name="form_id" value="hw_newsletter_footer">
+</div></form>  </div>
+</div>
+<div id="block-menu-block-3" class="block block-menu-block footer_menu_container">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-429 item-align_left btn-footer-submenu btn-change-language" id="footer-language"><a href="/en">Change language</a></li>
+<li class="leaf has-children menu-mlid-430 item-align_center btn-footer-submenu" id="footer-client-services"><a href="/en">Client services</a></li>
+<li class="leaf has-children menu-mlid-431 item-align_right btn-footer-submenu" id="footer-corporate"><a href="/en">Corporate</a></li>
+<li class="leaf menu-mlid-432 item-align_left right_side"><a href="/en/catalogs">Catalogs</a></li>
+<li class="leaf menu-mlid-547 logo-footer"><a href="/en">Home</a></li>
+<li class="leaf menu-mlid-433 item-align_center btn-footer-submenu btn-follow-us right_side" id="footer-network"><a href="/en">Follow us</a></li>
+<li class="leaf menu-mlid-434 item-align_center btn-footer-submenu btn-newsletter  right_side" id="footer-newsletter"><a href="/en">Email</a></li>
+<li class="leaf menu-mlid-1377"><a href="/en/legal-terms">Legal Terms</a></li>
+<li class="last leaf menu-mlid-1528  right_side item-align_right casc"><a href="/en/california-transparency-supply-chains-act-disclosure">CA Supply Chain</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-block-2" class="block block-block footer_submenu-mobile">
+
+    
+  <div class="content">
+    <div class="social-network_container-mobile"><ul class="social-network">
+<li><a target="_blank" class="btn-social btn-facebook" href="https://www.facebook.com/HarryWinston"><span>Facebook</span></a></li>
+<li><a target="_blank" class="btn-social btn-twitter" href="https://twitter.com/HarryWinston"><span>Twitter</span></a></li>
+<li><a target="_blank" class="btn-social btn-pinterest" href="https://www.pinterest.com/HarryWinstonInc/"><span>Pinterest</span></a></li>
+<li><a target="_blank" class="btn-social btn-google" href="https://plus.google.com/u/0/+harrywinston/posts"><span>Google</span></a></li>
+<li><a target="_blank" class="btn-social btn-youtube" href="https://www.youtube.com/user/harrywinston"><span>Youtube</span></a></li>
+<li><a target="_blank" class="btn-social btn-instagram" href="http://www.instagram.com/harrywinston"><span>Instagram</span></a></li>
+</ul>
+</div>
+  </div>
+</div>
+  </div>
+  </footer> <!-- /#footer -->
+
+</div> <!-- /#page-wrapper -->  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var addthis_config = {"pubid":"","services_compact":"facebook,google_plusone_share,sinaweibo,twitter,more","data_track_clickback":false,"ui_508_compliant":false,"ui_click":false,"ui_cobrand":"","ui_delay":0,"ui_header_background":"","ui_header_color":"","ui_open_windows":false,"ui_use_css":true,"ui_use_addressbook":false,"ui_language":"en"}
+var addthis_share = {"templates":{"twitter":"{{title}} {{url}} via @AddThis"}}
+//--><!]]>
 </script>
-
-
-
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=&amp;async=1"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/modules/contrib/addthis/addthis.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/modules/contrib/clientside_validation/clientside_validation.ie8.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/modules/contrib/clientside_validation/clientside_validation_html5/clientside_validation_html5.js?nu5mvj"></script>
+<script type="text/javascript" src="http://www.harrywinston.com/sites/all/modules/contrib/clientside_validation/clientside_validation.js?nu5mvj"></script>
 
 
 </body></html>
