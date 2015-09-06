@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epiloglaser.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324104807id_/https%3A//www.epiloglaser.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiloglaser.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906121424id_/https%3A//www.epiloglaser.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Epilog Laser Privacy Policy
 
