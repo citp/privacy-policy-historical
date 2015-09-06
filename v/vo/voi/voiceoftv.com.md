@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the voiceoftv.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316171727id_/https%3A//www.voiceoftv.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceoftv.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906025634id_/https%3A//www.voiceoftv.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy | VOICE OF TV – Discover, Watch, Voice!
+# Privacy Statement - Voice of TV
+
+[  Notice & Takedown](https://www.voiceoftv.com/notice-takedown "Notice & Takedown")  [  Privacy Policy](https://www.voiceoftv.com/privacy-statement "Privacy Policy")  [  Terms of Service](https://www.voiceoftv.com/terms-of-service "Terms of Service")
 
 **1\. Introduction**  
 Thank you for visiting Voice of TV’s official website. This Privacy Policy is written to better explain how we collect and use your information. This Privacy Policy is a binding contract and you must agree to it to the same extent as our Terms of Service in order to use our services.  
 **  
 2\. Personal Information We Collect**  
-In order for you to register with us, you must, at the minimum, provide us your name, e-mail address, and date of birth. We will not disclose any information that you provide to us except in accordance with the provisions of this Privacy Policy. **3\. Non-Personal Information We Collect**  
+In order for you to register with us, you must, at the minimum, provide us your name, e-mail address, and date of birth. We will not disclose any information that you provide to us except in accordance with the provisions of this Privacy Policy. 
+
+**3\. Non-Personal Information We Collect**  
 We may collect information about you that is not personal information. When you access our website, we may collect such things as your IP address, browser, operating system, referring URL, and other general information about our visitors. This information, on its own, cannot usually be used to identify you.
 
 **4\. Use of Information**  
@@ -14,13 +18,13 @@ We may use your information:
 
   * To enhance or improve user experience, our website, or service.
   * To send e-mails about our site or respond to inquiries.
-  * To send e-mails about VoiceofTV.com and other products, news, or updates related to VoiceofTV.com or 99DRONES B.V.
+  * To send e-mails about VoiceofTV.com and other products, news, or updates related to VoiceofTV.com or Voice Media Company projects.
 
 
 
 **  
 5\. Login Information**  
-You will be able to create a unique login using your e-mail address and password when you sign up to VoiceofTV.com. We remind you that account sharing is prohibited by our Terms of Service. If you have reason to believe that your account security has been compromised, or if you are unable to login to your account, you should use our password recovery tool to reset your login information. If you are still unable to login, or if the e-mail address associated with your VoiceofTV.com account has also been compromised, you should [notify us](https://web.archive.org/contact) so that we can take action to secure your account.
+You will be able to create a unique login using your e-mail address and password when you sign up to VoiceofTV.com. We remind you that account sharing is prohibited by our Terms of Service. If you have reason to believe that your account security has been compromised, or if you are unable to login to your account, you should use our password recovery tool to reset your login information. If you are still unable to login, or if the e-mail address associated with your VoiceofTV.com account has also been compromised, you should notify us so that we can take action to secure your account.
 
 **6\. Cookies**  
 In order to distinguish you from other users—especially other users on the same network as you—we need to use cookies to track your specific computer. These cookies are used to save your preferences, as well as to keep track of advertisements. For these reasons we require that you keep cookies enabled when using our website.
@@ -45,9 +49,10 @@ Although we are not located in California, we do permit California users to acce
 **12\. Statement Regarding the European Data Protection Directive (Directive 95/46/EC)**  
 In compliance with the European Data Protection Directive, we hereby notify you that your data may be stored and transferred in accordance with the terms laid out in our Terms of Service and Privacy Policy. Your agreement to the Terms of Service and Privacy Policy constitutes your consent to transfer your data to the recipients described within those documents. The controller of your data, for your information, is:
 
-VOICE OF TV  
-334 Hidden Creek Cir  
-Warner Robins, GA 31088
+Voice Media Company (Europe)  
+Cruquius 34  
+3825 MH Amersfoort  
+The Netherlands
 
 [You can contact us here](https://web.archive.org/contact)
 
@@ -58,4 +63,4 @@ If you become aware of anyone who is accessing our service in violation of the a
 We may amend this Privacy Policy from time to time, and the amended version will be posted on our website in place of the old version. We will also include the date that the currently displayed Privacy Policy took effect to help you determine whether there have been any changes since you last used our website. Like our Terms of Service, you must visit this page each time you come to our website and read and agree to it if the date it was last modified is more recent than the last time you agreed to the Privacy Policy. If you do not agree to the new Privacy Policy, you must immediately cease using our service.
 
 **15\. Contact**  
-Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, [ contact us](https://web.archive.org/contact).
+Any inquiries about your rights under this Privacy Policy, or any other matters regarding your privacy, contact us.
