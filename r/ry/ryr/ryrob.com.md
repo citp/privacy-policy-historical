@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryrob.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513192529id_/http%3A//www.ryrob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryrob.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906143354id_/http%3A//www.ryrob.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Learn How to Start & Grow Your Business with Ryan Robinson Today.
+# Privacy Policy - Learn How to Start Your Own Business While Working
 
 ### This privacy policy sets out how **  Ryan Robinson** ** ** uses and protects any information that you volunteer when you use this website.
 
