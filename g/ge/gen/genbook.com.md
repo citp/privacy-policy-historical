@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genbook.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319145510id_/https%3A//www.genbook.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genbook.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906065327id_/https%3A//www.genbook.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Genbook
 
