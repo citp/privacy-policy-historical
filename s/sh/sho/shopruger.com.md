@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopruger.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626194225id_/http%3A//shopruger.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopruger.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906151606id_/http%3A//shopruger.com/privacy.asp) for the most accurate reproduction.*
 
 # -ShopRuger
 
