@@ -1,0 +1,315 @@
+<!--The following is the downloaded HTML source of the moot.it privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906140930id_/https%3A//muut.com/terms/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="min-500 min-550 min-600 min-650 min-700 min-750 min-800 min-850 min-900 min-950 min-1000 min-1050 min-1100 min-1150" style="height: 100%;"><head><script async="" src="https://muut.com/e/op/1120330043.js?_=1580401609338"></script>
+  <title>Muut Privacy Policy</title>
+  <meta name="description" content="Add forums and commenting to your site. Unlimited posts, users and traffic, for free. Embeddable, styleable and scriptable.">
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:url" content="https://muut.com/terms/privacy-policy.html">
+  <meta property="og:title" content="Muut Privacy Policy">
+  <meta property="og:description" content="Add forums and commenting to your site. Unlimited posts, users and traffic, for free. Embeddable, styleable and scriptable.">
+  <meta property="og:image" content="https://muut.com/common/img/og.jpg">
+
+
+  <!--[if lt IE 9]>
+    <script src="/common/js/ie8/es5-shiv.js"></script>
+    <script src="/common/js/ie8/html5-shiv.js"></script>
+    <script>html5.addElements('connect forgot join login password signup')</script>
+  <![endif]-->
+
+  <script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/Srm11wv7miNwCQS2Ym9ZaacRfqdg2ERW/analytics.min.js"></script><script>
+    window.global = { api: "https://api.muut.com" };
+    
+/* Avoiding FOUC */
+
+;(function(win) {
+
+  /* JS media queries */
+  var head = document.documentElement,
+      raf = win.requestAnimationFrame;
+
+  function media() {
+    var w = win.innerWidth, cls = '';
+
+    for (var i = 500; i < 1200; i += 50) {
+      if (w < i) cls += " max-" + i;
+      if (w > i) cls += " min-" + i;
+    }
+    head.className = cls.slice(1);
+  }
+
+  if (raf) {
+    win.onresize = function() { raf(media); }
+  }
+
+  media();
+
+  /* Set logged / logged out */
+
+  function el(id) {
+    return document.getElementById(id)
+  }
+
+  global.setLoggedState = function() {
+    var nav_account = el('nav_account'),
+        intercom = el('intercom-container'),
+        avatar = localStorage.avatar;
+
+    if (nav_account) {
+      nav_account.children[0].innerHTML = '<span>Account</span>' + (avatar ? '<img src="' +avatar+ '">' : '');
+      el('container').className = 'is-' + (avatar ? '' : 'not-') + 'logged';
+      if (intercom) intercom.style.display = avatar ? '' : 'none';
+    }
+
+  };
+
+})(window);
+
+  </script>
+
+  <link rel="search" type="application/opensearchdescription+xml" href="https://muut.com/opensearch.xml" title="Muut">
+
+  <link rel="alternate" type="application/atom+xml" title="The Muut blog" href="https://muut.com/blog/atom.xml">
+
+  <link rel="shortcut icon" href="https://muut.com/favicon.ico" type="image/x-icon">
+  <link rel="icon" type="image/png" href="https://muut.com/favicon.png">
+  <style>
+@font-face {
+  font-family: 'icon';
+  font-style: normal;
+  font-weight: normal;
+  src: url(//muut.com/e/muut/1.14.0/font/icon.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Proxima Nova Light'), local('ProximaNova-Light'), url(https://muut.com/font/pn-light.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Proxima Nova'), local('ProximaNova'), url(https://muut.com/font/pn-reg.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Proxima Nova Bold'), local('ProximaNova-Bold'), url(https://muut.com/font/pn-bold.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Proxima Nova Italic'), local('ProximaNova-Italic'), url(https://muut.com/font/pn-regitalic.woff) format('woff');
+}</style>
+
+  <link rel="stylesheet" href="//muut.com/e/muut/1.14.0/moot.css">
+
+<link rel="stylesheet" href="/common/www+76606.css">
+
+  
+  
+  <style></style>
+
+  
+
+</head>
+
+
+<body id="terms-privacy-policy" class="">
+
+
+
+  <div id="container" class="is-not-logged">
+
+    <!--[if lt IE 8]>
+      <div id="ie7">
+        <a href="http://browsehappy.com/">
+          Please upgrade your browser to support cross domain messaging.
+        </a>
+      </div>
+    <![endif]-->
+
+      <header id="header" class="">
+        <div class="wrap">
+          <a id="logo" href="/">
+          <span class="icon">M</span></a><!--
+          --><nav id="nav">
+<a class="nav" href="/tour/">Tour</a>
+<a class="nav" href="/demos/">Demos</a>
+<a class="nav" href="/pricing/">Pricing</a>
+<a class="nav" href="/help/">Help</a>
+<nw>
+  <a class="nav" href="/forum/">Forum</a>
+
+  <span class="news-wrap">
+    <a class="nav" href="/news/">News</a>
+    <a class="news-splash" href="/blog/technology/from-disqus-to-muut/" style="left: -85px;">From Disqus to Muut<span>x</span></a>
+  </span>
+
+</nw></nav><!--
+          --><nav id="nav_account"><a href="/account/"><span>Account</span></a></nav>
+        </div>
+      </header>
+
+    <div id="main" style="min-height: calc(100% - 251px);">
+      <div class="section narrow wrap normal has1">
+<div class="wrap">
+<div class="block block0"><h1 id="privacy-policy">Privacy Policy</h1>
+<p>Protecting your private information is our priority. This Statement of Privacy applies to muut.com, Muut Inc., the Muut service and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Muut include muut.com, Muut Inc., and the Muut service. By using Muut, you consent to the data practices described in this statement.</p>
+<h2 id="collection-of-your-personal">Collection of your Personal Information</h2>
+<p>Muut may collect personally identifiable information, such as your name and email. If you purchase Muut’s products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. We may gather additional personal or non-personal information in the future.</p>
+
+<p>Information about your computer hardware and software may be automatically collected by Muut. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Muut website.</p>
+
+<p>Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Muut’s service, this information may be collected and used by others.</p>
+
+<p>Muut encourages you to review the privacy statements of websites you choose to link to from Muut so that you can understand how those websites collect, use and share your information. Muut is not responsible for the privacy statements or other content on websites outside of the Muut website.</p>
+<h2 id="use-of-your-personal-inform">Use of your Personal Information</h2>
+<p>Muut collects and uses your personal information to operate its website(s) and deliver the services you have requested.</p>
+
+<p>Muut may also use your personally identifiable information to inform you of other products or services available from Muut and its affiliates. Muut may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.</p>
+
+<p>Muut does not sell, rent or lease its customer lists to third parties.</p>
+
+<p>Muut may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Muut, and they are required to maintain the confidentiality of your information.</p>
+
+<p>Muut may keep track of the websites and pages our users visit within Muut, in order to determine what Muut services are the most popular. This data is used to deliver customized content and advertising within Muut to customers whose behavior indicates that they are interested in a particular subject area.</p>
+
+<p>Muut will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Muut or the site; (b) protect and defend the rights or property of Muut; and, © act under exigent circumstances to protect the personal safety of users of Muut, or the public.</p>
+<h2 id="use-of-cookies">Use of Cookies</h2>
+<p>The Muut website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
+
+<p>One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Muut pages, or register with Muut site or services, a cookie helps Muut to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Muut website, the information you previously provided can be retrieved, so you can easily use the Muut features that you customized.</p>
+
+<p>You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Muut services or websites you visit.</p>
+<h2 id="security-of-your-personal-i">Security of your Personal Information</h2>
+<p>Muut secures your personal information from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.</p>
+<h2 id="children-under-thirteen">Children Under Thirteen</h2>
+<p>Muut does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.</p>
+<h2 id="opt-out-unsubscribe">Opt-Out &amp; Unsubscribe</h2>
+<p>We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Muut by contacting us here:
+- Email: <a href="mailto:optout@muut.com">optout@muut.com</a></p>
+<h2 id="changes-to-this-statement">Changes to this Statement</h2>
+<p>Muut will occasionally update this Statement of Privacy to reflect company and customer feedback. Muut encourages you to periodically review this Statement to be informed of how Muut is protecting your information.</p>
+<h2 id="contact-information">Contact Information</h2>
+<p>Muut welcomes your questions or comments regarding this Statement of Privacy. If you believe that Muut has not adhered to this Statement, please contact Muut at:</p>
+
+<p><em>Muut Inc.</em>
+430 SW 13th Ave.
+Portland, Oregon 97205</p>
+
+<p>Email Address:
+<a href="mailto:info@muut.com">info@muut.com</a></p>
+
+<p>Telephone number:
+888-670-3370</p>
+
+<p>Effective as of April 01, 2014</p>
+</div></div>
+</div>
+
+      
+    </div>
+
+      <footer id="footer">
+        <div id="nav-footer">
+<a class="nav" href="/tour/">Tour</a>
+<a class="nav" href="/demos/">Demos</a>
+<a class="nav" href="/pricing/">Pricing</a>
+<a class="nav" href="/help/">Help</a>
+<nw>
+  <a class="nav" href="/forum/">Forum</a>
+
+  <span class="news-wrap">
+    <a class="nav" href="/news/">News</a>
+    <a class="news-splash" href="/blog/technology/from-disqus-to-muut/">From Disqus to Muut<span>x</span></a>
+  </span>
+
+</nw></div>
+
+        <div id="nav-manifesto">
+          The best thing to happen to forums since forums! – read our <a href="/manifesto/">manifesto</a>.
+        </div>
+
+        <div id="nav-bottom">
+          <div class="wrap">
+            <div id="nav-muut">
+              <a id="nav-muut-inc" href="/">Muut, Inc.</a>
+              <small>Copyright © 2015</small>
+              <a href="/about/">About us</a>
+              <a href="/terms/">Terms</a>
+              <a href="/terms/privacy-policy.html">Privacy Policy</a>
+              <a href="/l/affiliate/">Affiliates</a>
+              <a href="/riotjs/">Riot.js</a>
+            </div><!--
+
+            --><div id="nav-social">
+              <a href="https://facebook.com/getmuut" id="nav-facebook">Facebook</a>
+              <a href="https://twitter.com/getmuut" id="nav-twitter">Twitter</a>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+  </div>
+
+  <script>
+
+  global.setLoggedState();
+
+  if ('Srm11wv7miNwCQS2Ym9ZaacRfqdg2ERW') {
+    !function(){var analytics=window.analytics=window.analytics||[];if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.0";
+    analytics.load('Srm11wv7miNwCQS2Ym9ZaacRfqdg2ERW');
+    analytics.page()
+    }}();
+
+  } else {
+    window.analytics = {
+      reset: function() { console.info('reset') },
+      track: function(event) { console.info(event) },
+      identify: function(accountId, user) {
+        console.info('identify', accountId, user)
+      }
+    };
+  }
+  </script>
+
+  <script src="/common/js/jquery-1.11.2.min.js"></script>
+
+<script src="//muut.com/e/muut/1.14.0/moot.min.js"></script>
+
+<script src="/common/js/dev/hmac-sha256+74bda.js"></script>
+
+<script src="/common/js/dev/enc-base64+0f75e.js"></script>
+
+<script src="/common/www+fe4fb.js"></script>
+
+  
+
+  <script>
+  ;
+  var async = [  ];
+
+    $.getScript('//muut.com/e/op/1120330043.js');
+
+  global.identify();
+
+  </script>
+
+  <script src="//assets.pcrl.co/js/jstracker.min.js"></script>
+
+
+
+
+</body></html>
