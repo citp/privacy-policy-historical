@@ -1,42 +1,96 @@
-> *The following text is extracted and transformed from the flowdock.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318143543id_/https%3A//www.flowdock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowdock.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906071519id_/https%3A//www.flowdock.com/privacy) for the most accurate reproduction.*
 
-# Flowdock Privacy Policy
+# Flowdock Privacy Statement
 
-Flowdock was built to make it easy to communicate and collaborate with your team. Your privacy and security are important to us. You can choose what to say and share with your members in flows, but we want you to know that no one outside of your team will be able to access that information.
+_Effective Date: May 6, 2015_
 
-Rally Software Development Corp. ("Rally") operates the website flowdock.com. It is Rally's policy to respect your privacy regarding any information you share or we may collect while operating our website. This document explains how we will use the information that you provide to us via the service.
+Rally Software Development Corp. ("Rally") has created this Privacy Statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on [www.rallydev.com](http://www.rallydev.com/), [www.flowdock.com](http://www.flowdock.com/), and other websites operated by Rally (each, a "Site") and the Services (defined below), is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. Rally reserves the right, in its sole discretion, to add, delete or modify any of the terms contained in this Statement, at any time, upon notice by posting a change notice to the footer of the Site and to the Statement. In the event of substantive changes to the terms of this Statement, Rally will notify You in writing at least 30 days prior to such change becoming effective. If any modification is unacceptable to You, You should not visit the Site and cease using Services. Your continued use of the Services following written notice of a change will constitute binding acceptance of the changes. For purposes of this Statement, "You" means any consumer using the Site or Services on their own behalf and not on behalf of an entity, company, or other third-party.
 
-### Information Gathering and Usage
+This Statement applies to visitors to the Site and users of the Service who are consumers using Services on their own behalf, including You. This Statement does not apply to (a) Rally's corporate or enterprise customers who have entered into a separate agreement with Rally, or (b) the practices of third parties that Rally does not own or control, or to individuals that Rally does not employ or manage.
 
-When you register for Flowdock we may ask for information such as your name, email address and self-chosen team or organization name. Flowdock will store your billing information and our third party payment processor will store your payment details. To provide secure credit card processing when ordering, orders placed with Flowdock are processed through a payment gateway which operates under its own privacy policy. Rally uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+### 1\. U.S. - EU Safe Harbor
 
-The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the EU law requirement that personal information transferred from the EU to the United States be adequately protected. Rally complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Rally has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Rally's certification, please visit <http://www.export.gov/safeharbor/>.
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of other terms of the service, or as otherwise required by law.
-  * We transfer information about you if Rally is acquired by or merged with another company. In this event, Rally will notify you before information about you is transferred and becomes subject to a different privacy policy.
+Rally primarily stores information collected from a Site and Data in the United States. Rally may transfer and access such information and Data from around the world. You consent to the transfer and processing of Data in and to the United States.
 
+### 2\. Collection of Information
 
+We may require consumers who register to use Rally's hosted services, associated mobile applications, or any other service or feature offered on or through our Sites ("Services") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Services. At the time You express interest in attaining additional information, or when You register for a Service, we may also ask for additional personal information. You can opt out of providing this additional information by not entering it when asked. You can view Your updated profile to confirm the edits have been made.
 
-### Security
+Additionally, Rally collects and retains information that You post, submit or store through Your use of the Service, Your Service account and/or on our Site. Rally may collect information from third-parties about You or the organization You represent. If You exchange any messages through our Site or through our Service, we will collect and store those as well.
 
-Rally takes appropriate precautions to protect our users' information. Access to the production environment is restricted to only authorized personnel. Even though the software has automated tests for every feature, for any problems concerning payments or billing, a warning email is sent to our administrators to quickly track down all the possible concerns. Especially payment-related data is automatically verified before any action is taken. Our fault-tolerant server environment is situated in a commercial, physically protected data center. All traffic is encrypted using secure socket layer technology (SSL) or other encrypted tunnels.
+Rally may also collect certain information from visitors to the Site or users of the Services, such as Internet addresses, using third party services such as Google Analytics, Salesforce, Eloqua and DemandBase. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also collect, create, track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
 
-### Cookies
+### 3\. Use of Information
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Rally uses cookies to help Rally identify and track visitors, their website access preferences, and their usage of the flowdock.com website. Certain features of the flowdock.com website, including logging in, do not function properly without the aid of cookies. No personally identifiable statistics are gathered using cookies nor they will be shared with any outside companies without your permission.
+In general, information You submit to us or that we collect through the Site or Service is used either to respond to requests that You make, to provide You the Service, or to aid us in serving You better and improve our Services and other products. Rally uses the information that we collect to set up, provide, and bill for Services for individuals and to qualify prospective customers. For example, if You fill out a "Contact Me" web form, Rally will use the information provided to respond to Your inquiry.
 
-### Data storage
+We may also use the information to contact You to further discuss interest in our company, the Services that we provide, and to send information regarding our company or partners, such as promotions and events. You may be invited to receive an email newsletter by providing an email address. Your email addresses and any personal information will not be distributed or shared with any third parties other than Rally employees, consultants, representatives, and for some Services, anyone You invite to use the Services with You.
 
-Rally may use third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Flowdock. Although Rally owns the code, databases, and all rights to the Flowdock application, you retain all rights to your data. When you use the messaging or file upload features of Flowdock, the data you submit is retained on our third-party data center's servers and is encrypted at rest. Rally does not access or use this data for any purpose other than providing the service, but you should be aware that this data could be disclosed in legal proceedings or investigations or as otherwise required by applicable law.
+We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. You can opt out of being contacted by us, or receiving such information from us, at any time by updating Your [marketing email preferences](http://www.rallydev.com/communication-preferences).
 
-### Disclosure
+You may use the Service to host data and information ("Data"). Rally will not review, share, distribute, print, or reference any such Data except as provided in a separate Rally subscription agreement governing access and use of a Service signed by Rally and a customer ("Rally Subscription Agreement"), including to resolve a problem or support issue; as may be required by law, judicial proceeding, court order, or legal process; or if Rally reasonably believes that use or disclosure is necessary to protect Rally's rights. You are responsible for maintaining the confidentiality and security of Your user registration and password.
 
-Rally may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate terms of the service. It may be necessary to share information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including without limitation, fraud, situations involving potential threats to the physical safety of any person, or as otherwise permitted or required by law.
+We may retain Your information for the period necessary to fulfill the purposes outlined in this Statement unless a longer retention period is required or permitted by law.
 
-### Changes
+### 4\. Disclosure of Your Information
 
-Although most changes are likely to be minor, Rally may change its Privacy Policy from time to time, and in Rally's sole discretion. All changes will be published at this web address. For any more significant changes in how we treat personal information, we will notify users by sending a notice to the email address specified in the email that you have provided or by placing a prominent notice on our site or blog. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Except as we explicitly state at the time we request information, or as provided for in a Rally Subscription Agreement, or this Statement, we do not disclose to any third-party the information provided. Rally uses a third-party intermediary to manage credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. Other third parties, such as content providers, may provide content on the Site but they are not permitted to collect any information nor does Rally share any user information with these parties.
 
-### Questions
+If a user elects to use our referral service for informing a friend or other third party about our Site, we ask them for such third party's name and email address. Rally will automatically send the third party a one-time email inviting them to visit the Site. Rally does not store the third party's information.
 
-Any questions about this Privacy Policy should be addressed to support@flowdock.com. This email address reaches the current Flowdock development team.
+Some of the Services offer features and functionality that allow communication between users, such as bulletin boards, instant messaging, or chat rooms. Any personal information You choose to submit in such a forum may be read, collected, or used by others who visit these forums, and may be used to send You unsolicited messages. Rally is not responsible for the personal information You choose to submit to or through these channels or for any acts or omissions of other users who may access such information.
+
+Rally may share Your information with third party service providers to provide You with the Services that we offer You; to facilitate Your use of the Service; to process any transactions You make through our Site or Service, or to provide technical support. Except as set forth in this Statement, these third party service providers are required not to use Your information other than to provide the services requested by Rally. You expressly consent to the sharing of Your information with our contractors and other service providers for the sole purpose of providing services to You.
+
+We may release information when we believe that release is necessary or appropriate (a) under applicable law, including laws outside Your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside Your country of residence; (d) to enforce or apply our conditions of use and other agreements; (e) to protect our operations or those of any of our Affiliates; (f) to allow us to pursue available remedies or limit the damages that we may sustain; and (g) to protect the rights, privacy, property, or safety of Rally, our employees, our Affiliates, our users, or any other person or entity. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+### 5\. Affiliates
+
+Rally has a number of affiliates, subsidiaries, and other related companies (collectively, **"Affiliates"** ). We may share some or all of Your information with these Affiliates, in which case we will require our Affiliates to honor this Statement. If another company acquires our company or our assets, that company will possess the information collected by it and us and will assume the rights and obligations regarding Your information collected by us as described in this Statement.
+
+### 6\. Cookies
+
+When You interact with the Site, we strive to make that experience easy and meaningful. When You come to our Site, our Web server sends a cookie to Your computer. Cookies are files that Web browsers place on a computer's hard drive and are used to tell us whether customers and visitors have visited the Site previously.
+
+Standing alone, cookies do not identify You personally. They merely recognize Your browser. Unless You choose to identify Yourself to Rally, either by responding to a promotional offer, opening an account, or registering for a trial account, You remain anonymous to Rally. Cookies come in two flavors: session and persistent-based. Session cookies exist only during an online session. They are deleted from Your computer when You close Your browser software or turn off Your computer. Persistent cookies remain on Your computer after You've closed Your browser or turned off Your computer. They include such information as a unique identifier for Your browser.
+
+Rally uses session cookies containing encrypted information to allow the Site and Services to uniquely identify You while You are logged in. This information allows Rally to process Your online transactions and requests. Session cookies help us make sure You are who You say You are after You've logged in and are required in order to use the Service. Rally uses persistent cookies, that only Rally can read and use, to identify that You are a Rally customer or prior Rally Site visitor (whatever the case may be). We do not store account numbers or passwords in persistent cookies. Users can control the use of cookies at the individual browser level. Users who disable their web browsers' ability to accept cookies will be able to browse our Site but will not be able to successfully use our Service.
+
+### 7\. Third-Party Sites
+
+The Site contains links to other web sites. Rally is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these other web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is Your responsibility to keep such information private and confidential.
+
+### 8\. Security
+
+Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using a supported browser, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data are safe, secure, and available only to You. Rally also implements a security method based on dynamic data and encoded session identifications, and hosts the Site in a server environment designed to be secure that uses a firewall and other technology designed to prevent interference or access from outside intruders. Finally, Rally provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.
+
+Rally may use third party vendors to provide the necessary hardware, software, networking, storage, and related technology required to provide the Service. When You use certain Rally Services, Your Data are retained on our third-party data center's servers.
+
+### 9\. Opt-Out Policy
+
+If You have registered for a Service and need to update Your marketing email preferences, please visit our [Communication Preferences page](http://www.rallydev.com/communication-preferences). We will try to comply with Your request(s) as soon as reasonably practicable. Please note that if You opt-out of receiving marketing-related emails from us, we may still send You important administrative or transactional messages. In addition, please note that by limiting the information You provide, we may be limited in providing Services to You.
+
+### 10\. Correcting & Updating Your Information
+
+If You need to update or change registration information You may do so by editing Your user or organization record. To update billing information please email [billing@rallydev.com](mailto:billing@rallydev.com) or update Your information online if available for certain Services. To discontinue the Service, please log in to the Success Community and [open a Support Case](https://rallydev.force.com/answers?id=kA014000000PK1yCAG) or, for some Services, You can cancel payments and delete Your account online. Please note that we may need to retain certain information for record keeping purposes and/or to complete any transactions that You began prior to requesting such change or deletion.
+
+The Sites are not intended for minors under the age of 18. Rally does not knowingly or specifically collect information about minors under the age of 18 and believes that children of any age should get their parents' or legal guardians' consent before providing any information. If You believe that we have mistakenly or unintentionally collected such information, please notify us as set forth below.
+
+### 11\. Sensitive Information
+
+Do not send us or disclose to us any sensitive information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Sites or via other means.
+
+### 12\. Dispute Resolution
+
+In compliance with the Safe Harbor Principles, Rally commits to resolve complaints about Your privacy and our collection or use of Your personal information. If You have inquiries or complaints regarding this Statement, please first contact Rally at [legal@rallydev.com](mailto:legal@rallydev.com?subject=Dispute%20Resolution) or call the legal department at 303-565-2800. Rally has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, JAMS Arbitration, Mediation, and ADR Services. If You do not receive timely acknowledgment of Your complaint, or if Your complaint is not satisfactorily addressed by Rally, please visit the JAMS web site at http://www.jamsadr.com for more information and to file a complaint.
+
+### 13\. Additional Information
+
+Other questions regarding this Statement or the practices of this Site should be directed to Rally's Security Administrator by e-mailing such questions to [security@rallydev.com](mailto:security@rallydev.com).
+
+Team Inbox With Chat.   
+Work across tools,  
+teams & timezones.  
+
