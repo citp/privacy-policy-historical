@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyfurniturehomestore.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404064613id_/https%3A//www.ashleyfurniturehomestore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyfurniturehomestore.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906075522id_/https%3A//www.ashleyfurniturehomestore.com/privacy-policy) for the most accurate reproduction.*
 
 # Ashley Furniture Homestore - Privacy Policy
 
