@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fest300.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629013304id_/https%3A//www.fest300.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fest300.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906171219id_/https%3A//www.fest300.com/privacy) for the most accurate reproduction.*
 
 # Fest300 - World's Best Festivals
 
