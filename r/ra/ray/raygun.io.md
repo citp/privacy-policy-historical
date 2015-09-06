@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raygun.io privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529200110id_/https%3A//raygun.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raygun.io privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906084351id_/https%3A//raygun.io/privacy) for the most accurate reproduction.*
 
 # Raygun Privacy Policy - raygun.io
 
@@ -6,13 +6,13 @@ _Last updated: December 2014_
 
 **We want you to have a clear understanding of how we collect and use information in order to provide services, while at the same time safeguarding your privacy.**
 
-This is the privacy policy of Mindscape Limited, New Zealand Company number 1899673, (“Mindscape”). This document explains Mindscape’s policies for the collection, use and disclosure of personal information. Its scope includes all of Mindscape’s services, including the services provided to users of its “Raygun” system.
+This is the privacy policy of Raygun Limited, New Zealand Company number 1899673, (“Raygun”). This document explains Raygun’s policies for the collection, use and disclosure of personal information. Its scope includes all of Raygun’s services, including the services provided to users of its “Raygun” system.
 
 **Information Collected**
 
-Mindscape provides tools and services that help software developers make better software. In order to do that, we collect both information that our customers give us directly and information we gather from the way customers use our services.
+Raygun provides tools and services that help software developers make better software. In order to do that, we collect both information that our customers give us directly and information we gather from the way customers use our services.
 
-Mindscape collects information from two main groups: our _customers_ , who develop software for end users, and the _end users_ themselves. Our service will automatically collect certain information about end users who access those applications that use our service. Data transmitted will relate to an error or exception and the environment under which it occurred. No personally identifying information is recorded, only information to aid in the diagnosis of errors. Information collected may include your IP address, or that of any end user.
+Raygun collects information from two main groups: our _customers_ , who develop software for end users, and the _end users_ themselves. Our service will automatically collect certain information about end users who access those applications that use our service. Data transmitted will relate to an error or exception and the environment under which it occurred. No personally identifying information is recorded, only information to aid in the diagnosis of errors. Information collected may include your IP address, or that of any end user.
 
 We also collect information from site _visitors_. You may visit our site without identifying yourself or revealing any personal information. Like many online service providers, our site does collect information such as domain names, IP address, browser type, operating system, access times and referring web site addresses. This type of information does not personally identify you.
 
@@ -24,7 +24,7 @@ We may use your personal information to deliver additional services, such as dir
 
 **Sharing Information**
 
-We do not sell, rent, or give your personal information to any third party, except as required to do so by law. Mindscape discloses potentially personally-identifying and personally-identifying information to those of its employees, contractors, and affiliated organizations that need to know that information in order to provide services or operate on Mindscape’s behalf, only where those individuals and organizations have agreed not to disclose it to others.
+We do not sell, rent, or give your personal information to any third party, except as required to do so by law. Raygun discloses potentially personally-identifying and personally-identifying information to those of its employees, contractors, and affiliated organizations that need to know that information in order to provide services or operate on Raygun’s behalf, only where those individuals and organizations have agreed not to disclose it to others.
 
 **Use of Cookies**
 
@@ -32,15 +32,15 @@ We may use cookies from time to time. Cookies are small text files a web site ca
 
 **Links to Third Party Sites**
 
-At this site, and in other communications with you, there may be links to companies with whom we have a relationship. Mindscape is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
+At this site, and in other communications with you, there may be links to companies with whom we have a relationship. Raygun is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
 
 **Security**
 
-Your information security is important to us. Mindscape implements reasonable security measures to protect your information from loss or destruction, misuse, unauthorized access, disclosure and alteration. All communication with the Raygun service uses secure sockets layer technology (SSL).
+Your information security is important to us. Raygun implements reasonable security measures to protect your information from loss or destruction, misuse, unauthorized access, disclosure and alteration. All communication with the Raygun service uses secure sockets layer technology (SSL).
 
 **Changes**
 
-Mindscape reserves the right to modify or supplement this Privacy Policy at any time. The most recent version of it will appear on this website with the relevant modification date. Your continuing use of the site or its services will constitute acceptance of the most recently available policy.
+Raygun reserves the right to modify or supplement this Privacy Policy at any time. The most recent version of it will appear on this website with the relevant modification date. Your continuing use of the site or its services will constitute acceptance of the most recently available policy.
 
 **Customer arrangements**
 
@@ -50,7 +50,7 @@ If you require custom privacy arrangements because of the particular nature of y
 
 When using any of our services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information, and the information of your end users, as described in this Privacy Policy.
 
-In particular, in order to deliver our service to customers, we require that our customers maintain a privacy policy with their clients and end users that is compatible with this Privacy Policy. It should disclose the type of information collected from them, and that it is shared with parties like Mindscape.
+In particular, in order to deliver our service to customers, we require that our customers maintain a privacy policy with their clients and end users that is compatible with this Privacy Policy. It should disclose the type of information collected from them, and that it is shared with parties like Raygun.
 
 **Questions**
 
