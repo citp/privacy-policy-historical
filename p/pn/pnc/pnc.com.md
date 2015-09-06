@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pnc.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614165958id_/https%3A//www.pnc.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnc.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906234545id_/https%3A//www.pnc.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # PNC Bank - Privacy Policy
 
