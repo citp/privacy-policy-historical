@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childrenssalon.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317110217id_/http%3A//www.childrensalon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childrenssalon.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906170619id_/http%3A//www.childrensalon.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Childrensalon
 
@@ -140,13 +140,3 @@ We may from time to time make available through our Site links to other sites an
 If you have any questions, comments or requests regarding this Privacy Policy, please [Contact us](http://www.childrensalon.com/customer-service/contact-us "Contact Us") and we will be happy to answer them.
 
 LAST UPDATED: 1st January 2015
-
-### Recevez notre lettre d'information
-
-Visit our Blog: [Tiny Times](http://tinytimes.childrensalon.com/ "Tiny Times")
-
-On all orders over **£100** this weekend!  
-Starts 9am GMT on Friday 23rd May.  
-Ends Midnight GMT on Monday 26th May. 
-
-Top
