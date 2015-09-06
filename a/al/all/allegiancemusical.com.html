@@ -1,261 +1,474 @@
-<!--The following is the downloaded HTML source of the allegiancemusical.com privacy policy that was archived on 2015-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150529014802id_/http%3A//www.allegiancemusical.com/post/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allegiancemusical.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906103826id_/http%3A//allegiancemusical.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMFV1NVGwAAUFVTBwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:19,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:19,2:20,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:20,2:19,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:20,2:19,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:20,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-515.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:18,handle:"D5DuLP"}],18:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],19:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],20:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:19,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <link rel="apple-touch-icon" href="/sites/default/themes/allegiance/app-icon.png">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="/sites/default/themes/allegiance/favicon.ico" type="image/x-icon">
-<meta name="og:site_name" content="Allegiance">
-<meta name="fb:app_id" content="222081337810113">
-<meta name="og:title" content="Privacy Policy - Allegiance">
-<meta name="og:description" content="Privacy Policy and Legal Notice
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="js"><!--<![endif]--><head>
+	<meta charset="UTF-8">
+	<title>Privacy Policy - Allegiance</title>
+			
+	
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script> -->
 
-We have created this Privacy Policy and Legal Notice in order to demonstrate our firm ...">
-<meta name="og:type" content="article">
-<meta name="og:url" content="http://www.allegiancemusical.com/post/privacy-policy">
-<link rel="canonical" href="http://www.allegiancemusical.com/post/privacy-policy">    <title>Privacy Policy | Allegiance</title>
-    <link type="text/css" rel="stylesheet" media="all" href="/sites/main/files/advagg_css/css_1265d0ed55df8aee14ea5e9be85a5d8d_0.css">
-    <link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/allegiance/css/theme.min.css">
-    <script type="text/javascript" src="/sites/main/files/advagg_js/js_08626ae1d6671cee7d16dd6b473b767b_0.js"></script>
+	<link rel="pingback" href="http://allegiancemusical.com/xmlrpc.php">
+	<link rel="shortcut icon" href="http://allegiancemusical.com/wp-content/themes/allegiance/favicon.ico">
+
+		<!--[if lt IE 9]>
+	<script src="http://allegiancemusical.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5J6RGG"></script><script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	
+<!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
 <script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/main\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":1,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":1,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":640,"iframe_height":385,"iframe_border":0,"enable_video":0},"nice_menus_options":{"delay":800,"speed":"fast"},"ddCaptcha":1971,"ddPoll":{"resultsURI":"\/sites\/all\/modules\/_dd\/dd_poll\/dd_poll_results.php"},"ddTwitterFeed":{"getTweetsURI":"\/dd_twitter_feed\/get_tweets"},"extlink":{"extTarget":"_blank","extClass":"ext","extSubdomains":1,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"cssInit":{"node.css":true,"defaults.css":true,"system.css":true,"system-menus.css":true,"user.css":true,"content-module.css":true,"ctools.css":true,"date.css":true,"datepicker.css":true,"jquery.timeentry.css":true,"filefield.css":true,"lightbox_alt.css":true,"logintoboggan.css":true,"nice_menus.css":true,"nice_menus_default.css":true,"dd_captcha.css":true,"dd_create.css":true,"dd_login.css":true,"dd_poll.css":true,"dd_twitter_feed.css":true,"dd_user_roles.css":true,"farbtastic.css":true,"calendar.css":true,"extlink.css":true,"fieldgroup.css":true,"views.css":true,"digitaldcore.css":true,"printlinks.css":true,"dd_social.css":true,"style.css":true},"jsInit":{"misc\/jquery.js":true,"misc\/drupal.js":true,"sites\/all\/modules\/google_analytics\/googleanalytics.js":true,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":true,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":true,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":true,"sites\/all\/modules\/nice_menus\/nice_menus.js":true,"sites\/all\/modules\/_dd\/dd_captcha\/dd_captcha.js":true,"sites\/all\/modules\/_dd\/dd_create\/dd_create.js":true,"sites\/all\/modules\/_dd\/dd_login\/dd_login.js":true,"sites\/all\/modules\/_dd\/dd_poll\/dd_poll.js":true,"sites\/all\/modules\/_dd\/dd_twitter_feed\/dd_twitter_feed.js":true,"sites\/all\/modules\/extlink\/extlink.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/digitaldcore.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/modernizr.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/browser-detect.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/dd-search.js":true,"sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.core.min.js":true,"sites\/all\/modules\/jquery_ui\/jquery.ui\/ui\/minified\/ui.dialog.min.js":true,"sites\/all\/modules\/_dd\/digitaldcore\/digitaldcore.monkey-patch.js":true,"sites\/all\/modules\/_dd\/dd_social\/dd_social.js":true}});
-//--><!]]>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || []
 </script>
-    <script data-main="/sites/default/themes/allegiance/js/main.min" src="/sites/default/themes/allegiance/bower_components/requirejs/require.js"></script>
-    <script src="/sites/default/themes/allegiance/bower_components/jquery/dist/jquery.min.js"></script>
-    <script>$.noConflict(true);</script>
-    <!--[if lt IE 9]>
-    <script src="/sites/default/themes/allegiance/bower_components/html5shiv/dist/html5shiv.min.js"></script>
-    <script src="/sites/default/themes/allegiance/bower_components/respond/dest/respond.min.js"></script>
-    <![endif]-->
-    <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/bdd188df-b9a2-4d1e-9d53-0e48d30833ca.css">
-<!-- Twitter Widgets Framework -->
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-<!-- End Twitter Widgets Framework -->
-<link type="text/css" rel="stylesheet" href="http://ext.allegiancemusical.com/tse.css">
-<script type="text/javascript" src="http://ext.allegiancemusical.com/tse.js"></script>  <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main.min" src="/sites/default/themes/allegiance/js/main.min.js"></script></head>
-  <body class="not-front pt-2 one-sidebar sidebar-right template-post">
-    <div class="page">
-      <span class="page-background"></span>
-      <header class="page-header">
-        <div class="layout">
-          <section class="logo">
-            <a href="/" title="Go to homepage" rel="home">
-              <h1>Allegiance - A New American Musical</h1>
-              <img src="/sites/default/themes/allegiance/img/allegiance.png" alt="Allegiance - A New American Musical logo" role="presentation">
-            </a>
-          </section>
-          <a href="#" class="links-button" title="Toggle menu">
-            <img src="/sites/default/themes/allegiance/img/menu.svg" alt="Menu" role="presentation">
-          </a>
-          <a href="#" class="ambassador-button" title="Become an Ambassador">
-            <img src="/sites/default/themes/allegiance/img/ambassador.png" alt="Become an Ambassador" role="presentation">
-          </a>
-          <section class="links">
-            <nav class="headerlinks" data-tblock-args="all/183">
-  <ul class="menu">
-    <li><a href="https://twitter.com/allegiancebway" class="twitter">Twitter</a></li>
-<li><a href="https://www.facebook.com/allegiancemusical" class="facebook">Facebook</a></li>
-  </ul>
-</nav>
-            <nav class="primary-links">
-  <ul class="menu level-1">
-    <li class="leaf">
-    <a href="/post/wait-tickets-almost-over">Tickets</a>      </li>
-    <li class="leaf">
-    <a href="/about">About</a>      </li>
-    <li class="leaf">
-    <a href="/history">History</a>      </li>
-    <li class="leaf">
-    <a href="/bios">Bios</a>      </li>
-    <li class="leaf">
-    <a href="/news">News</a>      </li>
-  </ul>
-</nav>
-          </section>
-        </div>
-      </header>
-      <div id="page-wrapper">
-        <div id="page-scroller">
-          <span class="cushion"></span>
-          
-          <div class="page-center layout">
-            
-            <main class="page-content">
-              <h1 class="page-title">Privacy Policy</h1>                                                        <article class="node node-1380 pt-2 page" data-nid="1380">
-  
-  <header>
-    <h1 class="title">Privacy Policy</h1>
-      </header>
+<!-- End Google Tag Manager for WordPress by DuracellTomi -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://allegiancemusical.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Allegiance">
+<meta property="og:description" content="Privacy Policy and Legal Notice We have created this Pr …">
+<meta property="og:url" content="http://allegiancemusical.com/privacy-policy/">
+<meta property="og:site_name" content="Allegiance">
+<meta property="article:publisher" content="https://www.facebook.com/allegiancemusical">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Privacy Policy and Legal Notice We have created this Pr […]">
+<meta name="twitter:title" content="Privacy Policy - Allegiance">
+<meta name="twitter:domain" content="Allegiance">
+<!-- / Yoast WordPress SEO plugin. -->
 
-      <main class="content">
-      <h3>Privacy Policy and Legal Notice</h3>
+<link rel="alternate" type="application/rss+xml" title="Allegiance » Feed" href="http://allegiancemusical.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Allegiance » Comments Feed" href="http://allegiancemusical.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Allegiance » Privacy Policy Comments Feed" href="http://allegiancemusical.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/allegiancemusical.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://allegiancemusical.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+		<meta content="Allegiance v.1.0.0" name="generator"><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="ai1ec_style-css" href="//allegiancemusical.com/wp-content/plugins/all-in-one-event-calendar/cache/b167fe95_ai1ec_parsed_css.css?ver=2.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="edd-styles-css" href="http://allegiancemusical.com/wp-content/plugins/easy-digital-downloads/templates/edd.min.css?ver=2.3.9" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="http://allegiancemusical.com/wp-content/themes/Divi/style.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="default-jbox-css-css" href="http://allegiancemusical.com/css/jBox.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="allg-jbox-css-css" href="http://allegiancemusical.com/wp-content/themes/allegiance/jbox-allg.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="remodal-css-css" href="http://allegiancemusical.com/css/remodal.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="remodal-css2-css" href="http://allegiancemusical.com/css/remodal-default-theme.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="divi-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800&amp;subset=latin,latin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="et-gf-open-sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="divi-style-css" href="http://allegiancemusical.com/wp-content/themes/allegiance/style.css?ver=2.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="mc4wp-custom-form-css-css" href="//allegiancemusical.com/wp-content/uploads/2015/07/mailchimp-for-wp.css?ver=2.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="et-shortcodes-css-css" href="http://allegiancemusical.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0" type="text/css" media="all">
+<link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="http://allegiancemusical.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0" type="text/css" media="all">
+<script type="text/javascript" src="http://allegiancemusical.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://allegiancemusical.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"http:\/\/allegiancemusical.com\/wp-admin\/admin-ajax.php","position_in_cart":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","ajax_loader":"\/wp-content\/plugins\/easy-digital-downloads\/assets\/images\/loading.gif","is_checkout":"0","default_gateway":"paypal","redirect_to_checkout":"0","checkout_page":"http:\/\/allegiancemusical.com\/checkout\/","permalinks":"1","quantities_enabled":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://allegiancemusical.com/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.3.9"></script>
+<script type="text/javascript" src="http://allegiancemusical.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.0"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://allegiancemusical.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://allegiancemusical.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.2">
+<link rel="shortlink" href="http://allegiancemusical.com/?p=297">
+<meta name="generator" content="Easy Digital Downloads v2.3.9">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">	<style>
+		a { color: #000000; }
 
-<p>We have created this Privacy Policy and Legal Notice in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Allegiance–A New Musical (www.allegiancemusical.com) (this “website”). All references to “we” or “us” in this Privacy Policy and Legal Notice refers to Gaman PB, LLC or its managers, predecessors or successors, the production company responsible for producing “Allegiance–A New Musical”.</p>
+		body { color: #0a0a0a; }
 
+		.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content { background-color: #000000; }
+
+		#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: #f39881; }
+
+		#top-header, #et-secondary-nav li ul { background-color: #2ea3f2; }
+
+		.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #000000 !important; }
+
+		#et_search_icon:hover, .mobile_menu_bar:before, .footer-widget h4, .et-social-icon a:hover, .comment-reply-link, .form-submit input, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover { color: #000000 !important; }
+
+		.woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .nav-single a, .posted_in a { color: #000000 !important; }
+
+		.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #000000; }
+
+		#main-footer { background-color: #2a2a28; }
+
+		#top-menu a { color: #0d355d; }
+
+		#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a, .bottom-nav li.current-menu-item > a { color: #0d355d; }
+
+	h1, h2, h3, h4, h5, h6 { font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif; }body, input, textarea, select { font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif; }	</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #000000; }
+</style>
+<style type="text/css">.mc4wp-form input[name="_mc4wp_required_but_not_really"] { display: none !important; }</style>
+<!-- Google Tag Manager for WordPress by DuracellTomi -->
+<script type="text/javascript">
+	dataLayer.push({"pageTitle":"Privacy Policy - Allegiance","pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"Marc Ferradou","browserName":"","browserVersion":"","browserEngineName":"","browserEngineVersion":"","osName":"","osVersion":"","deviceType":"","deviceManufacturer":"","deviceModel":""});
+</script>	<script>var $ = jQuery.noConflict();</script>
+
+<!-- Start of the-social-edge Zendesk Widget script -->
+<iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","the-social-edge.zendesk.com");/*]]>*/</script>
+<!-- End of the-social-edge Zendesk Widget script -->
+
+<script src="//use.typekit.net/fvi7pch.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+	<!--[if IE 8]>
+		<link rel="stylesheet" href="/css/ie8.css" />
+	<![endif]-->
+
+<!-- <link rel="stylesheet" href="/css/site.css" /> -->
+
+
+
+
+</head>
+<body class="page page-id-297 page-template-default custom-background et_fixed_nav et_cover_background et_full_width_page unknown">
+
+
+
+<div class="remodal" data-remodal-id="modal">
+  <button data-remodal-action="close" class="remodal-close"></button>
+  <h1>Get Tickets</h1>
+  <!-- MailChimp for WordPress Pro v2.7.5 - https://mc4wp.com/ --><div id="mc4wp-form-1" class="form mc4wp-form mc4wp-form-577 mc4wp-ajax"><form method="post" role="form"><p>
+    <label>Email Address:</label>
+    <input type="email" name="EMAIL" placeholder="Your email address">
+</p><p>
+    <label>First Name:</label>
+    <input type="text" name="FNAME" placeholder="Your first name">
+</p><p>
+    <label>Last Name:</label>
+    <input type="text" name="LNAME" placeholder="Your last name">
+</p><p>
+    <label>Zip Code:</label>
+    <input type="text" name="MMERGE4" placeholder="Your zip code">
+</p><p>
+    <label># of tickets to buy:</label>
+    <select name="MMERGE19">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+    </select>
+</p>
+<input type="hidden" name="SOURCE" value="Allegiance Web - Navbar - Get Tickets">
+
+<p>
+	<input type="submit" value="Sign Up &amp; Find Tickets">
+</p>
+<p>
+	<a href="https://www.telecharge.com/Broadway/Allegiance/Ticket?AID=BWY001087600&amp;cm_mmc=Allegiance-_-Affiliate-_-web-_-BWY001087600&amp;cm_mmca1=show_site"><button type="button" class="skipSubmit">No Thanks, Just Find Tickets</button></a>
+</p><span class="mc4wp-ajax-loader" style="display: none;"></span><input type="hidden" name="_mc4wp_required_but_not_really" value="" style="display: none;"><input type="hidden" name="_mc4wp_timestamp" value="1441535907"><input type="hidden" name="_mc4wp_form_id" value="577"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"><input type="hidden" name="_mc4wp_form_submit" value="1"><input type="hidden" name="_mc4wp_form_nonce" value="4fce2c2876"></form><div class="mc4wp-response"></div></div><!-- / MailChimp for WP Pro Plugin --></div>
+
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5J6RGG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5J6RGG');</script>
+<!-- End Google Tag Manager -->
+<div id="container">
+<div id="wrap">
+
+	<div id="page-container">
+
+	
+		<header id="main-header" class="et_nav_text_color_light">
+			<div class="container clearfix">
+							<a href="http://allegiancemusical.com/#et-main-area">
+					<img src="http://allegiancemusical.com/wp-content/uploads/2015/05/logo.png" alt="Allegiance" id="logo">
+				</a>
+
+						<!--[if !IE 8]-->
+
+						
+
+						<ul id="mobileGetTickets">
+								<li class="getTickets-mobile menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-379"><a target="_blank" href="#modal">Tickets</a></li>
+								<li class="et-social-icon et-social-facebook menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home float-left">
+									<a onclick="ga('send', 'event', 'Social', 'Click', 'Facebook');" href="http://www.facebook.com/allegiancemusical" class="icon blue" target="_blank">
+										<span>Facebook</span>
+									</a>
+								</li>
+								<li class="et-social-icon et-social-twitter menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home float-left">
+									<a onclick="ga('send', 'event', 'Social', 'Click', 'Twitter');" href="http://www.twitter.com/AllegianceBway" class="icon blue" target="_blank">
+										<span>Twitter</span>
+									</a>
+								</li>
+
+								<li class="et-social-icon et-social-instagram menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home float-left">
+									<a onclick="ga('send', 'event', 'Social', 'Click', 'Instagram');" href="http://www.instagram.com/allegiancebway" class="icon blue" target="_blank">
+										<span>Instagram</span>
+									</a>
+								</li>
+
+								<li class="et-social-icon et-social-youtube menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home float-left">
+									<a onclick="ga('send', 'event', 'Social', 'Click', 'YouTube');" href="http://www.youtube.com/allegiancebway" class="icon blue" target="_blank">
+										<span>YouTube</span>
+									</a>
+								</li>
+									<li class="et-social-icon et-social-pinterest menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home float-left">
+									<a onclick="ga('send', 'event', 'Social', 'Click', 'Pinterest');" href="https://www.pinterest.com/allegiancebway/" class="icon blue" target="_blank">
+										<span>Pinterest</span>
+									</a>
+								</li>
+						</ul>
+
+
+						<!--[endif]-->
+						
+
+				<div id="et-top-navigation">
+					<nav id="top-menu-nav">
+
+					<ul id="top-menu" class="nav"><li id="menu-item-216" class="getTickets menu-item menu-item-type-custom menu-item-object-custom menu-item-216"><a target="_blank" href="https://www.telecharge.com/Broadway/Allegiance/Ticket?AID=BWY001087600&amp;cm_mmc=Allegiance-_-Affiliate-_-web-_-BWY001087600&amp;cm_mmca1=show_site">Get Tickets Now</a></li>
+<li id="menu-item-227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-227"><a href="/#about">About</a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-220"><a href="/#connect">Connect</a></li>
+</ul>					</nav>
+
+					
+					
+					<div id="et_mobile_nav_menu">
+			<a href="#" class="mobile_nav closed">
+				<span class="select_page">Select Page</span>
+				<span class="mobile_menu_bar"></span>
+			</a>
+		</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+
+
+
+
+
+
+
+
+<div id="main-content">
+
+
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+
+
+			
+				<article id="post-297" class="post-297 page type-page status-publish hentry">
+
+				
+					<h1 class="main_title">Privacy Policy</h1>
+				
+				
+					<div class="entry-content">
+					<h3>Privacy Policy and Legal Notice</h3>
+<p>We have created this Privacy Policy and Legal Notice in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Allegiance–A New Musical (www.allegiancemusical.com) (this “website”). All references to “we” or “us” in this Privacy Policy and Legal Notice refers to Allegiance Broadway LLC or its managers, predecessors or successors, the production company responsible for producing “Allegiance–A New Musical”.</p>
 <h3>Information Collected and How We Use It</h3>
-
 <p>We use your IP address to help diagnose problems with our server and to administer this website. Your IP address is also used to gather broad demographic information, such as country of origin and similar information.</p>
-
 <p>This website also may use unique identifiers to confirm data, such as your geographical location, and we use such data in the aggregate to run internal analyses to improve upon your user experience.</p>
-
 <p>Through surveys and newsletter registration, this website may request users to give us contact, demographic, and/or general financial information (such as their name, locale, gender, age, income level and email address). The demographic information is used to enhance user experience so we can be more content specific. The contact information is used to notify users of new content, for surveys and newsletters, via email. Financial information related to income level that is collected is used primari for in-house statistics, advertising, and marketing target information. Users may opt-out of receiving future mailings; see the choice/opt-out section below.</p>
-
 <p>In addition, we may employ outside agents, meaning other companies or individuals to perform functions on our behalf, such as sending postal mail and e-mail, conducting sweepstakes and other promotional activities, analyzing data, providing marketing assistance, processing credit card payments and providing customer service. These agents have access to personal information needed to perform their functions. Other than such outside agents, suppliers and vendors, we keep all of your personal information private and will not share it with any third party, unless you have authorized us to or we are legally required to do so. We may also release personal information when we believe, in good faith, that such release is reasonably necessary to protect the rights, property or safety of ourselves, our clients, our users, or others. Of course, we may disclose any personal information about you to law enforcement, other government officials, or other third parties, as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringement, or other activity that is illegal or may expose us to legal liability.</p>
-
 <h3>Contests</h3>
-
 <p>We may run contests on this website in which we ask visitors for contact information (such as their name, address and/or email address) and demographic information (such as their zip code, age, and/or income level). The user’s contact information is used to contact the visitor when necessary, such as if they win a contest or to notify users of upcoming contests.</p>
-
 <p>We generally would host our own contest or sweepstakes and, in such instance, all information that is collected by us would be used only by us subject to the terms of this Privacy Policy and Legal Notice or as otherwise provided in any applicable contest or sweepstakes rules.&nbsp; In certain instances, a third party may host the contest or sweepstakes and all collected information would then be shared with us and that third party and otherwise used by us subject to the terms of this Privacy Policy and Legal Notice or as otherwise provided in any applicable contest or sweepstakes rules.</p>
-
 <p>In connection with the contests, we may also share contact information with third parties for shipping and prize fulfillment purposes. In our contest registration, we give visitors the opportunity to sign up for this website’s newsletter. However, visitors may opt-out of receiving future mailings by selecting the “unsubscribe” link at the bottom of the newsletter.</p>
-
 <h3>Interactive Programs</h3>
-
 <p>We may run interactive programs on this website such as games, group events, promotions, and fan club activities in which we ask visitors for contact information similar to what we ask for in contests.&nbsp; As with contests, the information is used to contest the program participants when necessary.&nbsp; We may hold our own programs or elect to utilize a third party to host the program, in which case all information would then be share by us and that third party.&nbsp; As with contests, visitors may elect to opt-out of receiving our mailings or newsletters.</p>
-
 <p>Users that this website knows to be under the age of 13 are hereby required to provide the e-mail address of their parent or guardian to the Administrator (privacy@allegiancemusical.com) so that this website may alert the parent or guardian of their child’s use of this website. The parent or guardian must consent to this website’s collection of their child’s personal information. A known child user will be restricted from providing personal information until such consent is received. No information collected from users known to be under age 13 will be used for any marketing or promotional purposes outside this website. If this website collects personally identifiable information from children, it will do so in compliance with the Children’s Online Privacy Protection Act of 1998 (U.S.C. 6501 et seq.). Links to Other Sites This website may contain links to other websites. This website is not responsible for the privacy practices or the content of such other websites.</p>
-
 <h3>Public Forums</h3>
-
 <p>At times, this website may contain message boards, and/or news groups available to its users. We request users to give us contact information, such as name, email, address, occupation, and interests to be a registered bulletin board user. This information is optional and not necessary to post messages. This information may be used by the administrator to send the user email notices. However, users may opt-out of receiving future mailings; see the choice/opt-out section below. Please remember that any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information.</p>
-
 <h3>Security</h3>
-
 <p>This website has commercially reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.</p>
-
 <h3>Choice/Opt-Out</h3>
-
 <p>This website provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.</p>
-
 <p>This website gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.</p>
-
-<p>Users can send email to: <a href="mailto:privacy@allegiancemusical.com?subject=Privacy%20Opt-Out&amp;body=To%20Whom%20It%20May%20Concern%2C%0A%0AI%27d%20like%20to%20op-out%20of%20any%20communication%20via%20email%20sent%20by%20your%20company.%20Please%20remove%20my%20email%20address%20from%20your%20distribution%20list.">privacy@allegiancemusical.com</a></p>
-
+<p>Users can send email to: <a class="mailto" href="mailto:privacy@allegiancemusical.com?subject=Privacy%20Opt-Out&amp;body=To%20Whom%20It%20May%20Concern%2C%0A%0AI%27d%20like%20to%20op-out%20of%20any%20communication%20via%20email%20sent%20by%20your%20company.%20Please%20remove%20my%20email%20address%20from%20your%20distribution%20list.">privacy@allegiancemusical.com</a></p>
 <p>Users can send mail to the following postal address:</p>
-
-<p style="margin-left:40px;">Allegiance Broadway, Limited Liability Company<br>
-	1560 Broadway, Suite 700<br>
-	New York, NY 10036</p>
-
+<p>Allegiance Broadway, Limited Liability Company<br>
+1560 Broadway, Suite 700<br>
+New York, NY 10036</p>
 <p>Users can call the following telephone number: 212-944-6586</p>
-
 <h3>Use of Third Party Ad Networks</h3>
-
 <p>We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is anonymous.</p>
-
 <h3>Correct/Update</h3>
-
 <p>This website gives users the following options for changing and modifying information previously provided.</p>
-
-<p>Users can send email to: <a href="mailto:privacy@allegiancemusical.com?subject=Privacy%20Correction&amp;body=To%20Whom%20It%20May%20Concern%2C%0A%0AI%27d%20like%20to%20update%20some%20of%20the%20information%20you%20are%20currently%20maintaining%2C%20which%20I%20previously%20provided%3A%0A">privacy@allegiancemusical.com</a></p>
-
+<p>Users can send email to: <a class="mailto" href="mailto:privacy@allegiancemusical.com?subject=Privacy%20Correction&amp;body=To%20Whom%20It%20May%20Concern%2C%0A%0AI%27d%20like%20to%20update%20some%20of%20the%20information%20you%20are%20currently%20maintaining%2C%20which%20I%20previously%20provided%3A%0A">privacy@allegiancemusical.com</a></p>
 <p>Users can send mail to the following postal address:</p>
-
-<p style="margin-left:40px;">Allegiance Broadway, Limited Liability Company<br>
-	1560 Broadway, Suite 700<br>
-	New York, NY 10036</p>
-
+<p>Allegiance Broadway, Limited Liability Company<br>
+1560 Broadway, Suite 700<br>
+New York, NY 10036</p>
 <p>Users can call the following telephone number: 917-720-3289</p>
-
 <h3>Copyright Notice</h3>
-
 <p>All text, images, graphics, sounds and software code (“Content”) on this website are copyrighted property of its respective owners, its clients, contributors and its programmers unless otherwise noted. They may only be used for the personal education of site visitors. They may not be placed in the public domain. You may not reproduce, redistribute, publish or otherwise use by electronic or any other means any of the Content without the prior written consent.</p>
-
 <h3>Trademarks</h3>
-
 <p>“Allegiance” and other trademarks, service marks, brands, product names, designs and logos related to “Allegiance’” and indicated on this website are owned, controlled or licensed by us or our designated agents, or by the rights holders of the theatrical work “Allegiance.” They may not be used or displayed without our prior written consent. All other trademarks, service marks, brands, product names, designs, company names and logos appearing on this website are the property of their respective owners.</p>
-
 <h3>Applicable Law</h3>
-
 <p>These terms will be governed by and construed in accordance with the laws of the State of New York, without regard to any principles of conflicts of law. You agree that any action at law or in equity that arises out of or relates to any use of this website will be filed only in the state or federal courts located in New York County, and you hereby consent and submit to the personal jurisdiction of such courts for the purposes of litigating any such action. Successors In the event that we are, or any component of our operations is, merged with, or is acquired by, another entity, then any such successor or acquiring entity may become the successor to our obligations with respect to the personal information that you have provided to us, which would be necessary for the entity to effectively continue our business. By using this website, you consent to any such use of such personal information by such an entity assuming control of our operations as a result of a merger, purchase of assets, or liquidation in bankruptcy or insolvency.</p>
-
 <h3>Your Acceptance of These Terms</h3>
-
 <p>By visiting this website, you consent to the terms of this Privacy Policy and Legal Notice and to the collection and use of this information by us. We will always fully disclose our privacy policies, and we will promptly post any changes to our policy on this page.</p>
-
 <p>You agree that we may retain and use your personal information as described in this Privacy Policy and legal Notice until you inform us in writing that you do not agree with this Privacy Policy and Legal Notice and agree that you will not use this website for a reasonable period of time thereafter. By using this website after we post any changes to this Privacy Policy and Legal Notice, you agree to accept those changes. If you choose to visit this website, your visit and any dispute over privacy is subject to this Privacy Policy and Legal Notice.</p>
-
 <h3>Contacting the Website</h3>
+<p>If you have any questions about this Privacy Policy and Legal Notice, the practices of this website, or your dealings with this website, you can send an email to <a class="mailto" href="mailto:privacy@allegiancemusical.com?subject=Privacy%20Question">privacy@allegiancemusical.com</a>.</p>
+					</div> <!-- .entry-content -->
 
-<p>If you have any questions about this Privacy Policy and Legal Notice, the practices of this website, or your dealings with this website, you can send an email to <a href="mailto:privacy@allegiancemusical.com?subject=Privacy%20Question">privacy@allegiancemusical.com</a>.</p>    </main>
-  </article>
-            </main>
+				
+				</article> <!-- .et_pb_post -->
 
-                        <div class="page-right">
-              <div class="page-sidebar">
-                <aside id="block-dd_social-share_page" class="block block-dd_social">
-    <header class="block-title">
-    <h3>Share this page</h3>
-  </header>
-    <section>
-    <ul class="dd-social-links">
-  <li><a class="social facebook" href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.allegiancemusical.com%2Fpost%2Fprivacy-policy" title="Share on Facebook">
-  <span>Share on Facebook</span>
-</a>
-</li>
-  <li><a class="social google" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.allegiancemusical.com%2Fpost%2Fprivacy-policy" title="+1 on Google">
-  <span>+1 on Google"</span>
-</a>
-</li>
-  <li><a class="social linkedin" href="http://www.linkedin.com/shareArticle?url=http%3A%2F%2Fwww.allegiancemusical.com%2Fpost%2Fprivacy-policy" title="Share on LinkedIn">
-  <span>Share on LinkedIn</span>
-</a>
-</li>
-  <li><a class="social twitter" href="https://twitter.com/share?url=http%3A%2F%2Fwww.allegiancemusical.com%2Fpost%2Fprivacy-policy&amp;text=Privacy%20Policy" title="Share on Twitter">
-  <span>Share on Twitter</span>
-</a>
-</li>
-</ul>
-  </section>
-</aside>
-              </div>
-            </div>
-            
-                      </div>
+			
 
-          <footer class="page-footer">
-            <section class="footer-action" data-tblock-args="all/138">
-  <article class="node node-1382 pt-138 not-page" data-nid="1382">
-  <header>
-    <a href="/post/wait-tickets-almost-over" title="Previews begin October 6 at the Longacre Theatre.">
-      <h2 class="title layout">Previews begin October 6 at the Longacre Theatre.</h2>
-          </a>
-  </header>
-</article>
-</section>
-<nav class="footerlinks" data-tblock-args="all/56">
-  <ul class="menu">
-    <li><a href="/post/terms-use" class="terms-of-use">Terms of Use</a></li>
-<li><a href="/post/privacy-policy" class="privacy-policy active">Privacy Policy</a></li>
-  </ul>
-</nav>
-          </footer>
-        </div>
-      </div>
-    </div>
+			</div> <!-- #left-area -->
 
-        <div class="hidden">
-      <div class="dd-command-menu">
-  <button type="button" class="toggle">Commands</button>
-  <div class="menu-block-dcore menu-name-dd-cmd parent-mlid-0 menu-level-1">
-  <ul class="menu"><li class="leaf first menu-mlid-11446"><a href="/help" title="" class=" menu-help-center">Help</a></li>
-<li class="leaf last menu-mlid-11447"><a href="/user/login" title="" class=" menu-login">Log in</a></li>
-</ul></div>
+					</div> <!-- #content-area -->
+	</div> <!-- .container -->
+
+
+</div> <!-- #main-content -->
+
 </div>
-      <script type="text/javascript" src="/sites/main/files/advagg_js/js_19ecf24c5368f0cb90e1e64dcac885b4_57.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-22522113-1"]);_gaq.push(["_setDomainName",".allegiancemusical.com"]);_gaq.push(["_trackPageview"]);(function(){var ga=document.createElement("script");ga.type="text/javascript";ga.async=true;ga.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga,s)})()
-//--><!]]>
-</script>
-          </div>
-      <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"51e9ee0927","applicationID":"3044101","transactionName":"bwBRZUoEC0NXUEEKXlZKclJMDApeGWxHBkdRFlpeVgwLV2lFXAZG","queueTime":0,"applicationTime":390,"atts":"Q0dGEwIeR0VFVkcwRVkRRkIaX0dRWFxbGlxXEEATFEcWUVhXVwxJcQERCxoECVxTVFwCX1sAbAMIVFFCU1dQEFhfCxFMFEcEEgxISB4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-515.min.js"}</script>
+</div>
+</div> <!-- #page-container -->
+		</div> <!-- #et-main-area -->
+			<footer id="main-footer">
 
-<script src="https://js-agent.newrelic.com/nr-515.min.js"></script></body></html>
+<!-- <a data-remodal-target="modal">Call the modal with data-remodal-id="modal"</a> -->
+
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="text-2" class="fwidget et_pb_widget widget_text">			<div class="textwidget"><div class="footer_wrapper">
+
+<div class="bottom-nav">
+<span class="menu-item menu-item-type-custom menu-item-object-custom "><a href="/privacy-policy">Privacy Policy</a></span></div>
+
+<div class="bottom-nav">
+<span class="menu-item menu-item-type-custom menu-item-object-custom ">© 2015 Allegiance Broadway LLC</span></div>
+</div></div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container -->
+
+					</footer> <!-- #main-footer -->
+
+
+
+
+
+<script type="text/javascript" src="http://allegiancemusical.com/wp-content/themes/Divi/js/jquery.fitvids.js?ver=2.3.2"></script>
+<script type="text/javascript" src="http://allegiancemusical.com/wp-content/themes/Divi/js/waypoints.min.js?ver=2.3.2"></script>
+<script type="text/javascript" src="http://allegiancemusical.com/wp-content/themes/Divi/js/jquery.magnific-popup.js?ver=2.3.2"></script>
+<script type="text/javascript" src="http://allegiancemusical.com/wp-content/themes/Divi/js/smoothscroll.js?ver=2.3.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var et_custom = {"ajaxurl":"http:\/\/allegiancemusical.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/allegiancemusical.com\/wp-content\/themes\/Divi\/images","et_load_nonce":"741dcda7ad","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://allegiancemusical.com/wp-content/themes/allegiance/js/custom.js?ver=2.3.2"></script>
+<script type="text/javascript" src="http://allegiancemusical.com/js/jBox.min.js"></script>
+<script type="text/javascript" src="http://allegiancemusical.com/wp-content/themes/allegiance/js/jbox.js"></script>
+<script type="text/javascript" src="http://allegiancemusical.com/js/remodal.min.js"></script>
+<script type="text/javascript" src="http://allegiancemusical.com/js/site.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mc4wp_vars = {"ajaxurl":"http:\/\/allegiancemusical.com\/wp-admin\/admin-ajax.php?mc4wp_action=subscribe","ajaxloader":{"enabled":true,"imgurl":"http:\/\/allegiancemusical.com\/wp-content\/plugins\/mailchimp-for-wp-pro\/assets\/img\/ajax-loader.gif"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://allegiancemusical.com/wp-content/plugins/mailchimp-for-wp-pro/assets/js/ajax-forms.min.js?ver=2.7.5"></script>
+<script type="text/javascript">
+			(function() {
+				function addSubmittedClassToFormContainer(e) {
+					var form = e.target.form.parentNode;
+					var className = 'mc4wp-form-submitted';
+					(form.classList) ? form.classList.add(className) : form.className += ' ' + className;
+				}
+
+				function hideHoneypot(h) {
+					var n = document.createElement('input');
+					n.type = 'hidden';
+					n.name = h.name;
+					n.style.display = 'none';
+					n.value = h.value;
+					h.parentNode.replaceChild(n,h);
+				}
+
+				var forms = document.querySelectorAll('.mc4wp-form');
+				for (var i = 0; i < forms.length; i++) {
+					(function(f) {
+
+						// make sure honeypot is hidden
+						var h = f.querySelector('input[name="_mc4wp_required_but_not_really"]');
+						if(h) {
+							hideHoneypot(h);
+						}
+
+						// add class on submit
+						var b = f.querySelector('[type="submit"], [type="image"]');
+						if(b.addEventListener) {
+							b.addEventListener('click', addSubmittedClassToFormContainer);
+						} else {
+							b.attachEvent('click', addSubmittedClassToFormContainer);
+						}
+
+					})(forms[i]);
+				}
+			})();
+
+					</script>
+
+
+<script type="text/javascript">
+
+	// UTM CODE **********************
+	// append utm params to ticket purchase url
+	var prms = window.location.href;
+	prms = (window.location.href.indexOf('?') > -1) ? "&"+prms.substring(prms.indexOf('?')+1, prms.length) : '';
+
+	// create ref utm based on sub path
+	var subpath = window.location.pathname.split("/");
+
+	// then find the ticket link and append the utm params to it
+	var tix = $('.getTickets a').attr('href');
+
+	subpath = (subpath[1] != '') ? '&allg_ref='+subpath[1] : '';
+	tix = tix+prms+subpath;
+	// log(tix);
+	$('.getTickets a').attr('href',tix);
+	// UTM CODE **********************
+
+
+jQuery(document).on('subscribe.mc4wp','.mc4wp-form', function() {
+	console.log("Success");
+window['optimizely'] = window['optimizely'] || [];
+window.optimizely.push(["trackEvent", "getTickets_success"]);
+});
+</script>
+
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: allegiancemusical.com @ 2015-09-06 06:38:27 by W3 Total Cache --></body></html>
