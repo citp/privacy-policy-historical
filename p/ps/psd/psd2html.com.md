@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316191646id_/http%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psd2html.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906061209id_/https%3A//www.psd2html.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – PSD2HTML®
 
@@ -52,6 +52,6 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-Should you have further questions or concerns about P2H™ services, please complete the [contact form](http://www.psd2html.com/contact-us.html).
+Should you have further questions or concerns about P2H™ services, please complete the [contact form](https://www.psd2html.com/contact-us.html).
 
 © 2011-2013 P2H Inc. P2H™ and PSD2HTML® are trademarks of P2H Inc.
