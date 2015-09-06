@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austincc.edu privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217095111id_/http%3A//www.austincc.edu/web-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austincc.edu privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906110743id_/http%3A//www.austincc.edu/web-privacy-statement) for the most accurate reproduction.*
 
 # Web Privacy Statement | Austin Community College District
 
