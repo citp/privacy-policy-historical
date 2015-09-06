@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frenchentree.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607142815id_/http%3A//www.frenchentree.com/home/privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchentree.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906090955id_/https%3A//www.frenchentree.com/home/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
-# Privacy Policy & Terms & Conditions - FrenchEntrée (Page - 1)
+# Privacy Policy & Terms & Conditions -
 
 **YOUR PRIVACY**
 
