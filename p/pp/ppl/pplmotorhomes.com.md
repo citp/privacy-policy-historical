@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629153025id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplmotorhomes.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906201107id_/http%3A//www.pplmotorhomes.com/gotopage/privacy-policy-sales.htm) for the most accurate reproduction.*
 
 # PPL Privacy Policy - PPL Motor Homes
 
@@ -115,7 +115,7 @@
 > 
 > 
 > **PPL New Braunfels**   
->  5270 IH 35 North (Exit 191)  
+>  5270 IH 35 North (Exit 193)  
 >  New Braunfels, Texas 78130   
 > 
 > 
