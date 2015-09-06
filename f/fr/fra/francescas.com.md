@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the francescas.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629183612id_/http%3A//www.francescas.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the francescas.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906095903id_/https%3A//www.francescas.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Privacy and Security francesca's
+# Privacy and Security | francesca's
 
 Revision Date: January 8, 2014
 
@@ -28,7 +28,7 @@ francesca's® offers those who sign up for our e-mail list advanced notice of sa
 
 ### Secure Shopping
 
-Orders placed on our website are encrypted using SSL technology, the industry-standard authentication and encryption technology, to protect transactions. In order for SSL security to work properly, you must use an SSL enabled browser. Data transmissions over the Internet or any wireless network cannot be guaranteed as completely secure, and you understand through your use of this website that certain Internet security issues are beyond our control. If you have any concerns, you may place your order by phone by calling 1.800.980.1180, Monday through Friday, 7:00 a.m. to 9:00 p.m. CST.
+Orders placed on our website are encrypted using SSL technology, the industry-standard authentication and encryption technology, to protect transactions. In order for SSL security to work properly, you must use an SSL enabled browser. Data transmissions over the Internet or any wireless network cannot be guaranteed as completely secure, and you understand through your use of this website that certain Internet security issues are beyond our control. If you have any concerns, you may call our Customer Service line at 1.800.980.1180, Monday through Friday, 7:00 a.m. to 9:00 p.m. CST. and Saturday through Sunday, 8:30 a.m. to 5:00 p.m. CST.
 
 Please note that e-mail is not encrypted and is not considered a secure means of transmitting sensitive information, including credit card numbers. We will never ask for sensitive information via e-mail, and if you receive an e-mail that appears to be an e-mail from francesca's® requesting sensitive information, do not respond as this might be a scam designed to steal such information.
 
