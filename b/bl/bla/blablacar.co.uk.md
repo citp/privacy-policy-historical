@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the blablacar.co.uk privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408051642id_/http%3A//www.blablacar.co.uk/blog/privacy-and-data-protection-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blablacar.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906122941id_/https%3A//www.blablacar.co.uk/blog/privacy-and-data-protection-policy) for the most accurate reproduction.*
 
 # Privacy and Data Protection Policy | BlaBlaCar.co.uk
 
 ## 1\. General
 
-1.1 Comuto SA (“we” or “us”) take the privacy of your information very seriously. Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via the [www.blablacar.com](https://www.blablacar.com/) website and other associated partner websites, microsites and sub-sites (the “Site”).
+1.1 Comuto SA (“we” or “us”) take the privacy of your information very seriously. Our Privacy Policy is designed to tell you about our practices regarding the collection, use and disclosure of information that you may provide via the [www.blablacar.com](https://www.blablacar.co.uk/) website and other associated partner websites, microsites and sub-sites (the “Site”).
 
 1.2 By using this Site or any services we offer, you are consenting to the collection, use, and disclosure of that information about you in accordance with, and are agreeing to be bound by, this Privacy Policy.
 
-1.3 [Comuto SA is registered under the Data Protection Act 1998 (the “Act”). The Act sets out a number of important principles that organisations must apply when processing personal data. For more information see [//ico.org.uk/](https://ico.org.uk/).]
+1.3 [Comuto SA is registered under the Data Protection Act 1998 (the “Act”). The Act sets out a number of important principles that organisations must apply when processing personal data. For more information see <http://ico.org.uk/>.]
 
 ## 2\. Ways that we collect information
 
