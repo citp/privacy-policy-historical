@@ -1,43 +1,19 @@
-> *The following text is extracted and transformed from the massivelyop.net privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629044118id_/http%3A//freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivelyop.net privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906080802id_/http%3A//massivelyop.com/privacy) for the most accurate reproduction.*
 
-# Generic Privacy Policy
+# Privacy Policy | Massively Overpowered
 
-Last updated: March 2015
+Use of the Massively Overpowered website and its affiliated social media services implies understanding acceptance of the terms of the following privacy policy.
 
-> Websites linking to this page have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below.
+**Website visitors:  **Like most website operators, Massively Overpowered collects non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our website. From time to time, we may release non-personally identifying information in the aggregate — e.g., by publishing a report on trends in the usage of the website. Massively Overpowered also collects potentially personally identifying information like internet protocol (IP) addresses for logged-in users and for users leaving comments on the blog. We disclose logged-in user and commenter IP addresses only under the same circumstances that we use and disclose personally identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators.
 
-## Information that is gathered from visitors
+**Gathering of personally identifying information:**  Certain visitors to Massively Overpowered choose to interact with our website in ways that require us or services we use to gather personally identifying information. The amount and type of information that we gather depends on the nature of the interaction. For example, visitors who sign up to post comments on our blog provide a username and email address to both us and to Livefyre.com, the third-party host of our comment service. Those who engage in transactions with Massively Overpowered (by donating through a third-party service like Kickstarter or Patreon, for example) are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. We may also conduct contests and giveaways in which we will ask users to transmit personal information in order to receive a prize. In each case, Massively Overpowered collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Massively Overpowered. Massively Overpowered does not disclose personally identifying information other than as described below. Visitors can always refuse to supply personally identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+**Protection of certain personally identifying information:** Massively Overpowered discloses potentially personally identifying and personally identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on our behalf or to provide services available at our website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors, and affiliated organizations may be located outside of your home country; by using Massively Overpowered, you consent to the transfer of such information to them. We will not rent or sell potentially personally identifying and personally identifying information to anyone. Other than to our employees, contractors, and affiliated organizations as described above, we disclose potentially personally identifying and personally identifying information only in response to a subpoena, court order, or other governmental request, or when Massively Overpowered believes in good faith that disclosure is necessary to protect the property or rights of our company, website, third parties, or the public at large. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Massively Overpowered takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally identifying and personally identifying information.
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+**Cookies:**  A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Massively Overpowered uses cookies to help us identify and track visitors, their usage of our website, and their website access preferences. Massively Overpowered visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using this website, knowing that certain website features may not function properly without the aid of cookies.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+**Business transfers:**  If Massively Overpowered were to be acquired or enter bankruptcy, user information would be one of the assets that would likely be transferred or acquired by a third party. You acknowledge that such transfers may occur and that any acquirer of Massively Overpowered may continue to use your personal information as set forth in this policy.
 
-## How the Information is used
+**Ads and social media:**  Ads appearing on Massively Overpowered may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. Our privacy policy covers the use of cookies by Massively Overpowered and does not cover the use of cookies by any advertisers or social media platforms such as but not limited to Facebook, Twitter, Google+, YouTube, Twitch, Steam, or Libsyn.
 
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
-
-E-mail addresses will not be sold, rented or leased to 3rd parties.
-
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
-
-## Visitor Options
-
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
-
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
-
-## Cookies
-
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
-
-3rd party advertising companies may also use cookies for tracking purposes.
-
-## Google Ads
-
-Google, as a third party vendor, uses cookies to serve ads.
-
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
-
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+**Alterations to this policy:**  Massively Overpowered may change this privacy policy from time to time and at Massively Overpowered’s sole discretion. We encourage visitors to frequently check this page as well as the privacy policies of any affiliated services for changes. Your continued use of this site after any change in this privacy policy will constitute your acceptance of such change.
