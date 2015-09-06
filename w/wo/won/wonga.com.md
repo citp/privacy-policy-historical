@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326203405id_/https%3A//www.wonga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906052704id_/https%3A//www.wonga.com/privacy-policy) for the most accurate reproduction.*
 
-# Wonga.com© | Straight talking money - Short term cash loans
+# Wonga.com© | Credit for the real world - Short term cash loans
 
 [](http://privacy.truste.com/privacy-seal/Wonga-International-SA/validation?rid=0b17f7af-c5d2-4c46-95d0-45acf190ecc8 "TRUSTe online privacy certification")
 
