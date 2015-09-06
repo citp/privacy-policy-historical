@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoffun.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324062231id_/http%3A//timeoffun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoffun.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906131357id_/http%3A//timeoffun.com/privacy-policy) for the most accurate reproduction.*
 
 # Fun | Privacy Policy
 
