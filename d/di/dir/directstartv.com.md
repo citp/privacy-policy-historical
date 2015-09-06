@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323021323id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906083913id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,13 @@ Welcome to Directstartv.com. This site is controlled and operated by DirectStarT
 
 **_INFORMATION COLLECTION_**
 
-**Information You Provide**
+**REVIEWS AND OTHER SUBMISSIONS**
+
+You may post reviews, comments, and other content; send communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, damaging to third parties, or otherwise objectionable, and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "spam." You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a submission. We reserve the right (but not the obligation) to remove or edit such content, but do not regularly review posted content.
+
+If you do post content or submit material, and unless we indicate otherwise, you grant DirectStarTV and its designees a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display any and all such submissions throughout the world in any media. You grant DirectStarTV and its designees the right to use the name you submit in connection with such submission, at their election. You represent and warrant that you own or otherwise control all of the rights to the submission; that the submission is accurate; that use of the submission does not violate this policy and will not cause injury to any person or entity; and that you will indemnify DirectStarTV and its designees for all claims resulting from your submissions. We have the right but not the obligation to monitor and edit or remove any activity or content. DirectStarTV takes no responsibility and assumes no liability for any content submitted posted by you or any third party.
+
+**Other Information You Provide**
 
 Directstartv.com collects information from you when you choose to share it with us to use our Site, create an online account with us, request information from us, sign up for newsletters or our email list, post a review, make a purchase, participate in a survey or promotion, or otherwise contact or interact with us. The information we collect may include your name, address, email address, telephone number, birthday, gender, chat transcripts, purchase information and other information you provide to us via this website. We may combine the information you provide to us with information (1) from and about you that we automatically collect when you use this or other first party sites, (2) from third parties, or (3) from other online and offline sources.
 
