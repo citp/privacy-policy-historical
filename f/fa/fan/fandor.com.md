@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321005132id_/https%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907015311id_/https%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fandor
 
