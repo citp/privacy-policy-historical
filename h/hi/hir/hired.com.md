@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hired.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315082919id_/https%3A//hired.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hired.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906131123id_/https%3A//hired.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hired
 
@@ -6,10 +6,7 @@
 
 If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following address or phone number:
 
-Hired, Inc.   
-460 Bryant St, 3rd Floor  
-San Francisco, CA 94107  
-[help@hired.com](mailto:help@hired.com)
+Hired, Inc. 460 Bryant St, 3rd Floor San Francisco, CA 94107 help@hired.com
 
 ## 2\. User Consent
 
@@ -17,7 +14,7 @@ By submitting Personal Data through our Site or Service, you agree to the terms 
 
 ## 3\. A Note About Children
 
-We do not intentionally gather Personal Data from visitors who are under the age of 13. If a child under 13 submits Personal Data to Hired and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at [help@hired.com](mailto:help@hired.com).
+We do not intentionally gather Personal Data from visitors who are under the age of 13. If a child under 13 submits Personal Data to Hired and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at help@hired.com.
 
 ## 4\. A Note To Users Outside Of The United States
 
@@ -50,14 +47,14 @@ If you are not currently registered as a user of the Service, and you click on �
   * _Log Files._ As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the Site, track users’ movements around the Site, gather demographic information about our user base as a whole, and better tailor our Service to our users’ needs. For example, some of the information may be collected so that when you visit the Site or the Service again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.
   * _Cookies._ Like many online services, we use cookies to collect information. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs.
   * _Pixel Tags._ In addition, we use “Pixel Tags” (also referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to cookies, that are used to track online movements of Web users. In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in Web pages. Pixel Tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that we are sending only messages that are of interest to our users. We may use this information to reduce or eliminate messages sent to a user. We do not tie the information gathered by Pixel Tags to our users’ Personal Data.
-  * _Flash LSOs._ When we post videos, third parties may use local shared objects, known as “Flash Cookies,” to store your preferences for volume control or to personalize certain video features. Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored. Cookie management tools provided by your browser will not remove Flash Cookies. To learn how to manage privacy and storage settings for Flash Cookies, click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+  * _Flash LSOs._ When we post videos, third parties may use local shared objects, known as “Flash Cookies,” to store your preferences for volume control or to personalize certain video features. Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored. Cookie management tools provided by your browser will not remove Flash Cookies. To learn how to manage privacy and storage settings for Flash Cookies, click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html.
   * _Google Analytics._ We use Google Analytics to help analyze how users use the Site. Google Analytics uses Cookies to collect information such as how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site. We use the information we get from Google Analytics only to improve our Site and Service. Google Analytics collects only the IP address assigned to you on the date you visit the Site, rather than your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with your Personal Data. Although Google Analytics plants a persistent Cookie on your web browser to identify you as a unique user the next time you visit the Site, the Cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to the Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy.
 
 
 
 ### D. Information Collected From You About Others
 
-If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. We rely upon you to obtain whatever consents from the third party that may be required by law to allow us to access and upload the third party’s names and e-mail addresses as required above. You or the third party may contact us at [help@hired.com](mailto:help@hired.com) to request the removal of this information from our database. Also, when you invite friends to the Service, we will access your Address Book and we will import your contacts names and phone numbers in order to facilitate the invitation. The e-mail that is sent to your friends will come from your e-mail address so that your friends know that you want to invite them to visit the Site. We do not store any passwords you provide as part of the contact import process. We also collect some settings that help us to interpret your data, such as the language and keyboard settings that you have established.
+If you decide to invite a third party to create an Account, we will collect your and the third party’s names and e-mail addresses in order to send an e-mail and follow up with the third party. We rely upon you to obtain whatever consents from the third party that may be required by law to allow us to access and upload the third party’s names and e-mail addresses as required above. You or the third party may contact us at help@hired.com to request the removal of this information from our database. Also, when you invite friends to the Service, we will access your Address Book and we will import your contacts names and phone numbers in order to facilitate the invitation. The e-mail that is sent to your friends will come from your e-mail address so that your friends know that you want to invite them to visit the Site. We do not store any passwords you provide as part of the contact import process. We also collect some settings that help us to interpret your data, such as the language and keyboard settings that you have established.
 
 ### E. Google Id
 
@@ -149,7 +146,7 @@ If you decide at any time that you no longer wish to have your SNS account (e.g.
 
 ### D. Changing Or Deleting Your Personal Data
 
-You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us at [help@hired.com](mailto:help@hired.com). You may request deletion of your Personal Data by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may also retain your information for fraud or similar purposes.
+You may change any of your Personal Data in your Account by editing your profile within your Account or by sending an e-mail to us at help@hired.com. You may request deletion of your Personal Data by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may also retain your information for fraud or similar purposes.
 
 ## 10\. Security Of Your Personal Data
 
@@ -157,4 +154,4 @@ Hired is committed to protecting the security of your Personal Data. We use a va
 
 ## 11\. Changes To This Privacy Policy
 
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here: <https://hired.com/privacy> and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes. Continued use of our Site or Service, following posting of such changes, shall indicate your acknowledgement of such changes and agreement to be bound by the terms of such changes.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here: https://hired.com/privacy and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes. Continued use of our Site or Service, following posting of such changes, shall indicate your acknowledgement of such changes and agreement to be bound by the terms of such changes.
