@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2015-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150520071606id_/http%3A//psyche.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psyche.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906124609id_/https%3A//psyche.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
 # Privacy Policy | Psyche.co.uk
 
