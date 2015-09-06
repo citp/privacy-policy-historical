@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perrymarshall.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316210711id_/http%3A//www.perrymarshall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perrymarshall.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906123945id_/https%3A//www.perrymarshall.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Perry Marshall
 
 PSMA has established this Privacy Policy to explain how it protects and manages the personal information that it collects from you (the customer) online.
 
@@ -20,7 +20,9 @@ PSMA has implemented this Privacy Policy to protect personal information receive
 
   3. Third Party Vendors
 
-Google’s advertising network displays PSMA ads on other websites. Google uses cookies to display PSMA ads based on our visitors’ past visits to the PSMA website.
+We use Google tracking and advertising products to provide & improve our advertising, including: Remarketing with Google Analytics, Google Display Network Impression Reporting, and Google Analytics Demographics & Interest Reporting.
+
+Google uses cookies to display PSMA ads based on our visitors’ past visits to the PSMA website, other websites and their activity on Google.com.
 
 You may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
 
