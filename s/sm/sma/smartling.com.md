@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325140224id_/http%3A//www.smartling.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartling.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906024640id_/https%3A//www.smartling.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Smartling
 
