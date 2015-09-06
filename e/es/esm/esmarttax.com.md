@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esmarttax.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043042id_/https%3A//www.esmarttax.com/support/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmarttax.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906071757id_/https%3A//www.esmarttax.com/support/privacy-statement) for the most accurate reproduction.*
 
 # eSmart Tax Privacy Statement | eSmart Tax
 
