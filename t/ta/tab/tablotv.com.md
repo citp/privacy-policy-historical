@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tablotv.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322045228id_/https%3A//www.tablotv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablotv.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906231226id_/https%3A//www.tablotv.com/privacy) for the most accurate reproduction.*
 
 # Tablo Privacy Policy | Over The Air (OTA) DVR | Tablo
 
