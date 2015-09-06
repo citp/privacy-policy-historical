@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shots.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623195129id_/http%3A//privacy.shots.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shots.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906115436id_/https%3A//shots.com/privacy) for the most accurate reproduction.*
 
 # Shots — Privacy Policy
 
