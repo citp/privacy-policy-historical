@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youvisit.com privacy policy that was archived on 2015-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150605123906id_/http%3A//www.youvisit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youvisit.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906061333id_/https%3A//www.youvisit.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | YouVisit
 
@@ -16,7 +16,7 @@ If you send us personal correspondence, such as emails or letters, we may collec
 
 ## Log Files
 
-We use log files on certain of the Platforms to collect and store certain information that your browser sends whenever you visit a website. These server logs may include, but is not limited to, internet protocol addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, for various purposes, including, but not limited to, to analyze trends, to administer the Platforms, to track users’ navigation around the Platforms and to gather demographic information. We may link this automatically collected data to personal information you provide to us. 
+We use Log Files/GPS data on certain of the Platforms to collect and store certain information that your browser sends whenever you visit a website. These server logs may include, but is not limited to, internet protocol addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, for various purposes, including, but not limited to, to analyze trends, to administer the Platforms, to track users’ navigation around the Platforms and to gather demographic information. We may link this automatically collected data to personal information you provide to us. 
 
 ## Cookies 
 
@@ -95,3 +95,5 @@ We reserve the right, at our discretion, to modify this Privacy Policy at any ti
 ## How to Contact Us.
 
 If you have any questions or concerns about this Privacy Policy you may contact us at privacy@youvisit.com
+
+Last modified: August 24th, 2015
