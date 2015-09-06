@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nyra.com privacy policy that was archived on 2015-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150215122018id_/http%3A//origin-nyra.ae-dns.com/aqueduct/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyra.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906111602id_/https%3A//www.nyra.com/belmont/information/privacy) for the most accurate reproduction.*
 
-# Privacy | New York Racing Association - Aqueduct
+# Privacy Policy | New York Racing Association - Belmont
+
+_Privacy Policy Notice_
 
 **Protecting your privacy** has always been important to us and we continue to be committed to protecting the privacy of our customers’ information. Please take a few minutes to review this information about The New York Racing Association Inc.’s (“NYRA”) privacy policies and practices.
 
