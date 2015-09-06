@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the soundstrue.com privacy policy that was archived on 2015-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150418163302id_/http%3A//www.soundstrue.com/store/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soundstrue.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906211150id_/http%3A//www.soundstrue.com/store/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W3GB82"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEDVVNaGwYBXFJUAAg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEDVVNaGwYBXFJUAAg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <title>Privacy Policy</title>
 <meta name="description" content="Sounds True offers transformational programs to help you live a more genuine, loving and meaningful life.">
 <meta name="keywords" content="Meditation, Spirituality">
@@ -17,45 +17,48 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/mandala/flexslider/css/flexslider.css?assetv=1.0.7">
-<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/mandala/css/styles.css?assetv=1.0.7" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/default/css/widgets.css?assetv=1.0.7" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/mandala/css/amshopby.css?assetv=1.0.7" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/default/css/downloadplus.css?assetv=1.0.7" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/default/css/print.css?assetv=1.0.7" media="print">
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/jquery/2.1/jquery.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/jquery/1.10.1/jquery.no-conflict.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/prototype/prototype.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/lib/ccard.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/prototype/validation.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/scriptaculous/builder.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/scriptaculous/effects.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/scriptaculous/dragdrop.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/scriptaculous/controls.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/scriptaculous/slider.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/varien/js.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/varien/form.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/varien/menu.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/mage/translate.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/mage/cookies.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/pisc/downloadplusaws/lazyload.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/flexslider/jquery.flexslider-min.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/flexslider/jquery.easing-nojquery.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/flexslider/jquery.fitvid.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/flexslider/froogaloop.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/flexslider/jquery.hoverIntent.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/default/js/scripts.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/default/js/enterprise/catalogevent.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/default/js/enterprise/wishlist.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/mandala/js/header.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/mandala/js/st.defaultvalue.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/mandala/js/quick-look-add-to-cart.js?assetv=1.0.7"></script>
+<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/mandala/flexslider/css/flexslider.css">
+<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/mandala/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/mandala/css/amshopby.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/default/css/downloadplus.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/base/default/webcooking/css/all.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/default/css/print.css" media="print">
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/lib/jquery/jquery-2.1.min.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/lib/jquery/noconflict.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/pisc/downloadplusaws/lazyload.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/varien/weee.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/flexslider/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/flexslider/picturefill.min.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/flexslider/jquery.easing-nojquery.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/flexslider/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/default/js/scripts.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/default/js/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/default/js/enterprise/wishlist.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/base/default/webcooking/js/all.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/base/default/webcooking/gua/js/ec.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/mandala/js/header.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/mandala/js/st.defaultvalue.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/mandala/js/quick-look-add-to-cart.js"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/default/css/styles-ie.css?assetv=1.0.7" media="all" />
+<link rel="stylesheet" type="text/css" href="http://www.soundstrue.com/store/skin/frontend/st/default/css/styles-ie.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.soundstrue.com/store/js/lib/ds-sleight.js?assetv=1.0.7"></script>
-<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/default/js/iehover-fix.js?assetv=1.0.7"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.soundstrue.com/store/skin/frontend/st/default/js/iehover-fix.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -70,42 +73,29 @@ Mage.Cookies.domain   = '.www.soundstrue.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<!-- BEGIN GOOGLE ANALYTICS CODEs -->
-<script type="text/javascript">
-//<![CDATA[
-    var _gaq = _gaq || [];
-    
-_gaq.push(['_setAccount', 'UA-5276897-2']);
 
-_gaq.push(['_trackPageview']);
-    
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-
-//]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
+    <script type="text/javascript">
+      (function () {
+        var uvTemp = {"version":"1.2.2","page":{"type":"content","breadcrumb":[]},"user":{"has_transacted":false,"customer_group":0,"returning":false,"language":"en_US"}};
+        window.universal_variable = $H(window.universal_variable || {}).merge(uvTemp).toObject();
+      })();
+    </script>
+    <script type="text/javascript" src="//d3c3cq33003psk.cloudfront.net/opentag-128173-1827025.js" async="" defer=""></script>
 
 <style type="text/css">
 
 	.flexslider-sthomepage .sw-flexslider-direction-nav .sw-flexslider-prev:before, .flexslider-sthomepage .sw-flexslider-direction-nav .sw-flexslider-next:before { color: #666666; }
-	.flexslider-sthomepage .sw-flexslider-control-paging li a { background-color: ; }
-	.flexslider-sthomepage .loader-gutter {
-		background-color: #222222;
-		opacity: 0.8;
-	}
+	.flexslider-sthomepage .sw-flexslider-control-paging li a { background-color: #ffffff; }
+	.flexslider-sthomepage .loader-gutter { background-color: #222222; }
 	.flexslider-sthomepage .loader { background-color: #eeeeee; }
 	.flexslider-sthomepage .slides .slider-title {
-		background-color: rgba(0, 0, 0, 0.6);
-		color: ;
+		background-color: #222222;
+		color: #ffffff;
 	}
 
 	.overlay-nav {
 		left: 0;
-		background-color: rgba(204, 204, 204, 1);
+		background-color: #CCCCCC;
 	}
 	.overlay-nav .overlay-element h3, .overlay-nav .overlay-element .overlay-arrow:before { color: #FFFFFF; }
 	.overlay-nav .overlay-element:hover, .overlay-nav .sw-flexslider-active { background-color: #666666; }
@@ -114,13 +104,10 @@ _gaq.push(['_trackPageview']);
 
 	.flexslider-summer2014 .sw-flexslider-direction-nav .sw-flexslider-prev:before, .flexslider-summer2014 .sw-flexslider-direction-nav .sw-flexslider-next:before { color: #666666; }
 	.flexslider-summer2014 .sw-flexslider-control-paging li a { background-color: ; }
-	.flexslider-summer2014 .loader-gutter {
-		background-color: #222222;
-		opacity: 0.8;
-	}
+	.flexslider-summer2014 .loader-gutter { background-color: #222222; }
 	.flexslider-summer2014 .loader { background-color: #eeeeee; }
 	.flexslider-summer2014 .slides .slider-title {
-		background-color: rgba(0, 0, 0, 0.6);
+		background-color: ;
 		color: ;
 	}
 
@@ -129,13 +116,10 @@ _gaq.push(['_trackPageview']);
 
 	.flexslider-tamistop40 .sw-flexslider-direction-nav .sw-flexslider-prev:before, .flexslider-tamistop40 .sw-flexslider-direction-nav .sw-flexslider-next:before { color: #666666; }
 	.flexslider-tamistop40 .sw-flexslider-control-paging li a { background-color: ; }
-	.flexslider-tamistop40 .loader-gutter {
-		background-color: #222222;
-		opacity: 0.8;
-	}
+	.flexslider-tamistop40 .loader-gutter { background-color: #222222; }
 	.flexslider-tamistop40 .loader { background-color: #eeeeee; }
 	.flexslider-tamistop40 .slides .slider-title {
-		background-color: rgba(0, 0, 0, 0.6);
+		background-color: ;
 		color: ;
 	}
 
@@ -144,13 +128,10 @@ _gaq.push(['_trackPageview']);
 
 	.flexslider-emergingwomen2014 .sw-flexslider-direction-nav .sw-flexslider-prev:before, .flexslider-emergingwomen2014 .sw-flexslider-direction-nav .sw-flexslider-next:before { color: #666666; }
 	.flexslider-emergingwomen2014 .sw-flexslider-control-paging li a { background-color: ; }
-	.flexslider-emergingwomen2014 .loader-gutter {
-		background-color: #222222;
-		opacity: 0.8;
-	}
+	.flexslider-emergingwomen2014 .loader-gutter { background-color: #222222; }
 	.flexslider-emergingwomen2014 .loader { background-color: #eeeeee; }
 	.flexslider-emergingwomen2014 .slides .slider-title {
-		background-color: rgba(0, 0, 0, 0.6);
+		background-color: ;
 		color: ;
 	}
 
@@ -159,13 +140,10 @@ _gaq.push(['_trackPageview']);
 
 	.flexslider-veteransday .sw-flexslider-direction-nav .sw-flexslider-prev:before, .flexslider-veteransday .sw-flexslider-direction-nav .sw-flexslider-next:before { color: #666666; }
 	.flexslider-veteransday .sw-flexslider-control-paging li a { background-color: ; }
-	.flexslider-veteransday .loader-gutter {
-		background-color: #222222;
-		opacity: 0.8;
-	}
+	.flexslider-veteransday .loader-gutter { background-color: #222222; }
 	.flexslider-veteransday .loader { background-color: #eeeeee; }
 	.flexslider-veteransday .slides .slider-title {
-		background-color: rgba(0, 0, 0, 0.6);
+		background-color: ;
 		color: ;
 	}
 
@@ -174,13 +152,10 @@ _gaq.push(['_trackPageview']);
 
 	.flexslider-programstobuildrelationships .sw-flexslider-direction-nav .sw-flexslider-prev:before, .flexslider-programstobuildrelationships .sw-flexslider-direction-nav .sw-flexslider-next:before { color: #666666; }
 	.flexslider-programstobuildrelationships .sw-flexslider-control-paging li a { background-color: ; }
-	.flexslider-programstobuildrelationships .loader-gutter {
-		background-color: #222222;
-		opacity: 0.8;
-	}
+	.flexslider-programstobuildrelationships .loader-gutter { background-color: #222222; }
 	.flexslider-programstobuildrelationships .loader { background-color: #eeeeee; }
 	.flexslider-programstobuildrelationships .slides .slider-title {
-		background-color: rgba(0, 0, 0, 0.6);
+		background-color: ;
 		color: ;
 	}
 
@@ -189,13 +164,10 @@ _gaq.push(['_trackPageview']);
 
 	.flexslider-osnovemberwarehousesale .sw-flexslider-direction-nav .sw-flexslider-prev:before, .flexslider-osnovemberwarehousesale .sw-flexslider-direction-nav .sw-flexslider-next:before { color: #666666; }
 	.flexslider-osnovemberwarehousesale .sw-flexslider-control-paging li a { background-color: ; }
-	.flexslider-osnovemberwarehousesale .loader-gutter {
-		background-color: #222222;
-		opacity: 0.8;
-	}
+	.flexslider-osnovemberwarehousesale .loader-gutter { background-color: #222222; }
 	.flexslider-osnovemberwarehousesale .loader { background-color: #eeeeee; }
 	.flexslider-osnovemberwarehousesale .slides .slider-title {
-		background-color: rgba(0, 0, 0, 0.6);
+		background-color: ;
 		color: ;
 	}
 
@@ -204,13 +176,10 @@ _gaq.push(['_trackPageview']);
 
 	.flexslider-osnovembernewsitesale .sw-flexslider-direction-nav .sw-flexslider-prev:before, .flexslider-osnovembernewsitesale .sw-flexslider-direction-nav .sw-flexslider-next:before { color: #666666; }
 	.flexslider-osnovembernewsitesale .sw-flexslider-control-paging li a { background-color: ; }
-	.flexslider-osnovembernewsitesale .loader-gutter {
-		background-color: #222222;
-		opacity: 0.8;
-	}
+	.flexslider-osnovembernewsitesale .loader-gutter { background-color: #222222; }
 	.flexslider-osnovembernewsitesale .loader { background-color: #eeeeee; }
 	.flexslider-osnovembernewsitesale .slides .slider-title {
-		background-color: rgba(0, 0, 0, 0.6);
+		background-color: ;
 		color: ;
 	}
 
@@ -218,15 +187,24 @@ _gaq.push(['_trackPageview']);
 
 
 	.flexslider-wakingup_2015_presenters .sw-flexslider-direction-nav .sw-flexslider-prev:before, .flexslider-wakingup_2015_presenters .sw-flexslider-direction-nav .sw-flexslider-next:before { color: #666666; }
-	.flexslider-wakingup_2015_presenters .sw-flexslider-control-paging li a { background-color: ; }
-	.flexslider-wakingup_2015_presenters .loader-gutter {
-		background-color: #222222;
-		opacity: 0.8;
-	}
+	.flexslider-wakingup_2015_presenters .sw-flexslider-control-paging li a { background-color: #ffffff; }
+	.flexslider-wakingup_2015_presenters .loader-gutter { background-color: #222222; }
 	.flexslider-wakingup_2015_presenters .loader { background-color: #eeeeee; }
 	.flexslider-wakingup_2015_presenters .slides .slider-title {
-		background-color: rgba(0, 0, 0, 0.6);
-		color: ;
+		background-color: #222222;
+		color: #ffffff;
+	}
+
+
+
+
+	.flexslider-wakingup_2015b_presenters .sw-flexslider-direction-nav .sw-flexslider-prev:before, .flexslider-wakingup_2015b_presenters .sw-flexslider-direction-nav .sw-flexslider-next:before { color: #666666; }
+	.flexslider-wakingup_2015b_presenters .sw-flexslider-control-paging li a { background-color: #ffffff; }
+	.flexslider-wakingup_2015b_presenters .loader-gutter { background-color: #222222; }
+	.flexslider-wakingup_2015b_presenters .loader { background-color: #eeeeee; }
+	.flexslider-wakingup_2015b_presenters .slides .slider-title {
+		background-color: #222222;
+		color: #ffffff;
 	}
 
 
@@ -234,12 +212,47 @@ _gaq.push(['_trackPageview']);
 </style>
                         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
                     <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700" rel="stylesheet" type="text/css">
-                        <script type="text/javascript" src="//player.soundstrue.com/jwplayer/jwplayer.js"></script><script type="text/javascript" src="/store/skin/frontend/st/mandala/js/stplayer.js"></script><script type="text/javascript" src="//player.soundstrue.com/js/gaEventTracking.js"></script>
+                        <script name="omp-source" src="//jwpsrv.com/library/qO+6zFnFEeKcjCIACp8kUw.js"></script><script type="text/javascript" src="/store/skin/frontend/st/mandala/js/stplayer.js"></script>
                     <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
         //]]></script></head>
 <body class=" cms-page-view cms-privacy-policy">
 
+
+<script>
+    var wcGuaTrackerName = '';
+    var wcGuaGlobalTrackerName = 'allstores.';
+    var wcGuaGlobalTrackerEnabled = '0';
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5276897-2', 'auto', []);
+ga('require', 'ec');
+ga('set', '&cu', 'USD');
+
+
+ga(function(tracker) {
+  if(wcGuaTrackerName) {
+    var tracker = ga.getByName(wcGuaTrackerName.replace('.',''));      
+  }
+  var clientId = tracker.get('clientId');
+  new Ajax.Request('http://www.soundstrue.com/store/googleuniversalanalytics/gua/updatesession/', {
+      parameters: {clientid: clientId}
+  });
+});
+
+
+</script>
+<script>
+
+    
+
+    
+ga('send', 'pageview');
+    
+</script>
 <div class="wrapper">
     <div class="inner-wrapper">
             <noscript>
@@ -278,10 +291,10 @@ _gaq.push(['_trackPageview']);
             </div>
             
             <div class="branding">
-                                <h1 class="logo"><strong>Sounds True: Many Voices, One Journey</strong><a href="http://www.soundstrue.com/store/" title="Sounds True: Many Voices, One Journey" class="logo"><img src="//soundstrue-ha.s3.amazonaws.com/mandala/images/src/logo.png" alt="Sounds True: Many Voices, One Journey"></a></h1>
+                                <h1 class="logo"><strong>Sounds True: Many Voices, One Journey</strong><a href="http://www.soundstrue.com/store/" title="Sounds True: Many Voices, One Journey" class="logo"><img src="//d1qsxla1p9s5sy.cloudfront.net/mandala/images/src/logo.png" alt="Sounds True: Many Voices, One Journey"></a></h1>
                                             </div>
             
-            <div class="special-message"><a href="http://www.soundstrue.com/store/email/signup"><span class="st-break">GET 2 FREE GIFTS</span></a></div>
+            <div class="special-message"><a href="http://www.soundstrue.com/store/email/signup">&nbsp;<span class="st-break">2 FREE GIFTS</span></a></div>
             
         </div>
         <div class="header-row-bottom">
@@ -290,7 +303,7 @@ _gaq.push(['_trackPageview']);
     <div class="menu-button"><span>Shop by Category</span></div>
     <div class="st-nav-wrapper">
         <ul id="nav">
-            <li class="level0 nav-1 first level-top"><a href="http://www.soundstrue.com/store/spiritual-journey.html" class="level-top"><span>Spiritual Journey</span></a></li><li class="level0 nav-2 level-top"><a href="http://www.soundstrue.com/store/health-healing.html" class="level-top"><span>Health &amp; Healing</span></a></li><li class="level0 nav-3 level-top"><a href="http://www.soundstrue.com/store/relationships.html" class="level-top"><span>Relationships</span></a></li><li class="level0 nav-4 level-top"><a href="http://www.soundstrue.com/store/meditation.html" class="level-top"><span>Meditation</span></a></li><li class="level0 nav-5 level-top"><a href="http://www.soundstrue.com/store/music.html" class="level-top"><span>Music</span></a></li><li class="level0 nav-6 level-top"><a href="http://www.soundstrue.com/store/books.html" class="level-top"><span>Books</span></a></li><li class="level0 nav-7 active level-top"><a href="http://www.soundstrue.com/store/audio.html" class="level-top"><span>Audio</span></a></li><li class="level0 nav-8 level-top"><a href="http://www.soundstrue.com/store/video.html" class="level-top"><span>Video</span></a></li><li class="level0 nav-9 level-top"><a href="http://www.soundstrue.com/store/online-courses.html" class="level-top"><span>Online Courses</span></a></li><li class="level0 nav-10 level-top"><a href="http://www.soundstrue.com/store/events.html" class="level-top"><span>Events</span></a></li><li class="level0 nav-11 last level-top"><a href="http://www.soundstrue.com/store/ce-credits.html" class="level-top"><span>CE Credits</span></a></li>        </ul>
+            <li class="level0 nav-1 first level-top"><a href="http://www.soundstrue.com/store/spiritual-journey.html" class="level-top"><span>Spiritual Journey</span></a></li><li class="level0 nav-2 level-top"><a href="http://www.soundstrue.com/store/health-healing.html" class="level-top"><span>Health &amp; Healing</span></a></li><li class="level0 nav-3 level-top"><a href="http://www.soundstrue.com/store/relationships.html" class="level-top"><span>Relationships</span></a></li><li class="level0 nav-4 level-top"><a href="http://www.soundstrue.com/store/meditation.html" class="level-top"><span>Meditation</span></a></li><li class="level0 nav-5 level-top"><a href="http://www.soundstrue.com/store/music.html" class="level-top"><span>Music</span></a></li><li class="level0 nav-6 level-top"><a href="http://www.soundstrue.com/store/books.html" class="level-top"><span>Books</span></a></li><li class="level0 nav-7 level-top"><a href="http://www.soundstrue.com/store/audio.html" class="level-top"><span>Audio</span></a></li><li class="level0 nav-8 level-top"><a href="http://www.soundstrue.com/store/video.html" class="level-top"><span>Video</span></a></li><li class="level0 nav-9 level-top"><a href="http://www.soundstrue.com/store/online-courses.html" class="level-top"><span>Online Courses</span></a></li><li class="level0 nav-10 level-top"><a href="http://www.soundstrue.com/store/events.html" class="level-top"><span>Events</span></a></li><li class="level0 nav-11 last level-top"><a href="http://www.soundstrue.com/store/ce-credits.html" class="level-top"><span>CE Credits</span></a></li>        </ul>
     </div>
 </div>
                 <form id="search_mini_form" action="http://www.soundstrue.com/store/catalogsearch/result/" method="get">
@@ -410,100 +423,41 @@ if (location.search.indexOf('q=') != -1) {
             <div class="main col1-layout">
                 <div class="col-main">
                     <div class="page-content">
-                         
+                        
 
- 
-
- 
 
     <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
-<div class="std"><h3>Information about our Organization and Website</h3>
-<p>Modern information and communication technologies play a fundamental role in the activities of an organization like Sounds True, Inc.</p>
-<p>Our principal activity is publishing. Our privacy policy covers Sounds True, Inc., and its website:</p>
-<p><label><span>Organization Name:&nbsp;</span>Sounds True, Inc.</label> <label><span>Country:</span>USA</label> <label><span>Controller:</span>Information Systems Dept.</label> <label><span>Website(s):</span>www.soundstrue.com</label></p>
-<h3>&nbsp;</h3>
-<h3>Providing Visitors with Anonymous Access</h3>
-<p>You can access our website home page and browse our site without disclosing your personal data.</p>
-<h3>&nbsp;</h3>
-<h3>Services and Links</h3>
-<p>Our website does not enable our visitors to communicate with other visitors or to post information to be accessed by others.</p>
-<h3>&nbsp;</h3>
-<h3>Automatic Collection of Information</h3>
-<p>We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals.</p>
-<h3>&nbsp;</h3>
-<h3>Data Collection and Purpose Specification</h3>
-<p>We collect the personal data that you may volunteer while using our services.</p>
-<p>We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.</p>
-<p>If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes:</p>
-<ul style="list-style-type: circle;">
-<li>By indicating in a box at the point on the site where personal data is collected.</li>
+<div class="std"><p>It is our continued honor to serve you as a Sounds True customer. We fully recognize our responsibility to protect your customer information and its confidential nature, and we have done our best to ensure the privacy and security of your transactions with us. Your credit card number and other personal data will be treated with the highest standards of safety, security features and confidentiality.</p>
+<h2>Your Privacy Online</h2>
+<p>We are committed to ensuring your privacy when you shop online with Sounds True, Inc.. In an effort to improve the online shopping experience at SoundsTrue.com, we do gather information about our visitors' shopping behavior, but we maintain sole ownership over this information and do not share, sell or rent our findings to third parties, except in the few cases described below.</p>
+<p>Sounds True, Inc. contracts with Google Analytics for data collection, storage, and reporting services that help us improve your shopping experience. These reporting services use cookies (explained in detail below) to collect information about your usage of SoundsTrue.com. Google Analytics is contractually restricted from using your information in any way, other than to help us make our site more useful for you.</p>
+<p>"Cookies" are small bits of information that your Web browser stores on your computer's hard drive. In order to purchase products from the Sounds True, Inc. site, your Web browser must be enabled to accept cookies. We also use cookies to give credit to those sites that direct traffic to SoundsTrue.com for marketing purposes. Sounds True, Inc. does not use cookies to store or collect personal information such as full names, addresses, or payment information.</p>
+<h2>Placing an Order Online</h2>
+<p>When you place an order online at SoundsTrue.com, we request the information we need to complete your order. This information includes your full name, billing address, shipping address, telephone number, e-mail address, and credit card number.</p>
+<p>The information you provide will be used to process your order and improve your shopping experience. Once you have placed an order with us, we will verify with your credit card company that your credit card is valid and send you an email message that confirms your order was successfully received. We will also send you an e-mail once your order has been shipped, or if it has been placed on backorder.</p>
+<p>
+We will periodically send to your street or e-mail address product news and updates that you may find of interest. We NEVER share or sell our customers' e-mail addresses or telephone numbers for marketing purposes, but we do sometimes share other customer information with trusted third parties.</p>
+<h2>How to Opt Out</h2>
+<p>If you do not wish to receive promotional postal and/or e-mail updates from Sounds True, Inc., or if you prefer that we not share your postal address with other merchants please do one of the following:</p>
+<ul>
+<li>Phone: Please call Toll-Free 1-800-333-9185 to speak to a Customer Service associate between 8AM to 5 PM, Mountain time.</li>
+<li>
+Email: Send us an email: <a onclick="jQuery('#zenbox_tab').trigger('click');">support@soundstrue.com</a>
+</li>
+<li>Write: Send us a letter to 413 S. Arthur Ave, Louisville, CO 80027</li>
 </ul>
-<h3>&nbsp;</h3>
-<h3>Children's Privacy</h3>
-<p>We do not knowingly collect personal data from children.</p>
-<p>We will provide information about our personal data practices in relation to children wherever we knowingly collect personal data from children on our website.</p>
-<h3>&nbsp;</h3>
-<h3>Disclosure and Visitor Choice</h3>
-<p>Where we disclose your personal data for the same purposes as those indicated in the list below, we provide you with the means to opt-out of disclosure:</p>
-<ul style="list-style-type: circle;">
-<li>By indicating in a box at the point on the site where personal data is collected</li>
-<li>By sending postal mail to this address: Sounds True, 413 S. Arthur Ave, Louisville, CO 80027</li>
-<li>By calling Customer Service at 800-333-9185</li>
-</ul>
-<p>&nbsp;</p>
-<p>Where we disclose your personal data for purposes which are different from those indicated in the list mentioned above, we offer you the opportunity to consent to disclosure:</p>
-<ul style="list-style-type: circle;">
-<li>By indicating in a box at the point on the site where personal data is collected</li>
-</ul>
-<h3>&nbsp;</h3>
-<h3>Confidentiality / Security</h3>
-<p>We provide a secure transmission method to send us the following types of personal data:</p>
-<ul style="list-style-type: circle;">
-<li>Identifiers (such as credit card details, Web site password)</li>
-<li>Name, address, phone number, and email are all transmitted securely</li>
-</ul>
-<p>&nbsp;</p>
-<p>We have implemented security policies, rules, and technical measures to protect the personal data that we have under our control from:</p>
-<ul style="list-style-type: circle;">
-<li>Unauthorized access</li>
-<li>Improper use or disclosure</li>
-<li>Unauthorized modification</li>
-<li>Unlawful destruction or accidental loss</li>
-</ul>
-<p>&nbsp;</p>
-<p>All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.</p>
-<p>We ensure that your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation.</p>
-<h3>&nbsp;</h3>
-<h3>Access to the Personal Data We May Hold About You</h3>
-<p>You can ask us by:</p>
-<ul style="list-style-type: circle;">
-<li>Sending an email (customerrelations@soundstrue.com)</li>
-<li>Calling Customer Service at 800-333-9185</li>
-</ul>
-<p>&nbsp;</p>
-<p>Upon request, which you can indicate by:</p>
-<ul style="list-style-type: circle;">
-<li>Sending an email at <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=customerrelations@soundstrue.com" target="_blank">customerrelations@soundstrue.com</a></li>
-<li>Calling Customer Service at 800-333-9185</li>
-</ul>
-<p>&nbsp;</p>
-<p>We will provide you with a readable copy of the personal data which we keep about you, within a week — although we may require proof of your identity beforehand. We will provide the information without any charge.</p>
-<p>We allow you to challenge the data that we hold about you and, where appropriate, you may have the data:</p>
-<ul style="list-style-type: circle;">
-<li>Erased</li>
-<li>Rectified or amended</li>
-<li>Completed</li>
-</ul>
-<p>&nbsp;</p>
-<p>We reserve the right to refuse providing our visitors with a copy of their personal data, but will give reasons for our refusal.</p>
-<p>We do, however, allow you to challenge our decision to refuse providing you with a copy of your personal data.</p>
-<h3>&nbsp;</h3>
-<h3>Privacy Support</h3>
-<p>If you have an inquiry or concern about our privacy policy, please contact:</p>
-<p>Sounds True Customer Relations<br> 413 S. Arthur Ave., Louisville, CO 80027<br> 800-333-9185<br> <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=customerrelations@soundstrue.com" target="_blank">customerrelations@soundstrue.com</a></p></div> 
-
+<p>Please include your full name, street address, and e-mail address with your correspondence, and tell us how we should restrict use of your information.</p>
+<h2>Gift Messages</h2>
+<p>When you request a gift message with your order, we do not use the information contained in the gift greetings that you fill out, except to execute the message as requested.</p>
+<h2>Sharing with A Friend</h2>
+<p>When you e-mail a message to a friend from SoundsTrue.com using the “share” functionality, your e-mail address and your friends are both required. This ensures that your friend will know that we have sent the e-mail message at your request. E-mails obtained for the "Tell a Friend" service are only used for this purpose, and then discarded.</p>
+<h2>E-mail Updates</h2>
+<p>When you ask to receive Sounds True, Inc. e-mail updates, we request your name, address and e-mail address in order to complete your request. We will respect your privacy and use your information in the same way described above under "Placing an Order Online."</p>
+<h2>Terms of Use</h2>
+<p>If you use or order from our Site, you agree to our Terms of Use. The information contained in this Site, including but not limited to these Terms of Use, is subject to change without notice. Your use of the Site following any such change constitutes your agreement to follow and be bound by the rules as changed. For full details, please see <a href="http://www.soundstrue.com/store/terms-and-conditions">Terms of Use</a></p>
+<p><em>Last updated August 8, 2015</em></p></div>
                     </div>
                 </div>
             </div>
@@ -513,16 +467,15 @@ if (location.search.indexOf('q=') != -1) {
  <div class="footer-container">
     <div class="footer-wrapper">
         <div class="footer">
-             
-
-<div id="footer-banner"><a title="Sounds True Radio" onclick="window.open(this.href, '_blank', 'width=667,height=520,location=no,menubar=no,resizable=no,scrollbars=no,toolbar=no'); return false;" href="/radio?component=adbannerEcomLeftHomepage"><img src="//soundstrue-ha.s3.amazonaws.com/images/banners/st-radio-footer-banner.png" alt=""></a></div><div id="footer-email">
+            
+<div id="footer-banner"><a title="Sounds True Radio" onclick="window.open(this.href, '_blank', 'width=667,height=520,location=no,menubar=no,resizable=no,scrollbars=no,toolbar=no'); return false;" href="/radio?component=adbannerEcomLeftHomepage"><img src="//d1qsxla1p9s5sy.cloudfront.net/images/banners/st-radio-footer-banner.png" alt=""></a></div><div id="footer-email">
 <div class="container">
 <h2><span>Two FREE Gifts from Sounds True</span> <span>with email signup</span></h2>
 <div class="form"><div class="st-email-signup-form">
-    <form class="" action="https://www.soundstrue.com/store/newsletter/subscriber/new/" method="post" id="st-emailsignup-2902">
+    <form class="" action="https://www.soundstrue.com/store/newsletter/subscriber/new/" method="post" id="st-emailsignup-3463">
         <div class="block-content">
                                     <div class="input-box email-email">
-               <input type="text" name="email" id="email2902" title="Email Sign Up" class="input-text required-entry validate-email">
+               <input type="text" name="email" id="email3463" title="Email Sign Up" class="input-text required-entry validate-email">
             </div>
             <div class="actions">
                 <button type="submit" title="Sign Up" class="button"><span><span>Sign Up</span></span></button>
@@ -532,35 +485,76 @@ if (location.search.indexOf('q=') != -1) {
     </form>
     <script type="text/javascript">
     //<![CDATA[
-        var stForm2902 = new VarienForm('st-emailsignup-2902');
+        var stForm3463 = new VarienForm('st-emailsignup-3463');
 		var st_bronto_id = "aeouuplzdhotsqkmcbxvpwnhdjifbmi";
-		var form2902 = document.getElementById('st-emailsignup-2902');
+		var form3463 = document.getElementById('st-emailsignup-3463');
         var defaultFirstName = 'first name';
         var defaultLastName = 'last name';
+		
+		//NOTE USING Fields 3 through 9 here//	
+		var stpoa = '';
+		if (STqueryString.poa != undefined) {
+			stpoa = '&field3=poa,set,' + STqueryString.poa;
+		}
+		
+		var stlvmk = '';
+		if (STqueryString.lvmk != undefined) {
+			stlvmk = '&field4=lvmk,set,' + STqueryString.lvmk;
+		}
+		
+		var stpdph = '';
+		if (STqueryString.pdph != undefined) {
+			stpdph = '&field5=pdph,set,' + STqueryString.pdph;
+		}
+		
+		var stwgha = '';
+		if (STqueryString.wgha != undefined) {
+			stwgha = '&field6=wgha,set,' + STqueryString.wgha;
+		}
+		
+		var styrcm = '';
+		if (STqueryString.yrcm != undefined) {
+			styrcm = '&field7=yrcm,set,' + STqueryString.yrcm;
+		}
+		
+		var stmbrl = '';
+		if (STqueryString.mbrl != undefined) {
+			stmbrl = '&field8=mbrl,set,' + STqueryString.mbrl;
+		}
+		
+		var stnvcrl = '';
+		if (STqueryString.nvcrl != undefined) {
+			stnvcrl = '&field9=nvcrl,set,' + STqueryString.nvcrl;
+		}
+		
+		var partner = '';
+		if (STqueryString.partner != undefined) {
+			partner = '&field10=partner,set,' + STqueryString.partner;
+		}
         
-		form2902.addEventListener("submit", function(evt) {
+		form3463.addEventListener("submit", function(evt) {
 			evt.preventDefault();
-			if (stForm2902.validator && stForm2902.validator.validate()) {
+			if (stForm3463.validator && stForm3463.validator.validate()) {
 
-				var email2902 = document.getElementById('email2902').value;
+				var email3463 = document.getElementById('email3463').value;
 				
-				var fname2902 = '';
-				if (jQuery('#fname2902').length){
-					fname2902 = document.getElementById('fname2902').value;
-                    if (fname2902 == defaultFirstName) {
-						fname2902 = "";
+				var fname3463 = '';
+				if (jQuery('#fname3463').length){
+					fname3463 = document.getElementById('fname3463').value;
+                    if (fname3463 == defaultFirstName) {
+						fname3463 = "";
                     }else{
-						fname2902 = "&field1=firstname,set," + encodeURIComponent(fname2902)
+						fname3463 = "&field1=firstname,set," + encodeURIComponent(fname3463)
 					}
 				}
 				
-				var lname2902 = '';
-				if (jQuery('#lname2902').length){
-					lname2902 = document.getElementById('lname2902').value;
-                    if (lname2902 == defaultLastName) {
-                        lname2902 = '';
+				var lname3463 = '';
+				if (jQuery('#lname3463').length){
+					lname3463 = document.getElementById('lname3463').value;
+                    if (lname3463 == defaultLastName) {
+                        lname3463 = '';
                     }else{
-						lname2902 = "&field2=lastname,set," + encodeURIComponent(lname2902)
+						lname3463 = "&field2=lastname,set," + encodeURIComponent(lname3463)
 					}
 				}
 				
@@ -573,19 +567,28 @@ if (location.search.indexOf('q=') != -1) {
 					"&id=" + st_bronto_id +
 					"&fn=Public_DirectAddForm" +
 					"&list1=0bbe03ec00000000000000000000000332f8" +
-					"&email=" + encodeURIComponent(email2902) +
-					fname2902 + 
-					lname2902				;
+					"&email=" + encodeURIComponent(email3463) +
+					fname3463 + 
+					lname3463 +
+					stpoa +
+					stlvmk +
+					stpdph +
+					stwgha +
+					styrcm +
+					stmbrl +
+					stnvcrl +
+					partner
+				;
 			}
 		});
         
         jQuery(document).ready(function() {
-            stDefaultValue.stBind( '#email2902', 'email address' );
-            if (jQuery('#fname2902').length){
-                stDefaultValue.stBind( '#fname2902', defaultFirstName );
+            stDefaultValue.stBind( '#email3463', 'email address' );
+            if (jQuery('#fname3463').length){
+                stDefaultValue.stBind( '#fname3463', defaultFirstName );
             }
-            if (jQuery('#lname2902').length){
-                stDefaultValue.stBind( '#lname2902', defaultLastName );
+            if (jQuery('#lname3463').length){
+                stDefaultValue.stBind( '#lname3463', defaultLastName );
             }
         });
 //]]>
@@ -596,7 +599,7 @@ if (location.search.indexOf('q=') != -1) {
 <p>You will also receive exclusive discounts and free content from Sounds True.</p>
 <p>You can unsubscribe at any time, and we will never share your email address.</p>
 </div>
-<img class="gifts" title="Two Free Gifts" src="//soundstrue-ha.s3.amazonaws.com/images/st-email-free-gifts.png" alt="Two Free Gifts"></div>
+<img class="gifts" title="Two Free Gifts" src="//d1qsxla1p9s5sy.cloudfront.net/images/st-email-free-gifts.png" alt="Two Free Gifts"></div>
 </div>
 <script type="text/javascript">// <![CDATA[
 jQuery(document).ready(function() {
@@ -608,8 +611,7 @@ jQuery(document).ready(function() {
 <li class="ss_twitter"><a href="http://www.twitter.com/soundstrue" target="_blank"><span>Twitter</span></a></li>
 <!--<li class="ss_youtube"><a href="https://www.youtube.com/user/SoundsTrueVideos"  target="_blank"><span>YouTube</span></a></li>-->
 </ul>
-</div> 
-
+</div>
 <div id="footer-links">
 <ul>
 <li><a href="http://www.soundstrue.com/store/contact-us">Contact Us</a></li>
@@ -627,13 +629,12 @@ jQuery(document).ready(function() {
 <li><a href="http://sales.soundstrue.com" target="_blank">Retailer Support</a></li>
 </ul>
 </div>
- 
-
- 
 
         </div>
         <address class="copyright">© 2015 Sounds True Inc. All rights reserved. Please see our <a href="/store/terms-and-conditions">Terms and Conditions</a>.</address>
-        <!-- Server: earth www.soundstrue.com -->
+        <!-- ST Platform: 1.13.2
+ -->
+        <!-- ST Server: triton www.soundstrue.com -->
     </div>
     <div class="go-top" href="#"></div>
     
@@ -651,29 +652,20 @@ jQuery(document).ready(function() {
 		    url:         "https://soundstrue.zendesk.com",
 		    tabID:       "feedback",
 		    tabText:     "Support",
-            tabImageURL: location.protocol + "//soundstrue-ha.s3.amazonaws.com/mandala/images/src/tab_support.png",
+            tabImageURL: location.protocol + "//d1qsxla1p9s5sy.cloudfront.net/mandala/images/src/tab_support.png",
 		    tabColor:    "#387d32",
 		    tabPosition: "Right"
 	      });
 	    }
     </script>
-    
-    <!-- Google Tag Manager -->
-    <noscript>
-	    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W3GB82"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe>
-    </noscript>
-    <script>
-	    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W3GB82');
-    </script>
-    <!-- End Google Tag Manager -->
-	
 </div>
  
 <!-- ESI END DUMMY COMMENT [] -->
                         
 
 
+
+<script bronto-popup-id="cabfd802-2314-4722-b51d-7fe5e5425dfc" src="https://cdn.bronto.com/popup/delivery.js"></script>
 
 <script type="text/javascript">
 if (document.addEventListener) {
@@ -734,9 +726,13 @@ if (document.addEventListener) {
     }
     //]]>
 </script>
+<div id="wc-overlay" class="wc-overlay"><div class="wc-overlay-loading"></div></div><script>
+    
+ga('send', 'event', { 'eventCategory': 'impression', 'eventAction': 'sent', 'useBeacon': true, 'nonInteraction': 1});
+</script>
         </div>
     </div>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e77608b7e0","applicationID":"5183679","transactionName":"YQdSNhQHDEIFAhZcW1hNcxcVEg1cSwIPRhtGA1cHSRALVBM=","queueTime":0,"applicationTime":399,"atts":"TUBRQFwdH0w=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e77608b7e0","applicationID":"5183679","transactionName":"YQdSNhQHDEIFAhZcW1hNcxcVEg1cSwIPRhtGA1cHSRALVBM=","queueTime":0,"applicationTime":463,"atts":"TUBRQFwdH0w=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
 
 </body></html>
