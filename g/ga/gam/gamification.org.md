@@ -1,140 +1,104 @@
-> *The following text is extracted and transformed from the gamification.org privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419104914id_/http%3A//badgeville.com/wiki/Gamification_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamification.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906050151id_/https%3A//badgeville.com/privacy-policy) for the most accurate reproduction.*
 
-# Gamification Wiki:Privacy policy
+# Privacy Policy - Badgeville
 
-##  General Scope  
+**Contents:**  
+_Badgeville Overview  
+The Information We Collect Through the Badgeville Site  
+Disclosure of Personal Information  
+The Information We Collect Through our Customer Sites  
+Data Retention  
+Data Security  
+Other Information  
+Children’s Privacy  
+Safe Harbor  
+Updates to this Notice  
+Your Options Regarding Personal Information  
+Your California Privacy Rights  
+Contacting Us_
 
+Badgeville respects the privacy of visitors to its websites, as a result, we have developed this website privacy notice (“Privacy Notice” or “Notice”). This Privacy Notice applies only to the operation of websites that directly link to this Notice when you click on “Privacy Policy” in the website footer.
 
-This policy covers personally identifiable information collected or stored by Gamification.org on its servers in relation to the Gamification.org and their communities. Consistent with its Data Retention Policy, Gamification.org collects and retains the least amount of personally identifiable information needed to fulfill operational needs.
+This Notice is intended to inform you about Badgeville, Inc.’s (“Badgeville”, “We”, “Us”, or “Our”) collection, use, and disclosure of information that we receive through the third party websites of our customers (the “Badgeville Network”), through the business applications offered on Badgeville.com, through our website, [www.badgeville.com](https://www.badgeville.com/), and for our related Community and Support Pages (collectively the “Badgeville Site”). 
 
-##  The public and collaborative nature of Gamification.org  
+#### Overview of our Services
 
+Built on modern web standards, Badgeville’s Behavior Platform integrates with virtually any site or app, and powers engagement programs for our customers in order to improve customer advocacy and loyalty and enhanced employee performance across all their digital touchpoints. 
 
-Gamification.org is collaboratively developed by its users using the MediaWiki software. Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user. By doing this, editors create a published document, and a public record of every word added, subtracted, or changed. This is a public act, and editors are identified publicly as the author of such changes. All contributions made to a Project, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions.
+#### The Information We Collect Through the Badgeville Site
 
-##  Activities on Gamification.org  
+We collect Personal Information (which is information that directly or indirectly identifies a particular individual or allows us to contact them) and non-personally identifiable information or NPI (which is information about an individual or about categories or groups of individuals that does not directly or indirectly, and cannot reasonably be used to, identify or contact that individual). You will have the opportunity to opt-in to disclosure to third parties. Customers will have the choice to receive any and all correspondence mailings from Badgeville.
 
+#### Personal Information
 
-In general, this Policy only applies to private information stored or held by Gamification.org which is not publicly available.
+Through the Badgeville Site, Badgeville will collect information that can identify you, such as your name, address, telephone number, e-mail address, and other similar information when it is voluntarily submitted to us. We will use Personal Information to respond to requests you may make of us, and from time to time, we may refer to Personal Information to better understand your needs and how we can improve our websites, products, and services. We may also use Personal Information to contact you via email, postal mail, or phone call and provide you with general information about our products and services. We may also enhance or merge Personal Information with data obtained from third parties for the same purposes. 
 
-Interactions with Gamification.org not covered by this Policy include, but are not limited to, aspects of browsing and editing pages, use of the wiki "email user" function, subscribing and posting to Gamification.org hosted email lists. These interactions may reveal a contributor's IP address, and possibly other personal information, indiscriminately to the general public, or to specific groups of volunteers acting independently of the Foundation.
+#### Non-Personally Identifiable Information
 
-Users may also interact with one another outside of Gamification.org, via email, IRC or other chat, or independent websites, and should assess the risks involved, and their personal need for privacy, before using these methods of communication.
+We collect NPI through many sources, including information that you and third parties provide to us. We may also de-identify Personal Information (by removing certain data elements such as name, zip code, area code, age, gender, occupation and preferences) that we receive from you or from third parties so that it cannot be used as Personal Information.
 
-Gamification.org does not require editors to register with a project. Anyone can edit without logging in with a username, in which case they will be identified by network IP address. Users that do register are identified by their chosen username. Users select a password, which is confidential and used to verify the integrity of their account. Except insofar as it may be required by law, no person should disclose, or knowingly expose, either user passwords and/or cookies generated to identify a user. Once created, user accounts will not be removed. It may be possible for a username to be changed, depending on the policies of Gamification.org. Gamification.org does not guarantee that a username will be changed on request.
+Any NPI transferred by you in connection with your visit to the Badgeville Site may be included in databases owned and maintained by Badgeville or its agents. Badgeville retains all rights to these databases and the information contained in them.
 
-##  Purpose of the collection of private information  
+We may use cookies and other technologies to collect information on our website. If used, our cookies may give us access to information about your browsing patterns, which we may use to personalize your experience and to analyze general user traffic patterns. If and when applicable, the Badgeville Site uses the cookies to assist us with analyzing site traffic, help us determine the effectiveness of content on our site and to manage our advertising on other websites. You may be able to disable use of cookies through the options on your web browser, but please note that you may not be able to use all of the features on our websites if you disable use of cookies. The Badgeville Site includes social media features, such as the “Facebook” or “Twitter” buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy practices of the company providing them.
 
+#### Disclosure of Personal Information
 
-Gamification.org limits the collection of personally identifiable user data to purposes which serve the well-being of Gamification.org, including but not limited to the following:
+We may share Personal Information with agents, contractors or partners of Badgeville in connection with services that these individuals or entities perform for, or with, Badgeville. These agents, contractors or partners are restricted from using this data in any way other than to provide services for Badgeville, or services for the collaboration in which they and Badgeville are engaged (for example, some of our products are developed and marketed through joint agreements with other companies). We may share Personal Information with third-party service providers (e.g., email service providers, data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf. We may also share Personal Information with selected third parties so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. After the information is provided to such third parties, the subsequent use or disclosure of such information is subject to those third parties’ privacy policies and practices. We may also disclose the information we receive; if required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In addition, information in our possession or control, including aggregate Personal Information and NPI, may be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets.
 
-    To enhance the public accountability of Gamification.org.
+#### Information We Receive Through Customer Sites on the Badgeville Network
 
-Gamification.org recognizes that any system that is open enough to allow the greatest possible participation of the general public will also be vulnerable to certain kinds of abuse and counterproductive behavior. Gamification.org has established a number of mechanisms to prevent or remedy abusive activities. For example, when investigating abuse on a project, including the suspected use of malicious 'sockpuppets' (duplicate accounts), vandalism, harassment of other users, or disruptive behavior, the IP addresses of users (derived either from those logs or from records in the database) may be used to identify the source(s) of the abusive behavior. This information may be shared by users with administrative authority who are charged by their communities with protecting the Gamification.org.
+Badgeville Customers (“Customers”) deploy Badgeville services to visualize and track rank and rewards of their end users who are registered on the Customer’s website (the “Customer Site”). The end user information that our Customer decides to send Badgeville from the Customer Site (“Customer End User Information”) typically has an anonymized user name or encrypted email and whatever additional metadata the Customer decides to send. Badgeville attaches to the Customer End User Information the data that notes the end user has taken a certain behavior, as well as any associated reward, achievement, or other behavior mechanic that has been configured by Customer in their Badgeville deployment, and return it back to Customer so that the appropriate visualization or notification can be rendered. It is recommended that Customers do not keep the personally identifiable information of their end users in our system as the Badgeville system is not encrypted. Any Personal Information collected by the Customer Site is subject to that Customer’s privacy policies and practices. 
 
-    To provide site statistics. Gamification.org statistically samples raw log data from users' visits. These logs are used to produce the site statistics pages; the raw log data is not made public.
-    To solve technical problems. Log data may be examined by developers in the course of solving technical problems and in tracking down badly-behaved web spiders that overwhelm the site.
+Customer End User Information may be made available to our Customers in certain circumstances. For example; if an end user unlocks a certain achievement by asking questions or contributing to a forum on the Customer Site, such Customer End User Information may be shared with the Customer, and such information can be aggregated for Badgeville use of improving, fixing, changing the Badgeville Product.
 
-##  Details of data retention  
+#### Data Retention
 
+We retain the Customer End User Information and/or Personal Information as the account is active or as needed to provide our Services. We will retain and use your information as necessary to comply with our legal and contractual obligations, resolve disputes, and enforce our agreements. End User Information is retained on our servers in its original form for up to six months. Other information related to the Badgeville Platform, as in score, rank, badging or rewards of the End Users, might be retained for up to eighteen months before it is aggregated or deleted. If and when the Customer and Badgeville relationship ends, End User Information may be deleted after thirty (30) days, otherwise, said information will be anonymized and aggregated.
 
-###  General expectations  
+#### Data Security
 
+Badgeville has established a privacy program designed to help respect and protect your data privacy rights. We maintain administrative, technical and physical safeguards intended to protect against the loss, misuse, unauthorized access, alteration, or disclosure of Personal Information. Although we take such precautions seriously, it is impossible for us or others to guarantee the safety and security of Personal Information. Consequently, we cannot ensure or warrant the security of any information.
 
-####  IP and other technical information  
+#### Other Information
 
+Badgeville reviews the privacy commitments made throughout this notice and we evaluate our performance against them on an annual basis. Our website includes links to other websites whose privacy practices may differ from those of Badgeville. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any website you visit.
 
-    When a visitor requests or reads a page, or sends email to a Gamification.org server, no more information is collected than is typically collected by web sites. The Gamification.org may keep raw logs of such transactions, but these will not be published or used to track legitimate users.
+#### Children's Privacy
 
-    When a page is edited by a logged-in editor, the server confidentially stores related IP information for a limited period of time. This information is automatically deleted after a set period. For editors who do not log in, the IP address used is publicly and permanently credited as the author of the edit. It may be possible for a third party to identify the author from this IP address in conjunction with other information available. Logging in with a registered username allows for better preservation of privacy.
+The Badgeville Site is a general audience website, and it and its related sites, applications, services, and tools are not intended for children under the age of 13. We do not knowingly collect personal information via our websites, applications, services, or tools from users in this age group.
 
-####  Cookies  
+#### Safe Harbor
 
+Badgeville, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Badgeville has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Badgeville’s certification, please visit <http://www.export.gov/safeharbor/>.
 
-    The sites set a temporary session cookie on a visitor's computer whenever a Project page is visited. Readers who do not intend to log in or edit may deny this cookie; it will be deleted at the end of the browser's session. More cookies may be set when one logs in to maintain logged-in status. If one saves a user name or password in one's browser, that information will be saved for up to 30 days, and this information will be resent to the server on every visit to the same Project. Contributors using a public machine who do not wish to show their username to future users of the machine should clear these cookies after use.
+#### Updates to this Notice
 
-####  Page history  
+We may update this Notice from time to time. When we do, we will also revise the "last updated" date at the bottom of this page. If and when material changes are made, you will be notified in accordance with applicable law. We encourage you to review this Notice periodically to stay informed on our privacy practices.
 
+#### Your Options Regarding Personal Information
 
-    Edits or other contributions to a Project on its articles, user pages and talk pages are generally retained forever. Removing text from a project does not permanently delete it. Normally, in Gamification.org, anyone can look at a previous version of an article and see what was there. Even if an article is "deleted", a user entrusted with higher level of access may still see what was removed from public view. Information can be permanently deleted by individuals with access to Gamification.org servers, but aside from the rare circumstance when Gamification.org is required to delete editing-history material in response to a court order or equivalent legal process, there is no guarantee any permanent deletion will happen.
+You may elect to opt out of receipt of email from us by following the instructions provided in such communications or by contacting us as provided below. Even after opting out, you may still receive service oriented, non-promotional communications from us and promotional communications from franchisees or other third parties as a result of their own interactions or transactions with you. **[NOTE: This paragraph may not be applicable to Badgeville’s use of Personal Information]**
 
-####  User contribution  
+You may request that we correct, update or amend the Personal Information we hold about you. To update us regarding changes in your Personal Information, please contact us as described below. Please be aware that before we can make any such change, we will need to confirm and authenticate that you are the data subject making such request.. Should there be a denial of any such request, there will be an opportunity to appeal such denial or other unresolved customer inquiries, complaints, and disputes. Should there be a need for an independent recourse mechanism to investigate unresolved complaints, issues shall be finally settled by binding arbitration in San Francisco, California, using the English language in accordance with the Arbitration Rules and Procedures of the Judicial Arbitration and Mediation Services, Inc. (JAMS).
 
+In the event you wish to correct, update or amend Customer End User Information that was submitted through a Customer Site on the Badgeville Network, please refer to the contact information at the Customer Site.
 
-    User contributions are also aggregated and publicly available. User contributions are aggregated according to their registration and login status. Data on user contributions, such as the times at which users edited and the number of edits they have made, are publicly available via user contributions lists, and in aggregated forms published by other users.
+#### Your California Privacy Rights
 
-#####  Reading Gamification.org  
+If you are a California resident, you may ask us to refrain from sharing Personal Information with third parties for their own direct marketing purposes. Please indicate your preference by contacting us as described below. Please also note it may take us thirty (30) days to fully process your request.
 
+#### Contacting Us
 
-    
+If you wish to contact us regarding Personal Information or this Notice, you may reach us as follows:
 
-    No more information on users and other visitors reading pages is collected than is typically collected in server logs by web sites. Aside from the above raw log data collected for general purposes, page visits do not expose a visitor's identity publicly. Sampled raw log data may include the IP address of any user, but it is not reproduced publicly.
+Badgeville, Inc.  
+805 Veterans Blvd. Suite #307  
+Redwood City, CA 94063  
+Attn: Legal Department  
+[privacy@badgeville.com](mailto:privacy@badgeville.com)
 
-#####  Editing Gamification.org  
+1-855-BADGEVILLE
 
+Version 2.3
 
-    
-
-    Edits to pages are identified with the username or network IP address of the editor, and editing history is aggregated by author in a contribution list. Such information will be available permanently on Gamification.org.
-    Logged in registered users:
-    Logged in users do not expose their IP address to the public except in cases of abuse, including vandalism of a wiki page by the user or by another user with the same IP address. A user's IP address is stored on the wiki servers for a period of time, during which it can be seen by server administrators and by users who have been granted CheckUser access.
-    IP address information, and its connection to any usernames that share it, may be released under certain circumstances (see below).
-    Editors using a company mail server from home or telecommuting over a DSL or cable Internet connection, are likely to be easy to identify by their IP address; in which case it may be easy to cross-identify all contributions to various Gamification.org made by that IP. Using a username is a better way of preserving privacy in this situation.
-    Unlogged-in registered users and unregistered users:
-    Editors who have not logged in may be identified by network IP address. Depending on one's connection, this IP address may be traceable to a large Internet service provider or more specifically to a school, place of business or home. It may be possible to use this information in combination with other information, including editing style and preferences, to identify an author completely.
-
-#####  Discussions  
-
-
-    
-
-    On wiki discussion pages:
-    Any editable page can theoretically be the location of a discussion. In general, discussions on Gamification.org occur on user talk pages (associated with particular users), on article talk pages (associated with particular articles) or in pages specially designated to function as forums. Privacy expectations apply to discussion pages in the same way as they do elsewhere.
-    Via email:
-    Users are not required to list an email address when registering. Users who provide a valid email address can enable other logged-in users to send email to them through the wiki. When receiving an email from other users through this system, one's email address is not revealed to them. When choosing to send an email to other users, one's email is displayed as the sender.
-    The email address put into one's user preferences may be used by Gamification.org for communication. Users whose accounts do not have a valid email address will not be able to reset their password if it is lost. In such a situation, however, users may be able to contact one of the Gamification.org server administrators to enter a new e-mail address. A user can remove the account's email address from his preferences at any time to prevent it from being used. Private correspondence between users may be saved at those users' discretion and is not subject to Gamification.org policy.
-    On mailing lists:
-    The email addresses used to subscribe and post to Project mailing lists are exposed to other subscribers. The list archives of most such mailing lists are public, and searches of public archives may be performed on the Web. Subscribers' addresses may also be quoted in other users' messages. These email addresses and any messages sent to a mailing list may be archived and may remain available to the public permanently.
-    On IRC:
-    IRC channels are not officially part of the Gamification.org and are not operated on Gamification.org controlled servers. The IP address of users who chat over such a service may be exposed to other participants. IRC users' privacy on each channel can only be protected according to the policies of the respective service and channel. Different channels have different policies on whether logs may be published.
-
-##  Access to and release of personally identifiable information  
-
-
-Access:
-
-Gamification.org is primarily run by volunteer contributors. Some dedicated users are chosen by the community to be given privileged access. For example, for an English Gamification.org user, user access levels to Gamification.org are determined by the user's presence in various 'user groups'. User group rights and group members are reachable in every project from the Special:ListGroupRights page.
-
-Other users who may have access to private identifiable information include, but are not limited to, users elected by project communities to serve as stewards or Arbitrators, Gamification.org employees, trustees, appointees, and contractors and agents employed by Gamification.org and developers and others with high levels of server access.
-
-Access to and publication of this information is governed by the Access to nonpublic data policy, as well as specific policies covering some of the functions in question. Sharing information with other privileged users is not considered "distribution."
-
-Release: Policy on Release of Data
-
-It is the policy of Gamification.org that personally identifiable data collected in the server logs, or through records in the database via the CheckUser feature, or through other non-publicly-available methods, may be released by Gamification.org volunteers or staff, in any of the following situations:
-
-  1. In response to a valid subpoena or other compulsory request from law enforcement,
-  2. With permission of the affected user,
-  3. When necessary for investigation of abuse complaints,
-  4. Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or resolve technical issues,
-  5. Where the user has been vandalizing articles or persistently behaving in a disruptive way, data may be released to a service provider, carrier, or other third-party entity to assist in the targeting of IP blocks, or to assist in the formulation of a complaint to relevant Internet Service Providers,
-  6. Where it is reasonably necessary to protect the rights, property or safety of the Gamification.org, its users or the public.
-
-
-
-Except as described above, Gamification.org policy does not permit distribution of personally identifiable information under any circumstances.
-
-Third-party access and notifying registered users when receiving legal process:
-
-As a general principle, the access to, and retention of, personally identifiable data in all Gamification.org should be minimal and should be used only internally to serve the well-being of the Gamification.org. Occasionally, however, Gamification.org may receive a subpoena or other compulsory request from a law-enforcement agency or a court or equivalent government body that requests the disclosure of information about a registered user, and may be compelled by law to comply with the request. In the event of such a legally compulsory request, Gamification.org will attempt to notify the affected user within three business days after the arrival of such subpoena by sending a notice by email to the email address (if any) that the affected user has listed in his or her user preferences.
-
-Gamification.org cannot advise a user receiving such a notification regarding the law or an appropriate response to a subpoena. Gamification.org does note, however, that such users may have the legal right to resist or limit that information in court by filing a motion to quash the subpoena. Users who wish to oppose a subpoena or other compulsory request should seek legal advice concerning applicable rights and procedures that may be available.
-
-If Gamification.org receives a court-filed motion to quash or otherwise limit the subpoena as a result of action by a user or their lawyer, Gamification.org will not disclose the requested information until Gamification.org receives an order from the court to do so.
-
-Registered users are not required to provide an email address. However, when an affected registered user does not provide an email address, Gamification.org will not be able to notify the affected user in private email messages when it receives requests from law enforcement to disclose personally identifiable information about the user.
-
-##  Disclaimer  
-
-
-Gamification.org believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by Gamification.org, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, Gamification.org cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, Gamification.org can make no guarantee against unauthorized access to information provided in the course of participating in Foundation Gamification.org or related communities.
+Last Updated: February 3, 2015
