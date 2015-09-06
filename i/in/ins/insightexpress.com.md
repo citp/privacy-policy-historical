@@ -1,220 +1,108 @@
-> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401000713id_/http%3A//www.insightexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906042706id_/https%3A//www.millwardbrowndigital.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | InsightExpress
+# Privacy Policy : Millward Brown Digital
 
-The effective date for this Privacy Policy is March 13, 2015.  
+**Last updated: March 18, 2015**
 
-**Scope**
+This Web site is provided by Dynamic Logic LLC d/b/a Millward Brown Digital (“Millward Brown Digital”). The purpose of this privacy policy is to set out the principles governing our use of information that we collect from this Web site. 
 
-This Privacy Policy addresses our use and disclosure of information we collect from Respondents to our surveys and/or contests. Respondents are users who respond to surveys and/or participate in sweepstakes that may be offered to you.
+By using or accessing the Web site pages located at www.millwardbrowndigital.com (hereafter the “Site”), you signify your agreement to be bound by this privacy policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE. We ask you to read this privacy policy carefully.
 
-**Privacy Overview Respondents**
+For your convenience, this Site contains links to a number of other Web sites, including those operated by companies in the same corporate family as Millward Brown Digital. This privacy policy applies solely to information collected through this Site. It does not apply to any other web sites, products or services provided by Millward Brown Digital, its affiliated companies or any other party.
 
-InsightExpress (http://www.InsightExpress.com) believes in and respects your privacy and the sanctity of information that may be provided. Further, as members of the ARF and CASRO, the North America associations of market research professionals, and the Mobile Marketing Association, the global association of the mobile marketing industry, we believe the use of information should be outlined for you as we have done so below. Additionally, InsightExpress is in compliance with HIPPA and COPPA privacy guidelines. InsightExpress is committed to respecting your privacy.
+**Personally Identifiable Information Collection**  
+We do not collect personally identifiable information about you unless you voluntarily submit that information to us, such as by sending us a message through the “Contact Us” feature of the Site or by applying for employment with Millward Brown Digital through the “Careers” feature of the Site. The personally identifiable information which you may provide to us could include your name, address, telephone number and e-mail address.
 
-The information we collect is typically used in aggregate form to help companies understand marketplace needs as well as to create and deliver better products and services. We do not sell or rent any personally identifiable information.
+If you apply for employment with Millward Brown Digital, such as through our recruiting efforts on this Site, we may collect additional information from you about your background and history to the extent helpful in evaluating your application and/or as required by law.
 
-**Personal Information about Respondents**
+**Non-Personally Identifiable Collection**  
+When you visit the Site, we may automatically collect certain non-personally identifiable information about you, such as the type of browser or operating system you use or the web site from which you linked to us. We may also aggregate personally identifiable information collected from our users (such as the number of users having particular characteristics) and use that information to create non-personally identifiable information. Non-personally identifiable information may be collected through the use of cookies and similar technologies (as described below). If we have anonymized your personally identifiable information, such as by removing your name or other information that identifies you as an individual, then such information shall be considered non- personally identifiable information.
 
-In the course of responding to our surveys or sweepstakes, you may have the opportunity to voluntarily submit personally identifiable information (e.g., e-mail address or mobile phone number). InsightExpress maintains this information in a database, and may use this information to invite you to participate in future surveys, subject to agreement with the authoring and the respondent-providing client and your explicit opt-in to receive e-mail or mobile communications. Your decision to participate in future surveys is completely at your discretion. That is, you have no obligation to complete this or any future survey. By participating in a survey you understand and consent to this policy.
+**Information Use**  
+We will use this information only as described below. We do not otherwise sell your personally identifiable information to third parties.
 
-**Notice to Children and Young People**
+  * For those users who provide a name and email address, we may communicate with you in response to your inquiries, to provide the services you request, to provide you information about Millward Brown Digital’s products and services and to add you to our newsletter and marketing lists.
+  * If you are inquiring about employment with Millward Brown Digital, we may use and disclose your information in consideration of your application. See the Privacy Policy in the Careers section when applying for a job for more details about data use and processing of job applicants data.
+  * We may provide your personally identifiable information to third party companies that provide services to help us with our business activities such as offering customer service or marketing resources. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.
+  * We may send you service-related announcements.
+  * We may also disclose your personally identifiable information as required by law, such as to comply with a subpoena, or similar legal process or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+  * Millward Brown Digital is a Kantar company. By submitting personally identifiable information to Millward Brown Digital, as described above, you consent to us sharing your personally identifiable information within Millward Brown Digital and other Kantar companies. For more information about Kantar companies please see the “Who We Are” section on [www.aboutkantar.com](http://www.aboutkantar.com/).
+  * Your information may be transferred if Millward Brown Digital is involved in a merger, acquisition, or sale of all or a portion of its assets.
 
-InsightExpress does not knowingly collect personally identifiable information from anyone under the age of 13. 
 
-**Notice regarding health related topics/surveys**
 
-Because facts about a person's demographic, health, health interest, and health care are private and sensitive, we know that you may have concerns about sharing information with us. When you enter health information on our survey forms, we encrypt the transmission of that information using secure socket layer technology (SSL). This Privacy statement is designed to answer your important questions about privacy.
+We reserve the right to disclose non-personally identifiable information for any reason.
 
-**Sweepstakes**
+**Links to Other Sites**  
+If you visit a third party website that is linked from this Site, you should read that site’s privacy policy before providing any personally identifiable information. We are not responsible for the practices of such third party websites, and a link to such website is not an endorsement by Millward Brown Digital of such website’s privacy practices, products or services.
 
-Periodically we request information (typically e-mail address, mobile phone number or your mailing address if needed to mail a prize to you) from users to participate in sweepstakes. Sweepstakes participation is completely voluntary and users may choose whether or not to disclose this information. Your e-mail, mobile phone number or mailing address may be shared with the survey sponsor to notify winner(s) and award prizes. Users' personally identifiable information is not shared with third parties unless we give users notice and choice. Although we may use an intermediary to conduct sweepstakes, they may not employ users' personally identifiable information for any secondary purpose. 
+**Reporting & Tracking Utilities**
 
-**Use of Cookies**
+_Log Files_  
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information is related to the use of this Site and services and includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-To invite you to participate in surveys that may be of great interest to you and to enable you to use our service, we use "cookies" and, in some cases, local shared objects ("Flash Cookies"). "Cookies" are small pieces of information that are stored by your browser on your computer, and are commonly used by most Web sites to provide you with an enhanced experience. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Our cookies do not contain any personally identifying information, but they enable us to understand the surveys you may have taken. Most Web browsers automatically accept cookies, but you can usually change your browser to inform you or prevent the use of cookies. If you do not accept cookies, you may not be able, depending upon the individual survey, to complete more than the first set of questions in a survey. Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies [**click here**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). ****
+We use this information to analyze trends, to administer the Site, to track users’ movements around the Site and to gather demographic information about our user base as a whole.
 
-If you would like to opt-out from receiving future web intercept survey invitations from InsightExpress, please click below:
+_Cookies_  
+We may collect certain non-personally identifiable information in part through the use of a web technology called a “cookie.” A cookie is a small text file that is saved to your computer using your web browser, which allows websites to recognize you and store preferences and other information if you return to the website using the same computer and browser.
 
-[**http://ad.insightexpressai.com/adserver/optout.aspx?redir=http://www.opinion-central.com/optedout.asp**](http://ad.insightexpressai.com/adserver/optout.aspx?redir=http://www.opinion-central.com/optedout.asp)
+We use cookies for website analytics purposes to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site.
 
-When you opt out, we will place an opt-out cookie on your computer that will block us from sending you further surveys or sweepstakes invitations. Please note that if you remove cookies from your computer, you could receive another invitation since our technology will have no way of knowing if you requested to opt-out from these invitations.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You control how your internet browser processes and saves cookies by following directions provided in your browser’s “help” file.
 
-**Log Files**
+You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Site. If you delete your cookies, change browsers or use a different device, our cookie (or an opt-out cookie) may no longer work and you will have to re-input (or opt-out) again.
 
-Like most Web sites, we log the use of our service. This includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks in order to administer the site, track aggregate movement, analyze trends, and gather broad demographic information for aggregate use. This information is not linked to personally identifiable information. 
+_Web Beacons_  
+Our third party analytics companies employ a software technology called Web Beacons. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used on this site to track the online movements of our site users. Web beacons are embedded invisibly on Web pages. Web beacons may set cookies or interact with cookies on user’s computers.
 
-**Disclosure of Information**
+We may use Web beacons in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see the “Opt-out” section below. We utilize certain third-party tracking services that deploy web beacons (and cookies) to track non-personally identifiable information about visitors to our Site in the aggregate to capture usage and volume statistics to improve our Site.
 
-When a Respondent supplies their personally identifiable information, such as an email address, during the course of completing a survey or sweepstakes it may be shared with a third party company who has been hired by us to provide services to help us with our business activities such as product fulfillment and sweepstakes management. These companies are authorized to use your personal information only as necessary to provide these services to us. Participation in these surveys or sweepstakes is completely voluntary and you therefore have a choice whether or not to disclose this information.
+**Social Media**  
+We use a number of social media tools to enhance visitor interaction on our site. If you already use these platforms their cookies may be set through our Site. Personally identifiable information which you voluntarily disclose online in a publicly accessible blog, chat room, social media platform or other open forum, may be viewed and used by others without any restrictions. We may associate your name and website with your comments on our blog, but we are unable to control uses of your personally identifiable information by other users who see your information, and by using such services you assume the risk that the personally identifiable information provided by you may be viewed and used by third parties for any number of purposes.
 
-**Confidentiality**
+**Opt-Out**  
+If you no longer wish to receive email communications from Millward Brown Digital as described above, you may opt-out by following the directions that are included in each email communication. You may also contact us at [admin@millwardbrowndigital.com](mailto:admin@millwardbrowndigital.com) for assistance.
 
-We are sensitive to the privacy and security of your personal information. However, we cannot guarantee absolute security as such information may be transmitted using the Internet, other public telecommunication networks, servers, hardware or software ("systems") that are not owned, operated, or controlled by us. 
+**Security**  
+We have put in place reasonable administrative, technical, and physical safeguards to protect against unauthorized access to the information we collect. However, no security measures are 100% impenetrable and we cannot guarantee against all potential security breaches. Moreover, the transmission of information over the Internet is not inherently secure, and we are not responsible for the transmission of information over networks that we do not control. Your use of our Site demonstrates your assumption of these risks.
 
-**Legal Disclaimer**
+**Data Retention**  
+We will retain the information described above for as long as the information has value as part of the services we offer, or as long as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, whichever is longer. If you wish to request that we no longer use your personally identifiable information to provide you services or information, please contact us at [admin@millwardbrowndigital.com](mailto:admin@millwardbrowndigital.com).
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order, or legal process served to us. 
+**Children Under 13 Year Old**  
+This Site is not intended or designed to attract children under the age of 13. We do not knowingly collect personally identifiable data from or about any person under the age of 13. If you are under 13 years old and wish to ask a question or use this site in any way which requires you to submit your personally identifiable information, please get your parent or guardian to do so on your behalf.
 
-**Communications**  
-Below are the instances when users may receive e-mail communications from our site. 
+**Site and Service Updates**  
+When necessary, we will send registered users site and service announcement updates. Registered users are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email.
 
-  * Survey Invitations
+**Correction/Updating Personally Identifiable Information**  
+If you are a registered user, you can access and update your contact information by logging into your account. You may also request deactivation of your Millward Brown Digital account or any of your personally identifiable information held by us by sending an email to [admin@millwardbrowndigital.com](mailto:admin@millwardbrowndigital.com). If you choose to deactivate your account, we will retain in our files some personally identifiable information you have requested to remove to prevent fraud, resolve disputes, troubleshoot problems, enforce our Terms & Conditions, respect your opt-out preferences, and comply with legal requirements as permitted by law.
 
+**Changes in this Privacy Policy**  
+If we are going to use your previously collected personally identifiable information in a manner materially different from that stated in our privacy policy at the time of collection, you will be notified via email if possible. You will have a choice as to whether or not we use your information in this different manner and instructions for how to make that choice will be included in the notification. We will not use personally identifiable information in a manner materially different from that stated in our privacy policy at the time of collection without notifying you.
 
+If we make a material change to this policy, we will post a prominent notice on this site for 30 calendar days prior to the implementation of the material change and describe how individuals may exercise any applicable choice. Following the implementation of the material change, we will record at the introduction of this policy when the policy was last revised.
 
-If a user wishes to participate in future surveys, we may request an e-mail address. Out of respect for our users' privacy, we also enable users to opt-out of future survey invitations by following the Opting-Out practices outlined below. 
+**Safe Harbor**  
+Dynamic Logic, LLC d/b/a Millward Brown Digital complies with the U.S.-E.U. and U.S.-Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union and Switzerland. To view the Millward Brown Digital certification on the Safe Harbor list or to learn more about the Safe Harbor programs principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, please visit <http://www.export.gov/safeharbor>.
 
-  * Service Announcements
+If you have questions or concerns regarding our compliance with the U.S. E.U. and U.S. Swiss Safe Harbor framework, you should first contact us at [admin@millwardbrowndigital.com](mailto:admin@millwardbrowndigital.com). If you do not receive acknowledgement of your inquiry in 30 days, or your inquiry has not been satisfactorily addressed, you have the option to contact American Arbitration Association (AAA), our third party Safe Harbor dispute resolution provider, register and file a claim at <https://apps.adr.org/webfile/>.
 
+**United States of America**  
+Our web servers are maintained in the United States of America. By using the Site, you freely and specifically give us your consent to export your personally identifiable information to the USA and to store and use it in the USA as specified in this privacy policy. 
 
+Third party web service and data hosting providers may be utilized in some instances and data storage locations may be outside of the USA. These companies are contractually authorized to use your personally identifiable information only as necessary to provide these services to us and use reasonable administrative, technical, and physical safeguards to protect against unauthorized access.
 
-On rare occasions it may be necessary to issue a service related announcement (for instance, if our service is undergoing maintenance). These communications are not promotional in nature and users may not opt-out of these communications (although users can deactivate their account). 
+You understand that our data is subject to lawful requests by the courts or law enforcement authorities in the United States.
 
-**Customer Service Communications**
+**Contact Us**  
+If you have questions related to privacy, please contact us at [admin@millwardbrowndigital.com](mailto:admin@millwardbrowndigital.com) or write to us at:
 
-At a user's request, we may communicate via e-mail, chat, or telephone to answer service-related questions. E-mails and/or chats transcripts may be maintained by InsightExpress to provide assistance in resolving any inquiries. 
+Privacy Office  
+Millward Brown Digital  
+11 Madison Avenue, 12th floor  
+New York, NY 10010  
+USA
 
-**Opt-Out Policy**
+  
 
-If you would like to opt-out from receiving future web intercept survey invitations from InsightExpress, please click below:
-
-[**http://ad.insightexpressai.com/adserver/optout.aspx?redir=http://www.opinion-central.com/optedout.asp**](http://ad.insightexpressai.com/adserver/optout.aspx?redir=http://www.opinion-central.com/optedout.asp)
-
-When you opt out, we will place an opt-out cookie on your computer. Please note that if you remove cookies from your computer, you could receive another invitation since our technology will have no way of knowing if an invitation has been previously offered.
-
-Users who no longer wish to receive our promotional communications or survey invitations may opt-out by replying to any received e-mail with "remove" or "unsubscribe" in the subject line, for mobile phone communications, reply with stop to the message or by contacting us as indicated below. 
-
-**Maintaining, Updating, Deleting, or Deactivating Personal Information**  
-If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by e-mailing Customer Support at support@insightexpress.com or through one of the contact methods listed below. InsightExpress will respond to any access request within 30 days of submitting the request.
-
-**Data Retention**
-
-Users who respond to our surveys or contests will be assigned a unique user ID. The information associated with this unique ID, such as the last time you viewed or completed a survey, will be stored for a period of one year. In the event you elect to submit your email address upon completion of a survey or in connection with a sweepstakes, it will be stored and used to continue providing you surveys or sweepstakes which may be of interest to you until we are told otherwise. If you wish to request that we no longer use your information to provide you services, contact us at privacy@insightexpress.com.  Your email address will be retained on our ?Do Not Contact? list to ensure that we comply with your request.
-
-Aggregated data, which does not give us the ability to contact or identify an individual, will be stored for analytical purposes for a legally allowable period.
-
-We will retain and use your information as necessary to comply with our legal obligations and resolve disputes.
-
-**Links**
-
-This Web site and surveys may contain links to other sites. Please be aware that we, InsightExpress, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
-
-**Notification of Privacy Policy Changes**
-
-If we decide to change our privacy policy, we will post notification of those changes to this privacy statement on the homepage so users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
-If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection, we will notify users via e-mail prior to the changes taking effect. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/ deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also e-mail users who have opted to receive communications notifying them of the changes in our privacy practices. 
-
-**Contact Information**
-
-If users have any questions or suggestions regarding our privacy policy, site security, or other item, please contact us at: 
-
-InsightExpress  
-333 Ludlow Street  
-Stamford, CT 06902  
-Phone: 1.203.359.4174  
-Fax: 1.203.359.4718  
-E-Mail: support@insightexpress.com 
-
-If users have questions or concerns regarding this statement, they should first contact our Privacy Department by e-mailing us at privacy@insightexpress.com or calling us at 1.203.406.3202.
-
-* * *
-
-## Visitor/Client Privacy Policy
-
-The effective date for this Privacy Policy is March 13, 2014. 
-
-**Scope**
-
-This Privacy Policy addresses our use and disclosure of information we collect from visitors to our Web site as well as from our Clients on our product platform.
-
-Visitors are users who visit the website [**http://www.InsightExpress.com**](http://www.insightexpress.com/). Clients use our product platform in order to create surveys.
-
-**Privacy Overview for our Clients**
-
-**Information About Data that may be Provided by our Clients**
-
-InsightExpress collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. We work with our Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected 
-
-InsightExpress has no direct relationship with the individuals whose personal data was provided by it Clients. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the InsightExpress' Client (the data controller). If the Client requests InsightExpress to remove the data, we will respond to their request within 30 business days.
-
-InsightExpress will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. InsightExpress will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**Information Collected about our Clients**
-
-If you, as a client of ours, create surveys using our service, we request information from users within your organization who purchase our services via an order form. A user must provide contact information (such as name, e-mail address, and shipping address, etc.) and financial information (such as credit card number, expiration date, etc.). This information is only used for billing purposes and to fill users' requests. If we have trouble processing an order, this information may be used to contact the user. 
-
-**Use of Cookies**
-
-"Cookies" are small pieces of information that are stored by your browser on your computer, and are commonly used by most Web sites to provide you with an enhanced experience. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. Our cookies do not capture any personally identifying information. 
-
-Most Web browsers automatically accept cookies, but you can usually change your browser to inform you or prevent the use of cookies. If you do not accept cookies, you may still use our site, but your ability to use some areas of our site, such as sweepstakes or surveys, will be limited. 
-
-**Log Files**
-
-Like most Web sites, we log the use of our service. This includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks in order to administer the site, track aggregate movement, analyze trends, and gather broad demographic information for aggregate use. This information is not linked to personally identifiable information. 
-
-**Service Providers**
-
-We may provide your personal information to companies that provide services to help us with our business activities such as a credit card processor or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
-
-**Confidentiality**
-
-We are sensitive to the privacy and security of your personal information. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). However, we cannot guarantee absolute security as such information may be transmitted using the Internet, other public telecommunication networks, servers, hardware or software ("systems") that are not owned, operated, or controlled by us. 
-
-**Legal Disclaimer**
-
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order, or legal process served to us. 
-
-**Communications**  
-Below are the instances when users may receive e-mail communications from our site. 
-
-Newsletters  
-If a user wishes to subscribe to our newsletter, we request an e-mail address. Out of respect for our users' privacy, we enable subscribers to opt-out of these communications by following the Opting-Out practices 
-
-Service Announcements  
-On rare occasions it may be necessary to issue a service related announcement (for instance, if our service is undergoing maintenance). These communications are not promotional in nature and users may not opt-out of these communications (although users can deactivate their account). 
-
-**Customer Service Communications**
-
-At a user's request, we may communicate via e-mail, chat, or telephone to answer service-related questions. E-mails and/or chats transcripts may be maintained by InsightExpress to provide assistance in resolving any inquiries. 
-
-**Public Forums**
-
-Our Web site offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at privacy@insightexpress.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-**Opt-Out Policy**
-
-Users who no longer wish to receive our newsletter, promotional communications, or survey invitations may opt-out by replying to any received e-mail with "remove" or "unsubscribe" in the subject line, for mobile phone communications, reply with stop to the message or by contacting us as indicated below.
-
-**Maintaining, Updating, Deleting, or Deactivating Personal Information**
-
-If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by e-mailing Customer Support at support@insightexpress.com or by visiting https://www.insightexpress.com/ix/billinginfo.asp. We may also be reached using the contact information below. InsightExpress will respond to any access request provided within 30 days of submitting the request.
-
-**Data Retention**
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@insightexpress.com.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-**Links**
-
-This Web site may contain links to other sites. Please be aware that we, InsightExpress, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site which includes any co-branded InsightExpress Web sites. 
-
-**Notification of Privacy Policy Changes**
-
-If we decide to change our privacy policy, we will post notification of those changes to this privacy statement on the homepage so users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
-
-If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection, we will notify users via e-mail prior to the changes taking effect. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/ deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also e-mail users who have opted to receive communications notifying them of the changes in our privacy practices. 
-
-**Contact Information**
-
-If users have any questions or suggestions regarding our privacy policy, site security, or other item, please contact us at: 
-
-InsightExpress  
-333 Ludlow Street  
-Stamford, CT 06902  
-Phone: 1.203.359.4174  
-Fax: 1.203.359.4718  
-E-Mail: support@insightexpress.com 
-
-If users have questions or concerns regarding this statement, they should first contact our Privacy Department by e-mailing us at privacy@insightexpress.com or calling us at 1.203.406.3202.
