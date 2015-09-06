@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aseohosting.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610001532id_/http%3A//www.aseohosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aseohosting.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906075124id_/http%3A//www.aseohosting.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ASEOHosting
 
