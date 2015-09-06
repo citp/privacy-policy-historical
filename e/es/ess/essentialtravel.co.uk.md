@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essentialtravel.co.uk privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502112254id_/http%3A//www.essentialtravel.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essentialtravel.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906113438id_/http%3A//www.essentialtravel.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - How Essential Travel Handles Your Data
 
@@ -20,7 +20,7 @@ If we intend to transfer your information outside the EEA (European Economic Are
 
 We may use technology to analyse the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your computer. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-Read more about [our cookies and how to opt-out](http://www.essentialtravel.co.uk/cookies-information.asp) here.
+Read more about our cookies and how to opt-out here.
 
 ## Essential Travel Email Policy
 
