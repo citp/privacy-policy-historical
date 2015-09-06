@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivaliq.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317054611id_/https%3A//www.rivaliq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivaliq.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906213908id_/https%3A//www.rivaliq.com/privacy) for the most accurate reproduction.*
 
 # Competitor Analysis for Digital Marketers | Rival IQ
 
@@ -30,7 +30,7 @@ Even after you remove information from your profile or delete your account, copi
 
 We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of the Site and the Services. We also may include web beacons in promotional email messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer visitors to our Site to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
 
-When you visit the Site, we may assign your computer one or more cookies, to facilitate access to the Site and to personalize your online experience.  Through the use of a cookie, we also may automatically collect information about your online activity on the Site, such as the web pages you visit, the links you click, and the searches you conduct on the Site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies.  If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on the Site.
+When you visit the Site, we may assign your computer one or more cookies, to facilitate access to the Site and to personalize your online experience.  Through the use of a cookie, we also may automatically collect information about your online activity on the Site, such as the web pages you visit, the links you click, and the searches you conduct on the Site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies.  If you choose to decline cookies, please note that you may not be able to log in or use some of the interactive features offered on the Site.
 
  **Children**
 
