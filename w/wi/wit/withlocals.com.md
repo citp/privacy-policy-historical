@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the withlocals.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315020331id_/https%3A//www.withlocals.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withlocals.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906234715id_/https%3A//www.withlocals.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Withlocals
 
-**Privacy Policy Withlocals.com (last updated: November 10th, 2013)**
+**Privacy Policy Withlocals.com (last updated: July 25th, 2015)**
 
 Your privacy is important to us. That’s why we have created the following Privacy Policy which applies at all times when using our website and / or any of our services. Any new features and/or services that are added to our current service at any point in the future shall also be subject to this Privacy Policy. Please familiarize yourself with it. To make this Privacy Policy easier to read we have provided additional everyday language summaries as a guide. 
 
@@ -157,3 +157,53 @@ The fact that we link to a website or present a banner ad or other type of adver
 If you choose to visit any of these third party websites you are governed by their Privacy Policies and Practices. We encourage you to familiarize yourself with these.
 
 Withlocals Platform uses Google Maps/Earth mapping services, including Google Maps API(s) to pinpoint the general location of events that are offered as part of our Service. By using our Site you are agreeing to the use of Google Maps/Earth, which is subject to Google’s own terms of use and Privacy Policy. 
+
+## 14\. Use of Cookies 
+
+#### We make use of cookies to improve your user experience.
+
+**How we use Cookies.**
+
+Cookies are very small text files that are stored on your computer when you visit some websites. We use cookies to help identify your device so we can tailor your user experience. Cookies will not be stored longer than one year. You can disable any cookies already stored on your device, but these may stop our website from functioning properly. 
+
+The following is strictly necessary in the operation of our website.
+
+#### Technical Cookies
+
+**This Platform Will:**
+
+  * Remember that you are logged in and that your session is secure. You need to be logged in to complete an order.
+
+
+
+The following are not Strictly Necessary, but are required to provide you with the best user experience and also to tell us which pages you find most interesting (anonymously).
+
+#### Functional Cookies
+
+**This Platform Will:**
+
+  * Cookies to make you use the platform more easy, like cookies remembering your selected currency or your search filters.
+
+
+
+#### Analytics/performance Cookies
+
+**This Platform Will:**
+
+  * Measure the use of our website
+  * Test the website UI
+  * Use conversion pixels
+  * Offer Live Chat Support
+  * Track the errors on the pages you visit
+  * Monitor performance of the website
+
+
+
+#### Targeting Cookies
+
+**This Platform Will:**
+
+  * Serve you personalized ads based on your website behavior
+  * Allow you to share pages with social networks
+
+
