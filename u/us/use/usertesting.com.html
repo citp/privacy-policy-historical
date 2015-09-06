@@ -1,18 +1,20 @@
-<!--The following is the downloaded HTML source of the usertesting.com privacy policy that was archived on 2015-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150629162509id_/http%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usertesting.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906071804id_/https%3A//www.usertesting.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/435a0483-9fc6-4c4b-a644-cd603679e80d.js"></script><script async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5T6C9C"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"32c9c701b3","applicationID":"348677","transactionName":"cgpcEUBeCVtXQRpVEF4LRkpBWQpA","queueTime":0,"applicationTime":11,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcAUlFACwcIUlZV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/435a0483-9fc6-4c4b-a644-cd603679e80d.js"></script><script async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5T6C9C"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"32c9c701b3","applicationID":"348677","transactionName":"cgpcEUBeCVtXQRpVEF4LRkpBWQpA","queueTime":0,"applicationTime":7,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcAUlFACwcIUlZV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
     <title>UserTesting Privacy Policy</title>
     <meta name="author" content="UserTesting">
 
     
-    <meta name="description" content="Client Privacy Policy This privacy policy explains how UserTesting handles your information and data. We value your trust, so we’ve strived to …">
+    <meta name="description" content="UserTesting Privacy Policy About UserTesting UserTesting, Inc. provides a platform and service (“UserTesting Services”) that allows UserTesting …">
     
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
 
     <!-- iOS bookmark icons -->
     <link rel="apple-touch-icon-precomposed" sizes="120x120" href="//assets.usertesting.com/assets/ut_marketing/global/UserTesting-touch-icon-120.png">
@@ -23,15 +25,14 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="/atom.xml" rel="alternate" title="UserTesting" type="application/atom+xml">
 
-    <link rel="stylesheet" href="//assets.usertesting.com/assets/ut_marketing/application-a984062d01490e2a98b58e6d7a57ebc5.css">
+    <!-- Animate.CSS -->
+    
+
+    <link rel="stylesheet" href="//assets.usertesting.com/assets/ut_marketing/application-99178da5c7681899f375fd17f3658633.css">
 
     <!-- TypeKit -->
     <script src="//use.typekit.net/dcf2myu.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
-
-
-    <!--SumoMe SmartBar-->
-    <script src="//load.sumome.com/" data-sumo-site-id="fae2da07bf8b5f53fa16caa7cffb3fb510b19b3740dfb509360e4d6161caa632" async="async"></script>
 
     <!--Optimizely-->
     <script src="//cdn.optimizely.com/js/506390562.js"></script>
@@ -50,7 +51,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5T6C9C');</script>
 <!-- End Google Tag Manager -->
 
-    <div id="header_unit" class="header-unit">
+
+    
+        <div id="header_unit" class="header-unit">
     <nav role="navigation">
   <a class="skip" href="#primary_nav">Skip to Navigation</a>
   <a class="skip" href="#main">Skip to Page Content</a>
@@ -106,6 +109,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <path fill="#FFFFFF" d="M402.1,98.6c0-9.9,8.1-14.9,15.3-14.9c8.1,0,14.9,3.2,14.9,12.6h0.5c5.9-8.6,11.7-12.6,21.2-12.6
         c7.2,0,14.9,5.4,14.9,16.2c0,9.9-9,10.4-18,14.9c-9,4.1-18,8.1-18,20.3v46.4c0,9.9-6.3,16.7-14.9,16.7c-9,0-14.9-6.8-14.9-16.7
         V98.6H402.1z"></path>
+
+    <g class="testing">
       <path fill="#206FA5" d="M563.8,76.1h-23c-9.9,0-14.4-7.2-14.4-14.4s5.4-14.4,14.4-14.4h77c9,0,14.4,7.2,14.4,14.4
         s-4.1,14.4-14.4,14.4h-23V181c0,10.4-6.8,16.2-15.8,16.2s-15.8-5.9-15.8-16.2V76.1H563.8z"></path>
       <path fill="#206FA5" d="M644.4,150.4c2.3,14.9,14.4,21.6,28.4,21.6c15.3,0,26.1-12.2,34.2-12.2c6.3,0,12.2,6.3,12.2,13.1
@@ -130,6 +135,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          M1112.2,109.9c-15.8,0-23.4,16.2-23.4,30.2c0,16.2,7.7,30.6,23.4,30.6c16.2,0,23.9-14.9,23.9-29.7
         C1136.1,126.5,1128.9,109.9,1112.2,109.9z"></path>
     </g>
+    </g>
   </g>
   <text transform="matrix(1 0 0 1 1176 126)" fill="#206FA5">®</text>
 
@@ -141,20 +147,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             
 
+
 <nav class="primary-nav" id="primary_nav" role="navigation">
     <ul>
-        <li>
-            <a href="/product">Product<i class="fa fa-caret-down"></i></a>
 
-            
+        
+            <li class="">
+
+                
+                    <a href="/product">Product<i class="fa fa-caret-down"></i></a>
+
+                    
 
 <nav class="hover-nav" role="navigation">
     <ul class="product-nav">
 
-    
         
-
-            
 
                 <li class="product">
 
@@ -172,10 +180,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="product">
 
@@ -193,10 +198,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="product">
 
@@ -214,10 +216,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="product">
 
@@ -235,10 +234,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="product">
 
@@ -256,10 +252,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="product">
 
@@ -277,10 +270,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="product">
 
@@ -298,98 +288,143 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-    
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-    
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
     
 
     </ul>
 </nav>
 
-        </li>
 
-        <li>
-            <a class="single" href="/services">Services</a>
-        </li>
+                
+            </li>
+        
+            <li class="">
 
-        <li>
+                
+                    <a class="single" href="/services">Services</a>
 
-            <a href="/resources">Resources<i class="fa fa-caret-down"></i></a>
+                
+            </li>
+        
+            <li class="">
 
-            
+                
+                    <a href="/who">Who Uses Us<i class="fa fa-caret-down"></i></a>
+
+                    
+
+<nav class="hover-nav" role="navigation">
+    <ul class="customers-nav">
+
+        
+
+                <li class="customers">
+
+                    
+
+                        <a href="/who">
+                            Who Uses Us
+
+                            <span class="description">
+                                Over 34,000 customers use UserTesting
+                            </span>
+
+                        </a>
+
+                    
+                </li>
+
+    
+
+                <li class="customers">
+
+                    
+
+                        <a href="/who/case-studies">
+                            Case Studies
+
+                            <span class="description">
+                                Read success stories from UserTesting clients
+                            </span>
+
+                        </a>
+
+                    
+                </li>
+
+    
+
+                <li class="customers">
+
+                    
+
+                        <a href="/who/designers">
+                            Designers
+
+                            <span class="description">
+                                Validate design choices and create user-friendly products
+                            </span>
+
+                        </a>
+
+                    
+                </li>
+
+    
+
+                <li class="customers">
+
+                    
+
+                        <a href="/who/marketers">
+                            Marketers
+
+                            <span class="description">
+                                Increase conversions and find optimization opportunities
+                            </span>
+
+                        </a>
+
+                    
+                </li>
+
+    
+
+                <li class="customers">
+
+                    
+
+                        <a href="/who/agencies">
+                            Agencies
+
+                            <span class="description">
+                                Win new clients and develop better solutions
+                            </span>
+
+                        </a>
+
+                    
+                </li>
+
+    
+
+    </ul>
+</nav>
+
+
+                
+            </li>
+        
+            <li class="">
+
+                
+                    <a href="/resources">Resources<i class="fa fa-caret-down"></i></a>
+
+                    
 
 <nav class="hover-nav" role="navigation">
     <ul class="resources-nav">
 
-    
         
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-    
-        
-
-            
 
                 <li class="resources">
 
@@ -407,10 +442,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="resources">
 
@@ -428,10 +460,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="resources">
 
@@ -449,10 +478,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="resources">
 
@@ -470,10 +496,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="resources">
 
@@ -491,10 +514,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="resources">
 
@@ -511,94 +531,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-    
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
     
 
     </ul>
 </nav>
 
-        </li>
 
-        <li>
+                
+            </li>
+        
+            <li class="">
 
-            <a href="/about-us">About Us<i class="fa fa-caret-down"></i></a>
+                
+                    <a href="/about-us">About Us<i class="fa fa-caret-down"></i></a>
 
-            
+                    
 
 <nav class="hover-nav" role="navigation">
     <ul class="about-nav">
 
-    
         
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-    
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-
-            
-        
-    
-        
-
-            
 
                 <li class="about">
 
@@ -616,52 +568,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
-
-                <li class="about">
-
-                    
-
-                        <a href="/about-us/customers">
-                            Our Customers
-
-                            <span class="description">
-                                Over 30,000 companies use UserTesting
-                            </span>
-
-                        </a>
-
-                    
-                </li>
-
-            
-        
-
-            
-
-                <li class="about">
-
-                    
-
-                        <a href="/about-us/case-studies">
-                            Case Studies
-
-                            <span class="description">
-                                Read some success stories from our customers
-                            </span>
-
-                        </a>
-
-                    
-                </li>
-
-            
-        
-
-            
+    
 
                 <li class="about">
 
@@ -679,10 +586,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="about">
 
@@ -700,10 +604,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="about">
 
@@ -721,10 +622,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
-
-            
+    
 
                 <li class="about">
 
@@ -742,18 +640,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                 </li>
 
-            
-        
     
 
     </ul>
 </nav>
 
-        </li>
 
-        <li>
-            <a class="single" href="/plans">Pricing</a>
-        </li>
+                
+            </li>
+        
+            <li class="">
+
+                
+                    <a class="single" href="/plans">Pricing</a>
+
+                
+            </li>
+        
+
     </ul>
 </nav>
 
@@ -766,190 +670,130 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
 
+    
 
     
 
     <div class="container" id="main">
         <div class="module module-legal-content">
 
-            <h1>Client Privacy Policy</h1>
+            <h1>UserTesting Privacy Policy</h1>
 
-<p>This privacy policy explains how UserTesting handles your information and data. We value your trust, so we’ve strived to present this policy in clear, plain language instead of legalese. The policy is structured so you can quickly find answers to the questions which interest you the most.</p>
+<h2>About UserTesting</h2>
 
-<h2>If you create surveys:</h2>
+<p>UserTesting, Inc. provides a platform and service (“<strong>UserTesting Services</strong>”) that allows UserTesting Clients (“<strong>Clients</strong>”) to conduct usability tests and testers (“<strong>Testers</strong>”) to perform and record tests.</p>
+
+<p>UserTesting is a service provider for our Clients. This Privacy Policy explains the information practices and policies of UserTesting. It describes how we collect, use, and disclose information as consumers and Clients interact with UserTesting Services, including its corporate website.</p>
+
+<p><strong>This Policy does not apply to the collection, use and disclosure of Tester information; Collection, use and disclosure practices for Testers are covered by the terms of the UserTesting Tester Agreement and Privacy FAQs for Testers.</strong></p>
+
+<h2>Collection and Use of Client Information</h2>
+
+<h3>Client Information</h3>
+
+<p>UserTesting collects information about our Clients and consumers who visit the UserTesting website (“<strong>Visitors</strong>”). This information can include Personal Information (which means individually identifiable information that would allow us to determine the actual identity of, and contact, a specific living person), billing information, account settings and other data (“<strong>Client Data</strong>”).</p>
+
+<p>UserTesting collects this data in order to provide UserTesting Services to our Clients and does not disclose, sell or use Client Data for any purpose other than those outlined in this Policy or in the UserTesting Services Agreement.</p>
+
+<p>UserTesting acts as a limited agent (and as a data processor in the EU context) to each Client only for the purpose of providing UserTesting Services. UserTesting does not use Client Data for our own purposes, except in limited circumstances described in this Policy, or unless we have express consent. UserTesting does not sell Client Data to third parties. UserTesting collects, uses and discloses Client Data to:</p>
 
 <ul>
-<li><p><strong>Your survey data is owned by you.</strong> Not only that, but UserTesting treats your surveys as if they were private. We don’t sell them to anyone and we don’t use the survey responses you collect for our own purposes, except in a limited set of circumstances (see our “Terms and Conditions”).</p></li>
-<li><p><strong>We safeguard respondents’ email addresses.</strong> To make it easier for you to invite people to take your private panel or moderated surveys via email, you may send us email addresses, in which case UserTesting acts as a mere custodian of that data. We don’t sell these email addresses and we use them only as directed by you and in accordance with this policy.</p></li>
-<li><p><strong>Survey data is stored on servers located in the United States.</strong> UserTesting will process your survey data on your behalf and under your instructions (including the ones agreed to in this privacy policy).</p></li>
+<li><p>Provide our Services</p></li>
+<li><p>Manage our Services</p></li>
+<li><p>Monitor and Improve our Services and Features</p></li>
+<li><p>Create New Services, Features or Content</p></li>
+<li><p>Contact Clients about Service or Account</p></li>
+<li><p>Contact Clients for Marketing Purposes</p></li>
+<li><p>Respond to Legal Requests</p></li>
 </ul>
 
 
-<h2>Privacy for survey creators</h2>
+<h3>Public Data and Metadata</h3>
 
-<h3>1. What information does UserTesting collect?</h3>
+<p>UserTesting may anonymize Client survey metadata to create and provide new services, features, or content. Neither individual Clients nor Testers will be identified or identifiable unless UserTesting obtains Client or Tester permission.</p>
 
-<p>When you use UserTesting, we collect information relating to you and your use of our services from a variety of sources. These are listed below. The sections afterward describe what we do with this information.</p>
+<h3>Usage and Device Data</h3>
 
-<p>Information we collect directly from you:</p>
+<p>UserTesting collects usage data about Visitors to our website, including pageviews, clicks, and log files containing originating IP addresses. In addition, UserTesting collects data from the device and applications used to access our Services including IP address and browser type.</p>
 
-<ul>
-<li><p><strong>Registration information.</strong> You need a UserTesting account before you can create surveys on UserTesting. When you register for an account, we collect your username, password and email address.</p></li>
-<li><p><strong>Billing information.</strong> If you make a payment to UserTesting, we require you to provide your billing details, such as a name, address, email address and financial information corresponding to your selected method of payment (e.g. a credit card number and expiration date or a bank account number). If you provide a billing address, we will regard that as the location of the account holder.</p></li>
-<li><p><strong>Account settings.</strong> You can set various preferences and personal details on pages like your account settings page. For example, your email, password and other account settings.</p></li>
-<li><p><strong>Survey data.</strong> We store your survey data (videos, questions, and responses) for you.</p></li>
-<li><p><strong>Other data you intentionally share.</strong> We may collect your personal information or data if you submit it to us in other contexts. For example, if you provide us with a testimonial, or participate in a UserTesting contest.</p></li>
-</ul>
+<h3>Referral Data</h3>
 
+<p>UserTesting records if a Visitor arrives at UserTesting website from an external source (such as a link on another website or in an email).</p>
 
-<p><strong>We safeguard your respondents’ email addresses.</strong> Rest assured, UserTesting will not email your private panel survey respondents except at your direction. We definitely don’t sell those email addresses to any third parties.</p>
+<h3>Information from Third Parties</h3>
 
-<p>Information we collect about you from other sources:</p>
+<p>UserTesting collects Personal Information or other data from third parties, if Clients give permission to those third parties to share your information with us.</p>
 
-<ul>
-<li><p><strong>Usage data.</strong> We collect usage data about you whenever you interact with our services. This may include which webpages you visit, what you click on, when you performed those actions, and so on. Additionally, like most websites today, our web servers keep log files that record data each time a device accesses those servers. The log files contain data about the nature of each access, including originating IP addresses.</p></li>
-<li><p><strong>Device data.</strong> We collect data from the device and application you use to access our services, such as your IP address and browser type. We may also infer your geographic location based on your IP address.</p></li>
-<li><p><strong>Referral data.</strong> If you arrive at a UserTesting website from an external source (such as a link on another website or in an email), we record information about the source that referred you to us.</p></li>
-<li><p><strong>Information from third parties.</strong> We may collect your personal information or data from third parties if you give permission to those third parties to share your information with us.</p></li>
-<li><p><strong>Information from page tags.</strong> We use tracking services that employ cookies and page tags (also known as <a href="http://en.wikipedia.org/wiki/Web_bug">web beacons</a>) to collect aggregated and anonymized data about visitors to our websites. This data includes usage and user statistics.</p></li>
-</ul>
+<h3>Cookies</h3>
 
+<p>UserTesting uses cookies and page tags on our websites. Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. Some cookies will remain on a computer’s hard drive until they are deleted manually using browser or operating system software.</p>
 
-<h3>2. How does UserTesting use the information we collect?</h3>
+<p>Visitors have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but individuals can usually modify browser settings to decline cookies. More information about disabling cookies is available at <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a>. Choosing to decline cookies may result in decreased function on UserTesting websites.</p>
 
-<p><strong>We treat your survey questions and responses as information that is private to you.</strong> We know that, in many cases, you want to keep your survey questions and responses (which we collectively refer to as “survey data”) private. Unless you decide to share your survey questions and/or responses with the public, we do not use your survey data for our own purposes, except in the limited circumstances described in this privacy policy, our terms and conditions, or we have your express consent. We do not sell your survey data to third parties.</p>
+<h2>Processing of EU Data</h2>
 
-<p>Generally, we use the information we collect from you in connection with providing our services to you and, on your behalf, to your survey respondents. For example, specific ways we use this information are listed below. (See the next section of this privacy policy to see who we share your information with.)</p>
+<p>UserTesting provides some of its services to Clients in the EU.</p>
 
-<ul>
-<li><p><strong>To provide you with our services.</strong> This includes providing you with customer support, which requires us to access your information to assist you (such as with survey design and creation or technical troubleshooting).</p></li>
-<li><p><strong>To manage our services.</strong> We internally use your information, including certain survey data, for the following limited purposes:</p>
+<p>By accessing the Services and voluntarily providing UserTesting with Personal Information, you consent to the collection and use of the information in accordance with the Privacy Policy including transfers from the European Economic Area (EEA) to the United States. Individuals who do not consent to the collection, use, or disclosure of their personal information as outlined in this policy should not provide any personal information to UserTesting. If an individual has provided Personal Information to UserTesting and no longer consents to its use or disclosure as outlined here, then the individual should contact UserTesting at <a href="mailto:support@usertesting.com">support@usertesting.com</a>.</p>
 
-<ul>
-<li><p><strong>To monitor and improve our services and features.</strong> We internally perform statistical and other analysis on information we collect (including usage data, device data, referral data, and information from page tags) to analyze and measure user behavior and trends, to understand how people use our services, and to monitor, troubleshoot and improve our services. However, we do not use the non-public content of surveys (i.e. the content of questions and responses that you have not publicly shared) for these purposes.</p></li>
-<li><p>To assist the enforcement of our Terms and Conditions.</p></li>
-<li><p>To prevent potentially illegal activities.</p></li>
-</ul>
-</li>
-<li><p><strong>To create new services, features or content (public data and metadata only).</strong> We may use anonymized survey metadata (that is, data about the characteristics of a survey but not its non-public content), to create and provide new services, features or content. For example, we may look at statistics like response rates, features used, and the average number of surveys per month and publish interesting observations about these for informational or marketing purposes. When we do this, neither individual survey creators nor survey respondents will be identified or identifiable unless we have obtained their permission.</p></li>
-<li><p><strong>To contact you about your service or account.</strong> We occasionally send you communications of a transactional nature (e.g. service-related announcements, billing-related matters, changes to our services or policies, a welcome email when you first register). You can’t opt out of these communications since they are required to provide our services to you.</p></li>
-<li><p><strong>To contact you for marketing purposes (if you opt in).</strong> We will only do this periodically and you may opt out at any time by contacting customer support.</p></li>
-<li><p><strong>To respond to legal requests and prevent harm.</strong> If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.</p></li>
-</ul>
+<h2>Data Integrity</h2>
 
+<p>UserTesting will use Personal Information only in ways compatible with the purposes for which it was collected or authorized by our Clients, or as requested in connection with Tester requests.</p>
 
-<h3>3. With whom do we share or disclose your information?</h3>
+<h2>Information Retention</h2>
 
-<p><strong>We don’t sell your survey data!</strong></p>
+<p>Our Clients limit UserTesting’s collection, use and disclosure of their customers’ information through the UserTesting Services. We keep information we need to provide our services to our Clients as long as we have a valid business purpose, in accordance with applicable law and our Service and/or Tester Agreements.</p>
 
-<p><strong>When might we disclose your survey data to third parties?</strong> Only for a limited number of reasons. Most commonly, we share your information with our service providers who help us to provide our services to you. We contractually bind these service providers to keep your information confidential and to use it only for the purpose of providing their services to us. For example, we use payment processors who help us to process credit card transactions. By using our services, you authorize UserTesting to sub-contract in this manner on your behalf.</p>
+<h2>Access/Correction</h2>
 
-<p>Rare circumstances include when we need to share information if required by law, or in a corporate restructuring or acquisition context (see below for more details).</p>
+<p>In most cases, our collection of Personal information is related to our Clients and Testers and collected under the terms of our Service Agreement and Tester Agreement, respectively.</p>
 
-<p><strong>Sharing your surveys with the public.</strong> After you create a survey it is released to our tester pool to perform the survey. You may have the test cancelled at any time by contacting customer support.</p>
+<p>Individuals that wish to request access to, correction, or deletion of Personal Information they submitted to the UserTesting corporate website should contact UserTesting at <a href="mailto:support@usertesting.com">support@usertesting.com</a>.</p>
 
-<p>We recognize that you have entrusted us with safeguarding the privacy of your information. Because that trust is very important to us, the only time we will disclose or share your personal information or survey data with a third party is when we have done one of three things, in accordance with applicable law: (a) given you notice, such as in this privacy policy; (b) obtained your express consent, such as through an opt-in checkbox; or (c) anonymized the information so that individuals cannot be identified by it. Where required by law, we will obtain your express consent prior to disclosing or sharing any personal information.</p>
+<h2>Oversight/Enforcement</h2>
 
-<p>We may disclose:</p>
+<p>UserTesting has a privacy officer (“<strong>Privacy Officer</strong>”) who is responsible for UserTesting’s compliance with and enforcement of this Privacy Policy. The Privacy Officer is available to any of its employees, Clients, Testers, business partners, vendors or others who may have questions concerning this Privacy Policy or UserTesting’s data security practices. UserTesting’s Privacy Officer may be contacted at: <a href="mailto:privacy@usertesting.com">privacy@usertesting.com</a>.</p>
 
-<ul>
-<li><p><strong>Your information to our service providers.</strong> We use service providers who help us to provide you with our services. We give relevant persons working for some of these providers access to your information, but only to the extent necessary for them to perform their services for us. We also implement reasonable contractual and technical protections to ensure the confidentiality of your personal information and data is maintained, used only for the provision of their services to us, and handled in accordance with this privacy policy. Examples of service providers include payment processors, email service providers, and web traffic analytics tools.</p></li>
-<li><p><strong>Your account details to your billing contact.</strong> If your details (as the account holder) are different to the billing contact listed for your account, we may disclose your identity and account details to the billing contact upon their request (we also will usually attempt to notify you of such requests). By using our services and agreeing to this privacy policy, you consent to this disclosure.</p></li>
-<li><p><strong>Aggregated information to third parties to improve or promote our services.</strong> No individuals can be identified or linked to any part of the information we share with third parties to improve or promote our services.</p></li>
-<li><p><strong>The presence of a cookie to advertise our services.</strong> We may ask advertisers to display ads promoting our services on other websites. We may ask them to deliver those ads based on the presence of a cookie but in doing so will not share any other information with the advertiser. Our advertising network partners may use cookies and page tags or web beacons to collect certain non-personal information about your activities on this and other websites to provide you with targeted advertising based upon your interests.</p></li>
-<li><p><strong>Your information if required or permitted by law.</strong> We may disclose your information as required or permitted by law, or when we believe that disclosure is necessary to protect our rights, and/or to comply with a judicial proceeding, court order, subpoena, or other legal process served on us.</p></li>
-<li><p><strong>Your information if there’s a change in business ownership or structure.</strong> If ownership of all or substantially all of our business changes, or we undertake a corporate reorganization (including a merger or consolidation) or any other action or transfer between UserTesting entities, you expressly consent to UserTesting transferring your information to the new owner or successor entity so that we can continue providing our services. If required, UserTesting will notify the applicable data protection agency in each jurisdiction of such a transfer in accordance with the notification procedures under applicable data protection laws.</p></li>
-<li><p><strong>Information you expressly consent to be shared.</strong> For example, we may expressly request your permission to provide your contact details to third parties for various purposes, including to allow those third parties to contact you for marketing purposes. (You may later revoke your permission, but if you wish to stop receiving communications from a third party to which we provided your information with your permission, you will need to contact that third party directly.)</p></li>
-</ul>
+<h2>Security</h2>
 
+<p>No data transmissions over the Internet can be guaranteed to be 100% secure. UserTesting cannot ensure or warrant the security of any information transmitted to UserTesting. All transmissions of information are done at the senders own risk. Once UserTesting is in possession of any information, UserTesting will make reasonable efforts to ensure the security of its systems.</p>
 
-<h3>4. What are your rights to your information?</h3>
+<p>UserTesting has adopted physical, technological, and administrative procedures to safeguard and secure the information we process.</p>
 
-<p>You can:</p>
+<p>By using this website or providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this website.</p>
 
-<ul>
-<li><p><strong>Update your account details.</strong> You can update your registration and other account information on your dashboard. Information is updated immediately.</p></li>
-<li><p><strong>Download/backup your survey data.</strong> We provide you with the ability to export, share and publish your survey data in a variety of formats. This allows you to create your own backups or conduct offline data analysis.</p></li>
-<li><p><strong>Delete your survey data.</strong> To the extent permitted by law, we will permanently delete your data if you request to cancel your account.</p></li>
-<li><p><strong>Cancel your account.</strong> To cancel and delete your account, please contact customer support. Deleting your account will cause all the survey data in the account to be permanently deleted, as permitted by law, and will disable your access to any other services that require a UserTesting account. We will respond to any such request, and any appropriate request to access, correct, update or delete your personal information within the time period specified by law (if applicable) or without excessive delay. We will promptly fulfill requests to delete personal data unless the request is not technically feasible or such data is required to be retained by law (in which case we will block access to such data, if required by law).</p></li>
-<li><p><strong>For how long do we retain your data?</strong> We generally retain your data for as long as you have an account with us, or to comply with our legal obligations, resolve disputes, or enforce our agreements.</p></li>
-</ul>
+<h2>Safe Harbor</h2>
 
+<p>UserTesting complies with the U.S.-EU and US-Swiss Safe Harbor framework for the collection, use and retention of personal information from the European Union member countries and Switzerland, as set out by the U.S. Department of Commerce. UserTesting has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view UserTesting’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
 
-<h3>5. Security, cookies and other important information</h3>
+<p>As part of our participation in the Safe Harbor program, we will resolve disputes you have with us in connection with our policies and practices through JAMS ADR. For more information and to contact JAMS ADR directly, visit <a href="http://www.jamsadr.com">www.jamsadr.com</a>.</p>
 
-<p><strong>Changes to this privacy policy.</strong> We may modify this privacy policy at any time, but if we do so, we will notify you by publishing the changes on this website. If we determine the changes are material, we will provide you with additional, prominent notice as is appropriate under the circumstances.</p>
+<h2>Changes and Updates</h2>
 
-<p>For any changes to this privacy policy for which you are required to provide prior consent, we will provide you with reasonable notice of such changes before they become effective and provide you with the opportunity to consent to those changes. If you do not cancel your subscription and continue to use our services beyond the advance-notice period, you will be considered as having expressly consented to the changes in our privacy policy. If you disagree with the terms of this privacy policy or any updated privacy policy, you may close your account at any time.</p>
+<p>UserTesting will maintain Personal Information in accordance with this Privacy Policy. If UserTesting decides to change this Privacy Policy, UserTesting will post the changes on this page so that Clients, Testers and Visitors are aware of our practices. If at any point UserTesting decides to retain or use Personal Information in a different manner, UserTesting will notify its Clients or Testers using methods set out by the terms of its Services Agreement or Tester Agreement.</p>
 
-<ul>
-<li><p><strong>Security.</strong> UserTesting has a sophisticated security program intended to keep the information stored in our system protected from unauthorized access. We store your information in a secure data center located in the United States. Our system is configured with data encryption, or scrambling technologies and firewalls constructed to the highest industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. The bottom line is, when it comes to information security, we mean business.</p></li>
-<li><p><strong>Cookies.</strong> We use cookies on our websites. Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. We use cookies for several reasons:</p>
+<h2>Contacting UserTesting</h2>
 
-<ul>
-<li><p><strong>To make our site easier to use.</strong> We may store your username in a cookie to make it quicker for you to sign in whenever you return to UserTesting.</p></li>
-<li><p><strong>For security reasons.</strong> We use cookies to authenticate your identity, such as confirming whether you are currently logged into UserTesting.</p></li>
-<li><p><strong>To provide you with personalized content.</strong> We may store user preferences, such as your default language, in cookies to personalize the content you see. We also use cookies to ensure that users can’t retake certain surveys that they have already completed.</p></li>
-<li><p><strong>To improve our services.</strong> We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users.</p></li>
-</ul>
-</li>
-</ul>
-
-
-<p>You can enable your browser to refuse cookies, but doing so may disable access to our services. Refer to your <a href="http://www.aboutcookies.org/Default.aspx?page=1">web browser’s configuration documentation</a> to learn how to do this. Enabling cookies ensures a smoother experience when using our websites. By using our websites and agreeing to this privacy policy, you expressly consent to the use of cookies as described in this policy.</p>
-
-<ul>
-<li><p><strong>Blogs and Forums.</strong> Our website offers publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:support@usertesting.com">support@usertesting.com</a>. In some cases, we may not be able to fulfill your request and we will let you know why.</p></li>
-<li><p><strong>Social Media Features.</strong> Our websites may include social media features or widgets, such as the Facebook Like button. Use of these features may allow them to collect your IP address, detect which page you are visiting on our site, and set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the third party providing it.</p></li>
-<li><p><strong>Safety of Children and COPPA.</strong> Our services are not intended for and may not be used by those under the age of 13. UserTesting.com does not knowingly collect personal data from minors under 13 or allow them to register. If it comes to our attention that we have collected personal data from a minor under 13, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us at <a href="mailto:support@usertesting.com">support@usertesting.com</a>.</p></li>
-</ul>
-
-
-<h3>6. Additional Information for European Union users</h3>
-
-<p>UserTesting provides some of its services to users in the EU.</p>
-
-<ul>
-<li><p><strong>“Personal data”.</strong> For users located in the EU, references to “personal information” in this policy are equivalent to what is commonly referred to as “personal data” in the EU.</p></li>
-<li><p><strong>Accessing and correcting your personal data.</strong> You have the right to access and correct the personal information that Usertesting holds about you. This right may be exercised by emailing <a href="mailto:support@usertesting.com">support@usertesting.com</a>.</p></li>
-</ul>
-
-
-<p><strong>About IP addresses.</strong> Our servers record the incoming IP addresses of visitors to our websites (whether or not the visitor has a Usertesting account) and store the IP addresses in log files. We use these log files for purposes such as system administration and maintenance, record keeping, tracking referring web sites, inferring your location, and security purposes (e.g. controlling abuse, spam and DDOS attacks). We also store IP addresses along with certain actions you take on our system. By agreeing to this privacy policy, you expressly consent to Usertesting using your IP address for the foregoing purposes. If you wish to opt out from the foregoing consent to use your IP address, you must cancel your account (if you have one).</p>
-
-<h3>Consent</h3>
-
-<p><strong>By clicking “I Agree” or any other button indicating your acceptance of this privacy policy, you expressly consent to the following:</strong></p>
-
-<ul>
-<li><p>You consent to the collection, use, disclosure and processing of your personal data in the manner described in this privacy policy, including our procedures relating to <strong>cookies, IP addresses and log files.</strong></p></li>
-<li><p>Our servers are based in the United States, so your personal data will be primarily processed by us in the United States. You consent to the transfer and processing of your personal data in the United States</p></li>
-<li><p>You consent and agree that we may transfer your data to data processors located in countries, including the United States, which do not have data protection laws that provide the same level of protection that exists in countries in the European Economic Area. Your consent is voluntary, and you may revoke your consent by opting out at any time. Please note that if you opt-out, we may no longer be able to provide you our services.</p></li>
-<li><p>You consent to us sharing your personal data with relevant persons working for service providers who assist us to provide our services.</p></li>
-<li><p>If you have enabled cookies on your web browser, you consent to our use of cookies as described in this privacy policy.</p></li>
-</ul>
-
-
-<p>If you have any questions about our privacy policy, please contact us at <a href="mailto:support@usertesting.com">support@usertesting.com</a>.</p>
+<p>If you have questions, comments, or concerns about UserTesting or this Privacy Policy, please email us at: <a href="mailto:%20support@usertesting.com">support@usertesting.com</a></p>
 
 
             
                 <div class="address">
-	<div itemscope="" itemtype="http://schema.org/PostalAddress">
-	<span class="linebreak title" itemprop="name">UserTesting</span>
-		<span class="linebreak" itemprop="streetAddress">
-			2672 Bayshore Parkway, Suite #703
-		</span>
-	<span itemprop="addressLocality">Mountain View</span>,
-	<span itemprop="addressRegion">CA</span>
-	<span itemprop="postalCode">94043</span>
-	<span itemprop="addressCountry">USA</span>
-	</div>
+    <div itemscope="" itemtype="http://schema.org/PostalAddress">
+    <span class="linebreak title" itemprop="name">User Testing, Inc.</span>
+        <span class="linebreak" itemprop="streetAddress">
+            2672 Bayshore Parkway, Suite 703
+        </span>
+    <span itemprop="addressLocality">Mountain View</span>,
+    <span itemprop="addressRegion">CA</span>
+    <span itemprop="postalCode">94043</span>
+    <span class="linebreak" itemprop="title"><em>Attn: Legal Department</em>
+    </span></div>
 </div>
 
             
 
-            <span class="updated">Last Updated: Jul. 11, 2014</span>
+            <span class="updated">Last Updated: Jul. 16, 2015</span>
 
         </div><!--end .module .module-legal-content -->
 
@@ -969,10 +813,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       <div class="group group-contact">
         <h4>Contact Us</h4>
-        <ul><li class="phone-number"><a href="tel://1-800-903-9493">1 (800) 903‒9493</a></li>
-<li class="business-hours">Monday–Friday 8am–5pm PST</li>
-<li class="support-email"><a href="mailto:support@usertesting.com">support@usertesting.com</a></li>
-</ul>
+        <ul>
+            <li class="phone-number"><a href="tel://1-800-903-9493">1 (800) 903‒9493</a></li>
+            <li class="business-hours">Monday–Friday 8am–5pm PST</li>
+            <li class="support-email"><a href="mailto:support@usertesting.com">support@usertesting.com</a></li>
+        </ul>
       </div>
 
       <div class="group group-learn">
@@ -1000,7 +845,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     
 
-    <div class="section section-footer">
+    
+        <div class="section section-footer">
   <footer role="contentinfo" id="footer">
     <div class="container">
         <span id="back_to_top" class="large-hide"><a href="#header_unit">Back to Top</a></span>
@@ -1009,65 +855,362 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li class="large-hide"><a class="sign-in" href="/users/sign_in"><i class="fa fa-chevron-circle-right"></i>Sign In</a></li>
         </ul>
 
-        <ul class="module module-footer-nav product">
-          <li><a href="/product">Product</a>
-            <ul>
-              <li><a href="/product/website-usability-testing">Website Testing</a></li>
-              <li><a href="/product/mobile-application-testing">Mobile Apps</a></li>
-              <li><a href="/product/videos-and-metrics">Video &amp; Metrics</a></li>
-              <li><a href="/product/users">The Users</a></li>
-              <li><a href="/product/diy">DIY</a></li>
-            </ul>
-          </li>
-        </ul>
+        
+            <ul class="module module-footer-nav product">
 
-        <ul class="module module-footer-nav about">
-          <li><a href="/about-us">About Us</a>
-            <ul>
-              <li><a href="/about-us/customers">Our Customers</a></li>
-              <li><a href="/about-us/executive-team">Executive Team</a></li>
-              <li><a href="/about-us/jobs">Jobs</a></li>
-              <li><a href="/about-us/press">Press</a></li>
-            </ul>
-          </li>
-        </ul>
+                <li>
+                    <a href="/product">
+                        product
 
-        <ul class="module module-footer-nav resources">
-          <li><a href="/resources">Resources</a>
-            <ul>
-              <li><a href="/resources/webinars">Webinars</a></li>
-              <li><a href="/resources/ebooks">eBooks</a></li>
-              <li><a href="/resources/checklists">Tips &amp; Checklists</a></li>
-              <li><a href="/about-us/case-studies">Case Studies</a></li>
-              <li><a href="/resources/industry-reports">Industry Reports</a></li>
-              <li><a href="/blog">Blog</a></li>
-            </ul>
-          </li>
-        </ul>
+                        </a><ul><a href="/product">
+                            
 
-        <ul class="module module-footer-nav faq">
-          <li><a href="/faq">FAQ</a>
-            <ul>
-              <li><a href="/privacy-policy">Client Privacy Policy</a></li>
-              <li><a href="/privacy-policy-tester">Tester Privacy Policy</a></li>
-              <li><a href="/faq-tester">Tester FAQ</a></li>
-            </ul>
-          </li>
-        </ul>
+                                </a><li><a href="/product">
 
-        <ul class="module module-footer-nav services">
-          <li><a href="/services">Services</a>
-            <ul>
-              <li><a href="http://info.usertesting.com/agencies">Agencies</a></li>
+                                    
+                                        </a><a href="/product/website-usability-testing">
+                                            Website Testing
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/product/mobile-application-testing">
+                                            Mobile Apps
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/product/videos-and-metrics">
+                                            Videos &amp; Metrics
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/product/users">
+                                            The Users
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/product/diy">
+                                            DIY Tools
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/services">
+                                            Services
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+                        </ul>
+
+                    
+                </li>
             </ul>
-          </li>
-        </ul>
+        
+            <ul class="module module-footer-nav customers">
+
+                <li>
+                    <a href="/who">
+                        Who Uses Us
+
+                        </a><ul><a href="/who">
+                            
+
+                                </a><li><a href="/who">
+
+                                    
+                                        </a><a href="/who/case-studies">
+                                            Case Studies
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/who/designers">
+                                            Designers
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/who/marketers">
+                                            Marketers
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/who/agencies">
+                                            Agencies
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+                        </ul>
+
+                    
+                </li>
+            </ul>
+        
+            <ul class="module module-footer-nav resources">
+
+                <li>
+                    <a href="/resources">
+                        Resources
+
+                        </a><ul><a href="/resources">
+                            
+
+                                </a><li><a href="/resources">
+
+                                    
+                                        </a><a href="/resources/webinars">
+                                            Webinars
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/resources/ebooks">
+                                            eBooks
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/resources/checklists">
+                                            Tips &amp; Checklists
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/resources/industry-reports">
+                                            Industry Reports
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="blog">
+                                            Blog
+                                        </a>
+
+                                    
+
+                                </li>
+
+                            
+                        </ul>
+
+                    
+                </li>
+            </ul>
+        
+            <ul class="module module-footer-nav about">
+
+                <li>
+                    <a href="/about-us">
+                        About Us
+
+                        </a><ul><a href="/about-us">
+                            
+
+                                </a><li><a href="/about-us">
+
+                                    
+                                        </a><a href="/about-us/executive-team">
+                                            Executive Team
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/about-us/jobs">
+                                            Jobs
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/about-us/press">
+                                            Press
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+                        </ul>
+
+                    
+                </li>
+            </ul>
+        
+            <ul class="module module-footer-nav faq">
+
+                <li>
+                    <a href="/faq">
+                        FAQ
+
+                        </a><ul><a href="/faq">
+                            
+
+                                </a><li><a href="/faq">
+
+                                    
+                                        </a><a href="/privacy-policy">
+                                            Client Privacy Policy
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/privacy-policy-tester">
+                                            Tester Privacy Policy
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="/faq-tester">
+                                            Tester FAQ
+                                        </a>
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="http://testersupport.usertesting.com/">
+                                            Tester Help
+                                        </a>
+
+                                    
+
+                                </li>
+
+                            
+
+                                <li>
+
+                                    
+                                        <a href="http://help.usertesting.com/">
+                                            Client Help
+                                        </a>
+
+                                    
+
+                                </li>
+
+                            
+                        </ul>
+
+                    
+                </li>
+            </ul>
+        
 
         <ul class="module module-footer-nav module-footer-contact">
           <li><a href="/about-us/contact-us">Contact Us</a>
             <ul>
               <li class="phone-number"><a href="tel://1-800-903-9493">1 (800) 903‒9493</a></li>
-<li class="business-hours">Monday–Friday 8am–5pm PST</li>
+<li class="business-hours"><em>Mon–Fri 8am–5pm PST</em></li>
 <li class="support-email"><a href="mailto:support@usertesting.com">support@usertesting.com</a></li>
 
             </ul>
@@ -1092,7 +1235,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
-<script src="//assets.usertesting.com/assets/ut_marketing/application-ed1f54addf590959235401f0b1f465af.js"></script>
+<script src="//assets.usertesting.com/assets/ut_marketing/application-9b4ce4f99028ba9dca33a5a0fc1493c7.js"></script>
 
 <script>
     // Google GAQ
@@ -1113,6 +1256,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+    
 
     
         <script type="text/javascript">
