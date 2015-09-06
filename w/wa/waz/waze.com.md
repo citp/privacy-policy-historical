@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606211838id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waze.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906043150id_/https%3A//www.waze.com/legal/privacy) for the most accurate reproduction.*
 
 # Free Community-based Mapping, Traffic & Navigation App
 
@@ -188,7 +188,7 @@ Waze will not share your personal information with others, without your consent,
 
 ●      To collect, hold and manage your personal information through cloud based or hosting services or a third party or a party affiliated or connected to Waze, as reasonable for business purposes, which may be located in countries outside of your jurisdiction, including but not limited to the United States of America.
 
-●      Waze may also share personal information with companies or organizations connected or affiliated with Waze, such as subsidiaries, sister-companies and parent companies. Personal information may also be shared with Waze's other partners and service providers, with the express provision that their use of such information must comply with this Privacy Policy.
+●      Waze may also share personal information with companies or organizations connected or affiliated with Waze, such as subsidiaries, sister-companies and parent companies. Personal information may also be shared with Waze's other partners and service providers to process it for us, based on our instructions and in compliance with this policy and any other appropriate confidentiality and security measures.
 
 **Controlling your personal information**
 
@@ -255,7 +255,7 @@ Other changes will take effect 7 days after their initial posting on the Website
 
 You agree to be bound by any of the changes made in the terms of this Privacy Policy. Continuing to use the Services will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must avoid any further use of the Services.
 
-Last modified: 10th March 2015
+Last modified: 25th June 2015
 
 The Company has registered a database with the Israeli Database Registrar
 
