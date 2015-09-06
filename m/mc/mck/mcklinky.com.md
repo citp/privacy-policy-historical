@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcklinky.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707155913id_/http%3A//www.mcklinky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcklinky.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906164014id_/http%3A//www.mcklinky.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Woodwork & Crafts
+# Privacy Policy | Mcklinky.com
 
 **What information do we collect?**
 
@@ -80,6 +80,7 @@ This policy was last modified on July, 2010
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact](http://www.mcklinky.com/contact "contact") us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
+Mcklinky.com  
 admin (at) mcklinky.com
