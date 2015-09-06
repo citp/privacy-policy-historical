@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northwestpharmacy.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628060611id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestpharmacy.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906155404id_/https%3A//www.northwestpharmacy.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 At NorthWestPharmacy.com Inc., your health and the protection of your personal information is our top priority. We make considerable efforts to safeguard your confidentiality and protect your personal information. 
 
-This privacy policy covers the privacy practices of [www.NorthWestPharmacy.com](http://www.northwestpharmacy.com/) owned and operated by NorthWestPharmacy.com Inc. ("NorthWestPharmacy.com"). This privacy policy describes how NorthWestPharmacy.com Inc. collects and uses the personal information you provided on our web site: www.NorthWestPharmacy.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy policy covers the privacy practices of [www.NorthWestPharmacy.com](https://www.northwestpharmacy.com/) owned and operated by NorthWestPharmacy.com Inc. ("NorthWestPharmacy.com"). This privacy policy describes how NorthWestPharmacy.com Inc. collects and uses the personal information you provided on our web site: www.NorthWestPharmacy.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 Updated: January 07, 2015
 
