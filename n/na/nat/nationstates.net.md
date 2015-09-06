@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationstates.net privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626161831id_/http%3A//www.nationstates.net/page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationstates.net privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906061652id_/http%3A//www.nationstates.net/page%3Dprivacy) for the most accurate reproduction.*
 
 # NationStates | Privacy Policy
 
