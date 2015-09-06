@@ -1,41 +1,103 @@
-> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2015-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150213201218id_/http%3A//www.cigar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906100625id_/http%3A//www.cigar.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Cigar.com - Privacy Statement
+# Privacy Policy - Cigar.com
 
-At Cigar.com, we are committed to protecting your privacy and we acknowledge that you may have concerns regarding the use of personal information. With our statement, we intend to explain how we use the information we have gathered from our visitors or members. 
+## Privacy Policy
 
-  
-Personally identifiable information is information that identifies you as an individual, such as your name, mailing address, phone number, email address, credit card information and password. We may collect Personally Identifiable Information from you when you make a purchase, register to become a member, voluntarily provide it when you use the site, disclose it in a public area of the site (such as submitting a quote or newsletter request) or provide it when you communicate with us. 
+Cigar.com is committed to protecting and respecting your privacy. The following policy outlines how we gather and use information from our customers, visitors, and guests. If you have any questions or concerns regarding this policy or if you would like to unsubscribe from receiving any communication from Cigar.com, you may [contact us](https://web.archive.org/help/contact-us/) at any time. 
 
-Non-personally identifiable information is information that does not identify you as an individual. Non-Personally Identifiable Information includes information such as your browser type, the URL of the previous Web site you visited, the Web pages and advertisements you view or select, and the types of services you use. 
+Maintaining your privacy is critical to us. We will not sell, share, or rent your information to others in any ways different from those disclosed in this Policy. 
 
-  
-We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Web site evaluation, data analysis and, where applicable, data cleansing. We provide Personal Information to these third parties, but we authorize them to use this information only in connection with the services they perform.
+Please take a moment to read our Privacy Policy for a better understanding of the measures we take to protect you and the information you share with us. By visiting Cigar.com, you are accepting the practices described below. 
 
-At Cigar.com, we gather and store certain types of information you provide to us through our website, surveys, or other data gathering methods. This information includes contact, demographic and financial information. We use the contact and demographic information to communicate effectively with you and to create a more personalized shopping experience. We may also use the Personally Identifiable Information you provide to administer and manage your account, pay commissions to you, include you on mailing lists and advertise and promote our services. In addition, we may disclose your Personally Identifiable Information when we believe in good faith that it is required by any applicable law or legal process, or if we believe we need to disclose it to protect or enforce our rights or the rights of our members, users, or other third parties. Without limitation of the foregoing, we may disclose your information pursuant to our Intellectual Property Rights Policy to a third party that alleges you have infringed their intellectual property rights. 
+## Information collected
 
-We may disclose Non-Personally Identifiable Information in connection with improving the services we offer and facilitating our marketing efforts. In addition, we may combine your Non-Personally Identifiable Information that relates to your use of the Site with that of other users to determine which areas of the Site are most popular, and how our services are used. By collecting this Aggregate Information and analyzing it, we can use it to improve the Site. We may disclose Aggregate Information in connection with improving the services we offer and facilitating our marketing efforts. 
+We gather and store any information you enter on our web site or give us in any other way. You can choose not to provide certain information, but you may not be able to take advantage of key features of online shopping. 
 
-  
-Cookies are information files that are placed on the hard drive of your computer by your browser. Cookies allow websites to remember users activities and visits to a site. At Cigar.com, we use cookies to determine the number of unique visitors we host on our website over any given period of time. Cookies are also used to remember user screen names so multiple logins are not necessary. We do not use cookies to store or gather personal information from our visitors. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser. For more about cookies see [[http://www.cookiecentral.com](http://www.cookiecentral.com/)]. 
+## Why we collect information
 
-  
-Cigar.com is committed to ensuring the security of your information. To help prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We use encryption when collecting or transferring sensitive data such as credit card information. Preventing credit card fraud is important to protect your personal financial data security. 
+Cigar.com gathers information about our customers so that you may quickly navigate our site for products of interest, place orders, and improve your experience at Cigar.com 
 
-  
-Cigar.com does not sell products for purchase by anyone under the age of twenty-one. All products purchased at Cigar.com must use a credit card where the purchaser or authorized signer is over the age of twenty-one. We will not knowingly collect or use any personal information from children we know to be under the age of twenty-one. 
+Our goal is to provide our customers with the highest level of service possible. From your first visit to our web site to the delivery of your order, we want you to be completely satisfied with the experience. By collecting information, we are able to offer you features (such as login and password information) which saves you time during the order process. 
 
-  
-Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control. 
+## How we collect information
 
-  
-Cigar.com partners with companies that offer products and services we believe may be of interest to our customers. If you purchase a product from us, there is a chance we may exchange your name with another company whose products and services might interest you. If you do not want to have your name exchanged or would like to unsubscribe from receiving any communications from Cigar.com, contact [service@cigar.com](mailto:service@cigar.com) at any time. 
+During the order process and while creating an account, you are prompted to supply us with your contact, billing, and shipping information. This information must be provided in order to complete a purchase and is used to complete your order and contact you regarding your order. 
 
-  
-As our company grows, there is a possibility that we could be sold to another company. In the event that we are acquired by another company or a significant portion of our assets is sold to another company, all of the customer information including both financial records and consumer information that we have collected may be transferred to the new company. 
+## The information we collect
 
-  
-If you do not wish to receive announcements or special offers from us, you can [[click here](https://web.archive.org/email/optout.asp?sid=&cmd=remove)] to unsubscribe from receiving e-mail communications regarding news, exclusive offers and reminders. 
+To process your order, we require you to supply us with your correct billing, shipping and contact information (email address and phone number). 
 
-  
-If you use the Site, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Site. Use of this site is when this privacy effective date begins. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Site after we either personally notify you or generally post such changes on the site will constitute your acceptance of those changes. 
+The transfer of this information is secure and cannot be received or read by others. Your credit card information is only shared with our bank for authorization. 
+
+## Use of information we collect
+
+We engage third parties to perform services in connection with the operation of our business. Examples include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, web site evaluation, data analysis and, where applicable, data cleansing. We provide your personal information to these third parties, but we authorize them to use this information only in connection with the services they perform. 
+
+### Emails
+
+If you have selected to receive our weekly email specials by supplying your email address to Cigar.com, we will send you our exclusive weekly cigar deals special. If you choose to discontinue receipt of these specials, send a message to [specials@cigar.com](mailto:specials@cigar.com). 
+
+Additionally, we use your email address to send order confirmation emails and invoices. 
+
+### Catalog Requests
+
+You may receive printed catalogs from us. If you wish to be removed from our mailing list, [contact us](https://web.archive.org/help/contact-us/) at any time. 
+
+### Partners
+
+Cigar.com partners with companies that offer products and services we believe may be of interest to our customers. If you purchase a product from us, we may exchange your name with another company whose products and services might interest you. If you do not want to have your name exchanged, [contact us](https://web.archive.org/help/contact-us/) at any time. 
+
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). 
+
+## How to change your personal information
+
+[Contact](https://web.archive.org/help/contact-us/) Cigar.com anytime to modify your personal information. **We cannot change a customer’s personal information over the phone.** Additionally, you have the ability to change your personal information online anytime you log into your account. 
+
+## Notification of Changes
+
+If we change this Privacy Policy, such as changing the personal information we collect or how we use it, we will notify you by email. 
+
+## Opt Out
+
+You may, at any time, opt out of receiving communication from Cigar.com. You can also [contact us](https://web.archive.org/help/contact-us/) directly and we will take care of it for you immediately. 
+
+## Cookies
+
+Cookies are used to identify how a person arrives at Cigar.com. A cookie identifies you while you are at our website and keeps track of items in your shopping cart between visits. Cookies never contain credit card information. Cookies are stored locally on your computer and can only be read by Cigar.com. 
+
+We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. 
+
+## California "Do Not Track" Compliance
+
+Top of Page
+
+"Do Not Track" (or DNT) is a preference you can set in your browser to let the websites you visit know that you do not want them collecting certain information about you. Cigar.com does not support "do not track" requests. 
+
+## Security
+
+Cigar.com is committed to protecting your private information. To help safeguard against unauthorized access to your personal information and to ensure that your information is used appropriately, we have put in place systems and procedures to secure the information we collect online. 
+
+We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you input. This industry standard encrypts all of your information, including credit card numbers, so that it cannot be read by others as the information is exchanged via the internet. 
+
+Additionally, it is important for you to protect against unauthorized access to your password and to your computer. If you use a shared computer, be sure to sign off and close all browsers when you are finished. 
+
+We are committed to only selling our products to adults who meet the legal age requirement to purchase tobacco products. As a part of meeting that commitment, we use a non-affiliated third party company, Veratad Technologies, LLC, to verify that you are who you say you are and to assure that you are of legal age to purchase our products. 
+
+### How does Veratad’s Age Verification work?
+
+[](http://www.veratad.com/) Veratad’s AgeMatch Age Verification services use multiple trusted data sources containing billions of public records to return an age validation based on the personal information you submit. This service is specifically designed to validate and protect your identity while maintaining the highest level of consumer privacy when processing online transactions. 
+
+Access to the public records allows Veratad to validate the information you provide and in some cases, depending on the nature of your purchase, to present a series of multiple choice questions based on non-credit related (“out-of-wallet”) historical facts about you. These facts are obtained by instantaneously scanning billions of public records from trusted data sources containing information that would not generally be found in your wallet if lost or stolen. 
+
+### Is the information I provide secure?
+
+Absolutely. Veratad’s secure 256 bit encryption technology ensures the safe delivery of the information you provide online. In addition, Veratad DOES NOT store your sensitive personal information or share (or sell) any data with other third parties. This practice assures you that unauthorized parties cannot gain access to your sensitive personal information. 
+
+### What happens if I cannot be verified by the Age Verification process?
+
+A small percentage of shoppers may not be verifiable due to limited availability of publicly available information contained within the Age Verification databases. If this happens, we will attempt to contact you via phone and email to verify your age. To do this, we typically require a copy of your driver’s license or some other form of government issued ID that verifies your date of birth. 
+
+### I live outside of the U.S. Can I be verified?
+
+Cigar.com’s use of Veratad’s Age Verification is based solely on U.S. record information and therefore verification of individuals residing outside the U.S. is un-available. **Military Addresses outside of the US are acceptable.** All other countries will be subject to our manual review process. 
