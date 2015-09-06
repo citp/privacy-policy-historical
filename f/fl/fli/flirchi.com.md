@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirchi.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627123058id_/http%3A//flirchi.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirchi.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906221854id_/http%3A//flirchi.com/privacypolicy) for the most accurate reproduction.*
 
 # Flirchi – website for meetings! Communication without limits
 
