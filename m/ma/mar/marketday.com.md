@@ -1,61 +1,45 @@
-> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327001626id_/https%3A//www.marketday.com/util/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906053751id_/https%3A//fundraising.worldsfinestchocolate.com/privacy-policy) for the most accurate reproduction.*
 
-# Market Day | Privacy
+# World's Finest Chocolate Fundraising | Privacy Policy
 
-This is the website of Market Day, LLC and its affiliates ("Market Day") and the privacy policy that pertains to marketday.com, marketdayfundraising.com, and marketdaydirect.com (“Market Day's websites”). This Privacy Policy does not apply to any website (1) operated by an independent sales consultant of Market Day, including any such site associated with marketdaygourmet.com, or (2) operated by any independent supplier, merchant or retailer referenced on or linked from Market Day's websites. 
+Protecting your privacy is very important to World's Finest® Chocolate, Inc. We take the protection of your personal information very seriously. This policy is intended to help you understand how we collect, use and safeguard the information you provide on our web site. 
 
-Our postal address is:  
-555 W. Pierce Road, Suite 200  
-Itasca, IL 60143-2647 
+### Orders
 
-We can be reached via e-mail at [Customer Service](mailto:marketplace1@marketday.com) or you can reach us by telephone at 1.877.MDAPPLE. Questions regarding this policy should be directed to Market Day, LLC. To return to the site, please use the "Back" button on your browser. 
+When you place an order for a product, we need to know your name, Email address, mailing address, credit card number and expiration date. This information is required so that we can process and fulfill your order, and send an order confirmation. All Internet transactions with World's Finest® Chocolate are performed on a secure server that encrypts your credit card information to ensure it is not read by unauthorized third parties. 
 
-Note: Market Day does not sell, rent or trade consumer mailing lists. 
+### Company Mailing
 
-Market Day, LLC is committed to protecting the privacy of customers of its interactive products and services. The purpose of this privacy policy is to inform you, as a welcome visitor to Market Day, LLC websites, what kinds of information we may gather about you when you visit these sites, how we may use that information, whether we disclose it, and the choices you have regarding our use of, and your ability to correct, the information. Finally, please note that this policy applies only to Market Day, LLC websites and not to other companies’ or organizations’ websites to which we link, including the website of any merchant, retailer or independent sales consultant. In addition, this Privacy Policy does not apply to the use or disclosure of information that is collected or obtained by us through means other than through Market Day's websites. 
+When you purchase products online from World's Finest® Chocolate, request product information or otherwise provide us with personal information, we automatically place you on our list to receive promotional Emails and direct mail catalogs. We also reserve the right to provide your personal contact information to non-affiliated third party companies that we have selected to offer you products or services. If you do not wish to receive Email promotions or catalogs or materials from third parties, you can simply respond by telling us that you do not want to receive any future communications or contact our Customer Service Department at the contact specified below. Please note that we reserve the right to disclose personal information in response to a subpoena or in connection with legal action. 
 
-information about all market day’s online visitors
+### Policies for Children
 
-Market Day gathers certain web usage information directly and through relationships with online partners. This information helps us manage our Internet business and improve the website experience for our customers. We use web traffic data to measure the effectiveness of our advertising and how visitors use our sites. To do this, we utilize web beacons (a.k.a. clear gifs) and cookies and may also detect and use your internet protocol (IP) address or domain name. The types of information collected include how and when pages on our sites are visited, which products are purchased and how many visitors go to Market Day websites from e-mails we have sent. Cookies also enable the website to remember your user name and password, eliminating the need to re-enter this information each time you visit. By supplementing our records, this information helps us learn things like which pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of promotional offers are most appealing. While we use a marketing company to log some of this information, we control how the data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can “opt-out” of this website analysis tool by clicking [here](https://web.archive.org/web/20150327001626id_/https%3A//www.marketday.com/util/cmOptOut.aspx). In addition, if for any reason you do not wish to take advantage of cookies, you may have your browser not accept them. Since cookies are used as part of the online ordering process, if they are disabled on your computer, you will not be able to order products online, and this may also disable some of the features on Market Day's websites. 
+World's Finest® Chocolate does not knowingly collect or use information from users under 13 years of age. No information should be submitted to our site by guests under 13 years of age. 
 
-information about mobile features
+### Browsing Information
 
-Market Day may collect usage information related to your use of Mobile Features and services that are available to you via your mobile phone (including text/SMS promotions) and for which you have registered. This information helps us manage our Internet business, learn things like which of our products most interest our customers and what kinds of promotional offers are most appealing. You have the ability to opt-out of your use of the Mobile Features at any time. To do so, simply text "STOP" to Market Day's short code 94543 or opt-out through your "My Account" account preferences or by calling 877.632.7753. 
+Our site does not use "cookies" to collect or store personal information. We may detect and use your IP address or other web site usage information for site administration purposes, however, no personal information is gathered in connection with such activities. 
 
-information about you
+### Linked Sites
 
-We may specifically ask for information about you when you sign up to use a service or when you order a product. We need certain information such as your name, billing address, mobile phone number and credit card number in order to provide that service or product to you. 
+Please be advised that our web site contains links to third party web sites. The linked sites are not under the control of World's Finest® Chocolate, and we are not responsible for the content or privacy practices of any linked site or any link on a linked site. 
 
-In case you change your mind or wish to update or delete personal information (such as your zip code), we will endeavor to correct, update or remove the personal data you give us. You may change your personal information at any time via the My Account feature on marketday.com or by contacting us at the postal address, e-mail address or phone number mentioned above. 
+### Personal, Non-Commercial Use
 
-e-mail addresses
+You are authorized to download one copy of the material on this web site on one computer for your personal, non-commercial use only, and to print one hard copy of the material on this web site for your personal, non-commercial use only. In doing so, you may not remove or in any way alter any trademark, copyright, or other proprietary notice. You may not modify, copy, distribute, re-publish, commercially exploit, or upload any of the material on this web site without the prior written consent of World's Finest® Chocolate , except as expressly allowed in the first sentence of this paragraph and except to the extent as may be expressly allowed in this web site from time to time in a "send to a friend" or similar feature with respect to any particular material on this web site (but in no event may you commercially exploit any such material without the prior written consent of World's Finest® Chocolate). No intellectual property or other rights in and to this web site, other than the limited right to use set forth above, are transferred to you. 
 
-When you register with a Market Day website, we ask for your e-mail address. This information is used to contact you with questions that we may have about your orders or during communication between you and one of our websites, or to provide information or services you request. In addition, you may also “opt-in” and elect to receive promotional information via e-mail from a Market Day website. You can change your mind and “opt-out” from receiving further materials using the process outlined below. 
+### Changes to the Privacy Policy
 
-E-mail addresses may also be collected at times other than registration; for example, in connection with promotions. Certain of Market Day's websites may from time to time send promotional information to collected e-mail addresses. If you wish to ”opt-out” from receiving such material, please log-in at www.marketday.com and go to “My Account” and select “opt out” or select “unsubscribe” on any of our promotional materials. 
+World's Finest® Chocolate reserves the right to revise this policy at any time by updating this posting. Your use of our web site indicates your agreement to the currently posted privacy policy. 
 
-Additionally, if you register with marketday.com your e-mail address will also be provided to the Market Day Chairperson at your school, for the express purpose of enabling the Chairperson to contact you regarding your order or to promote a Market Day sale or other applicable Market Day programs at your school. We do not, however, control how the Market Day Chairperson ultimately uses your e-mail. 
+### Contact Information
 
-disclosure
+**World's Finest® Chocolate**  
+_Attn: Marketing Department_  
+4801 S. Lawndale  
+Chicago, IL 60632  
 
-We do not disclose information about your individual visits to Market Day's websites or use of Mobile Features or information that you may give us, such as your name, address, e-mail address or telephone number, to any non-affiliated companies for their personal use. We may disclose your personal identifying information (1) to the Market Day Chairperson at your school as noted above and (2) to Market Day authorized distributorships or alliance partners for the express purposes of enabling that entity to contact you regarding your order or to promote a Market Day sale or other Market Day programs or products. Please note that we do not control how such disclosed data may and may not be used by the receiving parties. 
 
-We may use third party agents to provide certain services that may enhance our site or to help us administer customer promotions, fulfill orders, analyze site use and data, etc. We may provide these agents access to your personal information, including but not limited to your e-mail address and mobile phone number, if it is necessary for them to perform their services. However, these agents are prohibited from using or disclosing your personal information for any other purpose and are required to keep your information confidential. 
-
-Market Day reserves the right to disclose customer information in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Market Day website users, or anyone else that could be harmed by such activities. We may disclose personal information without notice to you in response to a subpoena or when we believe in good faith that the law permits it or to respond to an emergency situation. 
-
-Specific areas or pages of our websites may include additional or different provisions relating to collection and disclosure of personal information. In the event of a conflict between such provisions and this Privacy Policy, such specific terms shall control. 
-
-security
-
-Market Day takes reasonable efforts to safeguard the confidentiality of the personal information you provide. However, we will have no liability for disclosure of any information obtained due to errors in transmission or the unauthorized acts of third parties. 
-
-special attention to kids
-
-Market Day understands the concerns of parents for their children’s privacy. We do not knowingly collect personal information about or from children. No information should be submitted to Market Day's websites by guests under 18 years of age, and guests under 18 years old are not allowed to register at our sites or for promotions. 
-
-Market Day website use and privacy policy changes
-
-By using Market Day's websites, you consent to our use of your information as described in this Privacy Policy. As we implement new technology and introduce new services, we may update our Privacy Policy and will post those changes here so that you will always know what information we gather and how we might use that information. Please check this policy periodically for changes. Your use after any change signifies your acceptance of the changed terms. 
-
-Effective Date: 09/25/2013 
+Phone: 1-800-366-2462  
+Fax: 1-773-847-7804  
+Email: [contactus@wfchocolate.com](mailto:contactus@wfchocolate.com)
