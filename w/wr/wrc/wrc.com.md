@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrc.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629225459id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/page/688----.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrc.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906160402id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/page/688----.html) for the most accurate reproduction.*
 
 # WRC - wrc.com
 
@@ -118,4 +118,4 @@ Liebherrstrasse 22
 80538 Munich  
 Germany. 
 
-© 2014 [WRC Promoter GmbH](https://web.archive.org/web/20150629225459id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/en/footer/information/imprint/page/30----.html "WRC Promoter GmbH")
+© 2014 [WRC Promoter GmbH](https://web.archive.org/web/20150906160402id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/en/footer/information/imprint/page/30----.html "WRC Promoter GmbH")
