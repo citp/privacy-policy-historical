@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the card.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321193603id_/https%3A//www.card.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the card.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906023329id_/https%3A//www.card.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CARD.com
 
