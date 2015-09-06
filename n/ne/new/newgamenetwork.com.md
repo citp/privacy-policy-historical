@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newgamenetwork.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507104630id_/http%3A//www.newgamenetwork.com/page/3/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgamenetwork.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906143549id_/http%3A//www.newgamenetwork.com/page/3/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | New Game Network
 
@@ -39,3 +39,40 @@ When a visitor chooses to send News, Articles, Reviews, ect, to a friend, the na
 _Changes of our Policy_
 
 If and when our policy statement changes, visitors with Memberships in our databases will be notified of the changes, and provided a link to this page to view the changes. If a visitor decides that our policy does not benefit them, they can use the opt-out option at anytime.
+
+[](http://www.gamerankings.com/sites/1627-new-game-network/index.html) [](http://www.testfreaks.com/)  
+[](http://www.newsnow.co.uk/h/Technology/Gaming) [](http://www.gamestats.com/)
+
+Coming Soon
+
+2 days
+
+**1.** [**Tearaway Unfolded**](http://www.newgamenetwork.com/game/2381/playstation-4/tearaway-unfolded/)  
+PlayStation 4 
+
+9 days
+
+**3.** [**Forza Motorsport 6**](http://www.newgamenetwork.com/game/2567/xbox-one/forza-motorsport-6/)  
+Xbox One 
+
+9 days
+
+**4.** [**NHL 16**](http://www.newgamenetwork.com/game/2731/playstation-3/nhl-16/)  
+PlayStation 3, PlayStation 4, Xbox 360, Xbox One 
+
+9 days
+
+**5.** [**Pro Evolution Soccer 2016**](http://www.newgamenetwork.com/game/2776/pc/pro-evolution-soccer-2016/)  
+PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One 
+
+14 days
+
+**6.** [**Skylanders SuperChargers**](http://www.newgamenetwork.com/game/2766/playstation-3/skylanders-superchargers/)  
+PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One 
+
+16 days
+
+**7.** [**Blood Bowl 2**](http://www.newgamenetwork.com/game/2862/pc/blood-bowl-2/)  
+PC
+
+Advertisement ▼
