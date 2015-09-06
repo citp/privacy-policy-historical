@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbluefx.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316070948id_/https%3A//www.newbluefx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbluefx.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906043048id_/https%3A//www.newbluefx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NewBlueFX
 
