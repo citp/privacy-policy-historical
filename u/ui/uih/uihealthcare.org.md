@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418165732id_/http%3A//www.uihealthcare.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906052817id_/http%3A//www.uihealthcare.org/privacy) for the most accurate reproduction.*
 
 # Privacy Notice in English
 
@@ -159,7 +159,3 @@ Washington, D.C. 20201
 [www.hhs.gov/ocr/privacy/hipaa/complaints/](http://www.hhs.gov/ocr/privacy/hipaa/complaints/)
 
 This notice is in effect February 19, 2015.
-
-[Download a copy](https://web.archive.org/uploadedFiles/UIHealthcare/Content/Your_Visit/After_Your_Visit/Billing,_Insurance,_and_Records/Privacy%20Notice%209.20.13%20FINAL\[9\].pdf "Privacy Notice") for your records.
-
-**We welcome your feedback!** Please help us improve your experience on our website by [completing a brief survey](https://web.archive.org/Templates/UIHC/Custom/Feedback/).
