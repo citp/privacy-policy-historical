@@ -1,97 +1,39 @@
-> *The following text is extracted and transformed from the peerindex.net privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521162935id_/http%3A//about.peerindex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerindex.net privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906103005id_/https%3A//www.brandwatch.com/privacy-policy-2) for the most accurate reproduction.*
 
-# » Privacy Policy PeerIndex
+# Website Privacy Policy - Brandwatch
 
-Our service allows users to measure their social influence on the web. Providing this service requires us to collect information about your interests and preferences, while shielding personal information from risks of misuse. Our privacy policy is reviewed at regular intervals to ensure it meets the current statutory requirements and covers all PeerIndex websites (including www.peerindex.com, www.peerperks.com, groups.peerindex.com, labs.peerindex.com) as well as the software and services made available through the PeerIndex API. By using PeerIndex services you are agreeing to this privacy policy.
+**Brandwatch Privacy Statement**  
+Brandwatch has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer privacy. Privacy on the Brandwatch web site (the “Site”) is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
 
-Our cookie policy is detailed [here.](http://about.peerindex.com/cookies/)
+**Collected Information**  
+We require customers who register to use the services offered on our Site (collectively, the “Service”) to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organisation that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by logging into the Website and editing their Personal Information within Settings. Customers can view their updated profile to confirm their edits have been made.
 
-## Principles
+Brandwatch uses the information that we collect to set up the Service for individuals and their organisations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers are invited to receive an email newsletter by providing an email address. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to contact at brandwatch.com. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing contact at brandwatch.com at the time it is distributed, or at the time any customer registers for the Service.
 
-Our privacy policy is driven by these privacy principles:
+Except as we explicitly state at the time we request information, or as provided for in the Brandwatch Master Subscription Agreement, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Brandwatch for marketing or promotional purposes. Brandwatch uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. Other third parties, such as content providers, may provide content on the web Site but they are not permitted to collect any information nor does Brandwatch share user information with these parties.
 
-  * Users are in control of their personally identifiable information and its association to other data,
-  * Respecting this control, we want users to gain the greatest benefit from their data
-  * Our focus is on data, derived information and community metrics that in themselves are not personally identifiable information
-  * We won’t provide partners with personally identifiable unless a user has previously agreed to it through terms and conditions of the service or is required for fulfilment of the services offered by PeerIndex and its partners that the user has signed up to (e.g. by participating in a PeerPerk)
+Customers of the Service will be using the Site to host data and information (“Customer Data”). Brandwatch will not review, share, distribute, print, or reference any such Customer Data except as provided in the Brandwatch Master Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
 
+Brandwatch may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyse non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.  
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Brandwatch will automatically send the friend a one-time email inviting them to visit the site.
 
+**Cookies**  
+When you interact with the Brandwatch Website we strive to make that experience easy and meaningful. When you come to our Web site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer’s hard drive and are used to tell us whether customers and visitors have visited the Site previously.
 
-For the purpose of this policy personally identifiable information is:
+Standing alone, cookies do not identify you personally. They merely recognize your browser. Unless you choose to identify yourself to Brandwatch, either by responding to a promotional offer, opening an account, or registering for a trial, you remain anonymous to Brandwatch.  Cookies come in two flavours: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you have closed your browser or turned off your computer. They include such information as a unique identifier for your browser.
 
-  * Name
-  * Email address
-  * Postal address
-  * Telephone
+Brandwatch uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in. This information allows Brandwatch to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you have logged in and are required in order to use the Brandwatch application. Brandwatch uses persistent cookies, that only Brandwatch can read and use, to identify the fact that you are a Brandwatch customer or prior Brandwatch Website visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. Users who disable their Web browsers’ ability to accept cookies will be able to browse our Website but will not be able to successfully use our Service.
 
+Third Party Cookies: We may from time to time engage third parties to track and analyse non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behaviour. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of Brandwatch is used only to provide us with information on site usage and is not shared with any other third parties.
 
+**Third-Party Sites**  
+The Site contains links to other web sites. Brandwatch is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
 
-## Policy
+**Security**  
+Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Netscape Navigator, or Microsoft Internet Explorer versions 5.5 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. Brandwatch provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorised access, maintain data accuracy, and ensure the appropriate use of Data.
 
-**We collect the following data from public sources, 3rd parties and directly:**
+**Opt-Out Policy**  
+Brandwatch offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering the Service, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply send your request to contact at brandwatch.com.
 
-  * Personal information provided by you while using PeerIndex services which includes include name, email address, photo and postal address
-  * Publicly accessible information from 3rd parties such as Twitter and Facebook
-  * Private information from 3rd parties such as Twitter and Facebook with your permission
-  * Analytic and login cookies as well as server log files
-  * Data for 3rd party metric services
-
-
-
-**We use the information collected to provide and enhance the services offered by PeerIndex, for the following:**
-
-  1. Calculation of metrics for individual users for example PeerIndex and Topical PeerIndex 
-  2. Calculation of metrics for communities of users for example average PeerIndex of a group 
-  3. Production of a public profile for users that is available on the PeerIndex web apps and via the PeerIndex APIs 
-  4. Production of reports for partners and clients that do not include personally identifiable information (save as described in point 9) 
-  5. Fulfilment of PeerIndex services such as PeerPerks 
-  6. Enhancement and improvement of the PeerIndex web apps and services in order to provide a better user experience 
-  7. Monitoring and reporting for internal business purposes 
-  8. Let users know about offers, promotions, new products and updates to PeerIndex services based on their preferences
-
-**We will NOT:**
-
-  9. We will NOT share personally identifiable information with 3rd parties that is not already publicly available except: 
-    * where you have given us permission to (e.g. by participating in a PeerPerk),
-    * the 3rd party already has that information, or
-    * as required by law.
-
-
-
-**Users are in control of their data. We provide the control in the following ways:**
-
-  1. Users can update their privacy settings on 3rd party services (e.g. Twitter and Facebook) to reduce publicly available information
-  2. Users can select what personally identifiable information is shown on the public profile (e.g. connect Twitter and Facebook but only show Twitter on the public profile) via the privacy settings on PeerIndex
-  3. Users can set their public profile to private to avoid sharing the information with other users via the privacy settings on PeerIndex
-  4. Users can delete their profile via the privacy settings page on PeerIndex
-
-
-
-While we respect users control users participation publicly on the web puts users activity into the public domain and forms part of the data we collect on other users. We endeavour to avoid displaying that information tied to personally identifiable information.
-
-**We take the security of data seriously. We practice a risk management strategy and follow industry standard practices including:**
-
-  1. Our servers are firewalled and require encrypted logins to access
-  2. Servers and software is regularly updated to latest versions to fix security vulnerabilities
-  3. High risk vulnerabilities are patched as soon as identified and the patch is available
-  4. Any passwords we collect are stored encrypted
-
-
-
-However, no security measure is completely effective and PeerIndex cannot guarantee the complete security of users personally identifiable information.
-
-## Change of Ownership or other Business Transaction
-
-In the event PeerIndex enters into a business transition, such as a merger, acquisition, or the sale of all or part of its assets (a “Business Transition”), users data (including personally identifiable information and non-personally identifiable information associated with the PeerIndex services) will likely be part of the assets transferred.
-
-In this event, we will notify you of any Business Transition. We will also notify you of any subsequent material changes to this Privacy Policy as a result of a Business Transaction and give you the opportunity to opt-out for information that we have collected before, or may collect after, a new Privacy Policy containing material changes takes effect.
-
-## Changes to this Privacy Policy
-
-PeerIndex reserves the right to change this Privacy Policy from time to time consistent with applicable privacy laws. When we do change it, we will make a copy of the updated Privacy Policy available to you before it takes effect. If we make material changes to this Privacy Policy, we will also notify you by e-mail. In the event of material changes to this Privacy Policy, we will give you the opportunity to opt-out for information that we have collected before, or may collect after, a new Privacy Policy containing material changes takes effect.
-
-You understand and agree that if you use the PeerIndex services after the effective date of the updated Privacy Policy, PeerIndex will consider your use as acceptance of the updated Privacy Policy.
-
-## Learn more
-
-If you wish to see the personal information we hold about you, please log in to the Settings section. If you have any further queries or concerns, please contact us at [privacy@peerindex.com.](mailto:privacy@peerindex.com)
+**Correcting & Updating Your Information**  
+If customers need to update or change registration information they may do so by editing the user or organisation record. To update a User Profile, log on to Brandwatch and select Settings to add or update information. To update billing information please email contact@brandwatch.com or call +44 (0)1273 234 290. To discontinue the Service and to have data deleted, email contact at brandwatch.com or call +44 (0)1273 234 290. Brandwatch will respond to your correction or update request within at most 30 days from the date of your request.
