@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goseek.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521004929id_/http%3A//www.goseek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goseek.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906074000id_/http%3A//www.goseek.com/privacy) for the most accurate reproduction.*
 
 # goSeek.com | Hotel Discounts, Deals, and Special Offers
 
@@ -8,7 +8,7 @@ Introduction
 
 Thank you for using the goSeek website and other applications (the “Service”), which are provided by DealBase Corporation. The terms “we”, “us”, “our”, “goSeek”, and “DealBase” refer to DealBase Corporation, a Delaware Corporation and/or our subsidiaries. The term “you” refers to the customer using our Service. 
 
-Now on to the Privacy Policy! At goSeek, we want to help you find the very best value when you purchase travel online. In order to do so, we need to ensure that you feel comfortable using our Service. Our Privacy Policy is here to help in that regard. It will address questions that you might have related to what information we collect, how we collect it, and how we use it. It also provides instructions on how to remove your information from our Service should you so choose, or how to update it. We want this Privacy Policy to be clear and useful. Please send us feedback here [contact@goseek.com](mailto:contact@goseek.com) if you feel that it is not in any way. By using our Service, you are indicating to us that you agree to this Privacy Policy and our [Terms of Use.](https://web.archive.org/terms)
+Now on to the Privacy Policy! At goSeek, we want to help you find the very best value when you purchase travel online. In order to do so, we need to ensure that you feel comfortable using our Service. Our Privacy Policy is here to help in that regard. It will address questions that you might have related to what information we collect, how we collect it, and how we use it. It also provides instructions on how to remove your information from our Service should you so choose, or how to update it. We want this Privacy Policy to be clear and useful. Please send us feedback here [contactus@goseek.com](mailto:contactus@goseek.com) if you feel that it is not in any way. By using our Service, you are indicating to us that you agree to this Privacy Policy and our [Terms of Use.](https://web.archive.org/terms)
 
 What information we collect 
 
@@ -99,7 +99,7 @@ California Civil Code Section 1798.83 permits California residents to request ce
 
 How you can contact us 
 
-If you have questions about this Privacy Policy, you can contact us via email at contact@goseek.com or via mail at: 
+If you have questions about this Privacy Policy, you can contact us via email at contactus@goseek.com or via mail at: 
 
 goSeek, a service of Dealbase Corporation   
 2831 St. Rose Parkway, Suite 200   
@@ -111,4 +111,4 @@ We may make changes to this Privacy Policy at any time in the future. If and whe
 
 Effective date 
 
-May 20, 2015 
+September 6, 2015 
