@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kimonolabs.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316172158id_/https%3A//www.kimonolabs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kimonolabs.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906053748id_/https%3A//www.kimonolabs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
     <title>Kimono : Turn websites into structured APIs from your browser in seconds</title>
@@ -15,6 +15,7 @@
 
 <!-- necessary to install chrome extension from the website -->
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/deoaddaobnieaecelinfdllcgdehimih">
+<link href="//fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet" type="text/css">
 
   </head>
   <body ng-app="kimWebsiteApp" ng-cloak="" class="ng-cloak">
@@ -62,9 +63,9 @@
         <li ng-class="isActive('/apidocs')"><a href="/apidocs" target="_self">API Docs</a></li>
         <li><a href="http://help.kimonolabs.com/hc/en-us" target="_self">Help Center</a></li>
         <li><a href="http://blog.kimonolabs.com/" target="_self">Blog</a></li>
-        <li class="dropdown" ng-show="global.authenticated">
-          <a href="#" class="dropdown-toggle">{{global.user.name}} <b class="caret"></b></a>
-          <ul class="dropdown-menu">
+        <li class="dropdown" dropdown="" ng-show="global.authenticated">
+          <a href="#" class="dropdown-toggle" dropdown-toggle="" id="UserMenu">{{global.user.name}} <b class="caret"></b></a>
+          <ul class="dropdown-menu" aria-labelledby="UserMenu">
             <li ng-class="isActive('/profile')"><a href="/account" target="_self">Account</a></li>
             <li ng-class="isActive('/apis')"><a href="/apis" target="_self">My APIs</a></li>
             <li ng-class="isActive('/apps')"><a href="/apps" target="_self">My Apps</a></li>
@@ -183,12 +184,8 @@
     <div id="Footer">
   <div class="container">
     <div class="row">
-    <div class="col-md-4">
-      <h4>© 2014 kimonolabs, inc.</h4>
-      <p class="mixpanel"><a href="https://mixpanel.com/f/partner">
-        <img src="/img/mixpanel.png" alt="Mobile Analytics"></a>
-        <!-- <img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics" /></a> -->
-      </p>
+    <div class="col-md-2">
+      <h4>© 2015 kimonolabs, inc.</h4>
     </div>
     <div class="col-md-2">
       <h4>Company</h4>
@@ -197,9 +194,16 @@
         <li><a href="/team" target="_self">Team</a></li>
         <li><a href="/jobs" target="_self">Jobs</a></li>
         <li><a href="http://blog.kimonolabs.com/" target="_self">Blog</a></li>
-        <li><a href="/webmasters" target="_self">@Webmasters</a></li>
         <li><a href="/terms" target="_self">Terms</a></li>
         <li><a href="/privacy" target="_self">Privacy</a></li>
+      </ul>
+    </div>
+    <div class="col-md-2">
+      <h4>Solutions</h4>
+      <ul>
+        <li><a href="/finance" target="_self">Finance</a></li>
+        <li><a href="/sec/explorer" target="_self">SEC API Explorer</a></li>
+        <li><a href="/sec/docs" target="_self">SEC API Docs</a></li>
       </ul>
     </div>
     <div class="col-md-2">
@@ -212,6 +216,8 @@
         <li><a href="/sochi/docs" target="_self">Sochi API Docs</a></li>
         <li><a href="/worldcup/explorer" target="_self">World Cup API</a></li>
         <li><a href="/worldcup/docs" target="_self">World Cup API Docs</a></li>
+        <li><a href="/marchmadness/explorer" target="_self">March Madness API</a></li>
+        <li><a href="/marchmadness/docs" target="_self">March Madness API Docs</a></li>
       </ul>
     </div>
     <div class="col-md-2">
@@ -252,12 +258,13 @@
   window.analytics.page();
 </script>
 
+
 <script src="/js/vendor.js"></script>
 
 <script src="/js/main.js"></script>
 <script>
 angular.module('kimWebsiteServices').config(function (GlobalValsProvider) {
-  GlobalValsProvider.set({"user":null,"config":{"env":"production","algolia":{"appID":"CPTAU71D6K","apikey":"e1f63566b58cca81b47fd1bfffed5023","searchIndex":"search-apis"},"disqus":{"publicKey":"p9MXbO8LsBya8bn4FRHqArffGk7o3iRDyqITJ9Zv0rZFO8W6ONlsIJrn6aY7wpe0","appname":"kimonolabsprod","shortname":"kimonolabs"}},"sslhost":"https://ws.kimonolabs.com","host":"http://ws.kimonolabs.com","sslwebsitehost":"https://www.kimonolabs.com","websitehost":"http://www.kimonolabs.com"});
+  GlobalValsProvider.set({"user":null,"config":{"env":"production","algolia":{"apikey":"e1f63566b58cca81b47fd1bfffed5023","appID":"CPTAU71D6K","searchIndex":"search-apis"}},"sslhost":"https://ws.kimonolabs.com","host":"http://ws.kimonolabs.com","secHost":"http://sec.kimonolabs.com","defaultApiKey":"bc6d6fac9954d187d0706e4f9aeb26c6","sslwebsitehost":"https://www.kimonolabs.com","websitehost":"http://www.kimonolabs.com"});
 });
 </script>
 
