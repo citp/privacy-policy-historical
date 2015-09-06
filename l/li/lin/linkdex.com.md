@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkdex.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316130127id_/http%3A//www.linkdex.com/m/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdex.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906060948id_/http%3A//www.linkdex.com/m/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Linkdex
 
