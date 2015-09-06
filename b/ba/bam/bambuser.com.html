@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bambuser.com privacy policy that was archived on 2015-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150508142951id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bambuser.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906231126id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -44,12 +44,66 @@
 			var $contact_form = $("#bambuser-contact").clone();
 			$contact_form.find("#edit-submit").remove();
 			$contact_form.show();
+
+			if ($contact_form.text().match(/You cannot send more than/)) {
+				return B.ui.dialog({
+					contents: $contact_form
+				});
+			}
+
 			B.ui.dialog({
 				contents: $contact_form,
 				query_positive: "Send e-mail",
 				query_negative: "Cancel",
-				callback_positive: function() {
-					$contact_form.find("form").submit();
+				callback_positive: function(done) {
+					var params = {
+						name: $contact_form.find("#edit-name").val(),
+						mail: $contact_form.find("#edit-mail").val(),
+						subject: $contact_form.find("#edit-subject").val(),
+						cid: $contact_form.find("#edit-cid option:selected").val(),
+						message: $contact_form.find("#edit-message").val(),
+						"form_id": "contact_mail_page",
+						"form_token": $contact_form.find("#edit-form-token").val(),
+						"bc_message": $contact_form.find("#edit-bc-message").val(),
+						"bc_message2": $contact_form.find("#edit-bc-message2").val(),
+						"bc_ts": $contact_form.find("#edit-bc-ts").val()
+					};
+					$.ajax("/", {
+						type: "POST",
+						data: params,
+						dataType: "json", // This sets the "Accept" header
+						success: function(result) {
+							done();
+							B.ui.message("Your message has been sent.");
+						},
+						error: function(error) {
+							try {
+								var response = JSON.parse(error.responseText);
+								Object.keys(response).forEach(function(key) {
+									var id = "edit-" + key;
+									var $field = $contact_form.find("label[for=\"" + id + "\"]");
+									if ($field.length && !$field.find(".error").length) {
+										var $error = $("<span />").html(check_plain(response[key]))
+										.addClass("error")
+										.css({
+											fontSize: "0.8em",
+											display: "block"
+										})
+										.delay(1000)
+										.fadeOut(500, function() {
+											$(this).remove();
+										});
+										$field.append($error);
+									}
+								});
+								done(error);
+							} catch (e) {
+								var message = "Failed to send feedback. Please contact support@bambuser.com";
+								done();
+								B.ui.message(message, "error");
+							}
+						}
+					});
 				}
 			});
 			return false;
@@ -314,7 +368,7 @@ Sweden</p>
  <label for="edit-bc-message2">Message 2 </label>
  <textarea cols="60" rows="5" name="bc_message2" id="edit-bc-message2" class="form-textarea resizable">sveninge says hi</textarea>
 </div>
-<input type="hidden" name="bc_ts" id="edit-bc-ts" value="1431095390">
+<input type="hidden" name="bc_ts" id="edit-bc-ts" value="1441581087">
 </fieldset>
 <input type="submit" name="op" id="edit-submit" value="Send e-mail" class="form-submit">
 
