@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compucars.co.uk privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618005218id_/http%3A//www.compucars.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compucars.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906033128id_/http%3A//compucars.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy For Compucars.co.uk
 
