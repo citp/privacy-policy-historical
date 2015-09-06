@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jctrans.net privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401124421id_/http%3A//www.jctrans.net/tool/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jctrans.net privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906165543id_/http%3A//www.jctrans.net/tool/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - JCtrans.net
 
