@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendns.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322153840id_/https%3A//www.opendns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendns.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907011319id_/https%3A//www.opendns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenDNS
 
@@ -88,7 +88,7 @@ We reserve the right to modify this Policy at any time, so please review it freq
 
 #### General Terms and Conditions of Use
 
-The terms of this Policy are incorporated into our general terms of use. Please review our terms of use at <https://www.opendns.com/terms/>
+The terms of this Policy are incorporated into our general terms of use. Please review our terms of use at <https://www.opendns.com/terms-of-service/>
 
 #### Effective Date of This Privacy Policy
 
