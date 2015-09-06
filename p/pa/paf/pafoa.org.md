@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pafoa.org privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317012835id_/http%3A//www.pafoa.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pafoa.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906210833id_/http%3A//www.pafoa.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ We also keep your information confidential. The internal procedures of The PAFOA
 If any of the information that you have provided to The PAFOA changes where are two ways to update it: 
 
   1. If the data is manageable by you (such as your contact information) you may simply log into your account and update it; otherwise
-  2. Notify us of the data that needs to be updated which you can not update yourself by using [The PAFOA's Contact Form](https://web.archive.org/contact "Contact the Pennsylvania Firearm Owners Association")
+  2. Notify us of the data that needs to be updated which you can not update yourself by using [The PAFOA's Contact Form](https://web.archive.org/contact/ "Contact the Pennsylvania Firearm Owners Association")
 
 
 
@@ -73,4 +73,4 @@ The Site may, from time to time, contain links to and from the websites of our p
 
 ##  9\. How to contact The Pennsylvania Firearm Owners Association 
 
-We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments, please use our [Contact Form](https://web.archive.org/contact "Contact the Pennsylvania Firearm Owners Association")
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments, please use our [Contact Form](https://web.archive.org/contact/ "Contact the Pennsylvania Firearm Owners Association")
