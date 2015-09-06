@@ -1,24 +1,29 @@
-<!--The following is the downloaded HTML source of the designersguild.com privacy policy that was archived on 2015-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150406222936id_/https%3A//www.designersguild.com/us/privacy-policy/l1010) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designersguild.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906103231id_/https%3A//www.designersguild.com/us/privacy-policy/l1010) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="google-site-verification" content="9CEdB70-FrexVbINPE6i1iPNlWRIJp7nqQHSWZXuKnc">
     <meta name="description" content="View information about our privacy policy at Designers Guild online.">
 
     
+    <link rel="alternate" hreflang="fr" href="https://www.designersguild.com/fr/politique-de-confidentialite/l1010">
     <link rel="alternate" hreflang="en" href="https://www.designersguild.com/uk/privacy-policy/l1010">
+    <link rel="alternate" hreflang="en-nl" href="https://www.designersguild.com/nl/privacy-policy/l1010">
+    <link rel="alternate" hreflang="en-ru" href="https://www.designersguild.com/ru/privacy-policy/l1010">
     <link rel="alternate" hreflang="en-se" href="https://www.designersguild.com/se/privacy-policy/l1010">
     <link rel="alternate" hreflang="en-us" href="https://www.designersguild.com/us/privacy-policy/l1010">
 
 
 
-    <link href="/bundles/sitecss?v=C1UZXKFih4jyV6JP8xgqZ7OberTGOO9QNCgEAj_2gkg1" rel="stylesheet">
+    <link href="/bundles/sitecss?v=CH5e7959tcrjw3LAygNEuhrw4JyLTgxba7jLMooXg9o1" rel="stylesheet">
 
     <link rel="stylesheet" type="text/css" href="/Content/css/addendum/addendum.css?v=2">
 
     
+
+
 
 
 
@@ -49,7 +54,7 @@
     
 
     <script type="text/javascript">
-        function addToBasket(productCode, lineNumber, maxQuantity, event, hotspot) {
+        function addToBasket(productId, lineNumber, maxQuantity, event, hotspot) {
 
             var tempText = '#quantity-' + lineNumber;
             var storeQuantity = lineNumber === null ? 1 : parseInt($(tempText).val());
@@ -62,7 +67,7 @@
                 cache: false,
                 async: true,
                 data: JSON.stringify({
-                    productCode: productCode,
+                    productId: productId,
                     quantity: storeQuantity,
                     basketCountry: 'us'
                 }),
@@ -115,7 +120,7 @@
                 },
                 error: function (xhr, textStatus, errorThrown) {
                     console.log('dg-addToBasket: ' + textStatus);
-                    alert('We could not process your request at this present time.  Please click on the back button and try again.  If this problem re-occurs, please email shoponlineuk@designersguild.com and one of our customer service agents will get back to you as soon as possible');
+                    alert('We could not process your request at this present time.  Please click on the back button and try again.  If this problem re-occurs, please email shoponlineuk@designersguild.com and one of our customer service agents will get back to you as soon as possibl');
                 }
             });
         }
@@ -217,16 +222,18 @@
 
 
 
-    
-
-
-
-    
-    
 
     
 
 
+
+    
+    
+
+    
+
+
+    
 
     <script type="text/javascript">
 
@@ -464,14 +471,14 @@
 
                     setTimeout(function () {
                         if (shouldShowBackground) {
-                            $("#wrapperGrey").fadeIn(300);
+                            $("#wrapperGrey").fadeIn(100);
                         }
-                    }, 800);
+                    }, 250);
                 });
 
                 $('#nav').mouseleave(function (event) {
                     shouldShowBackground = false;
-                    $("#wrapperGrey").fadeOut(300);
+                    $("#wrapperGrey").fadeOut(100);
                 });
 
                 $("#nav").children("li").each(function () {
@@ -487,7 +494,7 @@
                             if (shouldShowMenu) {
                                 $subMenu.css('left', '0');
                             }
-                        }, 300);
+                        }, 250);
                     });
 
                     $(this).mouseleave(function (event) {
@@ -852,7 +859,7 @@
             });
 
             
-
+    
 
 
 
@@ -957,7 +964,6 @@
 <!-- URL MONITOR OK -->
 
 
-
 <div id="topnav">
     <ul class="left">
         <li><a href="#" onclick="doNewsletterNavigate(); return false;">Newsletter</a></li>
@@ -970,15 +976,14 @@
 
     <ul class="right">
         
-        <li id="language-selector" style="padding-left: 3px; padding-right: 3px;" onclick="$('#language-selector-div').toggle();" onmouseover="showCountrySelectorDropDown()" onmouseout="hideCountrySelectorDropDown()">
+        <li id="language-selector" style="padding-left: 3px; padding-right: 3px;" onclick="$('#language-selector-div').toggle();">
             
 
             <img style="height:14px; cursor: pointer; position: relative; top: 3px;" src="/Content/images/country/238.png" alt="United States" title="Change Country">
             <div id="language-selector-div" style="display: none; position: absolute; z-index: 10000; background-color: white; padding: 0.5em 1em; cursor: default; border: 1px solid #a6a6a6;">
-                
-        <div class="country">
+                        <div class="country">
                 <div>
-                    <a href="/uk/home/l0" target="_self">
+                    <a href="/uk/l0" target="_self">
                         <img style="width: auto; height: 14px; margin: 5px 0 5px 0" src="/Content/images/country/81.png" alt="United Kingdom" title="United Kingdom">
                         <span>United Kingdom </span>
                     </a>
@@ -986,7 +991,7 @@
         </div>
         <div class="country">
                 <div>
-                    <a href="/us/home/l0" target="_self">
+                    <a href="/us/l0" target="_self">
                         <img style="width: auto; height: 14px; margin: 5px 0 5px 0" src="/Content/images/country/238.png" alt="United States" title="United States">
                         <span>United States </span>
                     </a>
@@ -994,28 +999,41 @@
         </div>
         <div class="country">
                 <div>
-                    <a href="/se/home/l0" target="_self">
+                    <a href="/fr/l0" target="_self">
+                        <img style="width: auto; height: 14px; margin: 5px 0 5px 0" src="/Content/images/country/79.png" alt="France" title="France">
+                        <span>France | FR</span>
+                    </a>
+                </div>
+                <div>
+                    <a href="/se/l0" target="_self">
                         <img style="width: auto; height: 14px; margin: 5px 0 5px 0" src="/Content/images/country/202.png" alt="Sweden" title="Sweden">
                         <span>Sweden | EN</span>
                     </a>
                 </div>
+                <div>
+                    <a href="/nl/l0" target="_self">
+                        <img style="width: auto; height: 14px; margin: 5px 0 5px 0" src="/Content/images/country/170.png" alt="Netherlands" title="Netherlands">
+                        <span>Netherlands | EN</span>
+                    </a>
+                </div>
+        </div>
+        <div class="country">
+                <div>
+                    <a href="/ru/l0" target="_self">
+                        <img style="width: auto; height: 14px; margin: 5px 0 5px 0" src="/Content/images/country/196.png" alt="Russian Federation" title="Russian Federation">
+                        <span>Russian Federation | EN</span>
+                    </a>
+                </div>
         </div>
 
-
 <div style="clear: both;"></div>
-
 <script>
-
     function doNavigate(country) {
 
-
-
         var url = '/' + country;
-
         window.location.href = url;
         return false;
     }
-
 </script>
 
             </div>
@@ -1038,43 +1056,19 @@
 </div><!--#topnav-->
 
 <script type="text/javascript">
-    //$(window).bind("load", function () {
-    //    $(window).resize(resizeKeepCountrySelectorDropDown);
-    //});
+    $("#language-selector").mouseenter(function () {
+        $("#language-selector-div").fadeIn("fast");
+    });
 
-    var resizeKeepCountrySelectorDropDown = function () {
-        $("#language-selector-div").position({
-            my: 'middle top',
-            at: 'middle bottom',
-            of: $('#language-selector')
-        });
-    }
-
-    function showCountrySelectorDropDown() {
-        //var $selDiv = $("#language-selector-div").detach();
-
-        //$("body").append($selDiv);
-
-        $("#language-selector-div").show();
-
-        //$("#language-selector-div").position({
-        //    my: 'right top',
-        //    at: 'right bottom',
-        //    of: $('#language-selector')
-        //});
-    }
-
-
-    function hideCountrySelectorDropDown() {
-        $("#language-selector-div").hide();
-    }
+    $("#language-selector").mouseleave(function () {
+        $("#language-selector-div").fadeOut("fast");
+    });
 </script>
 
 <div id="wrapper">
     <div id="wrapperGrey" class="" style="display: none;"></div>
 
     
-
 
 <div id="branding">
     <a href="/us/home/l0">
@@ -1101,14 +1095,14 @@
 
 
                 <li data-menuid="1"><!-- No spaces
-                    --><a class="default-text" href="/us/shop-online/l1142" target="_self">Shop Online</a>
+                    --><a class="default-text" rel="" href="/us/shop-online/l1142" target="_self">Shop Online</a>
 
                         <div class="subMenu">
 
                             <div class="mainColumn">
                                 <div class="mainMargin">
 
-                                        <div class="nav-col nav-col-six col-one">
+                                        <div class="nav-col nav-col-five col-one">
                                             <ul class="navsection">
 
                                                 
@@ -1117,43 +1111,23 @@
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/new-arrivals/l1024" target="_self" title="New Arrivals This Week">New Arrivals This Week</a>
+                                                            <a class="default-text" href="/us/best-sellers/l1234" rel="" target="_self" title="Best Sellers">Best Sellers</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/best-sellers/l1234" target="_self" title="Best Sellers">Best Sellers</a>
+                                                            <a class="default-text" href="/us/white-collection/l1025" rel="" target="_self" title="White Collection">White Collection</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/entertaining-at-home/l1251" target="_self" title="Easter Entertaining">Easter Entertaining</a>
+                                                            <a class="default-text" href="/us/plain-textured-cushions/l1289" rel="" target="_self" title="Plain Throw Pillows">Plain Throw Pillows</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/plain-rugs/l1097" target="_self" title="Plain &amp; Textured Rugs">Plain &amp; Textured Rugs</a>
+                                                            <a class="default-text" href="/us/plain-rugs/l1097" rel="" target="_self" title="Plain &amp; Textured Rugs">Plain &amp; Textured Rugs</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/as-seen-in-press/l1218" target="_self" title="As Seen In Press">As Seen In Press</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/white-collection/l1025" target="_self" title="White Collection">White Collection</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Our Other Brands</span>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/christian-lacroix/l1032" target="_self" title="Christian Lacroix ">Christian Lacroix </a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/royal-collection/l1035" target="_self" title="Royal Collection">Royal Collection</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale-william-yeoward/l1103" target="_self" title="William Yeoward">William Yeoward</a>
+                                                            <a class="default-text" href="/us/as-seen-in-press/l1218" rel="" target="_self" title="As Seen In Press">As Seen In Press</a>
 
                                                     </li>
                                                     <li>
@@ -1161,227 +1135,610 @@
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="https://www.designersguild.com/uk/shop-online/l1142" target="_self" title="UK">UK</a>
+                                                            <a class="default-text" href="/uk/shop-online/l1142" rel="" target="_self" title="UK">UK</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="https://www.designersguild.com/us/shop-online/l1142" target="_self" title="USA">USA</a>
+                                                            <a class="default-text" href="/us/shop-online/l1142" rel="" target="_self" title="USA">USA</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="http://designersguild.net.au/" target="_blank" title="Australia">Australia</a>
+                                                            <a class="default-text" href="http://designersguild.net.au/" rel="nofollow" target="_blank" title="Australia">Australia</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">SHOP BY BRAND</span>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/christian-lacroix/l1032" rel="" target="_self" title="Christian Lacroix">Christian Lacroix</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/royal-collection/l1035" rel="" target="_self" title="Royal Collection">Royal Collection</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-two">
+                                        <div class="nav-col nav-col-five col-two">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Shop By Category</span>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">SHOP BY CATEGORY</span>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/rugs/l1044" target="_self" title="Rugs">Rugs</a>
+                                                            <a class="default-text" href="/us/bedding/l1019" rel="" target="_self" title="Bedding">Bedding</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/throw-pillows/l1046" target="_self" title="Throw Pillows">Throw Pillows</a>
+                                                            <a class="default-text" href="/us/rugs/l1044" rel="" target="_self" title="Rugs">Rugs</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/bedding/l1019" target="_self" title="Bedding">Bedding</a>
+                                                            <a class="default-text" href="/us/throw-pillows/l1046" rel="" target="_self" title="Throw Pillows">Throw Pillows</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/throws-and-quilts/l1057" target="_self" title="Throws &amp; Quilts">Throws &amp; Quilts</a>
+                                                            <a class="default-text" href="/us/throws-and-quilts/l1057" rel="" target="_self" title="Throws &amp; Quilts">Throws &amp; Quilts</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/sheets-and-pillowcases/l1061" target="_self" title="Sheets &amp; Pillowcases">Sheets &amp; Pillowcases</a>
+                                                            <a class="default-text" href="/us/sheets-and-pillowcases/l1061" rel="" target="_self" title="Sheets &amp; Pillowcases">Sheets &amp; Pillowcases</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/towels-and-robes/l1054" target="_self" title="Towels &amp; Robes">Towels &amp; Robes</a>
+                                                            <a class="default-text" href="/us/towels-robes-bath-mats/l1054" rel="" target="_self" title="Towels, Robes &amp; Bath Mats">Towels, Robes &amp; Bath Mats</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/bath-mats/l1052" target="_self" title="Bath Mats">Bath Mats</a>
+                                                            <a class="default-text" href="/us/candles-and-home-fragrance/l1045" rel="" target="_self" title="Candles">Candles</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/body-and-bath/l1053" target="_self" title="Body &amp; Bath">Body &amp; Bath</a>
+                                                            <a class="default-text" href="/us/toiletry-bags/l1056" rel="" target="_self" title="Toiletry Bags">Toiletry Bags</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/toiletry-bags/l1056" target="_self" title="Washbags">Washbags</a>
+                                                            <a class="default-text" href="/us/body-and-bath/l1053" rel="" target="_self" title="Body &amp; Bath">Body &amp; Bath</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/candles-and-home-fragrance/l1045" target="_self" title="Candles &amp; Diffusers">Candles &amp; Diffusers</a>
+                                                            <a class="default-text" href="/us/table-linen-and-aprons/l1049" rel="" target="_self" title="Table Linen &amp; Aprons">Table Linen &amp; Aprons</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/kitchen-and-dining-wares/l1068" target="_self" title="Kitchen &amp; Dining Wares">Kitchen &amp; Dining Wares</a>
+                                                            <a class="default-text" href="/us/kitchen-and-dining-wares/l1068" rel="" target="_self" title="Kitchen &amp; Dining Wares">Kitchen &amp; Dining Wares</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/table-linen-and-aprons/l1049" target="_self" title="Table Linen &amp; Aprons">Table Linen &amp; Aprons</a>
+                                                            <a class="default-text" href="/us/glassware/l1048" rel="" target="_self" title="Glassware">Glassware</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/glassware/l1048" target="_self" title="Glassware">Glassware</a>
+                                                            <a class="default-text" href="/us/vases-and-planters/l1047" rel="" target="_self" title="Vases &amp; Planters">Vases &amp; Planters</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/baskets/l1050" target="_self" title="Baskets &amp; Bags">Baskets &amp; Bags</a>
+                                                            <a class="default-text" href="/us/baskets/l1050" rel="" target="_self" title="Baskets">Baskets</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/vases-and-planters/l1047" target="_self" title="Vases &amp; Planters">Vases &amp; Planters</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/leather-stationery-and-books/l1067" target="_self" title="Leather Stationery &amp; Books">Leather Stationery &amp; Books</a>
+                                                            <a class="default-text" href="/us/leather-stationery-and-books/l1067" rel="" target="_self" title="Leather &amp; Stationery">Leather &amp; Stationery</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-three">
+                                        <div class="nav-col nav-col-five col-three">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Shop By Room</span>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">SHOP BY ROOM</span>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/living-room/l1021" target="_self" title="Living Room">Living Room</a>
+                                                            <a class="default-text" href="/us/bedroom/l1015" rel="" target="_self" title="Bedroom">Bedroom</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/bedroom/l1015" target="_self" title="Bedroom">Bedroom</a>
+                                                            <a class="default-text" href="/us/living-room/l1021" rel="" target="_self" title="Living Room">Living Room</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/bathroom/l1023" target="_self" title="Bathroom">Bathroom</a>
+                                                            <a class="default-text" href="/us/dining-room/l1022" rel="" target="_self" title="Dining Room">Dining Room</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/dining-room/l1022" target="_self" title="Dining Room">Dining Room</a>
+                                                            <a class="default-text" href="/us/bathroom/l1023" rel="" target="_self" title="Bathroom">Bathroom</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/designers-guild-kids/l1026" target="_self" title="Kid's Room">Kid's Room</a>
+                                                            <a class="default-text" href="/us/designers-guild-kids/l1026" rel="" target="_self" title="Kid's Room">Kid's Room</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="bold-header-no-underline" href="/us/gifts/l1029" rel="" target="_self" title="Shop Gifts">Shop Gifts</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wedding-gifts/l1088" rel="" target="_self" title="Wedding Gifts">Wedding Gifts</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/gifts-for-her/l1084" rel="" target="_self" title="Gifts For Her">Gifts For Her</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/gifts-for-him/l1085" rel="" target="_self" title="Gifts For Him">Gifts For Him</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/gifts-for-kids/l1086" rel="" target="_self" title="Gifts For Kids">Gifts For Kids</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/gifts-for-the-home/l1087" rel="" target="_self" title="Gifts For The Home">Gifts For The Home</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/gift-cards/p11709" rel="" target="_self" title="Gift Cards">Gift Cards</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-four">
+                                        <div class="nav-col nav-col-five col-four">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/gifts/l1029" target="_self" title="Shop Gifts">Shop Gifts</a>
+                                                            <a class="bold-pink-header-no-underline" href="/us/sale/l1036" rel="" target="_self" title="CLEARANCE">CLEARANCE</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/wedding-gifts/l1088" target="_self" title="Wedding Gifts">Wedding Gifts</a>
+                                                            <a class="pink-text-bold" href="/us/clearance/bedding/l1092" rel="" target="_self" title="Bedding">Bedding</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/gifts-for-her/l1084" target="_self" title="Gifts For Her">Gifts For Her</a>
+                                                            <a class="pink-text-bold" href="/us/clearance-rugs/l1098" rel="" target="_self" title="Rugs">Rugs</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/gifts-for-him/l1085" target="_self" title="Gifts For Him">Gifts For Him</a>
+                                                            <a class="pink-text-bold" href="/us/clearance/throw-pillows/l1095" rel="" target="_self" title="Throw Pillows">Throw Pillows</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/gifts-for-kids/l1086" target="_self" title="Gifts For Kids">Gifts For Kids</a>
+                                                            <a class="pink-text-bold" href="/us/sale/throws-and-quilts/l1094" rel="" target="_self" title="Throws">Throws</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/gifts-for-the-home/l1087" target="_self" title="Gifts For The Home">Gifts For The Home</a>
+                                                            <a class="pink-text-bold" href="/us/clearance/bathroom/l1091" rel="" target="_self" title="Bathroom">Bathroom</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/gift-cards/p11709" target="_self" title="NEW Gift Cards">NEW Gift Cards</a>
+                                                            <a class="pink-text-bold" href="/us/clearance-designers-guild-kids/l1090" rel="" target="_self" title="Kids">Kids</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="pink-text-bold" href="/us/sale/dining-room/l1099" rel="" target="_self" title="Dining Room">Dining Room</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="pink-text-bold" href="/us/clearance/christian-lacroix/l1102" rel="" target="_self" title="Christian Lacroix">Christian Lacroix</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="pink-text-bold" href="/us/clearance-royal-collection/l1231" rel="" target="_self" title="Royal Collection">Royal Collection</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-five">
-                                            <ul class="navsection">
-
-                                                
-                                                    <li>
-                                                            <a class="bold-pink-header-no-underline" href="/us/mid-season-sale/l1036" target="_self" title="MID SEASON SALE">MID SEASON SALE</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale/bedding/l1092" target="_self" title="Bedding">Bedding</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale/throw-pillows/l1095" target="_self" title="Throw Pillows">Throw Pillows</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale-rugs/l1098" target="_self" title="Rugs">Rugs</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale/throws-and-quilts/l1094" target="_self" title="Throws &amp; Quilts">Throws &amp; Quilts</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale/bathroom/l1091" target="_self" title="Bathroom">Bathroom</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale/leather-accessories/l1100" target="_self" title="Leather Accessories">Leather Accessories</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale-designers-guild-kids/l1090" target="_self" title="Kids">Kids</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale/dining-room/l1099" target="_self" title="Dining Room">Dining Room</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale/christian-lacroix/l1102" target="_self" title="Christian Lacroix">Christian Lacroix</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale-royal-collection/l1231" target="_self" title="Royal Collection">Royal Collection</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale-william-yeoward/l1103" target="_self" title="William Yeoward">William Yeoward</a>
-
-                                                    </li>
-                                            </ul>
-
-
-
-                                        </div>
-                                        <div class="nav-col nav-col-six col-six">
+                                        <div class="nav-col nav-col-five col-five">
                                             <ul class="navsection">
 
                                                 
@@ -1394,9 +1751,8 @@
                                                                 
 
 
-
-                                                                    <a class="f2" href="/us/mid-season-sale/l1036" style="padding:0; border-bottom: 0 !important;">
-                                                                        <img style="max-width: 154px;" class="feature-img" src="/imagebanner/156/111?v=22">
+                                                                    <a class="f2" href="/us/request-a-brochure/l1216" style="padding:0; border-bottom: 0 !important;">
+                                                                        <img style="max-width: 154px;" class="feature-img" src="/imagebanner/156/85?v=40">
                                                                     </a>
                                                                 
                                                             </div>
@@ -1411,15 +1767,112 @@
                                                                 
 
 
-
-                                                                    <a class="f2" href="/us/entertaining-at-home/l1251" style="padding:0; border-bottom: 0 !important;">
-                                                                        <img style="max-width: 154px;" class="feature-img" src="/imagebanner/156/216?v=23">
+                                                                    <a class="f2" href="/us/delivery-and-returns/l1144" style="padding:0; border-bottom: 0 !important;">
+                                                                        <img style="max-width: 154px;" class="feature-img" src="/imagebanner/156/111?v=30">
                                                                     </a>
                                                                 
                                                             </div>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1441,17 +1894,17 @@
                                             <div class="features" style="padding-top:15px; padding-bottom:15px;">
 
                                                         <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
-                                                            <a target="_self" href="/us/find-your-local-stockist/l500">FIND YOUR LOCAL STOCKIST</a>
+                                                            <a target="_self" href="/us/find-your-local-stockist/l500">FIND A LOCAL STOCKIST</a>
                                                         </div>
 
 
                                                         <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
-                                                            <a target="_self" href="/us/sale/throw-pillows/l1095">SHOP OUR GORGEOUS SALE THROW PILLOWS</a>
+                                                            <a target="_self" href="/us/rugs/l1044">RUGS: ADD COMFORT &amp; STYLE TO YOUR HOME</a>
                                                         </div>
 
 
                                                         <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
-                                                            <a target="_self" href="/us/white-collection/l1025">LUXURY WHITE COLLECTION FOR YOUR HOME</a>
+                                                            <a target="_self" href="/us/bedding/l1019">BEDDING: NEW PAINTED FLORAL DESIGNS</a>
                                                         </div>
 
                                             </div>
@@ -1461,15 +1914,20 @@
                         </div>
 
                 </li>
-                <li data-menuid="2"><!-- No spaces
-                    --><a class="default-text" href="/us/fabric-and-wallcoverings/l1121" target="_self">Fabric &amp; Wallcoverings</a>
+                <li data-menuid="16"><!-- No spaces
+                    --><a class="default-text" rel="" href="/us/new/l1299" target="_self">New</a>
+
+
+                </li>
+                <li data-menuid="15"><!-- No spaces
+                    --><a class="default-text" rel="" href="/us/fabric/l1292" target="_self">Fabric</a>
 
                         <div class="subMenu">
 
                             <div class="mainColumn">
                                 <div class="mainMargin">
 
-                                        <div class="nav-col nav-col-six col-one">
+                                        <div class="nav-col nav-col-five col-one">
                                             <ul class="navsection">
 
                                                 
@@ -1478,263 +1936,566 @@
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="l76?searchFor=fabric&amp;sort=new" target="_self" title="Fabric Search">Fabric Search</a>
+                                                            <a class="default-text" href="/us/latest-fabric-collections/l1003" rel="" target="_self" title="Latest Fabric Collections">Latest Fabric Collections</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="l76?searchFor=wallcoverings&amp;sort=new" target="_self" title="Wallcoverings Search">Wallcoverings Search</a>
+                                                            <a class="default-text" href="/us/search-results/l76?searchFor=fabric&amp;sort=new" rel="" target="_self" title="Fabric Search">Fabric Search</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/films/l1180" target="_self" title="Films">Films</a>
+                                                            <a class="default-text" href="/us/films/l1180" rel="" target="_self" title="Films">Films</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/brochures/l1179" target="_self" title="Brochures">Brochures</a>
+                                                            <a class="default-text" href="/us/brochures/l1179" rel="" target="_self" title="Brochures">Brochures</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/moodboard/l154" rel="nofollow" target="_self" title="Scrapbook &amp; Moodboards">Scrapbook &amp; Moodboards</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/moodboard-how-to-guide/l1315" rel="" target="_self" title="Moodboard How-To ">Moodboard How-To </a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-two">
+                                        <div class="nav-col nav-col-five col-two">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/designers-guild-fabrics-and-wallcoverings/l1203" target="_self" title="Designers Guild">Designers Guild</a>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Collections</span>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/all-fabrics/l1113" target="_self" title="FABRICS">FABRICS</a>
+                                                            <a class="default-text" href="/us/fabric/printed-fabric/l1107" rel="" target="_self" title="Prints">Prints</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/latest-fabric-collections/l1003" target="_self" title="Latest Collections">Latest Collections</a>
+                                                            <a class="default-text" href="/us/fabric/woven-fabric/l1108" rel="" target="_self" title="Weaves">Weaves</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/prints/l1107" target="_self" title="Prints">Prints</a>
+                                                            <a class="default-text" href="/us/fabric/plain-and-textured-fabric/l1109" rel="" target="_self" title="Plain Essentials">Plain Essentials</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/weaves/l1108" target="_self" title="Weaves">Weaves</a>
+                                                            <a class="default-text" href="/us/fabric/silk-fabric/l1110" rel="" target="_self" title="Silks">Silks</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/plain-essentials/l1109" target="_self" title="Plain Essentials">Plain Essentials</a>
+                                                            <a class="default-text" href="/us/fabric/voiles-and-taffeta-fabric/l1111" rel="" target="_self" title="Voiles &amp; Taffetas">Voiles &amp; Taffetas</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/silks/l1110" target="_self" title="Silks">Silks</a>
+                                                            <a class="default-text" href="/us/fabric/kids-fabric/l1112" rel="" target="_self" title="Kids">Kids</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/voiles-and-taffetas/l1111" target="_self" title="Voiles &amp; Taffetas">Voiles &amp; Taffetas</a>
+                                                            <a class="default-text" href="/us/latest-fabric-collections/l1003" rel="" target="_self" title="Latest Collections">Latest Collections</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/designers-guild-kids-fabrics/l1112" target="_self" title="Kids">Kids</a>
+                                                            <a class="default-text" href="/us/fabric/designers-guild/l1113" rel="" target="_self" title="All Collections">All Collections</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/contract-fabrics/l1138" target="_self" title="Contract Collections">Contract Collections</a>
+                                                            <a class="default-text" href="/us/contract-fabrics/l1138" rel="" target="_self" title="Contract Collections">Contract Collections</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/all-fabrics/l1113" target="_self" title="All Collections">All Collections</a>
+                                                            <a class="bold-header-no-underline" href="/us/trimmings-and-tiebacks/l1114" rel="" target="_self" title="TRIMMINGS &amp; TIEBACKS">TRIMMINGS &amp; TIEBACKS</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/all-wallcoverings/l1119" target="_self" title="WALLCOVERINGS">WALLCOVERINGS</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/latest-wallcoverings-collections/l1116" target="_self" title="Latest Collections">Latest Collections</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/kids-wallcoverings/l1118" target="_self" title="Kids">Kids</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/contract-wallcoverings/l1139" target="_self" title="Contract Collections">Contract Collections</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/all-wallcoverings/l1119" target="_self" title="All Collections">All Collections</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="bold-header-no-underline" href="/us/trimmings-and-tiebacks/l1114" target="_self" title="TRIMMINGS &amp; TIEBACKS">TRIMMINGS &amp; TIEBACKS</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/trimmings-and-tiebacks/l1114" target="_self" title="All Collections">All Collections</a>
+                                                            <a class="default-text" href="/us/trimmings-and-tiebacks/l1114" rel="" target="_self" title="All Collections">All Collections</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-three">
+                                        <div class="nav-col nav-col-five col-three">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/christian-lacroix-fabrics-and-wallcoverings/l1134" target="_self" title="Christian Lacroix">Christian Lacroix</a>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Brands</span>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/christian-lacroix-fabrics-and-wallcoverings/l1134" target="_self" title="Fabrics &amp; Wallcoverings">Fabrics &amp; Wallcoverings</a>
+                                                            <a class="default-text" href="/us/fabric/designers-guild/l1203" rel="" target="_self" title="Designers Guild">Designers Guild</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/ralph-lauren-fabrics-and-wallcoverings/l1128" target="_self" title="Ralph Lauren">Ralph Lauren</a>
+                                                            <a class="default-text" href="/us/fabric/christian-lacroix/l1134" rel="" target="_self" title="Christian Lacroix">Christian Lacroix</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/ralph-lauren-fabrics-and-wallcoverings/l1128" target="_self" title="Fabrics &amp; Wallcoverings">Fabrics &amp; Wallcoverings</a>
+                                                            <a class="default-text" href="/us/fabric/ralph-lauren/l1128" rel="" target="_self" title="Ralph Lauren">Ralph Lauren</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/royal-collection-fabrics-and-wallcoverings/l1130" target="_self" title="Royal Collection">Royal Collection</a>
+                                                            <a class="default-text" href="/us/fabric/royal-collection/l1130" rel="" target="_self" title="Royal Collection">Royal Collection</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/royal-collection-fabrics-and-wallcoverings/l1130" target="_self" title="Fabrics &amp; Wallcoverings">Fabrics &amp; Wallcoverings</a>
+                                                            <a class="default-text" href="/us/fabric/william-yeoward/l1136" rel="" target="_self" title="William Yeoward">William Yeoward</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/william-yeoward-fabrics-and-wallcoverings/l1136" target="_self" title="William Yeoward">William Yeoward</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/william-yeoward-fabrics-and-wallcoverings/l1136" target="_self" title="Fabrics &amp; Wallcoverings">Fabrics &amp; Wallcoverings</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="bold-header-no-underline" href="/us/howard-hodgkin-for-designers-guild/c543" target="_self" title="Howard Hodgkin">Howard Hodgkin</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/howard-hodgkin-for-designers-guild/c543" target="_self" title="Fabrics">Fabrics</a>
+                                                            <a class="default-text" href="/us/fabric/howard-hodgkin/howard-hodgkin-for-designers-guild/c543" rel="" target="_self" title="Howard Hodgkin">Howard Hodgkin</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-four">
+                                        <div class="nav-col nav-col-five col-four">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/fabric-and-wallcoverings/l1121" target="_self" title="Our Brands">Our Brands</a>
+                                                            <a class="bold-header-no-underline" href="/us/contracts/l1177" rel="" target="_self" title="Contracts">Contracts</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/designers-guild-fabrics-and-wallcoverings/l1203" target="_self" title="Designers Guild">Designers Guild</a>
+                                                            <a class="default-text" href="/us/about-contracts/l1030" rel="" target="_self" title="About Contracts">About Contracts</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/christian-lacroix-fabrics-and-wallcoverings/l1134" target="_self" title="Christian Lacroix">Christian Lacroix</a>
+                                                            <a class="default-text" href="/us/brands-for-contracts/l1034" rel="" target="_self" title="Brands for Contract">Brands for Contract</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/ralph-lauren-fabrics-and-wallcoverings/l1128" target="_self" title="Ralph Lauren">Ralph Lauren</a>
+                                                            <a class="default-text" href="/us/contracts/contact-us/l1038" rel="" target="_self" title="Contact us">Contact us</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/royal-collection-fabrics-and-wallcoverings/l1130" target="_self" title="Royal Collection">Royal Collection</a>
+                                                            <a class="default-text" href="/us/contract-collections/l1039" rel="" target="_self" title="Contract Collections">Contract Collections</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/william-yeoward-fabrics-and-wallcoverings/l1136" target="_self" title="William Yeoward">William Yeoward</a>
+                                                            <a class="default-text" href="/us/recent-projects/l1040" rel="" target="_self" title="Recent Projects">Recent Projects</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/howard-hodgkin-for-designers-guild/c543" target="_self" title="Howard Hodgkin">Howard Hodgkin</a>
+                                                            <a class="default-text" href="/us/service-and-samples/l1041" rel="" target="_self" title="Service &amp; Samples">Service &amp; Samples</a>
 
                                                     </li>
                                                     <li>
-                                                            <span style="display: block; cursor: default;" class="menu-spacer"> </span>
+                                                            <a class="default-text" href="/us/technical-information/l1042" rel="" target="_self" title="Technical Information">Technical Information</a>
 
                                                     </li>
                                                     <li>
-                                                            <span style="display: block; cursor: default;" class="menu-spacer"> </span>
-
-                                                    </li>
-                                                    <li>
-                                                            <span style="display: block; cursor: default;" class="menu-spacer"> </span>
-
-                                                    </li>
-                                                    <li>
-                                                            <span style="display: block; cursor: default;" class="menu-spacer"> </span>
+                                                            <a class="default-text" href="/us/contract-fabrics/l1138" rel="" target="_self" title="Contract Fabric Collections">Contract Fabric Collections</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-five">
-                                            <ul class="navsection">
-
-                                                
-                                                    <li>
-                                                            <a class="bold-header-no-underline" href="/us/contracts/l1177" target="_self" title="Contracts">Contracts</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/about-contracts/l1030" target="_self" title="About Contracts">About Contracts</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/brands-for-contracts/l1034" target="_self" title="Brands for Contract">Brands for Contract</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/contracts/contact-us/l1038" target="_self" title="Contact us">Contact us</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/contract-collections/l1039" target="_self" title="Contract Collections">Contract Collections</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/recent-projects/l1040" target="_self" title="Recent Projects">Recent Projects</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/service-and-sample/l1041" target="_self" title="Service &amp; Samples">Service &amp; Samples</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/technical-information/l1042" target="_self" title="Technical Information">Technical Information</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/contract-fabrics/l1138" target="_self" title="Contract Fabric Collections">Contract Fabric Collections</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/contract-wallcoverings/l1139" target="_self" title="Contract Wallcoverings Collections">Contract Wallcoverings Collections</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <span style="display: block; cursor: default;" class="menu-spacer"> </span>
-
-                                                    </li>
-                                            </ul>
-
-
-
-                                        </div>
-                                        <div class="nav-col nav-col-six col-six">
+                                        <div class="nav-col nav-col-five col-five">
                                             <ul class="navsection">
 
                                                 
@@ -1743,6 +2504,15 @@
 
                                                     </li>
                                                     <li>
+                                                            <div class="menu-thumb">
+                                                                
+
+
+                                                                    <a class="f2" href="/us/latest-fabric-collections/l1003" style="padding:0; border-bottom: 0 !important;">
+                                                                        <img style="max-width: 154px;" class="feature-img" src="/imagebanner/156/216?v=33">
+                                                                    </a>
+                                                                
+                                                            </div>
 
                                                     </li>
                                                     <li>
@@ -1754,15 +2524,112 @@
                                                                 
 
 
-
-                                                                    <a class="f2" href="/us/find-your-local-stockist/l500" style="padding:0; border-bottom: 0 !important;">
-                                                                        <img style="max-width: 154px;" class="feature-img" src="/imagebanner/156/21?v=24">
+                                                                    <a class="f2" href="/us/moodboard-how-to-guide/l1315" style="padding:0; border-bottom: 0 !important;">
+                                                                        <img style="max-width: 154px;" class="feature-img" src="/imagebanner/156/436?v=1">
                                                                     </a>
                                                                 
                                                             </div>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1784,17 +2651,769 @@
                                             <div class="features" style="padding-top:15px; padding-bottom:15px;">
 
                                                         <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
-                                                            <a target="_self" href="/us/join-our-mailing-list/l100">JOIN OUR MAILING LIST &amp; GET A SPECIAL GIFT</a>
+                                                            <a target="_self" href="/us/fabric/royal-collection/l1130">NEW ROYAL COLLECTION BUCKINGHAM FABRICS</a>
                                                         </div>
 
 
                                                         <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
-                                                            <a target="_self" href="/us/latest-wallcoverings-collections/l1116">DISCOVER OUR LATEST WALLCOVERING COLLECTIONS</a>
+                                                            <a target="_self" href="/us/fabric/ralph-lauren/l1128">EXPLORE RALPH LAUREN LATEST AW15 FABRICS</a>
                                                         </div>
 
 
                                                         <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
-                                                            <a target="_self" href="/us/christian-lacroix-fabrics-and-wallcoverings/l1134">BRAND FOCUS: CHRISTIAN  LACROIX</a>
+                                                            <a target="_self" href="/us/find-your-local-stockist/l500">FIND YOUR LOCAL STOCKIST</a>
+                                                        </div>
+
+                                            </div>
+                                        </div>
+
+
+                        </div>
+
+                </li>
+                <li data-menuid="14"><!-- No spaces
+                    --><a class="default-text" rel="" href="/us/wallpaper/l1115" target="_self">Wallpaper</a>
+
+                        <div class="subMenu">
+
+                            <div class="mainColumn">
+                                <div class="mainMargin">
+
+                                        <div class="nav-col nav-col-five col-one">
+                                            <ul class="navsection">
+
+                                                
+                                                    <li>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Highlights</span>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/latest-wallpaper-collections/l1116" rel="" target="_self" title="Latest Wallpaper Collections">Latest Wallpaper Collections</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/search-results/l76?searchFor=wallcoverings&amp;sort=new" rel="" target="_self" title="Wallpaper Search">Wallpaper Search</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/films/l1180" rel="" target="_self" title="Films">Films</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/brochures/l1179" rel="" target="_self" title="Brochures">Brochures</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/moodboard/l154" rel="nofollow" target="_self" title="Scrapbook &amp; Moodboards">Scrapbook &amp; Moodboards</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/moodboard-how-to-guide/l1315" rel="" target="_self" title="Moodboard How-To">Moodboard How-To</a>
+
+                                                    </li>
+                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+                                        <div class="nav-col nav-col-five col-two">
+                                            <ul class="navsection">
+
+                                                
+                                                    <li>
+                                                            <a class="bold-header-no-underline" href="/us/wallpaper/designers-guild/l1119" rel="" target="_self" title="Collections">Collections</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/latest-wallpaper-collections/l1116" rel="" target="_self" title="Latest Collections">Latest Collections</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/designers-guild/l1119" rel="" target="_self" title="All Collections">All Collections</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/contract-wallpaper/l1139" rel="" target="_self" title="Contract Collections">Contract Collections</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">STYLES</span>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/floral-wallpaper/l1293" rel="" target="_self" title="Floral">Floral</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/damask-wallpaper/l1294" rel="" target="_self" title="Damask">Damask</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/geometric-wallpaper/l1295" rel="" target="_self" title="Geometric">Geometric</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/striped-wallpaper/l1296" rel="" target="_self" title="Stripe">Stripe</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/plain-and-textured-wallpaper/l1297" rel="" target="_self" title="Plain &amp; Textured">Plain &amp; Textured</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/conversational-wallpaper/l1298" rel="" target="_self" title="Conversational">Conversational</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/kids-wallpaper/l1118" rel="" target="_self" title="Kids">Kids</a>
+
+                                                    </li>
+                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+                                        <div class="nav-col nav-col-five col-three">
+                                            <ul class="navsection">
+
+                                                
+                                                    <li>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Brands</span>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/designers-guild/l1119" rel="" target="_self" title="Designers Guild">Designers Guild</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/christain-lacroix/l1300" rel="" target="_self" title="Christian Lacroix">Christian Lacroix</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/ralph-lauren/l1303" rel="" target="_self" title="Ralph Lauren">Ralph Lauren</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/royal-collection/l1301" rel="" target="_self" title="Royal Collection">Royal Collection</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/wallpaper/william-yeoward/l1302" rel="" target="_self" title="William Yeoward">William Yeoward</a>
+
+                                                    </li>
+                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+                                        <div class="nav-col nav-col-five col-four">
+                                            <ul class="navsection">
+
+                                                
+                                                    <li>
+                                                            <a class="bold-header-no-underline" href="/us/contracts/l1177" rel="" target="_self" title="Contracts">Contracts</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/about-contracts/l1030" rel="" target="_self" title="About Contracts">About Contracts</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/brands-for-contracts/l1034" rel="" target="_self" title="Brands for Contract">Brands for Contract</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/contracts/contact-us/l1038" rel="" target="_self" title="Contact us">Contact us</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/contract-collections/l1039" rel="" target="_self" title="Contract Collections">Contract Collections</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/recent-projects/l1040" rel="" target="_self" title="Recent Projects">Recent Projects</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/service-and-samples/l1041" rel="" target="_self" title="Service &amp; Samples">Service &amp; Samples</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/technical-information/l1042" rel="" target="_self" title="Technical Information">Technical Information</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/contract-fabrics/l1138" rel="" target="_self" title="Contract Fabric Collections">Contract Fabric Collections</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/contract-wallpaper/l1139" rel="" target="_self" title="Contract Wallpaper Collections">Contract Wallpaper Collections</a>
+
+                                                    </li>
+                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+                                        <div class="nav-col nav-col-five col-five">
+                                            <ul class="navsection">
+
+                                                
+                                                    <li>
+                                                            <span style="display: block; cursor: default;" class="menu-heading-spacer"> </span>
+
+                                                    </li>
+                                                    <li>
+                                                            <div class="menu-thumb">
+                                                                
+
+
+                                                                    <a class="f2" href="/us/wallpaper/latest-wallpaper-collections/l1116" style="padding:0; border-bottom: 0 !important;">
+                                                                        <img style="max-width: 154px;" class="feature-img" src="/imagebanner/156/21?v=25">
+                                                                    </a>
+                                                                
+                                                            </div>
+
+                                                    </li>
+                                                    <li>
+                                                            <span style="display: block; cursor: default;" class="menu-spacer"> </span>
+
+                                                    </li>
+                                                    <li>
+                                                            <div class="menu-thumb">
+                                                                
+
+
+                                                                    <a class="f2" href="/us/moodboard-how-to-guide/l1315" style="padding:0; border-bottom: 0 !important;">
+                                                                        <img style="max-width: 154px;" class="feature-img" src="/imagebanner/156/437?v=1">
+                                                                    </a>
+                                                                
+                                                            </div>
+
+                                                    </li>
+                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+
+
+                                    
+
+
+
+                                </div>
+                            </div>
+
+
+
+
+
+                                        <div class="mainColumn">
+                                            <div class="features" style="padding-top:15px; padding-bottom:15px;">
+
+                                                        <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
+                                                            <a target="_self" href="/us/wallpaper/royal-collection/l1301">NEW ROYAL COLLECTION WALLPAPER - BUCKINGHAM</a>
+                                                        </div>
+
+
+                                                        <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
+                                                            <a target="_self" href="/us/wallpaper/floral-wallpaper/l1293">DISCOVER NEW STUNNING FLORAL WALLPAPER</a>
+                                                        </div>
+
+
+                                                        <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
+                                                            <a target="_self" href="/us/find-your-local-stockist/l500">FIND YOUR LOCAL STOCKIST</a>
                                                         </div>
 
                                             </div>
@@ -1805,83 +3424,579 @@
 
                 </li>
                 <li data-menuid="3"><!-- No spaces
-                    --><a class="default-text" href="/us/furniture/l1175" target="_self">Furniture</a>
+                    --><a class="default-text" rel="" href="/us/furniture/l1175" target="_self">Furniture</a>
 
                         <div class="subMenu">
 
                             <div class="mainColumn">
                                 <div class="mainMargin">
 
-                                        <div class="nav-col nav-col-six col-one">
+                                        <div class="nav-col nav-col-five col-one">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/chairs/l1163" target="_self" title="Chairs">Chairs</a>
+                                                            <a class="bold-header-no-underline" href="/us/chairs/l1163" rel="" target="_self" title="Chairs">Chairs</a>
+
+                                                    </li>
+                                                    <li>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-two">
+                                        <div class="nav-col nav-col-five col-two">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/sofas/l1162" target="_self" title="Sofas">Sofas</a>
+                                                            <a class="bold-header-no-underline" href="/us/sofas/l1162" rel="" target="_self" title="Sofas">Sofas</a>
+
+                                                    </li>
+                                                    <li>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-three">
+                                        <div class="nav-col nav-col-five col-three">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/modular-sofas/l1165" target="_self" title="Body &amp; Bath">Body &amp; Bath</a>
+                                                            <a class="bold-header-no-underline" href="/us/modular-sofas/l1165" rel="" target="_self" title="Modular">Modular</a>
+
+                                                    </li>
+                                                    <li>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-four">
+                                        <div class="nav-col nav-col-five col-four">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/daybeds/l1166" target="_self" title="Daybeds">Daybeds</a>
+                                                            <a class="bold-header-no-underline" href="/us/daybeds/l1166" rel="" target="_self" title="Daybeds">Daybeds</a>
+
+                                                    </li>
+                                                    <li>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-five">
+                                        <div class="nav-col nav-col-five col-five">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/stools/l1164" target="_self" title="Stools">Stools</a>
+                                                            <a class="bold-header-no-underline" href="/us/stools/l1164" rel="" target="_self" title="Stools">Stools</a>
+
+                                                    </li>
+                                                    <li>
 
                                                     </li>
                                             </ul>
 
 
 
-                                        </div>
-                                        <div class="nav-col nav-col-six col-six">
-                                            <ul class="navsection">
 
-                                                
-                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1905,99 +4020,580 @@
 
                 </li>
                 <li data-menuid="9"><!-- No spaces
-                    --><a class="default-text" href="/us/lifestyle/l1187" target="_self">Lifestyle</a>
+                    --><a class="default-text" rel="" href="/us/lifestyle/l1187" target="_self">Lifestyle</a>
 
                         <div class="subMenu">
 
                             <div class="mainColumn">
                                 <div class="mainMargin">
 
-                                        <div class="nav-col nav-col-six col-one">
+                                        <div class="nav-col nav-col-five col-one">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/rugs/l1212" target="_self" title="Rugs">Rugs</a>
+                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/rugs/l1212" rel="" target="_self" title="Rugs">Rugs</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/toiletry-bags/l1197" target="_self" title="Washbags">Washbags</a>
+                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/toiletry-bags/l1197" rel="" target="_self" title="Toiletry Bags">Toiletry Bags</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
                                         </div>
-                                        <div class="nav-col nav-col-six col-two">
+                                        <div class="nav-col nav-col-five col-two">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/throw-pillows/l1211" target="_self" title="Cushions">Cushions</a>
+                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/throw-pillows/l1211" rel="" target="_self" title="Cushions">Cushions</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/candles-diffusers-and-home-fragrance/l1198" target="_self" title="Candles &amp; Diffusers">Candles &amp; Diffusers</a>
+                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/candles-diffusers-and-home-fragrance/l1198" rel="" target="_self" title="Candles">Candles</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
                                         </div>
-                                        <div class="nav-col nav-col-six col-three">
+                                        <div class="nav-col nav-col-five col-three">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/bedding/l1192" target="_self" title="Bedlinen">Bedlinen</a>
+                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/bedding/l1192" rel="" target="_self" title="Bedding">Bedding</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/lifestlye-gallery/tricia-guild-books/l1199" target="_self" title="Tricia Guild Books">Tricia Guild Books</a>
+                                                            <a class="bold-header-no-underline" href="/us/lifestlye-gallery/tricia-guild-books/l1199" rel="" target="_self" title="Tricia Guild Books">Tricia Guild Books</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
                                         </div>
-                                        <div class="nav-col nav-col-six col-four">
+                                        <div class="nav-col nav-col-five col-four">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/throws-and-quilts/l1195" target="_self" title="Throws &amp; Quilts">Throws &amp; Quilts</a>
+                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/throws-and-quilts/l1195" rel="" target="_self" title="Throws &amp; Quilts">Throws &amp; Quilts</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/shop-online/l1142" target="_self" title="Shop Online">Shop Online</a>
+                                                            <a class="bold-header-no-underline" href="/us/shop-online/l1142" rel="" target="_self" title="Shop Online">Shop Online</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
                                         </div>
-                                        <div class="nav-col nav-col-six col-five">
+                                        <div class="nav-col nav-col-five col-five">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/towels/l1196" target="_self" title="Towels">Towels</a>
+                                                            <a class="bold-header-no-underline" href="/us/lifestyle-gallery/towels/l1196" rel="" target="_self" title="Towels">Towels</a>
 
                                                     </li>
                                             </ul>
 
 
 
-                                        </div>
-                                        <div class="nav-col nav-col-six col-six">
-                                            <ul class="navsection">
 
-                                                
-                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2021,99 +4617,489 @@
 
                 </li>
                 <li data-menuid="5"><!-- No spaces
-                    --><a class="default-text" href="/us/contracts/l1177" target="_self">Contracts</a>
+                    --><a class="default-text" rel="" href="/us/contracts/l1177" target="_self">Contracts</a>
 
                         <div class="subMenu">
 
                             <div class="mainColumn">
                                 <div class="mainMargin">
 
-                                        <div class="nav-col nav-col-six col-one">
+                                        <div class="nav-col nav-col-four col-one">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/about-contracts/l1030" target="_self" title="About Contracts">About Contracts</a>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Services &amp; Information</span>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/contracts/contact-us/l1038" target="_self" title="Contact our Team">Contact our Team</a>
+                                                            <a class="default-text" href="/us/about-contracts/l1030" rel="" target="_self" title="About Contracts">About Contracts</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/service-and-samples/l1041" rel="" target="_self" title="Service &amp; Samples">Service &amp; Samples</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/technical-information/l1042" rel="" target="_self" title="Technical Information">Technical Information</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
                                         </div>
-                                        <div class="nav-col nav-col-six col-two">
+                                        <div class="nav-col nav-col-four col-two">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/brands-for-contracts/l1034" target="_self" title="Brands for Contracts">Brands for Contracts</a>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Contract Products</span>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/contract-collections/l1039" target="_self" title="Contract Collections">Contract Collections</a>
+                                                            <a class="default-text" href="/us/contract-fabrics/l1138" rel="" target="_self" title="Fabrics">Fabrics</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/contract-wallpaper/l1139" rel="" target="_self" title="Wallpapers">Wallpapers</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/contract-collections/l1039" rel="" target="_self" title="Collections">Collections</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/brands-for-contracts/l1034" rel="" target="_self" title="Brands">Brands</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
                                         </div>
-                                        <div class="nav-col nav-col-six col-three">
+                                        <div class="nav-col nav-col-four col-three">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/contract-fabrics/l1138" target="_self" title="Contract Fabrics">Contract Fabrics</a>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Showcase</span>
 
                                                     </li>
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/contract-wallcoverings/l1139" target="_self" title="Contract Wallcoverings">Contract Wallcoverings</a>
+                                                            <a class="default-text" href="/us/recent-projects/l1040" rel="" target="_self" title="Recent Projects">Recent Projects</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
                                         </div>
-                                        <div class="nav-col nav-col-six col-four">
+                                        <div class="nav-col nav-col-four col-four">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/recent-projects/l1040" target="_self" title="Recent Projects">Recent Projects</a>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Get in Touch</span>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/contracts/contact-us/l1038" rel="" target="_self" title="Contact our Contracts Team">Contact our Contracts Team</a>
 
                                                     </li>
                                             </ul>
 
 
 
-                                        </div>
-                                        <div class="nav-col nav-col-six col-five">
-                                            <ul class="navsection">
-
-                                                
-                                                    <li>
-                                                            <a class="bold-header-no-underline" href="/us/service-and-sample/l1041" target="_self" title="Service &amp; Samples">Service &amp; Samples</a>
-
-                                                    </li>
-                                            </ul>
 
 
 
-                                        </div>
-                                        <div class="nav-col nav-col-six col-six">
-                                            <ul class="navsection">
 
-                                                
-                                                    <li>
-                                                            <a class="bold-header-no-underline" href="/us/technical-information/l1042" target="_self" title="Technical Information">Technical Information</a>
 
-                                                    </li>
-                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2137,12 +5123,521 @@
 
                 </li>
                 <li data-menuid="8"><!-- No spaces
-                    --><a class="default-text" href="/us/where-to-buy/l1176" target="_self">Where to buy</a>
+                    --><a class="default-text" rel="" href="/us/find-your-local-stockist/l500" target="_self">Where to buy</a>
 
+                        <div class="subMenu">
+
+                            <div class="mainColumn">
+                                <div class="mainMargin">
+
+                                        <div class="nav-col nav-col-four col-one">
+                                            <ul class="navsection">
+
+                                                
+                                                    <li>
+                                                            <a class="bold-header-no-underline" href="/us/flagship-stores/l1176" rel="" target="_self" title="Flagship Stores">Flagship Stores</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/kings-road-homestore/l1152" rel="" target="_self" title="Kings Road Homestore">Kings Road Homestore</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/kings-road-showroom/l1154" rel="" target="_self" title="Kings Road Showroom">Kings Road Showroom</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/marylebone-high-street-homestore/l1153" rel="" target="_self" title="Marylebone High Street">Marylebone High Street</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <span style="display: block; cursor: default;" class="menu-spacer"> </span>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/store-events/l1279" rel="" target="_self" title="Events &amp; Promotions">Events &amp; Promotions</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/interior-design-service/l800" rel="" target="_self" title="Interior Design Service">Interior Design Service</a>
+
+                                                    </li>
+                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+                                        <div class="nav-col nav-col-four col-two">
+                                            <ul class="navsection">
+
+                                                
+                                                    <li>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Online Shops</span>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/uk/shop-online/l1142" rel="" target="_self" title="UK">UK</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/shop-online/l1142" rel="" target="_self" title="US">US</a>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="http://designersguild.net.au/" rel="nofollow" target="_blank" title="Australia">Australia</a>
+
+                                                    </li>
+                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+                                        <div class="nav-col nav-col-four col-three">
+                                            <ul class="navsection">
+
+                                                
+                                                    <li>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Worldwide Stockists</span>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/find-your-local-stockist/l500" rel="" target="_self" title="Find Your Local Stockist">Find Your Local Stockist</a>
+
+                                                    </li>
+                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+                                        <div class="nav-col nav-col-four col-four">
+                                            <ul class="navsection">
+
+                                                
+                                                    <li>
+                                                            <span style="display: block; cursor: default;" class="bold-header-no-underline">Contracts</span>
+
+                                                    </li>
+                                                    <li>
+                                                            <a class="default-text" href="/us/contracts/contact-us/l1038" rel="" target="_self" title="Contracts Team">Contracts Team</a>
+
+                                                    </li>
+                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+
+
+                                    
+
+
+
+                                </div>
+                            </div>
+
+
+
+
+
+
+
+                        </div>
 
                 </li>
                 <li data-menuid="11"><!-- No spaces
-                    --><a class="default-text" href="#" target="_self">Brands</a>
+                    --><a class="default-text" rel="" href="#" target="_self">Brands</a>
 
                         <div class="subMenu">
 
@@ -2158,22 +5653,120 @@
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/all-fabrics/l1113" target="_self" title="Throw Pillows">Throw Pillows</a>
+                                                            <a class="default-text" href="/us/fabric/designers-guild/l1113" rel="" target="_self" title="Throw Pillows">Throw Pillows</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/all-wallcoverings/l1119" target="_self" title="Wallcoverings">Wallcoverings</a>
+                                                            <a class="default-text" href="/us/wallpaper/designers-guild/l1119" rel="" target="_self" title="Wallpaper">Wallpaper</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/furniture/l1175" target="_self" title="Furniture">Furniture</a>
+                                                            <a class="default-text" href="/us/furniture/l1175" rel="" target="_self" title="Furniture">Furniture</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/shop-online/l1142" target="_self" title="Shop">Shop</a>
+                                                            <a class="default-text" href="/us/shop-online/l1142" rel="" target="_self" title="Shop">Shop</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2187,18 +5780,116 @@
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/christian-lacroix-fabrics-and-wallcoverings/l1134" target="_self" title="Fabric">Fabric</a>
+                                                            <a class="default-text" href="/us/fabric/christian-lacroix/l1134" rel="" target="_self" title="Fabric">Fabric</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/christian-lacroix-fabrics-and-wallcoverings/l1134" target="_self" title="Wallcoverings">Wallcoverings</a>
+                                                            <a class="default-text" href="/us/wallpaper/christain-lacroix/l1300" rel="" target="_self" title="Wallpaper">Wallpaper</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/christian-lacroix/l1032" target="_self" title="Shop">Shop</a>
+                                                            <a class="default-text" href="/us/christian-lacroix/l1032" rel="" target="_self" title="Shop">Shop</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2212,14 +5903,112 @@
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/ralph-lauren-fabrics-and-wallcoverings/l1128" target="_self" title="Fabric">Fabric</a>
+                                                            <a class="default-text" href="/us/fabric/ralph-lauren/l1128" rel="" target="_self" title="Fabric">Fabric</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/ralph-lauren-fabrics-and-wallcoverings/l1128" target="_self" title="Candles &amp; Home Fragrance">Candles &amp; Home Fragrance</a>
+                                                            <a class="default-text" href="/us/wallpaper/ralph-lauren/l1303" rel="" target="_self" title="Candles &amp; Home Fragrance">Candles &amp; Home Fragrance</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2233,18 +6022,116 @@
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/royal-collection-fabrics-and-wallcoverings/l1130" target="_self" title="Fabric">Fabric</a>
+                                                            <a class="default-text" href="/us/fabric/royal-collection/l1130" rel="" target="_self" title="Fabric">Fabric</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/royal-collection-fabrics-and-wallcoverings/l1130" target="_self" title="Sheets &amp; Pillowcases">Sheets &amp; Pillowcases</a>
+                                                            <a class="default-text" href="/us/wallpaper/royal-collection/l1301" rel="" target="_self" title="Sheets &amp; Pillowcases">Sheets &amp; Pillowcases</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/royal-collection/l1035" target="_self" title="Shop">Shop</a>
+                                                            <a class="default-text" href="/us/royal-collection/l1035" rel="" target="_self" title="Shop">Shop</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2258,18 +6145,112 @@
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/william-yeoward-fabrics-and-wallcoverings/l1136" target="_self" title="Fabric">Fabric</a>
+                                                            <a class="default-text" href="/us/fabric/william-yeoward/l1136" rel="" target="_self" title="Fabric">Fabric</a>
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/william-yeoward-fabrics-and-wallcoverings/l1136" target="_self" title="Wallcoverings">Wallcoverings</a>
-
-                                                    </li>
-                                                    <li>
-                                                            <a class="default-text" href="/us/sale-william-yeoward/l1103" target="_self" title="Shop">Shop</a>
+                                                            <a class="default-text" href="/us/wallpaper/william-yeoward/l1302" rel="" target="_self" title="Wallpaper">Wallpaper</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2283,10 +6264,108 @@
 
                                                     </li>
                                                     <li>
-                                                            <a class="default-text" href="/us/howard-hodgkin-for-designers-guild/c543" target="_self" title="Fabric">Fabric</a>
+                                                            <a class="default-text" href="/us/fabric/howard-hodgkin/howard-hodgkin-for-designers-guild/c543" rel="" target="_self" title="Fabric">Fabric</a>
 
                                                     </li>
                                             </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2310,83 +6389,564 @@
 
                 </li>
                 <li data-menuid="12"><!-- No spaces
-                    --><a class="default-text" href="/us/dg-world/l600" target="_self">DG World</a>
+                    --><a class="default-text" rel="" href="/us/dg-world/l600" target="_self">DG World</a>
 
                         <div class="subMenu">
 
                             <div class="mainColumn">
                                 <div class="mainMargin">
 
-                                        <div class="nav-col nav-col-six col-one">
+                                        <div class="nav-col nav-col-five col-one">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/dg-world/blog/l601" target="_self" title="Blog">Blog</a>
+                                                            <a class="bold-header-no-underline" href="/us/dg-world/blog/l601" rel="" target="_self" title="Blog">Blog</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-two">
+                                        <div class="nav-col nav-col-five col-two">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/dg-world/news-and-events/l602" target="_self" title="News &amp; Events">News &amp; Events</a>
+                                                            <a class="bold-header-no-underline" href="/us/dg-world/news-and-events/l602" rel="" target="_self" title="News &amp; Events">News &amp; Events</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-three">
+                                        <div class="nav-col nav-col-five col-three">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/brochures/l1179" target="_self" title="Brochures">Brochures</a>
+                                                            <a class="bold-header-no-underline" href="/us/brochures/l1179" rel="" target="_self" title="Brochures">Brochures</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-four">
+                                        <div class="nav-col nav-col-five col-four">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/films/l1180" target="_self" title="Films">Films</a>
+                                                            <a class="bold-header-no-underline" href="/us/films/l1180" rel="" target="_self" title="Films">Films</a>
 
                                                     </li>
                                             </ul>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                         </div>
-                                        <div class="nav-col nav-col-six col-five">
+                                        <div class="nav-col nav-col-five col-five">
                                             <ul class="navsection">
 
                                                 
                                                     <li>
-                                                            <a class="bold-header-no-underline" href="/us/dg-world/dgyourspace/a26" target="_self" title="#DGYOURSPACE">#DGYOURSPACE</a>
+                                                            <a class="bold-header-no-underline" href="/us/dg-world/dgyourspace/a26" rel="" target="_self" title="#DGYOURSPACE">#DGYOURSPACE</a>
 
                                                     </li>
                                             </ul>
 
 
 
-                                        </div>
-                                        <div class="nav-col nav-col-six col-six">
-                                            <ul class="navsection">
 
-                                                
-                                            </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2427,54 +6987,34 @@
 
 
 
-        <div class="features">
-
-
-                <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
 
 
 
-                        <a target="_self" href="/us/request-a-brochure/l1216">REQUEST A SS15  BED &amp; BATH BROCHURE</a>
-
-                </div>
-
-                <div class="grid-3-col grid sublinks left under-menu-banner-C5">
 
 
-
-                        <a target="_self" href="/us/mid-season-sale/l1036">MID SEASON SALE NOW ON WITH UP TO 60% OFF!</a>
-
-                </div>
-
-                <div class="grid-3-col grid sublinks left under-menu-banner-C2b">
-
-
-
-                        <a target="_self" href="/us/latest-fabric-collections/l1003">DISCOVER OUR LATEST FABRIC COLLECTIONS</a>
-                </div>
-
-
+        <div class="features grid-1-col" style="margin: 2px 0; color: #444">
+            <div class="grid">
+                
+                <ul class="page-breadcrumb-list">
+                        <li>
+                                <span>Privacy Policy</span>
+                        </li>
+                </ul>
+            </div>
         </div>
 
 
 
 
+<div class="slides slideshow-land-513" style="max-width: 1560px; position: relative; height: 411.538px;">
+    <ul id="slideshow-container-513" class="bjqs" style="width: 100%; height: 411.538px; display: block;">
 
+                <li class="bjqs-slide" style="width: 100%; height: 411.538px; display: list-item;">
 
-
-
-
-
-
-
-<div class="slides slideshow-land-513" style="max-width: 1560px; position: relative; height: 519.231px;">
-    <ul id="slideshow-container-513" class="bjqs" style="width: 100%; height: 519.231px;">
-
-                <li class="bjqs-slide" style="width: 100%; height: 519.231px;">
-
+                <!--googleoff: snippet-->
                 <div id="markerCounter0" data-markercount="5" style="display:none;"></div>
                         <div id="slideshowCounter" data-slideshowcount="2" style="display:none;"></div>
-                    <div id="hotspotMarker00" data-toppercent="59.3899993896484%" data-leftpercent="13.5699996948242%" class="marker" style="top: 56.8852%; left: 12.607%;">
+                    <div id="hotspotMarker00" data-toppercent="59.3899993896484%" data-leftpercent="13.5699996948242%" class="marker" style="top: 56.2347%; left: 12.355%;">
                         <a style="text-decoration: none !important;" class="bottomLeft" href="/us/adelphi-chair/p11617">
                             <span class="marker-pin"></span>
                             <img src="/image/156/29065">
@@ -2483,35 +7023,8 @@
                             <span class="name">UF134</span>
                         </a>
                     </div>
-                    <div id="hotspotMarker01" data-toppercent="34.0099983215332%" data-leftpercent="22.0699996948242%" class="marker" style="top: 31.5052%; left: 21.107%;">
-                        <a style="text-decoration: none !important;" class="topLeft" href="/us/designers-guild-essentials/fabric/cosia-blossom-fabric/p12939">
-                            <span class="marker-pin"></span>
-                            <img src="/image/156/36669">
-
-                            <span class="name">cosia - blossom</span>
-                            <span class="name">FDG2267/30</span>
-                        </a>
-                    </div>
-                    <div id="hotspotMarker02" data-toppercent="31.2199993133545%" data-leftpercent="71.7799987792969%" class="marker" style="top: 28.7152%; left: 70.817%;">
-                        <a style="text-decoration: none !important;" class="topRight" href="/us/designers-guild-essentials/fabric/cosia-cobalt-fabric/p12911">
-                            <span class="marker-pin"></span>
-                            <img src="/image/156/36711">
-
-                            <span class="name">cosia - cobalt</span>
-                            <span class="name">FDG2267/02</span>
-                        </a>
-                    </div>
-                    <div id="hotspotMarker03" data-toppercent="50%" data-leftpercent="52.439998626709%" class="marker" style="top: 47.4952%; left: 51.477%;">
-                        <a style="text-decoration: none !important;" class="topRight" href="/us/designers-guild-essentials/fabric/cosia-denim-fabric/p12913">
-                            <span class="marker-pin"></span>
-                            <img src="/image/156/36713">
-
-                            <span class="name">cosia - denim</span>
-                            <span class="name">FDG2267/04</span>
-                        </a>
-                    </div>
-                    <div id="hotspotMarker04" data-toppercent="28.4300003051758%" data-leftpercent="39.8400001525879%" class="marker" style="top: 25.9252%; left: 38.877%;">
-                        <a style="text-decoration: none !important;" class="topLeft" href="/us/designers-guild-essentials/fabric/cosia-orchid-fabric/p12940">
+                    <div id="hotspotMarker01" data-toppercent="28.4300003051758%" data-leftpercent="39.8400001525879%" class="marker" style="top: 25.2747%; left: 38.625%;">
+                        <a style="text-decoration: none !important;" class="topLeft" href="/us/fabric/designers-guild-essentials/cosia-orchid-fabric/p12940">
                             <span class="marker-pin"></span>
                             <img src="/image/156/37459">
 
@@ -2519,21 +7032,49 @@
                             <span class="name">FDG2267/31</span>
                         </a>
                     </div>
-                    <img src="/image/1024/40808" alt="" style="width: 100%; height: 519.231px;">
-                        <div class="slideshow-feature-description show slideshow-overlay-fade" style="top: 0.00% !important; left: 0.00% !important; width: 100.00% !important; height: 20.00% !important;background: rgb(255, 255, 255) !important;background: rgba(255, 255, 255, 0.05) !important;">
-                        </div>
-                        <div class="slideshow-feature-description show slideshow-overlay-fade" style="top: 0.00% !important; left: 0.00% !important; width: 100.00% !important; height: 20.00% !important;color: rgb(0, 0, 0) !important;">
-                            <h1 class="feature-title">PRIVACY POLICY</h1>
-                            <span class="feature-txt"></span>
-                        </div>
+                    <div id="hotspotMarker02" data-toppercent="31.2199993133545%" data-leftpercent="71.7799987792969%" class="marker" style="top: 28.0647%; left: 70.565%;">
+                        <a style="text-decoration: none !important;" class="topRight" href="/us/fabric/designers-guild-essentials/cosia-cobalt-fabric/p12911">
+                            <span class="marker-pin"></span>
+                            <img src="/image/156/36711">
 
+                            <span class="name">cosia - cobalt</span>
+                            <span class="name">FDG2267/02</span>
+                        </a>
+                    </div>
+                    <div id="hotspotMarker03" data-toppercent="50%" data-leftpercent="52.439998626709%" class="marker" style="top: 46.8447%; left: 51.225%;">
+                        <a style="text-decoration: none !important;" class="topRight" href="/us/fabric/designers-guild-essentials/cosia-denim-fabric/p12913">
+                            <span class="marker-pin"></span>
+                            <img src="/image/156/36713">
+
+                            <span class="name">cosia - denim</span>
+                            <span class="name">FDG2267/04</span>
+                        </a>
+                    </div>
+                    <div id="hotspotMarker04" data-toppercent="34.0099983215332%" data-leftpercent="22.0699996948242%" class="marker" style="top: 30.8547%; left: 20.855%;">
+                        <a style="text-decoration: none !important;" class="topLeft" href="/us/fabric/designers-guild-essentials/cosia-blossom-fabric/p12939">
+                            <span class="marker-pin"></span>
+                            <img src="/image/156/36669">
+
+                            <span class="name">cosia - blossom</span>
+                            <span class="name">FDG2267/30</span>
+                        </a>
+                    </div>
+                <!--googleon: snippet-->
+                    <img src="/image/1024/40808" alt="" style="width: 100%; height: 411.538px;">
+    <div class="slideshow-feature-description show slideshow-overlay-fade" style="top: 0.00% !important; opacity: 0.85; left: 0.00% !important; width: 32.00% !important; height: 100.00% !important; background: -webkit-linear-gradient(left,  rgba(255,255,255, 0.85) 0%,rgba(255,255,255,0.85) 72%,rgba(255,255,255,0) 98%,rgba(255,255,255,0) 100%); background: linear-gradient(to right, rgba(255, 255, 255, 0.85) 0%, rgba(255, 255, 255, 0.85) 72%, rgba(255, 255, 255, 0.0) 98%);">
+                        </div>
+                        <div class="slideshow-feature-description show slideshow-overlay-fade" style="top: 0.00% !important; left: 0.00% !important; width: 32.00% !important; height: 100.00% !important;color: rgb(0, 0, 0) !important;">
+                            <h1 class="feature-title" style="width: 85%; font-size: 150% !important;">PRIVACY POLICY</h1>
+                            <span class="feature-txt" style="width: 85%;"></span>
+                        </div>
 
                 </li>
-                <li class="bjqs-slide" style="width: 100%; height: 519.231px;">
+                <li class="bjqs-slide" style="width: 100%; height: 411.538px;">
 
+                <!--googleoff: snippet-->
                 <div id="markerCounter1" data-markercount="8" style="display:none;"></div>
                         <div id="slideshowCounter" data-slideshowcount="2" style="display:none;"></div>
-                    <div id="hotspotMarker10" data-toppercent="60.4099998474121%" data-leftpercent="13.0900001525879%" class="marker" style="top: 57.9052%; left: 12.127%;">
+                    <div id="hotspotMarker10" data-toppercent="60.4099998474121%" data-leftpercent="13.0900001525879%" class="marker" style="top: 57.2547%; left: 11.875%;">
                         <a style="text-decoration: none !important;" class="bottomLeft" href="/us/bellariva-dove-throw-pillow/p13369">
                             <span class="marker-pin"></span>
                             <img src="/image/156/38913">
@@ -2543,7 +7084,7 @@
                             <span class="name">CCDG0379</span>
                         </a>
                     </div>
-                    <div id="hotspotMarker11" data-toppercent="67.5100021362305%" data-leftpercent="16.7999992370605%" class="marker" style="top: 65.0052%; left: 15.837%;">
+                    <div id="hotspotMarker11" data-toppercent="67.5100021362305%" data-leftpercent="16.7999992370605%" class="marker" style="top: 64.3547%; left: 15.585%;">
                         <a style="text-decoration: none !important;" class="bottomLeft" href="/us/adelphi-sofa/p11616">
                             <span class="marker-pin"></span>
                             <img src="/image/156/29066">
@@ -2552,26 +7093,8 @@
                             <span class="name">UF135</span>
                         </a>
                     </div>
-                    <div id="hotspotMarker12" data-toppercent="54.5699996948242%" data-leftpercent="18.4599990844727%" class="marker" style="top: 52.0652%; left: 17.497%;">
-                        <a style="text-decoration: none !important;" class="bottomLeft" href="/us/designers-guild/fabric/torlonia-zinc-fabric/p12857">
-                            <span class="marker-pin"></span>
-                            <img src="/image/156/31638">
-
-                            <span class="name">torlonia - zinc</span>
-                            <span class="name">FDG2257/04</span>
-                        </a>
-                    </div>
-                    <div id="hotspotMarker13" data-toppercent="56.0900001525879%" data-leftpercent="33.2999992370605%" class="marker" style="top: 53.5852%; left: 32.337%;">
-                        <a style="text-decoration: none !important;" class="bottomLeft" href="/us/designers-guild/fabric/torlonia-linen-fabric/p12862">
-                            <span class="marker-pin"></span>
-                            <img src="/image/156/31651">
-
-                            <span class="name">torlonia - linen</span>
-                            <span class="name">FDG2257/09</span>
-                        </a>
-                    </div>
-                    <div id="hotspotMarker14" data-toppercent="10.6599998474121%" data-leftpercent="83.4000015258789%" class="marker" style="top: 8.15518%; left: 82.437%;">
-                        <a style="text-decoration: none !important;" class="topRight" href="/us/designers-guild/fabric/winter-palace-indigo-fabric/p13251">
+                    <div id="hotspotMarker12" data-toppercent="10.6599998474121%" data-leftpercent="83.4000015258789%" class="marker" style="top: 7.50466%; left: 82.185%;">
+                        <a style="text-decoration: none !important;" class="topRight" href="/us/fabric/designers-guild/winter-palace-indigo-fabric/p13251">
                             <span class="marker-pin"></span>
                             <img src="/image/156/36620">
 
@@ -2579,17 +7102,8 @@
                             <span class="name">FDG2297/01</span>
                         </a>
                     </div>
-                    <div id="hotspotMarker15" data-toppercent="47.9700012207031%" data-leftpercent="77.0500030517578%" class="marker" style="top: 45.4652%; left: 76.087%;">
-                        <a style="text-decoration: none !important;" class="topRight" href="/us/designers-guild/fabric/shanshui-platinum-fabric/p12908">
-                            <span class="marker-pin"></span>
-                            <img src="/image/156/31694">
-
-                            <span class="name">shanshui - platinum</span>
-                            <span class="name">FDG2260/02</span>
-                        </a>
-                    </div>
-                    <div id="hotspotMarker16" data-toppercent="53.810001373291%" data-leftpercent="58.5%" class="marker" style="top: 51.3052%; left: 57.537%;">
-                        <a style="text-decoration: none !important;" class="bottomRight" href="/us/designers-guild-essentials/fabric/brera-spigato-ebony-fabric/p12886">
+                    <div id="hotspotMarker13" data-toppercent="53.810001373291%" data-leftpercent="58.5%" class="marker" style="top: 50.6547%; left: 57.285%;">
+                        <a style="text-decoration: none !important;" class="bottomRight" href="/us/fabric/designers-guild-essentials/brera-spigato-ebony-fabric/p12886">
                             <span class="marker-pin"></span>
                             <img src="/image/156/31661">
 
@@ -2597,8 +7111,35 @@
                             <span class="name">FDG2265/04</span>
                         </a>
                     </div>
-                    <div id="hotspotMarker17" data-toppercent="35.7900009155273%" data-leftpercent="12.3999996185303%" class="marker" style="top: 33.2852%; left: 11.437%;">
-                        <a style="text-decoration: none !important;" class="topLeft" href="/us/designers-guild/wallpaper/marmorino-steel-wallpaper/p13318">
+                    <div id="hotspotMarker14" data-toppercent="54.5699996948242%" data-leftpercent="18.4599990844727%" class="marker" style="top: 51.4147%; left: 17.245%;">
+                        <a style="text-decoration: none !important;" class="bottomLeft" href="/us/fabric/designers-guild/torlonia-zinc-fabric/p12857">
+                            <span class="marker-pin"></span>
+                            <img src="/image/156/31638">
+
+                            <span class="name">torlonia - zinc</span>
+                            <span class="name">FDG2257/04</span>
+                        </a>
+                    </div>
+                    <div id="hotspotMarker15" data-toppercent="56.0900001525879%" data-leftpercent="33.2999992370605%" class="marker" style="top: 52.9347%; left: 32.085%;">
+                        <a style="text-decoration: none !important;" class="bottomLeft" href="/us/fabric/designers-guild/torlonia-linen-fabric/p12862">
+                            <span class="marker-pin"></span>
+                            <img src="/image/156/31651">
+
+                            <span class="name">torlonia - linen</span>
+                            <span class="name">FDG2257/09</span>
+                        </a>
+                    </div>
+                    <div id="hotspotMarker16" data-toppercent="47.9700012207031%" data-leftpercent="77.0500030517578%" class="marker" style="top: 44.8147%; left: 75.835%;">
+                        <a style="text-decoration: none !important;" class="topRight" href="/us/fabric/designers-guild/shanshui-platinum-fabric/p12908">
+                            <span class="marker-pin"></span>
+                            <img src="/image/156/31694">
+
+                            <span class="name">shanshui - platinum</span>
+                            <span class="name">FDG2260/02</span>
+                        </a>
+                    </div>
+                    <div id="hotspotMarker17" data-toppercent="35.7900009155273%" data-leftpercent="12.3999996185303%" class="marker" style="top: 32.6347%; left: 11.185%;">
+                        <a style="text-decoration: none !important;" class="topLeft" href="/us/wallpaper/designers-guild/marmorino-steel-wallpaper/p13318">
                             <span class="marker-pin"></span>
                             <img src="/image/156/36264">
 
@@ -2606,14 +7147,14 @@
                             <span class="name">PDG653/04</span>
                         </a>
                     </div>
-                    <img src="/image/1024/40805" alt="" style="width: 100%; height: 519.231px;">
-                        <div class="slideshow-feature-description show slideshow-overlay-fade" style="top: 0.00% !important; left: 0.00% !important; width: 100.00% !important; height: 20.00% !important;background: rgb(255,255,255) !important;background: rgba(255,255,255  , 0.05) !important;">
+                <!--googleon: snippet-->
+                    <img src="/image/1024/40805" alt="" style="width: 100%; height: 411.538px;">
+    <div class="slideshow-feature-description show slideshow-overlay-fade" style="top: 0.00% !important; opacity: 0.85; left: 0.00% !important; width: 32.00% !important; height: 100.00% !important; background: -webkit-linear-gradient(left,  rgba(255,255,255, 0.85) 0%,rgba(255,255,255,0.85) 72%,rgba(255,255,255,0) 98%,rgba(255,255,255,0) 100%); background: linear-gradient(to right, rgba(255, 255, 255, 0.85) 0%, rgba(255, 255, 255, 0.85) 72%, rgba(255, 255, 255, 0.0) 98%);">
                         </div>
-                        <div class="slideshow-feature-description show slideshow-overlay-fade" style="top: 0.00% !important; left: 0.00% !important; width: 100.00% !important; height: 20.00% !important;color: rgb(0,0,0) !important;">
-                            <h1 class="feature-title">PRIVACY POLICY</h1>
-                            <span class="feature-txt"></span>
+                        <div class="slideshow-feature-description show slideshow-overlay-fade" style="top: 0.00% !important; left: 0.00% !important; width: 32.00% !important; height: 100.00% !important;color: rgb(0,0,0) !important;">
+                            <h1 class="feature-title" style="width: 85%; font-size: 150% !important;">PRIVACY POLICY</h1>
+                            <span class="feature-txt" style="width: 85%;"></span>
                         </div>
-
 
                 </li>
 
@@ -2624,6 +7165,7 @@
 
 
 
+                
 
 
 
@@ -2680,8 +7222,7 @@
 
 
 
-
-<ul class="bjqs-controls v-centered"><li class="bjqs-prev"><a href="#" data-direction="previous" style="top: 41.8333%;"></a></li><li class="bjqs-next"><a href="#" data-direction="forward" style="top: 41.8333%;"></a></li></ul><ol class="bjqs-markers"><li class="active-marker"><a href="#">1</a></li><li><a href="#">2</a></li></ol></div>
+<ul class="bjqs-controls v-centered"><li class="bjqs-prev"><a href="#" data-direction="previous" style="top: 31.3333%;"></a></li><li class="bjqs-next"><a href="#" data-direction="forward" style="top: 31.3333%;"></a></li></ul><ol class="bjqs-markers"><li class="active-marker"><a href="#">1</a></li><li><a href="#">2</a></li></ol></div>
 
 <script>
     $(document).ready(function () {
@@ -2699,57 +7240,112 @@
 
 
 <!-- CONTENT GOES HERE -->
-             <div class="row">
-               <div class="col-full standardtext">
-                       <h1 class="header_h1" style="margin-bottom: 20px;"><br></h1>
-                      <div class="accord_half_column left_float addendum-justified-text">
-                          <p>Designers Guild values its customers and respects their privacy. Any information we collect about you is held with the utmost care and security. 
-                           Your visit to our website and your use of any of the services or features we provide is subject to our terms and conditions of which this privacy policy is part.
-                           You will be asked to register if you would like to use some of the services and features we offer on our website.</p>
-                          <p>In order to register you will have to provide details including your name, address, telephone number and email address.
-                           When you register with us your informatio­n is stored in my account. Once you have logged in you can access your account directly to amend any personal details, for example if you change your address. 
-                           If you wish to place an order on our website you will also be required to provide credit or debit card details.</p>
-                          <p>We use the latest strong encryption technology to ensure that all transactional information is protected to the highest standard.</p>
-                          <p>Transactional information includes any credit or debit card details, your personal contact information, 
-                           together with any other names and addresses you provide when you place an order for delivery to another address, and your purchasing history. 
-                           When you give us information, it may be used for:</p>
-                          <h3 class="header_h3">Administration of our site</h3>
-                           <p>The information you give us is necessary to enable us to fulfil your order, make sure it is delivered correctly and to maintain your account.</p>
-                          <h3 class="header_h3">Customer service</h3>
-                          <p>We ask for your contact details, such as your email address and telephone number, to enable us to answer any questions you have about using our website and to notify you about the status of your order.</p>
-                      
-                          <h3 class="header_h3">Direct marketing</h3>
-                          <p>We want to keep you up to date on our latest products, promotional offers and events. 
-                          If you have agreed when you registered, we can inform you about these and other services and 
-                          events we offer by e–mail, post or telephone. You can also choose when registering to receive
-                          such information from other carefully selected companies.</p>
-                          <p> You will not be sent any unsolicited material unless you indicate that you want to receive details about products, 
-                          offers and events etc. when you register. We do not provide your personal details to other companies
-                          or individuals for their marketing purposes unless you have indicated when you registered
-                          that you wish to receive information about other companies products, offers and services.</p>
-                         <p> From time to time we retain the services of other carefully selected and monitored companies 
-                          and individuals to perform functions on our behalf in connection with the successful operation and
-                          continuous improvement of this website.</p>
-                      </div>
-                      <div class="accord_half_column right_float">
-                         <p>Examples of these functions would include the processing of
-                         data to process your order and maintain your account including the authorisation and validation of
-                         credit or debit card transactions, the provision of delivery services, the analysis of data, etc.</p>
-                         <p>These companies or individuals may be provided with access to your personal details in order to fulfil their function but may not use such information for any other purpose.</p>
-                         <h3 class="header_h3">Cookies</h3>
-                         <p>The Designers Guild online ordering system uses cookies to record a unique reference on your computer. The use of cookies allows us to remember the goods that you placed in your shopping basket. Our cookies do not remember your credit card details. </p>
-                         <p>You may experience technical difficulties in using our website if you have disabled cookies. If you have disabled JavaScript you will not be able to use this website. You can alter your cookie and JavaScript settings in your browser′s preferences which are usually found in the Edit menu.</p>
-                         <h3 class="header_h3">Data protection</h3> 
-                         <p>Designers Guild complies with and is registered under the Data Protection Act. You may see the personal data that we hold on you by sending a £10 fee and a written request to: The Company Secretary, Designers Guild Limited, 3 Latimer Place, London W10 6QT. Designers Guild is committed to protecting the information we collect from you, which we use to enhance your experience of using our site and to provide you with the merchandise and services you request from us.</p>
-                         <p> The above section of our terms &amp; conditions comprises our privacy policy and enables you to understand how we retain and use your personal information. You can at any time change and update the information you have provided by logging into my account.</p>
-                         <h3 class="header_h3">Email Opt Out</h3>
-                        <p>To opt out of any of the Designers Guild emails go to the bottom of the email and click on the unsubscribe button, it can be found in the following sentence on the email: If you do not wish to receive further emails from Designers Guild you can unsubscribe any time. Once this has been done you will no longer receive emails from Designers Guild.</p>
-                      </div>
-             
-               </div>
-             </div>
-            
-            <!-- / CONTENT -->
+	<div class="row">
+		<div class="col-full standardtext">
+			<h1 class="header_h1" style="margin-bottom: 20px;"><br></h1>
+			<div class="accord_half_column left_float addendum-justified-text">
+				<p>
+					Designers Guild values its customers and respects their privacy. Any information we collect about you is held with the utmost care and security. 
+					Your visit to our website and your use of any of the services or features we provide is subject to our terms and conditions of which this privacy policy is part.
+					You will be asked to register if you would like to use some of the services and features we offer on our website.
+				</p>
+				<p>
+					In order to register you will have to provide details including your name, address, telephone number and email address.
+					When you register with us your information is stored in your account. Once you have logged in you can access your account directly to amend any personal details, for example if you change your address. 
+					If you wish to place an order on our website you will also be required to provide credit or debit card details, these are not stored by us either in whole or in part.
+				</p>
+				<p>
+					We use the latest strong encryption technology to ensure that all transactional information is protected to the highest standard.
+				</p>
+				<p>
+					Transactional information includes any credit or debit card details, your personal contact information, 
+					together with any other names and addresses you provide when you place an order for delivery to another address, and your purchasing history. 
+					When you give us information, it may be used for:
+				</p>
+
+				<h3 class="header_h1">
+					Administration of our site
+				</h3>
+				
+				<p>
+					The information you give us is necessary to enable us to fulfil your order, make sure it is delivered correctly and to maintain your account.
+				</p>
+				
+				<h3 class="header_h1">
+					Customer service
+				</h3>
+				<p>
+					We ask for your contact details, such as your email address and telephone number, to enable us to answer any questions you have about using our website and to notify you about the status of your order.
+				</p>
+
+				<h3 class="header_h1">
+					Direct marketing
+				</h3>
+				<p>
+					We want to keep you up to date on our latest products, promotional offers and events. 
+					If you have agreed when you registered, we can inform you about these and other services and 
+					events we offer by e–mail, post or telephone. You can also choose when registering to receive
+					such information from other carefully selected companies.
+				</p>
+				<p>
+					You will not be sent any unsolicited material unless you indicate that you want to receive details about products, 
+					offers and events etc. when you register. We do not provide your personal details to other companies
+					or individuals for their marketing purposes unless you have indicated when you registered
+					that you wish to receive information about other companies products, offers and services.
+				</p>
+				<p>
+					From time to time we retain the services of other carefully selected and monitored companies 
+					and individuals to perform functions on our behalf in connection with the successful operation and
+					continuous improvement of this website.
+				</p>
+			</div>
+				
+			<div class="accord_half_column right_float">
+				<p>
+					Examples of these functions would include the processing of
+					data to process your order and maintain your account including the authorisation and validation of
+					credit or debit card transactions, the provision of delivery services, the analysis of data, etc.
+				</p>
+				<p>
+					These companies or individuals may be provided with access to your personal details in order to fulfil their function but may not use such information for any other purpose.
+				</p>
+				<h3 class="header_h1">
+					Cookies
+				</h3>
+				<p>
+					The Designers Guild online ordering system uses cookies to record a unique reference on your computer. 
+					The use of cookies allows us to remember the goods that you placed in your shopping basket.
+					Our cookies do not remember your credit card details.
+				</p>
+				<p>
+					You may experience technical difficulties in using our website if you have disabled cookies. 
+					If you have disabled JavaScript you will not be able to use this website. 
+					You can alter your cookie and JavaScript settings in your browser′s preferences which are usually found in the Edit menu.
+				</p>
+				
+				<h3 class="header_h1">
+					Data protection
+				</h3> 
+				<p>
+					Designers Guild complies with and is registered under the Data Protection Act. 
+					You may see the personal data that we hold on you by sending a £10 fee and a written request to: 
+					The Company Secretary, Designers Guild Limited, 3 Latimer Place, London W10 6QT. Designers Guild is committed to protecting the information we collect from you, 
+					which we use to enhance your experience of using our site and to provide you with the merchandise and services you request from us.
+				</p>
+				<p>
+					The above section of our terms &amp; conditions comprises our privacy policy and enables you to understand how we retain and use your personal information. 
+					You can at any time change and update the information you have provided by logging into my account.
+				</p>
+				<h3 class="header_h1">Email Opt Out</h3>
+				<p>
+					To opt out of any of the Designers Guild emails go to the bottom of the email and click on the unsubscribe button, it can be found in the following sentence on the email: 
+					If you do not wish to receive further emails from Designers Guild you can unsubscribe any time. 
+					Once this has been done you will no longer receive emails from Designers Guild.
+				</p>
+			</div>
+		</div>
+	</div>
+<!-- / CONTENT -->
 
 
 
@@ -2759,8 +7355,8 @@
     <div id="sticky-square-footer">
         <a href="javascript:;" class="btn fancybox-btn-close" onclick="event.stopPropagation(); closeFooterPopup();"></a>
             
-                <a href="/us/join-our-mailing-list/l100?redirect=1010&amp;contentType=l" target="_self">
-                    <img style="display: block; width: 100%;" class="feature-img" src="/imagebanner/342/269?v=3">
+                <a href="/us/shop-online/l1142?redirect=1010&amp;contentType=l" target="_self">
+                    <img style="display: block; width: 100%;" class="feature-img" src="/imagebanner/342/218?v=7">
                     <span class="feature-txt-f2"></span>
                 </a>
             
@@ -2884,6 +7480,190 @@
 
 
 <script>
+
+    function resetScrapbookTooltip(ele) {
+        if($(ele).data('ui-tooltip')) {
+            $(ele).tooltip("close");
+            $(ele).tooltip("destroy");
+        }
+    }
+
+    function setScrapbookErrorTooltip(ele, toolTipMessage) {
+        resetScrapbookTooltip(ele);
+        $(ele).tooltip({
+            show: { effect: "fadeIn", duration: 400 },
+            content: function () {
+                var tooltipContent = $('<div />').html( $.parseHTML( toolTipMessage ) );
+                return tooltipContent;
+            },
+        }).on('mouseout focusout', function(event) {
+            event.stopImmediatePropagation();
+        });
+        $(ele).tooltip( "option", "hide", { effect: "fadeOut", duration: 400 } );
+        $(ele).tooltip("option", "tooltipClass", "tooltip-input-error");
+        $(ele).tooltip("open");
+        window.setTimeout(function () { resetScrapbookTooltip(ele); }, 4000);
+    }
+
+    function setScrapbookSuccessTooltip(ele, toolTipMessage) {
+        resetScrapbookTooltip(ele);
+        $(ele).tooltip({
+            show: { effect: "fadeIn", duration: 400 },
+            content: function () {
+                var tooltipContent = $('<div />').html( $.parseHTML( toolTipMessage ) );
+                return tooltipContent;
+            },
+        }).on('mouseout focusout', function(event) {
+            event.stopImmediatePropagation();
+        });
+        $(ele).tooltip( "option", "hide", { effect: "fadeOut", duration: 400 } );
+        $(ele).tooltip("option", "tooltipClass", "tooltip-input-okay");
+        $(ele).tooltip("open");
+        window.setTimeout(function () { resetScrapbookTooltip(ele); }, 4000);
+    }
+
+
+    function asyncRemoveImageFromScrapbook(ImageID, event) {
+
+        $.ajax({
+            url: '/api/member/asyncRemoveImageFromScrapbook',
+            type: 'POST',
+            cache: false,
+            async: true,
+            data: JSON.stringify({
+                imageId: ImageID,
+                countryId: '238'
+            }),
+            contentType: 'application/json; charset=utf-8',
+            success: function (data) {
+                asyncReloadScrapbook();
+            },
+            error: function (xhr, s, a) {
+                setScrapbookErrorTooltip(event.target, 'There was a problem removing this image from your scrapbook.');
+            }
+        });
+
+    }
+    function asyncAddImageToScrapbook(ImageID, ProductPageID, event) {
+
+        $.ajax({
+            url: '/api/member/asyncAddImageToScrapbook',
+            type: 'POST',
+            cache: false,
+            async: true,
+            data: JSON.stringify({
+                imageId: ImageID,
+                productPageId: ProductPageID,
+                countryId: '238'
+            }),
+            contentType: 'application/json; charset=utf-8',
+            success: function (data) {
+                if (data === true) {
+                    setScrapbookSuccessTooltip(event.target, '<span style="display: block;">Added to Scrapbook</span><br/><a class="scrapbook-tooltip-link" href="/us//l154">View Scrapbook</a><a class="scrapbook-tooltip-link" href="/us//l154">Create / Edit Moodboards</a>');
+                    asyncReloadScrapbook();
+                } else {
+                    setScrapbookErrorTooltip(event.target, 'There was a problem adding this image to your scrapbook.');
+                }
+            },
+            error: function (xhr, s, a) {
+                setScrapbookErrorTooltip(event.target, 'There was a problem adding this image to your scrapbook.');
+            }
+        });
+
+    }
+
+    function asyncReloadScrapbook() {
+
+        var productTypeId = null;
+        if($("#scrapbook-product-type-filter").length) {
+            productTypeId = $("#scrapbook-product-type-filter").val() == "null" ? null : $("#scrapbook-product-type-filter").val()
+        }
+
+        var brandId = null;
+        if($("#scrapbook-brand-filter").length) {
+            brandId = $("#scrapbook-brand-filter").val() == "null" ? null : $("#scrapbook-brand-filter").val();
+        }
+
+        var isNew = null;
+        if($("#scrapbook-new-filter").length) {
+            isNew = $("#scrapbook-new-filter").is(":checked") ? true : null;
+        }
+
+        var top = 20;
+        if($("#scrapbook-top-limit").length) {
+            top = $("#scrapbook-top-limit").val();
+        }
+
+        if($("#scrapbook-list").length) {
+            $.ajax({
+                url: '/api/member/asyncReloadScrapbook',
+                type: 'Post',
+                async: true,
+                cache: false,
+                contentType: 'application/json; charset=utf8',
+                data: JSON.stringify({
+                    masterDefinition: {"TitleTag":"Privacy Policy | Designers Guild","MetaDescription":"View information about our privacy policy at Designers Guild online.","BackInStockReminder":null,"ItemsInBasket":0,"UrlBreakdown":{"ContentType":0,"ContentId":1010,"ContentDate":"\/Date(1441494000000)\/","SemanticString":"privacy-policy","countryDetails":{"CountryLanguageID":5,"RegionID":2,"CountryID":238,"CountryCode":"US","LanguageID":2,"SortOrder":2,"Name":"United States","URL":"us","DotNetCulture":"en-US","ShopEnabled":true,"LanguageCode":"us","LanguageDotNetCulture":"en-US"},"ColonyRedirectUrl":"","ColonyRedirectForceCountryLanguageID":null,"ColonyRedirectPermanent":null,"contentTypeAndIdNotFound":false,"CountryAwareness":{"Match":true,"Culture":null,"objCountryItem":null}},"googleHrefs":[{"hreflang":"fr","href":"https://www.designersguild.com/fr/politique-de-confidentialite/l1010"},{"hreflang":"en","href":"https://www.designersguild.com/uk/privacy-policy/l1010"},{"hreflang":"en-nl","href":"https://www.designersguild.com/nl/privacy-policy/l1010"},{"hreflang":"en-ru","href":"https://www.designersguild.com/ru/privacy-policy/l1010"},{"hreflang":"en-se","href":"https://www.designersguild.com/se/privacy-policy/l1010"},{"hreflang":"en-us","href":"https://www.designersguild.com/us/privacy-policy/l1010"}]},
+                    productTypeId: productTypeId,
+                    brandId: brandId,
+                    isNew: isNew,
+                    top: top,
+                    displayClass: "features borders shop grid-6-col"
+                }),
+                success: function(data) {
+                    if(data.scrapbookImages != null) {
+
+                        var sb = "<div class='cc-wrapper'>";
+                        for(var i = 0; i < data.scrapbookImages.length; i++) {
+                            var t = data.scrapbookImages[i];
+                            var disco = "";
+
+                            if(t.Live == false)
+                            {
+                                disco = "<div href='javascript:;' class='scrapbook-discontinued'>DISCONTINUED</div>"
+                            }
+                            sb = sb
+                                + "<div class='grid cc-item'>"
+                                    + "<div style='position: relative'>"
+                                        + "<a href='javascript:;'>"
+                                            + "<img data-product-page-id='" + t.ProductPageID + "' data-image-id='" + t.ImageID + "' src='/image/322/"+t.ImageID+"' alt='' />"
+                                        + "</a>"
+                                        + disco
+                                        + "<a href='javascript:;' class='scrapbook-delete-btn' onclick='asyncRemoveImageFromScrapbook("+t.ImageID+", event)'>DELETE</a>"
+                                        + "<a href='" + t.URLKeywords + "' class='scrapbook-product-page-btn'>VIEW</a>"
+                                    + "</div>"
+                                    + "<div class='cc-item-desc'>"
+                                        + (t.New ? "<span class='pod-new-blue'>NEW</span>" : "")
+                                        + (t.Heading ? "<span class='pod-title'>" + t.Heading.toUpperCase() + "</span>" : "<span class='pod-title'>LIFESTYLE IMAGE</span>")
+                                        + (t.ProductCode ? "<span class='product-code'>" + t.ProductCode + "</span>" : "")
+                                    + "</div>"
+                                + "</div>";
+                        }
+                        sb = sb + "</div>";
+
+                        // leaving this bound isn't a great idea as it is rebound every time an image is added.
+                        // the nav buttons are fine as they're recreated each time cc is reinstantiated.
+                        if($("#scrapbook-button-holder").length) {
+                            $("#scrapbook-list").unbind("mousewheel.contentcarousel");
+                            $("#scrapbook-list").html(sb);
+                            $("#scrapbook-list").contentcarousel({notInfinite: true});
+                            // have to emit the load event again, because cc waits for it...
+                            var evt = document.createEvent('Event');
+                            evt.initEvent('load', false, false);
+                            window.dispatchEvent(evt);
+                        }
+                        if (typeof configureScrapbookSortable === 'function') {
+                            $("#scrapbook-list").html(sb);
+                            configureScrapbookSortable();
+                        }
+                    }
+                },
+                error: function (xhr, textStatus, errorThrown) {
+                    console.log('dg-signout: ' + textStatus);
+                }
+            });
+        }
+    }
+
     function showCountryAwarenessPopup(event) {
         $("#country-awareness-popup").css("display", "block");
         if (typeof event === 'undefined') {
@@ -2934,27 +7714,29 @@
                                     <span class="bold-header-no-underline">About Us</span>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/company-profile/l1004" target="_self" title="Company Profile">Company Profile</a>
+                                    <a class="dark-grey-text" rel="" href="/us/company-profile/l1004" target="_self" title="Company Profile">Company Profile</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/careers/l1005" target="_self" title="Careers">Careers</a>
+                                    <a class="dark-grey-text" rel="" href="/us/careers/l1005" target="_self" title="Careers">Careers</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/contact-us/l1012" target="_self" title="Contact Us">Contact Us</a>
+                                    <a class="dark-grey-text" rel="" href="/us/contact-us/l1012" target="_self" title="Contact Us">Contact Us</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/affiliate-program/l1008" target="_self" title="Affiliate Programme">Affiliate Programme</a>
+                                    <a class="dark-grey-text" rel="" href="/us/affiliate-program/l1008" target="_self" title="Affiliate Programme">Affiliate Programme</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/ethical-policy/l1205" target="_self" title="Ethical Policy">Ethical Policy</a>
+                                    <a class="dark-grey-text" rel="" href="/us/ethical-policy/l1205" target="_self" title="Ethical Policy">Ethical Policy</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/brochures/l1179" target="_self" title="Brochures">Brochures</a>
+                                    <a class="dark-grey-text" rel="" href="/us/brochures/l1179" target="_self" title="Brochures">Brochures</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/films/l1180" target="_self" title="Films">Films</a>
+                                    <a class="dark-grey-text" rel="" href="/us/films/l1180" target="_self" title="Films">Films</a>
                             </li>
                     </ul>
+
+
 
                     
                 </li>
@@ -2964,27 +7746,29 @@
                                     <span class="bold-header-no-underline">Trade &amp; Press</span>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="http://trade.designersguild.com" target="_self" title="Trade Site">Trade Site</a>
+                                    <a class="dark-grey-text" rel="nofollow" href="http://trade.designersguild.com" target="_self" title="Trade Site">Trade Site</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="http://pr.designersguild.com/press" target="_self" title="Press Site">Press Site</a>
+                                    <a class="dark-grey-text" rel="nofollow" href="http://pr.designersguild.com/press" target="_self" title="Press Site">Press Site</a>
                             </li>
                             <li>
                                     <span class="menu-spacer"> </span>
                             </li>
                             <li>
-                                    <span class="bold-header-no-underline">News</span>
+                                    <a class="bold-header-no-underline" rel="" href="/us/dg-world/news-and-events/l602" target="_self" title="News">News</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/dg-world/l600" target="_self" title="Latest News">Latest News</a>
+                                    <a class="dark-grey-text" rel="" href="/us/dg-world/l600" target="_self" title="Latest News">Latest News</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/events-and-promotions/l1206" target="_self" title="Store Events">Store Events</a>
+                                    <a class="dark-grey-text" rel="" href="/us/store-events/l1279" target="_self" title="Store Events">Store Events</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/trade-events/l1223" target="_self" title="Trade Events">Trade Events</a>
+                                    <a class="dark-grey-text" rel="" href="/us/trade-events/l1280" target="_self" title="Trade Events">Trade Events</a>
                             </li>
                     </ul>
+
+
 
                     
                 </li>
@@ -2994,10 +7778,19 @@
                                     <span class="bold-header-no-underline">Showrooms &amp; Flagship Stores</span>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/l1012?w=1" target="_self" title="Worldwide Showrooms">Worldwide Showrooms</a>
+                                    <a class="dark-grey-text" rel="" href="/us/kings-road-homestore/l1152" target="_self" title="King's Road Homestore">King's Road Homestore</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/find-your-local-stockist/l500" target="_self" title="Find Your Local Stockist">Find Your Local Stockist</a>
+                                    <a class="dark-grey-text" rel="" href="/us/kings-road-showroom/l1154" target="_self" title="King's Road Showroom">King's Road Showroom</a>
+                            </li>
+                            <li>
+                                    <a class="dark-grey-text" rel="" href="/us/marylebone-high-street-homestore/l1153" target="_self" title=" Marylebone High Street Homestore"> Marylebone High Street Homestore</a>
+                            </li>
+                            <li>
+                                    <a class="dark-grey-text" rel="" href="/us/contact-us/l1012" target="_self" title="Worldwide Showrooms">Worldwide Showrooms</a>
+                            </li>
+                            <li>
+                                    <a class="dark-grey-text" rel="" href="/us/find-your-local-stockist/l500" target="_self" title="Find Your Local Stockist">Find Your Local Stockist</a>
                             </li>
                             <li>
                                     <span class="menu-spacer"> </span>
@@ -3006,15 +7799,17 @@
                                     <span class="bold-header-no-underline">Online Shops</span>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="http://www.designersguild.com/uk/l1142" target="_self" title="UK">UK</a>
+                                    <a class="dark-grey-text" rel="" href="/uk/shop-online/l1142" target="_self" title="UK">UK</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="http://www.designersguild.com/us/l1142" target="_self" title="USA">USA</a>
+                                    <a class="dark-grey-text" rel="" href="/us/shop-online/l1142" target="_self" title="USA">USA</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="http://designersguild.net.au/" target="_self" title="Australia">Australia</a>
+                                    <a class="dark-grey-text" rel="nofollow" href="http://designersguild.net.au/" target="_self" title="Australia">Australia</a>
                             </li>
                     </ul>
+
+
 
                     
                 </li>
@@ -3024,54 +7819,42 @@
                                     <span class="bold-header-no-underline">Shopping Online</span>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/order-history/l153" target="_self" title="Track my Order">Track my Order</a>
+                                    <a class="dark-grey-text" rel="" href="/us/order-history/l153" target="_self" title="Track my Order">Track my Order</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/l1012?os=1#online-shopping" target="_self" title="Contact Us">Contact Us</a>
+                                    <a class="dark-grey-text" rel="" href="/us/contact-us/l1012" target="_self" title="Contact Us">Contact Us</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/facts-and-questions/l1145" target="_self" title="Help - FAQs">Help - FAQs</a>
+                                    <a class="dark-grey-text" rel="" href="/us/frequently-asked-questions/l1145" target="_self" title="Help - FAQs">Help - FAQs</a>
                             </li>
                             <li>
                                     <span class="menu-spacer"> </span>
                             </li>
                             <li>
-                                    <a class="bold-header-no-underline" href="/us/global-terms-and-conditions/l1013" target="_self" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
+                                    <a class="bold-header-no-underline" rel="" href="/us/global-terms-and-conditions/l1013" target="_self" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/product-care/l1014" target="_self" title="Care Guide">Care Guide</a>
+                                    <a class="dark-grey-text" rel="" href="/us/product-care/l1014" target="_self" title="Care Guide">Care Guide</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/cookie-policy/l1011" target="_self" title="Cookies Policy">Cookies Policy</a>
+                                    <a class="dark-grey-text" rel="" href="/us/cookie-policy/l1011" target="_self" title="Cookies Policy">Cookies Policy</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/privacy-policy/l1010" target="_self" title="Privacy Policy">Privacy Policy</a>
+                                    <a class="dark-grey-text" rel="" href="/us/privacy-policy/l1010" target="_self" title="Privacy Policy">Privacy Policy</a>
                             </li>
                             <li>
-                                    <a class="dark-grey-text" href="/us/delivery-and-returns/l1144" target="_self" title="Delivery &amp; Returns">Delivery &amp; Returns</a>
+                                    <a class="dark-grey-text" rel="" href="/us/delivery-and-returns/l1144" target="_self" title="Delivery &amp; Returns">Delivery &amp; Returns</a>
                             </li>
                     </ul>
+
+
 
                     
                 </li>
         </ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         <div id="footerright">
-            <span class="footertitle">BE THE FIRST TO KNOW - Sign up to our Newsletter</span>
+            <span class="footertitle"><p>BE THE FIRST TO KNOW - Sign up to our Newsletter</p></span>
             <!-- newsletter form -->
             <form class="newsform" onsubmit="doNewsletterNavigate(); return false;">
                 <input id="newsletterText" name="newsletterText" class="newsfield" type="text" value="Enter your email address" onfocus="if (this.value == 'Enter your email address') { this.value = ''; }" onblur="if (this.value == '') { this.value = 'Enter your email address'; }">
@@ -3099,7 +7882,7 @@
 </div><!--#footerWrapper-->
 
 
- 
+
     <script type="text/javascript" src="//tags.mediaforge.com/js/1379"></script>
 
 
