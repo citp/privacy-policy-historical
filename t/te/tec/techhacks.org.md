@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techhacks.org privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508151009id_/http%3A//www.techhacks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techhacks.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906113049id_/http%3A//www.techhacks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,9 +13,3 @@ We are providing unique quality content about Technology tricks and latest compu
 
 If you have any kind problem or you feel that we are hurting or breaking someone Rights. If you have any problem regarding any topic feel free to report our team. we hopefully take your reviews seriously and try to solve Issue.  
 If you want to suggest anything or want any information related to our site. Please feel free to give your feedback at our email  **admin@techhacks.org** otherwise [**contact us**](https://web.archive.org/contact).
-
-###  [Manpreet Singh](http://www.techhacks.org/author/adminth/)
-
-Manpreet Singh is the Founder of Tech Hacks & a part time blogger and tech geek from india. Apart from blogging he is a student. He is Certified Web Developer (HTML/CSS Expert), Tech Worm, SEO, SMO, SMM Expert 
-
-__<http://www.techhacks.org/>
