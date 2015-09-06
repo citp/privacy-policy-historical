@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zscaler.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410190314id_/http%3A//www.zscaler.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zscaler.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906121820id_/https%3A//www.zscaler.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Zscaler Privacy Statement | Zscaler
+# Privacy Statement | Zscaler
 
 ##### EFFECTIVE MARCH 1, 2014
 
