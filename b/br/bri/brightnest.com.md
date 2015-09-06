@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightnest.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628045515id_/https%3A//brightnest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightnest.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906104244id_/https%3A//brightnest.com/privacy) for the most accurate reproduction.*
 
 # BrightNest | Privacy Policy
 
@@ -72,7 +72,7 @@ We may also disclose aggregate visitor data in order to describe the use of the 
 
 To help you review, edit, and control how we use much of the information we collect about you, you can visit your "Manage My Accounts" webpage. On the "Manage My Accounts" webpage, you can update certain information and unsubscribe from receiving specific types of email messages and telephone calls. You cannot, however, unsubscribe from receiving certain emails, such as account status and billing related emails.
 
-You can also ask us whether we are keeping information about you; how your information is being used; update or delete your information, or opt-out of the collection and use of certain information by sending an email to [helpdesk@angieslist.com](mailto:helpdesk@angieslist.com) or by writing us at Help Desk, Angie's List, 1030 E. Washington St., Indianapolis, IN 46202 specifying the nature and scope of your request. If you choose to delete your information or opt-out of the collection and use of your information, you understand that certain services, including revocation of your Membership, may no longer be available to you. Please state in your correspondence the details of your request. We may require proof of your identity before we provide you with the requested information. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified, amended, or completed. Approved requests will be processed within ten (10) days of the date on which we receive the request.
+You can also ask us whether we are keeping information about you; how your information is being used; update or delete your information, or opt-out of the collection and use of certain information by sending an email to [info@brightnest.com](mailto:info@brightnest.com) or by writing us at Help Desk, Angie's List, 1030 E. Washington St., Indianapolis, IN 46202 specifying the nature and scope of your request. If you choose to delete your information or opt-out of the collection and use of your information, you understand that certain services, including revocation of your Membership, may no longer be available to you. Please state in your correspondence the details of your request. We may require proof of your identity before we provide you with the requested information. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data erased, rectified, amended, or completed. Approved requests will be processed within ten (10) days of the date on which we receive the request.
 
 ### Data Security, Integrity, and Access
 
@@ -100,14 +100,6 @@ This Privacy Policy and the privacy practices of Angie's List will be subject ex
 
 ### How To Contact us
 
-All requests, questions or concerns about your Personal Information or this Privacy Policy, please contact our Help Desk by mail or email at the following:
-
-Attn: Help Desk  
-Angie's List  
-1030 E. Washington St.  
-Indianapolis, IN 46202  
-Phone: (888) 944-5478  
-E-mail: [helpdesk@angieslist.com](mailto:helpdesk@angieslist.com)  
-Fax: (866) 670-5478
+For all requests, questions or concerns about your Personal Information or this Privacy Policy, please contact us at a[info@brightnest.com](mailto:info@brightnest.com).
 
 We welcome your questions and comments.
