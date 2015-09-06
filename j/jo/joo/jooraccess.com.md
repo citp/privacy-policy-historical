@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jooraccess.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319014300id_/https%3A//jooraccess.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jooraccess.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906032509id_/https%3A//jooraccess.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy | JOOR
 
@@ -85,7 +85,7 @@ Your Account information is password-protected. You need to prevent unauthorized
 
 #### What Information Of Mine Can I Access?
 
-If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings. California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 298 Fifth Avenue, 3rd Floor, New York, NY 10001. 
+If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings. California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 1239 Broadway, 9th Floor, New York, NY 10001. 
 
 #### WHAT CHOICES DO I HAVE REGARDING MY INFORMATION?
 
