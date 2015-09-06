@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashstar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165425id_/http%3A//www.cashstar.com/wp-content/themes/cashstar/includes/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashstar.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906045500id_/http%3A//www.cashstar.com/wp-content/themes/cashstar/includes/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -64,7 +64,7 @@ CashStar has established procedures to periodically review and verify compliance
 
 CashStar, Inc. is located in the United States.  CashStar adheres to the Safe Harbor Framework Principles concerning the transfer of data from the European Union to the United States and this Privacy Policy incorporates the Safe Harbor Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement with respect to the Data we collect from individuals in the European Union. For more information, please visit <http://export.gov/safeharbor/>
 
-**Childrenâ€™s Privacy**
+**Children's Privacy**
 
 The Sites are not structured to attract children. Accordingly, we do not intend to, nor will we knowingly collect Personal Information from anyone we know to be under 13 years of age.
 
@@ -78,7 +78,7 @@ Please contact CashStar with any questions or comments about this Privacy Policy
 
 _CashStar, Inc.,_  
  _Attention: Legal Department_  
- _129 Middle Street, 2nd Floor_  
+ _25 Pearl Street_  
  _Portland, ME 04101  _  
 Or email at: [privacy@cashstar.com](mailto:privacy@cashstar.com)  
 We will respond to your inquiry within 30 days of its receipt.
