@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reedfloren.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320212605id_/http%3A//www.reedfloren.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedfloren.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906093355id_/http%3A//www.reedfloren.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Reed Floren
+# Privacy Policy | Reed Floren
 
 **Reed Floren** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
