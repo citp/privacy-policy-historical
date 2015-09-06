@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everycarlisted.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503064509id_/http%3A//www.everycarlisted.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everycarlisted.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906072003id_/http%3A//www.everycarlisted.com/site/privacy) for the most accurate reproduction.*
 
 # New and Used Car Listings - EveryCarListed.com - Privacy Site
 
