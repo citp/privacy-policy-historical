@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209125159id_/http%3A//www.theistudio.com/muse/project-inquiry/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theistudio.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906202252id_/http%3A//www.theistudio.com/muse/project-inquiry/privacy-security) for the most accurate reproduction.*
 
 # Privacy | WordPress Consultant: Judith Kallos, At Your Service...
 
@@ -47,17 +47,3 @@ This Web site contains links to other sites. Please be aware that I am not respo
 I use “cookies” on this site. A cookie is a piece of data stored on a site visitor’s hard drive to help me improve your access to my site and identify repeat visitors to my site. Cookies can also enable me to track and target the interests of my users to enhance their experience on my site. Usage of a cookie is in **no way** linked to any personally identifiable information.
 
 If you have any difficulties or questions about The IStudio®‘s privacy policy, you should contact me immediately via telephone at 662-560-6956 or via [e-mail](http://www.theistudio.com/muse/contact/).
-
-  * Bio
-  * Twitter
-  * Facebook
-  * Google+
-  * LinkedIn
-
-
-
-I’m here to help those who want to succeed and are looking for an advocate they can trust and rely on — for the long haul. Whether it be WordPress Help and Support, Blogging, Content Management or Online Marketing; I am here to bring a sense of reality, excitement and vision to your program. [More Info...](http://www.theistudio.com/muse/new-client-faq)
-
-#### [@istudio](http://twitter.com/istudio)
-
-At Your Service... WordPress Consultant and Online Business Coach @ The IStudio® Est. 1995
