@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancemarathon.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526185426id_/http%3A//childrensmiraclenetworkhospitals.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancemarathon.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906031219id_/http%3A//childrensmiraclenetworkhospitals.org/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Children's Miracle Network Hospitals
 
