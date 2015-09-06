@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeahmobi.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515104306id_/http%3A//www.yeahmobi.com/singlepage-54-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeahmobi.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906115746id_/http%3A//www.yeahmobi.com/singlepage-54-1.html) for the most accurate reproduction.*
 
 # YeahMobi Privacy Policy
 
