@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the waveapps.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317191356id_/https%3A//my.waveapps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waveapps.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906145754id_/https%3A//my.waveapps.com/privacy) for the most accurate reproduction.*
 
-# Wave • Terms of Use
-
-Hi! Great to see that you care about your privacy! We do, too. 
-
-That's why we worked with privacy consultants and international experts to make sure we've thought through how to best protect you. In an attempt to make this sort of document less painful, we’ve provided a simplified version, just like we did for our Terms of Use [Terms of Use](https://web.archive.org/terms/). 
-
-Below, on the left: That's the official stuff that you're agreeing to. On the right, you'll see how I'd explain it to my father (hey dad!) if he asked. You can use that as a guide to find and understand the info you want to know about. 
-
-I sincerely hope it helps you better understand this document, what you’re consenting to, and how we operate. Thanks for joining the Wave community! 
+# Wave • Privacy Policy
 
 At Wave Accounting Inc. ("Wave"), we value your trust and respect your privacy.
 
@@ -24,13 +16,13 @@ By "Personal Information", we mean information about an identifiable individual 
 
 The long list of things we define as personal information — the things this policy is designed to protect.  
   
-To demonstrate our commitment to protecting your privacy, we have developed this Privacy Policy, which describes how we will collect, use, disclose, retain and protect Personal Information in order to provide you with our online accounting, payroll, payment and invoicing services and other small business–related services (collectively, the "Services") offered and maintained by us and our affiliates from time to time. Our Privacy Policy is based on applicable privacy legislation as well as 10 internationally recognized privacy principles.
+To demonstrate our commitment to protecting your privacy, we have developed this Privacy Policy, which describes how we will collect, use, disclose, retain and protect Personal Information in order to provide you with our online accounting, payroll, payment and invoicing services and other small business–related services (collectively, the "Services") offered and maintained by us and our affiliates from time to time. This Privacy Policy applies to [waveaccounting.com](http://waveaccounting.com/), [waveapps.com](http://waveapps.com/), [wavepayroll.com](http://wavepayroll.com/), and their subdomains, all of which are owned and operated by Wave Accounting Inc. Our Privacy Policy is based on applicable privacy legislation as well as 10 internationally recognized privacy principles.
 
 | 
 
-This policy sets out the rules of what we do with your data, and we didn’t just make it up. It’s based on actual laws and international standards and principles.  
+This policy sets out the rules of what we do with your data, and we didn't just make it up. It's based on actual laws and international standards and principles.  
   
-Wave has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at:
+Wave has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at:
 
 Wave Accounting Inc.  
 235 Carlaw Ave., Suite 601  
@@ -41,19 +33,19 @@ Canada
 Attention: Privacy Officer  
 | 
 
-TRUSTe is an independent third party, whose goal is to drive trust between consumers and organizations. They’ve reviewed and approved our policy and practices, and they give us the thumbs up. You can contact me if you have any questions.  
+TRUSTe is an independent third party, whose goal is to drive trust between consumers and organizations. They've reviewed and approved our policy and practices, and they give us the thumbs up. You can contact me if you have any questions.  
   
-If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through the Wave Apps Site (waveapps.com, waveaccounting.com and wavepayroll.com), and does not cover information that may be collected through software downloaded from the Wave Apps Site or from any third-party sites.
+If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through the Wave Apps Site (waveapps.com, waveaccounting.com and wavepayroll.com), and does not cover information that may be collected through our mobile application, software downloaded from the Wave Apps Site, or from any third-party sites.
 
 | 
 
-If you’re not satisfied with our responses, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request) to escalate the issue.  
+If you're not satisfied with our responses, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request) to escalate the issue.  
   
 For the purposes of this Privacy Policy, the term "Site" means these websites (waveapps.com, waveaccounting.com and wavepayroll.com), all related webpages, and all related websites operated by affiliates or divisions of Wave, but does not include any third-party websites which are linked to or may link from this website whether or not such third-party websites are used in connection with the Services. "Wave Apps" means the Site and all mobile applications and other applications which provide access to the Services offered by Wave and its affiliates from time to time.
 
 | 
 
-“Site” refers only to Wave-owned web properties and not any third-party sites. Wave Apps are our web, mobile and any other applications that provide access to our services.  
+"Site" refers only to Wave-owned web properties and not any third-party sites. Wave Apps are our web, mobile and any other applications that provide access to our services.  
   
 ### Wave Privacy Policy  
   
@@ -73,7 +65,7 @@ Phone: (416) 521-9141 extension 130
 Attention: Privacy Officer  
 | 
 
-Accountability: That’s me! I’ll be the one making the changes, notifying you, and answering your questions.  
+Accountability: That's me! I'll be the one making the changes, notifying you, and answering your questions.  
   
 Identifying Purposes
 
@@ -81,7 +73,7 @@ Wave collects, uses, and discloses Personal Information only for the purposes of
 
 | 
 
-We’ll only use your info to provide the services we’ve defined in our Terms of Use or in other ways that you’ve explicitly consented to.  
+We'll only use your info to provide the services we've defined in our Terms of Use or in other ways that you've explicitly consented to.  
   
 Personal Information
 
@@ -99,7 +91,7 @@ To assist you with technical support issues. It is important to remember that mo
 
 To comply with any laws, regulation, court orders, subpoenas or other legal process or investigation and to protect ourselves and other individuals from harm.
 
-To assist in due diligence relating to any corporate action such as a financing,merger, amalgamation, sale or divestiture, provided that reasonable safeguards are taken to protect the confidentiality of Personal Information in our possession.
+To assist in due diligence relating to any corporate action such as a financing,merger, amalgamation, sale or divestiture, provided that reasonable safeguards are taken to protect the confidentiality of Personal Information in our possession. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 | 
 
@@ -119,7 +111,7 @@ Wave takes a consent-based approach to the collection, use and disclosure of Per
 
 | 
 
-We collect your personal information from you. If you want us to gather information from other sources (your bank), you’ll need to provide credentials. We only use this data in ways we describe here and in our [Terms of Use](https://web.archive.org/terms/)  
+We collect your personal information from you. If you want us to gather information from other sources (your bank), you'll need to provide credentials. We only use this data in ways we describe here and in our [Terms of Use](https://web.archive.org/terms/)  
   
 At any time and without penalty, Wave users can withdraw their consent and close their Wave account by taking the following actions:
 
@@ -143,25 +135,25 @@ In order to support our Payroll Guarantee, account information related to Payrol
 
 | 
 
-You can close your account whenever you want by following the steps on the left — we’ll miss you, but we won’t hold it against you, and there’s no penalty.
+You can close your account whenever you want by following the steps on the left — we'll miss you, but we won't hold it against you, and there's no penalty.
 
-When you confirm the closure, we’ll delete your personal information — except for payroll users. We need to keep payroll information based on IRS/CRA rules.  
+When you confirm the closure, we'll delete your personal information — except for payroll users. We need to keep payroll information based on IRS/CRA rules.  
   
-At any time, Wave users can opt-out of most email communication from us by clicking on the unsubscribe link at the bottom of our emails, or via the "Email Preferences" section of the "Your Profile" page, accessible via the “Account” menu. Users of Wave's Payroll product wishing to opt-out of payroll emails must do so in the "Notifications" section of the payroll settings page. However, we may still contact you for administrative purposes (e.g. if we need to notify you of a change to our service, changes to our terms of use or privacy policy, there is a problem with your account or an anticipated service interruption, etc.).
+At any time, Wave users can opt-out of most email communication from us by clicking on the unsubscribe link at the bottom of our emails, or via the "Email Preferences" section of the "Your Profile" page, accessible via the "Account" menu. Users of Wave's Payroll product wishing to opt-out of payroll emails must do so in the "Notifications" section of the payroll settings page. However, we may still contact you for administrative purposes (e.g. if we need to notify you of a change to our service, changes to our terms of use or privacy policy, there is a problem with your account or an anticipated service interruption, etc.).
 
 Withdrawing your consent will not apply to actions Wave has already taken based on your prior consent.
 
 | 
 
-You can opt-out of our emails on the email preferences page. This won’t affect emails we’ve already sent you.
+You can opt-out of our emails on the email preferences page. This won't affect emails we've already sent you.
 
-The only exception: We may still send you critical email messages even if you opt out from other messages. (But we won’t abuse this.)  
+The only exception: We may still send you critical email messages even if you opt out from other messages. (But we won't abuse this.)  
   
 In order to use certain Services, such as Wave Payroll, you may be required to provide personal information relating to yourself and your employees, agents, contractors and representatives from time to time. You acknowledge, and represent to us that you only collect, use and disclose personal information in compliance with applicable privacy laws. You further represent and warrant to us that you have obtained all required consents (including, if you use Wave Payroll, consents relating to making deposits to and debits from your employees' bank accounts) from your employees, agents, contractors and representatives whose personal information will be disclosed to us or to our third-party service providers in connection with the Services. You further agree to indemnify and hold Wave, its affiliates, subsidiaries, partners, service providers, suppliers and contractors and each of their respective officers, directors, agents, and employees (collectively, the "Wave Parties"), harmless for any loss, cost, complaint, damage, claim or liability whatsoever arising from your collection, use and disclosure of personal information relating to your employees, agents, contractors and representatives.
 
 | 
 
-To use some services, like payroll, you’ll need to provide information about other people. Only do this if you’re legally allowed to. If problems come up around your collection and use of this data, that’s on you.  
+To use some services, like payroll, you'll need to provide information about other people. Only do this if you're legally allowed to. If problems come up around your collection and use of this data, that's on you.  
   
 Limiting Collection
 
@@ -181,9 +173,9 @@ You may in connection with some but not all of our Services have the ability to 
 
 | 
 
-Collaborator invitations require that you provide us with some information about your guest. If they decide that they don’t want us to have that information, they can email me ([privacy@waveapps.com](mailto:privacy@waveapps.com)) and we’ll remove it. If they do want to be a collaborator, they need to play by the same rules you do (our [Terms of Use](https://web.archive.org/terms/)).
+Collaborator invitations require that you provide us with some information about your guest. If they decide that they don't want us to have that information, they can email me ([privacy@waveapps.com](mailto:privacy@waveapps.com)) and we'll remove it. If they do want to be a collaborator, they need to play by the same rules you do (our [Terms of Use](https://web.archive.org/terms/)).
 
-You’ll be providing them access to your information, so make sure they’re safe with it: We aren’t responsible if they misuse that info.  
+You'll be providing them access to your information, so make sure they're safe with it: We aren't responsible if they misuse that info.  
   
 When you use certain Services, you have the option to share information with other accounts you have signed up for. You may choose from time to time to connect Wave with other third-party service providers in order to utilize these services in conjunction with the Wave Apps. Purposes may include saving copies of records, importing data from external sources, communications with third parties, and conducting payment and direct deposit functions, among others. In such instances, your account and password credentials and other required information in respect of such third-party service may be stored by Wave for the purpose of providing this service.
 
@@ -195,13 +187,13 @@ Limiting Use, Disclosure and Retention Wave will not use or disclose Personal In
 
 | 
 
-We won’t use, share, or store your information in ways you aren’t made aware of.  
+We won't use, share, or store your information in ways you aren't made aware of.  
   
 We also ensure that only those employees responsible for the Services' operations have physical or technical access to Personal Information and only where such access is required to perform work authorized by their supervisors.
 
 | 
 
-We’ll make sure nobody at Wave can see your personal info unless they need it to do their job.  
+We'll make sure nobody at Wave can see your personal info unless they need it to do their job.  
   
 Wave will retain Personal Information only for the duration of your enrollment as a Wave user or to support the Wave Payroll Guarantee, and Personal Information will be retained in access-secured databases. If you choose to withdraw from the Services, we will securely destroy your Personal Information in our possession and control within 45 days unless we are required to retain such Personal Information longer to fulfill our obligations to you or to third parties. However, we may retain non-personal information indefinitely.
 
@@ -209,13 +201,13 @@ Payroll data will be retained for a period of five years from the date of employ
 
 | 
 
-We’ll only keep your data while you’re a Wave user. We’ll keep it secure. We’ll delete the data that can be tied back to you within 45 days of you closing your account. This doesn’t include data that can’t identify you, and doesn’t include payroll data due to IRS/CRA requirements.  
+We'll only keep your data while you're a Wave user. We'll keep it secure. We'll delete the data that can be tied back to you within 45 days of you closing your account. This doesn't include data that can't identify you, and doesn't include payroll data due to IRS/CRA requirements.  
   
 We retain all Personal Information provided by you or your bank on secure servers, as do our third-party partners and service providers. This data will be subject to the laws of the relevant jurisdictions. Our third-party service providers, including financial institutions, have their own terms of use and privacy policies that will govern your relationship with these third parties. You are responsible for reviewing and agreeing to these terms of use and policies. If you do not agree with these terms of use or privacy policies you should not use the services offered by such third-party service providers.
 
 | 
 
-We keep our data secure and so do our partners and providers. If you want to use any of our third-party service providers, you’re responsible for reading their terms and privacy policies.
+We keep our data secure and so do our partners and providers. If you want to use any of our third-party service providers, you're responsible for reading their terms and privacy policies.
 
 For example, you can connect a service called Shoeboxed to Wave. If you do that, you are entering into a separate agreement with Shoeboxed, and you will be subject to the terms they give you.  
   
@@ -229,7 +221,7 @@ When Wave data is viewed in the Wave Apps mobile apps, some data is cached in th
 
 | 
 
-When you use our mobile app(s), we store some data in memory on your mobile device. If you don’t close the app when you’re done, some of that information may still be in memory and could be viewed by others. We can’t take responsibility for this, so be sure to close your apps when you’re done.  
+When you use our mobile app(s), we store some data in memory on your mobile device. If you don't close the app when you're done, some of that information may still be in memory and could be viewed by others. We can't take responsibility for this, so be sure to close your apps when you're done.  
   
 Storage of Online Banking Credentials
 
@@ -237,7 +229,7 @@ You may choose to provide your online banking information, for the purpose of im
 
 | 
 
-If you want to connect your bank, you’ll need to provide some credentials. To make sure this is safe, we’re relying on a third party provider. They store account and password information securely, they encrypt it, and Wave never sees it.  
+If you want to connect your bank, you'll need to provide some credentials. To make sure this is safe, we're relying on a third party provider. They store account and password information securely, they encrypt it, and Wave never sees it.  
   
 Accuracy
 
@@ -247,9 +239,11 @@ We also make every effort to ensure the accuracy of the information in our repor
 
 You are responsible for ensuring that the information you have provided is truthful, accurate, reliable and complete.
 
+We will retain your information for as long as your account is active, or as needed to provide the Services to you. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 | 
 
-When you give us your personal information, we rely on you for accuracy. You can contact us to update or delete it. Whenever we use this information — for reports, display, filings, etc — we’ll do our best to make sure it’s accurate. Before using this information for anything official, we recommend you consult an accounting professional.  
+When you give us your personal information, we rely on you for accuracy. You can contact us to update or delete it. Whenever we use this information — for reports, display, filings, etc — we'll do our best to make sure it's accurate. Before using this information for anything official, we recommend you consult an accounting professional.  
   
 Safeguards
 
@@ -257,11 +251,13 @@ Wave implements industry best practices appropriate to the sensitivity of your P
 
 For example, we implement encryption and security controls to protect against unauthorized access to Personal Information during electronic transmission, and we train our employees to follow privacy and security practices specific to the Services. We also undertake security assessments to ensure that we maintain strong security controls.
 
+No method of transmission over the internet or method of electronic storage is 100% secure. Therefore while we do protect your information, we cannot guarantee its absolute security. If you have questions about security on our Site, you can contact us at [privacy@waveapps.com](mailto:privacy@waveapps.com).
+
 We ensure that any third party acting on our behalf in respect of your Personal Information maintains reasonable and appropriate safeguards. For example, these third parties classify customer account data as "super sensitive". This means that access to such data is strictly limited based on business need and this data cannot be transmitted without the use of approved encryption methods. These third parties also employ both an Intrusion Detection System and an Intrusion Prevention System, and run regular network vulnerability scans. Additional information about our third parties' privacy practices is available upon request.
 
 | 
 
-We use industry best practices, both technical (like encryption) and physical (like secure, locked-up server facilities), to protect your data, its storage, transmission, and disposal. Any third parties acting on our behalf also do what’s necessary to protect any data they receive. We’ll give you more details if you request them.  
+We use industry best practices, both technical (like encryption) and physical (like secure, locked-up server facilities), to protect your data, its storage, transmission, and disposal. Any third parties acting on our behalf also do what's necessary to protect any data they receive. We'll give you more details if you request them.  
   
 Openness
 
@@ -271,7 +267,7 @@ Wave will advise you at the first reasonable opportunity upon discovering or bei
 
 | 
 
-We’re very clear about our stance on privacy and we’ll let you know ASAP of any unauthorized incidents involving your data.  
+We're very clear about our stance on privacy and we'll let you know ASAP of any unauthorized incidents involving your data.  
   
 Individual Access
 
@@ -279,11 +275,15 @@ You own your data which you input using the Wave Apps and can download your own 
 
 | 
 
-Your data is yours. You can download it from the site and if you ask we’ll let you know which other places your data has gone.  
+Your data is yours. You can download it from the site and if you ask we'll let you know which other places your data has gone.  
   
 Additional Features
 
 The Wave Apps may offer publicly accessible blogs and community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We take no responsibility for any information which you or your employees, agents, contractors and representatives post or publish on the Wave Apps and you agree to indemnify and hold the Wave Parties harmless for any loss, cost, complaint, damage, claim or liability whatsoever arising from any such post or publication.
+
+The ability to comment on our blogs is managed by a third-party application that may require you to register to post a comment. We do not control the accounts registered with the third party. You will need to contact or login to the third-party application if you want personal information that was posted to the comments section removed. To learn how the third party uses your information, please review their [privacy policy](https://help.disqus.com/customer/portal/articles/466259-privacy-policy). 
+
+Our community forums and support services (support.waveapps.com) are managed by Wave, but hosted by a third party. For information on the use and retention of your information, please review their [privacy policy](https://www.zendesk.com/company/privacy). You may request removal of personal information from forum posts and comments by contacting us at [privacy@waveapps.com](mailto:privacy@waveapps.com).
 
 With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us at [privacy@waveapps.com](mailto:privacy@waveapps.com).
 
@@ -291,11 +291,13 @@ You can log in to our site using single sign-on (SSO) services such as Google an
 
 The blog portion of the Site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-Some of the functionality of the Services and the Wave Apps interoperate with, and are highly dependent upon, application programming interfaces (APIs) from third parties, such as Google and Yahoo!. We may collect Personal Information from these third party APIs to the extent you authorize us to do so, and our collection, use and disclosure of that Personal Information will be governed by this privacy policy. In addition, if you authorize us to do so, we may grant third parties access to some or all (depending on the permission you give) of your Personal Information to third parties through our own API for use in connection with their services. You have the ability to control what Personal Information you share with these third parties through our API, but please note that any Personal Information you share with third parties through our API will be governed by their privacy policies and we do not assume any responsibility for such third party’s use of your Personal Information once shared through our API.
+Some of the functionality of the Services and the Wave Apps interoperate with, and are highly dependent upon, application programming interfaces (APIs) from third parties, such as Google and Yahoo!. We may collect Personal Information from these third party APIs to the extent you authorize us to do so, and our collection, use and disclosure of that Personal Information will be governed by this privacy policy. In addition, if you authorize us to do so, we may grant third parties access to some or all (depending on the permission you give) of your Personal Information to third parties through our own API for use in connection with their services. You have the ability to control what Personal Information you share with these third parties through our API, but please note that any Personal Information you share with third parties through our API will be governed by their privacy policies and we do not assume any responsibility for such third party's use of your Personal Information once shared through our API.
+
+Our Site includes links to other websites whose privacy practices may differ from those of Wave. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
 
 | 
 
-The blogs and forums are open, and only moderated in a limited way. Anything you post there can be seen by others, and we’re not responsible for the things people post.
+The blogs and forums are open, and only moderated in a limited way. Anything you post there can be seen by others, and we're not responsible for the things people post.
 
 If you give us consent, we might use one of your quotes for a testimonial — and if you want that removed, let us know.
 
@@ -303,33 +305,41 @@ If you use Google or Yahoo to sign in via SSO, those services will let us see yo
 
 Our blog has some social media features (Facebook Like, etc) which, if you use them, may collect your IP, set a cookie, etc. The companies providing these tools have their own rules and policies which apply to the use of these features.
 
-People may use our interfaces to write programs to interact with Wave. Wave may write programs to interact with third-party interfaces. These can be used to collect and share data, but only if you authorize it. If you authorize the sharing of data, the use of that data will be governed by the rules and policies of the third party you’re sharing it with.  
+People may use our interfaces to write programs to interact with Wave. Wave may write programs to interact with third-party interfaces. These can be used to collect and share data, but only if you authorize it. If you authorize the sharing of data, the use of that data will be governed by the rules and policies of the third party you're sharing it with.  
   
 Cookies and Other Tracking Technologies
 
 Third-Party Tracking Technologies & Cookies
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We and some of our affiliates and third-party service providers use session ID cookies on the Site. We do not link the information we store in cookies to any personal information you submit while on our Site. We use session cookies to make it possible to navigate the secure environment inside our Site. When you log into Wave, your browser may ask if you want it to remember you as a registered user of Wave. If you accept, the session ID becomes a persistent cookie, which expires after two weeks of non-use. You can remove persistent cookies manually by following directions provided in your Internet browser's "help" file. If you refuse cookies, you will not be able to use Wave, since session ID cookies are essential to navigation.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include, but is not limited to, internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-Our third-party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site.
+We may combine this automatically collected log information with other information we collect about you. We do this to improve the Services we offer you, to improve marketing, analytics, and site functionality.
 
-Wave may from time to time implement other third-party analytics services that also use cookies. Wave will ensure that no personal information is included in those cookies. If the use of cookies by any service provider differs materially from the practices already listed, we will revise this document accordingly and notify existing customers of the change(s).
+Technologies such as cookies, web beacons, tags and scripts are used by Wave, our advertising and analytics partners, and affiliates. These technologies are used in analyzing trends, administering the Site, tracking users' movements around the Site and to gather demographic information about our userbase as a whole. 
+
+We use cookies for session tracking to make it possible to navigate the secure environment inside our Site. When you log into Wave, your browser may ask you if you want it to remember you as a registered user of Wave. If you accept, the session ID becomes a persistent cookie, which expires after two weeks of non use. Users can control the use of cookies at the individual browser level. If you reject or refuse cookies, you will not be able to use Wave.
+
+We use local storage objects (LSOs) such as HTML5 to store preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based on your browsing activity use LSOs such as HTML5 to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
 | 
 
-We use cookies (the computer kind, not the tasty kind) and they may stay on your computer unless you clean them out. We use them to track things like your login session and some of our partners do the same. We don’t link these cookies to any personal information.
+We track some basic information about your use of the site and we might combine this with other information we have to help improve the site and services.
+
+We use cookies (the computer kind, not the tasty kind) and they may stay on your computer unless you clean them out. We use them to track things like your login session and some of our partners do the same. We don't link these cookies to any personal information.
 
 Some of our partners use small/clear images (tracking pixels) and some scripts to help manage content. Similarly we might use these things for analytics (to help us better understand how people use our site).
 
-If we or our partner change cookie behaviour, we’ll let you know.  
+If we or our partner change cookie behaviour, we'll let you know.  
   
 Behavioral Targeting/Re-Targeting
 
-We partner with a third-party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Site or to manage our advertising on other sites. Our third-party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 | 
 
-Our ad partner uses a variety of web tools to collect non-personal information about your online activities, in order to display targeted ads. You can opt out of targeted ads, but you’ll still see ads - if you want to do this, click the link over to the left.  
+Our ad partner uses a variety of web tools to collect non-personal information about your online activities, in order to display targeted ads. You can opt out of targeted ads, but you'll still see ads - if you want to do this, click the link over to the left.  
   
 Device Tokens
 
@@ -345,11 +355,11 @@ Wave uses third-party email services providers in order to provide certain servi
 
 | 
 
-We send our emails through third-party providers. For the occasional messages we send, we share your email and sometimes your name — otherwise they wouldn’t know where to deliver the message! For our weekly email, we do the above but also include some of your account information to provide the summary you see. These email providers can only use your information for the purposes of sending these emails.
+We send our emails through third-party providers. For the occasional messages we send, we share your email and sometimes your name — otherwise they wouldn't know where to deliver the message! For our weekly email, we do the above but also include some of your account information to provide the summary you see. These email providers can only use your information for the purposes of sending these emails.
 
-For other service providers, the same thing goes: We’ll share what’s necessary for the service to function, and only permit the info to be used for that service.
+For other service providers, the same thing goes: We'll share what's necessary for the service to function, and only permit the info to be used for that service.
 
-You can unsubscribe if you want: See the ‘Consent’ section above.  
+You can unsubscribe if you want: See the ‘Consent' section above.  
   
 Notification of Privacy Policy Changes
 
@@ -357,7 +367,7 @@ We may update this privacy policy to reflect changes to our information practice
 
 | 
 
-If we change what we do, we’ll update this policy to reflect that. If we make any serious changes, we’ll notify you by email or a notice on the website before the changes are in effect. We recommend you read through this every once in a while for the latest information on how we deal with privacy.  
+If we change what we do, we'll update this policy to reflect that. If we make any serious changes, we'll notify you by email or a notice on the website before the changes are in effect. We recommend you read through this every once in a while for the latest information on how we deal with privacy.  
   
 Challenging Compliance
 
@@ -372,6 +382,6 @@ Email: [privacy@waveapps.com](mailto:privacy@waveapps.com)
 Phone: (416) 521-9141 extension 130  
 | 
 
-We have someone dedicated to answering your privacy questions (me) and to respond to you if you think we’re not doing the things we say we do.
+We have someone dedicated to answering your privacy questions (me) and to respond to you if you think we're not doing the things we say we do.
 
 My contact information is available over in the left column.
