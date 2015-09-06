@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319104016id_/https%3A//www.pplelectric.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906075605id_/https%3A//www.pplelectric.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy (3/20/14)
+# Privacy Policy (4/20/15)
 
 PPL Electric Utilities Corporation (referred to in this notice as “PPL,” “we,” “us,” “our” and other similar pronouns), has developed this Privacy Notice (“Notice”)for the benefit of residential customers and other customers who are natural persons (referred to as “Users,” “you” or “your”) who use the PPL Electric Utilities Corporation Web site owned and maintained by PPL or the various social networking platforms that we use (collectively, the “Sites”) to demonstrate our serious commitment to protecting privacy on this Site. 
 
@@ -57,6 +57,7 @@ By knowing a little about Users, PPL can deliver more relevant content and adver
 
   * service provisioning, account creation and maintenance, processing requests, and billing
   * sending requested messaging
+  * sending you emails, texts and pre-recorded calls regarding service outages and restoration
   * promotion
   * advertising
   * customer support
@@ -143,10 +144,10 @@ If a child provides us with personally identifiable information, a parent or gua
 
 Any modifications to this Privacy Notice will be posted in this space, and are effective when posted. Continued use of the Site after the Notice is modified constitutes acceptance of the changes. In some cases (for example, if we significantly expand our use or sharing of your Personal Information), we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you. In some cases, we may request your consent to the changes. 
 
-Last modified: March 20, 2014.
+Last modified: April 20, 2015.
 
 **Questions**
 
 PPL welcomes questions or comments Users may have regarding this Privacy Notice or the use of your Personal Information. Please send any questions or comments to PPL, attention: Internet/Privacy Notice, GENTW5, 2 N. Ninth St., Allentown, Pa., 18101, call 610-774-6494, or send an email to [privacynotice@pplweb.com](mailto:privacynotice@pplweb.com). 
 
-**Privacy Notice updated March 2014.**
+**Privacy Notice updated April 2015.**
