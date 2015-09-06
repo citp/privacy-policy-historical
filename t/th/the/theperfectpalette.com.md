@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theperfectpalette.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515224535id_/http%3A//www.theperfectpalette.com/p/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theperfectpalette.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906235908id_/http%3A//www.theperfectpalette.com/p/policies.html) for the most accurate reproduction.*
 
 # The Perfect Palette: POLICIES
 
-THE PERFECT PALETTE | PRIVACY POLICY 
+THE PERFECT PALETTE | PRIVACY POLICY
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
@@ -16,13 +16,13 @@ We do not link this automatically-collected data to personally identifiable info
 
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.”
 
-THIRD PARTY ADVERTISERS
+THIRD PARTY ADVERTISERS  
+  
+
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and for reasons that will be provided in their own privacy policies, The Perfect Palette has no access or control over these cookies that may be used by third party advertisers.
-
-Some of the advertisements that appear on The Perfect Palette web site are delivered to you by national internet advertising and application companies such as Cox Digital Solutions. This company may utilize technologies to collect anonymous information about your visit to our site, including information about the banner ads displayed, cookies placed on your computer and/or your IP address. 
-
-To opt out of information collection by Cox Digital Solutions, or to obtain information about the technologies they use or their own privacy policy, please visit their website at: http://www.coxdigitalsolutions.com/privacy-policy/consumer-opt-out-program http://www.networkadvertising.org/managing/opt_out.asp
 
 INFORMATION SHARING AND DISCLOSURE
 
@@ -52,7 +52,9 @@ The security of your personal information is important to us. We use PayPal for 
 
 If you have any questions about security on our Web site, you can send email us at chrissy@theperfectpalette.com
 
-EDITORIAL CONTENT
+EDITORIAL CONTENT  
+  
+
 
 We try to make every effort to include proper sources and links to where we find photos for our collages. If you notice a photo that is not properly credited, we welcome you to contact us via email with that information. We believe in giving credit where credit is due. And we welcome the opportunity to provide proper credit.
 
@@ -60,7 +62,7 @@ Furthermore, if you're a photographer who finds a photo of yours on our site tha
 
 CHANGES IN THIS PRIVACY STATEMENT
 
-This privacy policy is subject to change without notice and was last updated on November 15th, 2011. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+This privacy policy is subject to change without notice and was last updated on March 20th, 2015. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 CONTACT US
 
