@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ticketsnow.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602155314id_/http%3A//www.ticketsnow.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketsnow.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906060437id_/http%3A//www.ticketsnow.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Live Nation Entertainment Privacy Policy - Your Privacy Rights     Last Updated: March 5, 2013**
+**Live Nation Entertainment Privacy Policy - Your Privacy Rights     Last Updated: July 24, 2015**
 
 This Policy describes how we treat personal information we collect both online and offline. This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our [Canadian Privacy Policy](http://www.ticketmaster.ca/h/privacy.html).
 
@@ -80,19 +80,11 @@ Parents, you can also learn more about how to protect children's privacy online 
 
 **We use standard security measures.**
 
-We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
-
-**We are TRUSTe certified.**
-
-TRUSTe has awarded TicketsNow the TRUSTe's Privacy Seal. This means TRUSTe independently reviewed this Policy and the practices on TicketsNow sites and apps to make sure they meet [TRUSTE's requirements](http://www.truste.com/privacy-program-requirements). The seal applies to our practices for information collected on U.S., UK, Ireland sites and apps.
-
-We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and as otherwise required by law.
+We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.
 
 **We store information both in and outside of the United States.**
 
 If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.
-
-Live Nation complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. Live Nation has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Live Nation's certification, please visit <http://www.export.gov/safeharbor>.
 
 **We may link to third party sites or services we don't control.**
 
@@ -106,8 +98,6 @@ Live Nation Entertainment, Inc.
 9348 Civic Center Drive  
 Beverly Hills, CA 90210  
 Attention: Privacy Officer, Legal
-
-If you are not satisfied with our response, you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 **What we will do if there is an update to this policy.**
 
@@ -131,7 +121,11 @@ We or our vendors use several common tracking tools. These may include browser c
 
 Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings.
 
-If you block cookies on your browser, certain features on our sites may not work.
+If you block cookies on your browser, certain features on our sites may not work. If you block or delete cookies, not all of the tracking that we have described in this policy will stop.
+
+Some browsers have a "Do Not Track" feature that lets you tell websites that you do not want to have your online activities tracked. These features are not yet uniform, so we are not currently set up to respond to those signals.
+
+We and our vendors may use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Your browser may offer a management tool for removing LSOs.
 
 **Some ads may be served based on tracking.**
 
