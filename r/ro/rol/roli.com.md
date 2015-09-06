@@ -1,29 +1,83 @@
-> *The following text is extracted and transformed from the roli.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626200848id_/http%3A//www.geodiswilson.com/en/Bottom-content/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roli.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906130923id_/https%3A//www.roli.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Geodis Wilson - Privacy Policy
+# ROLI
 
-1\. This statement describes our policy and practices with regard to processing of personal information on our web site. Our principal activity is the provision of logistics services. Our privacy policy covers the company, the web site, and us. 
+This Privacy Policy governs the manner in which ROLI collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.roli.com website (“Site”). This privacy policy applies to the Site and all products and services offered by ROLI.
 
-2\. "Personal information" means any information that relates to a living individual who can be identified from that information or from that information and other information that is held by or is likely to be held by us. 
+#### Personal identification information
 
-3\. It is our policy to take all necessary steps to ensure that all personal information held by us is processed fairly and lawfully. We will take all necessary steps to implement this policy. All our employees and data processors who have access to personal information are obliged to respect the confidentiality of your personal information. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-4\. You can access the Geodis Wilson web site and browse the web site without us capturing and storing personal information, other than logging user IP address and session information such as the duration of the visit and the type of browser used. We may collect additional personal information that you volunteer while using the web site and/or the services. Where we collect such additional information, we make clear the nature of the information and the specific purpose[s] for which it is used or may be used and we offer you the choice to opt out of providing such information. 
+#### Non-personal identification information
 
-5\. Any communication or material you post or transmit to Geodis Wilson over the Internet is, and will be treated as, confidential and non-proprietary. By transmitting or posting any communication of material to this site, you agree that Geodis Wilson may use your communication as material for any purpose, including reproduction, transmission, publication, broadcasting and posting. We will not hold this information for any longer than is legally permissible. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-6\. When you view the web site, we may store some information on your computer. This will be in the form of a "cookie" file, which will enable us to tailor the web site to match your interests and preferences. The "cookie" file is used to store the IP address of your machine and may contain personal data. The "cookie" file will store those personal data for this purpose only. Your internet browser may allow you to erase the "cookie" file, block all "cookies" or receive a warning before a "cookie" is stored. Please refer to your browser instructions or to [www.cookiecentral.com/faq](http://www.cookiecentral.com/faq). 
+#### Web browser cookies
 
-7\. Personal information may be transferred to countries outside the European Economic Area in order to perform the services. In using the services you consent to such a transfer. In addition, if you put personal information on publicly available parts of the web site, this may be accessed by persons in countries outside the European Union or the European Economic Area, which may not have data protection laws as comprehensive as those that exist in the European Union or the European Economic Area. 
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. See our Cookie Policy for further details
 
-8\. We will monitor on an ongoing basis compliance with the provisions of the applicable local legislation and regulations by third party processors, such as suppliers and contractors, of personal information held by us. 
+#### How we use collected information
 
-9\. We may from time to time use your personal information to send you information about our company, our special offers and other information that you may find useful. If you do not wish to receive this information please contact the Head Office of Geodis Wilson in your country. 
+ROLI may collect and use Users personal information for the following purposes:
 
-10\. The web site may contain links to other Internet web sites that are not owned by us. We are not responsible for the content of such web sites or for the privacy policy of such web sites or for personal information, which such web sites may collect or place on your computer. 
+  * To improve customer service 
 
-11\. You can find out what personal information we hold about you by contacting the Head Office of Geodis Wilson in your country Should we be prevented from disclosing your personal information we will give reasons for any such refusal. 
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-12\. If any of the personal information that we hold about you is incorrect or needs updating, or if you want us to delete any personal information, please contact the Head Office of Geodis Wilson in your country. We may request that you provide further information and identification to enable us to comply with this request. 
+  * To personalize user experience 
 
-13\. We regard our databases of customer information (which may include your personal information) as a valuable asset. Should we sell or transfer any of our business assets to third parties this may include the sale or transfer of such databases of information.
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+  * To improve our Site 
+
+We may use feedback you provide to improve our products and services.
+
+  * To process payments 
+
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+
+  * To run a promotion, contest, survey or other Site feature 
+
+To send Users information they agreed to receive about topics we think will be of interest to them.
+
+  * To send periodic emails 
+
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
+
+
+
+#### How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+#### Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys.
+
+We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+#### Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+#### Changes to this privacy policy
+
+ROLI has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+#### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy, the terms of use and cookie policy . If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+#### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+https://www.roli.com  
+ROLI 2 Glebe Road London E8 4BD  
+02072542155  
+contact@roli.com 
+
+This document was last updated on January 31, 2014
+
+Privacy policy created by Generate Privacy Policy
