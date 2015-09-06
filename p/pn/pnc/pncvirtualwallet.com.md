@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pncvirtualwallet.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319034505id_/https%3A//www.pnc.com/webapp/unsec/Solutions.do%3FsiteArea%3D/PNC/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pncvirtualwallet.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906234545id_/https%3A//www.pnc.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # PNC Bank - Privacy Policy
 
@@ -31,7 +31,7 @@ Click Stream Auditing includes information such as a web surfer's IP address, we
 
 **Action Tags and Other Technologies**
 
-Action Tags are commonly referred to as Web beacons or GIF tags. This type of technology is inserted in various places within our Web site to collect anonymous information about your visits to the PNC site and your interaction with our ads and content.
+Action Tags are commonly referred to as Web beacons or GIF tags. This type of technology is inserted in various places within our Web site to collect anonymous information about your visits to the PNC site and your interaction with our ads and content. PNC may use certain technologies to collect additional information related to the status and condition of your mobile devices.  This information may be used to support the security of your transaction with PNC, determine industry trends, and for other research purposes.
 
 
 
