@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315094115id_/http%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906112759id_/http%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | JCPenney Portraits
 
@@ -31,7 +31,7 @@ In addition to personal information you provide us, jcpportraits.com uses techno
 
 A "cookie" is a small data file stored by your web browser on your computer's hard drive. Cookies are necessary to use the site. A cookie allows our web server to balance customer traffic on our website to enhance performance of the service. If you disable your cookies, you will not be able to visit our site. After you end your session the cookie from the web server will remain on your computer until you manually delete it. No personal information is stored on this cookie. Accepting cookies through your web browser is your personal choice. However, if you choose not to accept cookies, you will not be able to take full advantage of some of this Website's features.
 
-### **If you do not wish to recieve promotional information as a result of using the jcpportraits.com Website,what should you do?**
+### **If you do not wish to receive promotional information as a result of using the jcpportraits.com Website,what should you do?**
 
 Our goal is to inform you about our products and services, including special promotions and coupons. We may contact you by mail or e-mail or telephone to inform you of offers. However, if you are contacted and do not wish to receive further information , you may contact us at the phone number listed below or for email: select the unsubscribe at the bottom of the email.
 
