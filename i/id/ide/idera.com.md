@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503143822id_/https%3A//www.idera.com/legal/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906094305id_/https%3A//www.idera.com/legal/privacystatement) for the most accurate reproduction.*
 
 # Idera Privacy Statement
 
