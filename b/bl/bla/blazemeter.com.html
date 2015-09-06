@@ -1,108 +1,302 @@
-<!--The following is the downloaded HTML source of the blazemeter.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626075536id_/http%3A//blazemeter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blazemeter.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906133206id_/https%3A//blazemeter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]--><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8"><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/004704ae06cb75898553a32fed16053c228cdf68.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1580352300000/208250.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-G7GV"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcEVVNVGwcAUldXBgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<link rel="shortlink" href="http://blazemeter.com/node/204">
-<meta property="og:site_name" content="PRIVACY POLICY | BlazeMeter">
-<meta property="og:image" content="http://blazemeter.com/sites/all/themes/blazemeter/images/blazemeter-logo-small.jpg">
-<link rel="shortcut icon" href="http://blazemeter.com/sites/default/files/favicon_0_0.png" type="image/png">
-<meta property="og:url" content="http://blazemeter.com/privacy-policy">
-<link rel="canonical" href="http://blazemeter.com/privacy-policy">
-<meta name="generator" content="Drupal 7 (http://drupal.org)">
+  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-G7GV"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcEVVNVGwcHUFNSBwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<link rel="shortcut icon" href="https://blazemeter.com/sites/default/files/favicon_0_0.png" type="image/png">
 <meta name="OBKey" content="xMAJ21ayDgWjQ40T+rZHWQ==">
-<meta content="PRIVACY POLICY" about="/privacy-policy" property="dc:title">
-<meta name="description" content="BLAZEMETER PRIVACY POLICY
-OVERVIEW
-
-This Privacy Policy explains how BlazeMeter, Ltd. (&quot;we&quot;, &quot;us&quot;, &quot;our&quot; or &quot;BlazeMeter&quot;) collects, uses and shares your &quot;Personal Information&quot; - information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number - and other data through your use of any of BlazeMeter's Web sites, services, application programming interfaces (&quot;APIs&quot;) or software (collectively, the &quot;BlazeMeter Service&quot;). This Privacy Policy does not apply to the practices of companies that BlazeMeter does not own or control or to people that BlazeMeter does not employ or manage. Your use of the BlazeMeter Service is subject to this Privacy Policy in effect at the time of your use. BlazeMeter reserves the right to update and change this Privacy Policy from time to time without notice or acceptance by you, so please check this page frequently for updates and changes.">
-<meta name="keywords" content="BlazeMeter, JMeter Cloud,legal, Terms of Service,Privacy Policy, KnowlegedeHub Guidelines,Apache JMeter, Selenium, FreeNX,Google Pagespeed,Softwareishard, harViewer,Amazon EC2,NoMachine,">
-<link rel="image_src" href="http://blazemeter.com/sites/all/themes/blazemeter/logo/blazemeter-logo-small.jpg">
-  <title>BlazeMeter:The JMeter Cloud | Privacy Policy</title>
+<meta name="description" content="BLAZEMETER PRIVACY POLICY">
+<meta name="generator" content="Drupal 7 (http://drupal.org)">
+<link rel="image_src" href="https://blazemeter.com/sites/all/themes/blazemeter/logo/blazemeter-logo-small.jpg">
+<link rel="canonical" href="https://blazemeter.com/privacy-policy">
+<link rel="shortlink" href="https://blazemeter.com/node/917">
+<meta property="og:site_name" content="Privacy Policy | BlazeMeter">
+<meta property="og:image" content="https://blazemeter.com/sites/all/themes/blazemeter/images/blazemeter-logo-small.jpg">
+<meta property="og:url" content="https://blazemeter.com/privacy-policy">
+  <title>Privacy Policy | BlazeMeter</title>
 
       <meta name="MobileOptimized" content="width">
     <meta name="HandheldFriendly" content="true">
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="cleartype" content="on">
 
-  <style>@import url("http://blazemeter.com/modules/system/system.base.css?n7q67r");
-@import url("http://blazemeter.com/modules/system/system.messages.css?n7q67r");
-@import url("http://blazemeter.com/modules/system/system.theme.css?n7q67r");</style>
-<style>@import url("http://blazemeter.com/modules/comment/comment.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/date/date_api/date.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?n7q67r");
-@import url("http://blazemeter.com/modules/field/theme/field.css?n7q67r");
-@import url("http://blazemeter.com/modules/node/node.css?n7q67r");
-@import url("http://blazemeter.com/modules/search/search.css?n7q67r");
-@import url("http://blazemeter.com/modules/user/user.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/extlink/extlink.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/views/css/views.css?n7q67r");</style>
-<style>@import url("http://blazemeter.com/sites/all/modules/custom/blazemeter_site/blazemeter_site.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/ckeditor/ckeditor.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/ctools/css/ctools.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/lightbox2/css/lightbox.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/nicemessages/libraries/jgrowl/jquery.jgrowl.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/nicemessages/css/nicemessages.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/tagclouds/tagclouds.css?n7q67r");
-@import url("http://blazemeter.com/sites/all/modules/views_slideshow/views_slideshow.css?n7q67r");</style>
-<style>@import url("http://blazemeter.com/sites/all/themes/blazeng/css/styles.css?n7q67r");</style>
-  <script src="http://blazemeter.com/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
-<script src="http://blazemeter.com/misc/jquery.once.js?v=1.2"></script>
-<script src="http://blazemeter.com/misc/drupal.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/modules/admin_menu/admin_devel/admin_devel.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/modules/extlink/extlink.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/modules/custom/blazemeter_site/jquery.ba-hashchange.min.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/modules/lightbox2/js/lightbox_video.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/modules/lightbox2/js/lightbox.js?1403760789"></script>
-<script src="http://blazemeter.com/sites/all/modules/nicemessages/libraries/jgrowl/jquery.jgrowl.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/modules/nicemessages/js/nicemessages.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/modules/views_slideshow/js/views_slideshow.js?n7q67r"></script>
-<script>jQuery.extend(Drupal.settings, { "pathToTheme": "sites/all/themes/blazeng" });</script>
+  <link type="text/css" rel="stylesheet" href="https://blazemeter.com/sites/default/files/advagg_css/css__YZMmyCjxADNsxWJVyzxskiYBiPsGboww8DDJoAv1iVA__PqGVjSeXe3e-YM4xspxCavDlyydtEB28TRpZPTEwV5I__dvR-Eqb3DvviSOUn1kWo-hzQ0Hyt8CA7aryXXCHUEcw.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://blazemeter.com/sites/default/files/advagg_css/css__7KM5gESMeFDwD5jzytSX-YTfpHI9vTjoT0uevDCToow__UtTDfJ9BaayWHRQjrNZqdmwiEb5Z7mdfoKcVhMdVpmg__dvR-Eqb3DvviSOUn1kWo-hzQ0Hyt8CA7aryXXCHUEcw.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://blazemeter.com/sites/default/files/advagg_css/css__1enxo7xjz3uB86Oo5Gt51j2gpfQhZA7DVdRP0jKGses__yKzaY_ra5ymy8rGUtvsStzLu6bVLyzI-5_IhC-nWhiw__dvR-Eqb3DvviSOUn1kWo-hzQ0Hyt8CA7aryXXCHUEcw.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://blazemeter.com/sites/default/files/advagg_css/css__lg6qKyYgsjr70QGN0pR1ALYZJp3gLNk1knt2STm_8C4__4sISMmJyOzEM60ZnsV09TWGiSGSb5MgK9ParZiuYul8__dvR-Eqb3DvviSOUn1kWo-hzQ0Hyt8CA7aryXXCHUEcw.css" media="all">
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js"></script>
+<script src="https://blazemeter.com/misc/jquery.once.js?v=1.2"></script>
+<script src="https://blazemeter.com/misc/drupal.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/modules/admin_menu/admin_devel/admin_devel.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/modules/extlink/extlink.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/modules/custom/blazemeter_site/jquery.ba-hashchange.min.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/libraries/jgrowl/jquery.jgrowl.min.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/modules/nicemessages/js/nicemessages.js?nu93vb"></script>
 <script>jQuery(document).ready(function($) {
-$("#blazemeter-site-commercial-register input[name=form_id]").val("user_register");
+			$("#blazemeter-site-commercial-register-c input[name=form_id]").val("user_register");
 });</script>
-<script src="http://blazemeter.com/sites/all/themes/blazeng/js/lib/vendor_plugins.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/themes/blazeng/js/lib/plugins.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/themes/blazeng/js/lib/nick.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/themes/blazeng/js/lib/url.js?n7q67r"></script>
-<script src="http://blazemeter.com/sites/all/themes/blazeng/js/script.js?n7q67r"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blazeng","theme_token":"9bpBhovqwaoTlZ61tXo8Hssmz-YpNB06qRxSf1djTj8","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/modules\/custom\/blazemeter_site\/jquery.ba-hashchange.min.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox_video.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/nicemessages\/libraries\/jgrowl\/jquery.jgrowl.js":1,"sites\/all\/modules\/nicemessages\/js\/nicemessages.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"1":1,"2":1,"sites\/all\/themes\/blazeng\/js\/lib\/vendor_plugins.js":1,"sites\/all\/themes\/blazeng\/js\/lib\/plugins.js":1,"sites\/all\/themes\/blazeng\/js\/lib\/nick.js":1,"sites\/all\/themes\/blazeng\/js\/lib\/url.js":1,"sites\/all\/themes\/blazeng\/js\/script.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/blazemeter_site\/blazemeter_site.css":1,"sites\/all\/modules\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/nicemessages\/libraries\/jgrowl\/jquery.jgrowl.css":1,"sites\/all\/modules\/nicemessages\/css\/nicemessages.css":1,"sites\/all\/modules\/tagclouds\/tagclouds.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/themes\/zen\/system.menus.css":1,"sites\/all\/themes\/blazeng\/css\/styles.css":1}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":0,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":1,"flvPlayer":"\/","flvFlashvars":""},"extlink":{"extTarget":"_blank","extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0}});</script>
+<script src="https://blazemeter.com/sites/all/modules/webform/js/webform.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/modules/webform_conditional/webform_conditional.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/modules/clientside_validation/jquery-validate/jquery.validate.js?nu93vb"></script>
+<script>jQuery.extend(Drupal.settings, { "pathToTheme": "sites/all/themes/blazeng" });</script>
+<script>jQuery(document).ready(function () { blazemeter_bza_url = "https://a.blazemeter.com";});</script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/lib/vendor_plugins.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/lib/plugins.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/lib/nick.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/jquery.cycle2.min.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/jquery.hc-sticky.min.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/jquery-scrollspy.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/classie.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/modernizr.custom.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/progressButton.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/pricing.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/lib/url.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/lib/velocity.min.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/lib/jquery.fs.tipper.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/lib/jquery.matchHeight.js?nu93vb"></script>
+<script src="https://blazemeter.com/sites/all/themes/blazeng/js/script.js?nu93vb"></script>
+<script>jQuery.extend(Drupal.settings, {
+    "basePath": "\/",
+    "pathPrefix": "",
+    "ajaxPageState": {
+        "theme": "blazeng",
+        "theme_token": "RxggAO-nbXXm1-BXuK5dxiLtvzpXxBXM6BnThxSBIk4",
+        "css": {
+            "modules\/system\/system.base.css": 1,
+            "modules\/system\/system.menus.css": 1,
+            "modules\/system\/system.messages.css": 1,
+            "modules\/system\/system.theme.css": 1,
+            "modules\/comment\/comment.css": 1,
+            "sites\/all\/modules\/date\/date_api\/date.css": 1,
+            "sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css": 1,
+            "modules\/field\/theme\/field.css": 1,
+            "modules\/node\/node.css": 1,
+            "modules\/search\/search.css": 1,
+            "modules\/user\/user.css": 1,
+            "sites\/all\/modules\/youtube\/css\/youtube.css": 1,
+            "sites\/all\/modules\/extlink\/extlink.css": 1,
+            "sites\/all\/modules\/views\/css\/views.css": 1,
+            "sites\/all\/modules\/ckeditor\/css\/ckeditor.css": 1,
+            "sites\/all\/modules\/custom\/blazemeter_site\/blazemeter_site.css": 1,
+            "sites\/all\/modules\/ctools\/css\/ctools.css": 1,
+            "sites\/all\/libraries\/jgrowl\/jquery.jgrowl.min.css": 1,
+            "sites\/all\/modules\/nicemessages\/css\/nicemessages_positions.css": 1,
+            "sites\/all\/modules\/nicemessages\/css\/nicemessages_jgrowl.css": 1,
+            "sites\/all\/modules\/nicemessages\/css\/shadows.css": 1,
+            "sites\/all\/modules\/tagclouds\/tagclouds.css": 1,
+            "sites\/all\/modules\/webform\/css\/webform.css": 1,
+            "sites\/all\/themes\/zen\/system.menus.css": 1,
+            "sites\/all\/themes\/blazeng\/css\/styles.css": 1,
+            "sites\/all\/themes\/blazeng\/css\/component.css": 1,
+            "sites\/all\/themes\/blazeng\/css\/demo-slideshow.css": 1,
+            "sites\/all\/themes\/blazeng\/css\/jquery.fs.tipper.css": 1,
+            "sites\/all\/themes\/blazeng\/css\/blazey.css": 1
+        },
+        "js": {
+            "sites\/all\/modules\/clientside_validation\/clientside_validation.ie8.js": 1,
+            "sites\/all\/modules\/clientside_validation\/clientside_validation.js": 1,
+            "\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.3\/jquery.min.js": 1,
+            "misc\/jquery.once.js": 1,
+            "misc\/drupal.js": 1,
+            "sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js": 1,
+            "sites\/all\/modules\/extlink\/extlink.js": 1,
+            "sites\/all\/modules\/custom\/blazemeter_site\/jquery.ba-hashchange.min.js": 1,
+            "sites\/all\/libraries\/jgrowl\/jquery.jgrowl.min.js": 1,
+            "sites\/all\/modules\/nicemessages\/js\/nicemessages.js": 1,
+            "sites\/all\/modules\/webform\/js\/webform.js": 1,
+            "sites\/all\/modules\/webform_conditional\/webform_conditional.js": 1,
+            "sites\/all\/modules\/clientside_validation\/jquery-validate\/jquery.validate.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/lib\/vendor_plugins.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/lib\/plugins.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/lib\/nick.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/jquery.cycle2.min.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/jquery.hc-sticky.min.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/jquery-scrollspy.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/classie.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/modernizr.custom.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/progressButton.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/pricing.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/lib\/url.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/lib\/velocity.min.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/lib\/jquery.fs.tipper.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/lib\/jquery.matchHeight.js": 1,
+            "sites\/all\/themes\/blazeng\/js\/script.js": 1
+        }
+    },
+    "blazemeter": {
+        "stripe_public_key": "pk_live_FlsJiikP9bEn6lFil6d9Mttn",
+        "blazemeter_cookie": "blazemeter_user",
+        "blazemeter_bza_url": "https:\/\/a.blazemeter.com"
+    },
+    "extlink": {
+        "extTarget": "_blank",
+        "extClass": 0,
+        "extLabel": "(link is external)",
+        "extImgClass": 0,
+        "extSubdomains": 1,
+        "extExclude": "",
+        "extInclude": "",
+        "extCssExclude": "",
+        "extCssExplicit": "",
+        "extAlert": 0,
+        "extAlertText": "This link will take you to an external web site.",
+        "mailtoClass": 0,
+        "mailtoLabel": "(link sends e-mail)"
+    },
+    "nicemessages": {
+        "position": "center",
+        "items": [
+
+        ]
+    },
+    "webform_conditional_webform_client_form_711": {
+        "fields": false,
+        "nid": "711",
+        "showSpeed": null
+    },
+    "clientsideValidation": {
+        "forms": {
+            "webform-client-form-711": {
+                "errorPlacement": 1,
+                "general": {
+                    "errorClass": "error",
+                    "wrapper": "li",
+                    "validateTabs": "",
+                    "scrollTo": 1,
+                    "scrollSpeed": 1000,
+                    "disableHtml5Validation": 1,
+                    "validateOnBlur": 1,
+                    "validateOnBlurAlways": 0,
+                    "validateOnKeyUp": 1,
+                    "validateBeforeAjax": 0,
+                    "validateOnSubmit": 1,
+                    "showMessages": 0,
+                    "errorElement": "label"
+                },
+                "rules": {
+                    "submitted[first_name]": {
+                        "required": true,
+                        "messages": {
+                            "required": "First Name field is required.",
+                            "maxlength": "First Name field has a max length of 128 characters."
+                        },
+                        "maxlength": 128
+                    },
+                    "submitted[last_name]": {
+                        "required": true,
+                        "messages": {
+                            "required": "Last Name field is required.",
+                            "maxlength": "Last Name field has a max length of 128 characters."
+                        },
+                        "maxlength": 128
+                    },
+                    "submitted[email]": {
+                        "required": true,
+                        "messages": {
+                            "required": "Email field is required.",
+                            "email": "The value in Email is not a valid email address."
+                        },
+                        "email": true
+                    }
+                }
+            },
+            "webform-client-form-711--2": {
+                "errorPlacement": 1,
+                "general": {
+                    "errorClass": "error",
+                    "wrapper": "li",
+                    "validateTabs": "",
+                    "scrollTo": 1,
+                    "scrollSpeed": 1000,
+                    "disableHtml5Validation": 1,
+                    "validateOnBlur": 1,
+                    "validateOnBlurAlways": 0,
+                    "validateOnKeyUp": 1,
+                    "validateBeforeAjax": 0,
+                    "validateOnSubmit": 1,
+                    "showMessages": 0,
+                    "errorElement": "label"
+                },
+                "rules": {
+                    "submitted[first_name]": {
+                        "required": true,
+                        "messages": {
+                            "required": "First Name field is required.",
+                            "maxlength": "First Name field has a max length of 128 characters."
+                        },
+                        "maxlength": 128
+                    },
+                    "submitted[last_name]": {
+                        "required": true,
+                        "messages": {
+                            "required": "Last Name field is required.",
+                            "maxlength": "Last Name field has a max length of 128 characters."
+                        },
+                        "maxlength": 128
+                    },
+                    "submitted[email]": {
+                        "required": true,
+                        "messages": {
+                            "required": "Email field is required.",
+                            "email": "The value in Email is not a valid email address."
+                        },
+                        "email": true
+                    }
+                }
+            }
+        },
+        "general": {
+            "usexregxp": 0,
+            "months": {
+                "January": 1,
+                "Jan": 1,
+                "February": 2,
+                "Feb": 2,
+                "March": 3,
+                "Mar": 3,
+                "April": 4,
+                "Apr": 4,
+                "May": 5,
+                "June": 6,
+                "Jun": 6,
+                "July": 7,
+                "Jul": 7,
+                "August": 8,
+                "Aug": 8,
+                "September": 9,
+                "Sep": 9,
+                "October": 10,
+                "Oct": 10,
+                "November": 11,
+                "Nov": 11,
+                "December": 12,
+                "Dec": 12
+            }
+        },
+        "groups": {
+            "webform-client-form-711": {
+
+            },
+            "webform-client-form-711--2": {
+
+            }
+        }
+    }
+});</script>
       <!--[if lt IE 9]>
     <script src="/sites/all/themes/zen/js/html5.js"></script>
     <![endif]-->
-  <!--  <script type="text/javascript">
+  
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-10305950-4']);
-    _gaq.push(['_setDomainName', 'blazemeter.com']);
-    _gaq.push(['_trackPageview']);
+    <script id="bizible-settings" type="text/javascript" src="//cdn.bizible.com/_biz-a.js" async="" data-attach-secure-forms="true"></script>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700" rel="stylesheet" type="text/css">
 
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
--->
-  <script type="text/javascript">
-    var _kmq = _kmq || [];
-    var _kmk = _kmk || '004704ae06cb75898553a32fed16053c228cdf68';
-    function _kms(u){
-      setTimeout(function(){
-        var d = document, f = d.getElementsByTagName('script')[0],
-          s = d.createElement('script');
-        s.type = 'text/javascript'; s.async = true; s.src = u;
-        f.parentNode.insertBefore(s, f);
-      }, 1);
-    }
-    _kms('//i.kissmetrics.com/i.js');
-    _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-  </script>
-  <script id="bizible-settings" type="text/javascript" src="//cdn.bizible.com/_biz-a.js" async="" data-attach-secure-forms="true"></script>
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700" rel="stylesheet" type="text/css">
-
-<script async="" type="text/javascript" src="http://blazemeter.disqus.com/count.js"></script></head>
-<body xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" class="html not-front not-logged-in no-sidebars page-node page-node- page-node-204 node-type-page section-privacy-policy"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+    <script src="/sites/all/themes/blazeng/js/custom.js"></script>
+    <script src="/sites/all/themes/blazeng/js/maps.js"></script>
+<script async="" type="text/javascript" src="https://blazemeter.disqus.com/count.js"></script></head>
+<body id="skrollr-body" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" class="html not-front not-logged-in no-sidebars page-node page-node- page-node-917 node-type-page section-privacy-policy">
 <!-- Google Tag Manager -->
 <!-- This part was below popstate DIV. I moved it on Request KL -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-G7GV"
@@ -128,7 +322,7 @@ $("#blazemeter-site-commercial-register input[name=form_id]").val("user_register
 <input class="sb-search-input" placeholder="Search..." type="text" value="" name="keys" id="search">
 <input class="sb-search-submit" type="submit" value="Search" name="op" title="Search" alt="Search">
 <span class="sb-icon-search"></span>
-<input type="hidden" value="QBiyUav-ZiONqbpjAXSmCJ8zDt1PlmBxkszYD3rJlB0" name="form_token">
+<input type="hidden" value="9-rUPUHqm7QiKyPAjmQIZ3P5jGjUwQTf9NFVpvhViPw" name="form_token">
 <input type="hidden" value="search_form" id="edit-search-form" name="form_id">
 <input type="hidden" name="type[blog]" id="edit-type-blog" value="blog">
 </form>
@@ -136,14 +330,14 @@ $("#blazemeter-site-commercial-register input[name=form_id]").val("user_register
                         </div>
 						              <ul class="nav-links-list"><li class="menu-499 first"><a href="/pricing" title="">Pricing</a></li>
 <li class="menu-403"><a href="/features" title="">Features</a></li>
-<li class="menu-756"><a href="/enterprise" title="">Enterprise</a></li>
-<li class="menu-853"><a href="/mobile" title="">Mobile</a></li>
+<li class="menu-756"><a href="/enterpriseng" title="">Enterprise</a></li>
 <li class="menu-404"><a href="/resources" title="">Resources</a></li>
-<li class="menu-405 last"><a href="/blog" title="">Blog</a></li>
+<li class="menu-405"><a href="/blog" title="">Blog</a></li>
+<li class="menu-1136 last"><a href="/about" title="">About</a></li>
 </ul>                        <div class="auth-block">
                             <!-- If not authenticated -->
 							                            <div class="link-holder signup-link">
-                                <a href="https://a.blazemeter.com/user">Login</a>
+                                <a href="https://a.blazemeter.com/app">Login</a>
                             </div>
                             <div id="sign-block" class="link-holder not-logged">
                             </div>
@@ -156,108 +350,90 @@ $("#blazemeter-site-commercial-register input[name=form_id]").val("user_register
                     </div>
                     <span class="nav-opener">☰</span>
                 </div>
-</nav>
-        <div class="header__region region region-header">
-    <div id="block-menu-menu-legal-menu" class="block block-menu first last odd" role="navigation">
-
-      
-  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/terms-service" class="menu__link">Terms of Service</a></li>
-<li class="menu__item is-active-trail is-leaf leaf active-trail"><a href="/privacy-policy" title="" class="menu__link is-active-trail active-trail active">Privacy Policy</a></li>
-<li class="menu__item is-leaf leaf"><a href="/knowledge-base-guidelines" title="" class="menu__link">Knowledge Base Guidelines</a></li>
-<li class="menu__item is-leaf last leaf"><a href="/data-security-policy" title="" class="menu__link">Data Security Policy</a></li>
-</ul>
-</div>
-  </div>
-            
+                
+                                </nav>
+                  
       	        <div id="main__content--responsive">
-      	                <h1 class="page__title title" id="page-title">PRIVACY POLICY</h1>
+      	                <h1 class="page__title title" id="page-title">Privacy Policy</h1>
                                           
 
 
-<article class="node-204 node node-page view-mode-full clearfix" about="/privacy-policy" typeof="foaf:Document">
+<article class="node-917 node node-page view-mode-full clearfix" about="/privacy-policy" typeof="sioc:Item foaf:Document">
 
+      <header>
+                  <span property="dc:title" content="Privacy Policy" class="rdf-meta element-hidden"></span>
+      
+          </header>
   
-  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2 align="center">
-	BLAZEMETER PRIVACY POLICY</h2>
-<h3>
-	OVERVIEW</h3>
-<p>This Privacy Policy explains how BlazeMeter, Ltd. ("we", "us", "our" or "BlazeMeter") collects, uses and shares your "Personal Information" - information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number - and other data through your use of any of BlazeMeter's websites, services, application programming interfaces ("APIs") or software (collectively, the "BlazeMeter Service"). This Privacy Policy does not apply to the practices of companies that BlazeMeter does not own or control or to people that BlazeMeter does not employ or manage. Your use of the BlazeMeter Service is subject to this Privacy Policy in effect at the time of your use. BlazeMeter reserves the right to update and change this Privacy Policy from time to time without notice or acceptance by you, so please check this page frequently for updates and changes.</p>
-<h3>
-	COLLECTION OF PERSONAL INFORMATION</h3>
-<p>When you register for the BlazeMeter Service, we ask for information such as your name, company name or affiliation and email address. BlazeMeter collects the email addresses of people who communicate with BlazeMeter via email, create accounts or post topics.</p>
-<p>BlazeMeter may also collect Personal Information provided by users (for example, through posts or site registrations). When posting content on or through the BlazeMeter Service, please keep in mind that any Personal Information you post may be viewed by others.</p>
-<p>BlazeMeter may collect billing and account information for credit cards, payment cards or other payment systems from clients of paid versions of the BlazeMeter Service and share this information with BlazeMeter's billing and payment processor(s). BlazeMeter does not store credit card or payment card numbers after they have been forwarded to its billing and payment processor(s).</p>
-<p>BlazeMeter may collect information about your transactions with us and/or with our business partners. This information might include information necessary to process payments, such as billing information and your credit card number. BlazeMeter may receive information about you from our business partners with which you have an account, service relationship or transaction history. BlazeMeter may obtain information about you from service providers engaged in the business of marketing data. BlazeMeter may receive Personal Information from third parties when you authorize such third parties to authenticate or identify you to BlazeMeter or sign in to the BlazeMeter Service using credentials from a third party service.</p>
-<h3>
-	USE OF PERSONAL INFORMATION</h3>
-<p>BlazeMeter uses Personal Information it collects for the following general purposes:</p>
-<ul><li>
-		Products and services provision</li>
-	<li>
-		Billing, identification and authentication</li>
-	<li>
-		Improvement of services</li>
-	<li>
-		Contact</li>
-	<li>
-		Research</li>
-	<li>
-		Analytics and reporting</li>
-</ul><p>You will automatically be subscribed to receive optional email messages such as newsletters or promotions, you may choose to unsubscribe at anytime. In addition to these optional email messages, BlazeMeter may contact you via any email address you provide to us with transactional or relationship messages such as account status messages, security updates or notifications of changes in the terms of your account or the BlazeMeter Service. These types of transactional or relationship email messages are not optional. BlazeMeter may automatically receive and record information on our server logs from your browser, including your IP address, cookies and the pages you request. This information may be used for various purposes, including to:</p>
-<ul><li>
-		Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.</li>
-	<li>
-		Estimate the total number of users visiting the BlazeMeter Service from specific geographical regions.</li>
-	<li>
-		Help determine which users have access privileges to certain content, services or resources that we offer.</li>
-	<li>
-		Estimate and report our total audience size and traffic.</li>
-	<li>
-		Conduct research to improve the BlazeMeter Service.</li>
-	<li>
-		Help combat fraud and abuse.</li>
-	<li>
-		Provide analytics and reporting.</li>
-</ul><p>BlazeMeter may combine information about you in our possession with information we obtain from business partners or others.</p>
-<h3>
-	SHARING OF PERSONAL INFORMATION</h3>
-<p>BlazeMeter does not share Personal Information collected from your use of the BlazeMeter Service with others, except as described in this Privacy Policy.</p>
-<p>BlazeMeter may share your Personal Information when you have authorized BlazeMeter to do so, when it is necessary to complete a transaction, to operate or improve the BlazeMeter Service, or to take some action that you have asked us to do. BlazeMeter will share your email address with companies that are clients of the BlazeMeter Service when you authorize BlazeMeter to do so. How such companies use your email address is subject to those companies' own privacy policies, not this Privacy Policy. BlazeMeter may share Personal Information under the following circumstances:</p>
-<p>In the course of operating our business, it may be necessary or appropriate for us to provide access to your Personal Information to others such as our service providers, contractors and select vendors so that we can operate the BlazeMeter Service and our business. Where practical, we seek to obtain confidentiality agreements that are consistent with this Privacy Policy and that limit others' use or disclosure of this Personal Information.</p>
-<p>We may share your Personal Information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights, to defend against legal claims or in such circumstances where, in our judgment, disclosure is required or appropriate.</p>
-<p>We may share your Personal Information if we believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of service or as otherwise required by law.</p>
-<p>As we continue to develop our business, we may sell all or part of our business. In such transactions, Personal Information collected from users is generally one of the business assets that will be transferred. The transferred Personal Information will remain subject to this Privacy Policy or subsequent policies to which you have consented.</p>
-<h3>
-	COOKIES</h3>
-<p>A "cookie" is a small amount of data, which typically includes an anonymous unique identifier, which is sent to your browser and stored on your computer's hard drive when you view a webpage, an advertisement, a video or other types of content. You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. If you reject all cookies, or specifically reject cookies set by BlazeMeter, you may not be able to take full advantage of features of the BlazeMeter Service that require you to be signed in to your account or otherwise identify yourself.</p>
-<p>BlazeMeter uses cookies for a number of purposes, including to:</p>
-<ul><li>
-		Identify you as an account holder.</li>
-	<li>
-		Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.</li>
-	<li>
-		Keep track of preferences you specify while you are using BlazeMeter's Sites, Services and Software.</li>
-	<li>
-		Estimate and report our total audience size and traffic.</li>
-	<li>
-		Conduct research to improve the BlazeMeter Service.</li>
-</ul><p>BlazeMeter's vendors, service providers and business partners may set and access their own cookies on and through the BlazeMeter Service. How other companies use their own cookies and the information they gather is subject to those companies' own privacy policies, not this Privacy Policy.</p>
-<h3>
-	DATA WE COLLECT OTHER THAN PERSONAL INFORMATION</h3>
-<p>In addition to Personal Information, we collect data on your use and interaction with the BlazeMeter Service. Data which we obtain about you, other than Personal Information, is the exclusive property of BlazeMeter and may be used by BlazeMeter in any manner permitted by applicable laws.</p>
-<h3>
-	RETENTION OF PERSONAL INFORMATION AND OTHER DATA</h3>
-<p>BlazeMeter reserves the right to retain your Personal Information, other data collected about you and content you submit to or through the BlazeMeter Service to the extent required by applicable laws, rules and regulations and as reasonably necessary to protect our legal interests and operate our business.</p>
-<h3>
-	DATA TRANSMISSION AND STORAGE</h3>
-<p>No data transmission over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. BlazeMeter uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the BlazeMeter Service. Where practical, we seek to obtain confidentiality agreements that are consistent with this Privacy Policy and that limit others' use or disclosure of your Personal Information.</p>
-<h3>
-	QUESTIONS</h3>
-<p>Any questions about this Privacy Policy should be addressed to&nbsp;<a href="mailto:info@blazementer.com?subject=Privacy%20Policy">info@blazemeter.com</a>.</p>
-<p>Last updated November 25, 2011.</p>
-<p>Copyright © 2011 BlazeMeter, Ltd. All rights reserved.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h2>BLAZEMETER PRIVACY POLICY</h2>
+<div>&nbsp;</div>
+<h3>OVERVIEW</h3>
+<div>This Privacy Policy explains how BlazeMeter ("we", "us", "our" or "BlazeMeter") collects, uses and shares your "Personal Information" - information that identifies, relates to, describes or is capable of being associated with you as a particular individual, such as your name, address, email address or telephone number - and other data through your use of any of BlazeMeter's websites, services, application programming interfaces ("APIs") or software (collectively, the "BlazeMeter Service"). This Privacy Policy does not apply to the practices of companies that BlazeMeter does not own or control or to people that BlazeMeter does not employ or manage. Your use of the BlazeMeter Service is subject to this Privacy Policy in effect at the time of your use. By using BlazeMeter Service, you consent to the collection and use of your Personal Information, as outlined in this Privacy Policy. You are not obligated to provide us with your Personal Information, however, we will not be able to provide you with the BlazeMeter Service without the receipt thereof. BlazeMeter reserves the right to update and change this Privacy Policy from time to time without notice or acceptance by you, so please check this page frequently for updates and changes.</div>
+<div>&nbsp;</div>
+<h3>COLLECTION OF PERSONAL INFORMATION</h3>
+<div>When you create a BlazeMeter account, we ask for information such as your name, company name or affiliation and email address. BlazeMeter collects the email addresses of people who communicate with BlazeMeter via email, create accounts or post topics on our website.</div>
+<div>BlazeMeter may also collect Personal Information provided by users (for example, through posts or site registrations). When posting content on or through the BlazeMeter Service, please keep in mind that any Personal Information you post may be viewed by others.</div>
+<div>BlazeMeter may collect information about your transactions with us and/or with our business partners. This information might include information necessary to process payments, such as billing information and your credit card number. BlazeMeter may receive information about you from our business partners with which you have an account, service relationship or transaction history. BlazeMeter may obtain information about you from service providers engaged in the business of marketing data. BlazeMeter may receive Personal Information from third parties when you authorize such third parties to authenticate or identify you to BlazeMeter or sign in to the BlazeMeter Service using credentials from a third party service.</div>
+<div>You must be above 13 years old to join our BlazeMeter Service. We do not knowingly collect Personal Information from visitors under the age of 13.</div>
+<div>&nbsp;</div>
+<h3>USE OF PERSONAL INFORMATION</h3>
+<ul><li class="rteindent1">BlazeMeter uses, in accordance with applicable laws, Personal Information it collects for the following general purposes:</li>
+	<li class="rteindent1">Products and services provision</li>
+	<li class="rteindent1">Billing, identification and authentication</li>
+	<li class="rteindent1">Improvement of services</li>
+	<li class="rteindent1">Contact</li>
+	<li class="rteindent1">Research</li>
+	<li class="rteindent1">Analytics and reporting</li>
+	<li class="rteindent1">You will automatically be subscribed to receive optional email messages such as newsletters or promotions, you may choose to unsubscribe at any time, by following the unsubscribe instructions included in each email message. In addition to these optional email messages, BlazeMeter may contact you via any email address you provide to us with transactional or relationship messages such as account status messages, security updates or notifications of changes in the terms of your account or the BlazeMeter Service. These types of transactional or relationship email messages are not optional. BlazeMeter may automatically receive and record information on our server logs from your browser, including your IP address, cookies and the pages you request. This information may be used for various purposes, including to:</li>
+	<li class="rteindent1">Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.</li>
+	<li class="rteindent1">Estimate the total number of users visiting the BlazeMeter Service from specific geographical regions.</li>
+	<li class="rteindent1">Help determine which users have access privileges to certain content, services or resources that we offer.</li>
+	<li class="rteindent1">Estimate and report our total audience size and traffic.</li>
+	<li class="rteindent1">Conduct research to improve the BlazeMeter Service.</li>
+	<li class="rteindent1">Help combat fraud and abuse.</li>
+	<li class="rteindent1">Provide analytics and reporting.</li>
+</ul><div>BlazeMeter may combine information about you in our possession with information we obtain from business partners or others.</div>
+<div>When you send an email or other communication to BlazeMeter, we may retain those communications in order to process and respond to your requests and improve our BlazeMeter Service. Please do not send us any communication which contains confidential information. Since we are not able to evaluate whether such communication contains confidential information or not, we may retain or use such confidential information as described in this Policy and such retention or use shall not be deemed as a breach of any of our obligations herein.</div>
+<div>&nbsp;</div>
+<h3>SHARING OF PERSONAL INFORMATION</h3>
+<div>BlazeMeter does not share Personal Information collected from your use of the BlazeMeter Service with others, except as described in this Privacy Policy.</div>
+<div>BlazeMeter may share your Personal Information when you have authorized BlazeMeter to do so, when it is necessary to complete a transaction, to operate or improve the BlazeMeter Service, or to take some action that you have asked us to do. BlazeMeter will share your email address with companies that are clients of the BlazeMeter Service when you authorize BlazeMeter to do so. How such companies use your email address is subject to those companies' own privacy policies, not this Privacy Policy.&nbsp;</div>
+<div>BlazeMeter may share Personal Information under the following circumstances:</div>
+<div>In the course of operating our business, it may be necessary or appropriate for us to provide access to your Personal Information to others such as our employees, service providers, contractors and vendors so that we can provide the necessary hardware, software, networking, storage, and related technology required to operate, develop or improve the BlazeMeter Service. These individuals are bound by confidentiality obligations that are consistent with this Privacy Policy and that limit others' use or disclosure of this Personal Information. In the course of operating our business, it may be also necessary or appropriate for us to provide access to your Personal Information to our hosting partners for the aforementioned purposes, in which case their use of your Personal Information will be according to their terms of use and privacy policy.&nbsp;</div>
+<div>We may disclose general aggregated non-personal information about our users to potential business partners, investors, or the public, but we will not, without your specific permission, disclose any of your Personal Information to third parties.</div>
+<div>We may share your Personal Information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights, to defend against legal claims or in such circumstances where such disclosure is required according to applicable law or court order.</div>
+<div>We may share your Personal Information if we believe it is necessary in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of service or as otherwise required by law.</div>
+<div>Except as described herein, we do not disclose your Personal Information or share it with third parties.</div>
+<div>As we continue to develop our business, we may sell all or part of our business. In such transactions, Personal Information collected from users is generally one of the business assets that will be transferred. The transferred Personal Information will remain subject to this Privacy Policy or subsequent policies to which you have consented.</div>
+<div>&nbsp;</div>
+<h3>COOKIES</h3>
+<div>A "cookie" is a small amount of data, which typically includes an anonymous unique identifier, which is sent to your browser and stored on your computer's hard drive when you view a webpage, an advertisement, a video or other types of content. You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. If you reject all cookies, or specifically reject cookies set by BlazeMeter, you may not be able to take full advantage of features of the BlazeMeter Service that require you to be signed in to your account or otherwise identify yourself.</div>
+<div>BlazeMeter uses cookies for a number of purposes, including to:</div>
+<ul><li class="rteindent1">Identify you as an account holder.</li>
+	<li class="rteindent1">Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.</li>
+	<li class="rteindent1">Keep track of preferences you specify while you are using BlazeMeter's Sites, Services and Software.</li>
+	<li class="rteindent1">Estimate and report our total audience size and traffic.</li>
+	<li class="rteindent1">Conduct research to improve the BlazeMeter Service.</li>
+</ul><div>BlazeMeter's vendors, service providers and business partners may set and access their own cookies on and through the BlazeMeter Service. How other companies use their own cookies and the information they gather is subject to those companies' own privacy policies, not this Privacy Policy.</div>
+<div>&nbsp;</div>
+<h3>DATA WE COLLECT OTHER THAN PERSONAL INFORMATION</h3>
+<div>In addition to Personal Information, we may also use other technologies to collect anonymous non personally identifiable information on your use and interaction with the BlazeMeter Service. Such information may include, but shall not be limited to, number of users and signups, acquisition channels, top landing pages, number of users by location, number of sessions and their average duration, number of page viewers, conversion rates etc. BlazeMeter may use such information in any manner permitted by applicable laws.</div>
+<div></div>
+<div>&nbsp;</div>
+<h3>RETENTION OF PERSONAL INFORMATION AND OTHER DATA</h3>
+<div>BlazeMeter reserves the right to retain your Personal Information, other data collected about you and content you submit to or through the BlazeMeter Service for as long as your account is active and as needed to provide our BlazeMeter Service. If you wish to cancel your account or that we no longer use or hold your Personal Information, please contact us via <a href="mailto:info@blazementer.com?subject=Privacy%20Policy" target="_blank">info@blazemeter.com</a>. We may also retain and use your Personal Information, other data collected about you and content you submit to or through the BlazeMeter Service, to the extent required by applicable laws, rules and regulations and as reasonably necessary to protect our legal interests.&nbsp;</div>
+<div>&nbsp;</div>
+<h3>DATA TRANSMISSION AND STORAGE</h3>
+<div>We use industry standard security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These measures include internal reviews of our data collection, storage and processing practices and security measures. However, no data transmission over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.&nbsp;</div>
+<div>Governing Law; Dispute Resolution</div>
+<div>This Privacy Policy shall be construed in accordance with and governed for all purposes by the substantive laws of the State of Israel without regard to conflicts of law provisions. You agree that any claim or dispute you may have against BlazeMeter and its affiliates, directors, officers, employees and representatives must be resolved by a court located in Tel-Aviv, Israel, and waive any jurisdictional, venue or inconvenient forum objections to such courts.</div>
+<div>&nbsp;</div>
+<h3>QUESTIONS</h3>
+<div>Any questions about this Privacy Policy should be addressed to <a href="mailto:info@blazementer.com?subject=Privacy%20Policy" target="_blank">info@blazemeter.com</a>.</div>
+<div>Last updated March 12, 2015.</div>
+<div>Copyright © 2015 BlazeMeter. All rights reserved.</div>
+<div>&nbsp; &nbsp;</div>
+<div>&nbsp;</div>
 </div></div></div>
   
   
@@ -282,6 +458,7 @@ $("#blazemeter-site-commercial-register input[name=form_id]").val("user_register
       <a href="http://twitter.com/BlazeMeter" class="twitter">Twitter</a>
       <a href="http://plus.google.com/u/0/111978812021445048344/posts" class="google">Google</a>
       <a href="http://www.linkedin.com/company/blazemeter" class="linkedin">LinkedIn</a>
+      <a href="https://www.youtube.com/user/BlazeMeterSupport" class="youtube">YouTube</a>
       <a href="http://feedburner.google.com/fb/a/mailverify?uri=JmeterCloudBlog" class="rss">RSS</a>
     </div>
   </div>
@@ -296,29 +473,31 @@ $("#blazemeter-site-commercial-register input[name=form_id]").val("user_register
         </ul>
       </div>
       <div class="links-block">
-        <h3><a href="/about-blazemeter">About Us</a></h3>
+        <h3>About Us</h3>
         <ul>
-          <li><a href="/our-team">Blazin' Team</a></li>
-          <li><a href="/join-our-team">Blazin' Jobs</a></li>
+          <li><a href="/about">Our Team</a></li>
+          <li><a href="/join-our-team">Careers</a></li>
           <!-- <li><a href="/affiliates">Affiliates</a></li> -->
           <li><a href="/customers">Customers</a></li>
+          <li><a href="/contact-us#sales">Contact Sales</a></li>
+          <li><a href="/blazemeter-news">News &amp; Events</a></li>
         </ul>
       </div>
       <div class="links-block">
         <h3><a href="http://www.blazemeter.com/resources">Resources</a></h3>
         <ul>
-          <li><a href="http://www.blazemeter.com/resources">Free Training</a></li>
-          <li><a href="http://www.blazemeter.com/resources">Free Tools</a></li>
-          <li><a href="http://go.blazemeter.com/webinar/">Live Demo Webinar</a></li>
-          <li><a href="/blazemeter-news">News</a></li>
+          <li><a href="http://www.blazemeter.com/resources">Training &amp; Videos</a></li>
+          <li><a href="http://info.blazemeter.com/webinar">Live Demo Webinar</a></li>
           <li><a href="/blog">Blog</a></li>
+          <li><a href="http://status.blazemeter.com/" target="_blank">Status</a></li>
         </ul>
       </div>
       <div class="links-block">
-        <h3><a href="/contact-us?dep=Support">Need Help?</a></h3>
+        <h3><a href="/contact-us#support">Need Help?</a></h3>
         <ul>
-          <li><a href="/contact-us?dep=Support">Contact Support</a></li>
-          <li><a href="http://community.blazemeter.com/knowledgebase">Knowledge Base</a></li>
+          <li><a href="/contact-us#support">Contact Support</a></li>
+          <li><a href="https://docs.blazemeter.com/customer/portal/topics/709919-api-integrations-plugins/articles">API Documentation</a></li>
+          <li><a href="http://docs.blazemeter.com">Knowledge Base</a></li>
         </ul>
       </div>
     </div>
@@ -326,8 +505,15 @@ $("#blazemeter-site-commercial-register input[name=form_id]").val("user_register
   <div class="signup-button-holder">
     <div class="signup-button-inner"><a class="main-btn signup-btn" href="https://a.blazemeter.com/user/register?theme=bm&amp;destination=register%2Fredirect%3Fplan%3DFREE-TIER%26AB%FREE-TIER%26theme%3Dbm">Create Free Account</a></div>
   </div>
+<div class="legal-menu">
+    <span>By creating your account, you agree to our terms of service. © 2015 BlazeMeter. All rights reserved.</span>
+    <ul>
+      <li class="legal-link"><a href="http://blazemeter.com/terms-service">Terms of use</a></li>
+      <li class="legal-link"><a href="http://blazemeter.com/privacy-policy">Privacy Policy</a></li>
+      <li class="legal-link"><a href="http://blazemeter.com/third-party-licences">License Acknowledgements</a></li>
+    </ul>
 </div>
-
+</div>
 </div>
   </footer>
 
@@ -335,150 +521,190 @@ $("#blazemeter-site-commercial-register input[name=form_id]").val("user_register
 <!-- Popup -->
     <div class="popup" id="signup-popup">
         <div class="popup-holder">
-    <form action="https://a.blazemeter.com/user/register?source=commercial" method="post" id="blazemeter-site-commercial-register" accept-charset="UTF-8"><div><strong class="title">Create a New Account</strong><div class="form-item form-type-textfield form-item-firstname">
- <input placeholder="First Name" type="text" id="edit-firstname" name="firstname" value="" size="60" maxlength="128" class="form-text required">
+
+
+    <form action="https://a.blazemeter.com/app/sign-up" method="post" id="blazemeter-site-commercial-register-c" accept-charset="UTF-8"><div><strong class="title">Create a New Account</strong><a href="https://a.blazemeter.com/app/social?provider=Google" class="btn btn-Google">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 56.693 56.693" height="56.693px" id="Layer_1" version="1.1" viewBox="0 0 56.693 56.693" width="56.693px" xml:space="preserve"><g>
+    <path d="M52.218,25.852h-7.512v-7.51c0-0.573-0.465-1.039-1.037-1.039H41.53c-0.576,0-1.041,0.466-1.041,1.039v7.51h-7.512 c-0.572,0-1.039,0.467-1.039,1.041v2.139c0,0.574,0.467,1.039,1.039,1.039h7.512v7.514c0,0.574,0.465,1.039,1.041,1.039h2.139 c0.572,0,1.037-0.465,1.037-1.039V30.07h7.512c0.572,0,1.039-0.465,1.039-1.039v-2.139C53.257,26.318,52.79,25.852,52.218,25.852z"></path>
+    <path d="M26.974,32.438c-1.58-1.119-3.016-2.76-3.041-3.264c0-0.918,0.082-1.357,2.141-2.961c2.662-2.084,4.128-4.824,4.128-7.719 c0-2.625-0.802-4.957-2.167-6.595h1.059c0.219,0,0.434-0.068,0.609-0.196l2.955-2.141c0.367-0.263,0.521-0.732,0.381-1.161 c-0.141-0.428-0.537-0.72-0.988-0.72H18.835c-1.446,0-2.915,0.255-4.357,0.751c-4.816,1.661-8.184,5.765-8.184,9.978 c0,5.969,4.624,10.493,10.805,10.635c-0.121,0.473-0.182,0.939-0.182,1.396c0,0.92,0.233,1.791,0.713,2.633c-0.056,0-0.11,0-0.17,0 c-5.892,0-11.21,2.891-13.229,7.193c-0.526,1.119-0.794,2.25-0.794,3.367c0,1.086,0.279,2.131,0.826,3.113 c1.269,2.27,3.994,4.031,7.677,4.961c1.901,0.48,3.944,0.725,6.065,0.725c1.906,0,3.723-0.246,5.403-0.732 c5.238-1.521,8.625-5.377,8.625-9.828C32.032,37.602,30.659,35.045,26.974,32.438z M10.283,42.215c0-3.107,3.947-5.832,8.446-5.832 h0.121c0.979,0.012,1.934,0.156,2.834,0.432c0.309,0.213,0.607,0.416,0.893,0.611c2.084,1.42,3.461,2.357,3.844,3.861 c0.09,0.379,0.135,0.758,0.135,1.125c0,3.869-2.885,5.83-8.578,5.83C13.663,48.242,10.283,45.596,10.283,42.215z M14.377,12.858 c0.703-0.803,1.624-1.227,2.658-1.227l0.117,0.002c2.921,0.086,5.716,3.341,6.23,7.256c0.289,2.192-0.199,4.253-1.301,5.509 c-0.705,0.805-1.613,1.229-2.689,1.229c0,0,0,0-0.002,0h-0.047c-2.861-0.088-5.716-3.467-6.227-7.377 C12.829,16.064,13.289,14.099,14.377,12.858z"></path>
+  </g></svg>
+<span>&nbsp;&nbsp;Sign in with Google</span>
+</a>
+<span style="position:relative;left:45%;display:inline-block;margin-top:15px;">OR</span>
+<div class="form-item form-type-textfield form-item-firstName">
+ <input placeholder="First Name" type="text" id="edit-firstname" name="firstName" value="" size="60" maxlength="128" class="form-text required">
 </div>
-<div class="form-item form-type-textfield form-item-lastname">
- <input placeholder="Last Name" type="text" id="edit-lastname" name="lastname" value="" size="60" maxlength="128" class="form-text required">
+<div class="form-item form-type-textfield form-item-lastName">
+ <input placeholder="Last Name" type="text" id="edit-lastname" name="lastName" value="" size="60" maxlength="128" class="form-text required">
 </div>
-<div class="form-item form-type-textfield form-item-mail">
- <input placeholder="Email" type="text" id="edit-mail" name="mail" value="" size="60" maxlength="128" class="form-text required">
+<div class="form-item form-type-textfield form-item-email">
+ <input placeholder="Email" type="text" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text required">
 </div>
-<div class="form-item form-type-password form-item-pass">
- <input placeholder="Password" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required">
+<div class="form-item form-type-password form-item-password">
+ <input placeholder="Password" maxlength="" type="password" id="edit-password" name="password" size="60" class="form-text required">
 </div>
-<div class="form-item form-type-textfield form-item-field-comp-0-value">
- <input placeholder="Company" type="text" id="edit-field-comp-0-value" name="field_comp[0][value]" value="" size="60" maxlength="128" class="form-text">
-</div>
-<input type="hidden" name="name" value="41403760789">
+<input type="hidden" name="name" value="51441546364">
 <input type="hidden" name="fake-password" value="*Password">
-<div class="popup-submit-holder"><input class="main-btn form-submit form-submit" type="submit" id="edit-submit" name="op" value="Sign Up"></div><p class="terms">By clicking Sign Up, you agree to our <a href="/terms-service">Terms of Service</a></p><input type="hidden" name="form_build_id" value="form-iQTMT-kR0MSp4M8rRKM-imznqvVLNKQEx_kjln2pccc">
-<input type="hidden" name="form_id" value="blazemeter_site_commercial_register">
+<input type="hidden" name="portalID" value="208250">
+<input type="hidden" name="formGUID" value="f1643c9e-2920-4c51-a907-d131feee78c8">
+<div class="popup-submit-holder">
+			<button style="display:none;" class="main-btn form-submit progress-button form-submit" data-style="rotate-angle-bottom" data-perspective="" data-horizontal="" id="edit-submit">Sign up</button>
+			<input class="main-btn form-submit form-submit" type="submit" id="edit-submit--3" name="op" value="Sign Up"></div><p class="terms">By clicking Sign Up, you agree to our <a href="/terms-service">Terms of Service</a></p><input type="hidden" name="form_build_id" value="form-V-69r4Q7z5rRvBgOotu8w9tOy2Mi1jNmryXzjimoFIc">
+<input type="hidden" name="form_id" value="blazemeter_site_commercial_register_c">
 </div></form>            <div class="close-popup"><a href="#"></a></div>
         </div>
     </div>
+   
   
-    <!-- /Popup -->    <div class="region region-page-bottom">
-    <!-- Start of Async HubSpot Analytics Code -->
-    <script type="text/javascript">
-        (function(d,s,i,r) {
-            if (d.getElementById(i)){return;}
-            var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
-            n.id=i;n.src='//js.hubspot.com/analytics/'+(Math.ceil(new Date()/r)*r)+'/208250.js';
-            e.parentNode.insertBefore(n, e);
-        })(document,"script","hs-analytics",300000);
-    </script>
-<!-- End of Async HubSpot Analytics Code -->
+    <!-- /Popup --><!-- Popup -->
+    <div class="youtube_popup" id="youtube-popup">
+        <div class="youtube-popup-holder">
+		<!-- YouTube Embed -->
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/6Oih-v-LICE?vq=hd720&amp;rel=0&amp;autohide=1&amp;iv_load_policy=3&amp;modestbranding=1&amp;color=white&amp;fs=1" frameborder="0" allowfullscreen=""></iframe>
+            <div class="close-youtube-popup"><a href="#"></a></div>
+        </div>
+    </div>
+   
+  
+    <!-- /Popup --><!-- Popup -->
+<div class="payment_popup" id="payment-popup">
+  <div class="payed-popup" style="display: none;">
+    <div class="close-payment-popup close-payed-popup">X</div>
+    <div class="payed-content">
+      <img class="payed-like-button" src="sites/all/themes/blazeng/images/pricing_like.png">
+      <h4>CONGRATS</h4>
+      <span class="subscribed"></span>
+      <hr>
+      <p class="payed-text">If you have questions, contact us at: <a href="mailto:support@blazemeter.com">support@blazemeter.com.</a>
+        <br>We'd love to hear from you.</p>
+      <a class="back-to main-btn" href="https://a.blazemeter.com/app/">Back to your
+        account</a>
+    </div>
+    <div class="share-plan">
+      <span class="spread-heart">Spread the <img src="sites/all/themes/blazeng/images/pricing_heart.png"></span>
 
-<!-- begin olark code --><script data-cfasync="false" type="text/javascript">/*{literal}<![CDATA[*/
-window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){f[z]=function(){(a.s=a.s||[]).push(arguments)};var a=f[z]._={},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={0:+new Date};a.P=function(u){a.p[u]=new Date-a.p[0]};function s(){a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-olark.identify('7612-737-10-9884');/*]]>{/literal}*/</script><noscript><a href="https://www.olark.com/site/7612-737-10-9884/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript><!-- end olark code -->
-<script type="text/javascript">
-olark('api.chat.updateVisitorNickname', {
-    snippet: "bzweb"
-});
-</script>
+      <p>Share BlazeMeter with your friends and colleagues:</p>
 
+      <div class="social-icons">
 
-<!--If you already have jquery on the page you don't need to insert this script tag-->
+        <div class="social-row">
+          <div class="social-box" id="social-fb-box"></div>
+          <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?s=100&amp;p[url]=blazemeter.com/"><img class="fb-social-icn social-icn" src="sites/all/themes/blazeng/images/pricing_facebook.png"></a>
+        </div>
+          <script type="text/javascript">
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+              jQuery(function (){
+                  jQuery.get("http://graph.facebook.com/?id=blazemeter.com", function(data){
+                     jQuery('#social-fb-box').text(data.shares);
+                  })});
+          </script>
 
+        <div class="social-row">
+          <div class="social-box" id="social-tw-box"></div>
+          <a target="_blank" href="https://twitter.com/intent/tweet?text=Just started testing with @BlazeMeter. Totally worth a look: http://blazemeter.com/ &amp;hashtags=devops,automation,testing"><img class="tw-social-icn social-icn" src="sites/all/themes/blazeng/images/pricing_twitter.png"></a>
+        </div>
 
-<link href="https://d218iqt4mo6adh.cloudfront.net/assets/widget_embed_191.css" media="screen" rel="stylesheet" type="text/css">
+        <div class="social-row">
+          <div class="social-box" id="social-gplus-box"></div>
+          <a target="_blank" href="https://plus.google.com/share?url=https://blazemeter.com/"><img class="gplus-social-icn social-icn" src="sites/all/themes/blazeng/images/pricing_google.png"></a>
+        </div>
 
-<!--If you already have fancybox on the page this script tag should be omitted-->
+        <div class="social-row">
+          <div class="social-box" id="social-linkedin-box"></div>
+          <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://blazemeter.com/&amp;title=BlazeMeter&amp;summary=Just%20signed%20up%20for%20BlazeMeter's%20performance%20testing%20platform.%20Totally%20worth%20a%20look:&amp;source="><img class="linkedin-social-icn social-icn" src="sites/all/themes/blazeng/images/pricing_linkedin.png"></a>
+        </div>
 
-<script src="https://d218iqt4mo6adh.cloudfront.net/assets/widget_embed_libraries_191.js" type="text/javascript"></script>
-
-
-                        <script>
-
-                                
-                                // ********************************************************************************
-
-                                // This needs to be placed in the document body where you want the widget to render
-
-                                // ********************************************************************************
-
-                                
-                                new DESK.Widget({ 
-
-                                        version: 1, 
-
-                                        site: 'blazemeter.desk.com', 
-
-                                        port: '80', 
-
-                                        type: 'email', 
-
-                                        displayMode: 1,  //0 for popup, 1 for lightbox
-
-                                        features: {  
-
-                                        },  
-
-                                        fields: { 
-
-                                                ticket: { 
-
-                                                        // desc: &#x27;&#x27;,
-
-                                // labels_new: &#x27;&#x27;,
-
-                                // priority: &#x27;&#x27;,
-
-                                // subject: &#x27;&#x27;
-
-                                                }, 
-
-                                                interaction: { 
-
-                                                        // email: &#x27;&#x27;,
-
-                                // name: &#x27;&#x27;
-
-                                                }, 
-
-                                                email: { 
-
-                                                        //subject: '', 
-
-                                                        //body: '' 
-
-                                                }, 
-
-                                                customer: { 
-
-                                                        // company: &#x27;&#x27;,
-
-                                // desc: &#x27;&#x27;,
-
-                                // first_name: &#x27;&#x27;,
-
-                                // last_name: &#x27;&#x27;,
-
-                                // locale_code: &#x27;&#x27;,
-
-                                // title: &#x27;&#x27;,
-
-                                // custom_user_id: &#x27;&#x27;,
-
-                                // custom_report_id: &#x27;&#x27;,
-
-                                // custom_test_id: &#x27;&#x27;
-
-                                                } 
-
-                                        } 
-
-                                }).render();  
-var jQuery19 = jQuery;
-jQuery.noConflict(true);
-                        </script>
+      </div>
+    </div>
   </div>
-<script>
+  <div class="pay-popup">
+    <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+    <script type="text/javascript">
+      Stripe.setPublishableKey("pk_live_FlsJiikP9bEn6lFil6d9Mttn");
+    </script>
+    <form action="/stripe" method="POST" id="payment-form">
+      <span class="payment-plan-name">DEVELOPER</span>
+
+      <div class="close-payment-popup">X</div>
+
+      <div id="plan-actions">
+        <div class="payment-amount mr"></div>
+        <span></span>
+      </div>
+      <div class="payment-holder" style="padding-bottom: 0px;">
+        <span class="payment-sucess"></span>
+
+        <div class="form-row">
+          <h4>Billing Information</h4>
+          <label>
+            <input class="payment-full-name mandatory" data-stripe="name" name="name" placeholder="Full Name" type="text" size="20">
+          </label>
+          <label>
+            <input class="payment-company" data-stripe="metadata[company]" name="metadata[company]" placeholder="Company" type="text" size="20">
+          </label>
+          <label>
+            <input class="payment-phone" data-stripe="metadata[phone]" name="metadata[phone]" placeholder="Phone number" type="text" size="20">
+          </label>
+        </div>
+
+        <div class="form-row">
+          <h4>Credit Card Information</h4>
+          <label>
+            <input class="payment-number mandatory" placeholder="Card Number" type="text" size="20" data-stripe="number">
+          </label>
+          <label class="payment-cvc-mth-year">
+            <select name="month" class="payment-exp-month mandatory" id="month" data-stripe="exp-month" size="1">
+              <option value="01">01</option>
+              <option value="02">02</option>
+              <option value="03">03</option>
+              <option value="04">04</option>
+              <option value="05">05</option>
+              <option value="06">06</option>
+              <option value="07">07</option>
+              <option value="08">08</option>
+              <option value="09">09</option>
+              <option value="10">10</option>
+              <option value="11">11</option>
+              <option value="12">12</option>
+            </select>
+          </label>
+          <label class="payment-cvc-mth-year">
+            <select name="year" class="payment-exp-year mandatory" id="yearpicker" data-stripe="exp-year"></select>
+          </label>
+          <label class="payment-cvc-mth-year">
+            <input class="payment-cvc mandatory" placeholder="CVC" type="text" size="4" data-stripe="cvc">
+          </label>
+          <input hidden="" class="plan-amount" type="text">
+          <input hidden="" class="original-amount" type="text">
+          <input hidden="" class="plan-selected" type="text">
+          <input type="text" class="payment-email" hidden="" data-stripe="email">
+        </div>
+        <input type="checkbox" name="checkbox" id="coupon_code" value="value"><label id="focus_coupon" class="check-coupon" for="coupon_code">I have a coupon
+          code</label>
+      </div>
+      <div class="payment-have-coupon" style="margin-top: 15px;">
+        <input class="payment-coupon payment-coupon-inp" placeholder="Coupon Code" type="text" size="20">
+
+        <div class="payment-coupon-button apply-coupon">Apply</div>
+        <div class="payment-coupon-button remove-coupon" style="display:none;">
+          Remove
+        </div>
+      </div>
+      <div class="payment-holder">
+        <input style="display:none;" disabled="" class="payment-coupon" data-stripe="coupon" name="discount" value="" placeholder="Coupon" type="text">
+
+        <div class="payment-error" style="color:red;">
+      </div>
+      <span class="payment-errors"></span>
+      <span class="coupon-success"></span>
+      <button class="payment-button" type="submit"></button>
+    
+  </div></form>
+  <div class="close-payment-popup"><a href="#"></a></div>
+</div>
+
+<!-- /Popup -->
+  <script>
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var disqus_shortname = 'blazemeter'; // required: replace example with your forum shortname
 
@@ -486,10 +712,24 @@ jQuery.noConflict(true);
   (function () {
    var s = document.createElement('script'); s.async = true;
    s.type = 'text/javascript';
-   s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+   s.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
   }());</script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"51ba6d484e","applicationID":"4066519","transactionName":"YVwGMBMADxdRVBYLClgWMRYITggKVFIaTBVeSQ==","queueTime":0,"applicationTime":91,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<!--[if lt IE 9]>
+<script src="https://blazemeter.com/sites/all/modules/clientside_validation/clientside_validation.ie8.js?nu93vb"></script>
+<![endif]-->
+<script src="https://blazemeter.com/sites/all/modules/clientside_validation/clientside_validation.js?nu93vb"></script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+  <!-- BEGIN Oktopost Lead Capture -->
+  <script type="text/javascript" src="//okt.to/okt.min.js"></script>
+  <script type="text/javascript">
+  (function() {
+  	_addEvents('00129ERNtC1I8b1');
+  })();
+  </script>
+  <!-- END Oktopost Lead Capture -->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"51ba6d484e","applicationID":"4742000","transactionName":"YVwGMBMADxdRVBYLClgWJQcVCA4KH1kNBgBpSQUDBD4XDVVA","queueTime":0,"applicationTime":138,"atts":"TRsRRlsaHEgSVkBYHktE","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script>
+
+</div></body></html>
