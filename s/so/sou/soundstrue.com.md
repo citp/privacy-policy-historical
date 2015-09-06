@@ -1,118 +1,51 @@
-> *The following text is extracted and transformed from the soundstrue.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418163302id_/http%3A//www.soundstrue.com/store/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundstrue.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906211150id_/http%3A//www.soundstrue.com/store/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Information about our Organization and Website
+It is our continued honor to serve you as a Sounds True customer. We fully recognize our responsibility to protect your customer information and its confidential nature, and we have done our best to ensure the privacy and security of your transactions with us. Your credit card number and other personal data will be treated with the highest standards of safety, security features and confidentiality.
 
-Modern information and communication technologies play a fundamental role in the activities of an organization like Sounds True, Inc.
+## Your Privacy Online
 
-Our principal activity is publishing. Our privacy policy covers Sounds True, Inc., and its website:
+We are committed to ensuring your privacy when you shop online with Sounds True, Inc.. In an effort to improve the online shopping experience at SoundsTrue.com, we do gather information about our visitors' shopping behavior, but we maintain sole ownership over this information and do not share, sell or rent our findings to third parties, except in the few cases described below.
 
-Organization Name: Sounds True, Inc. Country:USA Controller:Information Systems Dept. Website(s):www.soundstrue.com
+Sounds True, Inc. contracts with Google Analytics for data collection, storage, and reporting services that help us improve your shopping experience. These reporting services use cookies (explained in detail below) to collect information about your usage of SoundsTrue.com. Google Analytics is contractually restricted from using your information in any way, other than to help us make our site more useful for you.
 
-### Providing Visitors with Anonymous Access
+"Cookies" are small bits of information that your Web browser stores on your computer's hard drive. In order to purchase products from the Sounds True, Inc. site, your Web browser must be enabled to accept cookies. We also use cookies to give credit to those sites that direct traffic to SoundsTrue.com for marketing purposes. Sounds True, Inc. does not use cookies to store or collect personal information such as full names, addresses, or payment information.
 
-You can access our website home page and browse our site without disclosing your personal data.
+## Placing an Order Online
 
-### Services and Links
+When you place an order online at SoundsTrue.com, we request the information we need to complete your order. This information includes your full name, billing address, shipping address, telephone number, e-mail address, and credit card number.
 
-Our website does not enable our visitors to communicate with other visitors or to post information to be accessed by others.
+The information you provide will be used to process your order and improve your shopping experience. Once you have placed an order with us, we will verify with your credit card company that your credit card is valid and send you an email message that confirms your order was successfully received. We will also send you an e-mail once your order has been shipped, or if it has been placed on backorder.
 
-### Automatic Collection of Information
+We will periodically send to your street or e-mail address product news and updates that you may find of interest. We NEVER share or sell our customers' e-mail addresses or telephone numbers for marketing purposes, but we do sometimes share other customer information with trusted third parties.
 
-We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals.
+## How to Opt Out
 
-### Data Collection and Purpose Specification
+If you do not wish to receive promotional postal and/or e-mail updates from Sounds True, Inc., or if you prefer that we not share your postal address with other merchants please do one of the following:
 
-We collect the personal data that you may volunteer while using our services.
-
-We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
-
-If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes:
-
-  * By indicating in a box at the point on the site where personal data is collected.
+  * Phone: Please call Toll-Free 1-800-333-9185 to speak to a Customer Service associate between 8AM to 5 PM, Mountain time.
+  * Email: Send us an email: support@soundstrue.com
+  * Write: Send us a letter to 413 S. Arthur Ave, Louisville, CO 80027
 
 
 
-### Children's Privacy
+Please include your full name, street address, and e-mail address with your correspondence, and tell us how we should restrict use of your information.
 
-We do not knowingly collect personal data from children.
+## Gift Messages
 
-We will provide information about our personal data practices in relation to children wherever we knowingly collect personal data from children on our website.
+When you request a gift message with your order, we do not use the information contained in the gift greetings that you fill out, except to execute the message as requested.
 
-### Disclosure and Visitor Choice
+## Sharing with A Friend
 
-Where we disclose your personal data for the same purposes as those indicated in the list below, we provide you with the means to opt-out of disclosure:
+When you e-mail a message to a friend from SoundsTrue.com using the “share” functionality, your e-mail address and your friends are both required. This ensures that your friend will know that we have sent the e-mail message at your request. E-mails obtained for the "Tell a Friend" service are only used for this purpose, and then discarded.
 
-  * By indicating in a box at the point on the site where personal data is collected
-  * By sending postal mail to this address: Sounds True, 413 S. Arthur Ave, Louisville, CO 80027
-  * By calling Customer Service at 800-333-9185
+## E-mail Updates
 
+When you ask to receive Sounds True, Inc. e-mail updates, we request your name, address and e-mail address in order to complete your request. We will respect your privacy and use your information in the same way described above under "Placing an Order Online."
 
+## Terms of Use
 
-Where we disclose your personal data for purposes which are different from those indicated in the list mentioned above, we offer you the opportunity to consent to disclosure:
+If you use or order from our Site, you agree to our Terms of Use. The information contained in this Site, including but not limited to these Terms of Use, is subject to change without notice. Your use of the Site following any such change constitutes your agreement to follow and be bound by the rules as changed. For full details, please see [Terms of Use](http://www.soundstrue.com/store/terms-and-conditions)
 
-  * By indicating in a box at the point on the site where personal data is collected
-
-
-
-### Confidentiality / Security
-
-We provide a secure transmission method to send us the following types of personal data:
-
-  * Identifiers (such as credit card details, Web site password)
-  * Name, address, phone number, and email are all transmitted securely
-
-
-
-We have implemented security policies, rules, and technical measures to protect the personal data that we have under our control from:
-
-  * Unauthorized access
-  * Improper use or disclosure
-  * Unauthorized modification
-  * Unlawful destruction or accidental loss
-
-
-
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.
-
-We ensure that your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation.
-
-### Access to the Personal Data We May Hold About You
-
-You can ask us by:
-
-  * Sending an email (customerrelations@soundstrue.com)
-  * Calling Customer Service at 800-333-9185
-
-
-
-Upon request, which you can indicate by:
-
-  * Sending an email at [customerrelations@soundstrue.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=customerrelations@soundstrue.com)
-  * Calling Customer Service at 800-333-9185
-
-
-
-We will provide you with a readable copy of the personal data which we keep about you, within a week — although we may require proof of your identity beforehand. We will provide the information without any charge.
-
-We allow you to challenge the data that we hold about you and, where appropriate, you may have the data:
-
-  * Erased
-  * Rectified or amended
-  * Completed
-
-
-
-We reserve the right to refuse providing our visitors with a copy of their personal data, but will give reasons for our refusal.
-
-We do, however, allow you to challenge our decision to refuse providing you with a copy of your personal data.
-
-### Privacy Support
-
-If you have an inquiry or concern about our privacy policy, please contact:
-
-Sounds True Customer Relations  
-413 S. Arthur Ave., Louisville, CO 80027  
-800-333-9185  
-[customerrelations@soundstrue.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=customerrelations@soundstrue.com)
+_Last updated August 8, 2015_
