@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthproductsforyou.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216093011id_/http%3A//www.healthproductsforyou.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthproductsforyou.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906074755id_/https%3A//www.healthproductsforyou.com/privacy_notice.html) for the most accurate reproduction.*
 
 # Health Products For You: Privacy Notice
 
-This privacy notice discloses the privacy practices for [**www.HealthProductsForYou.com**](http://www.healthproductsforyou.com/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+This privacy notice discloses the privacy practices for [**www.HealthProductsForYou.com**](https://www.healthproductsforyou.com/). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
   
 
