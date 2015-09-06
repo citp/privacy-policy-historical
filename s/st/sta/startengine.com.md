@@ -1,78 +1,85 @@
-> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423170228id_/http%3A//www.startengine.com/%3Fpage_id%3D864) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startengine.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906223427id_/https%3A//www.startengine.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Los Angeles Startup Accelerator – Start Engine
+# StartEngine Crowdfunding
 
-**Privacy Policy**
+### 
 
-We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose information and data when you use our site.
+StartEngine Crowdfunding, Inc., (“StartEngine”, “us”, or “we”) provides an intermediary technology platform located at www.StartEngine.com (“Platform” or “Site”) for prospective investors to independently search and invest in securities offerings on the Site. As explained below, we collect information from users (“you”, “your”, or “User”) in various ways when you interact with our Site.  By using our Site, you consent to our collection and use of information as explained in this Privacy Notice and agree to be bound by our Terms of Use [add hyperlink].  Please note that if you choose to invest in any prospect, project, or offering advertised on our Site, you may be required to agree to a separate agreement, including, but not limited to, new or additional privacy notices or terms of use.
 
-BY USING OUR SITE, YOU CONSENT TO THIS PRIVACY POLICY
+Collection of Information   
 
-**What information do we collect?**
+StartEngine collects non-personally identifiable information from you regarding your usage of our Site (“Non-Personally Identifiable Information”). Non-Personally Identifiable Information may include, without limitation, Site pages viewed, websites visited before visiting the Site, frequency of visits, clickstream data, browser type, operating system, organization name, internet connection speed, presentations and videos viewed, time spent viewing pages of our Site or using certain features of our Site, demographic data such as server locations, clickstream data, location services, server location, cookies existing on your computer, search criteria used and results, date and time of access or visits to our Site, frequency of visits to our Site, connection speed, and other information which does not specifically identify you.  We collect this information using various technologies (some of which are described below), including, but not limited to, cookies, web beacons, web session variables, server log files, clear gifs, browser plug-ins or add-ons, or Javascript.  “Cookies” are pieces of information that may be placed on your computer by a Site for the purpose of facilitating and enhancing your communication and interaction with that Site.  A “web beacon” is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a website or in an email which allows a website to record the simple actions of the User opening the page that contains the beacon.  “Server logs” can be either a single log file or several log files automatically created and maintained by a server of activity performed by the server, which can include information about any transaction you conduct with the server.  
 
-We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.
+StartEngine also collects personal information from you (“Personally Identifiable Information”) when you sign up for an account, send us an email through the Site, sign up for or purchase a service through the Site, or make an investment through the Site.  Personally Identifiable Information refers to non-public information that personally relates to or identifies you (such as your name, password, age and date of birth, gender, email address, postal mailing address, home/mobile telephone number and/or taxpayer identification number, Internet protocol (“IP”) address, investment objectives, investment experience, assets and income, and other similar information, or other information you provide or upload to the Site such as photographs, answers to questionnaires or surveys, or responses filled in on blank forms by you made available on the Site). We request that you provide us with personal information, including, but not limited to, your personal or company social media profile, demographic information, financial information about issues (i.e. valuations, share prices, fundraising goals), financial information about individuals (i.e. net worth) and other information requested from time to time. We may also collect and store information, which could include Non-Personally Identifiable Information or Personally Identifiable Information, locally on your computer or device using mechanisms such as browser web storage or application data caches.  However, not all Non-Personally Identifiable Information and Personally Identifiable Information is stored.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your personal information, such as: name, e-mail address or phone number. You may, however, visit our site anonymously.
+We may use analytics programs and service providers, such as Google Analytics, which can use first party cookies to report on your interactions with the Site.  Google Analytics collects information including, but not limited to, the time of each of your visits to the Site, whether you have visited the Site before, what website referred you to the Site, and what pages you viewed on the Site.
 
-**What do we use your information for?**
+This Privacy Policy does not cover the collection of information by cookies or other methods by such Third Party Services or other third parties, such as our business partners.  We do not control how these Third Party Services or third parties collect information or by what means such Third Party Services or third parties may use their own cookies to collect information about you.
 
-Any of the information we collect from you may be used in one of the following ways:
+Use of Information
 
-To personalize your experience  
-(your information helps us to better respond to your individual needs)
+StartEngine will use information you provide consistent with this Privacy Notice.  StartEngine will use information you provide to us, including Non-Personally Identifiable Information or Personally Identifiable Information, to better serve you and enhance your experience with the Site, among other things.  This may include having to modify or copy such Non-Personally Identifiable Information or Personally Identifiable Information, or other information such as images or textual content you provide, in order to provide you with a seamless and enjoyable experience.
 
-To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Toward these ends, you consent to our use and disclosure of any information submitted to us via the Site, or information collected when you access the Site in any manner, and you acknowledge that you have no expectation of privacy, confidentiality or privilege in such information.
 
-To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+StartEngine may use Non-Personally Identifiable Information and Personally Identifiable Information: (1) to market our products and services to you; (2) to provide services and products requested by you; (3) to serve advertisements on our Site; (4) to enable our vendors and contractors to provide and assist us in the marketing, operation, troubleshooting and analysis of our Site and other services; (5) to analyze data to send more targeted messages to you or other Users of our Site; (6) to conduct research and analyze data to improve our products, services, and Site; (7) to deliver email messages like special offers, updates, newsletters, customer service, and service announcements; (8) to verify User information; (9) to comply with and meet any regulatory requirements for the offer or sale of securities required by law, rules or regulations to our affiliates or members; (10) to protect our Site or its Users; (11) to engage in any other lawful activities we believe are consistent with the foregoing; and (12) when required by law or to protect against legal liability.  We may provide any of these services through third parties, which may necessitate sharing Non-Personally Identifiable Information or Personally Identifiable Information with them.
 
-To process transactions
+StartEngine may make your information, including Non-Personally Identifiable Information or Personally Identifiable Information, available on its Site and visible to other Users of or visitors to the Site.  For instance, subject to certain preferences and permissions as to visibility you will be allowed to make, information you provide about yourself in response to questionnaires on our Site may be made available to others such as information concerning your status as an accredited investor.  As such, other Users of our Site may be able to personally identify you based on your information made available on our Site.  As a further example, if you utilize Third Party Services to log into our Site, other Users to whom you may be connected to through such Third Party Service may be able to view or follow information about you, including Non-Personally Identifiable Information or Personally Identifiable Information, on our Site.     
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Securities are offered through FundAmerica Securities, LLC (“Fund America”), a Delaware company, a broker-dealer registered with the SEC and a Member of Financial Industry Regulatory Authority.  Fund America may collect Non-Personally Identifiable Information and Personally Identifiable Information, including your name, citizenship status, company name, email address, social security or Tax ID number, and bank account information. 
 
-To send periodic emails
+StartEngine may employ or contract Fund America or other third parties, companies, or individuals to perform certain functions or services on its behalf.  Examples of these services from such third parties, companies, or individuals, may include ID verification, electronic document signing, payment storing and processing, sending postal mail and e-mail, escrow services, disbursement of funds, analyzing data, providing marketing assistance, and providing customer service.  As such, these third parties, companies, or individuals may have access to your information, including Non-Personally Identifiable Information or Personally Identifiable Information, needed to perform their functions or services, and may not use it for other purposes.
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+StartEngine may also use and disclose Personally Identifiable Information and Non-Personally Identifiable Information to help us to carry out certain internal functions such as information management, account processing, client services, or other data collection relevant to our business; to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our Site or network; to protect and defend our rights or property or the rights or property of others; as required by courts or administrative agencies; and in connection with a financing, sale, merger, or reorganization of StartEngine’s business or assets. Any successor in interest to our business would acquire the information we maintain, including Personally Identifiable Information, and may alter the terms of this Privacy Notice.
 
-**How do we protect your information?**
+StartEngine does not and will not sell any of your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to any third party for purposes of advertising, soliciting, or telemarketing.  We may, however, have to disclose your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to other companies or entities in the event that StartEngine may be sold or is sold to another company or entity.  In that case, your information, including Non-Personally Identifiable Information or Personally Identifiable Information, may be sold or transferred to such acquiring company or entity.  
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.  However, no data transmission over the Internet or other network can be guaranteed to be 100% secure.  As a result, while we strive to protect information transmitted on or through our site, we cannot and do not guarantee the security of any information you transmit on or through the site, and you do so at your own risk
+Third Party Sites and Services
 
-**Do we use cookies?**
+The Site contains links to other websites and services not maintained by StartEngine.  In addition, other websites and services may also reference or link to the Site.  We encourage you to be aware when you enter or leave our Site, or surf the Internet, and to read the privacy statements of each website and service that you visit.  We do not endorse, screen, or approve, and are not responsible for the privacy practices or the content of, other websites or services.
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Messaging
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+The Site permits Users to communicate with companies and other Users posting information on the Site.  We may read, collect and analyze information transmitted between Users for regulatory compliance and marketing purposes.  However, as explained in our Terms of Use, we rely on the affirmations of investors that they are “Accredited Investors” as defined in the Terms of Use.  We do not guarantee that information provided by Site visitors or investors is accurate or complete.  StartEngine assumes no liability or responsibility for any errors or omissions in the content of its Site.
 
-**Do we disclose any information to outside parties?**
+Opt-out Policy 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information, except as disclosed in this Privacy Policy or with your consent. This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.  We may also share your information with businesses controlling, controlled by, or under common control with us. Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We may at times send you e-mail communications with information, marketing or promotional materials.  If you prefer not to receive such e-mails from us, you may unsubscribe completely by contacting us through the contact form www.startengine.com/contact, chat feature, or by submitting a question through the imbedded “help” button that is processed through Zendesk.  
 
-**Business Information**
+Please note that opt-out requests may take up to five (5) business days to process.  Please also note that at times we may need to send you e-mail communications that are transactional in nature such as service or termination announcements or payment confirmations which are communications you will not be able to opt-out of.
 
-You acknowledge and agree that you have no expectation of compensation or confidentiality of any nature, and that we have no duties to you, with respect to any business information (e.g., business ideas, plans, etc.) communicated to us through or with respect to our site, including, without limitation, business information you submit via the Start Engine Application.  Please consider this carefully before sending us any business information or other materials that you deem confidential or proprietary.
+You will be able to modify the information concerning your account by visiting your profile page and editing any information you wish to change.  You will be able to view and change your e-mail address, password, financial information, contact information, or other login information by visiting your account’s settings page subject to our Site policy.  If you wish to suspend your account or need help modifying account information, please contact us through the contact form [link?], chat feature, or by submitting a question through the imbedded “help” button that is processed through Zendesk. We may require up to five (5) business days to process such requests. 
 
-**California Online Privacy Protection Act Compliance**
+Through your account settings you will be able to set certain preferences and permissions regarding the visibility of your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to others.  You may stop or restrict the placement of StartEngine’s cookies, Google’s cookies and third party cookies on your computer by adjusting your web browser preferences or a “Do Not Track” setting in your web browser.  If you do so, you may still use our Site, but this may interfere with some of its functionality.  You may also clear cookies from your computer via your web browser settings.  
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+If you would like us to remove your Personally Identifiable Information from our database, please send a request through the contact form [add hyperlink], chat feature, or by submitting a question through the imbedded “help” button that is processed through Zendesk.
 
-**Children’s Privacy**
+We are not responsible for removing your Personally Identifiable Information from the lists of any Third Party Services or other third party who has previously been provided your information in accordance with this Privacy Notice.
 
-We do not collect any information from anyone under 13 years of age. Our site, products and services are all directed to people who are at least 13 years old or older.  If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
+Security
 
-**Links**
+We use reasonable efforts to secure access to Personally Identifiable Information in our possession, but will not be liable for any failure to safeguard such information, whether inadvertent or otherwise.  Personally Identifiable Information is also stored with third parties who have informed us that they also use reasonable efforts to secure access to Personally Identifiable Information, but we will not be liable for the failure of any third party to safeguard Personally Identifiable Information, whether inadvertent or otherwise.
 
-Our site may contain links or integrate with other sites and online services, or allow others to send you such links.  We are not responsible or liable for any damage or loss related to your use of any third-party site or online service.  You should always read the terms and conditions and privacy policy of a third-party site or online service before using it, whether directly or in connection with your use of our site.
+We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. Wherever appropriate, we obfuscate and/or encrypt information in our systems and/or during information transfer.
 
-**Privacy Policy Changes**
+We utilize third party service providers who may store on their servers addresses, financial information, electronic signatures, and payment information.   Any third parties to whom we may disclose personal information may have their own privacy policies that describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties
 
-From time to time, we may change this Privacy Policy.  If we change this Privacy Policy, we will give you notice by posting the revised Privacy Policy on our site. Those changes will go into effect on the revision date shown in the revised this Privacy Policy. By continuing to use our site, you consent to the revised Privacy Policy. This Privacy Policy was last revised on December 23, 2011.
+It is important for you to protect against unauthorized access to your password and to your computer.  Be sure to log off when finished using a shared computer.
 
-**Contacting Us**
+Children’s Privacy Policy
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+The Site is not intended for use by children, especially those under eighteen (18) years of age.  No one under eighteen (18) years of age is allowed to use the Site, provide any personal information or receive our email distributions.  We do not knowingly solicit or collect Personally Identifiable Information from children under the age of thirteen (13) or anyone under eighteen years of age.  If you believe that a minor has disclosed Personally Identifiable Information to StartEngine, please report this to us immediately by contacting us through the contact form www.startengine.com/contact, chat feature, or by submitting a question through the imbedded “help” button that is processed through Zendesk.
 
-www.startengine.com  
-10960 Wilshire Blvd.  
-Los Angeles , CA 90024
+Changes to This Privacy Notice
+
+We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this Privacy Notice at any time.  Any changes or updates will be effective immediately upon posting to our Site. You should review this Privacy Notice regularly for changes, and can determine if changes have been made by checking the Effective Date below. Your continued use of our Site following the posting of any changes to this Privacy Notice means you accept such changes.
+
+Applicable Law and Jurisdiction
+
+The Site is maintained in the United States of America.  By accessing the Site, you consent to and authorize the export of Personally Identifiable Information to the United States of America and its storage and use as specified in this Privacy Notice.
+
+This Privacy Notice shall be governed by, construed and entered in accordance with the laws of the State of California applicable to contracts deemed to be made within such state, without regard to choice of law or conflict of law provisions thereof.  All disputes with respect to this Privacy Notice shall be brought and heard either in the shall be brought and heard either in the California state courts located in Los Angeles, California, or the federal district court of California located in Los Angeles County, California.  You consent to the in personam jurisdiction and venue of such courts.  YOU HEREBY WAIVE YOUR RIGHT TO A TRIAL BY JURY WITH RESPECT TO ANY CLAIM, ACTION OR PROCEEDING, DIRECTLY OR INDIRECTLY, ARISING OUT OF, OR RELATING TO, THIS AGREEMENT TO THE FULLEST EXTENT PERMITTED BY LAW. 
+
+Effective Date
+
+This Privacy Notice was last updated on June 18, 2015
