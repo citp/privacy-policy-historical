@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citiprivatepass.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623120152id_/https%3A//online.citibank.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiprivatepass.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906145135id_/https%3A//online.citibank.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy - Citibank
 
@@ -59,12 +59,12 @@ If we have received personal information from you, or have information that is p
 
 If you are a Citi customer, the personal information you provide online is held by the Citi business that maintains your account or is processing your application for a new product or service. You can access and/or change information in connection with your account or application by logging on to your account online or telephoning customer service.
 
-Please see our Privacy Notices, which we provide to all our individual customers, for a comprehensive explanation of how we collect, use and share personal information and what you can do to limit the use and sharing of your information as our customer.
+Please see our Privacy Notices, which we provide to all our individual customers, for a comprehensive explanation of how we collect, use and share personal information and what you can do to limit the use and sharing of your information as our customer. If you have a retail store or gas card issued by Citibank, N.A., you may call the number that appears on the Privacy Statement you receive. All customers may also call Customer Service at any time with questions or to make privacy choices.
 
 |     | Citibank |  Citibank® Consumer Privacy Notice   
 ---|---|---  
 | Citi Personal Wealth Management    | Citi Personal Wealth Management Privacy Notice  
-| Citi Cards | [Citi Cards Online Privacy](http://www.citi.com/us/cards/privacy.htm)  
+| Citi Cards | Citi Consumer Cards Privacy Notice  
 | Citi Private Bank | [Internet Privacy Policy & Statement](https://www.privatebank.citibank.com/privacy.htm#1)  
   
 **2\. How Do We Use the Information We Collect?**
