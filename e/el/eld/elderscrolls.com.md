@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the elderscrolls.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626150557id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elderscrolls.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906142510id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # ZeniMax Media Inc
 
 [Terms of Service
 
-](https://web.archive.org/web/20150627033128id_/http://www.zenimax.com/legal_terms)
+](https://web.archive.org/web/20150817091202id_/https://www.zenimax.com/legal_terms)
 
 [Privacy Policy
 
-](https://web.archive.org/web/20150627033128id_/http://www.zenimax.com/legal_privacy)
+](https://web.archive.org/web/20150817091202id_/https://www.zenimax.com/legal_privacy)
 
 [Legal Information
 
-](https://web.archive.org/web/20150627033128id_/http://www.zenimax.com/legal_information)
+](https://web.archive.org/web/20150817091202id_/https://www.zenimax.com/legal_information)
 
 [](https://privacy.truste.com/privacy-seal/ZeniMax-Media-Inc-/validation?rid=8fa683b2-f1ba-487d-a36b-6975e4be76ba "TRUSTe European Safe Harbor certification")
 
