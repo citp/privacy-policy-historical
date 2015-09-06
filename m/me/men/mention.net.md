@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mention.net privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317021745id_/https%3A//en.mention.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mention.net privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906034607id_/https%3A//en.mention.com/policy) for the most accurate reproduction.*
 
 # mention - your media monitoring application
 
