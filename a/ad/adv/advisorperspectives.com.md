@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the advisorperspectives.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407214725id_/http%3A//www.advisorperspectives.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisorperspectives.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906073754id_/http%3A//www.advisorperspectives.com/privacy) for the most accurate reproduction.*
 
-# Advisor Perspectives
+# Privacy Policy - Advisor Perspectives
 
-This is the web site of **Advisor Perspectives, Inc.**.
+This is the web site of **Advisor Perspectives, Inc.**. 
 
 Our postal address is:  
 
@@ -10,32 +10,32 @@ Our postal address is:
 Box 380  
 Lexington, MA 02420 
 
-We can be reached via e-mail at or you can reach us by telephone at 781-376-0050
+We can be reached via e-mail at [info@advisorperspectives.com](mailto:info@advisorperspectives.com) or you can reach us by telephone at 781-376-0050 
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. 
 
-We will not disclose, sell, or in any way provide the email addresses or other personal information we maintain to any third party.
+We will not disclose, sell, or in any way provide the email addresses or other personal information we maintain to any third party. 
 
-Our email policies are fully compliant with the Can-Spam Act of 2003.
+Our email policies are fully compliant with the Can-Spam Act of 2003. 
 
 Newsletter recipients may, from time to time, receive commercial emails (advertisements) from us, and may “opt out” to avoid receiving these in the future. 
 
-We collect only aggregate information on what pages our users access or visit.
+We collect only aggregate information on what pages our users access or visit. 
 
-The information we collect is used to improve the content of our Web page.
+The information we collect is used to improve the content of our Web page. 
 
-With respect to cookies: We use cookies to record user-specific information on what pages users access or visit.
+With respect to cookies: We use cookies to record user-specific information on what pages users access or visit. 
 
-If you do not want to receive e-mail from us in the future, please let us know by or Unsubscribing from our newsletter.
+If you do not want to receive e-mail from us in the future, please let us know by or Unsubscribing from our newsletter. 
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically. 
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+Upon request we provide site visitors with access to no information that we have collected and that we maintain about them. 
 
-Consumers can have this information corrected by sending us e-mail at the above address.
+Consumers can have this information corrected by sending us e-mail at the above address. 
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
