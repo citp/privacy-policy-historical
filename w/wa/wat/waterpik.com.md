@@ -1,57 +1,135 @@
-> *The following text is extracted and transformed from the waterpik.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316232256id_/https%3A//www.waterpik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterpik.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906183854id_/https%3A//www.waterpik.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Water Pik, Inc.
 
-This Policy applies to all personal information submitted by consumers to Water Pik, Inc. ("Water Pik") through any medium including any of Water Pik's Web sites. By submitting personal information to Water Pik or using its Web sites or interactive banner ads, you signify your acceptance of this Privacy Policy. If you object to any of these terms, please do not submit any personal information to Water Pik. We believe that your privacy is extremely important. For this reason, except as described below, Water Pik does not trade, sell or rent to any third parties personal information submitted by you. The Privacy Policy outlined below explains how Water Pik may gather and use the information you provide.
+## Last modified March 16, 2015
 
-## What information does Water Pik collect and how does Water Pik use this information? 
+**THIS WATER PIK, INC. WEBSITE PRIVACY POLICY ("PRIVACY POLICY") PERTAINS TO YOUR ACCESS AND USE OF THE WATERPIK.COM WEBSITE (THE "SERVICE"). IT DOES NOT APPLY TO YOUR USE OF THE ONLINE STORE WHICH IS OPERATED BY A THIRD PARTY AND SUBJECT TO A SEPARATE PRIVACY POLICY. PLEASE READ THIS PRIVACY POLICY ("PRIVACY POLICY") CAREFULLY BEFORE ACCESSING OR USING THE SERVICE.**
 
-Water Pik collects information such as your name, address, email address, telephone number, etc. that it needs to be able to contact its customers and other consumers who communicate with us. We also collect general statistical information voluntarily provided to us such as age, gender, household size, preferences and interests as well as information related to customer satisfaction surveys, customer purchasing habits and other purchasing information. Consumers provide personal information about themselves to Water Pik in a variety of ways, for example, by registering Water Pik products that they have purchased, by seeking rebates or by participating in contests and other promotional programs sponsored by Water Pik. Consumers may provide this personal information to Water Pik in writing, over the telephone by email or through our Web sites. Water Pik may retain all of the personal information so provided to it. You are under no obligation to provide any personal information to Water Pik. If you choose not to provide certain information, you might not be able to request our products and services, participate in our programs or take advantage of some of the features on our Web sites. We use the information you provide to respond to your requests, to improve our services, to communicate with you, to permit you to participate in the contests, sweepstakes and other promotions we sponsor and to customize your experience on our Web sites. The information we learn from you also helps us better serve you and our other customers.
+The Service is operated by Water Pik, Inc. ("we," "our" and "us"). This Privacy Policy describes the information collected from users who access the WATERPIK.COM website ("you"), how we use it, how we share it, how we protect it, and the choices you can make about your information.
 
-## Does Water Pik share your information with third parties? 
+ATTENTION: ACCESSING OR USING THE SERVICE INDICATES THAT YOU ACCEPT AND AGREE TO BE BOUND BY THIS PRIVACY POLICY IN FULL. IF YOU DO NOT ACCEPT THIS PRIVACY POLICY, DO NOT ACCESS OR USE THE SERVICE. You acknowledge (a) that you have read and understood this Privacy Policy; and (b) this Privacy Policy shall have the same force and effect as a signed agreement.
 
-We do not sell, rent, or trade your personal information to third parties. However, we may share personal information with our affiliates and business partners in order to facilitate your purchase, the process of servicing your products, to help you exchange your products, with respect to sweepstakes, contests and other promotional campaigns we may sponsor and/or in which we may participate, to provide information about our family of brands and products which may be of interest and in general to better serve you. These companies may contact you directly with offers or personalized communications that might be of interest to you. We also may receive information about you from other sources and add it to our account information records. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. Water Pik occasionally may sell a business unit. In such event, Water Pik may transfer the corresponding information regarding our customers, including personally identifiable information and other data gathered from Water Pik Web sites. We may also retain a copy of that information. Water Pik may collect and share aggregate data about our sales, customers, internet traffic patterns, and other related information with respectable third parties. Aggregated and statistical data does not contain personally identifiable information, e.g., your name. Other than as set forth above, your personal information is not shared without your consent. Please note that Water Pik will fully cooperate with any court order or other legal process and will provide your personal information to the extent required in any legal proceeding. We also release Web site account and other personal information when we believe such release is appropriate under our Terms of Use and other agreements or to protect the rights, property or safety of our Web sites, their users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+Please review the Privacy Policy each time you use the Service. BY USING THE SERVICE, YOU AGREE TO BE BOUND BY THE MOST RECENT VERSION OF THE PRIVACY POLICY. If we materially change this Privacy Policy, we’ll let you know by updating the policy and its modification date on the websites that are part of the Service.
 
-## What is the policy regarding Water Pik's ownership of information? 
+## I. Information We Collect
 
-All opinions, ideas, suggestions, and other feedback submitted to our Web sites may be used by Water Pik, without any restriction and free of charge, and nothing contained in this policy shall limit or otherwise affect this. 
+We collect information from you when you use the Service, contact or interact with us or fill out a registration form or survey. When calling us, your telephone number, name, and other information needed to respond to your request may be collected.
 
-There may be instances where we request or permit the submission of your opinions/ideas. In such instances you will be required to agree to the terms of an agreement related to the provision of such information prior to its submission. 
+When you access and use the Service, we may collect your name, address, email address, telephone number, country, gender, model number and serial number of purchased products, product purchase information, and any other information that you provide in using the Service. 
 
-## Are there special considerations regarding information transmitted through the internet (e.g., "cookies" and web beacons)? 
+You may use some portions of the Service anonymously, though we automatically collect information regarding each user of our Service, which may include your Internet Protocol (IP) address, the domain name of your Internet service provider, mobile device information, the Service features and webpages you use and access and the time of your use, the type of Internet browser and operating system you are using, the referring site, application or service, and aggregated information that cannot be used to specifically identify you when you use the Service. For more information about automatic collection of personal information, see the Analytics and Cookies sections below.
 
-In addition to the general provisions of this Privacy Policy, the following applies to information acquired by Water Pik through its Web sites. When you visit a Water Pik Web site, we receive and store certain types of information whenever you interact with us. For example, like many Web sites, we may use "cookies," web beacons, clear GIFs or pixel tags from which we obtain certain types of information when your Web browser accesses our Web sites. Using such technologies, our web servers may automatically monitor the number of visitors, the pages visited, the average time spent on the site, the popularity of our Web sites, and any programming errors or failures on any of our Web sites in order to determine the effectiveness of the Water Pik Web sites. If you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed on your computer. Note that some features of our Web sites may not be available if you do not accept cookies.
+We may receive information about you from third parties and combine all of the information we collect from or about you and use it in the manner described in this Privacy Policy.
 
-### Entries and inquries on our Web site
+## II. How We Use Your Information
 
-We also receive and store any information you enter on our Web sites. Our Web sites allow you to contact us directly with questions or comments regarding our products, services, Web site, warranty registration, surveys, contests and other matters. This process requires you to give certain personal information so that we may address your inquiry. If you do not want to receive email or other mail from us, please adjust your customer communication preferences as discussed further below.
+**We use the information that we collect for several purposes, including:**
 
-### Research and online surveys
+  * The purposes for which you provided it;
+  * To provide products and services to you;
+  * To ship prizes to contest winners;
+  * To process and respond to your inquiries and comments (such as responding to customer service or warranty emails or product registration submissions);
+  * To send you information about your relationship or transactions with us;
+  * To personalize and enhance your experience using the Service;
+  * To send periodic newsletters, surveys, promotions and other emails that directly promote the use of the Service if you opt-in to receive our emails;
+  * To develop new products and services;
+  * To generate and review reports and data about our user base and service usage patterns;
+  * To compile aggregate data for internal and external business and research purposes;
+  * To reduce credit risk;
+  * To prevent fraud and abuse of the Service and to otherwise protect users and visitors and our business;
+  * To assist law enforcement and respond to subpoenas;
+  * To administer, operate, and improve the Service and for internal business purposes; and
+  * To perform other business activities as needed, or as described elsewhere in this Privacy Policy.
+  * As explained elsewhere in this Privacy Policy, personal information we collect may be processed by our partners in providing related services to the Service (including, but not limited to, email and website analytics services and administration and technical services relating to the warranty, replacement, and servicing of our products).
 
-In an effort to continually improve our products and services, we may use your personal information to conduct Water Pik market research and on-line surveys. This may include contacting recent and/or past Water Pik customers and Web site visitors who have provided personal information to Water Pik. We may use your information to deliver information that is targeted to your interests and to describe new products, promotions or events.
 
-### External links
 
-We may add external links to other related Web sites. We try to link to only Web sites that maintain the same high regard for privacy on the Internet as we do; however, we are not responsible for the use that such linked sites make of personal information provided to them or the content that may be on such linked sites. You should be aware that third-party privacy policies and terms of use may apply when you visit a Web site linked to the Water Pik Web sites. We encourage you to read the terms of use and privacy policies of such third-party sites.
+## III. How Your Information is Disclosed
 
-### Third-party advertising
+Information may be disclosed to third parties in accordance with our Privacy Policy. Please note that a user may choose not to share certain information as described in "Your Choices Regarding Your Information" below. 
 
-We may also use a tool called TruEffect to place a cookie on our behalf. This cookie collects anonymous data that helps us conduct targeted advertising and improve the performance of our advertising on other websites. To opt-out of our use of TruEffect, [click here](http://media.waterpik.com/optout.html).
+### A. Third Party Service Providers and Business Partners
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/)
+We may use third party service providers and business partners to perform functions in connection with the Service, such as functions related to analyzing and improving the Service usefulness, reliability, user experience and operation, email services, product warranty services, remarketing, product reviews, and contest administration. We also may share information about you that these third parties need to perform their functions and in accordance with our agreements with them. For example, a third party service provider operates the Online Store and manages warranty services for our products. We may share your information with such service provider for product returns, replacements and other warranty services.
 
-## How do I stop Water Pik from contacting me via email in the future? 
+### B. Business Changes
 
-If you have previously given your personal information to us and no longer want to be contacted by Water Pik via email, you may take yourself off of our distribution list by opting-out. To do so, follow the individual termination instructions listed in the email that you received. 
+If we become involved in a merger, acquisition, sale of assets, joint venture, securities offering, bankruptcy, reorganization, liquidation, dissolution, or other transaction or if the ownership of all or substantially all of our business otherwise changes, we may transfer your information to a third party or parties in connection therewith. 
 
-## Are Water Pik's Web sites intended for children? 
+### C. Affiliates
 
-Water Pik's Web sites are intended for use by adults. Water Pik's Web sites do not target children and our requests for information are not directed to children. The Children's Online Privacy Protection Act (COPPA) protects the online privacy and personal information of children under 13 years of age. In compliance with COPPA, Water Pik does not promote online to children and does not intentionally collect any personally identifiable information from children under 13. If registration or other information provided through our Web sites reveals that the visitor is a child, we will not allow the child to continue to provide personal information and any information provided to that point will be deleted from our records. We do not filter advertisements or other content that children may view through the public portions of our Web sites.
+We may also share your information with our affiliates for purposes consistent with this Privacy Policy. Our affiliates will be required to maintain that information in accordance with this Privacy Policy.
 
-## What security measures are taken by Water Pik? 
+### D. Investigations and Law
 
-Water Pik uses industry standard security measures, such as encryption and firewalls, to protect its Web sites against the loss, misuse and alteration of the information under Water Pik's control. However, no security system is impenetrable. Water Pik cannot guaranty the security of its Web sites or any information that is transmitted to Water Pik over the internet. Also, any information that you include in messages you post to a public area on a Water Pik Web site, such as a product story, will be available to anyone with Internet access. 
+We may disclose information about you to third parties if we believe that such disclosure is necessary to:
 
-## Will this Privacy Policy change? 
+  * Investigate fraud and abuse of the Service;
+  * Take action regarding suspected illegal activities;
+  * Enforce or apply this Privacy Policy or other agreements with us;
+  * Comply with the law or guidance and cooperate with government or law enforcement officials or private parties;
+  * Protect our rights, reputation, safety, and property, or that of users or others;
+  * Respond to claims and legal process (for example, subpoenas); and/or
+  * Protect against legal liability.
 
-Water Pik may change this policy at any time, so please review it periodically for updates. By accessing any Water Pik Web site after any change of this policy, you agree that the updated policy applies. Our current Privacy Policy is available online at waterpik.com. You may contact Water Pik to report changes and update your information, to request the current Privacy Policy, to report any known or suspected privacy or security breaches, or to submit privacy-related questions or complaints by email.
+
+
+### E. Aggregated Information
+
+We may share aggregated information relating to users of the Service with affiliated or unaffiliated third parties for internal and external business and research purposes. This aggregated information does not contain personal information about any user.
+
+### F. Analytics
+
+We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools may use cookies and other technologies to collect information about your use of the Service and your preferences. These tools collect information sent by your device or the Service and other information that assists us in improving the Service. This information may be used to, among other things, analyze and track data, serve content, determine the popularity of certain content, and better understand your online activity.
+
+We use Google Analytics, Crazy Egg, and other analytics providers to better understand who is using the Service and how people are using it. These tools use cookies to collect and store information such as website pages visited, places where users click, time spent on each website page, IP address, type of operating system used, location-based data, device ID, search history, and phone number. We use this information to improve the Service and as otherwise described in this Privacy Policy. Please see <http://www.google.com/policies/privacy/partners/> for details about how Google uses this information, and visit <https://tools.google.com/dlpage/gaoptout> for information about the Google Analytics Opt-out Browser Add-on. Please see <http://www.crazyegg.com/privacy> for details about how Crazy Egg uses this information, and visit <http://www.crazyegg.com/opt-out> for information about opting out of Crazy Egg’s services. 
+
+## IV. Cookies
+
+Cookies are small files that a website or its service provider transfers to your computer’s hard drive through your web browser (if you allow it) that enable the website’s or service provider’s system to recognize your browser and capture and remember certain information. You can instruct your browser to stop accepting cookies. However, if you do not accept cookies, you may not be able to use all portions of all functionality of the Service.
+
+  * Persistent cookies remain on the visitor’s computer after the browser is closed.
+  * Session cookies exist only during a visitor’s online session and disappear when the visitor closes the browser software.
+
+
+
+We use cookies on the Service to help us compile data about website traffic and website interaction so that we can offer better website experiences and tools in the future.
+
+Some of our business partners, such as our web analytics providers, reviews providers, and our remarketing providers, may also use cookies, pixel tags, beacons, tags or scripts on our websites, some of which may track users across websites and over time. Product reviews are managed by Bazaarvoice, Inc. Their privacy policy is available at [ http://www.bazaarvoice.com/privacy-policy/](http://www.bazaarvoice.com/privacy-policy/). 
+
+## V. Security
+
+We implement a variety of security measures to protect the safety of your personal information when you use the website, enter, submit, or access your personal information, including encryption and firewalls. 
+
+While we take reasonable measures to protect the information you submit via the Service against loss, theft, unauthorized use, disclosure, or modification, we cannot guarantee its absolute security. No Internet, email, or mobile application transmission is ever fully secure or error free. Email or other messages sent through the Service may not be secure. You should use caution whenever submitting information through the Service and take special care in deciding which information you provide us.
+
+We cannot guarantee that transmissions of your personal information will be fully secure or that third parties will never be able to defeat our security measures. WE ASSUME NO LIABILITY FOR DISCLOSURE OF YOUR INFORMATION DUE TO TRANSMISSION ERRORS, THIRD-PARTY ACCESS OR CAUSES BEYOND OUR CONTROL.
+
+## VI. Links to Other Websites or Applications
+
+This Privacy Policy applies only to the Service. The Service may contain links to other websites or apps or may forward users to other websites or apps that we may not own or operate. For example, the Online Store is owned and operated by a third party service provider. Your use of the Online Store is subject to the privacy policy provided on that website. The links from the Service do not imply that we endorse or have reviewed these websites or apps. The policies and procedures we describe here do not apply to these websites or apps. We neither can control nor are responsible for the privacy practices or content of these websites or apps. We suggest contacting these websites or app providers directly for information on their privacy policies. Nonetheless, we seek to protect the integrity of our Service, and welcome any feedback about these linked websites and mobile applications.
+
+## VII. Your Choices Regarding Your Information
+
+We may periodically send you free newsletters, surveys, promotions, and other emails that directly promote the use of the Service. When you receive email communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the email you receive or by [contacting us](https://web.archive.org/about-us/ "Contact Water Pik, Inc.").
+
+## VIII. Do Not Track Policy
+
+Your browser or device may offer you a "Do Not Track" option, which allows you to signal to operators of websites, web applications, mobile applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites or applications. Our Service does not support Do Not Track requests at this time, which means that we or other third parties with which we are working will collect information about your online activity both during and after your use of the Service.
+
+## IX. Children
+
+We do not knowingly collect personal information from individuals under the age of 13. If you are under the age of 13, please do not submit any personal information through the Service. If you have reason to believe that we may have accidentally received personal information from an individual under age 13, please [contact us](https://web.archive.org/about-us/ "Contact Water Pik, Inc.") immediately.
+
+## X. Changes to Privacy Policy
+
+We reserve the right to update or modify this Privacy Policy at any time and from time to time. Please review this Privacy Policy periodically, and especially before you provide any information. This Privacy Policy was made effective on the date indicated above. 
+
+## XI. How to Contact Us
+
+Please feel free to [contact us](https://web.archive.org/about-us/ "Contact Water Pik, Inc.") if you have any questions about this Privacy Policy.
+
+## XII. Your California Privacy Rights
+
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties’ direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by writing us at 1730 East Prospect RD, Fort Collins, CO 80553.
