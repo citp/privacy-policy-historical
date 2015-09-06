@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the up.co privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627212843id_/http%3A//www.up.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up.co privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907001450id_/http%3A//www.up.co/privacy-policy) for the most accurate reproduction.*
 
 # UP Global - Privacy Policy
 
