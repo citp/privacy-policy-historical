@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heathrowexpress.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521125521id_/https%3A//www.heathrowexpress.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heathrowexpress.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906073258id_/https%3A//www.heathrowexpress.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -81,7 +81,7 @@ We keep our privacy notice under regular review and we will place any updates on
 
 Data Protection Manager  
 Heathrow Express  
-6th Floor, 50 Eastbourne Terrace  
-W2 6LG
+The Compass Centre, Nelson Road  
+Hounslow, Middlesex, TW6 2GW
 
 This privacy notice does not provide exhaustive detail of all aspects of Heathrow Express’s collection and use of personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the contact address above.
