@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urdushaadi.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612214131id_/http%3A//www.urdushaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urdushaadi.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906020121id_/http%3A//www.urdushaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
 
 # Shaadi.com Privacy Policy Indian matrimonial web site - free listing matrimonials - UrduShaadi.com
 
@@ -10,7 +10,7 @@ Read on for information on the following aspects about our Privacy Policy:
 
   1. What information does Shaadi.com collect/track about me? 
 
-Shaadi.com is an advertising platform providing targeted advertising services for matrimonial alliance. In order to do provide the services, we ask for certain personal information which is displayed on the site. (This information includes physical / mental disability.) (Of course, all Shaadi.com visitors may browse the site, search member profiles and view any articles or features our site has to offer without entering any personal information.)
+Shaadi.com is an advertising platform providing targeted advertising services for the purpose of matchmaking. In order to do provide the services, we ask for certain personal information which is displayed on the site. (This information includes physical / mental disability.) (Of course, all Shaadi.com visitors may browse the site, search member profiles and view any articles or features our site has to offer without entering any personal information.)
 
 **Information Collected/Tracked by Shaadi.com**
 
