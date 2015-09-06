@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the timelife.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607152932id_/http%3A//timelife.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timelife.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907014017id_/http%3A//timelife.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Time Life
 
 ### The Site
 
-Timelife.com (the "Site") is operated by Direct Holdings Americas Inc. StarVista is a registered trademark of Direct Holdings Americas, Inc. Time Life is a registered trademark of Time Warner Inc. or an affiliated company used under license by Direct Holdings Americas Inc., which is not affiliated with Time Inc. or Time Warner Inc. The effective date of this Privacy Policy is September 2, 2014.
+Timelife.com (the "Site") is operated by Direct Holdings Americas Inc. Time Life is a registered trademark of Time Warner Inc. or an affiliated company used under license by Direct Holdings Americas Inc., which is not affiliated with Time Inc. or Time Warner Inc. The effective date of this Privacy Policy is September 2, 2014.
 
 ### Our Privacy Policy
 
@@ -13,7 +13,7 @@ Direct Holdings Americas Inc. values its customers and respects their need to fe
 If you still have privacy concerns that you feel are not addressed in this information, please contact a Direct Holdings Americas Inc. Customer Care Representative at:
 
 Customer Care  
-StarVista Entertainment / Time Life  
+Time Life  
 P.O. Box 8788  
 Pueblo, CO 81008 
 
@@ -32,7 +32,7 @@ Please note that even if you choose not to receive marketing emails from us, you
 We may also use your name, postal delivery information and phone number to contact you offline. From time-to-time, we may also share your name and mailing address with certain direct marketing companies so that they may contact you about products, services or offers that we think would be of interest to you. If you do not wish us to contact you offline, receive such mailings, or allow us to share your information with these direct marketing companies, please contact us via [email](https://web.archive.org/contact), by phone at 1-800-950-7887, 9 AM to 9 PM EST, seven days a week, or write to us at:
 
 Customer Care  
-StarVista Entertainment / Time Life  
+Time Life  
 P.O. Box 8788  
 Pueblo, CO 81008 
 
@@ -49,7 +49,7 @@ We may collect your financial information such as credit and debit card numbers 
 We only collect the name(s) and postal delivery information necessary to fulfill your requests to ship to alternate addresses. We never share this information with third parties, except those third parties contractors providing fulfillment services as described above. If necessary, we may use this information to contact these individual with service issues relating to the order. We may also use these names and postal delivery information to send mailings, such as Direct Holdings catalog mailings. If you do not wish us to send these individuals such mailings, please contact us via [email](https://web.archive.org/contact), by phone at 1-800-950-7887, 9 AM to 9 PM EST, seven days a week or write to us at:
 
 Customer Care  
-StarVista Entertainment / Time Life  
+Time Life  
 P.O. Box 8788  
 Pueblo, CO 81008 
 
