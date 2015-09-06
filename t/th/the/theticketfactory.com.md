@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theticketfactory.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627104500id_/https%3A//www.theticketfactory.com/default/online/default.asp%3FdoWork%3A%3AWScontent%3A%3AloadArticle%3DLoad%26BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id%3D81055DA6-5F5B-4AD6-96A7-002FF072A9A2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theticketfactory.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906170707id_/https%3A//www.theticketfactory.com/default/online/default.asp%3FdoWork%3A%3AWScontent%3A%3AloadArticle%3DLoad%26BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id%3D81055DA6-5F5B-4AD6-96A7-002FF072A9A2) for the most accurate reproduction.*
 
 # Our privacy policy | The Ticket Factory
 
