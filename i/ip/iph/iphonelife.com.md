@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609233331id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphonelife.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906053527id_/http%3A//www.iphonelife.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | iPhone Life
+# Privacy Policy | iPhoneLife.com
 
 We want you as a long-term customer and patron. We will treat you how we would like to be treated.
 
-Below is our current policy regarding usage of information collected by _iPhone Life_ magazine and it's publisher, Mango Life Media. On occasion we reevaluate this policy based on customer feedback, effective business practices, and treating customers fairly and properly. Our [privacy policy for our companion smartphonemag.com Windows Mobile site](http://www.smartphonemag.com/cms/privacy) is quite similar.
+Below is our policy regarding usage of information collected by _iPhone Life_ magazine and it's publisher, Mango Life Media LLC. On occasion we reevaluate this policy based on customer feedback, effective business practices, and treating customers fairly and properly. Our [privacy policy for our companion smartphonemag.com Windows Mobile site](http://www.smartphonemag.com/cms/privacy) is quite similar.
 
   1. We never give out phone numbers, nor do we ever telemarket. When collected, phone numbers are used only by our customer service representatives for support or a purchase concern.
 
@@ -45,7 +45,7 @@ On occasion we may send you relevant email concerning our products or services. 
 
   9. If you have complaints or concerns, you may e-mail the Publisher, [David Averbach](mailto:david@iphonelife.com).
 
-  10. If you wish to unsubscribe from any of our newsletters, use the Unsubscribe link that you'll find at the bottom of each newsletter we send you. Otherwise, send an e-mail to newsletters@iphonelife.com with the word "Unsubscribe" in the subject line and let us know which newsletter you wish to be unsubscribed from.
+  10. If you wish to unsubscribe from any of our newsletters, use the "Unsubscribe" or "Manage Subscriptions" link that you'll find at the bottom of each newsletter we send you. Otherwise, send an e-mail to newsletters@iphonelife.com with the word "Unsubscribe" in the subject line and let us know which newsletter you wish to be unsubscribed from.
 
   11. All sensitive personal information, such as bank details and credit card numbers, are collected using a secure server (https://) and follows security regulations for such practices.
 
@@ -54,4 +54,4 @@ On occasion we may send you relevant email concerning our products or services. 
 
 **Blog Disclaimer**
 
-_iPhone Life_ takes care to see that the information posted by bloggers on its website is accurate and truthful. However, _iPhone Life_ does not expressly or impliedly warrant or guarantee the accuracy of its contents and the information others post through blogs and blog comments. The views and opinions expressed on this blog are purely those of the individual bloggers, and do not represent the views and opinions of _iPhone Life_ magazine.
+iPhone Life takes care to see that the information posted by bloggers on its website is accurate and truthful. However, iPhone Life does not expressly or impliedly warrant or guarantee the accuracy of its contents and the information others post through blogs and blog comments. The views and opinions expressed on this blog are purely those of the individual bloggers, and do not represent the views and opinions of _iPhone Life_ magazine.
