@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evasi0n.com privacy policy that was archived on 2014-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141011112304id_/http%3A//evasi0n.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evasi0n.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906190024id_/http%3A//evasi0n.com/privacy.html) for the most accurate reproduction.*
 
 # evasi0n iOS 7.x Jailbreak - official website of the evad3rs
 
@@ -34,4 +34,4 @@ If you have any questions regarding the privacy policy of evasi0n.com then you m
 
 * * *
 
-[Privacy Policy](https://web.archive.org/web/20141011112304id_/http%3A//evasi0n.com/privacy.html)
+[Privacy Policy](https://web.archive.org/web/20150906190024id_/http%3A//evasi0n.com/privacy.html)
