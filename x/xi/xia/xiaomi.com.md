@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xiaomi.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628054737id_/http%3A//www.mi.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiaomi.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906080423id_/http%3A//www.mi.com/en/privacy) for the most accurate reproduction.*
 
 # About Us- Mi Global Home
 
