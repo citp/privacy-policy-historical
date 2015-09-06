@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031707id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906085811id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
 
 # Patelco – Security Center
 
 At Patelco, your personal and financial information  
-is secure. We have several security measures  
+are secure. We have several security measures  
 to help prevent unauthorized access to your account(s).
 
 Explore the tabs below to learn more about our   
@@ -17,6 +17,15 @@ report and prevent any fraudulent activity.
 
 |  Current Security Alerts & Notifications   
 ---  
+  
+**Email Scam**   
+You may have received an email with a subject line similar to "Patelco Credit Union Alert {Credit-$5,000,000.00}." [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Email-Scam)  
+  
+**Security risk for older browsers**   
+Using an Out-of-Date Browser? Find out why it’s important to upgrade now. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Browser-Upgrade/)  
+  
+**Changes to Your User ID**   
+You may have received an email from our Information Security Officer asking you to change your Online/Mobile Banking User ID. [Read more >](https://www.patelco.org/Members/Security/UserId-Update/)  
   
 **Security risk for older browsers**   
 Using an Out-of-Date Browser? Find out why it’s important to upgrade now. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Browser-Upgrade/)  
@@ -77,20 +86,20 @@ To report suspicious or unauthorized transactions on your account please call us
   
 ## Your privacy is very important to us.
 
-At Patelco, your personal and financial information is secure and we are committed to respecting your right to privacy and protecting your personal information. 
+At Patelco, your personal and financial information are secure and we are committed to respecting your right to privacy and protecting your personal information. 
 
-**Important security reminder:** Although Patelco may contact you for a specific reason, we will never ask you to update detailed personal or account information over the phone, via a link in an email, or through text messaging. If you receive a request to update specific account information from someone claiming to represent Patelco, it's fraudulent, and you should notify us immediately. You can report fraud by calling us at **800.358.8228** or by sending us an email [abuse@patelco.org](mailto:abuse@patelco.org). 
+**Important security reminder:** Although Patelco may contact you for a specific reason, we will never ask you to verify or update detailed personal or account information over the phone, via a link in an email, or through text messaging. If you receive a request to update specific account information from someone claiming to represent Patelco, it's fraudulent, and you should notify us immediately. You can report fraud by calling us at **800.358.8228** or by sending us an email [abuse@patelco.org](mailto:abuse@patelco.org). 
 
 | Privacy Notices:  
 ---  
   
-  * **Federal Privacy Notice** – The security of your personal and financial information is our highest priority. Read our [Federal Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/privacy_notice_2014.pdf) to learn how we use and protect your information. 
-  * **California Privacy Notice** – In the state of California you have the right to restrict the sharing of your personal information by organizations. You can learn more by reading the [California Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/CA_privacy_notice_2014.pdf).
+  * **Federal Privacy Notice** – The security of your personal and financial information is our highest priority. Read our [Federal Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/PrivacyNotice-Resi_FED_2015.pdf) to learn how we use and protect your information. 
+  * **California Privacy Notice** – In the state of California you have the right to restrict the sharing of your personal information by organizations. You can learn more by reading the [California Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/PrivacyNotice-Resi_CA_2015.pdf).
 
 
 
 **Our right to change these policies:**   
-These policies are effective June 1, 2014. We can change these policies by notifying you in writing. If a new policy (or policies) will be subject to opt-out rights, we will give you at least 30 days advance notice before the new policy (or policies) goes into effect, and we will disclose the means by which you can opt out of disclosure of nonpublic personal information. 
+These policies are effective June 1, 2015. We can change these policies by notifying you in writing. If a new policy (or policies) will be subject to opt-out rights, we will give you at least 30 days advance notice before the new policy (or policies) goes into effect, and we will disclose the means by which you can opt out of disclosure of nonpublic personal information. 
 
 If you have any questions regarding our privacy practices, please [send us a secure email](https://www.patelco.org/Contact) or call us at **800.358.8228**.
 
@@ -335,7 +344,7 @@ Phishing emails will direct you to a website that resembles Patelco’s website 
 
   * Make sure it is Patelco’s website when you log in to Online Banking. When you enter the URL www.patelco.org in your browser, the address bar should turn green if the browser is secure.
   * Immediately delete any suspicious email that asks you for personal information. Do not reply, click any links, or open any attachments. 
-  * Always remember that Patelco will never request that you confirm or update any personal or account information via email. 
+  * Always remember that Patelco will never request that you verify any personal or account information via a link to an email, by text message or over the phone.
 
 
 
@@ -367,7 +376,7 @@ When you connect to the Internet using any kind of device, you are at risk. You 
   * **Keeping your browser software current.** It is important to install any operating system and software updates (sometimes called patches or service packs) as soon as they become available.
   * **Being knowledgeable when downloading an application (app).** It is important to review the privacy policy and understand what data the app can access. 
   * **Monitoring your account.** Check your account often to catch fraud early. We recommend that you set up account alerts in Online Banking to keep you aware of payments and other transactions. 
-  * **Not responding to a suspicious text or email.** Requests for personal information and immediate responses are almost always a scam. Patelco will never ask you to update your personal information via text or email. 
+  * **Not responding to a suspicious text or email.** Requests for personal information and immediate responses are almost always a scam. Patelco will never ask you to verify your personal information via text, phone, or email. 
 
 
 
@@ -397,7 +406,7 @@ To report suspicious or unauthorized transactions on your account please call us
 
 As long as you have something of value, there will be thieves who want to take it from you. Stay one step ahead of them by learning about their methods.
 
-**Important security reminder:** We will never attempt to contact you to verify your personal or account information over the phone, via email, or through text messaging. If you receive a request from someone claiming to represent Patelco, it’s fraudulent, and you should notify us immediately. You can report fraud by calling us at **800.358.8228** or by sending us an email at [abuse@patelco.org](mailto:abuse@patelco.org).
+**Important security reminder:** We will never attempt to contact you to verify your personal or account information over the phone, via a link in an email, or through text messaging. If you receive a request from someone claiming to represent Patelco, it’s fraudulent, and you should notify us immediately. You can report fraud by calling us at **800.358.8228** or by sending us an email at [abuse@patelco.org](mailto:abuse@patelco.org).
 
 We’ve compiled a list of common scams to help you become familiar and be better able to identify them to keep your information safe.
 
@@ -451,7 +460,7 @@ Phishing emails will direct you to a website that resembles Patelco’s website 
   
 
 
-  * **Personal information requests**. Emails from Patelco will never ask you to reply with account or personal information of any kind.
+  * **Personal information requests**. Emails from Patelco will never ask you to reply with or verify account or personal information of any kind.
   * **Urgent requests.** We will never threaten that your account will be closed if you fail to comply with any request for information
   * **System and security updates.** We will never ask you to confirm important information due to system upgrades or maintenance.
   * **Offers with a catch.** We will never ask for your feedback and then ask for your account number to receive a reward for your feedback. 
@@ -465,7 +474,7 @@ If you receive a suspicious email claiming to be from Patelco, forward it to us 
 
   * Make sure it is Patelco’s website when you log in to Online Banking. When you enter the URL www.patelco.org in your browser, the address bar should turn green if the browser is secure.
   * Immediately delete any suspicious email that asks you for personal information. Do not reply, click any links, or open any attachments.
-  * Always remember that Patelco will never request that you confirm or update any personal or account information via email.
+  * Always remember that Patelco will never request that you verify any personal or account information via a link in an email, phone, or text.
 
 
 
@@ -475,7 +484,7 @@ This is a scam in which someone claiming to be from Patelco Card Services, calls
 
 **How to Protect Yourself**
 
-  * • Patelco will never call you asking you to provide your credit card numbers or personal identification numbers in an effort to get a lower interest rate.
+  * Patelco will never call you asking you to provide your credit card numbers or personal identification numbers in an effort to get a lower interest rate.
   * If you receive a phone call from someone claiming to be able to lower your Patelco interest rate who requests this information, please call us immediately at **800.358.8228** or email us at [abuse@patelco.org](mailto:abuse@patelco.org).
 
 
@@ -511,7 +520,7 @@ While we have not yet heard of Patelco’s name being used in this type of scam,
 
 
 
-**Important:** Patelco will never send unsolicited emails or text messages asking members to provide, update, or verify personal or account information, such as passwords, Social Security numbers, PINs, credit or debit card numbers, or other confidential information.
+**Important:** Patelco will never send unsolicited emails or text messages asking members to provide or update personal or account information, such as passwords, Social Security numbers, PINs, credit or debit card numbers, or other confidential information.
 
 **Safety Tip:** If you receive an email asking you to click on the link to update/verify information do not click on the link. You can hover over a link to determine the destination. If it is web address that you do not recognize do not click the link. If this occurs, please let us know by sending us an email at [abuse@patelco.org](mailto:abuse@patelco.org).
 
@@ -625,7 +634,7 @@ Phishing emails will direct you to a website that resembles Patelco’s website 
 **How to identify phishing emails and spoof websites**   
 
 
-  * **Personal information requests**. Emails from Patelco will never ask you to reply with account or personal information of any kind.
+  * **Personal information requests**. Emails from Patelco will never ask you to reply with or verify account or personal information of any kind.
   * **Urgent requests.** We will never threaten that your account will be closed if you fail to comply with any request for information
   * **System and security updates.** We will never ask you to confirm important information due to system upgrades or maintenance.
   * **Offers with a catch.** We will never ask for your feedback and then ask for your account number to receive a reward for your feedback. 
@@ -639,7 +648,7 @@ If you receive a suspicious email claiming to be from Patelco, forward it to us 
 
   * Make sure it is Patelco’s website when you log in to Online Banking. When you enter the URL www.patelco.org in your browser, the address bar should turn green if the browser is secure.
   * Immediately delete any suspicious email that asks you for personal information. Do not reply, click any links, or open any attachments. 
-  * Always remember that Patelco will never request that you confirm or update any personal or account information via email. 
+  * Always remember that Patelco will never request that you verify any personal or account information via link in an email. 
 
 
 
