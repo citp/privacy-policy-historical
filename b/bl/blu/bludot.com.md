@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bludot.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322083953id_/https%3A//www.bludot.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bludot.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906052300id_/http%3A//www.bludot.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,6 +21,8 @@ We may share your information if required to comply with a law, regulation, cour
 
 **Choices for Opt-in and Opt-out**  
 We and/or our third party marketing partners may contact you and market to you, including by mail, Internet connection, text, telephone, fax or email, consistent with this Privacy Policy. However, in each of our email and texting marketing communications, we will allow you to opt out of future mail and texting marketing communications. We will attempt to require third parties with whom we share your information to also allow you to opt out of future email and texting marketing communications. Participation in certain of our programs will require you to accept email communications regarding the program itself. We will also attempt to prohibit our vendors and marketing partners from using your information in a manner inconsistent with this Privacy Policy. You may opt-out of receiving email and texting communications by clicking the "Unsubscribe" link at the bottom of the email or text message received. It may take us up to ten days to complete this process, as permitted by law.
+
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving online display advertisements tailored to your interests by our third party partners, visit the Network Advertising Initiative at [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices). We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](http://dtmc.bludot.com/adinfo/choice/prod/?type=fpc&cid=3064&cname=BluDot&cmagic=494ba9&clogo=3064.png&loc=us&lang=en-us).
 
 **Our Ownership of Information**  
 Our copy of all your information is an asset of ours and belongs to us. In the event of a sale, merger, corporate reorganization or similar transaction involving some or all of our business, we may share with or transfer your information to the buyer or successor entity. We may also retain a copy of that information.
@@ -49,4 +51,4 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
 To request a copy of the information disclosure provided by Blu Dot pursuant to Section 1798.83 of the California Civil Code, please contact us using the Contact Information below.
 
 **Contact Information**  
-If you have questions or comments about our Privacy Policy or [Terms of Use](http://www.bludot.com/terms_of_use "Blu Dot Terms of Use"), please contact us via email at [service@bludot.com](mailto:service@bludot.com) or phone at 612-782-1844.
+If you have questions or comments about our Privacy Policy or [Terms of Use](http://www.bludot.com/terms_of_use "Blu Dot Terms of Use"), please contact us via email at [service@bludot.com](mailto:service@bludot.com) or phone at 844.425.8368.
