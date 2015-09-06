@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firebase.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023841id_/https%3A//www.firebase.com/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebase.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906095815id_/https%3A//www.firebase.com/terms/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Firebase
 
