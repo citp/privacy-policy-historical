@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmeagift.co.uk privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504231405id_/http%3A//www.findmeagift.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmeagift.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906101822id_/http%3A//www.findmeagift.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Find Me A Gift
 
