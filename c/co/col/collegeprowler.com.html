@@ -1,354 +1,338 @@
-<!--The following is the downloaded HTML source of the collegeprowler.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625035942id_/http%3A//niche.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the collegeprowler.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906064705id_/https%3A//niche.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MLJZLR"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"e7f38bcb79","applicationID":"2001887","transactionName":"MVxVZ0NWXkNVUEUKWQgWc1xFeVVEd1xfF0QJVVtWQxh8VVNSXUxmFFBBUlJO","queueTime":0,"applicationTime":18,"ttGuid":"BE85D2B2A55C65DF","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEGVV5UGwEAVFBaDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-        <meta property="fb:admins" content="1215526098">
-        <meta name="viewport" content="width=device-width, initial-scale = 1, user-scalable = no">
-        <meta name="description" content="Read the Niche Privacy Policy.">
-        <meta name="keywords">
-        <meta name="norton-safeweb-site-verification" content="f0pc6yrkfi2qxwodd8ybkl4l2fp72981fdjvuwckns17vhx5mvi3-0zwj1mk1t-0htsamyqi8y6bv9yq-p9a5ey4gw0lb058ww1ws0czi4ipetv8mbe300nehin7hnjq">
-        <title>Privacy Policy - Niche</title>
+<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MLJZLR"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=298822776951871"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"e7f38bcb79","applicationID":"2001887","transactionName":"MVxVZ0NWXkNVUEUKWQgWdlBFXl9eG39UBFcKelhdRUVfXFhWQ0xmFFBBUlJO","queueTime":0,"applicationTime":16,"ttGuid":"1ADC8E0209B3F8E","agent":"js-agent.newrelic.com/nr-686.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEGVV5UGwEAVFBaDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <meta property="fb:app_id" content="298822776951871">
+    <meta name="viewport" content="width=device-width, initial-scale = 1, user-scalable = no">
+    <meta name="description" content="Read the Niche Privacy Policy.">
+    <meta name="keywords">
+    <meta name="norton-safeweb-site-verification" content="f0pc6yrkfi2qxwodd8ybkl4l2fp72981fdjvuwckns17vhx5mvi3-0zwj1mk1t-0htsamyqi8y6bv9yq-p9a5ey4gw0lb058ww1ws0czi4ipetv8mbe300nehin7hnjq">
+    <title>Privacy Policy - Niche</title>
+
+    <link rel="canonical" href="https://niche.com/legal/privacy/">
+
+    <link href="/images/favicons/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
+    <link href="/images/favicons/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+    <link href="/images/favicons/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+    <link href="/images/favicons/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+    <link href="/images/favicons/favicon.png" rel="icon">
+    <meta content="#53A63A" name="msapplication-TileColor">
+    <meta content="/images/favicons/tileicon.png" name="msapplication-TileImage">
+    <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet" type="text/css">
+
+    <link href="//nubyvt.com/_css/styles/base?v=deployments-3533" rel="stylesheet" type="text/css">
+
+    <link href="//nubyvt.com/_css/styles/plugins?v=deployments-3533" rel="stylesheet" type="text/css">
+
+    <link href="//nubyvt.com/_css/styles/niche?v=deployments-3533" rel="stylesheet" type="text/css">
+
+    <link href="//nubyvt.com/_css/styles/nicheHomeSpecific?v=deployments-3533" rel="stylesheet" type="text/css">
+
+    <!--[if IE]>
+        <link href="//nubyvt.com/_css/bundle_IEOnly?v=deployments-3533" rel="stylesheet" type="text/css" />
+     <![endif]-->
+    <script src="//nubyvt.com/bundles/script/pageinitialize?v=deployments-3533"></script>
+
+</head>
+<body>
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=298822776951871";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+
     
-        <link href="/images/favicons/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
-        <link href="/images/favicons/apple-touch-icon-72-precomposed.png" rel="apple-touch-icon-precomposed" sizes="72x72">
-        <link href="/images/favicons/apple-touch-icon-114-precomposed.png" rel="apple-touch-icon-precomposed" sizes="114x114">
-        <link href="/images/favicons/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon-precomposed" sizes="144x144">
-        <link href="/images/favicons/favicon.png" rel="icon">
-        <meta content="#53A63A" name="msapplication-TileColor">
-        <meta content="/images/favicons/tileicon.png" name="msapplication-TileImage">
-    
-        <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" rel="stylesheet" type="text/css">
-        <link href="/_css/foundation/normalize.css" rel="stylesheet">
-<link href="/_css/foundation/foundation.custom.css" rel="stylesheet">
-<link href="/_css/pika/ss-pika.css" rel="stylesheet">
-<link href="/_css/LESS/sherlock.less" rel="stylesheet">
-<link href="/_css/LESS/sprites.less" rel="stylesheet">
-<link href="/_css/LESS/typography.less" rel="stylesheet">
-<link href="/_css/LESS/buttons.less" rel="stylesheet">
-<link href="/_css/LESS/layout.less" rel="stylesheet">
-<link href="/_css/LESS/header.less" rel="stylesheet">
-<link href="/_css/LESS/footer.less" rel="stylesheet">
-<link href="/_css/LESS/interface.less" rel="stylesheet">
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MLJZLR"
+            height="0" width="0" style="display:none;visibility:hidden">
+    </iframe>
+</noscript>
+<script>
+    dataLayer = [{  "User.Registered": false}];
+    dataLayer[0]["CustomScreenDisplay"] = ((window.innerWidth || document.documentElement.clientWidth) < 768) ? "mobile" : "desktop";
+    dataLayer[0]["User.Location.State"] = "ca";
+</script>
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
 
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
 
-        <link href="/_css/plugins/magnific-popup.css" rel="stylesheet">
-<link href="/_css/plugins/tooltipster.css" rel="stylesheet">
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MLJZLR');
+</script>
 
+<!-- END GoogleTagManager -->
 
-        <link href="/_css/LESS/home.less" rel="stylesheet">
-<link href="/_css/LESS/scratch-pad.less" rel="stylesheet">
-<link href="/_css/LESS/homepage.less" rel="stylesheet">
-
-
-        <!--[if IE]>
-            <link href="/_css/all-ie-only.css" rel="stylesheet"/>
-
-         <![endif]-->
-
-        <script src="/Scripts/support/modernizr.custom.js"></script>
-<script src="/Scripts/support/respond.min.js"></script>
-<script src="/Scripts/niche-global.js"></script>
-
-
-    </head>
-    <body>
-        <div id="fb-root"></div>
-        <script>
-            (function (d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) return;
-                js = d.createElement(s); js.id = id;
-                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-                fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));
-        </script>
-
-        <script>
-            dataLayer = [{
-                'CustomScreenDisplay': NicheGlobal.isSmallLayout() ? 'mobile' : 'desktop'
-            }];
-        </script>
-        
-        <!-- Google Tag Manager -->
-        <noscript>
-            <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MLJZLR"
-                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
-        </noscript>
-        <script>
-        (function (w, d, s, l, i) {
-        w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-        new Date().getTime(), event: 'gtm.js'
-        }); var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-MLJZLR');</script>
-        <!-- End Google Tag Manager -->
-        
-
-        <div class="main-dropdown-menu" data-main-dropdown="">
-            <div class="vertical-container">
-                <a href="http://local.niche.com/" target="_blank" class="title">
-                    Local
-                    <span>Explore every neighborhood<br>and city in the U.S.</span>
-                </a>
-            </div>
-            <div class="vertical-container">
-                <a href="http://k12.niche.com/" target="_blank" class="title">
-                    K-12
-                    <span>Explore 500,000+ reviews on more<br>than 120,000 K-12 schools.</span>
-                </a>
-            </div>
-            <div class="vertical-container">
-                <a href="http://colleges.niche.com/" target="_blank" class="title">
-                    Colleges
-                    <span>Explore 900,000+ reviews on<br>more than 8,000 colleges.</span>
-                </a>
-            </div>
-            <div class="vertical-container">
-                <a href="http://ink.niche.com" target="_blank" class="title">
-                    Ink
-                    <span>Articles and resources</span>
-                </a>
-            </div>
+    <div class="main-dropdown-menu" data-main-dropdown="">
+        <div class="vertical-container">
+            <a href="https://local.niche.com/" target="_blank" class="title">
+                Local
+                <span>Explore every neighborhood<br>and city in the U.S.</span>
+            </a>
         </div>
-
-        <div class="mobile-header">
-            <div class="search-container">
-            </div>
-            <div class="menu-btn show-menu-btn" data-main-nav-closebtn="">
-                <span class="ss-icon menu-icon"></span>
-                <span class="ss-icon close-icon">␡</span>
-            </div>
-            <a class="logo" href="/"></a>
+        <div class="vertical-container">
+            <a href="https://k12.niche.com/" target="_blank" class="title">
+                K-12
+                <span>Explore millions of reviews on more<br>than 120,000 K-12 schools.</span>
+            </a>
         </div>
+        <div class="vertical-container">
+            <a href="https://colleges.niche.com/" target="_blank" class="title">
+                Colleges
+                <span>Explore millions of reviews on<br>more than 8,000 colleges.</span>
+            </a>
+        </div>
+        <div class="vertical-container">
+            <a href="https://ink.niche.com" target="_blank" class="title">
+                Ink
+                <span>Articles and resources</span>
+            </a>
+        </div>
+    </div>
 
-        <header>
-            <div class="niche-bar">
-                <div class="bar-wrapper">
-                    <div class="left-side">
-                        <a href="/" class="niche-logo-horizontal"></a>
-                        <a href="http://local.niche.com/" class="beta">Local</a>
-                        <a href="http://k12.niche.com/" class="beta">K-12</a>
-                        <a href="http://colleges.niche.com/">Colleges</a>
-                        <a href="http://ink.niche.com" target="_blank">Ink</a>
-                    </div>
-                </div>
-                <div class="secondary-bar">
-                    <div class="search">
-                    </div>
+    <div class="mobile-header">
+        <div class="search-container">
+        </div>
+        <div class="menu-btn show-menu-btn" data-main-nav-closebtn="">
+            <span class="ss-icon menu-icon"></span>
+            <span class="ss-icon close-icon">␡</span>
+        </div>
+        <a class="logo" href="/"></a>
+    </div>
+
+    <header>
+        <div class="niche-bar">
+            <div class="bar-wrapper">
+                <div class="left-side">
+                    <a href="/" class="niche-logo-horizontal"></a>
+                    <a href="https://local.niche.com/" class="beta">Local</a>
+                    <a href="https://k12.niche.com/">K-12</a>
+                    <a href="https://colleges.niche.com/">Colleges</a>
+                    <a href="https://ink.niche.com" target="_blank">Ink</a>
                 </div>
             </div>
-        </header>
-        
-        
+            <div class="secondary-bar">
+                <div class="search">
+                </div>
+            </div>
+        </div>
+    </header>
 
-        <div class="row master-row">
+    
 
-            
+    <div class="row master-row">
+
+        
 
 <div class="row">
     <div class="column full">
         <h1>Privacy Policy</h1>
-        <p>This Privacy Policy was last updated on September 18, 2013 and applies to the Niche.com, Inc. ("Niche") websites located at niche.com and related sub-domains as well as online services that include, but are not limited to, email newsletters, premium online content, Facebook applications, scholarship listings, mobile applications and various medium or devices now known or hereafter developed (collectively, the "Niche Services"). Continued access to the Niche Services by you will constitute your acceptance of any changes or revisions to the Privacy Policy. If you do not agree with the Privacy Policy, please do not use the Niche Services. This policy does not cover information collected on any third-party site to which the Niche Services link.&nbsp;Your use of the Niche Services is subject to our Terms of Use which can be read <a href="http://niche.com/legal/terms/">here</a>. If you access the Niche Services through Facebook, you may be required to read and accept the Facebook terms of service and privacy policy.</p>
-<h2>How does Niche use information supplied by me?</h2>
-<p><strong>Information collected from users of premium content:</strong> If you choose to subscribe to certain Niche Services you may be asked to supply certain personally identifying information such as name, postal address, email address or telephone number. This information is retained by Niche in order to provide you with the products or services you have requested, including additional information from Niche about Niche, its affiliates, or selected outside companies whose products or services we feel may be of use to you. Any information from selected outside companies will be transmitted by Niche so that such companies will not have access either to your E-mail address or to your other personally identifying information.</p>
-<p><strong>Information collected from Niche scholarship applicants: </strong>When submitting an application for the scholarship contest, applicants may opt-in to receive student related offers from Niche and our trusted business partners. The choice is entirely optional and has no impact on the applicant's submission to the scholarship contest. If a scholarship applicant indicates an interest in receiving offers from Niche and its trusted business partners, Niche reserves the right to use your personal information and may sell or share it with selected outside companies. If you express interest in particular schools or affiliates, Niche may sell or transfer your personal information to those schools or affiliates accordingly.</p>
-<p><strong>Information collected from Niche account registrants:</strong> Information collected in the registration process may include, among other things, name, address, e-mail address, phone number, age, citizenship, details of academic and work history, preferences about the student's future, and other information entered into the user account. All information entered is voluntary and it is solely up to the user whether he or she furnishes such information. If a user does provide such information, he or she is consenting to the use of that information in accordance with the policies and practices described in this Privacy Policy. If you express interest in particular schools or affiliates, Niche may sell or transfer your personal information to those schools or affiliates accordingly. Visitors to the Niche Services will not be able to view the personal contact information of any Niche Services users. Personal contact information includes a user’s full name, email address, mailing address, and phone number. Only the account user is able to edit and update the information provided in his or her account. We may, on occasion, email our users to send notifications related to features on the site. It is our intention to give access to your account only to the authorized Representatives you designate but we cannot guarantee that others will not, without our consent, access this data. You may opt out of any future usage of your Niche account from our database at any time; however, a Representative may have saved a copy of your account before it was deleted. We are not responsible for the retention, use or privacy of accounts in this situation.</p>
-<p><strong>Information collected from users of Niche Apps:</strong>&nbsp;When you use and install a Niche application on Facebook, you allow Niche to access certain information from your Facebook profile to establish your profile within the application. The information you allow the Niche application to access is affected by the privacy settings you establish at Facebook. As allowed by you based upon your Facebook settings, the Niche application will access and store for caching purposes only the following information from your Facebook profile:</p>
-<ul>
-<li>Your name</li>
-<li>Your current city and hometown</li>
-<li>Your work history and education</li>
-<li>Your current profile picture</li>
-<li>Your email address</li>
-<li>Your connections and their work history, education and profile picture</li>
-</ul>
-<p>You can control how much of your Facebook profile information is shared with other Niche application users using the Settings function with the application. Regardless of these settings your Niche application profile information will be automatically shared with your Facebook friends and their friends within the application. We will prompt you before posting any Niche application activity onto Facebook.</p>
-<p>Users who wish to deactivate their profiles may do so at any time using the Settings function.</p>
-<p><strong>Information collected automatically:</strong> When you visit and interact with Niche Services certain information may be collected automatically, including but not limited to, your computer's IP address, your browser type, and web pages visited. Please also see our discussion of the use of cookies and other technologies below.</p>
-<p><strong>Information sharing:</strong> The information that you provide to us and general information collected about your visit to the Niche Services may be shared with our suppliers or service providers who assist us in maintaining and managing the Niche Services. In addition, we contract with certain third parties to help manage and optimize our web sites. These companies may use web beacons and cookies to help us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Such suppliers or service providers may use the information provided only in the course of providing services to Niche and they may not contact you or use the information for other purposes. If you would like more information about this practice, you can e-mail <a href="mailto:support@niche.com" target="_blank">support@niche.com</a>.</p>
-<p>While your individual information is protected as discussed above, Niche reserves the right to use such individual information for analysis and maintenance of the Niche Services. In addition, Niche may disclose personal information if we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the Web site; or (4) protect the personal safety, property, or rights of our users or the public.</p>
-<p>If, at some point after giving Niche your personally identifying information, you do not wish to continue to receive additional information from Niche about Niche, its affiliates, or selected outside companies, in general, you may opt out by E-mailing&nbsp;<a href="mailto:support@niche.com" target="_blank">support@niche.com</a> and put the words "remove my name" in the subject line of your E-mail; in the case of our E-mail newsletters, you may opt out by clicking on the "opt out" link at the end of each E-mail.</p>
-<h2>What are "cookies" and "pixel tags" and how do you use them?</h2>
-<p>Cookies are pieces of information that are placed by a Web site in a storage place on your computer. Cookies do not contain information that is, in itself, personally identifying. Cookies are placed on your computer in a limited way to help deliver advertisements, to calculate unique site visitors, and to track usage throughout our site. Other uses include placement of cookies to make the login process more convenient for users of the Niche Services.</p>
-<p>We participate in cookie based advertising networks. These networks may use cookies to collect anonymous information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We do not permit these companies to collect any personally identifying information (name, address, email address or telephone number) about you. Click these links to learn more about business practices and privacy policies of these companies, including how to decline participation in these programs: <a href="http://www.networkadvertising.org/choices/" target="_blank">http://www.networkadvertising.org/choices/</a>, <a href="http://www.google.com/privacy_ads.html" target="_blank">http://www.google.com/privacy_ads.html</a> and <a href="http://www.tynt.com/opt_out.php" target="_blank">http://www.tynt.com/opt_out.php</a>. We may share anonymous user browsing information on niche.com with our partners, who may in turn communicate with users via advertisements on display ad networks.</p>
-<p>Pixel tags - tiny graphic images – are used to help us analyze your online behavior. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us. We may use pixel tags to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring web site addresses.</p>
+        <p>This Privacy Policy was last updated on&nbsp;February 18, 2015&nbsp;and applies to the Niche.com, Inc. ("Niche" or "we" or "us") websites located at niche.com and related sub-domains as well as online services that include, but are not limited to, email newsletters, online content,&nbsp;scholarship listings, mobile applications and various medium or devices now known or hereafter developed (collectively, the "Niche Services"). Continued access to the Niche Services by you will constitute your acceptance of any changes or revisions to the Privacy Policy, which we may post from time to time. If you do not agree with the Privacy Policy, please do not use the Niche Services. This policy does not cover information collected on any third-party site to which the Niche Services link.&nbsp;Your use of the Niche Services is subject to our Terms of Use which can be read <a href="http://niche.com/legal/terms/">here</a>. If you access the Niche Services through Facebook, you may be required to read and accept the Facebook terms of service and privacy policy.</p>
+<h2>How does Niche collect my information?</h2>
+<p><strong>Information related to your Niche account:</strong> Information collected in the Niche account registration process may include, among other things, name, address, e-mail address, phone number, age, citizenship, details of academic and work history, preferences and goals related to the Niche Services, and other information entered into the user account. If you register for a Niche account using a third party application such as Facebook, you agree that Niche may access certain information from your profile on that application to establish your Niche user profile. If you provide personal information through the registration process, including if Niche accesses such information when you register through a third party application, you consent to the use of that information in accordance with the policies and practices described in this Privacy Policy.&nbsp;</p>
+<p>Visitors to the Niche Services will not be able to view your personal contact information, such as your full name, email address, mailing address, and phone number. No other user is able to edit and update your account information. It is our intention to give access to your account only to the authorized representatives of schools and other entities whose services relate to the Niche Services ("Representative(s)") you designate but we cannot guarantee that others will not, without our consent, access this data. You may opt out of any future usage of your Niche account from our database at any time; however, a Representative may have saved a copy of your account and account-related information before it was deleted. Except as otherwise expressly set forth in this Privacy Policy, we are not responsible for the retention, use or privacy of accounts.</p>
+<p><strong>Information related to your use of the Niche Services: </strong>If you choose to use or request certain Niche Services, you may be asked to provide additional personally identifiable information. For example, if you apply for or win a scholarship contest, you may be asked for information such as high school graduation year in order for Niche to share with schools you have expressed affirmative interest in. In addition, when you visit and interact with the Niche Services, certain information may be collected automatically, including but not limited to, your computer's IP address, your browser type, and web pages visited. Please also see our discussion of the use of cookies and other technologies below.</p>
+<h2>How does Niche use and disclose my information?</h2>
+<p><strong>Disclosure related to selected outside companies and schools:</strong> Niche may sell or transfer your personal information to selected outside companies or schools in accordance with the contact preference you set in your user profile or in response to any affirmative authorization you provide, such as selecting “Yes I’m interested, tell this school.”</p>
+<p><strong>Use and disclosure related to services and service providers:</strong> The information that you provide to us and general information collected about your visit to the Niche Services may be retained, used and disclosed by Niche in order to provide, analyze and maintain Niche Services and to provide additional information about Niche, its affiliates, or selected outside companies whose products or services we feel may be of use to you. We may, on occasion, email you regarding features of the Niche Services.</p>
+<p>The term “selected outside companies” does not include our suppliers or service providers who help us maintain, operate, deliver or improve the Niche Services, and we may disclose your personal information to such parties so long as they agree to keep any personally identifiable information confidential. In addition, we contract with certain third parties to help manage and optimize our websites. These companies may use web beacons and cookies to help us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see, enabling us to enhance your experience on the Niche Services. Such suppliers or service providers may use the information provided only in the course of providing services to Niche. If you would like more information about this practice, you can e-mail&nbsp;<a href="mailto:support@niche.com" target="_blank">support@niche.com</a>.</p>
+<p>In the event we sell our company, or otherwise transfer any of our assets, we may provide your personal information to the purchaser so that you may continue to receive the Niche Services. In addition, Niche may disclose personally identifiable information if we believe that such action is appropriate to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of any Niche Services; or (4) protect the personal safety, property, or rights of our users or the public.</p>
+<p>If, at some point after giving Niche your personally identifiable information, you do not wish to continue to receive additional information from Niche about Niche, its affiliates, or selected outside companies, in general, you may opt out by emailing&nbsp;<a href="mailto:support@niche.com" target="_blank">support@niche.com</a> and put the words "remove my name" in the subject line of your email; in the case of our email newsletters, you may opt out by clicking on the "opt out" link at the end of each email.</p>
+<h2>How do I update and correct my information?</h2>
+<p>You can correct or update your personally identifiable information by re-registering, by updating your Niche application profile or by contacting us at&nbsp;<a href="mailto:support@niche.com" target="_blank">support@niche.com</a>.</p>
+<h2>What are "cookies" and "pixel tags" and&nbsp;how does Niche use them?</h2>
+<p>Cookies are pieces of information that are placed by a website in a storage place on your computer. Cookies do not contain information that is, in itself, personally identifying. Cookies are placed on your computer in a limited way to help deliver advertisements, to calculate unique site visitors, and to track usage throughout our sites. Other uses include placement of cookies to make the login process more convenient for users of the Niche Services. You can turn off cookies through your browser settings, but some of the Niche Services and their features may not be accessible or may not function properly.</p>
+<p>Pixel tags - tiny graphic images – are used to help us analyze your online behavior. Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us. We may use pixel tags to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring website addresses.</p>
+<p>We participate in cookie based advertising networks. These networks may use cookies to collect anonymous information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. We do not permit these companies to collect any personally identifiable information (name, address, email address or telephone number) about you.</p>
+<p>Many of the advertisements you see on our sites are served by Niche or its service providers. But we also allow third parties to collect information about your online activities through cookies and pixel tags. These third parties include (1) business partners, who collect information when you view or interact with one of their advertisements on our sites, and (2) advertising networks that collect information about your interest when you view or interact with one of the advertisements they place on many different sites on the Internet. The information gathered by these third parties is used to make predictions about your characteristics, interest or preferences and to display advertisements on our sites and across the Internet tailored to your apparent interests.&nbsp; Please note that we do not have access to or control over cookies or pixel tags these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Policy.</p>
+<p>We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out:&nbsp; <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>, <a href="https://tools.google.com/dlpage/gaoptout/" target="_blank">https://tools.google.com/dlpage/gaoptout/</a> and <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices/</a>.&nbsp; We may share anonymous user browsing information on niche.com with our partners, who may in turn communicate with users via advertisements on display ad networks.</p>
+<h2>How does Niche protect my information?</h2>
+<p>Niche follows generally accepted industry security standards to safeguard, help prevent unauthorized access of, maintain data security of, and correctly use your personally identifiable information. However, no commercial method of information transfer over the Internet or electronic data storage is known to be 100% secure. As a result, we cannot guarantee the absolute security of your information during its transmission or its storage in our systems.</p>
 <h2>Children's Online Privacy Protection Act</h2>
-<p>The Niche Services and related websites are intended for general audiences and are not directed to children under 13 years of age. No one under the age of 13 should provide any personal information and Niche does not knowingly collect personally identifiable information from children under 13. In the event that we learn that we have collected information from a child under the age of 13, we will terminate the account and eliminate this information from our database. If you believe Niche Services has any information about anyone under 13, please contact us at <a href="mailto:support@niche.com" target="_blank">support@niche.com</a>.</p>
+<p>The Niche Services and related websites are intended for general audiences and are not directed to children under 13 years of age. No one under the age of 13 should provide any personal information, and Niche does not knowingly collect personally identifiable information from children under 13. If a child has provided us with personally identifiable information, a parent or guardian of that child may send an email message to <a href="mailto:support@niche.com" target="_blank">support@niche.com</a>&nbsp;with "Request for Child Information Removal" on the subject line and the name and age of the child in the body of the message. We will then terminate the applicable account and make reasonable efforts to delete the child’s information from our database.</p>
+<h2>California Privacy Rights</h2>
+<p>Under California’s "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2013 will receive information regarding 2012 sharing activities).</p>
+<p>To obtain this information from Niche, please send an email message to&nbsp;<a href="mailto:support@niche.com" target="_blank">support@niche.com</a>&nbsp;with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Not all information sharing is covered by the "Shine the Light" requirements, and only information on covered sharing will be included in our response.</p>
+<h2>Use Outside of the United States</h2>
+<p>The Niche Services are operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Niche Services or by providing us with your information, you consent to this transfer.</p>
     </div>
 </div>
 
 
+
+        <div class="footer">
+
             
-            <div class="footer">
-                
-                
-<div class="row">
-        <div class="large-4 small-12 columns ">
-            <div class="social-cell icon">
-                <a href="http://www.facebook.com/nichesocial" target="_blank" class="social-media-icon facebook inverted solid"></a>
-            </div>
-            <div class="social-cell copy">
-                <span>Like us on Facebook</span><br>
-                <div class="fb-like" data-href="https://www.facebook.com/nichesocial" data-width="50" data-layout="button_count" data-show-faces="false" data-send="false"></div>
-            </div>
-        </div>
-        <div class="large-4 small-12 columns ">
-            <div class="social-cell icon">
-                <a href="http://www.twitter.com/nicheSocial" target="_blank" class="social-media-icon twitter inverted solid"></a>
-            </div>
-            <div class="social-cell copy">
-                <span>Follow us on Twitter</span><br>
-                <a href="https://twitter.com/nichesocial" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false" data-lang="en">Follow @nichesocial</a>
-                <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
-            </div>
-        </div>
-        <div class="large-4 small-12 columns ">
-            <div class="social-cell icon">
-                <a href="https://plus.google.com/+Nichesocial" target="_blank" class="social-media-icon google-plus inverted solid"></a>
-            </div>
-            <div class="social-cell copy">
-                <span>Follow us on Google+</span><br>
-                <!-- Place this tag where you want the widget to render. -->
-                <div class="g-follow" data-annotation="none" data-height="20" data-href="//plus.google.com/+Nichesocial" data-rel="author"></div>
+<div class="row" itemscope="" itemtype="http://schema.org/Organization">
+    <link itemprop="url" href="https://niche.com">
 
-                <!-- Place this tag after the last widget tag. -->
-                <script type="text/javascript">
-                    (function () {
-                        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                        po.src = 'https://apis.google.com/js/platform.js';
-                        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                    })();
-                </script>
+    <div class="large-4 small-12 columns ">
+        <div class="social-cell icon">
+            <a href="https://www.facebook.com/nichesocial" target="_blank" class="social-media-icon facebook inverted solid" itemprop="sameAs"></a>
+        </div>
+        <div class="social-cell copy">
+            <span>Like us on Facebook</span><br>
+            <div class="fb-like" data-href="https://www.facebook.com/nichesocial" data-width="50" data-layout="button_count" data-show-faces="false" data-send="false" itemprop="sameAs"></div>
+        </div>
+    </div>
+    <div class="large-4 small-12 columns ">
+        <div class="social-cell icon">
+            <a href="https://www.twitter.com/nicheSocial" target="_blank" class="social-media-icon twitter inverted solid" itemprop="sameAs"></a>
+        </div>
+        <div class="social-cell copy">
+            <span>Follow us on Twitter</span><br>
+            <a href="https://twitter.com/nichesocial" class="twitter-follow-button" data-show-screen-name="false" data-show-count="false" data-lang="en" itemprop="sameAs">Follow @nichesocial</a>
+        </div>
+    </div>
+    <div class="large-4 small-12 columns ">
+        <div class="social-cell icon">
+            <a href="https://plus.google.com/+Nichesocial" target="_blank" class="social-media-icon googleplus inverted solid" itemprop="sameAs"></a>
+        </div>
+        <div class="social-cell copy">
+            <span>Follow us on Google+</span><br>
+            <!-- Place this tag where you want the widget to render. -->
+            <div class="g-follow" data-annotation="none" data-height="20" data-href="//plus.google.com/+Nichesocial" data-rel="author" itemprop="sameAs"></div>
+        </div>
+    </div>
+</div>
+<div class="row foot-brand">
+    <div class="large-12 columns footer-top-row">
+        <a href="https://niche.com/" class="niche-logo-horizontal size forty" target="_blank"></a>
+        <span class="footer-vertical-links">
+            <a href="https://local.niche.com/">Local</a>
+            <a href="https://k12.niche.com/">K-12</a>
+            <a href="https://colleges.niche.com/">Colleges</a>
+            <a href="https://ink.niche.com">Ink</a>
+        </span>
+    </div>
+    <div class="large-12 columns footer-bottom-row">
+        ©2015 Niche.com Inc.
+
+        <a href="https://niche.com/about/company/" target="_blank">About Us</a>
+        <a href="https://niche.com/about/advertising/" target="_blank">Advertising</a>
+        <a href="https://blog.niche.com" target="_blank">Blog</a>
+        <a href="https://niche.com/contact/" target="_blank">Contact</a>
+        <a href="https://niche.com/about/data/" target="_blank">Data</a>
+        <a href="http://hiring.niche.com/" target="_blank">Jobs</a>
+        <a href="https://niche.com/about/licensing/" target="_blank">Licensing</a>
+        <a href="https://niche.com/about/press/" target="_blank">Press</a>
+        <a href="https://niche.com/legal/privacy/" target="_blank">Privacy Policy</a>
+        <a href="https://niche.com/legal/terms/" target="_blank">Terms of Use</a>
+
+    </div>
+</div>
+
+        </div>
+
+        <div class="row links-galore">
+            <div class="large-3 small-3 columns">
+                <h5>Popular School Districts</h5>
+                <ul>
+                    <li><a href="https://k12.niche.com/d/broward-county-public-schools-fl/">Broward County Public Schools</a></li>
+                    <li><a href="https://k12.niche.com/d/chicago-public-schools-il/">Chicago Public Schools</a></li>
+                    <li><a href="https://k12.niche.com/d/clark-county-school-district-nv/">Clark County School District</a></li>
+                    <li><a href="https://k12.niche.com/d/dallas-independent-school-district-tx/">Dallas Independent School District</a></li>
+                    <li><a href="https://k12.niche.com/d/fairfax-county-public-schools-va/">Fairfax County Public Schools</a></li>
+                    <li><a href="https://k12.niche.com/d/houston-independent-school-district-tx/">Houston Independent School District</a></li>
+                    <li><a href="https://k12.niche.com/d/gwinnett-county-schools-ga/">Gwinnett County Schools</a></li>
+                    <li><a href="https://k12.niche.com/d/los-angeles-unified-school-district-ca/">Los Angeles Unified School District</a></li>
+                    <li><a href="https://k12.niche.com/d/miami-dade-county-public-schools-fl/">Miami-Dade County Public Schools</a></li>
+                    <li><a href="https://k12.niche.com/d/montgomery-county-public-schools-va/">Montgomery County Public Schools</a></li>
+                    <li><a href="https://k12.niche.com/t/new-york-city-ny/">New York City Schools</a></li>
+                    <li><a href="https://k12.niche.com/d/philadelphia-city-school-district-pa/">School District of Philadelphia</a></li>
+                    <li><a href="https://k12.niche.com/d/pittsburgh-school-district-pa/">Pittsburgh Public Schools</a></li>
+                    <li><a href="https://k12.niche.com/d/puerto-rico-department-of-education-pr/">Puerto Rico Department of Education</a></li>
+                    <li><a href="https://k12.niche.com/d/wake-county-schools-nc/">Wake County Schools</a></li>
+                </ul>
+            </div>
+            <div class="large-3 small-3 columns">
+                <h5>Popular Colleges</h5>
+                <ul>
+                    <li><a href="https://colleges.niche.com/boston-college/">Boston College</a></li>
+                    <li><a href="https://colleges.niche.com/columbia-university/">Columbia University</a></li>
+                    <li><a href="https://colleges.niche.com/drexel-university/">Drexel University</a></li>
+                    <li><a href="https://colleges.niche.com/full-sail-university/">Full Sail University</a></li>
+                    <li><a href="https://colleges.niche.com/harvard-university/">Harvard University</a></li>
+                    <li><a href="https://colleges.niche.com/liberty-university/">Liberty University</a></li>
+                    <li><a href="https://colleges.niche.com/new-york-university/">New York University</a></li>
+                    <li><a href="https://colleges.niche.com/northeastern-university/">Northeastern University</a></li>
+                    <li><a href="https://colleges.niche.com/penn-state/">Penn State</a></li>
+                    <li><a href="https://colleges.niche.com/rutgers-university/">Rutgers University</a></li>
+                    <li><a href="https://colleges.niche.com/st-johns-university/">St. John's University</a></li>
+                    <li><a href="https://colleges.niche.com/stanford-university/">Stanford University</a></li>
+                    <li><a href="https://colleges.niche.com/university-of-california----irvine/">UC Irvine</a></li>
+                    <li><a href="https://colleges.niche.com/university-of-california----los-angeles/">UCLA</a></li>
+                    <li><a href="https://colleges.niche.com/virginia-tech/">Virginia Tech</a></li>
+                </ul>
+            </div>
+            <div class="large-3 small-3 columns">
+                <h5>Popular Cities</h5>
+                <ul>
+                    <li><a href="https://local.niche.com/m/atlanta-metro-area/">Atlanta</a></li>
+                    <li><a href="https://local.niche.com/m/boston-metro-area/">Boston</a></li>
+                    <li><a href="https://local.niche.com/m/chicago-metro-area/">Chicago</a></li>
+                    <li><a href="https://local.niche.com/m/dallas-fort-worth-metro-area/">Dallas</a></li>
+                    <li><a href="https://local.niche.com/m/denver-metro-area/">Denver</a></li>
+                    <li><a href="https://local.niche.com/m/houston-metro-area/">Houston</a></li>
+                    <li><a href="https://local.niche.com/m/los-angeles-metro-area/">Los Angeles</a></li>
+                    <li><a href="https://local.niche.com/m/miami-metro-area/">Miami</a></li>
+                    <li><a href="https://local.niche.com/m/new-york-city-metro-area/">New York City</a></li>
+                    <li><a href="https://local.niche.com/m/philadelphia-metro-area/">Philadelphia</a></li>
+                    <li><a href="https://local.niche.com/m/phoenix-metro-area/">Phoenix</a></li>
+                    <li><a href="https://local.niche.com/m/pittsburgh-metro-area/">Pittsburgh</a></li>
+                    <li><a href="https://local.niche.com/m/san-francisco-metro-area/">San Francisco</a></li>
+                    <li><a href="https://local.niche.com/m/seattle-metro-area/">Seattle</a></li>
+                    <li><a href="https://local.niche.com/m/washington-dc-metro-area/">Washington, DC</a></li>
+                </ul>
+            </div>
+            <div class="large-3 small-3 columns">
+                <h5>Popular Neighborhoods</h5>
+                <ul>
+                    <li><a href="https://local.niche.com/n/borough-park-new-york-city-ny/">Borough Park</a></li>
+                    <li><a href="https://local.niche.com/n/chelsea-new-york-city-ny/">Chelsea</a></li>
+                    <li><a href="https://local.niche.com/n/harlem-new-york-city-ny/">Harlem</a></li>
+                    <li><a href="https://local.niche.com/n/lakeview-chicago-il/">Lakeview</a></li>
+                    <li><a href="https://local.niche.com/n/lincoln-park-chicago-il/">Lincoln Park</a></li>
+                    <li><a href="https://local.niche.com/n/los-feliz-los-angeles-ca/">Los Feliz</a></li>
+                    <li><a href="https://local.niche.com/n/mira-mesa-san-diego-ca/">Mira Mesa</a></li>
+                    <li><a href="https://local.niche.com/n/mission-district-san-francisco-ca/">Mission District</a></li>
+                    <li><a href="https://local.niche.com/n/silver-lake-los-angeles-ca/">Silver Lake</a></li>
+                    <li><a href="https://local.niche.com/n/summerlin-las-vegas-nv/">Summerlin</a></li>
+                    <li><a href="https://local.niche.com/n/van-nuys-los-angeles-ca/">Van Nuys</a></li>
+                    <li><a href="https://local.niche.com/n/washington-heights-new-york-city-ny/">Washington Heights</a></li>
+                    <li><a href="https://local.niche.com/n/wicker-park-chicago-il/">Wicker Park</a></li>
+                    <li><a href="https://local.niche.com/n/williamsburg-new-york-city-ny/">Williamsburg</a></li>
+                    <li><a href="https://local.niche.com/n/willow-glen-san-jose-ca/">Willow Glen</a></li>
+                </ul>
             </div>
         </div>
     </div>
-    <div class="row foot-brand">
-        <div class="large-12 columns footer-top-row">
-            <a href="http://niche.com/" class="niche-logo-horizontal size forty" target="_blank"></a>
-            <a href="http://local.niche.com/">Local</a>
-            <a href="http://k12.niche.com/">K-12</a>
-            <a href="http://colleges.niche.com/">Colleges</a>
-            <a href="http://ink.niche.com">Ink</a>
-        </div>
-        <div class="large-12 columns footer-bottom-row">
-            ©2014 Niche.com Inc.
 
-            <a href="http://niche.com/about/company/" target="_blank">About Us</a>
-            <a href="http://niche.com/about/advertising/" target="_blank">Advertising</a>
-            <a href="http://blog.niche.com" target="_blank">Blog</a>
-            <a href="http://niche.com/contact/" target="_blank">Contact</a>
-            <a href="http://niche.com/about/data/" target="_blank">Data</a>
-            <a href="http://hiring.niche.com/" target="_blank">Jobs</a>
-            <a href="http://niche.com/about/licensing/" target="_blank">Licensing</a>
-            <a href="http://niche.com/about/press/" target="_blank">Press</a>
-            <a href="http://niche.com/legal/privacy/" target="_blank">Privacy Policy</a>
-            <a href="http://niche.com/legal/terms/" target="_blank">Terms of Use</a>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
 
-        </div>
-    </div>
-                
-            </div>
+    <script src="//nubyvt.com/bundles/script/libraries?v=deployments-3533"></script>
+    <script src="//nubyvt.com/bundles/script/plugins?v=deployments-3533"></script>
+    <script src="//nubyvt.com/bundles/script/niche?v=deployments-3533"></script>
+    <script src="//nubyvt.com/bundles/script/nicheHomeSpecific?v=deployments-3533"></script>
 
-            <div class="row links-galore">
-                <div class="large-3 small-3 columns">
-                    <h5>Popular School Districts</h5>
-                    <ul>
-                        <li><a href="http://k12.niche.com/d/broward-county-public-schools-fl/">Broward County Public Schools</a></li>
-                        <li><a href="http://k12.niche.com/d/chicago-public-schools-il/">Chicago Public Schools</a></li>
-                        <li><a href="http://k12.niche.com/d/clark-county-school-district-nv/">Clark County School District</a></li>
-                        <li><a href="http://k12.niche.com/d/dallas-independent-school-district-tx/">Dallas Independent School District</a></li>
-                        <li><a href="http://k12.niche.com/d/fairfax-county-public-schools-va/">Fairfax County Public Schools</a></li>
-                        <li><a href="http://k12.niche.com/d/houston-independent-school-district-tx/">Houston Independent School District</a></li>
-                        <li><a href="http://k12.niche.com/d/gwinnett-county-schools-ga/">Gwinnett County Schools</a></li>
-                        <li><a href="http://k12.niche.com/d/los-angeles-unified-school-district-ca/">Los Angeles Unified School District</a></li>
-                        <li><a href="http://k12.niche.com/d/miami-dade-county-public-schools-fl/">Miami-Dade County Public Schools</a></li>
-                        <li><a href="http://k12.niche.com/d/montgomery-county-public-schools-va/">Montgomery County Public Schools</a></li>
-                        <li><a href="http://k12.niche.com/t/new-york-city-ny/">New York City Schools</a></li>
-                        <li><a href="http://k12.niche.com/d/philadelphia-city-school-district-pa/">School District of Philadelphia</a></li>
-                        <li><a href="http://k12.niche.com/d/pittsburgh-school-district-pa/">Pittsburgh Public Schools</a></li>
-                        <li><a href="http://k12.niche.com/d/puerto-rico-department-of-education-pr/">Puerto Rico Department of Education</a></li>
-                        <li><a href="http://k12.niche.com/d/wake-county-schools-nc/">Wake County Schools</a></li>
-                    </ul>
-                </div>
-                <div class="large-3 small-3 columns">
-                    <h5>Popular Colleges</h5>
-                    <ul>
-                        <li><a href="http://colleges.niche.com/boston-college/">Boston College</a></li>
-                        <li><a href="http://colleges.niche.com/columbia-university/">Columbia University</a></li>
-                        <li><a href="http://colleges.niche.com/drexel-university/">Drexel University</a></li>
-                        <li><a href="http://colleges.niche.com/full-sail-university/">Full Sail University</a></li>
-                        <li><a href="http://colleges.niche.com/harvard-university/">Harvard University</a></li>
-                        <li><a href="http://colleges.niche.com/liberty-university/">Liberty University</a></li>
-                        <li><a href="http://colleges.niche.com/new-york-university/">New York University</a></li>
-                        <li><a href="http://colleges.niche.com/northeastern-university/">Northeastern University</a></li>
-                        <li><a href="http://colleges.niche.com/penn-state/">Penn State</a></li>
-                        <li><a href="http://colleges.niche.com/rutgers-university/">Rutgers University</a></li>
-                        <li><a href="http://colleges.niche.com/st-johns-university/">St. John's University</a></li>
-                        <li><a href="http://colleges.niche.com/stanford-university/">Stanford University</a></li>
-                        <li><a href="http://colleges.niche.com/university-of-california----irvine/">UC Irvine</a></li>
-                        <li><a href="http://colleges.niche.com/university-of-california----los-angeles/">UCLA</a></li>
-                        <li><a href="http://colleges.niche.com/virginia-tech/">Virginia Tech</a></li>
-                    </ul>
-                </div>
-                <div class="large-3 small-3 columns">
-                    <h5>Popular Cities</h5>
-                    <ul>
-                        <li><a href="http://local.niche.com/m/atlanta-metro-area/">Atlanta</a></li>
-                        <li><a href="http://local.niche.com/m/boston-metro-area/">Boston</a></li>
-                        <li><a href="http://local.niche.com/m/chicago-metro-area/">Chicago</a></li>
-                        <li><a href="http://local.niche.com/m/dallas-fort-worth-metro-area/">Dallas</a></li>
-                        <li><a href="http://local.niche.com/m/denver-metro-area/">Denver</a></li>
-                        <li><a href="http://local.niche.com/m/houston-metro-area/">Houston</a></li>
-                        <li><a href="http://local.niche.com/m/los-angeles-metro-area/">Los Angeles</a></li>
-                        <li><a href="http://local.niche.com/m/miami-metro-area/">Miami</a></li>
-                        <li><a href="http://local.niche.com/m/new-york-city-metro-area/">New York City</a></li>
-                        <li><a href="http://local.niche.com/m/philadelphia-metro-area/">Philadelphia</a></li>
-                        <li><a href="http://local.niche.com/m/phoenix-metro-area/">Phoenix</a></li>
-                        <li><a href="http://local.niche.com/m/pittsburgh-metro-area/">Pittsburgh</a></li>
-                        <li><a href="http://local.niche.com/m/san-francisco-metro-area/">San Francisco</a></li>
-                        <li><a href="http://local.niche.com/m/seattle-metro-area/">Seattle</a></li>
-                        <li><a href="http://local.niche.com/m/washington-dc-metro-area/">Washington, DC</a></li>
-                    </ul>
-                </div>
-                <div class="large-3 small-3 columns">
-                    <h5>Popular Neighborhoods</h5>
-                    <ul>
-                        <li><a href="http://local.niche.com/n/borough-park-new-york-city-ny/">Borough Park</a></li>
-                        <li><a href="http://local.niche.com/n/chelsea-new-york-city-ny/">Chelsea</a></li>
-                        <li><a href="http://local.niche.com/n/harlem-new-york-city-ny/">Harlem</a></li>
-                        <li><a href="http://local.niche.com/n/lakeview-chicago-il/">Lakeview</a></li>
-                        <li><a href="http://local.niche.com/n/lincoln-park-chicago-il/">Lincoln Park</a></li>
-                        <li><a href="http://local.niche.com/n/los-feliz-los-angeles-ca/">Los Feliz</a></li>
-                        <li><a href="http://local.niche.com/n/mira-mesa-san-diego-ca/">Mira Mesa</a></li>
-                        <li><a href="http://local.niche.com/n/mission-district-san-francisco-ca/">Mission District</a></li>
-                        <li><a href="http://local.niche.com/n/silver-lake-los-angeles-ca/">Silver Lake</a></li>
-                        <li><a href="http://local.niche.com/n/summerlin-las-vegas-nv/">Summerlin</a></li>
-                        <li><a href="http://local.niche.com/n/van-nuys-los-angeles-ca/">Van Nuys</a></li>
-                        <li><a href="http://local.niche.com/n/washington-heights-new-york-city-ny/">Washington Heights</a></li>
-                        <li><a href="http://local.niche.com/n/wicker-park-chicago-il/">Wicker Park</a></li>
-                        <li><a href="http://local.niche.com/n/williamsburg-new-york-city-ny/">Williamsburg</a></li>
-                        <li><a href="http://local.niche.com/n/willow-glen-san-jose-ca/">Willow Glen</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
-        <script src="/Scripts/support/fastclick.js"></script>
-<script src="/Scripts/libraries/jquery.1.11.0.min.js"></script>
-<script src="/Scripts/libraries/jquery.ui.1.10.3.custom.min.js"></script>
-<script src="/Scripts/libraries/underscore.min.js"></script>
-
-        <script src="/Scripts/plugins/jquery.tooltipster.min.js"></script>
-<script src="/Scripts/plugins/magnific.popup.js"></script>
-
-        <script src="/Scripts/sherlock.js"></script>
-<script src="/Scripts/init.js"></script>
-
-
-        
-        
     
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+
+
+</body></html>
