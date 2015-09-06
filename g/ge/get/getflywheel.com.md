@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the getflywheel.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319124926id_/https%3A//getflywheel.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getflywheel.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906071847id_/https%3A//getflywheel.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Flywheel - Managed WordPress hosting – Built for designers
+# Flywheel | Privacy Policy
+
+  * [Home](https://getflywheel.com/)
+  * [Why Flywheel?](https://getflywheel.com/why-flywheel)
+  * [Pricing](https://getflywheel.com/pricing)
+  * [Resources](https://getflywheel.com/design-and-wordpress-resources)
+  * [Partners](https://getflywheel.com/partners)
+  * [Reviews](https://getflywheel.com/flywheel-hosting-reviews)
+  * [Support](https://getflywheel.com/wordpress-support)
+  * [Sign Up](http://app.getflywheel.com/signup)
+
+
 
 Fancy Chap, Inc. (“us”, “we”, or “our”) operates http://www.getflywheel.com (the “Site”).
 
@@ -37,3 +48,11 @@ Fancy Chap, Inc. may update this Privacy Policy from time to time. We will notif
 If you have any questions about this Privacy Policy, please [contact us](mailto:hello@getflywheel.com).
 
 This Privacy Policy was last modified on February 10, 2014.
+
+[ ×
+
+Get our free ebook!
+
+### How to manage 50 + WordPress Sites
+
+](http://highfive.getflywheel.com/managing-50-wordpress-sites?utm_campaign=Managing%2050%20Sites%20Ebook&utm_source=site-sticky-box)
