@@ -1,104 +1,124 @@
-> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317151656id_/https%3A//www.topdeck.travel/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdeck.travel privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906101946id_/https%3A//www.topdeck.travel/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Topdeck Travel
 
-Topdeck Tours Ltd is committed to the privacy of both existing and prospective clients, and our company respects and shares concerns of our clients over the protection of their personal information. It is for this reason Topdeck adheres to the privacy sector provisions of the Privacy Act 1998.
+This Privacy Policy ("Policy") explains in general terms how Top Deck Tours Pty Ltd ACN 107 934 841 and its subsidiaries and related bodies corporate (collectively referred to in this document as "Topdeck”, "we" "our" or "us") protects the privacy of your personal information.  We are firmly committed to protecting the privacy and confidentiality of personal information and maintain various physical, electronic and procedural safeguards to protect personal information in our care. 
 
-**See our[Cookies policy here](https://www.topdeck.travel/privacy#Cookies).  
-**
+By providing personal information to us (or allowing another person to do so on your behalf), you agree that this Policy will apply to how we handle your personal information and you consent to us collecting, using and disclosing your personal information as detailed in this Policy.  If you do not agree with any part of this Policy, you must not provide your personal information to us and this may affect the services we can provide to you.
 
-**Your personal information**
+In this Policy, where we say “disclose”, this includes to transfer, share, send, or otherwise make available or accessible your personal information to another person or entity.
 
-We will only gather personal information that is necessary for the operation of the organisation in order to deliver the best possible product and service to you. The types of personal information that we collect from you will depend on the circumstances of collection, and on the type of service you request from us. These purposes include registering to receive e-mail newsletters, requesting further information about our trips, making a booking or simply asking a question about the Topdeck Tours products.
+Personal information is information which relates to a living individual who can be identified from that information, or from that information and other information in a person’s possession, including any expression of opinion, whether true or not, and whether recorded in material form or not, about an identified or reasonably identified individual, and any indication of intention in respect of an individual. 
 
-When you request us to make your travel arrangements, we may collect details such as your name, address, flight and other travel details, credit/debit card number and expiry date, billing address, telephone numbers, dietary requirements (if any) and medical conditions relevant to your travel arrangements. As we are required by law to obtain your consent to the collection of 'sensitive information' we will assume that you have consented to the collection of all information that is provided to us for use in accordance with this Policy, unless you tell us otherwise. There may be occasions when we collect information about you from a third party, for example from people booking travel on your behalf.
+Where practical, we will collect personal information directly from you. Generally, this collection will occur when you deal with us either in person, by telephone, letter, facsimile, email or when you visit our website (including the ‘My Topdeck’ area of our website).  We may collect personal information about you when you purchase or make enquires about travel arrangements or other products and services, when you enter competitions, when you register for promotions, when you subscribe to receive marketing from us (e.g. e-newsletters) or when you request brochures or other information from us. We may also collect your personal information when you complete surveys or provide us with feedback. 
 
-**Accuracy of information**
+In some circumstances, it may be necessary for us to collect personal information about you from a third party.  This includes where you book a travel arrangement through an agent or where a person makes a travel booking on your behalf which includes travel arrangements to be used by you (e.g. a family or group booking).  Where this occurs, we will assume you have consented to your personal information being collected by us and to us handling it in accordance with this Policy.  You should let us know immediately if you become aware that your personal information has been provided to us by another person without your consent.
 
-When collecting, using and disclosing personal information we will take all reasonable measures to ensure the information is accurate, complete and up-to-date.
+Generally, the type of personal information we collect about you is the information that is needed to facilitate your travel arrangements and bookings and to arrange travel-related services and products on your behalf. For example, we may collect details such as your name, residential address, mailing address, telephone number, email address, credit/debit card details (including card type, card number, security number and expiry date), passport details, frequent flyer details, information about your dietary requirements and health issues (if any), and other details relevant to your travel arrangements or required by the relevant travel service providers (e.g. accommodation or activity providers). When you make contact with us for other purposes, we may also collect personal information about you in relation to those purposes.  For example, we may collect your personal information so we can contact you about a competition you have entered (e.g. if you win) or to respond to an enquiry or feedback form you have sent to us. We also collect information that is required for use in the business activities of Topdeck, including for example, financial details necessary in order to process various transactions, and any other relevant personal information you may elect to provide to us.
 
-We will correct any personal information as soon as it becomes available. If at any time should the individual to whom the information relates establishes that it is not accurate, complete or up-to-date we will endeavour to correct this as soon as possible.
+In some circumstances, we may collect personal information from you which is regarded as sensitive information.  Sensitive information includes types of personal information such as your racial or ethnic origin, religious beliefs or affiliations, criminal record and health information.  We will only collect sensitive information about you with your consent and where reasonably necessary for, or directly related to, one or more of our functions or activities.  Where you provide sensitive information to us, you consent to us using that sensitive information for the purpose for which it was collected. 
 
-**Anonymity**
+Where you contact us in relation to a travel booking or query, the primary purpose for which we collect your personal information is generally to provide you with travel advice and/or to assist you with booking travel and/or travel related products and services. However, the purpose for collection may differ depending on the particular circumstances as disclosed in this Policy.
 
-You have the option of dealing anonymously with any member of Topdeck Tours Ltd. Please note there will be circumstances where anonymity will not be possible to complete your transaction with us. However, please be assured the information you supply will be treated securely and carefully.
+By providing us, or otherwise allowing us to collect, your personal information, you consent to us using and disclosing your personal information for the purposes for which it was collected, and for related or ancillary purposes, such as any one or more of the following purposes:
 
-**Security of information**
+  * identification of fraud or error;    
+  * regulatory reporting and compliance;    
+  * developing, improving and marketing our products and services;    
+  * servicing our relationship with you by, among other things, providing updates on promotions and services we think may interest you;   
+  * involving you in market research, gauging customer satisfaction and seeking feedback regarding our relationship with you;    
+  * to facilitate your participation in loyalty programs;    
+  * to analyse trends in sales and travel destinations;    
+  * for marketing activities including but not limited to mail-outs, emails, e-newsletters, SMS notifications and telephone calls; 
+  * internal accounting and administration; and
+  * 
 
-We will take all reasonable steps to protect your personal information supplied. This includes appropriate measures against unauthorised access, modifications, misusage and disclosure.
 
-We will also take reasonable steps to destroy or permanently de-identify personal information if it is no longer required. This destruction of personal information will be by secure means, for example shredding, pulping or disintegration.
+We will only send e-newsletters or other promotional materials to you if you have opted in to receive them.  You can subscribe to receive e-newsletters and other promotional materials by following the relevant links on our website.
 
-Personally identifiable information is stored on servers that are not publicly accessible. Further, personally identifiable information is only accessed by Topdeck Tours Ltd employees on a 'need to know' basis. Credit Card details are NOT stored on our database when you book, or buy products on our site.
+We are only allowed to store your personal information for as long as necessary having regard to the purpose for which it was collected or a related or ancillary purpose.  We may therefore delete your personal information after a reasonable period of time and, if you have not used our services for some time, you may have to re-enter or re-supply your personal information to us.
 
-**Access and Correction**
+  1. 
 
-All personal information about an individual held by the Topdeck Tours Ltd will be made available to the individual upon request. If upon this disclosure it is established that the information is not accurate, complete and up-to-date Topdeck Tours Ltd will take reasonable steps to correct the information. This disclosure of information will be supplied within a reasonable time frame.
+  * in each of the circumstances set out in the previous section “How do we use personal information?”;
+  * to other members of your group where you are part of a group booking (specifically, through your group’s shared access to the ‘My Topdeck’ area of our website); 
+  * as permitted or required by law;
+  * to various regulatory bodies and law enforcement officials and agencies, including to protect against fraud and for related security purposes;
+  * to third party suppliers of IT based solutions that assist us in providing products and services to you; 
+  * to our related entities and brands (including companies based overseas);
+  * to travel service providers such as tour operators, airlines, hotels, activity providers and other service providers for the purpose for which the information was collected or for a related purpose (for example to facilitate and process your travel arrangements);
+  * to comply with our legal obligations and any applicable customs/immigration requirements relating to your travel;
+  * to comply with a request from a qualified government department if we are satisfied that they have the authority to make such request;
+  * where we suspect that unlawful activity has been or may be engaged in and the personal information is a necessary part of our investigation or reporting of the matter;
+  * to third parties who may involve you in market research for the purpose of servicing our relationship with you and improving the services we provide; and
+  * to third parties for the purpose of analysing trends in sales and travel destinations.
 
-**Identifiers**
 
-We will only use unique identifiers generated at random upon data entry. We will in no circumstance use identifiers generated by the Commonwealth Government, Commonwealth Government agencies or contracted service providers, for example your tax file number or Medicare number as our identifiers.
 
-**International disclosure of information**
+Where we engage travel service providers to perform services for us, those travel service providers may be required to handle your personal information. Where we disclose your personal information to such travel service providers, you agree that we will not be required to ensure their compliance with applicable privacy laws or otherwise be liable or accountable for how they handle your personal information. 
 
-Transfer of personal information overseas will only occur within Topdeck Tours Ltd You can be assured all our organisations in international territories are subject to similar information privacy schemes and will be treated in the same manner you would expect in Australia. We may disclose personal information if required by law in order to comply with legal process.
+Other than the above, we will not disclose your personal information without your consent unless we reasonably believe that disclosure is necessary to lessen or prevent a threat to life, health or safety or for certain action to be undertaken by an enforcement body (e.g. prevention, detection, investigation, prosecution or punishment of criminal offences), disclosure is authorised or required by law or disclosure is otherwise permitted by applicable privacy laws.
 
-**Disclosure to third parties**
+Companies to whom personal information is disclosed which are registered in the United States may be required to provide information under the USA PATRIOT Act H.R. 3162. 
 
-We will most importantly not sell, rent or trade your personal information to any other third party. The only organisations to have access to your personal information are members of Topdeck Tours Ltd, as listed above.
+When you provide, or otherwise allow us to collect, your personal information, you consent to your personal information being disclosed to certain overseas recipients, as set out below.  Where we disclose your personal information to an overseas recipient, you agree that we will not be required to ensure the recipient’s compliance with relevant privacy laws or otherwise be liable or accountable for how the recipient handles your personal information.  If you have any objections to your personal information being disclosed to an overseas recipient, please let us know.
 
-We will contract out services at times that involve disclosing personal information, however, we will to the best of our knowledge ensure the companies we use are reputable and are bound by similar confidentiality standards.
+In providing our services to you, it may be necessary for us to disclose personal information to relevant overseas travel service providers.  For instance, where you request travel to be booked with an overseas travel service provider, we will usually need to disclose your personal information to that provider for the purposes of arranging your booking with them.  These travel service providers will in most cases receive your personal information in the country in which they will provide the services to you or in which their business is based.  
 
-**Anonymous information collected on this site**
+We may also disclose your personal information to our overseas related entities and to travel service providers and other third parties who perform services for us overseas.  Generally, we will only disclose your personal information to these overseas recipients in connection with facilitation of your travel arrangement and/or to enable the performance of administrative and technical services by them on our behalf.
 
-Anonymous clickstream information is collected from every visitor to this site. We use this information to ensure our site remains relevant and appropriate for the majority of users. We do not make any association between this information and a visitor's personal details.
+We deal with many different service providers all over the world, so it is not possible for us to set out in this Policy all of the different countries to which we may send your personal information.  However, if you have any specific questions about where or to whom your personal information will be sent, please refer to the “Feedback / Complaints / Contact” section below. 
 
-**Direct Marketing**
+Topdeck has implemented various physical, electronic and managerial security procedures in order to protect personal information from loss and misuse, and from unauthorized access, modification, disclosure and interference.
 
-We conduct all direct marketing efforts to provide the best service and product to you. We may at times send you information and offers that we feel may be of interest to you. If you no longer wish to receive any direct marketing material please contact [info@topdecktravel.co.uk](mailto:info@topdecktravel.co.uk) at any time.
+Topdeck regularly reviews security and encryption technologies and will strive to protect your personal information as fully as we protect our own confidential information.
 
-We comply with the Spam Act 2003, and do not share, sell or rent information to any third parties. If you receive information from Topdeck Tours Ltd it is because you have asked to hear from us, you have entered a competition and agreed to join our mail list, or a friend / colleague has requested it on your behalf and you have confirmed this to us or we have contacted you through publicly accessible directories or databases.
+Subject to any exceptions set out in applicable privacy laws, we invite you to access any personal information we may hold about you. Where personal information we hold about you is not accurate, complete, up-to-date or relevant, you may ask us to correct that personal information, and we will respond to your request within a reasonable time. We reserve the right to confirm the identity of the person seeking access or correction to personal information before complying with such a request. If we deny access or correction, we will provide you with the reason for such denial.   If you wish to access or seek correction of any personal information we hold about you, please refer to the “Feedback / Complaints / Contact” section below[](mailto:).
 
-**Access to your personal information**
+You must always provide accurate information and you agree to update it whenever necessary.  You also agree that, in the absence of any update, we can assume that the information submitted to us is correct.
 
-Any request for information may be made to Topdeck Tours Ltd Head Office at Level 1, 107 Power Road, Chiswick, W4 5PY, United Kingdom or via telephone on +44 208 9873300, email Topdeck.
+## Opt-out
 
-**Links**
+Should you no longer wish to receive e-newsletters or other promotional material, participate in market research or receive other types of communication from us, please refer to the “Feedback / Complaints / Contact” section below. 
 
-This site may contain links to other websites. Please note that when you click on one of these links, you are entering another site. We encourage you to read the privacy statements of these linked sites as their privacy policy may differ from ours.
+## Tracking Technologies / Cookies
 
-**Complaints about a breach of privacy**
+_Cookies_
 
-All staff members of Topdeck Tours Ltd endeavour to take every reasonable measure to ensure that your personal information is protected. Any complaint of breach of privacy may be made to the Managing Director, Topdeck Tours Ltd at Level 1, 107 Power Road, Chiswick, W4 5PY, United Kingdom. All complaints will be investigated as soon as lodged and all reasonable efforts will be made to resolve the complaint as soon as possible.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes.    We may link the information we store in cookies to any personal information you submit while on our website.  Cookies save data about individual visitors to the website, such as the visitor's name, password, username, screen preferences, the pages of a site viewed by the visitor, and the advertisements viewed or clicked by the visitor.  At Topdeck we use cookies to identify a visitor’s browser, to anonymously track visits or to enhance the experience of the website. 
 
-**Cookies Policy** (Information Topdeck Tours Ltd. collects from you on the site)
+We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time.  When the visitor revisits the website, we may recognize the visitor by the cookie and customise the visitor's experience accordingly.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
 
-a. What is a cookie?
+If you reject cookies, you may still have access to our website, but your ability to use some areas of our website, such as contests or surveys, will be limited. 
 
-A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites. Many websites do this whenever a user visits their website in order to track online traffic flows.
+_Google Analytics_
 
-On Topdeck Tours Ltd. websites, cookies record information about your online preferences and allow us to tailor our websites to your interests.
+When you visit certain sections of the website, Google Analytics, a website analytics service provided by Google, Inc (“Google”), will place cookies on your computer’s browser.  The information generated by the cookies about your use of the website is transmitted to Google.  This information is then used for the purpose of compiling statistical reports to enable us to measure and analyse the number of visits to the site and its pages, the average time spent on the site and the pages viewed.  We will not (and will not allow any third party to) use Google Analytics to track or to collect any personal data of visitors to our website.  We will not associate any data gathered via use of cookies with any personal data from any source as part of our use of Google Analytics.  For further information about Google Analytics please visit [www.google.com/analytics](http://www.google.com/analytics) and for details of Google Analytics’ Privacy Policy, please visit [http://www.google.com/intl/en)ALL/privacypolicy.html](http://www.google.com/intl/en\)ALL/privacypolicy.html).
 
-During the course of any visit to a Topdeck Tours Ltd website, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
+You may choose to opt-out of Google Analytics using the Google Analytics Opt-out Browser Add-on which you may access at [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/). 
 
-b. How does Topdeck Tours Ltd. use cookies?
+_Web Beacons / Gifs_
 
-Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. Topdeck Tours Ltd. uses this type of information to help improve the services it provides to its users. All third parties are strictly required not to use any information for their own business or other purposes.
+We employ a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our website by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personal identifiable information. 
 
-c. Third Party Cookies in embedded content on Topdeck Tours Ltd pages
+_3 rd Party Tracking_
 
-Please note that during your visits to Topdeck Tours Ltd websites you may notice some cookies that are not related to Topdeck Tours Ltd. or Topdeck Tours Ltd's contractors. When you visit a page with content embedded from, for example, YouTube or Flickr, you may be presented with cookies from these websites. Topdeck Tours Ltd. does not control the dissemination of these cookies. You should check the third party websites for more information about these.
+The use of cookies by our partners, affiliates, tracking utility company or service providers is not covered by our Privacy Policy.  We do not have access or control over these cookies.  Our Third Party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our website. We do not tie the information gathered to our customers’ or users’ personal identifiable information.
 
-d. Managing cookies
+_Behavioural Targeting / Re-Targeting_
 
-If you you don't want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+We partner with Third Party ad networks to either display advertising on Our Site or to manage Our advertising on other sites. Our ad network partners use cookies, Web beacons and other technologies to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) and [here](http://www.networkadvertising.org/choices/#completed). Please note this does not opt you out of being served advertising. You will continue to receive generic ads or targeted ads where third parties do not honour opt-out capabilities.
 
-If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers.
+## Linked Sites
 
-Please be aware that restricting the use of Cookies may affect the features available to you accordingly you may not be able to take full advantage of all of the website's features.
+Our website may contain links to third party sites over which we have no control. We are not responsible for the privacy practices or the content of such web sites. We encourage you to read the privacy policies of any linked sites you visit as their privacy policies and practices may differ from ours.
 
-**Changes to Topdeck Tours Ltd's Privacy Policy**
+## Feedback / Complaints / Contact 
 
-This Privacy Policy may be updated from time to time so you may wish to check it each time you submit personal information to Topdeck Tours Ltd. The date of the most recent revisions will appear on this page.
+If you have any enquiries, comments or complaints about this Policy or our handling of your personal information, please [contact us](https://www.topdeck.travel/about-topdeck/contact-us). We will respond to any complaints received as soon as practicable. 
 
-Last updated: 24th May 2012
+## Changes to our Policy
+
+From time to time it may be necessary for us to review and revise this Policy. We reserve the right to change our Policy at any time and for any reason.  If we make a change to the Policy, the revised version will be posted on our website.
+
+Last updated 10 June 2015.
