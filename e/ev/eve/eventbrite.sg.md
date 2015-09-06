@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventbrite.sg privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324215329id_/https%3A//www.eventbrite.sg/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbrite.sg privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906020319id_/https%3A//www.eventbrite.sg/privacypolicy) for the most accurate reproduction.*
 
 # Eventbrite Privacy Policy
 
