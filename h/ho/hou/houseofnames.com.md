@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627195519id_/https%3A//www.houseofnames.com/wiki/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofnames.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906111121id_/https%3A//www.houseofnames.com/wiki/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Knowledge Base, HouseofNames.com
 
