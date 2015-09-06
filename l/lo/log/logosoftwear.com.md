@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the logosoftwear.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623052535id_/http%3A//www.logosoftwear.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logosoftwear.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906230418id_/http%3A//www.logosoftwear.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LogoSportswear.com Privacy Policy
 
-**Effective Date: July 23, 2012**
+**Effective Date: July 1, 2015**
 
-This website is maintained by CafePress Inc., doing business as LogoSportswear.com ("LogoSportswear"). Here at LogoSportswear, we recognize the importance of privacy to our visitors. Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the LogoSportswear Services offered on the Website (as defined in the [Terms of Service](https://web.archive.org/termsandconditionsservice.php) and [Share and Sell™ Service Agreement](https://web.archive.org/storeglobals/shareandsell_tac.php)). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. 
+This website is maintained by Logo Sportswear Inc. ("LogoSportswear"). Here at LogoSportswear, we recognize the importance of privacy to our visitors. Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the LogoSportswear Services offered on the Website (as defined in the [Terms of Service](https://web.archive.org/termsandconditionsservice.php) and [Share and Sell™ Service Agreement](https://web.archive.org/storeglobals/shareandsell_tac.php)). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. 
 
 Please read the following policy to understand how your personal information will be treated by LogoSportswear. If you have any questions or comments regarding this Privacy Policy, please contact us at [privacy@LogoSportswear.com](mailto:privacy@LogoSportswear.com). 
 
@@ -100,7 +100,7 @@ You may be able to access third party websites directly from the Website. This P
 
 **Under Thirteen.** The LogoSportswear Services are intended for users ages 13 and older only. Accordingly, we will not knowingly collect or use any Personal Information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13. 
 
-**Thirteen to Seventeen.** Prospective users between the ages of 13 and 17 can only use the LogoSportswear Services under their parents or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate any of your Personal Information in our database and/or opt-out from receiving communications from us. If you wish to do so, please contact us at [privacy@cafepress.com](mailto:privacy@cafepress.com). 
+**Thirteen to Seventeen.** Prospective users between the ages of 13 and 17 can only use the LogoSportswear Services under their parents or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate any of your Personal Information in our database and/or opt-out from receiving communications from us. If you wish to do so, please contact us at [Legal@LogoSportswear.com](mailto:Legal@LogoSportswear.com). 
 
 [ [Top](https://web.archive.org/privacypolicy.php#top) ] 
 
@@ -108,7 +108,7 @@ You may be able to access third party websites directly from the Website. This P
 
 We provide you the opportunity to opt-out of having your Personal Information used for certain purposes. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
 
-If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [Legal@LogoSportswear.com](mailto:Legal@LogoSportswear.com). We also offer you an opportunity to opt-out of certain communications through the account management screen. If you need assistance you may contact us at [Legal@LogoSportswear.com](mailto:Legal@LogoSportswear.com); [CustomerService@LogoSportswear.com](mailto:CustomerService@LogoSportswear.com); or via mail sent to 500 Cornwall Avenue, Cheshire, CT 06410. 
+If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [Legal@LogoSportswear.com](mailto:Legal@LogoSportswear.com). We also offer you an opportunity to opt-out of certain communications through the account management screen. If you need assistance you may contact us at [Legal@LogoSportswear.com](mailto:Legal@LogoSportswear.com); [CustomerService@LogoSportswear.com](mailto:CustomerService@LogoSportswear.com); or via mail sent to 12 Beaumont Rd, Wallingford, CT 06492. 
 
 If we disclose your Personal Information to a third party in a manner that is not set forth in this Privacy Policy you will be notified so that you can make an informed choice about sharing your Personal Information with that third party. 
 
@@ -122,12 +122,12 @@ You can obtain a copy of and request that we correct errors in your Personal Inf
 
 #### Notice to California Residents.
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by LogoSportswear and its related companies to third parties for the third parties' direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to [privacy@cafepress.com](mailto:privacy@cafepress.com) or write us: 
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by LogoSportswear and its related companies to third parties for the third parties' direct marketing purposes. With respect to these entities, this privacy policy applies only to their activities within the State of California. To make such a request, please send an email to [Legal@LogoSportswear.com](mailto:Legal@LogoSportswear.com) or write us: 
 
-LogoSportswear  
-Attn. Legal - CA Privacy  
-500 Cornwall Avenue  
-Cheshire, CT 06410 
+Logo Sportswear Inc.  
+Attn. Legal - Privacy  
+12 Beaumont Rd  
+Wallingford, CT 06492 
 
 [ [Top](https://web.archive.org/privacypolicy.php#top) ] 
 
