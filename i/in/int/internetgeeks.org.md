@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetgeeks.org privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321094209id_/http%3A//www.internetgeeks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetgeeks.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906061433id_/http%3A//www.internetgeeks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Internet Geeks
 
