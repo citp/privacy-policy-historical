@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the thrillcall.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625140619id_/http%3A//thrillcall.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thrillcall.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906115208id_/https%3A//thrillcall.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <meta content="A9368978E3BBE613CB4F3012BE964FFD" name="msvalidate.01">
 <meta content="59fe8faf75434329" name="y_key">
 <meta content="snq18fwhAwhS0WFhzATOHiNxTYo" name="alexaVerifyID">
-<meta name="viewport">
-<meta content="app-id=496433824" name="apple-itunes-app">
+<meta content="app-id=com.thrillcall.thrillcall" name="google-play-app">
 <meta content="IE=EmulateIE8" http-equiv="X-UA-Compatible">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"4fc34ed234","applicationID":"13937","transactionName":"cA0IR0VeXglUQhgKXF4HSUNFWEQEUkk=","queueTime":0,"applicationTime":128,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js","extra":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8HVUVSCwoDUw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"4fc34ed234","applicationID":"13937","transactionName":"cA0IR0VeXglUQhgKXF4HSUNFWEQEUkk=","queueTime":0,"applicationTime":41,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-686.min.js","extra":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8HVUVSCwoDUw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<meta name="viewport">
 <meta content="authenticity_token" name="csrf-param">
 <meta name="csrf-token">
 <meta content="Thrillcall Privacy Statement" property="og:title">
@@ -19,11 +19,17 @@
 
 <title>Privacy Statement | Thrillcall
 </title>
-<link href="http://static0.production.tc-core.com/favicon.ico?1382053655" rel="icon">
+<link href="https://static2.thrillcall.com/favicon.ico?1441402071" rel="icon">
 <link href="https://plus.google.com/101560902709487351493" rel="publisher">
-<link href="http://static0.production.tc-core.com/stylesheets/allStyle.css?1403221968" media="screen" rel="stylesheet" type="text/css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js" type="text/javascript"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1.0/prototype.js" type="text/javascript"></script>
+<script>
+document.createElement('time');
+</script>
+<meta content="app-id=496433824" name="apple-itunes-app">
+<link href="https://static0.thrillcall.com/stylesheets/allStyle.css?1441402071" media="screen" rel="stylesheet" type="text/css">
+<link href="https://static2.thrillcall.com/stylesheets/jquery.smartbanner.css?1441402071" media="screen" rel="stylesheet" type="text/css">
+<link href="https://static0.thrillcall.com/stylesheets/jquery-ui-1.9.2.custom.min.css?1441402071" media="screen" rel="stylesheet" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/prototype/1.6.1.0/prototype.js" type="text/javascript"></script>
 <script>
   // This is here so that jQuery's $ is unused in favor of Prototype's $
   // See here: http://docs.jquery.com/Using_jQuery_with_Other_Libraries
@@ -38,7 +44,7 @@
   _gaq.push(['_trackPageview']);
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
@@ -54,11 +60,11 @@
 </div>
 <div class="clearfix">
 <ul class="mainNav">
-<li class="logo"><a href="/"><img alt="Thrillcall" src="http://static0.production.tc-core.com/images/blankie.gif?1403221968"></a></li>
-<li><a href="/live-music" class="navLocal"><img alt="Local Shows" src="http://static0.production.tc-core.com/images/blankie.gif?1403221968" title="Local Shows"></a></li>
-<li><a href="/popular" class="navPopular"><img alt="Popular" src="http://static0.production.tc-core.com/images/blankie.gif?1403221968" title="Popular"></a></li>
-<li><a href="/discover" class="navDiscover"><img alt="Discover" src="http://static0.production.tc-core.com/images/blankie.gif?1403221968" title="Discover"></a></li>
-<li><a href="/register" class="navRegister"><img alt="Register" src="http://static0.production.tc-core.com/images/blankie.gif?1403221968" title="Register"></a></li>
+<li class="logo"><a href="/"><img alt="Thrillcall" src="https://static0.thrillcall.com/images/blankie.gif?1441402071"></a></li>
+<li><a href="/live-music" class="navLocal"><img alt="Local Shows" src="https://static0.thrillcall.com/images/blankie.gif?1441402071" title="Local Shows"></a></li>
+<li><a href="/popular" class="navPopular"><img alt="Popular" src="https://static0.thrillcall.com/images/blankie.gif?1441402071" title="Popular"></a></li>
+<li><a href="/discover" class="navDiscover"><img alt="Discover" src="https://static0.thrillcall.com/images/blankie.gif?1441402071" title="Discover"></a></li>
+<li><a href="/register" class="navRegister"><img alt="Register" src="https://static0.thrillcall.com/images/blankie.gif?1441402071" title="Register"></a></li>
 </ul>
 <div class="searchAndLogin">
 <div class="welcomeText" id="welcomeMessageHeader">
@@ -191,14 +197,15 @@ info@thrillcall.com
 </div>
 <div id="footer">
 <span class="logo">
-<img alt="Thrillcall&amp;nbsp;&amp;copy;&amp;nbsp;2008&amp;ndash;2014" height="13" src="http://static1.production.tc-core.com/images/miniLogo.gif?1403221968" width="95">
+<img alt="Thrillcall&amp;nbsp;&amp;copy;&amp;nbsp;2008&amp;ndash;2015" height="13" src="https://static0.thrillcall.com/images/miniLogo.gif?1441402071" width="95">
 <p>
-&nbsp;©&nbsp;2008–2014
+&nbsp;©&nbsp;2008–2015
 </p>
 </span>
 <ul class="footerMainLinks">
 <li><a href="/">Main</a></li>
-<li><a href="http://getapp.thrillcall.com">Thrillcall App</a></li>
+<li><a href="http://r.yoz.io/dt.c.rK">Thrillcall App</a></li>
+<li><a href="http://blog.thrillcall.com">Blog</a></li>
 <li><a href="/terms">Terms</a></li>
 <li><a href="/privacy">Privacy</a></li>
 <li><a href="/jobs">Jobs</a></li>
@@ -207,215 +214,158 @@ info@thrillcall.com
 <li><a href="/venues">Venues</a></li>
 <li><a href="/contact_us">Contact Us</a></li>
 <li><a href="/news">News</a></li>
-<li><a href="http://www.facebook.com/thrillcall" target="blank"><img alt="Facebook-16px" src="http://static2.production.tc-core.com/images/facebook-16px.png?1403221968"></a></li>
-<li class="noBorder"><a href="http://twitter.com/thrillcall" target="blank"><img alt="Twitter-16px" src="http://static1.production.tc-core.com/images/twitter-16px.png?1403221968"></a></li>
+<li><a href="https://www.facebook.com/thrillcall" target="blank"><img alt="Facebook-16px" src="https://static2.thrillcall.com/images/facebook-16px.png?1441402071"></a></li>
+<li><a href="https://twitter.com/thrillcall" target="blank"><img alt="Twitter-16px" src="https://static0.thrillcall.com/images/twitter-16px.png?1441402071"></a></li>
+<li><a href="https://instagram.com/thrillcall" target="blank"><img alt="Instagram-16px" src="https://static0.thrillcall.com/images/instagram-16px.png?1441402071"></a></li>
+<li class="noBorder"><a href="http://the.echonest.com/" target="blank"><img alt="Echonest" height="16" src="https://static1.thrillcall.com/images/echonest.png?1441402071"></a></li>
 </ul>
 <div>Major Cities on Thrillcall:</div>
 <ul class="footer">
 <li>
-<a href="http://thrillcall.com/live-music/chicago">Chicago,&nbsp;IL</a>
+<a href="https://thrillcall.com/live-music/chicago">Chicago,&nbsp;IL</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/san-francisco">San Francisco,&nbsp;CA</a>
+<a href="https://thrillcall.com/live-music/san-francisco">San Francisco,&nbsp;CA</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/austin">Austin,&nbsp;TX</a>
+<a href="https://thrillcall.com/live-music/austin">Austin,&nbsp;TX</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/new-york">New York,&nbsp;NY</a>
+<a href="https://thrillcall.com/live-music/new-york">New York,&nbsp;NY</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/seattle">Seattle,&nbsp;WA</a>
+<a href="https://thrillcall.com/live-music/seattle">Seattle,&nbsp;WA</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/los-angeles">Los Angeles,&nbsp;CA</a>
+<a href="https://thrillcall.com/live-music/los-angeles">Los Angeles,&nbsp;CA</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/houston">Houston,&nbsp;TX</a>
+<a href="https://thrillcall.com/live-music/houston">Houston,&nbsp;TX</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/philadelphia">Philadelphia,&nbsp;PA</a>
+<a href="https://thrillcall.com/live-music/philadelphia">Philadelphia,&nbsp;PA</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/dallas">Dallas,&nbsp;TX</a>
+<a href="https://thrillcall.com/live-music/dallas">Dallas,&nbsp;TX</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/portland">Portland,&nbsp;OR</a>
+<a href="https://thrillcall.com/live-music/denver">Denver,&nbsp;CO</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/denver">Denver,&nbsp;CO</a>
+<a href="https://thrillcall.com/live-music/minneapolis">Minneapolis,&nbsp;MN</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/las-vegas">Las Vegas,&nbsp;NV</a>
+<a href="https://thrillcall.com/live-music/boston">Boston,&nbsp;MA</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/atlanta">Atlanta,&nbsp;GA</a>
+<a href="https://thrillcall.com/live-music/nashville">Nashville,&nbsp;TN</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/san-jose">San Jose,&nbsp;CA</a>
+<a href="https://thrillcall.com/live-music/miami">Miami,&nbsp;FL</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/london">London,&nbsp;GB</a>
+<a href="https://thrillcall.com/live-music/atlanta">Atlanta,&nbsp;GA</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/paris">Paris,&nbsp;FR</a>
+<a href="https://thrillcall.com/live-music/washington-dc">Washington,&nbsp;DC</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/berlin">Berlin,&nbsp;DE</a>
+<a href="https://thrillcall.com/live-music/toronto">Toronto,&nbsp;ON</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/cologne">Cologne,&nbsp;DE</a>
+<a href="https://thrillcall.com/live-music/london">London,&nbsp;GB</a>
 </li>
 <li>
-<a href="http://thrillcall.com/live-music/hamburg">Hamburg,&nbsp;DE</a>
+<a href="https://thrillcall.com/live-music/paris">Paris,&nbsp;FR</a>
 </li>
 <li class="noBorder">
-<a href="http://thrillcall.com/live-music/munich">Munich,&nbsp;DE</a>
+<a href="https://thrillcall.com/live-music/berlin">Berlin,&nbsp;DE</a>
 </li>
 </ul>
 <br>
 <div>Popular Artists on Tour:</div>
 <ul class="footer">
 <li>
-<a href="http://thrillcall.com/artist/Lady-GaGa">Lady GaGa</a>
+<a href="https://thrillcall.com/artist/Widespread-Panic">Widespread Panic</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Pitbull">Pitbull</a>
+<a href="https://thrillcall.com/artist/Pearl-Jam">Pearl Jam</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Miley-Cyrus">Miley Cyrus</a>
+<a href="https://thrillcall.com/artist/Bootie">Bootie SF</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Celtic-Woman">Celtic Woman</a>
+<a href="https://thrillcall.com/artist/Grateful-Dead">Grateful Dead</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Nelly">Nelly</a>
+<a href="https://thrillcall.com/artist/The-Who">The Who</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Lorde">Lorde</a>
+<a href="https://thrillcall.com/artist/Blake-Shelton">Blake Shelton</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/David-Nail">David Nail</a>
+<a href="https://thrillcall.com/artist/San-Fermin">San Fermin</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Beyonce">Beyonce</a>
+<a href="https://thrillcall.com/artist/Shania-Twain">Shania Twain</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Lykke-Li">Lykke Li</a>
+<a href="https://thrillcall.com/artist/Saint-Asonia">Saint Asonia</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Imagine-Dragons">Imagine Dragons</a>
+<a href="https://thrillcall.com/artist/Ariana-Grande">Ariana Grande</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Lil-Boosie">Lil Boosie</a>
+<a href="https://thrillcall.com/artist/Madonna">Madonna</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Karmin">Karmin</a>
+<a href="https://thrillcall.com/artist/The-Spill-Canvas">The Spill Canvas</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Paul-McCartney">Paul McCartney</a>
+<a href="https://thrillcall.com/artist/Jason-Isbell">Jason Isbell</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Pink">Pink</a>
+<a href="https://thrillcall.com/artist/Cole-Swindell">Cole Swindell</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Chase-&amp;-Status">Chase &amp; Status</a>
+<a href="https://thrillcall.com/artist/July-Talk">July Talk</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Robin-Thicke">Robin Thicke</a>
+<a href="https://thrillcall.com/artist/The-Delta-Saints">The Delta Saints</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/Avicii">Avicii</a>
+<a href="https://thrillcall.com/artist/Mother-Mother">Mother Mother</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/One-Direction">One Direction</a>
+<a href="https://thrillcall.com/artist/Lil-Boosie">Lil Boosie</a>
 </li>
 <li>
-<a href="http://thrillcall.com/artist/50-Cent">50 Cent</a>
+<a href="https://thrillcall.com/artist/U2">U2</a>
 </li>
 <li class="noBorder">
-<a href="http://thrillcall.com/artist/Taylor-Swift">Taylor Swift</a>
+<a href="https://thrillcall.com/artist/Luke-Bryan">Luke Bryan</a>
 </li>
 </ul>
 </div>
 <div id="analyticsTarget" style="display:none"></div>
 
 </span>
-<div id="mobile-main" style="display:none;">
-<div class="popup_content">
-<h2></h2>
-<div id="phone_img"></div>
-</div>
-<div class="popup_quote">
-<div class="popup_quote_box">
-<p>"Thrillcall is precisely what I've wanted on my phone. So easy to buy tickets. You could say I'm thrilled..."</p>
-</div>
-<div class="popup_quote_name">
-Jes
-</div>
-</div>
-<div class="popup_description">
-<h2>
-Do you want to easily find concerts in your area? How about Thrillcall exclusive ticket offers?
-</h2>
-<div id="download_btn">
-<div class="download_btn">
-Download the App
-</div>
-</div>
-</div>
-<div id="continue_btn">
-<div class="continue_btn">
-Continue to Thrillcall.com &gt;&gt;
-</div>
-</div>
-</div>
-<script>
-  jQuery(document).ready(function($){
-  
-    if (navigator.userAgent.match(/android/i)) {
-      $(".popup_content h2").css("margin-top", "8%");
-      $(".popup_content h2").html("Thrillcall for Android");
-      $("#phone_img").html("<img class='android_img' src='http://static2.production.tc-core.com/images/android-screen-mobile.png?1403221968'></img>");
-    }
-    else {
-      $(".popup_content h2").html("Thrillcall for iPhone");
-      $("#phone_img").html("<img class='iphone_img' src='http://static0.production.tc-core.com/images/iphone-app.png?1403221968'></img>");
-    }
-  
-    $("#download_btn").click(function() {
-      setCookie('show_mobile_popup', 'false', 30);
-      window.location = "http://r.yoz.io/dt.c.G";
-      jQuery("meta[name=viewport]").attr("content", "");
-      $("#mobile-main").hide();
-      $("#thrillcall-main").show();
-      ga("mobile intercepts", "click - download app", metro_name.toLowerCase(), undefined, true);
-    })
-  
-    $("#continue_btn").click(function() {
-      setCookie('show_mobile_popup', 'false', 7);
-      jQuery("meta[name=viewport]").attr("content", "");
-      $("#mobile-main").hide();
-      $("#thrillcall-main").show();
-      ga("mobile intercepts", "click - continue to thrillcall", metro_name.toLowerCase(), undefined, true);
-    })
-  });
-</script>
 
-
-<script src="http://static1.production.tc-core.com/javascripts/jquery_ujs.js?1403221968" type="text/javascript"></script>
-<script src="http://static1.production.tc-core.com/javascripts/lib/builder.js?1403221968" type="text/javascript"></script>
-<script src="http://static0.production.tc-core.com/javascripts/lib/modalbox.js?1403221968" type="text/javascript"></script>
-<script src="http://static1.production.tc-core.com/javascripts/lib/effects.js?1403221968" type="text/javascript"></script>
-<script src="http://static0.production.tc-core.com/javascripts/lib/soyutils.js?1403221968" type="text/javascript"></script>
-<script src="http://static0.production.tc-core.com/javascripts/widgets.js?1403221968" type="text/javascript"></script>
-<script src="http://static2.production.tc-core.com/javascripts/validators.js?1403221968" type="text/javascript"></script>
-<script src="http://static1.production.tc-core.com/javascripts/secondary.js?1403221968" type="text/javascript"></script>
-<script src="http://static0.production.tc-core.com/javascripts/login.js?1403221968" type="text/javascript"></script>
-<script src="http://static0.production.tc-core.com/javascripts/templates.js?1403221968" type="text/javascript"></script>
-<script src="http://static0.production.tc-core.com/javascripts/lib/placeholder.js?1403221968" type="text/javascript"></script>
-<script src="http://static1.production.tc-core.com/javascripts/lib/latlong.js?1403221968" type="text/javascript"></script>
-<script src="http://static0.production.tc-core.com/javascripts/lib/mailcheck.js?1403221968" type="text/javascript"></script>
+<script src="https://static0.thrillcall.com/javascripts/jquery_ujs.js?1441402071" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js" type="text/javascript"></script>
+<script src="https://static1.thrillcall.com/javascripts/lib/builder.js?1441402071" type="text/javascript"></script>
+<script src="https://static2.thrillcall.com/javascripts/lib/modalbox.js?1441402071" type="text/javascript"></script>
+<script src="https://static0.thrillcall.com/javascripts/lib/effects.js?1441402071" type="text/javascript"></script>
+<script src="https://static0.thrillcall.com/javascripts/lib/soyutils.js?1441402071" type="text/javascript"></script>
+<script src="https://static1.thrillcall.com/javascripts/widgets.js?1441402071" type="text/javascript"></script>
+<script src="https://static1.thrillcall.com/javascripts/validators.js?1441402071" type="text/javascript"></script>
+<script src="https://static1.thrillcall.com/javascripts/secondary.js?1441402071" type="text/javascript"></script>
+<script src="https://static1.thrillcall.com/javascripts/login.js?1441402071" type="text/javascript"></script>
+<script src="https://static0.thrillcall.com/javascripts/templates.js?1441402071" type="text/javascript"></script>
+<script src="https://static1.thrillcall.com/javascripts/lib/placeholder.js?1441402071" type="text/javascript"></script>
+<script src="https://static1.thrillcall.com/javascripts/lib/latlong.js?1441402071" type="text/javascript"></script>
+<script src="https://static0.thrillcall.com/javascripts/lib/mailcheck.js?1441402071" type="text/javascript"></script>
+<script src="https://static0.thrillcall.com/javascripts/jquery.smartbanner.js?1441402071" type="text/javascript"></script>
 <script>
   function redirectToSearchResults() {
   
@@ -436,24 +386,6 @@ Continue to Thrillcall.com &gt;&gt;
   var welcomeWidget = null;
   var metro_name;
   Event.observe(document, 'dom:loaded', function() {
-  
-    // Check for Killswitch
-    if ("true" == "true") {
-      // Check only iPhone, iPod
-      if (mobile_user_agent()) {
-        // Check cookies
-        if (getCookie('show_mobile_popup') != 'false') {
-          // Check cookie for denying geolocation
-          if (getCookie('ask_geolocation') != 'false') {
-            // If browser has geolocation
-            if (navigator.geolocation) {
-              // Ask to access location on device
-              navigator.geolocation.getCurrentPosition (get_long_lat, errors);
-            }
-          }
-        }
-      }
-    }
   
     notificationArea = new TC.NotificationArea({notifications: {}});
     welcomeWidget = new TC.widgets.WelcomeMessage({});
@@ -491,11 +423,41 @@ Continue to Thrillcall.com &gt;&gt;
     });
   
     isNewUser();
+  
+    jQuery.smartbanner({
+      title: 'Thrillcall Live Music', // What the title of the app should be in the banner (defaults to <title>)
+      author: 'Thrillcall', // What the author of the app should be in the banner (defaults to <meta name="author"> or hostname)
+      price: 'FREE', // Price of the app
+      icon: "https://static1.thrillcall.com/images/tc_app_logo60x60.png?1441402071", // The URL of the icon (defaults to <link>)
+      button: 'VIEW', // Text on the install button
+      scale: 1, // Scale based on viewport size (set to 1 to disable)
+      daysHidden: 7, // Duration to hide the banner after being closed (0 = always show banner)
+      daysReminder: 30, // Duration to hide the banner after "VIEW" is clicked (0 = always show banner)
+      force: null // Choose 'ios' or 'android'. Don't do a browser check, just always show this banner
+    });
+  
+    jQuery(".sb-close").click(function(){
+      ga("mobile smartbanner", "click - close", getMobileTypeLocation());
+    });
+  
+    jQuery(".sb-button").click(function(event){
+      ga("mobile smartbanner", "click - view", getMobileTypeLocation());
+  
+      if (UA.match(/iPhone|iPod/i) != null || UA.match(/iPad/) != null) {
+        event.preventDefault();
+        window.location = 'thrillcall://events';
+        setTimeout("window.location = jQuery('.sb-button')[0].href", 500);
+      }
+    });
+  
+    var options = { input_id: "searchTerm"};
+    TC.widgets.CloudSearchAutocomplete(options);
+  
   });
   
   if(true){
     window.fbAsyncInit = function() {
-      FB.init({appId: '210591945642503', status: true, cookie: true, xfbml: true, oath:true});
+      FB.init({version:'v2.0', appId: '210591945642503', status: true, cookie: true, xfbml: true, oauth:true});
   
       FB.getLoginStatus(function(response) {
         if (response.authResponse) {
@@ -512,7 +474,7 @@ Continue to Thrillcall.com &gt;&gt;
   
                 if (resp) {
                   var user = resp.evalJSON().person;
-                  FB.init({appId: '210591945642503', status: true, cookie: true, xfbml: true, oauth: true});
+                  FB.init({version:'v2.0', appId: '210591945642503', status: true, cookie: true, xfbml: true, oauth: true});
                   welcomeWidget.login(user.evalJSON());
                   if ($("indexSignupContainer")) {
                     $("indexSignupContainer").toggle();
@@ -525,19 +487,21 @@ Continue to Thrillcall.com &gt;&gt;
       }); //getLoginStatus
     }; // fbAsyncInit
   }
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0&appId=210591945642503";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
   
   function facebookConnect() {
-    FB.init({appId: '210591945642503', status: true, cookie: true, xfbml: true, oauth:true});
+    FB.init({version:'v2.0', appId: '210591945642503', status: true, cookie: true, xfbml: true, oauth:true});
     FB.login(function(response) {
       if (response.status == 'connected') {
         window.location.href = '/auth/facebook';
       }
-    }, {scope:'email, user_likes'});
+    }, {scope:'email, user_likes, user_actions.music'});
   }
   
   if (window.opener && !window.opener.closed) {
@@ -552,7 +516,7 @@ Continue to Thrillcall.com &gt;&gt;
   }
   
   function googleLogin(){
-    googleLoginWindow = window.open('/auth/google','googleLoginWindow','width=880,height=480,scrollbars=yes,status=yes');
+    googleLoginWindow = window.open('/auth/google_oauth2','googleLoginWindow','width=880,height=520,scrollbars=yes,status=yes');
   }
   function yahooLogin(){
     yahooLoginWindow = window.open('/auth/yahoo','yahooLoginWindow','width=540,height=480,scrollbars=yes,status=yes');
@@ -567,90 +531,12 @@ Continue to Thrillcall.com &gt;&gt;
     }
   }
   
-  function setCookie(c_name, value, exdays) {
-    var exdate=new Date();
-    exdate.setDate(exdate.getDate() + exdays);
-    var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
-    document.cookie=c_name + "=" + c_value;
-  }
-  
-  function getCookie(c_name) {
-    var i,x,y,ARRcookies=document.cookie.split(";");
-    for (i=0;i<ARRcookies.length;i++)
-    {
-      x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-      y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-      x=x.replace(/^\s+|\s+$/g,"");
-      if (x==c_name) {
-        return unescape(y);
-      }
-    }
-  }
-  
-  function mobile_user_agent() {
-  
-    if (navigator.userAgent.match(/iPhone/i) && navigator.userAgent.match(/Crios/i)) {
-      return true;
-    }
-    else if (navigator.userAgent.match(/iPod/i) && navigator.userAgent.match(/Crios/i)) {
-      return true;
-    }
-    else if (navigator.userAgent.match(/iPhone/i) && navigator.userAgent.match(/iPhone OS 5/i)) {
-      return true;
-    }
-    else if (navigator.userAgent.match(/iPod/i) && navigator.userAgent.match(/iPhone OS 5/i)) {
-      return true;
-    }
-    else if (navigator.userAgent.match(/iPhone/i) && navigator.userAgent.match(/iPhone OS/i)) {
-      return false;
-    }
-    else if (navigator.userAgent.match(/iPod/i) && navigator.userAgent.match(/iPhone OS/i)) {
-      return false;
-    }
-    else if (navigator.userAgent.match(/iPad/i)) {
-      return false;
-    }
-    else if (navigator.userAgent.match(/android/i)) {
-      return true;
-    }
-    else {
-      return false;
-    }
-  }
-  
-  function reverse_geocoding(lat, long) {
-    var list_metro = JSON.parse('[{"city":"Chicago","latitude":41.8832,"longitude":-87.6272,"radius":50},{"city":"San Francisco","latitude":37.7794,"longitude":-122.418,"radius":50},{"city":"Austin","latitude":30.2509,"longitude":-97.6849,"radius":40},{"city":"New York","latitude":40.7134,"longitude":-74.0077,"radius":45},{"city":"Seattle","latitude":47.6021,"longitude":-122.328,"radius":60},{"city":"Los Angeles","latitude":33.9706,"longitude":-118.379,"radius":60},{"city":"Houston","latitude":29.7501,"longitude":-95.3685,"radius":90},{"city":"Philadelphia","latitude":39.9548,"longitude":-75.1828,"radius":60},{"city":"Dallas","latitude":32.7809,"longitude":-96.8022,"radius":100},{"city":"Portland","latitude":45.5182,"longitude":-122.674,"radius":70},{"city":"Denver","latitude":39.7434,"longitude":-104.988,"radius":70},{"city":"Las Vegas","latitude":36.1719,"longitude":-115.14,"radius":40},{"city":"San Diego","latitude":32.7238,"longitude":-117.171,"radius":40},{"city":"Atlanta","latitude":33.7483,"longitude":-84.3911,"radius":40},{"city":"St Louis","latitude":38.6261,"longitude":-90.2183,"radius":80},{"city":"Minneapolis","latitude":44.9831,"longitude":-93.2651,"radius":80},{"city":"San Antonio","latitude":29.4246,"longitude":-98.4871,"radius":40},{"city":"Phoenix","latitude":33.4496,"longitude":-112.078,"radius":50},{"city":"Miami","latitude":25.7748,"longitude":-80.1977,"radius":130},{"city":"Buffalo","latitude":42.8878,"longitude":-78.8822,"radius":30},{"city":"Boston","latitude":42.3587,"longitude":-71.0567,"radius":30},{"city":"Pittsburgh","latitude":40.4444,"longitude":-79.9418,"radius":60},{"city":"New Orleans","latitude":29.954,"longitude":-90.0712,"radius":90},{"city":"Cleveland","latitude":41.5177,"longitude":-81.6752,"radius":50},{"city":"Nashville","latitude":36.1676,"longitude":-86.7839,"radius":60},{"city":"Columbus","latitude":39.9687,"longitude":-83.0257,"radius":50},{"city":"Charlotte","latitude":35.2246,"longitude":-80.8443,"radius":90},{"city":"Washington","latitude":38.8904,"longitude":-77.032,"radius":20},{"city":"Baltimore","latitude":39.2955,"longitude":-76.6067,"radius":20},{"city":"Milwaukee","latitude":43.0403,"longitude":-87.9096,"radius":40},{"city":"Cincinnati","latitude":39.1091,"longitude":-84.5017,"radius":50},{"city":"Indianapolis","latitude":39.7728,"longitude":-86.1594,"radius":50},{"city":"Detroit","latitude":42.3299,"longitude":-83.0458,"radius":50},{"city":"Salt Lake City","latitude":40.7561,"longitude":-111.884,"radius":60},{"city":"Louisville","latitude":38.2505,"longitude":-85.763,"radius":50},{"city":"Orlando","latitude":28.4176,"longitude":-81.3339,"radius":60},{"city":"Toronto","latitude":43.6486,"longitude":-79.3853,"radius":30},{"city":"San Jose","latitude":37.3335,"longitude":-121.892,"radius":36},{"city":"London","latitude":51.5202,"longitude":-0.05457,"radius":50},{"city":"Paris","latitude":48.862,"longitude":2.33594,"radius":50},{"city":"Tampa","latitude":27.9495,"longitude":-82.4612,"radius":40},{"city":"Sacramento","latitude":38.5821,"longitude":-121.496,"radius":40},{"city":"Berlin","latitude":52.5203,"longitude":13.4117,"radius":50},{"city":"Cologne","latitude":50.9393,"longitude":6.95262,"radius":50},{"city":"Hamburg","latitude":53.5524,"longitude":9.99941,"radius":50},{"city":"Munich","latitude":48.135,"longitude":11.5747,"radius":50}]');
-    var user_location = new LatLon(Geo.parseDMS(lat), Geo.parseDMS(long));
-    var is_in_radius = false;
-    for (var i=0 ; i < list_metro.length ; i ++) {
-      var metro_location = new LatLon(Geo.parseDMS(list_metro[i].latitude), Geo.parseDMS(list_metro[i].longitude));
-      var distance_miles = user_location.distanceTo(metro_location)*0.62;
-      if (distance_miles < list_metro[i].radius) {
-        is_in_radius = true;
-        metro_name = list_metro[i].city;
-        break;
-      }
-    }
-    if (is_in_radius) {
-      jQuery("#thrillcall-main").hide();
-      ga("mobile intercepts", "view", metro_name.toLowerCase(), undefined, true);
-      // Adjust viewport only for mobile popup
-      jQuery("meta[name=viewport]").attr("content", "width=device-width");
-      jQuery("#mobile-main").slideDown("slow");
-    }
-  }
-  
-  function get_long_lat(position) {
-    ga("mobile intercepts", "click - use location", undefined, undefined, true);
-    reverse_geocoding(position.coords.latitude, position.coords.longitude);
-  }
-  
-  function errors(error) {
-    switch(error.code) {
-      case error.PERMISSION_DENIED:
-      ga("mobile intercepts", "click - deny location", undefined, undefined, true);
-      setCookie('ask_geolocation', 'false', 7);
-      break;
+  function getMobileTypeLocation() {
+    UA = navigator.userAgent;
+    if (UA.match(/iPhone|iPod/i) != null || UA.match(/iPad/) != null) {
+      return window.location.pathname + ' - ios';
+    } else if (UA.match(/Android/i) != null) {
+      return window.location.pathname + ' - android';
     }
   }
   
@@ -672,6 +558,24 @@ Continue to Thrillcall.com &gt;&gt;
       _gaq.push(['_trackEvent', category, action.toLowerCase(), opt_label, opt_value, opt_noninteraction]);
     }
   }
+  
+  // Twitter
+  window.twttr = (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  
+    t._e = [];
+    t.ready = function(f) {
+      t._e.push(f);
+    };
+  
+    return t;
+  }(document, "script", "twitter-wjs"));
 </script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</body></html>
