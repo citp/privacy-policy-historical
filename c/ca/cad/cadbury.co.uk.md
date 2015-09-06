@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadbury.co.uk privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316054701id_/https%3A//www.cadbury.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadbury.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906075734id_/https%3A//www.cadbury.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Your access to and use of this Site and its contents (the “Site”) is subject
 
 ## 2\. Terms of Use
 
-Your use of this Site is also subject to the Terms of Use posted on this Site("[Terms of Use](https://web.archive.org/web/20150316054701id_/https%3A//www.cadbury.co.uk/Terms)").
+Your use of this Site is also subject to the Terms of Use posted on this Site("[Terms of Use](https://web.archive.org/web/20150906075734id_/https%3A//www.cadbury.co.uk/Terms)").
 
 ## 3\. What type of data do we collect?
 
@@ -29,7 +29,7 @@ Our site may contain notices of contests, competitions and games that you can en
 When you ask us to send you updates, recipes or other content by e-mail, you may provide us with certain information like your e-mail address so we can fulfill your request.
 
 **e) "Contact Us" link**   
-If you contact us through the ["Contact Us"](https://web.archive.org/web/20150316054701id_/https%3A//www.cadbury.co.uk/contact)link on this site, we ask you for information such as your first name, e-mail address, and other information, so we can respond to your questions and comments. You may choose to provide additional information as well. 
+If you contact us through the ["Contact Us"](https://web.archive.org/web/20150906075734id_/https%3A//www.cadbury.co.uk/contact)link on this site, we ask you for information such as your first name, e-mail address, and other information, so we can respond to your questions and comments. You may choose to provide additional information as well. 
 
 **f) Shopping**  
 When you purchase products or services from MDLZ, we request your billing information so we can fulfill your request. We use your billing information only to send you the items you ordered.
@@ -104,7 +104,7 @@ MDLZ websites do not use cookies to collect personally identifiable information 
 
 Please be aware that restricting cookies may impact on the functionality of the MDLZ websites. 
 
-For further information, please see our [Cookie Policy](https://web.archive.org/web/20150316054701id_/https%3A//www.cadbury.co.uk/cookies) . 
+For further information, please see our [Cookie Policy](https://web.archive.org/web/20150906075734id_/https%3A//www.cadbury.co.uk/cookies) . 
 
 ##  10\. Updates to this Privacy Policy 
 
