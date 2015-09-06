@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiff.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502004219id_/http%3A//www.chiff.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiff.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906032158id_/http%3A//www.chiff.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Users of the Chiff.com Internet Directory
 
