@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concur.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316185659id_/https%3A//www.concur.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concur.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906150847id_/https%3A//www.concur.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Concur Technologies Privacy Policy - Concur
 
@@ -101,14 +101,14 @@ Concur may change this Policy from time to time without notice to you other than
 
 ENFORCEMENT
 
-If you have any questions about this Policy or to file any complaint regarding this policy, please contact us at the following address:  
-Concur Technologies, Inc.  
-601 – 108th Avenue NE, Suite 1000
+If you have any questions about this policy or to file any complaint regarding this policy, please contact us at the following address:
 
+Concur Technologies, Inc.  
+601 – 108th Avenue NE, Suite 1000  
 Bellevue, WA 98004  
 USA  
 Attention: [privacy-request@concur.com](mailto:privacy-request@concur.com)  
-Telephone: (888) 883-8411
+Telephone: (425) 590-5000, (800) 401-8412 
 
 Concur will investigate and attempt to resolve complaints and disputes regarding the collection, use, and disclosure of personal information by referencing the privacy principles stated in this Policy. For complaints that cannot be resolved, Concur has agreed to participate in the following dispute resolution procedures in the investigation and resolution of complaints to resolve disputes pursuant to the Safe Harbor Principles: (1) For disputes involving all personal information received by Concur from Switzerland, Concur has agreed to cooperate with the Swiss FDPIC; (2) For disputes involving employment-related personal information received by Concur from the EEA, Concur has agreed to cooperate with the independent dispute resolution service provided by the Data Protection Authorities in the EEA and to participate in the dispute resolution procedures of the panel established by the European Data Protection Authorities; and (3) For all other disputes, you can contact TRUSTe on-line at <http://watchdog.truste.com/pvr.php?page=complaint> or at the address below. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, [click here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
 
