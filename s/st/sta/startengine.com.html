@@ -1,551 +1,271 @@
-<!--The following is the downloaded HTML source of the startengine.com privacy policy that was archived on 2013-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130423170228id_/http%3A//www.startengine.com/%3Fpage_id%3D864) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startengine.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906223427id_/https%3A//www.startengine.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+<!DOCTYPE html><html><head>
+<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"d26f0ec07b","applicationID":"8276544","transactionName":"dVtZQ0QJXFRdERtGBFpXWFpTSUBKURVVUhg=","queueTime":0,"applicationTime":14,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGVF9WDBAIVlZUAgUD"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+  <title>StartEngine Crowdfunding</title>
+  <link href="/assets/application-6334078dec8e41a9bf5b0c3f971eadb5.css" media="all" rel="stylesheet">
+  <script src="/assets/application-0f306f7a4aac7b02c9693450ad56cdb9.js"></script>
+  <meta content="authenticity_token" name="csrf-param">
+<meta content="4BQQN44HsuVlbEKe7wxNMxQ78aRYIIJZSotWgpXnFJg=" name="csrf-token">
 
-		
-	<!-- Meta Info -->
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="description" content="Startups become successful in 90 days">
-	
-	<!-- Favicon -->
-	<link rel="shortcut icon" href="http://www.startengine.com/wp-content/uploads/2011/12/fav.png">
-	
-	<title>Privacy Policy | Los Angeles Startup Accelerator – Start Engine</title>
-	
-	<link rel="profile" href="http://gmpg.org/xfn/11">
+  <link href="/assets/favicon-19d5f857c227a2885a81c1a703f3a71b.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 
-	<!-- Stylesheets -->
-	<link rel="stylesheet" type="text/css" href="http://www.startengine.com/wp-content/themes/amplifier/css/reset.css">
-	<link rel="stylesheet" type="text/css" href="http://www.startengine.com/wp-content/themes/amplifier/css/typography.css">
-	<link rel="stylesheet" type="text/css" href="http://www.startengine.com/wp-content/themes/amplifier/css/960.css">
-	<link rel="stylesheet" type="text/css" href="http://www.startengine.com/wp-content/themes/amplifier/css/jquery.fancybox-1.3.4.css" media="screen"> 
-	<link rel="stylesheet" type="text/css" href="http://www.startengine.com/wp-content/themes/amplifier/style.css">
-	<link rel="stylesheet" media="handheld" href="http://www.startengine.com/wp-content/themes/amplifier/css/handheld.css">
+  <script src="/js/animate.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="/css/animate.css" id="grove-styles">
 
-	<!--[if IE]>
-	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
-	
-	<!--[if lte IE 8]>
-	<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
-	<link rel="stylesheet" type="text/css" href="http://www.startengine.com/wp-content/themes/amplifier/css/ie8.css">
-	<![endif]-->
-	
-	<!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="http://www.startengine.com/wp-content/themes/amplifier/css/ie7.css">
-	<![endif]-->
-	
-	<!-- RSS & Pingbacks -->
-	<link rel="pingback" href="http://www.startengine.com/xmlrpc.php">
-	
-<!-- All of our custom styles  -->
-<style type="text/css">
+  <link href="/simple-line-icons/simple-line-icons.css" rel="stylesheet">
 
-#call-to-action h2, #cta-top h2.inner-title {
-font-size:32px;font-family:'arial';font-style:normal;color:#333333; 
-}
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
 
-p {
-font-size:14px;font-family:'arial';font-style:normal;color:#000000; 
-}
+  <!-- Font Awesome -->
+  <!--<link href="/css/font-awesome.min.css" rel="stylesheet">-->
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-#post-content-wrap h3.post-title {
-font-size:26px;font-family:'arial';font-style:normal;color:#000000; 
-}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-.sf-menu a {
-font-size:12px;font-family:'arial';font-style:normal;color:#e6e6e6; 
-}
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-#home-portfolio .details h4 {background:#e23333;}
+    ga('create', 'UA-31467066-1', 'auto');
+    ga('send', 'pageview');
+  </script>
 
-#nav-info-box{background-color:#ffffff;}
-.inner-cta-wrap .cta-strong-title, .home-section-hr, .home-section-title {background:#171717;}
-
-
-</style>
-
-<!-- Analytics -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-</script>
-	<link rel="alternate" type="application/rss+xml" title="Los Angeles Startup Accelerator - Start Engine » Feed" href="http://www.startengine.com/?feed=rss2">
-<link rel="alternate" type="application/rss+xml" title="Los Angeles Startup Accelerator - Start Engine » Comments Feed" href="http://www.startengine.com/?feed=comments-rss2">
-<link rel="stylesheet" id="tuw-css" href="http://www.startengine.com/wp-content/themes/amplifier/includes/widgets/twitter/style.css?ver=3.3.1" type="text/css" media="screen">
-<link rel="stylesheet" id="sp-events-calendar-style-css" href="http://www.startengine.com/wp-content/plugins/the-events-calendar/resources/events.css?ver=3.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.startengine.com/wp-content/plugins/contact-form-7/styles.css?ver=3.1" type="text/css" media="all">
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/themes/amplifier/includes/widgets/twitter/jquery.tuw.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/themes/amplifier/js/jquery-ui-1.8.5.custom.min.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/themes/amplifier/js/jquery.color.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/themes/amplifier/js/jquery.fancybox-1.3.4.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/themes/amplifier/js/superfish.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/themes/amplifier/js/link_nudge.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/themes/amplifier/js/jquery.easing.1.3.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/themes/amplifier/js/jquery.ui.totop.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/themes/amplifier/js/jquery.tipsy.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/plugins/the-events-calendar/resources/jquery.pjax.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/plugins/the-events-calendar/resources/events.js?ver=3.3.1"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.startengine.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.startengine.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="Investors" href="http://www.startengine.com/?page_id=851">
-<link rel="next" title="Events" href="http://www.startengine.com/?page_id=1096">
-<meta name="generator" content="WordPress 3.3.1">
-<link rel="canonical" href="http://www.startengine.com/?page_id=864">
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-31758923-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
+  <!-- Start of startengine Zendesk Widget script -->
+  <iframe src="javascript:false" title="" style="display: none;"></iframe><script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("//assets.zendesk.com/embeddable_framework/main.js","startengine.zendesk.com");/*]]>*/</script>
+  <!-- End of startengine Zendesk Widget script -->
+  
 </head>
+<body class="se_controller_welcome">
+  
 
-<body class="page page-id-864 page-template-default unknown-os unknown-browser">
 
-	<!-- Begin Social Media Bar -->
-		
-	<div id="top-bg"></div>
+<nav class="navbar navbar-default navbar-static-top" role="navigation" style="">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://www.startengine.com/"><img alt="Startengine logo" class="nav_logo" src="/assets/startengine_logo-4c78c275ce6aa488b617ba23cdda431c.png"></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="/explore">Discover</a></li>
+        <li>
+        </li>
+        <li>
+        	<div class="navbar_session_wrap">
+        	<form accept-charset="UTF-8" action="/search" class="navbar-form navbar-left" data-remote="true" id="search" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
 
-		<header class="container_12">
-		
-			<!-- Logo -->
-			<a href="http://www.startengine.com/">
-				<div id="logo" class="grid_4 alpha"><!-- Logo Grid Size -->
-				
-										<img src="http://www.startengine.com/wp-content/uploads/2011/12/websitesepoweredreal.png" alt="Los Angeles Startup Accelerator – Start Engine">
-										
-				</div><!-- end #logo -->
-			</a>
+              <div class="form-group">
+              	  <i class="icon-magnifier"></i>
+                  <input class="search_field form-control" id="query" name="query" placeholder="Search" type="text">
+              </div>
+
+</form>            </div> <!-- navbar_session_wrap -->
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+              <li class="border-right"><a id="signup_btn" href="/signup">Sign Up</a></li>
+                <li class="border-right"><a href="/login">Login</a></li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</nav>
+
+
+
+<div class="search_results_wrap" style="display:none;">
+  <div class="container">
+    <div class="row">
+    </div>
+  </div> <!-- container -->
+</div> <!-- search_results_wrap -->
+
+<div class="nav_cushion"></div>
+
+
+
+<script type="text/javascript">
+
+  // search submit on keyup / typing
+  $(document).ready(function () {
+
+    setTimeout(function() {
+      $('#welcome-alert').alert('close');
+    }, 2250);
+
+    $(document).on('keyup', '.search_field', function(e){
+      $('#search').submit();
+    });
+
+    $(document).on('focusout', '.search_field', function(e){
+      var searchInput = $(this).val();
+      if (searchInput.length == 0) {
+        $('.nav_cushion').hide();
+        var row = $(".search_results_wrap").show().find(".row").html('');
+      }
+    });
+
+  });
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container about_container">
+
+	<div class="row">
+
+		<div class="col-md-12">
+			<h1>Privacy</h1>
+		</div>
+
+	</div> <!-- row -->
+
+</div> <!-- container -->
+
+
+<div class="container about_container">
+
+	<div class="row">
+
+		<div class="col-md-12">
 			
-			<!-- Main Navigation -->
-			<nav class="grid_8"><!-- Navigation Grid Size -->
-			
-			<form method="get" id="searchform" action="http://www.startengine.com/">
-	<fieldset>
-		<input type="text" name="s" id="s" value="type your search and hit enter" onfocus="if(this.value=='type your search and hit enter')this.value='';" onblur="if(this.value=='')this.value='type your search and hit enter';">
-	</fieldset>
-</form>			
-                                        
-                <ul id="main-nav" class="sf-menu"><li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="http://www.startengine.com/?page_id=16">Apply</a></li>
-<li id="menu-item-2994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2994"><a href="http://www.startengine.com/?page_id=2944">Coworking</a></li>
-<li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9"><a href="http://www.startengine.com/?page_id=6">Program</a>
-<ul class="sub-menu">
-	<li id="menu-item-773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><a href="http://www.startengine.com/?page_id=769">Process</a></li>
-	<li id="menu-item-796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-796"><a href="http://www.startengine.com/?page_id=780">Interview</a></li>
-	<li id="menu-item-2030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2030"><a href="http://www.startengine.com/?page_id=2027">Startups</a>
-	<ul class="sub-menu">
-		<li id="menu-item-2040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2040"><a href="http://www.startengine.com/?page_id=2027">View All</a></li>
-		<li id="menu-item-2035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2035"><a href="http://www.startengine.com/?page_id=2031">2012 – Q1</a></li>
-		<li id="menu-item-2039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2039"><a href="http://www.startengine.com/?page_id=2036">2012 – Q2</a></li>
-		<li id="menu-item-2205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2205"><a href="http://www.startengine.com/?page_id=2202">2012 – Q3</a></li>
-		<li id="menu-item-2757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2757"><a href="http://www.startengine.com/?page_id=1900">2012 – Q4</a></li>
-	</ul>
-</li>
-	<li id="menu-item-3038" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3038"><a href="http://www.startengine.com/?page_id=3032">Podcast – “Accelerated Success”</a></li>
-</ul>
-</li>
-<li id="menu-item-3028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3028"><a href="http://www.startengine.com/?page_id=3026">Network</a>
-<ul class="sub-menu">
-	<li id="menu-item-1468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1468"><a href="http://www.startengine.com/?page_id=11">Mentors</a>
-	<ul class="sub-menu">
-		<li id="menu-item-1950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1950"><a href="http://www.startengine.com/?page_id=1944">Become A Mentor</a></li>
-	</ul>
-</li>
-	<li id="menu-item-1614" class="menu-item menu-item-type-taxonomy menu-item-object-roles menu-item-1614"><a href="http://www.startengine.com/?roles=advisor">Advisor</a></li>
-	<li id="menu-item-3010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3010"><a title="Meet the Entrepreneurs" href="http://www.startengine.com/?page_id=2995">Founders</a></li>
-	<li id="menu-item-1105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1105"><a href="http://www.startengine.com/?page_id=1096">Events</a>
-	<ul class="sub-menu">
-		<li id="menu-item-2927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2927"><a href="http://www.startengine.com/?page_id=2902">Where is Howard?</a></li>
-		<li id="menu-item-2926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2926"><a href="http://www.startengine.com/?page_id=2915">Where is John, the Program Coordinator?</a></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li id="menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-203"><a href="http://www.startengine.com/?page_id=181">About</a>
-<ul class="sub-menu">
-	<li id="menu-item-87" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87"><a href="http://www.quora.com/Start-Engine?q=start+engine">FAQ</a></li>
-	<li id="menu-item-871" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-864 current_page_item menu-item-871"><a href="http://www.startengine.com/?page_id=864">Privacy Policy</a></li>
-	<li id="menu-item-1390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1390"><a href="http://www.startengine.com/?page_id=1383">Internship</a></li>
-</ul>
-</li>
-<li id="menu-item-3025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3025"><a href="http://www.startengine.com/?page_id=3023">Connect</a>
-<ul class="sub-menu">
-	<li id="menu-item-638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-638"><a href="http://www.startengine.com/?page_id=177">Contact Us</a></li>
-	<li id="menu-item-2207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2207"><a href="http://www.startengine.com/?s=">News</a></li>
-	<li id="menu-item-2321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2321"><a href="http://www.startengine.com/?page_id=2312">Social Hub</a></li>
-</ul>
-</li>
-</ul>				
-                				
-			</nav> <!-- end #top-nav  -->
-			
-	<!-- begin quotes -->
-        
-	<div id="home-quotes">
+			<h3 style="text-align: center;"><span id="docs-internal-guid-31054b11-0a1b-b514-5534-eb8506a8962a"><h1 style="text-align: center; font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">PRIVACY POLICY</span></h1><div style="text-align: center; line-height: 1;"><span style="font-weight: normal;"><br></span></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">StartEngine Crowdfunding, Inc., (“StartEngine”, “us”, or “we”) provides an intermediary technology platform located at www.StartEngine.com (“Platform” or “Site”) for prospective investors to independently search and invest in securities offerings on the Site. As explained below, we collect information from users (“you”, “your”, or “User”) in various ways when you interact with our Site. &nbsp;By using our Site, you consent to our collection and use of information as explained in this Privacy Notice and agree to be bound by our Terms of Use [</span><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">add hyperlink</span><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">]. &nbsp;Please note that if you choose to invest in any prospect, project, or offering advertised on our Site, you may be required to agree to a separate agreement, including, but not limited to, new or additional privacy notices or terms of use.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Collection of Information &nbsp;</span><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">&nbsp;</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">StartEngine collects non-personally identifiable information from you regarding your usage of our Site (“Non-Personally Identifiable Information”). Non-Personally Identifiable Information may include, without limitation, Site pages viewed, websites visited before visiting the Site, frequency of visits, clickstream data, browser type, operating system, organization name, internet connection speed, presentations and videos viewed, time spent viewing pages of our Site or using certain features of our Site, demographic data such as server locations, clickstream data, location services, server location, cookies existing on your computer, search criteria used and results, date and time of access or visits to our Site, frequency of visits to our Site, connection speed, and other information which does not specifically identify you. &nbsp;We collect this information using various technologies (some of which are described below), including, but not limited to, cookies, web beacons, web session variables, server log files, clear gifs, browser plug-ins or add-ons, or Javascript. &nbsp;“Cookies” are pieces of information that may be placed on your computer by a Site for the purpose of facilitating and enhancing your communication and interaction with that Site. &nbsp;A “web beacon” is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a website or in an email which allows a website to record the simple actions of the User opening the page that contains the beacon. &nbsp;“Server logs” can be either a single log file or several log files automatically created and maintained by a server of activity performed by the server, which can include information about any transaction you conduct with the server. &nbsp;</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">StartEngine also collects personal information from you (“Personally Identifiable Information”) when you sign up for an account, send us an email through the Site, sign up for or purchase a service through the Site, or make an investment through the Site. &nbsp;Personally Identifiable Information refers to non-public information that personally relates to or identifies you (such as your name, password, age and date of birth, gender, email address, postal mailing address, home/mobile telephone number and/or taxpayer identification number, Internet protocol (“IP”) address, investment objectives, investment experience, assets and income, and other similar information, or other information you provide or upload to the Site such as photographs, answers to questionnaires or surveys, or responses filled in on blank forms by you made available on the Site). We request that you provide us with personal information, including, but not limited to, your personal or company social media profile, demographic information, financial information about issues (i.e. valuations, share prices, fundraising goals), financial information about individuals (i.e. net worth) and other information requested from time to time. We may also collect and store information, which could include Non-Personally Identifiable Information or Personally Identifiable Information, locally on your computer or device using mechanisms such as browser web storage or application data caches. &nbsp;However, not all Non-Personally Identifiable Information and Personally Identifiable Information is stored.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">We may use analytics programs and service providers, such as Google Analytics, which can use first party cookies to report on your interactions with the Site. &nbsp;Google Analytics collects information including, but not limited to, the time of each of your visits to the Site, whether you have visited the Site before, what website referred you to the Site, and what pages you viewed on the Site.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">This Privacy Policy does not cover the collection of information by cookies or other methods by such Third Party Services or other third parties, such as our business partners. &nbsp;We do not control how these Third Party Services or third parties collect information or by what means such Third Party Services or third parties may use their own cookies to collect information about you.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Use of Information</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">StartEngine will use information you provide consistent with this Privacy Notice. &nbsp;StartEngine will use information you provide to us, including Non-Personally Identifiable Information or Personally Identifiable Information, to better serve you and enhance your experience with the Site, among other things. &nbsp;This may include having to modify or copy such Non-Personally Identifiable Information or Personally Identifiable Information, or other information such as images or textual content you provide, in order to provide you with a seamless and enjoyable experience.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Toward these ends, you consent to our use and disclosure of any information submitted to us via the Site, or information collected when you access the Site in any manner, and you acknowledge that you have no expectation of privacy, confidentiality or privilege in such information.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">StartEngine may use Non-Personally Identifiable Information and Personally Identifiable Information: (1) to market our products and services to you; (2) to provide services and products requested by you; (3) to serve advertisements on our Site; (4) to enable our vendors and contractors to provide and assist us in the marketing, operation, troubleshooting and analysis of our Site and other services; (5) to analyze data to send more targeted messages to you or other Users of our Site; (6) to conduct research and analyze data to improve our products, services, and Site; (7) to deliver email messages like special offers, updates, newsletters, customer service, and service announcements; (8) to verify User information; (9) to comply with and meet any regulatory requirements for the offer or sale of securities required by law, rules or regulations to our affiliates or members; (10) to protect our Site or its Users; (11) to engage in any other lawful activities we believe are consistent with the foregoing; and (12) when required by law or to protect against legal liability. &nbsp;We may provide any of these services through third parties, which may necessitate sharing Non-Personally Identifiable Information or Personally Identifiable Information with them.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">StartEngine may make your information, including Non-Personally Identifiable Information or Personally Identifiable Information, available on its Site and visible to other Users of or visitors to the Site. &nbsp;For instance, subject to certain preferences and permissions as to visibility you will be allowed to make, information you provide about yourself in response to questionnaires on our Site may be made available to others such as information concerning your status as an accredited investor. &nbsp;As such, other Users of our Site may be able to personally identify you based on your information made available on our Site. &nbsp;As a further example, if you utilize Third Party Services to log into our Site, other Users to whom you may be connected to through such Third Party Service may be able to view or follow information about you, including Non-Personally Identifiable Information or Personally Identifiable Information, on our Site. &nbsp;&nbsp;&nbsp;&nbsp;</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Securities are offered through FundAmerica Securities, LLC (“Fund America”), a Delaware company, a broker-dealer registered with the SEC and a Member of Financial Industry Regulatory Authority. &nbsp;Fund America may collect Non-Personally Identifiable Information and Personally Identifiable Information, including your name, citizenship status, company name, email address, social security or Tax ID number, and bank account information. </span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">StartEngine may employ or contract Fund America or other third parties, companies, or individuals to perform certain functions or services on its behalf. &nbsp;Examples of these services from such third parties, companies, or individuals, may include ID verification, electronic document signing, payment storing and processing, sending postal mail and e-mail, escrow services, disbursement of funds, analyzing data, providing marketing assistance, and providing customer service. &nbsp;As such, these third parties, companies, or individuals may have access to your information, including Non-Personally Identifiable Information or Personally Identifiable Information, needed to perform their functions or services, and may not use it for other purposes.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">StartEngine may also use and disclose Personally Identifiable Information and Non-Personally Identifiable Information to help us to carry out certain internal functions such as information management, account processing, client services, or other data collection relevant to our business; to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of our Site or network; to protect and defend our rights or property or the rights or property of others; as required by courts or administrative agencies; and in connection with a financing, sale, merger, or reorganization of StartEngine’s business or assets. Any successor in interest to our business would acquire the information we maintain, including Personally Identifiable Information, and may alter the terms of this Privacy Notice.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">StartEngine does not and will not sell any of your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to any third party for purposes of advertising, soliciting, or telemarketing. &nbsp;We may, however, have to disclose your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to other companies or entities in the event that StartEngine may be sold or is sold to another company or entity. &nbsp;In that case, your information, including Non-Personally Identifiable Information or Personally Identifiable Information, may be sold or transferred to such acquiring company or entity. &nbsp;</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Third Party Sites and Services</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">The Site contains links to other websites and services not maintained by StartEngine. &nbsp;In addition, other websites and services may also reference or link to the Site. &nbsp;We encourage you to be aware when you enter or leave our Site, or surf the Internet, and to read the privacy statements of each website and service that you visit. &nbsp;We do not endorse, screen, or approve, and are not responsible for the privacy practices or the content of, other websites or services.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Messaging</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">The Site permits Users to communicate with companies and other Users posting information on the Site. &nbsp;We may read, collect and analyze information transmitted between Users for regulatory compliance and marketing purposes. &nbsp;However, as explained in our Terms of Use, we rely on the affirmations of investors that they are “Accredited Investors” as defined in the Terms of Use. &nbsp;We do not guarantee that information provided by Site visitors or investors is accurate or complete. &nbsp;StartEngine assumes no liability or responsibility for any errors or omissions in the content of its Site.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Opt-out Policy </span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">We may at times send you e-mail communications with information, marketing or promotional materials. &nbsp;If you prefer not to receive such e-mails from us, you may unsubscribe completely by contacting us through the contact form www.startengine.com/contact, chat feature, or by submitting a question through the imbedded “help” button that is processed through Zendesk. &nbsp;</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Please note that opt-out requests may take up to five (5) business days to process. &nbsp;Please also note that at times we may need to send you e-mail communications that are transactional in nature such as service or termination announcements or payment confirmations which are communications you will not be able to opt-out of.</span></p><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"> </span></p><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">You will be able to modify the information concerning your account by visiting your profile page and editing any information you wish to change. &nbsp;You will be able to view and change your e-mail address, password, financial information, contact information, or other login information by visiting your account’s settings page subject to our Site policy. &nbsp;If you wish to suspend your account or need help modifying account information, please contact us through the contact form [link?], chat feature, or by submitting a question through the imbedded “help” button that is processed through Zendesk. We may require up to five (5) business days to process such requests. </span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Through your account settings you will be able to set certain preferences and permissions regarding the visibility of your information, including Non-Personally Identifiable Information or Personally Identifiable Information, to others. &nbsp;You may stop or restrict the placement of StartEngine’s cookies, Google’s cookies and third party cookies on your computer by adjusting your web browser preferences or a “Do Not Track” setting in your web browser. &nbsp;If you do so, you may still use our Site, but this may interfere with some of its functionality. &nbsp;You may also clear cookies from your computer via your web browser settings. &nbsp;</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">If you would like us to remove your Personally Identifiable Information from our database, please send a request through the contact form [</span><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">add hyperlink</span><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">], chat feature, or by submitting a question through the imbedded “help” button that is processed through Zendesk.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">We are not responsible for removing your Personally Identifiable Information from the lists of any Third Party Services or other third party who has previously been provided your information in accordance with this Privacy Notice.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Security</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">We use reasonable efforts to secure access to Personally Identifiable Information in our possession, but will not be liable for any failure to safeguard such information, whether inadvertent or otherwise. &nbsp;Personally Identifiable Information is also stored with third parties who have informed us that they also use reasonable efforts to secure access to Personally Identifiable Information, but we will not be liable for the failure of any third party to safeguard Personally Identifiable Information, whether inadvertent or otherwise.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">We protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. Wherever appropriate, we obfuscate and/or encrypt information in our systems and/or during information transfer.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">We utilize third party service providers who may store on their servers addresses, financial information, electronic signatures, and payment information. &nbsp;&nbsp;Any third parties to whom we may disclose personal information may have their own privacy policies that describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">It is important for you to protect against unauthorized access to your password and to your computer. &nbsp;Be sure to log off when finished using a shared computer.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Children’s Privacy Policy</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">The Site is not intended for use by children, especially those under eighteen (18) years of age. &nbsp;No one under eighteen (18) years of age is allowed to use the Site, provide any personal information or receive our email distributions. &nbsp;We do not knowingly solicit or collect Personally Identifiable Information from children under the age of thirteen (13) or anyone under eighteen years of age. &nbsp;If you believe that a minor has disclosed Personally Identifiable Information to StartEngine, please report this to us immediately by contacting us through the contact form www.startengine.com/contact, chat feature, or by submitting a question through the imbedded “help” button that is processed through Zendesk.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Changes to This Privacy Notice</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">We reserve the right, in our sole discretion, to change, modify, add, or remove portions of this Privacy Notice at any time. &nbsp;Any changes or updates will be effective immediately upon posting to our Site. You should review this Privacy Notice regularly for changes, and can determine if changes have been made by checking the Effective Date below. Your continued use of our Site following the posting of any changes to this Privacy Notice means you accept such changes.</span></p><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;"> </span></p><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Applicable Law and Jurisdiction</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">The Site is maintained in the United States of America. &nbsp;By accessing the Site, you consent to and authorize the export of Personally Identifiable Information to the United States of America and its storage and use as specified in this Privacy Notice.</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">This Privacy Notice shall be governed by, construed and entered in accordance with the laws of the State of California applicable to contracts deemed to be made within such state, without regard to choice of law or conflict of law provisions thereof. &nbsp;All disputes with respect to this Privacy Notice shall be brought and heard either in the shall be brought and heard either in the California state courts located in Los Angeles, California, or the federal district court of California located in Los Angeles County, California. &nbsp;You consent to the in personam jurisdiction and venue of such courts. &nbsp;YOU HEREBY WAIVE YOUR RIGHT TO A TRIAL BY JURY WITH RESPECT TO ANY CLAIM, ACTION OR PROCEEDING, DIRECTLY OR INDIRECTLY, ARISING OUT OF, OR RELATING TO, THIS AGREEMENT TO THE FULLEST EXTENT PERMITTED BY LAW. </span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); font-weight: bold; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">Effective Date</span></p><div style="text-align: left; line-height: 1;"><br></div><p dir="ltr" style="font-weight: normal; line-height: 1; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14.6666666666667px; font-family: Arial; color: rgb(0, 0, 0); vertical-align: baseline; white-space: pre-wrap; background-color: transparent;">This Privacy Notice was last updated on June 18, 2015</span></p><div style="text-align: left; line-height: 1;"><br></div><div style="text-align: left; line-height: 1;"><br></div></span></h3>
 
-						    <blockquote>
-			        <p>If you’re looking to start your first company there’s no better place in southern california than Start Engine.</p>
-			        <b>GonnaBe</b>
-			    </blockquote>
-						    			
-		</div> <!-- end .container_12 -->
-		
-		
-		<div class="clear"></div>
-	
-	<!-- end quotes area -->
-	
-				
-		</header>
-						<div class="dotted-hr"></div>
-		
-		
-	<!-- Check if page has a call to action sentence in the page meta box -->
-		
-	<div class="clear"></div>
-	
-	<!-- Begin Main Body -->
-	<div class="container_12" id="body-wrap" role="main">
-	
-		<div id="breadcrumb-wrap" class="grid_12 breadcrumbs">
-					</div> <!-- end #breadcrumb-wrap .grid_12 -->
-	
-		
-		
-		<div id="post-content-wrap" class="grid_7 suffix_1">
+		</div>
 
-		<div class="post-864 page type-page status-publish hentry" id="post-864">
-		
-			<h3 class="post-title">Privacy Policy</h3>
-			
-			<!-- Featured Image -->
-						
-			<div id="content">
-			
-				<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Privacy Policy</strong></p>
-<p>We have prepared this Privacy Policy to explain how we collect, use, protect, and disclose information and data when you use our site.</p>
-<p>BY USING OUR SITE, YOU CONSENT TO THIS PRIVACY POLICY</p>
-<p><strong>What information do we collect?</strong></p>
-<p>We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.</p>
-<p>When ordering or registering on our site, as appropriate, you may be asked to enter your personal information, such as: name, e-mail address or phone number. You may, however, visit our site anonymously.</p>
-<p><strong>What do we use your information for?</strong></p>
-<p>Any of the information we collect from you may be used in one of the following ways:</p>
-<p>To personalize your experience<br>
-(your information helps us to better respond to your individual needs)</p>
-<p>To improve our website<br>
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)</p>
-<p>To improve customer service<br>
-(your information helps us to more effectively respond to your customer service requests and support needs)</p>
-<p>To process transactions</p>
-<p>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p>
-<p>To send periodic emails</p>
-<p>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.</p>
-<p><strong>How do we protect your information?</strong></p>
-<p>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.&nbsp; However, no data transmission over the Internet or other network can be guaranteed to be 100% secure.&nbsp; As a result, while we strive to protect information transmitted on or through our site, we cannot and do not guarantee the security of any information you transmit on or through the site, and you do so at your own risk</p>
-<p><strong>Do we use cookies?</strong></p>
-<p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information</p>
-<p>We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
-<p><strong>Do we disclose any information to outside parties?</strong></p>
-<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information, except as disclosed in this Privacy Policy or with your consent. This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. &nbsp;We may also share your information with businesses controlling, controlled by, or under common control with us. Non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
-<p><strong>Business Information</strong></p>
-<p>You acknowledge and agree that you have no expectation of compensation or confidentiality of any nature, and that we have no duties to you, with respect to any business information (e.g., business ideas, plans, etc.) communicated to us through or with respect to our site, including, without limitation, business information you submit via the Start Engine Application.&nbsp; Please consider this carefully before sending us any business information or other materials that you deem confidential or proprietary.</p>
-<p><strong>California Online Privacy Protection Act Compliance</strong></p>
-<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
-<p><strong>Children’s Privacy</strong></p>
-<p>We do not collect any information from anyone under 13 years of age. Our site, products and services are all directed to people who are at least 13 years old or older.&nbsp; If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.</p>
-<p><strong>Links</strong></p>
-<p>Our site may contain links or integrate with other sites and online services, or allow others to send you such links.&nbsp; We are not responsible or liable for any damage or loss related to your use of any third-party site or online service.&nbsp; You should always read the terms and conditions and privacy policy of a third-party site or online service before using it, whether directly or in connection with your use of our site.</p>
-<p><strong>Privacy Policy Changes</strong></p>
-<p>From time to time, we may change this Privacy Policy.&nbsp; If we change this Privacy Policy, we will give you notice by posting the revised Privacy Policy on our site. Those changes will go into effect on the revision date shown in the revised this Privacy Policy. By continuing to use our site, you consent to the revised Privacy Policy. This Privacy Policy was last revised on December 23, 2011.</p>
-<p><strong>Contacting Us</strong></p>
-<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
-<p>www.startengine.com<br>
-10960 Wilshire Blvd.<br>
-Los Angeles , CA 90024</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-			
-			</div> <!-- end #content -->
-			
-		</div> <!-- end class="post-864 page type-page status-publish hentry" #post-864 -->
-		
-		<div class="meta-page">
-			<ul>
-			<!-- <li> -->
-							<!-- </li> -->
-			</ul>
-		</div> <!-- end .meta -->
-		
-		
-		
-        		
-		
-                
+	</div> <!-- row -->
 
-	
-					
-		</div><!-- end #post-content-wrap .grid_7 -->
-
-	
-		<div id="sidebar" class="grid_4">
-		
-		
-	<div id="primary" class="widget-area" role="complementary">
-	
-		<ul class="xoxo">
-			
-			<div class="widget-block grid_4"><div id="search-3" class="widget_search"><form method="get" id="searchform" action="http://www.startengine.com/">
-	<fieldset>
-		<input type="text" name="s" id="s" value="type your search and hit enter" onfocus="if(this.value=='type your search and hit enter')this.value='';" onblur="if(this.value=='')this.value='type your search and hit enter';">
-	</fieldset>
-</form></div><!-- end .widget-block #grid_4 --></div><div class="widget-block grid_4"><div id="serviceswidget-3" class="widget_serviceswidget"><h2 class="general-widget-title">The Capital</h2>	
-<div class="service-info">
-
-		
-	<p>Up to $100K of seed funding will lay the groundwork for your success - Plus, introductions to dozens of the best VC's and angel investors, as well as access to a 'turn-key' business infrastructure that includes office space, administrative and legal support, and much more. </p>
-	
-		<span class="read-more"><a href="http://www.startengine.com/?page_id=6"> &nbsp; read more →</a></span>
-	
-</div> <!-- end .service-info -->
-
-</div><!-- end .widget-block #grid_4 --></div><div class="widget-block grid_4"><div id="serviceswidget-4" class="widget_serviceswidget"><h2 class="general-widget-title">The Perks</h2>	
-<div class="service-info">
-
-		
-	<p>Sure, we provide you with legal services, financial advice, Human Resource (HR) services, and administrative support. But what really separates us are the killer perks you get, including a terrific office space, gym and health bar access, and classes with industry icons and leaders. It’s the perfect collaborative work space. </p>
-	
-		<span class="read-more"><a href="http://www.startengine.com/?page_id=6"> &nbsp; read more →</a></span>
-	
-</div> <!-- end .service-info -->
-
-</div><!-- end .widget-block #grid_4 --></div><div class="widget-block grid_4"><div id="twitter-2" class="widget_twitter"><h2 class="general-widget-title"><a href="http://twitter.com/startenginela">Follow us on Twitter: @startenginela</a></h2><ul class="tweets">
-</ul>
-</div><!-- end .widget-block #grid_4 --></div>			
-		</ul>
-
-	</div>	
-		</div> <!-- end #sidebar .grid_4 -->
-	
-		
-	</div> <!-- end #body-wrap .container_12 -->
-	
-	<div class="clearfix"></div>
-
-<div class="clear"></div>
-
-<footer>
-<div class="dotted-hr"></div>
-	
-	<div id="home-widgets-wrap">
-
-		<div id="home-widgets" class="container_12 clearfix">
-
-			<li class="widget-block grid_4"><div id="text-5" class="widget_text"><h2 class="footer-widget-title">About Start Engine</h2>			<div class="textwidget">Start Engine is a rapid accelerator focused on helping Los Angeles-based technology startups build a solid foundation for success in 90 days.  We will provide local startups with the essential resources and counsel they need to become successful, self-directed businesses.
-<br><br>
-Start Engine offers a team of mentors who have proven themselves as successful entrepreneurs – not professional investors – ensuring that its startups are guided by the right people for the right reasons.
-
-</div>
-		</div></li><!-- end .widget-block .grid_4 --><li class="widget-block grid_4"><div id="jg_recent_posts-3" class="jg_recent_posts"><h2 class="footer-widget-title">Recent Posts</h2><ul class="recent-posts">					
-				<li class="image-fade">
-					
-																				
-					<span class="most-recent-title"><a href="http://www.startengine.com/?p=3041" class="title">Introducing Innovation as a Service –  “StartEngine is Dead, Long Live StartEngine”</a></span><br>
-					<span class="most-recent-excerpt">link to original article Article Quoted</span>
-				</li>
-						
-								
-				<li class="image-fade">
-					
-																				
-					<span class="most-recent-title"><a href="http://www.startengine.com/?p=2871" class="title">StartEngine Revs Up With Accenture</a></span><br>
-					<span class="most-recent-excerpt">view original article Westwood accelerator StartEngine</span>
-				</li>
-						
-								
-				<li class="image-fade">
-					
-																				
-					<span class="most-recent-title"><a href="http://www.startengine.com/?p=2834" class="title">Artist Nostalgia</a></span><br>
-					<span class="most-recent-excerpt">There a tens of thousands of</span>
-				</li>
-						
-			</ul></div></li><!-- end .widget-block .grid_4 --><li class="widget-block grid_4"><div id="tag_cloud-2" class="widget_tag_cloud"><h2 class="footer-widget-title">Tags</h2><div class="tagcloud"><a href="http://www.startengine.com/?tag=accelerator" class="tag-link-61" title="1 topic" style="font-size: 8pt;">accelerator</a>
-<a href="http://www.startengine.com/?tag=advice-2" class="tag-link-11" title="1 topic" style="font-size: 8pt;">advice</a>
-<a href="http://www.startengine.com/?tag=demo" class="tag-link-55" title="2 topics" style="font-size: 11.6pt;">Demo</a>
-<a href="http://www.startengine.com/?tag=demo-day" class="tag-link-52" title="5 topics" style="font-size: 17.6pt;">Demo Day</a>
-<a href="http://www.startengine.com/?tag=downtown-la" class="tag-link-71" title="1 topic" style="font-size: 8pt;">downtown la</a>
-<a href="http://www.startengine.com/?tag=downtown-la-accelerator" class="tag-link-73" title="1 topic" style="font-size: 8pt;">downtown la accelerator</a>
-<a href="http://www.startengine.com/?tag=downtown-la-incubator" class="tag-link-72" title="1 topic" style="font-size: 8pt;">downtown la incubator</a>
-<a href="http://www.startengine.com/?tag=entrepreneur" class="tag-link-60" title="1 topic" style="font-size: 8pt;">Entrepreneur</a>
-<a href="http://www.startengine.com/?tag=hacks" class="tag-link-10" title="1 topic" style="font-size: 8pt;">hacks</a>
-<a href="http://www.startengine.com/?tag=hatchery" class="tag-link-69" title="1 topic" style="font-size: 8pt;">Hatchery</a>
-<a href="http://www.startengine.com/?tag=los-angeles" class="tag-link-21" title="2 topics" style="font-size: 11.6pt;">Los Angeles</a>
-<a href="http://www.startengine.com/?tag=news" class="tag-link-13" title="6 topics" style="font-size: 19pt;">news</a>
-<a href="http://www.startengine.com/?tag=new-york" class="tag-link-70" title="1 topic" style="font-size: 8pt;">New York</a>
-<a href="http://www.startengine.com/?tag=palo-alto" class="tag-link-63" title="1 topic" style="font-size: 8pt;">Palo Alto</a>
-<a href="http://www.startengine.com/?tag=plug-and-play-tech-center" class="tag-link-65" title="1 topic" style="font-size: 8pt;">Plug and Play Tech Center</a>
-<a href="http://www.startengine.com/?tag=press-2" class="tag-link-15" title="6 topics" style="font-size: 19pt;">press</a>
-<a href="http://www.startengine.com/?tag=press-release" class="tag-link-20" title="4 topics" style="font-size: 16pt;">Press Release</a>
-<a href="http://www.startengine.com/?tag=san-francisco" class="tag-link-68" title="1 topic" style="font-size: 8pt;">San Francisco</a>
-<a href="http://www.startengine.com/?tag=sheppard-mullin" class="tag-link-64" title="1 topic" style="font-size: 8pt;">Sheppard Mullin</a>
-<a href="http://www.startengine.com/?tag=socaltech" class="tag-link-16" title="1 topic" style="font-size: 8pt;">SocalTech</a>
-<a href="http://www.startengine.com/?tag=startengine" class="tag-link-14" title="9 topics" style="font-size: 22pt;">StartEngine</a>
-<a href="http://www.startengine.com/?tag=startup" class="tag-link-47" title="1 topic" style="font-size: 8pt;">startup</a>
-<a href="http://www.startengine.com/?tag=startup-accelerator" class="tag-link-22" title="2 topics" style="font-size: 11.6pt;">Startup Accelerator</a>
-<a href="http://www.startengine.com/?tag=startups" class="tag-link-42" title="6 topics" style="font-size: 19pt;">startups</a>
-<a href="http://www.startengine.com/?tag=sunnyvale" class="tag-link-66" title="1 topic" style="font-size: 8pt;">Sunnyvale</a>
-<a href="http://www.startengine.com/?tag=techcrunch" class="tag-link-33" title="1 topic" style="font-size: 8pt;">TechCrunch</a>
-<a href="http://www.startengine.com/?tag=tips" class="tag-link-9" title="1 topic" style="font-size: 8pt;">tips</a>
-<a href="http://www.startengine.com/?tag=venturebeat" class="tag-link-17" title="1 topic" style="font-size: 8pt;">VentureBeat</a></div>
-</div></li><!-- end .widget-block .grid_4 -->
-			
-		</div> <!-- end #home-widgets .container_12 -->
-
-	</div> <!-- end #home-widgets-wrap -->
+</div> <!-- container -->
 
 
-	<div class="clear"></div>
 
-	<!-- Begin Social Media Bar -->
-	
-		<div id="social-wrap">
-			<div id="social-icons" class="container_12">
-				<ul class="grid_10 omega">
 
-					<!-- TWITTER -->
-										<!-- end Twitter -->
 
-					<!-- FACEBOOK -->
-										<!-- end Facebook -->
 
-					<!-- LINKEDIN -->
-										<!-- end Linkedin -->
+<div class="footer">
+	<div class="container">
+		<div class="row">
 
-					<!-- DRIBBBLE -->
-										<!-- end Dribbble -->
+			<div class="col-md-4 col-sm-12 col-xs-12" style="display: block; margin: 0 auto;">
+				<img alt="Startengine logo white" class="img-responsive logo_footer" src="/assets/startengine_logo_white-8da3b0ea1047568863d3bac3eba57b52.png">
+			</div>
 
-					<!-- FORRST -->
-										<!-- end Forrst -->
-
-					<!-- GOOGLE -->
-										<!-- end Google -->
-
-					<!-- RSS -->
-										<!-- end RSS -->
-
-					<!-- CONTACT -->
-										<!-- end Contact -->
-
+			<div class="col-md-2 col-sm-3 col-xs-4">
+				<ul>
+					<li>
+						<h4>About</h4>
+					</li>
+					<li>
+						<a href="http://blog.startengine.com/" target="_blank">Blog</a>
+					</li>
+					<li>
+						<a href="/about">About Us</a>
+					</li>
+					<li>
+						<a href="/how">How It Works</a>
+					</li>
+					<li>
+						<a href="https://startengine.zendesk.com/hc/en-us" target="_blank">FAQs</a>
+					</li>
 				</ul>
+			</div>
+
+			<div class="col-md-2 col-sm-3 col-xs-4">
+				<ul>
+					<li>
+						<h4>Connect</h4>
+					</li>
+					<li>
+						<a href="https://www.facebook.com/pages/StartEngine/728579673872142" target="_blank">Facebook</a>
+					</li>
+					<li>
+						<a href="https://twitter.com/StartEngineLA" target="_blank">Twitter</a>
+					</li>
+					<!--<li>
+						<a href="https://angel.co/startengine" target="_blank">AngelList</a>
+					</li>-->
+				</ul>
+			</div>
+
+			<div class="col-md-2 col-sm-3 col-xs-4">
+				<ul>
+					<li>
+						<h4>Join</h4>
+					</li>
+					<li>
+					</li>
 
 
-			</div><!-- end .container_12 -->
-		</div> <!-- end #social-wrap -->
+					<li>
+						<a href="/signup">Investors</a>
+					</li>
+				</ul>
+			</div>
 
-	
-		<div id="copyright-wrap" class="clearfix">
+			<div class="col-md-2 col-sm-3 col-xs-4">
+				<ul>
+					<li>
+						<h4>Legal</h4>
+					</li>
+					<li>
+						<a href="/terms">Terms of Use</a>
+					</li>
+					<li>
+						<a href="/privacy">Privacy Policy</a>
+					</li>
+				</ul>
+			</div>
 
-			<div class="container_12">
+		</div> <!-- .row -->
 
-				<div id="copyright" class="grid_12 omega">
+	</div> <!-- .container -->
+</div> <!-- .footer -->
+<div style="background-color: rgba(0, 0, 0, 0.9);" class="footer_info">
+  <div class="container">
+      <div class="row" style="margin-bottom: 30px; padding-top: 30px; border-top: 1px solid #ddd;">
+        <span style="font-size: 11px; color: #ddd;">IMPORTANT MESSAGE: www.StartEngine.com (the “Site”) is a website owned and operated
 
-					<p>Copyright © 2013 StartEngine, LLC. - All rights reserved.  <a href="http://www.startengine.com/?page_id=864">Privacy Policy</a></p>
-
-				<!-- FOOTER NAVIGATION -->
-
-                
-				</div> <!-- end #copyright -->
-
-			</div><!-- end .container_12 -->
-
-		</div> <!-- end #footer-widget-wrap -->
-
-</footer>
-
-	<!-- Nivo Slider Options -->
-	
-	<!-- Content Slider Options -->
-	
+        by StartEngine LLC (“StartEngine”).  By accessing this Site and any pages on this Site, you agree to be bound by its <a href="/terms">Terms of Use </a> and <a href="/privacy">Privacy Policy</a>, as may be amended from time to time without notice or liability.  Investment opportunities posted on the Site are “test-the-waters” communications by issuers to gauge interest in a future offering of the company’s securities. StartEngine is not an investment advisor, broker-dealer or crowdfunding portal and does not engage in any activities requiring any such registration. The proposed securities offerings posted on the Site are available to all investors.  Please be aware that (1) no money or other consideration is being solicited, and if sent, will not be accepted; (2) no sales will be made or commitments to purchase accepted until the offering statement for a
+        financing is qualified by the US Securities and Exchange Commission; and (3) a prospective purchaser’s indication of interest is non-binding.” The “test-the-waters” information presented on this Site are for potential securities offerings pursuant to Regulation A that provides an exemption from the registration requirements of the Securities Act of 1933, as amended.  The company materials are not required to comply with specific disclosure requirements that apply to registration under the Securities Act. Neither the US Securities and Exchange Commission nor any state regulator or other regulatory body has passed upon the merits of or given its approval to the securities, the terms of the offerings, or the accuracy or completeness of any offering materials. Neither StartEngine nor any of its directors, officers, employees, representatives, affiliates or agents shall have any liability whatsoever arising from any error or incompleteness of fact or opinion in, or lack of care in the preparation or publication of, the materials and communication herein or the valuation of any securities offering. StartEngine does not give investment advice, provide analysis or recommendations regarding any offering posted on the Site. Prior results are not indicative of future performance; actual results may vary materially. The Site may contain “forward looking statements” which are not guaranteed. All investors should make their own determination of whether or not to make any investment, based on their own independent evaluation and analysis. You are strongly advised to consult your legal, tax and financial advisors before investing. The securities offered on this Site can only be marketed in jurisdictions where public solicitation of offerings are permitted; it is solely your responsibility to comply with the laws and regulations of your country of residence.
+        <br>
+        Copyright © 2015  StartEngine LLC. All rights reserved.</span>
 
 
-<script type="text/javascript">
-// Standard Links
-jQuery('#slider .entry-content a.background-color,.textwidget a,#home-widgets ul.recent-posts .most-recent-title a,#blog-list h4 a,#home-blog .home-post-content a,h3.blog-page-title a,#sidebar .jg_recent_posts ul.recent-posts .most-recent-title a, #sidebar .jg_popular_posts ul.recent-posts .most-recent-title a, .tabs-inner a.title,#content p>a,.post-detail-box #author-details a,.portfolio-excerpt a.more-link, .portfolio h4 a').hover(function(){
-    jQuery(this).stop().animate({backgroundColor: '#e23333', color: '#ffffff'});
-}, function() {
-    jQuery(this).stop().animate({backgroundColor: '#ffffff',color: '#333333'});
-});
+      </div>
+  </div>
+</div>
 
-//  Bold Headings
-jQuery('h2.strong-title a').hover(function(){
-    jQuery(this).stop().animate({backgroundColor: '#e23333', color: '#ffffff'});
-}, function() {
-    jQuery(this).stop().animate({backgroundColor: '#222222',color: '#ffffff'});
-});
 
-//  Gray Inactive Background (Read More, CTA, etc.) 
-jQuery('.service span.read-more a,#call-to-action h2 a,.home-post-content a.more-link').hover(function(){
-    jQuery(this).stop().animate({backgroundColor: '#e23333', color: '#ffffff'});
-}, function() {
-    jQuery(this).stop().animate({backgroundColor: '#E6E6E6',color: '#333333'});
-});
 
-//  Image Hover Shortcode  
-jQuery('.image-hover a, a.buttons').hover(function(){
-    jQuery(this).stop().animate({backgroundColor: '#ffffff'});
-}, function() {
-    jQuery(this).stop().animate({backgroundColor: '#ffffff'});
-});
 
-</script>
-<!-- This is version 2.6 -->
 
-<script type="text/javascript" src="http://www.startengine.com/wp-content/themes/amplifier/js/scripts.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.startengine.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.startengine.com/wp-content/plugins/contact-form-7/scripts.js?ver=3.1"></script>
+  <script type="text/javascript">
+  var axel = Math.random() + "";
+  var a = axel * 10000000000000;
+  document.write('<iframe src="https://4367373.fls.doubleclick.net/activityi;src=4367373;type=eliose;cat=selandpg;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+  </script><iframe src="https://4367373.fls.doubleclick.net/activityi;src=4367373;type=eliose;cat=selandpg;ord=1931773163283.1104?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+  <noscript>
+  <iframe src="https://4367373.fls.doubleclick.net/activityi;src=4367373;type=eliose;cat=selandpg;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+  </noscript>
 
-	<script src="http://stats.wordpress.com/e-201317.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	st_go({v:'ext',j:'1:1.2.2',blog:'28967550',post:'864'});
-	var load_cmc = function(){linktracker_init(28967550,864,2);};
-	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
-	else load_cmc();
-	</script>
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=7394004;
-var sc_invisible=1;
-var sc_security="dca066ca";
-</script>
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript><div class="statcounter"><a title="click
-tracking" href="http://statcounter.com/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/7394004/0/dca066ca/1/"
-alt="click tracking"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
 
 </body></html>
