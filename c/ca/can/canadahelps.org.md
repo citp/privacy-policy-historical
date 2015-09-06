@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628030049id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906184050id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CanadaHelps - Donate to any charity in Canada
 
@@ -108,10 +108,10 @@ Upon request CANADAHELPS will:
 Requests are to be directed to:  
 CanadaHelps  
 Attention Privacy Official  
-179 John Street  
-Suite 403  
+355 Adelaide Street West  
+Ground Floor  
 Toronto, Ontario, Canada  
-M5T 1X4Or call us at 1-877-755-1595  
+M5V 1S4 Or call us at 1-877-755-1595  
 Or send an e-mail to [info@canadahelps.org](mailto:info@canadahelps.org)
 
 CANADAHELPS will make every effort to respond to requests for access to personal information in a reasonable and timely manner.
