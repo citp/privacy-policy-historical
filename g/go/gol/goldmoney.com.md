@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413110122id_/http%3A//www.goldmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906025535id_/https%3A//www.goldmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoldMoney - Our Website Privacy Policy
 
-**Effective Date: 23 December 2013**
+**Effective Date: 12 May 2015  
+**
 
-GoldMoney.com is owned by Net Transactions Limited (GoldMoney). This privacy policy (together with our [Customer Agreement](http://www.goldmoney.com/services/customer-agreement) and any other documents referred to in it) applies to the use of information collected on the GoldMoney.com website (Privacy Policy).
+GoldMoney.com is owned by Net Transactions Limited (GoldMoney). This privacy policy (together with our [Customer Agreement](https://www.goldmoney.com/services/customer-agreement) and any other documents referred to in it) applies to the use of information collected on the GoldMoney.com website (Privacy Policy).
 
 Our Privacy Policy explains:
 
@@ -14,7 +15,7 @@ Our Privacy Policy explains:
 
 
 
-We have tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses, and browsers, then read about these [key terms](http://www.google.com/policies/privacy/key-terms) first. Your privacy matters to GoldMoney so whether you are new to GoldMoney or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](http://www.goldmoney.com/contact).
+We have tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses, and browsers, then read about these [key terms](http://www.google.com/policies/privacy/key-terms) first. Your privacy matters to GoldMoney so whether you are new to GoldMoney or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://www.goldmoney.com/contact).
 
 ## Collection and Use of Personal Information
 
@@ -22,7 +23,7 @@ We have tried to keep it as simple as possible, but if you're not familiar with 
 
 When you open a Holding with us, we collect the following personal information from you:
 
-information sufficient to identify you to us and ensure that you are who you say you are and provided to us in accordance with our [Customer Acceptance Policy (CAP)](http://www.goldmoney.com/customer-acceptance-policy);contact information such as name, email address, mailing address and telephone number; andunique identifiers such as user name and password.
+information sufficient to identify you to us and ensure that you are who you say you are and provided to us in accordance with our [Customer Acceptance Policy (CAP)](https://www.goldmoney.com/customer-acceptance-policy);contact information such as name, email address, mailing address and telephone number; andunique identifiers such as user name and password.
 
 When you sign up for our Newsletter, we collect your email address and name.
 
@@ -44,7 +45,7 @@ It may also be processed by staff operating outside the EEA who work for us or f
 
 **Choice/Opt-Out**
 
-You may choose to stop receiving our Newsletter by following the unsubscribe instructions included in these emails or by [contacting us](http://www.goldmoney.com/contact) here.
+You may choose to stop receiving our Newsletter by following the unsubscribe instructions included in these emails or by [contacting us](https://www.goldmoney.com/contact) here.
 
 **Information Sharing**
 
@@ -104,9 +105,9 @@ We follow generally accepted industry standards to protect the personal informat
 
 We restrict access to personal information to GoldMoney employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations at least equal to those we owe to you and such persons may be disciplined or terminated if they fail to meet these obligations.
 
-If you have any questions about security on our website, please [contact us](http://www.goldmoney.com/contact).
+If you have any questions about security on our website, please [contact us](https://www.goldmoney.com/contact).
 
-For security reasons, we do not recommend saving your Holding number and passphrase in your computer's memory (do not allow your browser to remember your passphrase). Consequently, we advise entering your Holding number and passphrase each time you begin a new browser session and wish to view your Holding. Please read our [Security FAQ](http://www.goldmoney.com/faq.html?faq_cat=10) for important tips on accessing GoldMoney securely.
+For security reasons, we do not recommend saving your Holding number and passphrase in your computer's memory (do not allow your browser to remember your passphrase). Consequently, we advise entering your Holding number and passphrase each time you begin a new browser session and wish to view your Holding. Please read our [Security FAQ](https://www.goldmoney.com/faq.html?faq_cat=10) for important tips on accessing GoldMoney securely.
 
 ## Additional Policy Information
 
@@ -120,11 +121,11 @@ Our website includes links to other websites whose privacy practices may differ 
 
 **Email a Friend**
 
-If you choose to use our service to email a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Your friend may contact our [Relationship Management team](http://www.goldmoney.com/contact) to request that we remove this information from our database.
+If you choose to use our service to email a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Your friend may contact our [customer support team](https://www.goldmoney.com/contact) to request that we remove this information from our database.
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, you may correct, update or amend it by contacting our Relationship Management team.
+If your personally identifiable information changes, you may correct, update or amend it by contacting our [customer support](http://www.goldmoney.com/contact) team.
 
 We will respond to your request generally within one business day.
 
@@ -134,9 +135,8 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Contact Information
 
-You can contact us by writing us at the address below or by contacting our [Relationship Management team](http://www.goldmoney.com/contact).
+You can contact us by writing us at the address below or by contacting our [customer support team](https://www.goldmoney.com/contact).
 
-Jersey Office Address  
 Net Transactions Limited  
 1st Floor  
 32 Commercial Street  
