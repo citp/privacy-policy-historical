@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imoney.my privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317185524id_/https%3A//www.imoney.my/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imoney.my privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906091512id_/https%3A//www.imoney.my/privacy-statement) for the most accurate reproduction.*
 
-# privacy-statement | iMoney
+# iMoney's Privacy Statement. Find Out More Here! | iMoney
 
 #### Privacy Statement
 
