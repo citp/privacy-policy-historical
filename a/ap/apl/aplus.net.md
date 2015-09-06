@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320034202id_/https%3A//www.aplus.net/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907012159id_/https%3A//www.aplus.net/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
