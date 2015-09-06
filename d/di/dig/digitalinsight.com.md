@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510071814id_/http%3A//www.digitalinsight.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906021716id_/http%3A//www.digitalinsight.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Digital Insight
 
@@ -22,7 +22,7 @@ When you visit this site, we gather two different types of information, anonymou
 
 ### User Forms
 
-**Contact Us:**  This section of our website is not intended for individual consumer use, but rather for financial institutions interested in our solutions and services. By providing contact information on the form, it’s easy to request a follow up phone call or email from us. This information can also be updated or deleted at any time by emailing [sales_operations@Digital Insight.com](https://web.archive.org/web/20150510071814id_/http%3A//www.digitalinsight.com/contact.html). Financial institutions always have the option of using other methods to contact us, such as telephone.
+**Contact Us:**  This section of our website is not intended for individual consumer use, but rather for financial institutions interested in our solutions and services. By providing contact information on the form, it’s easy to request a follow up phone call or email from us. This information can also be updated or deleted at any time by emailing [sales_operations@Digital Insight.com](https://web.archive.org/web/20150906021716id_/http%3A//www.digitalinsight.com/contact.html). Financial institutions always have the option of using other methods to contact us, such as telephone.
 
 **Client Login:**  This website feature is designed for exclusive use by our financial institution clients, who may access it via user name and password for identification and security purposes. Failed log-on attempts are recorded for security purposes.
 
@@ -36,4 +36,4 @@ Our website may contain links to other websites. We are not responsible for the 
 
 ### How To Contact Us
 
-For questions and comments regarding this privacy statement, please contact: Customer Support Digital Insight 5601 N. Lindero Canyon Rd. Suite 100 Westlake Village, CA 91362 — or — [Email Inquiry](https://web.archive.org/web/20150510071814id_/http%3A//www.digitalinsight.com/contact.html) We reserve the right to modify this Privacy Statement at any time. If the modification materially affects your personal information, we will post a prominent notice on our website which will notify you of the change. This Privacy Statement is for general guidance and does not constitute a contract, and does not modify or amend any agreement we have with our customers.
+For questions and comments regarding this privacy statement, please contact: Customer Support Digital Insight 5601 N. Lindero Canyon Rd. Suite 100 Westlake Village, CA 91362 — or — [Email Inquiry](https://web.archive.org/web/20150906021716id_/http%3A//www.digitalinsight.com/contact.html) We reserve the right to modify this Privacy Statement at any time. If the modification materially affects your personal information, we will post a prominent notice on our website which will notify you of the change. This Privacy Statement is for general guidance and does not constitute a contract, and does not modify or amend any agreement we have with our customers.
