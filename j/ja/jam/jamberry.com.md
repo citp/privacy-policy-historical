@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the jamberry.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130103611id_/http%3A//jamberry.com/assets/pdf/JamberryPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamberry.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906071757id_/https%3A//www.jamberry.com/assets/pdf/JamberryPrivacyPolicy.pdf) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-  Privacy Policy
-Last Modified: July 1, 2013
-            1
+Privacy Policy
+Last Modified: April 3,
+       2015
+          1
 
 
 Introduction
@@ -42,7 +43,7 @@ If you provide a testimonial or product review on any Jamberry sites, you should
 personally identifiable information you submit there can be read, collected, or used by other users of
 these forums, and could be used to send you unsolicited messages. For testimonials, we do obtain the
 customer's consent prior to posting his or her name and video testimonial. If you enter a comment in a
-                                                      2
+                                                       2
 
 
 public forum we are not responsible for the personally identifiable information you choose to submit in
@@ -80,7 +81,7 @@ Jamberry may collect PII about you to establish or maintain our relationship wit
 inquiries, provide you with services you have requested, fulfill orders you have placed, process returns
 and refunds, pay commissions and overrides, keep you informed of services we think may be of interest
 to you, personalize your experience with us, and other reasons. If you do not wish to receive
-                                                       3
+                                                        3
 
 
 communications from us of a marketing nature, you have the ability to "opt-out" at any time and you
@@ -134,9 +135,8 @@ information, as well as any choices you may have regarding your personal informa
 Jamberry requires third parties who perform services for us to agree to treat PII about you confidentially
 and securely. Prior to collection your PII, any such third parties are required to sign a service agreement,
 which includes the privacy policy outlined here. Note that this statement does not address the privacy
-practices or polices of our Independent Consultants. However, Jamberry Independent Consultants
-agree, as specified in our Policies and Procedures, to comply with all applicable privacy laws and
-regulations.
+practices or polices of our Independent Consultants. However, Jamberry Independent Consultants agree,
+as specified in our Policies and Procedures, to comply with all applicable privacy laws and regulations.
 Because Non-PII does not personally identify you, we reserve the right to use Non-PII, and to disclose
 Non-PII to third parties, for any purpose.
 Links to Other Sites: This website contains links to other sites that are not owned or controlled by
@@ -157,7 +157,7 @@ If you desire not to receive information about products or services we think may
 change the notification options in your account settings. If you wish to not receive any of these emails,
 you may opt-out by submitting your email address to support@jamberrynails.com or by following the
 unsubscribe instructions within each email communication.
-                                                       5
+                                                        5
 
 
 Access
@@ -187,4 +187,4 @@ If you have any questions or concerns regarding this notice, please contact us e
 support@jamberrynails.com, or by regular mail at Jamberry Nails, LLC, Attn: Legal Department, 1350 W
 200 S, Lindon, Utah 84042. Jamberry will investigate and try to resolve any disputes regarding the use or
 disclosure of PII according to the principles of this privacy policy.
-                                                       6
+                                                        6
