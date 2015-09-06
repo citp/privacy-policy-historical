@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503215455id_/http%3A//www.cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisemates.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906101409id_/http%3A//www.cruisemates.com/articles/about/privacy_policy.cfm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
