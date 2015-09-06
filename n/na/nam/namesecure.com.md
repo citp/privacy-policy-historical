@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namesecure.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629030638id_/https%3A//www.namesecure.com/privacyPolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namesecure.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906050057id_/https%3A//www.namesecure.com/privacyPolicy.page) for the most accurate reproduction.*
 
 # Purchase a Domain from NameSecure - Get Online Privacy
 
