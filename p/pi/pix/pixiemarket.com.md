@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixiemarket.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317051628id_/http%3A//www.pixiemarket.com/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixiemarket.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906135534id_/http%3A//www.pixiemarket.com/privacy_notice) for the most accurate reproduction.*
 
 # Privacy notice
 
