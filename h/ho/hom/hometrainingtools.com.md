@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometrainingtools.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323032431id_/http%3A//www.hometrainingtools.com/a/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometrainingtools.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906204125id_/http%3A//www.hometrainingtools.com/a/terms-privacy) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy | Home Science Tools
 
@@ -63,9 +63,9 @@ When you order from us, you are verifying that you are at least 21 years of age 
 • Assume all responsibility for any injuries or damages resulting from the use, storage, and disposal of these items,  
 • Assume all responsibility for complying with government regulations regarding these items.
 
-#### Site Use
+Site Use
 
-Except where otherwise noted, all content and items on this site are Copyrighted © 1999-2014 by Home Science Tools Ltd., 665 Carbon St, Billings, MT 59102 USA. All rights are reserved.
+Except where otherwise noted, all content and items on this site are Copyrighted © 1999-2015 by Home Science Tools, 665 Carbon St, Billings, MT 59102 USA. All rights are reserved.
 
 Permission is given to display, copy, distribute, download, and print hard copies of this Site only for the purposes of:
 
