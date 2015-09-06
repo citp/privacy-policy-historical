@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the talkcity.com privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316085422id_/http%3A//www.delphiforums.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the talkcity.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906111939id_/http%3A//delphiforums.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Delphi Forums</title>
@@ -26,12 +26,18 @@
           $.dfns.webtag = 'delphiforums';
           $.dfns.debug = '';
           $.dfns.category = '';
+          $.dfns.adCategory = '';
+          if ($.dfns.adCategory === '') $.dfns.adCategory = $.dfns.category;
+          if($.dfns.adCategory.substring(0,3) != "dp-"){
+            $.dfns.adCategory = 'nocategory';
+          }
           $.dfns.contentRating = 0;
           $.dfns.hostname = 'www.delphiforums.com'; 
           var webtag = 'delphiforums';
           var parentWebtag = 'dfsitez';
           var ForumName = 'Delphi Forums Home';
           var parentForumName = 'Delphi Forums Site';
+          var dfAdCategory = $.dfns.adCategory;
         </script>
 <style>
      
@@ -181,7 +187,7 @@
 	<div class="os-main">
 		<div class="os-siteheader">
 			<div id="df_siteheader" class="df_siteheader"><div class="df_brandhead"><a class="df_logo" href="/" title="Go to the Delphi Forums home page." onmouseout="this.blur();return true;"><h1>Delphi Forums</h1></a><span class="df_tagline">Share your passion.</span><div id="df_memberbar" class="df_memberbar"><ul id="df_mb_loggedout" style=""><li class="os-sep"><a class="os-btn" href="/n/login/login.aspx?webtag=dflogin&amp;seamlesswebtag=" title="Log into your Delphi Forums account." onmouseout="this.blur();return true;"><span>Login</span></a></li><li><a class="os-btn" href="/n/login/login.aspx?webtag=dflogin&amp;seamlesswebtag=&amp;nav=register" title="Register for a Delphi Forums membership." onmouseout="this.blur();return true;"><span>Sign Up</span></a></li></ul><ul id="df_mb_loggedin" style="display:none"><li>
-            Welcome <a id="df_mb_profilelink" href="http://profiles.delphiforums.com/All" title="Go to my profile">All</a></li><li><a href="/myforums" title="Go to your list of bookmarked forums and other profile information." onmouseout="this.blur();return true;">My Forums</a></li><li><a class="os-btn" href="/dir-app/PTLogout.aspx?webtag=dflogin" title="Log out of your current session." onmouseout="this.blur();return true;"><span>Logout</span></a></li></ul></div><div class="df_searchbox"><input id="df_fsearch_text" type="text" placeholder="Explore public forums" value=""><button id="df_fsearch_btn" href="/index.ptt" title="Find a forum to match your interests">Search</button><p>or <a href="/cats.ptt" title="Browse the directory of public forums" onmouseout="this.blur();return true;">browse by category</a></p></div></div><div class="df_navbar"><ul class="os-left"><li class="os-sep"><a href="/index.ptt" title="Browse the directory of currently active forums." onmouseout="this.blur();return true;">Forums</a></li><li class="os-sep"><a href="/chat.ptt" title="Browse the list of active chat rooms." onmouseout="this.blur();return true;">Chat Rooms</a></li><li class="os-sep"><a href="/members.ptt" title="Browse member profiles." onmouseout="this.blur();return true;">Members</a></li><li><a href="/features.ptt" title="Review a summary of Delphi's features" onmouseout="this.blur();return true;">Features</a></li></ul><ul class="os-right"><li><a href="/AboutDelphi.ptt" onmouseout="this.blur();return true;">About Delphi</a></li><li class="os-sep"><a href="/support.ptt" onmouseout="this.blur();return true;">Support</a></li></ul></div></div>
+            Welcome <a id="df_mb_profilelink" href="http://profiles.delphiforums.com/Guest" title="Go to my profile">Guest</a></li><li><a href="/myforums" title="Go to your list of bookmarked forums and other profile information." onmouseout="this.blur();return true;">My Forums</a></li><li><a class="os-btn" href="/dir-app/PTLogout.aspx?webtag=dflogin" title="Log out of your current session." onmouseout="this.blur();return true;"><span>Logout</span></a></li></ul></div><div class="df_searchbox"><input id="df_fsearch_text" type="text" placeholder="Explore public forums" value=""><button id="df_fsearch_btn" href="/index.ptt" title="Find a forum to match your interests">Search</button><p>or <a href="/cats.ptt" title="Browse the directory of public forums" onmouseout="this.blur();return true;">browse by category</a></p></div></div><div class="df_navbar"><ul class="os-left"><li class="os-sep"><a href="/index.ptt" title="Browse the directory of currently active forums." onmouseout="this.blur();return true;">Forums</a></li><li class="os-sep"><a href="/chat.ptt" title="Browse the list of active chat rooms." onmouseout="this.blur();return true;">Chat Rooms</a></li><li class="os-sep"><a href="/members.ptt" title="Browse member profiles." onmouseout="this.blur();return true;">Members</a></li><li><a href="/features.ptt" title="Review a summary of Delphi's features" onmouseout="this.blur();return true;">Features</a></li></ul><ul class="os-right"><li><a href="/AboutDelphi.ptt" onmouseout="this.blur();return true;">About Delphi</a></li><li class="os-sep"><a href="/support.ptt" onmouseout="this.blur();return true;">Support</a></li></ul></div></div>
 		</div><div class="os-container">
 			
 <!--
