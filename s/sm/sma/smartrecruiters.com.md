@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartrecruiters.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317145705id_/https%3A//www.smartrecruiters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartrecruiters.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906210623id_/https%3A//www.smartrecruiters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartRecruiters
 
@@ -68,7 +68,7 @@ SmartRecruiters has certified that it adheres to the Safe Harbor Privacy Princip
 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from SmartRecruiters by following the “unsubscribe” link on communication received from SmartRecruiters or otherwise by contacting us at:
 
-\- Email:   
+– Email:   
 – Phone: 4155083755
 
 **Changes to this Statement**
