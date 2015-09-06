@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allegiancemusical.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529014802id_/http%3A//www.allegiancemusical.com/post/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiancemusical.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906103826id_/http%3A//allegiancemusical.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Allegiance
+# Privacy Policy - Allegiance
 
 ### Privacy Policy and Legal Notice
 
-We have created this Privacy Policy and Legal Notice in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Allegiance–A New Musical (www.allegiancemusical.com) (this “website”). All references to “we” or “us” in this Privacy Policy and Legal Notice refers to Gaman PB, LLC or its managers, predecessors or successors, the production company responsible for producing “Allegiance–A New Musical”.
+We have created this Privacy Policy and Legal Notice in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Allegiance–A New Musical (www.allegiancemusical.com) (this “website”). All references to “we” or “us” in this Privacy Policy and Legal Notice refers to Allegiance Broadway LLC or its managers, predecessors or successors, the production company responsible for producing “Allegiance–A New Musical”.
 
 ### Information Collected and How We Use It
 
