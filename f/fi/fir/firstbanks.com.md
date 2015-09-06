@@ -1,114 +1,52 @@
-> *The following text is extracted and transformed from the firstbanks.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402160411id_/http%3A//www.firstbanks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbanks.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906170243id_/https%3A//www.firstbanks.com/privacy-statement) for the most accurate reproduction.*
 
-# FIRSTBANKS.COM - Privacy Policy
+# First Bank > Privacy Statement
 
-  
-A Commitment to Protect   
-Your Customer Information 
+### Effective Date- March 27, 2015
 
-At First Banks, Inc., its subsidiary banks and family of financial companies affiliated through common ownership, we recognize that you have placed your trust in us ... and that preserving your trust is one of the core values of our institution. This is the reason we are committed to the responsible use and protection of your customer information. 
+At First Bank your privacy is important to us. 
 
-  
-Here is a summary of our privacy guidelines:
+We are committed to the responsible use and protection of your consumer information. This Online Privacy Policy applies to First Bank online interfaces (ie. website or mobile applications). 
 
-  * We will maintain the confidentiality of our customers' personal information.
-  * We will hold our employees to the highest standards of conduct in ensuring this confidentiality.
-  * We will use information responsibly to provide our customers with benefits, improved products and services.
-  * We will comply with federal and state privacy laws and regulations.
-  * We will establish procedures to maintain accurate information and respond in a timely manner to our customers' request to update or correct information.
-  * We will use a combination of safeguards to protect our customers' information against unauthorized access.
-  * We will require the companies with which we do business to abide by our privacy policy and to maintain the confidentiality of customer information.
+This Policy explains how we collect, share and use your information when you visit or use the First Bank website or an online service.  You may also refer to our Consumer Privacy Notice, located on our website, which offers you certain choices with respect to the use and sharing of your personal information.
 
+  **Your Personal Information  **  
+As a client or prospect you may visit us or use one of our online services.  First Bank may collect personal information from or about you such as, but not limited to: contact information including your name, mailing address, email address, one or more telephone numbers, and your banking account numbers. We may collect location information such as a zip code to help you find a nearby First Bank branch. We may also collect additional information which may include credit or debit card information, social security number(s), driver's license numbers and a user name or password. This is common information you use while accessing our online services and where First Bank feels that it is required for general business purposes.
 
+**Sharing**  
+We may share information with other service providers with whom we work with, such as data processors and companies that help us market products and services to you, and with affiliates as permitted by law. When permitted or required by law, we may share information with additional third parties for purposes including a response to a specific legal process.
 
-Please read through this brochure to learn more about our privacy policy and how we use and protect your customer information.   
+**Use Of Your Personal Information  **  
+At First Bank we will  use any  information we gather  in a variety of ways including  processing  transactions such as a home loan request, confirming and verifying your identity, working to minimize and prevent personal fraud, working to improve your overall account security, responding to your requests and communicating with you, managing your specific preferences such as passwords and log in credentials, complying with and enforcing applicable legal requirements,  and for  other purposes that we may  disclose at the time you provide us with or we collect your personal information. 
 
+First Bank may also gather and collect other information about your online usage. For example, when accessing our website [www.firstbanks.com](https://www.firstbanks.com/) we will send you specific graphics and product offers by aligning those graphics and offers with your computer’s specific IP address.  
 
-We use customer information in the ordinary course of serving your relationship or managing our business. For example, we use your information to:
+First Bank or our third-party partners, including Ad Roll, may gather your online behavior to send you targeted First Bank digital advertisements.   This process occurs by identifying specific technologies which collect and store information about your visit behavior, or use of our online services.
 
-  * Identify you and protect you from fraud, so that others cannot use your accounts without authorization.
-  * Process your requests, such as purchases, ATM/Debit Card withdrawals or loan applications.
-  * Inform you of additional financial services to meet your individual needs. 
-  * Service your accounts, issue your account statements, checks and ATM/Debit Cards.
+**Technologies We and Our Third Party Advertising Partners Use**  
+First Bank uses technologies such as cookies and pixels to keep track of your activities on our website and our advertiser's websites, and to serve you more relevant advertisements. A cookie is a small text file that is stored on your device for record-keeping purposes. Session cookies expire when you close your browser. Persistent cookies remain on your device for an extended period of time. We and our third party partners use session cookies and persistent cookies.
 
+We use persistent cookies to keep track of your activities when you visit our website or our advertisers' websites, and to serve you relevant advertisements. Our advertising partners also place persistent cookies on your device when you visit our website in order to help us recognize you and serve relevant advertisements to you when you visit websites in their networks.  Here's how it works: When you visit our website, a pixel on our site causes a cookie to be set in your browser. When you visit one of our advertising partner's websites or a website in one of their networks, the advertising partner will recognize your browser. The advertising partner may then serve a First Bank ad on the advertiser’s website. The advertising partner then may track how many times it shows you an ad from First Bank and whether you clicked on the ad. Our policy is that our advertising partners only collect non-personally identifiable information via these cookies and we will cease working with partners found violating this policy.
 
+Use this link to view your choices regarding relevant advertisements and Do Not track mechanisms of our advertising partner Adroll.  [https://adroll.com/about/privacy](https://www.adroll.com/about/privacy)
 
-In the process of serving your financial needs, we collect a limited amount of "nonpublic personal information" which can include information about your finances and customer relationship. We may disclose all of the information that we collect, as described below. This customer information helps us better serve your accounts and understand your needs, and may come from a variety of sources, including:    
+**Removal of Cookies**  
+You can remove cookies by following directions provided in your Internet browser's "help" file. You may also decline our cookies if your browser permits, but doing so may interfere with your use of our website.
 
+**Accessing First Bank With A Mobile Device**    
+First Bank offers you the ability to access our website with a mobile enabled device such as a smartphone or tablet. When you connect with First Bank’s Online Banking, we utilize personal protection solutions including unique identifiers and True Stamp images to protect your information.  If you use a location feature such as locating a First Bank branch or ATM we will use your information about your location to present you the current information.  The Privacy Policy specific to our Mobile Banking service can be found by selecting [Mobile Banking Privacy Policy](https://web.archive.org/Portals/0/Mobile%20Money%20Privacy%20Policy.pdf).
 
-  * Information we receive directly from you, on applications and other forms; 
-  * Information we receive through your transactions or experiences with us, our affiliates, or others; and 
-  * Information we receive from consumer reporting agencies. 
+**Linking To Third Party Websites**  
+Our website has links to other third party sites. These links are offered as a courtesy and a convenience to our clients. We will notify you via a browser pop-up message when you are being re-directed to a third party site. You will be given the option to proceed to the third party site or to remain on firstbanks.com. First Bank is not responsible for the information practices of sites linked to or from our website. Please review the privacy policies of these sites prior to providing any personal information. 
 
+**Children’s Privacy**  
+From our web pages, we do not knowingly collect personal information from individuals under the age of 13.
 
+**Your Security  **  
+Visit our [Security Center](https://web.archive.org/personal/security-center) for additional information about how we protect your personal information. Please note that information you send to us electronically may not be secure when it is transmitted to us. We recommend that you do not use unsecure channels to communicate sensitive or confidential information (such as your Social Security number, Bank Account Number) to us.
 
-If you are an Internet user, we may use the information collected about you to provide you with information that may be of interest to you. When accessing our Web site at www.firstbanks.com, this Privacy Policy is available for you to read there also.  
+**Updating Your Personal Information  **  
+It is very important to keep your account information accurate and up to date. You can access your account information through various means, such as account statements, telephone banking, online banking, and in response to specific requests. To update your account information, please request changes at your local branch, through our Client Contact Center, with your financial advisor or your First Bank Account Representative.
 
-
-We strictly limit the sharing of nonpublic personal information both within and outside of the First Banks, Inc. family of financial organizations as follows:
-
-  
-Our affiliates are the subsidiary banks and financial companies listed in this brochure, and are part of the First Banks, Inc. family, being related or affiliated by common ownership or affiliated by common corporate control. Our affiliates share a limited amount of nonpublic personal information internally so that we can serve you more efficiently; offer you new services, such as mortgages, insurance and investments; and reduce the amount of information you are required to provide when you contact us. 
-
-We are permitted by law to share with our affiliates information about your transactions or experiences with us. We do not share other information restricted by law with our affiliates unless we have received your written authorization to do so. 
-
-  
-We may disclose the following information to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint-marketing agreements: 
-
-  * Information we receive from you on applications or other forms, such as your name, address, social security number, date of birth and telephone number; and 
-  * Information about your transactions with us, our affiliates, or others, such as your account number, payment amount, and account balance. 
-
-
-
-This enables us to provide quality service to you and offer you additional financial services that may be of value to you. These arrangements are subject to strict standards of confidentiality and security and are subject to federal and state law. The information we provide is limited to that which we reasonably believe they "need to know" to provide their contracted services. 
-
-In addition, we may disclose nonpublic personal information to third parties as permitted by law. For example, we might be required to disclose information about you in response to a subpoena or to credit bureaus or under certain federal or state laws. Or we may provide information to others with your consent, for example to complete a transaction that you have initiated.
-
-We have implemented procedures and guidelines to safeguard the privacy of nonpublic personal information from unauthorized use or improper access. We will continue to enhance our security procedures, as new technologies become available. Our employees are governed by a code of conduct and are educated about our privacy policies, and about the importance of maintaining the confidentiality of customer information.
-
-  * If medical information is collected in the course of providing insurance services to you, this information will not be used for any purpose except as you have authorized. 
-  * We strive to maintain complete and accurate information about you and your accounts. If you believe that our records contain inaccurate or incomplete information, please notify us. We will investigate and correct any inaccuracies. 
-  * Our policies for protecting nonpublic personal information apply to customers with a current or former relationship for personal, family or household purposes.
-
-
-
-**Rest assured we will keep your information confidential.** We will protect your privacy automatically, every day, without requiring any action on your part. We want you to know that you can trust us - not only to keep your information confidential, but also to provide you with the financial advice and services you need today and in the years to come. Thank you for the opportunity to serve your financial needs. 
-
-This policy is provided to you in accordance with the privacy provisions in Title V of the Gramm-Leach-Bliley Act. We may change this policy from time to time, and we will provide an annual notice of our policy to customers with an ongoing relationship. 
-
-The following is a list of First Banks, Inc.'s subsidiary banks and family of financial companies affiliated through common ownership as of March 31, 2003:
-
-The San Francisco Company 
-
-First Bank   
-a/k/a: First Bank, D/B/A First Bank & Trust 
-
-FB Commercial Finance, Inc. 
-
-Missouri Valley Partners, Inc. 
-
-First Services, LP 
-
-First Land Trustee Corporation 
-
-First Brokerage America LLC 
-
-First Title Guaranty, LLC   
-D/B/A First Banc Insurors 
-
-First Title Guaranty, LLC   
-D/B/A First Associate Title 
-
-First Banc Mortgage, Inc. 
-
-First Banc Mortgage, Inc.   
-D/B/A First Banc Home Mortgage, Inc. 
-
-First Banc Mortgage, Inc.   
-D/B/A FirstBanc Home Mortgage, Inc. 
-
-First Banc Mortgage, Inc.   
-D/B/A FB Mortgage, Inc. 
-
-First Banc Mortgage, Inc.   
-D/B/A FBH Mortgage, Inc. 
+**Updates to This Policy**  
+We may revise this policy from time to time. If we make updates to this Policy, we will update this First Bank Online Privacy Policy with the changes and the new effective date.
