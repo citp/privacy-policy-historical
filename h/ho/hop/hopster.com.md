@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopster.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318234400id_/https%3A//www.hopster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopster.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906080144id_/https%3A//www.hopster.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -68,5 +68,20 @@ Service available on most carriers including U.S. Cellular, AT&T, Cellular One, 
 Hopster may make periodic changes to this privacy policy and changes will be posted on the Hopster.com web site. We may also notify you by e-mail if there is a material change in our privacy practices or policies. Your continued use of your Account or the Hopster.com web site shall constitute your acceptance of any such amendment.
 
 ## If you have any questions about this Privacy Policy, the practices of this Site or your dealings with Hopster.com, please contact us.
+
+### By email:
+
+[support@hopster.com](mailto:support@hopster.com)
+
+### By phone:
+
+1-855-HOPSTER (467-7837)
+
+### By mail: 
+
+Hopster, Inc.   
+attn: Legal Dept.  
+1600 Aspen Commons, Floor 9   
+Middleton, WI 53562
 
 REVISED 11/20/14
