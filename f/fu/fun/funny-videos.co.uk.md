@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny-videos.co.uk privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508192416id_/http%3A//www.funny-videos.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-videos.co.uk privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906231842id_/http%3A//www.funny-videos.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for Funny Videos
 
