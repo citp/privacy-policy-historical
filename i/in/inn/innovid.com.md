@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the innovid.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608093040id_/http%3A//www.innovid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovid.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906085656id_/http%3A//www.innovid.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Innovid
 
 ## Innovid Privacy and Cookie Policy
 
-Innovid, Inc., having its principal office and place of business at 30 Irving Place, 11th Floor, New York, NY 10003
+Innovid, Inc., having its principal office and place of business at 30 Irving Place, 12th Floor, New York, NY 10003
 
 (“Innovid”) has a strong commitment to protect the privacy of visitors and users. Our Privacy and Cookie Policy describes how information is collected and utilised by Innovid. This Privacy and Cookie Policy (the “ **Policy** ”) applies to visitors to the website located at [www.innovid.com](http://www.innovid.com/) (the “ **Innovid Website** ”), and to Innovid’s online interactive video advertising services provided to various advertisers, agencies, publishers and other business across various third party websites and online media (the “ **Services** ”). Please contact us with any questions or concerns at [privacy@innovid.com](mailto:privacy@innovid.com).
 
@@ -46,7 +46,7 @@ If you register to use the Innovid Website as a customer of the Services (e.g., 
 
 Non-PII may be combined with a visitor’s Account Data once the visitor has registered for or subsequently logged into the Innovid Website. The combined data is used to provide, monitor and assist in improvements to the Services and the Innovid Website, and to customize content displayed to you on the Innovid Website.
 
-Anonymous Data, Account Data, Registration Data, and combined data collected from the Innovid Website is not sold or rented to third parties. In addition, such information is not shared with third parties except in the case of third party service providers, legal processes and aggregate information, as noted below.
+Non-PII Data, Account Data, Registration Data, and combined data collected from the Innovid Website is not sold or rented to third parties. In addition, such information is not shared with third parties except in the case of third party service providers, legal processes and aggregate information, as noted below.
 
 ##  Cookies
 
@@ -60,11 +60,11 @@ As an End User browses the Internet, he or she may visit Web pages or other onli
 
 The Non-PII collected by Innovid and/or received from third parties may be used to provide aggregate reports to advertisers, agencies and publishers who participate in the Services, to schedule, deliver and optimize advertisements, to limit the number of times a specific advertisement is presented to the same browser or device (frequency capping), to detect and eliminate fraudulent activity, to administer and enhance the Services and perform internal analysis, and to help Innovid display, optimize, target and/or customize advertisements to the interests or preferences of End Users. However, Innovid does not target advertisements based on audience interest in medical conditions, health, beauty or fitness.
 
-From time to time, advertisements served by Innovid may contain functionality that enables an End User to enter Personally Identifiable Information into such advertisements or into the landing page to which such advertisements are linked, in order to allow the End User to sign-up for or receive information regarding a product or service offered by an advertiser. In the event that an End User elects to provide Personally Identifiable Information under such circumstances, Innovid may collect the Personally Identifiable Information on behalf of such advertiser. Innovid may share such information with the advertiser or with such advertiser’s agency, and will not use such information for any other purpose.  The End User should review the advertiser’s privacy policy to understand how the advertiser will process the PII entered by the End User.
+From time to time, advertisements served by Innovid may contain functionality that enables an End User to enter PII into such advertisements or into the landing page to which such advertisements are linked, in order to allow the End User to sign-up for or receive information regarding an advertiser or publisher’s product, service, program or other offer. In the event that an End User elects to provide PII under such circumstances, Innovid may store such information and may share it with the advertiser, agency or publisher on behalf of whom the advertisement was served, and/or with such entity’s service provider.  Innovid may use such information to fulfill or aid in the fulfillment of the End User’s request and/or to auto-populate future requests by the End User’s device. In cases where the advertisement contains functionality enabling Innovid to store the PII, the End User will have the option to opt-out of the storage of such information by indicating its preference in the appropriate checkbox shown in the advertisement. The End User should review the advertiser or publisher’s privacy policy to understand how such entity will process the PII entered by the End User. If you would like Innovid to delete all records of your PII, please send us an email at [privacy@innovid.com](mailto:privacy@innovid.com).
 
 ###  Industry Self-Regulation
 
-Innovid is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI) and adheres to the NAI Code of Conduct.
+Innovid is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/) (NAI) and adheres to the 2015 Update to the NAI Code of Conduct.
 
 ###  Opt-Out of Interest-Based Advertising
 
@@ -88,12 +88,7 @@ We may disclose information to third parties if we sell or buy any business or a
 
 ##  Newsletter Subscriptions
 
-You can change your subscription status with regards to Innovid’s email newsletters at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, or by emailing [support@innovid.com](mailto:support@innovid.com) and writing "Cancel Newsletter Subscription" in the subject line. You may also write to Innovid at:
-
-Innovid, Inc.  
-Attn.: Newsletter Services  
-584 Broadway, Suite #1206  
-New York, NY 10012
+You can change your subscription status with regards to Innovid’s email newsletters at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, or by emailing [support@innovid.com](mailto:support@innovid.com) and writing "Cancel Newsletter Subscription" in the subject line. 
 
 ##  Aggregate Information
 
@@ -123,7 +118,7 @@ Innovid reserves the right to change or modify this Privacy Policy from time to 
 
 Innovid, Inc.  
 Attn.: Privacy  
-30 Irving Place, 11th Floor  
+30 Irving Place, 12th Floor  
 New York, NY 10003
 
-Last updated: August 20, 2013
+Last updated: August 31, 2015
