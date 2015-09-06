@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecampus.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216152842id_/http%3A//www.ecampus.com/help/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecampus.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906154140id_/http%3A//www.ecampus.com/help/privacy-policy.asp) for the most accurate reproduction.*
 
 # Help Desk - Privacy Policy | eCampus.com | Textbooks - Easy. Fast. Cheap!
 
@@ -31,8 +31,6 @@ eCampus.com releases personal account information, in good faith, when such rele
 ## Securing Your Private Info
 
 eCampus.com employs the latest version of Secure Socket Layer Technology (SSL) to encrypt your information and help insure that only you and eCampus.com ever see it. If your web browser doesn't permit a secure connection, eCampus.com will not accept your personal information including credit card numbers. Your browser should display a "padlock" or "key" icon in the lower margin of your web browser when a secure connection is made, and the URL bar at the top of your browser will typically show the website address preceded by the characters "https".
-
-eCampus.com is also a VeriSign Secure Site, ensuring the highest levels of security so you can be certain that our site is genuine and that the information you provide us stays private and confidential. By displaying the VeriSign Secure Site Seal, eCampus.com allows you to check the website Server ID's information and status in real time and provides additional protection against the misuse of revoked and expired certificates.
 
 ## Your Consent
 
