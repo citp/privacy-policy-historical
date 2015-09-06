@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mycheapapartments.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326054141id_/https%3A//www.apartmentlist.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycheapapartments.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906215023id_/https%3A//www.apartmentlist.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Apartment List
 
 Last Updated: 9/4/2014
 
-Welcome to this website (“Site”), as operated by Apartment List, Inc. (“Company” or “we”). Company operates the Site and other associated services and offerings, including, without limitation, mobile and tablet applications, that allow individuals to list or locate apartments, houses or other real estate for rent or sale and to locate roommates (collectively, the "Service"), and makes it available to you subject to the Terms of Service (the "Terms"). This Privacy Policy is incorporated into and is subject to the Terms of Service. Capitalized terms used but not defined in this Privacy Policy have the meaning given to them in the Terms of Service.
+Welcome to this website (“Site”), as operated by [Apartment List](https://web.archive.org/), Inc. (“Company” or “we”). Company operates the Site and other associated services and offerings, including, without limitation, mobile and tablet applications, that allow individuals to list or locate apartments, houses or other real estate for rent or sale and to locate roommates (collectively, the "Service"), and makes it available to you subject to the Terms of Service (the "Terms"). This Privacy Policy is incorporated into and is subject to the Terms of Service. Capitalized terms used but not defined in this Privacy Policy have the meaning given to them in the Terms of Service.
 
 This Privacy Policy applies to the information you provide to us or that we learn from you through the Service, and describes how we may collect, use, and disclose this information. If you do not want information about you to be used in the manner described in this Privacy Policy, please do not use the Service.
 
