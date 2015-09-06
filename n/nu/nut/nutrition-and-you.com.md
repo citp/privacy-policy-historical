@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608022036id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrition-and-you.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906111308id_/http%3A//www.nutrition-and-you.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.nutrition-and-you.com Privacy Policy
+
+Custom Search 
 
 ## Privacy policy
 
@@ -21,7 +23,7 @@ Once information is reviewed, it is discarded or stored in our files. If we make
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our website to ascertain how many times you have seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/policies/privacy/).
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART (Dynamic Advertising Reporting & Targeting) cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/policies/privacy/).
 
 The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's [privacy policy](http://www.google.com/policies/privacy/) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
 
@@ -45,6 +47,13 @@ Some third-party advertisements may be provided by Google, which uses cookies to
 The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's [privacy policy](http://www.google.com/policies/privacy/) shall apply to your use of the Search Box and by using the Search Box, you consent to Google using your personal data in accordance with its [privacy policy](http://www.google.com/policies/privacy/).
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions should not cause a problem with our site, should you so choose.
+
+  
+
+
+#### EU user consent policy 
+
+This website uses cookies to ensure you get the best experience on our website. We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. You may opt out of the use of the DART cookie by visiting using the [Ads Settings](http://www.google.com/ads/preferences), and [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
   
 
@@ -84,13 +93,42 @@ Www.nutrition-and-you.com reserves the right to make changes in this policy. If 
   
 
 
-####  Agreeing to Terms
+#### Agreeing to Terms
 
 If you do not agree to nutrition-and-you.com privacy policy as posted here on this website, please do not use this site or any services offered by this site.
 
-Your use of this site indicates acceptance of this privacy policy. We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use our website as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+Your use of this site indicates acceptance of this privacy policy. We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use our website as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
 [Nutrition-and-you.com](http://www.nutrition-and-you.com/index.html) strives to maintain the highest standards of decency, fairness, and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
+
+<<-Back to [Home page from privacy policy](http://www.nutrition-and-you.com/index.html). 
+
+Visit here for very informative pages on:-
+
+  * [Fruits](http://www.nutrition-and-you.com/fruit-nutrition.html),
+
+  * [Vegetables](http://www.nutrition-and-you.com/vegetable-nutrition.html),
+
+  * [Herbs](http://www.nutrition-and-you.com/healthy-herbs.html),
+
+  * [Spices](http://www.nutrition-and-you.com/healthy_spices.html),
+
+  * [Nuts and seeds](http://www.nutrition-and-you.com/nuts_nutrition.html), 
+
+  * [Phyto-nutrients](http://www.nutrition-and-you.com/phytonutrients.html), and 
+
+  * Research [articles](http://www.nutrition-and-you.com/nutrition-articles.html) on nutrition. 
+
+
+  
+
+
+Custom Search 
+
+  
+
+
+[](http://www.addthis.com/bookmark.php?v=250&pub=naanu)
 
   
 
