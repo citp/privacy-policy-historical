@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizzle.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404181538id_/https%3A//www.quizzle.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizzle.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906101224id_/https%3A//www.quizzle.com/security-and-privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Quizzle
 
@@ -114,6 +114,6 @@ We provide you the opportunity to update or correct the contact information that
 
 ### We Provide Various Ways for You to Contact Us About Our Information Practices and Other Aspects of Privacy.
 
-Questions regarding the Quizzle web site’s privacy statement, our online privacy policy, our information practices or other aspects of privacy on our web sites, should be directed to us by e-mail to [support@quizzle.com](mailto:support@quizzle.com) or by writing to us at Quizzle LLC, Attn: Customer Service, 1042 Woodward Avenue, Detroit, MI 48226-1906.
+Questions regarding the Quizzle web site’s privacy statement, our online privacy policy, our information practices or other aspects of privacy on our web sites, should be directed to us by e-mail to [feedback@quizzle.com](mailto:feedback@quizzle.com) or by writing to us at Quizzle LLC, Attn: Customer Service, 1274 Library Street, Detroit, MI 48226-1906.
 
 [Top of Page](https://www.quizzle.com/security-and-privacy#page_title)
