@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipsandcurves.com privacy policy that was archived on 2015-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150521171756id_/http%3A//www.hipsandcurves.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipsandcurves.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906065256id_/http%3A//www.hipsandcurves.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hips & Curves
 
@@ -6,7 +6,7 @@
 
 Thank you for visiting Hips and Curves.com, owned and operated by CMI Enterprises, LLC dba Hips & Curves.com ("H&C"). H&C is committed to treating the personal information of our users with respect and sensitivity. Our privacy commitment to users of our website and Facebook page (collectively "Site") is described in this Privacy Policy. As our services evolve and we perceive the need or desirability of using information collected in other ways, we may from time to time amend this Privacy Policy. We post the effective date of our Privacy Policy on our website. We encourage you to check our Site frequently to see the current Privacy Policy and Terms of Use in effect and any changes that may have been made to them. If we make material changes to this Policy we will post the revised Policy and the revised effective date on this Site. Please check back here periodically or contact us at the address listed at the end of this Policy.
 
-This Policy is part of our Terms of Use Agreement. Please click [here](https://web.archive.org/web/20150521171756id_/http%3A//www.hipsandcurves.com/terms-of-service) to see that Agreement.
+This Policy is part of our Terms of Use Agreement. Please click [here](https://web.archive.org/web/20150906065256id_/http%3A//www.hipsandcurves.com/terms-of-service) to see that Agreement.
 
 **General Information**
 
