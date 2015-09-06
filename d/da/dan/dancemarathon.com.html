@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dancemarathon.com privacy policy that was archived on 2015-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150526185426id_/http%3A//childrensmiraclenetworkhospitals.org/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dancemarathon.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906031219id_/http%3A//childrensmiraclenetworkhospitals.org/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta content="IE=8" http-equiv="X-UA-Compatible"><meta property="fb:page_id" content="30410334534"><link type="image/x-icon" href="/favicon.ico" rel="SHORTCUT ICON"><title>
 	
@@ -31,7 +31,13 @@
 	<link href="/Content/ui-darkness/jquery-ui-1.8.5.custom.css" rel="stylesheet" type="text/css">
 	<link href="/Scripts/validationEngine/css/validationEngine.jquery.css" rel="stylesheet" type="text/css">
 	<script type="text/javascript">
-		$(document).ready(function () {
+	    $(document).ready(function () {
+
+	        //this should never happen, but just in case, if there is no language cookie then set one.
+	        if (document.cookie.indexOf("language") <= 0) {
+	            setCookie('language', 'en-US', 9999, '.childrensmiraclenetworkhospitals.org');
+	        }
+
 			$.preloadCssImages();
 			// Setup the mask for the zipcode box
 			$('#zipcode').mask("99999", { placeholder: " " });
@@ -114,21 +120,38 @@
 		// Set the language cookie for the user and set it to expire along time from 
 		// now & reload the page , domain: '.childrensmiraclenetworkhospitals.org'
 		function ChangeLangauge(lang) {
-			var languageDomain = "";
-			$.getJSON('/Home/GetLangaugeCookieDomain', // URL
+		    $.cookie('language', null);
+		    $.cookie('language', null);
+		    var languageDomain = "";
+		    $.getJSON('/Home/GetLangaugeCookieDomain', // URL
                 function (data) {// Callback
-                	languageDomain = data;
+                    languageDomain = data;
                 }
             );
 
-			if (languageDomain == null || languageDomain == '') {
-				$.cookie('language', null);
-				languageDomain = ".childrensmiraclenetworkhospitals.org";
-			}
+		    if (languageDomain == null || languageDomain == '') {
+		        $.cookie('language', null);
+		        $.cookie('language', null);
+		        languageDomain = ".childrensmiraclenetworkhospitals.org";
+		    }
 
-			$.cookie('language', lang, { expires: 9999, path: '/', domain: languageDomain });
-			location.reload();
-		};
+		    DeleteCookie('language');
+		    setCookie('language', lang, 9999, languageDomain);
+		    location.reload();
+		}
+
+		function DeleteCookie(name) {
+		    var expires = new Date();
+		    expires.setUTCFullYear(-1);
+		    document.cookie = name + '=; expires=' + expires.toUTCString();
+		}
+
+		function setCookie(cname, cvalue, exdays, languageDomain) {
+		    var d = new Date();
+		    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+		    var expires = "expires=" + d.toUTCString();
+		    document.cookie = cname + "=" + cvalue + "; " + expires + "; path=/; domain=" + languageDomain + "; true";
+		}
 
 		Cufon.replace('h1');
 		Cufon.replace('h2');
