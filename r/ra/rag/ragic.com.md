@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragic.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429091324id_/http%3A//www.ragic.com/sims/reg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragic.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906163202id_/http%3A//www.ragic.com/sims/reg/privacy.html) for the most accurate reproduction.*
 
 # Ragic - Privacy Policy
 
