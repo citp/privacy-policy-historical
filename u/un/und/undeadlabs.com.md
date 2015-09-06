@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the undeadlabs.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502025502id_/http%3A//undeadlabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undeadlabs.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906202557id_/http%3A//www.undeadlabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Undead Labs » Privacy Policy
+# Privacy Policy
 
-_Last updated August 16, 2012_
+_Last updated May 27, 2015_
 
 ## _Our Privacy Commitment_
 
-Undead Labs, LLC (“ ** _Undead Labs,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Undead Labs www.delphivim.comwebsites where this Privacy Policy is posted (the “ ** _Site(s)_** ”) (we refer to the Site(s), the services and the video games made available through the Site(s), collectively, as the “ ** _Undead Labs Features_** ”).  As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Undead Labs Features how we use and protect the information we collect through the Site(s).  By visiting the Site(s) or using any of the Undead Labs Features, you consent to Undead Labs’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy.  This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies.
+Undead Labs, LLC (“ ** _Undead Labs,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Undead Labs websites where this Privacy Policy is posted (the “ ** _Site(s)_** ”) (we refer to the Site(s) and the services made available through the Site(s), collectively, as the “ ** _Undead Labs Features_** ”). As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Undead Labs Features how we use and protect the information we collect through the Site(s). By visiting the Site(s) or using any of the Undead Labs Features, you consent to Undead Labs’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy. This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies. 
 
 This policy answers the following questions:
 
-  * What information do we collect about you and how do we use it?
-  * Will we share your personal information with third parties?
+What information do we collect about you and how do we use it?
+
+  * Do we share your personal information with third parties?
   * What choices do you have about the collection and use of your personal information?
   * What security measures do we take to safeguard your personal information?
 
@@ -25,7 +26,7 @@ Personal information means information that can be used to identify and contact 
 
 We collect personal information when you subscribe to our newsletter; participate in chat rooms, forums, polls, surveys, and questionnaires; participate in contests, sweepstakes or other promotions.
 
-Additionally, we may also collect other types of information (known as demographic information) such as your gender, hobbies, occupation, platform preferences, and other game ownership information. This demographic information may be associated with your personal information.
+Additionally, we may also collect other types of information (known as demographic information) such as your sex, hobbies, occupation, platform preferences, and other game ownership information. This demographic information may be associated with your personal information.
 
 ### **How We Use Your Personal Information**
 
@@ -33,19 +34,31 @@ The personal information you provide to us will allow us to alert you of new pro
 
 We keep track of your interactions with us, including but not limited to your activity within the Undead Labs Features. We may use personal information that you provide to us to send messages to you in response to your request to perform an activity in connection with your use of any of the Undead Labs Features. We may also use your personal information to contact you when necessary.
 
-### **Cookies**
+### **De-Personalizing Your Information**
 
-“Cookies” are small bits of electronic information that a website sends to a visitor’s browser and are stored on the visitor’s hard drive. Like many websites, we employ cookies in certain areas of the Site(s) to allow us to provide information which is targeted to your interests and to make your online experience more convenient. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are.  Should you disable cookies in your browser, you will have to provide your screen name and password each time you log in.
+We may make your personal information non-personally identifiable by either combining it with information about other users (aggregating your personal information with information about other users), or by removing characteristics (such as your name or email address) that make the information personally identifiable. This process is known as de-personalizing your information. You grant us a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your personal information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data we collect on the Site(s) and Undead Labs Features (the “ _Analytical Data_ ”). We are expressly authorized to make any commercial use of the Analytical Data, including without limitation, sharing the Analytical Data with third parties.
 
-### **Log Information**
+### **Cookies and other Technical Information**
 
-Our servers automatically record information that your browser sends whenever you visit the Site(s).  This information includes your Internet Protocol address, your browser type and version, the search engine you used to find the Undead Labs Features, if any, the operating system your computer uses, which Undead Labs Features you use and when and how long you use them.  We use this information to monitor and analyze how users use the Undead Labs Features, to provide customer service and to maintain and improve the Undead Labs Features.
+“Cookies” are small bits of electronic information that a website sends to a visitor’s browser and are stored on the visitor’s hard drive. Like many websites, we employ cookies in certain areas of the Site(s) to allow us to provide information to make your online experience more convenient and to enhance your experience with the Site(s). For example, when you return to the Site(s) forums after logging in, cookies provide information so that the Site(s) will remember who you are on subsequent visits, speeding up or enhancing your experience of the Site(s) by, for instance, tailoring content to you. Cookies are not spyware or adware, and can’t deliver viruses or run programs on your computer. You may configure your web browsers to accept or reject or delete the cookies, or notify you when a cookie is being set. 
+
+We may collect other technical information from you when you visit the Site(s), including your IP address, browser type, domain names, access times, and geolocational information. 
+
+### **“Do Not Track”**
+
+Because consumers are often unaware that their do-not-track beacons are active, do-not-track does not frequently reflect the actual preferences of our users. Accordingly, Undead Labs does not respond to the federal Do-Not-Track signal. Regardless, Undead Labs does not track your browsing, nor do we display advertising on the Site(s).
+
+### **Google Analytics  **
+
+Our Site(s) use Google Analytics to help us learn about who visits our Site(s) and what pages are being viewed. 
 
 ### **Children’s Privacy**
 
 We do not knowingly collect personal information from children under 13. We take children’s privacy seriously, and encourage parents to play an active role in their children’s online experience at all times.
 
-## _Will we share your personal information with third parties?_
+In the event that we learn that we have inadvertently gathered personal information from a child under the age of 13, we will take reasonable measures to erase such information from our records. Parents who believe that Undead Labs might have any information from or about a child under 13, may request that the information be removed by writing to [privacy@undeadlabs.com](mailto:privacy@undeadlabs.com).
+
+## **_Do we share your personal information with third parties?_**
 
 ### **Sharing of Information**
 
@@ -54,46 +67,80 @@ We may use your personal information to provide analyses of our users in the agg
 In addition, we will share the personal information we collect from you under the following circumstances:
 
   * _Protection of rights._   We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Use for the Undead Labs Features, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Undead Labs Features, or (iv) such action is appropriate to protect the rights, property or safety of Undead Labs, its employees, users of the Undead Labs Features or others.
-  * _Asset transfers.   _If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Undead Labs’s assets, user information, including personal information collected from you through your use of the Undead Labs Features, could be included in the transferred assets.  Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site(s). __
-  * _Service Providers.   _We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf.  For example, have partnered with other companies to maintain or manage the Undead Labs Features and our video games, manage contests or sweepstakes, process consumer surveys, fulfill prizes, or to process, analyze, and/or store data.  While providing services for us, these companies may access your personal information.  To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures. __
-  * _Publishing Partners_.  We may share your email address with our publishing partner, Microsoft Studios and its affiliates (collectively, “ **Microsoft** ”) for the purpose of notifying you about our products and services, including, but not limited to, contests, promotions, or special events and offers related to the Undead Labs Features that Microsoft provides.  To the extent applicable, we require Microsoft to comply with this Privacy Policy and appropriate confidentiality and security measures. __
+  * _Asset transfers.   _If we become involved in a merger, acquisition or other transaction involving the sale of some or all of Undead Labs’s assets, user information, including personal information collected from you through your use of the Undead Labs Features, could be included in the transferred assets.  Should such an event occur, we will use reasonable means to notify you, either through email and/or a prominent notice on the Site(s).
+  * _Service Providers._   We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf. For example, have partnered with other companies to maintain or manage the Undead Labs Features and our video games, manage contests or sweepstakes, process consumer surveys, fulfill prizes, or to process, analyze, and/or store data. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
+  * _Publishing Partners_. We may share your email address with our publishing partners for the purpose of notifying you about our products and services, including, but not limited to, contests, promotions, or special events and offers related to the Undead Labs Features that such publishing partners provide. To the extent applicable, we require our publishing partners to comply with this Privacy Policy and appropriate confidentiality and security measures.
 
 
+
+### **Collection of Information through video games we develop.**
+
+This Privacy Policy is not applicable to information collected through the video games Undead Labs develops for its publishing partners. The collection of such information is governed by the privacy policy of the applicable publishing partner. We do not control and are not responsible for the terms of service, privacy policies and/or practices of our publishing partners and you should review the policies and agreements of such publishing partners carefully.
 
 ### **Additional Information You Should Know About Third Parties**
 
-This Privacy Policy does not cover the information practices of third party websites linked to the Site(s). Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information.  You should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies.
+This Privacy Policy does not cover the information practices of third party websites linked to or from the Site(s). Although we encourage such third parties to adopt and follow their own privacy policies, we are not responsible for their collection and use of your personal information. You should refer to the privacy policies and statements of other websites or contact the respective webmasters of those websites to obtain information regarding their information collection, use and disclosure policies.
 
 When you have clicked on an advertisement or third party logo displayed on our Site(s) which links you to a different website, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.
 
-The Undead Labs Features may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another.  When you post to a message board, forum or chat area, please be aware that the information you post is made publicly available on-line and you do so at your own risk.
+The Undead Labs Features may also have message boards, forums and/or chat areas, where users can exchange ideas and communicate with one another. When you post to a message board, forum or chat area, please be aware that the information you post is made publicly available online and you do so at your own risk.
 
 ## _What choices do you have about the collection and use of your personal information?_
 
+When you provide us with personal information, you consent to our collecting, using, and sharing it in accordance with this Privacy Policy. If we ask for your personal information for a secondary reason, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+
 ### **Control of Your Information**
 
-You may update or delete your personal information by logging into your forum account at undeadlabs.com/forums and using the account management interface.  Please note that we may retain certain information for a reasonable period of time after you make yoru request for the purpose of internal account management and fraud prevention activities.
+Undead Labs allows you to control the way we use personally identifying information that we might obtain. At the time you provide personal information, Undead Labs may give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the mailings Undead Labs may send you, such as newsletters, have procedures within them to cancel the receipt of any future mailings. Lastly, you may opt out of certain third party sharing by requesting the deletion of your personal information.
 
-### **Opting Out of Receiving Communications from Us**
+### **Data Retention**
 
-If you no longer want to receive our newsletter, e-mails or other announcements, you may do so by replying to the unsubscribe link at the bottom of our e-mails.
+Undead Labs retains the collected data for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. Thereafter, Undead Labs deletes all aforementioned data in its possession within a reasonable timeframe. Undead Labs does not verify the correctness of personal data. 
+
+Please note that some data may be retained if necessary to resolve disputes, enforce Undead Labs’ user agreements, and comply with technical and legal requirements and constraints related to the security, integrity and operation of the Site(s) or Undead Labs Features.
+
+### **How to Opt Out, Correct or Delete Your Data**
+
+If you want to access to your personal information, seek to opt out of certain third party sharing, or correct, amend, or delete inaccurate data, you should direct your query to the below email address. If, for any reason, you are concerned with the way we are using your personal information, or would like to request that we delete such personal information, please contact us at: [privacy@undeadlabs.com](mailto:privacy@undeadlabs.com) or 93 S Jackson St # 80676, Seattle WA 98104, Attention: Privacy. We will respond to any request for access within 30 days. 
+
+In some cases, we may not be able to delete your personal information, and will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+### **California Residents: Your California Privacy Rights**
+
+Under California law, our users that are California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. See the section above entitled “Do We Share Your Information With Third Parties?” for more information. Furthermore, we give customers a mechanism to opt out of having their personal information disclosed to third parties for their direct marketing purposes. If you are a California resident, you may opt out of having your personal information shared with third parties and/or receiving information from Undead Labs (via email or postal mail) about new products, services, or promotions, by contacting us at [privacy@undeadlabs.com](mailto:privacy@undeadlabs.com) or 93 S Jackson St # 80676, Seattle WA 98104, Attention: Privacy.
+
+### **Governing Law**
+
+This Privacy Policy is governed by, and construed under, the laws of the United States of America and the laws of the State of Washington excluding its choice of law provisions.
 
 ### **Mediation**
 
-You agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy that you and Undead Labs will attempt in good faith to negotiate a written resolution of the matter directly between the parties.  You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in Seattle, Washington with a mutually agreed mediator in an attempt to resolve the dispute.  Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorney’s fees, even if you would otherwise be entitled to them.
+If you are a resident of a country outside the European Union, you agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy, you and Undead Labs will attempt in good faith to negotiate a written resolution of the matter directly between the parties. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in Seattle, Washington with a mutually agreed mediator in an attempt to resolve the dispute. Should you file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then you agree that you will not be entitled to recover attorneys’ fees, even if you would otherwise be entitled to them.
+
+### **Dispute Resolution for Residents of the European Union**
+
+If you are a resident of the European Union, in the event that you have any dispute or claim arising out of or relating to this Privacy Policy, you may report your claim to the European Union Data Protection Authorities located in your jurisdiction. 
+
+### **European Commission’s Directive on Data Protection – Safe Harbor**
+
+Undead Labs complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Undead Labs has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Undead Labs’ certification, please visit http://www.export.gov/safeharbor/.
+
+#### **Specific Note to Users Outside the United States and European Union**
+
+Undead Labs stores information about users of the Site(s) on servers primarily located in the United States, and Undead Labs may also store such information on servers and equipment in other countries. If you are accessing the Site(s) or Undead Labs Features from outside the United States and the European Union, note that data and personal information you submit will be transferred to and stored in servers in the United States or other countries. The data protection and other laws of the United States and/or other countries might not be as comprehensive as those in your country. By submitting your data and/or using the Site(s) or the Undead Labs Features, you consent to the transfer, storing, and processing of your data in and to the United States.
 
 ## _What security measures do we take to safeguard your personal information?_
 
-The personal information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information.  In addition, we restrict access to personal information to Undead Labs employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Undead Labs Features.  All Undead Labs personnel who have access to this information are trained in the maintenance and security of such information.  However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the Undead Labs Features and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk.  Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
+The personal information that you provide to us is stored on servers, which are located in secured facilities with restricted access, and protected by protocols and procedures designed to ensure the security of such information. In addition, we restrict access to personal information to Undead Labs employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Undead Labs Features. All Undead Labs personnel who have access to this information are trained in the maintenance and security of such information. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us or through the use of any of the Undead Labs Features and you acknowledge and agree that you provide such information and engage in such transmissions at your own risk. Once we receive a transmission from you, we will endeavor to maintain its security on our systems.
 
 ## _Notification of Changes_
 
-This Privacy Policy may change from time to time and we will post all changes on this page.
+This Privacy Policy may change from time to time and we will post all changes on the Site(s). You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you use the Site(s) or Undead Labs Features after the updated Privacy Policy is posted on the Site(s). If at any point you do not agree to any portion of the Privacy Policy then in effect, you must immediately stop using the Site(s) and Undead Labs Features.
 
 ## _Questions?   Contact Us_
 
-If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at **contact@undeadlabs.com.**
+If you have any questions about our privacy practices or this Privacy Policy, please contact us by email at privacy@undeadlabs.com.
 
 ## _Terms of Use_
 
-Please read the [Terms of Use](http://undeadlabs.com/tou) **** governing the use of the Site(s) and the Undead Labs Features.
+Please read the [Terms of Use](http://undeadlabs.com/tou) governing the use of the Site(s) and the Undead Labs Features.
