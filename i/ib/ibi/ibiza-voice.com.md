@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibiza-voice.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629105407id_/http%3A//www.ibiza-voice.com/help/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiza-voice.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906083842id_/http%3A//www.ibiza-voice.com/help/Privacy_Policy.php) for the most accurate reproduction.*
 
 # I Voice :: Electronic Dance Music Magazine :: Hype Lies & Gossip2015
 
