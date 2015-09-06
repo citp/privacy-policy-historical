@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parasoft.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629002137id_/http%3A//www.parasoft.com/parasoft-corporation-online-information-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parasoft.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906204327id_/https%3A//www.parasoft.com/parasoft-corporation-online-information-privacy-policy) for the most accurate reproduction.*
 
 # Parasoft Corporation Online Information Privacy Policy - Parasoft
 
