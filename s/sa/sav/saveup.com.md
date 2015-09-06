@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveup.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315065417id_/https%3A//www.saveup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveup.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906230908id_/https%3A//www.saveup.com/privacy) for the most accurate reproduction.*
 
 # SaveUp Privacy Policy
 
@@ -110,8 +110,8 @@ SaveUp welcomes your comments or questions regarding this Privacy Policy. Please
 
 SaveUp, Inc.   
 Attn: Customer Service   
-480 2nd Street, Suite 202   
-San Francisco CA 94107 
+28392 Ballard Dr.,   
+Lake Forest, IL 60045 
 
 ##### Dispute Resolution
 
@@ -121,4 +121,4 @@ If you believe that SaveUp has not adhered to this Statement, please contact Sav
 
 This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any changes to this Privacy Policy will be effective immediately if you are a new user of the Services and will be effective thirty (30) calendar days after posting of notice of such changes on the Site if you are an existing user, provided that, if you are an existing user, any material changes shall be effective for you upon the earlier of thirty (30) calendar days following posting of notice of such changes on the Site or thirty (30) calendar days after dispatch of an e-mail notice of such changes to you. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided to us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of the Site or Services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-This Privacy Policy was last revised on July 19, 2011. 
+This Privacy Policy was last revised on May 18, 2015. 
