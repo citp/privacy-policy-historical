@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314225041id_/http%3A//eyereturnmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906133351id_/http%3A//eyereturnmarketing.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy And Opt Out | eyereturn marketing
+# Privacy Policy And Opt Out | Eyereturn Marketing
 
 Our commitment to privacy: eyereturn marketing Inc. (“eyereturn”), knows that protecting the privacy and confidentiality of your information is important to you. This Privacy Code governs the collection, use and disclosure of your information in any form, whether written or electronic, by eyereturn. This Privacy Code explains what information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices.
 
