@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gomerblog.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629133921id_/http%3A//www.gomerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomerblog.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906064953id_/http%3A//gomerblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GomerBlog
-
-**Gomerblog Privacy Policy**
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies, such as Google AdSense and Switch Ads may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.
 
