@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearts-cardgame.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316083430id_/http%3A//www.hearts-cardgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearts-cardgame.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906220359id_/http%3A//www.hearts-cardgame.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
