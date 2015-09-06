@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315083738id_/https%3A//pristineauction.com/default/index/pages/name/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pristineauction.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906054016id_/https%3A//pristineauction.com/default/index/pages/name/privacyPolicy) for the most accurate reproduction.*
 
 # at Pristine Auction
 
