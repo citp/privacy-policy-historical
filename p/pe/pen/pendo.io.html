@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pendo.io privacy policy that was archived on 2015-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150517030047id_/http%3A//www.pendo.io/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pendo.io privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906040805id_/http%3A//www.pendo.io/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -21,12 +21,12 @@
 
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet" type="text/css">
-
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   </head>
 
   <body>
 
-    <nav class="navbar navbar-fixed-top pendo-nav">
+    <nav class="navbar navbar-fixed-top pendo-nav trans-nav">
       <div class="container-fluid">
 	<div class="navbar-header">
 	    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#pendo-navbar-collapse">
@@ -35,7 +35,7 @@
 	      <span class="icon-bar"></span>
 	      <span class="icon-bar"></span>
 	    </button>
-	    <a href="/"><img alt="Pendo Logo" src="/_themes/pendo_base/img/Pendo-logo.png"></a>
+	    <a href="/" class="logo" title="Pendo"></a>
 	</div>
 
 	<div class="collapse navbar-collapse" id="pendo-navbar-collapse">
@@ -121,6 +121,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 	    <li class="nav"><a href="/company#team">Team</a></li>
 	    <li class="nav"><a href="/company#contact">Contact Us</a></li>
 	    <li class="nav"><a href="/company#jobs">Jobs</a></li>
+	    <li class="nav"><a href="http://blog.pendo.io">Blog</a></li>
 	  </ul>
 	</div>
 	<div class="col-lg-2 col-md-6">
@@ -151,8 +152,8 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 	  <div class="nav_section_label">RESOURCES</div>
 	  <ul class="nav_pages">
 	    <li class="nav"><a href="/resources/usecases">Use Cases</a></li>
-	   <!-- <li class="nav">Customer Stories</li> -->
-	    <li class="nav"><a href="http://blog.pendo.io">Blog</a></li>
+	    <li class="nav"><a href="/resources/case-studies">Case Studies</a></li><a href="/resources/case-studies">
+	    </a><li class="nav"><a href="/resources/case-studies"></a><a href="/resources/articles">Articles</a></li>
 	    <li class="nav"><a href="/resources/product-engagement">Product Engagement</a></li>
         <li class="nav"><a href="/resources/guide-showcase">Guide Showcase</a></li>
 	  </ul>
@@ -175,7 +176,10 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 				<img alt="Pendo Logo" src="/_themes/pendo_base/img/logo-modal.png">
 				<span class="modal-text">Let Us Give You A Tour</span>
 			      <form class="register_form-row" action="http://pendo.createsend.com/t/t/s/dyjkjl/" method="post">
-				      <input type="email" name="cm-dyjkjl-dyjkjl" placeholder="Your Email">
+				      <input type="email" name="cm-dyjkjl-dyjkjl" placeholder="Your Email (Required)">
+					  <input id="fieldName" name="cm-name" type="text" placeholder="Your Name">
+					  <input id="fieldhrtkkd" name="cm-f-hrtkkd" type="text" placeholder="Company">
+					  <input id="fieldhrtkkh" name="cm-f-hrtkkh" type="tel" placeholder="Phone"><br>
 				      <button class="btn btn-primary">TELL ME MORE</button>
 			      </form>
 			    </div>
@@ -242,9 +246,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="/_themes/pendo_base/js/bootstrap.min.js"></script>
     <script src="/_themes/pendo_base/js/isotope.pkgd.min.js"></script>
+
+	<script>
+
+		$('#usecase-container').on('click', '.usecase-normal > a', function() {
+			 $(this).parent().siblings('.usecase-float').css({"display": "inline"});		
+		})
+		$('#usecase-container').on('click', '.usecase-close > a', function() {
+			 $(this).parent().parent().css({"display": "none"});		
+		})
+
+	</script>
       
     <!-- Ace Code Editor -->
     <script>
@@ -258,6 +273,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         });
     </script>
 
+    <script src="/_themes/pendo_base/js/main.js"></script>
     <script src="/_themes/pendo_base/js/usecases.js"></script>
   
 
