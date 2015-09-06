@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420190838id_/http%3A//www.lootcrate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906143239id_/https%3A//www.lootcrate.com/privacy_policy) for the most accurate reproduction.*
 
 # Loot Crate™ - Monthly Geek and Gamer Subscription Box
 
@@ -53,7 +53,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.lootcrate.com/terms_conditions](https://web.archive.org/terms_conditions) Your Consent By using our site, you consent to our privacy policy.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.lootcrate.com/terms_conditions](https://web.archive.org/terms_conditions). By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -61,11 +61,11 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Loot Crate™   
-3401 Pasadena Avenue   
-Los Angeles, CA 90031 
+Loot Crate™  
+3401 Pasadena Avenue  
+Los Angeles, CA 90031
 
-[weloveyou@lootcrate.com](mailto:weloveyou@lootcrate.com)   
+[weloveyou@lootcrate.com](mailto:weloveyou@lootcrate.com)  
 [https://www.lootcrate.com/](https://web.archive.org/)
