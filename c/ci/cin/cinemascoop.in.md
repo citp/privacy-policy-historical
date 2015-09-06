@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the cinemascoop.in privacy policy that was archived on 2015-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150524003812id_/http%3A//www.cinemascoop.in/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemascoop.in privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906221446id_/http%3A//www.cinemascoop.in/Home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting **cinemascoop.in** , a site presented to you by **XodaQ Info Ventures** (“XodaQ”). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience XodaQ site, and among XodaQ's network of affiliated websites ("XodaQ Network"), which includes any sites or services owned, operated or offered by or on behalf of XodaQ or its affiliates.
+##  XodaQ Info Ventures. Online Privacy Statement 
 
-###  The Information We Collect
+Thank you for visiting **cinemascoop.in** , a site presented to you by **XodaQ Info Ventures** (“XodaQ”). Your privacy is important to us. As such, we provide this privacy statement explaining our online information practices and the choices you can make about the way your information is collected and used at this general audience XodaQ site, and among XodaQ's network of affiliated websites ("XodaQ Network"), which includes any sites or services owned, operated or offered by or on behalf of XodaQ or its affiliates. 
+
+###  The Information We Collect 
 
 At some XodaQ Network sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. In the course of these various offerings, we often seek to collect from you various forms of personal information. Examples of the types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card/debit card information, and information about your interests in and use of various products, programs, and services. 
 
@@ -20,7 +22,7 @@ When you provide information from your social media account, it can help enable 
 
 Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use. 
 
-###  Use of Information
+###  Use of Information 
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, to offer you other products, programs or services that we believe may be of interest to you, to enforce the legal terms that govern your use of our sites, and/or for the purposes for which you provided the information. 
 
@@ -32,11 +34,11 @@ The information we collect in connection with our online forums and communities 
 
 If you choose to submit content for publication (e.g., a letter to our editors, comments sent to personalities, a posting to a blog or a discussion board, a picture, a video, other comments, posts, etc.), we may publish your screen name (or username) and other information you have provided to us. 
 
-We may on occasion combine information we collect through our sites with information that we collect from other sources.
+We may on occasion combine information we collect through our sites with information that we collect from other sources. 
 
-We use the non-personally identifiable information that we collect to improve the design and content of our sites, to deliver more relevant marketing messages and advertisements and to enable us to personalize your Internet experience. We also may use this information to analyze usage of our sites, as well as to offer you products, programs, or services.
+We use the non-personally identifiable information that we collect to improve the design and content of our sites, to deliver more relevant marketing messages and advertisements and to enable us to personalize your Internet experience. We also may use this information to analyze usage of our sites, as well as to offer you products, programs, or services. 
 
-###  Information Sharing and Disclosure
+###  Information Sharing and Disclosure 
 
 We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, to verify or enforce compliance with the policies governing our sites and applicable laws or as otherwise required or permitted by law or consistent with legal requirements. 
 
@@ -48,9 +50,9 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 If you have signed up to receive our e-mails and prefer not to receive marketing information from this site, follow the "unsubscribe" instructions provided on any marketing e-mail you receive from this site. 
 
-To provide visitors with additional or more relevant product and service opportunities, we may share non-personally identifiable information with third parties.
+To provide visitors with additional or more relevant product and service opportunities, we may share non-personally identifiable information with third parties. 
 
-###  Cookies & Web Beacons
+###  Cookies & Web Beacons 
 
 To enhance your online experience, we use "cookies" or similar technologies. Cookies are text files placed in your computer's browser to store your preferences. Cookies do not contain personally identifiable information; however, once you choose to furnish a site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
@@ -58,13 +60,13 @@ We use cookies to understand site and Internet usage and to improve or customize
 
 We, our third party service providers, advertisers or our partners also may use cookies to manage and measure the performance of advertisements displayed on or delivered by or through the XodaQ Network and/or other networks or sites. This also helps us, our service providers and partners provide more relevant advertising. For more information regarding third-party ad servers, see "Collection of Information by Third-Party Sites, Ad Servers, and Sponsors" below. 
 
-The Adobe Flash Player is a powerful application and web tool that allows rapid development of highly dynamic content. Sites on the XodaQ Network employ locally stored objects (sometimes referred to as "Flash cookies") in certain situations where we use Flash to provide special content such as video on demand, video clips or animation. Flash (and similar applications) use this technology to remember settings, preferences and usage similar to browser cookies but Flash cookies are not managed through your web browser. You can access your Flash management tools from [ Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) directly. 
+The Adobe Flash Player is a powerful application and web tool that allows rapid development of highly dynamic content. Sites on the XodaQ Network employ locally stored objects (sometimes referred to as "Flash cookies") in certain situations where we use Flash to provide special content such as video on demand, video clips or animation. Flash (and similar applications) use this technology to remember settings, preferences and usage similar to browser cookies but Flash cookies are not managed through your web browser. You can access your Flash management tools from [ Adobe's website ](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) directly. 
 
 We, our third party service providers, advertiser or our partners may also use "web beacons" or clear .gifs, or similar technologies, which are small pieces of code placed on a web page, to monitor the behavior and collect data about the visitors viewing a web page. For example, web beacons may be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page. 
 
 You can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Blocking all cookies will affect your online experience and may prevent you from enjoying the full features offered at Turner Network sites. Please consult the "Help" section of your browser for more information. 
 
-###  Collection of Information by Third-Party Sites, Ad Servers, and Sponsors
+###  Collection of Information by Third-Party Sites, Ad Servers, and Sponsors 
 
 Some of our sites contain links to or integrations with other sites such as Facebook, Twitter, LinkedIn, etc., whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. 
 
@@ -72,33 +74,33 @@ XodaQ Network sites covered by this privacy statement may offer content (e.g., c
 
 We also use the services of reputable third parties to provide us with data collection, reporting, ad response measurement, and site analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement. 
 
-###  International Transfer
+###  International Transfer 
 
 XodaQ operates globally so it is necessary to transfer your information internationally. In particular, your information will likely be transferred to and processed in India where many of our central databases operate. The data protection and other laws of other countries, such as India, may not be as comprehensive as those in your country. Please be assured that we take reasonable steps to ensure that your privacy is protected. By using this site you consent to your information being collected, used and transferred as set forth in this privacy statement. 
 
-###  Our Commitment to Security
+###  Our Commitment to Security 
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. How You Can Access or Correct Information
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. How You Can Access or Correct Information 
 
 Access to personally identifiable information that is collected from our sites and that we maintain may be available to you. For example, if you created a password-protected account within our sites, you can access that account to review the information you provided. 
 
-You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service.
+You may also send an e-mail or letter to the following e-mail or street address requesting access to or correction of your personally identifiable information. For verification purposes please include your first name, last name, e-mail address and the password you use for such service. 
 
 XodaQ Info Ventures  
 Attention: Privacy  
 NSP #119, Kesavadasapuram  
 Pattom Palace PO, Trivandrum  
 Kerala 695 004, India.  
-email: privacy@XodaQ.com
+email: privacy@XodaQ.com 
 
-###  How to Contact Us
+###  How to Contact Us 
 
 If you have any questions or concerns about the online privacy statement for this site or its implementation you may contact us at : privacy@XodaQ.com 
 
-###  Updates & Effective Date
+###  Updates & Effective Date 
 
 From time to time, we may update this privacy statement. We will notify you about material changes in the way we treat personally identifiable information by sending an email message to the email address you most recently provided to us or by prominently posting a notice on our site. We encourage you to periodically check back and review this statement so that you always will know what information we collect, how we use it, and with whom we share it. 
 
-The Privacy Statement posted on this site was updated on May, 2014.
+The Privacy Statement posted on this site was updated on May, 2014. 
 
 Version 2.0 
