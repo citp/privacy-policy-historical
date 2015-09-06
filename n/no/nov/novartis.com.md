@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the novartis.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516043418id_/http%3A//www.novartis.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novartis.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906042008id_/https%3A//www.novartis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | Novartis
 
 This Privacy Statement describes the ways in which we, Novartis AG, collect, hold and use information about individual persons who visit this website. BY USING THIS WEBSITE, YOU CONSENT TO THE COLLECTION AND USE OF INFORMATION AS SET FORTH IN THIS PRIVACY POLICY. YOU ALSO ACKNOWLEDGE THAT NOVARTIS AG MAY PERIODICALLY CHANGE, MODIFY, ADD OR REMOVE OR OTHERWISE UPDATE THIS PRIVACY POLICY AT ITS DISCRETION, WITHOUT PRIOR NOTIFICATION. However, we will always handle your Personal Information in accordance with the Privacy Policy that was in effect at the time of collection. It is our intention to post changes to our privacy policy on this page so that you are fully informed concerning the types of information we are gathering, how we use it, and under what circumstances it may be disclosed. Our Privacy Policy is located on our homepage and is also available on any page where Personal Data are requested. At such data collection points, further explanation may be provided, where appropriate, as to the purposes for which the data will be used.
 
 ## 1\. Pledge on privacy
 
 The term "Personal Data" as used in this Privacy Policy refers to information such as your name, birth date, e-mail address, mailing address, or telephone number that can be used to identify you. Generally, we will only process your Personal Data as described in this Privacy Policy. However, we reserve the right, to conduct additional processing to the extent permitted or required by law, or in support of any legal or criminal investigation.  
-The next sections explain how and when we collect Personal Data from you. 
+The next sections explain how and when we collect Personal Data from you.
 
 ## 2\. Intended use of Personal Data
 
@@ -27,12 +27,13 @@ Whenever we process Personal Data, we take reasonable steps to ensure that your 
 
 ## 5\. Security and confidentiality
 
-To ensure the security and confidentiality of Personal Data that we collect online, we use data networks protected, _inter alia_ , by industry standard firewall and password protection. In the course of handling your Personal Data, we take measures reasonably designed to protect that information from loss, misuse, unauthorized access, disclosure, alteration or destruction. 
+To ensure the security and confidentiality of Personal Data that we collect online, we use data networks protected, _inter alia_ , by industry standard firewall and password protection. In the course of handling your Personal Data, we take measures reasonably designed to protect that information from loss, misuse, unauthorized access, disclosure, alteration or destruction.
 
 ## 6\. Data transfer abroad
 
-We are part of the Novartis Group which is a global group of companies and has databases in different countries, some of which are operated by the local Novartis Group Company, and some of which are operated by third parties on behalf of the local Novartis Group Company. We may transfer your data to one of the Group's databases outside your country of domicile, potentially including countries which may not require an adequate level of protection for your Personal Data compared with that provided in your country.   
-However, Novartis has adopted Binding Corporate Rules, a system of principles, rules and tools, provided by European law, in an effort to ensure effective levels of data protection, in particular relating to transfers of personal information outside the EEA and Switzerland. Read more about your rights under the [Novartis Binding Corporate Rules](http://www.novartis.com/corporate-responsibility/responsible-business-practices/ethics-governance-and-compliance/data-privacy.shtml). 
+We are part of the Novartis Group which is a global group of companies and has databases in different countries, some of which are operated by the local Novartis Group Company, and some of which are operated by third parties on behalf of the local Novartis Group Company. We may transfer your data to one of the Group's databases outside your country of domicile, potentially including countries which may not require an adequate level of protection for your Personal Data compared with that provided in your country.
+
+However, Novartis has adopted Binding Corporate Rules, a system of principles, rules and tools, provided by European law, in an effort to ensure effective levels of data protection, in particular relating to transfers of personal information outside the EEA and Switzerland. Read more about your rights under the [Novartis Binding Corporate Rules](https://web.archive.org/node/4861).
 
 ## 7\. "Cookies" and internet tags
 
@@ -42,17 +43,17 @@ Occasionally, we may use internet tags (also known as action tags, single-pixel 
 
 ## 8\. Google Analytics
 
-We use Google Analytics to rationalize our portfolio of websites by (i) optimizing traffic to and between corporate websites, and (ii) integrating and optimizing web pages where appropriate. “Google Analytics” is a service offered by Google Inc. “Google” that generates detailed statistics about a website's traffic and traffic sources and measures conversions and sales. Google Analytics uses “cookies” stored on your computer to help analyze how users use our website.
+We use Google Analytics to rationalize our portfolio of websites by (i) optimizing traffic to and between corporate websites, and (ii) integrating and optimizing web pages where appropriate.“Google Analytics” is a service offered by Google Inc. “Google” that generates detailed statistics about a website's traffic and traffic sources and measures conversions and sales. GoogleAnalytics uses “cookies” stored on your computer to help analyze how users use our website.
 
-The information generated by the cookies about your use of our website, including your IP address, will be transmitted to and stored by Google on servers in the United States. The IP address, however, will be shortened before being sent to Google and Google can then not use it any more to identify you or your computer. Only in exceptional cases the full IP address will be transmitted to and shortened by Google in the US. 
+The information generated by the cookies about your use of our website, including your IP address, will be anonymized by use of the appropriate settings (“_anonymizelp()” function or equivalent) and transmitted to Google servers in the United States. For more information on how IP anonymization works please see <https://support.google.com/analytics/answer/2763052>
 
 On behalf of us, Google will use the information generated by the cookies for the purpose of evaluating the use of our website, compiling reports on website activity providing us with these reports for analytical purposes.
 
-Google may transfer this information to third parties in case of a statutory obligation or if a third party processes data on behalf of Google. Under no circumstances, Google will combine or associate your IP address with other data stored at Google. 
+Google may transfer this information to third parties in case of a statutory obligation or if a third party processes data on behalf of Google. Under no circumstances, Google will combine or associate your IP address with other data stored at Google.  
 
-You may prevent or stop the installation and storage of cookies by your browser settings by downloading and installing the free Opt-out Browser Add-on available at <https://tools.google.com/dlpage/gaoptout?hl=en>. We inform you that in such case you will not be able to wholly use all functions of our website.
+You may prevent or stop the installation and storage of cookies by you browser settings by downloading and installing the free Opt-out Browser Add-on available at <https://tools.google.com/dlpage/gaoptout?hl=en>. We inform you that in such case you will not beable to wholly use all functions of our website.
 
-By using our website you consent to the processing of any personal data Google will collect on you in the way and for the purpose as described above. 
+By using our website you consent to the processing of any personal data Google will collect on you in the way and for the purpose as described above.
 
 ## 9\. Personal information and children
 
