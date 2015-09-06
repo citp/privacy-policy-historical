@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficmastersacademy.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608081305id_/http%3A//www.trafficmastersacademy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficmastersacademy.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907011939id_/http%3A//www.trafficmastersacademy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Traffic Masters Academy
 
