@@ -1,35 +1,66 @@
-> *The following text is extracted and transformed from the jobsinnigeria.co privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529234404id_/http%3A//jobsinnigeria.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsinnigeria.co privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906232356id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
-# Privacy - Jobs in Nigeria
+# Neustar | Privacy
 
-## **Privacy Policy for _http://www.jobsinnigeria.co_** **  
-**
+**Highlights of the Neustar Privacy Policy**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **info@jobsinnigeria.co**.
+_Updated: September 23, 2014_
 
-At **_http://www.jobsinnigeria.co_** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by **_http://www.jobsinnigeria.co_** and how it is used.
+Neustar uses Personal Information to support data-driven decision-making and deliver personalized content _without_ sacrificing personal privacy. These “Highlights” summarize Neustar’s privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Policy](https://web.archive.org/privacy/privacy_policy) and [Privacy Principles](https://web.archive.org/privacy/privacy_principles).
 
-## **Log Files**
+### Our Commitment – Privacy by Design
 
-Like many other Web sites, **_http://www.jobsinnigeria.co_** makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+We follow the [Neustar Privacy Principles](https://web.archive.org/privacy/privacy_principles), including the principle of Privacy by Design _,_ to design, build, and deliver products and services that respect your privacy.
 
-## **Cookies and Web Beacons**
+### Personal Information Collection, Use, and Disclosure
 
-**_http://www.jobsinnigeria.co_** does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We collect [Personal Information](https://web.archive.org/privacy/privacy_policy#personal-info) from you directly and from businesses that use our products and services. We use registration data, including Personal Information, supplied by our online [Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners) to set [AdAdvisor Cookies](https://web.archive.org/privacy/privacy_policy#cookies), which do not contain or convey Personal Information. Finally, we collect and use Personal Information and other demographic data from a variety of sources such as telephone directories, the US Postal Service, the Census Bureau, and from other third parties. We do not use Sensitive Personal Information without your permission.
 
-## **DoubleClick DART Cookie**
+Read our full [Privacy Policy](https://web.archive.org/privacy/privacy_policy) or click on the links below to learn more about the Personal Information we collect and how we use it:
 
-.:: Google, as a third party vendor, uses cookies to serve ads on **_http://www.jobsinnigeria.co_**.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to **_http://www.jobsinnigeria.CO_** and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+  * [Information You Provide on our Web Site](https://web.archive.org/privacy/privacy_policy#info-you-provide)
+  * [Market Segmentation Data](https://web.archive.org/privacy/privacy_policy#market-segmentation-data)
+  * [Online Advertising](https://web.archive.org/privacy/privacy_policy#online-advertising)
+  * [IP Address Information](https://web.archive.org/privacy/privacy_policy#ip-addresses)
+  * [Domain Name Registry Data](https://web.archive.org/privacy/privacy_policy#domain-name-registry)
+  * [Internet and Telecommunications Routing Data](https://web.archive.org/privacy/privacy_policy#internet-comm-routing)
+  * [Other Name and Contact Data](https://web.archive.org/privacy/privacy_policy#other-use)
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on **_http://www.jobsinnigeria.co_** send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-**_http://www.jobsinnigeria.co_** has no access to or control over these cookies that are used by third-party advertisers.
+### Cookies
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. **_**_http://www.jobsinnigeria.co_**_** ‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+We may use Cookies, Web Beacons, Pixel Tags and similar technologies to enhance and personalize your experience on our web sites and to track, manage, and enable visitor transactions and preferences. In addition, we work with a variety of [Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners) to set [AdAdvisor Cookies](https://web.archive.org/privacy/privacy_policy#cookies). Businesses use the information in AdAdvisor cookies to tailor online advertising based on the likelihood that someone will share certain interests or propensities with members of an aggregated group. to tailor online advertising based on our predictions about the preferences and interests of large groups of similar consumers, and to measure the effectiveness of ad campaigns. We also use Log Data associated with AdAdvisor Cookies for marketing and analytics purposes, and to understand what kind of mobile devices are being used.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+### Advertising IDs
+
+**Mobile Advertising IDs.** We use Mobile Advertising IDs, also known as IDFA or IFA, in connection with [ElementOneSM](https://web.archive.org/marketing-solutions) and other marketing services. We obtain Mobile Ad IDs from Match Partners who have user consent to share this information. We share Segment Codes associated with Mobile Advertising IDs with our customers who have access to these identifiers with the consent of their users. This enables our clients to provide a more tailored user experience as well as relevant content and offers in the mobile environment. You can find more information about how mobile advertising IDs are used and how to opt out of mobile advertising in our Transparency and Choice section below.
+
+### Transparency and Choice
+
+You can check the [AdAdvisor Profile Manager](http://www.adadvisor.net/profileUpdate.html) to see if we have set an [AdAdvisor Cookie](https://web.archive.org/privacy/privacy_policy#cookies) through your browser. If so, the Profile Manager also displays the de-identified information contained in that cookie. You may opt out of the use of AdAdvisor Cookies for online behavioral advertising using the [AdAdvisor Opt-Out](http://www.adadvisor.net/optout.html). You can also learn more about online advertising in general on the [Network Advertising Initiative](http://www.networkadvertising.org/code-enforcement) web site, which also permits you to opt-out of receiving tailored online advertising from some or all of its members.
+
+### Mobile Advertising IDs
+
+  * Apple’s iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: [IDFA Opt-Out](http://support.apple.com/kb/HT4228).
+  * Similar to IDFA for Apple devices, Android devices pass Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile are used for advertising and receive instruction for how to opt out of mobile advertising on the [Google Privacy & Terms](http://www.google.com/policies/technologies/ads/) webpage.
+
+
+
+### Accountability
+
+Neustar is a member of the Network Advertising Initiative (NAI) and complies with the NAI Code of Conduct, the Digital Advertising Alliance (DAA) [Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/obaprinciples) **and we comply with the DAA’s**[Self-Regulatory Principles for Multi-Site Data](http://www.aboutads.info/msdprinciples).
+
+### Safe Harbor
+
+Neustar may receive Personal Information about residents of the European Union and Switzerland in the course of providing DNS services (including registry services) and telephone call routing services. Neustar’s handling of such information complies with the [U.S. – EU Safe Harbor](http://export.gov/safeharbor/eu/index.asp) framework and the [U.S. – Swiss Safe Harbor](http://export.gov/safeharbor/swiss/) framework as administered by the U.S. Department of Commerce, and we have certified our adherence to the Safe Harbor principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Additional information about the Safe Harbor programs is available at: www.export.gov/safeharbor.
+
+### The Fine Print
+
+[Click here](https://web.archive.org/privacy/privacy_policy) to read our full Privacy Policy and to learn more about our approach to children’s privacy, data security, disclosures required by law or for other purposes, and your privacy rights under California law.
+
+Our privacy practices and policies may be updated from time to time. We will post a notice regarding material changes on our web site.
+
+### Questions? Comments?
+
+Send us an email at: [privacy@neustar.biz](mailto:privacy@neustar.biz)
