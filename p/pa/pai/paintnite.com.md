@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paintnite.com privacy policy that was archived on 2015-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150128224517id_/http%3A//www.paintnite.com/pages/about/privacy/dc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintnite.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907011835id_/https%3A//www.paintnite.com/pages/about/privacy/sanfrancisco) for the most accurate reproduction.*
 
-# Paint Nite Dc | Privacy
+# Paint Nite Sanfrancisco | Privacy
 
-This Privacy Policy was last updated on: June 11, 2013.
+This Privacy Policy was last updated on: June 24, 2015.
 
 This Privacy Policy (“Policy”) sets forth the privacy policies that apply to your use of [http://www.paintnite.com](http://www.paintnite.com/) or any of our other websites (collectively, the “Site”) and any other services or products and any related software applications (collectively, the “Service”) offered and/or operated by Paint Nite, LLC (“Paint Nite” or “we” or “our” or “us”). By visiting our Site or otherwise signing up for and/or using our Service, you are subject to these privacy policies. 
 
@@ -41,6 +41,7 @@ Our goal is to collect and use only that information that we think is required f
 We will use your Personally Identifiable Information for the purposes for which it was provided. For example, Paint Nite may use your Personally Identifiable Information to notify you of changes to the event for which you registered, to let you know about special opportunities and other events you may be interested in, and to request your participation in surveys or other promotions. All of our newsletters and oter general email marketing communications also include an 'unsubscribe' opt-out link that you may use to ask that we discontinue such emails to you.  
 
   * **Aggregate Information** \- Paint Nite also combines your usage information for the Site or other Service with that of other users (“Aggregate Information”) to determine which features and areas of the Site or other Service are most popular. Aggregate Information does not contain any of your Personally Identifiable Information. By collecting and analyzing this data, Paint Nite can improve the Site or other Service. 
+  * **Interest Based Advertising** \- Paint Nite will show you ads based on information that we, or agencies that Paint Nite utilizes, have collected or received about your activities and interests based on your online activities. Paint Nite also does not target ads to users based on sensitive health data, including cancer, mental health-related conditions, and sexually-related areas. If you don’t want to receive interest based advertising you can [opt out.](http://www.networkadvertising.org/choices/)
 
 
 
@@ -111,8 +112,8 @@ We will use your Personally Identifiable Information for the purposes for which 
 
 
   * Paint Nite, LLC  
-346 Congress St. #516  
-Boston, MA 02210  
+230 Somerville Ave.  
+Somerville, MA 02143  
 
 
 
