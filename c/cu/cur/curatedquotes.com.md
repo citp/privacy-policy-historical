@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curatedquotes.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032339id_/http%3A//www.curatedquotes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curatedquotes.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906045138id_/http%3A//www.curatedquotes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Curartedquotes.com - Curated Quotes
 
@@ -14,7 +14,7 @@ michael At curatedquotes (dot) com
 ## Types of Data collected
 
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are:  
-Cookie, Usage Data and Email. 
+Cookie, Usage Data and Email.
 
 Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.  
 The Personal Data may be freely provided by the User, or collected automatically when using this Application.  
@@ -41,7 +41,7 @@ The Data is kept for the time necessary to provide the service requested by the 
 ## The use of the collected Data
 
 The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes:  
-Analytics, Advertising, Content commenting and Displaying content from external platforms. 
+Analytics, Advertising, Content commenting and Displaying content from external platforms.
 
 The Personal Data used for each purpose is outlined in the specific sections of this document.
 
@@ -64,7 +64,7 @@ Google AdSense is an advertising service provided by Google Inc. This service us
 Users may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout?hl=en](http://www.google.com/settings/ads/onweb/optout?hl=en).
 
 Personal Data collected:  
-Cookie and Usage Data. 
+Cookie and Usage Data.
 
 Place of processing: USA  
 –
@@ -76,14 +76,14 @@ Place of processing: USA
 This Application uses the User Data to propose services and products provided by third parties or unrelated to the product or service provided by this Application.
 
 Personal Data collected:  
-Email. 
+Email.
 
 #### Direct Email Marketing (DEM) (This Application)
 
 This Application uses the User Data to propose services and products provided by third parties or unrelated to the product or service provided by this Application.
 
 Personal Data collected:  
-Email. 
+Email.
 
 ## Analytics
 
@@ -96,7 +96,7 @@ Google Analytics is a web analysis service provided by Google Inc. (“Google”
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
 Personal Data collected:  
-Cookie and Usage Data. 
+Cookie and Usage Data.
 
 Place of processing: USA  
 –
@@ -119,7 +119,7 @@ If a content commenting service provided by third parties is installed, it may s
 Disqus is a content commenting service provided by Big Heads Labs Inc.
 
 Personal Data collected:  
-Cookie and Usage Data. 
+Cookie and Usage Data.
 
 Place of processing: USA  
 –
@@ -137,7 +137,7 @@ If a service of this kind is installed, it may still collect web traffic data fo
 Youtube is a video content visualization service provided by Google Inc. that allows this Application to incorporate content of this kind on its pages.
 
 Personal Data collected:  
-Cookie and Usage Data. 
+Cookie and Usage Data.
 
 Place of processing: USA  
 –
@@ -148,27 +148,27 @@ Place of processing: USA
 
 ## Legal Action
 
-The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services. 
+The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.
 
 ## Additional Information about User’s Personal Data
 
-In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data. 
+In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data.
 
 ## System Logs and Maintenance
 
-For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address). 
+For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).
 
 ## Information not contained in this policy
 
-More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time at its contact information. 
+More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time at its contact information.
 
 ## The rights of Users
 
-Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above. 
+Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
 
 This Application does not support “do not track” requests.  
-To understand if any of the third party services it uses honor the “do not track” requests, please read their privacy policies. 
+To understand if any of the third party services it uses honor the “do not track” requests, please read their privacy policies.
 
 ## Changes to this privacy policy
 
-The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users. 
+The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
