@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koofers.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709062357id_/https%3A//www.koofers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koofers.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906080753id_/https%3A//www.koofers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Koofers
 
