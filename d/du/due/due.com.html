@@ -1,0 +1,629 @@
+<!--The following is the downloaded HTML source of the due.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906224938id_/https%3A//due.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="vpsnet">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Due - Privacy Policy</title>
+<meta name="description" content="Privacy Policy for Due">
+
+<meta name="keywords" content="time, tracker, tracking, freelance, project, client, mangement, invoice">
+
+<link rel="stylesheet" href="https://due.com/system/application/views/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="https://due.com/system/application/views/print.css" type="text/css" media="print">
+<link rel="alternate" type="application/rss+xml" title="Due.com Blog Feed" href="http://feeds.feedburner.com/makesometime">
+<link rel="stylesheet" href="https://due.com/system/application/views/responsive.css" type="text/css" media="screen">
+<link rel="shortcut icon" href="https://due.com/favicon.ico">
+	<!-- Styleswitcher CSS -->
+	
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+adroll_adv_id = "BTBTYNMWOVA4LJDUNTNS66";
+adroll_pix_id = "FKC7C5MV65HHNOSQGWOUPR";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
+
+<script src="https://due.com/system/application/views/scripts/jquery-1.8.2.min.js"></script>
+<script src="https://due.com/system/application/views/scripts/customform.js"></script>
+
+
+ <script>
+ 	function callclick()
+	{
+		$('#info').fadeOut('fast');
+	}
+ 		
+ 	$(document).ready(function(){
+	 	setTimeout(function () {  $('#info').fadeOut('fast'); }, 7000);
+		 /* Top Fixed */
+			$('a#loginbtn').click (function(e){
+				e.preventDefault();
+				// $('div#signupform').css('display','none');
+				  $('div#signupform').slideUp(500);
+				 setPlaceHolderForPassword('login-password','passwordPlaceholder');
+				 //$('div#loginform').slideDown(300).delay(800).fadeIn(400);
+				 //$('div#loginform').slideDown(400);
+				 if($('div#signupform').css('display') == 'block')
+				 {
+				 		setTimeout(function () {  $('#info').fadeOut('fast'); }, 5000);
+				 }
+				 else
+				 {
+				 	$('div#loginform').slideDown(400)
+				 }
+			});
+			$('a#close-login-form').click( function(e){
+				  e.preventDefault();
+				 $('div#loginform').slideUp(500);
+			});
+			$('a#signupbtn').click(function(e){
+				 //e.preventDefault();
+				 var strPricing = $(this).attr('name');
+				 $("#pricing").val(strPricing);
+				 $('div#loginform').slideUp(500); 
+				 setPlaceHolderForPassword('signup-password','passwordPlaceholder1');
+				 setPlaceHolderForPassword('signup-conf-password','passwordPlaceholder2');
+				// $('div#signupform').slideDown(700);
+				  if($('div#loginform').css('display') == 'block')
+				 {
+				 		setTimeout(function () {  $('#info').fadeOut('fast'); }, 5000);
+				 }
+				 else
+				 {
+				 	$('div#signupform').slideDown(500);
+					$("select.customselect").selectbox();
+				 } 
+				 
+			});
+			$('a#close-signup-form').click(function(e){
+				e.preventDefault();
+				$('div#signupform').slideUp(500); 
+				$("select.customselect").selectbox();
+			});
+		
+		/*password placeholder*/
+		function setPlaceHolderForPassword(passwordfieldid,placeholder)
+		{
+			
+			var passwordField = $('input#'+passwordfieldid);
+			var val = "";
+			if(placeholder == 'passwordPlaceholder2')
+				val = "Confirm Password";
+			else
+				val = "Password";
+			passwordField.after("<input id="+placeholder+" type='text' value='"+val+"' autocomplete='off' />");
+			var passwordPlaceholder = $('input#'+placeholder);
+			passwordPlaceholder.show();
+			passwordField.hide();
+			
+			passwordPlaceholder.focus(function() {
+				 passwordPlaceholder.hide();
+				 passwordField.show();
+				 passwordField.focus();
+			});
+			 
+			passwordField.blur(function() {
+				if(passwordField.val() == '') {
+					passwordPlaceholder.show();
+					passwordField.hide();
+				}
+			});
+		}
+		/*end passowrdholder*/
+	});
+</script>
+<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			$(".table-contents-inner li a").click(function(event){		
+				event.preventDefault();
+				$('html,body').animate({scrollTop:$(this.hash).offset().top},2000);
+			});
+		});
+</script>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body>
+
+<div id="wrapper">
+	<!--Top Form Sec Start-->
+    
+		<div class="topform_sec" id="loginform" style="display:none;">
+        <form action="https://due.com/auth/run_login" method="post">
+    	<div class="wrapper ovflhidden">
+        	<a class="close_icon fr" href="javascript:void(0);" id="close-login-form">&nbsp;</a>
+            <h2 class="fl form_title">Login</h2>
+            <div class="fl emailbg">
+            	<input type="text" name="username" id="email" value="Email address" onblur="if(this.value=='')this.value='Email address'" onfocus="if(this.value=='Email address')this.value=''">
+            </div>
+            <div class="fl pwdbgbg">
+            	<input type="password" name="password" value="" id="login-password">
+            </div>
+            <div class="fl btnwid ovflhidden">
+            	<div class="button">
+                	<input type="submit" value="LOGIN" style="width:80px">
+                </div>
+            </div>
+            <a class="fl fgtpwd" href="https://due.com/auth/forgot_password">Forgot password?</a>
+        </div> </form>
+    </div>
+
+
+    <!--Top Form Sec Start (SignUp)-->
+         <div class="topform_sec" id="signupform" style="display:none;">
+    	<div class="wrapper ovflhidden">
+        	<div class="ovflhidden signup_top">
+                <a class="close_icon fr" href="#" id="close-signup-form">&nbsp;</a>
+                <h2 class="fl form_title">Sign Up</h2>
+                <div class="clr">&nbsp;</div>
+                <h3 class="title_txt">Due.com is designed for ease of use and simplicity in mind. You will love it</h3>
+            </div>
+
+             <form action="https://due.com/signup" method="post">
+            <div class="wrapper ovflhidden" style="width: 800px;margin: 30px auto;">
+		           
+		            <div class="fl emailbg">
+		            	<input type="text" name="username" id="email" value="Email address" onblur="if(this.value=='')this.value='Email address'" onfocus="if(this.value=='Email address')this.value=''">
+		            </div>
+		            <div class="fl pwdbgbg">
+		            	<input type="text" name="company" value="Company Name" id="company" onblur="if(this.value=='')this.value='Company Name'" onfocus="if(this.value=='Company Name')this.value=''">
+		            </div>
+		            <div class="fl btnwid ovflhidden">
+		            	<div class="button">
+		                	<input type="submit" value="SIGN UP" style="width:80px">
+		                </div>
+		            </div>
+		    
+		        </div> 
+		       </form>
+
+
+           <!--  <form id="topsignupform" name="topsignupform" action="https://due.com/signup" method="post">
+            <div class="signup_form">
+                <div class="fl pwdbgbg"> 
+                    <input type="text" name="username" value="Email address" class="required email"  onblur="if(this.value=='')this.value='Email address'" onfocus="if(this.value=='Email address')this.value=''" />
+                </div>
+                <div class="fl pwdbgbg">
+                    <input type="password" name="password"   id="signup-password" value=""  class="required"/>
+                </div>
+                <div class="fl pwdbgbg">
+                    <input type="password" name="conf_password" id="signup-conf-password" value="" class="required"/>
+                </div>
+                
+				<div class="account_types">
+				<select name="account_type" id="id_account_type" class="customselect">
+					<option value="Business"> 7 Days Trial (Business) </option>
+					<option value="Ultimate"> 7 Days Trial (Ultimate) </option>
+					<option value="FREE"> Always Free (Starter) </option>
+				</select>
+				</div>
+				<div class="clr"></div>
+            </div>
+			
+		
+		  
+		  <div class="signup_form">			
+			<div class="equal_gap ovflhidden">
+			  <div class="button3">
+				<input type="hidden" id="pricing" name="pricing" value="alwaysfree" />
+				<input type="submit"  name="topsignupform"  value="SIGN UP" style="width:80px" />
+			  </div>
+        	</div>
+			<div class="clr">&nbsp;</div>
+	  </div>
+	  
+             </form> -->
+            <div class="ovflhidden">
+            	<div class="simple_track fl ovflhidden">
+                	<div class="fl timebg">&nbsp;</div>
+                    <div class="fl trackdesc">
+                    	<p class="titletxt">Efficient Time Tracking</p>
+                        <p>Tracking time has never been easier. Keep your times organised by clients, projects and tasks with a simple yet sleek user interface</p>
+                    </div>
+                </div>
+                <div class="invoice fl ovflhidden">
+                	<div class="fl invoicebg">&nbsp;</div>
+                    <div class="fl trackdesc">
+                    	<p class="titletxt">Easy Invoicing</p>
+                        <p>Invoicing on Due.com is extremely easy. Select a template and pop in your invoice details and how much you want to invoice for. Done</p>
+                    </div>
+                </div>
+                <div class="invoice fl ovflhidden">
+                	<div class="fl reportbg">&nbsp;</div>
+                    <div class="fl trackdesc">
+                    	<p class="titletxt">Statistics and Reporting</p>
+                        <p>Every facet of Due.com lets you look at statistics to see how you are tracking. Reports are also available for analysis</p>
+                    </div>
+                </div>
+                <div class="iphoneblock fl ovflhidden">
+                	<div class="fl iphonebg">&nbsp;</div>
+                    <div class="fl iphonedesc">
+                    	<p class="titletxt">An Unparalleled Experience</p>
+                        <p>An interface that has been designed for seamless and an unparalleled time tracking and invoicing experience</p>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+   
+	
+    <!--Top Form Sec End-->
+    
+    <!--New Div Added-->
+    <input type="hidden" name="headerbaseurl" id="headerbaseurl" value="https://due.com/">
+    <div class="content_topbg homepage_header">
+    <div id="header">
+    	<div class="wrapper">
+            <h1 id="logo">
+            	<a href="https://due.com/"><img src="https://due.com/system/application/views/images/logo.png"></a>
+             </h1>
+            <!--Login Sec Start-->
+                        <ul class="login_area">
+                <li><a class="button_link" id="loginbtn" href="javascript:void(0);"><span style="width:75px">Login</span></a></li>
+                <li><a class="button_link1" id="signupbtn" href="javascript:void(0);"><span style="width:75px">Sign Up</span></a></li>
+            </ul>
+                        <!--Login Sec End-->
+            <ul id="home_menu">
+                    <li><a id="features" href="https://due.com/features">FEATURES</a></li>
+                    <li><a id="pricing" href="https://due.com/pricing">PRICING</a></li>
+                    <li><a id="about" href="https://due.com/tour">TOUR</a></li>
+                    <li><a id="blog" href="https://due.com/blog">BLOG</a></li>
+                </ul>           
+		<div class="clr">&nbsp;</div>
+    	</div>
+    </div>
+
+   
+<!--Content Start-->
+
+<div class="maintitlebg">
+  <div class="wrapper">
+    <h2 class="page_title allcaps">Privacy Policy</h2>
+  </div>
+</div>
+
+<div class="inpage_contener">
+  <div class="wrapper">
+  	<dl class="termncondlist">
+    	
+        <dd>
+        	<p>This privacy policy sets out how Due.com uses and protects any information that you give Due.com when you use this website.</p>
+            <p>Due.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+            <p>Due.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 21st January 2010.</p>
+        </dd>
+    	<dt>
+        	What we collect
+        </dt>
+        <dd>
+        	<p>We may collect the following information:</p>
+			<ul class="reset feat_list">
+            	<li>Email address</li>
+                <li>Optionally your company information and address</li>
+            </ul>
+        </dd>
+        
+        <dt>
+        	What we do with the information we gather
+        </dt>
+        <dd>
+        	<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
+			<ul class="reset feat_list">
+            	<li>Access to the restricted section of the website.</li>
+                <li>We may use the information to improve our products and services.</li>
+                <li>We may periodically send promotional email about special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+            </ul>
+        </dd>
+        
+        <dt>
+        	Security
+        </dt>
+        <dd>
+        	<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+        </dd>
+        
+        <dt>
+        	How we use cookies
+        </dt>
+        <dd>
+        	<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+        </dd>
+        
+        <dt>
+        	Links to other websites
+        </dt>
+        <dd>
+        	<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+        </dd>
+        
+        <dt>
+        	Controlling your personal information
+        </dt>
+        <dd>
+        	<p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email info@due.com. If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at info@due.com. We will promptly correct any information found to be incorrect.</p>
+        </dd>
+    </dl>
+  </div>
+</div>  
+
+<!--Content End-->
+
+<!--<h1>Privacy Policy</h1>
+
+<p>This privacy policy sets out how Due.com uses and protects any information that you give Due.com when you use this website.</p>
+
+<p>Due.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+
+<p>Due.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 21st January 2010.</p>
+
+<h3>What we collect</h3>
+<p>We may collect the following information:</p>
+<ul>
+    <li>Email address</li>
+    <li>Optionally your company information and address</li>
+</ul>
+
+<h3>What we do with the information we gather</h3>
+<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
+<ul>
+    <li>Access to the restricted section of the website.</li>
+    <li>We may use the information to improve our products and services.</li>
+    <li>We may periodically send promotional email about special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+</ul>
+
+<h3>Security</h3>
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. </p>
+
+<h3>How we use cookies</h3>
+<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+    We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+    Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+    You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+
+<h3>Links to other websites</h3>
+<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+
+<h3>Controlling your personal information</h3>
+<p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email info@due.com.
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at info@due.com. We will promptly correct any information found to be incorrect.</p>-->
+
+
+		<div class="clr">&nbsp;</div>
+        </div>
+        <div class="clr">&nbsp;</div>
+    </div>
+    
+    
+    
+    
+    <!--Header Start-->
+        <!--Newsletter Sec Start-->
+    <!--Newsletter Sec End-->
+    
+    <!--Footer Top Start-->
+    <div class="footertop">
+    	<div class="wrapper">
+        	
+            <!--Quick Link Start-->
+            <div class="qiucklink_sec fl">
+            	<h3>Quick Links</h3>
+                <div class="fl qiucklinkcol">
+                	<ul class="reset quick_link">
+                    	<li>
+                        	<a href="https://due.com/">Home</a>
+                        </li>
+                       <!-- <li>
+                        	<a href="https://due.com/blog">Blog</a>
+                        </li>
+                        <li>
+                        	<a href="https://due.com/blog/api-documentation/">API</a>
+                        </li>-->
+                        <li>
+                        	<a href="https://due.com/terms">Terms</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="fl qiucklinkcol">
+                	<ul class="reset quick_link">
+                    	<li>
+                        	<a href="https://due.com/privacy">Privacy Policy</a>
+                        </li>
+                        <!--<li>
+                        	<a href="javascript:void(0);" id="help_popup">Help</a>
+                        </li>-->
+                        <li>
+                        	<a href="https://due.com/contact">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="clr">&nbsp;</div>
+                
+            </div>
+            <!--Quick Link End-->
+            
+            <!--Latest Update Start-->
+            <div class="latest_updateblock fl">
+            	<h3>Products</h3>
+               
+                <ul class="reset quick_link">
+                    	<li>
+                        	<a href="https://due.com/time">Time Tracking</a>
+                        </li>
+                        <li>
+                        	<a href="https://due.com/invoicing">Invoicing</a>
+                        </li>                        
+                    </ul>
+            </div>
+            <!--Latest Update End-->
+            
+            <!--Latest Tweets Start-->
+            <div class="latest_tweets fl">
+         <h3>Go Social</h3>   	
+<div class="cont_social">
+            	<a href="https://www.facebook.com/pages/Due/814821011905971" class="fb">&nbsp;</a>
+                <a href="https://www.linkedin.com/company/due/" class="in">&nbsp;</a>
+                <a href="https://plus.google.com/+due/" class="google">&nbsp;</a>
+                <a href="https://twitter.com/due" class="twit">&nbsp;</a>
+            </div>
+
+
+
+
+            </div>
+            <!--Latest Tweets Start-->
+            
+        <div class="clr">&nbsp;</div>
+        </div>
+    </div>
+    <!--Footer Top End-->
+    
+        <div id="foot">
+        	<div class="wrapper">
+        <div class="footer_cont ovflhidden">
+        	<p class="fl">Copyright 2015 Due.com. All Rights Reserved.</p>
+           <!-- <p class="fr">Designed &amp; Developed by <span>Vodlo</span></p>-->
+        </div>
+    </div>
+    </div>
+
+
+<div id="footer_help_popup" class="poupsec" style="display:none;">
+	<div class="popup_title">
+    	<div class="closesec fr jqmClose"><a href="javascript:void(0);"><img src="https://due.com/images/cross_icon.png" height="11" width="13"></a></div>
+    	<h2 class="fl">Help Report</h2>
+    </div>
+  <form action="https://due.com/home/footer_help" name="footer_help_popup" id="footer_help_popup" method="post">
+    <div class="popup_contsec" style="height:240px;">
+    	<ul class="reset popup_form">
+        	<li> 
+            	<label for="project">Email:</label> 
+                <div class="fl">
+                	<div class="formtextbg">
+                    <input type="text" id="footer_help_email" name="footer_help_email" value="" size="30" class="required email">
+                    </div>
+                </div>
+            </li>
+            <li>
+            	<label for="project-desc">Help Description:</label>
+                <div class="fl">
+                	<div class="formtextarea project_desc_div"><textarea id="footer_help_desc" name="footer_help_desc" class="required"></textarea></div>
+                </div>
+            </li>
+            <li>
+            	<label for="UploadLogo">Help Screenshot</label>
+                <div class="fl" style="width:350px;">
+                	<div class=""><input type="file" name="footer_help_image" id="footer_help_image" value="" class=""></div>
+                    <span>Image must be in JPG or PNG format.</span>
+                </div>    
+            </li>
+        </ul>
+        <div class="clr">&nbsp;</div>
+    </div>
+    <div class="ovflhidden">    
+        <div class="btnadd fl">
+              <div class="redbtn_new">
+                <input type="submit" id="footer_help_btn" name="footer_help_btn" value="Submit Help" style="width:106px">                
+              </div>
+            </div>
+        <div class="fr cancelbtnwid">
+        	<div class="blackbtn_new"><input type="button" name="footer_help_cancel" value="Cancel" class="jqmClose" style="width:70px"></div>
+        </div>
+        <span id="footer_help_ajax_loader" style="display:none;padding-left:162px;">  
+                <img class="ajaxloaderimg" src="https://due.com/images/mst_loader.gif">
+        </span>
+    </div>
+    </form>
+</div>
+
+<script type="text/javascript">
+
+$(document).ready(function(e) {
+    
+		/*$("a#help_popup").live('click',function(){ 
+		$('#footer_help_popup').jqm();
+		$('#footer_help_popup').jqmShow();
+	});
+	
+	$("form#footer_help_popup").validate({
+	
+	submitHandler:function(form)
+	{ 
+		$('span#footer_help_ajax_loader').show();
+		 
+		$('form#footer_help_popup').ajaxSubmit(function(jsonResponse){
+				 
+			var jsonResponse=$.parseJSON(jsonResponse);
+			 $('span#footer_help_ajax_loader').hide();
+			if($.trim(jsonResponse.success)=='success')
+			{ 
+				$('#info').addClass('error-success');
+				$('#info').removeClass('error-error');
+				$('.msg_popup').html("<a class='close_btn' href='javascript:void(0);'>X</a> Help Reports submitted successfully. We will get back to you shortly");
+				$('#footer_help_popup').jqmHide();
+				
+			}
+			else if($.trim(jsonResponse.success)=='error')
+			{
+				
+				$('#info').addClass('error-error');
+				$('#info').removeClass('error-success');
+				$('.msg_popup').html("<a class='close_btn' href='javascript:void(0);'>X</a>"+jsonResponse.strErrorMsg);
+			}
+	
+			setTimeout(function () {  $('#info').fadeOut('fast'); }, 5000);
+			$('#info').fadeIn('fast');
+		});
+	}
+});*/
+	
+	
+	
+	
+});
+function base_url()
+{
+    return "https://due.com/";
+}
+</script>
+<script>
+ /* (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41454592-1', 'makesometime.com');
+  ga('send', 'pageview');*/
+  
+/*	var pageTracker = _gat._getTracker('UA-41454592-1');
+	pageTracker._setDomainName('makesometime.com');
+	pageTracker._trackPageview();*/
+
+</script>
+<script type="text/javascript" src="https://due.com/system/application/views/scripts/jqModal.js"></script>
+<!--<a href="http://makesometime.qhub.com/" style="background-image:url(http://makesometime.qhub.com/css/en/ask_question_button.png); color:#FFFFFF; cursor:pointer; height:150px; left:0; margin-left:-7px; overflow:hidden; position:fixed; text-indent:-100000px; top:25%; width:35px; z-index:100000; left:auto; margin-left:auto; margin-right:0; right:0; border-top:1px solid #000; border-left:1px solid #000; border-bottom:1px solid #000;" target="_self">Ask a Question on MakeSomeTime</a>-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61465835-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+</body></html>
