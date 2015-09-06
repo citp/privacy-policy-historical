@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615004821id_/http%3A//mig.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906142833id_/http%3A//mig.me/privacy) for the most accurate reproduction.*
 
 # Privacy | migme
 
