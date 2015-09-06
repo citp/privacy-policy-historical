@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dynamicyield.com privacy policy that was archived on 2015-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150221080623id_/https%3A//www.dynamicyield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicyield.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906123830id_/https%3A//www.dynamicyield.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dynamic Yield
+# Privacy Policy — Dynamic Yield
 
 Dynamic Yield Ltd. (“ **Dynamic Yield** ”) offers several products and services, including (i) a website at _[www.dynamicyield.com](https://www.dynamicyield.com/)_ , (ii) a web analytics service which analyzes the usage methods of your website by your users, (iii) a real time customization of your web pages’ layouts according to your users’ preferences and activities, and (iv) other products and services as may be provided by Dynamic Yield from time to time, in its discretion (Collectively referred hereinafter as the “ **Services** ”).
 
@@ -65,7 +65,7 @@ Any information of Your users gathered by Dynamic Yield is stored by Dynamic Yie
 
 IT IS YOUR SOLE RESPONSIBILITY TO INFORM YOUR USERS OF, AND TO OBTAIN THEIR CONSENT AND/OR AUTORIZARTION TO (I) COLLECT THEIR INFORMATION BY YOU; (II) TRANSFER THEIR INFORMATION TO THIRD PARTIES SUCH AS DYNAMIC YIELD AND TO USE SUCH INFORMATION BY DYNAMIC YIELD FOR THE PURPOSE OF PROVIDING YOU THE SERVICES AS SET FORTH HEREIN; AND (III) USE OF COOKIES AND/OR OTHER SIMILAR TECHNOLOGICAL MEANS TO COLLECT AND/OR TRANSFER THEIR INFORMATION AS AFORESAID.
 
-YOU HEREBY UNDERTAKE THAT YOU WILL NOT PROVIDE DYNAMIC YIELD ANY INFORMATION (AND/OR ACCESS TO ANY INFORMATION) OF ANY OF YOUR USERS, WITHOUT SUCH USER’S KNOWLEDGE AND EXPLICIT CONSENT AS AFORESAID.
+YOU HEREBY UNDERTAKE THAT YOU WILL NOT PROVIDE DYNAMIC YIELD ANY INFORMATION (AND/OR ACCESS TO ANY INFORMATION) OF ANY OF YOUR USERS, WITHOUT SUCH USER’S KNOWLEDGE AND CONSENT (INCLUDING A CONSENT OBTAINED THROUGH YOUR PRIVACY POLICY AND/OR TERMS OF USE).
 
 IN NO EVENT DYNAMIC YIELD SHALL HAVE ANY RESPONSIBILITY OR LIABILITY WITH RESPECT TO YOUR USERS, AND YOU HEREBY AGREE AND UNDERTAKE TO INDEMNIFY AND HOLD HARMLESS DYNAMIC YIELD AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS AND EMPLOYEES, FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, DAMAGES AND EXPENSES, INCLUDING BUT NOT LIMITED TO REASONABLE ATTORNEY’S FEES AND COSTS OF LITIGATION, ARISING FROM ANY CLAIM OF YOUR USERS THAT DYNAMIC YIELD HAS INFRIGED ANY OF THEIR RIGHTS OR OTHEREWISE IN CONNECITON WITH THIS SECTION 6.
 
