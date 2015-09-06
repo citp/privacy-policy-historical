@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vdopia.com privacy policy that was archived on 2015-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150507095726id_/http%3A//vdopia.com/mobile/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vdopia.com privacy policy that was archived on 2015-09-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150906134003id_/http%3A//www.vdopia.com/mobile/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -69,15 +69,24 @@ if (mql.matches){ // if media query matches
             $('.navigation ul.menu').toggleClass('menuIsActive', 1000, 'easeOutSine');
         });
 		$(".nav-child").css("display","none");
-		$('li.parent').on('hover', function(e){
+		$('li.parent').on('click', function(e){
             e.preventDefault;
-			$(this).addClass('aaa');
-			$(this).removeClass('bbb');
-			$("li.parent").not(this).removeClass('aaa');
-			$("li.parent").not(this).addClass('bbb');
-			$(".aaa .nav-child").css("display","block");
-			$(".bbb .nav-child").css("display","none");
-            $('li.parent ul.nav-child').toggleClass('menuIsActive', 1000, 'easeOutSine');
+            if($(this).hasClass('aaa'))
+            {
+                $(this).addClass('bbb');
+                $(this).removeClass('aaa');
+                $('.bbb .nav-child').css("display","none");
+            }
+            else
+            {
+                $(this).addClass('aaa');
+                $(this).removeClass('bbb');
+                $("li.parent").not(this).removeClass('aaa');
+                $("li.parent").not(this).addClass('bbb');
+                $(".aaa .nav-child").css("display","block");
+                $(".bbb .nav-child").css("display","none");
+                $('li.parent ul.nav-child').toggleClass('menuIsActive', 1000, 'easeOutSine');
+            }
         });
     });
 })(jQuery);
@@ -113,6 +122,7 @@ if (mql.matches){ // if media query matches
 			<!-- Header -->
 			<header class="header" role="banner">
 				<div class="header-inner">
+				    <span id="menuToggler" class="show-on-small"></span>
 					<a class="brand pull-left" href="/mobile">
 						<img src="http://www.vdopia.com/mobile/images/logo.png" alt="Vdopia Inc. - The Leader in Mobile Video Advertising">											</a>
 					<div class="header-search pull-right">
@@ -138,32 +148,30 @@ if (mql.matches){ // if media query matches
 					</ul>
 				</div>
 				</div> 
-				
-				<div class="search">
+				<div class="top_menu">
+					<div class="search top_search">
 		<form id="search-105" class="uk-search" action="/mobile/privacy-policy" method="post" role="search" data-uk-search="{'source': '/mobile/component/searchout/?task=json&amp;ordering=&amp;searchphrase=all&amp;modid=105', 'param': 'searchword', 'msgResultsHeader': 'Search Results', 'msgMoreResults': 'More Results', 'msgNoResults': 'No results found', flipDropdown: 1}">
 			<input class="uk-search-field" type="search" name="searchword" placeholder="search...">
 			<button class="uk-search-close" type="reset"></button>
 			<input type="hidden" name="task" value="search">
 			<input type="hidden" name="option" value="com_searchout">
-			<input type="hidden" name="Itemid" value="142">
+			<input type="hidden" name="Itemid" value="101">
 		</form>
 </div>
 
 
-				<span id="menuToggler" class="show-on-small"></span>
-								<nav class="navigation" role="navigation">
-					
-					<ul class="nav menu nav-pills">
+										<nav class="navigation" role="navigation">						
+						<ul class="nav menu nav-pills">
 <li class="item-123 divider deeper parent"><span class="separator">
 	Technology</span>
-<ul class="nav-child unstyled small"><li class="item-124"><a href="/mobile/technology/marketplace">Marketplace</a></li><li class="item-127"><a href="/mobile/technology/solution-for-advertisers">Solution for Advertisers</a></li><li class="item-128"><a href="/mobile/technology/solution-for-publishers">Solution For Publishers</a></li><li class="item-125"><a href="/mobile/technology/vdo">.VDO</a></li></ul></li><li class="item-117 divider deeper parent"><span class="separator">
+<ul class="nav-child unstyled small"><li class="item-124"><a href="/mobile/technology/marketplace">Marketplace</a></li><li class="item-127"><a href="/mobile/technology/solution-for-advertisers">Solution for Advertisers</a></li><li class="item-128"><a href="/mobile/technology/solution-for-publishers">Solution For Publishers</a></li><li class="item-125"><a href="/mobile/technology/vdo">.VDO</a></li><li class="item-147"><a href="/mobile/technology/inview">InView</a></li></ul></li><li class="item-117 divider deeper parent"><span class="separator">
 	Company</span>
 <ul class="nav-child unstyled small"><li class="item-110"><a href="/mobile/company/about-us">About Us</a></li><li class="item-116"><a href="/mobile/company/team">Team</a></li><li class="item-121"><a href="/mobile/company/press-news">Press &amp; News</a></li><li class="item-129 deeper parent"><a href="/mobile/company/careers">Careers</a><ul class="nav-child unstyled small"><li class="item-139"><a href="/mobile/company/careers/job-description">Job Description</a></li><li class="item-140"><a href="/mobile/company/careers/apply">Apply</a></li></ul></li></ul></li><li class="item-118 divider deeper parent"><span class="separator">
 	Insights</span>
 <ul class="nav-child unstyled small"><li class="item-120"><a href="/mobile/insights/vmi">VMI</a></li><li class="item-111"><a href="/mobile/insights/blog">Blogs</a></li><li class="item-119"><a href="/mobile/insights/ad-gallery">Ad Gallery</a></li></ul></li><li class="item-112"><a href="/mobile/contact">Contact</a></li></ul>
 
-				</nav>
-						
+					</nav>
+									</div>
 			</header>
 			</div>
 					
@@ -209,26 +217,26 @@ if (mql.matches){ // if media query matches
 <p><strong>International Transfer</strong></p>
 <p>Your information may be transferred to -- and maintained on -- computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Vdopia transfers personally identifiable information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information, or your submission of such information to us or one of our Publishers represents your agreement to such transfer.</p>
 <p><strong>Our Policy Toward Children</strong></p>
-<p>Our services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at&nbsp;<span id="cloak19775"><a href="mailto:mobile-privacy@vdopia.com">mobile-privacy@vdopia.com</a></span><script type="text/javascript">
+<p>Our services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at&nbsp;<span id="cloak8379"><a href="mailto:mobile-privacy@vdopia.com">mobile-privacy@vdopia.com</a></span><script type="text/javascript">
  <!--
- document.getElementById('cloak19775').innerHTML = '';
+ document.getElementById('cloak8379').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy19775 = 'm&#111;b&#105;l&#101;-pr&#105;v&#97;cy' + '&#64;';
- addy19775 = addy19775 + 'vd&#111;p&#105;&#97;' + '&#46;' + 'c&#111;m';
- var addy_text19775 = 'm&#111;b&#105;l&#101;-pr&#105;v&#97;cy' + '&#64;' + 'vd&#111;p&#105;&#97;' + '&#46;' + 'c&#111;m';
- document.getElementById('cloak19775').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy19775 + '\'>'+addy_text19775+'<\/a>';
+ var addy8379 = 'm&#111;b&#105;l&#101;-pr&#105;v&#97;cy' + '&#64;';
+ addy8379 = addy8379 + 'vd&#111;p&#105;&#97;' + '&#46;' + 'c&#111;m';
+ var addy_text8379 = 'm&#111;b&#105;l&#101;-pr&#105;v&#97;cy' + '&#64;' + 'vd&#111;p&#105;&#97;' + '&#46;' + 'c&#111;m';
+ document.getElementById('cloak8379').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy8379 + '\'>'+addy_text8379+'<\/a>';
  //-->\n </script> If we become aware that a child under 13 has provided us with personally identifiable information, we will delete such information from our files.</p>
 <p><strong>Contacting Us</strong></p>
-<p>If you have any questions about this Privacy Policy, please contact us at <span id="cloak33963"><a href="mailto:mobile-privacy@vdopia.com">mobile-privacy@vdopia.com</a></span><script type="text/javascript">
+<p>If you have any questions about this Privacy Policy, please contact us at <span id="cloak859"><a href="mailto:mobile-privacy@vdopia.com">mobile-privacy@vdopia.com</a></span><script type="text/javascript">
  <!--
- document.getElementById('cloak33963').innerHTML = '';
+ document.getElementById('cloak859').innerHTML = '';
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy33963 = 'm&#111;b&#105;l&#101;-pr&#105;v&#97;cy' + '&#64;';
- addy33963 = addy33963 + 'vd&#111;p&#105;&#97;' + '&#46;' + 'c&#111;m';
- var addy_text33963 = 'm&#111;b&#105;l&#101;-pr&#105;v&#97;cy' + '&#64;' + 'vd&#111;p&#105;&#97;' + '&#46;' + 'c&#111;m';
- document.getElementById('cloak33963').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy33963 + '\'>'+addy_text33963+'<\/a>';
+ var addy859 = 'm&#111;b&#105;l&#101;-pr&#105;v&#97;cy' + '&#64;';
+ addy859 = addy859 + 'vd&#111;p&#105;&#97;' + '&#46;' + 'c&#111;m';
+ var addy_text859 = 'm&#111;b&#105;l&#101;-pr&#105;v&#97;cy' + '&#64;' + 'vd&#111;p&#105;&#97;' + '&#46;' + 'c&#111;m';
+ document.getElementById('cloak859').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy859 + '\'>'+addy_text859+'<\/a>';
  //-->\n </script></p>	</div>
 
 	
@@ -312,6 +320,7 @@ window.twttr = (function (d, s, id) {
 <img alt="Vdopia." src="/mobile/images/iab.jpg">
 <img alt="Vdopia." src="/mobile/images/mma.jpg">
 <img alt="Vdopia." src="/mobile/images/iab_vast.jpg">
+<img alt="Vdopia." src="/mobile/images/vce-footer.jpg">
 </div>
 </div>
 	</div>
@@ -326,7 +335,7 @@ window.twttr = (function (d, s, id) {
 			<p style="font-size:12px;float:left;margin:0;">
 				Copyright 2015  Vdopia Inc. All rights reserved.
 			</p>
-				<div class="pull-right">
+				<div class="bottom_menu">
 	<ul>
 <!--<li style="margin-left:0;">Sitemap</li>-->
 <!--<li><a href="/mobile/terms-and-conditions">Terms & Conditions</a></li>-->
