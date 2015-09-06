@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlocator.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705121943id_/https%3A//unlocator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlocator.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906124043id_/https%3A//unlocator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unlocator
 
@@ -22,7 +22,7 @@ Your IP address is saved in order to identify your account with our services. A 
 
 We collect your email associated with your PayPal account in order to pay the potential compensation relating to our Affiliate Program to you. You can read more about our [Affiliate Program here](https://unlocator.com/affiliates/ "Join the Unlocator Affiliate Program").
 
-We take all reasonably measures to protect potentially personally identifiable information. This includes measures against unauthorized use, modification and destruction of information.
+We take all reasonable measures to protect potentially personally identifiable information. This includes measures against unauthorized use, modification and destruction of information.
 
 ## 2\. Protection of personal information
 
