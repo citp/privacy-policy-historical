@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the shopkeep.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317001531id_/http%3A//www.shopkeep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkeep.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906133935id_/http%3A//www.shopkeep.com/privacy) for the most accurate reproduction.*
 
 # iPad POS | Privacy Policy
 
 ### Overview
 
-We are ShopKeep.com Inc. of 143 Varick Street, New York, NY 10013. We are registered with the US Department of Commerce’s Safe Harbor Scheme.  
+We are ShopKeep.com Inc. of 143 Varick Street, New York, NY 10013.
+
+ShopKeep complies with the U.S.–EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. ShopKeep has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ShopKeep’s certification, please visit http://www.export.gov/safeharbor/.
+
 In the European Union we are ShopKeep.com Limited of 17A Ormeau Avenue, Belfast BT2 8HD Northern Ireland. We are registered with the Information Commissioner’s Office under number ZA089747.
 
 Protecting your privacy is very important to ShopKeep. We designed this Privacy Policy to make clear to you how we may collect, use and share your personal information. “Personal information” means any information that can be used to personally identify you (this does not include any information that has been aggregated or made anonymous). Please read this policy carefully in order to understand what we do with your information.
@@ -25,16 +28,15 @@ Persistent cookies can be removed by adjusting the settings on your web browser.
 
 ### The Way ShopKeep Uses Your Personal Information
 
-At ShopKeep we do not sell, rent, lease or otherwise disclose your email address or other personally identifiable information or personally identifiable customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents or resellers and contractors, or as otherwise described in this Privacy Policy. This section explains how we use your personal information.
+At ShopKeep we do not sell, rent, lease or otherwise disclose your email address or other personally identifiable information or personally identifiable customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents or resellers, partners and contractors, or as otherwise described in this Privacy Policy. This section explains how we use your personal information.
 
-Quality Control and Routine Maintenance: ShopKeep uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the ShopKeep features and services to ShopKeep affiliated merchants. We may share your information with our trusted third party affiliates, to ensure that you have a safe, high-quality experience when using ShopKeep affiliated merchants. We rely on some of our third party affiliates for support of the products and services we offer. All such third party affiliates are required to preserve the confidentiality of any personal information they may access.
+Quality Control and Routine Maintenance: ShopKeep uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the ShopKeep features and services to ShopKeep affiliated merchants. We may share your information with our trusted third party affiliates and partners, to ensure that you have a safe, high-quality experience when using ShopKeep affiliated merchants. We rely on some of our third party affiliates and partners for support of the products and services we offer. All such third party affiliates and partners are required to preserve the confidentiality of any personal information they may access.
 
-We may use certain information about you without identifying you as an individual to third parties. We do this for purposes such as analyzing how the ShopKeep service is used, diagnosing service or technical problems, maintaining security, and personalizing content.
+We may use certain information about you without identifying you as an individual to third parties. We do this for purposes such as analyzing how the ShopKeep service is used, marketed and improved, diagnosing service or technical problems, maintaining security, and personalizing content.
 
 Administrative Contact: We will use your email address, without your further consent, for administrative communications to you. If you wish to change your communication settings, you may do so by accessing your ShopKeep.com account and making the modifications directly.
 
-Marketing: We may use your personal information and transaction history to send you information about services offered by ShopKeep-affiliated merchants or to market sponsored events, products or services that we believe may be of interest to you. We also have an email newsletter that we distribute to all of our customers. You may opt out of these communications at any time via a link within the email.
-
+Marketing: We may use your personal information and transaction history to send you information about services offered by ShopKeep-affiliated merchants or to market sponsored events, products or services that we believe may be of interest to you. We also have an email newsletter that we distribute to all of our customers. You may opt out of these communications at any time via a link within the email.  
 Your transaction history and location may be used as aggregated, non-personal information to generate general statistics about purchasing behavior of a population that you are a part of, in order to provide better services. We may use or distribute this aggregated data without your consent. This data cannot be readily reversed engineered to derive your individual personal data.
 
 Remarketing: Third-party vendors, namely Google (via Google Analytics), may place cookies on your computer to track certain views of key pages on ShopKeep’s websites. This information is used to then display banners and other media advertising to you at a later time. We will never sell, rent or otherwise distribute this information to any other party outside of advertising networks we use in order to remarket to you. Users may opt-out of Google’s use of cookies by visiting the Google Ads Preferences Manager, found here.
@@ -56,7 +58,7 @@ Also, please note that we may store and process your personal information in sys
 ### International Visitors
 
 The following provisions apply to users outside the United States:  
-You consent to having your personal data transferred to and processed in the United States and/or re-exported outside the United States. If your personal data is collected within the European Union, you consent to your data being transferred out of the European Economic Area to ShopKeep.com Inc., which is registered on the US Department of Commerce’s Safe Harbor scheme.
+You consent to having your personal data transferred to and processed in the United States and/or re-exported outside the United States. If your personal data is collected within the European Union, you consent to your data being transferred out of the European Economic Area to ShopKeep.com Inc.
 
 If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department’s list of Specially Designated Nationals you will not use ShopKeep to engage in commercial activities, such as receiving payments.
 
@@ -66,7 +68,7 @@ If our information practices change in a significant way, we will post the polic
 
 ### How to Contact ShopKeep
 
-Please contact us if you have any questions about our privacy policy or information we hold about you. We have an internal privacy policy ombudsman, who can be contacted with any complaints or comments at privacy@ShopKeep.com.
+Please contact us if you have any questions about our privacy policy or information we hold about you. We have an internal privacy policy ombudsman, who can be contacted with any complaints or comments at privacy@ShopKeep.com.
 
 Alternatively, please feel free to write to us at (in the US) ShopKeep.com, Inc. 143 Varick Street, New York, NY 10013 or (in Europe) at ShopKeep.com Limited, 17A Ormeau Avenue, Belfast BT2 8HD Northern Ireland.
 
