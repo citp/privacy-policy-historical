@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the refersion.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315061521id_/https%3A//www.refersion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refersion.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906205342id_/https%3A//www.refersion.com/privacy) for the most accurate reproduction.*
 
 # Refersion - Build a Referral Program in Minutes
 
-Refersion has established this Privacy Policy to inform you how we collect and use the personal information that you provide to us and to others in the course of using our Website (the "Site") and to allow you to make an informed decision about how you will use our Site. Our "Site" include any and all of our websites, including www.refersion.com, and those domains directly associated with any of them, and all related services, applications, components, programs, software, listings, directories, tools, message boards, databases and information offered by Refersion and made available and utilized through each of the foregoing or through the websites of our partners. References to "you" in this Privacy Policy means you, your duly authorized representatives and any entity you may represent in connection with your use of the Site.
+Refersion has established this Privacy Policy to inform you how we collect and use the personal information that you provide to us and to others in the course of using our Website (the "Site") and to allow you to make an informed decision about how you will use our Site. Our "Site" include any and all of our websites, including www.refersion.com, and those domains directly associated with any of them, and all related services, applications, components, programs, software, listings, directories, tools, message boards, databases, usernames, passwords, and information offered by Refersion and made available and utilized through each of the foregoing or through the websites of our partners. References to "you" in this Privacy Policy means you, your duly authorized representatives and any entity you may represent in connection with your use of the Site.
 
 Protecting your private information is our priority. This Privacy Policy applies to the http://www.refersion.com and Refersion Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Refersion Inc. include http://www.refersion.com and Refersion. The Refersion website is a platform that tracking sales from referrals site. By using the Refersion website, you consent to the data practices described in this Privacy Policy.
 
@@ -12,7 +12,7 @@ Our Privacy Policy addresses only our practices with respect to information we c
 
 **Collection of your Personal Information**
 
-Refersion may collect personally identifiable information, such as your name, e-mail addresses, telephone and fax numbers, home or work addresses, birth date or gender, and similar information. We may gather additional personal or non-personal information in the future.
+Refersion may collect personally identifiable information, such as your name, e-mail addresses, telephone and fax numbers, home or work addresses, birth date or gender, PayPal username, PayPal password and similar information. We may gather additional personal or non-personal information in the future.
 
 Information about your computer hardware and software may be automatically collected by Refersion. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Refersion website.
 
@@ -72,7 +72,7 @@ We respect your privacy and give you an opportunity to opt-out of receiving anno
 
 **Changes to this Privacy Policy**
 
-Refersion will occasionally update this Privacy Policy to reflect company and customer feedback. Refersion encourages you to periodically review this Privacy Policy to be informed of how Refersion is protecting your information. This Privacy Policy is subject to our Terms of Use with respect to governing law, venue, dispute resolution, limitation of damages and intellectual property ownership.
+Refersion will occasionally update this Privacy Policy to reflect company and customer feedback. Refersion encourages you to periodically review this Privacy Policy to be informed of how Refersion is protecting your information. This Privacy Policy is subject to our Terms of Service with respect to governing law, venue, dispute resolution, limitation of damages and intellectual property ownership.
 
 **Contact Information**
 
@@ -84,4 +84,4 @@ Union City, New Jersey 07087
 
 Email Address: admin@refersion.com
 
-_Updated on August 19, 2014_
+_Updated on June 10, 2015_
