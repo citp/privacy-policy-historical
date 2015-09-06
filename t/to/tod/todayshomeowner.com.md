@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317082817id_/http%3A//www.todayshomeowner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906085356id_/http%3A//www.todayshomeowner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Today's Homeowner
 
@@ -49,3 +49,5 @@ You must be eighteen (18) years of age or older in order to purchase our product
 **Do we have a mechanism to address the removal of PII and complaints about the handling of information that we collect?**
 
 If you wish to remove PII that you have submitted to Remodeling Today, please send us an email requesting such removal to [webmaster@dannylipford.com](mailto:ben@dannylipford.com). If you have questions or concerns about any of our information collection or handling practices, please contact us at [webmaster@dannylipford.com](mailto:ben@dannylipford.com).
+
+[](https://www.pinterest.com/pin/create/button/)
