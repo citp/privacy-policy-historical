@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securustech.net privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319221725id_/https%3A//www.securustech.net/web/securus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securustech.net privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907005046id_/https%3A//securustech.net/web/securus/privacy) for the most accurate reproduction.*
 
 # Securus - Privacy
 
