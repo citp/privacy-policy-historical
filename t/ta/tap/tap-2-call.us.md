@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tap-2-call.us privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619161954id_/http%3A//tap-2-call.us/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tap-2-call.us privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907152430id_/http%3A//tap-2-call.us/pp.html) for the most accurate reproduction.*
 
 # prepaidsms |
 
