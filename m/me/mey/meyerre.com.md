@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meyerre.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607134818id_/http%3A//www.meyerre.com/company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meyerre.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907061453id_/http%3A//www.meyerre.com/company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Company Privacy Policy | Website Use of Information Privacy Statement | SH Enterprises
 
