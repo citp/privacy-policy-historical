@@ -1,171 +1,153 @@
-<!--The following is the downloaded HTML source of the freshly.com privacy policy that was archived on 2015-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150324181738id_/https%3A//www.freshly.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freshly.com privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907220934id_/https%3A//www.freshly.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/FMhGm1zCwwGHyAQAOaECRQMVuBtOf7Wv/analytics.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NN2JPV"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQ4AV1BQGwUBXVZRDwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <title>Privacy | Freshly</title>
-
-
-
-<!-- Mobile Devices Viewport Resset-->
+ 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<!-- <meta name="viewport" content="initial-scale=1.0, user-scalable=1" /> -->
-
-
-
-
-
-<link rel="alternate" type="application/rss+xml" title="Freshly RSS" href="https://www.freshly.com/feed/">
-<link rel="pingback" href="https://www.freshly.com/xmlrpc.php">
-<link rel="shortcut icon" type="image/x-icon" href="https://www.freshly.com/wp-content/uploads/2014/12/Freshly_32x32_Favicon-01.png">
-
+ 
+<link rel="alternate" type="application/rss+xml" title="Freshly RSS" href="//www.freshly.com/feed/">
+<link rel="pingback" href="//www.freshly.com/xmlrpc.php">
+<link rel="shortcut icon" type="image/x-icon" href="//cdn.freshly.com/wp-content/uploads/2015/05/Freshly_32x32_Favicon-01-150x150.png">
 <!--[if lt IE 9]>
-<script src="https://www.freshly.com/wp-content/themes/thestory/js/html5shiv.js"></script>
+<script src="//www.freshly.com/wp-content/themes/thestory/js/html5shiv.js"></script>
 <![endif]-->
-
-<link rel="alternate" type="application/rss+xml" title="Freshly » Feed" href="https://www.freshly.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Freshly » Comments Feed" href="https://www.freshly.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="Freshly » Privacy Comments Feed" href="https://www.freshly.com/privacy/feed/">
-<link rel="stylesheet" id="smart-coupon-css" href="https://www.freshly.com/wp-content/plugins/woocommerce-smart-coupons/assets/css/smart-coupon.css?ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-layout-css" href="//www.freshly.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.2.11" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.freshly.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.2.11" type="text/css" media="only screen and (max-width: 768px)">
-<link rel="stylesheet" id="wp-pagenavi-css" href="https://www.freshly.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
-<link rel="stylesheet" id="pexeto-font-0-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C400italic%2C700&amp;ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="pexeto-font-1-css" href="https://fonts.googleapis.com/css?family=Montserrat%3A400%2C700&amp;ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="pexeto-font-2-css" href="https://fonts.googleapis.com/css?family=Raleway&amp;ver=4.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="pexeto-pretty-photo-css" href="https://www.freshly.com/wp-content/themes/thestory/css/prettyPhoto.css?ver=1.6.0" type="text/css" media="all">
-<link rel="stylesheet" id="pexeto-woocommerce-css" href="https://www.freshly.com/wp-content/themes/thestory/css/woocommerce.css?ver=1.6.0" type="text/css" media="all">
-<link rel="stylesheet" id="pexeto-stylesheet-css" href="https://www.freshly.com/wp-content/themes/thestory-child/style.css?ver=1.6.0" type="text/css" media="all">
-<style id="pexeto-stylesheet-inline-css" type="text/css">
-button, .button , input[type="submit"], input[type="button"], 
-								#submit, .left-arrow:hover,.right-arrow:hover, .ps-left-arrow:hover, 
-								.ps-right-arrow:hover, .cs-arrows:hover,.nivo-nextNav:hover, .nivo-prevNav:hover,
-								.scroll-to-top:hover, .services-icon .img-container, .services-thumbnail h3:after,
-								.pg-pagination a.current, .pg-pagination a:hover, #content-container .wp-pagenavi span.current, 
-								#content-container .wp-pagenavi a:hover, #blog-pagination a:hover,
-								.pg-item h2:after, .pc-item h2:after, .ps-icon, .ps-left-arrow:hover, .ps-right-arrow:hover,
-								.pc-next:hover, .pc-prev:hover, .pc-wrapper .icon-circle, .pg-item .icon-circle, .qg-img .icon-circle,
-								.ts-arrow:hover, .section-light .section-title:before, .section-light2 .section-title:after,
-								.section-light-bg .section-title:after, .section-dark .section-title:after,
-								.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
-								.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range, 
-								.controlArrow.prev:hover,.controlArrow.next:hover, .pex-woo-cart-num,
-								.woocommerce span.onsale, .woocommerce-page span.onsale.woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current,
-								.woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current,
-								.woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current,
-								.woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover,
-								.woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover,
-								.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus,
-								.woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus,
-								.pt-highlight .pt-title{background-color:#e1431a;}a, a:hover, .post-info a:hover, .read-more, .footer-widgets a:hover, .comment-info .reply,
-								.comment-info .reply a, .comment-info, .post-title a:hover, .post-tags a, .format-aside aside a:hover,
-								.testimonials-details a, .lp-title a:hover, .woocommerce .star-rating, .woocommerce-page .star-rating,
-								.woocommerce .star-rating:before, .woocommerce-page .star-rating:before, .tabs .current a,
-								#wp-calendar tbody td a, .widget_nav_menu li.current-menu-item > a, .archive-page a:hover{color:#e1431a;}.accordion-title.current, .read-more, .bypostauthor, .sticky,
-								.pg-cat-filter a.current{border-color:#e1431a;}.pg-element-loading .icon-circle:after{border-top-color:#e1431a;}body, .page-wrapper, #sidebar input[type="text"], 
-									#sidebar input[type="password"], #sidebar textarea, .comment-respond input[type="text"],
-									 .comment-respond textarea{background-color:#f5f4f0;}.header-wrapper, .pg-navigation, .mobile.page-template-template-fullscreen-slider-php #header, .mobile.page-template-template-fullscreen-slider-php .header-wrapper{background-color:#e1431a;}.dark-header #header{background-color:rgba(225,67,26,0.7);}.fixed-header-scroll #header{background-color:rgba(225,67,26,0.95);}#footer, #footer input[type=text], #footer input[type=password], 
-								#footer textarea, #footer input[type=search]{background-color:#72625a;}.content h1,.content h2,.content h3,.content h4,.content h5,
-							.content h6, h1.page-heading, .post h1, 
-							h2.post-title a, .content-box h2, #portfolio-categories ul li,
-							.item-desc h4 a, .item-desc h4, .content table th, 
-							.post-title, .archive-page h2, .page-heading, .ps-title,
-							.tabs a {color:#e1431a;}#logo-container img{width:200px; }h1,h2,h3,h4,h5,h6,.pt-price{font-family:Raleway;}body{font-family:Raleway;font-size:20px;}body, #footer, .sidebar-box, .services-box, .ps-content, .page-masonry .post, .services-title-box{font-size:20px;}#menu ul li a{font-family:Raleway;font-size:18px;font-weight:bold;}.page-title h1{font-family:Raleway;font-size:58px;}.sidebar-box .title, .footer-box .title{font-family:Raleway;font-size:16px;}.content-slider{padding-top:50px; padding-bottom:36px;}@media screen and (max-width: 1000px){.content-slider{padding-top:100px; padding-bottom:75px;}}#header {
-padding-top: 7px;
-}
-.fixed-header #header {
-background: rgba(225,67,26,0.95);
-padding-bottom: 0;
-}
-.section-header {
-padding: 0;
-}
-.fixed-header-scroll #logo-container img {
-width: 200px;
-}
-.content-slider .button {
-background: rgb(225,67,26);
-box-shadow: none;
--webkit-box-shadow: none;
--moz-box-shadow: none;
-}
-</style>
+<script type="text/javascript">
+		var ajaxurl = 'https://www.freshly.com/wp-admin/admin-ajax.php';
+		</script>
+<link rel="alternate" type="application/rss+xml" title="Freshly » Feed" href="//www.freshly.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Freshly » Comments Feed" href="//www.freshly.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Freshly » Privacy Comments Feed" href="//www.freshly.com/privacy/feed/">
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.freshly.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.freshly.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.2" type="text/javascript"></script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel="stylesheet" id="smart-coupon-css" href="//www.freshly.com/wp-content/plugins/woocommerce-smart-coupons/assets/css/smart-coupon.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-layout-css" href="//www.freshly.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.8" type="text/css" media="all">
+<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.freshly.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.8" type="text/css" media="only screen and (max-width: 768px)">
+<link rel="stylesheet" id="wp-pagenavi-css" href="//www.freshly.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="mailchimp-for-wp-checkbox-css" href="//www.freshly.com/wp-content/plugins/mailchimp-for-wp/assets/css/checkbox.min.css?ver=2.3.7" type="text/css" media="all">
+<link rel="stylesheet" id="pexeto-font-0-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C400italic%2C700&amp;ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="pexeto-font-1-css" href="//fonts.googleapis.com/css?family=Montserrat%3A400%2C700&amp;ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="pexeto-font-2-css" href="//fonts.googleapis.com/css?family=Raleway&amp;ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="pexeto-pretty-photo-css" href="//www.freshly.com/wp-content/themes/thestory/css/prettyPhoto.css?ver=1.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="pexeto-woocommerce-css" href="//www.freshly.com/wp-content/themes/thestory/css/woocommerce.css?ver=1.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="pexeto-stylesheet-css" href="//www.freshly.com/wp-content/themes/thestory-child/style.css?ver=1.6.0" type="text/css" media="all">
+<style id="pexeto-stylesheet-inline-css" type="text/css">button,.button,input[type="submit"],input[type="button"],#submit,.left-arrow:hover,.right-arrow:hover,.ps-left-arrow:hover,.ps-right-arrow:hover,.cs-arrows:hover,.nivo-nextNav:hover,.nivo-prevNav:hover,.scroll-to-top:hover,.services-icon .img-container,.services-thumbnail h3:after,.pg-pagination a.current,.pg-pagination a:hover,#content-container .wp-pagenavi span.current,#content-container .wp-pagenavi a:hover,#blog-pagination a:hover,.pg-item h2:after,.pc-item h2:after,.ps-icon,.ps-left-arrow:hover,.ps-right-arrow:hover,.pc-next:hover,.pc-prev:hover,.pc-wrapper .icon-circle,.pg-item .icon-circle,.qg-img .icon-circle,.ts-arrow:hover,.section-light .section-title:before,.section-light2 .section-title:after,.section-light-bg .section-title:after,.section-dark .section-title:after,.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,.controlArrow.prev:hover,.controlArrow.next:hover,.pex-woo-cart-num,.woocommerce span.onsale,.woocommerce-page span.onsale.woocommerce nav.woocommerce-pagination ul li span.current,.woocommerce-page nav.woocommerce-pagination ul li span.current,.woocommerce #content nav.woocommerce-pagination ul li span.current,.woocommerce-page #content nav.woocommerce-pagination ul li span.current,.woocommerce #content nav.woocommerce-pagination ul li span.current,.woocommerce-page #content nav.woocommerce-pagination ul li span.current,.woocommerce nav.woocommerce-pagination ul li a:hover,.woocommerce-page nav.woocommerce-pagination ul li a:hover,.woocommerce #content nav.woocommerce-pagination ul li a:hover,.woocommerce-page #content nav.woocommerce-pagination ul li a:hover,.woocommerce nav.woocommerce-pagination ul li a:focus,.woocommerce-page nav.woocommerce-pagination ul li a:focus,.woocommerce #content nav.woocommerce-pagination ul li a:focus,.woocommerce-page #content nav.woocommerce-pagination ul li a:focus,.pt-highlight .pt-title{background-color:#e1431a;}a,a:hover,.post-info a:hover,.read-more,.footer-widgets a:hover,.comment-info .reply,.comment-info .reply a,.comment-info,.post-title a:hover,.post-tags a,.format-aside aside a:hover,.testimonials-details a,.lp-title a:hover,.woocommerce .star-rating,.woocommerce-page .star-rating,.woocommerce .star-rating:before,.woocommerce-page .star-rating:before,.tabs .current a,#wp-calendar tbody td a,.widget_nav_menu li.current-menu-item>a,.archive-page a:hover{color:#e1431a;}.accordion-title.current,.read-more,.bypostauthor,.sticky,.pg-cat-filter a.current{border-color:#e1431a;}.pg-element-loading .icon-circle:after{border-top-color:#e1431a;}body,.page-wrapper,#sidebar input[type="text"],#sidebar input[type="password"],#sidebar textarea,.comment-respond input[type="text"],.comment-respond textarea{background-color:#f5f4f0;}.header-wrapper,.pg-navigation,.mobile.page-template-template-fullscreen-slider-php #header,.mobile.page-template-template-fullscreen-slider-php .header-wrapper{background-color:#e1431a;}.dark-header #header{background-color:rgba(225,67,26,0.7);}.fixed-header-scroll #header{background-color:rgba(225,67,26,0.95);}#footer,#footer input[type=text],#footer input[type=password],#footer textarea,#footer input[type=search]{background-color:#72625a;}.content h1,.content h2,.content h3,.content h4,.content h5,.content h6,h1.page-heading,.post h1,h2.post-title a,.content-box h2,#portfolio-categories ul li,.item-desc h4 a,.item-desc h4,.content table th,.post-title,.archive-page h2,.page-heading,.ps-title,.tabs a{color:#e1431a;}#logo-container img{width:200px;}h1,h2,h3,h4,h5,h6,.pt-price{font-family:Raleway;}body{font-family:Raleway;font-size:20px;}body,#footer,.sidebar-box,.services-box,.ps-content,.page-masonry .post,.services-title-box{font-size:20px;}#menu ul li a{font-family:Raleway;font-size:18px;}.page-title h1{font-family:Raleway;font-size:58px;}#header{padding-top:7px;}.fixed-header #header{background:rgba(225,67,26,0.95);padding-bottom:0;}.section-header{padding:0;}.fixed-header-scroll #logo-container img{width:200px;}.content-slider .button{background:rgb(225,67,26);box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none;}</style>
 <!--[if lte IE 8]>
-<link rel='stylesheet' id='pexeto-ie8-css'  href='https://www.freshly.com/wp-content/themes/thestory/css/style_ie8.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pexeto-ie8-css'  href='//www.freshly.com/wp-content/themes/thestory/css/style_ie8.css?ver=1.6.0' type='text/css' media='all' />
 <![endif]-->
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NN2JPV"></script><script type="text/javascript" src="https://www.freshly.com/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
-<script type="text/javascript" src="https://www.freshly.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.freshly.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.freshly.com/wp-includes/wlwmanifest.xml"> 
-<link rel="canonical" href="https://www.freshly.com/privacy/">
-<link rel="shortlink" href="https://www.freshly.com/?p=604">
-<!-- styles for Simple Google Map -->
-<style type="text/css">
-#SGM {width:100%; height:300px;}
-#SGM .infoWindow {line-height:13px; font-size:10px;}
-#SGM input {margin:4px 4px 0 0; font-size:10px;}
-#SGM input.text {border:solid 1px #ccc; background-color:#fff; padding:2px;}
-</style>
-<!-- end styles for Simple Google Map -->
-	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<script>window._popup_data = {"ajaxurl":"https:\/\/www.freshly.com\/wp-admin\/admin-ajax.php","do":"get_data","ajax_data":{"orig_request_uri":"\/privacy\/"}};</script><!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NN2JPV"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<link rel="stylesheet" id="mailchimp-for-wp-form-css" href="//www.freshly.com/wp-content/plugins/mailchimp-for-wp/assets/css/form.min.css?ver=2.3.7" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var freshlytics = {"debug":"","constants":{"segment_write_key":"FMhGm1zCwwGHyAQAOaECRQMVuBtOf7Wv","gtm_write_key":"GTM-NN2JPV","user_id":0}};
+var admin_ajax = {"url":"https:\/\/www.freshly.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.freshly.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="//www.freshly.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="//www.freshly.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//www.freshly.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 4.2.2">
+<meta name="generator" content="WooCommerce 2.3.8">
+<link rel="canonical" href="//www.freshly.com/privacy/">
+<link rel="shortlink" href="//www.freshly.com/?p=604">
+ 
+<style type="text/css">#SGM{width:100%;height:300px;}#SGM .infoWindow{line-height:13px;font-size:10px;}#SGM input{margin:4px 4px 0 0;font-size:10px;}#SGM input.text{border:solid 1px #ccc;background-color:#fff;padding:2px;}</style>
+ 
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NN2JPV" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NN2JPV');</script>
-<!-- End Google Tag Manager -->
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer',freshlytics.constants.gtm_write_key);</script>
+ 
+<script type="text/javascript">
+	!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
+	analytics.load(freshlytics.constants.segment_write_key);
+	freshlytics.debug || analytics.page();
+	}}();
+	</script>
+<script type="text/javascript">
+	(function($)
+	{
+		$(function() {
+			//http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript
+			var urlParams;
+			(window.onpopstate = function () {
+				var match,
+					pl     = /\+/g,  // Regex for replacing addition symbol with a space
+					search = /([^&=]+)=?([^&]*)/g,
+					decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+					query  = window.location.search.substring(1);
+
+				urlParams = {};
+				while (match = search.exec(query))
+				   urlParams[decode(match[1])] = decode(match[2]);
+			})();
+			
+			if(urlParams["utm_source"] != null || urlParams["utm_medium"] != null || urlParams["utm_campaign"] != null || urlParams["utm_content"] != null || urlParams["utm_channel"] != null){
+				$.cookie.json = true;
+				var utm_tracker = {
+					utm_source : urlParams["utm_source"], 
+					utm_medium : urlParams["utm_medium"], 
+					utm_campaign : urlParams["utm_campaign"], 
+					utm_content : urlParams["utm_content"],
+					utm_channel : urlParams["utm_channel"]}
+				$.cookie("utm_tracker", utm_tracker, { expires: 1 });
+			}else{
+				if(referrerHosname() !== location.host){
+					$.cookie("utm_tracker", null, { path: '/' });
+				}
+			}
+		});
+		
+		function referrerHosname() {
+			var url = document.createElement('a');
+			url.href = document.referrer;
+			return url.hostname;
+		}
+	})(jQuery);
+</script>
+<style type="text/css">.mc4wp-form input[name="_mc4wp_required_but_not_really"]{display:none!important;}</style>
 </head>
 <body class="page page-id-604 page-template page-template-template-full-custom page-template-template-full-custom-php fixed-header no-slider icons-style-light parallax-header">
 <div id="main-container">
-	<div class="page-wrapper">
-		<!--HEADER -->
-				<div class="header-wrapper">
-
-				<header id="header">
-			<div class="section-boxed section-header">
-			<div id="logo-container">
-								<a href="https://www.freshly.com/"><img src="https://www.freshly.com/wp-content/uploads/2014/11/Freshly_Large_1C_White.png" alt="Freshly"></a>
-			</div>	
-
-			
-			<div class="mobile-nav">
-				<span class="mob-nav-btn">Menu</span>
-			</div>
-	 		<nav class="navigation-container">
-				<div id="menu" class="nav-menu">
-				<ul id="menu-main" class="menu-ul"><li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://www.freshly.com/">Home</a></li>
+<div class="page-wrapper">
+ 
+<div class="header-wrapper">
+<header id="header">
+<div class="section-boxed section-header">
+<div id="logo-container">
+<a href="https://www.freshly.com/"><img src="//cdn.freshly.com/wp-content/uploads/2014/11/Freshly_Small_1C_White.png" alt="Freshly"></a>
+</div>
+<div class="mobile-nav">
+<span class="mob-nav-btn">Menu</span>
+</div>
+<nav class="navigation-container">
+<div id="menu" class="nav-menu">
+<ul id="menu-main" class="menu-ul"><li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://www.freshly.com/">Home</a></li>
 <li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://www.freshly.com/learn-more/">Learn More</a></li>
 <li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="https://www.freshly.com/menu/">Menu</a></li>
 <li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="https://www.freshly.com/plans/">Plans</a></li>
 <li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="https://www.freshly.com/join-now/">Join now</a></li>
 <li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-516"><a href="https://www.freshly.com/myaccount/">My Account</a></li>
-</ul>				</div>
-				
-				<div class="header-buttons">
-				<div class="pex-woo-cart-btn-wrap"><div class="pex-woo-cart-btn"><div class="pex-woo-cart-num" data-num="0">0</div></div><div class="pex-woo-cart-holder"><div class="pex-woo-cart">
-
+</ul> </div>
+<div class="header-buttons">
+<div class="pex-woo-cart-btn-wrap"><div class="pex-woo-cart-btn"><div class="pex-woo-cart-num" data-num="0">0</div></div><div class="pex-woo-cart-holder"><div class="pex-woo-cart">
 <ul class="cart_list product_list_widget ">
-
-	
-		<li class="empty">No products in the cart.</li>
-
-	
-</ul><!-- end product list -->
-
-
-</div></div></div>				</div>
-			</nav> 
-	
-			<div class="clear"></div>       
-			<div id="navigation-line"></div>
-		</div>
-		</header><!-- end #header -->
-
+<li class="empty">No products in the cart.</li>
+</ul> 
+</div></div></div> </div>
+</nav>
+<div class="clear"></div>
+<div id="navigation-line"></div>
+</div>
+</header> 
 </div>
 <div id="content-container" class=" layout-full">
 <div id="full-width" class="content">
@@ -236,87 +218,82 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p><strong>TELL US WHAT YOU THINK</strong></p>
 <p>Freshly welcomes your questions and comments about privacy and/or this policy. Please contact us at&nbsp;<a href="mailto:freshly@Freshly.com">freshly@Freshly.com</a>.</p>
 <p>&nbsp;</p>
-<p>Freshl, Inc.</p>
+<p>Freshly, Inc.</p>
 <p>P.O. Box 7215</p>
 <p>Tempe, AZ 85281</p>
 <p>&nbsp;</p>
 <p><a title="Terms and Conditions" href="https://www.freshly.com/terms/">Terms and Conditions</a></p>
 <p>Please also read the Terms and Conditions page on the site to understand additional terms and conditions which apply to the use of our Site.</p>
 <p>&nbsp;</p>
-</div></div></div> <!-- end main content holder (#content/#full-width) -->
+</div></div></div>  
 <div class="clear"></div>
-</div> <!-- end #content-container -->
+</div>  
 </div>
 <footer id="footer" class="center">
-		<div class="scroll-to-top"><span></span></div>
-	
-		<div id="footer-cta">
-		<div class="section-boxed">
-		<div class="footer-cta-first"><h5></h5></div>
-		<div class="footer-cta-disc"><p></p></div>
-				<div class="clear"></div>
-	</div>
-	</div>
-		<div class="cols-wrapper footer-widgets section-boxed cols-3">
-	<div class="col"><aside class="footer-box widget_text" id="text-2">			<div class="textwidget"><br><br> 
-<img src="https://www.freshly.com/wp-content/uploads/2015/01/footer_graphic.jpg" width="400px"></div>
-		</aside></div><div class="col"><aside class="footer-box widget_text" id="text-4"><h4 class="title">Contact Us</h4>			<div class="textwidget">1-844-FRESHLY (373-7459)<br>
-<a href="mailto:support@freshly.com">support@freshly.com</a>
-
+<div class="scroll-to-top"><span></span></div>
+<div id="footer-cta">
+<div class="section-boxed">
+<div class="footer-cta-first"><h5></h5></div>
+<div class="footer-cta-disc"><p></p></div>
+<div class="clear"></div>
 </div>
-		</aside></div><div class="col nomargin"><aside class="footer-box widget_text" id="text-3"><h4 class="title">About Us</h4>			<div class="textwidget">Freshly is a team of health-conscious entrepreneurs, doctors and professional chefs dedicated to making healthy eating and achieving your health and fitness goals easier than ever. We simply want to improve your life by delivering fresh, healthy and delicious meals to your doorstep. </div>
-		</aside></div>	</div>
-	<div class="footer-bottom">
-	<div class="section-boxed">
+</div>
+<div class="cols-wrapper footer-widgets section-boxed cols-3">
+<div class="col"><aside class="footer-box widget_text" id="text-2"> <div class="textwidget"><br><br>
+<img src="//cdn.freshly.com/wp-content/uploads/2015/01/footer_graphic.jpg" width="400px"></div>
+</aside></div><div class="col"><aside class="footer-box widget_text" id="text-4"><h4 class="title">Contact Us</h4> <div class="textwidget"><a href="mailto:support@freshly.com">support@freshly.com</a>
+</div>
+</aside></div><div class="col nomargin"><aside class="footer-box widget_text" id="text-3"><h4 class="title">About Us</h4> <div class="textwidget">Freshly is a team of health-conscious entrepreneurs, doctors and professional chefs dedicated to making healthy eating and achieving your health and fitness goals easier than ever. We simply want to improve your life by delivering fresh, healthy and delicious meals to your doorstep. </div>
+</aside></div> </div>
+<div class="footer-bottom">
+<div class="section-boxed">
 <span class="copyrights">
-			© Copyright Freshly</span>
+© Copyright Freshly</span>
 <div class="footer-nav">
-<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="https://www.freshly.com/contact/">Contact</a></li>
+<div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-208779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208779"><a href="https://www.freshly.com/careers/">Careers</a></li>
+<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="https://www.freshly.com/contact/">Contact</a></li>
 <li id="menu-item-609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-609"><a href="https://www.freshly.com/terms/">Terms</a></li>
 <li id="menu-item-610" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-604 current_page_item menu-item-610"><a href="https://www.freshly.com/privacy/">Privacy</a></li>
 <li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a href="https://www.freshly.com/returns/">Returns</a></li>
 <li id="menu-item-615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-615"><a href="https://www.freshly.com/shipping/">Shipping</a></li>
 <li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="https://www.freshly.com/faq/">FAQ</a></li>
 </ul></div></div>
-
-
 </div>
 </div>
-</footer> <!-- end #footer-->
-</div> <!-- end #main-container -->
-
-
-<!-- FOOTER ENDS -->
-
+</footer>  
+</div>  
+ 
+<script type="text/javascript" src="//www.freshly.com/wp-content/themes/thestory-child/js/jquery.mask.js?ver=1.11.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.freshly.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"https:\/\/www.freshly.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.freshly.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_view_cart":"View Cart","cart_url":"https:\/\/www.freshly.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","i18n_view_cart":"View Cart","cart_url":"https:\/\/www.freshly.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.freshly.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.2.11"></script>
+<script type="text/javascript" src="//www.freshly.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.3.8"></script>
 <script type="text/javascript" src="//www.freshly.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.freshly.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
-var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"\/\/www.freshly.com\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif"};
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.freshly.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.2.11"></script>
-<script type="text/javascript" src="//www.freshly.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1"></script>
+<script type="text/javascript" src="//www.freshly.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.8"></script>
+<script type="text/javascript" src="//www.freshly.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
-var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//www.freshly.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.2.11"></script>
-<script type="text/javascript" src="https://www.freshly.com/wp-includes/js/underscore.min.js?ver=1.6.0"></script>
-<script type="text/javascript" src="https://www.freshly.com/wp-content/themes/thestory/js/main.js?ver=1.6.0"></script>
-<script type="text/javascript" src="https://www.freshly.com/wp-includes/js/comment-reply.min.js?ver=4.1.1"></script>
-<script type="text/javascript" src="https://www.freshly.com/wp-content/plugins/wordpress-popup/js/public.min.js?ver=4.1.1"></script>
+<script type="text/javascript" src="//www.freshly.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.8"></script>
+<script type="text/javascript" src="//www.freshly.com/wp-includes/js/underscore.min.js?ver=1.6.0"></script>
+<script type="text/javascript" src="//www.freshly.com/wp-content/themes/thestory/js/main.js?ver=1.6.0"></script>
+<script type="text/javascript" src="//www.freshly.com/wp-includes/js/comment-reply.min.js?ver=4.2.2"></script>
 <script type="text/javascript">var PEXETO = PEXETO || {};PEXETO.ajaxurl="https://www.freshly.com/wp-admin/admin-ajax.php";PEXETO.lightboxOptions = {"theme":"pp_default","animation_speed":"normal","overlay_gallery":false,"allow_resize":true};PEXETO.disableRightClick=false;PEXETO.stickyHeader=true;jQuery(document).ready(function($){
 					PEXETO.init.initSite();PEXETO.woocommerce.init(true);$(".pexeto-contact-form").each(function(){
 			$(this).pexetoContactForm({"wrongCaptchaText":"The text you have entered did not match the text on the image. Please try again.","failText":"An error occurred. Message not sent.","validationErrorText":"Please complete all the fields correctly","messageSentText":"Message sent"});
-		});});</script>
+		});});</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e6aac66adb","applicationID":"6197388","transactionName":"M1MBMRBXCBBRWkwPDQoZIgYWXwkNH01dCxIIVxcAT1ATD1wUWxMREFkO","queueTime":0,"applicationTime":195,"atts":"HxQCR1hNGx4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-686.min.js"}</script><script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+
 </body></html>
