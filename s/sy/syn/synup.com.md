@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the synup.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314211848id_/http%3A//synup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synup.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907044528id_/http%3A//synup.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Yext Alternative - Local Listings Service
+# Synup Privacy Policy
 
 Fair Information Practices 
 
