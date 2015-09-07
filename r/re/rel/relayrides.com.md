@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relayrides.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315022418id_/https%3A//relayrides.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relayrides.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907083945id_/https%3A//relayrides.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ If you wish to opt-out of marketing and promotional emails, please contact us at
 
 ### Contact
 
-RelayRides welcomes your questions and comments about privacy, and what we do. Please feel free to e-mail us at [support@relayrides.com](https://web.archive.org/web/20150315022418id_/https%3A//relayrides.com/policies/support@relayrides.com).
+RelayRides welcomes your questions and comments about privacy, and what we do. Please feel free to e-mail us at [support@relayrides.com](https://web.archive.org/web/20150907083945id_/https%3A//relayrides.com/policies/support@relayrides.com).
 
 If you need to reach us by mail, please write to:
 
