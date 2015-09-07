@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclays.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144221id_/http%3A//www.barclays.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclays.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907191625id_/https%3A//www.home.barclays/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Barclays
 
