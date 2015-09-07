@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madrasgeek.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629054112id_/http%3A//www.madrasgeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madrasgeek.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907082102id_/http%3A//www.madrasgeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Madras Geek
 
