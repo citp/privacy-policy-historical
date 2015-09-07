@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famewatcher.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407023004id_/http%3A//famewatcher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famewatcher.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907231643id_/http%3A//famewatcher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Contact Info - Famewatcher
 
@@ -27,3 +27,5 @@ Thank you very much.
 
 CONTACT INFORMATION  
 You can email us [by clicking here](mailto:famewatch@gmail.com).
+
+Privacy Policy and Contact Info was last modified:  November 19th, 2013 by 
