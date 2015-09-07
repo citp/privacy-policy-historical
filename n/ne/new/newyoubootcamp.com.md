@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newyoubootcamp.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629234716id_/http%3A//www.newyoubootcamp.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyoubootcamp.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907170405id_/http%3A//newyoubootcamp.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy | New You Boot Camp
+# Privacy and Cookie Policy - New You Boot Camp
 
 **The Bootcamp Limited (“we”) are committed to protecting and respecting your privacy.**
 
