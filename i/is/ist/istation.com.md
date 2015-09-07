@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424005554id_/http%3A//www.istation.com/Legal/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istation.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907112906id_/https%3A//www.istation.com/Legal/PrivacyStatement) for the most accurate reproduction.*
 
-# Privacy Statement - Istation
+# Istation - Istation
 
 This privacy statement (this “Privacy Statement”) is incorporated in, and subject to, the Terms of Use and Service (the “Terms”) for Imagination Station, Inc. (“Istation”). Please refer to the [Terms](https://web.archive.org/Legal/TermsOfUse) for definitions of words with initial capitals letters that are not otherwise defined in this Privacy Statement. Istation encourages You to read this Privacy Statement carefully.
 
