@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factset.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502090328id_/http%3A//www.factset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factset.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907191155id_/https%3A//www.factset.com/privacy) for the most accurate reproduction.*
 
 # FactSet Privacy Policy — FactSet Research Systems
 
