@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the madewell.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317162421id_/https%3A//www.madewell.com/help/privacy_policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the madewell.com privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907143720id_/https%3A//www.madewell.com/help/privacy_policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <title>Our Privacy Policy - Madewell Private Policy - Madewell</title>
@@ -12,7 +12,7 @@
 <meta name="description" content="Buy those skinny jeans and matching jacket with full confidence that protecting your information is very important to us. Read up on Madewell's privacy policy.">
     
 	<!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-X5LW"></script><script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-088824c9/p/madewell.com/439599/g"></script><script>
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-X5LW"></script><script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-088824c9/p/madewell.com/439588/g"></script><script>
 	var monetateT = new Date().getTime();
 	(function() {
 		var p = document.location.protocol;
@@ -27,13 +27,13 @@
 
 
 
-<script language="javascript" src="/media/js/cookies_v1_m56577569830751226.js"></script>
-<script language="javascript" src="/media/js/cookieChecker_v1_m56577569830751622.js"></script>
+<script language="javascript" src="/media/js/cookies_v1_m56577569831106579.js"></script>
+<script language="javascript" src="/media/js/cookieChecker_v1_m56577569831107056.js"></script>
 <script language="javascript" src=""></script><!--
 <link rel="stylesheet" type="text/css" href="" />--><!--
 <link rel="stylesheet" type="text/css" href="" />-->
 
-<link href="/media/css/footer_v1_m56577569830751147.css" rel="stylesheet" type="text/css">
+<link href="/media/css/footer_v1_m56577569831106498.css" rel="stylesheet" type="text/css">
 <script language="javascript">
 function isEmailValid(formObj) {
     var formValid=true;
@@ -53,7 +53,7 @@ function openwindow() {
   blowupWin.focus();
 }
 </script>
-<link href="/media/css/help_v1_m56577569830751151.css" rel="stylesheet" type="text/css">
+<link href="/media/css/help_v1_m56577569831106502.css" rel="stylesheet" type="text/css">
 
 
 <style>
@@ -69,10 +69,11 @@ function openwindow() {
 
 
 
+
     
     
     
-        <link rel="stylesheet" href="/media/wro/css/global-default-madewell_v1_m56577569830786775.css">
+        <link rel="stylesheet" href="/media/wro/css/global-default-madewell_v1_m56577569831109496.css">
     
 
 
@@ -190,21 +191,24 @@ globalObj.config = {
     isBazaarVoiceTag : true,
 	navType : '',
 	userId : '',
+	starsOnArrayEnabled : false,
 	server : 'www.madewell.com',
 	port : '443',
 	isUserSignIn : false,
-	imageBaseUrl: 'https://s7d9.scene7.com/is/image/madewell/',
+	imageBaseUrl: 'https://i.s-madewell.com/is/image/madewell/',
 	apiDomain : '',
 	isOmnitureToLoad : true,
   	renderHtml:!false,
 	secureBaseURL: 'https://www.madewell.com/',
-	orderContext: 'madewell'
+	orderContext: 'madewell',
+    countryContext: 'US'
 };
 
 globalObj.flags = {
       isCheckout: 'false',
       isEmbedded: false,
-      isHomepage: ''
+      isHomepage: '',
+      showSidecar: false
 };
 
 globalObj.pageError = {
@@ -221,11 +225,15 @@ var require = {
 };
 </script>
 
-<script src="/media/wro/js/head_v1_m56577569830786857.js"></script>
+
+    
+    
+        <script src="/media/wro/js/head_v1_m56577569831109590.js"></script>
+    
+
 
 <script>
 var query = document.location.search,
-    dynamicOmniture = true,
     HeadAjax = {};
 
 var setFirstPageLoadCookie = function () {
@@ -234,21 +242,34 @@ var setFirstPageLoadCookie = function () {
     Utils.setCookie(cookieName, (!cookieExists), '', '/', '', '');
 }();
 
-var userDetailsAJAX = $.ajax({
-    url : (globalObj.flags.isEmbedded) ? globalObj.config.secureBaseURL + 'ajax/userDetails.jsp' : '/ajax/userDetails.jsp',
-    contentType : (globalObj.flags.isEmbedded) ? "application/jsonp" : "application/json",
-    dataType : (globalObj.flags.isEmbedded) ? "jsonp" : "json",
-    jsonpCallback : 'userDetailsJSON',
-    crossDomain : globalObj.flags.isEmbedded,
-	data : {"user" : true, "cart" : true, "omniture" : true, "template" : "/help/privacy_policy.jsp", "t" : new Date().getTime(), "query":query},
-    timeout : 5000,
-    async : false
-}).done(function(json) {
-    HeadAjax.jsonResponse = json; 
-    Global.loadCustomerDetails(json);
-});
+if(!globalObj.flags.showSidecar){
+	var userDetailsAJAX = $.ajax({
+    	url : (globalObj.flags.isEmbedded) ? globalObj.config.secureBaseURL + 'ajax/userDetails.jsp' : '/ajax/userDetails.jsp',
+    	contentType : (globalObj.flags.isEmbedded) ? "application/jsonp" : "application/json",
+    	dataType : (globalObj.flags.isEmbedded) ? "jsonp" : "json",
+    	jsonpCallback : 'userDetailsJSON',
+    	crossDomain : globalObj.flags.isEmbedded,
+		data : {"user" : true, "cart" : true, "omniture" : true, "template" : "/help/privacy_policy.jsp", "t" : new Date().getTime(), "query":query},
+    	timeout : 5000,
+    	async : false
+	}).done(function(json) {
+    	HeadAjax.jsonResponse = json; 
+    	Global.loadCustomerDetails(json);
+	}).fail(function() {
+    	if (typeof s != 'undefined') {
+        	s.eVar37 = 'ajaxFail';
+        	s.prop19 = 'ajaxFail';
+        	s.prop23 = 'ajaxFail';
+        	s.list1 = 'ajaxFail';
+        	s.prop44 = 'ajaxFail';
+        	s.eVar44 = 'ajaxFail';
+        	s.eVar57 = 'ajaxFail';
+        	s.server = 'ajaxFail';
+    	}
+	});
+}
 
-if (globalObj.flags.isEmbedded) {
+if (!globalObj.flags.showSidecar && globalObj.flags.isEmbedded) {
     var sessionCountryAJAX = $.ajax({
         url : globalObj.config.secureBaseURL + 'intl/sessionCountryDetail.jsp?isEmbedded=true',
         contentType : "application/jsonp",
@@ -282,18 +303,19 @@ var sl_tr_start = sl_tr_end = sl_tr_html_start = sl_tr_html_end = sl_tr_json_sta
 <!-- *** headnav.html goes here *** -->
 <div align="center" class="topnavigation">
 
-
 <noscript>
      <img src="/media/images/common/javascript_v1_m56577569830589334.gif" />
 </noscript>
 
 
-<script src="/media/wro/js/legacy_v1_m56577569830786815.js"></script>
+<script src="/media/wro/js/legacy_v1_m56577569831109543.js"></script>
 
 
 
 
 <iframe width="0" scrolling="no" height="0" frameborder="0" src="/media/images/common/spacer_v1_m56577569830471820.gif" id="if_persistShoppingBag" style="position:absolute;"></iframe>
+<div>
+	
 
 
 
@@ -314,8 +336,7 @@ var sl_tr_start = sl_tr_end = sl_tr_html_start = sl_tr_html_end = sl_tr_json_sta
 
 
 
-
-<script src="/media/js/i18n_common_v1_m56577569830751213.js"></script>
+<script src="/media/js/i18n_common_v1_m56577569831106565.js"></script>
 
 <script>
 <!--
@@ -353,13 +374,28 @@ function buttonup ( buttonname )
   <div id="globalHeaderContainer" class="global-header-section">            
           
       <div id="globalHeaderPromoContainer">
-        <span class="global-header-text"><span>NOW'S YOUR CHANCE: OVER 50 POPULAR STYLES ARE <a href="/newarrivals/backinstock.jsp?N=21&amp;Nsrt=3&amp;intcmp=home_globalnav_1">BACK IN STOCK</a>.</span></span> 
+        <span class="global-header-text"><span>THE HAPPINESS SQUARED EVENT: 30% OFF <a href="/madewell_feature/thehappinesssquaredevent.jsp?intcmp=home_globalnav_1">FALL ESSENTIALS</a> + AN EXTRA 30% OFF <a href="/sale.jsp?intcmp=home_globalnav_1">ALL SALE STYLES</a>. IN STORES &amp; ONLINE. USE CODE YESANDYES.</span></span> 
+        
+          <span id="globalHeaderDetails" class="global-header-details"><a href="#" id="globalHeaderDetailsLink" class="global-header-promo-details">details</a> 
+          </span>
+          <div id="globalHeaderPromoDetailsContainer">     
+            <div id="globalHeaderPromoDetails" class="global-header-details-show-hide">
+              <span id="globalHeaderDisclaimerCaret"></span>    
+              <div id="globalHeaderDisclaimerClose">                      
+                <a href="#" id="globalHeaderPromoDetailsClose"> 
+                  <span> CLOSE </span>
+                  <span class="global-header-close-img"></span>
+                </a>
+              </div>
+              <div id="globalHeaderDisclaimertext">Offer valid on the purchase of select items in Madewell stores and at madewell.com from September 3, 2015, 12:01am ET through September 7, 2015, 11:59pm ET. In-store discount as advertised. Online discount valid on items marked “30% off with code YESANDYES.” Offer not valid on phone orders. Offer cannot be applied to previous purchases or the purchase of gift cards and cannot be redeemed for cash or used in combination with any other offer. In-store discount automatically taken at the register. To redeem online, enter code YESANDYES in the promo code box at checkout. Offer valid in the U.S. only. Terms of offer are subject to change.</div>
+            </div> 
+          </div>                    
                 
       </div>
          
           
       <div id="globalHeaderShipMessageContainer">
-        <span class="global-header-ship-text"><a href="/help/shipping_handling.jsp">FREE SHIPPING ON ALL ORDERS | FREE EXPEDITED SHIPPING ON ORDERS OF $200+</a>.</span>       
+        <span class="global-header-ship-text"><span><a href="/help/shipping_handling.jsp">FREE SHIPPING ON ALL ORDERS.</a></span></span>       
                    
       </div> 
         
@@ -374,7 +410,7 @@ function buttonup ( buttonname )
       <div id="globalHeaderUserPanel">
         <ul id="userPanelFull">
           <li id="userPanelMyAccount">
-            <a href="https://www.madewell.com/account/home.jsp?bmUID=kM3Sb6Q" id="globalHeaderMyAccount" name="&amp;lpos=header>my_account">
+            <a href="https://www.madewell.com/account/home.jsp?PRODUCT%3C%3Eprd_id=845524441769601&amp;FOLDER%3C%3Efolder_id=2534374302028213&amp;bmUID=k_h48Cx" id="globalHeaderMyAccount" name="&amp;lpos=header>my_account">
               My Account
             </a>
           </li>
@@ -390,14 +426,14 @@ function buttonup ( buttonname )
           <li id="userPanelRecognized">
             <span id="globalHeaderWelcome">Welcome, <span id="userPanelName"></span></span>
             <span class="global-header-usernotyou">
-              <a href="https://www.madewell.com/signin/signin.jsp?bmForm=logout&amp;bmFormID=kM3Sb6R%2F14c288cdf30&amp;bmSubmit=logout&amp;bmUID=kM3Sb6S" id="globalHeaderNotYou" name="&amp;lpos=header>not_you">
+              <a href="https://www.madewell.com/signin/signin.jsp?PRODUCT%3C%3Eprd_id=845524441769601&amp;FOLDER%3C%3Efolder_id=2534374302028213&amp;bmForm=logout&amp;bmFormID=k_h48Cy%2F14fa83d68b8&amp;bmSubmit=logout&amp;bmUID=k_h48Cz" id="globalHeaderNotYou" name="&amp;lpos=header>not_you">
                 (Not you?)
               </a>
             </span>
             <span class="global-header-pipe global-header-usernotyou">|</span>
             <span id="userPanelSignOut">
               <span class="global-header-useryou"></span>
-              <a href="https://www.madewell.com/account/logout.jsp?bmUID=kM3Sb6V" id="globalHeaderSignOut" name="&amp;lpos=header>sign_out">
+              <a href="https://www.madewell.com/account/logout.jsp?PRODUCT%3C%3Eprd_id=845524441769601&amp;FOLDER%3C%3Efolder_id=2534374302028213&amp;bmUID=k_h48CC" id="globalHeaderSignOut" name="&amp;lpos=header>sign_out">
                 Sign Out
               </a>
             </span>
@@ -410,15 +446,15 @@ function buttonup ( buttonname )
           
             <span id="globalHeaderCountryContextShipTo">Ship To:</span>
             <div id="globalHeaderCountryContextLocale" class="global-country-context-locale">
-              <img id="globalHeaderCountryContextLocaleImg" src="/media/images/contextchooser/flags/US_v1_m56577569830547815.gif">
+              <img id="globalHeaderCountryContextLocaleImg" src="/media/images/contextchooser/flags/US_v1_m56577569830982664.gif">
               <span id="globalHeaderCountryContextLocaleName">United States</span>
             </div>
             <span class="global-country-context-pipe">|</span>
           
           <span id="globalHeaderCountryContextChange" class="global-country-context-change">
-            <a href="#" class="btn-context-chooser">
+            <a href="https://www.madewell.com/intl/context_chooser.jsp?PRODUCT%3C%3Eprd_id=845524441769601&amp;FOLDER%3C%3Efolder_id=2534374302028213&amp;bmUID=k_h48CE" class="btn-context-chooser">
               <span class="global-country-context-change-text">Change</span>
-              <img id="globalHeaderCountryContextLocaleImg" src="/media/images/contextchooser/flags/US_v1_m56577569830547815.gif" class="global-country-context-change-flag">
+              <img id="globalHeaderCountryContextLocaleImg" src="/media/images/contextchooser/flags/US_v1_m56577569830982664.gif" class="global-country-context-change-flag">
               <span class="global-country-context-icon global-country-context-change-flag search2-right-caret"></span>
             </a>
           </span>
@@ -429,7 +465,7 @@ function buttonup ( buttonname )
           
             <div id="globalHeaderWishlistContainer">
               
-              <span id="globalHeaderWishlistLink" class="wishlist-child"><a href="https://www.madewell.com/wishlist?bmUID=kM3Sb6X" name="&amp;lpos=top_nav>wishlist">Wishlist</a></span>
+              <span id="globalHeaderWishlistLink" class="wishlist-child"><a href="https://www.madewell.com/wishlist?PRODUCT%3C%3Eprd_id=845524441769601&amp;FOLDER%3C%3Efolder_id=2534374302028213&amp;bmUID=k_h48CF" name="&amp;lpos=top_nav>wishlist">Wishlist</a></span>
             </div>
             <div class="global-header-pipe">|</div>
           
@@ -437,10 +473,10 @@ function buttonup ( buttonname )
           
           <div id="globalHeaderShoppingBagContainer">
             <div id="globalHeaderShoppingBagWrapper">
-              <a href="https://www.madewell.com/checkout2/shoppingbag.jsp?bmUID=kM3Sb6W" id="globalHeaderShoppingBagBttn" name="&amp;lpos=shopping_bag_link" class="global-header-bag-link">Shopping Bag</a>
+              <a href="https://www.madewell.com/checkout2/shoppingbag.jsp?PRODUCT%3C%3Eprd_id=845524441769601&amp;FOLDER%3C%3Efolder_id=2534374302028213&amp;bmUID=k_h48CD" id="globalHeaderShoppingBagBttn" name="&amp;lpos=shopping_bag_link" class="global-header-bag-link">Shopping Bag</a>
             </div>
             <div id="miniCartWrapper">
-              <div id="miniCartTab"><a href="https://www.madewell.com/checkout2/shoppingbag.jsp?bmUID=kM3Sb6W" id="globalHeaderShoppingBagBttn2" name="shoppingBagBttn2" class="global-header-bag-link">
+              <div id="miniCartTab"><a href="https://www.madewell.com/checkout2/shoppingbag.jsp?PRODUCT%3C%3Eprd_id=845524441769601&amp;FOLDER%3C%3Efolder_id=2534374302028213&amp;bmUID=k_h48CD" id="globalHeaderShoppingBagBttn2" name="shoppingBagBttn2" class="global-header-bag-link">
                 Shopping Bag <span id="miniCartTabQty"></span>
               </a></div>
               <div id="miniCart"></div>
@@ -449,377 +485,6 @@ function buttonup ( buttonname )
         </div>
       </div>
       
-      
-        <div align="center" id="contextWrap"><div id="displayContextChoser" style="display: none;">
-          
-
-
-
-	
-<style>
-.dd .ddTitle span.arrow {
-	background:url() no-repeat 0 0; float:right; display:inline-block;width:16px; height:16px; cursor:pointer;
-}
-#context_all_triangle {
-	background:url(/media/images/contextchooser/triangle_v1_m56577569830547817.gif);
-}
-</style>	
-
-<script>
-var current_country='US';
-var current_currency='USD';
-var country = new Object();
-var countyOptions = new Object();
-var images = new Array();
-
-images[0] = new Image();
-images[0].src = "/media/images/contextchooser/flags/US_v1_m56577569830547815.gif";
-
-	countyOptions[0]=new Option("UNITED STATES","US");
-	countyOptions[0].title="/media/images/contextchooser/flags/US_v1_m56577569830547815.gif";
-	countyOptions[0].selected="selected";
-
-images[1] = new Image();
-images[1].src = "/media/images/contextchooser/flags/CA_v1_m56577569830547814.gif";
-
-	countyOptions[1]=new Option("CANADA","CA");
-	countyOptions[1].title="/media/images/contextchooser/flags/CA_v1_m56577569830547814.gif";
-
-images[2] = new Image();
-images[2].src = "/media/images/contextchooser/flags/JP_v1_m56577569830547812.gif";
-
-	countyOptions[2]=new Option("JAPAN","JP");
-	countyOptions[2].title="/media/images/contextchooser/flags/JP_v1_m56577569830547812.gif";
-
-country['US']=new Array(
-
-   'USD','U.S. DOLLAR (USD)','0'
-    );
- 
-country['CA']=new Array(
-
-   'USD','U.S. DOLLAR (USD)','0'
-    );
- 
-country['JP']=new Array(
-
-   'USD','U.S. DOLLAR (USD)','0'
-    );
- 
-
-
-
-
-if (document.images) {
-    cancelbuttonup       = new Image();
-    cancelbuttonup.src   = '';
-    cancelbuttondown     = new Image() ;
-    cancelbuttondown.src =  '';
-	
-    continuebuttonup       = new Image();
-    continuebuttonup.src   = '/media/images/intl/continue_on_v1_m56577569830548162.gif';
-    continuebuttondown     = new Image() ;
-    continuebuttondown.src =  '/media/images/intl/continue_off_v1_m56577569830548160.gif';
-	
-    faqbuttonup       = new Image();
-    faqbuttonup.src   = '/media/images/intl/faq_button_on_v1_m56577569830547832.gif';
-    faqbuttondown     = new Image() ;
-    faqbuttondown.src =  '/media/images/intl/faq_button_off_v1_m56577569830547834.gif';
-    
-    closebuttonup       = new Image();
-    closebuttonup.src   = '/media/images/contextchooser/btn_close_rollover_v1_m56577569830547816.gif';
-    closebuttondown     = new Image() ;
-    closebuttondown.src =  '/media/images/contextchooser/btn_close_v1_m56577569830547819.gif';
-	
-	close2buttonup       = new Image();
-    close2buttonup.src   = '';
-    close2buttondown     = new Image() ;
-    close2buttondown.src =  '';
-}
-function buttondown( buttonname )
-{
-    if (document.images && document[ buttonname ]!=undefined) {
-      document[ buttonname ].src = eval( buttonname + "down.src" );
-    }
-}
-function buttonup ( buttonname )
-{
-    if (document.images && document[ buttonname ]!=undefined) {
-      document[ buttonname ].src = eval( buttonname + "up.src" );
-    }
-}
-function faqs ( block_id ){
-	if (document.getElementById(block_id).style.display == "none") {
-		document.getElementById(block_id).style.display = "block";
-		document.getElementById('close51').style.display = "inline";
-		//document.getElementById('context_all').style.height = "732px";
-	}
-	else if (document.getElementById(block_id).style.display == "block") {
-		document.getElementById(block_id).style.display = "none";
-		document.getElementById('close51').style.display = "none";
-		//document.getElementById('context_all').style.height = "550px";
-	}
-}
-
-function setCurrency(countryCode) {  
-	var selectedCurrency = document.forms['context_chooser'].elements['currency']; 
-	selectedCurrency.options.length = 0;                
-	var newOptions = country[countryCode.value];    
-	for (var i=0;newOptions!=null && i<newOptions.length;i+=3)            
-	{
-	  if (newOptions[i+2] == "1") {                   
-	    var newOpt = new Option(newOptions[i+1],newOptions[i], true);
-	    newOpt.selected=true;
-	  } else {
-	    var newOpt = new Option(newOptions[i+1],newOptions[i]);
-	    newOpt.selected=false;
-	  }                 
-	  selectedCurrency.options[selectedCurrency.options.length] = newOpt;
-	}
-	if (selectedCurrency.length>0 && selectedCurrency.refresh!=undefined){
-		selectedCurrency.refresh();
-	}
-    if(globalObj.flags.isEmbedded && globalObj.flags.setCountryEmbedded == null ) {     
-        globalObj.flags.setCountryEmbedded = false;        
-        var countryCode = globalObj.config.countryCode;
-        var countryContextUS = $("#countrySelect [value='US']");
-        var countryContextCA = $("#countrySelect [value='CA']");  
-        var countryContextJP = $("#countrySelect [value='JP']");  
-        if(countryCode === "CA") {                                 
-            countryContextCA.attr("selected","selected");
-            countryContextUS.attr("selected",false);   
-            countryContextJP.attr("selected",false);                   
-        }  else if(countryCode === "CA") { 
-            countryContextUS.attr("selected","selected");
-            countryContextCA.attr("selected",false);   
-            countryContextJP.attr("selected",false);                  
-        }  else if(countryCode === "JP")       {
-            countryContextJP.attr("selected","selected");
-            countryContextCA.attr("selected",false);   
-            countryContextUS.attr("selected",false);   
-        }
-    }
-	return false;
-}
-function arrayContains(a, obj) {
-    for (var i = 0; i < a.length; i+3) {
-        if (a[i]== obj) {
-            return true;
-        }
-    }
-    return false;
-}
-function validateContextChooser()
-{
-	//set value of current country and currency
-	var errorMsg = '';
-	
-	var selectCountry = document.forms['context_chooser'].elements['countrySelect']; 
-	
-	if (selectCountry!=null){
-		//alert(selectCountry.value);
-		if (selectCountry.selectedIndex < 0){
-			errorMsg = errorMsg + '<span style="color: rgb(204, 0, 0); font-weight: bold; font-size:10px;font-family:verdana,geneva,arial;padding:0px; padding-bottom:0px;background-color:#FFFFFF;">* You must select country</span><br/>';		
-		}
-	}
-	var selectCurrency = document.forms['context_chooser'].elements['currency']; 
-	if (selectCurrency!=null){
-		if (selectCurrency.selectedIndex <0 || ((selectCountry!=null)&& !arrayContains(country[selectCountry.value],selectCurrency.value))){
-			errorMsg = errorMsg + '<span style="color: rgb(204, 0, 0); font-weight: bold; font-size:10px;font-family:verdana,geneva,arial;padding:0px; padding-bottom:0px;background-color:#FFFFFF;">* You must select currency</span><br/>';		
-		}
-	}
-
-	var errorDivId = 'error_div';	
-	if(errorMsg != ''){
-		document.getElementById(errorDivId).innerHTML = errorMsg;
-		document.getElementById(errorDivId).style.display='block';
-		return false;
-	}else{
-		document.getElementById(errorDivId).innerHTML = '';
-		document.getElementById(errorDivId).style.display='none';
-		return true;
-	}
-}
-function submitContextChoser() 
-{	
-	// get session country and session currency
-	var sessionCountry='US';
-	var sessionCountryCurrency='USD';
-    if(globalObj.flags.isEmbedded && globalObj.config.siteName.toLowerCase() === 'madewell') {
-        sessionCountry = globalObj.config.countryCode; 
-    }  	
-	// get selected country and selected currency from dropdown
-	var countrySelect = document.getElementById('countrySelect');
-	var selectedCountry = countrySelect.options[countrySelect.selectedIndex].value;
-	var countryCurrencySelect = document.getElementById('currency');
-	var selectedCountryCurrency = countryCurrencySelect.options[countryCurrencySelect.selectedIndex].value;
-
-	// country/currency selection check with session country/currency
-	if(selectedCountry != sessionCountry){
-		// submit form
-		document.forms['context_chooser'].submit();
-	} else if ( selectedCountry == sessionCountry && selectedCountryCurrency != sessionCountryCurrency) {
-		// session country and country are same with different currency, submit form
-		document.forms['context_chooser'].submit();
-	}	
-	else{
-		// do nothing
-		closeIntlPopUp(); 
-	}
-}
-function getDocHeight() {
-    var D = document;
-    return Math.max(
-        Math.max(D.body.scrollHeight, D.documentElement.scrollHeight),
-        Math.max(D.body.offsetHeight, D.documentElement.offsetHeight),
-        Math.max(D.body.clientHeight, D.documentElement.clientHeight)
-    );
-}
-function showWraper(){
-    // We don't want to hide the top nav.
-	// This means we need to create two divs. One div won't hide the top nav.
-    var topOffset = 23; // top nav ends at 23 px from top.
-	var leftOffset = 755; // top nav starts at 755px from left.
-    /*var etop = document.getElementById("wraperDivCommonHideTop");
-	if (etop==null){
-		etop = document.createElement('div')
-		etop.id="wraperDivCommonHideTop";
-		etop.onclick =function(){closeIntlPopUp();return false;};
-		etop.className='wraperCC';
-		etop.setAttribute('class','wraperCC');
-		document.body.appendChild(etop);
-	}
-	etop.style.display = 'block';
-	var height = topOffset;
-	etop.style.height=height+"px";
-	etop.style.width=leftOffset+"px";*/
-
-	var e3 = document.getElementById("wraperDivCommon");
-	if (e3==null){
-		e3 = document.createElement('div')
-		e3.id="wraperDivCommon";
-		e3.onclick =function(){closeIntlPopUp();return false;};
-		e3.className='wraperCC';
-		e3.setAttribute('class','wraperCC');
-		document.body.appendChild(e3);
-	}
-	e3.style.display = 'block';
-	height = getDocHeight() - topOffset;
-	<!--e3.style.height=height+"px";-->
-	e3.style.top= (topOffset + 2) + "px";
-}
-function hideWraper(){
-    var etop = document.getElementById("wraperDivCommonHideTop");
-	if (etop!=null){
-		etop.style.display = 'none';
-	}
-	var e3 = document.getElementById("wraperDivCommon");
-	if (e3!=null){
-		e3.style.display = 'none';
-	}
-}
-function closeIntlPopUp()
-{
-	var iframe = document.getElementById('context_all_IF');
-	 var el = document.getElementById("displayContextChoser");
-	if ( el.style.display != 'none' ) {
-		el.style.display = 'none';
-		if(iframe!=undefined){
-			iframe.style.display = 'none';
-		}
-	}
-	else {
-		el.style.display = 'block';
-	}
-	$('.categorylist').attr('disabled','');
-	hideWraper();
-}
-// -->
-</script>
-<!--<div id="context_all_triangle"> </div>-->
-<div id="context_all">
-  <div id="close">
-  <a href="javascript:void(0);" onclick="javascript:closeIntlPopUp();return false;" class="closeButton">x close</a>
- </div>
-  <div id="txt_chooser_img">
-  PLEASE CHOOSE YOUR<br>
-  SHIPPING DESTINATION
-  </div>
-  <div id="shippingcurrency">
-  <form method="POST" name="context_chooser" id="context_chooser" onsubmit="validateContextChooser()" style="margin-bottom:20px" action="https://www.madewell.com/help/privacy_policy.jsp">
-<input type="hidden" name="bmForm" value="context_chooser">
-<input type="hidden" name="bmFormID" value="kM3Sb7d/14c288cdf36">
-<input type="hidden" name="bmUID" value="kM3Sb7e">
-<input type="hidden" name="bmIsForm" value="true">
-<input type="hidden" name="bmPrevTemplate" value="/help/privacy_policy.jsp">
-  	<input type="hidden" name="bmHidden" value="externalProductCodes"><input type="hidden" name="externalProductCodes" value="">
- 	<input type="hidden" name="bmHidden" value="nav_type"><input type="hidden" name="nav_type" value="">
-	<table cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td class="dropdown">Shipping to</td>
-		</tr>
-        <tr>
-			<td align="left" bgcolor="#FFFFFF">
-						<input type="hidden" name="bmSingle" value="JCREW_CONTEXT<>country"><input type="hidden" name="bmRequired" value="JCREW_CONTEXT<>country"><select name="JCREW_CONTEXT<>country" id="countrySelect" style="width:203px; font-size:11px;" onchange="setCurrency(this);">
-<option value="US" selected="">United States</option>
-<option value="CA">Canada</option>
-<option value="JP">Japan</option>
-</select><input type="hidden" name="bmDynamic" value="JCREW_CONTEXT<>country:US:CA:JP:">
-			</td>
-		</tr>
-		<tr>
-			<td colspan="3">
-				<div style="display:none;" id="error_div"></div>
-			</td>
-		</tr>
-		<!--<tr>
-			<td>CURRENCY</td>
-        </tr>-->
-		<tr>
-			<td>
-				<input type="hidden" name="bmSingle" value="JCREW_CONTEXT<>currency"><input type="hidden" name="bmRequired" value="JCREW_CONTEXT<>currency"><select id="currency" name="JCREW_CONTEXT<>currency" style="width:203px; display:none">
-<option value=""></option>
-</select><input type="hidden" name="bmDynamic" value="JCREW_CONTEXT<>currency:">
-			</td>
-			
-		</tr>
-		<tr>
-        	<td class="shippingCopy">       
-            Currency in U.S. dollars (USD)
-            </td>
-        </tr>
-		<tr>
-			<td class="center buttonContainer" colspan="3">
-			     <div style="height:100%; width: auto">
-                 	<a href="javascript:void(0);" onclick="javascript:if(validateContextChooser(0) == true){submitContextChoser();}return false" onmouseover="buttonup('continuebutton')" onmouseout="buttondown('continuebutton')">
-                    	<img src="/media/images/intl/continue_off_v1_m56577569830548160.gif" name="continuebutton" id="continuebutton">
-                    </a>
-                    </div>
-                 
-                 
-			     <div><a href="javascript:void(0);" onclick="javascript:closeIntlPopUp();return false;" onmouseover="buttonup('cancelbutton')" onmouseout="buttondown('cancelbutton')" id="contextCancelLink">cancel</a></div>
-			</td>
-		</tr>
-	</tbody></table>
-	   <input type="hidden" name="bmFields" value="bmPrevTemplate,bmForm,bmIsForm,bmUID,bmRequired,bmHidden,bmDynamic,bmFormID,bmSingle">
-<input type="hidden" name="bmHash" value="cf9c0214cfab35171143dee342b7c9daeeb94b92">
-</form>
-  </div>
-  <div id="contextChooserTextArea">
-  <div id="txt" class="txt">
-  By clicking "Start Shopping," you agree to our <a href="javascript:void(0)" onclick="javascript:window.open('/help/popup_terms_of_use_contents.jsp','parentWindow','height=460,width=850,status=no,toolbar=no,menubar=no,location=no,resizable=yes,titlebar=no,scrollbars=yes');">Terms of Use</a> and <a href="javascript:void(0)" onclick="javascript:window.open('/help/popup_privacy_policy_contents.jsp','parentWindow','height=460,width=850,status=no,toolbar=no,menubar=no,location=no,resizable=yes,titlebar=no,scrollbars=yes');">Privacy Policy</a>, including the transfer of your personal information to the United States, a jurisdiction that may not provide an equivalent level of data protection to the laws in your home country.
-	<div id="faq"><a onclick="javascript:window.open('https://www.madewell.com/help/international_orders.jsp?bmUID=kM3Sb6Z','parentWindow','height=460,width=850,status=no,toolbar=no,menubar=no,location=no,resizable=yes,titlebar=no,scrollbars=yes');" href="javascript:void(0)" style="font-size:11px; word-spacing:normal">See all FAQs and Help</a></div>
-
-	</div> <!--  #end contextChooserTextArea -->	
-  </div>
-</div>
-<!--
-<iframe id="context_all_IF" src="/media/images/common/spacer_v1_m56577569830471820.gif" scrolling="no" frameborder="0" style="display:none; position:absolute; top:0px; left:0px; z-index:700;">
-</iframe>
--->
-
-
-        </div></div>
       
     </div>
   </section>
@@ -858,6 +523,11 @@ function closeIntlPopUp()
               </li>
               <li>
                 
+                  <a href="https://www.madewell.com/madewell_category/DRESSES.jsp" name="&amp;lpos=top_nav>dresses">DRESSES</a>
+                
+              </li>
+              <li>
+                
                   <a href="https://www.madewell.com/madewell_category/SHIRTSTOPS.jsp" name="&amp;lpos=top_nav>shirts">Shirts</a>
                 
               </li>
@@ -868,7 +538,7 @@ function closeIntlPopUp()
               </li>
               <li>
                 
-                  <a href="https://www.madewell.com/madewell_category/DRESSES.jsp" name="&amp;lpos=top_nav>dresses">DRESSES</a>
+                  <a href="https://www.madewell.com/madewell_category/SWEATERS.jsp" name="&amp;lpos=top_nav>sweaters">sweaters</a>
                 
               </li>
               <li>
@@ -893,7 +563,7 @@ function closeIntlPopUp()
               </li>
               <li>
                 
-                  <a href="https://www.madewell.com/madewell_feature/EVERYDAYMADEWELL_sm.jsp" name="&amp;lpos=top_nav>everydaymadewell">#EVERYDAYMADEWELL</a>
+                  <a href="https://www.madewell.com/madewell_feature/EVERYDAYMADEWELL_sm.jsp" name="&amp;lpos=top_nav>denimmadewell">your pics</a>
                 
               </li>
       </ul>
@@ -918,7 +588,7 @@ function closeIntlPopUp()
 	        <a class="search-button disabled-ref" href=""><span class="icon search2-magnify"></span></a>
 	        
 	    	<script>
-	    		window.getJcrewNameSpace('globalObj.jcrew.search.config.pageLoadObj');
+	    		window.getJcrewNameSpaceLegacy('globalObj.jcrew.search.config.pageLoadObj');
 	    		globalObj.jcrew.search.config.pageLoadObj.ntrm = '';
 	    	</script>
 	    </div>
@@ -931,13 +601,15 @@ function closeIntlPopUp()
   <div id="globalsearch">
     <form name="search_topnav" action="https://www.madewell.com/help/privacy_policy.jsp">
 <input type="hidden" name="bmForm" value="search_topnav">
-<input type="hidden" name="bmFormID" value="kM3Sb7f/14c288cdf36">
-<input type="hidden" name="bmUID" value="kM3Sb7g">
+<input type="hidden" name="bmFormID" value="k_h48D1/14fa83d68f0">
+<input type="hidden" name="bmUID" value="k_h48D2">
 <input type="hidden" name="bmIsForm" value="true">
 <input type="hidden" name="bmPrevTemplate" value="/help/privacy_policy.jsp">
     <input type="hidden" name="bmText" value="searchTerm"><input type="text" class="search_box" name="searchTerm" id="searchTerm" maxlength="40" size="25" value="Search keyword or item #" onfocus="javascript:if(this.value == 'Search keyword or item #'){this.value = '';}" secure="false" autocomplete="off">
     <input type="hidden" name="bmSubmit" value="findIt"><input type="submit" name="findIt" border="0" value="GO" onclick="javascript:if(document.search_topnav.searchTerm.value == 'Search keyword or item #'){document.search_topnav.searchTerm.value = '';}" class="search_button" onmouseover="this.className='search_buttonHover'" onmouseout="this.className='search_button'">
-    </form>
+    <input type="hidden" name="bmHidden" value="PRODUCT<>prd_id"><input type="hidden" name="PRODUCT<>prd_id" value="845524441769601">
+<input type="hidden" name="bmHidden" value="FOLDER<>folder_id"><input type="hidden" name="FOLDER<>folder_id" value="2534374302028213">
+</form>
   </div>
 
   <div id="hdr-countrycode">
@@ -945,14 +617,14 @@ function closeIntlPopUp()
       
         <div id="ship_to">ship to:</div>
         <div id="top_nav_country">
-          <div class="hdr-flag-img"><img src="/media/images/contextchooser/flags/US_v1_m56577569830547815.gif"></div>
+          <div class="hdr-flag-img"><img src="/media/images/contextchooser/flags/US_v1_m56577569830982664.gif"></div>
           United States
         </div>
         <div class="ver-rule">|</div>
       
       
         
-        <div id="change"><a href="#" class="btn-context-chooser">change</a></div>
+        <div id="change"><a href="https://www.madewell.com/intl/context_chooser.jsp?PRODUCT%3C%3Eprd_id=845524441769601&amp;FOLDER%3C%3Efolder_id=2534374302028213&amp;bmUID=k_h48CE" class="btn-context-chooser">change</a></div>
       
     </div>
   </div>
@@ -966,24 +638,28 @@ function closeIntlPopUp()
 
 
 
-<div id="topNavDiv" name="topNavDiv">
-	<form name="persistent_shopping_cart" method="POST" action="https://www.madewell.com/help/privacy_policy.jsp">
+	<div id="topNavDiv" name="topNavDiv">
+		<form name="persistent_shopping_cart" method="POST" action="https://www.madewell.com/help/privacy_policy.jsp">
 <input type="hidden" name="bmForm" value="persistent_shopping_cart">
-<input type="hidden" name="bmFormID" value="kM3Sb7h/14c288cdf37">
-<input type="hidden" name="bmUID" value="kM3Sb7i">
+<input type="hidden" name="bmFormID" value="k_h48D3/14fa83d68f0">
+<input type="hidden" name="bmUID" value="k_h48D4">
 <input type="hidden" name="bmIsForm" value="true">
 <input type="hidden" name="bmPrevTemplate" value="/help/privacy_policy.jsp">
-		
+			
 
 <!-- this is the START of shopping bag pop-up-->
 <div style="position:absolute;top:110px;width:291;display:none;z-index:300;" id="persistShoppingBag" name="persistShoppingBag">
 </div>
 <!-- this is the END of shopping bag pop-up-->
 
-	</form>
+		<input type="hidden" name="bmHidden" value="PRODUCT<>prd_id"><input type="hidden" name="PRODUCT<>prd_id" value="845524441769601">
+<input type="hidden" name="bmHidden" value="FOLDER<>folder_id"><input type="hidden" name="FOLDER<>folder_id" value="2534374302028213">
+</form>
+	</div>
 </div>
 
-<link rel="stylesheet" href="/media/css/doctype_fix_v1_m56577569830750729.css"></div>
+
+<link rel="stylesheet" href="/media/css/doctype_fix_v1_m56577569831105995.css"></div>
 
 <table class="outertable" cellpadding="0" cellspacing="0" width="100%" border="0" style="padding-top:0px">
   <tbody><tr>
@@ -996,14 +672,13 @@ function closeIntlPopUp()
             <!-- left nav in this TD-->
             <td class="leftNavContainer" nowrap="" valign="top" width="145"><!-- ima created 02252008 to handle jc help left nav -->
 
+
+
 <table celpadding="0" cellspacing="0" border="0">
 <tbody><tr><td class="leftPane">
 <a href="/help/order_status.jsp">CHECK ORDER STATUS</a>
 </td></tr>
 
-<tr><td class="leftPane">
-<a href="/help/registration_qa.jsp">REGISTRATION Q&amp;A</a>
-</td></tr>
 
 <tr><td class="leftPane">
 <a href="/help/privacy_policy.jsp"><u>PRIVACY POLICY</u></a>
@@ -1013,10 +688,10 @@ function closeIntlPopUp()
 <a href="/help/contact_us.jsp">CONTACT US</a>
 </td></tr>
 
-<!--
+
 <tr><td class="leftPane">
-<a href='/help/about_madewell.jsp' >ALL ABOUT MADEWELL</a>
-</td></tr>-->
+<a href="/help/about_madewell.jsp">ALL ABOUT MADEWELL</a>
+</td></tr>
 
 <tr><td class="leftPane">
 <a href="/help/careers.jsp">CAREERS</a>
@@ -1034,24 +709,28 @@ function closeIntlPopUp()
 <a href="/help/store_locator.jsp">FIND A STORE NEAR YOU</a>
 </td></tr>
 
-<tr><td class="leftPaneBottom"><a href="/help/request_catalog.jsp">CATALOG PREFERENCES</a>
-</td></tr>
 
-<tr><td class="leftPane">
-<a href="/help/gift_card.jsp">MADEWELL GIFT CARDS</a>
-</td></tr>
+	<tr><td class="leftPaneBottom"><a href="/help/request_catalog.jsp">CATALOG PREFERENCES</a>
+	</td></tr>
+
+
+
+  <tr><td class="leftPane">
+  <a href="/help/gift_card.jsp">MADEWELL GIFT CARDS</a>
+  </td></tr>
+
 
 <tr><td class="leftPane">
 <a href="/help/using_promo.jsp">USING A PROMOTION CODE</a>
 </td></tr>
 
-<tr><td class="leftPaneBottom">
-<a href="/help/teacher_student_discount.jsp">COLLEGE DISCOUNTS</a>
-</td></tr>
+
+  <tr><td class="leftPaneBottom">
+  <a href="/help/teacher_student_discount.jsp">COLLEGE DISCOUNTS</a>
+  </td></tr>
+
 
 <tr><td class="leftPane"><a href="/help/payment_options.jsp">PAYMENT OPTIONS</a></td></tr>
-
-<tr><td class="leftPane"><a href="/help/secure_ordering.jsp">SECURE ORDERING</a></td></tr>
 
 <tr><td class="leftPane"><a href="/help/order_verification.jsp">ORDER VERIFICATION</a></td></tr>
 
@@ -1061,7 +740,9 @@ function closeIntlPopUp()
 
 <tr><td class="leftPaneBottom"><a href="/help/international_orders.jsp">INTERNATIONAL ORDERS</a></td></tr>
 
-<tr><td class="leftPane"><a href="/help/gift_options.jsp">GIFT OPTIONS</a></td></tr>
+
+  <tr><td class="leftPane"><a href="/help/gift_options.jsp">GIFT OPTIONS</a></td></tr>
+
 
 <tr><td class="leftPaneBottom"><a href="javascript:void(0);" onclick="javascript:window.open('/sizecharts/main.jsp','parentWindow','height=730,width=800,status=no,toolbar=no,menubar=no,location=no,resizable=yes,titlebar=no,scrollbars=no');">SIZE CHARTS</a></td></tr>
 </tbody></table> 
@@ -1072,7 +753,7 @@ function closeIntlPopUp()
             
              <h2><strong>OUR PRIVACY POLICY</strong></h2>              
                           
-             <p><span style="color: #515151; font-family: Arial; font-size: 12px; font-weight: normal;"><b>Last Updated: February 18, 2015</b></span></p><br>
+             <p><span style="color: #515151; font-family: Arial; font-size: 12px; font-weight: normal;"><b>Last Updated: April 30, 2015</b></span></p><br>
              
              
                  
@@ -1083,7 +764,7 @@ function closeIntlPopUp()
             <h3>information you provide to us</h3>
             <p>We collect information you provide directly to us.  For example, we collect information when you use our websites, shop in our stores, call us on the phone, create an online account, sign up to receive our emails, request a catalog, participate in a sweepstakes, contest, promotion or survey, communicate with us via third party social media sites, request customer support, apply for a job or otherwise communicate with us.</p>
             <p>The types of information we may collect include your name, email address, zip code, billing address, shipping address, phone number, payment card information, product preferences, demographic information and any other information you choose to provide. </p>
-      <p> In some cases, we may also collect information you provide about others, such as when you purchase a gift card for someone and request that we deliver it electronically, create and share a "wish list" or decide to purchase and ship products to someone.  We will use this information to fulfill your requests and will not send marketing communications to your contacts unless they separately opt in to receive communications from us.</p>       
+      <p> In some cases, we may also collect information you provide about others, such as when you purchase a gift card for someone and request that we deliver it electronically, create and share a "wish list" or decide to purchase and ship products to someone.  We will use this information to fulfill your requests and may also use that information to send marketing communications to your contact, unless he or she has previously opted out of marketing communications from J.Crew.</p>       
                          
          <h3>information we collect automatically</h3>
          <p>We automatically collect certain information about you when you access or use our websites or transact business with us, including:</p>
@@ -1094,7 +775,7 @@ function closeIntlPopUp()
     </ul>
              
         <h3>information we collect from our partners and other sources</h3>
-             <p>We may also obtain information about you from other sources and combine that with information we collect about you.  For example, we collect information from the U.S. Postal Service's national change of address database to verify and update mailing addresses.  In addition, if you apply for a J.Crew credit card, we obtain limited information about you from the partner that manages our co-brand credit card program.</p>
+             <p>We may also obtain information about you from other sources and combine that with information we collect about you.  For example, we collect information from the U.S. Postal Service's national change of address database to verify and update mailing addresses.  In addition, if you apply for a J.Crew credit card, we obtain limited information about you from the partner that manages our private label credit card program.</p>
              
               <h3 class="newPrivacy">use of information</h3>
              <p>We may use information about you for various purposes, including to:</p>           
@@ -1116,6 +797,7 @@ function closeIntlPopUp()
              <ul>
               <li>With vendors, consultants and other service providers who need access to such information to carry out work on our behalf; </li>
               <li>With our business partners and other third parties for purposes of sending their own direct mail, unless you opt out of this type of sharing by logging into your online account and changing your preferences or by <a href="/help/privacy_policy.jsp#contactus">contacting us </a> </li>
+              <li>With our banking partner Comenity Bank, the issuer of the J.Crew Credit Card. Comenity Bank is independent of J.Crew and has its own privacy and security policies.</li>
               <li>In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation; </li>
               <li>If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of us or any third party; </li>
               <li>In connection with, or during negotiations of, any merger, sale of company assets, financing or transfer of all or a portion of our business to another company; and </li>
@@ -1147,7 +829,7 @@ function closeIntlPopUp()
          <li>To opt out of promotional emails and text messages:  Follow the instructions provided in those communications or <a href="/help/privacy_policy.jsp#contactus">contact us </a>.</li></ul>
          
          <p>Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional emails, such as those about your account or our ongoing business relations.</p>
-         <h3>cookies </h3>
+         <h3 id="cookies">cookies </h3>
          <p>Most web browsers are set to accept cookies by default.  If you prefer, you can usually set your browser to remove or reject cookies, but note that doing so does not necessarily affect third party flash cookies used in connection with our websites.  For more information about disabling flash cookies, see <a href="http://www.adobe.com/products/flashplayer/security" target="_blank">www.adobe.com/products/flashplayer/security</a>. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our websites. In addition, many web browsers support Do Not Track technology. If you enable Do Not Track, J.Crew will not use information about your web viewing activities to tailor your online experience on other websites operated by J.Crew. Note, however, that our third party advertising providers may continue to use information about your web viewing activities to tailor advertising to your interests across different websites even when you have Do Not Track enabled in your browser. For more information about how to opt out of ad targeting by our partners, see "advertising &amp; analytics services" above.  </p>
          
          <h3>your california privacy rights </h3>
@@ -1376,7 +1058,7 @@ function popSizeChart(chartName) {
 
 
                     
-                        <a href="javascript:void(0)" onclick="javascript:window.open('https://www.madewell.com/sizecharts/main.jsp','parentWindow','height=600,width=760,scrollbars=yes,resizable=yes');">Size Charts</a>
+                        <a href="javascript:void(0)" onclick="javascript:window.open('https://www.madewell.com/sizecharts/main.jsp','parentWindow','height=600,width=710,scrollbars=yes,resizable=yes');">Size Charts</a>
                     
                     </div>
 
@@ -1388,21 +1070,7 @@ function popSizeChart(chartName) {
             
 
         
-
-    
-    <!--  End Column Div -->
-    </div>
-    
-
-
-
-
-
-
-
-<div class="ftr-foot-col" id="ftrCol2">
-	
-				<div class="ftr-head ">Your Orders</div>
+				<div class="ftr-head ftr-head-not-first">Your Orders</div>
 			
 
 
@@ -1472,31 +1140,6 @@ function popSizeChart(chartName) {
             
 
         
-				<div class="ftr-head ftr-head-not-first">Returns</div>
-			
-
-
-
-			
-
-          <div class="ftr-item item0">
-
-
-                    
-                        <a href="https://www.madewell.com/footer/returns.jsp" target="">
-                        Our Policy
-                         </a>
-                    
-                    </div>
-
-
-
-
-                
-
-            
-
-        
 
     
     <!--  End Column Div -->
@@ -1509,9 +1152,9 @@ function popSizeChart(chartName) {
 
 
 
-<div class="ftr-foot-col" id="ftrCol3">
+<div class="ftr-foot-col" id="ftrCol2">
 	
-				<div class="ftr-head ">About Us</div>
+				<div class="ftr-head ">Learn More</div>
 			
 
 
@@ -1519,6 +1162,21 @@ function popSizeChart(chartName) {
 			
 
           <div class="ftr-item item0">
+
+
+                    
+                        <a href="https://www.madewell.com/madewell_inside_scoop/ALLABOUTMADEWELL_sm.jsp" target="">
+                        About Us
+                         </a>
+                    
+                    </div>
+
+
+
+
+                
+
+          <div class="ftr-item item1">
 
 
                     
@@ -1533,7 +1191,7 @@ function popSizeChart(chartName) {
 
                 
 
-          <div class="ftr-item item1">
+          <div class="ftr-item item2">
 
 
                     
@@ -1548,12 +1206,27 @@ function popSizeChart(chartName) {
 
                 
 
-          <div class="ftr-item item2">
+          <div class="ftr-item item3">
 
 
                     
                         <a href="https://www.madewell.com/footer/socialresponsibility.jsp" target="">
                         Social Responsibility
+                         </a>
+                    
+                    </div>
+
+
+
+
+                
+
+          <div class="ftr-item item4">
+
+
+                    
+                        <a href="https://www.madewell.com/help/wholesale_sm.jsp" target="">
+                        Wholesale
                          </a>
                     
                     </div>
@@ -1588,21 +1261,6 @@ function popSizeChart(chartName) {
 
                 
 
-          <div class="ftr-item item1">
-
-
-                    
-                        <a href="https://www.madewell.com/flatpages/catalog_google.jsp" target="">
-                        Browse One
-                         </a>
-                    
-                    </div>
-
-
-
-
-                
-
             
 
         
@@ -1618,7 +1276,7 @@ function popSizeChart(chartName) {
 
 
 
-<div class="ftr-foot-col" id="ftrCol4">
+<div class="ftr-foot-col" id="ftrCol3">
 	
 				<div class="ftr-head ">Our Stores</div>
 			
@@ -1666,6 +1324,136 @@ function popSizeChart(chartName) {
 
 
                 
+
+            
+
+        
+
+
+
+			
+
+            
+
+        
+
+    
+    <!--  End Column Div -->
+    </div>
+    
+
+
+
+
+
+
+
+<div class="ftr-foot-col" id="ftrCol4">
+	
+				<div class="ftr-head ">TOP SEARCHES</div>
+			
+
+
+
+			
+
+          <div class="ftr-item item0">
+
+
+                    
+                        <a href="https://www.madewell.com/madewell_category/DENIMBAR.jsp" target="">
+                        Women’s Jeans
+                         </a>
+                    
+                    </div>
+
+
+
+
+                
+
+          <div class="ftr-item item1">
+
+
+                    
+                        <a href="https://www.madewell.com/madewell_category/DRESSES.jsp" target="">
+                        Dresses
+                         </a>
+                    
+                    </div>
+
+
+
+
+                
+
+          <div class="ftr-item item2">
+
+
+                    
+                        <a href="https://www.madewell.com/madewell_category/BAGS/totes.jsp" target="">
+                        Tote Bags
+                         </a>
+                    
+                    </div>
+
+
+
+
+                
+
+          <div class="ftr-item item3">
+
+
+                    
+                        <a href="https://www.madewell.com/madewell_category/DENIMBAR.jsp" target="">
+                        High Waisted Jeans
+                         </a>
+                    
+                    </div>
+
+
+
+
+                
+
+          <div class="ftr-item item4">
+
+
+                    
+                        <a href="https://www.madewell.com/madewell_category/SHIRTSTOPS/plaidshirts.jsp" target="">
+                        Women’s Plaid Shirts
+                         </a>
+                    
+                    </div>
+
+
+
+
+                
+
+          <div class="ftr-item item5">
+
+
+                    
+                        <a href="https://www.madewell.com/madewell_category/SHOESANDBOOTS/boots.jsp" target="">
+                        Ankle Boots
+                         </a>
+                    
+                    </div>
+
+
+
+
+                
+
+            
+
+        
+
+
+
+			
 
             
 
@@ -1723,7 +1511,7 @@ function popSizeChart(chartName) {
 
                     
                         <a href="https://www.madewell.com/footer/privacy.jsp" target="">
-                        Privacy Policy
+                        <span style="font-weight: 900;">Updated Privacy Policy</span>
                          </a>
                     
                     </div>
@@ -1944,11 +1732,11 @@ function popSizeChart(chartName) {
 <div id="ftrContext">
   
       <span class="ftr-item">ship to:</span>
-      <span class="flag-wrap"><img id="globalFooterCountryContextLocaleImg" src="/media/images/contextchooser/flags/US_v1_m56577569830547815.gif"></span>
+      <span class="flag-wrap"><img id="globalFooterCountryContextLocaleImg" src="/media/images/contextchooser/flags/US_v1_m56577569830982664.gif"></span>
       <span id="globalFooterCountryContextLocaleName" class="country-wrap ftr-item">United States</span>
   
   
-      <a href="#" class="btn-context-chooser pos-bottom ftr-item">change</a>
+      <a href="https://www.madewell.com/intl/context_chooser.jsp?PRODUCT%3C%3Eprd_id=845524441769601&amp;FOLDER%3C%3Efolder_id=2534374302028213&amp;bmUID=k_h48D0" class="btn-context-chooser pos-bottom ftr-item">change</a>
   
 </div>
 
@@ -1956,8 +1744,8 @@ function popSizeChart(chartName) {
 
   <form method="post" name="emailSubscribeForm" action="https://www.madewell.com/help/privacy_policy.jsp">
 <input type="hidden" name="bmForm" value="emailSubscribeForm">
-<input type="hidden" name="bmFormID" value="kM3Sb7j/14c288cdf37">
-<input type="hidden" name="bmUID" value="kM3Sb7k">
+<input type="hidden" name="bmFormID" value="k_h48D5/14fa83d68f7">
+<input type="hidden" name="bmUID" value="k_h48D6">
 <input type="hidden" name="bmIsForm" value="true">
 <input type="hidden" name="bmPrevTemplate" value="/help/privacy_policy.jsp">
     <input type="hidden" name="bmArch" value="bmAction"><input type="hidden" name="bmAction" secure="false">
@@ -1967,7 +1755,9 @@ function popSizeChart(chartName) {
     <input type="hidden" name="bmHidden" value="currRequestUrlString"><input type="hidden" name="currRequestUrlString" value="https://www.madewell.com/help/privacy_policy.jsp" secure="false">
     <input type="hidden" name="bmHidden" value="footerRedirect"><input type="hidden" name="footerRedirect" value="true" secure="false">
     <input type="hidden" name="bmHidden" value="isEmailInvalid"><input type="hidden" name="isEmailInvalid" secure="false">
- </form>
+ <input type="hidden" name="bmHidden" value="PRODUCT<>prd_id"><input type="hidden" name="PRODUCT<>prd_id" value="845524441769601">
+<input type="hidden" name="bmHidden" value="FOLDER<>folder_id"><input type="hidden" name="FOLDER<>folder_id" value="2534374302028213">
+</form>
 
 
 
@@ -1981,13 +1771,19 @@ function popSizeChart(chartName) {
 
 <script>
 //<![CDATA[
-globalObj.objectFromServer = {"sl_translate":"sl_all","config":null,"images":{"transitionIndicatorImg":"/media/images/theme/loader_18x18_v1_m56577569830563675.gif","vpsDiamond":null,"sizeOutOfStockHover":"/media/images/productDetail/redesign/size_out_of_stock_hover_v1_m56577569830556739.png","colorOutOfStock":"/media/images/productDetail/redesign/color_out_of_stock_v1_m56577569830556738.png","sizeOutOfStock":"/media/images/productDetail/redesign/size_out_of_stock_v1_m56577569830556740.png","sizeOutOfStockTwoLinesHover":"/media/images/productDetail/redesign/size_out_of_stock_two_lines_hover_v1_m56577569830556737.png","sizeOutOfStockTwoLines":"/media/images/productDetail/redesign/size_out_of_stock_two_lines_v1_m56577569830556736.png"},"content":{"addToBagLabel":"add to bag","addToWishListLabel":"add to wishlist","shoppingBagSuccess":"Shopping Bag","vpsMailToMessage":"<a href=\"mailto:erica@jcrew.com\">erica@jcrew.com</a>","ajaxFail":"We are having trouble communicating with our servers. Please refresh the page and try again.","soldOutQuestionsMessage2":".","backorderedErrorMessage1":"is backordered. Select a size for estimated ship date.","soldOutQuestionsMessage1":"For help finding something else you&rsquo;ll love, please email our specialist ","outOfStockLabel":"Out Of Stock","soldOutPopularMessage1":"This item has sold out (you know a great thing when you see it).","soldOutPopularMessage3":" and we'll search high and low to try and find it for you (or add you to a wait list if it's getting restocked).","soldOutPopularMessage2":"But don't despair&mdash;just call us at ","soldOutPopularMessage4":"We&#x2019;re sorry&#x2014;this item has sold out","soldOutMailToMessage":"<a href=\"mailto:julie@jcrew.com\">julie@jcrew.com</a>","contentNo":"No","soldOutNumberMessage":"We&#x2019;re here to help with lots of other great ideas. <br/>Tweet us at @askmadewell, email us at <br/>jenny@madewell.com or call us at 866 544 1937.","addToBagSuccessLabel":"Item Added","soldOutIntlMessage":"We&rsquo;re sorry, this product cannot be shipped internationally.","contentYes":"Yes","outOfStockErrorMessage1":"is no longer available to ship immediately. The new estimated ship date is","outOfStockErrorMessage2":"Would you still like to add the item to bag?","soldOutPopularPhoneMessage":"866.544.1937","soldOutEntirelyMessage":"This item has sold out (you know a great thing when you see it).","vpsPhoneMessage":"800 261 7422","soldOutVpsMessage1":"Need some other ideas? Want free shipping? Call a <em>Very</em> Personal Stylist at ","vpsMessage3":" or email ","addToBagSuccessMessage":"The item was successfully added to your","vpsMessage2":"Call ","soldOutVpsMessage2":"We&rsquo;re here to help.","vpsMessage4":" to order.","monoQSLabel":"To personalize view full details","selectSizeErrorMessage":"Please select a size","estimatedShipDateLabel":"estimated ship date is","monoDetailsInitial":"P","vpsMessage1":"Since this is a special, limited-edition item with a small quantity available, our <em>Very</em> Personal Stylists are on hand to help you purchase yours.","lowInventoryMessage1":"In Stock","finalSaleLabel":"Final Sale","lowInventoryMessage2":"Only a few left","sizeLabel":"size","finalSaleErrorMessage1":"is available but cannot be exchanged or returned. Valid while supplies last. All sales final.","soldOutErrorMessage":"is no longer available and was not added to bag. Check out some of our other available color and size options.","addToWishListSuccessLabel":"Added to Wishlist","partialQtyErrorMsg2":"We are unable to fulfill the total quantity you have requested for one or more of your items. Please review the adjusted quantities in your","backorderedLabel":"Backordered","partialQtyErrorMsg1":"Total Quantity Not Available","updateBagLabel":"update bag"},"errorMessages":{"errSelectInseamCuff":"You must fill in cuff","errSelectInseamLength":"You must fill in inseam length","errSelectQty":"You must fill in quantity","errSelectSize":"You must fill in size","errSelectColor":"You must fill in color"}};
+globalObj.objectFromServer = {"sl_translate":"sl_all","config":null,"images":{"transitionIndicatorImg":"/media/images/theme/loader_18x18_v1_m56577569830563675.gif","vpsDiamond":null,"sizeOutOfStockHover":"/media/images/productDetail/redesign/size_out_of_stock_hover_v1_m56577569830556739.png","colorOutOfStock":"/media/images/productDetail/redesign/color_out_of_stock_v1_m56577569830556738.png","sizeOutOfStock":"/media/images/productDetail/redesign/size_out_of_stock_v1_m56577569830556740.png","sizeOutOfStockTwoLinesHover":"/media/images/productDetail/redesign/size_out_of_stock_two_lines_hover_v1_m56577569830556737.png","sizeOutOfStockTwoLines":"/media/images/productDetail/redesign/size_out_of_stock_two_lines_v1_m56577569830556736.png"},"content":{"addToBagLabel":"add to bag","addToWishListLabel":"add to wishlist","shoppingBagSuccess":"Shopping Bag","vpsMailToMessage":"<a href=\"mailto:erica@jcrew.com\">erica@jcrew.com</a>","ajaxFail":"We are having trouble communicating with our servers. Please refresh the page and try again.","preorderedErrorMessage1":"is available for pre-order. Select a size for estimated ship date.","soldOutQuestionsMessage2":".","backorderedErrorMessage1":"is backordered. Select a size for estimated ship date.","soldOutQuestionsMessage1":"For help finding something else you&rsquo;ll love, please email our specialist ","outOfStockLabel":"Out Of Stock","soldOutPopularMessage1":"This item has sold out (you know a great thing when you see it).","soldOutPopularMessage3":" and we'll search high and low to try and find it for you (or add you to a wait list if it's getting restocked).","soldOutPopularMessage2":"But don't despair&mdash;just call us at ","soldOutPopularMessage4":"We&#x2019;re sorry&#x2014;this item has sold out","soldOutMailToMessage":"<a href=\"mailto:julie@jcrew.com\">julie@jcrew.com</a>","contentNo":"No","soldOutNumberMessage":"We&#x2019;re here to help with lots of other great ideas. <br/>Tweet us at @askmadewell, email us at <br/>jenny@madewell.com or call us at 866 544 1937.","addToBagSuccessLabel":"Item Added","soldOutIntlMessage":"We&rsquo;re sorry, this product cannot be shipped internationally.","contentYes":"Yes","outOfStockErrorMessage1":"is no longer available to ship immediately. The new estimated ship date is","outOfStockErrorMessage2":"Would you still like to add the item to bag?","soldOutPopularPhoneMessage":"866.544.1937","soldOutEntirelyMessage":"This item has sold out (you know a great thing when you see it).","vpsPhoneMessage":"800 261 7422","soldOutVpsMessage1":"Need some other ideas? Want free shipping? Call a <em>Very</em> Personal Stylist at ","vpsMessage3":" or email ","addToBagSuccessMessage":"The item was successfully added to your","vpsMessage2":"Call ","soldOutVpsMessage2":"We&rsquo;re here to help.","vpsMessage4":" to order.","monoQSLabel":"To personalize view full details","selectSizeErrorMessage":"Please select a size","estimatedShipDateLabel":"estimated ship date is","monoDetailsInitial":"P","vpsMessage1":"Since this is a special, limited-edition item with a small quantity available, our <em>Very</em> Personal Stylists are on hand to help you purchase yours.","lowInventoryMessage1":"In Stock","finalSaleLabel":"Final Sale","lowInventoryMessage2":"Only a few left","preorderedLabel":"Pre-order","sizeLabel":"size","finalSaleErrorMessage1":"is available but cannot be exchanged or returned. Valid while supplies last. All sales final.","soldOutErrorMessage":"is no longer available and was not added to bag. Check out some of our other available color and size options.","addToWishListSuccessLabel":"Added to Wishlist","partialQtyErrorMsg2":"We are unable to fulfill the total quantity you have requested for one or more of your items. Please review the adjusted quantities in your","backorderedLabel":"Backordered","partialQtyErrorMsg1":"Total Quantity Not Available","updateBagLabel":"update bag"},"errorMessages":{"errSelectInseamCuff":"You must fill in cuff","errSelectInseamLength":"You must fill in inseam length","errSelectQty":"You must fill in quantity","errSelectSize":"You must fill in size","errSelectColor":"You must fill in color"}};
 globalObj.config.domainLocale = '';
 globalObj.config.navType = 'PRMNAV';
+globalObj.config.welcomeMatCookie = {
+  'name' : 'displayedWelcomeMat',
+  'expiration' : '365'
+}
 //]]>
 </script>
 
-<script src="/media/wro/js/footer-madewell_v1_m56577569830786825.js"></script>
+<script src="/media/wro/js/footer-madewell_v1_m56577569831109555.js"></script>
+
+
 
 
   
@@ -2002,7 +1798,6 @@ if (document.getElementById("welcome_all")!=null){
 }
 </script>
 
-  
 </div></td>
   </tr>
 </tbody></table>
@@ -2049,13 +1844,13 @@ function omniFlashTrack(pageName)
 	s.t();	
 }
 </script>
-<script src="/media/wro/js/s_code_v1_m56577569830786834.js"></script>
+<script src="/media/wro/js/s_code_v1_m56577569831109565.js"></script>
 <script>
 
 
 
 s.pageName="Help: Privacy Policy"
-s.server="p03"
+s.server="p01"
 s.channel="Help"
 s.pageType=""
 s.prop1=""
@@ -2155,15 +1950,6 @@ if (pageCacheable){
         s[key] = omnitureVars[key];
       } 
     }
-  } else if (dynamicOmniture) {
-      s.eVar37 = 'Logged Out';
-      s.prop19 = 'Logged Out';
-      s.prop23 = 'unknown';
-      s.list1 = 'unknown';
-      s.prop44 = 'unknown';
-      s.eVar44 = 'unknown';
-      s.eVar57 = 'unknown';
-      s.server = 'unknown';
   }
 }
 </script>
@@ -2173,7 +1959,7 @@ if (pageCacheable){
 var s_code=s.t();if(s_code)document.write(s_code)</script>
 
 
-	<script src="/media/wro/js/baynote_v1_m56577569830786838.js"></script>
+	<script src="/media/wro/js/baynote_v1_m56577569831109570.js"></script>
 
 
 
@@ -2190,7 +1976,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
 			<script>
 				if (typeof(lpUnit)=='undefined') var lpUnit='madewell';
 			</script>
-			<script src="/media/wro/js/mtagconfig_v1_m56577569830786826.js"></script>
+			<script src="/media/wro/js/mtagconfig_v1_m56577569831109556.js"></script>
 			<script>
 			lpAddVars('page','Country','US');
 			lpAddVars('page','Currency','USD');
@@ -2214,7 +2000,7 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
                 'pageTitle': 'Help: Privacy Policy',
                 'visitorType': 'No Type',
                 'userId':'',
-                'referrerURL': 'https://www.madewell.com/index.jsp',
+                'referrerURL': 'https://www.madewell.com/index.jsp?navLoc=top_nav?navLoc=top_nav',
                 'newCustomerType': ''
               });
             </script>
@@ -2231,14 +2017,14 @@ var s_code=s.t();if(s_code)document.write(s_code)</script>
     
 
 
-<script src="/media/wro/js/crossscripting_v1_m56577569830786818.js"></script>
+<script src="/media/wro/js/crossscripting_v1_m56577569831109546.js"></script>
 
 
 <style>
 #ftr{position:relative;top:35px\9;} /*fix for IE*/
 </style>
 
-<script src="/media/wro/js/global-object-implementation_v1_m56577569830786841.js"></script>
+<script src="/media/wro/js/global-object-implementation_v1_m56577569831109573.js"></script>
 
 <script>
 globalObj.quickShop = {};
