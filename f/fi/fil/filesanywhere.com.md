@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesanywhere.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504051351id_/http%3A//support.filesanywhere.com/entries/20163703-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesanywhere.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907032358id_/http%3A//support.filesanywhere.com/entries/20163703-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Support Center
 
