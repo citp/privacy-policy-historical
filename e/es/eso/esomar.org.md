@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522135823id_/https%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907182016id_/https%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ESOMAR
+
+* * *
 
 **This is the Privacy Policy of ESOMAR B.V. and The Society of ESOMAR (“ESOMAR”).**
 
