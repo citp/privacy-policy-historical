@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokeplushies.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618224629id_/http%3A//www.pokeplushies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokeplushies.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907174326id_/http%3A//www.pokeplushies.com/privacy.php) for the most accurate reproduction.*
 
 # PokePlushies - Privacy Policy
 
