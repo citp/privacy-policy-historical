@@ -1,118 +1,93 @@
-> *The following text is extracted and transformed from the readyforzero.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102113236id_/https%3A//privacy-policy.truste.com/verified-policy/www.readyforzero.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyforzero.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907074108id_/https%3A//www.readyforzero.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for www.readyforzero.com
+# Privacy policy | ReadyForZero
 
-Effective on July 16, 2010 
+##### To limit our sharing
 
-This privacy statement describes how ReadyForZero collects and uses the personal information you provide on our Web site: [www.readyforzero.com ](https://www.readyforzero.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+| 
 
-**TRUSTe**
+Visit us online: [www.readyforzero.com](https://www.readyforzero.com/) (under “Settings” -> “Alerts”) 
 
-ReadyForZero is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+**Please note:** If you are a new customer, for the reasons we can share your information and for which you can limit the sharing, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.  
+However, you can contact us at any time to limit our sharing.   
+  
+##### Questions?
 
-If you have questions or concerns regarding this policy, you should first contact us at [security@readyforzero.com ](mailto:security@readyforzero.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+| 
 
-## Collection and Use of Personal Information
+Go to [www.readyforzero.com](https://www.readyforzero.com/)  
+  
+**What we do**  
+  
+##### How does ReadyForZero protect my personal information?
 
-We collect the following personal information from you
+| 
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Financial Information such as bank or brokerage account numbers, types of investments
-  * Social Security Number
-  * Unique Identifiers such as user name, account number, password
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. 
 
+We restrict access to your information to those employees who need to know it to provide products or services to you.   
+  
+##### How does ReadyForZero collect my personal information?
 
+| 
 
-We also collect the following information from you
+We collect your personal information, for example, when you 
 
-  * Demographic information such as age, education, gender, interests and zip code
-
-
-
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
-
-We use this information to
-
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Send you a newsletter
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
-  * Display content based upon your interests
+  * apply for a loan through one of our marketing partners or give us your income information
+  * tell us where what your email address is
+  * connect your bank accounts to track your financial activities
 
 
 
-**Choice/Opt-Out**
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
+  
+##### Why can’t I limit all sharing?
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [security@readyforzero.com ](mailto:security@readyforzero.com).
+| 
 
-We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
+Federal law gives you the right to limit only 
 
-**Information Obtained from Third Parties**
-
-We obtain credit information about you from an outside credit reporting agency to help us with customer authentication and credit-related decisions.
-
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
-
-## Information Sharing
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
-
-We may also disclose your personal information
-
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if ReadyForZero is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
+  * sharing for affiliates’ everyday business purposes—information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
 
 
 
-We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [security@readyforzero.com ](mailto:security@readyforzero.com). 
+State laws and individual companies may give you additional rights to limit sharing.   
+  
+**Definition**  
+  
+##### Affiliates
 
-## Cookies and Other Tracking Technologies
+| 
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+  * Our affiliates include financial companies such as Avant, Inc., Avant of California LLC, Avant of Idaho, LLC, Avant of Wisconsin, LLC, Avant of Illinois, LLC, etc.
 
-_Web beacons_
+  
+  
+##### Nonaffiliates
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+| 
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
-_Links to Other Web Sites_
+  * Nonaffiliates we share with may include financial service providers, non-financial companies, and other businesses
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of ReadyForZero. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+  
+  
+##### Joint Marketing
 
-## Security
+| 
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+  * Our joint marketers may include financial service providers, non-financial companies, and other businesses
 
-If you have any questions about security on our Web site, you can contact us at [security@readyforzero.com ](mailto:security@readyforzero.com)
-
-## Additional Policy Information
-
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [security@readyforzero.com ](mailto:security@readyforzero.com).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-ReadyForZero 
-
-71 Stevenson Street #800 
-
-San Francisco, CA, United States 94105
-
-Phone: 8889376269
+  
+**Other important information**  
+  
+The words “we”, “us” and “our” mean Avant RFZ LLC and/or another related Avant Provider.  
+  
+We are available to assist you if you have any questions or concerns regarding this Privacy Policy or any other security related information. Please send an email to [security@readyforzero.com](mailto:security@readyforzero.com). 
