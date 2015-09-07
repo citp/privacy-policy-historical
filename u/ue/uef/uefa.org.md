@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uefa.org privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627031250id_/http%3A//www.uefa.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uefa.org privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907213155id_/http%3A//www.uefa.org/privacypolicy.html) for the most accurate reproduction.*
 
 # UEFA Privacy Policy - UEFA.org
 
@@ -90,4 +90,4 @@ If you have any questions or suggestions regarding this Privacy Policy, please s
 
 ©UEFA.com 1998-2012. All rights reserved.
 
-©UEFA.com 1998-2014. All rights reserved.
+©UEFA.com 1998-2015. All rights reserved.
