@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phraseapp.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317171711id_/https%3A//phraseapp.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phraseapp.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907140841id_/https%3A//phraseapp.com/en/privacy) for the most accurate reproduction.*
 
 # PhraseApp Privacy Policy
 
