@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doximity.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321052855id_/https%3A//www.doximity.com/physicians/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doximity.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907134546id_/https%3A//www.doximity.com/physicians/privacy) for the most accurate reproduction.*
 
 # Doximity Privacy Policy
 
@@ -64,8 +64,8 @@ You have a right to access, modify, correct and eliminate the data about you, wh
 
 Doximity  
 ATTN: Privacy Policy Issues  
-60 E Third Ave Suite 115  
-San Mateo, CA 94401
+500 3rd St. Suite 510  
+San Francisco, CA 94107
 
  __Return to top
 
@@ -212,7 +212,7 @@ Doximity's mission is to connect the world's medical professionals to enable you
 
 ##### B. Scope and Intent
 
-You agree that by registering on Doximity, or by using the website, including our directory search, productivity features, mobile applications, premium services, or other information provided as part of the Doximity services (collectively "Doximity" or the "Services"), you are entering into a legally binding agreement with Doximity, 60 E 3rd Avenue, Suite 115, San Mateo, CA 94401 ("we," "us," "our," and "Doximity") based on the terms of this Doximity User Agreement and the Doximity Privacy Policy, which is hereby incorporated by reference (collectively referred to as the "Agreement") and become a Doximity user ("you", "your", and "User").
+You agree that by registering on Doximity, or by using the website, including our directory search, productivity features, mobile applications, premium services, or other information provided as part of the Doximity services (collectively "Doximity" or the "Services"), you are entering into a legally binding agreement with Doximity, 500 3rd St., Suite 510, San Francisco, CA 94107 ("we," "us," "our," and "Doximity") based on the terms of this Doximity User Agreement and the Doximity Privacy Policy, which is hereby incorporated by reference (collectively referred to as the "Agreement") and become a Doximity user ("you", "your", and "User").
 
 If you are using Doximity on behalf of a company, medical practice or other legal entity, you are nevertheless individually bound by this Agreement even if your company has a separate agreement with us. If you do not want to register an account and become a Doximity User, do not conclude the Agreement, do NOT click join Doximity and do not access, view, download or otherwise use any Doximity webpage, information or services. By joining Doximity you acknowledge that you have read and understood the terms and conditions of this Agreement and that you agree to be bound by all of its provisions. By joining Doximity you also consent to use electronic signatures and acknowledge your registration as one. Please note that the Doximity User Agreement and Privacy Policy are also collectively referred to as Doximity's "Terms of Service."
 
@@ -372,9 +372,9 @@ In addition to Section 2.h. ("Notifications and Service Messages"), we may notif
 
 Doximity   
 ATTN: Legal Department  
-60 E Third Ave   
-Suite 115   
-San Mateo, CA 94401
+500 3rd St.  
+Suite 510  
+San Francisco, CA 94107
 
 Additionally, Doximity accepts service of process at this address. Any notices that you provide without compliance with this section on Notices shall have no legal effect.
 
@@ -469,9 +469,9 @@ If you believe any materials accessible on or from the Services infringe your co
 
 Doximity   
 ATTN: Legal Department  
-60 E Third Ave   
-Suite 115   
-San Mateo, CA 94401
+500 3rd St.  
+Suite 510  
+San Francisco, CA 94107
 
 [support@doximity.com](mailto:support@doximity.com)
 
@@ -648,9 +648,9 @@ All notices and notifications under this BA Agreement shall be sent in writing b
 
 Doximity   
 ATTN: Legal Department  
-60 E Third Ave   
-Suite 115   
-San Mateo, CA 94401
+500 3rd St.  
+Suite 510  
+San Francisco, CA 94107
 
 ##### FOR COVERED ENTITY:
 
