@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pritikin.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314233021id_/https%3A//www.pritikin.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pritikin.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907221430id_/https%3A//www.pritikin.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pritikin Weight Loss Resort
 
