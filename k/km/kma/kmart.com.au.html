@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kmart.com.au privacy policy that was archived on 2015-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150406015615id_/http%3A//www.kmart.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kmart.com.au privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907233854id_/http%3A//www.kmart.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" class="dj_webkit dj_chrome dj_contentbox js no-touch svg inlinesvg svgclippaths no-ie8compat" style=""><head>
 		<link rel="stylesheet" href="/wcsstore/KmartStorefrontAssetStore/css/category_listing.css" type="text/css" media="screen">
@@ -7,7 +7,8 @@
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimum-scale=1">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLL6"></script><script type="text/javascript" charset="UTF-8" src="/wcsstore/dojo18/dojo/dojo.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/KmartStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-us' "></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLL6"></script><script src="//cdn.optimizely.com/js/2758580386.js"></script>
+<script type="text/javascript" charset="UTF-8" src="/wcsstore/dojo18/dojo/dojo.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/KmartStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-us' "></script>
 <script type="text/javascript" charset="UTF-8" src="/wcsstore/dojo18/dojo/dojodesktop.js" djconfig="parseOnLoad: true, isDebug: false,  modulePaths: {storetext: '/wcsstore/KmartStorefrontAssetStore/'}, useCommentedJson: true,locale: 'en-us' "></script>
 
 
@@ -167,21 +168,60 @@
 	<link rel="stylesheet" type="text/css" href="/wcsstore/KmartStorefrontAssetStore/foundation/ie-fix.css" />
 <![endif]-->
 <script type="text/javascript">
-jQuery.noConflict();
-   jQuery( document ).ready(function( $ ) {
-    $('#main-menu').smartmenus({
-        subMenusSubOffsetX: 1,
-        subMenusSubOffsetY: -8
-    });
-   });
+	jQuery.noConflict();
+   	jQuery( document ).ready(function( $ ) {
+	    $('#main-menu').smartmenus({
+	        subMenusSubOffsetX: 1,
+	        subMenusSubOffsetY: -8       
+	    });
+	    
+	    $('#main-menu').bind('click.smapi', function(e, menu) {
+	    	var pageScroll = $('.page-scroll');
+	    	
+	    	if(pageScroll.css('display') === 'block') {
+	    		return false;
+	    	}
+	    });    
+      	
+	    $('#main-menu a').on('touchend click', '.sub-arrow', function(){
+	    	var parent = $(this).parent();
+	    	if(parent.hasClass('highlighted')) {
+				$('#main-menu').smartmenus('menuHide', parent.next());	    		
+	    	}
+	    	else {
+	    		$('#main-menu').smartmenus('itemActivate', parent);	    		
+	   		}
+	
+	    	return false;
+	    });
+	    
+	    $('#main-menu a').on('touchend click', function(){
+	    	var pageScroll = $('.page-scroll');
+	    	if(pageScroll.css('display') === 'block') {	   
+	    		/* LL - DE1202 */ 		
+	    		var hrefStr = $(this).attr('href');
+	    		if(typeof hrefStr !== "undefined") {
+	    			document.location.href = hrefStr;
+	    		}
+	    		return false;
+	    	}
+	    });	    
+	});
 
 jQuery(document).ready(function () {
     $(".toggle-nav").click(function(e) {
         if ($(this).attr("href") == "#")
             e.preventDefault();
-        
+
         $("#page-scroll").toggleClass("navigating");
         $("#top-bar").toggleClass("navigating");
+        $(".overlay").show();
+    });
+
+    $(".overlay").click(function(){
+        $("#page-scroll").removeClass("navigating");
+        $("#top-bar").removeClass("navigating");
+        $(".overlay").hide();
     });
 });
 
@@ -201,6 +241,13 @@ $('.footer .links ul li.title').click(function () {
             }
         }
     });
+	$('body').on('click', 'a[href^="tel:"]', function(e){
+		if (!navigator.userAgent.match(/(iPhone|Android|BlackBerry)/)) {
+			e.preventDefault();
+			e.stopPropagation();
+			return false;
+		}
+	});
 });
 </script>
 <!-- Foundation Script End -->
@@ -232,9 +279,8 @@ $('.footer .links ul li.title').click(function () {
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		
 		
-		
-						<title>Privacy Policy - Kmart</title>
-					
+				<title>Privacy Policy - Kmart</title>
+			
 		
 		<meta name="description" content="Privacy Policy">
 		<meta name="keyword" content="">      
@@ -244,54 +290,56 @@ $('.footer .links ul li.title').click(function () {
 		</script>
 		
 		<link rel="stylesheet" type="text/css" href="/wcsstore/KmartStorefrontAssetStore/css/static_page.css">
-			<style> #top-bar {
-		    clear: both;
-		    height: 31px;
-		    margin: 0 auto;} 
+		<style>
+			#top-bar {
+			    clear: both;
+			    height: 31px;
+			    margin: 0 auto;
+			} 
 		    
 		    li.mega-menu > ul.sm-nowrap > li > ul > li > a {
-		    color: rgb(122, 122, 122) !important;
-		    font-size: 12px !important;
-		    font-weight: normal !important;
-		    text-decoration: none !important;
-		}
+			    color: rgb(122, 122, 122) !important;
+			    font-size: 12px !important;
+			    font-weight: normal !important;
+			    text-decoration: none !important;
+			}
 		
-		ul.sm ul.sm-nowrap > li > a {
-		    color: rgb(51, 51, 51) !important;
-		    font-size: 12px !important;
-		    font-weight: bold;
-		    text-decoration: none !important;
-		}
+			ul.sm ul.sm-nowrap > li > a {
+			    color: rgb(51, 51, 51) !important;
+			    font-size: 12px !important;
+			    font-weight: bold;
+			    text-decoration: none !important;
+			}
 		    
-		    .sing-reg > a {
-		    text-decoration: none !important;
-		}
-		div#footer>div .footer_element_container.right_border.large ul li a {
-			color: #747474;
-			 text-decoration: none !important;
-		}
+		    .sing-reg > a { text-decoration: none !important; }
+			
+			div#footer>div .footer_element_container.right_border.large ul li a {
+				color: #747474;
+				text-decoration: none !important;
+			}
+			
 		    h1, h2, h3, h4, h5, h6, strong {font-weight: bold;}
-			h1, h2, h3 {    margin: 1em 0;}
+			h1, h2, h3 {margin: 1em 0;}
 			h2 {font-size: 12.31pt;}
 		    
 		    .contentWrapper {
-		    background: none repeat scroll 0 0 #FFFFFF; padding: 20px; margin-bottom: 20px;  font-family: kfontsemi !important; font-size: 15px;}
-		    
-		    
-		    
-		    
-		    </style>
-			<script type="text/javascript">
-			function applySec(id){
-				  
-			       $(document).find('.title gray-color-normal active-sub').addClass('title gray-color-normal');
-		           $('#'+id).addClass('title gray-color-normal active-sub');
-		  			}
-		  	function hideDisplayDiv(divToHide,divToShow){
+		    	background: none repeat scroll 0 0 #FFFFFF;
+		    	padding: 20px;
+		    	margin-bottom: 20px;
+		    	font-family: kfontsemi !important;
+		    	font-size: 15px;
+		    }
+	    </style>
+		<script type="text/javascript">
+			function applySec(id) {
+				$(document).find('.title gray-color-normal active-sub').addClass('title gray-color-normal');
+				$('#'+id).addClass('title gray-color-normal active-sub');
+			}
+		  	function hideDisplayDiv(divToHide,divToShow) {
 		  		document.getElementById(divToHide).style.display="none";
 		  		document.getElementById(divToShow).style.display="block";
 		  	}
-			</script>
+		</script>
 	</head>
 	
 	<body style="background: rgb(255, 255, 255);">
@@ -313,43 +361,30 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div id="IDModal" class="reveal-modal tiny" data-reveal="" style="display: none;">
 <h2 class="form-title"><span>User Login</span></h2>
-<a class="close-reveal-modal">×</a>
-     
-
+<a class="close-reveal-modal">×</a> 
 <div class="popup_body">testing area</div>
-
-
  </div>
+<!-- AR: BEGIN KMMessageDisplay.jspf -->
 
-<span class="spanacce" style="display:none" id="MessageArea_ACCE_Title">Message Dialog</span>
-<div id="MessageArea" class="store_message" role="alert" aria-labelledby="MessageArea_ACCE_Title">
-	<div id="msgpopup_content_wrapper" class="content">
-		<a id="clickableErrorMessageImg" role="button" class="close tlignore" href="JavaScript:MessageHelper.hideMessageArea();" title="Close">
-			<div class="close_text">Close</div>
-			<div class="close_icon"></div>
-			<div class="clear_float"></div>
-		</a>
-		
-		<div class="clear_float"></div>
-		
-		<div class="message">
-			<div class="message_icon">
-				<img id="error_icon" style="display:none;" class="error_icon" src="/wcsstore/KmartStorefrontAssetStore/images/colors/color1/error_icon.png" alt="">
-				<img id="success_icon" style="display:none;" class="error_icon" src="/wcsstore/KmartStorefrontAssetStore/images/colors/color1/success_icon.png" alt="">
-			</div>
-			<div class="message_text" role="region" aria-required="true" aria-labelledby="MessageArea">
-				<span id="ErrorMessageText">
-					
-				</span>
-			</div>
-			<div class="clear_float"></div>
-		</div>		
+<link href="/wcsstore/KmartStorefrontAssetStore/css/kmart-message-ui.css" rel="stylesheet" type="text/css">
+<div id="MessageArea" class="alert-box" role="alert" aria-labelledby="MessageArea_ACCE_Title">
+	<div class="row">
+		<div class="small-1 large-1 columns">
+			<span id="error_icon" style="display:none;" class="icon-alarm error_icon"></span>
+			<span id="success_icon" style="display:none;" class="icon-tick success_icon"></span>
+		</div>
+		<div class="small-10 large-10 columns">
+			<span id="ErrorMessageText">
+				
+			</span>
+			<a id="clickableErrorMessageImg" role="button" class="close" href="JavaScript:MessageHelper.hideMessageArea();" title="Close">
+				<span class="icon-cross"></span>
+			</a>
+		</div>
 	</div>
 </div>
-<span class="spanacce" id="ariaMessage_ACCE_Label" style="display:none">Display Update Message</span>
-<span class="spanacce" role="region" aria-labelledby="ariaMessage_ACCE_Label" id="ariaMessage" aria-live="assertive" aria-atomic="true" aria-relevant="additions"></span>
-<!-- END MessageDisplay.jspf --><!-- BEGIN MessageDisplayResponsive.jspf -->
-<div id="MessageAreaResponsive" class="reveal-modal tiny" data-reveal="">
+<!-- AR: BEGIN KMMessageDisplay.jspf --><!-- END MessageDisplay.jspf --><!-- BEGIN MessageDisplayResponsive.jspf -->
+<div id="MessageAreaResponsive" class="reveal-modal modal-dialog tiny" data-reveal="">
 
 <a class="close-reveal-modal">×</a>
      
@@ -369,8 +404,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  </div>
 <span class="spanacce" style="display:none" id="MessageArea_ACCE_Title">Message Dialog</span>
 
-<span class="spanacce" id="ariaMessage_ACCE_Label" style="display:none">Display Update Message</span>
-<span class="spanacce" role="region" aria-labelledby="ariaMessage_ACCE_Label" id="ariaMessage" aria-live="assertive" aria-atomic="true" aria-relevant="additions"></span>
 <!-- END MessageDisplayResponsive.jspf -->
 
 	
@@ -392,8 +425,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div id="page">
 			
 
-<div id="model_bg" class="model_bg" style="display:none"></div>
-
+<div id="model_bg_qi" class="model_bg" style="display:none"></div>
+<div id="model_bg_storeAvailability" class="model_bg_store" style="display:none;"></div>
+<div id="model_bg_email" class="model_bg_store" style="display:none"></div>
 
 
 <script type="text/javascript">
@@ -428,24 +462,161 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	var isGuest = true;
 </script>
 
-<div class="header_wrapper" role="banner">
-	<!--For border customization --><!-- Main Header Area -->
-			
-			<div class="header">
-				<!-- Start Header Content --><!-- Start Masthead -->
-				<div id="masthead">
-					<!--<div class="top"></div> -->
-					<div class="content desktop_header row">
-						<!-- Masthead Logo Widget -->
-						<div class="widget_masthead_logo_position large-2 columns">
-							<div id="widget_masthead_logo1" class="store_logo">
-								
-								<a href="http://www.kmart.com.au"> <img alt="Kmart Australia Logo" src="/wcsstore/KmartStorefrontAssetStore/images/logo.png"> </a>
+		<div class="header_wrapper" role="banner">
+			<!-- LL: Top Nav Value Proposition / By-line -->
+			<div class="header_espot_container no_espote_top_sigin">
+				<div class="row">
+					<!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
+
+	<div id="Hd_ems2_37437" class="widget_height">
+		<div class="value-proposition">
+    <span class="value-proposition-text">we make low prices irresistible</span>
+    <span class="ok-icon"></span>
+</div>
+		
+	</div>
+	
+<!-- END ContentRecommendation.jsp -->
+					
+					<div class="user-state-menu">
+		                <ul class="small-block-grid-0 hide-for-small">		                    					       
+				            <li class="top-bar-account">
+					            
+										<a id="Register" href="https://www.kmart.com.au/webapp/wcs/stores/servlet/UserRegistrationForm?new=Y&amp;catalogId=10102&amp;myAcctMain=&amp;langId=-1&amp;storeId=10701">Register</a>
+									
+							</li>
+				            <li class="top-bar-account">
+				            	<a id="SignInLink" href="https://www.kmart.com.au/webapp/wcs/stores/servlet/LogonForm?catalogId=10102&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10701">Sign in</a>
+				            </li>
+		                </ul>
+		            </div>
+				</div>
+			</div>
+			<!-- // LL: Top Nav Value Proposition / By-line --><!-- Main Header Area -->			
+			<div id="masthead" class="header" role="banner">
+
+            	<div class="desktop_header row">
+
+                	<div class="large-12 columns spacing-inner-top-regular">
+					<!-- Start Header Content --><!-- Masthead Logo Widget -->
+						<div class="medium-2 large-2 columns">
+                            <div class="store_logo">
+                            	
+                               	<a href="http://www.kmart.com.au"><img alt="Kmart Australia Logo" src="/wcsstore/KmartStorefrontAssetStore/images/logo.png"></a>
+                            </div>
+                        </div>
+						<!-- End Masthead Logo Widget --><!-- MiniShopCart Widget -->
+						<div id="MiniShoppingCartContainer" class="widget_minishopcart_position columns right">
+							<ul class="nav-icons small-block-grid-0 right">
+                                <li><a href="/store-locator"><span class="icon icon-store-locator"></span> Stores</a></li>
+                                
+                                
+	<li><a href="https://www.kmart.com.au/webapp/wcs/stores/servlet/WishListDisplayView?catalogId=10102&amp;langId=-1&amp;listId=.&amp;storeId=10701"><span class="icon icon-wishlist"></span> Saved
+		<div dojotype="wc.widget.RefreshArea" id="KMXWishlistSummaryDisplay1" controllerid="KMXWishlistSummaryController" class="dijitContentPane" lang="en" widgetid="KMXWishlistSummaryDisplay1">
+			<!-- BEGIN XMobileMiniCart.jsp --><!-- BEGIN XWishlistSummary_UI.jspf --><!-- END XWishlistSummary_UI.jspf --><!-- END XMobileMiniCart.jsp -->
+		</div>
+	</a></li>
+
+                                <li class="last">
+	                                
+<span id="MiniShoppingCart_Label" class="spanacce">Shopping Cart</span>
+<div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" ariamessage="Shopping Cart Display Updated" arialiveid="ariaMessage" role="region" aria-labelledby="MiniShoppingCart_Label" class="dijitContentPane" lang="en">
+	
+<input type="hidden" id="countMax" value="3">
+
+<div id="widget_minishopcart" role="button" tabindex="0" onmouseover="javascript:showMiniShopCartDropDown('widget_minishopcart','quick_cart_container','orderItemsListAutoClose');" onclick="document.location.href='http://www.kmart.com.au/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-2&amp;updatePrices=1&amp;catalogId=10102&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10701&amp;URL=https%3A%2F%2Fwww.kmart.com.au%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FAjaxOrderItemDisplayView';" onkeypress="document.location.href='http://www.kmart.com.au/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-2&amp;updatePrices=1&amp;catalogId=10102&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10701&amp;URL=https%3A%2F%2Fwww.kmart.com.au%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FAjaxOrderItemDisplayView';">
+	<div id="miniShopCartLeftCorner" class="left_border"></div>
+		<div id="miniShopCartBody" class="content">
+			<div id="miniShopCartOverlay" class="content_overlay"></div>	
+			<span class="icon icon-shopping-bag"></span>Bag<!-- BEGIN XMiniCartSummary.jsp --><!-- BEGIN XMiniCartSummary_UI.jspf --><!-- END XMiniCartSummary_UI.jspf --><!-- END XMiniCartSummary.jsp -->
+
+			<div class="arrow"></div>
+		</div>
+		<div id="miniShopCartRightCorner" class="right_border"></div>
+		<div class="clear_float"></div>												
+	</div>
+	<div id="placeHolder"></div>
+
+<div id="MiniShopCartProductAdded">
+	<div id="MiniShopCartProductAddedWrapper" style="display:none;">
+		<div id="widget_minishopcart_popup_1">
+			<div class="top">
+				<div class="left_border"></div>
+				<div class="middle_tile"></div>
+				<div class="right_border"></div>
+			</div>
+			<div class="middle">
+				<div class="left_border">
+					<div class="right_border">
+						<div class="content">
+							<a id="MiniShopCartCloseButton_2" href="javascript:dijit.byId('MiniShopCartProductAdded').hide();" class="close_control tlignore">
+								<div class="icon"></div>
+							</a>
+							<div class="notification">This item has been successfully added:</div>
+							<div class="products added">
 								
 							</div>
+							<div class="go_to_cart">
+								
+								<div class="left_border"></div>
+								<a id="GotoCartButton2" href="http://www.kmart.com.au/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-2&amp;updatePrices=1&amp;catalogId=10102&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10701&amp;URL=https%3A%2F%2Fwww.kmart.com.au%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FAjaxOrderItemDisplayView" class="large-button secondary-button" tabindex="0">
+									VIEW BAG
+								</a>
+								<a id="GotoCartButton2a" href="http://www.kmart.com.au/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-2&amp;updatePrices=1&amp;catalogId=10102&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10701&amp;URL=https%3A%2F%2Fwww.kmart.com.au%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FAjaxOrderItemDisplayView" class="large-button" tabindex="0">
+									CHECKOUT
+								</a>
+								<div class="right_border"></div>
+							</div>
 						</div>
-						<!-- End Masthead Logo Widget --><!-- Search Widget -->
-						<div id="searchComponent" class="large-6 columns">
+					</div>
+				</div>
+			</div>
+			<div class="bottom">
+				<div class="left_border"></div>
+				<div class="middle_tile"></div>
+				<div class="right_border"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<input type="hidden" id="currentOrderQuantity" value="0">
+<input type="hidden" id="currentOrderAmount" value="0.00">
+<input type="hidden" id="currentOrderCurrency" value="AUD">
+<input type="hidden" id="currentOrderLanguage" value="-1">
+<input type="hidden" id="currentOrderId" value="">
+<input type="hidden" id="OrderQuantityTotal" value="0">
+
+</div>
+
+<div id="MiniShopCartContents" dojotype="wc.widget.RefreshArea" widgetid="MiniShopCartContents" controllerid="MiniShopCartContentsController" class="dijitContentPane" lang="en">
+</div>
+
+<script type="text/javascript">
+  dojo.addOnLoad(function() {
+		setMiniShopCartControllerURL(getAbsoluteURL()+'MiniShopCartDisplayView?storeId=10701&catalogId=10102&langId=-1');
+		wc.render.getRefreshControllerById("MiniShopCartContentsController").url = getAbsoluteURL()+'MiniShopCartDisplayView?storeId=10701&catalogId=10102&langId=-1&page_view=dropdown';
+		/* JN: 7/4/2015 - UI Hygiene Sprint 1 - Replace OOB with new implementation of product count 
+		if(dojo.byId('MiniShoppingCart') != null){
+			loadMiniCart("AUD","-1");
+		}
+		*/
+	});
+</script>
+
+<script type="text/javascript">
+  dojo.addOnLoad(function() {
+		handleMiniCartHover();	
+	});
+</script>
+
+
+								</li>
+                            </ul>							
+														
+						</div>
+						<!-- End MiniShopCart Widget --><!-- Search Widget -->
+						<div id="searchComponent" class="columns right">
 							<!-- BEGIN Search.jsp -->
 
 
@@ -455,7 +626,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				dojo.addOnLoad(function(){
 					SearchJS.init();
 					SearchJS.setCachedSuggestionsURL('SearchComponentCachedSuggestionsView?langId=-1&amp;storeId=10701&amp;catalogId=10102');
-					SearchJS.setAutoSuggestURL('SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&amp;serverURL=http%3a%2f%2f192.168.210.49%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&amp;langId=-1&amp;storeId=10701&amp;catalogId=10102&amp;fromDevice=browser');
+					SearchJS.setAutoSuggestURL('SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&amp;serverURL=http%3a%2f%2fkuposl003%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&amp;langId=-1&amp;storeId=10701&amp;catalogId=10102&amp;fromDevice=browser');
 				});
 
 				// The primary Array to hold all static search suggestions
@@ -466,7 +637,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</script>	
 	
 
-<form name="CatalogSearchForm" action="http://www.kmart.com.au/webapp/wcs/stores/servlet/SearchDisplay?" method="get" id="CatalogSearchForm">
+<form name="CatalogSearchForm" action="http://www.kmart.com.au/webapp/wcs/stores/servlet/SearchDisplay" method="get" id="CatalogSearchForm">
 	
 	<!-- Search Widget -->
 	<div class="widget_search_position" role="search">
@@ -595,7 +766,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<input type="hidden" name="storeId" value="10701">
 	<input type="hidden" name="catalogId" value="10102">
 	<input type="hidden" name="langId" value="-1">
-	<input type="hidden" name="pageSize" value="15">
+	<input type="hidden" name="pageSize" value="30">
 	<input type="hidden" name="beginIndex" value="0">
 	<input type="hidden" name="sType" value="SimpleSearch">
 	<input type="hidden" name="resultCatEntryType" value="2">
@@ -607,167 +778,70 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </form>
 <!-- End Search Widget --><!-- END Search.jsp -->
 						</div>
-						<!-- End Search Widget --><!-- MiniShopCart Widget -->
-						<div id="MiniShoppingCartContainer" class="widget_minishopcart_position large-2 columns">							
-							
-<span id="MiniShoppingCart_Label" class="spanacce">Shopping Cart</span>
-<div dojotype="wc.widget.RefreshArea" id="MiniShoppingCart" widgetid="MiniShoppingCart" controllerid="MiniShoppingCartController" ariamessage="Shopping Cart Display Updated" arialiveid="ariaMessage" role="region" aria-labelledby="MiniShoppingCart_Label" class="dijitContentPane" lang="en">
-	
-<input type="hidden" id="countMax" value="3">
-
-
-<div id="widget_minishopcart" role="button" tabindex="0" onclick="javascript:showMiniShopCartDropDown('widget_minishopcart','quick_cart_container','orderItemsListAutoClose');" onkeypress="javascript:showMiniShopCartDropDownEvent(event,'widget_minishopcart','quick_cart_container','orderItemsList');">
-	<div id="miniShopCartLeftCorner" class="left_border"></div>
-	<div id="miniShopCartBody" class="content">
-		<div id="miniShopCartOverlay" class="content_overlay"></div>
-		<div class="info">
-		
-		<div class="cart">
-			<span id="cart_text">Shopping bag</span>				
-			</div>
-		
-		<span id="minishopcart_subtotal_text"><!--Subtotal text Subtotal: --></span>
-		
-			<div class="subtotal">
-				<span id="minishopcart_total">	
-					
-				</span>
-				<span>-</span>	
-				
-				<span id="minishopcart_subtotal">				
-				
-				</span>
-			</div>
-			
-		</div>
-		<div class="cart_icon"></div>
-		<div class="arrow"></div>
-	</div>
-	<div id="miniShopCartRightCorner" class="right_border"></div>
-	<div class="clear_float"></div>												
-</div>
-
-<div id="placeHolder"></div>
-
-<div id="MiniShopCartProductAdded">
-	<div id="MiniShopCartProductAddedWrapper" style="display:none;">
-		<div id="widget_minishopcart_popup_1">
-			<div class="top">
-				<div class="left_border"></div>
-				<div class="middle_tile"></div>
-				<div class="right_border"></div>
-			</div>
-			<div class="middle">
-				<div class="left_border">
-					<div class="right_border">
-						<div class="content">
-							<a id="MiniShopCartCloseButton_2" href="javascript:dijit.byId('MiniShopCartProductAdded').hide();" class="close_control tlignore">
-								<div class="icon"></div>
-								<span class="close"><!-- Close -->&nbsp;</span>
-							</a>
-							<div class="notification">This item has been successfully added:</div>
-							<div class="products added">
-								
-							</div>
-							<div class="go_to_cart">
-								<a id="GotoCartButton2" href="http://www.kmart.com.au/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-2&amp;updatePrices=1&amp;catalogId=10102&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10701&amp;URL=https%3A%2F%2Fwww.kmart.com.au%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FAjaxOrderItemDisplayView%3F" class="button_primary" tabindex="0">
-									<div class="left_border"></div>
-									<div class="button_text">VIEW BAG &amp; CHECKOUT</div>
-									<div class="right_border"></div>
-								</a>
-							</div>
-						</div>
+						<!-- End Search Widget -->
 					</div>
-				</div>
-			</div>
-			<div class="bottom">
-				<div class="left_border"></div>
-				<div class="middle_tile"></div>
-				<div class="right_border"></div>
-			</div>
-		</div>
-	</div>
-</div>
-
-<input type="hidden" id="currentOrderQuantity" value="0">
-<input type="hidden" id="currentOrderAmount" value="0.00">
-<input type="hidden" id="currentOrderCurrency" value="AUD">
-<input type="hidden" id="currentOrderLanguage" value="-1">
-<input type="hidden" id="currentOrderId" value="">
-											
-
-</div>
-
-<div id="MiniShopCartContents" dojotype="wc.widget.RefreshArea" widgetid="MiniShopCartContents" controllerid="MiniShopCartContentsController" class="dijitContentPane" lang="en">
-</div>
-
-<script type="text/javascript">
-  dojo.addOnLoad(function() {
-		setMiniShopCartControllerURL(getAbsoluteURL()+'MiniShopCartDisplayView?storeId=10701&catalogId=10102&langId=-1');
-		wc.render.getRefreshControllerById("MiniShopCartContentsController").url = getAbsoluteURL()+'MiniShopCartDisplayView?storeId=10701&catalogId=10102&langId=-1&page_view=dropdown';
-		if(dojo.byId('MiniShoppingCart') != null){
-			loadMiniCart("AUD","-1");
-		}		
-	});
-</script>
-
-<script type="text/javascript">
-  dojo.addOnLoad(function() {
-		handleMiniCartHover();	
-	});
-</script>
-
-
-							<div class="sing-reg">
-								<a id="SignInLink" href="https://www.kmart.com.au/webapp/wcs/stores/servlet/LogonForm?catalogId=10102&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10701">Sign in</a> |
-								
-										<a id="Register" href="https://www.kmart.com.au/webapp/wcs/stores/servlet/UserRegistrationForm?new=Y&amp;catalogId=10102&amp;myAcctMain=&amp;langId=-1&amp;storeId=10701">Register</a>
-									 |
-								
-									<a id="Wishlist" href="https://www.kmart.com.au/webapp/wcs/stores/servlet/WishListDisplayView?catalogId=10102&amp;langId=-1&amp;listId=.&amp;storeId=10701">Wishlist</a>
-								
-							</div>
-							
-						</div>
-						<!-- End MiniShopCart Widget -->
-					</div>
-				
-					<!--  NAVIGATION START -->
-						<div id="top-bar" class="top-bar">
-						    <ul class="title-area">
-						      <li class="toggle-topbar menu-icon"><a class="toggle-nav" href="#"><span></span></a></li>						
-						      <li class="name">
-						        <div><a href="#">&nbsp;</a></div>
-						      </li>
-						    </ul>
-						    <div class="header-bar-section">
-						      <ul id="main-menu" class="sm sm-simple">
-						      
-						        <!-- BEGIN Department.jsp -->
-	<li class="mega-menu"><a class="main_menu_link" href="/category/home-&amp;-garden/251026">Home &amp; Garden</a>
+				</div> <!-- desktop_header --><!--  NAVIGATION START -->
+				<div id="top-bar" class="top-bar">
+				    <ul class="title-area">
+				        <li class="toggle-topbar menu-icon">
+				            <a class="toggle-nav" href="#">
+				                <span class="hamburger"></span>
+				                <span class="menu-label">Menu</span>
+				            </a>
+						</li>
+				    </ul>
+				    <div class="header-bar-section">
+				        <div class="user-state-menu show-for-small">
+					        <ul class="small-block-grid-2">
+					            <li>
+						            
+											<a id="Register" href="https://www.kmart.com.au/webapp/wcs/stores/servlet/UserRegistrationForm?new=Y&amp;catalogId=10102&amp;myAcctMain=&amp;langId=-1&amp;storeId=10701">Register</a>
+										
+								</li>
+					            <li><a id="SignInLink" href="https://www.kmart.com.au/webapp/wcs/stores/servlet/LogonForm?catalogId=10102&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10701">Sign in</a></li>
+					        </ul>
+					    </div>
+						<ul id="main-menu" class="sm sm-simple">
+							<!-- BEGIN Department.jsp -->
+	<li class="mega-menu">
 	
-	
+										<a class="main_menu_link" href="/category/home-&amp;-garden/251026">Home &amp; Garden</a>
+										
 	<ul class="mega-ul">
 	
 		<li class="department-drop">
 		<div class="department_image">
-			<!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- END ContentRecommendation.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- END ContentRecommendation.jsp -->
+			<!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
+
+	<div id="MaxiNavEspot1_Home&amp;Garden_Content_85917" class="widget_height">
+		<a href="/category/home-&amp;-garden/features/fiesta/399028&amp;cm_re=Mega+Nav-_-Home%26Garden1-_-140815Fiesta">
+<img src="/wcsstore/Kmart/images/espots/aug-living-150814-mega-menu-espot-fiesta.jpg" alt="Fiesta"></a>
+		
+	</div>
+	
+<!-- END ContentRecommendation.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
+
+	<div id="MaxiNavEspot2_Home&amp;Garden_Content_59971" class="widget_height">
+		<a href="/category/home-&amp;-garden/trend/natural/399027&amp;cm_re=Mega+Nav-_-Home%26Garden2-_-140815Natural">
+<img src="/wcsstore/Kmart/images/espots/aug-living-150814-mega-menu-espot-natural.jpg" alt="Natural"></a>
+		
+	</div>
+	
+<!-- END ContentRecommendation.jsp -->
 		</div>
 		</li> 
 	
 		<li><a>Shop by Category</a>
 			
-			<ul>
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
 			
 				<li><a href="/category/home-&amp;-garden/shop-by-category/bathroom/251037">Bathroom</a></li>						
-			
-				<li><a href="/category/home-&amp;-garden/shop-by-category/bbq/251041">BBQ</a></li>						
 			
 				<li><a href="/category/home-&amp;-garden/shop-by-category/bedding/251091">Bedding</a></li>						
 			
 				<li><a href="/category/home-&amp;-garden/shop-by-category/dining/251131">Dining</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/shop-by-category/electronics/251005">Electronics</a></li>						
+				<li><a href="/category/home-&amp;-garden/shop-by-category/entertainment/251005">Entertainment</a></li>						
 			
 				<li><a href="/category/home-&amp;-garden/shop-by-category/furniture/251160">Furniture</a></li>						
 			
@@ -787,87 +861,146 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 				<li><a href="/category/home-&amp;-garden/shop-by-category/lighting/251199">Lighting</a></li>						
 			
+				<li><a href="/category/home-&amp;-garden/shop-by-category/party-time/391504">Party Time</a></li>						
+			
+				<li><a href="/category/home-&amp;-garden/shop-by-category/pets/403502">Pets</a></li>						
+			
 				<li><a href="/category/home-&amp;-garden/shop-by-category/storage-&amp;-organisation/251206">Storage &amp; Organisation</a></li>						
 			
 			</ul>
 		</li>
 		
-		<li><a>Shop by Look</a>
+		<li><a>Features</a>
 			
-			<ul>
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
 			
-				<li><a href="/category/home-&amp;-garden/shop-by-look/classic/268002">Classic</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/indulgent-bedding/402007">Indulgent Bedding</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/shop-by-look/colour-pop/284502">Colour Pop</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/breakfast-essentials/402010">Breakfast Essentials</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/shop-by-look/natural/284001">Natural</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/metallic-kitchen/403010">Metallic Kitchen</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/shop-by-look/urban/268003">Urban</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/copper-crush/399022">Copper Crush</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/shop-by-look/whats-trending/372001">What's Trending</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/deck-out-the-backyard/399020">Deck out the Backyard</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/shop-by-look/geo-bedding-style/383502">Geo Bedding Style</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/dining-room/399019">Dining Room</a></li>						
 			
-			</ul>
-		</li>
-		
-		<li><a>Electronics</a>
+				<li><a href="/category/home-&amp;-garden/features/fab-finds-for-kids-bedrooms/386001">Fab Finds for Kids Bedrooms</a></li>						
 			
-			<ul>
+				<li><a href="/category/home-&amp;-garden/features/fiesta/399028">Fiesta</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/electronics/top-dvds,-blu-rays-and-boxsets/338001">Top DVDs, Blu Rays and Boxsets</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/kmartstyling-home/399007">kmartstyling home</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/electronics/fans-&amp;-cooling/375001">Fans &amp; Cooling</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/living-room/399018">Living Room</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/electronics/accessories,-batteries,-cables-&amp;-adaptors/251071">Accessories, Batteries, Cables &amp; Adaptors</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/shape-your-space/402001">Shape your space</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/electronics/audio-&amp;-hifi/251052">Audio &amp; Hifi</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/storage-bestsellers/389001">Storage Bestsellers</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/electronics/cameras-&amp;-camcorders/251013">Cameras &amp; Camcorders</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/urban-bedroom/399013">Urban Bedroom</a></li>						
 			
-				<li><a href="/category/home-&amp;-garden/electronics/computing-&amp;-home-office/251068">Computing &amp; Home Office</a></li>						
-			
-				<li><a href="/category/home-&amp;-garden/electronics/dvd,-stb-&amp;-blu-ray-players/251055">DVD, STB &amp; Blu Ray Players</a></li>						
-			
-				<li><a href="/category/home-&amp;-garden/electronics/games-&amp;-consoles/298001">Games &amp; Consoles </a></li>						
-			
-				<li><a href="/category/home-&amp;-garden/electronics/headphones-&amp;-earphones/251059">Headphones &amp; Earphones</a></li>						
-			
-				<li><a href="/category/home-&amp;-garden/electronics/ipods-&amp;-mp3-players/251016">iPods &amp; MP3 Players</a></li>						
-			
-				<li><a href="/category/home-&amp;-garden/electronics/mobile-accessories/251019">Mobile Accessories</a></li>						
-			
-				<li><a href="/category/home-&amp;-garden/electronics/tablets-&amp;-accessories/251022">Tablets &amp; Accessories</a></li>						
-			
-				<li><a href="/category/home-&amp;-garden/electronics/travel-entertainment/383509">Travel Entertainment</a></li>						
-			
-				<li><a href="/category/home-&amp;-garden/electronics/tvs-&amp;-av-accessories/251061">TV's &amp; AV Accessories</a></li>						
+				<li><a href="/category/home-&amp;-garden/features/whats-trending/402006">Whats Trending</a></li>						
 			
 			</ul>
 		</li>
 		
-	</ul>			
+		<li><a>Trend</a>
+			
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
+			
+				<li><a href="/category/home-&amp;-garden/trend/coastal/399026">Coastal</a></li>						
+			
+				<li><a href="/category/home-&amp;-garden/trend/natural/399027">Natural</a></li>						
+			
+				<li><a href="/category/home-&amp;-garden/trend/urban/399025">Urban</a></li>						
+			
+			</ul>
+		</li>
+		
+	</ul>		
+	
+	
+	
+
+				
+		
 	</li>
 	
 	
-	<li class="mega-menu"><a class="main_menu_link" href="/category/kids/251015">Kids</a>
+	<li class="mega-menu">
 	
-	
+										<a class="main_menu_link" href="/category/kids/251015">Kids</a>
+										
 	<ul class="mega-ul">
 	
+		<li class="department-drop">
+		<div class="department_image">
+			<!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- END ContentRecommendation.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- END ContentRecommendation.jsp -->
+		</div>
+		</li> 
+	
+		<li><a>Toys - Shop by Age</a>
+			
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
+			
+				<li><a href="/category/kids/toys---shop-by-age/babies--0-12-months/395007">Babies  0-12 months</a></li>						
+			
+				<li><a href="/category/kids/toys---shop-by-age/little-kids--1-5-years/395008">Little Kids  1-5 years</a></li>						
+			
+				<li><a href="/category/kids/toys---shop-by-age/big-kids--6-9-years/395009">Big Kids  6-9 years</a></li>						
+			
+				<li><a href="/category/kids/toys---shop-by-age/even-bigger-kids-10-plus/395010">Even Bigger Kids 10 plus</a></li>						
+			
+			</ul>
+		</li>
+		
+		<li><a>More Ways to Shop</a>
+			
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
+			
+				<li><a href="/category/kids/more-ways-to-shop/toys-just-landed/403512">Toys Just Landed</a></li>						
+			
+				<li><a href="/category/kids/more-ways-to-shop/hottest-toys/403513">Hottest Toys</a></li>						
+			
+				<li><a href="/category/kids/more-ways-to-shop/star-wars/404003">Star Wars</a></li>						
+			
+				<li><a href="/category/kids/more-ways-to-shop/kmart-only-toys/402014">Kmart only toys</a></li>						
+			
+				<li><a href="/category/kids/more-ways-to-shop/toys-we-love/399011">Toys We Love</a></li>						
+			
+				<li><a href="/category/kids/more-ways-to-shop/crazy-craft/397504">Crazy Craft</a></li>						
+			
+				<li><a href="/category/kids/more-ways-to-shop/play-&amp;-learn/395004">Play &amp; Learn</a></li>						
+			
+				<li><a href="/category/kids/more-ways-to-shop/rainy-day/397502">Rainy Day</a></li>						
+			
+				<li><a href="/category/kids/more-ways-to-shop/retro-games/398001">Retro Games</a></li>						
+			
+				<li><a href="/category/kids/more-ways-to-shop/teddy-tea-time/395005">Teddy Tea Time</a></li>						
+			
+				<li><a href="/category/kids/more-ways-to-shop/wheel-sports/399001">Wheel Sports</a></li>						
+			
+			</ul>
+		</li>
+		
 		<li><a>Toys - Shop by Category</a>
 			
-			<ul>
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
+			
+				<li><a href="/category/kids/toys---shop-by-category/shop-all-toys/395006">Shop All Toys</a></li>						
+			
+				<li><a href="/category/kids/toys---shop-by-category/action-figures-&amp;-toys/251501">Action Figures &amp; Toys</a></li>						
+			
+				<li><a href="/category/kids/toys---shop-by-category/art-&amp;-craft/252011">Art &amp; Craft</a></li>						
 			
 				<li><a href="/category/kids/toys---shop-by-category/back-to-school/350011">Back to School</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-category/action-figures/251501">Action Figures</a></li>						
+				<li><a href="/category/kids/toys---shop-by-category/blocks-&amp;-construction/252025">Blocks &amp; Construction</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-category/arts,-craft-&amp;-stationery/252011">Arts, Craft &amp; Stationery</a></li>						
+				<li><a href="/category/kids/toys---shop-by-category/board-games-&amp;-puzzles/252083">Board Games &amp; Puzzles</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-category/building-blocks-&amp;-construction-sets/252025">Building Blocks &amp; Construction Sets</a></li>						
-			
-				<li><a href="/category/kids/toys---shop-by-category/dolls,-doll-houses-&amp;-accessories/252033">Dolls, Doll Houses &amp; Accessories</a></li>						
+				<li><a href="/category/kids/toys---shop-by-category/dolls-&amp;-accessories/252033">Dolls &amp; Accessories</a></li>						
 			
 				<li><a href="/category/kids/toys---shop-by-category/dress-up-&amp;-role-play/252077">Dress Up &amp; Role Play</a></li>						
 			
@@ -875,15 +1008,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 				<li><a href="/category/kids/toys---shop-by-category/electronic-toys/252072">Electronic Toys</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-category/games-&amp;-puzzles/252083">Games &amp; Puzzles</a></li>						
-			
-				<li><a href="/category/kids/toys---shop-by-category/lego/252095">LEGO</a></li>						
-			
 				<li><a href="/category/kids/toys---shop-by-category/outdoor-toys/252010">Outdoor Toys</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-category/soft-toys/252126">Soft Toys</a></li>						
-			
 				<li><a href="/category/kids/toys---shop-by-category/preschool-&amp;-toddler/252089">Preschool &amp; Toddler</a></li>						
+			
+				<li><a href="/category/kids/toys---shop-by-category/soft-toys/252126">Soft Toys</a></li>						
 			
 				<li><a href="/category/kids/toys---shop-by-category/vehicles/252146">Vehicles</a></li>						
 			
@@ -892,71 +1021,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</ul>
 		</li>
 		
-		<li><a>Toys - Shop by Age</a>
+		<li><a>Popular Toys</a>
 			
-			<ul>
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
 			
-				<li><a href="/category/kids/toys---shop-by-age/birth---12-months/252172">Birth - 12 Months</a></li>						
+				<li><a href="/category/kids/popular-toys/avengers/252002">Avengers</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-age/12---24-months/252177">12 - 24 Months</a></li>						
+				<li><a href="/category/kids/popular-toys/fisher-price/251203">Fisher Price</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-age/2+-years/252179">2+ Years</a></li>						
+				<li><a href="/category/kids/popular-toys/frozen/347505">Frozen</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-age/3+-years/252180">3+ Years</a></li>						
+				<li><a href="/category/kids/popular-toys/hot-wheels/391511">Hot Wheels</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-age/4+-years/252182">4+ Years</a></li>						
+				<li><a href="/category/kids/popular-toys/leapfrog/261001">LeapFrog</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-age/5+-years/252185">5+ Years</a></li>						
+				<li><a href="/category/kids/popular-toys/lego-shop/252095">LEGO Shop</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-age/6+-years/252187">6+ Years</a></li>						
+				<li><a href="/category/kids/popular-toys/mega-bloks/252027">Mega Bloks</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-age/8---11-years/252190">8 - 11 Years</a></li>						
+				<li><a href="/category/kids/popular-toys/minions/390501">Minions</a></li>						
 			
-				<li><a href="/category/kids/toys---shop-by-age/12---14-years/252193">12 - 14 Years</a></li>						
+				<li><a href="/category/kids/popular-toys/nerf-shop/252028">NERF Shop</a></li>						
 			
-			</ul>
-		</li>
-		
-		<li><a>Toys - Featured Brands</a>
+				<li><a href="/category/kids/popular-toys/peppa-pig/383001">Peppa Pig</a></li>						
 			
-			<ul>
+				<li><a href="/category/kids/popular-toys/thomas-&amp;-friends/383501">Thomas &amp; Friends</a></li>						
 			
-				<li><a href="/category/kids/toys---featured-brands/hottest-toys/332501">Hottest Toys</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/barbie/252037">Barbie</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/fisher-price/251203">Fisher Price</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/frozen/347505">Frozen</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/hasbro/275503">Hasbro</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/leapfrog/261001">LeapFrog</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/lego-city/252103">LEGO City</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/lego-star-wars/252123">LEGO Star Wars</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/mega-bloks/252027">Mega Bloks</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/nerf/252028">NERF</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/peppa-pig/383001">Peppa Pig</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/superheroes/383503">Superheroes</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/teenage-mutant-ninja-turtles/252007">Teenage Mutant Ninja Turtles</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/thomas-&amp;-friends/383501">Thomas &amp; Friends</a></li>						
-			
-				<li><a href="/category/kids/toys---featured-brands/toy-story/252008">Toy Story</a></li>						
+				<li><a href="/category/kids/popular-toys/tmnt/252007">TMNT</a></li>						
 			
 			</ul>
 		</li>
 		
 		<li><a>Baby - Shop by Category</a>
 			
-			<ul>
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
+			
+				<li><a href="/category/kids/baby---shop-by-category/closer-to-nature/402501">Closer to Nature</a></li>						
 			
 				<li><a href="/category/kids/baby---shop-by-category/baby-manchester/251031">Baby Manchester</a></li>						
 			
@@ -977,18 +1077,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</ul>
 		</li>
 		
-	</ul>			
+	</ul>		
+	
+	
+	
+
+				
+		
 	</li>
 	
 	
-	<li class="mega-menu"><a class="main_menu_link" href="/category/sports/250501">Sports</a>
+	<li class="mega-menu">
 	
-	
+										<a class="main_menu_link" href="/category/sports/250501">Sports</a>
+										
 	<ul class="mega-ul">
+	
+		<li class="department-drop">
+		<div class="department_image">
+			<!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- END ContentRecommendation.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- END ContentRecommendation.jsp -->
+		</div>
+		</li> 
 	
 		<li><a>Shop by Product Type</a>
 			
-			<ul>
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
 			
 				<li><a href="/category/sports/shop-by-product-type/ball-games/251006">Ball Games</a></li>						
 			
@@ -1003,6 +1116,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a href="/category/sports/shop-by-product-type/fitness-tech/381501">Fitness Tech</a></li>						
 			
 				<li><a href="/category/sports/shop-by-product-type/indoor-games/251143">Indoor Games</a></li>						
+			
+				<li><a href="/category/sports/shop-by-product-type/nutrition/404001">Nutrition</a></li>						
 			
 				<li><a href="/category/sports/shop-by-product-type/outdoor-games/251146">Outdoor Games</a></li>						
 			
@@ -1020,27 +1135,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 				<li><a href="/category/sports/shop-by-product-type/trampolines/252075">Trampolines</a></li>						
 			
+				<li><a href="/category/sports/shop-by-product-type/yoga-fitness/404002">Yoga fitness</a></li>						
+			
 			</ul>
 		</li>
 		
-	</ul>			
+	</ul>		
+	
+	
+	
+
+				
+		
 	</li>
 	
 	
-	<li class="mega-menu"><a class="main_menu_link" href="/category/gifts/350003">Gifts</a>
+	<li class="mega-menu">
 	
-	
+										<a class="main_menu_link" href="/category/gifts/350003">Gifts</a>
+										
 	<ul class="mega-ul">
+	
+		<li class="department-drop">
+		<div class="department_image">
+			<!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
+
+	<div id="MaxiNavEspot1_Gifts_Content_89418" class="widget_height">
+		<a href="/category/gifts/shop-by-occasion/fathers-day-ideas/403005?cm_re=Mega+Nav-_-Gifts-_-260815FathersDay">
+<img src="/wcsstore/Kmart/images/espots/fathers-day-150827-mega-menu-espot-dad.jpg" alt="Father's Day ideas"></a>
+		
+	</div>
+	
+<!-- END ContentRecommendation.jsp --><!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- END ContentRecommendation.jsp -->
+		</div>
+		</li> 
 	
 		<li><a>Shop by Recipient</a>
 			
-			<ul>
-			
-				<li><a href="/category/gifts/shop-by-recipient/for-the-outdoorsy-type/304019">For the Outdoorsy Type</a></li>						
-			
-				<li><a href="/category/gifts/shop-by-recipient/for-the-diyer/304016">For the DIYer</a></li>						
-			
-				<li><a href="/category/gifts/shop-by-recipient/for-techies/304020">For Techies</a></li>						
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
 			
 				<li><a href="/category/gifts/shop-by-recipient/for-kids/304012">For Kids</a></li>						
 			
@@ -1048,35 +1180,68 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			
 				<li><a href="/category/gifts/shop-by-recipient/for-her/304013">For Her</a></li>						
 			
-				<li><a href="/category/gifts/shop-by-recipient/for-foodies/304018">For Foodies</a></li>						
+			</ul>
+		</li>
+		
+		<li><a>Shop by Interest</a>
+			
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
+			
+				<li><a href="/category/gifts/shop-by-interest/for-the-crafty-type/403011">For the Crafty Type</a></li>						
+			
+				<li><a href="/category/gifts/shop-by-interest/for-the-outdoorsy-type/304019">For the Outdoorsy Type</a></li>						
+			
+				<li><a href="/category/gifts/shop-by-interest/for-the-diyer/304016">For the DIYer</a></li>						
+			
+				<li><a href="/category/gifts/shop-by-interest/for-techies/304020">For Techies</a></li>						
+			
+				<li><a href="/category/gifts/shop-by-interest/for-foodies/304018">For Foodies</a></li>						
 			
 			</ul>
 		</li>
 		
 		<li><a>Shop by Occasion</a>
 			
-			<ul>
+			<ul style="margin-top:0px !important;margin-left:0px !important;">
 			
-				<li><a href="/category/gifts/shop-by-occasion/easter/383508">Easter</a></li>						
+				<li><a href="/category/gifts/shop-by-occasion/kids-gifts-under-$35/390005">Kids Gifts Under $35</a></li>						
+			
+				<li><a href="/category/gifts/shop-by-occasion/party-time/391504">Party Time</a></li>						
+			
+				<li><a href="/category/gifts/shop-by-occasion/fathers-day-ideas/403005">Father's Day Ideas</a></li>						
 			
 			</ul>
 		</li>
 		
-	</ul>			
+	</ul>		
+	
+	
+	
+
+				
+		
 	</li>
 	
 	
 	 
-<li class="mega-menu checkout_new_link" style="border: medium none;">
+<li class="mega-menu checkout_new_link single-menu-links">
 	<!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
 
 	<div id="Hd_ems1_37421" class="widget_height">
 		</div></li><li class="mega-menu">
-<a class="top-category main_menu_link" href="/clothing">Clothing</a>   
+<a class="top-category main_menu_link has-submenu" href="/clothing">Clothing</a>
+</li>
+<li class="hide-for-small"><div class="menu-divider"></div></li>
+<li class="mega-menu">
+<a class="top-category main_menu_link single-menu-link" href="/catalogue#contentheight{540}">Catalogue</a>   
 </li>
 <li class="mega-menu">
-<a class="top-category main_menu_link" href="/faq">FAQ</a>   
+<a class="top-category main_menu_link single-menu-link" href="/ideas/Index">Ideas &amp; Inspiration</a>   
 </li>
+<!--<li class="mega-menu">
+<a class="top-category main_menu_link single-menu-link" href="/faq">FAQ</a>   
+</li>
+-->
 		
 	</ul></div>
 	
@@ -1086,62 +1251,47 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  	</ul>
 	
 	<!-- END Department.jsp -->		
-							    					
-						      
-						    </div>
-						</div>
-				<!--  NAVIGATION END --><!-- End Department Selection Widget -->
-										
+						
+						<div class="overlay"></div>
+				    </div>
 				</div>
-				<!-- End Masthead --><!-- End Header Content -->
+				<!--  NAVIGATION END --><!-- End Department Selection Widget --><!-- End Header Content -->
 			</div>
-		
-	<!--For border customization -->
-</div>
-</div>
-<div class="header_espot_container no_espote_top_sigin">
-	<div class="row">
-		<!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
-
-	<div id="Hd_ems2_37437" class="widget_height">
-		<div>
-   <div class="floatLeft widthSpacer"><a href="/store-locator"><img class="GlobalBanersImageResize" src="/wcsstore/Kmart/images/espots/banner_strore_locator.jpg" alt="Store Locator"></a></div>
-   <div class="floatLeft widthSpacer"><a href="/catalogue#contentheight{540}"><img class="GlobalBanersImageResize" src="/wcsstore/Kmart/images/espots/banner_catalogue.jpg" alt="Catalogue"></a></div>
-
-   <div class="floatLeft widthSpacer"><a href="/ideas/Index"><img class="GlobalBanersImageResize" src="/wcsstore/Kmart/images/espots/banner_ideas.jpg" alt="Ideas"></a></div>
-   
-   <div class="floatRight"><a href="/catalogue#contentheight{540}"><img class="GlobalBanersImageResize" src="/wcsstore/Kmart/images/espots/banner_ok.jpg" alt="we make low prices irresistible"></a></div>
-<!--<div class="floatLeft widthSpacer"><a href="http://wishingtree.kmart.com.au/" style="padding-left: 35px;"target="_blank"><img class="GlobalBanersImageResize" src="/wcsstore/Kmart/images/espots/banner_tree.jpg" alt="donate to wishing tree"></a></div>
-<div class="floatRight"><a href="/delivery-policy""><img class="GlobalBanersImageResize" src="/wcsstore/Kmart/images/espots/banner_xmas.jpg" alt="Order by cut off date"></a></div>-->
-</div>
-		
+		</div>
 	</div>
-	
-<!-- END ContentRecommendation.jsp -->
-	</div>
-</div>
 
-<!--  MOBILE HEADER START -->
-<div class="page-scroll" id="page-scroll">
-<div class="section-container tabs" data-section="tabs">
-<section><p class="title" data-section-title=""><a href="#"></a></p></section>
-  <section><p class="title logoimg" data-section-title=""><a class="logo_mbl" href="http://www.kmart.com.au"><img alt="Kmart Australia" src="/wcsstore/KmartStorefrontAssetStore/images/logo.png" style="width:100%;"></a></p></section>
-   
-  <section>
-    <p class="title tab1" data-section-title=""><a class="catalogue_mbl_icon" href="/catalogue">Catalogue</a></p>
-  </section>
-  <section>
-    <p class="title tab2" data-section-title=""><a class="store_mbl_icon" href="/store-locator">Store Locator</a></p>
-  </section> 
-  <section>
-    <p class="title tab3" data-section-title=""><a class="shopping_mbl_icon" href="http://www.kmart.com.au/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10102&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10701&amp;URL=https%3A%2F%2Fwww.kmart.com.au%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FAjaxOrderItemDisplayView%3F">Shopping bag</a></p>
-  </section>
-   
-   <div class="clearfix" style="min-height: 65px"></div> 
-   <section>
-    <div class="content" data-section-content="">
-    <div class="small-12 columns pad_search_remove">
-      	<!-- BEGIN XSearch.jsp -->
+
+	<!--  MOBILE HEADER START -->
+	<div class="page-scroll" id="page-scroll">
+		<nav class="mobile-nav">
+	        <div class="logoimg left">
+	            <a class="logo_mbl" href="http://www.kmart.com.au"><img alt="Kmart Australia" src="/wcsstore/KmartStorefrontAssetStore/images/logo.png"></a>
+	        </div>
+	        <ul class="nav-icons small-block-grid-0 right">
+	            <li><a href="/store-locator"><span class="icon icon-store-locator"></span> Stores</a></li>
+	            
+	            
+	<li><a href=""><span class="icon icon-wishlist"></span> Saved
+		<div dojotype="wc.widget.RefreshArea" id="KMXMobileWishlistSummaryDisplay2" controllerid="KMXMobileWishlistSummaryController" class="dijitContentPane" lang="en" widgetid="KMXMobileWishlistSummaryDisplay2">
+			<!-- BEGIN XMobileWishlistSummary.jsp --><!-- BEGIN XMobileWishlistSummary_UI.jspf --><!-- END XMobileWishlistSummary_UI.jspf --><!-- END XMobileWishlistSummary.jsp -->
+		</div>
+	</a></li>
+
+
+<li class="last"><a href="http://www.kmart.com.au/webapp/wcs/stores/servlet/OrderCalculate?calculationUsageId=-1&amp;updatePrices=1&amp;catalogId=10102&amp;errorViewName=AjaxOrderItemDisplayView&amp;orderId=.&amp;langId=-1&amp;storeId=10701&amp;URL=https%3A%2F%2Fwww.kmart.com.au%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FAjaxOrderItemDisplayView"><span class="icon icon-shopping-bag"></span> Bag
+	<div dojotype="wc.widget.RefreshArea" id="KMXMobileMiniCartDisplay2" controllerid="KMXMobileMiniCartDisplayController" class="dijitContentPane" lang="en" widgetid="KMXMobileMiniCartDisplay2"> 
+		<!-- BEGIN XMobileMiniCart.jsp --><!-- BEGIN XMobileMiniCart_UI.jspf --><!-- END XMobileMiniCart_UI.jspf --><!-- END XMobileMiniCart.jsp -->
+	</div>
+</a></li>
+				
+	        </ul>
+	    </nav>
+	        
+		<div class="section-container tabs clearfix" data-section="tabs">
+			<section>
+			    <div class="content" data-section-content="">
+			    <div class="small-12 columns pad_search_remove">
+			      	<!-- BEGIN XSearch.jsp -->
 <script type="text/javascript" src="/wcsstore/KmartStorefrontAssetStore/javascript/Widgets/XSearch.js"></script>
 
 	
@@ -1153,7 +1303,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				dojo.addOnLoad(function(){
 					XSearchJS.init();
 					XSearchJS.setCachedSuggestionsURL('SearchComponentCachedSuggestionsView?langId=-1&amp;storeId=10701&amp;catalogId=10102');
-					XSearchJS.setAutoSuggestURL('SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&amp;serverURL=http%3a%2f%2f192.168.210.49%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&amp;langId=-1&amp;storeId=10701&amp;catalogId=10102&amp;fromDevice=mobile');
+					XSearchJS.setAutoSuggestURL('SearchComponentAutoSuggestView?coreName=MC_10001_CatalogEntry_en_US&amp;serverURL=http%3a%2f%2fkuposl003%3a3737%2fsolr%2fMC_10001_CatalogEntry_en_US&amp;langId=-1&amp;storeId=10701&amp;catalogId=10102&amp;fromDevice=mobile');
 				});
 
 				// The primary Array to hold all static search suggestions
@@ -1164,7 +1314,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</script>	
 	
 
-<form name="XCatalogSearchForm" action="http://www.kmart.com.au/webapp/wcs/stores/servlet/SearchDisplay?" method="get" id="XCatalogSearchForm">
+<form name="XCatalogSearchForm" action="http://www.kmart.com.au/webapp/wcs/stores/servlet/SearchDisplay" method="get" id="XCatalogSearchForm">
 	
 	<!-- Search Widget -->
 	<div class="widget_search_position" role="search">
@@ -1226,7 +1376,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<input type="hidden" name="storeId" value="10701">
 	<input type="hidden" name="catalogId" value="10102">
 	<input type="hidden" name="langId" value="-1">
-	<input type="hidden" name="pageSize" value="15">
+	<input type="hidden" name="pageSize" value="30">
 	<input type="hidden" name="beginIndex" value="0">
 	<input type="hidden" name="sType" value="SimpleSearch">
 	<input type="hidden" name="resultCatEntryType" value="2">
@@ -1237,16 +1387,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <!-- End Search Widget --><!-- END XSearch.jsp -->
-  </div></form>
-    </div>
-   </div></section>
-  
-  <section class="active" style="display:none">
-  </section>
-
-</div>
-</div>
-<!--  MOBILE HEADER END -->
+				</div></form>
+				</div>
+			</div></section>
+		</div>
+	</div>
+	<!--  MOBILE HEADER END -->
 <div class="fadeToBack">
 	<div class="row fadeToBack">
 		<!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- END ContentRecommendation.jsp -->
@@ -1254,6 +1400,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 <div id="productIdQuickInfo" style="display:none"></div>
+<div id="model_bg_wl" class="model_bg" style="display:none"></div>
+<div id="model_bg" class="model_bg" style="display:none;"></div>
 <!-- BEGIN KmailPopup.jspf -->
 <script type="text/javascript" src="/wcsstore/KmartStorefrontAssetStore/javascript/Kmail.js"></script>
 
@@ -1273,13 +1421,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<div class="content_left_shadow">
 			<div class="content_right_shadow row">	
 			<div class="large-12 columns small-12 bread_privacy">
-			<div class="container_full_width container_margin_8px">
-									<!-- Widget Breadcrumb--><!--  <div class="widget_breadcrumb_position">
-										
-									</div>  -->
-									<!-- Widget Breadcrumb -->
-								</div>
-			
+				<div class="container_full_width container_margin_8px">
+					<!-- Widget Breadcrumb--><!--  <div class="widget_breadcrumb_position">
+						
+					</div>  -->
+					<!-- Widget Breadcrumb -->
+				</div>
 			</div>
 			
 			<div class="main_content large-12 columns privacy_policy_page margin">
@@ -1302,10 +1449,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 							  <!-- TEST=Privacy_Policy --><!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
 
 	<div id="Privacy_Policy_18811" class="widget_height">
-		<div class="static">
-
+		<style>
+@media (max-width:991px){
+.privacy_policy_wrap.modal-dialog .modal-content { width:100vw;}
+}
+</style>
+<div class="static">
 <div class="contentRight general-backcolor boxBorder first" style="padding:5px;font-family: kfontsemi;color: #66666;font-size:15px;">
-
 <h1>Privacy Policy</h1>
 <h3>Your privacy is important</h3>
 <p>Kmart Australia Limited (Kmart) is committed to protecting the privacy of your personal information.  This Privacy Policy (Policy) explains how we collect, use and disclose information about our customers, suppliers (and their employees) and people who apply for employment with us.  It also explains how to contact us if you have any questions about the management of your personal information or would like to access the personal information we hold about you. </p><br>
@@ -1313,7 +1463,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>This Policy describes how we comply with our obligations under the Australian Privacy Act 1988 (Cth) and the privacy or data protection laws of other jurisdictions where we operate.</p><br>
 <p>We may amend this Policy at any time by posting the updated version on our website.</p><br>
 <p>Kmart is not responsible for the privacy practices of sites that are linked to this website via hyperlinks, banner advertising or otherwise.</p><br>
-
 <h3>What information do we collect?</h3>
 <p>Generally, the information we collect about customers includes your name, home or work address, delivery address, phone number, payment, credit and billing information, and e-mail addresses.  We also collect demographic information, which is not unique to you, such as your postcode, age, gender and shopping preferences, interests and favourites.  When you visit our websites, we may also collect information about your computer, including your IP address.</p><br>
 <p>We also collect information about your use of our website using cookies. You can choose to decline cookies, but if you do so, you may not be able to fully experience our online interactive features.</p><br>
@@ -1323,15 +1472,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>potential employees (including names, addresses, contact details, employment and academic histories and the names of their referees).</li>
 </ul><br>
 <p>Ordinarily, customers can purchase goods from us without disclosing personal information, but in this situation we may not be able to provide you with the full range of services available. </p><br>
-
 <h3>How we collect and hold information</h3>
 <p>Where it is reasonable and practicable to do so, we collect your personal information from you directly when you purchase products or services from us, or enter into arrangements with us, provide feedback/complaints to us or register your details with us or one of our business partners (for example, in connection with FlyBuys).  Depending on the product or service we provide to you, we may collect your personal information from third parties.  Information about suppliers’ employees is usually collected from the supplier. Information about potential employees is usually collected during the recruitment process.</p><br>
 <p>If you are an agent who has, or is entering into, an arrangement to provide products and services on our behalf, of if you have purchased goods or services from us on layby, we may also collect your personal information from credit reporting agencies.  By providing your personal information to us, you confirm that you have reviewed this Policy and consent to the collection and use of your personal information as specified.</p><br>
 <p>We take all reasonable steps to protect your personal information from misuse, loss, unauthorised access, modification or disclosure.  Your personal information is stored on password protected servers located in access controlled secure locations.</p><br>
-
 <h3>Why we collect and how we use information</h3>
 <p>We collect and use your information to:</p>
-
 <ul><li>sell, hire, deliver, administer, improve and personalise our products and services;</li>
 <li>source products for sale, transport products and ensure our suppliers are compliant with our ethical sourcing policy and applicable labour laws and standards;</li>
 <li>process payments and credit checks, to provide layby (layaway) services and to deal with your feedback or complaints and provide refunds and discounts;</li>
@@ -1344,27 +1490,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>recruit and assess future employees; and</li>
 <li>maintain and update our records.</li>
 </ul><br>
-
 <p>From time to time, we may also use your personal information to send you targeted news, offers and promotions of our products and services.  If you do not wish to receive these communications you can opt-out by contacting us at the address listed below.</p><br>
-
 <h3>How we disclose your information</h3>
 <p>We will only disclose information about you to third parties if required by law or legal process, to our advisers or to companies who are responsible for parts of our service delivery – including to other companies in the Wesfarmers Group including FlyBuys (Loyalty Pacific Pty Ltd), to delivery companies, external call centres, suppliers and manufacturers, mail houses, recruitment firms and third party fulfilment centres.</p>
 <p>We may occasionally transfer your personal information, credit information (and credit eligibility information) to organisations located overseas, for example where:</p><br>
-
 <ul><li>we use service providers based overseas;</li>
 <li>you have requested a product or service that involves an international element;</li>
 <li>we need to comply with foreign legal or regulatory requirements; or </li>
 <li>an international payment has been made.</li>
 </ul><br>
 <p>We require overseas recipients to use personal information only for the purpose provided and to implement strict confidentiality and data protection arrangements.  Your information may also be stored on computer servers located outside of Australia.  Any offshore disclosures will be to entities located in the United States of America and the Asia Pacific region (including but not limited to China, India, Bangladesh, Singapore, Vietnam and Hong Kong).</p><br>
-
 <p>In special circumstances – for example, if we were to sell our business or part of our business – your information may be transferred to potential purchasers and their advisers as part of that sale.  From time to time, we may provide aggregated and de-identified information to other business partners for various purposes.</p><br>
-
 <h3>Accessing and correcting your information and questions</h3>
 <p>You can request access to your information or that your information be corrected by contacting us at the address below. </p>
 <p>If you have a question about this Policy or wish to make a complaint about the way we have collected, used, held or disclosed your personal information, please contact us at the address below.   We may need to contact you for further details.</p><br>
 <p>If you wish to make a formal complaint, please make your complaint in writing to our Privacy Officer.  We will consider your complaint promptly and contact you to seek to resolve the matter.  If we have not responded to you within a reasonable time, you are entitled under the Privacy Act 1988 (Cth) to make a complaint to the Office of the Australian Information Commissioner.</p><br>
-
 <h3>Contact</h3>
 <p><b>Kmart</b></p>
 <p>Privacy Officer</p>
@@ -1373,19 +1513,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Email (to complain or access or correct information): <a href="mailto:privacy@kmart.com.au">privacy@kmart.com.au</a></p>
 <p>Email (to unsubscribe): <a href="mailto:onlineshop@kmart.com.au">onlineshop@kmart.com.au</a></p>
 <p>Phone: (+61) 1800 124 125</p><br>
-
 <p><b>Kmart Tyre &amp; Auto Service</b></p>
 <p>Privacy Officer<br>
 </p><p>PO Box 1375, Castle Hill, NSW, 1765<br>
 </p><p>Email (to complain or access or correct information): <a href="mailto:privacy@kmart.com.au">privacy@kmart.com.au</a><br>
-</p><p>Email (to unsubscribe): <a href="mailto:ktascustomerservice@kmart.com.au">ktascustomerservice@kmart.com.au</a><br> 
+</p><p>Email (to unsubscribe): <a href="mailto:ktascustomerservice@kmart.com.au">ktascustomerservice@kmart.com.au</a><br>
 </p><p>Phone: (+61) 1800 065 010<br>
-
 </p><p>Office of the Australian Information Commissioner</p>
 <p>Website: <a href="http://www.oaic.gov.au" target="_blank">www.oaic.gov.au</a></p><br>
 <p>Last updated: February 2014</p><br>
-
-
+ 
 </div></div>
 		
 	</div>
@@ -1515,22 +1652,106 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<!-- Start Main Content --><!-- Content - Full Width Container -->
 	<div class="container_full_width container_margin_5px">								
 	<div class="widget_carousel_position container_margin_5px">
-	<div class="recent_gallery">
-	<div class="row">
-	<div class="small-12 large-12 columns">	 
-	<div id="ContentAreaESpotImg_HeaderStoreLogo_Content_1">		
-	<!-- BEGIN ProductRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- END ProductRecommendation.jsp -->										
-		<div class="clear_float"></div>
+		<div class="recent_gallery">
+		<div class="row">
+		<div class="small-12 large-12 columns">	 
+		<div id="ContentAreaESpotImg_HeaderStoreLogo_Content_1">		
+		<!-- BEGIN ProductRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- END ProductRecommendation.jsp -->										
+			<div class="clear_float"></div>
+		</div>
+		</div>
+		</div>
+		</div>
 	</div>
-	</div>
-	</div>
-	</div>
-	</div>
-																	
+	</div>																
 	<!-- recently-view products start -->
 	
 	<div class="clear_float"></div>
-	<!-- sign_up_news_locator start -->
+	<!-- sign_up_news_locator start --><!-- BEGIN ContentRecommendation.jsp --><!-- BEGIN ESpotTitle_Data.jspf --><!-- END ESpotTitle_Data.jspf --><!-- BEGIN ESpotTitle_UI.jspf --><!-- END ESpotTitle_UI.jspf -->
+
+	<div id="Footer_ems1_88411" class="widget_height">
+		<div class="value-proposition">
+    <div class="row">
+        <div class="small-4 large-4 column has-border-on-small">
+            <div class="column-icon column columns-collapse">
+                <img src="/wcsstore/Kmart/images/espots/icon-low-prices.png" class="footer-icon">
+            </div>
+            <div class="column-text column">
+                <h4>Everyday low prices</h4>
+                <p class="hide-for-small">Products you love for irresistibly low prices.</p>
+            </div>
+        </div>
+        <div class="small-4 large-4 column has-border-on-small">
+            <div class="column-icon column columns-collapse">
+                <img src="/wcsstore/Kmart/images/espots/icon-returns.png" class="footer-icon">
+            </div>
+            <div class="column-text medium-7 large-9 column">
+                <h4>28 day returns<a href="/webapp/wcs/stores/servlet/ContentDisplay?pageDisplay=Returns&amp;c=ContactUsPageCenter_Content&amp;t=footerContent&amp;catalogId=10102&amp;linkURL=returns&amp;urlLangId=-1&amp;langId=-1&amp;pageName=staticPages&amp;storeId=10701">*</a></h4>
+                <p class="hide-for-small">We want to make sure you’re 100% happy with your purchases.</p>
+            </div>
+        </div>
+        <div class="small-4 large-4 column">
+            <div class="column-icon column columns-collapse">
+                <img src="/wcsstore/Kmart/images/espots/icon-secure.png" class="footer-icon">
+            </div>
+            <div class="column-text column">
+                <h4>Secure shopping</h4>
+                <p class="hide-for-small">Our online checkout is secure so your personal details are kept safe.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+ .value-proposition .column-icon {
+  width: 100%;
+text-align:center;
+ }
+ .value-proposition .column-text {
+  clear:both;
+  width: 100%;
+text-align:center;
+ }
+.value-proposition .column-text a {
+ color: #ffffff;
+text-decoration:none;
+}
+@media screen and (min-width: 768px) {
+.footer-icon {
+  padding-bottom: 10px;
+  width: 80px;
+}
+}
+@media screen and (min-width: 1024px) {
+ .value-proposition .column-icon {
+  width: 25%;
+float:left;
+text-align: left;
+ }
+ .value-proposition .column-text {
+  width: 75%;
+float:left;
+clear:none;
+text-align: left;
+ }
+.footer-icon {
+width:100%;
+}
+}
+
+
+.whatstrending .product_image {
+-moz-box-shadow:none;
+-webkit-box-shadow: none;
+box-shadow: none;
+}
+
+</style>
+
+		
+	</div>
+	
+<!-- END ContentRecommendation.jsp -->
 	<div class="bg">
 <div class="row">
 <div class="small-2 large-2 columns">
@@ -1573,9 +1794,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  	<ul>
  		<li><a id="FooterHelpLink" href="/faq">Help &amp; FAQ</a></li>
 	 	<li><a id="FooterDeliveryLink" href="/delivery-policy">Delivery</a></li>
+	 		<li><a id="FooterClickCollectLink" href="/click-and-collect">Click &amp; Collect</a></li>
  		<li><a id="FooterReturnPolicyLink" href="/webapp/wcs/stores/servlet/ContentDisplay?pageDisplay=Returns&amp;c=ContactUsPageCenter_Content&amp;t=footerContent&amp;catalogId=10102&amp;linkURL=returns&amp;urlLangId=-1&amp;langId=-1&amp;pageName=staticPages&amp;storeId=10701">Returns</a></li>
  		<li><a id="FooterContactUsLink" href="/webapp/wcs/stores/servlet/ContentDisplay?pageDisplay=Contact+Us&amp;c=ContactUsPageCenter_Content&amp;t=footerContent&amp;catalogId=10102&amp;linkURL=contactUs&amp;urlLangId=-1&amp;langId=-1&amp;pageName=staticPages&amp;storeId=10701">Contact Us</a></li>
-            <li><a id="FooterKmailSignUp" href="http://www.kmart.com.au/webapp/wcs/stores/servlet/PromotionSignUpView?catalogId=10102&amp;langId=-1&amp;storeId=10701">Sign up to Kmail</a></li>
+            <li><a id="FooterKmailSignUp" href="https://www.kmart.com.au/webapp/wcs/stores/servlet/PromotionSignUpView?catalogId=10102&amp;langId=-1&amp;storeId=10701">Sign up to Kmail</a></li>
 	</ul>
 		
 </div>
@@ -1584,6 +1806,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="footer_element_container right_border large">
 	<h4>Services</h4>
 	<ul>
+           <li><a id="FooterBusinessSolution" href="/B2B-business-solutions">Business Solutions</a></li>
 		<li><a id="FooterGiftCardsLink" href="/gift-card">Gift Cards</a></li>
 		<li><a id="FooterPhotoCentresLink" href="/photo-centres">Photo Centres</a></li>
 		<li><a id="FooterTyreAutoLink" href="http://www.ktas.com.au" target="_blank">Kmart Tyre &amp; Auto</a></li>
@@ -1613,7 +1836,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  		<li><a id="FooterSecureOnlineShopping" href="/secure-online-shopping">Secure Online Shopping</a></li>	
  		<li><a id="FooterTermsConditionLink" href="/terms-and-conditions">Terms &amp; Conditions</a></li>		
 		<li><a id="FooterPrivacyPolicyLink" href="/privacy-policy">Privacy Policy</a></li>
- 		<li><a id="FooterSiteMapLink" href="/webapp/wcs/stores/servlet/en/kmart/sitemap?catalogId=10102">Site Map</a></li>
+ 		<li><a id="FooterSiteMapLink" href="/webapp/wcs/stores/servlet/SiteMapView?pageName=SiteMapPage&amp;storeId=10701&amp;urlLangId=-1&amp;urlRequestType=Base&amp;langId=-1&amp;catalogId=10102">Site Map</a></li>
 	</ul>
 </div>
 </div><div class="small-12 large-12 columns">
@@ -1759,21 +1982,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!--  MOBILE FOOTER START -->
 <div class="footer_mob">
   <div class="product_detail_mobile">
-    <div class="row">
-    
-    <div class="small-6 columns">        
-        <span><a class="button expand" id="Create Account" href="https://www.kmart.com.au/webapp/wcs/stores/servlet/UserRegistrationForm?new=Y&amp;catalogId=10102&amp;myAcctMain=&amp;langId=-1&amp;storeId=10701">CREATE ACCOUNT</a></span>
-      </div>
-      <div class="small-6 columns">
-      	<span><a class="button expand" id="SignInLink" href="https://www.kmart.com.au/webapp/wcs/stores/servlet/LogonForm?catalogId=10102&amp;myAcctMain=1&amp;langId=-1&amp;storeId=10701">LOGIN</a></span>        
-      </div>
-    
-    
-    </div>
-    
+  
     <div class="row">
       <div class="small-12 columns">
         <a data-reveal-id="kmailPopup" id="Sign up for kmart news" class="button expand">SIGN UP FOR KMART NEWS</a>       
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-12 columns">
+        <a href="/store-locator" id="Store Locator" class="button expand">STORE LOCATOR</a>       
       </div>
     </div>
     <div class="line"></div>
@@ -1856,7 +2073,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                  <li><a href="/secure-online-shopping">Secure Online Shopping</a></li>
 			<li><a href="/terms-and-conditions">Terms &amp; Conditions</a></li>
 			  <li><a href="/privacy-policy">Privacy Policy</a></li>
-			<li><a href="/webapp/wcs/stores/servlet/SiteMapPage?pageName=SiteMapPage&amp;storeId=10701&amp;urlLangId=-1&amp;urlRequestType=Base&amp;langId=-1&amp;catalogId=10102">Site Map</a></li>
+			<li><a href="/webapp/wcs/stores/servlet/SiteMapView?pageName=SiteMapPage&amp;storeId=10701&amp;urlLangId=-1&amp;urlRequestType=Base&amp;langId=-1&amp;catalogId=10102">Site Map</a></li>
           </ul>
         </div>
       </div>
@@ -1898,12 +2115,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   }
 </script>
 <!-- END Footer.jsp --><!-- Foundation Script Start -->
-<script src="/wcsstore/KmartStorefrontAssetStore/javascript/jquery-1.10.2.min.js" type="text/javascript"></script>
-<script src="/wcsstore/KmartStorefrontAssetStore/javascript/jquery-ui-1.9.1.custom.js" type="text/javascript"></script>
+<script type="text/javascript" src="/wcsstore/KmartStorefrontAssetStore/javascript/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="/wcsstore/KmartStorefrontAssetStore/javascript/jquery-ui-1.9.1.custom.js"></script>
 <script type="text/javascript" src="/wcsstore/KmartStorefrontAssetStore/js/foundation.min.js"></script>
-<script>
-	$(document).foundation();
+
+
+<script type="text/javascript">
+	$(document).foundation('reveal', {
+        animation: 'fade',
+        animation_speed: 250,
+        close_on_background_click: true,
+        close_on_esc: true,
+        dismiss_modal_class: 'close-modal-dialog',
+        bg_class: 'reveal-modal-bg',
+        bg : $('.reveal-modal-bg'),
+        css : {
+            open : {
+                'opacity': 0,
+                'visibility': 'visible',
+                'display' : 'block'
+            },
+            close : {
+                'opacity': 1,
+                'visibility': 'hidden',
+                'display': 'none'
+            }
+        },
+        open: function () {
+            $('html,body').addClass('dialog-open');
+        },
+        close: function () {
+            $('html,body').removeClass("dialog-open")
+        }
+    });
+
+    $(document).foundation();
+	
+	$(function(){
+	    $('a.close-modal-dialog').on('click', function() {
+	        $(this).parents('div.modal-dialog').foundation('reveal', 'close');
+	    });
+	});
 </script>
+
 <!-- Foundation Script End --><!-- Slide -->
 <script type="text/javascript" src="/wcsstore/KmartStorefrontAssetStore/js/owl.carousel.js"></script>
 <script type="text/javascript" src="/wcsstore/KmartStorefrontAssetStore/js/footer.custom.js"></script>
@@ -1915,11 +2169,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<script type="text/JavaScript">
 <!--
 cmCreatePageviewTag(document.title, null, null, null);
+
 //-->
 </script>
 	
 
-</div><div class="dijitDialog" role="dialog" aria-labelledby="progress_bar_dialog_title" lang="en" id="progress_bar_dialog" widgetid="progress_bar_dialog" style="display: none; position: absolute;">
+<div class="dijitDialog" role="dialog" aria-labelledby="progress_bar_dialog_title" lang="en" id="progress_bar_dialog" widgetid="progress_bar_dialog" style="display: none; position: absolute;">
 	<div data-dojo-attach-point="titleBar" class="dijitDialogTitleBar">
 		<span data-dojo-attach-point="titleNode" class="dijitDialogTitle" id="progress_bar_dialog_title" role="heading" level="1"></span>
 		<span data-dojo-attach-point="closeButtonNode" class="dijitDialogCloseIcon" data-dojo-attach-event="ondijitclick: onCancel" title="Cancel" role="button" tabindex="0">
@@ -2061,7 +2316,7 @@ cmCreatePageviewTag(document.title, null, null, null);
 		<div class="clear_float"></div>
 	</div>
 </div>
-</div><div class="dijitDialog" role="dialog" aria-labelledby="quickInfoPopup_title" lang="en" id="quickInfoPopup" widgetid="quickInfoPopup" style="display: none; position: absolute;">
+</div><div class="dijitDialog" role="dialog" aria-labelledby="quickInfoPopup_title" lang="en" id="quickInfoPopup" widgetid="quickInfoPopup" style="display: none; width: 65%; max-width: 1265px; position: absolute;">
 	<div data-dojo-attach-point="titleBar" class="dijitDialogTitleBar" title="Quick Info">
 		<span data-dojo-attach-point="titleNode" class="dijitDialogTitle" id="quickInfoPopup_title" role="heading" level="1">Quick Info</span>
 		<span data-dojo-attach-point="closeButtonNode" class="dijitDialogCloseIcon" data-dojo-attach-event="ondijitclick: onCancel" title="Cancel" role="button" tabindex="0">
@@ -2122,7 +2377,7 @@ cmCreatePageviewTag(document.title, null, null, null);
 			    <div class="large-12 columns">
 			      <div class="row collapse">
 			        <div class="small-12 large-8 columns kmail_left_block"> 
-						<form name="kmailPopupForm" id="kmailPopupForm" action="http://www.kmart.com.au/webapp/wcs/stores/servlet/PromotionSignUpView?catalogId=10102&amp;langId=-1&amp;storeId=10701">
+						<form name="kmailPopupForm" id="kmailPopupForm" action="https://www.kmart.com.au/webapp/wcs/stores/servlet/PromotionSignUpView?catalogId=10102&amp;langId=-1&amp;storeId=10701">
 							<input type="hidden" name="storeId" value="10701">
 							<input type="hidden" name="catalogId" value="10102">
 							<input type="hidden" name="langId" value="-1">
