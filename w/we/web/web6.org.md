@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web6.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316120715id_/http%3A//www.blog.web6.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web6.org privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907202522id_/http%3A//www.blog.web6.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
