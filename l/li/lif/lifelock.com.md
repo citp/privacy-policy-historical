@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628221346id_/http%3A//www.lifelock.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelock.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907173841id_/https%3A//www.lifelock.com/legal/privacy) for the most accurate reproduction.*
 
 # LifeLock - Privacy
 
@@ -10,7 +10,7 @@ LifeLock, Inc. ("LifeLock", "we", "our" or "us") is committed to enriching lives
 
 Our Privacy Policy applies to information about you that is gathered automatically ("General Information") and to Personal Information (as defined below) that we collect directly from you online and offline, as well as information we collect about you from other sources, such as from third party partners and affiliates, which we may append to other information we collect from or about you. This Privacy Policy applies to visitors and users of our website, [www.lifelock.com](https://web.archive.org/) (our "Site") (including the mobile version of our Site), users of Services that we provide at no charge ("Users"), users of Services that require payment of a fee ("Members") (we refer to our Users and Members collectively as our "Customers"), and prospective Customers. See more about information we collect and how we use and share it.
 
-n addition to this Privacy Policy, other contract terms such as our LifeLock, Inc. Service Terms and Conditions (the "Service Terms") and our [Website Terms of Use](https://web.archive.org/legal/terms/), will apply to you, based on the Services you select or use. If you use other Services, additional privacy terms may also be applicable. For example, our [Mobile App Privacy Policy](https://web.archive.org/legal/mobile-privacy/) will also apply to the use of our mobile app (the "Mobile App"). Current versions of these documents may be found here. Our subsidiary, ID Analytics', use of personal information is not addressed in this Privacy Policy.
+In addition to this Privacy Policy, other contract terms such as our LifeLock, Inc. Service Terms and Conditions (the "Service Terms") and our [Website Terms of Use](https://web.archive.org/legal/terms/), will apply to you, based on the Services you select or use. If you use other Services, additional privacy terms may also be applicable. For example, our [Mobile App Privacy Policy](https://web.archive.org/legal/mobile-privacy/) will also apply to the use of our mobile app (the "Mobile App"). Current versions of these documents may be found here. Our subsidiary, ID Analytics', use of personal information is not addressed in this Privacy Policy.
 
 **_IF YOU DO NOT AGREE TO OUR PRACTICES AS DESCRIBED IN THIS POLICY, DO NOT USE OUR SITE AND SERVICES._**
 
@@ -94,62 +94,6 @@ We may obtain information about you from third party sources, such as the compan
 
 This summary tells you how we use your information, if we share it and why. It also explains how you can make decisions about these actions and how we will respond to those requests. We will share your personal information with third parties only in the ways that are described in this privacy policy, or otherwise where we have your consent. We do not sell your personal information to third parties. 
 
-When do we USE your information?  
----  
-To understand Site demographics and use of the Internet  
-Do we SHARE this information with others?| Yes, to our affiliates and third party service providers to help improve our products, service offerings, Site, and technology   
-What data is shared?| General Information  
-Can you limit this sharing?| You may block cookies through your browser settings, which prevents us from collecting certain information about your use of our Site and our Services. We may still collect information about your use of our Services, such as when you log in, and analyze this information to help understand the use of our Site.   
-In the course of providing Services you request, verifying your identity, notifying you of new features, Services, or changes in our business or to process, and fulfilling or billing your orders or requests.   
-Do we SHARE this information with others?| 
-
-Yes as follows:
-
-  * To other members registered under your account
-  * To our Affiliates
-  * To third party service providers, including for example insurance companies, administrators of customer rewards programs, payment verification services, financial institutions or credit card companies, or other service providers that perform functions on our behalf
-  * To Government agencies and law enforcement (in helping address identity theft)
-  * To consumer reporting agencies
-
-  
-What data is shared?| General Information; Personal Information  
-Can you limit this sharing?| No. This is necessary to provide the Services, including updates about features and functionalities of the products and services to which they subscribe. The information requested may differ depending on the Service(s) you select to receive. This use of your information is separate and distinct from marketing uses, which you may opt-out of, and which are discussed below.   
-When we, or our affiliates, send you marketing material about services, promotions or other material which may be of interest to you, through e-mail, interactive voice response telephone technology, direct mail or other means.   
-Do we SHARE this information with others?| Yes, with our affiliates and to third party service providers who are under contract with us to provide our direct mail or other marketing efforts   
-What data is shared?| General Information. Personal Information such as Name, Address, Email Address, or Phone Number Third Party Information   
-Can you limit this sharing?| Yes, by opting out of communications in your preferences or by contacting us at unsubscribe.nonmember@lifelock.com or by regular mail at Attn.: Marketing, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ   
-Behavioral or Interest-based Advertising (to send you focused advertising)  
-Do we SHARE this information with others?| Yes, with service providers and network advertisers (as described under "Behavioral or Interest-based Advertising")   
-What data is shared?| General Information Elements of your Personal Information such as Name, Address, Email Address, and Phone Number. Third Party Information   
-Can you limit this sharing?| Yes, you may exercise your options to not receive behavioral advertising, including targeted ads about LifeLock products on certain third party sites, at [www.networkadvertising.org/optout_nonppii.asp](https://www.networkadvertising.org/optout_nonppii.asp) (NAI) and [www.aboutads.info/choices](https://www.aboutads.info/choices) (DAA).  
-Exercise your opt out choice to limit use of your information by LifeLock for behavioral advertising purposes [here](https://web.archive.org/advertising-choices/).   
-To develop new products and services  
-Do we SHARE this information with others?| Yes, with our affiliates for their own product and service development and to third party service providers who are under contract with us to develop products and services, such as engineers, web developers and the like   
-What data is shared?| General Information  
-Third Party Information  
-Can you limit this sharing?| No  
-As part of our thought leadership in reducing the risk of identity theft, education of law enforcement, regulators and other professionals   
-Do we SHARE this information with others?| Yes, with our affiliates and third parties but this information will not be used to identify any single individual   
-What data is shared?| AAggregate information that is derived from your Personal Information, meaning general statistics, summaries and the like   
-Can you limit this sharing?| No  
-To investigate misconduct or a crime, to comply with law, or when we believes it is necessary to protect our rights, property or safety or that of others   
-Do we SHARE this information with others?| Yes, with law enforcement, attorneys, officers of the court, arbitrators, mediators and others involved in any judicial proceeding, court order, legal process or the like   
-What data is shared?| General Information  
-Personal Information  
-Third Party Information  
-Can you limit this sharing?| No  
-To conduct data analysis and research the risk and prevention of identity theft and related crimes  
-Do we SHARE this information with others?| Yes, with our affiliates and third parties under contract with us to protect the information; to law enforcement or other government entity   
-What data is shared?| General Information  
-Personal Information  
-Third Party Information  
-Can you limit this sharing?| No  
-In connection with our sale, purchase, merger or reorganization  
-Do we SHARE this information with others?| Yes, with the acquiring, purchasing, or other applicable entity, including, without limitation, legal and financial advisors and other persons or entities as appropriate   
-What data is shared?| General Information  
-Personal Information  
-Third Party Information  
-Can you limit this sharing?| No  
 When do we USE your information? | Do we SHARE this information with others? | What data is shared? | Can you limit this sharing?  
 ---|---|---|---  
 To understand Site demographics and use of the Internet | Yes, to our affiliates and third party service providers to help improve our products, service offerings, Site, and technology  | General Information | You may block cookies through your browser settings, which prevents us from collecting certain information about your use of our Site and our Services. We may still collect information about your use of our Services, such as when you log in, and analyze this information to help understand the use of our Site.   
@@ -169,7 +113,7 @@ Behavioral or Interest-based Advertising (to send you focused advertising) | Yes
 Exercise your opt out choice to limit use of your information by LifeLock for behavioral advertising purposes [here](https://web.archive.org/advertising-choices/).   
 To develop new products and services | Yes, with our affiliates for their own product and service development and to third party service providers who are under contract with us to develop products and services, such as engineers, web developers and the like  | General Information  
 Third Party Information | No  
-As part of our thought leadership in reducing the risk of identity theft, education of law enforcement, regulators and other professionals  | Yes, with our affiliates and third parties but this information will not be used to identify any single individual  | AAggregate information that is derived from your Personal Information, meaning general statistics, summaries and the like  | No  
+As part of our thought leadership in reducing the risk of identity theft, education of law enforcement, regulators and other professionals  | Yes, with our affiliates and third parties but this information will not be used to identify any single individual  | Aggregate information that is derived from your Personal Information, meaning general statistics, summaries and the like  | No  
 To investigate misconduct or a crime, to comply with law, or when we believes it is necessary to protect our rights, property or safety or that of others  | Yes, with law enforcement, attorneys, officers of the court, arbitrators, mediators and others involved in any judicial proceeding, court order, legal process or the like  | General Information  
 Personal Information  
 Third Party Information | No  
@@ -264,7 +208,7 @@ Lifelock Inc. has received TRUSTe's Privacy Seal signifying that this privacy st
 
 **Site** refers to this website, www.lifelock.com
 
-**Services** refers to the services offered by LifeLock through [www.lifelock.com](http://www.lifelock.com/) and offline, including our identity protection services, credit monitoring services, mobile applications or other products or services for which you must register or enroll, as well as any on-line promotions that are associated with our Services, unless we tell you otherwise. 
+**Services** refers to the services offered by LifeLock through [www.lifelock.com](https://www.lifelock.com/) and offline, including our identity protection services, credit monitoring services, mobile applications or other products or services for which you must register or enroll, as well as any on-line promotions that are associated with our Services, unless we tell you otherwise. 
 
 **Web Beacons / Gifs.** We employ (either directly or through one of our third party advertising partners) a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Site by educating us on what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. To learn more about our advertising company's use of clear gifs, please visit the following sites: 
 
