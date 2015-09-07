@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stacymakescents.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628163316id_/http%3A//www.stacymakescents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacymakescents.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907164235id_/http%3A//www.stacymakescents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stacy Makes Cents
 
