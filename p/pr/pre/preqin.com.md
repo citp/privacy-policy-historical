@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317004206id_/https%3A//www.preqin.com/item/privacy-policy/100/1592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907072824id_/https%3A//www.preqin.com/item/privacy-policy/103/1592) for the most accurate reproduction.*
 
-# About - Privacy Policy
-
-**What information do we collect?**
+# Policies - Privacy Policy - Preqin
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
-
-**What do we use your information for?**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, email address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -34,17 +30,13 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**How do we protect your information?**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes (cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -52,32 +44,14 @@ If you prefer, you can choose to have your computer warn you each time a cookie 
 
 We use third party vendors, including Google, to show our ads on other websites on the internet. Some of these third party vendors, including Google, use anonymous cookies to serve ads based on a user’s prior visits to our website. Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page.
 
-**Do we disclose any information to outside parties?**
-
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please contact us.
-
-**Third party links**
+From time to time, we make the email addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your email address with other companies or organizations, please contact us.
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Online Privacy Policy Only**
-
 This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.preqin.com/item/terms-conditions/100/304](https://web.archive.org/item/terms-conditions/100/304)
 
-**Your Consent**
-
 By using our site, you consent to our web site privacy policy.
 
-**Changes to our Privacy Policy**
-
 If we decide to change our privacy policy, we will post those changes on this page.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy, please contact us at any of our offices. Full contact details are available here:
-
-[Contact Us](https://www.preqin.com/item/contact-details/100/299)
