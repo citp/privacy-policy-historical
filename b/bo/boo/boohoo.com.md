@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623200257id_/http%3A//www.boohoo.com/usa/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907050815id_/http%3A//www.boohoo.com/usa/privacy-policy/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at boohoo.com
 
