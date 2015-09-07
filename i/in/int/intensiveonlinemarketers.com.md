@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intensiveonlinemarketers.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702154339id_/http%3A//www.intensiveonlinemarketers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intensiveonlinemarketers.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908012635id_/http%3A//www.intensiveonlinemarketers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy |
 
