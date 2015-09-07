@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodbudget.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502190707id_/https%3A//goodbudget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodbudget.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907172617id_/https%3A//goodbudget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Budget Software | Goodbudget
 
@@ -58,4 +58,5 @@ We may decide to change this Privacy and Security Policy, but if we do we'll pos
 Dayspring Technologies, Inc.  
 1224 Fairfax Avenue  
 San Francisco, CA 94124  
-email: [support@goodbudget.com](mailto:support@goodbudget.com)
+email: [support@goodbudget.com](mailto:support@goodbudget.com)  
+tel: +1 (415) 484-3594
