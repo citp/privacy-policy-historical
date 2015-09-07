@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316161357id_/http%3A//www.ninjakitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908000620id_/http%3A//www.ninjakitchen.com/privacy-policy/%3Futm_campaign%3DUnifiedFooter%26utm_medium%3DDesktop%26utm_source%3Dninjakitchen_Privacy) for the most accurate reproduction.*
 
-# Ninja® Kitchen Products Blend, Process, Juice & More! | Official Site | Official Site
-
-## Privacy Policy
+# Ninja® Privacy Policy | Official Site
 
 Euro-Pro Operating LLC is committed to ensuring your privacy on the Internet by adhering to high standards of fairness and integrity. We are committed to keeping our customers informed about how we use the information we gather from you through the use of each of our websites located at, or linked to, the URLs [www.sharkclean.com](http://www.sharkclean.com/?utm_source=www.sharkclean.com&utm_medium=MainSite&utm_campaign=PrivacyPolicy) and [www.ninjakitchen.com](http://www.ninjakitchen.com/?utm_source=www.sharkclean.com&utm_medium=MainSite&utm_campaign=PrivacyPolicy) Our Policy is developed from principles established by the Federal Trade Commission and Direct Marketing Association regarding information collected via the Internet. 
 
