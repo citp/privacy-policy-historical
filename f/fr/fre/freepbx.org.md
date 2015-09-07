@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepbx.org privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613235414id_/http%3A//www.freepbx.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepbx.org privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907230651id_/https%3A//www.freepbx.org/about-us/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | FreePBX
 
@@ -7,7 +7,7 @@ Contents
   * Commitment to Privacy
   * Information Collected
   * Uses of Information
-  * Children's Privacy
+  * Children’s Privacy
   * Data Security
   * Access and Data Correction
   * Contact Information
@@ -20,9 +20,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 Information Collected
 
-The types of personal information we collect include all the information entered on the site registration and store pages: shipping and billing name and address, email address, phone number and credit card information.  
-In addition, we also save webserver logs which tell us your IP address and unique FreePBX installation ID. We gather this information for the purpose of estimating the size of our user base and other marketing purposes.  
-We will, from time-to-time, set up surveys to learn more about what FreePBX users want and how the product is used.
+The types of personal information we collect include all the information entered on the site registration and store pages: shipping and billing name and address, email address, phone number and credit card information. In addition, we also save webserver logs which tell us your IP address and unique FreePBX installation ID. We gather this information for the purpose of estimating the size of our user base and other marketing purposes. We will, from time-to-time, set up surveys to learn more about what FreePBX users want and how the product is used.
 
 Uses of Information
 
@@ -38,7 +36,7 @@ We use return email addresses from your email correspondence to us to answer the
 
 Finally, we do not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without providing you an opportunity to tell us not to allow such unrelated uses.
 
-Children's Privacy
+Children’s Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we do not collect or maintain information from our online store from those we actually know are under the age of 13.
 
@@ -56,4 +54,6 @@ You can access and correct your order and contact information by contacting us. 
 
 Contact Information
 
-Should you have other questions or concerns about this our privacy policies, please contact us at privacy@freepbx.org
+Should you have other questions or concerns about this our privacy policies, please contact us at
+
+[privacy@freepbx.org](mailto:privacy@freepbx.org)
