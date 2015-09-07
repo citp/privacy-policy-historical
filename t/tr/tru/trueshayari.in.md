@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueshayari.in privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624022911id_/http%3A//www.trueshayari.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueshayari.in privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907103512id_/http%3A//www.trueshayari.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
