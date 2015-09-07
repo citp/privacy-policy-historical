@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the librato.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404075851id_/https%3A//www.librato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the librato.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907231945id_/https%3A//www.librato.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Librato
 
