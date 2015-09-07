@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerplaymanager.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607213652id_/http%3A//ppm.powerplaymanager.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerplaymanager.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907134751id_/http%3A//ppm.powerplaymanager.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
