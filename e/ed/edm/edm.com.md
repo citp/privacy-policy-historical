@@ -1,21 +1,133 @@
-> *The following text is extracted and transformed from the edm.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622071607id_/http%3A//mediatemple.net/company/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edm.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907181853id_/http%3A//edm.com/privacy) for the most accurate reproduction.*
 
-# (mt) Media Temple - Company - Legal - Privacy Policy
+# EDM.com - The Latest Electronic Dance Music News, Reviews & Artist Releases
 
-(mt) Media Temple, Inc. respects the privacy of every individual who visits our websites. This privacy statement provides notice of the standards and terms under which (mt) Media Temple protects the privacy of information supplied by visitors to sites on the World Wide Web that are owned and operated by (mt) Media Temple, including mediatemple.net, and ac.mediatemple.net. This privacy statement provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, so please check back periodically to review this information.
+###  Privacy Policy
 
-**A. Personally-Identifiable Information:**
+#### **Scope**
 
-(mt) Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to (mt) Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want (mt) Media Temple to use this information for additional purposes. You may also request that (mt) Media Temple not use your information by sending an e-mail to contact@mediatemple.net, however, (mt) Media Temple reserves the right, in its discretion, to send you bulletins and other important information about your (mt) Media Temple services. Absent any instructions from you, (mt) Media Temple may use information you provide to inform you about additional services and products offered by the (mt) Media Temple family of companies, (mt) Media Temple venture companies, (mt) Media Temple authorized agents, and other goods and services providers with whom (mt) Media Temple has relationships and whose offerings might be of interest to you. (mt) Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. On those (mt) Media Temple sites where you may provide (mt) Media Temple with credit card or other ordering information via the web, (mt) Media Temple protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, (mt) Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this privacy statement, Media Temple assumes no obligation to protect such information from disclosure.
+This privacy policy applies only to the Site. This policy does not apply to information collected through any other website or to the practices of companies that the EDM.com does not control. Please note that the Site may contain links to other websites. For example, if you click on an advertisement on the Site and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit. 
 
-**B. Non Personally-Identifiable (Generic) Information:**
+#### **What information the Site collects**
 
-In general, (mt) Media Temple gathers some generic information automatically. Generic information does not reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the (mt) Media Temple sites visited. (mt) Media Temple gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including "cookies" (a technology that can be used to provide the visitor with tailored information about (mt) Media Temple services). (mt) Media Temple does not combine information collected in this way with any personally-identifiable information. You can set your browser to notify you when you receive a cookie and you can refuse it; this may however reduce functionality of certain website features such as the order system and the AccountCenter. 
+**Information you provide directly to us:**
 
-**C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
+You are not required to provide information directly to us in order to view the Site. However, when you use certain Site functions, such as when you register for certain services, access certain content or features, or directly contact the Site, we may ask you to provide information, including:
 
-Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website (mt) Media Temple may host for you as part of your (mt) Media Temple services, is available to anyone else who visits that space. (mt) Media Temple cannot safeguard any information you disclose in these locations. Additionally, (mt) Media Temple websites contain links to sites that belong to third parties unrelated to (mt) Media Temple. (mt) Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit. 
+ 
 
-**D. Exceptions and Limitations:**
+  * contact information, such as name, email address, phone number, and mobile number;
+  * username and password;
+  * information posted in community discussions and other interactive online features;
+  * search queries conducted on the Site; and
+  * correspondence you send to us.
 
-Notwithstanding the foregoing and in compliance with applicable laws, (mt) Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to (mt) Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, (mt) Media Temple may be required to disclose personally identifiable information. In addition, (mt) Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate (mt) Media Temple; or (iii) to protect the rights or property of (mt) Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, (mt) Media Temple reserves the right to sell or transfer your information (including , but not limited to name, address information, and other information you provided to (mt) Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be (mt) Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by (mt) Media Temple; and (iii) agrees to the obligations of this policy statement.
+
+
+**Information automatically collected when you visit and interact with the Site:**  
+When you visit and interact with the Site, certain information may be collected automatically, including: 
+
+  * your computer's Internet Protocol (IP) address;
+  * your browser type and operating system;
+  * the web pages you were visiting immediately before and after you came to the Site;
+  * activities within community discussions;
+  * web pages and advertisements that you view, and links that you click on, within the Site;
+  * your bandwidth speed and information about the software programs that are installed on your computer;
+  * aggregated data about email click-through rates and user video viewing;
+  * standard server log information; and
+  * information collected through HTML cookies, Flash cookies, web beacons, and similar technologies.
+
+
+
+**Information we collect from other sources:** We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including:
+
+ 
+
+  * if you access third-party social networking services (such as Facebook Connect or Twitter) through the Site, your username and connection lists for those services;
+  * demographic data, such as age range, gender, and interests;
+  * advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and
+  * unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.
+
+
+
+Please note that the Site may combine the information that we collect with information we obtain from third-party sources. 
+
+#### **How we use the information that we collect**
+
+**Email Communications:**  
+We may use the information that we collect to send you e-mail communications, such as editorial updates, information about your account or changes to the Site, and promotional messages about our own or our marketing partners' products and services. If you signed up for one of our email newsletters, we also will send you the newsletter that you requested. 
+
+**Mobile Communications:**  
+With your consent, we may use your mobile number to send you promotions, notifications, or other services. 
+
+**Advertising:**  
+In order to provide our readers with free access to our content, we display advertisements on the Site, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach Site visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. Third-party advertisers and advertising platforms also may serve targeted ads on the Site. Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.
+
+**User Accounts:**  
+To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we keep track of the ratio of how many flagged comments are eventually deleted in order to award badges to our most effective comment moderators.
+
+**Request Fulfillment:**  
+We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer service requests or to enable you to participate in features on the Site such as surveys, polls, sweepstakes, and message boards. 
+
+**Statistical Analysis:**  
+In order to learn more about how our Site is used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and analyze use of the Site, to increase our Site's functionality, and to better tailor our content and design to suit our visitors' needs. 
+
+**Enforcement:**  
+We may use the information that we collect to prevent illegal activities, to enforce the Site's Terms and Conditions, and to otherwise protect our rights and the rights of our users.  In addition to the uses identified above, we may use the information that we collect for any other purposes disclosed to you at the time we collect your information or pursuant to your consent. 
+
+#### **Information sharing**
+
+EDM.com values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below: 
+
+  * We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site.
+  * We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
+  * If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions.
+  * We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. However, the Site will notify you by placing a prominent notice on our site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy.
+  * We may share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's Terms and Conditions, or as otherwise required by law.
+  * We may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.
+  * In addition to the scenarios identified above, we may share information about you for any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
+
+Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Site.
+
+#### **Third-party services**
+
+To customize your experience on the Site and to simplify the Site's registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook and Twitter. When you connect to the Site through these third-party services, we may share information about you with these third-party service providers and they may share data about you with us.  When you allow us to access your data through a third-party service to create a Site profile, we may use this data for several purposes, including: 
+
+    * Creating relationships automatically within our system. For example, if you connect to us via a service with a public friend list, like Twitter, we may check to see if any people you follow on Twitter are also Site members. If we find a match, we will replicate your Twitter relationship with those members, setting them to be fans, followers, or friends on our Site.
+    * Suggesting relationships. For example, if you connect via a service that has a private contact list (like Google and Yahoo!), we check for people in your contacts who are Site members and suggest that you become a fan of these users. This process is not automatic; you must affirmatively choose to become a fan of these suggested users.
+    * Populating a list of potential friends to whom you can send emails. When users share content with their friends using, for example, the forward-to-a-friend feature on the Site, we may use friend lists from third-party services to create a list of contacts to whom you may choose to send the email message.
+    * Populating a list of potential friends to whom you can send service-specific messages. For example, we may use friend lists from a third-party service to create a list of contacts to whom you may choose to send an invitation to view an interactive slideshow.
+    * To enhance and personalize your experience on the Site. When you are connected via a third-party service, we may access certain account information, such as your profile picture, what stories are popular in your network, and what your friends are saying about certain articles or blog posts, in order to enhance and personalize your experience on the Site.
+
+In addition, if you connect to a Facebook account, your experience on the Site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories.  Please note that you may disconnect third party accounts at any time. Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers.
+
+ 
+
+#### **Access**
+
+If you choose to share contact information with us, you may update or amend this information by contacting us at info@edm.com. 
+
+#### **Confidentiality and security**
+
+We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.  Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us. 
+
+#### **Visitors from outside the United States**
+
+The Site's offices are located in the United States. If you visit the site from another country, please be aware that information you provide to us or that we obtain as a result of your use of the Site may be processed in and transferred to the United States and will be subject to U.S. law. U.S. privacy and data protection laws may not be equivalent to the laws in your country of residence. By using the Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States. European Union Residents: AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program. 
+
+#### **Children under 13**
+
+We do not knowingly collect personal information from children under 13. If we learn that we have collected any personal information from a child under the age of 13 without verifiable parental consent, we will delete that information from our database as quickly as possible. If you believe that we may have collected information from a child under 13, please contact us at legal@edm.com.
+
+#### **Changes to the privacy policy**
+
+We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the "Effective Date." We will notify you of any material changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary email address specified in your account. 
+
+#### **Questions and suggestions**
+
+If you have questions about this privacy policy, please contact us at legal@edm.com. 
+
+
+##### Player is currently empty, browse music [here.](https://web.archive.org/playlists)
+
+[ ](https://web.archive.org/tracks/)
