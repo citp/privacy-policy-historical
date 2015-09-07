@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingfinanceblog.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407022850id_/http%3A//everythingfinanceblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingfinanceblog.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907201415id_/http%3A//everythingfinanceblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,9 +20,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Everything Finance collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To send periodic emails_ If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _– To improve our Site_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _– To send periodic emails_ If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
@@ -32,7 +32,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to [help](http://everythingfinanceblog.com/buy-sell-fiverr.html "More about help »") us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
 **Third party websites**
 
