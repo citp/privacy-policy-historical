@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paintshoppro.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424220222id_/http%3A//www.paintshoppro.com/en/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintshoppro.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907175712id_/http%3A//www.paintshoppro.com/en/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Corel PaintShop Pro
 
 At Corel, we recognize and value our customers' privacy. As such, Corel is committed to ensuring that its customers are informed how their personal information will be used and kept secure. This privacy policy applies to information collected by Corel and its affiliates ("Corel") through the websites, products and services that display this privacy policy, including products and services that may be provided by Corel off-line. This privacy policy applies to all Corel products and services currently offered by Corel.
 
