@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 365outsource.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329070449id_/http%3A//www.365outsource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365outsource.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907214918id_/http%3A//www.365outsource.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | 365 Outsource.com
 
 **Do we collect information?**
 
@@ -8,17 +8,14 @@ Yes, we collect information from you when you fill out forms, order pre-sales pr
 
 We use your information in the following manner:
 
--     To help us to better respond to your individual needs
+  * To help us to better respond to your individual needs
+  * To improve our site design and your website experience
+  * To improve customer service & support
+  * To process transactions – Your information will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To send emails – The email address you provide for order processing, may be used to send you information and updates pertaining to your order and requests for proposals. We also email you about new products and company news and
+  * Note: If at any time you would like to unsubscribe from receiving future emails, we include a link or instruction to unsubscribe at the bottom of each email.
 
--     To improve our site design and your website experience
 
--     To improve customer service & support
-
--     To process transactions – Your information will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
--     To send emails – The email address you provide for order processing, may be used to send you information and updates pertaining to your order and requests for proposals. We also email you about new products and company news and
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include a link or instruction to unsubscribe at the bottom of each email.
 
 **How do we protect your information?**
 
@@ -66,5 +63,7 @@ This policy was last modified on August 3, 2012
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.365outsource.com/contact-us ](http://www.365outsource.com/contact-us)  
+  * [http://www.365outsource.com/contact-us ](http://www.365outsource.com/contact-us)  
 inquires@365outsource.com
+
+
