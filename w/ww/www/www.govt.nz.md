@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the www.govt.nz privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321011303id_/https%3A//www.govt.nz/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.govt.nz privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907122942id_/https%3A//www.govt.nz/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement | New Zealand Government
+# Privacy statement | NZ Government
 
 ## Purpose
 
-The purpose of this privacy policy is to let users of Govt.nz (the “Site”) know when we collect personal information and what we do with it. We don't use, share or transfer personal information in connection with the Site except as set out in this policy.
+The purpose of this privacy policy is to let users of Govt.nz (the “Site”) know when we collect personal information and what we do with it. We don't use, share or transfer personal information in connection with the Site except as set out in this policy, or as otherwise set out somewhere on the Site (including in terms linking to the Site). 
 
 ## Collection, storage and use
 
