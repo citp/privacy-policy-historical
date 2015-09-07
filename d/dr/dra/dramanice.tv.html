@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dramanice.tv privacy policy that was archived on 2015-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150601001908id_/http%3A//www.dramanice.tv/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dramanice.tv privacy policy that was archived on 2015-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908011803id_/http%3A//www.dramanice.tv/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="vi-VN" prefix="og: http://ogp.me/ns#"><head>
         <meta charset="UTF-8">
@@ -14,6 +14,7 @@
         <link rel="next" href="/page/2">
         <meta property="og:locale" content="en_US">
         <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+        <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
         <link rel="stylesheet" href="/css/bootstrap.css" type="text/css">
         <link rel="stylesheet" href="/css/template.css" type="text/css">
     </head>
@@ -34,17 +35,37 @@
 </ul>            </div>
             <div class="col-md-3 fixed">
                 <div class="search">
-                    <form class="" role="search" method="get" action="/search">
-                        <div class="form-group">
-                            <input type="text" class="input-search" placeholder="Search ..." value="" name="keyword" title="">
-                        </div>
-                        <button class="btn btn-search" type="submit">
-                            <img src="/css/images/icon-search.png" alt="button search">
-                        </button>
-                    </form>
-                </div>
+                    <div class="portlet" id="yw1">
+<div class="portlet-content">
+<form id="search_form" role="search" method="get" action="/search">
+  <div class="form-group">
+    <input type="text" class="input-search ui-autocomplete-input" placeholder="Search ..." id="keyword" name="keyword" autocomplete="off">
+  </div>
+  <button class="btn btn-search" type="submit">
+    <img src="/css/images/icon-search.png" alt="button search">
+  </button>
+</form>
+
+<script>
+    $("#keyword").autocomplete({
+      delay: 500,
+      minLength: 2,
+      source:"/autocomplete.html",
+      select: function( event, ui ) {
+         $("#keyword").val(ui.item.label);
+         $("#search_form").submit();
+      }
+    });
+  
+  $("#search_form").keydown(function (e) {
+     if (e.keyCode == 13) {
+        $("#search_form").submit();
+    }
+  });
+</script></div>
+</div>                </div>
             </div>
-        </div>
+        </div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span>
         <div class="container">
             <div class="col-md-9 fixed">
                 <div class="row row-body-item-9dr">
@@ -77,15 +98,17 @@
                 <div class="label_fb">
                     Follow on us
                 </div>
-                <iframe src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/pages/Dramannicenetwork/658651050896282&amp;width&amp;height=203&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=634561356572052" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:70px;" allowtransparency="true"></iframe>
+                <iframe src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/DramaChannel&amp;width&amp;height=203&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=634561356572052" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:70px;" allowtransparency="true"></iframe>
             </div>
-            
+            <div class="leftads">
+<script src="http://dramanice.tv/ads/tags_160.php" type="text/javascript"></script><br>
+<script src="http://ads-by.madadsmedia.com/tags/35714/13564/async/160x600.js" type="text/javascript"></script>					</div>
         </div>
             </div>
         <footer class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <div class="inner-content">Watch !, Watch Drama Online for Free in High Quality and Fast Streaming, watch and download Drama Free, watch Drama using mobile phone for free at Drama4you.com!</div>
+                    <div class="inner-content">Watch !, Watch Drama Online for Free in High Quality and Fast Streaming, watch and download Drama Free, watch Drama using mobile phone for free at dramanice!</div>
                 </div>
                 <div class="col-md-3">
                     <ul>
@@ -95,8 +118,14 @@
                         <li><a href="/contact-us">Contact Us</a></li>
                     </ul>
                 </div>
+                <script>
+        var home_url = window.location.href;
+       if(!home_url.includes("dramanice")){
+         window.location.href = "http://dramanice.tv";
+       }
+        </script>
                 <div class="col-md-3">
-                    <ul>
+                   <ul>
                             <li><a href="/drama-movies">Drama Movie</a></li>
                             <li><a href="/drama-show">Drama Show</a></li>
                             <li><a href="/most-popular-drama">Most popular</a></li>
@@ -105,12 +134,6 @@
                 </div>
             </div>
         </footer>
-        <script>
-        var home_url = window.location.href;
-       if(!home_url.includes("dramanice")){
-         window.location.href = "http://dramanice.tv";
-       }
-        </script>
     <script src="/js/bootstrap.min.js" type="text/javascript"></script>    
     <script src="/js/dramanice.js" type="text/javascript"></script>   
     <script>
@@ -119,7 +142,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-52139120-1', 'dramanice.com');
+  ga('create', 'UA-61922237-1', 'auto');
   ga('send', 'pageview');
 
 </script>
