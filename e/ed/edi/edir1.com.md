@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edir1.com privacy policy that was archived on 2014-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140925233101id_/http%3A//edir1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edir1.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907142425id_/http%3A//edir1.com/privacy) for the most accurate reproduction.*
 
 # EmailDirect.com
 
@@ -6,24 +6,13 @@ EmailDirect Privacy Statement
 
 EmailDirect, Inc. or ("we") respect your and or (“clients” or “user”) preferences concerning the collection and use of your personal information ("data") and or (“information”). Our goal is to deliver content targeted to the industry you work in, the products you use, the role you play in your organization, and your specific preferences. In order to provide you with relevant information, fulfill your specific requests, and enhance your experience across our system, we will at times request data from you or your clients and or prospects. This policy lets you know how we collect data, why we collect it, and what choices you have concerning its use. 
 
-EmailDirect.com, Inc. takes great pride in assuring our clients their data in all forms is kept private and safe from all forms of third-parties both from outside the network and within the network, such as employees and associated partners. In addition, EmailDirect.com, Inc. participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. To learn more please see the section below titled EU Safe Harbor. We will continue to strive to ensure that our network services and website, complies with the strict standards for online privacy, security, business practices, and transaction integrity. If you have any questions about the EmailDirect.com, Inc. Privacy Policy, please contact us via email at [privacy@emaildirect.com.](mailto:privacy@emaildirect.com)
+EmailDirect.com, Inc. takes great pride in assuring our clients their data in all forms is kept private and safe from all forms of third-parties both from outside the network and within the network, such as employees and associated partners. We will continue to strive to ensure that our network services and website, complies with the strict standards for online privacy, security, business practices, and transaction integrity. If you have any questions about the EmailDirect.com, Inc. Privacy Policy, please contact us via email at [privacy@emaildirect.com.](mailto:privacy@emaildirect.com)
 
 Anti-Spam Policies   
 EmailDirect, Inc. takes its anti-spam policy very seriously and has a history of acting on it.For more information about EmailDirect, Inc.’s anti-spam policy, please see [Anti-Spam Policy](https://web.archive.org/antispam) or contact [ abuse@emaildirect.com](mailto:abuse@emaildirect.com). 
 
-EU Safe Harbor   
-EmailDirect.com, Inc. is self-certified by and abides by the principles of the Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. If you feel that this company is not abiding by its posted Privacy Policy or is not in compliance with the Safe Harbor principles, you should first contact EmailDirect.com, Inc. privacy officer. 
-
-Mail to: EmailDirect\Richard King  
-Attn: EU Safe Harbor Inquiry  
-3101 Zinfandel Drive Suite 300  
-Rancho Cordova, CA 95670  
-Email to: privacy@emaildirect.com
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact either the Judicial Arbitration and Mediation Services (JAMS - http://jamsadr.com) or the American Arbitration Association (http://adr.org). They will then serve as a liaison to EmailDirect.com, Inc. to resolve your concerns. 
-
 Compliance   
-This privacy statement discloses the privacy practices for [www.EmailDirect.com](https://web.archive.org/web/20140925233101id_/http%3A//edir1.com/default.aspx) and or services.Because EmailDirect, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices with you to insure you are aware of all intentions and privacy policies provided by EmailDirect, Inc. This website has agreed to notify you of: 
+This privacy statement discloses the privacy practices for [www.EmailDirect.com](https://web.archive.org/web/20150907142425id_/http%3A//edir1.com/default.aspx) and or services.Because EmailDirect, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices with you to insure you are aware of all intentions and privacy policies provided by EmailDirect, Inc. This website has agreed to notify you of: 
 
 >   
 >  1\. What personally identifiable information of yours is collected through the web site   
@@ -74,10 +63,9 @@ The importance of security for all personally identifiable information associate
 
 Only those employees who need access to your information in order to do their jobs are allowed access, each having signed comprehensive nondisclosure agreements, which provide explicit legal confidentiality protections. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
 
-Notification of Changes   
-At any time we may change and or update our privacy policy to conform to the regulations given to us by the U.S. Department of Commerce EU Safe Harbor Framework. However, if we use your personally identifiable information different then at the time you provided us with information on this web-site we will notify you via email. 
+Notification of Changes
 
 If we make any material changes in our privacy policy that do not affect user information already collected through our site, we will post a prominent notice on our web site notifying users of the change. 
 
-Last Updated: July 8th, 2009  
+Last Updated: January 15th, 2015  
 End of Privacy Policy 
