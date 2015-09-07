@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318115321id_/http%3A//www.motors.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907184502id_/http%3A//www.motors.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Motors.co.uk
 
@@ -8,7 +8,7 @@ This privacy policy (“ **Policy** ”) applies to the use of this website and 
 
 We have updated our Policy. This Policy has been designed to provide greater transparency and has been set out so that it is easier to read and understand. We will continue to treat your personal information with care and respect.
 
-We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. Furthermore, we may record any telephone calls made to telephone numbers included on the Site. Further information on the collection and use of data is set out below. We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. Furthermore, we may record any telephone calls made to telephone numbers included on the Site. Further information on the collection and use of data is set out below. To communicate with us about this Policy or any of our terms and conditions, please contact us on [privacy@motors.co.uk](mailto:privacy@motors.co.uk) or via the telephone numbers/ contact details listed at [media.motors.co.uk](http://media.motors.co.uk/contact-us/).
+We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. Furthermore, we may record any telephone calls made to telephone numbers included on the Site. Further information on the collection and use of data is set out below. To communicate with us about this Policy or any of our terms and conditions, please contact us on [privacy@motors.co.uk](mailto:privacy@motors.co.uk) or via the telephone numbers/ contact details listed at [media.motors.co.uk](http://media.motors.co.uk/contact-us/).
 
 ####  1\. About Us: 
 
