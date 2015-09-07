@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jungledisk.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406041258id_/https%3A//www.jungledisk.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungledisk.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907033815id_/https%3A//jungledisk.com/home/privacy) for the most accurate reproduction.*
 
 # JungleDisk.com
 
