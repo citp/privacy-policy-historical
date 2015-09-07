@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suresafety.com privacy policy that was archived on 2015-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150303011656id_/http%3A//www.suresafety.com/index.php/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suresafety.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907112313id_/http%3A//www.suresafety.com/policy) for the most accurate reproduction.*
 
 # Sure Safety- Privacy Policy
 
