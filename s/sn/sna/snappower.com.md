@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snappower.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319103823id_/http%3A//www.snappower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappower.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907042951id_/https%3A//www.snappower.com/privacy-policy) for the most accurate reproduction.*
 
-# SnapPower | Privacy Policy
+# Privacy Policy - SnapPower
 
 PRIVACY STATEMENT
 
@@ -28,9 +28,9 @@ If after you opt-in, you change your mind, you may withdraw your consent for us 
 
 Snap Power
 
-3520 North University Parkway
+373 E. 1750 N. Unit F
 
-Provo, UT 84604
+Vineyard, UT 84057
 
 USA
 
@@ -114,8 +114,8 @@ SnapPower
 
 Re: Privacy Compliance Officer
 
-3520 North University Parkway
+373 E. 1750 N. Unit F
 
-Provo UT, 84604
+Vineyard UT, 84057
 
 USA
