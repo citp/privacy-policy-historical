@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iaffiliates.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200404id_/http%3A//www.iaffiliates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaffiliates.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907182639id_/http%3A//www.iaffiliates.com/privacy-policy) for the most accurate reproduction.*
 
 # Best Online Casino Affiliate Program | Privacy Policy | iAffiliates |
 
