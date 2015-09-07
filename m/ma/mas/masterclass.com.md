@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the masterclass.com privacy policy that was archived on 2015-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150519051259id_/https%3A//www.masterclass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterclass.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907102555id_/https%3A//www.masterclass.com/privacy) for the most accurate reproduction.*
 
 # MasterClass
 
-### _This Privacy Policy was last updated on May 8, 2015_
+### _Date of Last Revision: June 16, 2015_
 
 ## Our Policy
 
-Welcome to the web site (the “Site”) of Yanka Industries Inc DBA MasterClass (“Company,” “we,” “us,” “our”). This Site is operated by MasterClass and has been created to provide information about MasterClass and our online video education services, mobile applications and related services (together with the Site, the “Services”) to our Service visitors (“you”, “your”). This Privacy Policy sets forth MasterClass' policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from visitors to the Site and Services.
+Welcome to the website (the “Site”) of Yanka Industries Inc DBA MasterClass (“Company,” “we,” “us,” “our”). This Site is operated by MasterClass and has been created to provide information about MasterClass and our online video education services, mobile applications and related services (together with the Site, the “Services”) to our Service visitors (“you”, “your”). This Privacy Policy sets forth MasterClass' policy with respect to information including personally identifiable data (“Personal Data”) and other information that is collected from visitors to the Site and Services.
 
 ## Information We Collect
 
@@ -18,7 +18,7 @@ When you interact with us through the Services, we may collect Personal Data and
 
 ## Other Information
 
- **Non-Identifiable Data:** When you interact with MasterClass through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. MasterClass may store such information itself or such information may be included in databases owned and maintained by MasterClass affiliates, aƒagents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.
+ **Non-Identifiable Data:** When you interact with MasterClass through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. MasterClass may store such information itself or such information may be included in databases owned and maintained by MasterClass affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.
 
 In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features.
 
@@ -30,7 +30,7 @@ In operating the Services, we may use a technology called "cookies." A cookie is
 
 MasterClass uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. MasterClass and its subsidiaries and affiliates (the “Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. MasterClass and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
 
-Advertising Partners: We use third-party service providers to serve advertisements (banners or links) on our behalf across the Internet. These advertising service providers may collect non-identifiable information about your visits to our website, and your interactions with our products and services. Such non-identifiable information does not include your name, address, email address or other personal information. The information is collected through the use of cookies and pixel tags (also known as action tags), which is industry-standard technology used by most major websites. In addition to the information about your visits to our website, our service providers may also use the information about your visits to other websites to target advertisements for classes available from MasterClass. 
+Advertising Partners: We use third-party service providers to serve advertisements (banners or links) on our behalf across the Internet. These advertising service providers may collect non-identifiable information about your visits to our website, and your interactions with our products and services. Such non-identifiable information does not include your name, address, email address or other personal information. The information is collected through the use of cookies and pixel tags (also known as action tags), which is industry-standard technology used by most major websites. In addition to the information about your visits to our website, our service providers may also use the information about your visits to other websites to target advertisements for classes available from MasterClass.
 
 If MasterClass intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
@@ -74,7 +74,7 @@ MasterClass takes reasonable steps to protect the Personal Data provided via the
 
 ## Other Terms and Conditions
 
-Your access to and use of the Services is subject to the Terms of Service at [masterclass.com/terms.](https://web.archive.org/terms)
+Your access to and use of the Services is subject to the Terms of Service at[masterclass.com/terms.](https://web.archive.org/terms)
 
 ## Changes to MasterClass' Privacy Policy
 
