@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsjwine.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102130627id_/http%3A//www.wsjwine.com/jsp/templates/page_elements/us/wsj/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsjwine.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907195505id_/http%3A//www.wsjwine.com/jsp/templates/page_elements/common/privacypolicy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy | WSJwine from The Wall Street Journal
+# About Us | WSJwine from The Wall Street Journal
 
 WSJwine (the “Site”) is operated by Direct Wines, Inc. under an agreement between Direct Wines, Inc. and Dow Jones & Company, Inc., publisher of The Wall Street Journal (“We” and “Us”). The Site offers the opportunity to purchase wines for home or office delivery and review related tastings notes.
 
@@ -57,8 +57,8 @@ Whenever possible, you may review and update the PII that you have provided to u
 If you have any questions, comments or concerns about our Privacy Policy, please contact us at:
 
 **Email:**[customerservice@wsjwine.com](mailto:customerservice@wsjwine.com)  
-**Mail:** WSJwine Customer Service  
-930 Plaza Drive  
-Montoursville, PA 17754
+**Mail:** WSJwine from The Wall Street Journal  
+Attn: Customer Service PO Box 2470  
+Largo, FL 33779
 
 **Phone:** 1-877-975-9463
