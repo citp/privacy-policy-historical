@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplegreensmoothies.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323221634id_/http%3A//simplegreensmoothies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplegreensmoothies.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907212259id_/http%3A//simplegreensmoothies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simple Green Smoothies
 
