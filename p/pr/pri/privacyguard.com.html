@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the privacyguard.com privacy policy that was archived on 2015-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150417135702id_/http%3A//www.privacyguard.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the privacyguard.com privacy policy that was archived on 2015-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908013713id_/https%3A//www.privacyguard.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 			<meta property="og:title" content="Privacyguard">
@@ -15,16 +15,55 @@
 
 		
 		
-				
+			
+        
+        <!--Optimizely -->
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://app.ubertags.com/javascripts/ubertags.js"></script><script src="//cdn.optimizely.com/js/2790121102.js"></script>	
 
-		<link rel="stylesheet" href="/Style.aspx?file=%2fBCA%2fPG_NEW2%2ftemplates%2fMainStyle.bca&amp;compact=true&amp;utc=635533144800000000" type="text/css">
-		<link rel="stylesheet" href="/Style.aspx?file=%2fBCA%2fPG_NEW2%2ftemplates%2fFooterStyle.bca&amp;compact=true&amp;utc=635533888800000000" type="text/css">
+		<link rel="stylesheet" href="https://www.privacyguard.com/Style.aspx?file=%2fBCA%2fPG_NEW2%2ftemplates%2fMainStyle.bca&amp;compact=true&amp;utc=635654087400000000" type="text/css" media="screen">
+		<link rel="stylesheet" href="https://www.privacyguard.com/Style.aspx?file=%2fBCA%2fPG_NEW2%2ftemplates%2fFooterStyle.bca&amp;compact=true&amp;utc=635533888800000000" type="text/css">
 		
-		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://app.ubertags.com/javascripts/ubertags.js"></script><script type="text/javascript" src="/BCA/PG_NEW2/default/scripts/swaplayers.js"></script>
+		<script type="text/javascript" src="/BCA/PG_NEW2/default/scripts/swaplayers.js"></script>
 
 		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"> </script>
 
 
+		
+		<script type="text/javascript" src="https://www.google.com/jsapi?key=ABQIAAAAh7kwVeKGDUzNOQJlmzwxShSrg2iG1PuSslk7II-VG-UiSAljhxRXRTqvYoB5bdA3mGPCeRnyJMmZMA"></script>
+		<script>
+			$( document ).ready(function()
+			{
+				addReferrer()
+			});  
+			function addReferrer() {
+				var ref = document.referrer;
+
+				if(ShouldAddReferer(ref))
+				{
+
+					var domain = ref.replace("http://", "");
+					domain = domain.replace("https://", "");
+					domain = domain.substring(0, domain.indexOf("/"));
+					if ( $(".otoEnrollLink").attr("href").indexOf("?") >= 0)
+					{
+						$(".otoEnrollLink").attr("href", $(".otoEnrollLink").attr("href") + '&leadurl=' + domain);
+					}
+					else
+					{
+						$(".otoEnrollLink").attr("href", $(".otoEnrollLink").attr("href") + '/?leadurl=' + domain);
+					}
+				}
+			}
+			function ShouldAddReferer(ref)
+			{
+				var bool = true;
+				if( ref.indexOf(window.location.host) >= 0 || !ref)
+				{
+					bool = false;
+				}
+				return bool;
+			}
+		</script>
 		
 
 		
@@ -86,25 +125,25 @@ window.onload = function(){
 	<div id="header">
 		<div class="wrapperHeader">
 			<div id="headerLeft">
-				<a href="/"><img alt="PrivacyGuard" src="/BCA/PG_NEW2/images/globals/logo.png" class="header_logo" style="border: 0px solid;"></a>
+				<a href="http://www.privacyguard.com/"><img alt="PrivacyGuard" src="/BCA/PG_NEW2/images/globals/logo.png" class="header_logo" style="border: 0px solid;"></a>
 			</div>
 			<div id="headerRight">
 
 				<div class="headerRight3">
 				
 				
-				<a href="https://offer.privacyguard.com/sgent/gateway.aspx?v=1373437343&amp;p=A2C2D2726242BE77B7D7F706E72FC3D3A3F3C3539F16D6060727&amp;cl=1545" class="btnHeaderJoin" onclick="_gaq.push(['_trackEvent', 'LPJoinUF', 'TopRightNav', 'headerlogin'])"><span>JOIN&nbsp;&nbsp;&gt;&gt;</span></a>
+				<a href="https://offer.privacyguard.com/sgent/gateway.aspx?v=1373437343&amp;p=A2C2D2726242BE77B7D7F706E72FC3D3A3F3C3539F16D6060727&amp;cl=1545" class="btnHeaderJoin otoEnrollLink" onclick="_gaq.push(['_trackEvent', 'LPJoinUF', 'TopRightNav', 'headerlogin'])"><span>JOIN&nbsp;&nbsp;&gt;&gt;</span></a>
 				
 					
 				</div>
 				<div class="headerRight4">
-					<a href="https://www.privacyguard.com/secure/Signin.aspx" class="btnHeaderLogin"><span>Member Login</span></a>
-					<a href="https://www.privacyguard.com/secure/EnableWebAccess.aspx" class="headerNeedUsername">NEED A USERNAME?</a> 
+					<a href="/secure/Signin.aspx" class="btnHeaderLogin"><span>Member Login</span></a>
+					<a href="/secure/EnableWebAccess.aspx" class="headerNeedUsername">NEED A USERNAME?</a> 
 				</div>
 
 
 				<div class="headerRight2">
-					<a href="https://offer.privacyguard.com/sgent/gateway.aspx?v=1373437343&amp;p=A2C2D2726242BE77B7D7F706E72FC3D3A3F3C3539F16D6060727&amp;cl=1545">GET SCORES</a>
+					<a href="https://offer.privacyguard.com/sgent/gateway.aspx?v=1373437343&amp;p=A2C2D2726242BE77B7D7F706E72FC3D3A3F3C3539F16D6060727&amp;cl=1545" class="otoEnrollLink">GET SCORES</a>
 				| <a href="/about-us.html">WHO WE ARE</a> | <a href="/contact-us.html">CONTACT US</a>
 				</div>
 			</div>
@@ -145,7 +184,7 @@ window.onload = function(){
 
 		<div id="marquee">
 			<div id="breadcrumbing">
-				<a href="/">Home</a> &gt; <!--beginP: breadcrumbing-->
+				<a href="http://www.privacyguard.com/">Home</a> &gt; <!--beginP: breadcrumbing-->
 		Privacy Policy  
 	<!--endP: breadcrumbing-->
 			</div>
@@ -158,7 +197,12 @@ window.onload = function(){
 					<div class="marqueeNewMemberOfferHeader"><strong>NEW MEMBER OFFER</strong></div>
 					<div class="marqueeNewMemberOfferBody"><strong>TRY IT NOW</strong></div>
 					<div class="marqueeNewMemberOfferBody2"><strong><em>Get your first 14 days<br>for just <span>$1</span></em></strong></div>
-					<div class="marqueeNewMemberOfferJoin"><a href="https://offer.privacyguard.com/sgent/gateway.aspx?v=1373437343&amp;p=A2C2D2726242BE77B7D7F706E72FC3D3A3F3C3539F16D6060727&amp;cl=1545" onclick="_gaq.push(['_trackEvent', 'TryItNowUF', 'MainOlderCouple','marqueeJoin'])"><span>TRY IT NOW</span></a></div>
+					<div class="marqueeNewMemberOfferJoin">
+				
+				
+					<a href="https://offer.privacyguard.com/sgent/gateway.aspx?v=1373437343&amp;p=A2C2D2726242BE77B7D7F706E72FC3D3A3F3C3539F16D6060727&amp;cl=1545" onclick="_gaq.push(['_trackEvent', 'TryItNowUF', 'MainOlderCouple','marqueeJoin'])" class="otoEnrollLink"><span>TRY IT NOW</span></a>
+				
+				</div>
 					<div class="clear"></div>
 				</div>
 <!-- end bca: /BCA/PG_NEW2/Default/marqueeJoin.bca -->
@@ -629,7 +673,7 @@ the right to limit some but not all sharing. Federal law also requires us to tel
 
 		<div class="footerLeft">
 			<div class="footerLeft2">
-				<a href="/"><img alt="PrivacyGuard" src="/BCA/PG_NEW2/images/globals/product_logo_footer.png" width="144px" height="24px" style="border: 0px solid;"></a><br>
+				<a href="http://www.privacyguard.com/"><img alt="PrivacyGuard" src="/BCA/PG_NEW2/images/globals/product_logo_footer.png" width="144px" height="24px" style="border: 0px solid;"></a><br>
 				<a href="mailto:service@privacyguard.com">service@privacyguard.com</a><br>
 				1-800-374-8273
 
@@ -720,6 +764,15 @@ var script = document.getElementsByTagName('script')[0]; script.parentNode.inser
   _gaq.push(['_setAccount', 'UA-10710071-6']);
   _gaq.push(['_setDomainName', 'privacyguard.com']);
   _gaq.push(['_trackPageview']);
+  _gaq.push(['_setCustomVar',
+   1,             // This custom var is set to slot #1.  Required parameter.
+   'User Type',   // The name of the custom variable.  Required parameter.
+   
+   
+    'Visitor',      // Sets the value of "User Type" to "Member" or "Visitor" depending on status.  Required parameter.
+   
+   2              // Sets the scope to session-level.  Optional parameter.
+]);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -780,7 +833,7 @@ var google_remarketing_only = true;
         document.write('<iframe src="'+_rs+'d.xp1.ru4.com/meta?_o=62971032'+_qS+'" width="0" height="0" frameborder="0" scrolling="no"></iframe>');}
         _dropTag();
         //-->
-        </script><iframe src="https://d.xp1.ru4.com/meta?_o=62971032&amp;_t=62971255ct&amp;_random=94760210491.07355" width="0" height="0" frameborder="0" scrolling="no"></iframe>
+        </script><iframe src="https://d.xp1.ru4.com/meta?_o=62971032&amp;_t=62971255ct&amp;_random=56279276475.310745" width="0" height="0" frameborder="0" scrolling="no"></iframe>
 		<!--Rocket Fuel script end-->
 
 	
@@ -826,6 +879,6 @@ var google_remarketing_only = true;
    top.location = self.location; }
 </script>
 <script type="text/javascript">
-function _doTokenCheck(){var d=document;var fa=d.getElementsByTagName('form');for(var c=0;c<fa.length;c++){var f=fa[c];if(!f['authToken']){var hf=d.createElement('input');hf.sa=hf.setAttribute;hf.sa('type','hidden');hf.sa('name','authToken');hf.sa('value','D7kL6cpTodjYxMiWcT3KoRg1xPhq62gasvSUn2v+CPE=');f.appendChild(hf);}}}_doTokenCheck();
+function _doTokenCheck(){var d=document;var fa=d.getElementsByTagName('form');for(var c=0;c<fa.length;c++){var f=fa[c];if(!f['authToken']){var hf=d.createElement('input');hf.sa=hf.setAttribute;hf.sa('type','hidden');hf.sa('name','authToken');hf.sa('value','DYsmHcce3MWPF+KA3u27+oDTkQLFfIUZAUn5Bc5ZNCI=');f.appendChild(hf);}}}_doTokenCheck();
 </script>
-<!-- pe: 93 --></body></html>
+<!-- pe: 15 --></body></html>
