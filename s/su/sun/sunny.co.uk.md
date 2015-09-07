@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunny.co.uk privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317025822id_/https%3A//sunny.co.uk/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunny.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907024023id_/https%3A//sunny.co.uk/your-privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sunny
 
@@ -25,6 +25,7 @@ We do not disclose your information to any other person **except** :
   * To credit reference and fraud prevention agencies and other service companies.
   * To government entities or regulatory bodies as required by law.
   * To sub-contractors who work on our behalf.
+  * To third parties we contract with in order to improve the products and services that we offer.
   * To anyone we have appointed for administration of this agreement.
   * To anyone we have appointed for debt collection purposes.
   * In the event we sell or otherwise transfer this agreement.
@@ -44,7 +45,7 @@ All of your information is stored on our secure servers, and is reviewed on a re
 
 Countries within the European Economic Area (EEA) are required to have a similar standard of protection of personal data. We may transfer personal data outside the EEA but will ensure that before we do so, there is adequate protection as required by the relevant Data Protection legislation. 
 
-Elevate Credit International Limited is owned by Elevate Credit, Inc., a company based in the USA. From time to time customer data will be securely transmitted to, or our systems accessed by, Elevate Credit, Inc. in order to analyse our data and provide audit services. Elevate Credit, Inc., is certified under the US Safe Harbor Privacy Principles, which ensure that any data transmitted to, or accessed by it, will be used and managed in a way that is as safe, secure and appropriate. To view the full Elevate Credit, Inc., Safe Harbor Privacy Policy click [here](http://www.elevate.com/privacyPolicy.html). 
+Elevate Credit International Limited is owned by Elevate Credit, Inc., a company based in the USA. From time to time customer data will be securely transmitted to, or our systems accessed by, Elevate Credit, Inc. in order to analyse our data and provide audit services. Elevate Credit, Inc., is certified under the US Safe Harbor Privacy Principles, which ensure that any data transmitted to, or accessed by it, will be used and managed in a way that is as safe, secure and appropriate. To view the full Elevate Credit, Inc., Safe Harbor Privacy Policy click [here](http://elevate.co.uk/privacy-policy.html). 
 
 Credit Reference Agencies 
 
@@ -58,10 +59,10 @@ We will, on request, cooperate with any organisation which we are obliged by law
 
 Using your information for marketing purposes 
 
-By submitting information to our website, you are giving us your explicit consent to use your information. Your information might be used to notify you about products and services from us or from other companies which may be of interest to you. We may share your information with them for analysis, for marketing purposes or so that they may contact you about their products or services. 
+By submitting your personal information to our website, you are providing consent to use your information for the purposes set out in this document. 
 
-By providing us with your information, you are giving us your express permission for such companies to contact you by phone, email, SMS or in writing to discuss any product or service including those regulated by the Financial Services Authority (FSA), e.g. mortgages, re-mortgages etc., where an invitation to contact you is required. We may also pass your information to our market research agencies in order to improve the products and services that we offer. 
+Subject to your consent your information might be used to notify you about products and services by phone, email, SMS and in writing from us which may be of interest to you. 
 
 You have a right **_at any time_** to ask us not to contact you for these purposes. You may send an email to us at [unsubscribe@sunny.co.uk](mailto:unsubscribe@sunny.co.uk) if you wish us to stop. If you opt out of such communications, we will honour such choice once we have had a reasonable opportunity to process your request. We reserve the right to take reasonable steps to authenticate your identity with respect to any such request. 
 
-We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our Website. 
+We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our website. 
