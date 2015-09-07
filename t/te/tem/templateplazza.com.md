@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templateplazza.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514052410id_/https%3A//www.templateplazza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templateplazza.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907155745id_/https%3A//www.templateplazza.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
