@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the martini-tech.com privacy policy that was archived on 2015-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150106162433id_/http%3A//www.martini-tech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martini-tech.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908000401id_/http%3A//www.martini-tech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy -
 
 Martini Tech is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
 Martini Tech may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1st, 2013.  
