@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salsify.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502160241id_/http%3A//www.salsify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salsify.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907132301id_/http%3A//www.salsify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -165,7 +165,7 @@ If you have any questions regarding our Privacy Policy, please contact our priva
 
 `Attn: Privacy Officer  
 Salsify, Inc.  
-115 Broad St., 2nd Floor  
+1 Winthrop Square, 5th Floor  
 Boston, MA 02110  
 USA
 
