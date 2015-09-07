@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adda52.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005229id_/http%3A//www.adda52.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adda52.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907032458id_/https%3A//www.adda52.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |Online Poker | Adda52.com
 
