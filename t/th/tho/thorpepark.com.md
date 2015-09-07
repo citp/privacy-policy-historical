@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418070423id_/https%3A//www.thorpepark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907093040id_/https%3A//www.thorpepark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for THORPEPARK.com Website
 
