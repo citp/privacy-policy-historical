@@ -1,94 +1,89 @@
-> *The following text is extracted and transformed from the nichehacks.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315032731id_/http%3A//nichehacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichehacks.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907213324id_/http%3A//nichehacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - NicheHacks
 
-This privacy policy sets out how NicheHacks.com uses and protects any information that you give NicheHacks.com when you use this website.
+Last updated: May 25, 2015
 
-NicheHacks.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Niche Hacks ("us", "we", or "our") operates the http://nichehacks.com website (the "Service").
 
-NicheHacks.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from: December 2013
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-### What we collect
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We may collect the following information:
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://nichehacks.com
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+**Information Collection And Use**
 
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name ("Personal Information").
 
+**Log Data**
 
-### What we do with the information we gather
+We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+**Cookies**
 
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
 
+We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-### Security
+**Service Providers**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
-### What is a cookie?
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device.
+**Communications**
 
-You can find more information about cookies at:
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
-  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+**Compliance With Laws**
 
+We will disclose your Personal Information where required to do so by law or in accordance with an order of a court of competent jurisdiction, or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
+**Business Transaction**
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.
+If Niche Hacks is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy. In the event of such a transfer of information, your rights under the Data Protection Act 1998 are not affected.
 
-### Category 1: strictly necessary cookies
+**Security**
 
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. As such we make no warranties as to the level of security afforded to your data, except that we will always act in accordance with the relevant UK and EU legislation.
 
-### Category 2: performance cookies
+**International Transfer**
 
-These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-By using our website, you agree that we can place these type of cookies on your device.
+If you are located outside United Kingdom and choose to provide information to us, please note that we transfer the information, including Personal Information, to United Kingdom and process it there.
 
-### Category 3: functionality cookies
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+In the event that a dispute arises with regards to the international transfer of data, you agree that the courts of England and Wales shall have exclusive jurisdiction over the matter.
 
-By using our website, you agree that we can place these type of cookies on your device.
+**Links To Other Sites**
 
-### Category 4: targeting cookies or advertising cookies
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-A list of all the cookies used on this website by category is set out below.
+**Children's Privacy**
 
-### Links to other websites
+Our Service does not address anyone under the age of 13 ("Children").
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
 
-### Controlling your personal information
+**Changes To This Privacy Policy**
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us by using the contact form here: http://www.nichehacks.com/contact/
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
+**Jurisdiction**
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+This Policy shall be governed and construed in accordance with the laws of England and Wales, without regard to its conflict of law provisions.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998.
+**Contact Us**
 
-A small fee will be payable.
-
-If you would like a copy of the information held on you please write to:  83 Ducie Street, Manchester, M1 2JQ
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+If you have any questions about this Privacy Policy, please contact us.
