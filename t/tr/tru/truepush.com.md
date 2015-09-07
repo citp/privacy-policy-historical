@@ -1,100 +1,77 @@
-> *The following text is extracted and transformed from the truepush.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629035311id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truepush.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907131244id_/http%3A//www.truepush.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# :: Privacy Policy Truepush.com ::
 
-**Go Daddy Respects Your Privacy**
+This web site is owned and operated by Truepush Private Limited ("we", "our", or "us" or the "Company") ("Truepush").We are committed to protecting and respecting your privacy and to fight spam. This Privacy Policy (the "Policy”) describes the types of information we may collect from you or that you may provide to us when you visit the Truepush web site (the "Site”) located at www.truepush.com. Please note that the primary purpose of our Site and the Services it to allow you to register and create advertising campaigns. For the purpose of this Privacy Policy, information that you provide through the Site can be in one of two categories: information relating to your use of the Site or the Services. Our policies may differ from other service offerings and you should carefully review the terms of service and this privacy notice before using these services.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Note:** Our Privacy Policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our website.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+By mere use of the website, you expressly consent to our use and disclosure of your personally identifiable information (PII) in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use. Information we collect about you and how we use it.
 
-**Information Collection and Use**
+Your information is the information that's required when you visit the site, as well as the information you choose to share. ‘Personally Identifiable Information’ refers to information by which you may be personally identified, such as your name, email address and phone number. You will need to register for visiting our site. If you choose to register, and are 18 years of age or older, you are required to provide personally identifiable information such as your name, email address and phone number. The personally identifiable Information you submit to receive information and Services from our site will never be disclosed to any third party. We do not collect more Information than is reasonably necessary to participate in an activity on the Website. You allow us to use this personally identifiable Information to register you to use the Services and otherwise provide you with the Services.  
+\- verify your authority to enter the Site and access the Services.  
+\- notify you of updates improve the content and general administration of the Site and the Services.  
+\- provide you with notices regarding the Services and other services that you have purchased or may wish to purchase in the future.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Other Information We Collect and How We Use It:**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Truepush may also automatically collect and analyze Site Information about your general usage of the Site and Services. We might track your usage patterns to see what features of the Site, Services you commonly use, Site traffic volume, frequency of visits, type and time of transactions, type of browser, browser language, IP address and operating system, and statistical information about how you use the Services. We only collect, track and analyze such Site Information in an aggregate manner that does not personally identify you. This aggregate data may be used to assist us in operating the Site and the Services and provided to other third parties to enable them to better understand the operation of the Services, and offerings, but such information will be in aggregate form only and it will not contain personally identifiable data. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Children's Privacy**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We are committed to protecting children's privacy online. This Site is intended for users above the age of 18. We do not knowingly collect information from children.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**Updating or Deleting of Personally Identifiable Information:**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+For any update or deletion of your personally identifiable information please email us at [support@truepush.com](https://web.archive.org/web/20150907131244id_/http%3A//www.truepush.com/mail%20to:)
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Billing:**
 
-**Security**
+If you use our services on the Site for which we implement a billing system for you, we will collect additional information from you so that we can process and collect billing information. For example, we may collect your mailing address to remit payments. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+**Cookies:**
 
-**Updating Your Information**
+When you use our Websites we may use cookies and other technologies in order to facilitate and customize your use of our Services.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**What is a cookie?**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+A cookie is a small data text file, which a website stores on your computer or mobile device (if your Web browser permits) that can later be retrieved to identify you to us.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Our cookies store randomly assigned user identification numbers, the country where you are located, and your first name to welcome you back to our Websites. The cookies make your use of the Websites easier, make the Websites run more smoothly, and save your logged-in state so that you do not have to log in each time that you visit the Websites. The use of cookies by our partners, affiliates, tracking utility company and service providers, is not covered by our Privacy Policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, and service providers, use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. You can disable and/or delete all types of cookies by using your browser settings. Cookies are generally easy to disable and/or delete but how you do so varies from browser to browser. The "help” function within your browser should tell you how to do it. The best way may be to close your browser and then search for "cookie folder” or "cookie manager” or simply "cookie”. Please also visit www.allaboutcookies.org for more information about cookies and how to disable them. If you do disable cookies, our Websites will not recognize you and you may not have access to all portions of the Websites. 
 
-      iii.      You may call us at: (480) 505-8800
+**Disclosure of Information:**
 
-       iv.      You may fax us at: (480) 505-8844
+We reserve the right to disclose your personally identifiable Information as required by law and when we believe that disclosure doing so in the Company's interest to protect its property or other legal rights or the rights or property of others. We may also disclose your personally identifiable information: (a) to enforce these Terms of Use or (b) to protect the safety of Users of our Site and our Services. In addition, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization. 
 
-**Sending Emails**
+**Retention of Information:**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We will keep personally identifiable Information of our users for as long as they are registered subscribers or users of our products and services, and as permitted by law.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**Data Security:**
 
-**Compliance with Laws and Law Enforcement**
+To make online purchases you must use an SSL-enabled browser in order to protect the confidentiality of your personal and credit card information while it is transmitted over the Internet.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Access by you to your account is available through a password and/or unique user name selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone, that you change your password often using a combination of letters and numbers, and that you ensure you use a secure web browser. We cannot be held accountable for activity that results from your own neglect to safeguard the secrecy of your password and user name. If you share a computer with anyone, you should always log out of your account after you are finished, in order to prevent access to your information from subsequent users of that computer. Please notify us as soon as possible if your user name or password is compromised. for assistance send you query to [support@truepush.com](https://web.archive.org/web/20150907131244id_/http%3A//www.truepush.com/mail%20to:)
 
-**Third Party Service Providers**
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your Personally Identifiable Information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this Website cannot be guaranteed and we shall have no liability to you or any third party for loss, misuse, disclosure or alteration of such information; and (c) any such information and data may be viewed or tampered with in transit by a third party.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+In the unlikely event that we believe that the security of your Personally Identifiable Information in our control may have been compromised, we will notify you as promptly as possible under the circumstances. To the extent we have your e-mail address, we may notify you by e-mail and you consent to our use of e-mail as a means of such notification. If you prefer for us to use another method to notify you in this situation, please e-mail us at [support@truepush.com](https://web.archive.org/web/20150907131244id_/http%3A//www.truepush.com/mail%20to:). with the alternative contact information you wish to be used.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**Linking:**
 
-**Supplementation of Information**
+This Site may contain links to other web sites. The Company cannot and does not control the privacy practices of any such sites. You should review the privacy policy on any web site where you may submit personal information before providing it to any web site.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**International Users:**
 
-**Contests/Surveys**
+If you are visiting from other regions with laws governing data collection and use that may differ from Indian law, please note that you are transferring your personal data to India, which does not have the same data protection laws and by providing your personal data you consent to: The use of your personal data for the uses identified above in accordance with this Privacy Policy; and The transfer of your personal data to the India as indicated above. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**Contact Us:**  
+If you have questions or concerns regarding this Policy, please contact us by emailing [support@truepush.com. ](https://web.archive.org/web/20150907131244id_/http%3A//www.truepush.com/mail%20to:)  
+TRUEPUSH PRIVATE LIMITED  
+1st Floor, Hansa crest,  
+Plot No 62, Road No 1,  
+Jubilee Hills,  
+Hyderabad - 500033  
+India.
