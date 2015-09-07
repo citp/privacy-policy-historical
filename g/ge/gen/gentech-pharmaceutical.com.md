@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gentech-pharmaceutical.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607124555id_/http%3A//lexiuminternational.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gentech-pharmaceutical.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907115223id_/http%3A//www.lexiuminternational.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Lexium International
 
