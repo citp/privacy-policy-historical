@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneymanifesto.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607145032id_/http%3A//www.moneymanifesto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymanifesto.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907155548id_/http%3A//www.moneymanifesto.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
