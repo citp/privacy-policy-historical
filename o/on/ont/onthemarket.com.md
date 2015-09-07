@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onthemarket.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317154841id_/https%3A//www.onthemarket.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthemarket.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907193149id_/https%3A//www.onthemarket.com/terms) for the most accurate reproduction.*
 
-# OnTheMarket | Property, Houses & Flats for Sale & to Rent
+# None
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY AS THEY CONTAIN IMPORTANT INFORMATION ABOUT YOUR RIGHTS AND OBLIGATIONS WHEN USING ONTHEMARKET.COM ("this Site"). 
 
@@ -362,7 +362,7 @@ All of the forms where you might enter personal information on our Site have tic
 
 Your Information will enable us to provide you with access to all parts of this Site and to supply the services and features that you have requested. We may aggregate the information to identify patterns which we can use in our marketing and to help us develop, administer, support and improve our services and features. 
 
-We may use Your Information to contact you for your views on our services and to notify you occasionally about important changes or developments to this Site or our services. Where you have consented, we may also use Your Information to contact you with details about any other products or services we or our partners or advertisers offer that may be of interest to you. Where you have consented to being contacted by third parties, we may make Your Information available to them. If you change your mind about being contacted in the future, please email us at info@agentsmutual.co.uk and tell us. 
+We may use Your Information to contact you for your views on our services and to notify you occasionally about important changes or developments to this Site or our services. Where you have consented, we may also use Your Information to contact you with details about any other products or services we or our partners or advertisers offer that may be of interest to you. Where you have consented to being contacted by third parties, we may make Your Information available to them. If you change your mind about being contacted in the future, please email us at info@agentsmutual.co.uk and tell us or, if you have consented to being contacted by third parties for marketing purposes, you will need to contact them directly. 
 
 The following features, by their nature, require and make use of personally identifiable information. 
 
@@ -394,7 +394,7 @@ If you register with us, save searches and/or use the property alerts featur
 
 We retain access to all personal information that we have collected from you. 
 
-When our service is available via the websites of our partners, those partners may have access to Your Information. Their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each Site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information. 
+Whenever your personal information is shared with any of our partners that host our service via their website (with your consent, where necessary), their use of your personal information is governed by their privacy policies. We are not responsible for the privacy policies and practices of any other websites, even if you access them using links from this Site or if you can access this Site or use our services from them. We therefore recommend that you check the policy of each Site that you visit and make sure that you are comfortable with the terms of such policies before providing any personal information. 
 
 If our business enters into a joint venture with or is sold to or merged with another business entity, Your Information may be disclosed and ultimately transferred to our new business partners or owners. 
 
