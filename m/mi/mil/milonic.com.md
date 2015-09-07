@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317034634id_/https%3A//www.milonic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milonic.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907180810id_/https%3A//www.milonic.com/privacy.php) for the most accurate reproduction.*
 
 # Milonic Ltd Privacy Policy
 
