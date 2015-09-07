@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatedemon.com privacy policy that was archived on 2015-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150414063521id_/http%3A//ultimatedemon.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatedemon.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907221913id_/http%3A//ultimatedemon.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
