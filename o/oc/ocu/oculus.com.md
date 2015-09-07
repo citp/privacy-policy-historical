@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oculus.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530121905id_/https%3A//www.oculus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oculus.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908014810id_/https%3A//www1.oculus.com/privacy) for the most accurate reproduction.*
 
 # Oculus Privacy Policy | Oculus Rift - Virtual Reality Headset for 3D Gaming
 
@@ -43,7 +43,7 @@ we may collect information such as:
 apps or other experiences you interact with, and information collected in or through cookies, local  
 storage, pixels, and similar technologies (additional information about these technologies is  
 available at  
-<https://www.oculus.com/cookies-pixels-and-other-technologies/>); 
+<https://www1.oculus.com/cookies-pixels-and-other-technologies/>); 
 
     * Information about how you access our Services, including information about the type of device you’re  
 using (such as a headset, PC, or mobile device), your browser or operating system, your Internet  
@@ -65,7 +65,7 @@ Third parties may also collect information about you through the Services, as de
 family of related companies that are legally part of the same group of companies that Oculus is part of, or  
 that become part of that group, such as Facebook, and may combine that information with other information we  
 collect about you. View a complete list of related companies at  
-<https://www.oculus.com/related-companies/>. 
+<https://www1.oculus.com/related-companies/>. 
 
   * _**Information from other sources**_. We may also receive additional information about you from third  
 parties, including partners that provide us information that is publicly or commercially available, and may  
@@ -157,7 +157,7 @@ parties’ own privacy policies.
   * _**Sharing Within Related Companies**_. We may share information within the family of related companies that  
 are legally part of the same group of companies that Oculus is part of, or that become part of that group, such  
 as Facebook. For a list of our related companies, please see  
-<https://www.oculus.com/related-companies/>. 
+<https://www1.oculus.com/related-companies/>. 
 
   * _**Service providers**_. We may share the information we collect with vendors, service providers, researchers  
 and other partners, who work at our direction to support the Services (such as hosting our Services, fulfilling  
