@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the fafsa-application.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702181854id_/http%3A//www.fafsa-application.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa-application.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907175951id_/http%3A//www.fafsa-application.com/privacy-policy.php) for the most accurate reproduction.*
 
-# FAFSA Preparer - Online Assistance - Privacy
+# Professional FAFSA Filing Assistance - Privacy
 
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.fafsa-application.com)
-
-Effective: June 21, 2013
+A professional FAFSA preparation and filing service. Not affiliated with the US Department of Education.
 
 At Student Aid Application Services, LLC, we place a high priority on respecting and protecting the privacy of our customers. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Website, because we want you to feel comfortable and confident when using it. 
 
@@ -47,7 +45,7 @@ To process your order, we need to present data to several entities. For example,
 
 ## OPT-OUT
 
-We allows users to opt-out of receiving future communications and/or to have information removed from our website. Simply submit your request via e-mail to [CustomerCare@FAFSA-Application.com](mailto:CustomerCare@FAFSA-Application.com). You may also submit your request by mail to Student Aid Application Services, LLC, 4741 Central St, Ste.142, Kansas City, MO 64112. 
+We allow users to opt-out of receiving future communications and/or to have information removed from our website. Simply submit your request via e-mail to [CustomerCare@FAFSA-Application.com](mailto:CustomerCare@FAFSA-Application.com). You may also submit your request by mail to Student Aid Application Services, LLC, 4741 Central St, Ste.142, Kansas City, MO 64112. 
 
   
 
@@ -68,7 +66,7 @@ We maintain physical, electronic, and procedural safeguards that comply with app
 
 ## CONTACTING US
 
-If you have any questions about this privacy policy, please e-mail us at [CustomerCare@FAFSA-Application.com](mailto:CustomerCare@FAFSA-Application.com). You may also call us during regular business hours at 877-207-3050. We welcome questions and suggestions about our privacy policy. 
+If you have any questions about this privacy policy, please e-mail us at [CustomerCare@FAFSA-Application.com](mailto:CustomerCare@FAFSA-Application.com). You may also call us during regular business hours at 877-207-3254. We welcome questions and suggestions about our privacy policy. 
 
   
 
