@@ -1,71 +1,65 @@
-> *The following text is extracted and transformed from the greenleafmarket.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205112618id_/http%3A//localdirt.com/static_pages-a327.html%3Ftype%3Dprivacy%26title%3DPrivacy%2BPolicy%2B-%2BLocal%2BDirt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenleafmarket.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907234638id_/http%3A//www.greenleafmarket.com/privacy-policy) for the most accurate reproduction.*
 
-# Local Dirt
+# Privacy Policy
 
-This Privacy Policy explains how your information is protected, collected and used. Updates may be made periodically. Any changes will be posted on Local Dirt and Local Dirt will provide notice of materially significant changes to this Privacy Policy by posting notice on Local Dirt. 
+This Privacy Policy is in application to GreenLeafMarket. This would impart how GreenLeafMarket collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on GreenLeafMarket and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with GreenLeafMarket, you may receive and be under the coverage of GreenLeafMarket, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
-This Privacy Policy is effective upon acceptance for new users and is otherwise effective on June 1, 2009. 
+**Information Gathering**
 
-We see privacy as a basic Community principle. Out of respect for your privacy, Local Dirt does not: 
+When you visit GreenLeafMarket, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
 
-  * Place monitoring devices onto your computer such as web beacons, or single-pixel gifs. 
-  * Sell or distribute a member's information to third parties for marketing purposes. 
-  * Send unsolicited communications for marketing purposes. 
-  * Run banner ads, pop ups, pop unders, or any other kind of commercial ads. 
-  * Engage in cross-marketing or link-referral programs with other sites. 
+**Cookies**
 
+These are pieces of information stored on the computer upon use. GreenLeafMarket or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
 
+In visiting GreenLeafMarket, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
 
-Our goal when collecting information is to provide users with a convenient, efficient, and safe experience. You agree that your personal information may be used to provide the services you request, provide customer support, resolve disputes, troubleshoot problems, collect fees, prevent illegal activities, enforce our [User Agreement](https://web.archive.org/web/20111205112618id_/http%3A//localdirt.com/static_pages-a327.html?type=terms&title=User+Agreement+-+Local+Dirt "User Agreement"), and improve our services. 
+**IP Addresses**
 
-You are welcome to browse Local Dirt without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers located in the United States. We may collect and store the following personal information: 
+The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
 
-  * Email address, physical contact information. 
-  * Transactional information based on your activities on Local Dirt (such as buying, selling, products and content you generate or that relates to your account). 
-  * Community discussions, chats, dispute resolution, correspondence through Local Dirt, and correspondence sent to us. 
-  * Computer sign-on data, statistics on page views, traffic to and from Local Dirt, ad data, and other information, including IP address and standard web log information. 
-  * Supplemental information submitted for verification or requested if site policies are suspected to be violated (for example, if we ask for cooperative status verification). 
-  * Supplemental information from third parties (for example, rating feedback). 
+**Advertising**
 
+The site advertises on pages within the site as well as other websites not affiliated with GreenLeafMarket. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in GreenLeafMarket and responses to promotions and advertisements on the sites where we advertise.
 
+**Online Surveys**
 
-We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. We may also share your personal information with: 
+Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
 
-  * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, affiliate and rewards programs and co-branded credit cards). 
-  * Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). 
-  * Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity. 
+**Planning Tools**
 
+GreenLeafMarket gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
 
+**Using and Sharing Information**
 
-Other business entities, should we plan to merge with, or be acquired by that business entity. 
+There would be times that GreenLeafMarket could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice, providing consumers additional direct marketing choices.
 
-Without limiting the above, in an effort to respect your privacy and our ability to keep the Community free from wrongdoing, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity. 
+**Social Media Connection**
 
-Your business name is displayed throughout Local Dirt (and so available to the public), and is connected to all of your Local Dirt activity. Other people can see your items for sale, Profile Page, ratings, feedback and associated comments. Notices sent to other Community members about suspicious activity and policy violations on our site refer to your business name and specific item listings. So if you associate your name with your business, the people to whom you have revealed your name will be able to personally identify your Local Dirt activities. 
+GreenLeafMarket provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
 
-If you access our site from a shared computer or a computer in an internet café, certain information about you, such as your email address, activity or reminders from Local Dirt, may also be visible to other individuals who use the computer after you. 
+**Accuracy of Information**
 
-We use "cookies" (small files placed on your hard drive) on certain of our pages to help analyze our web page flow; customize our services, content and advertising; measure promotional effectiveness; and promote trust and safety. 
+Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
 
-A few important things you should know about cookies are that: 
+**Linking to Other Sites**
 
-  * We use cookies to help identify you and maintain your signed-in status. 
-  * Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. 
-  * You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of our site or services. 
-  * You may encounter cookies from third parties on certain pages of the site that we do not control. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.) 
+We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by GreenLeafMarket, you should go over the privacy policies and other terms, as they could diverge from other sites. GreenLeafMarket will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
 
+**Children’s Privacy**
 
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
 
-Local Dirt and our users do not tolerate spam. You are not licensed to add other Local Dirt users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report Local Dirt-related spam or spoof emails, please contact us. You may not use our communication tools to send spam or otherwise send content that would violate our [User Agreement](https://web.archive.org/web/20111205112618id_/http%3A//localdirt.com/static_pages-a327.html?type=terms&title=User+Agreement+-+Local+Dirt "User Agreement"). We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email to an email address that is not registered in our Community (via Refer-a-Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
+**Change in Company’s Ownership**
 
-Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify Local Dirt and change your password. 
+If by chance another company obtains the assets in the business of GreenLeafMarket, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
 
-You can see, review and change most of your personal information by becoming a member of Local Dirt. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our [User Agreement](https://web.archive.org/web/20111205112618id_/http%3A//localdirt.com/static_pages-a327.html?type=terms&title=User+Agreement+-+Local+Dirt "User Agreement") and take other actions otherwise permitted by law. 
+**Service Customization**
 
-Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
+Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
 
-Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others, whether they are buyers or sellers on our site or other sites throughout the internet, different rules may apply to their use or disclosure of the information you disclose to them. Local Dirt does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. 
+**Third-Parties**
 
-Our web site may contain hyperlinks or "links" to and from other web sites.  These web sites may have privacy policies that differ from our Privacy Policy.  Our Privacy Policy applies solely to our web site.  Please review the online privacy policies of any other web sites that you visit.  These links do not imply any affiliation between Local Dirt and the owners of other web sites, or any endorsement, approval or verification of any content contained on other web sites. 
+Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site. In addition, we will notify you through a Local Dirt Message. If you have further questions, you may contact us online. 
+We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
