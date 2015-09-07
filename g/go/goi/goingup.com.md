@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goingup.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315041944id_/http%3A//www.goingup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingup.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907173833id_/https%3A//goingup.com/privacy.html) for the most accurate reproduction.*
 
 # GoingUp! - Free Web Stats, Analytics, SEO, Live Chat and More!
 
