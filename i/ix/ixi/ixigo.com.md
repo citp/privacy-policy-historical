@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623214251id_/http%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907055419id_/https%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
 
 # ixigo.com - Privacy Policy
 
@@ -6,7 +6,7 @@ ixigo Privacy Policy
 
 Last updated: 16th January 2013
 
-This Privacy Policy describes the policies and procedures of Le Travenues Technology Private Limited (“iXiGO”) on the collection, use and disclosure of your information when you use the IXiGO Service, via the IXiGO website, your mobile phone, or through one of IXiGO's applications for mobile devices (including but not limited to iPhone/Android applications). We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](http://www.ixigo.com/html/info/terms_of_use.ixi).
+This Privacy Policy describes the policies and procedures of Le Travenues Technology Private Limited (“iXiGO”) on the collection, use and disclosure of your information when you use the IXiGO Service, via the IXiGO website, your mobile phone, or through one of IXiGO's applications for mobile devices (including but not limited to iPhone/Android applications). We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://www.ixigo.com/html/info/terms_of_use.ixi).
 
 The terms "we", "us", and “our website” refer to www.ixigo.com and the terms "you" and "your" refer to you, as a user of ixigo.com. The term "personal information" means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information.
 
@@ -20,7 +20,7 @@ You provide us information about yourself, such as your name and e-mail address,
 
 If you use your Facebook, Twitter, or other social networking site ("SNS") account information to sign in to ixigo, we will collect and store your SNS user ID, and other information that you explicitly allow us to access when using an SNS login.
 
-You also provide us information in User Content you post to the Service. Your questions, answers, and other contributions on the Service, and metadata about them (such as when you posted them), are publicly viewable on the Service, along with your name (unless the Service permits you to post anonymously). This information may be searched by search engines and be republished elsewhere on the Web in accordance with our [Terms of Service](http://www.quora.com/about/tos).
+You also provide us information in User Content you post to the Service. Your questions, answers, and other contributions on the Service, and metadata about them (such as when you posted them), are publicly viewable on the Service, along with your name (unless the Service permits you to post anonymously). This information may be searched by search engines and be republished elsewhere on the Web in accordance with our [Terms of Service](https://www.quora.com/about/tos).
 
 If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. You may also use our contact importer tool to help you upload your friends' email addresses so you can find friends who are already on ixigo or invite friends to the Service. ixigo stores this information to send invitations, to register your friend if your invitation is accepted, to track the success of our invitation service, and to identify your friends on ixigo.
 
