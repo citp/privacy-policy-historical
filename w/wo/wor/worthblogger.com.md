@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worthblogger.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611020635id_/http%3A//worthblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthblogger.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907214546id_/http%3A//worthblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,14 +18,14 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 ## How we use collected information
 
-**WorthBlogger**  collects and uses Users personal information for the following purposes:
+ **WorthBlogger**  collects and uses Users personal information for the following purposes:
 
-  * _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _– To improve our Site_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _– To improve customer service_ Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _– To process transactions_ We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _– To administer a content, promotion, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _– To send periodic emails_ The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
+  *  _– To personalize user experience_ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _– To improve our Site_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  *  _– To improve customer service_ Your information helps us to more effectively respond to your customer service requests and support needs.
+  *  _– To process transactions_ We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  *  _– To administer a content, promotion, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
+  *  _– To send periodic emails_ The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
 
 
@@ -51,12 +51,12 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 ## Changes to this privacy policy
 
-**WorthBlogger**  has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. **Your acceptance of these terms** By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+ **WorthBlogger**  has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. **Your acceptance of these terms** By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ## Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact the author at:
 
-**Jackson Nwachukwu**
+ **Jackson Nwachukwu**
 
-This document was last updated on December 04, 2013 
+This document was last updated on December 04, 2013
