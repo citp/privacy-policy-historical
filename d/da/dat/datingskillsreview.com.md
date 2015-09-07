@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the datingskillsreview.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320182026id_/http%3A//www.datingskillsreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingskillsreview.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907034239id_/https%3A//www.datingskillsreview.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 Personal Upgrades Limited (PUL) is committed to protecting your privacy. This privacy policy is provided for you to understand how we use your personal information (aka personally identifiable information). By accessing the PUL site, you take responsibility for reading and understanding this information. If you do not agree to this privacy policy, in part or whole, and do not wish to be bound by it, please discontinue accessing / utilizing our website. 
 
 This privacy policy describes what information PUL collects, how we collect it, and our information sharing practices, including: 
 
-  1. Information We Collect from Our Users and How We Collect It
-  2. How We Use Personally Identifiable Information
-  3. Cookies / Clear GIFs and How We Use Them
-  4. How We Store Your Information
-  5. Personal Information of Minors
-  6. Links to Other Sites
-  7. Disclaimer
+  1. [Information We Collect from Our Users and How We Collect It](https://www.datingskillsreview.com/privacy/#1)
+  2. [How We Use Personally Identifiable Information](https://www.datingskillsreview.com/privacy/#2)
+  3. [Cookies / Clear GIFs and How We Use Them](https://www.datingskillsreview.com/privacy/#3)
+  4. [How We Store Your Information](https://www.datingskillsreview.com/privacy/#4)
+  5. [Personal Information of Minors](https://www.datingskillsreview.com/privacy/#5)
+  6. [Links to Other Sites](https://www.datingskillsreview.com/privacy/#6)
+  7. [Disclaimer](https://www.datingskillsreview.com/privacy/#7)
 
 
 
