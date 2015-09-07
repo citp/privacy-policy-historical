@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the useiconic.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316201332id_/https%3A//useiconic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the useiconic.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907024954id_/https%3A//useiconic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
