@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506131203id_/http%3A//www.shipworks.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interapptive.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907180818id_/http%3A//www.shipworks.com/privacystatement.html) for the most accurate reproduction.*
 
 # ShipWorks Shipping Software for Your Online Business
 
