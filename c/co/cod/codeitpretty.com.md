@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the codeitpretty.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318161701id_/http%3A//www.codeitpretty.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeitpretty.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907210522id_/http%3A//www.codeitpretty.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Code it Pretty: Privacy Policy
 
 **Privacy Policy**
 
-I take your privacy seriously. This policy describes what personal information is collected and how it is used. (This privacy policy is applicable to www.codeitpretty.com.)
+This policy describes what personal information is collected by this site and how it is used. (This privacy policy is applicable to www.codeitpretty.com.)
 
 **Routine Information Collection**
 
@@ -12,7 +12,9 @@ All web servers track basic information about their visitors. This information i
 
 **Cookies and Web Beacons**
 
-This blog uses Google Analytics and Clicky to track pageviews and visits. No personally identifying information is gathered by either service.
+This blog uses Google Analytics and Clicky to track pageviews and visits. You can review Google's [privacy policy here](http://www.google.com/policies/privacy/), and Clicky's [here](https://clicky.com/terms). 
+
+This blog uses Disqus for comments. You can read their privacy policy here [here](https://help.disqus.com/customer/portal/articles/466259-privacy-policy).
 
 **Controlling Your Privacy**
 
