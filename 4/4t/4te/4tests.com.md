@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4tests.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608094031id_/http%3A//www.4tests.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tests.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908012040id_/https%3A//www.4tests.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # 4tests.com - Privacy Policy
 
