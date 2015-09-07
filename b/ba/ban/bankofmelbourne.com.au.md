@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofmelbourne.com.au privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412230900id_/https%3A//www.bankofmelbourne.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofmelbourne.com.au privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907174147id_/https%3A//www.bankofmelbourne.com.au/online-services/security-centre/we-protect-you/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bank of Melbourne
 
@@ -20,7 +20,7 @@
 
 We are bound by the Privacy Act and will protect your personal information in accordance with the Australian Privacy Principles. These principles govern how we can collect, use, hold and disclose your personal information.
 
-This is a summary of our Privacy Policy. Download a copy of our full [**Privacy Policy**](https://web.archive.org/content/dam/bom/downloads/170037%20PP%20408739_BOMW2853_0914_ONLINE.pdf)
+This is a summary of our Privacy Policy. Download a copy of our full **[Privacy Policy (PDF 93kb)](https://web.archive.org/content/dam/bom/downloads/170037%20PP%20408739_BOMW2853_0914_ONLINE.pdf)**  (Opens in new window), view the [full Privacy Policy online](https://web.archive.org/online-services/security-centre/we-protect-you/privacy-policy-html) or contact us for a free printed copy.
 
 **What kinds of personal information do we collect and hold?**
 
