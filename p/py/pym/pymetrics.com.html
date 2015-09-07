@@ -1,0 +1,356 @@
+<!--The following is the downloaded HTML source of the pymetrics.com privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907214055id_/https%3A//pymetrics.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class=""><!--<![endif]--><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style><meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/9312.js?439594" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1582541100000/480689.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEBUVJbGwcJXVRbBgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"d944b187e4","agent":"js-agent.newrelic.com/nr-686.min.js","transactionName":"MlUAbEVWWhZUUxFcCwsfJE1ZVEAMWl5KRR0IVRZKXlRHS0NZAEIXX0AQUUFWVxxqQApZDQZJ","applicationID":"4995913","errorBeacon":"bam.nr-data.net","applicationTime":24}</script><title>
+		Privacy Policy
+	</title><meta name="description" content="pymetrics privacy policy"><meta property="og:url" content="https://pymetrics.com/"><meta property="og:site_name" content="pymetrics"><meta property="og:title" content="pymetrics | play games to find your ideal job and optimal career path"><meta property="og:description" content="Discover your strengths through neuroscience games and get recruited by your best fit companies"><meta property="og:image" content="https://pymetrics.com/static/img/ogimage-new.jpg"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="fb:app_id" content="835198593171886"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico"><meta name="msapplication-TileColor" content="#123456"><meta name="msapplication-TileImage" content="/static/img/apple-touch/apple-touch-icon-144.png"><!--[if lt IE 10]><script src="/static/js/html5shiv.js"></script><![endif]--><!--<link href="/static/css/screen.css" rel="stylesheet" media="screen, projection" type="text/css" />--><link href="/static/css/redesign.css?v3" rel="stylesheet" media="screen, projection" type="text/css"><link href="/static/css/header.css" rel="stylesheet" media="screen, projection" type="text/css"><link href="/static/css/font-awesome.css" rel="stylesheet" media="screen, projection" type="text/css"><link href="/static/css/blink.css" rel="stylesheet" type="text/css"><link href="/static/css/messages.css" rel="stylesheet" type="text/css"><link type="text/css" rel="Stylesheet" href="/static/css/autocomplete.css"><!-- jquery and angular for every app --><script type="text/javascript" src="/static/js/jquery-1.8.0.min.js"></script><script type="text/javascript" src="/static/angular/angular.min.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><script type="text/javascript">var STATIC_URL = '/static/';</script><script type="text/javascript" src="/static/js/script-ck.js"></script><script type="text/javascript" src="/static/js/placeholder.js"></script><script type="text/javascript" src="/static/js/dropzone.js"></script><script type="text/javascript" src="https://use.typekit.net/yld7qbs.js"></script><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="/static/js/buttons.js"></script><script type="text/javascript">
+		stLight.options({
+               		 publisher:'37f382f6-908a-4462-ba31-cecf1b501257',
+		        });
+                $(document).ready(function(){
+                $('.messages li').click(function(){
+                        $(this).fadeOut()
+                        })
+                })
+	</script><!-- Clicky User Tracking --><script type="text/javascript">
+var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(100717156);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();
+</script><script type="text/javascript" async="" src="//static.getclicky.com/js"></script><!-- Google Analytics User Tracking --><script type="text/javascript">
+
+	var _gaq = _gaq || [];
+
+	var pluginUrl =  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+	_gaq.push(['_require', 'inpage_linkid', pluginUrl]);	
+
+	_gaq.push(['_setAccount', 'UA-44159336-1']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	// ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+</script><!-- Start of Async HubSpot Analytics Code --><script type="text/javascript">
+(function(d,s,i,r) {
+if (d.getElementById(i)){return;}
+var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/480689.js';
+e.parentNode.insertBefore(n, e);
+})(document,"script","hs-analytics",300000);
+</script><!-- End of Async HubSpot Analytics Code --><!-- Facebook Pixel Tracking for Ads --><script type="text/javascript">
+	var fb_param = {};
+	fb_param.pixel_id = '6013007097002';
+	fb_param.value = '0.00';
+	fb_param.currency = 'USD';
+	(function(){
+	  var fpw = document.createElement('script');
+	  fpw.async = true;
+	  fpw.src = '//connect.facebook.net/en_US/fp.js';
+	  var ref = document.getElementsByTagName('script')[0];
+	  ref.parentNode.insertBefore(fpw, ref);
+	})();
+</script><noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6013007097002&amp;value=0&amp;currency=USD" alt="facebook ad pixel"/></noscript><!-- Facebook Conversion Code for Sign Ups --><script>(function() {
+	var _fbq = window._fbq || (window._fbq = []);
+	if (!_fbq.loaded) {
+	var fbds = document.createElement('script');
+	fbds.async = true;
+	fbds.src = '//connect.facebook.net/en_US/fbds.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(fbds, s);
+	_fbq.loaded = true;
+	}
+	})();
+	window._fbq = window._fbq || [];
+	window._fbq.push(['track', '6016196068745', {'value':'0.01','currency':'USD'}]);
+</script><noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6016196068745&amp;cd[value]=0.01&amp;cd[currency]=USD&amp;noscript=1"  alt="facebook conversion pixel"/></noscript><!-- Adroll --><script type="text/javascript">
+	adroll_adv_id = "DZ47CCHM5VAG7E4Y2YRLWA";
+	adroll_pix_id = "CO6NQOZKJVHZJG4NMELCBB";
+	(function () {
+	var oldonload = window.onload;
+	window.onload = function(){
+	   __adroll_loaded=true;
+	   var scr = document.createElement("script");
+	   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+	   scr.setAttribute('async', 'true');
+	   scr.type = "text/javascript";
+	   scr.src = host + "/j/roundtrip.js";
+	   ((document.getElementsByTagName('head') || [null])[0] ||
+	    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+	   if(oldonload){oldonload()}};
+	}());
+</script><!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("b03cf222b1d67c18b20f9e02518d9bfe");</script><!-- end Mixpanel --><script type="text/javascript" async="" src="//static.getclicky.com/js"></script><style type="text/css">.fancybox-margin{margin-right:0px;}</style><link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20150331170940/https://ws.sharethis.com/button/css/buttons-secure.css"><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class="page-terms js"><!--header--><!--START Header--><header class="header" role="banner"><div class="wrap"><h1 class="logo"><a href="/"><img src="/static/img/logo.png" alt="logo" style="vertical-align:inherit;"><span class="move">pymetrics</span></a></h1><a id="CTA-header-register" class="header-login-button" href="/register/">Sign Up</a><a id="CTA-header-login" class="header-login-button" href="/login/">Log In</a></div></header><!--END Header--><!--body--><!--[if lte IE 9]><div class="messages"><span><strong style="color:red">You are using an unsupported browser.</strong><br />If you experience difficulties, please upgrade to a modern browser, such as <a href="https://www.google.com/chrome/browser/" target="_blank">Google Chrome</a> or <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Mozilla Firefox</a>,<br />or consider updating your version of <a href="http://www.microsoft.com/en-us/download/internet-explorer.aspx" target="_blank">Internet Explorer</a>.</span></div><![endif]--><!--START Primary--><div class="primary" role="main"><!--START Blog post--><article class="group"><div class="wrap"><div class="full with-cta"><h1>Privacy Policy</h1></div><div class="col-2-4 group"><div class="col"><div class="item"><p class="meta">Revised: 5/3/2014</p></div></div><div class="col"><p>
+            Pymetrics is created by pymetrics Inc. (“pymetrics”, “Company”, “we”, “us” or “our”), we know your privacy is important to you and pymetrics is fully committed to your privacy.
+            </p><p>
+            This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”, as more fully defined below) that we gather when you are accessing our Website, pymetrics.com (the “Site”). This policy does not apply to processes we do not control, or to individuals that we do not employ or manage.
+            </p><p>
+            BY USING THE SITE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE SITE.
+            </p><p>
+            WHAT INFORMATION DO WE COLLECT?
+            </p><p>
+            We gather information which enables us to personalize and improve our services. We collect the following types of information from our customers.
+            </p><p>
+            Personal Information You Provide To Us:
+            </p><p>
+            In order for you to use certain of the Site’s Services, you may be asked to provide to us with certain Personal Information. Personal Information includes, without limitation: (1) “Contact Data” (such as your name, company name, mailing address, and e-mail address); (2) “Financial Data” (such as your account or credit card number); and (3) “Demographic Data” (such as you zip code and age). In each case, you will be asked to provide Personal Information; the Site will not
+            gather it surreptitiously. Company may supplement the Personal Information you provide with additional Personal Information gathered from public sources or from third-parties (e.g., consumer reporting agencies) who may lawfully provide such information to us.
+            </p><p>
+            You are under no obligation to provide Personal Information, with the caveat that your refusal to do so may prevent you from using certain of the Site’s Services.
+            </p><p>
+            Information Collected Automatically:
+            </p><p>
+            We may receive and store certain types of information whenever you interact with our Web site or services. The Company automatically receives and records information on our server logs from your browser including your IP address, Company cookie information, the page you requested and game, test and training program data.
+            </p><p>
+            Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. Company uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally.
+            </p><p>
+            What Are Cookies?
+            </p><p>
+            Like many websites, we use cookies and other standard web technology to collect information for our own use.
+            </p><p>
+            Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people.
+            </p><p>
+            Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Web site’s most attractive features. If you disable the cookie feature, you assume all responsibility for any resulting loss of
+            functionality on the Site.
+            </p><p>
+            HOW WE USE YOUR PERSONAL INFORMATION
+            </p><p>
+            We use information we collect to authenticate your visits and send you information and products.
+            </p><p>
+            If you have opted in to receiving marketing information, we use your personal information to customize and deliver that information to you.
+            </p><p>
+            We also use the information to manage and improve our Site, our games and our training. We may use your information, in aggregate form and in collaboration with outside researchers, to measure and quantify the effectiveness of our program. In our research, all the data is used in aggregate form or with your personal information removed. At no point will you be personally identifiable.
+            </p><p>
+            We may enhance or merge personal information with your other information and with data from third parties in order to better market and provide our products and services.
+            </p><p>
+            The Site may contain features, e.g. blogs, chat rooms, etc., that permit you to upload, post, transmit, display, perform or distribute content, information or other, including personal information. Any information that you choose to disclose by means of such features becomes public information over which we are unable to exercise control. You should exercise caution when deciding to disclose information by means of such features, and you agree to assume all responsibility for doing
+            so.
+            </p><p>
+            LIMITED DISCLOSURE OF YOUR PERSONAL INFORMATION TO THIRD PARTIES
+            </p><p>
+            Personal Information about our customers is an integral part of our business. We do not share Personal Information with third parties for their direct marketing purposes. We reserve the right to share your Personal Information as described below. We retain vendors to perform tasks on our behalf and we may share your Personal Information with them to provide products or services to you. For example, we may need to provide your Personal Information to a third-party credit card processor in order to process a transaction. We will only grant to these vendors the right to use your Personal Information to the limited extent necessary in order to provide the service for which we have retained the vendor. We do not share your Personal Information with our licensees (i.e., companies to which we provide services or technology), unless you decide to upload a resume and you enable your account settings to permit us to share it. In that circumstance, we only share resumes with licensees when criteria we have developed on behalf of such licensees suggest a likelihood that particular users may be a good match for such licensees (i.e., taking into account criteria developed as a result of use of our services). You have the option to set your account settings to ‘Private’ and during periods when your account is identified as such, your Personal Information will not be shared with licensees.
+            </p><p>
+            We also disclose Personal Information when required to do so by law, or in response to a subpoena, court order, or other legal mechanism, or when we believe, in our sole discretion, that disclosure is reasonably necessary to protect the property or rights of the Company, third parties or the public at large.
+            </p><p>
+            We reserve the right to sell, transfer or otherwise share some or all of our assets, including your Personal Information and other information provided by you, in connection with a merger, reorganization or sale of some or all of our assets or in the event of bankruptcy. In such event, your Personal Information and other information may be one of the assets transferred. We will post notice before your Personal Information is transferred. You hereby consent to our sharing of Personal Information for the above purposes.
+            </p><p>
+            IS PERSONAL INFORMATION ABOUT ME SECURE?
+            </p><p>
+            The Site has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of your Personal Information. For example, we use one or more of SSL encryption, firewalls and self-updating anti-virus software. User purchase information is encrypted.
+            </p><p>
+            CHOICE
+            </p><p>
+            You are not required to register to gain access to many areas of the Site. If you use the Site’s personalized services, however, we will treat your Personal Information as described in this Privacy Policy.
+            </p><p>
+            MORE ON PRIVACY
+            </p><p>
+            Children’s online privacy protection
+            </p><p>
+            Pymetrics understands the importance of protecting children’s privacy, especially in an online environment. Accordingly, the Site and the Software are not designed for or directed at children; the subject matter of the Site is not designed for or directed at children; and the content, including any video or audio, on the Site is not designed for or directed at children. Likewise, it is our policy not to knowingly collect, maintain, use or disclose information about anyone under
+            the age of 13.
+            </p><p>
+            Links to third party sites
+            </p><p>
+            The Site may contain links to third party websites. The Company neither owns nor controls these third-party websites and accordingly assumes no responsibility for the information practices of those websites. You should inform yourself with the privacy policies (if any) of those third-party websites.
+            </p><p>
+            CHANGES TO THE PRIVACY POLICY
+            </p><p>
+            This Privacy Policy may be updated from time to time as our services change and grow. We will indicate any such changes at the privacy link at the bottom of our home page. Accordingly, each time you use the Site you should check the “Last Updated” date of this privacy policy (located at the top), and review any changes since you last accessed the Site. Such changes are effective ten (10) calendar days after the Last Updated date (the date they become effective is the “effective
+            date”). Unless Company obtains your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
+            </p><p>
+            QUESTIONS AND CONCERNS
+            </p><p>
+            We welcome inquiries or comments about our Privacy Policy and any queries or concerns about pymetrics by email at help@pymetrics.com. You may also send a letter to the following address:
+            </p><p>
+            79 Madison Ave. 2nd Fl. 
+            New York, NY
+            10016
+            </p></div></div></div></article></div><!--END Primary--><!--footer--><style>
+	footer{
+		z-index:100;
+		background:white;
+		min-height:40px;
+		line-height:20px;
+		padding:10px 0;
+		/*width:100%;*/
+		color:#265498;
+		border-top:1px solid rgba(0,0,0,0.1);
+		border-bottom:1px solid rgba(0,0,0,0.1);
+	}
+	footer .wrap{
+		padding:0;
+		/*line-height:40px;*/
+		text-align:center;
+	}
+
+	footer a{
+		color:#265498;
+		margin:0 10px;
+		font-size:10px;
+	}
+	footer a:hover{
+		cursor:pointer;
+		color:#265498;
+	}
+	#copyright{
+		cursor: default !important;
+	}
+	.fa-facebook-square:hover{
+		color:#3b5998 !important;
+	}
+	.fa-twitter-square:hover{
+		color:#00aced !important;
+	}
+	#socialMediaFooter:hover{
+		color:#32506d !important;
+	}
+</style><footer><div class="wrap"><a class="link" href="/">Home</a><a class="link" href="/games/">Games</a><a class="link" href="/enterprise/">For companies</a><a class="link" href="/career-centers/">For career centers</a><a class="link" href="/about/">About pymetrics</a><a class="link" href="/careers/">Careers</a><a class="link" href="http://blog.pymetrics.com/" target="_blank">Blog</a><a class="link" href="/product/">The science</a><a class="link" href="/faq/job-seeker/">FAQs</a><a class="link" href="/terms-of-service/">Terms of service</a><a class="link" href="/privacy-policy/">Privacy policy</a><a class="link" href="mailto:info@pymetrics.com">Contact</a><a class="fa fa-facebook-square" href="https://www.facebook.com/pymetrics/" style="font-size:1em;"></a><a class="fa fa-twitter-square" href="https://twitter.com/pymetrics/" style="font-size:1em;"></a><a class="fa fa-instagram" href="https://instagram.com/pymetrics/" style="font-size:1em;"></a><a id="copyright">© 2015 pymetrics</a></div></footer><style>
+	.sxsw-box{
+		position:fixed;
+		background:rgba(38,84,152,0.9);
+		background:rgba(0, 155, 0, 0.85);
+		width:300px;
+		bottom:-240px;
+		left:30px;
+		color:white;
+		border-top-left-radius: 3px;
+		border-top-right-radius: 3px;
+
+	}
+
+	.sxsw-box .title{
+		font-weight:bold;
+		font-size:14px;
+		text-align:center;
+		height:40px;
+		line-height:40px;
+		background:#265498;
+		background:rgba(0, 155, 0, 1);
+		border-bottom:rgba(255,255,255,0.5);
+		cursor:pointer;
+		border-top-left-radius: 3px;
+		border-top-right-radius: 3px;
+		position:relative;
+	}
+	.sxsw-box .body{
+		font-size:12px;
+		padding:20px;
+		height:200px;
+	}
+	.sxsw-box .body a{
+		color:white;
+	}
+
+	#sxsw-hide{
+		display:none;
+		position:absolute;right:20px;top:0;color:rgba(255,255,255,0.5)
+	}
+</style><!-- CSRF Support --><script type="text/javascript">
+  jQuery(document).ajaxSend(function(event, xhr, settings) {
+    if (!(/^http:.*/.test(settings.url) || /^https:.*/.test(settings.url))) {
+      xhr.setRequestHeader("X-CSRFToken", "ZsqhVcKIXt9tqc5ASXgtQwQZSkhIm6vp");
+    }
+  });
+</script><!-- end CSRF Support --><script>
+	$( document ).ready(function() {
+
+		setTimeout(function(){
+			$("#sxsw-box").animate({
+			    bottom: "-200px",
+			}, 500, function() {
+			    
+			});
+		}, 3000)
+
+		var opened = false;
+
+		$("#sxsw-hide").click(function(e) {
+			$("#sxsw-box").css("display", "none");
+		});
+
+		$("#sxsw-title").click(function(e) {
+		  	opened = !opened;
+		  	if (opened){
+		  		$("#sxsw-hide").css("display", "block");
+		  		$("#sxsw-box").animate({
+				    bottom: "0",
+				}, 500, function() {
+				    
+				});
+		  	} else {
+		  		$("#sxsw-box").animate({
+				    bottom: "-200px",
+				}, 500, function() {
+				    
+				});
+		  	}
+		});
+
+		$("#sxsw-first").click(function(e) {
+			trackSXSW("Neuroscience + Big Data")
+		});
+		$("#sxsw-second").click(function(e) {
+			trackSXSW("The pymetrics Sorting Cap")
+		});
+	});
+
+	function trackSXSW(name){
+		if (!getCookie(name)){
+			$.ajax({
+		        url: "/api2/sharing/sxsw/",
+		        type: "post",
+		        data: {name : name}
+		    });
+		    setCookie(name, true, 60)
+		}
+	}
+
+
+	// puts a cookie on the user
+	function setCookie(cname, cvalue, exdays) {
+	    var d = new Date();
+	    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+	    var expires = "expires="+d.toUTCString();
+	    document.cookie = cname + "=" + cvalue + "; " + expires + "; " + "path" + "=" + "/";
+	}
+
+	// picks up a cookie from the user and nibbles on it
+	function getCookie(cname) {
+	    var name = cname + "=";
+	    var ca = document.cookie.split(';');
+	    for(var i=0; i<ca.length; i++) {
+	        var c = ca[i];
+	        while (c.charAt(0)==' ') c = c.substring(1);
+	        if (c.indexOf(name) == 0) return c.substring(name.length,c.length);
+	    }
+	    return "";
+	}
+</script><div class="sxsw-box" id="sxsw-box"><div class="title" id="sxsw-title">
+		Help pymetrics get to SXSW!
+		<div id="sxsw-hide"> x </div></div><div class="body"><p>Bring our neuroscience games to SXSW!</p><p>Please vote for one (or both) of our panel presentations and bring the magic of pymetrics to Austin this year!</p><p><a id="sxsw-first" href="http://panelpicker.sxsw.com/vote/50294" target="_blank">Neuroscience + Big Data</a><br><a id="sxsw-second" href="http://panelpicker.sxsw.com/vote/50291" target="_blank">The pymetrics Sorting Cap</a></p><p></p><p>A big giant thank you!<br>- the pymetrics team</p></div></div><script type="text/javascript">
+    var clicky = { log: function(){ return; }, goal: function(){ return; }};
+    var clicky_site_ids = clicky_site_ids || [];
+    clicky_site_ids.push(100717156);
+    var clicky_custom = {};
+    (function() {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//static.getclicky.com/js';
+      ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();
+    </script><noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100717156ns.gif" /></p></noscript><script type="text/javascript" src="//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/9312.js"></script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/9312.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script><iframe id="stSegmentFrame" name="stSegmentFrame" src="https://web.archive.org/web/20150331170940/https://seg.sharethis.com/getSegment.php?purl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150907214055id_%2Fhttps%3A%2F%2Fwww.pymetrics.com%2Fprivacy-policy%2F&amp;jsref=&amp;rnd=1582541055108" frameborder="0" scrolling="no" width="0px" height="0px" style="display:none;"></iframe><div id="stwrapper" class="stwrapper" style="visibility: hidden; top: -999px; left: -999px; width: 500px; z-index: 89999999;"><div class="stCloseNew2"></div><iframe allowtransparency="true" id="stLframe" class="stLframe" name="stLframe" frameborder="0" scrolling="no" width="500px" height="430px" src="https://web.archive.org/web/20150331170940/https://ws.sharethis.com/secure5x/index.html" style="top: 0px; left: 0px;"></iframe></div><div id="stOverlay" style="height: 100%; width: 100%; background-color: rgb(0, 0, 0); opacity: 0.6; position: fixed; display: none; left: 0px; top: 0px; z-index: 89999990;"></div></body></html>
