@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the metabunk.org privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315063053id_/https%3A//www.metabunk.org/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metabunk.org privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907184534id_/https%3A//www.metabunk.org/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs LoggedOut NoSidebar RunDeferred Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html><html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs GalleryLazyLoader LoggedOut NoSidebar  Responsive" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta name="wot-verification" content="001680272690305efe7a">
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
@@ -13,11 +13,12 @@
 		</script>
 <title>Metabunk.org Privacy Policy | Metabunk</title>
 <noscript><style>.JsOnly,.jsOnly{display:none!important;}</style></noscript>
-<link rel="stylesheet" href="data/bdCache/css/1426010303/e06099bd86b172beadfd4a9043b71db2.css">
-<link rel="stylesheet" href="css.php?css=bbm_buttons,facebook,login_bar,pagenode,share_page&amp;style=1&amp;dir=LTR&amp;d=1426010303">
+<link rel="stylesheet" href="data/bdCache/css/1441041606/6544bcd7f5e8731966e753e9bbda3bc4.css">
+<link rel="stylesheet" href="data/bdCache/css/1441041606/3c5e1210a6560940b8d60addb42a22d6.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
 <script src="js/jquery/jquery-1.11.0.min.js"></script>
-<script src="js/xenforo/xenforo.js?_v=4f5cc9b7"></script>
-<script src="js/bbm/zloader.js?_v=4f5cc9b7"></script>
+<script src="js/xenforo/xenforo.js?_v=1e38f180"></script>
+<script src="js/bbm/zloader.js?_v=1e38f180"></script>
  
 <script src="/twentytwenty-master/js/jquery.event.move.js" type="text/javascript"></script>
 <script src="/twentytwenty-master/js/jquery.twentytwenty.js" type="text/javascript"></script>
@@ -49,14 +50,13 @@ $(window).load(function(){
   ga('send', 'pageview');
 
 </script>
-<script src="//platform.linkedin.com/in.js" type="text/javascript">
-  lang: en_US
-</script>
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+ 
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <link rel="apple-touch-icon" href="https://www.metabunk.org/files/Metabunk-logo.png">
 <link rel="alternate" type="application/rss+xml" title="RSS feed for Metabunk" href="forums/-/index.rss">
 <meta name="description" content="Our privacy policy description">
 <meta property="og:site_name" content="Metabunk">
+<meta property="og:image" content="https://www.metabunk.org/files/Metabunk-logo.png">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://www.metabunk.org/pages/privacy-policy/">
 <meta property="og:title" content="Metabunk.org Privacy Policy">
@@ -64,6 +64,41 @@ $(window).load(function(){
 <meta property="fb:app_id" content="158504827529360">
 <link rel="canonical" href="https://www.metabunk.org/pages/privacy-policy/">
 <style>.tWwrapps{margin-right:2px!important;max-width:420px!important;}.twitter-tweet{background-color:#F5F5F5;background-image:url("styles/MediaSites/tiny-timeline-bird.png");background-position:right bottom;background-repeat:no-repeat;border-radius:7px 7px 7px 7px;box-shadow:0 0 7px 0 #032A46,0 0 2px 0 #2B485C;padding:7px 7px 27px!important;min-width:150px!important;width:91%!important;}.twitter-tweet-rendered{top:-70px;}.twitter-tweet .p,{background-color:#420420;}.quote .tWwrapps{margin-right:0px!important;max-width:420px!important;min-width:116px!important;min-height:160px;}.bbCodeQuote iframe,.bbCodeQuote object,.bbCodeQuote embed{max-height:300px!important;}.bbCodeQuote .quoteContainer .quoteExpand{height:138px;}</style>
+<script type="text/javascript" charset="utf-8">
+jQuery(document).ready(function($){
+
+// The height of the content block when it's not expanded
+var internalheight = $(".uaExpandThreadRead").outerHeight();
+var adjustheight = 60;
+// The "more" link text
+var moreText = "+ Show All";
+// The "less" link text
+var lessText = "- Show Less";
+
+
+if (internalheight > adjustheight)
+{
+$(".uaCollapseThreadRead .uaExpandThreadRead").css('height', adjustheight).css('overflow', 'hidden');
+$(".uaCollapseThreadRead").css('overflow', 'hidden');
+
+
+$(".uaCollapseThreadRead").append('<span style="float: right;"><a href="#" class="adjust"></a></span>');
+
+$("a.adjust").text(moreText);
+}
+
+$(".adjust").toggle(function() {
+		$(this).parents("div:first").find(".uaExpandThreadRead").css('height', 'auto').css('overflow', 'visible');
+		$(this).text(lessText);
+	}, function() {
+		$(this).parents("div:first").find(".uaExpandThreadRead").css('height', adjustheight).css('overflow', 'hidden');
+		$(this).text(moreText);
+
+
+});
+});
+
+</script>
 </head>
 <body class="node47">
 <div id="loginBar">
@@ -285,6 +320,20 @@ Yes, my password is:</label></li>
 </div>
 </li>
  
+<li class="navTab xengallery Popup PopupControl PopupClosed">
+<a href="https://www.metabunk.org/media/" class="navLink">Media</a>
+<a href="https://www.metabunk.org/media/" class="SplitCtrl" rel="Menu"></a>
+<div class="Menu JsOnly tabMenu xengalleryTabLinks">
+<div class="primaryContent menuHeader">
+<h3>Media</h3>
+<div class="muted">Quick Links</div>
+</div>
+<ul class="secondaryContent blockLinksList xengallery">
+<li><a href="search/?type=xengallery_media">Search Media</a></li>
+<li><a href="find-new/media">New Media</a></li>
+</ul>
+</div>
+</li>
  
 <li class="navTab members Popup PopupControl PopupClosed">
 <a href="https://www.metabunk.org/members/" class="navLink">Members</a>
@@ -405,7 +454,7 @@ Yes, my password is:</label></li>
 <li><a href="help/terms">Terms and Rules</a></li>
 <li><a href="https://www.metabunk.org/pages/privacy-policy/">Privacy Policy</a></li>
 </ul>
-<div id="copyright"><a href="http://xenforo.com" class="concealed">Forum software by XenForo™ <span>©2010-2015 XenForo Ltd.</span></a>
+<div id="copyright"><a href="https://xenforo.com" class="concealed">Forum software by XenForo™ <span>©2010-2015 XenForo Ltd.</span></a>
 </div>
 <span class="helper"></span>
 </div>
@@ -420,9 +469,9 @@ jQuery.extend(true, XenForo,
 	visitor: { user_id: 0 },
 	serverTimeInfo:
 	{
-		now: 1426401055,
-		today: 1426316400,
-		todayDow: 6
+		now: 1441651535,
+		today: 1441609200,
+		todayDow: 1
 	},
 	_lightBoxUniversal: "0",
 	_enableOverlays: "1",
@@ -441,14 +490,22 @@ jQuery.extend(true, XenForo,
 		}
 	},
 	_ignoredUsers: [],
-	_loadedScripts: {"pagenode":true,"share_page":true,"bbm_buttons":true,"login_bar":true,"facebook":true},
+	_loadedScripts: {"pagenode":true,"share_page":true,"bbm_buttons":true,"login_bar":true,"facebook":true,"xengallery_tab_links":true},
 	_cookieConfig: { path: "/", domain: "", prefix: "xf_"},
 	_csrfToken: "",
 	_csrfRefreshUrl: "login/csrf-token-refresh",
-	_jsVersion: "4f5cc9b7"
+	_jsVersion: "1e38f180",
+	_noSocialLogin: false
 });
 jQuery.extend(XenForo.phrases,
 {
+	xengallery_lightbox_loading:	"Loading...",
+	xengallery_lightbox_close:	"Close (Esc)",
+	xengallery_lightbox_previous:	"Previous (Left arrow key)",
+	xengallery_lightbox_next:	"Next (Right arrow key)",
+	xengallery_lightbox_counter:	"%curr% of %total%",
+	xengallery_lightbox_error:	"The <a href=\"%url%\">media<\/a> could not be loaded.",
+	xengallery_touch_error:		"This operation will not work from a touch enabled device.",
 	cancel: "Cancel",
 
 	a_moment_ago:    "A moment ago",
