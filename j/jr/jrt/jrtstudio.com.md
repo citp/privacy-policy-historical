@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jrtstudio.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506054827id_/http%3A//www.jrtstudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrtstudio.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907225339id_/http%3A//www.jrtstudio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JRT Studio
 
 **What information do we collect?**  
 We collect information from you when you register on our sites, e-mail us directly or use any of our software.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+When you enter your information, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Our Android applications never send us your email address. If we someday need your email address, we'll ask you for it.
 
 **What do we use your information for?**
 
@@ -14,17 +14,14 @@ Any of the information we collect from you may be used in one of the following w
 * To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
+* To store application data  
+(your information helps us restore settings and backup useful information)
+
 * To improve our software  
 (we continually strive to improve our software offerings based on the information and feedback we receive from you)
 
 * To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
-
-* To administer a contest, promotion, survey or other site feature
-
-* To send periodic emails
-
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 **Do we use cookies?**
 
@@ -44,7 +41,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our online privacy policy.
+By using our site, or our software, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**
 
