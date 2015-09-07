@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventbrite.ie privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324103418id_/https%3A//www.eventbrite.ie/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbrite.ie privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907150032id_/https%3A//www.eventbrite.ie/privacypolicy) for the most accurate reproduction.*
 
 # Eventbrite Privacy Policy
 
