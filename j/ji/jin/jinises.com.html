@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jinises.com privacy policy that was archived on 2015-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408014101id_/http%3A//www.jinises.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jinises.com privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907190554id_/http%3A//www.jinises.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -287,7 +287,7 @@ textarea {
     <li><a href="http://www.jinises.com/help" title="Help">Help</a></li>
     <li><a href="http://www.jinises.com/about" title="About">About</a></li>
     <li><a href="http://www.jinises.com/privacy" title="Privacy">Privacy</a></li>
- 	 <li><a href="logout" title="Log out">Log out</a></li>
+ 	 <li><a href="#" onclick="logout(); event.preventDefault();" title="Log out">Log out</a></li>
     </ul>
     </div>
     
@@ -861,6 +861,25 @@ function get_requests() {
 	});
 	}
 }
+function logout(){
+			var user_id = "";
+			var username = "";
+			var first_name = "";
+			var last_name = "";
+			var email = "";
+			var gender = "";
+			var country = "";
+			var state = "";
+			var city = "";
+			var zip = "";
+			$.post('logout.php',{user_id:user_id, username:username, first_name:first_name, last_name:last_name, email:email, gender:gender, country:country, state:state, city:city, zip:zip}, function(data) {
+				if(data == 'success'){
+				window.location.replace("http://www.jinises.com/");
+			} else {
+				alert('it did not work');			
+			}
+		});
+}
 </script>  <div id="wrap">
     
     
@@ -912,7 +931,7 @@ you may contact us using the information below. <br><br>34 N. High st. <br>suite
 	</div>
     <div id="ftr">
     <br>
-     <p style="word-wrap: normal;">© 2014 Jinises &nbsp; <a href="http://www.jinises.com/about" title="about">About</a> &nbsp; <a href="http://www.jinises.com/contest" title="contests">Contests and Prizes</a> &nbsp; <a href="http://www.jinises.com/careers" title="careers">Careers</a> &nbsp; <a href="http://www.jinises.com/developers" title="developers">Developers</a> &nbsp; <a href="http://www.jinises.com/privacy" title="Privacy">Privacy</a> &nbsp; <a href="https://www.jinises.com/Advertising" title="Advertise">Advertise</a> &nbsp; <a href="http://www.jinises.com/contact" title="contact">Contact</a> &nbsp; <a href="http://www.jinises.com/help" title="Help">Help</a></p> 
+     <p style="word-wrap: normal;">© 2015 Jinises &nbsp; <a href="http://www.jinises.com/about" title="about">About</a> &nbsp; <a href="http://www.jinises.com/contest" title="contests">Contests and Prizes</a> &nbsp; <a href="http://www.jinises.com/careers" title="careers">Careers</a> &nbsp; <a href="http://www.jinises.com/developers" title="developers">Developers</a> &nbsp; <a href="http://www.jinises.com/privacy" title="Privacy">Privacy</a> &nbsp; <a href="https://www.jinises.com/Advertising" title="Advertise">Advertise</a> &nbsp; <a href="http://www.jinises.com/contact" title="contact">Contact</a> &nbsp; <a href="http://www.jinises.com/help" title="Help">Help</a></p> 
     </div>
    
 
