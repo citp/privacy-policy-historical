@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agiledesigners.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611233439id_/http%3A//www.agiledesigners.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agiledesigners.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907174322id_/http%3A//agiledesigners.com/privacy_policy) for the most accurate reproduction.*
 
 # 1436 Top Resources for Designers and Developpers - Agile Designers
 
