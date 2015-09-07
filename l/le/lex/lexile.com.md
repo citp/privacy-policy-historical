@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407053121id_/https%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907072112id_/https%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | The Lexile® Framework for Reading
 
@@ -34,4 +34,4 @@ MetaMetrics allows you to purchase Lexile® -related products and services in a 
 
 **The Bottom Line**
 
-Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers.  If at any time you have questions or concerns about our privacy practices in general or this Privacy Notice in particular, please feel free [contact us](https://lexile.desk.com/).
+Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our customers.  If at any time you have questions or concerns about our privacy practices in general or this Privacy Notice in particular, please feel free to [contact us](https://lexile.desk.com/). 
