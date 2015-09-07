@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamenutt.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611031236id_/http%3A//gamenutt.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamenutt.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907063416id_/http%3A//gamenutt.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy » GameNutt
 
