@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614095938id_/http%3A//www.channelone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908003654id_/https%3A//www.channelone.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy | Channel One News
 
@@ -6,7 +6,7 @@ Updated: June 7th, 2013
 
 **CHANNEL ONE PRIVACY POLICY**
 
-The following applies to Channel One’s mobile and online offerings, which are provided to you via our website which is accessible through [www.channelone.com](http://www.channelone.com/) (and at successor, affiliated or associated domains) or through various mobile or device-oriented app stores or similar distribution platforms.  Our websites are referred to as “Channel One’s Sites”.  Our offerings, including without limitation delivered through or in the form of a media player, app, or native or downloadable software-based offering, are referred to as “Channel One’s Offerings.”
+The following applies to Channel One’s mobile and online offerings, which are provided to you via our website which is accessible through [www.channelone.com](https://web.archive.org/) (and at successor, affiliated or associated domains) or through various mobile or device-oriented app stores or similar distribution platforms.  Our websites are referred to as “Channel One’s Sites”.  Our offerings, including without limitation delivered through or in the form of a media player, app, or native or downloadable software-based offering, are referred to as “Channel One’s Offerings.”
 
 Channel One’s Sites and Channel One’s Offerings are owned or licensed and operated and distributed by Channel One, LLC (referred to herein as “Channel One” and “we” and through similar words such as “us,” “our,” etc.).
 
