@@ -1,0 +1,445 @@
+<!--The following is the downloaded HTML source of the wucrugby2016.com privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907220249id_/http%3A//wucrugby2016.com/privacy-policy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+  
+<meta charset="utf-8">
+
+<link rel="dns-prefetch" href="http://ajax.googleapis.com">
+
+
+
+<title>Privacy Policy | Rugby 7s 2016</title>
+
+
+
+<!-- Meta information-->
+
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="author" content="Waters Creative Ltd (www.waters-creative.co.uk)">
+<meta name="robots" content="INDEX, FOLLOW">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+
+<!-- Facebook OpenGraph elements -->  
+<meta property="og:title" content="Privacy Policy | Rugby 7s 2016">
+<meta property="og:description" content="">
+<meta property="og:image" content="http://www.rucrugby2016.com/images/social.png">
+
+
+
+<!-- stylesheets -->
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css" type="text/css" media="all">
+<link rel="stylesheet" href="/styles/base.compiled.102454.css" type="text/css" media="all"><link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+
+
+<link href="/js/libs/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css">
+
+  
+
+
+
+
+<!-- other icons -->
+<link rel="icon" type="image/png" href="http://www.rucrugby2016.com/favicon.png">
+<link rel="image_src" href="http://www.rucrugby2016.com/images/social.png">
+
+
+
+<!-- URL handling -->
+<link rel="canonical" href="http://www.rucrugby2016.com/privacy-policy.htm">
+
+
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" async=""></script><script src="//cdnjs.cloudflare.com/ajax/libs/picturefill/2.3.1/picturefill.min.js" async=""></script><script type="text/javascript">
+
+// ----------------------------------------------------------------------
+// Set variables
+// ----------------------------------------------------------------------
+
+// Test as to whether the DOM ready script has been run yet or not
+var domReadyRun = false;
+
+// ----------------------------------------------------------------------
+// Worker function definitions
+// ----------------------------------------------------------------------
+
+// Ensure the console calls do something:
+if(typeof window.console == 'undefined'){ window.console = { log: function (msg) { alert(msg); } }; }
+
+/*! loadJS: load a JS file asynchronously. Originally based on [c]2014 @scottjehl, Filament Group, Inc. (Based on http://goo.gl/REQGQ by Paul Irish). Licensed MIT. Modified to fix bug in IE8 where onload was not being triggered (script.onreadystatechanged added) by J.Harvey */
+function loadJS( src, cb ){	"use strict"; var ref = window.document.getElementsByTagName( "script" )[ 0 ]; var script = window.document.createElement( "script" ); script.src = src; script.async = true; ref.parentNode.insertBefore( script, ref ); if (cb && typeof(cb) === "function") { script.onload = cb; script.onreadystatechange = function(){ if (this.readyState == 'loaded'){ cb.call(); } } } return script; }
+
+// Function for testing if we are using IE, and the version being used:
+function isIE() { var myNav = navigator.userAgent.toLowerCase(); return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false; }
+
+// Wrapper function for console calls:
+function consoleWrapper(msg){ console.log(msg); }
+
+</script>
+
+
+<script type="text/javascript">
+
+// ----------------------------------------------------------------------
+// Customisable functions and variables
+// ----------------------------------------------------------------------
+
+
+var isCycleLoading = false;
+
+
+// List of files which should always be loaded by this page.
+var jsFiles = [  
+	"//cdnjs.cloudflare.com/ajax/libs/picturefill/2.3.1/picturefill.min.js",
+	 "http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"
+	  
+	//"js/libs/shoestring/shoestring.js"
+]; 
+
+// Conditional loading of additional scripts, depending on browser 
+// version. Typically, load polyfills for pre-IE9 browsers
+if (isIE() && isIE() < 9){
+	jsFiles.push("js/libs/html5shiv.min.js");
+	jsFiles.push("js/libs/selectivizr-min.js");
+	jsFiles.push("js/libs/respond.min.js");
+}
+
+// Function used to test if critical scripts have loaded. This is 
+// required in the case where one or more scripts depend on each 
+// other
+function isReady(){
+	
+	// Check whether critical functions have been loaded and if so, 
+	// trigger post-loading scripts. For example, check if jQuery, 
+	// or other dependency has loaded yet.
+	if (window.jQuery && !domReadyRun){ 			
+
+		// Message to console:
+		consoleWrapper("Critical JS functionality has loaded.");
+
+		// Set flag to ensure this proceedure is only run once:
+		domReadyRun = true;
+
+		// Queue custom JavaScript:
+		document.ready = function(){ 
+			isReadyJS( jQuery ); 
+		};
+
+	}
+	
+	// Use the following to load jQuery-dependent plugins
+	if (window.jQuery){
+		if (jQuery.fn.cycle || (isCycleLoading == true)){
+			//
+		} else {
+			isCycleLoading = true;
+			loadJS( "http://malsup.github.io/jquery.cycle2.js", function(){ 
+						
+						consoleWrapper("Loaded jquery.cycle2.js."); 
+
+						loadJS( "js/libs/jquery.cycle2.carousel.min.js", function(){ consoleWrapper("Loaded jquery.cycle2.carousel.min.js");  } );
+						
+						isReady(); 
+				});
+		}
+	}
+
+}
+
+// Function used to perform the custom actions once the page has loaded
+// e.g. trigger actions, slideshows etc etc.
+// We pass in the document manipulation API as "$" for interoperability 
+// reasons, for example shoestring has the same core DOM functionality 
+// as jQuery and have the same
+function isReadyJS( $ ){
+
+	// Message to console
+	consoleWrapper("Running custom actions...");
+
+
+	loadJS( "js/libs/fancybox/jquery.fancybox-1.3.4.js", function(){
+		$(".chosen-gallery a").fancybox();
+	});
+
+
+	handleSections(".section");
+	
+
+	//if (window.fancybox){
+	//	jQuery(".chosen-gallery a").fancybox();
+	//}
+	
+	
+	// Call to get twitter
+	if ($('#js-twitterfeed').length > 0) { //If there is a twitter feed
+		$('#js-twitterfeed .loading').show(); //Show it
+		jQuery.ajax({
+			url: '/scripts/twitter-code.php?items=3', //Get 3 Items
+			success: function(data) {
+				jQuery('#js-twitterfeed').html(data); //Output the HTML
+			}
+		});
+	}
+
+
+
+
+ //Responsive menu  
+	$(".nav-responsive-link").on("click", function(event){
+		$(".nav").toggle();
+	});
+
+
+
+
+
+
+
+	
+	// Custom code here
+	consoleWrapper("Finished custom actions...");
+}
+
+
+
+
+
+var sectionNumber = 0;
+
+function handleSections(els){
+	if ($(els).length > 0){
+		
+		$(els).hide();
+		
+		$(els).each(function(){
+			var title = $(this).children("h3:first-child").text();
+			var classes = $(this).children("h3:first-child").attr("class");
+			if (typeof classes == 'undefined'){
+				classes = "";
+			}
+			$(this).attr("id", "section-"+sectionNumber);
+			$(this).before('<a href="#" class="section-link ' + classes + '" data-target="section-'+sectionNumber+'" title="Toggle '+ title +'">'+ title +'</a>');
+			sectionNumber++;
+		});
+		
+		$(".section-link").on("click", function(event){
+			event.preventDefault();
+			var target = $(this).attr("data-target");
+			
+			if ($("#"+target).is(":visible")){
+				$("#"+target).slideUp(500);
+				$(this).removeClass("expanded");
+			} else {
+				$("#"+target).slideDown(650);
+				$(this).addClass("expanded");
+			}
+			return false;
+		});
+		
+	}
+}
+
+
+
+
+
+
+
+
+
+</script>
+
+<script type="text/javascript">
+
+// ----------------------------------------------------------------------
+// Loop over files, calling the loadJS function. Specify callback function so 
+// that we can test for critical path JavaScript and trigger post-load scripting
+// ----------------------------------------------------------------------
+
+for(c = 0; c < jsFiles.length; c++){ consoleWrapper("Loaded file..." + jsFiles[c]); loadJS( jsFiles[c], function(){ consoleWrapper("Loaded file."); isReady(); }); }
+
+// ----------------------------------------------------------------------
+	
+</script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12465577-38', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body id="wurugby2016-com" class="lo-default" itemscope="" itemtype="http://schema.org/WebPage">
+
+	<a href="#content" class="hide-visually">jump to content</a>
+
+	<div id="page" class="page" role="document">
+
+
+	    <header id="branding" class="branding" role="banner">
+			
+
+<div class="container">
+
+	<h1 class="logo"><a href="/"><img src="data/website_design/logo.png" alt="Rugby 7's" title="Rugby 7's"></a></h1>     
+     <a class="nav-responsive-link" href="#"><img src="data/website_design/mobile-menu.png" alt="menu" width="180px" height="37px"></a>
+
+	<h2 class="strapline">7th World University <span>Championship Rugby 7s Championship</span> 6th-9th July 2016</h2>
+
+
+	<form action="/search.htm" method="get" class="top-search-form">
+		<fieldset class="top-search-fieldset">
+			<legend class="hide-visually">Search site</legend>
+			<div>
+				<label class="hide-visually" for="q">Search: </label>
+				<input class="top-search-input" type="text" name="q" id="q" value="" placeholder="Search site">
+				<button type="submit" class="top-search-submit">
+					<i class="i-next"></i> <span class="hide-visually">Search site</span>
+				</button>
+			</div>
+		</fieldset>
+	</form>
+
+
+	<nav id="nav" class="nav" role="navigation">
+		
+<ul class="lvl-0">
+ <li class="lvl-0-item "><a href="index.htm" class="lvl-0-link"><span>Home</span></a></li>
+ <li class="lvl-0-item "><a href="#" class="lvl-0-link"><span>Venue</span></a>
+<ul class="lvl-1">
+ <li class="lvl-1-item "><a href="venue.htm" class="lvl-1-link">Sports Venue</a></li>
+ <li class="lvl-1-item "><a href="championship-village.htm" class="lvl-1-link">Championship Village</a></li>
+ <li class="lvl-1-item "><a href="sports-facilities.htm" class="lvl-1-link">Sports Facilities</a></li>
+ <li class="lvl-1-item "><a href="venue-travel.htm" class="lvl-1-link">Travel</a></li>
+ <li class="lvl-1-item "><a href="venue-location.htm" class="lvl-1-link">Swansea / Wales</a></li>
+</ul>
+</li>
+ <li class="lvl-0-item "><a href="#" class="lvl-0-link"><span>Championship</span></a>
+<ul class="lvl-1">
+ <li class="lvl-1-item "><a href="championship-schedule.htm" class="lvl-1-link">Schedule</a></li>
+ <li class="lvl-1-item "><a href="entry.htm" class="lvl-1-link">Entry</a></li>
+ <li class="lvl-1-item "><a href="championship-rules.htm" class="lvl-1-link">Rules</a></li>
+ <li class="lvl-1-item "><a href="accreditation.htm" class="lvl-1-link">Accreditation</a></li>
+ <li class="lvl-1-item "><a href="history.htm" class="lvl-1-link">History</a></li>
+</ul>
+</li>
+ <li class="lvl-0-item "><a href="#" class="lvl-0-link"><span>Media</span></a>
+<ul class="lvl-1">
+ <li class="lvl-1-item "><a href="videos.htm" class="lvl-1-link">Videos</a></li>
+ <li class="lvl-1-item "><a href="gallery.htm" class="lvl-1-link">Images</a></li>
+</ul>
+</li>
+ <li class="lvl-0-item "><a href="results.htm" class="lvl-0-link"><span>Results</span></a></li>
+</ul>
+	</nav>
+	
+
+	
+</div> 
+	    </header><!-- header -->
+
+
+		<div id="main-content" class="main-content"> 
+
+
+			
+
+		<div class="container banner-tweet">
+			<div class="page-title">                      
+				<h2>Privacy Policy</h2>
+			</div>
+		</div>
+		
+
+
+
+
+							<div class="container">                    
+					<article> 
+						<div class="column-left">
+							
+
+							<h3>Privacy Policy</h3>
+<p>Any personal information that you provide to us, for example information submitted via the enquiry form; or the IP address that you use to visit our site; will be treated in the strictest confidence, in accordance with the Data Protection Act, and will not be passed on to third parties without your consent.</p>
+<h3>How will we use your information</h3>
+<p>Any personal data that you supply to use via the enquiry form will be used to contact you about your enquiry, and may be used to send you generic marketing information about the Wales Sports Bureau. It may be used aggregated with other data to help us build up a picture of website usage and interest, for example by geographic spread or by sporting discipline. Your personal data will never be shared with third parties. &nbsp;</p>
+						</div> 
+					</article>  
+					<aside>
+						<div class="column-right">
+							<ul class="widgets">
+								<!-- Widgets -->							</ul>
+						</div> 
+					</aside>
+				</div>
+									
+			
+        
+        
+
+		</div> <!--end main content-->      
+
+		   
+
+		
+	<div class="sponsors-heading">
+		<div class="container">
+			<h3>Sponsored by</h3>
+		</div>
+	</div>  
+
+	<div class="sponsors">
+		<div class="container">
+			<ul class="sponsor-logos">
+				<li><a href="http://www.swansea.ac.uk/" target="_blank" title=""><img src="data/site_images/swansea-university-logo.png" alt="Swansea University"></a></li>
+                <li><a href="http://www.bucs.org.uk/" target="_blank" title=""><img src="data/site_images/bucs-logo.png" alt="BUCS"></a></li>
+				<li><a href="http://www.fisu.net" target="_blank" title=""><img src="data/site_images/fsu-logo.png" alt="FISU"></a></li>
+				
+				
+			</ul>
+		</div>
+	</div>
+	   
+
+
+		<footer class="additional-info" role="contentinfo">
+			
+<div class="container">     
+
+
+		<div class="footer-nav">
+			
+		<ul class="foot-lvl-0">
+
+			<li class="foot-lvl-0-item "><a href="privacy-policy.htm" class="foot-lvl-0-link"><span>Privacy Policy</span></a></li>
+			<li class="foot-lvl-0-item "><a href="cookie-policy.htm" class="foot-lvl-0-link"><span>Cookie Policy</span></a></li>
+			</ul>
+        </div>  
+
+
+	<div class="copyright">
+		<p>Copyright © 2015 Swansea university</p>
+		<p>All rights reserved.</p>            
+		<p>Telephone: <strong>+44 1792 656532</strong></p>           
+		<p>Email: <a href="mailto:wucrugby2016@gmail.com">wucrugby2016@gmail.com</a><br><br>
+		Website designed by <a href="http://www.waters-creative.co.uk" target="_blank">Waters Creative</a></p>
+	</div>
+
+</div>  
+		</footer>
+
+	</div>
+
+
+
+</body></html>
