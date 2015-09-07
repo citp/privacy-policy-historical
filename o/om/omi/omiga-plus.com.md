@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omiga-plus.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401154350id_/http%3A//omiga-plus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omiga-plus.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907161211id_/http%3A//omiga-plus.com/privacy.html) for the most accurate reproduction.*
 
 # Omiga Plus - Your tool for a clean desktop
 
