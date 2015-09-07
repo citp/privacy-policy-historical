@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615004638id_/http%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907180437id_/http%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -46,19 +46,19 @@ Each registered user chooses a password for his/her use. This password is used b
 Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
   
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.  
-
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
   
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you will not have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.  
-
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you will not have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
 
   
 **Do We Disclose The Info We Collect To Outside Parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include mac of all trades. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Mac of all trades. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+  
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.  
+
 
   
 **How Can You Opt-Out, Remove or Modify Info You Have Provided To Us?**
@@ -90,7 +90,7 @@ This online privacy policy applies only to information collected through our web
   
 **Terms & Conditions**
 
-Please also visit our [Terms & Condition](https://web.archive.org/web/20150615004638id_/http%3A//www.macofalltrades.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms & Condition](https://web.archive.org/web/20150907180437id_/http%3A//www.macofalltrades.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
   
 **Your Consent**
