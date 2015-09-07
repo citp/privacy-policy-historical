@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bounceexchange.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419022419id_/http%3A//bounceexchange.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bounceexchange.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907081911id_/http%3A//www.bounceexchange.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Bounce Exchange™
+# 
 
 **BOUNCE EXCHANGE**
 
@@ -18,7 +18,7 @@ If you purchase our products or services, we may request certain personally iden
 
 In addition, if you contact us by email through our website, we may keep a record of your contact information and correspondence.  In any event, we reserve the right to use your email address and any other personally identifiable information that you provide to us to respond to you and to send you marketing materials for our own products and services.  We will not share your information with outside parties who wish to market other products and services to you. 
 
-Like most websites, our website may incorporate “pixel tags”, “web beacons”, or similar tracking technologies and “cookies” that allow us to track the actions of visitors of our website.  Pixel tags and cookies are used to collect non-personally identifiable information, such as the name of your internet service provider, the IP address of the computer you are using, the type of browser software and operating system that you use, the date and time you access our website, the website address, if any, from which you linked directly to our website, the website address, if any, to which you travel from our website, your home page customization preferences and other similar traffic-related information.  We may aggregate your information with similar data collected from other visitors to help us improve our website and the products, services, applications, content and features that we provide through our website.  We do not use non-personally identifiable information in any way to create or maintain a personal profile of you or collect personally identifiable information from you.
+Like most websites, our website may incorporate â€œpixel tagsâ€, â€œweb beaconsâ€, or similar tracking technologies and â€œcookiesâ€ that allow us to track the actions of visitors of our website.  Pixel tags and cookies are used to collect non-personally identifiable information, such as the name of your internet service provider, the IP address of the computer you are using, the type of browser software and operating system that you use, the date and time you access our website, the website address, if any, from which you linked directly to our website, the website address, if any, to which you travel from our website, your home page customization preferences and other similar traffic-related information.  We may aggregate your information with similar data collected from other visitors to help us improve our website and the products, services, applications, content and features that we provide through our website.  We do not use non-personally identifiable information in any way to create or maintain a personal profile of you or collect personally identifiable information from you.
 
 **How We Use the Information We Gather**
 
@@ -34,7 +34,7 @@ From time to time we review this Privacy Policy to ensure that it complies with 
 
 **In the Event We Engage in a Business Combination, We Reserve the Right to Transfer Any Information that We Collect through Our Website.**
 
-If we sell all or any part of our business or sell or transfer all or a material part of our assets or are otherwise involved in a merger or other transfer or disposition of any part our business, we reserve the right to access, transfer or disclose any and all information that we collect from our website’s visitors, or that we otherwise collect in connection with the website, to the party or parties involved in the transaction as part of that transaction.
+If we sell all or any part of our business or sell or transfer all or a material part of our assets or are otherwise involved in a merger or other transfer or disposition of any part our business, we reserve the right to access, transfer or disclose any and all information that we collect from our websiteâ€™s visitors, or that we otherwise collect in connection with the website, to the party or parties involved in the transaction as part of that transaction.
 
 **Our Website may Contain Links to Other Websites.  **
 
