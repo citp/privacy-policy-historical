@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungknox.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326031114id_/https%3A//www.samsungknox.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungknox.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907022556id_/https%3A//www.samsungknox.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Samsung KNOX
 
