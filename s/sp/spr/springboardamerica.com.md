@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springboardamerica.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509044730id_/https%3A//www.springboardamerica.com/Portal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springboardamerica.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907062525id_/https%3A//www.springboardamerica.com/Portal/privacy.aspx) for the most accurate reproduction.*
 
 # Springboard America
 
