@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interviewexchange.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220021918id_/http%3A//www.hirezon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interviewexchange.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907211233id_/http%3A//www.hirezon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hirezon HR Software Solutions
 
