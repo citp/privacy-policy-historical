@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-patternscentral.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320133436id_/https%3A//www.e-patternscentral.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-patternscentral.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907173426id_/https%3A//www.e-patternscentral.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_
 
-which adhere to industry standards in helping to assure our customers' privacy. All information, including transactions, customer accounts, and all correspondence, are handled with discretion and care. The policies below apply to all of the 
+which adhere to industry standards in helping to assure our customers' privacy. All information, including transactions, customer accounts and all correspondence, are handled with discretion and care. The policies below apply to all of the 
 
 _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_
 
@@ -20,10 +20,10 @@ _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_
 
 .
 
-**Anonymous Information Collected By Annie's**  
-When you visit a Annie's 
+**Anonymous Information Collected by Annie's**  
+When you visit an Annie's 
 
-_[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_
+_[website](http://www.annies-publishing.com/pages/privacy_websites.html)_
 
 , Annie's will capture certain anonymous information from our visitors. This includes the Internet provider's name (e.g. AOL), paths taken through a given site, and "click stream" activity such as when you click on a banner advertisement. No information that could identify you as an individual is collected in this manner. 
 
@@ -37,12 +37,12 @@ to provide you with a better experience in the future, to respond to customer in
 
 Annie's may also share this non-identifiable information with third parties from time to time.
 
-**Personal Information Collected By Annie's**  
-From time to time while on a Annie's 
+**Personal Information Collected by Annie's**  
+From time to time while on an Annie's 
 
 _[website](http://www.annies-publishing.com/pages/privacy_websites.html)_
 
-, we may ask you to provide personal information such as your name, address, telephone number, email address and credit card information. We may ask you to provide personal information when making a purchase, setting up an account, or joining one of our online programs. Annie's will use your personal information for the purpose for which it was provided and as otherwise set forth herein. We will not store your credit card information unless you instruct us to do so.  Annie's may combine your personal information with information collected by its 
+, we may ask you to provide personal information, such as your name, address, telephone number, email address and credit card information. We may ask you to provide personal information when making a purchase, setting up an account, or joining one of our online programs. Annie's will use your personal information for the purpose for which it was provided and as otherwise set forth herein. We will not store your credit card information unless you instruct us to do so.  Annie's may combine your personal information with information collected by its 
 
 _[subsidiaries](http://www.annies-publishing.com/pages/privacy_companies.html)_
 
@@ -59,26 +59,26 @@ _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_
 When you make a purchase on our website or join a club via our website, we request you to provide financial information such as account or credit card numbers. We will use your financial information to bill you for products and services or otherwise process your transactions. By making a purchase on our website, you consent to our providing your financial information to our service providers and to such third parties as we determine is necessary to process your transactions. These third parties may include the credit card companies and banking institutions used to process the transaction.
 
 **Your Email Address**  
-If you have provided your email address to Annie's, from time to time you will receive emails from us with information and offers from Annie's and other companies that we feel would be of interest to you. With every commercial email, we will provide you with a link to opt-out from receiving future commercial email. You can also opt-out of receiving future email messages from us by emailing us at 
+If you have provided your email address to Annie's, from time to time you will receive emails from us with information and offers from Annie's and other companies that we feel would be of interest to you. With every commercial email, we will provide you with a link to opt-out from receiving future commercial emails. You can also opt-out of receiving future email messages from us by emailing us at 
 
 _[Privacy@Annies-Publishing.com](mailto:Privacy@Annies-Publishing.com)_
 
-. Opt-out requests are usually handled as soon as the request is made. However, it may take up to ten days to process an opt-out request.
+. Opt-out requests are usually handled as soon as the request is made. However, it may take up to 10 days to process an opt-out request.
 
 Because we want to ensure that those people who have opted out no longer receive commercial email from us, we may share our opt-out email addresses with our trusted third-party advertising partners who engage in email marketing to their customers on our behalf. As such, we may share the email addresses of persons who have opted out with these third parties for the sole purpose of scrubbing their email marketing lists with our opt-out list to remove the email addresses of those persons who have opted to no longer receive our commercial email announcements.
 
-Please note that if you elect not to receive commercial email messages from us, we will continue to send you transactional related email, such as product recall information, or safety or security information, subscription information, membership details, account status, order confirmations, shipping confirmations, invoices and customer service related email.
+Please note that if you elect not to receive commercial email messages from us, we will continue to send you transactional related email, such as product recall information, or safety or security information, subscription information, membership details, account status, order confirmations, shipping confirmations, invoices and customer-service related email.
 
 Annie's will not share your email address with any third party except as expressly set forth in this policy or unless you have requested or consented to such disclosure.
 
-**Offline Communications from Annie's**  
-When you provide your name, address, and telephone number to Annie's, we may use this information to contact you with correspondence and promotional offers from Annie's. You always have the opportunity to choose to no longer receive these communications from us by emailing us at 
+**Offline Communications From Annie's**  
+When you provide your name, address and telephone number to Annie's, we may use this information to contact you with correspondence and promotional offers from Annie's. You always have the opportunity to choose to no longer receive these communications from us by emailing us at 
 
 _[MailPreference@Annies-Publishing.com](mailto:MailPreference@Annies-Publishing.com)_
 
 . 
 
-**Offline Communications from other companies**  
+**Offline Communications From Other Companies**  
 From time to time we may also share your name, address and telephone number with certain select third parties whose products or services we think might be of interest to you. You always have the opportunity to request that your information no longer be shared with these third parties by emailing us at 
 
 _[MailPreference@Annies-Publishing.com](mailto:MailPreference@Annies-Publishing.com)_
@@ -106,7 +106,7 @@ _[website](http://www.annies-publishing.com/pages/privacy_websites.html)_
 
 and email services. Access to and use of your personal information by these contractors is limited to the information reasonably necessary in order for them to perform their limited function for us.
 
-**Policy for individuals under 18**  
+**Policy for Individuals Under 18**  
 The Annie's 
 
 _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_
@@ -120,9 +120,9 @@ owned and operated by Annie's by children under 18.
 **Security of Your Information**  
 Annie's values your privacy and the security of your information. We utilize firewalls, secure access storage facilities and other industry standards to protect against the loss, misuse or alteration of your personal information.
 
-Our Secure Sockets Layer (SSL) software is the industry standard and among the best software available today for secure online commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, to protect the privacy of your information as it travels over the Internet. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your information, we cannot ensure or warrant the security of any information you transmit to us.
+Our Secure Sockets Layer (SSL) software is the industry standard and among the best software available today for secure online commerce transactions. It encrypts all of your personal information, including credit card number, name and address, to protect the privacy of your information as it travels over the Internet. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your information, we cannot ensure or warrant the security of any information you transmit to us.
 
-**Related sites and hyperlinks to other websites**  
+**Related Sites and Hyperlinks to Other Websites**  
 Annie's 
 
 _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_
@@ -151,10 +151,10 @@ Please use the address provided on the individual
 
 _[websites](http://www.annies-publishing.com/pages/privacy_websites.html)_
 
-for general customer service questions. You may use this address if you'd prefer not to receive future Annie's mailings and/or mailings from other companies to which we make our mailing list available. Please be sure to specify the company name from which you received the mailing.
+for general customer-service questions. You may use this address if you'd prefer not to receive future Annie's mailings and/or mailings from other companies to which we make our mailing list available. Please be sure to specify the company name from which you received the mailing.
 
-**Changes to this Pledge**  
-Please note this Privacy Pledge may be changed from time to time. Any changes to this policy will be posted on this page. Please check this page regularly. By using a Annie's 
+**Changes to This Pledge**  
+Please note this Privacy Pledge may be changed from time to time. Any changes to this policy will be posted on this page. Please check this page regularly. By using an Annie's 
 
 _[website](http://www.annies-publishing.com/pages/privacy_websites.html)_
 
