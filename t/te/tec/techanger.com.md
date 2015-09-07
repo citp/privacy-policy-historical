@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techanger.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319124235id_/http%3A//www.techanger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techanger.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907033406id_/http%3A//www.techanger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechAnger
 
@@ -76,10 +76,8 @@ By surfing this website, you signify your acceptance of this policy. If you do n
 
 **How you Contact Us?**
 
-If you’ve got any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact America at:
-
-http://www.techanger.com
-
+If you’ve got any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact America at:  
+http://www.techanger.com  
 Lucknow, Uttar Pradesh(UP), India  
 aamir@techanger.com
 
