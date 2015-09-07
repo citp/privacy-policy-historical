@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319135252id_/https%3A//www.travelex.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907025510id_/https%3A//www.travelex.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelex UK
 
