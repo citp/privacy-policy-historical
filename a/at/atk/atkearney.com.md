@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atkearney.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617191202id_/http%3A//www.atkearney.com/safe-harbor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkearney.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907204855id_/https%3A//www.atkearney.com/safe-harbor) for the most accurate reproduction.*
 
 # Safe Harbor Privacy Policy - A.T. Kearney
 
