@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atitesting.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708215507id_/https%3A//www.atitesting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atitesting.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907230223id_/https%3A//www.atitesting.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | ATI
 
@@ -14,7 +14,7 @@ We use personal information to provide the highest quality of service to our cus
 
 ### Information Sharing
 
-ATI will not sell, rent, trade or lease your personal information to others unless we have requested to do so and have received your permission, provided that you authorize ATI to disclose your personal information to others under the following circumstances: We may, and you authorize ATI to, transfer your personal information to any ATI affiliate (or business partner or agent acting on our behalf) worldwide for purposes described herein. Such ATI affiliates, business partners, and agents will be under the same obligations as is ATI under this Privacy Policy. We may be required to transfer your personal information by law or under a court order or in connection with an organizational change, such as a merger or acquisition by another company or the sale of ATI’s assets. If ATI, in its sole discretion, determines that that a transfer is necessary to protect the rights, property, or personal safety of ATI, this site, or its users, then we may also share your personal information.
+ATI will not sell, rent, trade or lease your personal information to others unless we have requested to do so and have received your permission, provided that you authorize ATI to disclose your personal information to others under the following circumstances: We may, and you authorize ATI to, transfer your personal information to any ATI affiliate (or business partner or agent acting on our behalf) worldwide for purposes described herein. Such ATI affiliates, business partners, and agents will be under the same obligations as is ATI under this Privacy Policy. We may provide information to your school and its faculty about your purchase and use of ATI products and services. We may be required to transfer your personal information by law or under a court order or in connection with an organizational change, such as a merger or acquisition by another company or the sale of ATI’s assets. If ATI, in its sole discretion, determines that that a transfer is necessary to protect the rights, property, or personal safety of ATI, this site, or its users, then we may also share your personal information.
 
 Any personal information and student and faculty data collected or used in connection with ATI Product Use, may be shared with third parties as described in each applicable ATI product and related ATI terms of use, with necessary consents as may be required and also described therein. 
 
@@ -50,4 +50,4 @@ ATI reserves the right to revise this Privacy Policy at any time, without notice
 
 If you have any questions or comments about ATI’s Privacy Policy, please contact us by email at comments@atitesting.com 
 
-ATI Privacy Policy (Rev July2012)
+ATI Privacy Policy (Rev Feb2015)
