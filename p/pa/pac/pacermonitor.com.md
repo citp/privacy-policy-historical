@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pacermonitor.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627185159id_/https%3A//www.pacermonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacermonitor.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907213128id_/https%3A//www.pacermonitor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Harros LLC ("We", "Us", or the "Company") respects the privacy rights of our users and knows that you care how information about you is used and shared. This notice describes the privacy policy for our website, PacerMonitor.com (the "Site") and is part of our Terms of Service. By using the Site, you agree to the terms of this Privacy Policy and the Terms of Service.
+PacerMonitor, LLC ("We", "Us", or the "Company") respects the privacy rights of our users and knows that you care how information about you is used and shared. This notice describes the privacy policy for our website, PacerMonitor.com (the "Site") and is part of our Terms of Service. By using the Site, you agree to the terms of this Privacy Policy and the Terms of Service.
 
   * We collect anonymous data from every visitor of the Site to monitor performance, improve our service, and to fix bugs. This data includes, but is not limited to, pages requested, Internet Protocol (IP) address, and browser and network information. 
   * We may use "session cookies" to keep track of your browsing session. If you click "remember me" when logging in, we may use "persistent cookies" to store your authentication information between sessions. Your web browser allows you to control and limit cookies on your computer. If you reject cookies, you may still use the Site, but your ability to use some areas or functions of the Site may be limited. 
