@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogstrust.org.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315204406id_/https%3A//www.dogstrust.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogstrust.org.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907221635id_/https%3A//www.dogstrust.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Dogs Trust
 
