@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddpcshares.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617081613id_/http%3A//www.ddpcshares.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddpcshares.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907090802id_/http%3A//www.ddpcshares.com/privacy_policy) for the most accurate reproduction.*
 
 # DDPCshares.com :: Privacy Policy
 
@@ -17,5 +17,3 @@ We also use third party advertisements on **[DDPCshares](http://www.ddpcshares.c
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as your computers security software. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 * **[DDPCshares](http://www.ddpcshares.com/)** is not affiliated with **DoubleDown Casino LLC** or their affiliates
-
-back
