@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315040242id_/http%3A//www.riogrande.com/Landing/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riogrande.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907182609id_/http%3A//www.riogrande.com/Landing/Privacy) for the most accurate reproduction.*
 
 # Privacy
-
-  
-
 
   
 
@@ -60,5 +57,3 @@ Please feel free to review and correct your information at any time by calling 8
 
 
 * * *
-
-Rio Grande. Recommended by jewelers since 1944.
