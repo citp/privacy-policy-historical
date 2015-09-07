@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323103325id_/https%3A//www.gadventures.com/terms-conditions-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907195240id_/https%3A//www.gadventures.com/terms-conditions-policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - G Adventures - G Adventures
 
