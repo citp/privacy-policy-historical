@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acuityscheduling.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326033504id_/https%3A//www.acuityscheduling.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuityscheduling.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907225301id_/https%3A//www.acuityscheduling.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Acuity Online Appointment Scheduling Software
 
 Last Update: August 8, 2014
 
-This is the Privacy Policy governing your use of the Acuity Scheduling websites (the "Site") and the collection, use, transfer and processing of your Collected Information by Acuity Scheduling, Inc.and our affiliates (collectively referred to as "Acuity Scheduling", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the [Terms of Service Agreement](https://web.archive.org/web/20150326033504id_/https%3A//www.acuityscheduling.com/tos.php) between you and Acuity Scheduling which by use of this Site you agree to accept. 
+This is the Privacy Policy governing your use of the Acuity Scheduling websites (the "Site") and the collection, use, transfer and processing of your Collected Information by Acuity Scheduling, Inc.and our affiliates (collectively referred to as "Acuity Scheduling", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the [Terms of Service Agreement](https://web.archive.org/web/20150907225301id_/https%3A//www.acuityscheduling.com/tos.php) between you and Acuity Scheduling which by use of this Site you agree to accept. 
 
 ## The Information We Collect
 
