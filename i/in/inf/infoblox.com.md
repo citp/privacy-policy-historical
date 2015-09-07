@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316060858id_/https%3A//www.infoblox.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoblox.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907213311id_/https%3A//www.infoblox.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DDI (Secure DNS, DHCP, and IPAM) | Infoblox
 
