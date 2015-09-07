@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the betamerica.com privacy policy that was archived on 2015-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150326030025id_/https%3A//www.betamerica.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the betamerica.com privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907214034id_/https%3A//www.betamerica.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -7,12 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="The BetAmerica Privacy policy">
     <meta name="author" content="">
+    <link rel="canonical" href="https://www.betamerica.com/privacy">
 
     <title>BetAmerica | Privacy Policy</title>
 
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="apple-itunes-app" content="app-id=989927490">
 
 <link href="//fonts.googleapis.com/css?family=Lato:400,300,700|Tinos:400,700" rel="stylesheet" type="text/css">
 
@@ -20,7 +22,7 @@
 
 <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 
-<script src="//widgets.betamerica.com/BamWidgets.js?v=5513764794bb9"></script>
+<script src="//widgets.betamerica.com/BamLoginWidget.js?v=55ee04528238b"></script>
 <script src="/js/login.js"></script>
 
 <!-- allow older browsers to recognize picture elements if it encounters them before picturefill has finished loading -->
@@ -34,6 +36,7 @@
   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
+
   </head>
 
   <body>
@@ -53,8 +56,8 @@
           <img id="betamerica-logo" srcset="/assets/betamerica-logo-360w.png" alt="BetAmerica">
         </picture>
       </a>
-      <!-- mobile buttons -->
-      <form class="navbar-form" id="mobile-login" role="login">
+      <!-- mobile buttons keep-login-btn -->
+      <form class="navbar-form keep-login-btn" id="mobile-login" role="login">
         <div class="container">
           <div class="row">
             <div class="col-xs-12">
@@ -66,6 +69,23 @@
                   <button type="button" class="btn btn-default login" id="btn-login" data-toggle="modal" data-target="#login-modal">Log In <i class="fa fa-lock"></i></button>
                 </div>
                 <div class="col-xs-4">
+                  <a type="button" class="btn btn-default" id="navbar-btn-signup" href="https://secure.betamerica.com/registration">Sign Up</a>
+                </div>
+              </div><!-- /.row -->
+            </div><!-- /.col-xs-12 -->
+          </div>
+        </div>
+      </form><!-- mobile buttons keep-login-btn -->
+      <!-- mobile buttons remove-login-btn -->
+      <form class="navbar-form remove-login-btn" id="mobile-login" role="login">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="row">
+                <div class="col-xs-6">
+                  <button type="button" class="btn btn-default navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" id="mobile-explore">Explore  <i class="fa fa-caret-down"></i><span class="sr-only">Toggle navigation</span></button>
+                </div>
+                <div class="col-xs-6">
                   <a type="button" class="btn btn-default" id="navbar-btn-signup" href="https://secure.betamerica.com/registration">Sign Up</a>
                 </div>
               </div><!-- /.row -->
@@ -86,8 +106,8 @@
         <div class="container-fluid">
           <div class="row">
             <ul>
-              <li><a href="schedule">Schedule</a></li>
-              <li><a href="race-results">Results</a></li>
+              <li><a href="/schedule">Schedule</a></li>
+              <li><a href="/race-results">Results</a></li>
               <li><a href="https://www.betamerica.com/extra/promotions/" target="_blank">Promotions <i class="fa fa-external-link"></i></a></li>
               <li><a href="https://www.betamerica.com/extra/" target="_blank">BetAmerica Extra <i class="fa fa-external-link"></i></a></li>
             </ul>
@@ -97,10 +117,10 @@
       <!-- desktop log in and sign up form -->
       <form class="navbar-form navbar-right" id="desktop-login" role="login">
         <div class="form-group login">
-          <input type="text" class="input-username form-control" placeholder="Username" tabindex="1" title="Please enter your username." autocapitalize="off" autocorrect="off" required="">
+          <input type="text" class="input-username form-control" name="username" placeholder="Username" tabindex="1" title="Please enter your username." autocapitalize="off" autocorrect="off" required="" autocomplete="on">
         </div>
         <div class="form-group login">
-          <input type="password" class="input-password form-control" placeholder="Password" tabindex="2" title="Please enter your password." required="" autocomplete="off">
+          <input type="password" class="input-password form-control" name="password" placeholder="Password" tabindex="2" title="Please enter your password." required="" autocomplete="off">
         </div>
         <div class="form-group login" id="select-wrapper">
           <select class="locationField form-control" placeholder="Current Location" required="" tabindex="3"></select>
@@ -120,7 +140,7 @@
         <!-- popover-legal content hidden -->
         <div id="popover-legal-hidden" style="display: none">
           <p class="popover-legal-content">I confirm that I am the account holder; of legal gambling age; and currently located as indicated in the drop-down menu.</p>
-          <a class="popover-legal-content" href="password-help">Forgot Username or Password?</a>
+          <a class="popover-legal-content" href="/password-help">Forgot Username or Password?</a>
         </div>
         <button type="button" class="btn btn-default login" id="btn-login" tabindex="4" onclick="login.call(this, event)">Log In <i class="fa fa-lock"></i></button>
         <a type="button" class="btn btn-default" id="navbar-btn-signup" href="https://secure.betamerica.com/registration" tabindex="5">Sign Up</a>
@@ -131,8 +151,8 @@
         <a type="button" class="btn btn-default" id="navbar-btn-signup" href="https://secure.betamerica.com/registration">Sign Up</a>
       </form>
       <ul id="mobile-subnav">
-        <li><a href="schedule">Schedule</a></li>
-        <li><a href="race-results">Results</a></li>
+        <li><a href="/schedule">Schedule</a></li>
+        <li><a href="/race-results">Results</a></li>
         <li><a href="https://www.betamerica.com/extra/promotions/" target="_blank">Promotions <i class="fa fa-external-link"></i></a></li>
         <li><a href="https://www.betamerica.com/extra/" target="_blank">BetAmerica Extra <i class="fa fa-external-link"></i></a></li>
       </ul>
@@ -195,13 +215,13 @@
           <form role="login" autocomplete="on">
             <div class="row input-group form-group" id="form-row-first">
               <span class="input-group-addon"><i class="fa fa-user fa-fw"></i></span>
-              <input class="input-username form-control" placeholder="Username" required="" tabindex="1" title="Please enter your username." type="text" autocapitalize="off" autocorrect="off">
+              <input class="input-username form-control" name="username" placeholder="Username" required="" tabindex="1" title="Please enter your username." type="text" autocapitalize="off" autocorrect="off" autocomplete="on">
             </div>
             <div class="row input-group form-group">
               <span class="input-group-addon"><i class="fa fa-key fa-fw"></i></span>
-              <input class="input-password form-control" placeholder="Password" required="" tabindex="2" title="Please enter your password." type="password">
+              <input class="input-password form-control" name="password" placeholder="Password" required="" tabindex="2" title="Please enter your password." type="password">
             </div>
-            <div class="row input-group form-group" id="select-wrapper">
+            <div class="input-group form-group" id="select-wrapper">
               <span class="input-group-addon"><i class="fa fa-location-arrow fa-fw"></i></span>
               <select class="locationField form-control" placeholder="Location" required="" tabindex="3" title="Please select your current location."></select>
             </div>
@@ -213,7 +233,7 @@
             <button type="button" class="btn btn-default" id="btn-login" onclick="login.call(this, event)">Log In <i class="fa fa-lock"></i></button>
             <div class="row">
               <div class="col-sm-12">
-                <p class="help-block" id="forgot-btn-link"><a href="password-help">Forgot Username or Password?</a></p>
+                <p class="help-block" id="forgot-btn-link"><a href="/password-help">Forgot Username or Password?</a></p>
               </div>
             </div>
           </form>
@@ -243,7 +263,8 @@
       </div><!-- /#popover-help-hidden -->
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
-</div><!-- /#login-modal -->    <!-- footer -->
+</div><!-- /#login-modal -->
+    <!-- footer -->
 <section class="" id="footer">
   <div class="container">
     <!-- footer columns -->
@@ -251,7 +272,7 @@
       <div class="col-sm-3">
         <ul>
           <h4>Company</h4>
-          <li><a href="about">About</a></li>
+          <li><a href="/about">About</a></li>
           <li><a href="http://betamerica-affiliates.com" target="_blank">Affiliates <i class="fa fa-external-link"></i></a></li>
           <li><a href="https://www.betamerica.com/extra/" target="_blank">BetAmerica Extra <i class="fa fa-external-link"></i></a></li>
         </ul>
@@ -259,9 +280,9 @@
       <div class="col-sm-3">
         <ul>
           <h4>Legal</h4>
-          <li><a href="terms-conditions">Terms &amp; Conditions</a></li>
-          <li><a href="privacy">Privacy Policy</a></li>
-          <li><a href="wager-responsibly">Wager Responsibly</a></li>
+          <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+          <li><a href="/privacy">Privacy Policy</a></li>
+          <li><a href="/wager-responsibly">Wager Responsibly</a></li>
         </ul>
       </div>
       <div class="col-sm-3">
@@ -301,7 +322,7 @@
             </div>
             <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
               <ul class="list-group">
-                <li><a href="about">About</a></li>
+                <li><a href="/about">About</a></li>
                 <li><a href="http://betamerica-affiliates.com" target="_blank">Affiliates <i class="fa fa-external-link"></i></a></li>
                 <li><a href="https://www.betamerica.com/extra/" target="_blank">BetAmerica Extra <i class="fa fa-external-link"></i></a></li>
               </ul>
@@ -317,9 +338,9 @@
             </div>
             <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
               <ul class="list-group">
-                <li><a href="terms-conditions">Terms &amp; Conditions</a></li>
-                <li><a href="privacy">Privacy Policy</a></li>
-                <li><a href="wager-responsibly">Wager Responsibly</a></li>
+                <li><a href="/terms-conditions">Terms &amp; Conditions</a></li>
+                <li><a href="/privacy">Privacy Policy</a></li>
+                <li><a href="/wager-responsibly">Wager Responsibly</a></li>
               </ul>
             </div>
           </div>
@@ -361,7 +382,8 @@
       </div>
     </div>
   </div><!-- /.container -->
-</section><!--/#footer-->    
+</section><!--/#footer-->
+    
 <script type="text/javascript">
 function downloadJSAtOnload() {
 var element = document.createElement("script");
