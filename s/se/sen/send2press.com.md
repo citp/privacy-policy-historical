@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627191614id_/https%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907204403id_/https%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Send2Press Newswire, a service of Neotrope
 
@@ -6,7 +6,7 @@
 ---|---|---  
 | 
 
-Today is Sat., Jun 27, 2015   
+Today is Mon., Sep 07, 2015   
   
 **Questions? Call Toll-Free:**   
 1.866.473.5924 (in U.S.)   
