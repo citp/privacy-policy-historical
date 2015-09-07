@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kotex.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513034007id_/http%3A//www.kotex.com/na/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kotex.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907132555id_/http%3A//www.kotex.com/na/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kotex®
 
@@ -34,7 +34,7 @@ When you voluntarily sign up on this Site, we add your name, email address and s
 
 We may share information about you with third parties in certain circumstances including in the following situations: 
 
-  * Sharing Your Information With Partner Companies. We may ask your permission to share your information with carefully selected outside companies when we believe their products or services may interest you. You may “opt out” of partner offers and programs at any time by updating your [User Profile](https://web.archive.org/profile.sso), [Contacting Us](https://web.archive.org/contact-us) or calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). Our partners are prohibited from using your contact information for purposes other than presenting relevant offers and programs, and they are required to maintain your contact information in confidence.
+  * Sharing Your Information With Partner Companies. We may ask your permission to share your information with carefully selected outside companies when we believe their products or services may interest you. You may “opt out” of partner offers and programs at any time by updating your [User Profile](https://web.archive.org/auth.sso?returnUrl=/kcsso/Profile.aspx), [contacting us](https://web.archive.org/legal/contact-us) or calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). Our partners are prohibited from using your contact information for purposes other than presenting relevant offers and programs, and they are required to maintain your contact information in confidence.
 
   * Sharing Your Information with Service Providers. We may share information with companies or individuals that provide us with services. These services may include, among other things, helping us to provide services that you request, to create or maintain our databases, to research and analyze the people who request products, services, or information from us, to prepare and distribute communications, or to respond to inquiries.
 
@@ -55,7 +55,18 @@ Other Third Parties. We may share non-personal information with other third part
 
 ###  Managing Your Privacy Through Your User Profile
 
-We provide you with the ability to exercise certain controls and choices regarding how we collect, use and share your personal information. By changing your User Profile or contacting us as described within this Privacy Policy, you may do the following: (1) You may correct, update and delete your registration account; (2) You may change your choices for subscriptions, newsletters and alerts; (3) You may choose whether to receive offers and promotions for our products and services, or products and services that we think may be of interest to you; (4) You may choose whether we share your contact information with partners so they can send you offers and promotions about their products and services; (5) You may choose whether to receive interest-based advertising; and (6) You may request access to the personal information we hold about you and that we amend or delete it and we request partners with whom we have shared the information do the same. Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
+We provide you with the ability to exercise certain controls and choices regarding how we collect, use and share your personal information. By changing your User Profile or contacting us as described within this Privacy Policy, you may do the following: (1) You may correct, update and delete your registration account; (2) You may change your choices for subscriptions, newsletters and alerts; (3) You may choose whether to receive offers and promotions for our products and services, or products and services that we think may be of interest to you; (4) You may choose whether we share your contact information with partners so they can send you offers and promotions about their products and services; (5) You may choose whether to receive interest-based advertising; and (6) You may request access to the personal information we hold about you and that we amend or delete it and we request partners with whom we have shared the information do the same. @*
+
+  * You may correct, update and delete your registration account; 
+  * You may change your choices for subscriptions, newsletters and alerts;
+  * You may choose whether to receive offers and promotions for our products and services, or products and services that we think may be of interest to you;
+  * You may choose whether we share your contact information with partners so they can send you offers and promotions about their products and services;
+  * You may choose whether to receive interest-based advertising; 
+  * You may request access to the personal information we hold about you and that we amend or delete it and we request partners with whom we have shared the information do the same.
+
+
+
+*@ Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based upon whether such a signal is broadcast. 
 
 ###  Security Measures
 
