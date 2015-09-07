@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the familytreenow.com privacy policy that was archived on 2014-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141002101837id_/http%3A//www.familytreenow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familytreenow.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907090700id_/http%3A//www.familytreenow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FamilyTreeNow.com
 
-**September 30, 2014**   
+**April 6, 2015**   
 
 
 **_Personal information collected_**
@@ -41,7 +41,7 @@ You can:
 
 **_FamilyTreeNow.com PRIVACY POLICY_**
 
-**Last updated September 30, 2014**
+**Last updated April 6, 2015**
 
 FamilyTreeNow.com, Inc. (“FamilyTreeNow.com”, "us", "our" or "we") who owns and controls the website found at FamilyTreeNow.com has developed this Privacy Policy which details important information regarding the use and disclosure of user information collected on FamilyTreeNow.com, and any successor websites, (collectively, the “Site”), and other interactive properties, including but not limited to our mobile applications and mobile-focused websites (the Site and other FamilyTreeNow.com’ interactive properties are collectively referred to herein as the “ FamilyTreeNow.com Applications"). This Privacy Policy also applies to our offline collection of information. 
 
@@ -54,6 +54,17 @@ This Privacy Policy is incorporated into and subject to our Terms of Use (“Ter
 **Registration Information.** We will collect personal information from you if you register with us or subscribe to our Services ("Personal Information"). Any information you provide before registering with us is not associated with you individually and is not retained by FamilyTreeNow.com unless you register with us. When you register you are required to provide certain categories of information, such as name, e-mail address, and a password. 
 
 **Searching for people.** When you are searching for people, you may enter third party personal information such as their name, address, or phone. We only use the data you input to provide you with a search request. We retain the results of your search requests for a period of time at our discretion but do not use that information for any other purpose and have no obligation to maintain such search results. 
+
+**Opt Out of Living People Records.** Your privacy is important to us. If you would like your records removed from our database, please [opt out here](https://web.archive.org/optout). 
+
+**Family Tree Privacy.** User-created Family trees have 3 levels of privacy that you can set at any time.   
+
+
+  * Public wtih hidden living people details - All information for deceased individuals will be public. All information except for last name and first initial will be made private for all minors. For living non-minors, full dob, bio, and any media (photos, etc.) are private. "Private" means that only you and people you explicitly shared your tree with can view the private content. 
+  * Private - Everything in this tree is private including all records, media, profiles, and everything else. This setting means only you and people you explicitly shared your tree with can view the tree. 
+  * Public with nothing hidden - All information is public. You would typically only use this setting if you were creating a family tree for famous people, historical figures, etc. For example if you created an 'English Royal Family Tree' you would want this to be totally public. 
+
+
 
 **Optional Information.** At various other points during your visit to FamilyTreeNow.com, you may be asked to provide information about yourself. The use of other services which require the input of additional information is completely voluntary on your part. You have the choice about whether to disclose the information necessary to use these features of our FamilyTreeNow.com Applications. 
 
@@ -128,8 +139,3 @@ If for any reason you are concerned that the Personal Information you provided t
 **No Rights of Third Parties.** This Privacy Policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Site. 
 
 **Contacting Us.** If you have any questions about this Privacy Policy, or the practices of the FamilyTreeNow.com Applications and Community Services, please e-mail us by using our contact form located at [http://www.familytreenow.com/contact](https://web.archive.org/contact) or write to us at: 
-
-FamilyTreeNow.com  
-Customer Service  
-1013 Galleria Blvd Ste 215,   
-Roseville, CA 95678 
