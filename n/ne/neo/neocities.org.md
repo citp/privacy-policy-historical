@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neocities.org privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319195543id_/https%3A//neocities.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neocities.org privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907223913id_/https%3A//neocities.org/privacy) for the most accurate reproduction.*
 
 # Neocities - Privacy
 
