@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infousa.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625134503id_/http%3A//www.infousa.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infousa.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907062956id_/https%3A//www.infousa.com/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Consumer List | Business Lists | InfoUSA
 
@@ -49,6 +49,6 @@ InfoUSA Inc. may disclose visitor information if requested or required to by law
 **Changes**  
 InfoUSA Inc. reserves the right to change this privacy statement at anytime upon providing notification to visitors. This privacy statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any other person or entity.
 
-A notice will be posted on InfoUSA’s web page [www.InfoUSA.com.](https://www.infousa.com/ "InfoUSA")
+A notice will be posted on InfoUSA’s web page [www.InfoUSA.com.](http://www.infousa.com/ "InfoUSA")
 
 EFFECTIVE DATE: June 1, 2009
