@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brightlocal.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608002709id_/http%3A//www.brightlocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightlocal.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907234913id_/https%3A//www.brightlocal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BrightLocal Respect Your Privacy | BrightLocal
+# BrightLocal Privacy Policy | We Respect Your Privacy At BrightLocal
 
 ### Introduction
 
@@ -52,7 +52,7 @@ Our Site is not intended for people under 18 years of age. No one under age 18 m
   * Information that you provide by filling in forms on our Site. This includes without limitation information provided at the time of subscribing to the Service, and when you report a problem with our Site.
   * Records and copies of your correspondence (including e-mail addresses), if you contact us by email, customer support ticket, customer support chat service, customer support online forum)
   * Your responses to surveys that we might ask you to complete for research purposes.
-  * Details of transactions you carry out through our Site and of the fulfilment of your orders. We do not store any financial data on our servers. 
+  * Details of transactions you carry out through our Site and of the fulfilment of your orders. We do not store any financial data on our servers.
     * Credit Card Transactions – these are handled exclusively via our Payment Gateway partner ‘Braintree Payments’. All payment related data is transferred in secure, encrypted fashion and is stored with 256-bit encryption by Braintree. . Braintree Payments takes 100% of responsibility for handling your all Credit Card Transaction data
     * PayPal Transactions – these are conducted via PayPal over secure https connection. PayPal takes 100% of responsibility for handling your PayPal payment data.
   * Your search queries on the Site.
@@ -70,13 +70,13 @@ To learn more about cookies and how to manage them, visit [AboutCookies.org](ht
 
 #### How we use cookies
 
-**a) Google Analytics**
+ **a) Google Analytics**
 
 We use Google Analytics to collect information about how people use this site. We do this to help us to better understand what site visitors are interested in. This enables us to continually improve the service we provide.
 
 Google Analytics stores information about what pages you visit, how long you spend looking at the site, how you got here and what you click on. We do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. You can opt out of Google Analytics cookies by [visiting this page](https://tools.google.com/dlpage/gaoptout) on Google.
 
-**b) Login**   **to BrightLocal**
+ **b) Login**   **to BrightLocal**
 
 We also use cookies to keep track of your login status when using our SEO Tools service. Without these you wouldn’t be able to login to our site (which wouldn’t make our service much use to you).
 
@@ -121,12 +121,12 @@ We may collect and disclose anonymous and aggregated information about our users
 
 ### Choices About How We Use and Disclose Your Information
 
-#### We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-  * **Tracking Technologies and Advertising.**  You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  *  **Tracking Technologies and Advertising.**  You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
 
 
-  * **Promotional Offers from the Company.**  If you do not wish to have your contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by emailing us at [contact@brightlocal.com](mailto:contact@brightlocal.com) or contacting us through any of our publicly available customer service contact routes (ticketing system, chat, forum). If we have sent you a promotional e-mail, you may opt-out by clicking on the unsubscribe link and completing the subsequent steps. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+  *  **Promotional Offers from the Company.**  If you do not wish to have your contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by emailing us at [contact@brightlocal.com](mailto:contact@brightlocal.com) or contacting us through any of our publicly available customer service contact routes (ticketing system, chat, forum). If we have sent you a promotional e-mail, you may opt-out by clicking on the unsubscribe link and completing the subsequent steps. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
 
 
 
@@ -147,8 +147,3 @@ Unfortunately, the transmission of information via the internet is not completel
 ### Changes to Our Privacy Policy
 
 It is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the primary e-mail address specified in your account and/or possibly through a notice on the Site home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Site and this privacy policy to check for any changes.
-
-### Contact Information
-
-To ask questions or comment about this privacy policy and our privacy practices, contact us at [contact@brightlocal.com](mailto:contact@brightlocal.com)  [  
-](mailto:legal@moz.com)
