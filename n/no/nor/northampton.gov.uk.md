@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northampton.gov.uk privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314234347id_/http%3A//www.northampton.gov.uk/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northampton.gov.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907204232id_/http%3A//www.northampton.gov.uk/terms) for the most accurate reproduction.*
 
 # Terms and disclaimer | Northampton Borough Council
 
