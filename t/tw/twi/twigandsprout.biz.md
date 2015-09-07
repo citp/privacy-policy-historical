@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twigandsprout.biz privacy policy that was archived on 2015-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150222083605id_/http%3A//twigandsprout.biz/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twigandsprout.biz privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908015004id_/http%3A//twigandsprout.biz/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
