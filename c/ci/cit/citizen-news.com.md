@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizen-news.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603055439id_/http%3A//chronicle.augusta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen-news.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907175727id_/http%3A//chronicle.augusta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Augusta Chronicle
 
