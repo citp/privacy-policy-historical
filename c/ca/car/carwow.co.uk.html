@@ -1,46 +1,55 @@
-<!--The following is the downloaded HTML source of the carwow.co.uk privacy policy that was archived on 2015-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150322133922id_/https%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carwow.co.uk privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907195459id_/https%3A//www.carwow.co.uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns:og="http://ogp.me/ns#" class=" wf-loading"><head>
-<meta charset="utf-8">
-<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PF3LZL"></script><script src="//use.typekit.net/zxw4aun.js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"89f5ccc4c6","applicationID":"478508","transactionName":"egtXQxQLDQ1VShxcDVQBFkcUDRcAU0FsRA1VDVpO","queueTime":1,"applicationTime":152,"agentToken":null,"agent":"js-agent.newrelic.com/nr-627.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgADV15ADAQIUVFa"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
-<meta content="Privacy Policy for carwow.co.uk - New car choosing made easy" name="description">
-<meta name="blogcatalog" content="9BC10434778">
-<link rel="icon" type="image/x-icon" href="/favicon.ico">
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-              <!-- Google Data Layer -->
-              <script>var dataLayer = [{"ga_id":"UA-18785463-1"}];</script>
-              <!-- End Google Data Layer -->
-
-<title>Privacy Policy | carwow</title>
-<script>
+<!DOCTYPE html><html class="no-js wf-loading" lang="en"><head>
+<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PF3LZL"></script><script src="//use.typekit.net/ixa3qrn.js" async=""></script><script>
   (function(d) {
     var config = {
-      kitId: 'zxw4aun',
-      scriptTimeout: 3000
+      kitId: 'ixa3qrn',
+      scriptTimeout: 3000,
+      classes: false,
+      events: false
     },
     h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
   })(document);
 </script>
 
-<script data-apikey="6116e860708f930f1e84a169d34665f6" src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js"></script>
 <script>
-  Bugsnag.releaseStage = "production";
-</script>
-<link href="//assets-2.carwow.co.uk/assets/application_nov2013-f594fc8893a8c7d77679ca616308e71e.css" media="screen" rel="stylesheet">
-<!--[if IE 7]>
-<link href="//assets-2.carwow.co.uk/stylesheets/ie7.css" media="screen" rel="stylesheet" />
-<![endif]-->
-<!--[if IE]>
-<link href="//assets-2.carwow.co.uk/stylesheets/ie.css" media="screen" rel="stylesheet" />
-<![endif]-->
-<script src="//assets-0.carwow.co.uk/assets/html5shiv-7f562b9139d14f1f47c7893dfefd2f0e.js"></script>
-<meta content="authenticity_token" name="csrf-param">
-<meta content="pUaQLgLwT8fvagdl6DITDU67EEEqGgG+CXd/nr1eot4=" name="csrf-token">
+  var _vwo_code=(function(){
+  var account_id=85860,
+  settings_tolerance=2000,
+  library_tolerance=2500,
+  use_existing_jquery=false,
+  // DO NOT EDIT BELOW THIS LINE
+  f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=85860&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150907195459id_%2Fhttps%253A%2F%2Fwww.carwow.co.uk%2Fprivacy-policy&amp;r=0.3145276325023372" type="text/javascript"></script>
 
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"89f5ccc4c6","applicationID":"478508","transactionName":"egtXQxQLDQ1VShxcDVQBFkcUDRcAU0FsRA1VDVpO","queueTime":3,"applicationTime":26,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):void(r.q&&(r.q[e]||(r.q[e]=[]),r.q[e].push(n)))}var r=e("ee").create();n.exports=t,t.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=window,f=u.document;e(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<meta content="Privacy Policy for carwow.co.uk - New car choosing made easy" name="description">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta content="9BC10434778" name="blogcatalog">
+<link href="//assets-3.carwow.co.uk/assets/favicon-13d23aabd1fc41e132a02794407d13ed.ico" rel="icon">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="qf4gRSXp+soXTynttxNTujptkCxRHGdUmViIP1V1zrCYIiLuE7b0YTZosi2/q2cTlw7cBIhoV8G3P2akruoqMQ==">
 
+<title>Privacy Policy | carwow</title>
+<!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
+              <!-- Google Data Layer -->
+              <script>var dataLayer = [{"ga_id":"UA-18785463-1"}];</script>
+              <!-- End Google Data Layer -->
+
+<!--[if gte IE 9]><!-->
+<link rel="stylesheet" media="all" href="//assets-3.carwow.co.uk/assets/application_critical-ab60ff69f56efb7bac13359e5af530cc.css">
+<!--<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" media="all" href="/assets/application_critical-ab60ff69f56efb7bac13359e5af530cc.css" />
+<link rel="stylesheet" media="all" href="/assets/responsive/ie8-c405d4a0c2e6e08250995a9984e6fc5e.css" />
+<script src="//assets-1.carwow.co.uk/assets/carwow.ie8-f6adb625752ec25a6211bf64418a66b3.js"></script>
+<![endif]-->
 <script type="text/javascript">
 dataLayer.push({ 'page_pageName': '/corporate/privacy-policy', 'page_pageType': 'Corporate'});
 </script>
@@ -59,18 +68,16 @@ dataLayer.push({ 'page_virtualName': page, 'event': 'gtm.view' });
 };
 </script>
 
-<script>
-  var _vwo_code=(function(){
-  var account_id=85860,
-  settings_tolerance=2000,
-  library_tolerance=2500,
-  use_existing_jquery=false,
-  // DO NOT EDIT BELOW THIS LINE
-  f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=85860&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150322133922id_%2Fhttps%253A%2F%2Fwww.carwow.co.uk%2Fprivacy-policy&amp;r=0.6249620681910204" type="text/javascript"></script></head>
-
-
-
+<style>
+  .signed-out .signed-in-only {
+    display: none;
+  }
+  
+  .signed-in .signed-out-only {
+    display: none;
+  }
+</style>
+</head>
 <body>
               <!-- Google Tag Manager -->
               <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PF3LZL"
@@ -82,268 +89,529 @@ dataLayer.push({ 'page_virtualName': page, 'event': 'gtm.view' });
               })(window,document,'script','dataLayer','GTM-PF3LZL');</script>
               <!-- End Google Tag Manager -->
 
-<header class="main-header">
-<div class="container_12">
-<div class="grid_3">
-<a href="https://www.carwow.co.uk/"><img alt="Carwow logo large" class="logo" src="//assets-1.carwow.co.uk/assets/carwow-logo-large-79f1005be978927c5e2ef377154349c7.png">
-</a></div>
-<div class="grid_9">
-<nav class="main-navigation">
-<ul>
-<li class="nav">
-<a class="hide nav" href="https://quotes.carwow.co.uk" id="your-offers">Your Offers</a>
-<a class="nav" href="/new-car-deals" id="deals">Deals</a>
-</li>
-<li class="nav">
-<a class="nav" href="https://www.carwow.co.uk/car-reviews">Car Reviews</a>
-</li>
-<li class="nav">
-<a class="nav help" href="#">
-More
-<i class="icon-angle-down icon-large"></i>
+<!--[if lt IE 8]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+<!-- Add your site or application content here -->
+<header class="main-header signed-out">
+<div class="main-header-container">
+<div class="main-header-logo">
+<a class="logo-default" data-detail-element-name="logo" data-interaction-type="header" href="/">
+<img width="160" height="25" class="svg-image-gte-ie9" src="//assets-3.carwow.co.uk/assets/beta-responsive/carwow-logo-default-65656c5c0dbe0e86009a7f91c4666b7d.svg" alt="Carwow logo default">
+<!--[if lte IE 8]>
+<img width="160" height="25" src="//assets-2.carwow.co.uk/assets/beta-responsive/carwow-logo-default-5cdb5579b183e2e2e8f14e617d077a64.png" alt="Carwow logo default" />
+<![endif]-->
+
 </a>
-<ul class="dropdown articles">
-<li><a href="https://www.carwow.co.uk/about-carwow">About carwow</a></li>
-<li><a href="https://www.carwow.co.uk/how-it-works">How it works</a></li>
-<li><a href="https://www.carwow.co.uk/testimonials">Testimonials</a></li>
-<li><a href="https://www.carwow.co.uk/faqs">FAQs</a></li>
-<li><a href="https://www.carwow.co.uk/selling-your-old-car">Selling your old car</a></li>
-<li><a href="https://www.carwow.co.uk/finance">Finance</a></li>
-<li><a href="https://www.carwow.co.uk/blog">Blog</a></li>
-<li class="hide" id="refer-your-friends"><a href="https://quotes.carwow.co.uk/refer-your-friends">Refer a friend - get £50</a></li>
-<li><a href="https://www.carwow.co.uk/supports/new">Contact us</a></li>
-</ul>
-</li>
-<li class="nav right" data-hover-disabled="true">
-<a class="nav-btn btn btn-square" href="#">
-<i class="icon-search icon-large"></i>
+<a class="logo-mobile" data-detail-element-name="logo" data-interaction-type="header" href="/">
+<img width="135" height="20" class="svg-image-gte-ie9" src="//assets-3.carwow.co.uk/assets/beta-responsive/carwow-logo-mobile-65656c5c0dbe0e86009a7f91c4666b7d.svg" alt="Carwow logo mobile">
+<!--[if lte IE 8]>
+<img width="135" height="20" src="//assets-2.carwow.co.uk/assets/beta-responsive/carwow-logo-mobile-a3fd55ed8c967d0e21ea8ba34de0711a.png" alt="Carwow logo mobile" />
+<![endif]-->
+
 </a>
-<ul class="dropdown dropdown-search">
-<li id="search-menu">
-<form accept-charset="UTF-8" action="https://www.carwow.co.uk/models/search" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-<p>
-<input id="navigation-search" name="search_term" placeholder="Search by make or model" type="search">
-</p>
+</div>
+<div class="main-header-search">
+<form action="/models/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+<input type="search" name="search_term" id="search_term" value="" placeholder="Search by make or model" data-prefetch-url="/api/v2/models/make_and_models">
 </form>
 
-</li>
-</ul>
-</li>
-<li class="nav right hide" id="user-menu">
-<a class="nav-btn btn btn-square" href="#">
-<img alt="User icon white" src="//assets-1.carwow.co.uk/assets/user-icon-white-0f0557b509b90ae5cc7a620adc66e9cc.png">
+<a class="main-header-search-close main-header-menu-link" href="#">
+<i class="icon icon-close-white"></i>
 </a>
-<ul class="dropdown">
-<li>
-<a href="https://quotes.carwow.co.uk/offers">Your Offers</a>
+</div>
+<nav class="main-header-nav">
+<ul class="main-header-menu"></ul>
+<li class="main-header-menu-entry signed-out-only">
+<a class="main-header-menu-link" data-detail-element-name="Compare Deals" data-interaction-type="header" href="/">
+Compare Deals
+</a>
 </li>
-<li>
-<a href="https://quotes.carwow.co.uk/users/sign_out">Logout</a>
+<li class="main-header-menu-entry signed-in-only">
+<a class="main-header-menu-link" data-detail-element-name="Your Offers" data-interaction-type="header" href="https://quotes.carwow.co.uk/offers">
+Your Offers
+</a>
+</li>
+<li class="main-header-menu-entry">
+<a class="main-header-menu-link" data-detail-element-name="Car Chooser" data-interaction-type="header" href="/car-chooser">
+Car Chooser
+</a>
+</li>
+<li class="main-header-menu-entry">
+<a class="main-header-menu-link" data-detail-element-name="Car Reviews" data-interaction-type="header" href="/car-reviews">
+Car Reviews
+</a>
+</li>
+<li class="main-header-menu-entry">
+<a class="main-header-menu-link" data-detail-element-name="About" data-interaction-type="header" href="/about-us">
+About
+</a>
+</li>
+<ul class="main-header-menu main-header-menu-actions">
+<li class="main-header-menu-entry">
+<a class="main-header-menu-link main-header-search-open" data-detail-element-name="open search" data-interaction-type="header" href="#">
+<i class="icon icon-search-white"></i>
+</a>
+</li>
+<li class="main-header-menu-entry signed-out-only">
+<a class="main-header-menu-link" data-detail-element-name="Login" data-interaction-type="header" href="https://quotes.carwow.co.uk/">
+<i class="icon icon-user-white"></i>
+Login
+</a>
+</li>
+<li class="main-header-menu-entry signed-in-only main-header-menu-with-submenu">
+<a class="main-header-menu-link" data-interaction-type="header">
+<i class="icon icon-user-white"></i>
+
+<i class="icon icon-dropdown-white"></i>
+</a>
+<ul class="main-header-submenu">
+<li class="main-header-submenu-entry">
+<a class="main-header-submenu-link" data-detail-element-name="Your Offers" data-interaction-type="header" href="https://quotes.carwow.co.uk/offers">
+Your Offers
+</a>
+</li>
+<li class="main-header-submenu-entry">
+<a class="main-header-submenu-link" data-detail-element-name="Settings" data-interaction-type="header" href="https://quotes.carwow.co.uk/settings">
+Settings
+</a>
+</li>
+<li class="main-header-submenu-entry">
+<a class="main-header-submenu-link" data-detail-element-name="Logout" data-interaction-type="header" href="https://quotes.carwow.co.uk/users/sign_out">
+Logout
+</a>
 </li>
 </ul>
 </li>
-<li class="info right phone hide" id="phone">
-<i class="icon-phone icon-large"></i>
-0800 808 5885
+</ul>
+</nav>
+<nav class="main-header-nav-mobile">
+<ul class="main-header-menu main-header-menu-mobile main-header-menu-actions">
+<li class="main-header-menu-entry">
+<a class="main-header-menu-link main-header-search-open" data-detail-element-name="open search" data-interaction-type="header" href="#">
+<i class="icon icon-search-white"></i>
+</a>
 </li>
-<li class="nav right"><a class="nav" href="https://quotes.carwow.co.uk/users/sign_in" id="login">Login</a></li>
+<li class="main-header-menu-entry">
+<a class="main-header-menu-link main-header-menu-mobile-link" data-detail-element-name="dropdown menu" data-interaction-type="header" href="#">
+Menu
+<i class="icon icon-hamburger-white"></i>
+</a>
+</li>
+</ul>
+<ul class="main-header-submenu-mobile">
+<li class="main-header-submenu-entry signed-out-only">
+<a class="main-header-submenu-link" data-detail-element-name="Compare Deals" data-interaction-type="header" href="/">
+Compare Deals
+</a>
+</li>
+<li class="main-header-submenu-entry signed-in-only">
+<a class="main-header-submenu-link" data-detail-element-name="Your Offers" data-interaction-type="header" href="https://quotes.carwow.co.uk/offers">
+Your Offers
+</a>
+</li>
+<li class="main-header-submenu-entry">
+<a class="main-header-submenu-link" data-detail-element-name="Car Chooser" data-interaction-type="header" href="/car-chooser">
+Car Chooser
+</a>
+</li>
+<li class="main-header-submenu-entry">
+<a class="main-header-submenu-link" data-detail-element-name="Car Reviews" data-interaction-type="header" href="/car-reviews">
+Car Reviews
+</a>
+</li>
+<li class="main-header-submenu-entry">
+<a class="main-header-submenu-link" data-detail-element-name="About" data-interaction-type="header" href="/about-us">
+About
+</a>
+</li>
+<li class="main-header-submenu-entry signed-out-only">
+<a class="main-header-submenu-link" data-detail-element-name="Login" data-interaction-type="header" href="https://quotes.carwow.co.uk/">
+Login
+</a>
+</li>
+<li class="main-header-submenu-entry signed-in-only">
+<a class="main-header-submenu-link" data-detail-element-name="Settings" data-interaction-type="header" href="https://quotes.carwow.co.uk/settings">
+Settings
+</a>
+</li>
+<li class="main-header-submenu-entry signed-in-only">
+<a class="main-header-submenu-link" data-detail-element-name="Logout" data-interaction-type="header" href="https://quotes.carwow.co.uk/users/sign_out">
+Logout
+</a>
+</li>
 </ul>
 </nav>
 </div>
-</div>
 </header>
 
-<article id="home" class="main">
-<div class="container_12">
-<header class="centred"><h1>Privacy Policy</h1></header>
-<p>Warning, lots of lawyer speak below!</p>
-<p>In a nutshell; we don’t sell your details to anyone, we don’t do anything that most publishing sites don’t do, and we won’t send you spam (cos we hate it too!).&nbsp;</p>
-<h3>Privacy Policy</h3>
-<p>We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.<strong>&nbsp;</strong></p>
-<p><strong>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What information do we collect?</strong></p>
-<p>We may collect, store and use the following kinds of personal information:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation).</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp; information that you provide to us for the purpose of registering with us&nbsp; (including your name and email address).</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters.</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any reviews or information you choose to submit about your car</p>
-<p>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any other information that you choose to send to us.</p>
-<p><strong>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cookies</strong></p>
-<p>A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.</p>
-<p>We may use both “session” cookies and “persistent” cookies on the website.&nbsp; We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.</p>
-<p>Session cookies will be deleted from your computer when you close your browser.&nbsp; Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.</p>
-<p>We use Google Analytics to analyse the use of this website.&nbsp; Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.&nbsp; The information generated relating to our website is used to create reports about the use of the website. Google will store this information.&nbsp; Google's privacy policy is available at: http://www.google.com/privacypolicy.html.</p>
-<p>Our advertisers may also send you cookies.</p>
-<p>We may publish Google Adsense interest-based advertisements on our website.&nbsp; These are tailored by Google to reflect your interests.&nbsp; To determine your interests, Google will track your behaviour across the web using cookies.&nbsp; You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at: http://www.google.com/ads/preferences/.&nbsp; You can opt-out of the Adsense partner network cookie at: http://www.google.com/privacy_ads.html.&nbsp; However, this opt-out mechanism uses a cookie, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at: http://www.google.com/ads/preferences/plugin.</p>
-<p>Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.&nbsp; For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.&nbsp; Blocking all cookies will, however, have a negative impact upon the usability of many websites.</p>
-<p>(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Using your personal information</p>
-<h3>Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.</h3>
-<p>We may use your personal information to:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; administer the website;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; improve your browsing experience by personalising the website;</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; enable your use of the services available on the website;</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; send you general (non-marketing) commercial communications;</p>
-<p>(e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; send you email notifications which you have specifically requested;</p>
-<p>(f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; send to you our newsletter;</p>
-<p>(g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; provide third parties with statistical information about our users – but this information will not be used to identify any individual user;</p>
-<p>(h)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; deal with enquiries and complaints made by or about you relating to the website;</p>
-<p>Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.</p>
-<p>&nbsp;We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.</p>
-<p><strong>(4) &nbsp;&nbsp;&nbsp;&nbsp; Disclosures</strong></p>
-<p><strong>&nbsp;</strong>We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.</p>
-<p>In addition, we may disclose your personal information:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to the extent that we are required to do so by law;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in connection with any legal proceedings or prospective legal proceedings;</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp; to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and</p>
-<p>(e)&nbsp;&nbsp;&nbsp;&nbsp; to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.</p>
-<p>Except as provided in this privacy policy, we will not provide your information to third parties.</p>
-<p><strong>(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International data transfers</strong></p>
-<p><strong>&nbsp;</strong>Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.</p>
-<p>Information which you provide may be transferred to countries (including the United States and Japan) which do not have data protection laws equivalent to those in force in the European Economic Area.</p>
-<p>In addition, personal information that you submit for publication on the website will be published on the internet and may be available, via the internet, around the world.&nbsp; We cannot prevent the use or misuse of such information by others.</p>
-<p>You expressly agree to such transfers of personal information.</p>
-<p>(6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Security of your personal information</p>
-<p>We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.</p>
-<p>We will store all the personal information you provide on our secure (password- and firewall- protected) servers.</p>
-<p>Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.</p>
-<p>You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).</p>
-<p>(7)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Policy amendments</p>
-<p>We may update this privacy policy from time-to-time by posting a new version on our website.&nbsp; You should check this page occasionally to ensure you are happy with any changes.&nbsp;</p>
-<p>(8)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your rights</p>
-<p>You may instruct us to provide you with any personal information we hold about you.&nbsp; Provision of such information will be subject to:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the payment of a fee (currently fixed at £10.00); and</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).</p>
-<p>We may withhold such personal information to the extent permitted by law.</p>
-<p>You may instruct us not to process your personal information for marketing purposes by email at any time.&nbsp; In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal information for marketing purposes.</p>
-<p><strong>(9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Third party websites</strong></p>
-<p>The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.</p>
-<p><strong>(10)&nbsp;&nbsp;&nbsp; Updating information</strong></p>
-<p>Please let us know if the personal information which we hold about you needs to be corrected or updated.</p>
-<p>(11) &nbsp;&nbsp; Contact</p>
-<p>If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to editor@thewebsitename.co.uk.</p>
-<p><strong>(12)&nbsp;&nbsp;&nbsp; Data controller</strong></p>
-<p>The data controller responsible in respect of the information collected on this website is Digital Blurb Ltd.&nbsp;</p>
-</div></article>
-
-<footer class="main">
-<div class="container_12">
-<div class="footer-headline">
-<h3>Compare new car deals direct from main dealers</h3>
-</div>
-<div class="quotes">
-<div class="grid_3">
-<a href="https://www.trustpilot.co.uk/review/carwow.co.uk" target="_blank"><img alt="Trust pilot badge footer" src="//assets-1.carwow.co.uk/assets/footer/trust-pilot-badge-footer-86ab775f4512beab039bf6afb77f1e93.png">
-</a><div class="footer-trustpilot-text">
-<span id="footer-trustpilot-score-value" class="trustpilot-score-value footer-trustpilot-score footer-trustpilot-score-current">9.7</span><span class="footer-trustpilot-score"> of 10</span> rating on independent review site Trustpilot.
-<a href="https://www.trustpilot.co.uk/review/carwow.co.uk" target="_blank">Read reviews</a>
-</div>
-
-</div>
-<div class="grid_4 prefix_1 centred">
+<article class="corporate-copy-section">
+<h1 class="corporate-copy-section-heading">
+Privacy Policy
+</h1>
+<section>
+<h2>
+Introduction
+</h2>
+<p>
+The following carwow privacy policy sets out how we use information relating to you and applies to all use of data by Digital Blurb Limited (“carwow”, “we”, “us" or “our”).
+This privacy policy forms a part of the website terms of use, which can be found <a id="terms-and-conditions-link" href="https://www.carwow.co.uk/terms-and-conditions">here</a>.
+</p>
+</section>
+<section>
+<h2>
+Summary
+</h2>
 <ul>
-<li class="footer-navigation-vertical-item">
-<a class="footer-navigation-vertical-item-link" href="/about-carwow">About us</a>
+<li>
+We process data in accordance with the Data Protection Act 1998.
 </li>
-<li class="footer-navigation-vertical-item">
-<a class="footer-navigation-vertical-item-link" href="/how-it-works">How it works</a>
+<li>
+We will only send you marketing communications with your consent.
 </li>
-<li class="footer-navigation-vertical-item">
-<a class="footer-navigation-vertical-item-link" href="/faqs">FAQs</a>
+<li>
+We use information about you, including information derived from cookies, to help us operate our website and for marketing purposes.
 </li>
-<li class="footer-navigation-vertical-item">
-<a class="footer-navigation-vertical-item-link" href="/privacy-policy">Privacy</a>
+<li>
+We may disclose information about you in certain circumstances.
 </li>
-<li class="footer-navigation-vertical-item">
-<a class="footer-navigation-vertical-item-link" href="/terms-of-use-quote-system">Terms</a>
+<li>
+This privacy policy may change from time to time.
+</li>
+</ul>
+<p>
+For the purpose of the Data Protection Act 1998, the data controller is Digital Blurb Limited.  If you have any concerns about your privacy, this carwow privacy policy or any websites operated by carwow, please contact Digital Blurb Ltd (T/A carwow), 202 Cotton Exchange Building, Old Hall Street, Liverpool L3 9LQ.
+</p>
+</section>
+<section>
+<ol class="ordered-list-nested">
+<li>
+<h5 class="corporate-article-heading">About the website and this privacy policy</h5>
+<ol>
+<li>carwow.co.uk (the “Website”) is an online service owned and operated by carwow, which enables individuals to easily compare car prices.</li>
+</ol>
+</li>
+<li>
+<h5 class="corporate-article-heading">What data do we collect and how is it used?</h5>
+<ol>
+<li>
+We may ask you for, or you may submit, personal and non-personal information and data to us when you use the Website. This could include:
+<ol>
+<li>
+Your name and address
+</li>
+<li>
+Your username and password
+</li>
+<li>
+Your e-mail address
+</li>
+<li>
+Your phone number
+</li>
+<li>
+Any content you submit to the Website ("Your Content”), such as comments, messages to dealers, reviews and marketing preferences.
+</li>
+</ol>
+</li>
+<li>
+We use this data for the following purposes:
+<ol>
+<li>
+Name, address, username and password:  to register and administer your user account
+</li>
+<li>
+E-mail address: to contact you about your use of the Website, to provide you with news about us, to offer you additional services
+</li>
+<li>
+Phone number: to contact you about matters requiring your urgent attention, to verify your identity or to provide other carwow services with your consent (such as text message notifications); and
+</li>
+<li>
+Your Content: to process and make available Your Content to the Website and to market to you in accordance with your instructions.
+</li>
+</ol>
+</li>
+<li>
+Information submitted to the Website may also be used to:
+<ol>
+<li>
+Enable our compliance with applicable laws and regulations
+</li>
+<li>
+Enable your use of the Website and associated services
+</li>
+<li>
+Provide you with an up to date, efficient and reliable service; and
+</li>
+<li>
+Generally run and improve the Website.
+</li>
+</ol>
+</li>
+<li>
+When you get in contact with us we may keep records of what is communicated.
+This is to ensure we have a record of our discussion for future reference and so we can provide services to you more efficiently.
+We may also record these communications in order to train or manage our staff.
+</li>
+<li>
+We might collect sensitive information about you, but we will never collect your sensitive information without your explicit consent.
+</li>
+<li>
+Please also see our Cookies section below for information about how we use cookies and other similar technologies.
+</li>
+</ol>
+</li>
+<li>
+<h5 class="corporate-article-heading">Cookies and website usage analysis</h5>
+<ol>
+<li>
+We use ‘cookies’ and similar technologies on the Website. Cookies are small computer files which the Website may store in your Internet browser, enabling your Internet browser and the Website to communicate with each other. Other similar technologies may operate in a different way but, like cookies, are used to analyse how the website is being used.
+</li>
+<li>
+Cookies enable us to record anonymous information about you, including: the type of Internet browser you use to access the Website, your computer operating system, the websites you visited before visiting the Website, the areas of the Website you visit, how long you visit the Website and your IP address (which can provide information about your approximate geographic location).  We do not use Cookies to determine your individual identity.
+</li>
+<li>
+We use cookies in order to:
+<ol>
+<li>
+learn about how the Website is being used and which types of individuals are using the website
+</li>
+<li>
+Recognise you when you return to the Website
+</li>
+<li>
+Record which other websites have referred users to the Website
+</li>
+<li>
+Optimise the Website and improve our services
+</li>
+<li>
+Make it easier for you to fill in forms on the Website
+</li>
+<li>
+Enable the Website to remember your preferences
+</li>
+<li>
+Enable aspects of the website to be customised; and
+</li>
+<li>
+Provide relevant advertising.
+</li>
+</ol>
+</li>
+<li>
+Some cookies will be deleted when you close your Internet browser, others will remain on your Internet browser until they are deleted or they reach their expiry date.
+</li>
+<li>
+We will retain information received from our use of cookies for up to one year.  This information may be stored by Google as part of our use of Google Analytics.
+</li>
+<li>
+For more information about cookies, please visit allaboutcookies.org.  If you do not wish for us to use cookies when you use the Website, please adjust your Internet browser settings to decline cookies (your computer’s help file should tell you how to do this).  If you choose to decline cookies, some parts of the Website may not work properly.  By using the Website, you agree to our use of cookies as described above.
+</li>
+</ol>
+</li>
+<li>
+<h5 class="corporate-article-heading">Data sharing</h5>
+<ol>
+<li>
+We may disclose personal information about you to other members of our group of companies or to trusted third parties (both inside and outside of the European Economic Area):
+<ol>
+<li>
+For the purposes specified above; and
+</li>
+<li>
+To enable us to receive services which help us operate the Website.
+</li>
+</ol>
+</li>
+<li>
+Your personal information may also be disclosed:
+<ol>
+<li>
+If we buy or sell, or are seeking to buy or sell, any businesses or assets
+</li>
+<li>
+With a view to preventing fraud or reducing credit risk; and
+</li>
+<li>
+If we are obliged to do so to comply with law, regulations or a court order; if it is necessary to enforce any of our terms and conditions or any other agreements to which we are a party; if it is necessary to protect our rights, property or the safety of our customers or Website users.
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>
+<h5 class="corporate-article-heading">Management of data</h5>
+<ol>
+<li>
+We will use information collected about you in accordance with the Data Protection Act 1998 and the Privacy and Electronic Communications Regulations 2009.
+</li>
+<li>
+By submitting information you agree to our use of information about you as described in this privacy policy.
+</li>
+<li>
+If you believe we have information about you that you do not want us to have or that you think is incorrect, please contact us.
+</li>
+<li>
+Although we will do our best to protect information about you, we cannot guarantee the security of data transmitted to the Website.  Any transmission is at your own risk. Once we have received information about you, we will use strict procedures and security features to try to prevent unauthorised access to that Information.
+</li>
+<li>
+Information about you may be sent outside of the European Economic Area, including to countries whose data protection rules are less stringent than those found in the European Economic Area.
+</li>
+</ol>
+</li>
+<li>
+<h5 class="corporate-article-heading">Marketing</h5>
+<ol>
+<li>
+We give you a choice of whether or not you want us or other companies to contact you about offers, events, products and services that may interested you.
+</li>
+<li>
+We might send you marketing emails about products or services which are similar to or related to the Website, or contact you by email or text with information about the Website.  We will not send you any other marketing emails or pass your contact information on to third parties unless you give your consent or you have given it already.
+</li>
+<li>
+If you provide information about a friend of yours as part of a referral of that friend to us, we will send your friend a single email about the Website and we will store their personal information to the minimum extent necessary.   When you provide us with your friend's information, you are confirming that you have their consent to this use of their information.  We will tell your friend that you provided their details when we contact them.
+</li>
+</ol>
+</li>
+<li>
+<h5 class="corporate-article-heading">Data retention</h5>
+<ol>
+<li>
+We will only hold data about you for as long as necessary, bearing in mind the purpose for which that data was collected.
+</li>
+</ol>
+</li>
+<li>
+<h5 class="corporate-article-heading">General</h5>
+<ol>
+<li>
+If you follow a link from the Website to any third party websites, you should be aware that those websites may have their own privacy policies.  We do not accept any responsibility or liability for those websites.  Please check the policies of any third party websites before submitting any personal data to them.
+</li>
+<li>
+We may make changes to this privacy policy in the future, which will be posted on this page.  You should check this page from time to time to ensure you are aware of any changes.  Where appropriate we may notify you of changes by email or by putting a notice on the Website.
+</li>
+<li>
+All questions, comments or enquiries should be directed to us.  We will try to respond to you within 48 hours.
+</li>
+</ol>
+</li>
+</ol>
+</section>
+<section class="corporate-article-address">
+DIGITAL BLURB LIMITED<br>
+Company Number 07103079<br>
+hello@carwow.co.uk<br>
+Digital Blurb Ltd (T/A carwow)<br>
+202 Cotton Exchange Building<br>
+Old Hall Street<br>
+Liverpool<br>
+L3 9LQ
+</section>
+</article>
+
+<footer class="main-footer">
+<section class="section-footer-featured">
+<div class="featured-on">
+<div class="featured-on-entry">
+As featured on:
+</div>
+<div class="featured-on-entry featured-on-logo logo-press-logos-the-telegraph"></div>
+<div class="featured-on-entry featured-on-logo logo-press-logos-the-guardian"></div>
+<div class="featured-on-entry featured-on-logo logo-press-logos-the-independent"></div>
+<div class="featured-on-entry featured-on-logo logo-press-logos-the-sunday-times"></div>
+</div>
+
+</section>
+<section class="section-footer-links">
+<div class="main-footer-container">
+<div class="footer-links-column footer-links-column-contact">
+<ul>
+<li><strong>Say hi to us!</strong></li>
+<li>
+<a data-detail-element-name="call carwow" data-interaction-type="footer" href="tel:0800 808 5885">
+0800 808 5885
+</a>
+</li>
+<li>hello@carwow.co.uk</li>
+<li>
+<a data-detail-element-name="dealers" data-interaction-type="footer" href="http://dealers.carwow.co.uk/">
+<strong>Dealers</strong>
+</a>
+</li>
+<li>
+<a data-detail-element-name="jobs" data-interaction-type="footer" href="https://carwow.workable.com">
+<strong>Jobs</strong>
+</a>
 </li>
 </ul>
 </div>
-<div class="grid_3 prefix_1">
-<div class="footer-contact-us-title footer-text">Any questions?</div>
-<div class="footer-contact-us-text footer-text">
-We love to help in whatever way we can, so get in touch!
+<div class="footer-links-column">
+<ul>
+<li><a data-detail-element-name="about carwow" data-interaction-type="footer" href="/about-us">About</a></li>
+<li><a data-detail-element-name="faqs" data-interaction-type="footer" href="/faqs">FAQ</a></li>
+<li><a data-detail-element-name="team" data-interaction-type="footer" href="/team">Team</a></li>
+<li><a data-detail-element-name="press" data-interaction-type="footer" href="/press">Press</a></li>
+</ul>
 </div>
-<div class="footer-contact-us-email">
-<a href="mailto:help@carwow.co.uk">help@carwow.co.uk</a>
+<div class="footer-links-column">
+<ul>
+<li><a data-detail-element-name="new car deals" data-interaction-type="footer" href="/">Compare Deals</a></li>
+<li><a data-detail-element-name="car reviews" data-interaction-type="footer" href="/car-reviews">Car Reviews</a></li>
+<li><a data-detail-element-name="car chooser" data-interaction-type="footer" href="/car-chooser">Car Chooser</a></li>
+<li><a data-detail-element-name="blog" data-interaction-type="footer" href="/blog">Blog</a></li>
+<li><a data-detail-element-name="news" data-interaction-type="footer" href="/news">News</a></li>
+</ul>
 </div>
-<div class="footer-contact-us-phone-number">
-0800 808 5885
+<div class="footer-links-column footer-links-column-trustpilot">
+<!-- TRUST PILOT -->
+<a target="_blank" href="https://uk.trustpilot.com/review/carwow.co.uk"><img alt="Check out our customer reviews" width="191" height="96" src="//assets-3.carwow.co.uk/assets/footer/trust-pilot-badge-footer-af0776730851de9a6593f670e202f434.png">
+</a><div class="footer-trustpilot-text">
+<span id="footer-trustpilot-score-value" class="trustpilot-score-value footer-trustpilot-score footer-trustpilot-score-current">9.8</span><span class="footer-trustpilot-score"> of 10</span> rating on independent review site Trustpilot.
+<a target="_blank" href="https://uk.trustpilot.com/review/carwow.co.uk">Read reviews</a>
+</div>
+
 </div>
 </div>
+</section>
+<section class="section-footer-smallprint">
+<div class="main-footer-container">
+<div class="footer-smallprint-social-media">
+<span>Follow us on</span>
+<a data-detail-element-name="facebook" data-interaction-type="footer" href="https://www.facebook.com/pages/Carwow/465156660264611" target="_blank">
+<img src="//assets-2.carwow.co.uk/assets/facebook-icon-68f609fe0d572846f54370d38e50eaef.png" alt="Facebook icon">
+</a>
+<a data-detail-element-name="twitter" data-interaction-type="footer" href="https://twitter.com/carwowuk" target="_blank">
+<img src="//assets-3.carwow.co.uk/assets/twitter-icon-842cfd0edd4c59d8f6053b5a7dc222ae.png" alt="Twitter icon">
+</a>
+</div>
+<div class="footer-smallprint-legal">
+<a data-detail-element-name="terms of use" data-interaction-type="footer" href="/terms-and-conditions">Terms &amp; Conditions</a>
+<a data-detail-element-name="privacy policy" data-interaction-type="footer" href="/privacy-policy">Privacy Policy</a>
+<a data-detail-element-name="sitemap" data-interaction-type="footer" href="/sitemap">Sitemap</a>
 </div>
 </div>
-<div class="separator"></div>
-<div class="press">
-<div class="car"></div>
-<div class="separator"></div>
-<div class="centred footer-press-header">
-As featured in
-</div>
-<div class="centred footer-press-logos">
-<img alt="Footer configuration press logos" src="//assets-0.carwow.co.uk/assets/footer/footer-configuration-press-logos-4dd9ac37444fcf1e2ea2f0745918e249.png">
-</div>
-</div>
+</section>
 </footer>
 
 
-<div class="hide">
-<script src="//assets-2.carwow.co.uk/assets/application_nov2013-e4342b42e8f8fa4a29f8ffce6341722a.js"></script>
+<script src="//assets-0.carwow.co.uk/assets/application-d52ae256425b3f0eea11c17263ddf966.js"></script>
 <script>
   window.signMeIn = function() {
-    Carwow.Navigation($('.main-header'));
-    $('#deals').hide();
-    $('#login').hide();
-    $('#your-offers').css('display', 'block')
-    $('#user-menu').show();
-    $('#phone').show();
-    $('#refer-your-friends').show();
-  };
-  $(document).ready(function() {
-    $('#navigation-search').autocomplete({
-      source: '/models.json',
-      appendTo: '#search-menu form',
-      select: function( event, ui ) {
-        var target = $(event.target);
-        var form = target.closest("form");
-        form.submit();
-      }
-    });
-  });
-</script>
-<script src="https://quotes.carwow.co.uk/users/check_signed_in.js"></script>
-<script>
-  $.ajax({
-    url: 'https://ssl.trustpilot.com/tpelements/5744011/f.jsonp',
-    dataType: 'jsonp',
-    jsonp: false,
-    jsonpCallback: 'trustpilot_jsonp_callback',
-    success: function(data, status) {
-      var trustScore = data.TrustScore.Score / 10.0;
-      $('.trustpilot-score-value').text(trustScore);
-    },
-    error: function(XHR, txtStatus, errThrown) {
-      console.log('Error: ' + txtStatus);
-      console.log('Error: ' + errThrown);
-    }
-  });
-</script>
-
-<script>
-  $(document).ready(function() {
-    Carwow.setup();
-    $("a.exit, a.ajax").click(function() {
-      var link = $(this).attr("href").replace(/http[s]*:\/\//, '');
-      var goal = $(this).attr("data-goal");
-      if (goal == "" ) {
-        goal = "/generic-exit-link";
-      }
-      _gaq.push(['_trackPageview', goal+link]);
-    });
-  });
+    $('.signed-in-only').css('display', '');
+    $('.signed-out-only').hide();
+    $('.main-header.signed-out').removeClass('signed-out').addClass('signed-in');
+  }
+  
+  $('.signed-in-only').hide();
+  $('.signed-out-only').show();
+  
+  if(Carwow.DocCookies.hasItem('signed_in')) {
+    window.signMeIn();
+  }
 </script>
 
 
-</div>
 
 
-<script src="https://js-agent.newrelic.com/nr-627.min.js"></script></body></html>
+</body></html>
