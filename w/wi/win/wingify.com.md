@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wingify.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429145334id_/http%3A//visualwebsiteoptimizer.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wingify.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907184817id_/http%3A//visualwebsiteoptimizer.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Visual Website Optimizer
 
@@ -17,7 +17,7 @@
 
 #### 1\. Introduction
 
-This Privacy Policy is part of Wingify’s [Terms of Use](https://vwo.com/jp/terms-conditions/) and describes the privacy practices of Wingify. It explains when and how Wingify collects end user and client information, how we use such information, and the circumstances under which we may disclose such information to others. This Privacy Policy includes the policies that Wingify observes for compliance with laws in the State of New Delhi, India. Your privacy is of paramount importance to Wingify. This policy applies to all products and services offered by Wingify. 
+This Privacy Policy is part of Wingify’s [Terms of Use](https://vwo.com/terms-conditions/) and describes the privacy practices of Wingify. It explains when and how Wingify collects end user and client information, how we use such information, and the circumstances under which we may disclose such information to others. This Privacy Policy includes the policies that Wingify observes for compliance with laws in the State of New Delhi, India. Your privacy is of paramount importance to Wingify. This policy applies to all products and services offered by Wingify. 
 
 #### 2\. What type of information we gather
 
@@ -40,7 +40,7 @@ By the nature of our Service, **Wingify will gather non-personally identifiable 
 
   1. When you log into the Service, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request, browser user agent, and one or more cookies that may uniquely identify your browser.
   2. When you send email or other communication to Wingify, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-  3. If you install [opt-out](https://vwo.com/jp/opt-out/) code snippet on your website, we stop storing IP address or any other personally identifiable information of your website visitors or users. In case you (or your website visitors or users) want to opt out of tracking, please see our [opt-out page](https://vwo.com/jp/opt-out/).
+  3. If you install [opt-out](https://vwo.com/opt-out/) code snippet on your website, we stop storing IP address or any other personally identifiable information of your website visitors or users. In case you (or your website visitors or users) want to opt out of tracking, please see our [opt-out page](https://vwo.com/opt-out/).
   4. Wingify will not share your personal information without your consent or unless required by law.
   5. Wingify will not share your website / app statistics without your consent.
   6. Wingify only processes your personal information for the purpose of providing, improving, ensuring the delivery of, and developing new services to users.
