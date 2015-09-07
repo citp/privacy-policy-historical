@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revolttv.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629104029id_/http%3A//revolt.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolttv.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907175524id_/http%3A//revolt.tv/privacy) for the most accurate reproduction.*
 
 # REVOLT | Website Privacy Policy
 
