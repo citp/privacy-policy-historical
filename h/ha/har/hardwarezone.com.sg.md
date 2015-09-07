@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardwarezone.com.sg privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526214950id_/http%3A//sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardwarezone.com.sg privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907100827id_/http%3A//sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
 
 # SPH Privacy Policy - Singapore Press Holdings
 
