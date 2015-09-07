@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ekoventure.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073242id_/http%3A//www.zozi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekoventure.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907020838id_/https%3A//www.zozi.com/privacy_policy) for the most accurate reproduction.*
 
-# ZOZI
+# Privacy Policy - ZOZI
 
 ## Privacy Policy
 
@@ -52,7 +52,7 @@ Agents: We employ other companies and people to perform tasks on our behalf and 
 
 Financial Information: As stated above, we may have access to a secured portion of your financial information, which is collected and stored by our Payment Processor. We may from time to time request and receive some of your financial information from our Payment Processor for the purposes of completing transactions you have initiated through the Website. 
 
-Promotional Offers: We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to [help@zozi.com](mailto:help@zozi.com)
+Promotional Offers: We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to [yourfriends@zozi.com](mailto:yourfriends@zozi.com)
 
 Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Company may continue to use your Personal Information as set forth in this policy. 
 
@@ -86,13 +86,13 @@ Company allows you to access certain personal information about you for the purp
 
 You may decline to share certain information with us, in which case we may not be able to provide to you some of the features and functionality of the Website. You may change or delete your profile information at any time by accessing your account preferences page through the Website. 
 
-You may request deletion of your Company account by sending an e-mail to [help@zozi.com](mailto:help@zozi.com). Please note that some information may remain in our records after deletion of your account. 
+You may request deletion of your Company account by sending an e-mail to [yourfriends@zozi.com](mailto:yourfriends@zozi.com). Please note that some information may remain in our records after deletion of your account. 
 
 You may opt out of certain email communications during the registration process. However, by registering, you opt in for occasional contests and other promotions managed by the Company through a few internal Company lists. You can choose to opt out of these contests or promotion lists at any time by following the link in any of the emails you may receive. By registering, you also agree to receive the daily experience email for the city/area that you live in. We use your zip code to determine this and you can opt out of this email at any time by following the link in the email you receive. You may also opt out of these communications immediately by updating your profile and account settings under the section entitled "email preference". Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes. 
 
 ## Data Security
 
-We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your Personal Information. We cannot, however, ensure or warrant the security of any information you transmit to us, and you do so at your own risk. If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate steps. We may post a notice through the Website if such a breach occurs. Depending on where you live, you may have a legal right to receive a notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [help@zozi.com](mailto:help@zozi.com). 
+We use commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your Personal Information. We cannot, however, ensure or warrant the security of any information you transmit to us, and you do so at your own risk. If we learn of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate steps. We may post a notice through the Website if such a breach occurs. Depending on where you live, you may have a legal right to receive a notice of a security breach in writing. To receive a free written notice of a security breach you should notify us at [yourfriends@zozi.com](mailto:yourfriends@zozi.com). 
 
 ## International Visitors to the Website
 
@@ -104,7 +104,7 @@ Company may amend this Privacy Policy from time to time. Use of information we c
 
 ## Questions or concerns
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at help@zozi.com. We will make every effort to resolve your concerns. 
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at yourfriends@zozi.com. We will make every effort to resolve your concerns. 
 
 Effective Date: November 20, 2012
 
@@ -114,6 +114,6 @@ _ZOZI Headquarters_
 
 San Francisco, CA 94133
 
-1-888-969-4123
+1-855-937-1616
 
-[help@zozi.com](mailto:help@zozi.com)
+[yourfriends@zozi.com](mailto:yourfriends@zozi.com)
