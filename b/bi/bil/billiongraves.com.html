@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the billiongraves.com privacy policy that was archived on 2015-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150614152130id_/http%3A//billiongraves.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the billiongraves.com privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907142036id_/https%3A//billiongraves.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/generic_template.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,9 +8,9 @@
 <title>Privacy Policy | Billion Graves</title>
 <link rel="canonical" href="http://billiongraves.com/privacypolicy.php">
 <!-- InstanceEndEditable -->
-<link href="/css/style.css?time=1434237531" rel="stylesheet" type="text/css" media="all">
+<link href="/css/style.css?time=1439932508" rel="stylesheet" type="text/css" media="all">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script type="text/javascript" src="/assetts/js/nav.js?time=1434237495"></script>
+<script type="text/javascript" src="/assetts/js/nav.js?time=1439932464"></script>
 <!-- InstanceBeginEditable name="head" -->
 <!-- InstanceEndEditable -->
 <script type="text/javascript">
@@ -59,19 +59,19 @@ var login = {login:false}</script></head>
             </td>
             <td width="50%" style="text-align: right;">
                 <div id="login-container" style="display:inline-block;">
-                    <div id="topnav" class="topnav"><a href="/login.php#register" class="registerform	" style="color:#00B0D8">Register</a> | <a href="#" class="signin"><span>Login</span></a> </div>
+                    <div id="topnav" class="topnav"><a href="/login.php#register" class="registerform" style="color:#00B0D8">Register</a> | <a href="#" class="signin"><span>Login</span></a> </div>
                     <fieldset id="signin_menu">
                         <form id="login_top" onsubmit="return false;">
                             <p>
-                                <input id="users_email" name="email" value="" tabindex="1" type="text" autocomplete="on" placeholder="Email" onblur="check_password()">
+                                <input id="username" name="email" tabindex="1" type="text" placeholder="Email" autocomplete="email" onblur="check_password()">
                             </p>
                             <p id="p_password">
-                                <input id="users_pw" name="password" value="" tabindex="2" type="password" autocomplete="on" placeholder="Password">
+                                <input id="password" name="password" tabindex="2" type="password" placeholder="Password" autocomplete="password">
                             </p>
                             <p id="p_create_password" style="display: none;">
                                 <label>Create a new password</label>
-                                <input id="password1" name="password1" value="" tabindex="2" type="password" placeholder="Enter Password">
-                                <input id="password2" name="password2" value="" tabindex="3" type="password" placeholder="Confirm Password">
+                                <input id="password1" name="password1" value="" tabindex="2" type="password" placeholder="Enter Password" disabled="">
+                                <input id="password2" name="password2" value="" tabindex="3" type="password" placeholder="Confirm Password" disabled="">
                             </p>
                             <p class="remember">
                                 <input id="signin_submit" value="Login" tabindex="3" type="submit">
@@ -80,7 +80,7 @@ var login = {login:false}</script></head>
                             </p>
                             <p class="forgot"> <a href="/login.php#help" title="Forget your password?" id="resend_password_link">Forgot your password?</a></p>
                             <p class="forgot-username"><a id="forgot_username_link" title="New to BillionGraves? Register here!" href="/login.php#register">Register for BillionGraves</a></p>
-                            <input type="hidden" name="returl" value="/privacypolicy.php">
+                            <input id="returl" type="hidden" name="returl" value="/privacypolicy.php">
                         </form>
                     </fieldset>
                 </div>
@@ -103,12 +103,27 @@ var login = {login:false}</script></head>
 			</div>
 			<div class="navigation">
 				
+<script>
+    var user_id = ""
+    function community_analytics()
+    {
+        console.log("community_analytics");
+        $.ajax({
+            url:"/assetts/scripts/page_visit_analytics.php",
+            dataType:"json",
+            data:{"user_id":user_id, "page":"http://comunity.billiongraves.com/"},
+            success:function(data,text,xhr){console.log("Success");},
+            error:function(xhr,text,error){console.log("Error", xhr, text, error);}
+        });
+    }
+</script>
+
 <ul>
 	<li class="first"><a href="/pages/search/" title="Search">Search</a></li>
 	<li><a href="http://blog.billiongraves.com" title="Blog">Blog</a></li>
 	<li><a href="http://store.billiongraves.com" title="Store">Store</a></li>
 	<li><a href="/get_started.php" title="Get Started">Get Started</a></li>
-	<li class="last"><a href="http://community.billiongraves.com/" title="Community" target="_blank">Community</a></li>
+	<li class="last"><a href="http://community.billiongraves.com/" onclick="community_analytics();" title="Community" target="_blank">Community</a></li>
 </ul>
 
 <div class="social_addthis">
