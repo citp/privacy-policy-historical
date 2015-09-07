@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megabon.eu privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615041004id_/http%3A//www.megabon.eu/en/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megabon.eu privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907060104id_/http%3A//www.megabon.eu/en/pages/privacy-policy) for the most accurate reproduction.*
 
 # Lowest Prices For Hotel Packages In The World, Megabon
 
