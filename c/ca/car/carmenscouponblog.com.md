@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmenscouponblog.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420014646id_/http%3A//carmenscouponblog.com/privacypolisyandfulldisclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmenscouponblog.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907234316id_/http%3A//carmenscouponblog.com/privacypolisyandfulldisclosure) for the most accurate reproduction.*
 
 # Privacy Policy and Full Disclosure
 
@@ -59,8 +59,8 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 [Carmen’s Coupon Blog](http://www.carmenscouponblog.com/)® collects and uses Users personal information for the following purposes:
 
-  * _\- To administer a content, promotion, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_ The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * _– To administer a content, promotion, survey or other Site feature_ To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _– To send periodic emails_ The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
