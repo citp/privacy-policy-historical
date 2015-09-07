@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buystockflash.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610153551id_/http%3A//www.fantero.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buystockflash.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908003531id_/http%3A//www.fantero.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # PrivacyPolicy | Fantero
 
