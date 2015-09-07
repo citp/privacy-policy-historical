@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531051958id_/http%3A//help.bulkpowders.com/hc/en-gb/articles/200492852-Privacy-Policy-Data-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907041128id_/http%3A//help.bulkpowders.com/hc/en-gb/articles/200492852-Privacy-Policy-Data-Security) for the most accurate reproduction.*
 
 # Privacy Policy & Data Security – Help
 
@@ -81,7 +81,7 @@ We may have received your details from a third party company. If you do not wish
 
 **Can I go back on your Mailing List?**
 
-If you have previously asked us not to send offers but have changed your mind please let us know by calling us on 0844 736 4222 (Monday - Friday 9.00am to 6.00pm) or email us at sales@bulkpowders.com.
+If you have previously asked us not to send offers but have changed your mind please let us know by calling us on 0844 736 4222 (Monday - Friday 9.00am to 6.00pm) or email us at [sales@bulkpowders.com](mailto:sales@bulkpowders.com).
 
 **Will you pass my data on to third parties?**
 
