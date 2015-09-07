@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illustrativemathematics.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045748id_/https%3A//www.illustrativemathematics.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illustrativemathematics.org privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907023131id_/https%3A//www.illustrativemathematics.org/privacy-policy) for the most accurate reproduction.*
 
 # Illustrative Mathematics
 
