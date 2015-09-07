@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 11main.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318173355id_/https%3A//11main.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 11main.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907031253id_/https%3A//11main.com/privacy) for the most accurate reproduction.*
 
 # 11 Main Privacy Policy
 
