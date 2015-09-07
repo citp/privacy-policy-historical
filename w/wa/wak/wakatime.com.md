@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the wakatime.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319014314id_/https%3A//wakatime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakatime.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907182832id_/https%3A//wakatime.com/privacy) for the most accurate reproduction.*
 
-# WakaTime · Privacy
+# Privacy · WakaTime
 
-Last Modified: Monday December 22nd, 2014 ([view all changes](https://github.com/wakatime/legal/commits/master/privacy.md))
+Last Modified: Friday Sept 4th, 2015 ([view all changes](https://github.com/wakatime/legal/commits/master/privacy.md))
 
 ## Information we collect
 
 We collect information to provide better services to all of our users. We collect information in two ways:
 
-  * **Information you give us.** For example, information such as your email from when you signed up. This will never be shared publicly without your consent.
-  * **Information from your use of our text editor plugins.** We collect and store the timestamps, file names, project names, branch names, syntax languages, and detected dependencies you upload using our text editor plugins. We display the syntax languages and detected dependencies on your public profile. This information, excluding syntax language data and detected dependency data, will never be shared publicly without your consent.
-  * **Information from your use of our services.** We may collect information about the services you use and how you use them, like which pages you visit and which features you use. We use cookies with unique identifiers to authenticate your login session. Third parties, including but not limited to Google Analytics, may also use cookies to track your return visits to the website. 
+  * **Account and profile information.** When you sign up for a WakaTime account, we store information such as your email address. This will never be shared publicly without your consent.
+  * **Billing information.** We collect billing address and credit card information if you purchase a premium version of WakaTime. Billing address and credit card information is securely passed to our payment processing partner and is not stored at WakaTime.
+  * **Logged time content.** We collect and store the timestamps, file names, domain names, project names, branch names, syntax languages, and detected dependencies from your usage of our [downloadable plugins](https://wakatime.com/downloads). We display the syntax languages and detected dependencies on your public profile. This information, excluding syntax language data and detected dependency data, will never be shared publicly without your consent.
+  * **Service integrations.** If you [integrate with a service](https://wakatime.com/integrations) on WakaTime we will connect that service to ours. We do not receive or store your passwords or source code for any of these services. You can remove an integration at any time which unbinds that integration on a go-forward basis. That does not, however, delete the content that was received from them and indexed within WakaTime. That content must be deleted manually.
+  * **Usage information.** We may collect information about the services you use and how you use them, like which pages you visit and which features you use. We use cookies with unique identifiers to authenticate your login session. Third parties, including but not limited to Google Analytics, may also use cookies to track your return visits to the website. 
 
 
 
@@ -34,7 +36,7 @@ We do not share your personal information with organizations, companies, or indi
 
 ## Information security
 
-We work hard to protect your private information. We enforce SSL when our users communicate with WakaTime. We use a one-way hash algorithm with random salt to store your password. 
+We work hard to protect your private information. We enforce SSL when our users communicate with WakaTime. We use a [one-way hash algorithm](https://en.wikipedia.org/wiki/Bcrypt) with random salt to store your password. 
 
 We use a third party, [Stripe](https://stripe.com/), to store your credit card information and process payments. Your credit card information is never stored or transmitted using our servers. We only store the last 4 digits, expiration date, and card type of your credit card on our servers for reference. Your credit card information is governed by [Stripe's Privacy Policy](https://stripe.com/us/privacy). 
 
