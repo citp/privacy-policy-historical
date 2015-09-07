@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglobalcentral.co.uk privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603052137id_/http%3A//www.eglobalcentral.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobalcentral.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907063340id_/http%3A//www.eglobalcentral.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY -
 
