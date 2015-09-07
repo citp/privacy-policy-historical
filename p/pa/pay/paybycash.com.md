@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607094240id_/http%3A//www.playspan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paybycash.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907085358id_/http%3A//www.playspan.com/privacy) for the most accurate reproduction.*
 
 # PlaySpan Privacy Policy
 
