@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshly.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324181738id_/https%3A//www.freshly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshly.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907220934id_/https%3A//www.freshly.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Freshly
 
@@ -106,7 +106,7 @@ Our Site may contain links to third-party websites, which may have privacy polic
 
 Freshly welcomes your questions and comments about privacy and/or this policy. Please contact us at [freshly@Freshly.com](mailto:freshly@Freshly.com).
 
-Freshl, Inc.
+Freshly, Inc.
 
 P.O. Box 7215
 
