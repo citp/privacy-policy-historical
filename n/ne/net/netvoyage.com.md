@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the netvoyage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625184455id_/http%3A//www.netdocuments.com/en-us/TermsConditions/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netvoyage.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908013742id_/http%3A//www.netdocuments.com/en-us/About/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-NetDocuments Privacy Policy 
+# NetDocuments - Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/NetVoyage-Corporation/validation?rid=aaa8af9f-6984-4a26-8673-2a76b7da6ed0 "TRUSTe European Safe Harbor certification")
 
@@ -102,4 +100,4 @@ Lehi, UT 84043
 801.226.6882
 
 Last Updated October, 2013  
-Copyright © 2001-2012 NetVoyage Corporation, d/b/a NetDocuments. All rights reserved.
+Copyright © 2001-2015 NetVoyage Corporation, d/b/a NetDocuments. All rights reserved.
