@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316213352id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tresorit.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907222600id_/https%3A//tresorit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tresorit
 
@@ -92,6 +92,10 @@ Please note, as stated and regulated in Terms, we can delete or revoke access to
 
 You understand that once you shared all or a part of Your Encrypted Content by using Our Service with any person who accepted your invitation, such content goes out of your Control and remains accessible by such person to the extent you granted such person access, even if you select to delete or remove Your Encrypted Content.. Therefore we ask you to pay special attention with whom you share Your Encrypted Content.
 
+It is the Policy of this Company to thoroughly investigate and treat seriously any suspicion of a potential breach of its systems that would allow access to Your Encrypted Content in an unencrypted or otherwise readable form by unauthorized third parties. If such an unlikely event were ever to occur, Tresorit would promptly notify you via the e-mail address provided in the Personal Data.
+
+In the event your Encrypted Content contains Protected Health Information (“PHI”) and is stored by you as a Covered Entity or Business Associate, all as defined under the American Recovery and Reinvestment Act of 2009 (ARRA), including the Health Information Technology for Economic and Clinical Health Act, 42 U.S.C. 17921-17954 (HITECH), and the Health Insurance Portability Act of 1996 (HIPAA), then Tresorit’s handling of such PHI shall comport with the HIPAA and HITECH standards, to the extent Tresorit is a Business Associate and we have executed a HIPAA Business Associate Agreement with you. In the unlikely if not impossible event of a disclosure by Tresorit of the PHI in an unencrypted (or otherwise readable) form to an unauthorized third party, Tresorit shall undertake timely notification to you as a Covered Entity or Business Associate, pursuant to the terms and conditions of the applicable Business Associate Agreement.
+
 Our site includes links to other web sites whose privacy practices may differ from those of Tresorit. If you submit personal data to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit.
 
 Our web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal data from our blog or community forum, contact us at support@tresorit.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
@@ -100,7 +104,7 @@ You can log in to our support system using sign-in services such as Facebook Con
 
 As every high-quality service, Our Service is constantly improved in effort to keep users satisfied, but these improvements necessarily mean changes. Due to the on-going changes in the law and the changing nature of technology, data practices will change from time to time. Thus, Tresorit reserves the right to alter or modify this Policy when it is necessary. If Tresorit makes any material change to this Policy, you as our registered user will receive a 30 day prior written notification in e-mail and these changes will be detailed also on this page in order to ensure that you are fully aware of what information is collected or stored, how it is used and under what circumstances it will be disclosed or transmitted so that you can make your own decision whether or not to continue using our services in light of such changes. Your privacy will not be reduced without your consent. If you are concerned about how your information is collected, stored, used or disclosed, you should periodically check back at this page. If you have any specific concerns not addressed in this Policy, please see Section VIII of this Policy for further contact information.
 
-VIII. Further information and contact options
+IX. Further information and contact options
 
 You are entitled to enquire adjustment or deletion of your stored Personal Data. Furthermore, if you have questions about this Policy or want to know further information or explanation about the data we store about you, please contact us by email at [support@tresorit.com](mailto:support@tresorit.com), or write to us at:
 
