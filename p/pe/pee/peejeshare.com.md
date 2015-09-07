@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peejeshare.com privacy policy that was archived on 2015-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150129003008id_/https%3A//www.hostwinds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peejeshare.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907183059id_/https%3A//www.hostwinds.com/privacy.php) for the most accurate reproduction.*
 
 # Hostwinds Privacy Policy
 
