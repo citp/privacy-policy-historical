@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momanddadmoney.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607035859id_/http%3A//momanddadmoney.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momanddadmoney.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907214435id_/http%3A//momanddadmoney.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Mom and Dad Money
+# Privacy Policy - Mom and Dad Money
 
 ###### Privacy Policy
 
