@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widexl.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626221307id_/http%3A//www.widexl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widexl.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907224021id_/http%3A//www.widexl.com/privacy.html) for the most accurate reproduction.*
 
 # Widexl Privacy Policy
 
