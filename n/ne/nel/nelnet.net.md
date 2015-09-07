@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the nelnet.net privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706234310id_/http%3A//www.nelnet.com/Privacy-And-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelnet.net privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908011519id_/http%3A//www.nelnet.com/Privacy-And-Security) for the most accurate reproduction.*
 
-# Nelnet
+# Privacy and Security - Nelnet.com
+
+[](http://get.adobe.com/reader "Adobe Reader Logo")
 
 To understand what type of information we collect, and what we do with this information, please read our Privacy Notice.
 
 Read the [Privacy Notice](https://web.archive.org/uploadedFiles/General_Content/privacy-policy.pdf "Privacy Notice") for Nelnet owned loans.  
-Read the [Privacy Notice](https://web.archive.org/uploadedFiles/General_Content/ED%20Privacy%20Letter.pdf) for Department of Education owned loans.
+Read the [Privacy Notice](https://web.archive.org/uploadedFiles/General_Content/ED%20Privacy%20Letter.pdf) for Department of Education owned loans.  
+If you have loans owned by another entity they will make a copy of their Privacy Notice available to you annually.
 
 To opt out of sharing certain information with our affiliates or nonaffiliated third parties, please complete our [online Privacy Options Form](https://web.archive.org/opt-out/ "online form").
 
