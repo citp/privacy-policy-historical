@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizard101central.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627160755id_/http%3A//www.wizard101central.com/forums/misc.php%3Fdo%3Dpage%26template%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizard101central.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907031936id_/http%3A//www.wizard101central.com/forums/misc.php%3Fdo%3Dpage%26template%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Wizard101 Central - privacy_policy - Wizard101 Forum and Wizard101 Fansite
 
