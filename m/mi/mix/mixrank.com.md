@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixrank.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315012536id_/https%3A//mixrank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixrank.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907224247id_/https%3A//mixrank.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MixRank
 
