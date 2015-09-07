@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612002828id_/http%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907054048id_/https%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobbs
 
@@ -36,6 +36,7 @@ We will only use your Personal Information for the purpose(s) for which you prov
   * Prevent or detect fraud or abuses of our Website.
   * Enable third parties to carry out technical, logistical or other functions on our behalf to make the website more useful to you.
   * Process job applications.
+  * Enter you into prize draws to win Hobbs products or benefits;
 
 
 
