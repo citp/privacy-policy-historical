@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cndirect.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622052926id_/http%3A//www.cndirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cndirect.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907180228id_/http%3A//www.cndirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
