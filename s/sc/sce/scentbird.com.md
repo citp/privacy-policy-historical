@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the scentbird.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316081107id_/https%3A//www.scentbird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentbird.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907175228id_/https%3A//www.scentbird.com/privacy) for the most accurate reproduction.*
 
 # Scentbird Service Privacy Policy
-
-Privacy policy
 
 This is how we collect and use your information  
 Last updated October 17, 2014
