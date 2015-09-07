@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the extremeseotools.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317190914id_/https%3A//offshoreseovps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeseotools.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908015047id_/https%3A//offshoreseovps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Do Not Keep Or Give Out Information
+
+Please Also See  <https://offshoreseovps.com/Client/knowledgebase/5/What-things-can-you-do-on-our-network-.html>
 
 **What information do we collect?**
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
 
-As of this month starting July 1st we no longer allow anonymous signups. You must use all of your correct information or the fraud filters will more than likely catch it. We’ve had many issues with fake bank sites and other such problems causing down-time for clients. This new policy will eliminate any of these issues. We do not allow any kind of fraud or illegal activity. We are relaxed and very lenient when it comes to reporting sites or complaints. But when it comes to fraud and illegal fake bank sites, fake sites of any kind for phishing we must turn it off. From now on you must use your information when signing up even using bitcoin. We of course will never share any information and have no contacts with any third party service to sell such information.
+If you want to remain anonymous please use bitpay as payment processor and you may need to [contact us](https://offshoreseovps.com/contact-us/) to turn off fraud filter if it doesn’t let you pay.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously but if you decide to use Credit card payment, Paypal Payment, Or Payza you will need to use your correct information. Only Bitcoins will be you be able to remain 100% anonymous.
 
@@ -27,9 +29,9 @@ Any of the information we collect from you may be used in one of the following w
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 • To send periodic emails  
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.You are already opted into our mailing list by ordering from us, you will receive emails that may include company news, updates, related product or service information, etc.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, simply click on the unsubscribe options at the bottom of every email..
+Note: If at any time you would like to unsubscribe from receiving future emails, simply log into your client area and opt out of all emails from us. Note that if you do have a service with us you will still get system emails.
 
 **How do we protect your information?**
 
@@ -49,7 +51,7 @@ If you prefer, you can choose to have your computer warn you each time a cookie 
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This  includes trusted third parties who assist us in operating our website, conducting our business, or servicing you. We will not give your information out to ANYONE. If for some reason you are being hunted down by anyone you were never here, and that is what we will stick by and we protect your information. Do not worry about your information being given out because this is just not something we will ever do. We are here to offer you offshore bulletproof hosting and [VPS](https://offshoreseovps.com/)’s and that is all.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This  includes trusted third parties who assist us in operating our website, conducting our business, or servicing you. We will not give your information out to ANYONE. If for some reason you are being hunted down by anyone you were never here, and that is what we will stick by and we protect your information. Do not worry about your information being given out because this is just not something we will ever do. We are here to offer you offshore hosting and VPS’s at the best possible rate.
 
 **Third party links**
 
@@ -77,12 +79,12 @@ By using our site, you consent to our websites privacy policy (obtained from [Tr
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on April, 2014
+This policy was last modified on April, 2015
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://offshoreseovps.com/contact-us/) using the information below.
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Bulletproof VPS
+Offshore [SEO VPS](https://offshoreseovps.com/)
 
-support@bulletproofvps.com
+support@offshoreseovps.com
