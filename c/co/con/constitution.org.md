@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constitution.org privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629025050id_/http%3A//www.constitution.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constitution.org privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907181402id_/http%3A//www.constitution.org/privacy.html) for the most accurate reproduction.*
 
 # constitution.org | Privacy Policy
 
