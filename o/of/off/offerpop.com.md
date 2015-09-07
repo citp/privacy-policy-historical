@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the offerpop.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612051948id_/http%3A//www.offerpop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerpop.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907180833id_/http%3A//www.offerpop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective July 23, 2014
 
+COOKIES  
+Our cookie policy is located at <http://www.offerpop.com/cookie-policy/>.
+
 This privacy policy applies to www.offerpop.com owned and operated by Offerpop Corporation. Offerpop Corporation ("Offerpop") provides this Information and Privacy Policy to inform you of Offerpop's policies and procedures regarding the collection, use and disclosure of information that Offerpop receives from the following:
 
   * Users in the general public ("Website Users") who visit and use the publicly-accessible website located at www.offerpop.com ("Offerpop Site"). Website Users include, by way of example, but not limitation, users who: 
-    * Submit feedback, questions, comments or other user-generated content on the publicly-accessible Offerpop support portal located at <http://getsatisfaction.com/offerpop>
+    * Submit feedback, questions, comments or other user-generated content on the publicly-accessible Offerpop support portal located at https://community.offerpop.com/community/support
     * Sign up to receive marketing and other communications regarding Offerpop including offers we send on behalf of  business partners through the "Contact Us" or "Join our email list" or similar features available on the Offerpop Site
     * Publicly state their preferences, experiences or interests regarding Offerpop or Offerpop's product or service offerings, in each case as expressed in the course of such user's use of the Offerpop Site by selecting a "Like," "Follow," "+1," or similar public designation of interest
 
@@ -36,8 +39,6 @@ INFORMATION OFFERPOP MAY RECEIVE FROM USERS
 INFORMATION OFFERPOP COLLECTS
 
 In addition to the information identified above, and regardless of the type of user you are, when you visit the Offerpop Site or interact with the Offerpop Applications, Offerpop's servers and our third party tracking-utility partners gather certain information automatically that your browser sends whenever you visit a website through log files. This information may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to the Offerpop Site or interacted with the Offerpop Applications, and information you search for on the Offerpop Site or the Campaign Operator’s website or the Third Party Site.
-
-Cookies.  Our cookie policy is located at <http://www.offerpop.com/cookie-policy/>.
 
 HOW OFFERPOP USES INFORMATION
 
