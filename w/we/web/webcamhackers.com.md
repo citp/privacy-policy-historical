@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcamhackers.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618102054id_/http%3A//webcamhackers.com/tour_01/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcamhackers.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907061247id_/http%3A//www.webcamhackers.com/tour_01/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
