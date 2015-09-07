@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportspickle.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624043302id_/http%3A//www.sportspickle.com/2014/04/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportspickle.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907074311id_/http%3A//www.sportspickle.com/2014/04/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SportsPickle | SportsPickle
 
