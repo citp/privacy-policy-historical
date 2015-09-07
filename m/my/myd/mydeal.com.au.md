@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydeal.com.au privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607052839id_/http%3A//www.mydeal.com.au/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeal.com.au privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907120720id_/http%3A//www.mydeal.com.au/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
