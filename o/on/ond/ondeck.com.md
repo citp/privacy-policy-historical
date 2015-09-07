@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ondeck.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317105649id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondeck.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907105206id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnDeck
 
-  * This Privacy Policy applies to [www.ondeck.com](https://www.ondeck.com/), which is owned and operated by On Deck Capital, Inc. (“OnDeck,” “Us,” or We”). This Privacy Policy describes how OnDeck collects and uses the personal information you provide on our website [www.ondeck.com](https://www.ondeck.com/) (“Website”) in order to provide our business loan products and service (collectively, the “Service”). It also describes the choices available to you regarding our use of your personal information and how you can access and update such information.
+  * This Privacy Policy has been updated effective June 11, 2015.
 
-For purposes of this Privacy Policy, “Personal Information” means information that personally identifies you, including your contact information, IP address, and loan application information. A large portion of the Personal Information we collect, use, share, and store is sensitive in nature, including your social security number and financial account information (“Sensitive Personal Information”).
+This Privacy Policy applies to [www.ondeck.com](https://www.ondeck.com/) (“Website”), which is owned and operated by On Deck Capital, Inc. (“OnDeck,” “Us,” or We”). The Website facilitates our business loan products and related services (collectively “Services”). This Privacy Policy describes how OnDeck collects and uses the personal information you provide (directly or through third parties), or which is automatically generated, when you interact with our website [www.ondeck.com](https://www.ondeck.com/) (“Website”) and our mobile application (“Mobile App”).
+
+This Privacy Policy also describes the choices available to you regarding our use of your personal information and how you can access and update such information. For purposes of this Privacy Policy, “Personal Information” means information that personally identifies you, including your contact information, IP address, and loan application information. A large portion of the Personal Information we collect, use, share, and store is sensitive in nature, including your social security number and financial account information (“Sensitive Personal Information”). 
 
 OnDeck has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our 
 
@@ -12,21 +14,21 @@ OnDeck has received TRUSTe’s Privacy Seal signifying that this Privacy Policy 
 
 practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily in this Privacy Policy or otherwise, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information for TRUSTe. Unfortunately, TRUSTe’s Dispute Resolution process is only available in English.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily in this Privacy Policy or otherwise, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information for TRUSTe.
 
-The TRUSTe program covers only information that is collected through this Website, and does not cover information collected through third party sites or services, or information that may be collected through software downloaded from the Website.
+Unfortunately, TRUSTe’s Dispute Resolution process is only available in English. The TRUSTe program covers only information that is collected through this Website, and does not cover information collected through third party sites or services, or information that may be collected through software downloaded from the Website.
 
 * * *
 
   * We collect the following information from you:
 
-    * Contact information such as name, email address, mailing address, and phone number;
-    * Financial information such as, bank statements, credit card statements, your average bank balance, personal and business credit history, payment behavior, bank account information, and tax ID number;
+    * Contact information such as name, business name, email address, mailing address, and phone number;
+    * Financial information such as bank statements, credit card statements, your average bank balance, personal and business credit history, payment behavior, bank account information, and tax ID number;
     * Social security number;
     * Unique identifiers such as user name and password, and IP address; and
-    * Business information including company name, company size, and business type.
+    * Business information including company size, and business type.
 
-We may also conduct a site visit to collect information. We supplement the data you provide with your credit score obtained from the three credit bureaus. Once you are an OnDeck customer, we may reach out to you for information again if you decide to renew your loan.
+In addition to collecting information via our Website and Mobile App, we may also conduct a site visit to collect information, and obtain information and external data used by lenders to process applications and complete and manage transactions, e.g., from credit reporting agencies and other vendors, as well as from social media. Once you are an OnDeck customer, we may reach out to you for, or otherwise obtain, information if you decide to renew your loan or as otherwise needed to provide the Service. 
 
 * * *
 
@@ -34,20 +36,22 @@ We may also conduct a site visit to collect information. We supplement the data 
 
     * Compile, save, use and analyze your Personal Information in both a personally-identifiable form and an aggregated, non-personally identifiable form;
     * Operate, maintain, improve, and provide to you the Service and to conduct our business;
-    * Verify your identity;
+    * Verify your identity and conduct appropriate diligence;
     * Register you as a user and identify you when you sign in to your account;
-    * Determine whether or not you qualify for one of our loan products;
-    * Process your account, including deducting automatic payments;
-    * Communicate with you to send order confirmations, respond to customer service requests, send marketing communications, and send account update notifications; and
+    * Process your application and determine whether or not your business qualifies for one of our loan products;
+    * Process your business loan product account, including deducting automatic payments;
+    * Communicate with you to send order confirmations, respond to customer service requests, send marketing communications, and send account update notifications;
     * Post and review your comments on our blog.
+    * Conduct research and analyses to better understand our customers; and
+    * Produce data analytics and reports containing anonymized summaries of Personal Information and other information that is not Personal Information (such information, “General Information”) that we share with business partners. General Information may include Personal Information that has been aggregated, anonymized and will not identify you.
 
 * * *
 
-    * OnDeck will share your Personal Information with third parties only in the ways that are described in this Privacy Policy. We do not sell your Personal Information to third parties.
+    * OnDeck will share your Personal Information with third parties only in the ways that are described in this Privacy Policy and as required by law. We do not sell your Personal Information to third parties. 
 
-We will provide your Personal Information to our trusted business partners and service providers to provide services to help us with our business activities, such as offering customer service or processing credit checks. These companies are authorized to use your Personal Information _only as necessary to provide_ these services to us. We will share your basic information (name, company name, phone number, email address and requested loan amount) with one of our business partners if we are unable to provide you with a loan. If you do not want us to share your Personal Information with these business partners, please contact us by email at [marketing@ondeck.com](mailto:marketing@ondeck.com) or by postal mail at the contact information listed below.
+We will provide your Personal Information to our trusted business partners, service providers and subsidiaries and affiliates to provide services to help us with our business activities, such as offering customer service, processing credit checks or secure data storage, and other similar services. These companies are authorized to use your Personal Information only as necessary to provide these types of services to us. In addition, we may share your basic information (name, company name, phone number, email address and requested loan amount) with one of our business partners to market their services to you , provided, however, if you do not want us to share your Personal Information in these circumstances with these business partners, please contact us to opt out by email at [marketing@ondeck.com](mailto:marketing@ondeck.com) or by postal mail at the contact information listed below. In addition, we may also share General Information for the same reasons as we provide Personal Information and for business partners and others to conduct analyses and research and track marketing performance or as otherwise provided in the Tracking Technologies part herein. 
 
-Some of our pages utilize framing or white-labeling techniques to serve content from our partners while preserving the look and feel of our Website. For example, our careers page utilizes white-labeling techniques. Please be aware that in these instances you are providing your Personal Information to these third parties and not to OnDeck.
+Some of our pages utilize framing or white-labeling techniques to serve content from our partners while preserving the look and feel of our Website. For example, our Careers page utilizes white-labeling techniques. Please be aware that in these instances you are providing your Personal Information to these third parties and not to OnDeck.
 
 We may also disclose your Personal Information:
 
@@ -58,27 +62,27 @@ We may also disclose your Personal Information:
 
 * * *
 
-    * If your Personal Information changes, or if you no longer desire our Service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum or testimonial on our Website or deactivate it by emailing our Customer Support at [marketing@ondeck.com](mailto:marketing@ondeck.com) or by contacting us by postal mail at the contact information listed below. We will respond to your request within 30 days.
+    * If your Personal Information changes, or if you no longer desire our Service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum or testimonial on our Website or deactivate it by emailing our Customer Support at [marketing@ondeck.com](mailto:marketing@ondeck.com) or by contacting us by postal mail at the contact information listed below. We will respond to your request within 30 days. 
 
-We will retain your information for as long as your account is active or as long as reasonably useful for commercial purposes. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as long as reasonably useful for commercial purposes. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
       * _Opt-Out Policy_
 
-OnDeck and our business partners may contact you to offer you products and services that may of interest to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails, telephone solicitations or other forms of contact from OnDeck and our trusted business partners by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or by contacting us by email at [marketing@ondeck.com](mailto:marketing@ondeck.com) or by postal mail at the contact information listed below.
+OnDeck and our business partners may contact you to offer you products and services that may be of interest to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails, telephone solicitations or other forms of contact from OnDeck and our trusted business partners by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or by contacting us by email at [marketing@ondeck.com](mailto:marketing@ondeck.com) or by postal mail at the contact information listed below.
 
 * * *
 
-    * Technologies such as cookies, beacons, tags and scripts are used by OnDeck and our partners (for example, our marketing partners), affiliates, or analytics or service providers, including our live chat, marketing trackers, and survey tool service providers. These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+    * Technologies such as cookies, beacons, tags and scripts are used by OnDeck and our partners (for example, our marketing partners), affiliates, or analytics or service providers, including our live chat, marketing trackers, and survey tool service providers. These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies for user authentication and analytics. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Website, but your ability to use some features or areas of our Website may be limited. If you would like to learn more about cookies or how to configure your browser, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
       * _Log Files_
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you and to improve marketing, analytics, and Website functionality.
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you and to improve marketing, analytics, and Website functionality. 
 
       * _Local Storage Objects (Flash/HTML5)_
 
-Our partners use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our Website or to display advertising based upon your Web browsing activity use Local Storage Objects (LSOs) such as HTML5 or Flash to collect and store information.
+Our partners use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our Website or to display advertising based upon your Web browsing activity use Local Storage Objects (LSOs) such as HTML5 or Flash to collect and store information. 
 
 Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
@@ -88,7 +92,7 @@ We partner with third parties to display advertising on our Website and manage o
 
 * * *
 
-    * OnDeck takes the security of your information very seriously. OnDeck protects your information using bank-level data security: 128 bit-encryption and a Secure Sockets Layer (SSL) protocol. This creates an encrypted connection between your browser and our servers. When you enter Sensitive Personal Information (such as a credit card number) on our order forms, we encrypt the transmission of that information.
+    * OnDeck takes the security of your information very seriously. OnDeck protects your information using bank-level data security: 128 bit-encryption and a Secure Sockets Layer (SSL) protocol. This creates an encrypted connection between your browser and our servers. When you enter Sensitive Personal Information (such as a credit card number) on our order forms, we encrypt the transmission of that information. 
 
 If you allow OnDeck to see your banking information online rather than in paper form, it is on a read-only basis. We do not have access to change, edit, or modify bank account information in any way. OnDeck employees cannot view your banking username and passwords, and we securely store them in separate encrypted areas with our financial services providers.
 
@@ -96,7 +100,7 @@ If you allow OnDeck to see your banking information online rather than in paper 
 
     *       * _Links to 3rd Party Sites_
 
-Our Website includes links to other websites whose privacy practices may differ from those of OnDeck. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
+Our Website includes links to other websites whose privacy practices may differ from those of OnDeck. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. 
 
       * _Blog/Forum_
 
@@ -126,8 +130,6 @@ USA
 
 
 If you are contacting us to opt-out of marketing communications, you must include your full name and business mailing email addresses and account number. Once we locate your contact information based on the information you provide us, it will be removed from our databases and mailings lists.
-
-This Privacy Policy is effective as of September 8, 2014.
 
 
 
