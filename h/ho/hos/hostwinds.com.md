@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostwinds.com privacy policy that was archived on 2014-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141107094347id_/http%3A//www.hostwinds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostwinds.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907183059id_/https%3A//www.hostwinds.com/privacy.php) for the most accurate reproduction.*
 
 # Hostwinds Privacy Policy
 
@@ -57,9 +57,3 @@ Our mailing address is:
 9 East 4th Street  
 Tulsa, Ok 74103  
 918-960-0191
-
-  Hostwinds received the November 2014 Editor’s Choice Award for Best VPS Hosting from FindMyHost.com! The FMH website states that “Web Hosts whom have won the FindMyHost Editors’ Choice Award[ Continue Reading](https://www.hostwinds.com/blog/hostwinds-news/hostwinds-gets-editors-choice-award-for-vps-hosting/)
-
-Unknown to many of our clients, friends and some of our newest staff members, Hostwinds is in the middle of celebrating it’s FOURTH YEAR in the web hosting business. In our case[ Continue Reading](https://www.hostwinds.com/blog/hostwinds-news/getting-to-know-hostwinds-our-support-staff/)
-
-  As the winter months approach and it gets colder here in our headquarter city of Tulsa, Oklahoma, Hostwinds puts their “back to the wind” and prepares to hit the streets to[ Continue Reading](https://www.hostwinds.com/blog/hostwinds-news/hostwinds-gets-ready-for-ungagged-2014/)
