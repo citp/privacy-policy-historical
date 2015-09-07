@@ -1,89 +1,251 @@
-> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611195714id_/http%3A//www.blinkbox.com/Info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907173521id_/https%3A//support.blinkbox.com/hc/en-gb/articles/205879628) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | blinkbox
+# Our privacy policy – blinkbox Support
 
-  1. GENERAL 
-    1. As part of the Tesco Group, at blinkbox Entertainment Limited ("we"/"us"/"our") we respect your privacy and are committed to protecting your Personal Information (as defined below in paragraph 3.1). We have created this Privacy Notice to let you know what information we collect when you visit the website http://www.blinkbox.com (the "Website"), use the services available (collectively, the "blinkbox Services"), why we collect this information and how the collected information is used. 
-  2. CONSENT TO PRIVACY NOTICE 
-    1. By your continued use of the blinkbox Services following the posting of this Privacy Notice (as applicable), you agree to this Privacy Notice. This is our entire and exclusive Privacy Notice and it supersedes any earlier version. This Privacy Notice forms part of and should be read in conjunction with our Terms and any additional applicable terms on the blinkbox Services. We may periodically make changes to this Privacy Notice and will notify you of these changes by posting the modified terms on the Website. We recommend that you revisit this Privacy Notice regularly. If we are going to use Personal Information in a manner materially different from that stated at the time of collection, we will notify you by posting a notice on the blinkbox Services. 
-  3. COLLECTED INFORMATION 
-    1. "Personal Information" means information that may be used to identify an individual, including, but not limited to, first and last name, date of birth, home or other physical address, email address, pictures, phone number, other contact information, website usage preferences, the personal photographs and videos you submit and feedback regarding the blinkbox Services. You may be asked to provide Personal Information when you use the blinkbox Services. This information is held by us on secure servers based in the UK. In addition, when you interact with the blinkbox Services, our servers may keep an activity log unique to you that collects certain administrative and traffic information including: source IP address, time of access, date of access, web page(s) visited, language use, software crash reports and type of browser used. 
-    2. Means of Collecting and Processing Data 
-      1. We may automatically collect certain data and receive Personal Information about you where you provide such information through the blinkbox Services or other communications and interactions with us. We may also receive information about you that is held by Tesco Group under its 'Tesco Clubcard' loyalty scheme, where you have entered your 'Tesco Clubcard' details. 
-    3. Information Use 
-      1. We use the Personal Information you provide to: 
-        1. deliver the blinkbox Services;
-        2. provide user support (including processing any complaints or enquiries made by you);
-        3. provide you with information products or services that you request from us or which we feel may interest you (where you have consented to be contacted for such purposes as set out in paragraph 3.4);
-        4. notify you about changes to the blinkbox Services;
-        5. facilitate your earning and redemption of 'Tesco Clubcard' loyalty points (where applicable); and
-        6. for any other purpose related to the operation of the blinkbox Services.
-    4. Passing on Your Data to Third Parties 
-      1. Anonymised information about your use of the blinkbox Services may be provided to the operator of another service, electronic guide, portal, platform or network gateway integrated with or used by your Device.
-      2. You may choose to receive promotional communications, either by indicating your communications preferences when you sign up to any new blinkbox Services or products and where any such option is made available to you, via the Website or otherwise.
-      3. Where you have elected to receive promotional information, we may also use your Personal Information (including your email address and phone number) to provide you with information regarding any products, services and promotions offered by us and selected third parties that may be of interest to you.
-      4. If you do not want us to use your Personal Information in this way, or pass on your details for marketing purposes, please contact us or amend your communication preferences.
-      5. We employ other companies and individuals to perform functions on our behalf, for example analysing data, providing marketing assistance, and processing and storing credit card details. They have access to personal information required to perform their functions, but are not permitted to use it for other purposes. They must process the personal information in accordance with this Privacy Notice, and must adhere to the Data Protection Act 1998 (the "Act").
-      6. We will not sell, lease or share your Personal Information except as set forth in this Privacy Notice.
-    5. Excluded Disclosures 
-      1. As a part of the Tesco Group, we may pass on your Personal Information to any member of the Tesco Group, comprising our subsidiaries, our holding company and its subsidiaries (as defined in section 1159 of the UK Companies Act 2006) for the purposes of providing the blinkbox Services, dealing with administration and to facilitate your earning and redemption of 'Tesco Clubcard' loyalty points (where applicable). 
-      2. We may disclose your Personal Information to third parties: 
-        1. in the event that we sell or buy any business or assets, in which case we may disclose your Personal Information to the prospective seller or buyer of such business or assets; 
-        2. if blinkbox Entertainment Limited or substantially all of its assets are acquired by a third party, in which case Personal Information held by it about its customers will be one of the transferred assets; 
-        3. if required to do so by law, or if we believe in good faith that such action is necessary to: (1) comply with any legal process served on us or the blinkbox Services or in circumstances where we are under a substantially similar legal obligation; (2) protect and defend our rights or property; or (3) act to protect the personal safety of users of the blinkbox Services or the public. 
-  4. COOKIES 
-    1. In order to comply with new rules, we use a system of classifying the different types of cookies which we use on the Website, or which may be dropped by third parties through our websites. The classification was developed by the International Chamber of Commerce UK and explains more about which cookies we use, why we use them, and the functionality you will lose if you decide you don't want to have them on your device. Please be reassured that we are working on other privacy and cookie-related improvements to the Website. 
-    2. What is a cookie? 
-      1. Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device. 
-      2. Persistent cookies - these cookies remain on a user’s device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie. 
-      3. Session cookies - these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted. 
-      4. Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. 
-      5. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
-    3. Cookies used on the Website 
-      1. A list of all the cookies used on the Website by category is set out below: 
-        1. _Strictly necessary cookies_
+We are committed to protecting and preserving your information, being transparent about what data we hold and how we use it.
 
-These cookies enable services you have specifically asked for. For those types of cookies that are strictly necessary, no consent is required.
+Scope
+    
 
-These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the Website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+This policy applies to anyone who buys or uses any of the services provided by the TalkTalk group and its companies, which includes the brands TalkTalk, TalkTalk Business, and blinkbox.
 
-        2. _Performance cookies_
+When we refer to “we” or “our” or “TalkTalk” we are referring to TalkTalk Telecom Group Plc and its subsidiaries, (including TalkTalk Communications Limited and TalkTalk Telecom Limited), or any of them, as the context requires.
 
-_These cookies collect anonymous information on the pages visited. By using the Website, you agree that we can place these types of cookies on your device._
+Overview
+    
 
-These cookies collect information about how visitors use the Website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how the Website works. 
+We collect information about you when you buy or use any of our services including services which have transferred to us when we have bought another business, or from other organisations such as credit agencies or other organisations we use to provide services to you, for example Qube. We may share this information between us so we can provide the services you order and manage your account.
 
-        3. _Functionality cookies_
+By using any of our services or visiting our websites you agree to our use of your information as set out in this privacy policy. This privacy policy forms part of and should be read in conjunction with the terms and conditions on our websites and any additional terms you are provided with in relation to our services.
 
-_These cookies remember choices you make to improve your experience. By using the Website, you agree that we can place these types of cookies on your device._
+Information we collect
+    
 
-These cookies allow the Website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites. 
+### 1\. Information you give us
 
-        4. _Targeting or advertising cookies_
+When you place an order with us for any of our services we will need certain information to process your order. This may be information such as your name, private/business email or postal address, telephone or mobile number, date of birth, financial or credit card information to help us identify you and to provide a service to you. We may ask for other information that relates to the service you are using or ordering.
 
-_These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests._
+When you contact us to discuss your services using [Sign In](https://www.blinkbox.com/signin) or [Contact Us](https://web.archive.org/hc/en-gb/requests/new) (or on our online chat support) we may ask for certain information to be able to confirm your identity, check our records and answer your questions quickly and accurately.
 
-These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. 
+If you complete any survey or enter any competitions we may ask for information about you, which we will make clear to you at the time and for the purpose we will be using this information.
 
-    4. Behavioural advertising and online privacy 
-      1. A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). The guide contains an explanation of the IAB’s self-regulatory scheme to allow you greater control of the advertising you see.
-    5. Using browser settings to manage cookies 
-      1. The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. You can also disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. 
-      2. However, because cookies allow you to take advantage of some of the Website’s essential features, we recommend you leave them turned on. For example, if you block or otherwise reject cookies you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any of our products and services that require you to Sign in. If you leave cookies turned on, remember to sign off when you finish using a shared computer. 
-  5. ACCESS TO INFORMATION 
-    1. You have the right to access information held about you in accordance with the Act. If you would like to confirm the accuracy of the Personal Information we have collected about you; would like to update your Personal Information or delete your Personal Information; and/or have any complaint regarding our use of your Personal Information, please contact us. If requested, we will change any information you have provided to us or mark any information to prohibit future use, provided that you provide such evidence as we may reasonably require for such changes. 
-  6. SECURITY REVIEW 
-    1. We reserve the right to conduct a security review at any time to validate your identity, age, the registration data provided by you and to verify your use of the blinkbox Services for potential breach of the Terms and of applicable law. By accepting the Terms, you authorise us, our staff, affiliates, subsidiaries, agents and suppliers to use your Personal Information and to disclose your Personal Information to third parties for the purposes of validating the information you provide to us in the course of using the blinkbox Services, including, where necessary, the transfer of information outside of your country. Security reviews may include verifying the information you provide against third-party databases. In addition, to facilitate these security reviews, you agree to provide such information or documentation as we may request. 
-    2. Security 
-      1. We store all of the Personal Information we receive directly from you and use reasonable measures to protect all Personal Information that is stored within our database. We also take steps to ensure that our agents, affiliates and suppliers also employ adequate levels of security. For any additional information about the security measures we employ please email us. 
-      2. The transmission of information via the Internet is not always completely secure. We take steps to ensure protection of your Personal Information but we can not guarantee the security of data transmitted to our site and any transmission is at your own risk. 
-    3. Children 
-      1. The blinkbox Services are not intended for or directed at persons under the age of 13 (or the lawful age in the relevant user's respective jurisdiction). Any person who provides their information to us through any part of the blinkbox Service represents to us that they are 13 years of age (or the lawful age in their respective jurisdiction) or older. If we become aware that a minor has attempted to or has submitted personal information via the online site, we will not accept this information and will take steps to remove such information from our records. 
-    4. Third-Party Practices 
-      1. We cannot ensure the protection of any information or images that you provide to a third-party online site that links to or from the blinkbox Services, since these third-party online sites are owned and operated independently of us. Any information collected by these third parties is not governed by this Privacy Notice but by the privacy policy, if any, of such third party. If you have questions about a third party's information practices, please read its privacy policy. We assume no responsibility or liability whatsoever for the practices, actions or policies of such third parties, and we are not responsible for the content or privacy practices of such online sites. 
-  7. CONTACT 
-    1. Questions, comments and requests regarding this Privacy Notice are welcomed and should be addressed to: blinkbox Entertainment Limited, 20-24 Kirby Street, London, EC1N 8TS. 
+### 2\. Information we automatically collect
+
+We will automatically collect information:
+
+    * When you use our services, such as the amount of time you spend online, the channels and programmes you watch and record, the websites you visit, or when you make a call the number, destination and length of your call, which we need to help manage our network and for billing purposes; and
+    * When you visit our websites or use our mobile applications, we may collect and process information about your usage of these by using “cookies” and other similar technologies (see Cookies section below) to help us make improvements to the websites and to the services we make available.
+    * When you download or use mobile applications created by us and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. Our mobile application does not collect precise information about the location of your mobile device.
 
 
 
-This Privacy Policy was last updated on 12th June, 2012.
+### 3\. Information we receive from other sources
+
+We may receive personal information about you from third parties, such as companies contracted by us to provide services to you, other telecommunications operators, marketing organisations, and credit reference agencies (CRA’s) or fraud prevention agencies (FPA’s) – see Credit Checks section below.
+
+How we use information
+    
+
+The information we collect helps us to better understand what you need from us and to improve the provision of our services to you.
+
+We use the information collected for example to:
+
+  * verify your identity when you use our services or contact us;
+  * process your enquiries, orders or applications, for example when assessing an application, we may use automated decision making systems and to provide your services;
+  * carry out credit checks and to manage your accounts - see Credit Checks section below.
+  * monitor, record, store and use any telephone, e-mail or other electronic communications with you for training purposes, so that we can check any instructions given to us and to improve the quality of our customer service, and in order to meet our legal and regulatory obligations.
+  * where you have agreed, we will provide you with information about other TalkTalk services, offers or products which you may be interested in – see Marketing Preferences section below.
+  * to tell you about changes to our websites, services or terms and conditions
+  * carry out any marketing analysis, profiling or create statistical or testing information to help us personalise the services we offer you and to understand what our customers want.
+  * recover any monies you may owe to us for using our services.
+  * for analysis of our services with the aim of improving them.
+  * to enable you to earn or redeem your ‘Tesco Clubcard’ loyalty points (where applicable).
+  * to prevent or detect a crime, fraud or misuse of, or damage to our network, and to investigate where we believe any of these have occurred;
+  * monitor network traffic from time to time for the purposes of backup and problem solving, for example our automated system may monitor email subjects to help with spam and malware detection.
+
+
+
+Your data may also be used for other purposes for which you give your specific permission or, in very limited circumstances, when required by law or where permitted under the terms of the Data Protection Act 1998 - sharing information.
+
+Credit checks
+    
+
+When you apply to buy products and services from us we may carry out a credit check (if you are a Blinkbox customer this section will not apply to you). This means we may need to check certain records about you, these may include:
+
+  * Our own;
+  * records at CRAs. Information on applications for our products and services will be sent to CRAs, when CRAs receive a search from us they will place a search footprint on your credit file that may be seen by other organisations. They supply to us both public (including the electoral register) and shared credit and fraud prevention information. If you tell us about a spouse or financial associate, we will link your records together. CRA’s also link your records together, and these searches will be recorded by CRAs. We may disclose information about how you run your accounts to the CRA’s;
+  * those at FPA’s. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies; or
+  * if you are a director of an organisation, we will seek confirmation, from credit reference agencies, that the residential address that you provide is the same as that shown on the restricted register of directors’ usual addresses at Companies House.
+
+
+
+It is important that you give us accurate information. If you give us false or inaccurate data and we suspect fraud we will record this with the FPA’s.
+
+Sharing information
+    
+
+We will only share your information with organisations outside TalkTalk:
+
+  * with your consent if we are using information for a purpose other than as set out in this Privacy Policy;
+  * involved in the running or managing of your accounts or providing services to you for us (e.g. customer support, or a courier company if you have asked us to send something to you);
+  * to help us improve the services we are providing;
+  * as part of the process of selling one or more of our businesses;
+  * as part of current or future legal proceedings;
+  * who are part of the Tesco Group for the purpose of its ‘Tesco Clubcard’ loyalty scheme, where you have provided us with your Tesco Clubcard details;
+  * in response to properly made requests from law enforcement agencies for the prevention and detection of a crime, or for the purpose of safeguarding national security; or when the law requires us to, such as in response to a court order, or other lawful demand or powers contained in legislation; or
+  * in response to properly made requests from regulatory bodies such as the Information Commissioners Office and Ofcom, for example where you contact Ofcom asking them to investigate a complaint in respect of the provision of the our services to you, they may request information from us to enable them to investigate and make a decision in respect of this matter. We will need to provide them with the relevant information we hold relating to your account.
+
+
+
+Where we share your information with third parties they are required to follow our express instructions in respect of the use of your personal information and they must comply with the requirements of the Data Protection Act or any other relevant legislation to protect your information and keep it secure.
+
+From time to time these other people and organisations may be outside the European Economic Area in countries that do not always have the same standard of data protection laws as the UK. However, we will have a contract in place to ensure that your information is adequately protected and we will remain bound by our obligations under the Data Protection Act 1998 (as amended from time to time) even when your personal information is processed outside Europe.
+
+How long do we hold your information
+    
+
+The time period for which we keep information varies according to what the information is used for. Unless there is a specific legal requirement for us to keep information, we will keep your information for as long as it is relevant and useful for the purpose for which it was collected (and which you agreed to).
+
+For example, when you contact us we may monitor and record your communications with us to use this information for training and quality purposes, and to meet our legal and regulatory requirements. Where we record calls, these call recordings are only held for a limited period of time before we delete them permanently.
+
+We will continue to hold information about you, if you do not become our customer, your application is declined, or even after you have closed your account or terminated your services with us. We will only hold such information for such periods as is necessary for the purpose of dealing with enquiries, offering TalkTalk products and services you may be interested in, complying with any legal obligation and for crime and fraud prevention and detection.
+
+The law requires us to keep certain information about how you use our services for a period of 12 months. This information may be used by certain law enforcement agencies to prevent and detect crime and to protect national security; we will only disclose this information to them when we are legally required to.
+
+Accessing your information
+    
+
+The Data Protection Act entitles you find out what information we hold about you. If you want to find out what information we hold you will need to submit a request in writing to **c/o The Data Controller, Data Protection Office, PO Box 390, Southampton SO30 9AQ** together with a cheque for £10 (to cover our costs of processing the information) made payable to:
+
+  * if you are a business customer: TalkTalk Communications Limited;
+  * if you are a residential customer: TalkTalk Telecom Limited; or
+  * If you are a Blinkbox customer: Blinkbox Entertainment Limited.
+
+
+
+We may ask you to provide us with proof of your identity to make sure we are giving your information to the right person.
+
+To help us process your request you will need to provide the following information:
+
+  * account number(s);
+  * telephone number(s);
+  * address; and
+  * date and time (if requesting a call recording);
+
+
+
+If any of your information is incorrect or your personal details have changed you can either:
+
+  * notify us in writing, and we will update your details; or
+  * update your details within the My Details section of [Sign In](http://www.blinkbox.com/signin).
+
+
+Marketing preferences
+    
+
+Where you have agreed to us contacting you either when you joined or via your preferences on My Account, we will contact you with details of products, services and special offers that we believe you may be interested in. If you change your mind and do not want to us to send you marketing messages you can do this in a number of ways:
+
+  * calling our customer services on the phone number set out at Contact Us.
+  * writing to us at the contact details at Contact Us.
+  * online within the Account Details section of [Sign In](http://www.blinkbox.com/signin).
+  * changing your cookie settings –see Cookies section below.
+
+
+
+If you notify us in any of the above ways we will stop sending you marketing messages, but we will still need to send you service related messages including changes to services or terms and conditions.
+
+Cookies
+    
+
+Our websites and mobile application use cookies. Cookies collect information about your use of our website and any of our mobile applications you download, including things like your connection speed, details of your operating system, the time and duration of your visit and your IP address. The information collected by cookies enables us to understand the use of our site, including the number of visitors we have, the pages viewed per session, time exposed to particular pages etc. This in turn helps us to provide you with a better experience, since we can evaluate the level of interest in the content of our website and tailor it accordingly. We will not attempt to personally identify you from your IP address unless required to as a matter of law or regulation or in order to protect our or our other customers' rights.
+
+Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you disable cookies.
+
+If you'd like to learn how to manage these cookies and 'opt in' and 'out' of different types:
+
+  * If you are a TalkTalk Telecom or Blinkbox customer please see Cookies Policy [here](http://www.talktalk.co.uk/legal/manage-cookies.html);
+  * If you are a TalkTalk Business customer please see Cookies Policy [here](http://www.talktalkbusiness.co.uk/cookie-policy/); and
+  * If you are a Blinkbox customer please see Cookies Policy [here](https://web.archive.org/hc/en-gb/articles/206619987).
+
+
+Children and TalkTalk
+    
+
+We do not specifically collect information about children and believe that children should always get the consent of their parents before giving out any personal information. Where children are specifically encouraged to participate on our websites or using our services (including using our mobile service), they will be advised that they should seek parental permission before then continue to with the activity. We recommend that parents actively participate and where possible monitor their children’s use of the internet and the website – see Homesafe and Worksafe section below.
+
+Homesafe and Worksafe
+    
+
+### Homesafe (TalkTalk Telecom Customers)
+
+We will keep a record if you have activated or de-activated Homesafe. Information held after deactivation will be only for operational purposes to enable us to identify or trace a fault if required. We do not keep a record of the websites you have sought to block.
+
+### Worksafe (TalkTalk Business Customers)
+
+We will keep a record of the following information if you have activated Worksafe to enable it to operate in accordance with your instructions:
+
+  * your activation of anti-malware and web filtering;
+  * The website categories you wish to block;
+  * Websites you have added to you “Whitelist” and “Blacklist”.
+  * hours of the day you wish the filters to operate.
+
+
+Protecting your information
+    
+
+We take protecting your data seriously, and will do our utmost to employ appropriate organisational and technical security measures to protect your against unauthorised disclosure or processing.
+
+Unfortunately we cannot guarantee the security of transmitting information via the internet. We have tried to create a secure and reliable website and mobile application for our users. However, we have no responsibility or liability for the security of personal information transmitted via the internet.
+
+Changes to privacy policy
+    
+
+Please note that this policy will be reviewed and may change from time to time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it.
+
+Contact us
+    
+
+If you feel we have breached your privacy, want us to update your marketing preferences, or amend your information, please contact us either:
+
+### If you are a customer of TalkTalk Business
+
+_In writing at:_
+
+TalkTalk Business  
+Customer Services  
+PO Box 136  
+Birchwood  
+Warrington  
+WA3 7BH
+
+_By phone at:_
+
+0800 083 3003
+
+### If you are a customer of TalkTalk Telecom
+
+_In writing at:_
+
+TalkTalk Telecom Limited  
+TalkTalk Customer Relations Department  
+P.O. Box 346  
+Southampton  
+SO30 2PW
+
+_By phone at:_
+
+0870 444 1820
+
+### If you are a customer of blinkbox
+
+_In writing at:_
+
+Blinkbox Entertainment Limited  
+Customer Services Manager  
+28-30 Kirby Street  
+London  
+EC1N 8TE
+
+_Online at:_
+
+support.blinkbox.com
