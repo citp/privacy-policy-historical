@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621075802id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgebase.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907112205id_/http%3A//www.bridgebase.com/intro/privacy.php) for the most accurate reproduction.*
 
 # Bridge Base Online
 
