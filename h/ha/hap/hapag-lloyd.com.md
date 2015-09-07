@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hapag-lloyd.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413120114id_/http%3A//www.hapag-lloyd.com/en/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hapag-lloyd.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907194322id_/https%3A//www.hapag-lloyd.com/en/privacy_statement.html) for the most accurate reproduction.*
 
 # 1. Privacy Statement - Hapag-Lloyd
 
