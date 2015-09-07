@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youproxytube.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320021700id_/http%3A//www.youproxytube.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youproxytube.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907192541id_/http%3A//www.youproxytube.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Unblock YouTube | Free YouTube Proxy
 
