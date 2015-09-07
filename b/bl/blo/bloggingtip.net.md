@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingtip.net privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420215050id_/http%3A//www.bloggingtip.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingtip.net privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907232943id_/http%3A//www.bloggingtip.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
