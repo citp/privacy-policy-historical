@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fxcmapps.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011558id_/http%3A//www.fxcmapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcmapps.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907212919id_/https%3A//www.fxcmapps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FXCM App Store
+# Privacy Policy - FXCM Apps Store
 
 **FXCM respects each individual’s right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients, current clients, and applicants.**
 
@@ -8,9 +8,18 @@
 
 When you apply for or maintain a live account with FXCM, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. Such information may include:
 
-  * application information: Information you provide to us on applications and other forms, such as your name, address, birth date, Social Security number, occupation, assets, and income;
-  * transaction information: Information about your transactions with us and with our affiliates as well as information about our communications with you. Examples include your account balances, trading activity, your inquiries, and our responses;
-  * verification information: Information necessary to verify your identity, such as a passport or driver’s license. Examples also include background information about you we receive from public records or from other entities not affiliated with FXCM. The USA PATRIOT Act requires us to collect information and take actions necessary to verify your identity.
+  * #### Application Information
+
+Information you provide to us on applications and other forms, such as your name, address, birth date, Social Security number, occupation, assets, and income;
+
+  * #### Transaction Information
+
+Information about your transactions with us and with our affiliates as well as information about our communications with you. Examples include your account balances, trading activity, your inquiries, and our responses;
+
+  * #### Verification Information
+
+Information necessary to verify your identity, such as a passport or driver’s license. Examples also include background information about you we receive from public records or from other entities not affiliated with FXCM. The USA PATRIOT Act requires us to collect information and take actions necessary to verify your identity.
+
 
 
 
