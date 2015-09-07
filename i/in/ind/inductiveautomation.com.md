@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inductiveautomation.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316072526id_/https%3A//www.inductiveautomation.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inductiveautomation.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907113109id_/https%3A//inductiveautomation.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Inductive Automation
 
