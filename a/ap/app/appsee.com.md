@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsee.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317063451id_/https%3A//www.appsee.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsee.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907161812id_/https%3A//www.appsee.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Appsee
 
@@ -126,6 +126,6 @@ The Company reserves the right to change this Privacy Policy at any time and its
 
 
 
-If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email at [________], and we will make an effort to reply within a reasonable timeframe.
+If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email at privacy@appsee.com, and we will make an effort to reply within a reasonable timeframe.
 
 By contacting us, you represent that you are free to do so and that you will not knowingly provide the Company with information that infringes upon third parties’ rights, including any intellectual property rights. You further acknowledge that notwithstanding anything herein to the contrary, any and all rights, including intellectual property rights in such information provided, shall belong exclusively to the Company, and we may use or refrain from using any such information at our sole discretion.
