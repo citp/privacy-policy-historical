@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmoov.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327144631id_/https%3A//www.rmoov.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmoov.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907214900id_/https%3A//www.rmoov.com/privacy.php) for the most accurate reproduction.*
 
 # RMOOV - We help you cleanup your backlinks
 
