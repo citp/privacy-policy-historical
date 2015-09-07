@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the becauseisaidiwould.com privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416200445id_/https%3A//becauseisaidiwould.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becauseisaidiwould.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907193354id_/https%3A//becauseisaidiwould.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | because I said I would.
 
