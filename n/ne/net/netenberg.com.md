@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netenberg.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314204806id_/https%3A//netenberg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netenberg.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907041338id_/https%3A//netenberg.com/privacy.html) for the most accurate reproduction.*
 
 # privacy || netenberg || creating possibilities
 
