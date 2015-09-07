@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the i-dressup.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315022500id_/http%3A//www.i-dressup.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i-dressup.com privacy policy that was archived on 2015-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150907182721id_/http%3A//www.i-dressup.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-     <link rel="stylesheet" href="http://www.i-dressup.com/cdn/assets/static/css/site.css" type="text/css">
+     <link rel="stylesheet" href="http://www.i-dressup.com/cdn/assets/static/css/site.css?v=1.2" type="text/css">
     <link rel="stylesheet" href="http://www.i-dressup.com/cdn/assets/static/js/jquery.tooltip.css" type="text/css">
     <meta name="description" content="dress up games, fashion dress up games online,inspiration in your own shopping for goodies">
     <meta name="keywords" content="fashion, designer labels,dress up games, dress, up, games,designer,fashion shopping, style shopping">
@@ -190,7 +190,7 @@ googletag.enableServices();
 
 <body>
 		<div id="sub-header">
-		<label><strong>Activities: </strong>Surprise! Welcome to the fashionable and ABSOLUTELY FREE i-Dressup!. <a href="/join.php">Join now for details</a></label>
+		<!--<label><strong>Activities: </strong></label>-->
 		<a href="/needicoins.php" title="Add iCoins">Add iCoins</a>&nbsp;|&nbsp;
 		<a href="#" onclick="$.idressup.showLoginForm();" class="dark">Login</a>&nbsp;|&nbsp;
 		<a href="#" onclick="$.idressup.showRegisterForm();" class="dark">Register</a>
@@ -224,7 +224,7 @@ googletag.enableServices();
 									<a title="Popular" href="/gamelist_by_pop.php">Popular</a>
 								</li>
 															<li>
-									<a title="User Collections" href="/usercollections.php">User Collections</a>
+									<a title="User Collections" href="/usercollections.php?t=all">User Collections</a>
 								</li>
 															<li>
 									<a title="Fashion" href="/fashion/">Fashion</a>
@@ -413,9 +413,7 @@ googletag.enableServices();
 		<!---
 									-->
         <div id="content" style="position: relative;">
-						<div id="banner_right" style="position: absolute; width:160px; height:600px; top:0px; right:-180px;">
-
-		</div>
+				
 				
 <style type="text/css">
 p{margin:20px 0;}
@@ -481,11 +479,22 @@ ol li{margin:10px 0 0 0;}
     </div>
 </div>
 <!-- #outer END -->
+<script type="text/javascript">
 
+		function removeAdSwf() {
+			document.getElementById("preloader").style.visibility = "hidden";
+			setTimeout(function() { $('#__loading').fadeOut(); }, 10);
+		}
+		function noAdsReturned() {
+			document.getElementById("preloader").style.visibility = "hidden";
+			setTimeout(function() { $('#__loading').fadeOut(); }, 10);
+		}
+		
+	</script>
 <!-- #footer START -->
 <div id="footer">
 	<div id="footer-inner">
-		<div class="google-iframe">
+		<div class="google-ads" style="margin-left:10px;">
 
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-4906431666602100";
@@ -496,23 +505,16 @@ google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>		
+</script>
+<!--/* Ad4Game Site-Skin Tag */-->
+
+
 </div>
+ <div class="clear-all"></div>
 		<div class="copyright">
 <br>
 © Intellineur Inc. 2005~2015 <a href="http://i-amour.com/" target="_blank">i-amour.com</a> . <a href="http://www.thinkfanatic.com/" target="_blank">thinkfanatic.com</a>
 			<br>
-			<script type="text/javascript">
-				<!--
-				google_ad_client = "pub-4906431666602100";
-				/* 468x15, created 1/15/11 */
-				google_ad_slot = "1985315224";
-				google_ad_width = 458;
-				google_ad_height = 15;
-				//-->
-			</script>
-			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-
 
 		</div>
 	</div>
@@ -584,8 +586,7 @@ google_ad_height = 90;
 
 	</dl></div>
 </div>
-<script type="text/javascript">
-    Meebo('domReady');
-</script>
+
+
 
 </body></html>
