@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the www.netlify.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325213041id_/https%3A//www.netlify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.netlify.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907204407id_/https%3A//www.netlify.com/privacy) for the most accurate reproduction.*
 
 # Netlify: Privacy Policy
 
 [ ](https://web.archive.org/)
 
-Because static sites are safer, faster, cheaper & simpler
+The premium hosting service for modern static websites
 
 [ Log in ](https://app.netlify.com/)
 
@@ -20,16 +20,16 @@ By providing personal information to us and by retaining us to provide you with 
 
 We may use your personal or account information for the following purposes:
 
-  * To provide the Services to you and to improve the quality of the Site and Services, 
-  * To provide information to you so that you may use the Site and Services more effectively, 
-  * To create, manage and control your account information, and to verify access rights to services and software, 
-  * To bill your account, 
-  * To communicate with you for the purpose of informing you of changes or additions to the Services, or of the availability of any service we provide, 
-  * To assess service levels, monitor traffic patterns and gauge popularity of different service options, 
+  * To provide the Services to you and to improve the quality of the Site and Services,
+  * To provide information to you so that you may use the Site and Services more effectively,
+  * To create, manage and control your account information, and to verify access rights to services and software,
+  * To bill your account,
+  * To communicate with you for the purpose of informing you of changes or additions to the Services, or of the availability of any service we provide,
+  * To assess service levels, monitor traffic patterns and gauge popularity of different service options,
   * To carry out our marketing activities;
-  * To enforce this Privacy Policy; 
-  * To respond to claims of any violation of our rights or those of any third parties; 
-  * To respond to your requests for customer service; 
+  * To enforce this Privacy Policy;
+  * To respond to claims of any violation of our rights or those of any third parties;
+  * To respond to your requests for customer service;
   * To protect the rights, property or personal safety of you, us, our users and the public; and as required or authorized by law.
 
 
