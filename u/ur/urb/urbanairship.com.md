@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the urbanairship.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625083118id_/http%3A//urbanairship.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanairship.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907120629id_/https%3A//www.urbanairship.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Urban Airship | Legal | Privacy Policy
 
 Urban Airship provides a service for mobile application publishers (“ **Service** ”) which allows enterprise customers of Urban Airship (“ **Customers** ”) to provide content to individuals who have installed Customers’ mobile applications (“ **Users** ”). 
 
