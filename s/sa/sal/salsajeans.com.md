@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salsajeans.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326120334id_/http%3A//www.salsastore.com/en/index.php%3Fid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salsajeans.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907190051id_/http%3A//www.salsastore.com/en/index.php%3Fid%3D18) for the most accurate reproduction.*
 
 # Salsa | Fashion Jeans, Clothing and Accessories for Women & Men
 
