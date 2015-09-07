@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatburningfurnace.com privacy policy that was archived on 2015-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150227212252id_/http%3A//www.fatburningfurnace.com/cb/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatburningfurnace.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907182725id_/http%3A//www.fatburningfurnace.com/cb/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
