@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pintastic.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318060123id_/https%3A//pintastic.com/Privacy-Policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pintastic.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908004354id_/https%3A//pintastic.com/Privacy-Policy-2) for the most accurate reproduction.*
 
-# Pintastic Pricacy Policy - Pinterest Clone Script - Pintastic Ultimate Pinboard
+# Pintastic Pricacy Policy - Pinterest ™ Clone Script - Pintastic Ultimate Pinboard
 
 Pintastic values the privacy and security of the information that you share with us through www.Pintastic.com (the “Web Site”). It is important that you understand how we collect, use, and maintain your information. This Privacy Policy explains our online information practices, the choices you may make about how we collect and use your information at this Web Site, and the ways you may contact us.
 
