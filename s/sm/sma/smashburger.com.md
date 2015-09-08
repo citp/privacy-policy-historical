@@ -1,85 +1,83 @@
-> *The following text is extracted and transformed from the smashburger.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701201753id_/http%3A//smashburger.com/pdf/Smashburger-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashburger.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908035609id_/http%3A//smashburger.com/wp-content/uploads/2015/05/05.01.15-privacy-policy.pdf) for the most accurate reproduction.*
 
-# 
+# •
 
-The Smashburger Servicing Company LLC and its affiliates, including but not limited to
-Smashburger Master LLC and its subsidiaries and Smashburger Franchising LLC
-("Smashburger") recognizes its obligation to adhere to certain standards of integrity for
-visitors to its website located at www.Smashburger.com (the "Smashburger Website").
-We have developed certain privacy practices in order to maintain these standards and to
-comply with applicable laws, rules and regulations, including the Children's Online
-Privacy Practices Act ("COPPA"). If you have any questions or comments about this site,
-or the Privacy Policy, you should contact the info@smashburger.com or call 303-633-
-1500.
-Smashburger does not require visitors to submit personal information to visit the
-Smashburger Website; however, we do require visitors to submit personal information to
-register for specific online promotions or to participate in certain online programs,
-surveys, auctions or other transactions or activities. On a particular Smashburger
-registration page, we may request the visitor's date of birth, gender, email address,
-telephone number, and/or other contact and demographic information related to the
-particular promotion, program, auction, survey or transaction. If, during the registration
-process, Smashburger does collect information on a visitors date of birth, it will calculate
-the visitor's age. Smashburger will not knowingly collect personal information from
-children 13 years of age or younger on the Smashburger Website. When you disclose
-personal information on Smashburger Website, you are representing to Smashburger that
-you are 14 years of age or older. If a person 13 years of age or younger has provided
-personal information to Smashburger, a parent or guardian should contact us at
-info@smashburger.com so that Smashburger can remove such personal information from
-the Smashburger active database. Smashburger reserves the right to limit participation in
-particular programs or promotions to visitors 18 years of age or older.
-The personal information that you provide will be available to Smashburger, our
-affiliates, agents, representatives, franchisees and trusted service providers and
-contractors, as appropriate, to be used for the purposes indicated or inferred at the time
-you voluntarily provide such personal information. Smashburger might also use your
-personal information, alone or in combination with the information submitted by other
-users, to improve the Smashburger Website's navigation or infrastructure and in internal
-marketing analyses or reviews. Companies that have access to your personal information
-are required to protect such personal information and to use such personal information
-only to carry out the activities or services they are performing for you or for
-Smashburger. Additionally, unless you notify us to the contrary, Smashburger might use
-your personal information in the future to provide you with special offers from
-Smashburger or its affiliates. Smashburger does not sell, rent, individually post or
-otherwise disclose any personal information about visitors to unrelated third parties for
-marketing purposes. If you do not wish to allow Smashburger to use your personal
-information in the future to provide you with special offers from Smashburger or its
-affiliates, please contact Smashburger in the manner identified below. By submitting
-personal information, you grant to Smashburger a license to use such personal
-information for the purposes described in this section. If you choose to opt-out from
-allowing Smashburger to use your personal information in the future to provide you with
-
-
-special offers from Smashburger or its affiliates, simply click the "Opt-out" box at the
-time you provide personal information or contact Smashburger directly at
-webmaster@Smashburger.com. Upon receipt and processing of an "opt-out" request,
-Smashburger will, within a commercially reasonable amount of time, remove your
-information from any listings used to provide you with special offers from Smashburger
-or its affiliates in the future. To opt-out from participating and receiving SMS messages
-from any Smashburger program send OUT or STOP to our short code, 94523 in response
-to any message from that program. You may stop participating and receiving SMS
-messages from all Smashburger programs and services by sending the text message OUT
-ALL or STOP ALL to 94523. This action cancels your previous opt-in messaging. You
-will receive a message confirming the opt-out
-Smashburger may also collect non-personal information from our online visitors, such as
-the visitor's type of browser, page hits, number of visits, web pages viewed, operating
-system and domain names, and may use cookies to obtain other non-personal
-information. Cookies are pieces of data sent from a web server to a web browser that
-enables a web server to identify users that visit a site hosted by that server. Smashburger
-Website may use cookies in order to identify you to our site so that Smashburger Website
-can provide more customized information and services to you. In general, if you choose,
-you can disable the use of cookies by reviewing your browser's performance and options.
-The non-personal information we collect enables us to track the total number of visitors
-to each of our sites in an aggregate form, and is used by Smashburger to improve and
-update our sites, products and services. Aggregate (non-personal) information may be
-shared with third parties. By using the Smashburger Website, you grant Smashburger a
-perpetual, irrevocable, worldwide, royalty-free, sublicensable (through multiple users)
-license to use, reproduce, store, modify, publicly perform, publicly display, distribute and
-transmit such non-personal information for any purpose, and waive any moral rights and
-publicity rights in such non-personal information. Smashburger does not tie this non-
-personal information to your personal information.
-If visitors send us any comments, suggestions, information, ideas, concepts, knowledge
-or techniques, Smashburger is free to use the information worldwide, in perpetuity,
-without acknowledgement or compensation, for any purpose, including developing,
-manufacturing or marketing products and/or modifying or improving our web site(s).
-This Privacy Policy may be modified by Smashburger at any time by updating this
-posting. You are responsible for reviewing this Privacy Policy each time you use or
-access the Smashburger Website.
+                                                                              Smashburger Privacy Policy
+                                                                               Last Updated: May 1, 2015
+Smashburger Servicing LLC and its affiliates, including but not limited to Smashburger IP Holder LLC and Smashburger Franchising LLC (collectively, "Smashburger," "we," or
+"our") recognizes its obligation to adhere to certain standards of integrity for visitors to its website located at www.Smashburger.com (the "Smashburger Website"). We have
+developed certain privacy practices in order to maintain these standards and to comply with applicable laws, rules, and regulations. This Privacy Policy describes our privacy
+practices, including the types of information we may collect from you when you visit Smashburger Website, how we use the information we collect, with whom we share it, and
+the choices we offer you regarding our collection and use of such information.
+Please read this Privacy Policy carefully. By using the Smashburger Website, you agree to the terms of this Privacy Policy. If you do not agree with the terms of this Privacy
+Policy, please do not use the Smashburger Website.
+Types of Information We Collect
+Smashburger does not require visitors to submit personal information (meaning information about a visitor that can uniquely identify the visitor) to Smashburger while visiting the
+Smashburger Website; however, we do require visitors to submit personal information to register for specific online promotions or to participate in certain online programs,
+surveys, auctions, or other transactions or activities. On any particular registration page on the Smashburger Website, we may request personal information such as the visitor's
+date of birth, gender, email address, telephone number, and/or other contact and demographic information related to the particular promotion, program, auction, survey, or
+transaction.
+When you visit the Smashburger Website, we may also collect certain non-personal information by automated means, such as cookies. A “cookie” is a text file that websites send
+to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. We may also use third-party
+website analytics tools (such as Google Analytics) that collect information about user traffic on the Smashburger Website. The information we may collect by automated means
+may include, but is not limited to, the following:
+      •      information about the devices you use to access the Internet (such as the IP address and the type of the device, operating system, and web browser);
+      •      dates, times, and duration of visits to the Smashburger Website (including whether you are a repeat or first time visitor); and
+      •      information on actions taken on the Smashburger Website (such as page views and site navigation patterns).
+Your web browser may let you choose your preference as to whether you want to allow websites to collect personal information over time about your online activities across
+different websites or online services. At this time the Smashburger Website does not respond to the preferences you may have set in your web browser regarding the collection of
+your information, and the Smashburger Website may continue to collect information in the manner described in this Privacy Policy. We may enable third parties to collect
+information in connection with the Smashburger Website. This Privacy Policy does not apply to, and we are not responsible for, any collection of information by third parties on
+the Smashburger Website.
+How We Use the Information We Collect
+We may use your information to:
+      •      register you for an account on the Smashburger Website and manage and maintain your account;
+      •      provide you with products and services you request;
+      •      send you emails or other information or materials you request;
+      •      respond to your questions and comments and provide customer support;
+      •      communicate with you about our and our affiliates’ products, services, offers, and promotions;
+      •      operate, evaluate, and improve our business and the products and services we offer; and
+      •      comply with applicable legal requirements and industry standards.
+Smashburger might also use your personal information, alone or in combination with the information submitted by other users, to improve the Smashburger Website's navigation
+or infrastructure and in internal marketing analyses or reviews. In addition, we may use the information collected through cookies to identify and authenticate visitors so that we
+can provide more customized information and services to visitors, and to improve and update our sites, products, and services. We also may use the information we obtain about
+you in other ways for which we provide notice at the time of collection.
+Information We Share
+We may disclose aggregated information about visitors without restriction. Smashburger does not sell, rent, individually post, or otherwise disclose any personal information
+about visitors to unrelated third parties for marketing purposes. However, the personal information that you provide will be available to Smashburger, our affiliates, agents,
+representatives, franchisees, and trusted service providers and contractors, as appropriate, to be used for the purposes indicated at the time you voluntarily provide such personal
+information and to support out business.
+In addition, we may disclose your personal information to (1) comply with any court order, law, or legal process, including to respond to any government or regulatory request,
+and/or (2) if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Smashburger, Smashburger Website visitors, or others.
+We also reserve the right to transfer your personal information to a buyer or other transferee in the event of a merger, divestiture, restructuring, reorganization, dissolution, sale, or
+other transfer of some or all of our assets. Should such a sale, merger, or transfer occur, we will use reasonable efforts to direct the transferee to use your personal information in a
+manner that is consistent with our Privacy Policy.
+If you place an order on the Smashburger Website, our third party service provider NCR Corporation may collect or receive certain information about you, including, but not
+limited to, your credit or debit card number, expiration date, and other payment details. Please be advised that we do not store your payment information. We recommend that you
+read NCR Corporation’s Privacy Policy (available at http://www.ncr.com/home/privacy-policy), so that you understand the manner in which your payment and other information
+will be handled by NCR Corporation.
+Your Choices
+We offer you the following choices about what information we collect from you and how we communicate with you:
+             Cookies. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies.
+             Please note, however, that without cookies you may not be able to take full advantage of all of the Smashburger Website’s features.
+             Promotional Emails. If we have sent you a marketing email, you may choose not to receive additional marketing emails from us by following the unsubscribe
+             instructions contained in each email. Upon receipt and processing of an opt-out request, Smashburger will, within a commercially reasonable amount of time, remove
+             your information from any email lists used to provide you with special offers from Smashburger or its affiliates in the future.
+             Web Analytics. You may opt-out of the aggregation and analysis of data collected about you on the Smashburger Website by our web analytics vendor by visiting
+             https://tools.google.com/dlpage/gaoptout and downloading and installing the Google Analytics Opt-out Browser Add-on.
+Your California Privacy Rights
+California Civil Code Section § 1798.83 permits users of the Smashburger Website that are California residents to request certain information regarding our disclosure of personal
+information to third parties for their direct marketing purposes. To make such a request, please send an email to feedback@smashburger.com.
+Accessing and Correcting Your Information
+You can review and change your personal information by logging into your account on the Smashburger Website and visiting your account profile page.
+Children Under the Age of 13
+The Smashburger Website is not directed to, and Smashburger will not knowingly collect or solicit personal information from, children under the age of 13. If we learn we have
+collected or received personal information from a child under the age of 13, we will delete that information. If you believe we might have any information from or about a child
+under the age of 13, please contact us at feedback@smashburger.com.
+Changes to Our Privacy Policy
+Smashburger reserves the right to update or change this Privacy Policy at any time. If we make a material change to our Privacy Policy, we will indicate on the Smashburger
+Website that our privacy practices have changed and will provide a link to the new policy. In the event we make a material change to how we use your personal information, we
+will provide you with an opportunity to opt out of such new or different use. The date this Privacy Policy was last revised is at the top of this page. You are responsible for
+periodically reviewing the Smashburger Website and this Privacy Policy to check for any updates or changes.
+Contact Us
+If you have any questions or comments about the Smashburger Website or this Privacy Policy, you may email us at feedback@smashburger.com or call us at 303-633-1500.
