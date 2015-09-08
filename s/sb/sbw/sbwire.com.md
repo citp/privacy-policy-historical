@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sbwire.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705031015id_/http%3A//www.sbwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbwire.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908040629id_/http%3A//www.releasewire.com/privacy) for the most accurate reproduction.*
 
-# SBWire - The Small Business Newswire | About Us > Our Privacy Policy
+# ReleaseWire - From Release To Results | About Us > Our Privacy Policy
 
 **What information do we collect?**
 
@@ -29,7 +29,7 @@ Any of the information we collect from you may be used in one of the following w
 
 \- To administer a contest, promotion, survey or other site feature
 
-\- To send periodic emails
+\- To send periodic e-mails
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
@@ -73,7 +73,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sbwire.com/tos>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.releasewire.com/tos>
 
 **Your Consent**
 
@@ -89,10 +89,10 @@ This policy was last modified on 10/7/2008
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-SBWire  
+ReleaseWire  
 201 W Walnut  
 Suite 105  
 Green Bay, Wisconsin 54303  
 USA  
-support@sbwire.com  
+support@releasewire.com  
 920-593-5640
