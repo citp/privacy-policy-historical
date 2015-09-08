@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the women2.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325090840id_/http%3A//women2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the women2.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909004645id_/http%3A//women2.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Women 2.0
+# » Privacy Policy Women 2.0
 
 Welcome to Women 2.0, the online and mobile service of Women 2.0, Inc. (“Women 2.0,” “we,” or “us”). Our Privacy Policy explains how we collect, use, disclose, and protect information that applies to our Service, and your choices about the collection and use of your information.
 
