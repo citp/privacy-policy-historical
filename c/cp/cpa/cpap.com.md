@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608161954id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908201111id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
 
 # CPAP.com - Privacy Policy
 
@@ -114,4 +114,4 @@ We are legally required to protect the privacy of your 'Personal Health Informat
 
 ## General
 
-We reserve the right to modify this Privacy Policy at any time by posting the changes on CPAP.com. In the event that we make any significant material change to this Privacy Policy, we may attempt to notify you by email, but are not required to do so. If your questions are not answered online, you may write to us at: CPAP.com Attn: Legal - Privacy Policy, 10101 Stafford Centre Dr, Suite B, Stafford, Texas 77477, or by using the [contact us](https://web.archive.org/contact.php) form.
+We reserve the right to modify this Privacy Policy at any time by posting the changes on CPAP.com. In the event that we make any significant material change to this Privacy Policy, we may attempt to notify you by email, but are not required to do so. If your questions are not answered online, you may write to us at: CPAP.com Attn: Legal - Privacy Policy, 13235 N Promenade, Stafford, Texas 77477, or by using the [contact us](https://web.archive.org/contact.php) form.
