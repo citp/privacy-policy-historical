@@ -1,10 +1,17 @@
-> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701120025id_/http%3A//www.championmortgage.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champion.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908042456id_/https%3A//www.championmortgage.com/Home/Privacy) for the most accurate reproduction.*
 
 # Champion Mortgage | Privacy Policy
 
 At Champion Mortgage, customer service, trust and confidence is a high priority. That's why we welcome this opportunity to describe our privacy policies, the steps we take to protect and maintain your information and to let you know how you can choose how your customer information may be shared. 
 
 Please see our [Consumer Privacy Notice](https://web.archive.org/Content/documents/ChampionPrivacyNotice.pdf) for a full explanation of how we collect, use and share personal information and what steps you can take to limit sharing of your information. [California residents](https://web.archive.org/Content/documents/ChampionCaliforniaPrivacyNotice.pdf)
+
+####  Privacy Options and Solicitations
+
+  * To make privacy elections, [click here](https://web.archive.org/Home/PrivacyElections).
+  * To limit the types of solicitations Champion sends you, [click here](https://web.archive.org/Home/DoNotSolicit).
+
+
 
 ###  Information Collection
 
@@ -42,7 +49,7 @@ Within the Champion Mortgage family of companies, we may share the customer info
 
 
 
-If you prefer that we not share non-experience information about you with an affiliate of Champion Mortgage, you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-888-480-2432. 
+If you prefer that we not share non-experience information about you with an affiliate of Champion Mortgage, you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-866-654-0020. 
 
 ####  With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law
 
@@ -75,11 +82,11 @@ We may disclose some or all of the information that we collect (described in the
 
 
 
-If you prefer that we not share nonpublic personal information about you with non-affiliated companies and organizations as described in this section (except information described above under Information Sharing "With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law"), you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-888-480-2432.
+If you prefer that we not share nonpublic personal information about you with non-affiliated companies and organizations as described in this section (except information described above under Information Sharing "With Third Party Service Providers, Joint Marketers and As Otherwise Permitted by Law"), you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-866-654-0020.
 
 ###  Maintenance of Accurate Information
 
-We have established commercially reasonable procedures designed to ensure that your personal information is as accurate and complete as possible. If you believe that our records contain inaccurate or incomplete information about you, please notify us by calling 1-888-480-2432 or sending a written inquiry to us at Champion Mortgage, Attention: Customer Service Department, 350 Highland Drive, Lewisville, Texas, 75067. We will take commercially reasonable steps to investigate your concerns and correct inaccurate information in a timely manner. 
+We have established commercially reasonable procedures designed to ensure that your personal information is as accurate and complete as possible. If you believe that our records contain inaccurate or incomplete information about you, please notify us by calling 1-866-654-0020 or sending a written inquiry to us at Champion Mortgage, Attention: Customer Service Department, P.O. Box 40724, Lansing, MI 48901-7927. We will take commercially reasonable steps to investigate your concerns and correct inaccurate information in a timely manner. 
 
 ###  Former Customers
 
@@ -89,7 +96,7 @@ If you pay off your account with Champion Mortgage, your account is later sold t
 
 This policy is provided by Champion Mortgage and its subsidiaries.
 
-You may opt out as described in this [Privacy Policy](https://web.archive.org/Content/documents/ChampionPrivacyNotice.pdf). You do not need to notify us if you have decided not to opt out. It may take up to four to six weeks to process your request. If at a later time you wish to change these opt out instructions, please contact our customer service department at 1-888-480-2432.
+You may opt out as described in this [Privacy Policy](https://web.archive.org/Content/documents/ChampionPrivacyNotice.pdf). You do not need to notify us if you have decided not to opt out. It may take up to four to six weeks to process your request. If at a later time you wish to change these opt out instructions, please contact our customer service department at 1-866-654-0020.
 
 Upon contacting the customer service department at the above listed toll-free number, your opt-out choices will be as reflected below.  
 
@@ -115,6 +122,12 @@ On their own, cookies or Web beacons do not contain or reveal any personally ide
 
 Your ongoing use of our Web sites constitutes your acceptance of this Privacy Policy, and you specifically agree to our described use of cookies and Web beacons. You may adjust your browser to reject cookies from us or from any other site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our Web sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. 
 
+### Targeted Advertising
+
+We may also use technologies to collect information about your online activities over time and across third party websites or other online services (behavioral tracking). We believe that this online behavioral tracking helps to provide you with more relevant advertising based upon on the websites you visit. Third parties may also use similar technologies to collect information about your online activities over time and across different third party sites, including your use of this Champion Mortgage website. 
+
+You can visit the [NAI Opt-Out web site](http://www.networkadvertising.org/choices/) for information on how you can opt out of behavioral tracking on this website. Using the choice mechanisms these programs make available may help you see advertising that is relevant to you or help you avoid seeing interest based advertising generally. Please note that the Champion Mortgage website does not respond or honor “Do Not Track” requests. 
+
 ###  Secure Email
 
 A message for all Champion’s clients and business partners: as part of Champion’s ongoing efforts to strengthen security and to protect sensitive information, we have a Secure Email system. It provides a convenient method for you to receive and reply to secure emails, while continuing to ensure the integrity of the information interchange. 
@@ -130,10 +143,3 @@ Secure email messages (and any attached files) from Champion will be encrypted b
 ####  Are there reply capabilities? Can I initiate a secure email to an Champion Associate?
 
 You can respond to Champion secure emails with secure replies, and there is also a method for initiating secure email exchanges with Champion associates. 
-
-####  Privacy Options and Solicitations
-
-  * To make privacy elections, [click here](https://web.archive.org/Home/PrivacyElections).
-  * To limit the types of solicitations Champion sends you, [click here](https://web.archive.org/Home/DoNotSolicit).
-
-
