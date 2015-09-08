@@ -1,83 +1,176 @@
-> *The following text is extracted and transformed from the reliableremodeler.com privacy policy that was archived on 2012-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120530094149id_/http%3A//www.reliableremodeler.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliableremodeler.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908055309id_/http%3A//www.reliableremodeler.com/privacy.htm) for the most accurate reproduction.*
 
 # ReliableRemodeler.com, Inc. Privacy Policy
 
-## Introduction
+**LAST UPDATED:   **February 14, 2013
 
-We at ReliableRemodeler.com, Inc. are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
+**QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through this website owned and controlled by us which display or link to this Privacy Policy (the “ **Site** ”).  By using our Sites, you agree to the terms and conditions of this Privacy Policy
 
-Reliable has established this Online PRIVACY POLICY so that you can understand the care with which we intend to treat your Personal Information.
+**Personal Information**
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information. In general, you can visit Reliable's Web pages without telling us who you are or revealing any Personal Information about yourself.
+**Personal Information We Collect**
 
-If you choose to provide us with your Personal Information on the Web, we may transfer that Information within Reliable, its affiliated companies, its clients or to Reliable's third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
+“ **Personal Information** ” is information that identifies you as an individual, such as:
 
-Reliable strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, Reliable intends to adhere to the principles set forth in this Online PRIVACY POLICY even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
+  * Name
+  * Postal address
+  * Telephone number
+  * Email address
+  * Credit or debit card number
 
-## Cookies and Other Tracking Technologies
 
-Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
-You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of website.
+In some cases, we may collect information, such as your age, weight, health conditions, insurance type, and whether you’re a non-smoker, combined with your Personal Information.  We will treat all such information as Personal Information as long as it is combined with Personal Information.
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our website and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
+We collect Personal Information when you interact with us on the Site.  We may associate Personal Information you provide through the Site with Personal Information collected from other sources.  We will use the combined information in accordance with this Privacy Policy as long as it is combined.
 
-To protect your privacy, we have adopted the following principles with respect to your Personal Information:
+**How We Use Personal Information**
 
-**Notice  
-Choice  
-Security  
-Access/Accuracy**
+We may use Personal Information:
 
-## Notice
+  * When you request, to connect you with vendors who will provide you with information about products and services. 
+  * When you’ve submitted your Personal Information to us, which submission you understand and agree to constitute making an “inquiry” to us and our affiliated entities, to contact you or allow our vendors to contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/or federal Do Not Call list, because your inquiry serves as an exception to state and/or federal Do Not Call laws.
+  * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
+  * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information. 
+  * to send you surveys and marketing communications that we believe may be of interest to you. 
+  * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you. 
+  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully. 
+  * to allow you to send messages to a friend through the Site.  By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. 
+  * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.
 
-Where Reliable collects Personal Information on the Internet, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of Reliable or those working on Reliable's behalf. Reliable does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Reliable's behalf unless such transfer is legally required. Sometimes the purpose statement for our websites are set forth in privacy policies specifically set forth or linked to from that page.
 
-With respect to entering your Personal Information on the ReliableRemodeler.com website for a home services project, we will notify you if Reliable or Reliable's network of member contractors will be contacting you with respect to your home services project. If you wish not to share your Personal Information, you are not obligated to fill out any form requesting such information, although we will not be able to provide you with any contractors that may be available in your area. If Reliable is not able to match you with a contractor, it may provide your Personal Information to its affiliates that may be able to match with you a contractor in your area. All the entities mentioned in this paragraph would have access to your Personal Information that you voluntarily submit to Reliable.
 
-_Furthermore, by submitting your email address to us on our websites, you consent ("opt-in") to receive Reliable's newsletter which may consist of commercial advertisements. Reliable complies with the CAN-SPAM Act of 2003 and we give you the opportunity to opt-out of commercial email sent by or on behalf of Reliable._
+**How Personal Information is Disclosed**
 
-## Choice
+Your Personal Information may be disclosed:
 
-You may choose whether or not to provide Personal Information to Reliable. The notice we intend to provide where Reliable collects Personal Information on the Web should help you to make this choice. If you choose not to provide the Personal Information we request, you can still visit most of Reliable's websites, but you may be unable to access certain options, offers, and services that involve our interaction with you.
+·        to our affiliates for the purposes described in this Privacy Policy.  QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
 
-If you chose to have a relationship with Reliable, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship.
+·        to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services. 
 
-If you no longer wish to receive communications via email, you may opt-out by clicking [here](http://www.emchoiceunsub.com/unsubscribe/index.jsp?MERID=98324). To have your Personal Information completely removed from our databases, if feasible, simply contact us at [privacy@reliableremodeler.com](mailto:privacy@reliableremodeler.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
+·        if you request information from vendors so that they (or so that third parties who provide similar services) can provide you with information about their products and services.  We are not responsible or liable for vendors’ use of your Personal Information. 
 
-## Security
+·        if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource.  If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
 
-Wherever your Personal Information may be held within Reliable or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
+·        if you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies.  We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies.  While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access.  WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME. ****
 
-## Access/Accuracy
+·        to third party sponsors of sweepstakes, contests and similar promotions.
 
-To the extent that you do provide us with Personal Information, Reliable wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Reliable should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [privacy@reliableremodeler.com](mailto:privacy@reliableremodeler.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+·        if you choose to send messages through the Site, to identify you as the sender to the recipient indicated by you. We will ask you for such recipient’s name and email address and we store both email addresses for the purpose of sending such message.
 
-## Children's Privacy
+·        by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials.  Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. 
 
-ReliableRemodeler.com is not structured to attract children. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13 years of age.
+·        by you, if you have provided a testimonial about a site and given us permission to post that testimonial on our site.
 
-## Commitment
+·        to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
 
-Protecting your privacy online is an evolving area, and Reliable's Web sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Online PRIVACY POLICY, please contact us at [privacy@reliableremodeler.com](mailto:privacy@reliableremodeler.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+·        as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-## Your Consent
+**NON-personal Information**
 
-By using this Web site, you consent to the terms of our Online PRIVACY POLICY and to Reliable's processing of Personal Information for the purposes given above as well as those explained where Reliable collects Personal Information on the Internet. Should the Online PRIVACY POLICY change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
+**Non-Personal Information We Collect**
 
-## Your California Privacy Rights
+“ **Non-Personal Information** ” is any information that does not reveal your specific identity, such as:
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
+  * Browser information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
 
-If you are a California resident you may request this information from Reliable by writing to the address below ("Contacting Us") with an attention to CA Privacy/Legal Dept. or by sending an e-mail to privacy@reliableremodeler.com. Please indicate in your correspondence that you wish to receive "CA Shine the Light Disclosures." Please be advised that Reliable is not obligated to respond to more than one such request from you per calendar year.
 
-## Contacting Us
 
-For more information, or if you have questions or concerns regarding Reliable's Privacy Policy, you may email us at [privacy@reliableremodeler.com](mailto:privacy@reliableremodeler.com) or you can send correspondence to the following address:
+**How We Collect Non-Personal Information**
 
-Attn: Privacy/Legal Dept.  
-ReliableRemodeler.com, Inc.  
-9305 SW Nimbus Ave.  
-Beaverton, OR 97008
+We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics.  We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code.  We also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, or other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. We may link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
-**Close**
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies.  To learn more about cookies, please visit <http://www.allaboutcookies.org/>.
+
+**How We Use and Disclose Non-Personal Information**
+
+Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose.  In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location).  If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+
+**IP ADDRESSES**
+
+Your “ **IP Address** ” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). 
+
+**How We Log IP Addresses**
+
+An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. 
+
+**How We Use and Disclose IP Addresses?   **
+
+We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site.  We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information.  Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law. 
+
+**THIRD PARTY SITES**
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link or a widget on our site.  The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates.  We may also utilize framing techniques that may make it appear that you are still on the site when you are actually on a third party web site.
+
+**Third Party VENDORS**
+
+We also work with vendors and partners in operating and improving the Site.  These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies.  These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites.  You can opt out of some of our vendors' use of cookies and other technologies, some of which may be on this Site, to tailor personalized content or advertising to you by visiting <http://networkadvertising.org/optout_nonppii.asp>, <http://assets.invitemedia.com/opt-out.html> and <http://www.clicktale.net/disable.html>.  Please note that if you delete all cookies, the opt-out cookie may be deleted and you will need to perform the opt out again.  For more information, see  <http://www.networkadvertising.org/managing/faqs.asp#question_11>.
+
+Our Site may include social media features, such as the Facebook Like or Tweet this button.  These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly.  These features are either hosted by a third party or hosted directly on our Site.  Your interactions with these features are governed by the privacy policy of the company providing it.
+
+PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS. 
+
+**security**
+
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below.
+
+The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and personal health information) on our forms, we encrypt that information once it is entered.
+
+**CHOICES AND ACCESS**
+
+**Your choices regarding our use and disclosure of your Personal Information   **
+
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes.  You may opt-out from:
+
+  * **Receiving electronic communications from us and our affiliates** :  If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking [here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe.  
+  * **Our sharing of your Personal Information with unaffiliated third parties** :  If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis.  Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request).  If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
+
+
+
+We will seek to comply with your request(s) as soon as reasonably practicable.  Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [info@quinstreet.com](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process.  For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request. ****
+
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information.  We will try to comply with your request as soon as reasonably practicable.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+**RETENTION PERIOD**
+
+We will retain your Personal Information for as long as your account is active or as needed to provide you services and for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law or as necessary to resolve disputes and enforce our agreements.  If you wish to request that we no longer use your information, please follow the instructions above.
+
+**use of site by MINORS**
+
+The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. 
+
+**CROSS-BORDER TRANSFER**
+
+Your Personal Information may be stored and processed in any country where we have facilities, and by providing any PII to us, you consent to the transfer of such Personal Information to countries outside of your country of residence, including the United States, which may have different data protection rules from your country of residence.
+
+**SENSITIVE INFORMATION**
+
+we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us.
+
+**Your California Privacy Rights**
+
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information by writing to us at the address below. QuinStreet, Inc. is not obligated to respond to more than one such request from you per calendar year.
+
+**UPDATES TO THIS PRIVACY POLICY**
+
+We may change this Privacy Policy.  Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised.  We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our home page.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site.  Your use of the Site following these changes means that you accept the revised Privacy Policy.
+
+**CONTACTING US**
+
+If you have any questions about this Privacy Policy, please contact us by email at [info@quinstreet.com](mailto:info@quinstreet.com), or please write to the following address:
+
+Privacy
+
+QuinStreet
+
+950 Tower Lane, 6th Floor
+
+Foster City, CA 94404
