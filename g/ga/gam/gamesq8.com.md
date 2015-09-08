@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamesq8.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617001954id_/http%3A//gamesq8.com/content/12-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesq8.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908162138id_/http%3A//gamesq8.com/content/12-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GamesQ8.com
+# Privacy Policy - GamesQ8
 
 **Privacy Policy**
 
@@ -37,7 +37,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
  **Links to other websites**
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
  **Controlling your personal information**
 
@@ -50,9 +50,6 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at cs@gamesq8.com. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at info@gamesq8.com. We will promptly correct any information found to be incorrect.
 
 Thank you
-
-  
-
