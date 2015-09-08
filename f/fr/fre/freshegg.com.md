@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the freshegg.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605053407id_/http%3A//www.freshegg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshegg.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908045058id_/http%3A//www.freshegg.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Data Collection | Cookies
-
-[](https://web.archive.org/)
-
-**Digital intelligence.** Web design. Search. Social. Insight.
-
-[Contact us](https://web.archive.org/contact-us/ "Go to contact us") or call us on: **UK: _AUS: 0061 (0)404 302 487 _**
-
-  * [Training and events](https://web.archive.org/training-events/)
-  * [Terms and conditions](https://web.archive.org/terms/)
-  * [Privacy policy](https://web.archive.org/privacy-policy/)
-  * [Acceptable use policy](https://web.archive.org/acceptable-use-policy/)
-  * [Accessibility](https://web.archive.org/web-accessibility/)
-  * [Contact us](https://web.archive.org/contact-us/)
-
-
-
-This privacy policy sets out how Fresh Egg Limited uses and protects any information that you give Fresh Egg Limited when you use this website.
+# Fresh Egg Digital Marketing Cookie & Privacy Policy
 
 Fresh Egg Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
