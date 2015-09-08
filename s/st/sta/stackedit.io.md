@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackedit.io privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315021351id_/https%3A//stackedit.io/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackedit.io privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908024859id_/https%3A//stackedit.io/privacy_policy.html) for the most accurate reproduction.*
 
 # StackEdit - Privacy Policy
 
