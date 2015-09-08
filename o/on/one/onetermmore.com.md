@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetermmore.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402004112id_/http%3A//www.onetermmore.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetermmore.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908043654id_/http%3A//www.onetermmore.com/privacypolicy.html) for the most accurate reproduction.*
 
 # One Term More
 
