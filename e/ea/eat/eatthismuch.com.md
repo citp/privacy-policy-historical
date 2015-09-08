@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatthismuch.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326092045id_/https%3A//www.eatthismuch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatthismuch.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908235549id_/https%3A//www.eatthismuch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eat This Much
 
