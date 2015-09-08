@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iowatreasurers.org privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315013036id_/https%3A//www.iowatreasurers.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iowatreasurers.org privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908024713id_/https%3A//www.iowatreasurers.org/privacy.php) for the most accurate reproduction.*
 
 # Home
 
