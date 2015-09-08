@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 1and1.co.uk privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421012517id_/http%3A//www.1and1.co.uk/PrivacyPolicy%3F__lf%3DStatic%26linkOrigin%3D%26linkId%3Dft.nav.privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1and1.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908062658id_/http%3A//www.1and1.co.uk/terms-privacy%3F__lf%3DStatic) for the most accurate reproduction.*
 
-# 1&1 Internet - Privacy Policy
+# 1&1 Internet Limited - Privacy Policy
 
 1&1 Internet Ltd. is committed to respecting privacy of customers and users of the 1&1 website. 
 
@@ -28,7 +28,7 @@ This privacy policy governs the manner in which 1&1 Internet, Ltd. (1&1) uses, m
 
 ## What are Cookies?
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. 1&1 may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time. Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by 1&1 to track user preferences while the user is visiting the website. They also help to minimise load times and save on server processing. Persistent cookies may be used by 1&1 to store, for example, whetheror not you want your password remembered, or other such information. Cookies used on the 1&1 Website do not contain personally identifiable information. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. 1&1 may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer's hard drive for an extended period of time. Your browser's help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by 1&1 to track user preferences while the user is visiting the website. They also help to minimise load times and save on server processing. Persistent cookies may be used by 1&1 to store, for example, whetheror not you want your password remembered, or other such information. Cookies used on the 1&1 Website do not contain personally identifiable information. 
 
 ## Log Files
 
@@ -44,7 +44,7 @@ Like most standard Websites, 1&1 use log files. This information may include int
 
 1&1 may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyse or otherwise store or manipulate data received by 1&1 from its customers. In all such cases, such third party service providers will be required to treat all such data with the same degree of care as 1&1 and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy. 
 
-For all domain registrations your registrant details are passed to the domain registrar in accordance with the [Domain Terms and Conditions](https://web.archive.org/deref?link=http%3A%2F%2Fregistrarterms.1and1.co.uk%2F&__sign=a8c9d31efee4c74c176d1ae87771f7e1&__ts=1429579518331). Only .UK domains offer an Opt-Out for personal registrations. 
+For all domain registrations your registrant details are passed to the domain registrar in accordance with the [Domain Terms and Conditions](http://registrarterms.1and1.co.uk/). Only .UK domains offer an Opt-Out for personal registrations. 
 
 ## Special Offers and Updates
 
@@ -71,4 +71,4 @@ Always remember to log out after your session ends, to ensure that others cannot
 
 ## Questions
 
-Any questions concerning this Privacy Policy may be directed by e-mail to [PrivacyPolicy@1and1.co.uk](https://web.archive.org/deref?link=mailto%3APrivacyPolicy%401and1.co.uk&__sign=59a74433f975768e850dae702f23f584&__ts=1429579518332). 
+Any questions concerning this Privacy Policy may be directed by e-mail to [PrivacyPolicy@1and1.co.uk](http://www.1and1.co.uk/deref?link=mailto%3APrivacyPolicy%401and1.co.uk&__sign=6b93a5f1dbcac536cd61f3b1aeebc3b2&__ts=1436451863963). 
