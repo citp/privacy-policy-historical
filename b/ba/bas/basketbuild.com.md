@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the basketbuild.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316211906id_/https%3A//basketbuild.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basketbuild.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908083149id_/https%3A//basketbuild.com/privacy) for the most accurate reproduction.*
 
 # BasketBuild :: Privacy Policy
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which BasketBuild LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://s.basketbuild.com](https://s.basketbuild.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by BasketBuild LLC.
+This Privacy Policy governs the manner in which BasketBuild LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://basketbuild.com](https://basketbuild.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by BasketBuild LLC.
 
 **Personal identification information**
 
@@ -70,4 +70,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [https://basketbuild.com](https://basketbuild.com/)  
 support@basketbuild.com
 
-This document was last updated on February 22, 2015
+This document was last updated on April 06, 2015
