@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gohigheris.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317121948id_/https%3A//www.gohigheris.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohigheris.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908062645id_/https%3A//www.gohigheris.com/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-##  [ Privacy Policy](https://www.gohigheris.com/policies/privacy-policy)
+# Privacy Policy | Policies | About
 
 #### version 2.0  
 last updated 2012 January 29
@@ -21,11 +19,11 @@ Some of the information we collect, including that obtained from our online form
 
 ### USE OF INFORMATION
 
-Visitor’s email addresses and other personal information provided by visitors may be used to enable us to send promotional material (on other products and services) that we consider may be of interest to Visitors. However, Visitors may at any time, notify Go Higher that they do not wish to receive this material via an opt-out facility contained within our newsletters or on our website.   Personal information that Visitors provide to Go Higher may also be shared among our subsidiaries. All subsidiaries are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+Visitorâ€™s email addresses and other personal information provided by visitors may be used to enable us to send promotional material (on other products and services) that we consider may be of interest to Visitors. However, Visitors may at any time, notify Go Higher that they do not wish to receive this material via an opt-out facility contained within our newsletters or on our website.   Personal information that Visitors provide to Go Higher may also be shared among our subsidiaries. All subsidiaries are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
 
 ### HOW WE COLLECT INFORMATION
 
-Go Higher collects and stores personal information that is voluntarily provided by our Visitors as part of doing business with us. Such information may include Visitor’s full name, addresses (including home, postal and email address) and telephone numbers. We DO NOT collect financial information for a Visitor such as credit card or bank account information.
+Go Higher collects and stores personal information that is voluntarily provided by our Visitors as part of doing business with us. Such information may include Visitorâ€™s full name, addresses (including home, postal and email address) and telephone numbers. We DO NOT collect financial information for a Visitor such as credit card or bank account information.
 
 ### PROFILE
 
@@ -33,7 +31,7 @@ Go Higher stores information that is collected through cookies, log files, clear
 
 ### WEBSITE ACTIVITY
 
-Go Higher provides services and products through our website. When Visitors view our website, our web servers record anonymous information such as the time and date this website is viewed and the web pages/URL’s requested. This information assists us to improve the structure of our website and monitor their performance.
+Go Higher provides services and products through our website. When Visitors view our website, our web servers record anonymous information such as the time and date this website is viewed and the web pages/URLâ€™s requested. This information assists us to improve the structure of our website and monitor their performance.
 
 ### COOKIES
 
@@ -45,7 +43,7 @@ Most browsers are initially set up to accept cookies. Visitors can reset their b
 
 ### IP ADDRESSES
 
-Go Higher web servers register the type of web browsers that Visitors are using and their IP address when Visitors access our website.  Go Higher collects IP addresses for the purposes of system administration, to report aggregate traffic information to our Visitors, fraud detection and to generally audit the use of our website. When Visitors request pages from our website, our servers may log the Visitor’s IP addresses.  Go Higher does not normally link IP addresses to any personal information, which means that a Visitor’s session will be logged, but the Visitor otherwise remains anonymous, unless in support tickets or forum.  Go Higher can and will make use of IP addresses to identify a Visitor when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and website, as well as to protect our interests and those of our Visitors.
+Go Higher web servers register the type of web browsers that Visitors are using and their IP address when Visitors access our website.  Go Higher collects IP addresses for the purposes of system administration, to report aggregate traffic information to our Visitors, fraud detection and to generally audit the use of our website. When Visitors request pages from our website, our servers may log the Visitorâ€™s IP addresses.  Go Higher does not normally link IP addresses to any personal information, which means that a Visitorâ€™s session will be logged, but the Visitor otherwise remains anonymous, unless in support tickets or forum.  Go Higher can and will make use of IP addresses to identify a Visitor when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and website, as well as to protect our interests and those of our Visitors.
 
 ### WHEN WE DISCLOSE PERSONAL INFORMATION
 
