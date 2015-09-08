@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retale.com privacy policy that was archived on 2014-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141102123457id_/http%3A//www.retale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retale.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908020803id_/http%3A//www.retale.com/privacy) for the most accurate reproduction.*
 
 # Retale: Privacy Policy
 
