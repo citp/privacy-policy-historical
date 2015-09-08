@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carrotink.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326195951id_/http%3A//www.carrotink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrotink.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908051439id_/http%3A//www.carrotink.com/privacy) for the most accurate reproduction.*
 
-# Privacy Carrotink.com
+# Privacy Policy | Carrotink.com
 
 **Privacy Policy - Effective January 27, 2012**
 
- is committed to respecting your privacy and recognizing your need for appropriate protection and management of the personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, email address, address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information, as well as our policy limiting any potential sale or transfer of ownership of such information. This policy applies only to users accessing our web site from the United States.
+We are committed to respecting your privacy and recognizing your need for appropriate protection and management of the personally identifiable information you share with us (the phrases "personally identifiable information" or "personal information" mean any information by which you can be identified, such as your name, email address, address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what personally identifiable information or personal information we may collect from you when you visit our web site, how we use such information, and the choices you have regarding our use of, and your ability to review and correct, the information, as well as our policy limiting any potential sale or transfer of ownership of such information. This policy applies only to users accessing our web site from the United States.
 
 As a part of our commitment to your privacy, Carrot Ink supports and adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to: (1) provide customers with the notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Carrot Ink.
 
@@ -24,7 +24,7 @@ We may contract with companies or persons to provide certain services, including
 
 In addition, when you purchase from us online, via the telephone, facsimile, or postal mail, or when you choose to enter a sweepstakes or other promotion, we may need to contact you via phone, email, or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive communications.
 
-Please remember, if you delete certain information, you may not be able to continue to purchase products or access other portions of our web site without entering that information again.
+Please remember, if you delete certain information, you may not be able to continue to buy products or access other portions of our web site without entering that information again.
 
 **Limitations on Sale / Transfer  
 **Should circumstances arise which give opportunity for your personal information to be sold or transferred, Carrot Ink will not sell, share, or otherwise disclose covered information to an unaffiliated party without first obtaining the express affirmative consent of the individual to whom the covered information relates.
