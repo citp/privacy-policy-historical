@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eaglebookmarks.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629124927id_/http%3A//eaglebookmarks.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglebookmarks.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908064629id_/http%3A//eaglebookmarks.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eagle bookmarks
 
