@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingwizard.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014902id_/http%3A//www.bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingwizard.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908215339id_/http%3A//www.bloggingwizard.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
@@ -13,7 +13,7 @@ Cookies can be used for a variety of purposes that include; saving information y
 
 We don’t use persistent cookies or cookies that can harm your computer and our reason for using cookies is to enhance your experience on this website and to allow us to continue providing this website into the future.
 
-The use of cookies on this website may employ the following cookies (but is not limited to) -
+The use of cookies on this website may employ the following cookies (but is not limited to) –
 
 **(1)**  Social Sharing – these allow us to give you the ability to share content from this website on popular social networks, including but not limited to – Facebook, Twitter, Google Plus, Pinterest and Digg.
 
@@ -32,15 +32,6 @@ The reason for using such links is to offset the costs of running this website w
 **Privacy Policy** **  
 **  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
-
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
-
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url – <http://www.google.com/privacy_ads.html>.
-
-Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
-
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, we have no access or control over these cookies that may be used by third party advertisers.
 
 **Our Commitment To Children’s Privacy**  
 Protecting the privacy of the very young is especially important. For that reason, we  will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
