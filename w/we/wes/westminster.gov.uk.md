@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320091941id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908025012id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Westminster City Council
 
@@ -8,13 +8,13 @@ Westminster City Council will endeavour to safeguard the privacy of its website 
 
 We will collect personal details appropriate to the service you require. In some areas, this may simply mean registering your name, address and email details. Other on-line forms will require more information.
 
+Please note that calls to the Contact Centre may be monitored or recorded.
+
 ### What do we use personal information for?
 
 There are various reasons that we need to collect personal data. For example, we may need your contact details for correspondence purposes. Similarly, we may need information because of legal requirements. Subject to your agreement, we may contact you to let you know about new online services, or get your feedback on how we're performing. In any event, we will only ever ask for information that is absolutely necessary and does not constitute an invasion of privacy.
 
 ### Allowing your details to be used across other council services
-
-We're in the process of transforming our services in line with the[ Better City, Better Lives](https://www.westminster.gov.uk/better-city-better-lives) 5 year programme. This is part of our commitment to improve the quality of people's experience when they contact us.
 
 We all get frustrated on occasion when we have to repeat the same basic information over and over again. Because of this, we're focussing on making it easy for people to do business with us, whenever and however they choose, all through a single contact, which should remember the relevant information.
 
@@ -70,10 +70,9 @@ Remember to provide proof of identification with all applications otherwise we 
 
 You may view the Council's Data Protection Notification (registration number: Z5674504) by visiting the [Information Commissioner's web site](http://ico.org.uk/esdwebpages/search).
 
-  * [For more information about Data Protections click here](http://www.westminster.gov.uk/data-protection)
-  * [The council's Data Protection Policy is available to view via the Publication Scheme](http://transact.westminster.gov.uk/publications/)
+[Read more information about Data Protections](http://www.westminster.gov.uk/data-protection)
 
-
+[See the council's Data Protection Policy](http://transact.westminster.gov.uk/publications/)
 
 ### Contact
 
