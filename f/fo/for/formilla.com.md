@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formilla.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601043550id_/http%3A//www.formilla.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formilla.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908114648id_/http%3A//www.formilla.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Formilla.com
 
@@ -36,9 +36,9 @@ Customer information provided at registration is transmitted via Secure Socket L
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+We use cookies to help us remember, understand, and save your preferences for future visits.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. 
 
 #### Do we disclose any information to outside parties?
 
