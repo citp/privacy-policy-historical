@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329141824id_/http%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908101158id_/https%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LawDepot
 
@@ -8,7 +8,7 @@
 
 LawDepot™ is committed to protecting your privacy and ensuring that your visit to our website is completely secure.
 
-If you have any questions or problems with any aspect of our privacy policy, please [contact us](https://web.archive.org/contact.php).
+If you have any questions or problems with any aspect of our privacy policy, please [contact us](http://www.lawdepot.com/contact.php).
 
 ### Security of your Personal Information
 
