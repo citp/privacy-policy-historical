@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amiclubwear.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630024037id_/http%3A//www.amiclubwear.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amiclubwear.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908045530id_/http%3A//www.amiclubwear.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
