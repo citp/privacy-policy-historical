@@ -1,24 +1,27 @@
-> *The following text is extracted and transformed from the tornadovideos.net privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701173006id_/http%3A//tornadovideos.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tornadovideos.net privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908034413id_/https%3A//tvnweather.com/knowledge/privacy) for the most accurate reproduction.*
 
-# TornadoVideos.Net | Privacy Policy
+# TVNweather
 
-TornadoVideos.net is a trade name of Weather Fusion LLC. TornadoVideos.net knows that you care how information about you is used and shared, and we appreciate your trust and want you to feel confident in our services and security as it relates to your personal information. This notice describes our privacy policy. By visiting TornadoVideos.net, you are accepting the practices described in this Privacy Notice.
+  * [FAQ](https://web.archive.org/knowledge/faq)
+  * [Community Guidelines](https://web.archive.org/knowledge/guidelines)
+  * [Terms](https://web.archive.org/knowledge/terms)
+  * [Privacy Policy](https://web.archive.org/knowledge/privacy)
 
-The information we learn from visitors helps us to continually improve TornadoVideos.net. Here are the types of information we gather:   
-****
 
-_Information You Give Us:_
 
-We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests and communicating with you. ****
+##  Privacy Policy 
 
-_Automatic Information:_
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-We receive and store certain types of information whenever you interact with our website. For example, like many web sites, we sometimes use "cookies," and we obtain certain types of information when your Web browser accesses our website.
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+  * When you opt-out of our marketing emails you will not receive any further emails. We do retain your email address but only to make sure it is never sent email unless you opt-in again. 
 
-Cookies are alphanumeric identifier text files that we transfer to your computers hard drive through your Web browser to enable our systems to recognize your browser. Also, we use Google AdSense as a third-party vendor to display ads on our site. These advertisements use the DART cookie to serve ads based on your visits to our site and other internet websites. To opt out of the DART cookie, please visit Google's ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
 
-We respect your privacy and appreciate your support. At no time do we share your information with any third party unless absolutely neccessary.
 
-For security purposes TornadoVideos.net sometimes collects and analyzes the Internet protocol (IP) address used to connect your computer to the Internet, and to our website.
-
-Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or you can email us at: [admin@tornadovideos.net](mailto:%20admin@twisterdata.com).
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
