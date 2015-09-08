@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the clio.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014732id_/https%3A//www.goclio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clio.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908112337id_/https%3A//www.goclio.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Clio
+# Clio | Privacy Policy
 
 [  
   
 ](https://privacy.truste.com/privacy-seal/Themis-Solutions-Inc-/validation?rid=f44895d4-7131-4971-9e75-144de5f6a1c3 "TRUSTe online privacy certification")
 
-Our privacy policy has been reviewed by TRUSTe for compliance with their program requirements, including transparency, accountability, and choice related to the collection and use of your Personal Information. [**View certification »**](https://privacy.truste.com/privacy-seal/Themis-Solutions-Inc-/validation?rid=f44895d4-7131-4971-9e75-144de5f6a1c3 "TRUSTe online privacy certification")
-
-### Effective Date: January 15, 2015
+### Effective date: January 15, 2015
 
 Themis Solutions, Inc. (“We”) are committed to protecting and respecting your privacy.
 
-This policy sets out the basis on which any personal data we collect from you, that you provide to us, or that is provided to us by a subscriber to our services (under the brand name ‘Clio’), will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.goclio.com you are accepting and consenting to the practices described in this policy.
+This policy sets out the basis on which any personal data we collect from you, that you provide to us, or that is provided to us by a subscriber to our services (under the brand name ‘Clio’), will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.clio.com you are accepting and consenting to the practices described in this policy.
 
 ### Information We may Collect from You
 
 We may collect and process the following data about you:
 
-  * **Information you give us.** You may give us information about you by filling in forms on our site www.goclio.com **(our site)** or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, participate in any discussion boards, forums or other social media functions on our site or enter a competition, promotion or survey and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph. We also store the Content that your upload or provide to the Service in order to provide you with the features and functionality of the Service.
+  * **Information you give us.** You may give us information about you by filling in forms on our site www.clio.com **(our site)** or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when you register to use our site, subscribe to our service, participate in any discussion boards, forums or other social media functions on our site or enter a competition, promotion or survey and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph. We also store the Content that your upload or provide to the Service in order to provide you with the features and functionality of the Service.
 
 
   * **Information we receive from other sources.** We may receive information about you from individuals or corporate entities which are subscribers to our service (‘Subscribers’) where you are to be designated a user of our service. We may receive information about you if you use any of the other websites we operate or the other services we provide. We are also working closely with third parties (including, for example, subcontractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies) and may receive information about you from them, subject to your agreements with them.
@@ -49,7 +47,7 @@ We partner with a third party to either display advertising on our web site or t
 
 Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
-### Uses made of the information
+### Uses Made of the Information
 
 We use information held about you in the following ways:
 
@@ -107,20 +105,20 @@ We may disclose your personal information to third parties:
 
 
 
-Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to www.goclio.com.
+Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to www.clio.com.
 
 ### Referral Service
 
-On our App website (app.goclio.com) which is for Subscribers to our service and their users only, we offer a referral service. You can choose to provide us with the names and email addresses of individuals who you feel would be interested in learning more about our products and services in exchange for rewards. We send a preliminary email to each address provided to us in this way, inviting the contact to visit our website. We continue to store the contact details in order to track the success of our referral service, but no further communication with that individual will take place unless they contact us expressing interest in our products and services. The preliminary email allows the individual to request that their contact details be removed from our database and they may also contact us at any time at [support@goclio.com](mailto:support@goclio.com) to make the same request.
+On our App website (app.goclio.com) which is for Subscribers to our service and their users only, we offer a referral service. You can choose to provide us with the names and email addresses of individuals who you feel would be interested in learning more about our products and services in exchange for rewards. We send a preliminary email to each address provided to us in this way, inviting the contact to visit our website. We continue to store the contact details in order to track the success of our referral service, but no further communication with that individual will take place unless they contact us expressing interest in our products and services. The preliminary email allows the individual to request that their contact details be removed from our database and they may also contact us at any time at [support@clio.com](mailto:support@clio.com) to make the same request.
 
 ### User Access and Choice
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it] by making the change on our member information page [or by emailing our Customer Support at support@goclio.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.  
+If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it] by making the change on our member information page [or by emailing our Customer Support at [support@clio.com](mailto:support@clio.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.  
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Opt-out Preferences
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at support@goclio.com
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@clio.com](mailto:support@clio.com).
 
 ### Where We Store Your Personal Data
 
@@ -132,7 +130,7 @@ While no transmission of information via the internet is completely secure, we t
 
 ### Your Rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [support@goclio.com](mailto:support@goclio.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [support@clio.com](mailto:support@clio.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -144,7 +142,7 @@ Our website includes publicly accessible blogs or community forums. Any informat
 
 ### Testimonials
 
-With consent, we may display personal testimonials of satisfied customers on our site, along with other endorsements. If you wish to update or delete your testimonial, you can contact us at support@goclio.com.
+With consent, we may display personal testimonials of satisfied customers on our site, along with other endorsements. If you wish to update or delete your testimonial, you can contact us at [support@clio.com](mailto:support@clio.com).
 
 ### Import Contacts
 
@@ -152,7 +150,7 @@ You can import contacts from your Outlook or other email account address book to
 
 ### Our Policy Toward Children
 
-The Service is not directed at individuals under the age of 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us at [support@goclio.com](mailto:support@goclio.com). If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.
+The Service is not directed at individuals under the age of 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information, please contact us at [support@clio.com](mailto:support@clio.com). If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.
 
 ### Changes to Our Privacy Policy
 
@@ -160,16 +158,25 @@ Any material changes we may make to our privacy policy in the future will be pos
 
 ### Certification
 
-Themis Solutions, Inc. has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this web site, http://www.goclio.com and does not cover information that may be collected through our mobile applications.
+Themis Solutions, Inc. has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this web site, http://www.clio.com and does not cover information that may be collected through our mobile applications.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request](http://feedback-form.truste.com/watchdog/request).
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@goclio.com](mailto:support@goclio.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [support@clio.com](mailto:support@clio.com).
 
 999 Canada Place Suite  
 404 Vancouver, BC, Canada  
 V6C 3E2
 
+1-888-858-CLIO
+
+## Contact
+
+Questions, comments, and requests regarding this privacy policy are welcomed and should be addressed to [support@clio.com](mailto:support@clio.com).
+
+999 Canada Place Suite  
+404 Vancouver, BC, Canada  
+V6C 3E2  
 1-888-858-CLIO
