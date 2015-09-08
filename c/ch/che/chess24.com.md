@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chess24.com privacy policy that was archived on 2014-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141029073224id_/https%3A//chess24.com/en/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chess24.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908070230id_/https%3A//chess24.com/en/static/privacy-policy) for the most accurate reproduction.*
 
 # chess24.com your playground | chess24.com
 
@@ -8,7 +8,7 @@ If this Privacy Policy is translated into any other language it will be for info
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our website [www.chess24.com](https://chess24.com/) and any other websites that we own containing our Chess24 pages, products and services (our “Website”). This includes information provided at the time of registering to use our Website, subscribing to our products and services, posting material or requesting further services. We may also ask you for information when you report a problem with our Website.
+  * Information that you provide by filling in forms on our website [chess24.com](https://chess24.com/) and any other websites that we own containing our Chess24 pages, products and services (our “Website”). This includes information provided at the time of registering to use our Website, subscribing to our products and services, posting material or requesting further services. We may also ask you for information when you report a problem with our Website.
   * If you contact us or make any comments on our Website or post and forum entries we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through our Website and of the fulfilment of your orders.
