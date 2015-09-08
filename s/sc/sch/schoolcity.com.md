@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolcity.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316122741id_/http%3A//www.schoolcity.com/docs/PrivacyPolicy_STARS_v1.0.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolcity.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908192107id_/http%3A//www.schoolcity.com/docs/PrivacyPolicy_STARS_v1.0.pdf) for the most accurate reproduction.*
 
 # SchoolCity Inc. Privacy Policy
 
