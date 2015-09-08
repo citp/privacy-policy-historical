@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the withknown.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326155900id_/https%3A//withknown.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withknown.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908074815id_/https%3A//withknown.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Known
 
