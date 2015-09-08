@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeinfousa.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504060609id_/http%3A//collegeinfousa.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeinfousa.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908125439id_/http%3A//collegeinfousa.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
