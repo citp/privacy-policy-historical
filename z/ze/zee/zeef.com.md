@@ -1,22 +1,29 @@
-> *The following text is extracted and transformed from the zeef.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315023227id_/https%3A//zeef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeef.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908110143id_/https%3A//zeef.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ZEEF
 
-ZEEF has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: [zeef.com](https://zeef.com/). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@zeef.com. 
 
-Personal Data
-     This site does not make available to third parties email addresses or other data which we have collected for our internal use (subscriber lists, user logins, etc.). 
-Data collection by third parties (advertisers)
-     Our ad serving software uses cookies which are retrieved by our own site. Other parties do not have access to this information. We use outside ad companies to display some of the ads on our site. These ads may contain cookies. Cookies received with outside advertisements are collected by the company serving the ad, and we do not have access to this information. 
-Subject Editor Webmaster Application Forms
-     Our site may use a form for users to apply to become a Subject Curator, acting as Webmaster. We use the form to collect contact information (like your email address). Contact information from the entry forms is used to get in touch with you when necessary. This contact information is shared with third parties only where required by law and/or to the extent necessary to process the application. 
-External Links
-     This site contains links to other sites. ZEEF is not responsible for the privacy practices or the content of such Web sites. 
-Public Forums
-     This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. In compliance with the United States Federal Trade Commission COPPA rules, it is the policy of this site to prohibit the collection, storage or publication of personal contact information in any instance where participation by minors is indicated. To report violations, [contact](https://web.archive.org/contact) us. 
-Security
-     This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. These measures are not published. 
-Data Quality/Access
-     This site gives users the opportunity to request changing and modifying information previously provided: [contact](https://web.archive.org/contact) us. 
-Contacting the Web Site
-     If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact](https://web.archive.org/contact) us. 
+At zeef.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by zeef.com and how it is used. 
+
+**Log Files**  
+Like many other Web sites, zeef.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+
+**Cookies and Web Beacons**  
+zeef.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on zeef.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to zeef.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on zeef.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+
+zeef.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. zeef.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
