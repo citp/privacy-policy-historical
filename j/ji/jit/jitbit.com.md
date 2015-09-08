@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jitbit.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315055611id_/https%3A//www.jitbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jitbit.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909001337id_/https%3A//www.jitbit.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Jitbit (home of Jitbit Helpdesk and Macro Recorder)
 
