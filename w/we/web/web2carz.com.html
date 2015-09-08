@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the web2carz.com privacy policy that was archived on 2015-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150411080057id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the web2carz.com privacy policy that was archived on 2015-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908075014id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths no-touch"><head><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="//d3ezl4ajpp2zy8.cloudfront.net/web2carz_tag.js"></script>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths no-touch"><head><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="//d3ezl4ajpp2zy8.cloudfront.net/web2carz_tag.js"></script>
   <title>Privacy Policy | Web2Carz</title>
   <meta charset="utf-8">
   <meta name="description" content="Web2Carz Privacy Policy">
@@ -84,178 +84,182 @@ googletag.enableServices();
 });
 </script>
 
-
-
-
-
-<script type="text/javascript">
-    function refreshDataNB(parameters, responseHandler) {
-        jQuery.ajax({
-            type: "POST",
-            url: "/ajax/mmy.php",
-            data: parameters,
-            success: this[responseHandler]
-        });
-    }
-    function refreshModelsUsedNB(data) {
-        var data = eval(data);
-        select = document.getElementById('navbarModelUsed');
-        select.options.length = 0;
-        select.add(new Option("Select A Model", "0"));
-        for (i=0; i<data.length; i++) {
-            select.add(new Option(data[i].NAME, data[i].ID));
+<header class="masthead" id="masthead">
+    
+    <script type="text/javascript">
+        function refreshDataNB(parameters, responseHandler) {
+            jQuery.ajax({
+                type: "POST",
+                url: "/ajax/mmy.php",
+                data: parameters,
+                success: this[responseHandler]
+            });
         }
-    }
-    function refreshModelsNewNB(data) {
-        var data = eval(data);
-        select = document.getElementById('navbarModelNew');
-        select.options.length = 0;
-        select.add(new Option("Select A Model", "0"));
-        for (i=0; i<data.length; i++) {
-            select.add(new Option(data[i].NAME, data[i].ID));;
-        }
-        // reset trims
-        select = document.getElementById('navbarTrimNew');
-        select.options.length = 0;
-        select.options[0] = new Option("Select A Trim", "0");
-    }
-    function refreshTrimsNewNB(data) {
-        var data = eval(data);
-        select = document.getElementById('navbarTrimNew');
-        select.options.length = 0;
-        select.add(new Option("Select A Trim", "0"));
-        select.add(new Option("Not Sure", "0"));
-        for (i=0; i<data.length; i++) {
-            select.add(new Option(data[i].NAME, data[i].ID));;
-        }
-    }
-    function refreshModelsResearchNB(data) {
-        var data = eval(data);
-        select = document.getElementById('navbarModelResearch');
-        select.options.length = 0;
-        select.add(new Option("Select A Model", "0"));
-        for (i=0; i<data.length; i++) {
-            select.add(new Option(data[i].NAME, data[i].ID));;
-        }
-        // reset years
-        select = document.getElementById('navbarYearResearch');
-        select.options.length = 0;
-        select.options[0] = new Option("Select A Year", "0");
-    }
-    function refreshYearsResearchNB(data) {
-        var data = eval(data);
-        select = document.getElementById('navbarYearResearch');
-        select.options.length = 0;
-        select.add(new Option("Select A Year", "0"));
-        for (i=0; i<data.length; i++) {
-            select.add(new Option(data[i].NAME, data[i].ID));;
-        }
-    }
-
-
-    function modifyForUrlNB(name) {
-        return name.replace(/ /g, "-").replace(/&/g, "and").toLowerCase();
-    }
-
-    function submitNB(form) {
-        // all the forms have make/model
-        var makeSelect = form.make;
-        var modelSelect = form.model;
-        var makeName = makeSelect.options[makeSelect.selectedIndex].text;
-        var modelName = modelSelect.options[modelSelect.selectedIndex].text;
-        var makeId = makeSelect.options[makeSelect.selectedIndex].value;
-        var modelId = modelSelect.options[modelSelect.selectedIndex].value;
-
-        var link = ""
-        var error = false;
-        var errorMessage = "";
-
-        // validate
-        if (makeId < 1) {
-            error = true;
-            errorMessage += "Please choose a Make\n";
-        }
-        if (modelId < 1) {
-            error = true;
-            errorMessage += "Please choose a Model\n";
-        }
-        if (form.name == "navbarUsedSearch") {
-            var zip = form.zip.value;
-            var radiusSelect = form.radius;
-            if (zip.length != 5 || (/\D/.test(zip))) {
-                error = true;
-                errorMessage += "Please enter a valid Zip\n";
+        function refreshModelsUsedNB(data) {
+            var data = eval(data);
+            select = document.getElementById('navbarModelUsed');
+            select.options.length = 0;
+            select.add(new Option("Select A Model", "0"));
+            for (i=0; i<data.length; i++) {
+                select.add(new Option(data[i].NAME, data[i].ID));
             }
-            var radius = radiusSelect.options[radiusSelect.selectedIndex].value;
-            link = makeId + "/" + modelId + "/" + zip + "/" + radius + "/" + modifyForUrlNB(makeName) + "/" + modifyForUrlNB(modelName) + "/used-cars";
-
-        } else if (form.name == "navbarNewSearch") {
-            var zip = form.zip.value;
-            if (zip.length != 5 || (/\D/.test(zip))) {
-                error = true;
-                errorMessage += "Please enter a valid Zip\n";
+        }
+        function refreshModelsNewNB(data) {
+            var data = eval(data);
+            select = document.getElementById('navbarModelNew');
+            select.options.length = 0;
+            select.add(new Option("Select A Model", "0"));
+            for (i=0; i<data.length; i++) {
+                select.add(new Option(data[i].NAME, data[i].ID));;
             }
-            link = makeId + "/" + modelId + "/" + zip + "/new-cars/price-quote/" + modifyForUrlNB(makeName) + "/" + modifyForUrlNB(modelName);
-
-        } else if (form.name == "navbarResearchSearch") {
-            var yearSelect = form.year;
-            var year = yearSelect.options[yearSelect.selectedIndex].value;
-            if (year < 1) {
-                error = true;
-                errorMessage += "Please choose a Year\n";
+            // reset trims
+            select = document.getElementById('navbarTrimNew');
+            select.options.length = 0;
+            select.options[0] = new Option("Select A Trim", "0");
+        }
+        function refreshTrimsNewNB(data) {
+            var data = eval(data);
+            select = document.getElementById('navbarTrimNew');
+            select.options.length = 0;
+            select.add(new Option("Select A Trim", "0"));
+            select.add(new Option("Not Sure", "0"));
+            for (i=0; i<data.length; i++) {
+                select.add(new Option(data[i].NAME, data[i].ID));;
             }
-            link = modifyForUrlNB(makeName) + "/" + modifyForUrlNB(modelName) + "/" + year;
+        }
+        function refreshModelsResearchNB(data) {
+            var data = eval(data);
+            select = document.getElementById('navbarModelResearch');
+            select.options.length = 0;
+            select.add(new Option("Select A Model", "0"));
+            for (i=0; i<data.length; i++) {
+                select.add(new Option(data[i].NAME, data[i].ID));;
+            }
+            // reset years
+            select = document.getElementById('navbarYearResearch');
+            select.options.length = 0;
+            select.options[0] = new Option("Select A Year", "0");
+        }
+        function refreshYearsResearchNB(data) {
+            var data = eval(data);
+            select = document.getElementById('navbarYearResearch');
+            select.options.length = 0;
+            select.add(new Option("Select A Year", "0"));
+            for (i=0; i<data.length; i++) {
+                select.add(new Option(data[i].NAME, data[i].ID));;
+            }
         }
 
-        // problem
-        if (error) {
-            alert(errorMessage);
+
+        function modifyForUrlNB(name) {
+            return name.replace(/ /g, "-").replace(/&/g, "and").toLowerCase();
+        }
+
+        function submitNB(form) {
+            // all the forms have make/model
+            var makeSelect = form.make;
+            var modelSelect = form.model;
+            var makeName = makeSelect.options[makeSelect.selectedIndex].text;
+            var modelName = modelSelect.options[modelSelect.selectedIndex].text;
+            var makeId = makeSelect.options[makeSelect.selectedIndex].value;
+            var modelId = modelSelect.options[modelSelect.selectedIndex].value;
+
+            var link = ""
+            var error = false;
+            var errorMessage = "";
+
+            // validate
+            if (makeId < 1) {
+                error = true;
+                errorMessage += "Please choose a Make\n";
+            }
+            if (modelId < 1) {
+                error = true;
+                errorMessage += "Please choose a Model\n";
+            }
+            if (form.name == "navbarUsedSearch") {
+                var zip = form.zip.value;
+                var radiusSelect = form.radius;
+                if (zip.length != 5 || (/\D/.test(zip))) {
+                    error = true;
+                    errorMessage += "Please enter a valid Zip\n";
+                }
+                var radius = radiusSelect.options[radiusSelect.selectedIndex].value;
+                link = makeId + "/" + modelId + "/" + zip + "/" + radius + "/" + modifyForUrlNB(makeName) + "/" + modifyForUrlNB(modelName) + "/used-cars";
+
+            } else if (form.name == "navbarNewSearch") {
+                var zip = form.zip.value;
+                if (zip.length != 5 || (/\D/.test(zip))) {
+                    error = true;
+                    errorMessage += "Please enter a valid Zip\n";
+                }
+                link = makeId + "/" + modelId + "/" + zip + "/new-cars/price-quote/" + modifyForUrlNB(makeName) + "/" + modifyForUrlNB(modelName);
+
+            } else if (form.name == "navbarResearchSearch") {
+                var yearSelect = form.year;
+                var year = yearSelect.options[yearSelect.selectedIndex].value;
+                if (year < 1) {
+                    error = true;
+                    errorMessage += "Please choose a Year\n";
+                }
+                link = modifyForUrlNB(makeName) + "/" + modifyForUrlNB(modelName) + "/" + year;
+            }
+
+            // problem
+            if (error) {
+                alert(errorMessage);
+                return false;
+            }
+
+            // overide for new..
+            if (form.name == "navbarNewSearch") {
+                return true;
+            }
+
+            var linkDomain = "http://www.web2carz.com/";
+            location.href=linkDomain+link;
             return false;
         }
+           
 
-        // overide for new..
-        if (form.name == "navbarNewSearch") {
-            return true;
-        }
+        (function() {
+            if (document.body.className.indexOf('limitedHeader') != -1) {
+                                return;
+            }
 
-        var linkDomain = "http://www.web2carz.com/";
-        location.href=linkDomain+link;
-        return false;
-    }
-
-
-    jQuery(document).ready(function() {
-        jQuery('#navbarMakeUsed').change(function() {
-            var makeId = jQuery(this).val();
-            var parameters = "action=getAllModels&args[]=" + makeId;
-            refreshDataNB(parameters, "refreshModelsUsedNB");
-        });
-        jQuery('#navbarMakeNew').change(function() {
-            var makeId = jQuery(this).val();
-            var parameters = "action=getNewModels&args[]=" + makeId;
-            refreshDataNB(parameters, "refreshModelsNewNB");
-        });
-        jQuery('#navbarModelNew').change(function() {
-            var modelId = jQuery(this).val();
-            var makeId = jQuery('#navbarMakeNew').val();
-            var parameters = "action=getNewTrims&args[]=" + makeId + "&args[]=" + modelId;
-            refreshDataNB(parameters, "refreshTrimsNewNB");
-        });
-        jQuery('#navbarMakeResearch').change(function() {
-            var makeId = jQuery(this).val();
-            var parameters = "action=getAllModels&args[]=" + makeId;
-            refreshDataNB(parameters, "refreshModelsResearchNB");
-        });
-        jQuery('#navbarModelResearch').change(function() {
-            var modelId = jQuery(this).val();
-            var makeId = jQuery('#navbarMakeResearch').val();
-            var parameters = "action=getAllYears&args[]=" + makeId + "&args[]=" + modelId;
-            refreshDataNB(parameters, "refreshYearsResearchNB");
-        });
-    });
-</script>
-
-<header class="masthead" id="masthead">
+           jQuery(document).ready(function() {
+               jQuery('#navbarMakeUsed').change(function() {
+                   var makeId = jQuery(this).val();
+                   var parameters = "action=getAllModels&args[]=" + makeId;
+                   refreshDataNB(parameters, "refreshModelsUsedNB");
+               });
+               jQuery('#navbarMakeNew').change(function() {
+                   var makeId = jQuery(this).val();
+                   var parameters = "action=getNewModels&args[]=" + makeId;
+                   refreshDataNB(parameters, "refreshModelsNewNB");
+               });
+               jQuery('#navbarModelNew').change(function() {
+                   var modelId = jQuery(this).val();
+                   var makeId = jQuery('#navbarMakeNew').val();
+                   var parameters = "action=getNewTrims&args[]=" + makeId + "&args[]=" + modelId;
+                   refreshDataNB(parameters, "refreshTrimsNewNB");
+               });
+               jQuery('#navbarMakeResearch').change(function() {
+                   var makeId = jQuery(this).val();
+                   var parameters = "action=getAllModels&args[]=" + makeId;
+                   refreshDataNB(parameters, "refreshModelsResearchNB");
+               });
+               jQuery('#navbarModelResearch').change(function() {
+                   var modelId = jQuery(this).val();
+                   var makeId = jQuery('#navbarMakeResearch').val();
+                   var parameters = "action=getAllYears&args[]=" + makeId + "&args[]=" + modelId;
+                   refreshDataNB(parameters, "refreshYearsResearchNB");
+               });
+           });
+       
+        }(jQuery));
+   </script>   
+    
     <div class="globalNavigationWrapper">
         <nav class="globalNavigation gradient" id="globalNavigation">
             <div class="globalNavigationLiner">
@@ -309,7 +313,7 @@ googletag.enableServices();
 <option value="25">Infiniti</option>
 <option value="70">International</option>
 <option value="26">Isuzu</option>
-<option value="27">Jaguar</option>
+<option value="27" selected="">Jaguar</option>
 <option value="28">Jeep</option>
 <option value="29">Kia</option>
 <option value="30">Lamborghini</option>
@@ -330,13 +334,11 @@ googletag.enableServices();
 <option value="44">Oldsmobile</option>
 <option value="45">Panoz</option>
 <option value="46">Plymouth</option>
-<option value="47">Pontiac</option>
 <option value="48">Porsche</option>
 <option value="78">RAM</option>
 <option value="50">Rolls-Royce</option>
 <option value="51">Saab</option>
 <option value="65">Saleen</option>
-<option value="52" selected="">Saturn</option>
 <option value="53">Scion</option>
 <option value="62">Smart</option>
 <option value="66">Spyker</option>
@@ -354,40 +356,19 @@ googletag.enableServices();
                                                 <div>
                                                     <select class="input-avg" name="model" id="navbarModelUsed">
                                                         <option value="0">Select A Model</option>
-                                                        <option value="890">Astra</option>
-<option value="102">Aura</option>
-<option value="958">Aura Green Line Hybrid</option>
-<option value="959">Aura Hybrid</option>
-<option value="405">ION</option>
-<option value="417">L-Series</option>
-<option value="1070">L100</option>
-<option value="1071">L200</option>
-<option value="418">L300</option>
-<option value="438">LS</option>
-<option value="1075">LS1</option>
-<option value="1076">LS2</option>
-<option value="1079">LW1</option>
-<option value="1080">LW2</option>
-<option value="1081">LW200</option>
-<option value="1082">LW300</option>
-<option value="852">Outlook</option>
-<option value="598">Relay</option>
-<option value="625">S-Series</option>
-<option value="1120">Saturn</option>
-<option value="1129">SC</option>
-<option value="1130">SC1</option>
-<option value="1131">SC2</option>
-<option value="693" selected="">Sky</option>
-<option value="1145">SL</option>
-<option value="1146">SL1</option>
-<option value="1147">SL2</option>
-<option value="1160">SW1</option>
-<option value="1161">SW2</option>
-<option value="1162">SWP</option>
-<option value="809">VUE</option>
-<option value="1214">VUE Green Line</option>
-<option value="1171">Vue Green Line Hybrid</option>
-<option value="1172">VUE Hybrid</option>
+                                                        <option value="1426">F-TYPE</option>
+<option value="626">S-Type</option>
+<option value="815">X-Type</option>
+<option value="899">XF</option>
+<option value="1179" selected="">XJ</option>
+<option value="1180">XJ12</option>
+<option value="1181">XJ6</option>
+<option value="1182">XJ8</option>
+<option value="826">XJR</option>
+<option value="1183">XJS</option>
+<option value="1184">XK</option>
+<option value="1185">XK8</option>
+<option value="828">XKR</option>
                                                     </select>
                                                 </div>
 
@@ -418,44 +399,34 @@ googletag.enableServices();
                                                     <select class="input-avg" name="make" id="navbarMakeNew">
                                                         <option value="0">Select A Make</option>
                                                         <option value="1">Acura</option>
-<option value="2">Alfa Romeo</option>
-<option value="5">Aston Martin</option>
 <option value="6">Audi</option>
-<option value="7">Bentley</option>
 <option value="8">BMW</option>
 <option value="9">Buick</option>
 <option value="10">Cadillac</option>
 <option value="11">Chevrolet</option>
 <option value="12">Chrysler</option>
 <option value="16">Dodge</option>
-<option value="18">Ferrari</option>
 <option value="75">Fiat</option>
 <option value="19">Ford</option>
 <option value="21">GMC</option>
 <option value="22">Honda</option>
 <option value="24">Hyundai</option>
 <option value="25">Infiniti</option>
-<option value="27">Jaguar</option>
+<option value="27" selected="">Jaguar</option>
 <option value="28">Jeep</option>
 <option value="29">Kia</option>
-<option value="30">Lamborghini</option>
 <option value="31">Land Rover</option>
 <option value="32">Lexus</option>
 <option value="33">Lincoln</option>
-<option value="35">Maserati</option>
 <option value="37">Mazda</option>
-<option value="76">McLaren</option>
 <option value="38">Mercedes-Benz</option>
 <option value="41">MINI</option>
 <option value="42">Mitsubishi</option>
 <option value="43">Nissan</option>
-<option value="48">Porsche</option>
 <option value="78">RAM</option>
-<option value="50">Rolls-Royce</option>
 <option value="53">Scion</option>
 <option value="62">Smart</option>
 <option value="55">Subaru</option>
-<option value="73">Tesla</option>
 <option value="57">Toyota</option>
 <option value="58">Volkswagen</option>
 <option value="59">Volvo</option>
@@ -465,14 +436,24 @@ googletag.enableServices();
                                                 <div>
                                                     <select class="input-avg" name="model" id="navbarModelNew">
                                                         <option value="0">Select A Model</option>
-                                                                                                            </select>
+                                                        <option value="1426">F-TYPE</option>
+<option value="899">XF</option>
+<option value="1179" selected="">XJ</option>
+<option value="1184">XK</option>
+                                                    </select>
                                                 </div>
 
                                                 <div>
                                                    <select class="input-avg" name="trim" id="navbarTrimNew">
                                                         <option value="0">Select A Trim</option>
                                                         <option value="0">Not Sure</option>
-                                                                                                            </select>
+                                                        <option value="373">Base</option>
+<option value="1431">Supercharged</option>
+<option value="3005">XJL Portfolio</option>
+<option value="2711">XJL Supercharged</option>
+<option value="1734">XJR</option>
+<option value="3257">XJR LWB</option>
+                                                    </select>
                                                 </div>
 
                                                 <div>
@@ -604,7 +585,7 @@ googletag.enableServices();
 <option value="25">Infiniti</option>
 <option value="70">International</option>
 <option value="26">Isuzu</option>
-<option value="27">Jaguar</option>
+<option value="27" selected="">Jaguar</option>
 <option value="28">Jeep</option>
 <option value="29">Kia</option>
 <option value="30">Lamborghini</option>
@@ -625,13 +606,11 @@ googletag.enableServices();
 <option value="44">Oldsmobile</option>
 <option value="45">Panoz</option>
 <option value="46">Plymouth</option>
-<option value="47">Pontiac</option>
 <option value="48">Porsche</option>
 <option value="78">RAM</option>
 <option value="50">Rolls-Royce</option>
 <option value="51">Saab</option>
 <option value="65">Saleen</option>
-<option value="52" selected="">Saturn</option>
 <option value="53">Scion</option>
 <option value="62">Smart</option>
 <option value="66">Spyker</option>
@@ -648,49 +627,37 @@ googletag.enableServices();
                                                 <div>
                                                     <select class="input-avg" name="model" id="navbarModelResearch">
                                                         <option value="0">Select A Model</option>
-                                                        <option value="890">Astra</option>
-<option value="102">Aura</option>
-<option value="958">Aura Green Line Hybrid</option>
-<option value="959">Aura Hybrid</option>
-<option value="405">ION</option>
-<option value="417">L-Series</option>
-<option value="1070">L100</option>
-<option value="1071">L200</option>
-<option value="418">L300</option>
-<option value="438">LS</option>
-<option value="1075">LS1</option>
-<option value="1076">LS2</option>
-<option value="1079">LW1</option>
-<option value="1080">LW2</option>
-<option value="1081">LW200</option>
-<option value="1082">LW300</option>
-<option value="852">Outlook</option>
-<option value="598">Relay</option>
-<option value="625">S-Series</option>
-<option value="1120">Saturn</option>
-<option value="1129">SC</option>
-<option value="1130">SC1</option>
-<option value="1131">SC2</option>
-<option value="693" selected="">Sky</option>
-<option value="1145">SL</option>
-<option value="1146">SL1</option>
-<option value="1147">SL2</option>
-<option value="1160">SW1</option>
-<option value="1161">SW2</option>
-<option value="1162">SWP</option>
-<option value="809">VUE</option>
-<option value="1214">VUE Green Line</option>
-<option value="1171">Vue Green Line Hybrid</option>
-<option value="1172">VUE Hybrid</option>
+                                                        <option value="1426">F-TYPE</option>
+<option value="626">S-Type</option>
+<option value="815">X-Type</option>
+<option value="899">XF</option>
+<option value="1179" selected="">XJ</option>
+<option value="1180">XJ12</option>
+<option value="1181">XJ6</option>
+<option value="1182">XJ8</option>
+<option value="826">XJR</option>
+<option value="1183">XJS</option>
+<option value="1184">XK</option>
+<option value="1185">XK8</option>
+<option value="828">XKR</option>
                                                     </select>
                                                 </div>
                                                 <div>
                                                     <select class="input-avg" name="year" id="navbarYearResearch">
                                                         <option value="0">Select A Year</option>
-                                                        <option value="2010">2010</option>
+                                                        <option value="2015">2015</option>
+<option value="2014">2014</option>
+<option value="2013">2013</option>
+<option value="2012">2012</option>
+<option value="2011">2011</option>
+<option value="2010">2010</option>
 <option value="2009">2009</option>
 <option value="2008">2008</option>
 <option value="2007">2007</option>
+<option value="2006">2006</option>
+<option value="2005">2005</option>
+<option value="2004">2004</option>
+<option value="2003">2003</option>
                                                     </select>
                                                 </div>
 
@@ -706,28 +673,28 @@ googletag.enableServices();
 
 
                                 <div class="cr-featured gnc-item">
-                                    <a title="The classic muscle car comes of age. But will it amount to anything?" href="http://www.web2carz.com/dodge/charger/2015/rt/287/review"><img src="/images/mmy/201503/2015-dodge-charger-rt_main_1427464381_186x124.jpg" class="rounded fitted cr-image"></a>
+                                    <a title="Absolutely ludicrous." href="http://www.web2carz.com/bmw/x6-m/2015/base/331/review"><img src="/images/mmy/201508/2015-bmw-x6-m-base_main_1440175347_186x124.jpg" class="rounded fitted cr-image"></a>
 <div class="cr-featuredContent truncate" style="overflow-wrap: break-word;">
-<h4><a title="The classic muscle car comes of age. But will it amount to anything?" href="http://www.web2carz.com/dodge/charger/2015/rt/287/review">2015 Dodge Charger R/T Review</a></h4>
-<h5><a title="The classic muscle car comes of age. But will it amount to anything?" href="http://www.web2carz.com/dodge/charger/2015/rt/287/review">The classic muscle car comes of age. But will it amount to anything?</a></h5>
+<h4><a title="Absolutely ludicrous." href="http://www.web2carz.com/bmw/x6-m/2015/base/331/review">2015 BMW X6M Review</a></h4>
+<h5><a title="Absolutely ludicrous." href="http://www.web2carz.com/bmw/x6-m/2015/base/331/review">Absolutely ludicrous.</a></h5>
 <div class="cr-featuredTeaser">
-When the "new" Charger was launched in 2006, it was part of a much larger wave of nostalgia-fueled vehicles that included the also-just-re-launched Pontiac GTO and the never-went-away Ford Mustang. While the Mustang may be the best at recapturing the look of the gas-guzzling era, the Charger is far superior when it comes to delivering pure, raw, unadulterated muscle-car badassery.
+Not that you'd be able to tell, but the BMW X6 is all new for 2015. This second-generation swoopy-coupe-roofed SUV-crossover-thing (it defies convention, honestly) is both longer and wider than it was before, yet it weighs about 140 pounds less than it did a year ago. The rear buckets have been replaced with a bench, as well. But perhaps the best thing about the new X6 is what's under the hood of the new X6M.
 </div>
 </div>
                                 </div>
 
                                 <div class="cr-recent gnc-item">
                                 <div class="cr-reviewPreview">
-<a title="A fun, fast, quirky thing." href="http://www.web2carz.com/infiniti/qx70/2015/base/286/review"><img src="/images/mmy/201503/2015-infiniti-qx70-base_main_1427485984_186x124.jpg" class="rounded cr-reviewImage"></a>
-<a title="A fun, fast, quirky thing." href="http://www.web2carz.com/infiniti/qx70/2015/base/286/review" class="cr-reviewContent rounded truncate" style="overflow-wrap: break-word;"></a>
+<a title="Big and brawny, fast and roomy." href="http://www.web2carz.com/dodge/durango/2015/rt/330/review"><img src="/images/mmy/201508/2015-dodge-durango-rt_main_1439586809_186x124.jpg" class="rounded cr-reviewImage"></a>
+<a title="Big and brawny, fast and roomy." href="http://www.web2carz.com/dodge/durango/2015/rt/330/review" class="cr-reviewContent rounded truncate" style="overflow-wrap: break-word;"></a>
 </div>
 <div class="cr-reviewPreview">
-<a title="Redefining entry-level luxury." href="http://www.web2carz.com/mercedes-benz/c-class/2015/sport/285/review"><img src="/images/mmy/201503/2015-mercedes-benz-c-class-sport_main_1427218183_186x124.jpg" class="rounded cr-reviewImage"></a>
-<a title="Redefining entry-level luxury." href="http://www.web2carz.com/mercedes-benz/c-class/2015/sport/285/review" class="cr-reviewContent rounded truncate" style="overflow-wrap: break-word;"></a>
+<a title="The ur-hot-hatch continues to impress the hell out of us." href="http://www.web2carz.com/volkswagen/golf-gti/2015/20t-s-2-door/328/review"><img src="/images/mmy/201508/2015-volkswagen-golf-gti-20t-s-2-door_main_1439928733_186x124.jpg" class="rounded cr-reviewImage"></a>
+<a title="The ur-hot-hatch continues to impress the hell out of us." href="http://www.web2carz.com/volkswagen/golf-gti/2015/20t-s-2-door/328/review" class="cr-reviewContent rounded truncate" style="overflow-wrap: break-word;"></a>
 </div>
 <div class="cr-reviewPreview">
-<a title="Kickin' it old school." href="http://www.web2carz.com/lincoln/navigator/2015/base/284/review"><img src="/images/mmy/201503/2015-lincoln-navigator-base_main_1427217973_186x124.jpg" class="rounded cr-reviewImage"></a>
-<a title="Kickin' it old school." href="http://www.web2carz.com/lincoln/navigator/2015/base/284/review" class="cr-reviewContent rounded truncate" style="overflow-wrap: break-word;"></a>
+<a title="The semi-practical Mustang is still full of fun." href="http://www.web2carz.com/ford/mustang/2015/ecoboost-premium/329/review"><img src="/images/mmy/201508/2015-ford-mustang-ecoboost-premium_main_1440013583_186x124.jpg" class="rounded cr-reviewImage"></a>
+<a title="The semi-practical Mustang is still full of fun." href="http://www.web2carz.com/ford/mustang/2015/ecoboost-premium/329/review" class="cr-reviewContent rounded truncate" style="overflow-wrap: break-word;"></a>
 </div>
                                 </div>
                             </div>
@@ -742,12 +709,12 @@ When the "new" Charger was launched in 2006, it was part of a much larger wave o
                             <div class="gn-content">
 
                                 <div class="af-featured gnc-item">
-                                    <a title="A drone's-eye view of the New York International Auto Show" href="http://www.web2carz.com/autos/buying-and-selling/4417/video-check-out-the-coolest-auto-show-video-ever"><img src="/images/articles/201504/drones_eye_view_1428696309_375x250.jpg" width="341" height="226" class="rounded af-image"></a>
+                                    <a title="Turns out, working men like to have their asses grabbed too." href="http://www.web2carz.com/autos/buying-and-selling/4958/video-ford-lets-construction-workers-check-out-the-f-150s-massaging-seats"><img src="/images/articles/201509/f_150_massaging_1441384540_375x250.jpg" width="341" height="226" class="rounded af-image"></a>
 <div class="af-featuredContent truncate" style="overflow-wrap: break-word;">
-<h4><a title="A drone's-eye view of the New York International Auto Show" href="http://www.web2carz.com/autos/buying-and-selling/4417/video-check-out-the-coolest-auto-show-video-ever">VIDEO: Check Out the Coolest Auto Show Video Ever</a></h4>
-<h5><a title="A drone's-eye view of the New York International Auto Show" href="http://www.web2carz.com/autos/buying-and-selling/4417/video-check-out-the-coolest-auto-show-video-ever">A drone's-eye view of the New York International Auto Show</a></h5>
+<h4><a title="Turns out, working men like to have their asses grabbed too." href="http://www.web2carz.com/autos/buying-and-selling/4958/video-ford-lets-construction-workers-check-out-the-f-150s-massaging-seats">VIDEO: Ford Lets Construction Workers Check Out the F-150's Massaging Seats</a></h4>
+<h5><a title="Turns out, working men like to have their asses grabbed too." href="http://www.web2carz.com/autos/buying-and-selling/4958/video-ford-lets-construction-workers-check-out-the-f-150s-massaging-seats">Turns out, working men like to have their asses grabbed too.</a></h5>
 <div class="af-featuredTeaser">
-Drones (the name given indiscriminately to any remote-controlled flying object these days) have a reputation for ominousness — they've become symbols for our age of constant surveillance and killing by proxy — but they are most often used in much more benign and guilt-free ways.
+In order to prove that it cares about the working man, or something, Ford made this rather amusing video showing construction workers testing the frankly ridiculous massaging seats in its new F-150 pickup truck. As you might expect, the reactions are rather favorable (massaging seats are definitely nice, even if they are utterly extraneous).
 </div>
 </div>
                                 </div>
@@ -768,39 +735,39 @@ Drones (the name given indiscriminately to any remote-controlled flying object t
                                 </div>
                                 <div class="af-recent gnc-item">
                                     <div class="gnc-articlePreview">
-<a title="Your auto news roundup for the week of 04/03 - 04/10." href="http://www.web2carz.com/autos/news/4412/news-roundup-a-new-hennessey-a-new-tesla-and-a-cheaper-prius-in-california"><img src="/images/articles/201504/2015_toyota_prius_c_1428593465_120x80.jpg" class="rounded af-ap-image"></a>
+<a title="With new models and an aggressive strategy, Jag hopes to take the U.S." href="http://www.web2carz.com/autos/buying-and-selling/4957/jaguar-is-ready-to-pounce-on-the-american-luxury-market"><img src="/images/articles/201509/f_pace_1441312368_120x80.jpg" class="rounded af-ap-image"></a>
 <div class="gnc-content truncate" style="overflow-wrap: break-word;">
-<h4><a title="Your auto news roundup for the week of 04/03 - 04/10." href="http://www.web2carz.com/autos/news/4412/news-roundup-a-new-hennessey-a-new-tesla-and-a-cheaper-prius-in-california">News Roundup: A New Hennessey, a New Tesla, and a Cheaper Prius in California</a></h4>
+<h4><a title="With new models and an aggressive strategy, Jag hopes to take the U.S." href="http://www.web2carz.com/autos/buying-and-selling/4957/jaguar-is-ready-to-pounce-on-the-american-luxury-market">Jaguar is Ready to Pounce on the American Luxury Market</a></h4>
 </div>
 </div>
 <div class="gnc-articlePreview">
-<a title="Checking out a new car's competition from the used-car market." href="http://www.web2carz.com/autos/buying-and-selling/4401/bang-for-your-buck-2014-ford-transit-connect-wagon-vs-the-used-car-market"><img src="/images/articles/201504/2014_ford_transit_connect_wagon_1428424144_120x80.jpg" class="rounded af-ap-image"></a>
+<a title="Car was among eight rare 'Vettes damaged in swallow hole." href="http://www.web2carz.com/autos/buying-and-selling/4954/chevy-completes-restoration-of-1000000th-corvette-damaged-in-sinkhole"><img src="/images/articles/201509/completes_corvette_restoration_1441311061_120x80.jpg" class="rounded af-ap-image"></a>
 <div class="gnc-content truncate" style="overflow-wrap: break-word;">
-<h4><a title="Checking out a new car's competition from the used-car market." href="http://www.web2carz.com/autos/buying-and-selling/4401/bang-for-your-buck-2014-ford-transit-connect-wagon-vs-the-used-car-market">Bang for Your Buck: 2014 Ford Transit Connect Wagon vs. the Used-Car Market</a></h4>
+<h4><a title="Car was among eight rare 'Vettes damaged in swallow hole." href="http://www.web2carz.com/autos/buying-and-selling/4954/chevy-completes-restoration-of-1000000th-corvette-damaged-in-sinkhole">Chevy Completes Restoration of 1,000,000th Corvette, Damaged in Sinkhole</a></h4>
 </div>
 </div>
 <div class="gnc-articlePreview">
-<a title="Talk about an unconventional choice of drift-machine." href="http://www.web2carz.com/autos/everything-else/4407/tanner-foust-is-in-possession-of-the-worlds-coolest-volkswagen-passat"><img src="/images/articles/201504/tanner_foust_1428518936_120x80.jpg" class="rounded af-ap-image"></a>
+<a title="More efficiency and more power? Can't beat that!" href="http://www.web2carz.com/autos/car-tech/4955/chrysler-is-massively-updating-the-pentastar-v-6-for-the-2016-model-year"><img src="/images/articles/201509/pentastar_v6_1441296398_120x80.jpg" class="rounded af-ap-image"></a>
 <div class="gnc-content truncate" style="overflow-wrap: break-word;">
-<h4><a title="Talk about an unconventional choice of drift-machine." href="http://www.web2carz.com/autos/everything-else/4407/tanner-foust-is-in-possession-of-the-worlds-coolest-volkswagen-passat">Tanner Foust Is in Possession of the World's Coolest Volkswagen Passat</a></h4>
+<h4><a title="More efficiency and more power? Can't beat that!" href="http://www.web2carz.com/autos/car-tech/4955/chrysler-is-massively-updating-the-pentastar-v-6-for-the-2016-model-year">Chrysler Is Massively Updating the Pentastar V-6 for the 2016 Model Year</a></h4>
 </div>
 </div>
 <div class="gnc-articlePreview">
-<a title="The oil giant aims for more efficient internal combustion vehicles." href="http://www.web2carz.com/autos/news/4410/shell-teams-up-with-gordon-murray-design-for-the-project-m-city-car"><img src="/images/articles/201504/projectm_1428611309_120x80.jpg" class="rounded af-ap-image"></a>
+<a title="Checking out a new car's competition from the used-car market." href="http://www.web2carz.com/autos/buying-and-selling/4959/bang-for-your-buck-2015-subaru-impreza-vs-the-used-car-market"><img src="/images/articles/201509/2016_hyundai_tucson_1441384795_120x80.jpg" class="rounded af-ap-image"></a>
 <div class="gnc-content truncate" style="overflow-wrap: break-word;">
-<h4><a title="The oil giant aims for more efficient internal combustion vehicles." href="http://www.web2carz.com/autos/news/4410/shell-teams-up-with-gordon-murray-design-for-the-project-m-city-car">Shell Teams Up with Gordon Murray Design for the Project M City Car</a></h4>
+<h4><a title="Checking out a new car's competition from the used-car market." href="http://www.web2carz.com/autos/buying-and-selling/4959/bang-for-your-buck-2015-subaru-impreza-vs-the-used-car-market">Bang for Your Buck: 2015 Subaru Impreza vs. the Used-Car Market</a></h4>
 </div>
 </div>
 <div class="gnc-articlePreview">
-<a title="A brief history of Dodge's iconic truck ... in pictures." href="http://www.web2carz.com/autos/everything-else/4408/throwback-thursday-the-dodge-ram-is-still-alive-and-better-than-ever"><img src="/images/articles/201504/dodge_ram_1428594509_120x80.jpg" class="rounded af-ap-image"></a>
+<a title="And they've built a real-life analogue, to boot!" href="http://www.web2carz.com/autos/everything-else/4952/the-bugatti-vision-gran-turismo-is-the-veyron-racecar-of-your-dreams"><img src="/images/articles/201509/bugatti_vision_gran_turismo_1441292793_120x80.jpg" class="rounded af-ap-image"></a>
 <div class="gnc-content truncate" style="overflow-wrap: break-word;">
-<h4><a title="A brief history of Dodge's iconic truck ... in pictures." href="http://www.web2carz.com/autos/everything-else/4408/throwback-thursday-the-dodge-ram-is-still-alive-and-better-than-ever">Throwback Thursday: The Dodge Ram Is Still Alive and Better than Ever</a></h4>
+<h4><a title="And they've built a real-life analogue, to boot!" href="http://www.web2carz.com/autos/everything-else/4952/the-bugatti-vision-gran-turismo-is-the-veyron-racecar-of-your-dreams">The Bugatti Vision Gran Turismo Is the Veyron Racecar of Your Dreams</a></h4>
 </div>
 </div>
 <div class="gnc-articlePreview">
-<a title="It's not like a regular van, it's the " unminivan.""="" href="http://www.web2carz.com/autos/buying-and-selling/4409/5-cool-features-of-fords-transit-connect-titanium-wagon"><img src="/images/articles/201504/transit_connect_wagon_1428597534_120x80.jpg" class="rounded af-ap-image"></a>
+<a title="Bill Ford Better World Challenge to grant $500,000 a year." href="http://www.web2carz.com/autos/buying-and-selling/4949/ford-launches-global-grant-to-foster-community-service"><img src="/images/articles/201509/bill_ford_1441225036_120x80.jpg" class="rounded af-ap-image"></a>
 <div class="gnc-content truncate" style="overflow-wrap: break-word;">
-<h4><a title="It's not like a regular van, it's the " unminivan.""="" href="http://www.web2carz.com/autos/buying-and-selling/4409/5-cool-features-of-fords-transit-connect-titanium-wagon">5 Cool Features of Ford's Transit Connect Titanium Wagon</a></h4>
+<h4><a title="Bill Ford Better World Challenge to grant $500,000 a year." href="http://www.web2carz.com/autos/buying-and-selling/4949/ford-launches-global-grant-to-foster-community-service">Ford Launches Global Grant to Foster Community Service</a></h4>
 </div>
 </div>
                                 </div>
@@ -812,7 +779,11 @@ Drones (the name given indiscriminately to any remote-controlled flying object t
         </nav>
     </div>
     <div class="logo">
-        <h1><a id="logo-link" href="http://www.web2carz.com/">Web2Carz: The Original Autos &amp; Lifestyle Online Magazine</a></h1>
+        <h1>
+            <div class="logo-image" id="logo-image">
+                <a id="logo-link" class="logo-link" href="http://www.web2carz.com/">Web2Carz: The Original Autos &amp; Lifestyle Online Magazine</a>
+            </div>
+        </h1>
     </div>
     <div class="masthead-external section">
         <div class="external-social">
@@ -838,7 +809,8 @@ Drones (the name given indiscriminately to any remote-controlled flying object t
     <div class="searchBar">
         <div class="searchBarLiner gradient">
             <form method="get" action="http://www.web2carz.com/site_search.php">
-                <input type="hidden" name="cx" value="partner-pub-7000698801807856:2954703055">
+                <!--<input type="hidden" name="cx" value="partner-pub-7000698801807856:2954703055" />-->
+                <input type="hidden" name="cx" value="partner-pub-7000698801807856:9635383973">
                 <input type="hidden" name="ie" value="UTF-8">
                 <input type="hidden" name="cof" value="FORID:10">
                 <div class="search-wrapper">
@@ -848,14 +820,21 @@ Drones (the name given indiscriminately to any remote-controlled flying object t
             </form>
         </div>
     </div>
+    <script type="text/javascript">
+        (function() {
+            if (document.body.className.indexOf('limitedHeader') != -1) {
+                                return;
+            }
+
+            jQuery.getScript("/common/js/rd/libs/jquery.dotdotdot.min.js")
+            .done(function( script, textStatus ) {
+                jQuery(".truncate").dotdotdot();
+            });
+            jQuery.getScript("/common/js/google_search.js");
+            
+        }(jQuery));
+    </script>
 </header>
-<script type="text/javascript">
-jQuery.getScript("/common/js/rd/libs/jquery.dotdotdot.min.js")
-.done(function( script, textStatus ) {
-    jQuery(".truncate").dotdotdot();
-});
-jQuery.getScript("/common/js/google_search.js");
-</script>
 <!--=============================
 	Content
 =================================-->
@@ -1233,4 +1212,20 @@ head.insertBefore(mag, head.firstChild);
 <noscript>
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=12350640&cv=2.0&cj=1" />
 </noscript>
+
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1436738176628289');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1436738176628289&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
 <a href="#" id="toTop" style="display: none;"><span id="toTopHover"></span>To Top</a></body></html>
