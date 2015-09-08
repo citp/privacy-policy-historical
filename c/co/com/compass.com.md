@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compass.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409034305id_/https%3A//www.compass.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compass.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909014009id_/https%3A//www.compass.com/privacy/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Compass
 
@@ -58,6 +58,6 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ##### What If I Have Questions Or Concerns?
 
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [notices@compass.com](mialto:notices@compass.com). We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to [notices@compass.com](mailto:notices@compass.com). We will make every effort to resolve your concerns.
 
 Effective Date: April 10th, 2013
