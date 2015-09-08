@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gimmiefreebies.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327014938id_/http%3A//gimmiefreebies.com/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimmiefreebies.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908111408id_/http%3A//gimmiefreebies.com/disclosure) for the most accurate reproduction.*
 
 # Disclosure
 
