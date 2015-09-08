@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the businessmodelgeneration.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318121335id_/https%3A//strategyzer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessmodelgeneration.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908174354id_/https%3A//strategyzer.com/privacy-policy) for the most accurate reproduction.*
 
-# Strategyzer
+# Strategyzer | Privacy Policy
+
+##  **Privacy Policy**
 
 Strategyzer AG provides an individual or collaborative service to create, analyze, share, and discuss strategic business issues such as business models (hereafter called "Content"). Furthermore it enables the adding of meaningful metadata and comments to content created individually or collaboratively.
 
-## Information Collection and Use Practices
+#### Information Collection and Use Practices
 
 You can choose to make your content public for anyone to access, restrict access to a limited number of other Strategyzer AG users, or keep the content private so only you can access them.
 
@@ -38,7 +40,7 @@ Information collected by Google analytics will only be merged with your personal
 
 Google analytics offers you to opt out of the data collection [here](https://tools.google.com/dlpage/gaoptout). It is also possible to stop this data collection and information sending in your browsers settings.
 
-## We may share your Personal Data with:
+#### We may share your Personal Data with:
 
 _Authorized service providers_
 
@@ -54,11 +56,11 @@ We may release Personal Data when we believe in good faith that release is neces
 
 In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
 
-## Information Sharing and Disclosure Practices
+#### Information Sharing and Disclosure Practices
 
 You can specify whether or not you want your content to be accessible to the public, to a specific group, to a group of selected individuals of your choosing, or if it shall be accessible only to yourself privately (only you can access them with your Strategyzer AG ID and password).
 
-## Practices Regarding Your Ability to Update or Delete Information
+#### Practices Regarding Your Ability to Update or Delete Information
 
 You can delete individual content that you have on Strategyzer AG by selecting the content that you wish to delete, then clicking the delete button.
 
@@ -68,7 +70,7 @@ _Communication with you_
 
 Strategyzer AG communication is currently managed from your Strategyzer AG o Marketing Preferences and Subscriptions. Visit your Strategyzer AG account information area to edit your email notification settings.
 
-## Projects
+#### Projects
 
 _Ownership of content_
 
@@ -80,7 +82,7 @@ All work done by the collaborators are owned by the project owner.
 
 The project owner has the right to add and delete members to his project according to his judgement.
 
-## Other
+#### Other
 
 When you use Strategyzer AG Services, you are subject to the Strategyzer AG [Terms of Service](https://web.archive.org/terms-of-service).
 
