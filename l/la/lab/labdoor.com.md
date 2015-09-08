@@ -1,87 +1,43 @@
-> *The following text is extracted and transformed from the labdoor.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014741id_/https%3A//labdoor.com/legalStuff/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labdoor.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908144401id_/https%3A//labdoor.com/legalStuff/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - LabDoor
 
-Welcome to LabDoor, a registered DBA of Labrdr Inc. (hereafter referred to as "LabDoor", "we", or "our"). LabDoor is developed and designed to help consumers learn more about the price, safety, and efficacy of their current and potential products. Please read this agreement carefully before using LabDoor. 
+LabDoor Inc. ("LabDoor") operates several websites including LabDoor.com. It is LabDoor's policy to respect your privacy regarding any information we may collect while operating our websites. 
 
-LabDoor takes your privacy very seriously. We understand how important it is to our users, and we will never misuse our users' trust in this or any other matter. This policy covers the LabDoor website ("Site"), its mobile applications ("Apps"), software, APIs, data services, and all Content (Collectively the "Services"). 
+#####  Website Visitors 
 
-This document (the "Privacy Policy") sets forth our practices and policies in respect to our collection, use, and sharing of personal information through your use of the Services: 
+Like most website operators, LabDoor collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. LabDoor's purpose in collecting non-personally identifying information is to better understand how LabDoor's visitors use its website. From time to time, LabDoor may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
 
-##  PERSONALLY IDENTIFIABLE INFORMATION 
+LabDoor also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving reviews and comments on our websites. LabDoor only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below. 
 
-By submitting personally identifiable information ("PII") through our Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your PII in accordance with our Privacy Policy. Please do not use the Services if you do not want the Privacy Policy to apply to you. 
+#####  Gathering of Personally-Identifying Information 
 
-We may collect PII about you, such as your name, date of birth, gender, address, email address, health information, or product usage, in the following ways: 
+Certain visitors to LabDoor's websites choose to interact with LabDoor in ways that require LabDoor to gather personally-identifying information. The amount and type of information that LabDoor gathers depends on the nature of the interaction. For example, we ask visitors who want to submit user reviews or participate in our voting systems to provide a name, email address, and password. Those who engage in transactions with LabDoor - by purchasing physical items and/or access to our premium services - are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, LabDoor collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with LabDoor. LabDoor does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
 
-  * When you register for or update your profile on our Apps and/or Site.
-  * When you sign up for newsletters or other communications from LabDoor.
-  * When you participate in surveys, product reviews, or community/blog discussions.
-  * When you connect with LabDoor through social media outlets, such as Facebook and Twitter.
+#####  Aggregated Statistics 
 
+LabDoor may collect statistics about the behavior of visitors to its websites. LabDoor may display this information publicly or provide it to others. However, LabDoor does not disclose personally-identifying information other than as described below. 
 
+#####  Protection of Certain Personally-Identifying Information 
 
-##  AGGREGATE INFORMATION 
+LabDoor discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on LabDoor's behalf or to provide services available at LabDoor's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using LabDoor's websites, you consent to the transfer of such information to them. LabDoor will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, LabDoor discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when LabDoor believes in good faith that disclosure is reasonably necessary to protect the property or rights of LabDoor, third parties or the public at large. If you are a registered user of an LabDoor website and have supplied your email address, LabDoor may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with LabDoor and our products. We primarily use our various social media accounts to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. LabDoor takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
 
-We may also collect aggregate information about our users, including demographic and usage information about our Services. This information may be shared with our partners, including shareholders and advertisers. This information will never identify individual users nor be linked with PII. 
+#####  Cookies 
 
-##  YOUR CHOICE 
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. LabDoor uses cookies to help LabDoor identify and track visitors, their usage of LabDoor's website, and their website access preferences. LabDoor visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using LabDoor's websites, with the drawback that certain features of LabDoor's websites may not function properly without the aid of cookies. 
 
-If you wish to not share PII with LabDoor as provided in this Privacy Policy, please do not register as a member on this Site or Apps or enter any information into the public sections of our Services. If you choose to enter into this agreement and use our Services, you may correct, update, or review any PII you have submitted by signing into our Services and updating your registration and/or profile information. You may also delete your information, as provided by our Services. 
+#####  Business Transfers 
 
-##  WEB TRACKING 
+If LabDoor, or substantially all of its assets, were acquired, or in the unlikely event that LabDoor goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of LabDoor may continue to use your personal information as set forth in this policy. 
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. "Web beacons" are graphic image files imbedded in a web page typically used to monitor activity on a web page and send back to its home server. Web beacons may also be used on this site. 
+#####  Ads 
 
-LabDoor does not link the information we store in cookies or web beacons to any personally identifiable information you submit while on our site. We use session ID cookies to make it easier for you to navigate our site and to provide you with enhanced services (viewing history, account information). A session ID cookie expires when you close your browser. If you reject cookies, you can still use our site, but your ability to use or access some areas of our site may be limited. If you choose to reject Cookies, you may by utilizing one of the many browser software options that include this option. LabDoor may utilize these web tracking features to help tailor advertising, advice, and alerts to you. 
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by LabDoor and does not cover the use of cookies by any advertisers. 
 
-##  MOBILE APPLICATIONS 
+#####  Privacy Policy Changes 
 
-When you download and install one of our Apps, we may provide a random ID number to your installation. This number is not linked to any PII. It is used similarly to our web tracking tools, as described in our Privacy Policy, to help improve our Services. If you choose not to use this ID number during your use of LabDoor's services, please opt out of using our Apps, and instead access LabDoor services through a mobile browser. 
+Although most changes are likely to be minor, LabDoor may change its Privacy Policy from time to time, and in LabDoor's sole discretion. LabDoor encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
 
-##  HOW PII IS USED 
+#####  Questions 
 
-We may use the information we collect about you to: 
-
-  * To comply with applicable laws and legal action, including local, state, federal, and/or international regulations.
-  * When we believe that disclosure is necessary to protect the rights of LabDoor and/or the users of our Services.
-  * In the event of pending or official corporate change of control, or the addition of any subsidiaries, joint ventures, or other companies controlled by the same entity as LabDoor.
-  * In order to provide you with our Services, we may need to share your PII with our third party service providers. These service providers are required to utilize your PII only in ways authorized by LabDoor.
-
-
-
-##  SHARING PII 
-
-LabDoor will never disclose any PII related to you unless specifically agreed to by you or: 
-
-  * To comply with applicable laws and legal action, including local, state, federal, and/or international regulations.
-  * When we believe that disclosure is necessary to protect the rights of LabDoor and/or the users of our Services.
-  * In the event of pending or official corporate change of control, or the addition of any subsidiaries, joint ventures, or other companies controlled by the same entity as LabDoor.
-  * In order to provide you with our Services, we may need to share your PII with our third party service providers. These service providers are required to utilize your PII only in ways authorized by LabDoor.
-
-
-
-##  SECURITY 
-
-We administer numerous physical, technical, and administrative safeguards to protect any PII that we collect from you. We will strive to provide the most secure transfer of information at all times; however, we cannot guarantee its absolute security at all times. If you feel that your information security has been jeopardized in any way, please contact [contact@labdoor.com](mailto:contact@labdoor.com) immediately. 
-
-##  COMMUNICATIONS FROM LABDOOR 
-
-In order to provide you with our Services, we may contact you using the information that you have provided to LabDoor. These communications may include: 
-
-  * Customer Service Activities: This may include emails, letters, and/or packages meant to welcome you to our Services, provide you with Services, thank you for being a user, help manage your account, update your PII, or respond to your inquiries.
-  * Service Announcements: On rare occasions, we may send you information about our Services, including emails, letters, and/or packages to describe new Services, publicize changes to existing Services, explain disruptions to our services, or to announce key news related to LabDoor.
-
-
-
-##  DATA RETENTION 
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact [contact@labdoor.com](mailto:contact@labdoor.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements 
-
-##  CHANGES TO THIS PRIVACY POLICY 
-
-If at any time LabDoor decides to change our privacy practices, a revised edition of this Privacy Policy will be posted to our Site, and to any other places within our Services where we deem appropriate, in order to help our users understand our policies. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. 
-
-##  QUESTIONS 
-
-If you have any questions about this Privacy Policy, please contact [contact@labdoor.com](mailto:contact@labdoor.com). 
+If you have any questions about this Privacy Policy, please email [contact@labdoor.com](mailto:contact@labdoor.com). 
