@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522011447id_/http%3A//www.enn.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908053117id_/http%3A//www.enn.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Environmental News Network -- Know Your Environment
 
@@ -7,8 +7,6 @@
 Get the ENN  
 mobile app  
 [iOS](https://itunes.apple.com/us/app/environmental-news-network/id957571482?l=pt&ls=1&mt=8) [Android](https://play.google.com/store/apps/details?id=com.enn)
-
-[](http://www.enn.com/openx/www/delivery/ck.php?oaparams=2__bannerid=570__zoneid=1__cb=b60f2c2243__oadest=http%3A%2F%2Fwww.weblakes.com%2F)
 
 ### Privacy Policy
 
