@@ -1,36 +1,41 @@
-> *The following text is extracted and transformed from the oneworldobservatory.com privacy policy that was archived on 2015-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150406022800id_/https%3A//oneworldobservatory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworldobservatory.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908021422id_/https%3A//oneworldobservatory.com/privacy-policy) for the most accurate reproduction.*
 
-# One World Observatory - Privacy Policy | Opening Spring 2015 | New York City
+# One World Observatory - Privacy Policy | Now Open | New York City
 
 ### General Overview
 
-The following Privacy Statement discloses the information-gathering and dissemination practices and policies of the Company (as defined below). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, withwhom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Your use of any part of the Website indicates your acceptance of this Privacy Policy and of the collection, use and disclosure of your personal information in accordance with this Privacy Policy.
+The following Privacy Statement discloses the information-gathering and dissemination practices and policies of the Company (as defined below). The purpose of this Privacy Policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. Your use of any part of the Website indicates your acceptance of this Privacy Policy and of the collection, use and disclosure of your personal information in accordance with this Privacy Policy.
 
-The Company is committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request and to provide you with a more personalized experience on the Website. We have created this Privacy Policy statement in order to demonstrate our firmcommitment to protecting the privacy of all visitors to our Website. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, either we collect and transfer personal information to a service provider, or you may visit other merchants through links on the Website who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
+The Company is committed to protecting your privacy. We use the information we collect about you to process and complete the commercial transactions you request and to provide you with a more personalized experience on the Website. We have created this Privacy Policy statement in order to demonstrate our firm commitment to protecting the privacy of all visitors to our Website. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, either we collect and transfer personal information to a service provider, or you may visit other merchants through links on the Website who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
 
 This Privacy Policy applies whether you are accessing the Website through the use of your personal computer, a mobile device or any other technology or software known today or developed in the future. As we update and expand our services, we reserve the right to modify this Privacy Policy at any time. Any changes will be posted here so that you are always aware of what information is collected, how it is used and when, if ever, it is disclosed. Your continued use of the Website will signify acceptance of the terms of the new policy.
 
-This Website is managed by Legends OWO, LLC. References to "we," "our," "us" and the "Company" shall collectively mean Legends OWO, LLCand its affiliated entities.
+This Website is managed by Legends OWO, LLC. References to “we,” “our,” “us” and the “Company” shall collectively mean Legends OWO, LLC and its affiliated entities.
 
 ### What information do we collect?
 
-We use a variety of methods to gather information to help ensure that your shopping experience is as efficient and accommodating as possible. We may obtain personal information about you from various sources, including th rough your communications with us. We also collect certain information by automated means, using technologiessuch as cookies and pixel tags.
+We use a variety of methods to gather information to help ensure that your shopping experience is as efficient and accommodating as possible. We may obtain personal information about you from various sources, including th rough your communications with us. We also collect certain information by automated means, using technologies such as cookies and pixel tags.
 
 You may choose to provide personal information to us in a number of ways, such as when you:
 
-• Request information about our products and services  
-• Visit our website, or retail locations  
-• Create an online shopping account  
-• Purchase, return, or exchange a product by phone, mail or online  
-• Contact our call center or customer service desk  
-• Participate in a promotion, contest or survey  
-• Provide us with comments or suggestions  
-The types of information we may collect, in order to se rve you better, include:  
-• Contact information such as name, mailing address, phone number, and email address  
-• Personal information such as billing address and credit c ard information, when provided  
-• Demographic and preference information such as product purch ase history
+  * Request information about our products and services
+  * Visit our website, or retail locations
+  * Create an online shopping account
+  * Purchase, return, or exchange a product by phone, mail or online
+  * Contact our call center or customer service desk
+  * Participate in a promotion, contest or survey
+  * Provide us with comments or suggestions
 
-• Information you provide about other people, such as a gift recipient
+
+
+The types of information we may collect, in order to serve you better, include:
+
+  * Contact information such as name, mailing address, phone number, and email address
+  * Personal information such as billing address and credit card information, when provided
+  * Demographic and preference information such as product purchase history
+  * Information you provide about other people, such as a gift recipient
+
+
 
 When you set up an online shopping account at our web site, if applicable, we may also request a password to allow you secure access. We may also supplement the information listed above with anonymous Site traffic information that’s collected automatically when you visit our Site, plus with information acquired from our joint marketing partners, from third parties, and from our affiliated companies.
 
@@ -38,16 +43,17 @@ When you set up an online shopping account at our web site, if applicable, we ma
 
 You deserve the fastest, safest and most enjoyable shopping experience possible. To give you just that, we may use information that you provide to us in the following manner:
 
-• To assist you in customer service communications  
-• To administer "My Account" information, online forms, a nd other site features  
-• To enable you to check out and complete your purchases, and to fill and ship your orders  
-• To send you special announcements or promotional information about new products or services and upcoming events, and to allow our affiliated companies and our other trusted third party partners to do the same  
-• To send you printed catalogs in the mail  
-• As necessary, to share your information with trusted third-party companies that provide support services to us or with which we partner to provide services, including special programs, offers and discounts  
-• To help improve our Site  
-• Where we consider it necessary to protect your legal rights, our legal rights, or the legal rights of third parties, or where required by law
+  * To assist you in customer service communications
+  * To administer “My Account” information, online forms, and other site features
+  * To enable you to check out and complete your purchases, and to fill and ship your orders
+  * To send you special announcements or promotional information about new products or services and upcoming events, and to allow our affiliated companies and our other trusted third party partners to do the same
+  * To send you printed catalogs in the mail
+  * As necessary, to share your information with trusted third-party companies that provide support services to us or with which we partner to provide services, including special programs, offers and discounts
+  * To help improve our Site
+  * Where we consider it necessary to protect your legal rights, our legal rights, or the legal rights of third parties, or where required by law
+  * More details of the ways in which we may use your information are set out below
 
-• More details of the ways in which we may use your information are set out below
+
 
 ### In-store Shopping
 
@@ -77,7 +83,7 @@ We may use your name and postal address to occasionally send you our printed cat
 
 ### Financial Products
 
-We may offer, now or in the future, financial products to preferred customers (such as gift cards). As a result, we may share your personal information with certain authorized third parties to provide you with tailored information about their special offers and services relating to such financial products. 
+We may offer, now or in the future, financial products to preferred customers (such as gift cards). As a result, we may share your personal information with certain authorized third parties to provide you with tailored information about their special offers and services relating to such financial products.
 
 ### By Law
 
@@ -105,7 +111,7 @@ To improve our websites and to make your online experience more enjoyable, when 
 
 ### Cookies, Web Server Logs and Pixel Tags
 
-A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer’s hard drive when you visit our websites. We use cookies to tell us who you are, tailor our products and services to suit your personal interests, estimate the number of visitors to our websites, track visits to pages within our websites, process your order, track your status in our promotions, contests and sweepstakes, and/or analyze our customers’ visiting patterns. Cookies do not contain information such as name or credit card information. Most browsers are preset to accept cookies and are used to make online visits easier and faster for you. Cookies are not required for you to browse our websites. Please note, however, that without cookies you will not be able to shop or place an order on our websites. In such cases, to place orders, please contact our customer service specialists at info@legends.net.
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer’s hard drive when you visit our websites. We use cookies to tell us who you are, tailor our products and services to suit your personal interests, estimate the number of visitors to our websites, track visits to pages within our websites, process your order, track your status in our promotions, contests and sweepstakes, and/or analyze our customers’ visiting patterns. Cookies do not contain information such as name or credit card information. Most browsers are preset to accept cookies and are used to make online visits easier and faster for you. Cookies are not required for you to browse our websites. Please note, however, that without cookies you will not be able to shop or place an order on our websites. In such cases, to place orders, please contact our customer service specialists at [info@legends.net](mailto:info@legends.net).
 
 In conjunction with obtaining information through cookies, our web servers may log details such as your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone in which your device is located. The web server logs also may record information such as the address of the web page that linked you to our site and the IP address of the device you use to connect to the Internet. To control which web servers collect this information, we may place ‘pixel tags’ (also called ‘web beacons’ or ‘clear gifs’), which are tiny graphic images on our websites, to help us gather knowledge about how you use our websites.
 
@@ -131,7 +137,7 @@ You can contact us at any time to review, change or delete certain personal info
 
 ### E-mails
 
-If you do not want to receive our electronic newsletter or promotional e-mails, you may unsubscribe at any time by clicking on "unsubscribe" at the bottom of any of our promotional e-mails.
+If you do not want to receive our electronic newsletter or promotional e-mails, you may unsubscribe at any time by clicking on “unsubscribe” at the bottom of any of our promotional e-mails.
 
 ### Catalogs
 
@@ -149,7 +155,7 @@ Please also note that where we have previously disclosed personal information to
 
 ### How do we safeguard your information?
 
-Protecting the safety of your personal information is important to us. Where we maintainan online store, we use a variety of technical, administrative and physical safeguards so that you can enjoy your shopping experience without having to worry about the loss of, misuse of, or unauthorized access to your information.
+Protecting the safety of your personal information is important to us. Where we maintain an online store, we use a variety of technical, administrative and physical safeguards so that you can enjoy your shopping experience without having to worry about the loss of, misuse of, or unauthorized access to your information.
 
 ### Secure Shopping
 
@@ -157,15 +163,15 @@ Where our Site permits you to enter credit card or other billing information, we
 
 ### Firewalls
 
-We protect all personal information stored in our computer systems, including information about your orders, behind a network security system called a "firewall." We only permit our authorized staff and authorized third party service providers to access our computer systems, and then only for the purposes described in this privacy policy.
+We protect all personal information stored in our computer systems, including information about your orders, behind a network security system called a “firewall.” We only permit our authorized staff and authorized third party service providers to access our computer systems, and then only for the purposes described in this privacy policy.
 
 ### Phone Orders
 
-Some versions of popular web browsers and some firewalls do not permit communication through secure servers like the ones we use to process orders. If your web browser cannot support this level of security, you will not be able to order products through our Site or those of our affiliated companies. If so, contact our customer service specialists at info@legends.net. We follow industry practices to protect your personal information from unauthorized access, but no data transmission over Internet can be guaranteed to be 100% secure. We cannot ensure or warrant the security of any information you transmit to us over the Internet. Also, please note that e-mail is not encrypted and is not considered a secure means of transmitting credit card numbers.
+Some versions of popular web browsers and some firewalls do not permit communication through secure servers like the ones we use to process orders. If your web browser cannot support this level of security, you will not be able to order products through our Site or those of our affiliated companies. If so, contact our customer service specialists at [info@legends.net](mailto:info@legends.net). We follow industry practices to protect your personal information from unauthorized access, but no data transmission over Internet can be guaranteed to be 100% secure. We cannot ensure or warrant the security of any information you transmit to us over the Internet. Also, please note that e-mail is not encrypted and is not considered a secure means of transmitting credit card numbers.
 
 ### What technologies do we use to enhance your shopping experience?
 
-To improve our Site and to make your online experience more enjoyable, we may collect anonymous information about all visitors to our Site, through the use of cookies, imagetags, and other technologies.
+To improve our Site and to make your online experience more enjoyable, we may collect anonymous information about all visitors to our Site, through the use of cookies, image tags, and other technologies.
 
 ### Image Tags
 
@@ -173,7 +179,7 @@ We may at times work with a third-party company to help us gather knowledge abou
 
 ### Third Party Links
 
-Our Site may include links that take you to other web sites for outside business partners, vendors and advertisers. These web sites have separate privacy and data collection practices. We have no control over such web sites, and are not responsible or liable for the privacy practices or information-gathering practices of other entities or web sites. We have also contracted with third parties to monitor certain pages of our Site for the purpose of reporting Site traffic, and/or other advertising statistics. Where authorized by us, these third parties may use cookies and/or other monitoring technologies to compile anonymous statistics about our Site visitors. No personal identification information is transferred to these third parties. For more information about how data is collected and used, please see their privacy policies http://www.dotomi.com/privacy.html. 
+Our Site may include links that take you to other web sites for outside business partners, vendors and advertisers. These web sites have separate privacy and data collection practices. We have no control over such web sites, and are not responsible or liable for the privacy practices or information-gathering practices of other entities or web sites. We have also contracted with third parties to monitor certain pages of our Site for the purpose of reporting Site traffic, and/or other advertising statistics. Where authorized by us, these third parties may use cookies and/or other monitoring technologies to compile anonymous statistics about our Site visitors. No personal identification information is transferred to these third parties. For more information about how data is collected and used, please see their privacy policies <http://www.dotomi.com/privacy.html>.
 
 ### Children’s Privacy
 
@@ -181,7 +187,7 @@ This Site and the web sites of our family of companies are not directed towards 
 
 ### California Privacy Rights
 
-In certain circumstances, California law entitles California residents to request us to provide, free of charge and no more than once per calendar year, a list of the categories of the resident’s personal information disclosed by us to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, together with the names and addresses of all such third parties and a description of such third parties’ businesses, if not already reasonably apparent from the third parties’ names. If you are a California resident and would like to receive such information, please contact us at info@legends.net.
+In certain circumstances, California law entitles California residents to request us to provide, free of charge and no more than once per calendar year, a list of the categories of the resident’s personal information disclosed by us to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, together with the names and addresses of all such third parties and a description of such third parties’ businesses, if not already reasonably apparent from the third parties’ names. If you are a California resident and would like to receive such information, please contact us at [info@legends.net](mailto:info@legends.net).
 
 ### Changes to the Privacy Statement
 
@@ -189,14 +195,14 @@ By using this Site, you consent to the collection and use of your personal infor
 
 ### US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework
 
-The Company complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/. In compliance with the US-EU and US-Swiss Safe Harbor Principles, the Company commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact the Company by sending us an E-mail at info@legends.net.
+The Company complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>. In compliance with the US-EU and US-Swiss Safe Harbor Principles, the Company commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact the Company by sending us an E-mail at [info@legends.net](mailto:info@legends.net).
 
-The Company has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Company, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+The Company has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Company, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ### How to Contact Us
 
-Our customers come first. If you have any concerns or questions, you can contact us by: Sending us an E-mail at info@legends.net.
+Our customers come first. If you have any concerns or questions, you can contact us by: Sending us an E-mail at [info@legends.net](mailto:info@legends.net).
 
 ### Conflict in Terms
 
-It is our goal to make our privacy practices easy to understand. We have created this easy-to-read privacy policy with that goal in mind. Some browsers utilize privacy enhancing technology to translate our privacy policy into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary"; it is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the privacy policy upon which it is based. It might fail to address an issue or it might address an issue not raised in our privacy policy. For this reason, you should rely on our privacy policy as the most accurate and definitive description of our practices.
+It is our goal to make our privacy practices easy to understand. We have created this easy-to-read privacy policy with that goal in mind. Some browsers utilize privacy enhancing technology to translate our privacy policy into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a “Policy Summary”; it is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the privacy policy upon which it is based. It might fail to address an issue or it might address an issue not raised in our privacy policy. For this reason, you should rely on our privacy policy as the most accurate and definitive description of our practices.
