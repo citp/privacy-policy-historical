@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuk.co.uk privacy policy that was archived on 2014-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141122031346id_/http%3A//www.fuk.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuk.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908054402id_/https%3A//www.fuk.co.uk/privacy) for the most accurate reproduction.*
 
 # fuk.co.uk | Privacy policy
 
@@ -24,4 +24,4 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-fuk.co.uk is made by Wide Media Ltd. For any other information, please [contact us here](https://web.archive.org/contact). 
+fuk.co.uk is made by Wide Media. For any other information, please [contact us here](https://web.archive.org/contact). 
