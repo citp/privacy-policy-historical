@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestvendor.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330121020id_/https%3A//www.bestvendor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestvendor.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908040952id_/https%3A//www.bestvendor.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BestVendor.com
 
