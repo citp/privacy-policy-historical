@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesforboysfree.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502143817id_/http%3A//www.gamesforboysfree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforboysfree.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908063311id_/http%3A//www.gamesforboysfree.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | GamesForBoysFree.com
 
