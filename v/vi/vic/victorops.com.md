@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victorops.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004515id_/http%3A//victorops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorops.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908043029id_/https%3A//victorops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IT Alerting and Collaboration Tool
 
@@ -6,7 +6,7 @@ The VictorOps application and the associated VictorOps website available at www.
 
 ## User Consent
 
-By accessing or otherwise using VictorOps, you agree to the terms and conditions of this Privacy Policy and the associated Terms of Service (set forth on [www.victorops.com/termsofservice](http://victorops.com/termsofservice)) you expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy.
+By accessing or otherwise using VictorOps, you agree to the terms and conditions of this Privacy Policy and the associated Terms of Service (set forth on <https://victorops.com/termsofservice>) you expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy.
 
 Your Personal Information may be processed by us in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.
 
