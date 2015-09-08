@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryclubworld.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618000605id_/http%3A//countryclubworld.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryclubworld.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908091345id_/http%3A//countryclubworld.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Country Club India - Terms and Conditions
 
