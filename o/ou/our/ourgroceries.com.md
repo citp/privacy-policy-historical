@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourgroceries.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627010056id_/https%3A//www.ourgroceries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourgroceries.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908174002id_/https%3A//www.ourgroceries.com/privacy) for the most accurate reproduction.*
 
 # OurGroceries - Privacy Policy
 
