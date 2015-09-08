@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruiseamerica.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424115158id_/http%3A//www.cruiseamerica.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseamerica.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908055027id_/http%3A//www.cruiseamerica.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Cruise America Privacy Policy
 
