@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the themestotal.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616052339id_/http%3A//themestotal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themestotal.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908192232id_/http%3A//themestotal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Themestotal.com
-
-[Home](http://themestotal.com/) Privacy Policy
 
 The following is an outline of **ThemesTotal.com** Privacy Policy.
 
