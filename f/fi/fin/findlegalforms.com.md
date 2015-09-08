@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806054040id_/http%3A//www.findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlegalforms.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908095518id_/http%3A//findlegalforms.com/xcart/customer/help.php%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - FindLegalForms.com
+# Legal Forms - Leases, Contracts, Agreements, Letters - Free Preview - FindLegalForms.com
 
 Updated: October 26, 2012
 
@@ -43,3 +43,40 @@ FindLegalForms may modify this privacy policy at any time without prior notice. 
 FindLegalForms supports P3P, the Platform for Privacy Preferences, allowing us to convey our privacy policies, to the extent possible, in standardized, machine-readable code. While our site supports P3P, the resulting code has inherent limitations such that it may not completely and accurately express all of our data practices. Some P3P-enabled browsers may interpret the same P3P code in different ways, while others may interpret P3P code in a manner inconsistent with the original intention. Accordingly, your browser's interpretation of the P3P code should only be considered as a short-hand expression of our privacy practices. This Privacy Policy remains our primary policy, and takes precedence over the P3P code for all purposes.
 
 **If you have any additional questions or concerns about our dedication to consumer privacy, please do not hesitate to[contact us](http://www.findlegalforms.com/xcart/customer/help.php?section=about).**
+
+### Attorney prepared
+
+#### Our forms are kept up-to-date and accurate by our lawyers
+
+Unlike other sites, every document on FindLegalForms.com is prepared by an attorney, so you can be sure that you are getting a form that is accurate and valid in your state.
+
+### Valid in your state
+
+#### Our forms are guaranteed  
+to be valid in your state
+
+Our team works tirelessly to keep our products current. As the laws change in your state, so do our forms.
+
+### Over 1,300,000  
+satisfied customers
+
+In over 10 years of creating and selling legal forms, our focus has never changed: providing our customers high quality legal products, low prices and an experience that takes some confusion out of the law.
+
+### Free eSignature
+
+#### Sign your form online, free with any form purchase
+
+We now provide a free Electronic Signature Service to all of our visitors. There are no hidden charges or subscription fees, it's just plain free.
+
+### 60-Days Money Back
+
+#### Try our forms with no risk
+
+If you are unhappy with your form purchase for any reason at all, contact us within 60 days and we will refund 100% of your money back.
+
+### Instant download
+
+#### Download your form in  
+a format you can use
+
+After you place your order, your forms will be available for immediate download. You can save the file for later use or print it immediately. We make all formats available to you at no extra charge.
