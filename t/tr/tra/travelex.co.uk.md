@@ -1,115 +1,177 @@
-> *The following text is extracted and transformed from the travelex.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315085833id_/https%3A//www.travelex.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelex.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908100843id_/https%3A//www.travelex.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelex UK
 
 * * *
 
-Our bureaux de change, this website ("Website") and our customer services telephone line are operated by Travelex UK Limited (“Travelex” or "us" or "our") on behalf of itself and its holding companies and subsidiaries (together, the "Travelex group"). Travelex recognises the importance of safeguarding the personal information of its customers. The following Privacy Policy sets out the basis on which any personal information will be processed by us and reflects Travelex's commitment to maintain the confidentiality of personal information and to provide its customers with the best possible service.
+Travelex recognises the importance of safeguarding the personal information of its customers using the Travelex Services. The following Privacy Policy sets out the basis on which any of your personal information will be collected, stored and used by us and reflects Travelex's commitment to maintain the confidentiality of personal information and to provide its customers with the best possible service.  Please read this Privacy Policy carefully.  By proceeding to use any of the Travelex Services you confirm that you have read, understood and agree to this Privacy Policy in its entirety.
 
-**When is Personal Information Collected?**
+This website is provided by Travelex UK Limited and describes our use of your personal information when you use this website, any of our mobile software applications (Apps) or platforms (collectively the Online Services), bureaux de change stores, ATMs, customer services telephone lines and when you interact with us using other channels such as social media platforms, as well as information we receive when you purchase or use Travelex Branded products which are provided by our partners. These services and products are collectively referred to in this policy as ‘Travelex Services’. The Travelex Services you may purchase or use are provided by Travelex UK Limited and also by our [Travelex Group Companies](https://www.travelex.co.uk/travelex-group-companies "Travelex Group Companies") or by our partners.
 
-You may be asked by staff at one of our Travelex bureaux, prompted at various points on our Website or asked by one of our customer services advisers to provide us with your personal information.
+### **Information we collect**
 
-Accordingly, we may collect and process the following information about you:
+We collect and process personal information in three ways::
 
-  1. information you provide by filling in forms;
-  2. details of any transactions you carry out in-store at one of our bureaux, through the Website or over the phone, and of the fulfilment of your order(s);
-  3. information you provide when entering Travelex prize draws or competitions;
-  4. information collected from optional surveys that use for research purposes;
-  5. details of your visits to the Website and the resources that you access; and
-  6. if you contact us, we may keep a record of that correspondence
+**1) Information you give us**
+
+  * **Personal Information**. When you use the Travelex Services, we may ask for information about you. This may include your name, date of birth, home address, billing address, office address, e-mail address, the form(s) of identification you provide (e.g. passport or driving licence) and the personal information contained within those forms of identification, mobile telephone number, landline telephone number, credit or debit card information, other payment details, such as your bank account information, as required by us in order to complete your transaction and provide your payment choices and travel details (including future travel dates and destinations). If you do not provide the information we require to process a transaction, we may not be able to proceed with your order.
 
 
 
-**Use and Retention of Personal Information**
+**2)  Information we collect from your use of our services**
 
-We only use personal information for the purpose(s) for which we tell you that it has been collected, and for other legitimate purposes as permitted by the Data Protection Act 1998 (the "Act") and other relevant laws. We only retain your personal information for as long as is necessary for such uses.
+We may collect information about you, the Travelex Services and how you use them. This could include:
 
-If you provide information when buying travel money or other goods or services from Travelex, we may use such personal information for the purposes of:
+  * Transactional information about our Services and how you use them
 
-  1. collecting payment and processing your order;
-  2. complying with our legal and regulatory obligations (including fraud prevention and anti-money laundering);
-  3. complying with our obligations to third party product issuers in accordance with the terms and conditions of their services;
-  4. keeping you informed by email of similar Travelex group products or services to those which you have bought, unless you have indicated that you would not like us to do so;
-  5. providing you with any email alerts you have registered for;
-  6. ensuring that content from the Website is presented in the most effective manner for you and for your computer;
-  7. allowing you to participate in interactive features of our services, when you choose to do so;
-  8. and notifying you about changes to our services.
+  * Information you share with us when you contact us for any reason either in writing, by phone or by any other means. This may for example be in-store at one of our bureaux, through our contact centres, or through social media 
 
+  * Registration details when you set up an account with us (including your username, password and verification information)
 
+  * Content you post on our websites, including personal descriptions, photographs and videos
 
-We may make use of the personal information we have collected about you from the Website to enable third party websites to display our advertisements to you. We do not disclose identifiable information about our Website users to our advertisers, but we may provide them with information to help us reach the kind of audience we want to target.
+  * Information when you take part in promotions, competitions or surveys
 
-**Maintenance of Accurate Information**
+  * Registration information when you sign up to loyalty schemes offered by us
 
-We strive to ensure that the information we maintain about our customers is accurate, current and complete. We respond to requests from customers to correct inaccurate information in a timely manner.
+  * Details of your visits to the Online Services. This includes page interaction and Online Services site activity, including which website you came from, pages your viewed during your visit, and the page you viewed immediately after you left
+  * Data collected by cookies and corresponding technologies, together with the personal information we have collected
 
-**Protection of Information Via Established Security Procedures**
+  * Location information, for example your IP address, registered beacons or GPS (geo-location) signals. We may use your exact geo-location when you have consented to it
 
-When transmitting personal information over the internet, please bear in mind that this is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of information transmitted to the Website. However, when you place an order online, your order is placed over a secure connection and your personal information is encrypted to ensure it remains safe at all times.
+  * Your marketing preferences
 
-Once we receive your personal information, we use strict security standards and procedures to help prevent unauthorised access. Where Travelex is required to make paper copies of your personal information, such information is either:
-
-  1. stored in a secure locked storage facility and when required, archived in the same manner; or
-  2. scanned onto our secure electronic systems (with the original paper copies shredded and destroyed) and, when required, archived in a safe and secure manner.
+  * CCTV images from equipment in place at our bureaux de change stores and ATMs for the purposes of prevention and detection of crime and public safety.
 
 
 
-All personal information which is provided online is stored on our secure electronic systems and archived in a secure manner.
 
-**Disclosure of Personal Information to Third Parties**
+**3)  Information we receive from third parties**
 
-We may disclose your personal information to any member of the Travelex group (which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006).
+We may also receive information from third parties. This may include:
 
-We may disclose your personal information to third parties for the following purposes:
+  * Non-personal information used to supplement existing information, such as demographics and affluence metrics (e.g. social-demographic groupings through matching postcode information)
 
-  1. in the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business assets;
-  2. if Travelex or substantially all of its assets or Travelex’s holding company or substantially all of its assets are acquired by a third party, in which case personal information held by us about our customers will be one of the transferred assets; and
-  3. in accordance with the obligations bestowed on us by our third party product issuers so that they may process your order and, unless you have indicated that you would not like us to do so, keep you informed of similar products or services to those which you have bought (please note that these third party product issuers have their own privacy policies and accordingly we cannot accept any responsibility or liability for the handling of personal information by such third parties in accordance with such policies);
-  4. if we are under a duty to disclose or share your personal information in order to comply with our legal obligations or in order to enforce our conditions of sale (including the Online Terms and Conditions) and other agreements; or to protect the rights, property, or safety of Travelex, our customers, or others.
-  5. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+  * Information about you from other sources with whom we work closely to provide the Travelex Services to you, including third party payment and delivery service providers, identify verification and fraud prevention services, and other companies in the Travelex group.
 
 
 
-The personal information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers (including third party product issuers). Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal information, you agree to this transfer, storing or processing. We will take all reasonable steps to ensure that such personal information is treated securely and in accordance with this Privacy Policy.
+### **How we use the information we collect**
 
-**Cookies**
+We may use your information for the following purposes:
 
-Cookies are small text files placed on your computer, phone or tablet by websites or sometimes by emails. Cookies provide us with useful information which we use to improve our Website and make it possible for Travelex to identify some of your preferences. When you revisit our Website, Travelex's computer server will recognise the cookie, giving us information about your previous visits which help us to analyse how our customers interact with our sites so we can make improvements.This is statistical data about our users' browsing actions and patterns, and does not identify you as an individual.
+  * Collecting payment, processing and fulfilling your order and otherwise providing you with the information, products and services you may request from us
 
-We use three types of cookies on our websites
+  * Complying with our legal and regulatory obligations (including fraud prevention, anti-money laundering and sanction screening). This may include checking the information you provide to us against information from other sources. 
+
+  * Enforcing any contract entered into between you and us for the Travelex Services
+
+  * Contacting you (including by email or SMS) with marketing messages according to your preferences
+
+  * Providing you with any alerts, in App messages or other messages you have registered to receive
+
+  * Providing you with service messages, notifying you about changes to our Services or changes to our terms, conditions and policies.
+
+  * Improving customer experience and our quality of service
+
+  * Data analysis to allow us to derive insight and to help make the Travelex Services personalised and relevant, as well as to develop our business processes, products and services
+
+  * Enabling us and third party websites to display relevant and targeted advertisements, based on previous behaviour, purchases, or any other relevant information.
+
+
+
+
+### **Information we share**
+
+We may disclose your personal information to any member of the Travelex group (a list of Travelex Group Companies is available [here](https://www.travelex.co.uk/travelex-group-companies "Travelex Group Companies")). We do not share personal information with companies, organisations or individuals outside of Travelex for marketing purposes or otherwise, nor do we sell your personal information.  The only time your personal information may be shared with a third party is if:
+
+  * We have your prior consent to do so
+  * We are processing information externally, through a trusted business partner, based on Travelex’s explicit instruction and in compliance with our Privacy Policy, confidentiality and levels of security 
+
+  * We are using a third party to send targeted advertisements, using an identifier such as an email address or site cookies
+
+  * We have aggregated, non-personally identifiable information, which is to be used for segmentation, statistical modelling, general research or trend analysis
+
+
+  * We sell or buy any new business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business assets
+
+  * We are purchased by a third party, in which case personal information held by us including you as our customer will be transferred.  We will notify you of this through the most appropriate means 
+
+  * We need to comply with the obligations we have  to our third party product issuers or third parties providing products or services on our behalf, so that they may process your order or otherwise provide the information, products or services you have requested (please note that these third party product issuers have their own privacy policies and accordingly we cannot accept any responsibility or liability for the handling of personal information by such third parties in accordance with such policies)
+
+
+
+  * We are under a duty to disclose or share your personal information in order to comply with our legal obligations or in order to enforce our conditions of sale (including the Online Terms and Conditions) and other agreements; or to protect the rights, property, or safety of Travelex, our customers, or others.  This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+
+
+
+### **Retention of Personal Information**
+
+We only retain your personal information for as long as is necessary for us to use your information as described above or to comply with our legal obligations.
+
+### **Maintenance of Accurate Information**
+
+We strive to ensure that the information we maintain about our customers is accurate, current and complete. We respond to requests from customers to correct inaccurate information in a timely manner so please tell us if you think we hold incorrect information about you at the address below.
+
+### **Accessing the Online Services**
+
+As part of using the Online Services you may be asked to set-up a user name and password.  You are responsible for maintaining the confidentiality of your user name and password and are responsible for all activities that are carried out when logged using your name and password.
+
+### **Security**
+
+We have a number of security measures in place to protect your personal information. However, when transmitting personal information over the internet, please bear in mind that no transmission over the internet can ever be guaranteed secure. Therefore, please note that we cannot guarantee the security of any personal information that you transfer over the internet to us.
+
+### **International Transfers**
+
+The personal information that we collect from you and about you may be transferred to, and stored at a destination outside the European Economic Area ("EEA").  It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers (including third party product issuers). Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal information, you agree to this transfer, storing or processing of your personal information outside of the EEA. We will take all reasonable steps to ensure that such personal information is treated securely and in accordance with this Privacy Policy, but please be aware that countries which are outside the EEA may not offer the same level of data protection.
+
+### **Cookies**
+
+Cookies are small text files placed on your computer, phone or tablet by websites or sometimes by emails. Cookies provide us with useful information which we use to improve our Website and make it possible for Travelex to identify some of your preferences. When you revisit our Website, Travelex's computer server will recognise the cookie, giving us information about your previous visits which help us to analyse how our customers interact with our sites so we can make improvements. This is statistical data about our users' browsing actions and patterns, and does not identify you as an individual.
+
+We use three types of cookies on our websites:
 
   1. Session cookies that are deleted after each visit.
   2. Persistent cookies that remain in place across multiple visits to our sites until they either expire or you delete them.
   3. Third party cookies that are used by our approved business partners.
-  4. You can set your preferences on how we use cookies on your computer, phone or tablet by accessing our Cookie Consent tab on the bottom right of every screen on our website. Most browsers are originally configured to accept cookies automatically, however, you may also refuse to accept cookies by activating the setting on your browser. Please note that if your browser is not configured properly or if you alter your browser to disable the acceptance of cookies, you may not be able to use the Website.
 
 
+
+You can set your preferences on how we use cookies on your computer, phone or tablet by accessing our Cookie Consent tab on the bottom right of every screen on our website. Most browsers are originally configured to accept cookies automatically, however, you may also refuse to accept cookies by activating the setting on your browser. Please note that if your browser is not configured properly or if you alter your browser to disable the acceptance of cookies, you may not be able to use the Website.
 
 Unless you have adjusted your browser settings so that it will refuse cookies or set your preferences using our Cookie Consent tab, our system will automatically issue cookies when you access our Website.
 
 Please note that our advertisers may also use cookies, over which we have no control. You should check the Privacy Policy of advertiser websites to find out how they manage cookies.
 
-**Links to Third Party Websites**
+### **Links to Third Party and Travelex Group websites**
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and accordingly we cannot accept any responsibility or liability for such policies. It is therefore advisable to check these policies before you submit any personal information to these websites.
+Our Website may, from time to time, contain links to and from the websites of our group companies, selected partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and accordingly we cannot accept any responsibility or liability for such policies.  It is therefore advisable to check these policies before you submit any personal information to these websites.
 
-**Access to Information**
+### **Access to Information**
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+If you require access to the information we hold about you, please send your request in writing to the address set out below.   Any request may be subject to a prescribed fee, where we are legally permitted to charge in order to meet our costs in providing you with details of the information we hold about you.
 
-**Changes to Our Privacy Policy**
+### **Children's Privacy**
 
-Any changes we make to our Privacy Policy in the future will be posted on this page. Please do check our Privacy Policy from time to time to take notice of any changes made. By providing us with your personal information, using the Website and/or any service offered via the Website, in-store at one of our bureaux or over the phone, or by placing orders after we have changed the terms of our Privacy Policy, you will be deemed to have accepted these changes.
+Travelex does not knowingly collect or solicit personal information from individuals under 13 years of age. If you are under 13 years of age, you should not register or provide personal information on the Travelex Applications. If we later obtain actual knowledge that a user is under 13 years of age, we will take steps to remove that user’s personal information from our systems. If you believe that we might have any information from or about a child under 13, please contact us at [customerservices@travelex.com](mailto:customerservices@travelex.com). 
 
-This Privacy Policy was last updated on 1st November 2012.
+### **Providing personal information about other people  **
 
-**Removal from Travelex Email Marketing Communications**
+You can provide us with another person's personal information to enable us to contact them (for e.g. by recommending a friend to use Travelex Services, or by entering them into a competition).  By providing the other person's information you are confirming that they have given their explicit consent for you to provide their email address, mobile phone number or postal address to us and for us to contact them by email, phone or post.  A message may be sent to the other person using the contact details provided by you and this message will make reference to your name and explain to the recipient that you were the source of his/her contact details.
 
-You may want to discontinue receiving information from the Travelex group. While this may mean that you will not receive product or service information of interest to you, we respect anyone’s wishes not to be informed directly of these promotions or product introductions by emailing [unsubscribe@travelex.com](mailto:unsubscribe@travelex.com).
+### **Removal from Travelex Email Marketing Communications**
 
-Please specify that you want to be removed from the Travelex email database. You will also be provided with an unsubscribe link in any email marketing communications we send you.
+You may want to discontinue receiving information from us. While this may mean that you will not receive product or service information of interest to you, we respect anyone’s wishes not to be informed directly of these promotions or product introductions by emailing [unsubscribe@travelex.com](mailto:unsubscribe@travelex.com).
 
-**Contact**
+You will also be provided with an unsubscribe link in any email or SMS marketing message we send you.
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [customerservices@travelex.com](mailto:customerservices@travelex.com) or Customer Services Department, Unit 5, Maple Grove Business Centre, Lawrence Road, Hounslow, TW4 6DR.
+### **Changes to Our Privacy Policy**
+
+Any changes we make to our Privacy Policy in the future will be posted on our website. Please do check our Privacy Policy from time to time to take notice of any changes made. By providing us with your personal information, using the Online Services and/or any service or product offered via the Online Services, providing us with personal information in-store at one of our bureaux or over the phone, use on of our ATMs or by placing orders after we have changed the terms of our Privacy Policy, you will be deemed to have accepted these changes. We will advise you of significant changes to this Privacy Policy where we have your contact details.
+
+This Privacy Policy was last updated on 1st May 2015.
+
+### **Contact**
+
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [customerservices@travelex.com](mailto:customerservices@travelex.com) or Customer Services Department, Worldwide House, Thorpe Wood, Peterborough PE3 6SB.
