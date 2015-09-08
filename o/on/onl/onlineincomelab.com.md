@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineincomelab.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074308id_/http%3A//onlineincomelab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineincomelab.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909015542id_/http%3A//onlineincomelab.com/privacy) for the most accurate reproduction.*
 
 # | Privacy Policy
 
