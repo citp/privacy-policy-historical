@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zap-map.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404022311id_/http%3A//www.zap-map.com/terms/zap-map-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zap-map.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908034303id_/http%3A//www.zap-map.com/terms/zap-map-cookie-policy) for the most accurate reproduction.*
 
 # Zap-Map Privacy and Cookie Policy
 
@@ -56,12 +56,12 @@ A cookie makes the interaction between users and websites faster and easier. The
 Zap-Map does not use cookies to collect personally identifiable information about you. The cookies we use are for the purpose of reporting web traffic statistics, advertisement click-throughs and/or other activities on our site. They allow us to recognise and count the number of visitors and to see how visitors move around the site.  
 When you browse on Zap-Map, the following types of cookies may be generated:
 
-\- Site performance cookies  
-\- Anonymous analytics cookies  
-\- Geotargeting cookies  
-\- Advertising cookies  
-\- Third party advertising cookies  
-\- Other third party cookies
+– Site performance cookies  
+– Anonymous analytics cookies  
+– Geotargeting cookies  
+– Advertising cookies  
+– Third party advertising cookies  
+– Other third party cookies
 
 ### How can I control cookies?
 
