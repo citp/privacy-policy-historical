@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2014-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141130003919id_/https%3A//www.comerica.com/help-center/pages/privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comerica.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908203519id_/https%3A//www.comerica.com/help-center/pages/privacy-notice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice | Comerica
-
-​​ 
 
 ### ​Effective date: January 1, 2014
 
@@ -124,7 +122,7 @@ Please be aware that other services, provided by other companies via links to th
 
 ### Process to Request Changes to Personal Information
 
-We wish to maintain complete and accurate information about you and your account (including information you have entered through any Comerica Bank website).  We have established procedures to assist you should you ever believe that our records contain inaccurate or incomplete information about you.  Please contact us at 313.222.3425 to complete or correct your Personal Information.  We will investigate your concerns and properly correct any inaccuracies.
+We wish to maintain complete and accurate information about you and your account (including information you have entered through any Comerica Bank website).  We have established procedures to assist you should you ever believe that our records contain inaccurate or incomplete information about you.  Please contact us to complete or correct your Personal Information.  We will investigate your concerns and properly correct any inaccuracies.
 
 ### Security Standards
 
@@ -144,7 +142,7 @@ Your use of one or more of our websites, including dispute concerning privacy, i
 
 ## Comerica's Privacy Notice for Individuals
 
-| **FACTS ​**  ​ | **What Does Comerica Do With Your Personal Information?**   ​  
+**FACTS ​**  ​ | **What Does Comerica Do With Your Personal Information?**   ​  
 ---|---  
 **​Why?** | ​Financial companies choose how they share your personal informati​on. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.​  
 ​ **What?** | ​​The types of personal information we collect and share depend on the product or service you have with us.  
