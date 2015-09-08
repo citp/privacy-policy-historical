@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wit.ai privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316083618id_/https%3A//wit.ai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wit.ai privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908130703id_/https%3A//wit.ai/privacy) for the most accurate reproduction.*
 
 # Wit — Wit.ai Privacy
 
