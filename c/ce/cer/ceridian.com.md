@@ -1,81 +1,26 @@
-> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317045651id_/http%3A//www.ceridian.com/about-us/corporate/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceridian.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908043043id_/http%3A//www.ceridian.com/about-us/corporate/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Ceridian
+# Ceridian Privacy Policy
 
-Scope
+[[Printable version of this information - PDF](https://web.archive.org/Assets/ceridian2/documents/about/Ten%20Privacy%20Principles.pdf "Ten Privacy Principles")]
 
-How We Collect Personal Information
+## Ceridian’s Privacy Principles:
 
-How We Use Personal Information
-
-How We Share Information
-
-How We Secure Information
-
-How We Communicate With You
-
-Miscellaneous
-
- **Scope**
-
-This policy describes how Ceridian collects, uses, shares, and secures the information that it collects from people who visit Ceridian’s publicly facing websites including, [www.ceridian.com](http://www.ceridian.com/) and [www.dayforce.com](http://www.dayforce.com/).  This policy does not describe Ceridian’s practices concerning the information that it collects from its customers, or the information that it collects from its customer’s employees as part of a Ceridian product or service (a “service”).  If your employer uses a Ceridian online service, such as a human resource management application, and your employer has asked you to submit information as part of that service, you should review the separate privacy policy that will be posted on pages that collect information in connection with that service or you should contact Ceridian at [privacy@ceridian.com](mailto:privacy@ceridian.com) for more information about how Ceridian uses, shares, and secures your information.
-
-If you are a business that has a contract with Ceridian you should review that contract for information concerning how Ceridian collects, uses, shares, and secures the information that it collects from you, or your employees. 
-
- **The Information We Collect**
-
-We collect both personal and non-personal information from you.
-
-When we use the term “personal information” we mean information that directly identifies you, or allows someone to directly contact you.  Examples of personal information include your name, e-mail address, telephone number, or business contact information.
-
-When we use the term “non-personal information” we mean information that does not directly identify you, or allow someone to directly contact you. 
-
- **How We Collect Personal Information**
-
-We may collect information from you in the following ways:
-
-  *  **By Asking** We may collect some information from you by asking that you provide it to us.  For instance, if you fill out an inquiry form we may ask you for your email address or other business contact information.     
-  *  **Cookies**   Many sites use “cookies,” which are small text files that reside on your computer to identify you as a unique user.  We may use cookies on our website to allow us to, among other things, measure activity and to personalize your experience.  For instance, cookies may enable us to remember your viewing preferences without requiring you to re-type a user name and password.  Cookies may also allow us to track your status or progress when requesting products, services, or information.  If you choose, you can set your browser to reject cookies or you can manually delete individual or all of the cookies on your computer by following your browser’s help file directions.  However, if your browser is set to reject cookies or you manually delete cookies, you may have some trouble accessing and using some of the pages and features that are currently on our website, or that we may put on our website in the future.
-  *  **Web Beacons  ** A web beacon is an electronic file on a Web page that allows us to count and recognize users who have visited that page.  Among other things, a web beacon can be used in HTML-formatted email to determine responses to our communications and measure their effectiveness – for instance, if you get an email from us and click on a link in that email to go to our website.  You can generally avoid web beacons in email by turning off HTML display and displaying only the text portion of your email.  Web beacons may also provide the type of information provided by cookies concerning your use, preferences, and activity on a website.
-  *  **Web Server Logs**   The computers that deliver our web pages to you may record information.  For example, a web server log may record the search terms you enter on our websites, the link you clicked to bring you to the web page, your IP address, or cookies that are set on your browser.
-  *  **Other Sources**   Other companies may provide us with the contact information of businesses or individuals who they think may be interested in our products or services.
+  1.  **Accountability:  **Ceridian, its employees, and contractors take responsibility for personal information in accordance with Ceridian polices and standards. There are designated individuals within Ceridian who are accountable for compliance with these privacy principles.
+  2.  **Notice, Choice and Consent:**  Ceridian provides notice as to the purposes for which personal information is collected, used, retained, and disclosed. Ceridian describes any choices available to individuals and obtains consent from either the individual or the client, as appropriate.
+  3.  **Collection & Use:** Ceridian collects personal information only for the purposes identified in the notice and limits the use of personal information to those purposes. If personal information will be used for additional purposes, the individual will receive notice prior to the additional use.
+  4.  **Retention and Disposal** **:**  Ceridian retains personal information only as long as necessary to fulfill the stated purposes or as legally required and thereafter appropriately disposes of such information.
+  5.  **Access:**  Ceridian provides individuals with access to their personal information for review and update. Where appropriate, Ceridian will refer an individual to the employer.
+  6.  **Sharing:  **Ceridian discloses personal information to third parties only for purposes identified in the notice, or, when sharing for other purposes, only in accordance with Ceridian Privacy Principle 2, Notice, Choice and Consent.
+  7.  **Cross Border Transfer:**  Ceridian transfers personal information outside of a local jurisdiction only with adequate protection in place and in compliance with applicable laws and standards. Ceridian complies with the U.S.-E.U. and the U.S.-Swiss Safe Harbor Principles.
+  8.  **Safeguards:  **Ceridian protects personal information using recognized industry standard security safeguards appropriate to the sensitivity of the information. Ceridian takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration, and destruction.
+  9.  **Quality:**  Ceridian relies on its clients to supply Ceridian with accurate, complete and up-to-date information that is relevant to the purposes identified in the notice. Ceridian maintains accurate and complete personal information that is relevant to the purposes identified in the notice.
+  10.  **Monitoring and Enforcement:**  Ceridian monitors its compliance with our privacy policies and procedures, has processes to address privacy related complaints, and disputes. For questions on Ceridian's Privacy Principles or to file a complaint please contact Ceridian's Privacy Office at [Privacy@Ceridian.com](mailto:Privacy@Ceridian.com "Email Privacy Department").
 
 
 
- **How We Use Personal Information**
+[Corporate Privacy Policy](https://web.archive.org/about-us/corporate/corporate-privacy-policy.html "Corporate Privacy Policy") [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/Corporate%20Privacy%20Policy.pdf "Corporate Privacy Policy")]
 
-Among other things, Ceridian may use personal information, such as your e-mail or mailing address, to send you information about news, seminars and events that may be of interest to you, or to respond to a request for proposal. 
+[Web Privacy Notice](https://web.archive.org/about-us/corporate/web-privacy-notice.html "Web Privacy Notice") [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/Web%20Privacy%20Notice.pdf "Web Privacy Notice")]
 
-If you decide that you do not want to receive commercial emails from us, you can “opt-out” from receiving such emails by clicking on the “unsubscribe” link provided at the bottom of every commercial email or by clicking [here](http://info.ceridian.com/unsubscribe "Unsubscribe Form").  If you decide at a later time that you would like to receive commercial emails from us, you can re-add yourself to our communication list.
-
-We may share information about you with third parties in certain circumstances including in the following situations:
-
-  *  **Affiliates**   We may share information with companies that we own or control, that are owned or controlled by us, or that are under common ownership or control.
-  *  **Behavioral Advertisers**   We may participate in behavioral-based advertising.  This means that a third party may use technology, such as a cookie on your browser or a web beacon, to identify you on our website so that they can provide advertising about products and services tailored to your interest.  That advertising may appear either on our website, or on other websites.  If you would like to opt-out of receiving behavioral advertising based on your use of this website, you can do so by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.aboutads.info/choices/).
-  *  **Blogs, Online Postings, and Testimonials**   We may decide to allow users to share comments, postings, testimonials, or other information.  If you choose to submit such information to us, the information that you submit may be available generally to the public.  Information you provide in these areas may be read, collected, and used by others who access them. 
-  *  **Business Transition**   In the event that we, or any portion of our assets, are acquired we may share all types of information with the acquiring company.
-  *  **In-line Applications & Tools**  We may offer tools, widgets, or applications on our website, such as search engine functionalities, that are powered by third parties.  If you use those applications or tools any information that you provide may be shared with the third party that provides that functionality.  The third party’s use of that information is subject to their privacy policy.
-  *  **Law Enforcement**   We may report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity.  In addition, we reserve the right to release your information to law enforcement agencies if we determine, in our sole judgment, that either you have violated our policies, or the release of your information may protect the rights, property, or safety of Ceridian, or another person.
-  *  **Legal Process**   We may share your information with others as required by, or permitted by, law.  This may include sharing your information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us.
-  *  **Partners**   We may share information with other companies that provide products or services that we think may be of interest to you. 
-  *  **Service Providers  ** We may share information with companies or individuals that provide us with services.  These services may include, among other things, providing products or services to you on our behalf, creating or maintaining our databases, researching and analyzing the people who request information from us, preparing and distributing communications, or responding to inquiries. 
-
-
-
- **How We Secure Information**
-
-We take reasonable and appropriate measures to help keep information secure, and to help prevent it from becoming disclosed to individuals who are not described in this policy.  While we follow reasonable procedures to try to protect the information in our possession, no security system is perfect and we cannot promise, and you should not expect, that your information will remain secure in all circumstances.
-
- **How We Communicate With You**
-
-If you have any questions or concerns regarding our privacy policy please contact us at [Privacy@ceridian.com](mailto:Privacy@ceridian.com) or write to Privacy Officer, c/o Legal Department, Ceridian Corporation, 3311 East Old Shakopee Road, Minneapolis, Minnesota 55425. 
-
-If we need, or are required, to contact you concerning any event that involves your information we may do so by email, telephone, or mail.
-
- **Miscellaneous**
-
- **Other Websites**   Our website, our emails, or our application may link to third parties’ websites.  It is also possible that third parties’ websites or emails may link to our website.  We are not responsible for the content or the privacy practices employed by third parties, and information collected by third parties is not governed by Ceridian’s privacy policy.  We encourage you to read the privacy policies of these websites before transmitting any personal identifiable information to **third parties.**
-
- **Changes to the Privacy Policy  ** We may update this privacy policy to reflect changes to our information practices.  If we make any material changes to our policy, those changes will apply to information collected after the effective date listed.  We encourage you to periodically review this page for the latest information on our privacy policies.
-
-EFFECTIVE DATE: April 1, 2013
+Data Privacy Complaint Form [[Printable PDF](https://web.archive.org/Assets/ceridian2/documents/about/Data%20Privacy%20Complaint%20Form.pdf "Data Privacy Complaint Form")]
