@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the escentual.com privacy policy that was archived on 2015-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150618004902id_/http%3A//www.escentual.com/help-and-advice/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the escentual.com privacy policy that was archived on 2015-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908202937id_/http%3A//www.escentual.com/help-and-advice/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script src="//bat.bing.com/bat.js" async=""></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQACV1ZSGwADXFlSBAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
@@ -19,7 +19,7 @@
 </script>
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="http://media.escentual.com/css/2d4cd0ea105c7d024631d29e0b356090_1374063422.css">
-<link rel="stylesheet" type="text/css" href="http://media.escentual.com/css/f7355a019bd684952ebf7e8e04974747_1434125003.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://media.escentual.com/css/703956a21bd7167e9f3af9767a6542fc_1441380186.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://media.escentual.com/css/28b6d631f6628f5bb5d6e18a203870be_1280174950.css" media="print">
     <script type="text/javascript" src="http://js.escentual.com/escentual/modernizr-2.6.2.js"></script>
     <script src="http://js.escentual.com/escentual/jquery-1.10.2.min.js"></script>
@@ -120,21 +120,26 @@ optionalZipCountries = ["IE"];
     <select id="brand-select" onchange="if (this.options[this.selectedIndex].value) document.location=this.options[this.selectedIndex].value;">
         <option value="">All Brands A - Z</option>
                                     <option value="http://www.escentual.com/007-fragrances/">007 Fragrances</option>
+                            <option value="http://www.escentual.com/4160-tuesdays/">4160 Tuesdays</option>
                             <option value="http://www.escentual.com/4711/">4711</option>
                             <option value="http://www.escentual.com/a-derma/">A-Derma</option>
                             <option value="http://www.escentual.com/acqua-di-parma/">Acqua Di Parma</option>
                             <option value="http://www.escentual.com/agent-provocateur/">Agent Provocateur</option>
+                            <option value="http://www.escentual.com/alaia/">ALAÏA</option>
+                            <option value="http://www.escentual.com/alterna/">Alterna Haircare</option>
                             <option value="http://www.escentual.com/ameliorate/">Ameliorate</option>
                             <option value="http://www.escentual.com/amouage/">Amouage</option>
                             <option value="http://www.escentual.com/angel-schlesser/">Angel Schlesser</option>
                             <option value="http://www.escentual.com/anna-sui/">Anna Sui</option>
                             <option value="http://www.escentual.com/annick-goutal/">Annick Goutal</option>
                             <option value="http://www.escentual.com/aramis/">Aramis</option>
+                            <option value="http://www.escentual.com/atkinsons/">Atkinsons</option>
                             <option value="http://www.escentual.com/avene/">Avene</option>
                             <option value="http://www.escentual.com/azzaro/">Azzaro</option>
                             <option value="http://www.escentual.com/baldessarini/">Baldessarini</option>
                             <option value="http://www.escentual.com/balmain/">Balmain</option>
                             <option value="http://www.escentual.com/banana-republic/">Banana Republic</option>
+                            <option value="http://www.escentual.com/barefoot-sos/">Barefoot SOS</option>
                             <option value="http://www.escentual.com/bareminerals/">bareMinerals</option>
                             <option value="http://www.escentual.com/biafine/">Biafine</option>
                             <option value="http://www.escentual.com/binky-london/">Binky London</option>
@@ -176,7 +181,7 @@ optionalZipCountries = ["IE"];
                             <option value="http://www.escentual.com/dolce-and-gabbana/">Dolce &amp; Gabbana</option>
                             <option value="http://www.escentual.com/donna-karan/">Donna Karan</option>
                             <option value="http://www.escentual.com/dsquared2/">DSquared2</option>
-                            <option value="http://www.escentual.com/dunhill/">Dunhill</option>
+                            <option value="http://www.escentual.com/dunhill/">dunhill</option>
                             <option value="http://www.escentual.com/e-coudray/">E. Coudray</option>
                             <option value="http://www.escentual.com/eau-ditalie/">Eau d'Italie</option>
                             <option value="http://www.escentual.com/ed-hardy/">Ed Hardy</option>
@@ -199,9 +204,7 @@ optionalZipCountries = ["IE"];
                             <option value="http://www.escentual.com/givenchy/">GIVENCHY</option>
                             <option value="http://www.escentual.com/gucci/">Gucci</option>
                             <option value="http://www.escentual.com/guerlain/">GUERLAIN</option>
-                            <option value="http://www.escentual.com/guy-laroche/">Guy Laroche</option>
                             <option value="http://www.escentual.com/harajuku-lovers/">Harajuku Lovers</option>
-                            <option value="http://www.escentual.com/herve-leger/">Herve Leger</option>
                             <option value="http://www.escentual.com/houbigant/">Houbigant</option>
                             <option value="http://www.escentual.com/hugo-boss/">Hugo Boss</option>
                             <option value="http://www.escentual.com/idhair/">IdHAIR</option>
@@ -214,6 +217,7 @@ optionalZipCountries = ["IE"];
                             <option value="http://www.escentual.com/jimmy-choo/">Jimmy Choo</option>
                             <option value="http://www.escentual.com/john-galliano/">John Galliano</option>
                             <option value="http://www.escentual.com/john-richmond/">John Richmond</option>
+                            <option value="http://www.escentual.com/joico/">Joico</option>
                             <option value="http://www.escentual.com/joop/">Joop</option>
                             <option value="http://www.escentual.com/jovoy/">Jovoy</option>
                             <option value="http://www.escentual.com/juliette-has-a-gun/">Juliette Has A Gun</option>
@@ -230,6 +234,7 @@ optionalZipCountries = ["IE"];
                             <option value="http://www.escentual.com/lalique/">Lalique</option>
                             <option value="http://www.escentual.com/lancome/">Lancôme</option>
                             <option value="http://www.escentual.com/lanvin/">Lanvin</option>
+                            <option value="http://www.escentual.com/laura-geller/">Laura Geller</option>
                             <option value="http://www.escentual.com/le-jardins-decrivains/">Jardins D'Ecrivains</option>
                             <option value="http://www.escentual.com/le-soft-perfume/">Le Soft Perfume</option>
                             <option value="http://www.escentual.com/lee-cooper-originals/">Lee Cooper Originals</option>
@@ -245,7 +250,6 @@ optionalZipCountries = ["IE"];
                             <option value="http://www.escentual.com/mark-buxton/">Mark Buxton</option>
                             <option value="http://www.escentual.com/marni/">Marni</option>
                             <option value="http://www.escentual.com/mason-pearson-brushes/">Mason Pearson Brushes</option>
-                            <option value="http://www.escentual.com/methode-jeanne-piaubert/">Methode Jeanne Piaubert</option>
                             <option value="http://www.escentual.com/michael-kors/">Michael Kors</option>
                             <option value="http://www.escentual.com/miller-harris/">Miller Harris</option>
                             <option value="http://www.escentual.com/mister-mascara/">Mister Mascara</option>
@@ -255,7 +259,6 @@ optionalZipCountries = ["IE"];
                             <option value="http://www.escentual.com/nailtiques/">Nailtiques</option>
                             <option value="http://www.escentual.com/narciso-rodriguez/">Narciso Rodriguez</option>
                             <option value="http://www.escentual.com/nesti-dante/">Nesti Dante</option>
-                            <option value="http://www.escentual.com/nickel/">Nickel</option>
                             <option value="http://www.escentual.com/nina-ricci/">Nina Ricci</option>
                             <option value="http://www.escentual.com/nuxe/">Nuxe</option>
                             <option value="http://www.escentual.com/ojon/">Ojon</option>
@@ -278,13 +281,14 @@ optionalZipCountries = ["IE"];
                             <option value="http://www.escentual.com/ralph-lauren/">Ralph Lauren</option>
                             <option value="http://www.escentual.com/rapid/">Rapid</option>
                             <option value="http://www.escentual.com/real-techniques/">Real Techniques</option>
+                            <option value="http://www.escentual.com/regenerate/">Regenerate</option>
                             <option value="http://www.escentual.com/ren/">REN</option>
                             <option value="http://www.escentual.com/rene-furterer/">Rene Furterer</option>
                             <option value="http://www.escentual.com/rihanna/">Rihanna</option>
                             <option value="http://www.escentual.com/roberto-cavalli/">Roberto Cavalli</option>
                             <option value="http://www.escentual.com/roger-and-gallet/">Roger &amp; Gallet</option>
+                            <option value="http://www.escentual.com/roloxin-lift/">Roloxin Lift</option>
                             <option value="http://www.escentual.com/salvatore-ferragamo/">Salvatore Ferragamo</option>
-                            <option value="http://www.escentual.com/sarah-jessica-parker/">Sarah Jessica Parker</option>
                             <option value="http://www.escentual.com/schwarzkopf-professional/">Schwarzkopf Professional</option>
                             <option value="http://www.escentual.com/serge-lutens/">Serge Lutens</option>
                             <option value="http://www.escentual.com/sexy-hair/">Sexy Hair</option>
@@ -297,6 +301,7 @@ optionalZipCountries = ["IE"];
                             <option value="http://www.escentual.com/swissdent-dental-cosmetics/">Swissdent Dental Cosmetics</option>
                             <option value="http://www.escentual.com/tabac/">TABAC</option>
                             <option value="http://www.escentual.com/tanda/">Tanda</option>
+                            <option value="http://www.escentual.com/tangle-teezer/">Tangle Teezer</option>
                             <option value="http://www.escentual.com/taylor-swift/">Taylor Swift</option>
                             <option value="http://www.escentual.com/terry-de-gunzburg/">Terry de Gunzburg</option>
                             <option value="http://www.escentual.com/the-party-fragrance/">The Party Fragrance</option>
@@ -307,6 +312,7 @@ optionalZipCountries = ["IE"];
                             <option value="http://www.escentual.com/tommy-hilfiger/">Tommy Hilfiger</option>
                             <option value="http://www.escentual.com/too-faced/">Too Faced</option>
                             <option value="http://www.escentual.com/travalo/">Travalo</option>
+                            <option value="http://www.escentual.com/trussardi/">Trussardi</option>
                             <option value="http://www.escentual.com/ultrasun/">Ultrasun</option>
                             <option value="http://www.escentual.com/undergreen/">Undergreen</option>
                             <option value="http://www.escentual.com/valentino/">Valentino</option>
@@ -358,13 +364,13 @@ optionalZipCountries = ["IE"];
 	        	    </div>
 	    <nav class="nav-container">
     <ul id="nav" class="css-nav">
-        <li class="level0 nav-1 first level-top"><a href="http://www.escentual.com/brands/" class="level-top"><span>Brands A - Z</span></a></li><li class="level0 nav-2 level-top parent"><a href="http://www.escentual.com/fragrance/" class="level-top"><span>Fragrance</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-2-1 first"><a href="http://www.escentual.com/fragrance/all-fragrance/"><span>All Fragrances</span></a></li><li class="level1 nav-2-2"><a href="http://www.escentual.com/fragrance/for-women/"><span>For Women</span></a></li><li class="level1 nav-2-3"><a href="http://www.escentual.com/fragrance/for-men/"><span>For Men</span></a></li><li class="level1 nav-2-4"><a href="http://www.escentual.com/fragrance/summer-editions/"><span>Summer Editions</span></a></li><li class="level1 nav-2-5"><a href="http://www.escentual.com/fragrance/sport-fragrances/"><span>Sport Fragrances</span></a></li><li class="level1 nav-2-6"><a href="http://www.escentual.com/fragrance/celebrity-fragrances/"><span>Celebrity Fragrances</span></a></li><li class="level1 nav-2-7"><a href="http://www.escentual.com/fragrance/niche-fragrances/"><span>Niche Fragrances</span></a></li><li class="level1 nav-2-8"><a href="http://www.escentual.com/fragrance/gift-sets/"><span>Gift Sets</span></a></li></ul><ul><li class="level1 nav-2-9"><a href="http://www.escentual.com/fragrance/body-products/"><span>Fragrance Body Products</span></a></li><li class="level1 nav-2-10"><a href="http://www.escentual.com/fragrance/shaving/"><span>Shaving</span></a></li><li class="level1 nav-2-11"><a href="http://www.escentual.com/fragrance/oils/"><span>Oils</span></a></li><li class="level1 nav-2-12 last"><a href="http://www.escentual.com/fragrance/for-home/"><span>For Home</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/yves-saint-laurent/">Yves Saint Laurent</a></li>
+        <li class="level0 nav-1 first level-top"><a href="http://www.escentual.com/brands/" class="level-top"><span>Brands A - Z</span></a></li><li class="level0 nav-2 level-top parent"><a href="http://www.escentual.com/fragrance/" class="level-top"><span>Fragrance</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-2-1 first"><a href="http://www.escentual.com/fragrance/all-fragrance/"><span>All Fragrances</span></a></li><li class="level1 nav-2-2"><a href="http://www.escentual.com/fragrance/for-women/"><span>For Women</span></a></li><li class="level1 nav-2-3"><a href="http://www.escentual.com/fragrance/for-men/"><span>For Men</span></a></li><li class="level1 nav-2-4"><a href="http://www.escentual.com/fragrance/summer-editions/"><span>Summer Editions</span></a></li><li class="level1 nav-2-5"><a href="http://www.escentual.com/fragrance/sport-fragrances/"><span>Sport Fragrances</span></a></li><li class="level1 nav-2-6"><a href="http://www.escentual.com/fragrance/celebrity-fragrances/"><span>Celebrity Fragrances</span></a></li><li class="level1 nav-2-7"><a href="http://www.escentual.com/fragrance/niche-fragrances/"><span>Niche Fragrances</span></a></li><li class="level1 nav-2-8"><a href="http://www.escentual.com/fragrance/gift-sets/"><span>Gift Sets</span></a></li></ul><ul><li class="level1 nav-2-9"><a href="http://www.escentual.com/fragrance/body-products/"><span>Fragrance Body Products</span></a></li><li class="level1 nav-2-10"><a href="http://www.escentual.com/fragrance/shaving/"><span>Shaving</span></a></li><li class="level1 nav-2-11"><a href="http://www.escentual.com/fragrance/oils/"><span>Oils</span></a></li><li class="level1 nav-2-12 last"><a href="http://www.escentual.com/fragrance/for-home/"><span>For Home</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/paco-rabanne/">Paco Rabanne</a></li>
+<li><a href="http://www.escentual.com/yves-saint-laurent/">Yves Saint Laurent</a></li>
 <li><a href="http://www.escentual.com/aramis/">Aramis</a></li>
-<li><a href="http://www.escentual.com/giorgio-armani/">Giorgio Armani</a></li>
 <li><a href="http://www.escentual.com/donna-karan/">Donna Karan</a></li>
-<li><a href="http://www.escentual.com/valentino/">Valentino</a></li>
-<li><a href="http://www.escentual.com/roger-and-gallet/">Roger &amp; Gallet</a></li>
-<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs fragrance"><a href="/fragrance/for-men/" title="25% off men's fragrance. Use code: DAD25" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/fathers-day/2015/tlc/dad25.jpg);"></a></li>
+<li><a href="http://www.escentual.com/dkny/">DKNY</a></li>
+<li><a href="http://www.escentual.com/giorgio-armani/">Giorgio Armani</a></li>
+<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs fragrance"><a href="/paco-rabanne/olympea/" title="Paco Rabanne Olympea" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/2015-august/fragrance.jpg);"></a></li>
                         <li class="nav-sub-promo">
                             <div class="summer-sale-message" style="color: #fff">
   Free UK delivery available on orders over £30!
@@ -387,7 +393,7 @@ optionalZipCountries = ["IE"];
 
   <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/nuxe/"><span>Nuxe</span></a></span>
 </li>
-<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs skincare"><a href="/la-roche-posay/serozinc/" title="La Roche-Posay Serozinc" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/french-pharmacy/2015/june/tlc/skincare.jpg);"></a></li>
+<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs skincare"><a href="/givenchy/skincare/vaxin/" title="Givenchy Vax'in" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/2015-august/skincare.jpg);"></a></li>
                         <li class="nav-sub-promo">
                             <div class="summer-sale-message" style="color: #fff">
   Free UK delivery available on orders over £30!
@@ -410,7 +416,7 @@ optionalZipCountries = ["IE"];
 
   <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/schwarzkopf-professional/"><span>Schwarzkopf Professional</span></a></span>
 </li>
-<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs hair-care"><a href="/klorane/" title="Klorane" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/french-pharmacy/2015/june/tlc/hair-care.jpg);"></a></li>
+<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs hair-care"><a href="/schwarzkopf-professional/" title="Schwarzkopf Professional" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/2015-august/haircare.jpg);"></a></li>
                         <li class="nav-sub-promo">
                             <div class="summer-sale-message" style="color: #fff">
   Free UK delivery available on orders over £30!
@@ -433,7 +439,7 @@ optionalZipCountries = ["IE"];
 
   <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/michael-kors/"><span>Michael Kors</span></a></span>
 </li>
-<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs make-up"><a href="/givenchy/make-up/summer-look/" title="Givenchy Summer Look" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/2015-may/tlc/makeup.jpg);"></a></li>
+<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs make-up"><a href="/guerlain/make-up/autumn-look/" title="Guerlain Autumn 2015" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/2015-august/makeup.jpg);"></a></li>
                         <li class="nav-sub-promo">
                             <div class="summer-sale-message" style="color: #fff">
   Free UK delivery available on orders over £30!
@@ -456,40 +462,40 @@ optionalZipCountries = ["IE"];
 
   <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/vichy/"><span>Vichy</span></a></span>
 </li>
-<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs bath-and-shower"><a href="/bioderma/atoderm/" title="Bioderma Atoderm" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/french-pharmacy/2015/june/tlc/bath-and-shower.jpg);"></a></li>
+<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs bath-and-shower"><a href="/acqua-di-parma/" title="Acqua Di Parma" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/2015-july/tlc/bath-and-shower.jpg);"></a></li>
                         <li class="nav-sub-promo">
                             <div class="summer-sale-message" style="color: #fff">
   Free UK delivery available on orders over £30!
 </div>
-                        </li></ul></li><li class="level0 nav-7 level-top parent"><a href="http://www.escentual.com/sun/" class="level-top"><span>Sun</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-7-1 first"><a href="http://www.escentual.com/sun/all-sun/"><span>All Sun</span></a></li><li class="level1 nav-7-2"><a href="http://www.escentual.com/sun/sun-protection/"><span>Sun Protection</span></a></li><li class="level1 nav-7-3"><a href="http://www.escentual.com/sun/after-sun/"><span>After-Sun</span></a></li><li class="level1 nav-7-4"><a href="http://www.escentual.com/sun/self-tan/"><span>Self Tan</span></a></li><li class="level1 nav-7-5"><a href="http://www.escentual.com/sun/preparation/"><span>Tan Preparation</span></a></li><li class="level1 nav-7-6"><a href="http://www.escentual.com/sun/wash-off/"><span>Wash-Off Tan</span></a></li><li class="level1 nav-7-7"><a href="http://www.escentual.com/sun/bronzing/"><span>Bronzing</span></a></li><li class="level1 nav-7-8 last"><a href="http://www.escentual.com/sun/accessories/"><span>Tanning Accessories</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/la-roche-posay/">La Roche-Posay</a></li>
+                        </li></ul></li><li class="level0 nav-7 level-top parent"><a href="http://www.escentual.com/sun/" class="level-top"><span>Sun</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-7-1 first"><a href="http://www.escentual.com/sun/all-sun/"><span>All Sun</span></a></li><li class="level1 nav-7-2"><a href="http://www.escentual.com/sun/sun-protection/"><span>Sun Protection</span></a></li><li class="level1 nav-7-3"><a href="http://www.escentual.com/sun/after-sun/"><span>After-Sun</span></a></li><li class="level1 nav-7-4"><a href="http://www.escentual.com/sun/self-tan/"><span>Self Tan</span></a></li><li class="level1 nav-7-5"><a href="http://www.escentual.com/sun/preparation/"><span>Tan Preparation</span></a></li><li class="level1 nav-7-6 last"><a href="http://www.escentual.com/sun/wash-off/"><span>Wash-Off Tan</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/la-roche-posay/">La Roche-Posay</a></li>
 <li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
-<li><a href="http://www.escentual.com/avene/">Avene</a></li>
 <li><a href="http://www.escentual.com/ultrasun/">Ultrasun</a></li>
-<li><a href="http://www.escentual.com/vichy/">Vichy</a></li>
 <li><a href="http://www.escentual.com/bioderma/">Bioderma</a></li>
-<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs sun"><a href="/la-roche-posay/anthelios/" title="La Roche-Posay Anthelios" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/french-pharmacy/2015/june/tlc/sun.jpg);"></a></li>
+<li><a href="http://www.escentual.com/vichy/">Vichy</a></li>
+<li><a href="http://www.escentual.com/avene/">Avene</a></li>
+<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs sun"><a href="/institut-esthederm/suncare/" title="Institut Esthederm" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/2015-july/tlc/suncare.jpg);"></a></li>
                         <li class="nav-sub-promo">
                             <div class="summer-sale-message" style="color: #fff">
   Free UK delivery available on orders over £30!
 </div>
                         </li></ul></li><li class="level0 nav-8 level-top parent"><a href="http://www.escentual.com/men/" class="level-top"><span>Men</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-8-1 first"><a href="http://www.escentual.com/men/all-men/"><span>All Men</span></a></li><li class="level1 nav-8-2"><a href="http://www.escentual.com/men/fragrance/"><span>Fragrance</span></a></li><li class="level1 nav-8-3"><a href="http://www.escentual.com/men/hair-care/"><span>Hair Care</span></a></li><li class="level1 nav-8-4"><a href="http://www.escentual.com/men/skincare/"><span>Skin Care</span></a></li><li class="level1 nav-8-5"><a href="http://www.escentual.com/men/shaving/"><span>Shaving</span></a></li><li class="level1 nav-8-6"><a href="http://www.escentual.com/men/body-and-shower/"><span>Shower</span></a></li><li class="level1 nav-8-7"><a href="http://www.escentual.com/men/deodorants/"><span>Deodorants</span></a></li><li class="level1 nav-8-8"><a href="http://www.escentual.com/men/men-body/"><span>Body</span></a></li></ul><ul><li class="level1 nav-8-9"><a href="http://www.escentual.com/men/cosmetics/"><span>Cosmetics</span></a></li><li class="level1 nav-8-10 last"><a href="http://www.escentual.com/men/gift-sets/"><span>Gift Sets</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/aramis/">Aramis</a></li>
-<li><a href="http://www.escentual.com/vichy/">Vichy</a></li>
 <li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
-<li><a href="http://www.escentual.com/thierry-mugler/">Thierry Mugler</a></li>
-<li><a href="http://www.escentual.com/valentino/">Valentino</a></li>
+<li><a href="http://www.escentual.com/prada/">Prada</a></li>
+<li><a href="http://www.escentual.com/vichy/">Vichy</a></li>
 <li><a href="http://www.escentual.com/roger-and-gallet/">Roger &amp; Gallet</a></li>
-<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs men"><a href="/fragrance/for-men/" title="25% off men's fragrance. Use code: DAD25" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/fathers-day/2015/tlc/dad25.jpg);"></a></li>
+<li><a href="http://www.escentual.com/ralph-lauren/">Ralph Lauren</a></li>
+<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs men"><a href="/burberry/brit/splash/britsplash03/" title="Burberry Brit Splash" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/2015-august/men.jpg);"></a></li>
                         <li class="nav-sub-promo">
                             <div class="summer-sale-message" style="color: #fff">
   Free UK delivery available on orders over £30!
 </div>
-                        </li></ul></li><li class="level0 nav-9 level-top parent"><a href="http://www.escentual.com/gifts/" class="level-top"><span>Gifts</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-9-1 first"><a href="http://www.escentual.com/gifts/all-gifts/"><span>All Gifts</span></a></li><li class="level1 nav-9-2"><a href="http://www.escentual.com/gifts/for-her/"><span>For Her</span></a></li><li class="level1 nav-9-3"><a href="http://www.escentual.com/gifts/for-him/"><span>For Him</span></a></li><li class="level1 nav-9-4"><a href="http://www.escentual.com/gifts/for-teens/"><span>For Teens</span></a></li><li class="level1 nav-9-5"><a href="http://www.escentual.com/gifts/for-home/"><span>For Home</span></a></li><li class="level1 nav-9-6"><a href="http://www.escentual.com/gifts/indulgent-gifts/"><span>Indulgent Gifts</span></a></li><li class="level1 nav-9-7"><a href="http://www.escentual.com/gifts/budget-gifts/"><span>Budget Gifts</span></a></li><li class="level1 nav-9-8"><a href="http://www.escentual.com/gifts/fragrance-gift-sets/"><span>Fragrance Gift Sets</span></a></li></ul><ul><li class="level1 nav-9-9"><a href="http://www.escentual.com/gifts/skincare-gift-sets/"><span>Skincare Gift Sets</span></a></li><li class="level1 nav-9-10"><a href="http://www.escentual.com/gifts/makeup-gift-sets/"><span>Makeup Gift Sets</span></a></li><li class="level1 nav-9-11"><a href="http://www.escentual.com/gifts/all-gift-sets/"><span>All Gift Sets</span></a></li><li class="level1 nav-9-12 last"><a href="http://www.escentual.com/gifts/fathers-day/"><span>Father's Day</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/crabtree-and-evelyn/">Crabtree &amp; Evelyn</a></li>
+                        </li></ul></li><li class="level0 nav-9 level-top parent"><a href="http://www.escentual.com/gifts/" class="level-top"><span>Gifts</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-9-1 first"><a href="http://www.escentual.com/gifts/all-gifts/"><span>All Gifts</span></a></li><li class="level1 nav-9-2"><a href="http://www.escentual.com/gifts/for-her/"><span>For Her</span></a></li><li class="level1 nav-9-3"><a href="http://www.escentual.com/gifts/for-him/"><span>For Him</span></a></li><li class="level1 nav-9-4"><a href="http://www.escentual.com/gifts/for-teens/"><span>For Teens</span></a></li><li class="level1 nav-9-5"><a href="http://www.escentual.com/gifts/for-home/"><span>For Home</span></a></li><li class="level1 nav-9-6"><a href="http://www.escentual.com/gifts/indulgent-gifts/"><span>Indulgent Gifts</span></a></li><li class="level1 nav-9-7"><a href="http://www.escentual.com/gifts/budget-gifts/"><span>Budget Gifts</span></a></li><li class="level1 nav-9-8"><a href="http://www.escentual.com/gifts/fragrance-gift-sets/"><span>Fragrance Gift Sets</span></a></li></ul><ul><li class="level1 nav-9-9"><a href="http://www.escentual.com/gifts/skincare-gift-sets/"><span>Skincare Gift Sets</span></a></li><li class="level1 nav-9-10"><a href="http://www.escentual.com/gifts/makeup-gift-sets/"><span>Makeup Gift Sets</span></a></li><li class="level1 nav-9-11 last"><a href="http://www.escentual.com/gifts/all-gift-sets/"><span>All Gift Sets</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/crabtree-and-evelyn/">Crabtree &amp; Evelyn</a></li>
 <li><a href="http://www.escentual.com/nuxe/">Nuxe</a></li>
+<li><a href="http://www.escentual.com/paco-rabanne/">Paco Rabanne</a></li>
 <li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
 <li><a href="http://www.escentual.com/aramis/">Aramis</a></li>
 <li><a href="http://www.escentual.com/anna-sui/">Anna Sui</a></li>
-<li><a href="http://www.escentual.com/mister-mascara/">Mister Mascara</a></li>
-<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs gifts"><a href="/gifts/fathers-day/" title="The Father's Day Edit" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/fathers-day/2015/tlc/gifts.jpg);"></a></li>
+<li>-</li><li><a href="/brands/">All Brands A-Z</a></li></ul></li><li class="nav-sub-rhs gifts"><a href="/gifts/all-gift-sets/" title="Great value gift sets" style="width: 283px; height: 339px; display: block; background-image:url(http://static.escentual.com/frontend/escentual/default/promotions/2015-may/tlc/gifts.jpg);"></a></li>
                         <li class="nav-sub-promo">
                             <div class="summer-sale-message" style="color: #fff">
   Free UK delivery available on orders over £30!
@@ -497,9 +503,7 @@ optionalZipCountries = ["IE"];
                         </li></ul></li><li class="level0 nav-10 last level-top"><a href="http://www.escentual.com/offers/" class="level-top"><span>Offers</span></a></li>    </ul>
 </nav>
 	    <div class="top-bar">
-	    		    	<div class="cms-header-text default">
-  <a class="a-icon a-icon-left" href="/fragrance/for-men/"><strong>25% OFF RRP ON All MEN'S FRAGRANCE!</strong> - Use code: DAD25 (ends 16:30 Friday)</a>
-</div>
+	    		    	
 
 <div class="cms-header-text default">
   <a class="a-icon a-icon-left" href="/help-and-advice/customer-services/delivery-info/#deliveryuk"><strong>FREE</strong> UK DELIVERY AVAILABLE ON ORDERS OVER <strong>£30!</strong></a>
@@ -557,20 +561,23 @@ optionalZipCountries = ["IE"];
         <div class="main-container col2-left-layout">
             <div class="main">
                 <div class="breadcrumbs">
-    <ul>
-                    <li class="home">
-                            <a href="http://www.escentual.com/" title="Go to Home Page">Home</a>
+    <ul itemscope="" itemtype="http://schema.org/BreadcrumbList">
+                                        <li class="home" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="http://www.escentual.com/" title="Go to Home Page"><span itemprop="name">Home</span></a>
+                <meta itemprop="position" content="1">
                                         <span>&gt; </span>
                         </li>
-                    <li class="category704">
-                            <a href="http://www.escentual.com/help-and-advice/" title="">Help &amp; Advice</a>
+                                <li class="category704" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="http://www.escentual.com/help-and-advice/" title=""><span itemprop="name">Help &amp; Advice</span></a>
+                <meta itemprop="position" content="2">
                                         <span>&gt; </span>
                         </li>
-                    <li class="category705">
-                            <a href="http://www.escentual.com/help-and-advice/about/" title="">About Escentual</a>
+                                <li class="category705" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                            <a itemprop="item" href="http://www.escentual.com/help-and-advice/about/" title=""><span itemprop="name">About Escentual</span></a>
+                <meta itemprop="position" content="3">
                                         <span>&gt; </span>
                         </li>
-                    <li class="category3714">
+                                <li class="category3714">
                             <strong>Privacy Statement</strong>
                                     </li>
             </ul>
@@ -1075,6 +1082,6 @@ var google_remarketing_only = true;
     s.parentNode.insertBefore(gts, s);
   })();
 </script>
-<!-- END: Google Certified Shops --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"736409758d","applicationID":"3388034","transactionName":"NVxUY0pUV0dSWxBeWwwWd1RMXFZaHFsFQ1UOVlEYW1RNUVRXFk4bFFBTQA==","queueTime":0,"applicationTime":178,"atts":"GRtXFQJOREk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
+<!-- END: Google Certified Shops --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"736409758d","applicationID":"3388034","transactionName":"NVxUY0pUV0dSWxBeWwwWd1RMXFZaHFsFQ1UOVlEYW1RNUVRXFk4bFFBTQA==","queueTime":0,"applicationTime":201,"atts":"GRtXFQJOREk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 
 </body></html>
