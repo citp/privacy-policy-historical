@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premeditatedleftovers.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315070117id_/http%3A//premeditatedleftovers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premeditatedleftovers.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908034359id_/http%3A//premeditatedleftovers.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Premeditated Leftovers
 
@@ -58,12 +58,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Premeditated Leftovers
-
-http://premeditatedleftovers.com/
-
+Premeditated Leftovers  
+http://premeditatedleftovers.com/  
 aleasleftovers@gmail.com
 
 This document was last updated on October 29, 2013.
 
 Privacy policy created by Generate Privacy Policy
+
+[Yum](https://yummly.com/)
