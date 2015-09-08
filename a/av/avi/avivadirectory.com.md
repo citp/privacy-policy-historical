@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avivadirectory.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316140327id_/http%3A//www.avivadirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avivadirectory.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908105708id_/http%3A//www.avivadirectory.com/privacy.php) for the most accurate reproduction.*
 
 # Directory | Add Url or Add Site to Submit to Aviva Web Directory
 
