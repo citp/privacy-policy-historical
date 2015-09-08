@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessorize.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103038id_/http%3A//uk.accessorize.com/view/content/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessorize.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908145216id_/http%3A//uk.accessorize.com/view/content/security-and-privacy) for the most accurate reproduction.*
 
 # 
 
@@ -20,7 +20,7 @@ Back to top ^
 What are cookies?  
 Like the majority of websites, Monsoon.co.uk and Accessorize.com use cookies. Cookies are messages stored by your web browser as text files that pass information back to web servers every time the browser requests a page from the server.
 
-Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete Monsoon and Accessoirze cookies having visited the site. Alternatively, you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.) or opt out of cookies using the links below (where possible).
+Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete Monsoon and Accessorize cookies having visited the site. Alternatively, you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.) or opt out of cookies using the links below (where possible).
 
 If you are not familiar with cookies, how to control them or how to delete them, we recommend you visit <http://www.aboutcookies.org/> for further information.
 
