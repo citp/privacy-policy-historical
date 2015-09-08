@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atlantic.net privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110010712id_/http%3A//www.atlantic.net/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantic.net privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908042322id_/https%3A//www.atlantic.net/service-policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Atlantic.Net
+# Privacy Policy
 
 Atlantic.Net, Inc. (herein referred to as “Atlantic.Net) values your business, respects your privacy, and is committed to maintaining the integrity and confidentiality of the personal data we collect. The following explains our compilation methodology and management of your private information.  When you provide your personal information to Atlantic.Net you are consenting to and accepting to the terms of this Privacy Statement.
 
