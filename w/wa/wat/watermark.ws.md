@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the watermark.ws privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318094220id_/https%3A//www.watermark.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watermark.ws privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908022325id_/https%3A//www.watermark.ws/privacy) for the most accurate reproduction.*
 
-# Watermark - Privacy Policy
+# Privacy Policy - Watermark.ws
 
 Watermark.ws reserves the right to revise this policy at any time without notification to you, so please re-read it often in connection with your use of the Watermark.ws website. 
 
+### Your photos and documents at Watermark.
+
+All photos and documents you upload to Watermark are private and protected. Watermark does not obtain any legal rights to share or distribute your photos. You hold 100% ownership of your photos. Only you have access to your account and the photos you store in your account. Watermark is merely an online service that allows you to modify your photos to protect your authenticity. We use the highest form of security to protect all of our user accounts. 
+
 ### Your personal information at Watermark.ws
 
-We will never share your e-mail address or other identifiable information with any third party without your explicit consent. The following legal document will dictate how we will handle this information.
+We will never share your e-mail address or other identifiable information with any third party without your explicit consent. The following legal document will dictate how we will handle this information. 
 
-This [Privacy Policy](https://www.watermark.ws/privacy) together with our [Terms of Service](https://www.watermark.ws/terms) sets out how Watermark.ws will use any personal data we collect from you, or you provide to us during your use of our online services ("Watermark.ws" or the "website").
+This [Privacy Policy](https://www.watermark.ws/privacy) together with our [Terms of Service](https://www.watermark.ws/terms) sets out how Watermark.ws will use any personal data we collect from you, or you provide to us during your use of our online services ("Watermark.ws" or the "website"). 
 
-We respect the privacy of every individual who visits the website. Our policy on the collection and use of personal information is outlined below.
+We respect the privacy of every individual who visits the website. Our policy on the collection and use of personal information is outlined below. 
 
 We will only disclose your information without your authorization in the following situations: 
 
