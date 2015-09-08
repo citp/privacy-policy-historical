@@ -1,22 +1,23 @@
-<!--The following is the downloaded HTML source of the boundless.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315030648id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boundless.com privacy policy that was archived on 2015-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908103447id_/https%3A//www.boundless.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="not-ie"><!-- <![endif]--><head>
 
-<script type="text/javascript" async="" src="https://px.owneriq.net/stas/s/bound.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/dv5j6lr4ku/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"1100fa27d5","applicationID":"820695","transactionName":"cgsNEkpfVFhcRRgLUEMPBhJRXl8bSkNWElhSF0wWSllOVVpO","queueTime":2,"applicationTime":62,"agent":"js-agent.newrelic.com/nr-593.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYEWVJTGwsCVFdbAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="https://px.owneriq.net/stas/s/bound.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/dv5j6lr4ku/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2d4f7e7bad","applicationID":"8953552","transactionName":"IFdcREJZCV1dExteVhFTV0RZWAIeSxVVR14ASx1AQl8TUFsY","queueTime":4,"applicationTime":44,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Uw4HV1BXGwsJUVJXAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
 <meta charset="utf-8">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
 <!-- Icons -->
-<link href="https://assets.boundless.com/assets/favicon-0aa61506c287fe4b1fe743f203895ea2.png" rel="shortcut icon">
-<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-57-a98f38590c5692cadf62ca5d6bd381f1.png" rel="apple-touch-icon">
-<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-57-a98f38590c5692cadf62ca5d6bd381f1.png" rel="apple-touch-icon-precomposed">
-<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-72-420bf9f0bac36ccad0d716469ee07250.png" rel="apple-touch-icon" sizes="72x72">
-<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-114-c24ee1d26e081010ae6d76730d9157e0.png" rel="apple-touch-icon" sizes="114x114">
-<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-144-7abca9ae351a76f99901dddbdd47ef79.png" rel="apple-touch-icon" sizes="144x144">
-<meta content="authenticity_token" name="csrf-param">
-<meta content="tM6awrxysCOYunJWU/lUanBzQODNNUYybWSC9H3ejLs=" name="csrf-token">
+<link href="https://assets.boundless.com/assets/favicon-27d597ea49aad146c961f699d7bea71e.png" rel="shortcut icon">
+<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-57-df3f129a09c63886788c3a59b7b325cc.png" rel="apple-touch-icon">
+<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-57-df3f129a09c63886788c3a59b7b325cc.png" rel="apple-touch-icon-precomposed">
+<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-72-71cfafe494167f970843146c0a7486c3.png" rel="apple-touch-icon" sizes="72x72">
+<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-114-487c148fba9ff64bd4eaaf6db026a00e.png" rel="apple-touch-icon" sizes="114x114">
+<link href="https://assets.boundless.com/assets/touch_icons/apple-touch-icon-144-f6c493b4c19d10d30b84858e6e5bfc27.png" rel="apple-touch-icon" sizes="144x144">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="eHAX+tJ4QCOBUlZijStOAjoH6iB0Sd9dHlbInvhh+qyYgaJyd5s5UZSxDluo9PnrCg8VVFvOoedk5UwpQ4sVlQ==">
 <!-- iOS App Reference -->
-<meta content="app-id=661340407" name="apple-itunes-app">
 <!-- Stripe -->
 <meta content="pk_Y0xOTxNRUMiV2gwrFLF0NoJjeaeCg" name="stripe-key">
 <!-- Chrome frame -->
@@ -32,15 +33,16 @@
   window.analytics.load("dv5j6lr4ku");
   window.analytics.page();
 </script>
-<link href="https://assets.boundless.com/assets/global/common/julia-59570f05e6160c78c79bcc20d992d736.css" media="screen" rel="stylesheet">
-<link debug="false" href="https://assets.boundless.com/assets/marketing/marketing_common-2cec4b355f581d4568a4592fcf771f67.css" media="all" rel="stylesheet">
-<link debug="false" href="https://assets.boundless.com/assets/marketing/marketing-21085e4f5e9a23668a14f483c6ccc77d.css" media="all" rel="stylesheet">
+<link rel="stylesheet" media="screen" href="https://assets.boundless.com/assets/global/common/julia-a48a173d346da6c5903ede996bbafc23.css">
+<link rel="stylesheet" media="all" href="https://assets.boundless.com/assets/marketing/marketing_common-e7e0e164807bbd90ff73d944ecfdb1f6.css" debug="false">
+<link rel="stylesheet" media="all" href="https://assets.boundless.com/assets/marketing/marketing-62a9ed6456a299830c02e074117cc61e.css" debug="false">
 
 <meta content="width=320.1, user-scalable=0, initial-scale=1, minimal-ui" name="viewport">
 
 <script>
   window.PageData = window.PageData || {};
-  PageData['experiments'] = [{"id":1,"key":"sneak_week1","variants":[{"id":1,"key":"0","weight":1},{"id":2,"key":"1","weight":1}]},{"id":2,"key":"sneak_week2","variants":[{"id":3,"key":"Assign Concept Reading","weight":1},{"id":4,"key":"Assign to Your Class","weight":1}]},{"id":3,"key":"sneak_week4","variants":[{"id":5,"key":"clicked_assign","weight":1},{"id":6,"key":"clicked_explore","weight":1},{"id":7,"key":"clicked_read","weight":1}]},{"id":4,"key":"sneak_assign_popover","variants":[{"id":8,"key":"original","weight":1},{"id":9,"key":"popover","weight":1}]},{"id":5,"key":"sneak_chapter_page","variants":[{"id":10,"key":"original","weight":1},{"id":11,"key":"with_assign_buttons","weight":1}]},{"id":6,"key":"editor_orientation","variants":[{"id":12,"key":"leave_your_mark","weight":1},{"id":13,"key":"join_our_cause","weight":1}]}];
+  // A/B testing experiments
+  PageData['experiments'] = [{"id":1,"key":"sneak_week1","variants":[{"id":1,"key":"0","weight":1},{"id":2,"key":"1","weight":1}]},{"id":2,"key":"sneak_week2","variants":[{"id":3,"key":"Assign Concept Reading","weight":1},{"id":4,"key":"Assign to Your Class","weight":1}]},{"id":3,"key":"sneak_week4","variants":[{"id":5,"key":"clicked_assign","weight":1},{"id":6,"key":"clicked_explore","weight":1},{"id":7,"key":"clicked_read","weight":1}]},{"id":4,"key":"sneak_assign_popover","variants":[{"id":8,"key":"original","weight":1},{"id":9,"key":"popover","weight":1}]},{"id":5,"key":"sneak_chapter_page","variants":[{"id":10,"key":"original","weight":1},{"id":11,"key":"with_assign_buttons","weight":1}]},{"id":6,"key":"editor_orientation","variants":[{"id":12,"key":"leave_your_mark","weight":1},{"id":13,"key":"join_our_cause","weight":1}]},{"id":7,"key":"editor","variants":[{"id":14,"key":"show_orientation","weight":1},{"id":15,"key":"normal","weight":1}]},{"id":8,"key":"feedback_type","variants":[{"id":16,"key":"show","weight":1},{"id":17,"key":"hide","weight":1}]},{"id":9,"key":"anonymous_assignments","variants":[{"id":18,"key":"original","weight":1},{"id":19,"key":"anonymous","weight":1}]},{"id":10,"key":"sneak_concept_footer","variants":[{"id":20,"key":"original","weight":1},{"id":21,"key":"updated_footer","weight":1}]},{"id":11,"key":"educator_pricing_matrix","variants":[{"id":22,"key":"limit_assignments","weight":1},{"id":23,"key":"limit_time","weight":1}]}];
 </script>
 </head>
 <body class="not-logged-in in-marketing-site marketing-layout-f13 marketing-statics privacy marketing-statics-privacy
@@ -48,8 +50,9 @@
 
 <!-- /This haml is based on a "half implementation" of header features. See TODO items below for -->
 <!-- /placeholders that will be used once the header is fully implemented. https://trello.com/c/SsmKHIvU -->
-<header class="navbar" id="header">
+<header class="fw_header navbar" id="header">
 <div class="rainbow-road"></div>
+<div class="viewport-padding">
 <nav class="navbar-inner navbar__first">
 <div class="navbar__first__left">
 <a class="navbar__app-zone navbar__app-zone__main" href="/"><div class="navbar__app-zone navbar__app-zone__main">
@@ -69,7 +72,7 @@
 <div class="navbar__first__middle-floats">
 <!-- /The "middle floats" are the menu items that get collapsed into the hamburger, and/or moved to the -->
 <!-- /navbar__second level for mobile screens -->
-<div class="navbar__middle-floats clearfix">
+<div class="navbar__middle-floats">
 <form action="/search/">
 <div class="navbar__search__input__wrap">
 <input class="navbar__search__input" name="q" type="text">
@@ -78,10 +81,11 @@
 <input id="header-search-filter" name="filter" type="hidden" value="books,concepts,quizzes,questions,issues,profiles">
 </form>
 <div class="navbar__destination-item navbar__middle-floats__item navbar__subjects">
-<div class="navbar__item-label">
+<div class="navbar__destination-item__inner">
+<a data-push="true" href="/subjects/"><div class="navbar__item-label">
 Subjects
 </div>
-<div class="navbar__dropdown__cta">
+</a><div class="navbar__dropdown__cta">
 <i class="icon-caret-right"></i>
 <div class="navbar__dropdown navbar__subjects__dropdown">
 <div class="navbar__dropdown__triangle"></div>
@@ -118,6 +122,14 @@ Subjects
 </ul>
 </div>
 </div>
+</div>
+</div>
+<div class="navbar__contribute navbar__destination-item navbar__middle-floats__item">
+<div class="navbar__destination-item__inner">
+<a data-push="true" data-track="Header:clicked_contribute" href="/issues/"><div class="navbar__item-label">
+Contribute
+</div>
+</a></div>
 </div>
 </div>
 
@@ -127,18 +139,19 @@ Subjects
 <i class="icon-reorder navbar__icon"></i>
 </div>
 <div class="navbar__login">
-<a class="header__sign-up-link navbar__login__link" data-popup="register" data-redirect-reload="true" href="#register"><i class="boundless-icon-signup"></i>
+<a data-popup="register" data-redirect-reload="true" data-start-event="clicked_sign_up_in_header" class="header__sign-up-link navbar__login__link" href="#register"><i class="boundless-icon-signup"></i>
 <span class="lbl">Sign Up</span>
-</a><a class="header__login-link navbar__login__link" data-popup="login" data-redirect-reload="true" href="#login"><i class="icon-signin"></i>
+</a><a data-popup="login" data-redirect-reload="true" class="header__login-link navbar__login__link" href="#login"><i class="icon-signin"></i>
 <span class="lbl">Login</span>
 </a></div>
 </div>
 </nav>
+</div>
 <nav class="navbar-inner navbar__second">
 <div class="navbar__second__middle-floats">
 <!-- /The "middle floats" are the menu items that get collapsed into the hamburger, and/or moved to the -->
 <!-- /navbar__second level for mobile screens -->
-<div class="navbar__middle-floats clearfix">
+<div class="navbar__middle-floats">
 <form action="/search/">
 <div class="navbar__search__input__wrap">
 <input class="navbar__search__input" name="q" type="text">
@@ -147,10 +160,11 @@ Subjects
 <input id="header-search-filter" name="filter" type="hidden" value="books,concepts,quizzes,questions,issues,profiles">
 </form>
 <div class="navbar__destination-item navbar__middle-floats__item navbar__subjects">
-<div class="navbar__item-label">
+<div class="navbar__destination-item__inner">
+<a data-push="true" href="/subjects/"><div class="navbar__item-label">
 Subjects
 </div>
-<div class="navbar__dropdown__cta">
+</a><div class="navbar__dropdown__cta">
 <i class="icon-caret-right"></i>
 <div class="navbar__dropdown navbar__subjects__dropdown">
 <div class="navbar__dropdown__triangle"></div>
@@ -189,8 +203,17 @@ Subjects
 </div>
 </div>
 </div>
+<div class="navbar__contribute navbar__destination-item navbar__middle-floats__item">
+<div class="navbar__destination-item__inner">
+<a data-push="true" data-track="Header:clicked_contribute" href="/issues/"><div class="navbar__item-label">
+Contribute
+</div>
+</a></div>
+</div>
+</div>
 
 </div>
+<div class="scroll-gradient--h"></div>
 </nav>
 </header>
 
@@ -350,82 +373,82 @@ Subjects
 </h5>
 <ul class="footer__subject-list">
 <li class="footer__subject-list-item">
-<a data-push="true" href="/accounting/">Accounting</a>
+<a data-push="true" href="https://www.boundless.com/accounting/">Accounting</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/algebra/">Algebra</a>
+<a data-push="true" href="https://www.boundless.com/algebra/">Algebra</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/art-history/">Art History</a>
+<a data-push="true" href="https://www.boundless.com/art-history/">Art History</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/biology/">Biology</a>
+<a data-push="true" href="https://www.boundless.com/biology/">Biology</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/business/">Business</a>
+<a data-push="true" href="https://www.boundless.com/business/">Business</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/calculus/">Calculus</a>
+<a data-push="true" href="https://www.boundless.com/calculus/">Calculus</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/chemistry/">Chemistry</a>
+<a data-push="true" href="https://www.boundless.com/chemistry/">Chemistry</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/communications/">Communications</a>
+<a data-push="true" href="https://www.boundless.com/communications/">Communications</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/computer-science/">Computer Science</a>
+<a data-push="true" href="https://www.boundless.com/computer-science/">Computer Science</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/economics/">Economics</a>
+<a data-push="true" href="https://www.boundless.com/economics/">Economics</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/education/">Education</a>
+<a data-push="true" href="https://www.boundless.com/education/">Education</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/finance/">Finance</a>
+<a data-push="true" href="https://www.boundless.com/finance/">Finance</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/management/">Management</a>
+<a data-push="true" href="https://www.boundless.com/management/">Management</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/marketing/">Marketing</a>
+<a data-push="true" href="https://www.boundless.com/marketing/">Marketing</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/microbiology/">Microbiology</a>
+<a data-push="true" href="https://www.boundless.com/microbiology/">Microbiology</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/music/">Music</a>
+<a data-push="true" href="https://www.boundless.com/music/">Music</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/philosophy/">Philosophy</a>
+<a data-push="true" href="https://www.boundless.com/philosophy/">Philosophy</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/physics/">Physics</a>
+<a data-push="true" href="https://www.boundless.com/physics/">Physics</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/physiology/">Physiology</a>
+<a data-push="true" href="https://www.boundless.com/physiology/">Physiology</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/political-science/">Political Science</a>
+<a data-push="true" href="https://www.boundless.com/political-science/">Political Science</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/psychology/">Psychology</a>
+<a data-push="true" href="https://www.boundless.com/psychology/">Psychology</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/sociology/">Sociology</a>
+<a data-push="true" href="https://www.boundless.com/sociology/">Sociology</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/statistics/">Statistics</a>
+<a data-push="true" href="https://www.boundless.com/statistics/">Statistics</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/u-s-history/">U.S. History</a>
+<a data-push="true" href="https://www.boundless.com/u-s-history/">U.S. History</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/world-history/">World History</a>
+<a data-push="true" href="https://www.boundless.com/world-history/">World History</a>
 </li>
 <li class="footer__subject-list-item">
-<a data-push="true" href="/writing/">Writing</a>
+<a data-push="true" href="https://www.boundless.com/writing/">Writing</a>
 </li>
 </ul>
 </div>
@@ -435,10 +458,13 @@ Subjects
 Products
 </h5>
 <ul class="footer__products-list">
-<li class="footer__products-list-item"><a href="/teaching/">Teaching</a></li>
-<li class="footer__products-list-item"><a href="/textbooks/">Textbooks</a></li>
-<li class="footer__products-list-item"><a href="/subjects/quizzes/">Quizzes</a></li>
-<li class="footer__products-list-item"><a href="/subjects/powerpoint-templates/">PowerPoints</a></li>
+<li class="footer__products-list-item"><a href="https://www.boundless.com/teaching/">Teaching</a></li>
+<li class="footer__products-list-item"><a href="https://marketplace.boundless.com/">Textbooks</a></li>
+<li class="footer__products-list-item"><a href="https://marketplace.boundless.com/boost/">Boost</a></li>
+<li class="footer__products-list-item"><a href="https://www.boundless.com/subjects/quizzes/">Quizzes</a></li>
+<li class="footer__products-list-item"><a href="https://www.boundless.com/subjects/powerpoint-templates/">PowerPoints</a></li>
+<li class="footer__products-list-item"><a href="https://www.boundless.com/canvas/">Canvas Integration</a></li>
+<li class="footer__products-list-item"><a href="https://www.boundless.com/institutions/">Institutions</a></li>
 </ul>
 </div>
 <div class="footer__subgroup">
@@ -446,11 +472,11 @@ Products
 Boundless
 </h5>
 <ul class="footer__company-links-list">
-<li class="footer__company-links-list-item"><a href="/careers/">Careers</a></li>
-<li class="footer__company-links-list-item"><a href="/about-us/">About Us</a></li>
-<li class="footer__company-links-list-item"><a href="/team/">Team</a></li>
-<li class="footer__company-links-list-item"><a href="/press/">Press</a></li>
-<li class="footer__company-links-list-item"><a href="/community/">Community</a></li>
+<li class="footer__company-links-list-item"><a href="https://www.boundless.com/careers/">Careers</a></li>
+<li class="footer__company-links-list-item"><a href="https://www.boundless.com/about-us/">About Us</a></li>
+<li class="footer__company-links-list-item"><a href="https://www.boundless.com/team/">Team</a></li>
+<li class="footer__company-links-list-item"><a href="https://www.boundless.com/press/">Press</a></li>
+<li class="footer__company-links-list-item"><a href="https://www.boundless.com/community/">Community</a></li>
 <li class="footer__company-links-list-item"><a href="http://blog.boundless.com/">Blog</a></li>
 </ul>
 </div>
@@ -487,24 +513,13 @@ Tumblr
 <div class="footer__footer">
 <p>Except where noted, content and user contributions on this site are licensed under <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> with attribution required.</p>
 <p>
-<a class="footer__usage-link" href="/privacy/">Privacy</a>
-<a class="footer__usage-link" href="/terms/">Terms</a>
+<a class="footer__usage-link" href="https://www.boundless.com/privacy/">Privacy</a>
+<a class="footer__usage-link" href="https://www.boundless.com/terms/">Terms</a>
 </p>
 </div>
 </div>
 </footer>
 
-</div>
-<div class="modal fade hide" id="video-modal">
-<div class="modal-header">
-<h3>Introducing Boundless</h3>
-<button class="close" data-dismiss="modal">
-<i class="icon-remove"></i>
-</button>
-</div>
-<div class="modal-body">
-<div id="video_cont" style="width: 640px; height: 360px;"></div>
-</div>
 </div>
 <div id="flash_messages_container"></div>
 <div class="modal onboarding-popup fade hide" id="login_cont"></div>
@@ -518,38 +533,80 @@ Tumblr
 </script>
 <script>
 //<![CDATA[
-window.PageData.subjects = [{"id":28,"name":"Accounting","chegg":{"parent_id":718,"url_name":"Accounting","id":682,"name":"Accounting"}},{"id":30,"name":"Algebra","chegg":{"parent_id":601,"url_name":"Algebra","id":1,"name":"Algebra"}},{"id":32,"name":"Art History","chegg":{"parent_id":721,"url_name":"Art-History","id":53,"name":"Art History"}},{"id":54,"name":"Biology","chegg":{"parent_id":606,"url_name":"Biology","id":599,"name":"Biology"}},{"id":36,"name":"Business","chegg":{"parent_id":2820,"url_name":"Business","id":1356,"name":"Business"}},{"id":37,"name":"Calculus","chegg":{"parent_id":601,"url_name":"Calculus","id":604,"name":"Calculus"}},{"id":38,"name":"Chemistry","chegg":{"parent_id":606,"url_name":"Chemistry","id":602,"name":"Chemistry"}},{"id":39,"name":"Communications","chegg":{"parent_id":721,"url_name":"Communication","id":1321,"name":"Communication"}},{"id":71,"name":"Computer Science","chegg":{"parent_id":686,"url_name":"Computer-Science","id":30,"name":"Computer Science"}},{"id":56,"name":"Economics","chegg":{"parent_id":718,"url_name":"Economics","id":603,"name":"Economics"}},{"id":61,"name":"Education","chegg":{"parent_id":721,"url_name":"Education","id":1405,"name":"Education"}},{"id":41,"name":"Finance","chegg":{"parent_id":718,"url_name":"Finance","id":701,"name":"Finance"}},{"id":43,"name":"Management","chegg":{"parent_id":1356,"url_name":"Management","id":1421,"name":"Management"}},{"id":44,"name":"Marketing","chegg":{"parent_id":718,"url_name":"Marketing","id":1343,"name":"Marketing"}},{"id":45,"name":"Microbiology","chegg":{"parent_id":599,"url_name":"Microbiology","id":630,"name":"Microbiology"}},{"id":64,"name":"Music","chegg":{"parent_id":721,"url_name":"Music-Theory","id":542,"name":"Music Theory"}},{"id":72,"name":"Philosophy","chegg":{"parent_id":721,"url_name":"Philosophy","id":642,"name":"Philosophy"}},{"id":46,"name":"Physics","chegg":{"parent_id":606,"url_name":"Physics","id":600,"name":"Physics"}},{"id":47,"name":"Physiology","chegg":{"parent_id":599,"url_name":"Physiology","id":42,"name":"Physiology"}},{"id":48,"name":"Political Science","chegg":{"parent_id":718,"url_name":"Political-Science","id":691,"name":"Political Science"}},{"id":55,"name":"Psychology","chegg":{"parent_id":718,"url_name":"Psychology","id":40,"name":"Psychology"}},{"id":50,"name":"Sociology","chegg":{"parent_id":718,"url_name":"Sociology","id":660,"name":"Sociology"}},{"id":51,"name":"Statistics","chegg":{"parent_id":601,"url_name":"Statistics","id":605,"name":"Statistics"}},{"id":42,"name":"U.S. History","chegg":{"parent_id":631,"url_name":"US-History","id":47,"name":"US History"}},{"id":70,"name":"World History","chegg":{"parent_id":631,"url_name":"World-History","id":48,"name":"World History"}},{"id":52,"name":"Writing","chegg":{"parent_id":721,"url_name":"Writing","id":43,"name":"Writing"}}];
+window.PageData.subjects = [{"id":28,"name":"Accounting","chegg":{"id":682,"name":"Accounting","url_name":"Accounting","parent_id":718}},{"id":30,"name":"Algebra","chegg":{"id":1,"name":"Algebra","url_name":"Algebra","parent_id":601}},{"id":32,"name":"Art History","chegg":{"id":53,"name":"Art History","url_name":"Art-History","parent_id":721}},{"id":54,"name":"Biology","chegg":{"id":599,"name":"Biology","url_name":"Biology","parent_id":606}},{"id":36,"name":"Business","chegg":{"id":1356,"name":"Business","url_name":"Business","parent_id":2820}},{"id":37,"name":"Calculus","chegg":{"id":604,"name":"Calculus","url_name":"Calculus","parent_id":601}},{"id":38,"name":"Chemistry","chegg":{"id":602,"name":"Chemistry","url_name":"Chemistry","parent_id":606}},{"id":39,"name":"Communications","chegg":{"id":1321,"name":"Communication","url_name":"Communication","parent_id":721}},{"id":71,"name":"Computer Science","chegg":{"id":30,"name":"Computer Science","url_name":"Computer-Science","parent_id":686}},{"id":56,"name":"Economics","chegg":{"id":603,"name":"Economics","url_name":"Economics","parent_id":718}},{"id":61,"name":"Education","chegg":{"id":1405,"name":"Education","url_name":"Education","parent_id":721}},{"id":41,"name":"Finance","chegg":{"id":701,"name":"Finance","url_name":"Finance","parent_id":718}},{"id":43,"name":"Management","chegg":{"id":1421,"name":"Management","url_name":"Management","parent_id":1356}},{"id":44,"name":"Marketing","chegg":{"id":1343,"name":"Marketing","url_name":"Marketing","parent_id":718}},{"id":45,"name":"Microbiology","chegg":{"id":630,"name":"Microbiology","url_name":"Microbiology","parent_id":599}},{"id":64,"name":"Music","chegg":{"id":542,"name":"Music Theory","url_name":"Music-Theory","parent_id":721}},{"id":72,"name":"Philosophy","chegg":{"id":642,"name":"Philosophy","url_name":"Philosophy","parent_id":721}},{"id":46,"name":"Physics","chegg":{"id":600,"name":"Physics","url_name":"Physics","parent_id":606}},{"id":47,"name":"Physiology","chegg":{"id":42,"name":"Physiology","url_name":"Physiology","parent_id":599}},{"id":48,"name":"Political Science","chegg":{"id":691,"name":"Political Science","url_name":"Political-Science","parent_id":718}},{"id":55,"name":"Psychology","chegg":{"id":40,"name":"Psychology","url_name":"Psychology","parent_id":718}},{"id":50,"name":"Sociology","chegg":{"id":660,"name":"Sociology","url_name":"Sociology","parent_id":718}},{"id":51,"name":"Statistics","chegg":{"id":605,"name":"Statistics","url_name":"Statistics","parent_id":601}},{"id":42,"name":"U.S. History","chegg":{"id":47,"name":"US History","url_name":"US-History","parent_id":631}},{"id":70,"name":"World History","chegg":{"id":48,"name":"World History","url_name":"World-History","parent_id":631}},{"id":52,"name":"Writing","chegg":{"id":43,"name":"Writing","url_name":"Writing","parent_id":721}}];
 
 //]]>
 </script>
 
-<script src="https://assets.boundless.com/assets/global/core-c9f01ef927a7fd62b80f898a91b69946.js"></script>
+<script>
+  window.Boundless = window.Boundless || {};
+  
+  (function (Boundless) {
+  
+    constants = {
+      API: "https://www.boundless.com:443/api/public",
+      APP_URL: "https://www.boundless.com:443",
+      BOOK_PRICE: 9.99,
+      COURSE_PRICE: 29.99,
+      COOKIE_DOMAIN: ".boundless.com",
+      DEBUG: (window.location.href.indexOf('debug') != -1) || false,
+      ENV: "production",
+      FIGURES_CDN: "//figures.boundless.com",
+      FIGURES_URL: "http://figures.boundless.com",
+      HOST_DOMAIN: "www.boundless.com:443",
+      PROTOCOL: "https",
+      WWW_HOST: "www.boundless.com",
+      MARKETPLACE_HOST: "marketplace.boundless.com",
+  
+      is_full_story_enabled: function () {
+        return true;
+      },
+  
+      auth_token_param: "authentication_token",
+      pusher_key: "e73010c1bf8eac300729"
+    };
+  
+    for (var key in constants) {
+      if (constants.hasOwnProperty(key)) {
+        Boundless[key] = constants[key];
+      }
+    }
+  
+    Boundless.getServerConstants = function () {
+      if (_ !== undefined && _.clone !== undefined) {
+        return _.clone(constants);
+      } else {
+        config.warn('This method uses Underscore to clone the constants.');
+      }
+    }
+  
+    Boundless.getConstants = function () {
+      var re = /^[A-Z_]+$/,
+          constants = {};
+  
+      for (var key in Boundless) {
+        if (key.match(re) && Boundless.hasOwnProperty(key)) {
+          constants[key] = Boundless[key];
+        }
+      }
+  
+      return constants;
+    };
+  
+  })(window.Boundless);
+</script>
+
+<script src="https://assets.boundless.com/assets/global/core-be70a5f55b83846a329f2b1e8ab81c3e.js"></script>
 <script src="https://js.stripe.com/v2/"></script>
 <script>
   Boundless.PageCallbacks.push(function() {
-    new Boundless.Header.App({
-      el: $('.navbar'),
-      collapse_at_width: 750
+    new Boundless.Header({
+      el: $('.navbar')
     })
   })
 </script>
-<script src="https://assets.boundless.com/assets/marketing_site/application-4bda770bb9cc5057b12fd511cb745005.js"></script>
-<script src="https://assets.boundless.com/assets/notifications/application-a28d0fa3d9090738f65ac4ec04cb8798.js"></script>
-<script>
-  // Content gets clipped on iPad portrait with our mobile viewport, so we scale the viewport on iPad and provide functions to unscale it for when we show onboarding. -afraser
-  meta_viewport = document.querySelector("meta[name=viewport]");
-  default_viewport_content = meta_viewport.getAttribute('content');
-  
-  window.reset_default_meta_viewport = function(){
-    meta_viewport.setAttribute('content', default_viewport_content);
-  }
-  window.update_meta_viewport_if_ipad = function(){
-    if(Modernizr.ismobile && (window.innerWidth == 768 || window.innerWidth == 1024)){
-      meta_viewport.setAttribute('content', 'width=device-width, initial-scale=0.74, user-scalable=0');
-    }
-  }
-  update_meta_viewport_if_ipad();
-</script>
+<script src="https://assets.boundless.com/assets/marketing_site/application-839b272ec98c8df99f41127ab0c2aec3.js"></script>
+<script src="https://assets.boundless.com/assets/notifications/application-b5b2a9cf4ba53a46f217f48b1565fc98.js"></script>
 
 
 <script>
@@ -565,70 +622,24 @@ window.PageData.subjects = [{"id":28,"name":"Accounting","chegg":{"parent_id":71
 <script charset="ISO-8859-1" src="//fast.wistia.com/static/concat/E-v1.js"></script>
 <script src="//fast.wistia.net/static/iframe-api-v1.js"></script>
 
-<!-- Facebook -->
-<div id="fb-root"></div>
-<script async="">
-window.fb_app_id = '404208039601407'
-window.fbAsyncInit = function() {
-  FB.init({
-    appId      : '404208039601407', // App ID
-    channelUrl : '//www.boundless.com/channel.html', // Channel File
-    status     : true, // check login status
-    cookie     : true, // enable cookies to allow the server to access the session
-    xfbml      : true  // parse XFBML
-  });
-
-  FB.getLoginStatus(function(response) {
-    if (response && response.status == 'connected') {
-      window.facebook_logged_in = true;
-    } else {
-      window.facebook_logged_in = false;
-    }
-  });
-};
-(function(d){
-   var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-   if (d.getElementById(id)) {return;}
-   js = d.createElement('script'); js.id = id; js.async = true;
-   js.src = "//connect.facebook.net/en_US/all.js";
-   ref.parentNode.insertBefore(js, ref);
- }(document));
-
-
-</script>
-<!-- Twitter -->
-<script async="">
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-</script>
 <script>
   // Don't let Google Analytics count this as a bounce if visit is >60s or they click a link
-  var _gaq = _gaq || [];
   $(function() {
-    $('a').on('click', function(){
-      _gaq.push(['_trackEvent', 'NoBounce', 'Clicked on an Anchor']);
+    $('a').one('click', function(){
+      Boundless.Events.General.track('no_bounce');
     });
     setTimeout(function(){
-      _gaq.push(['_trackEvent', 'NoBounce', 'Over 60 seconds']);
+      Boundless.Events.General.track('no_bounce');
     }, 60000);
   });
 </script>
 <script src="//js.pusher.com/2.2/pusher.min.js"></script>
-<!-- Taboola -->
-<script>
-  window._tfa = window._tfa || [];
-</script>
-<script src="//cdn.taboola.com/libtrc/boundless-sc/tfa.js"></script>
 <noscript>
 <div style='display:inline;'>
 <img alt='' height='1' src='//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004080308/?value=0&amp;label=SnMoCKyoxgQQtJnk3gM&amp;guid=ON&amp;script=0' style='border-style:none;' width='1'>
 </div>
 </noscript>
-<!-- Impact Radius Conversion Code -->
-<script src="//d33wwcok8lortz.cloudfront.net/js/2154/4809/irv3.js"></script>
-<script>
-  Boundless.Analytics.fire_conversion_tracking_if_needed();
-</script>
-<img alt="" height="1" id="adwords_conversion_img" src="" style="visibility: hidden; position: absolute;" width="1">
+<img alt="" height="1" id="adwords_conversion_img" src="" style="visibility: hidden; position: absolute; bottom: 0;" width="1">
 <!-- MathJax -->
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
@@ -659,6 +670,22 @@ MathJax.Hub.Config({
 });
 </script>
 <script src="//mathjax.boundless.com/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<!-- / Retargeting if initial purchase was just made -->
+<script type="text/javascript">
+  var google_conversion_id = 1004080308;
+  var google_conversion_label = "pTmACO_Zz14QtJnk3gM";
+  var google_custom_params = window.google_tag_params;
+  var google_remarketing_only = true;
+</script>
+<div style="display: none;">
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+</div>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004080308/?value=1.00&amp;currency_code=USD&amp;label=pTmACO_Zz14QtJnk3gM&amp;guid=ON&amp;script=0"/>
+  </div>
+</noscript>
+
 <!-- OwnerIQ -->
 <script>
   var _oiqq = _oiqq || [];
@@ -669,48 +696,6 @@ MathJax.Hub.Config({
     oiq.src = document.location.protocol + '//px.owneriq.net/stas/s/bound.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(oiq, s);
   })();
-</script>
-<!-- Optimizely -->
-<script>
-  window['optimizely'] = window['optimizely'] || [];
-</script>
-<script src="//cdn.optimizely.com/js/7475005.js"></script>
-<!-- FullStory snippet -->
-<script>
-  window.enable_fullstory = function(callback) {
-    if(window.full_story_enabled) {
-      if(callback) {
-        callback();
-      }
-      return;
-    }
-    window.full_story_enabled = true;
-    $.cookie("full_story", "true", { expires: 1, domain: Boundless.COOKIE_DOMAIN, path: '/' });
-  
-    window['_fs_debug'] = false;
-    window['_fs_host'] = 'www.fullstory.com';
-    window['_fs_org'] = 'Nsz';
-    (function(m,n,e,t,l,o,g,y){
-      g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
-      o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
-      y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
-      g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){FS(l,v)};
-      g.setSessionVars=function(v){FS('session',v)};g.setPageVars=function(v){FS('page',v)};
-    })(window,document,'FS','script','user');
-  
-    $(function() {
-      var extra_data = {};
-      if(PageData && PageData['user']) {
-        extra_data['userId_int'] = PageData['user']['id'];
-        extra_data['name_str'] = PageData['user']['first_name'] + " " + PageData['user']['last_name'];
-      }
-      FS.identify($.cookie('_marketing_uuid'));
-      FS.setUserVars(extra_data);     // we're supposed to be able to pass this with identify, but that method doesn't seem to work
-      if(callback) {
-        callback();
-      }
-    });
-  }
 </script>
 
 <!-- /.....................................................,,....,,............................ -->
@@ -725,4 +710,4 @@ MathJax.Hub.Config({
 <!-- /  http://boundless.com/careers -->
 
 
-<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
+</body></html>
