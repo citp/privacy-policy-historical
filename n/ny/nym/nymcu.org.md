@@ -1,29 +1,76 @@
-> *The following text is extracted and transformed from the nymcu.org privacy policy that was archived on 2014-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141120204748id_/http%3A//www.nymcu.org/resources/security_PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymcu.org privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908211412id_/http%3A//www.nymcu.org/Disclosures_Forms/MCUPrivacyPolicyrev3.pdf) for the most accurate reproduction.*
 
-# MCU: Resource Center - Security - Privacy Policy
+# FACTS
 
-At Municipal Credit Union (MCU) your privacy is important to us. This Online Privacy Policy is intended to explain how we treat information received from our MCU web site.
+                                                                                                             Rev.  01/2011
+                     WHAT DOES MUNICIPAL CREDIT UNION
+FACTS                DO WITH YOUR PERSONAL INFORMATION?
+Why?                 Financial companies choose how they share your personal information. Federal law gives
+                     consumers the right to limit some but not all sharing. Federal law also requires us to tell you
+                     how we collect, share, and protect your personal information. Please read this notice carefully to
+                     understand what we do.
+What?                The types of personal information we collect and share depend on the product or service you
+                     have with us. This information can include:
+                     !     Social Security number and income
+                     !     Account balances        and payment history
+                     !     Credit history          and credit scores
+                     When you are no longer our customer, we continue to share your information as described in this
+                     notice.
+How?                 All financial companies need to share customers' personal information to run their everyday
+                     business. In the section below, we list the reasons financial companies can share their
+                     customers' personal information; the reasons Municipal Credit Union          chooses to share; and
+                     whether you can limit this sharing.
+                                                               Does Municipal Credit
+Reasons we can share your personal information                                              Can you limit this sharing?
+                                                                      Union share?
+For our everyday business purposes—
+such as to process your transactions, maintain
+your account(s), respond to court orders and legal                       Yes                             No
+investigations, or report to credit bureaus
+For our marketing purposes—
+to offer our products and services to you                                Yes                             No
+For joint marketing with other financial companies
+                                                                         Yes                             No
+For our affiliates’ everyday business purposes—
+information about your transactions and experiences                      No                      We Don't Share
+For our affiliates’ everyday business purposes—
+information about your creditworthiness                                  No                       We Don't Share
+For nonaffiliates to market to you                                       No                       We Don't Share
+Questions?            Call 212-693-4900     or go to www.nymcu.org. Outside N.Y. City & Long Island call 800-323-6713
 
-**General Information**
 
-No Personally Identifiable Information ("PII"), such as your name or address, is collected automatically when you visit our web site. 
-
-**Information Collected and Stored Automatically**
-
-For site security purposes and to ensure that this service remains available to all users, MCU utilizes software programs to monitor network traffic in order to identify unauthorized attempts to upload or change information, or otherwise cause damage.
-
-Web site management information is collected for statistical purposes. Computer software programs are used to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
-
-The following information is automatically collected and stored when you visit our web site:
-
-  * The Internet domain (e.g., AOL, or MSN) from which you access our Web site
-  * The make and model of Internet browser software that you have used when accessing our Web site; and
-  * The number of times that you have visited our Web site during the current month (MCU utilizes "cookies". A "cookie" is a file placed on your hard drive by a Web site that allows it to monitor your visit. You can set your browser to warn you when placement of a cookie is requested and decide whether or not to accept it.)
-
-
-
-When viewing nymcu.org, advertising cookies will be placed on your computer. We work with our display advertising partner, Xaxis, to present you with retargeting advertising on other web sites based on your previous actions on nymcu.org. The methods our partners use adhere to the highest advertising privacy standards, do not collect PII, observe all opt-out requests from users, do not install any software programs whatsoever, and use only Network Advertising Initiative (NAI) certified technology. Click here to opt-out of Xaxis’ and their partners’ targeted advertising. If you choose to opt-out, your election will be communicated by the Network Advertising Initiative (NAI) to their participating companies and a cookie will be placed on your browser indicating your decision to opt-out. If you elect to opt-out, bear in mind that because cookies are stored by your browser, if you use different browsers on your computer, or multiple computers and devices that have browsers, you will need to opt-out from each browser on each of the computers and devices that you use. You may still receive advertisements from us, they just won’t be customized based on your web-browsing activities.
-
-**Information Collected from E-mails and Web Forms**
-
-When you send us PII, for example, in an electronic mail message containing a question or comment or by filling out a form that e-mails us information, we use this information to fulfill or respond to your requests. We may store these requests to provide us with information for future improvements to our Web site. We may forward your e-mail to third parties who provide specific products that you are requesting information about. We do not create individual profiles with this information you provide. MCU does not give, sell or transfer personal information to third parties unless: a) it is necessary for completing a transaction, or b) it is required to verify the existence and condition of your account for a third party, or c) it is required by law or, d) you give MCU your permission.
+Page 2
+Who we are
+                                  MUNICIPAL CREDIT UNION
+Who is providing this notice?
+What we do
+How does Municipal Credit Union  To protect your personal information from unauthorized access
+protect my personal information? and use, we use security measures that comply with federal law.
+                                 These measures include computer safeguards and secured files
+                                 and buildings.
+How does Municipal Credit Union  We collect your personal information, for example, when you
+collect my personal information?
+                                 !     Apply for a loan              or open an account
+                                 !     Deposit money                 or withdraw money
+                                 !    Use your credit card or debit card
+                                  We also collect your personal information from others, such as credit
+                                  bureaus and other companies.
+Why can’t I limit all sharing?   Federal law gives you the right to limit only
+                                 !    sharing for affiliates’ everyday business purposes—information
+                                      about your creditworthiness
+                                 !    affiliates from using your information to market to you
+                                 !    sharing for nonaffiliates to market to you
+                                 State laws and individual companies may give you additional rights to
+                                 limit sharing.
+Definitions
+Affiliates                       Companies related by common ownership or control. They can be
+                                 financial and nonfinancial companies.
+                                 !     Municipal Credit Union has no affiliates
+Nonaffiliates                    Companies not related by common ownership or control. They can be
+                                 financial and nonfinancial companies.
+                                 !     Municipal Credit Union does not share with nonaffiliates so they can
+                                       market to you.
+Joint marketing                  A formal agreement between nonaffiliated financial companies that
+                                 together market financial products or services to you.
+                                 !     Our joint marketing partners are insurance companies.
+Other important information
