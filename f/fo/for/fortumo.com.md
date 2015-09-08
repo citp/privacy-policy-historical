@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fortumo.com privacy policy that was archived on 2015-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150619001515id_/https%3A//fortumo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortumo.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908091215id_/https%3A//fortumo.com/privacy) for the most accurate reproduction.*
 
-# Mobile Payments in 89 Countries | Fortumo.com
+# Mobile Payments in 91 Countries | Fortumo.com
 
 Effective as of 15 January 2014
 
