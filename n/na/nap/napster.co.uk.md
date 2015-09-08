@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608045403id_/http%3A//www.napster.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napster.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908080048id_/http%3A//www.napster.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Napster - Subscription Music Service - Listen All You Want: Millions of Songs
 
