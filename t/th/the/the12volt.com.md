@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2015-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150603014001id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the12volt.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908111933id_/http%3A//www.the12volt.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,7 +80,6 @@ General Information
 [Glossary of Terms](http://www.the12volt.com/glossary/glossaryofterms/A.html "Mobile Electronics Glossary")  
 [Insurance for Car Stereos](http://www.the12volt.com/insurance/insurance.asp "Insurance for Car Stereos and Accessories")  
 [Links](http://www.the12volt.com/links/links.asp "Includes Car Stereo, Mobile Video, Navigation, Car Alarm, and Cruise Control Manufacturers, Resources, & More!")  
-[Mobile Tech News](http://www.the12volt.com/news/news.asp "Mobile Technology News")  
 [Relay Diagrams](http://www.the12volt.com/relays/relaydiagrams.asp "Relay Diagrams - Quick Reference - Dozens of diagrams at your fingertips!")  
 [The Application Guide](http://www.the12volt.com/installbay/appguide.asp "the12volt's Application Guide - Dozens of application guides in one!")  
 [Vehicle Wiring Database](http://www.the12volt.com/installbay/vehicles.html "Vehicle Wiring Information")  
