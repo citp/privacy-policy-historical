@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the fab.de privacy policy that was archived on 2015-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150627071441id_/http%3A//hem.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fab.de privacy policy that was archived on 2015-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908082430id_/http%3A//hem.com/en/privacy-policy/%3Fref%3Dhome.home.ft_privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-<script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWF7RF&amp;l=__dataLayer"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"1e5214472c","applicationID":"5134624","transactionName":"IAxYTEdZWAhcQR9EVQFMRUxUQl0HFkNCWkYCAE9nRVlYDVpK","queueTime":0,"applicationTime":60,"agentToken":null,"agent":"js-agent.newrelic.com/nr-632.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwADUFRaGwYBV1VUBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+<!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# product: http://ogp.me/ns/product#">
+<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KWF7RF&amp;l=__dataLayer"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"1e5214472c","applicationID":"5134624","transactionName":"IAxYTEdZWAhcQR9EVQFMRUxUQl0HFkNCWkYCAE9nRVlYDVpK","queueTime":0,"applicationTime":75,"agentToken":null,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwADUFRaGwYBV1VUBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
   <title>Privacy Policy | Hem.com</title>
   <meta name="description" content="Hem’s Privacy Policy">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-  <meta name="robots" content="index, follow">
+  <meta name="robots" content="">
 
   <link rel="canonical" href="http://hem.com/en/privacy-policy/">
 
@@ -27,12 +27,12 @@
   <link rel="icon" href="//d1w8j6pmwcehqo.cloudfront.net/hem-splash/favicon/favicon_32.png" type="image/png" sizes="32x32">
   <link rel="icon" href="//d1w8j6pmwcehqo.cloudfront.net/hem-splash/favicon/favicon_64.png" type="image/png" sizes="64x64">
 
-  <link debug="true" href="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/application-2e92ed6ed06dad8d6ea08a9e91d63c45.css" media="all" rel="stylesheet">
-  <link href="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/web/static-284d006492d317640e2c5e2792cc60f6.css" media="all" rel="stylesheet">
+  <link debug="true" href="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/application-f29f34baf154d10a39c9924d553d770f.css" media="all" rel="stylesheet">
+  <link href="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/web/static-761f43c8f871cf3482292cce45b5e338.css" media="all" rel="stylesheet">
 
   
   <meta content="authenticity_token" name="csrf-param">
-<meta content="7JnLQxowyJE8w2ocfWdqOLXhbYyd7Gh2n0rXegoQHMI=" name="csrf-token">
+<meta content="dY+skshHuiO1mqCLOxx04AJ2o4sCMX3d+eXiYfpOUw0=" name="csrf-token">
   
 </head>
 <body data-spy="scroll" data-target=".nomad" data-offset="55" class="device-device_info current_lan en">
@@ -59,7 +59,7 @@
 
 <!--Invite Header Wrapper Start -->
     <div class="hidden-xs hidden-sm hidden-md col-lg-64 invite-contain-div">
-        <a href="/en/invite-friends/" class="invite-friend-link" data-key-name="header.invite_link_text">
+        <a href="/en/invite-friends/?ref=stl.privacy_policy.hd_invites" class="invite-friend-link" data-key-name="header.invite_link_text">
         Invite Friends &amp; Earn Free Design
         </a>
     </div>
@@ -76,7 +76,7 @@
         <img class="hem-log" alt="Hem.com" src="//d1w8j6pmwcehqo.cloudfront.net/hem-splash/hem_logo_black_small_@2x.png?v=4">
       </a>
             <span class="hidden-sm hidden-md hidden-lg hidden-lg floatRight cartIconXS subnavCart">
-              <a href="http://hem.com/en/cart/">
+              <a href="http://hem.com/en/cart/?ref=stl.privacy_policy.cart_sub">
                 <span class="quantity_update"> Cart</span>
               </a>
             </span>
@@ -94,7 +94,7 @@
     <ul class="nav navbar-nav hoverStyling auto-adjust-subnav hidden-md hidden-lg hidden-xl hidden-sm">
       
   <li class="subnavDropDown dropdown subnavPopular">
-    <a class="cus-dropdown-toggle" href="/en/popular-products/"> Recent Purchases
+    <a class="cus-dropdown-toggle" href="/en/popular-products/?ref=stl.privacy_policy.popular_sub"> Recent Purchases
       <b class="caret hidden-xs" style="visibility: hidden"></b>
     </a>
   </li>
@@ -104,11 +104,11 @@
       <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
     </a>
     <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-      <li><a href="/en/shop/make-room-for-color/">Spring Colors</a></li>
-      <li><a href="/en/shop/fresh-new-fabrics/">Fresh New Fabrics</a></li>
-      <li><a href="/en/shop/the-key-tables/">The Key Tables</a></li>
-      <li><a href="/en/shop/the-bentos/">The Bentos</a></li>
-      <li><a href="/en/shop/rediscover-cork/">Rediscover Cork</a></li>
+      <li><a href="/en/shop/make-room-for-color/?ref=stl.privacy_policy.featured_sub">Summer Colors</a></li>
+      <li><a href="/en/shop/fresh-new-fabrics/?ref=stl.privacy_policy.featured_sub">Fresh New Fabrics</a></li>
+      <li><a href="/en/shop/the-key-tables/?ref=stl.privacy_policy.featured_sub">The Key Tables</a></li>
+      <li><a href="/en/shop/the-bentos/?ref=stl.privacy_policy.featured_sub">The Bentos</a></li>
+      <!--<li><a href="/en/shop/rediscover-cork/?ref=stl.privacy_policy.featured_sub">Rediscover Cork</a></li>-->
     </ul>
   </li>
 
@@ -117,12 +117,12 @@
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <!--<li><a href="/en/shop/shelves/">Shelving</a></li>-->
+        <!--<li><a href="/en/shop/shelves/?ref=stl.privacy_policy.fur_sub">Shelving</a></li>-->
         <!---->
-        <li><a href="/en/shop/seating/">Seating</a></li>
-        <li><a href="/en/shop/tables/">Tables</a></li>
-        <li><a href="/en/shop/storage--shelving/">Storage &amp; Shelving</a></li>
-        <li><a href="/en/customize/">Design Your Own</a></li>
+        <li><a href="/en/shop/seating/?ref=stl.privacy_policy.fur_sub">Seating</a></li>
+        <li><a href="/en/shop/tables/?ref=stl.privacy_policy.fur_sub">Tables</a></li>
+        <li><a href="/en/shop/storage--shelving/?ref=stl.privacy_policy.fur_sub">Storage &amp; Shelving</a></li>
+        <li><a href="/en/customize/?ref=stl.privacy_policy.cust_sub">Customize</a></li>
       </ul>
     </li>
 
@@ -131,9 +131,8 @@
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/pianissimo-lamp/">Pianissimo</a></li>
-        <li><a href="/en/shop/kuu-lamp/">Kuu</a></li>
-        <li><a href="/en/shop/levels/">Levels</a></li>
+        <li><a href="/en/shop/kuu-lamp/?ref=stl.privacy_policy.light_sub">Kuu</a></li>
+        <li><a href="/en/shop/levels/?ref=stl.privacy_policy.light_sub">Levels</a></li>
       </ul>
     </li>
 
@@ -142,12 +141,13 @@
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/pillows--throws/">Pillows &amp; Throws</a></li>
-        <li><a href="/en/shop/design-objects/">Design Objects</a></li>
-        <li><a href="/en/shop/organization/">Organization</a></li>
-        <li><a href="/en/shop/wall-decor/">Wall Decor</a></li>
-        <li><a href="/en/shop/personal/">Personal</a></li>
-        <!--<li><a href="/en/shop/rugs/">Rugs</a></li>-->
+        <li><a href="/en/shop/pillows--throws/?ref=stl.privacy_policy.acc_sub">Pillows &amp; Throws</a></li>
+        <li><a href="/en/shop/home-accents/?ref=stl.privacy_policy.acc_sub">Home Accents</a></li>
+        <li><a href="/en/shop/personal/?ref=stl.privacy_policy.acc_sub">Personal</a></li>
+        <!--<li><a href="/en/shop/design-objects/?ref=stl.privacy_policy.acc_sub">Design Objects</a></li>-->
+        <!--<li><a href="/en/shop/organization/?ref=stl.privacy_policy.acc_sub">Organization</a></li>-->
+        <!--<li><a href="/en/shop/wall-decor/?ref=stl.privacy_policy.acc_sub">Wall Decor</a></li>-->
+        <!--<li><a href="/en/shop/rugs/?ref=stl.privacy_policy.acc_sub">Rugs</a></li>-->
       </ul>
     </li>
 
@@ -156,16 +156,19 @@
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/basketweave-rugs/">Basketweave</a></li>
-        <li><a href="/en/shop/bliss-wool-rugs/">Bliss Wool</a></li>
-        <li><a href="/en/shop/geo-outline-rugs/">Geo Outline</a></li>
+        <li><a href="/en/shop/basketweave-rugs/?ref=stl.privacy_policy.rugs_sub">Basketweave</a></li>
+        <li><a href="/en/shop/bliss-wool-rugs/?ref=stl.privacy_policy.rugs_sub">Bliss Wool</a></li>
+        <li><a href="/en/shop/geo-outline-rugs/?ref=stl.privacy_policy.rugs_sub">Geo Outline</a></li>
       </ul>
     </li>
 
 
-          <li class="dropdown subnavDropDown subnavCustomize" style="margin-right: 15px;"> <!--Margin Right specified only for US region-->
-            <a class="cus-dropdown-toggle" href="/en/customize/">Design Your Own</a>
-          </li>
+  <li class="dropdown subnavDropDown subnavCustomize"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionCustomizeDropdown">Customize
+    <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span></a>
+    <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
+      <li><a href="/en/customize-storage/?ref=stl.privacy_policy.cust_sub">Storage</a></li>
+    </ul>
+  </li>
 
 
 
@@ -188,24 +191,29 @@
           </a>
           <ul class="dropdown-menu about">
             <li>
-              <a href="/en/designers" class="dropdown_menu_content" data-key-name="header.designer_header">
+              <a href="/en/about/?ref=stl.privacy_policy.about_hem_sub" class="dropdown_menu_content" data-key-name="about-us-hem-home.about_hem_btn">
+                About Hem
+              </a>
+            </li>
+            <li>
+              <a href="/en/designers/?ref=stl.privacy_policy.des_sub" class="dropdown_menu_content" data-key-name="header.designer_header">
                 Designers
               </a>
             </li>
             <li>
-              <a href="/en/stores/" class="dropdown_menu_content" data-key-name="header.about_contain.store">
+              <a href="/en/stores/?ref=stl.privacy_policy.hd_store" class="dropdown_menu_content" data-key-name="header.about_contain.store">
                 Stores
               </a>
             </li>
 
                 <li>
-                  <a href="/en/invite-friends/" class="dropdown_menu_content" data-key-name="header.about_contain.invite_friends">
+                  <a href="/en/invite-friends/?ref=stl.privacy_policy.hd_invites" class="dropdown_menu_content" data-key-name="header.about_contain.invite_friends">
                     Invite Friends
                   </a>
                 </li>
 
             <li>
-              <a href="/en/retail-partners/" class="dropdown_menu_content" data-key-name="header.about_contain.retail_partners">
+              <a href="/en/retail-partners/?ref=stl.privacy_policy.hd_retailer" class="dropdown_menu_content" data-key-name="header.about_contain.retail_partners">
                 Retail Partners
               </a>
             </li>
@@ -215,11 +223,11 @@
         <!--SM Specific Designer , About , Invite Friends and Retail Partners Start-->
 
         <li class="hidden-xs subNavHeaderStyling dropdown">
-                <a class="sing-in-link" href="/en/signup/">Sign Up</a>
+                <a class="sing-in-link" href="/en/signup/?ref=stl.privacy_policy.hd_signup">Sign Up</a>
         </li>
 
         <li class="hidden-xs subnavCart subNavHeaderStyling dropdown">
-          <a id="cartOnweb" class="dropdown-toggle" data-cart-section="" data-toggle="dropdown" href="javascript:void(0);">
+          <a id="cartOnweb" class="dropdown-toggle" data-cart-section="?ref=stl.privacy_policy.cart_sub" data-toggle="dropdown" href="javascript:void(0);">
             <span class="quantity_update"> Cart</span>
             <b class="caret hidden-xs"></b>
           </a>
@@ -228,27 +236,33 @@
 
 
         <!--Only for XS Designer , About , Invite friends Start-->
+        <li class="hidden-sm hidden-md hidden-lg hidden-xl subnavDropDown dropdown subnavAboutHem">
+          <a class="cus-dropdown-toggle" href="/en/about/?ref=stl.privacy_policy.about_hem_sub">
+            About Hem
+          </a>
+        </li>
+
         <li class="hidden-sm hidden-md hidden-lg hidden-xl subnavDropDown dropdown subnavDesigner">
-          <a class="cus-dropdown-toggle" href="/en/designers">
+          <a class="cus-dropdown-toggle" href="/en/designers/?ref=stl.privacy_policy.des_sub">
             Designers
           </a>
         </li>
 
         <li class="hidden-sm hidden-md hidden-lg hidden-xl subnavDropDown dropdown subnavStores">
-          <a class="cus-dropdown-toggle" href="/en/stores/" data-key-name="header.about_contain.store">
+          <a class="cus-dropdown-toggle" href="/en/stores/?ref=stl.privacy_policy.hd_store" data-key-name="header.about_contain.store">
             Stores
           </a>
         </li>
 
         <li class="hidden-sm hidden-md hidden-lg hidden-xl subnavDropDown dropdown subnavInviteFriends">
-              <a class="cus-dropdown-toggle" href="/en/invite-friends/" data-key-name="header.about_contain.invite_friends">
+              <a class="cus-dropdown-toggle" href="/en/invite-friends/?ref=stl.privacy_policy.hd_invites" data-key-name="header.about_contain.invite_friends">
                 Invite Friends
               </a>
         </li>
 
         <!--Only for XS Designer , About , Invite friends End-->
 
-                <li class="hidden-sm hidden-md hidden-lg hidden-xl subnavDropDown"><a href="/en/signup/">Sign Up</a></li>
+                <li class="hidden-sm hidden-md hidden-lg hidden-xl subnavDropDown"><a href="/en/signup/?ref=stl.privacy_policy.hd_signup">Sign Up</a></li>
       </ul>
     </div>
     <!--Second Ul End-->
@@ -263,7 +277,7 @@
       <ul class="nav navbar-nav hoverStyling floatLeft browse_links">
         
   <li class="subnavDropDown dropdown subnavPopular">
-    <a class="cus-dropdown-toggle" href="/en/popular-products/"> Recent Purchases
+    <a class="cus-dropdown-toggle" href="/en/popular-products/?ref=stl.privacy_policy.popular_sub"> Recent Purchases
       <b class="caret hidden-xs" style="visibility: hidden"></b>
     </a>
   </li>
@@ -273,11 +287,11 @@
       <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
     </a>
     <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-      <li><a href="/en/shop/make-room-for-color/">Spring Colors</a></li>
-      <li><a href="/en/shop/fresh-new-fabrics/">Fresh New Fabrics</a></li>
-      <li><a href="/en/shop/the-key-tables/">The Key Tables</a></li>
-      <li><a href="/en/shop/the-bentos/">The Bentos</a></li>
-      <li><a href="/en/shop/rediscover-cork/">Rediscover Cork</a></li>
+      <li><a href="/en/shop/make-room-for-color/?ref=stl.privacy_policy.featured_sub">Summer Colors</a></li>
+      <li><a href="/en/shop/fresh-new-fabrics/?ref=stl.privacy_policy.featured_sub">Fresh New Fabrics</a></li>
+      <li><a href="/en/shop/the-key-tables/?ref=stl.privacy_policy.featured_sub">The Key Tables</a></li>
+      <li><a href="/en/shop/the-bentos/?ref=stl.privacy_policy.featured_sub">The Bentos</a></li>
+      <!--<li><a href="/en/shop/rediscover-cork/?ref=stl.privacy_policy.featured_sub">Rediscover Cork</a></li>-->
     </ul>
   </li>
 
@@ -286,12 +300,12 @@
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <!--<li><a href="/en/shop/shelves/">Shelving</a></li>-->
+        <!--<li><a href="/en/shop/shelves/?ref=stl.privacy_policy.fur_sub">Shelving</a></li>-->
         <!---->
-        <li><a href="/en/shop/seating/">Seating</a></li>
-        <li><a href="/en/shop/tables/">Tables</a></li>
-        <li><a href="/en/shop/storage--shelving/">Storage &amp; Shelving</a></li>
-        <li><a href="/en/customize/">Design Your Own</a></li>
+        <li><a href="/en/shop/seating/?ref=stl.privacy_policy.fur_sub">Seating</a></li>
+        <li><a href="/en/shop/tables/?ref=stl.privacy_policy.fur_sub">Tables</a></li>
+        <li><a href="/en/shop/storage--shelving/?ref=stl.privacy_policy.fur_sub">Storage &amp; Shelving</a></li>
+        <li><a href="/en/customize/?ref=stl.privacy_policy.cust_sub">Customize</a></li>
       </ul>
     </li>
 
@@ -300,9 +314,8 @@
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/pianissimo-lamp/">Pianissimo</a></li>
-        <li><a href="/en/shop/kuu-lamp/">Kuu</a></li>
-        <li><a href="/en/shop/levels/">Levels</a></li>
+        <li><a href="/en/shop/kuu-lamp/?ref=stl.privacy_policy.light_sub">Kuu</a></li>
+        <li><a href="/en/shop/levels/?ref=stl.privacy_policy.light_sub">Levels</a></li>
       </ul>
     </li>
 
@@ -311,12 +324,13 @@
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/pillows--throws/">Pillows &amp; Throws</a></li>
-        <li><a href="/en/shop/design-objects/">Design Objects</a></li>
-        <li><a href="/en/shop/organization/">Organization</a></li>
-        <li><a href="/en/shop/wall-decor/">Wall Decor</a></li>
-        <li><a href="/en/shop/personal/">Personal</a></li>
-        <!--<li><a href="/en/shop/rugs/">Rugs</a></li>-->
+        <li><a href="/en/shop/pillows--throws/?ref=stl.privacy_policy.acc_sub">Pillows &amp; Throws</a></li>
+        <li><a href="/en/shop/home-accents/?ref=stl.privacy_policy.acc_sub">Home Accents</a></li>
+        <li><a href="/en/shop/personal/?ref=stl.privacy_policy.acc_sub">Personal</a></li>
+        <!--<li><a href="/en/shop/design-objects/?ref=stl.privacy_policy.acc_sub">Design Objects</a></li>-->
+        <!--<li><a href="/en/shop/organization/?ref=stl.privacy_policy.acc_sub">Organization</a></li>-->
+        <!--<li><a href="/en/shop/wall-decor/?ref=stl.privacy_policy.acc_sub">Wall Decor</a></li>-->
+        <!--<li><a href="/en/shop/rugs/?ref=stl.privacy_policy.acc_sub">Rugs</a></li>-->
       </ul>
     </li>
 
@@ -325,16 +339,19 @@
         <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span>
       </a>
       <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
-        <li><a href="/en/shop/basketweave-rugs/">Basketweave</a></li>
-        <li><a href="/en/shop/bliss-wool-rugs/">Bliss Wool</a></li>
-        <li><a href="/en/shop/geo-outline-rugs/">Geo Outline</a></li>
+        <li><a href="/en/shop/basketweave-rugs/?ref=stl.privacy_policy.rugs_sub">Basketweave</a></li>
+        <li><a href="/en/shop/bliss-wool-rugs/?ref=stl.privacy_policy.rugs_sub">Bliss Wool</a></li>
+        <li><a href="/en/shop/geo-outline-rugs/?ref=stl.privacy_policy.rugs_sub">Geo Outline</a></li>
       </ul>
     </li>
 
 
-          <li class="dropdown subnavDropDown subnavCustomize" style="margin-right: 15px;"> <!--Margin Right specified only for US region-->
-            <a class="cus-dropdown-toggle" href="/en/customize/">Design Your Own</a>
-          </li>
+  <li class="dropdown subnavDropDown subnavCustomize"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-dropdown-section="#sectionCustomizeDropdown">Customize
+    <b class="caret hidden-xs"></b> <span class="hem-icon hem-plus hidden-sm hidden-md hidden-lg floatRight"></span></a>
+    <ul class="dropdown-menu hidden-sm hidden-md hidden-lg">
+      <li><a href="/en/customize-storage/?ref=stl.privacy_policy.cust_sub">Storage</a></li>
+    </ul>
+  </li>
 
 
 
@@ -344,21 +361,29 @@
       </ul>
       <ul class="nav navbar-nav hoverStyling floatRight extra_links ">
 
-        <!--Designer Section Visible from lg break point Start-->
-        <li class="subnavDropDown dropdown  hidden-sm hidden-md">
-          <a class="cus-dropdown-toggle" href="/en/designers">
-            Designers
-          </a>
-        </li>
-        <!--Designer Section Visible from lg break point End-->
+        <li class="subnavDropDown dropdown  btn-group hidden-sm hidden-md hidden-xs">
+          <a href="javascript:void(0)" class="dropdown-toggle" style="padding-right: 0px;" data-toggle="dropdown" data-key-name="header.about_contain.about_text">
+            About
+            <b class="caret hidden-xs"></b></a>
+          <ul class="dropdown-menu about">
+            <li>
+              <a href="/en/about/?ref=stl.privacy_policy.about_hem_sub" class="dropdown_menu_content" data-key-name="about-us-hem-home.about_hem_btn">
+                About Hem
+              </a>
+            </li>
+            <li>
+              <a href="/en/designers/?ref=stl.privacy_policy.des_sub" class="dropdown_menu_content" data-key-name="header.designer_header">
+                Designers
+              </a>
+            </li>
+            <li>
+              <a href="/en/stores/?ref=stl.privacy_policy.hd_store" class="dropdown_menu_content" data-key-name="header.about_contain.store">
+                Stores
+              </a>
+            </li>
 
-        <!--About Section Visible from lg break point Start -->
-        <li class="subnavDropDown dropdown hidden-sm hidden-md">
-          <a class="cus-dropdown-toggle" href="/en/stores/" data-key-name="header.about_contain.store">
-            Stores
-          </a>
+          </ul>
         </li>
-        <!--About Section Visible from lg break point End -->
 
         <!--About Section Visible only md break point Start-->
         <li class="subnavDropDown dropdown  btn-group hidden-sm hidden-lg hidden-xl">
@@ -367,24 +392,29 @@
             <b class="caret hidden-xs"></b></a>
           <ul class="dropdown-menu about">
             <li>
-              <a href="/en/designers" class="dropdown_menu_content" data-key-name="header.designer_header">
+              <a href="/en/about/?ref=stl.privacy_policy.about_hem_sub" class="dropdown_menu_content" data-key-name="about-us-hem-home.about_hem_btn">
+                About Hem
+              </a>
+            </li>
+            <li>
+              <a href="/en/designers/?ref=stl.privacy_policy.des_sub" class="dropdown_menu_content" data-key-name="header.designer_header">
                 Designers
               </a>
             </li>
             <li>
-              <a href="/en/stores/" class="dropdown_menu_content" data-key-name="header.about_contain.store">
+              <a href="/en/stores/?ref=stl.privacy_policy.hd_store" class="dropdown_menu_content" data-key-name="header.about_contain.store">
                 Stores
               </a>
             </li>
 
                 <li>
-                  <a class="dropdown_menu_content" href="/en/invite-friends/" data-key-name="header.about_contain.invite_friends">
+                  <a class="dropdown_menu_content" href="/en/invite-friends/?ref=stl.privacy_policy.hd_invites" data-key-name="header.about_contain.invite_friends">
                     Invite Friends
                   </a>
                 </li>
 
             <li>
-              <a href="/en/retail-partners/" class="dropdown_menu_content" data-key-name="header.about_contain.retail_partners">
+              <a href="/en/retail-partners/?ref=stl.privacy_policy.hd_retailer" class="dropdown_menu_content" data-key-name="header.about_contain.retail_partners">
                 Retail Partners
               </a>
             </li>
@@ -410,107 +440,114 @@
 
 <div class="row hem-nav-child menu-flydown-container" id="sectionFeaturedDropdown">
   <div class="menu-flydown-image">
-    <a href="/en/shop/make-room-for-color/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-spring-colors-xl.png" alt="Spring Colors"> <div>Spring Colors</div> </a>
+    <a href="/en/shop/make-room-for-color/?ref=stl.privacy_policy.featured_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-spring-colors-xl.png" alt="Spring Colors"> <div>Summer Colors</div> </a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/fresh-new-fabrics/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-fresh-fabrics-xl.png" alt="Fresh Fabrics"> <div>Fresh New Fabrics</div> </a>
+    <a href="/en/shop/fresh-new-fabrics/?ref=stl.privacy_policy.featured_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-fresh-fabrics-xl.png" alt="Fresh Fabrics"> <div>Fresh New Fabrics</div> </a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/the-key-tables/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-key-table-xl.png" alt="Key Table"> <div>The Key Tables</div> </a>
+    <a href="/en/shop/the-key-tables/?ref=stl.privacy_policy.featured_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-key-table-xl.png" alt="Key Table"> <div>The Key Tables</div> </a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/the-bentos/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-bento-collection-xl.png" alt="Bento Collection"> <div>The Bentos</div> </a>
+    <a href="/en/shop/the-bentos/?ref=stl.privacy_policy.featured_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-bento-collection-xl.png" alt="Bento Collection"> <div>The Bentos</div> </a>
   </div>
-  <div class="menu-flydown-image">
-    <a href="/en/shop/rediscover-cork/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-rediscover-cork-xl.png" alt="Rediscover Cork"> <div>Rediscover Cork</div> </a>
-  </div>
+  <!--<div class="menu-flydown-image">-->
+    <!--<a href="//shop/rediscover-cork/?ref=stl.privacy_policy.featured_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-featured-rediscover-cork-xl.png" alt="Rediscover Cork" > <div>Rediscover Cork</div> </a>-->
+  <!--</div>-->
 </div>
 <div class="row hem-nav-child menu-flydown-container" id="sectionFurnitureDropdown">
 
   <!--Shelving and Storage Start-->
   <!--<div class="menu-flydown-image">
-    <a href="/en/shop/furniture/" class="heading-8 anchorTest">All Furniture</a>
-    <a href="/en/shop/shelves/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/New-Nav-Tray-Furniture-Shelving-Image-xl.png" alt="Shelving" > <div>Shelving</div> </a>
+    <a href="/en/shop/furniture/?ref=stl.privacy_policy.fur_sub" class="heading-8 anchorTest">All Furniture</a>
+    <a href="/en/shop/shelves/?ref=stl.privacy_policy.fur_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/New-Nav-Tray-Furniture-Shelving-Image-xl.png" alt="Shelving" > <div>Shelving</div> </a>
   </div>
 -->
   <!--Shelving and Storage End-->
 
   <div class="menu-flydown-image">
-    <a href="/en/shop/furniture/" class="heading-8 anchorTest">All Furniture</a>
-    <a href="/en/shop/seating/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-seating-xl.png" alt="Seating"> <div>Seating</div> </a>
+    <a href="/en/shop/seating/?ref=stl.privacy_policy.fur_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-seating-jul-8-2015-xl.png" alt="Seating"> <div>Seating</div> </a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/tables/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-tables-xl.png" alt="Tables"> <div>Tables</div> </a>
+    <a href="/en/shop/tables/?ref=stl.privacy_policy.fur_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-tables-xl.png" alt="Tables"> <div>Tables</div> </a>
   </div>
   <!--Shelving and Storage Combine attr Start-->
   <div class="menu-flydown-image">
-    <a href="/en/shop/storage--shelving/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-storage-shelving-xl.png" alt="Shelving-Stroage"> <div>Storage &amp; Shelving</div> </a>
+    <a href="/en/shop/storage--shelving/?ref=stl.privacy_policy.fur_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-storage-shelving-xl.png" alt="Shelving-Stroage"> <div>Storage &amp; Shelving</div> </a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/customize/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-design-your-own-xl.png" alt="Seating"> <div>Design Your Own</div> </a>
+    <a href="/en/customize/?ref=stl.privacy_policy.cust_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-design-your-own-xl.png" alt="Seating"> <div>Customize</div> </a>
+  </div>
+  <div class="menu-flydown-image all-section-block">
+    <a href="/en/shop/furniture/?ref=stl.privacy_policy.fur_sub" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"><div class="all-section-block-link-txt">All Furniture</div></a>
   </div>
   <!--Shelving and Storage Combine attr end-->
 
 </div>
 
 <div class="row hem-nav-child menu-flydown-container" id="sectionLightingDropdown">
-  <div class="menu-flydown-image"><a href="/en/shop/lighting/" class="heading-8 anchorTest">All Lighting</a>
-    <a href="/en/shop/pianissimo-lamp/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-lighting-pianissimo-xl.png" alt="Pianissimo"> <div>Pianissimo</div> </a>
+  <div class="menu-flydown-image">
+    <a href="/en/shop/kuu-lamp/?ref=stl.privacy_policy.light_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-lighting-kuu-xl.png" alt="Kuu"> <div>Kuu</div> </a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/kuu-lamp/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-lighting-kuu-xl.png" alt="Kuu"> <div>Kuu</div> </a>
+    <a href="/en/shop/levels/?ref=stl.privacy_policy.light_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-lighting-levels-xl.png" alt="Levels"> <div>Levels</div> </a>
   </div>
-  <div class="menu-flydown-image">
-    <a href="/en/shop/levels/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-lighting-levels-xl.png" alt="Levels"> <div>Levels</div> </a>
+  <div class="menu-flydown-image all-section-block">
+    <a href="/en/shop/lighting/?ref=stl.privacy_policy.light_sub" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"><div class="all-section-block-link-txt">All Lighting</div></a>
   </div>
 </div>
 
 <div class="row hem-nav-child menu-flydown-container" id="sectionAccessoriesDropdown">
   <div class="menu-flydown-image">
-    <a href="/en/shop/accessories/" class="heading-8 anchorTest">All Accessories</a>
-    <a href="/en/shop/pillows--throws/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"> <div>Pillows &amp; Throws</div> </a>
+    <a href="/en/shop/pillows--throws/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"> <div>Pillows &amp; Throws</div> </a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/design-objects/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-design-objects-xl.png" alt="Design Objects"> <div>Design Objects</div> </a>
+    <a href="/en/shop/home-accents/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive " src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-home-accents-xl.png" alt="Home Accents"> <div>Home Accents</div> </a>
   </div>
+  <!--<div class="menu-flydown-image" >-->
+    <!--<a href="/en/shop/design-objects/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-design-objects-xl.png" alt="Design Objects" > <div>Design Objects</div> </a>-->
+  <!--</div>-->
+  <!--<div class="menu-flydown-image">-->
+    <!--<a href="/en/shop/organization/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-organisation-xl.png" alt="Organization" > <div>Organization</div> </a>-->
+  <!--</div>-->
+  <!--<div class="menu-flydown-image">-->
+    <!--<a href="/en/shop/wall-decor/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-wall-decor-xl.png" alt="Wall Decor" >  <div>Wall Decor</div></a>-->
+  <!--</div>-->
   <div class="menu-flydown-image">
-    <a href="/en/shop/organization/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-organisation-xl.png" alt="Organization"> <div>Organization</div> </a>
-  </div>
-  <div class="menu-flydown-image">
-    <a href="/en/shop/wall-decor/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-wall-decor-xl.png" alt="Wall Decor">  <div>Wall Decor</div></a>
-  </div>
-  <div class="menu-flydown-image">
-    <a href="/en/shop/personal/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-personal-xl.png" alt="Personal">  <div>Personal</div></a>
+    <a href="/en/shop/personal/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-personal-xl.png" alt="Personal">  <div>Personal</div></a>
   </div>
   <!--<div class="menu-flydown-image">-->
-  <!--<a href="/en/shop/rugs/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/Nav-Accessories-Rugs-New-1-xl.png" alt="Rugs" > <div>Rugs</div> </a>-->
+  <!--<a href="/en/shop/rugs/?ref=stl.privacy_policy.acc_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/Nav-Accessories-Rugs-New-1-xl.png" alt="Rugs" > <div>Rugs</div> </a>-->
   <!--</div>-->
+  <div class="menu-flydown-image all-section-block">
+    <a href="/en/shop/accessories/?ref=stl.privacy_policy.acc_sub" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"><div class="all-section-block-link-txt">All Accessories</div></a>
+  </div>
 </div>
 
 <div class="row hem-nav-child menu-flydown-container" id="sectionRugsDropdown">
-  <div class="menu-flydown-image"><a href="/en/shop/rugs/" class="heading-8 anchorTest">All Rugs</a>
-    <a href="/en/shop/basketweave-rugs/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-basketweave-xl.png" alt="Basketweave"> <div>Basketweave</div> </a>
+  <div class="menu-flydown-image">
+    <a href="/en/shop/basketweave-rugs/?ref=stl.privacy_policy.rugs_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-basketweave-xl.png" alt="Basketweave"> <div>Basketweave</div> </a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/bliss-wool-rugs/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-bliss-wool-xl.png" alt="Bliss Wool"> <div>Bliss Wool</div> </a>
+    <a href="/en/shop/bliss-wool-rugs/?ref=stl.privacy_policy.rugs_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-bliss-wool-xl.png" alt="Bliss Wool"> <div>Bliss Wool</div> </a>
   </div>
   <div class="menu-flydown-image">
-    <a href="/en/shop/geo-outline-rugs/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-geo-outline-xl.png" alt="Geo Outline"> <div>Geo Outline</div> </a>
+    <a href="/en/shop/geo-outline-rugs/?ref=stl.privacy_policy.rugs_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-rugs-geo-outline-xl.png" alt="Geo Outline"> <div>Geo Outline</div> </a>
+  </div>
+  <div class="menu-flydown-image all-section-block">
+    <a href="/en/shop/rugs/?ref=stl.privacy_policy.rugs_sub" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"><div class="all-section-block-link-txt">All Rugs</div></a>
   </div>
 </div>
 
 <div class="row hem-nav-child menu-flydown-container" id="sectionCustomizeDropdown">
   <div class="menu-flydown-image">
-    <a href="/en/customize/" class="heading-8 anchorTest">All Custom Furniture</a>
-    <a href="/en/customize-storage/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-customise-shelving-xl.png" alt="Shelving"> <div>Shelving</div> </a>
+    <a href="/en/customize-storage/?ref=stl.privacy_policy.cust_sub"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-customise-shelving-xl.png" alt="Shelving"> <div>Shelving</div> </a>
   </div>
-  <div class="menu-flydown-image">
-    <a href="/en/customize-tables/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-tables-xl.png" alt="Tables"> <div>Tables</div> </a>
-  </div>
-  <div class="menu-flydown-image">
-    <a href="/en/customize-seating/"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-furniture-seating-xl.png" alt="Seating"> <div>Seating</div> </a>
+  <div class="menu-flydown-image all-section-block">
+    <a href="/en/customize/?ref=stl.privacy_policy.cust_sub" class="heading-8"><img class="img-responsive" src="//d1w8j6pmwcehqo.cloudfront.net/assets/static-images/subnav-accessories-cushions-throws-xl.png" alt="Pillows"><div class="all-section-block-link-txt">All Custom Furniture</div></a>
   </div>
 </div>
+
 </div>
 
 
@@ -520,14 +557,14 @@
   <!--Hero Image Module-->
 <div class="hero-img-sec hero-image">
   <div class="col-xs-64 visible-only-xs noPadding">
-   <!-- <img class="img-responsive"  style="width:100%; position: relative; max-height: 675px;" src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/browse_page/blank_hero_mobile_gray.jpg" >-->
-    <img class="img-responsive" style="width:100%;" src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/texthero/Text_Only_Hero_mobile.jpg?v=9" alt="">
+    <!-- <img class="img-responsive"  style="width:100%; position: relative; max-height: 675px;" src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/browse_page/blank_hero_mobile_gray.jpg" >-->
+    <img class="img-responsive" data-key-name="" style="width:100%;" src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/texthero/Text_Only_Hero_mobile.jpg?v=9" alt="">
   </div>
   <div class="col-sm-64 hidden-xs noPadding">
-   <!-- <img class="img-responsive" style="width:100% ;position: relative; max-height: 450px;" src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/browse_page/blank_hero_gray.jpg">-->
-    <img class="img-responsive " style="width:100%; " src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/texthero/Text_Only_Hero.jpg?v=9" alt="">
+    <!-- <img class="img-responsive" style="width:100% ;position: relative; max-height: 450px;" src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/browse_page/blank_hero_gray.jpg">-->
+    <img class="img-responsive" data-key-name="" style="width:100%; " src="http://d1w8j6pmwcehqo.cloudfront.net/assets/images/hem/static-page/texthero/Text_Only_Hero.jpg?v=9" alt="">
   </div>
-  <div class="banner-text"><span>Privacy Policy</span></div>
+  <div class="banner-text"><span data-key-name="">Privacy Policy</span></div>
 </div>
 
   <div class="row" style="margin-top: 70px">
@@ -643,7 +680,7 @@
            <span class="text-1" data-key-name="footer.onsite_invite_promotion_text">
              Earn $30 for every friend you invite to Hem.
            </span>
-           <a href="/en/invite-friends/" class="btn btn-default" data-key-name="header.invite">
+           <a href="/en/invite-friends/?ref=stl.privacy_policy.ft_invites" class="btn btn-default" data-key-name="header.invite">
              Earn Free Design
            </a>
         </div>
@@ -668,119 +705,123 @@
 
       <div class="visible-sm col-sm-64 visible-md col-md-64 split-footer split-footer-sm-md"></div>
       <div class="visible-xs col-xs-64 split-footer-xs"></div>
-      <div class="col-xs-64 col-sm-64 col-md-offset-0 col-md-64 col-lg-offset-19 col-lg-21 col-xl-offset-19 col-xl-21">
-        <div class="col-xs-64 col-sm-20 col-md-offset-0 col-md-16 col-lg-offset-4 col-lg-28 col-xl-offset-4 col-xl-28" id="country_box">
+      <div class="col-xs-64 col-sm-64 col-md-offset-0 col-md-64 col-lg-offset-12 col-lg-28 col-xl-offset-19 col-xl-21">
+        <div class="col-xs-64 col-sm-20 col-md-offset-0 col-md-16 col-lg-offset-3 col-lg-28 col-xl-offset-4 col-xl-28" id="country_box">
           <select id="selectCountry" class="selectpicker" data-style="countrySelect" data-width="100%" data-dropup-auto="true" data-locale="en">
-                <option value="Austria" data-ref="">
+                <option value="Austria" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Austria">
                   Austria €
                 </option>
-                <option value="Belgium" data-ref="">
+                <option value="Belgium" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Belgium">
                   Belgium €
                 </option>
-                <option value="Bulgaria" data-ref="">
+                <option value="Bosnia and Herzegovina" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Bosnia and Herzegovina">
+                  Bosnia and Herzegovina €
+                </option>
+                <option value="Bulgaria" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Bulgaria">
                   Bulgaria €
                 </option>
-                <option value="Canada" data-ref="">
+                <option value="Canada" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Canada">
                   Canada $
                 </option>
-                <option value="Croatia" data-ref="">
+                <option value="Croatia" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Croatia">
                   Croatia €
                 </option>
-                <option value="Czech Republic" data-ref="">
+                <option value="Czech Republic" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Czech Republic">
                   Czech Republic €
                 </option>
-                <option value="Denmark" data-ref="">
+                <option value="Denmark" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Denmark">
                   Denmark kr
                 </option>
-                <option value="Estonia" data-ref="">
+                <option value="Estonia" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Estonia">
                   Estonia €
                 </option>
-                <option value="Finland" data-ref="">
+                <option value="Finland" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Finland">
                   Finland €
                 </option>
-                <option value="France" data-ref="">
+                <option value="France" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=France">
                   France €
                 </option>
-                <option value="Germany" data-ref="">
+                <option value="Germany" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Germany">
                   Germany €
                 </option>
-                <option value="Greece" data-ref="">
+                <option value="Greece" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Greece">
                   Greece €
                 </option>
-                <option value="Hungary" data-ref="">
+                <option value="Hungary" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Hungary">
                   Hungary €
                 </option>
-                <option value="Iceland" data-ref="">
-                  Iceland €
-                </option>
-                <option value="Ireland" data-ref="">
+                <option value="Ireland" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Ireland">
                   Ireland €
                 </option>
-                <option value="Israel" data-ref="">
+                <option value="Israel" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Israel">
                   Israel €
                 </option>
-                <option value="Italy" data-ref="">
+                <option value="Italy" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Italy">
                   Italy €
                 </option>
-                <option value="Liechtenstein" data-ref="">
+                <option value="Latvia" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Latvia">
+                  Latvia €
+                </option>
+                <option value="Liechtenstein" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Liechtenstein">
                   Liechtenstein €
                 </option>
-                <option value="Lithuania" data-ref="">
+                <option value="Lithuania" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Lithuania">
                   Lithuania €
                 </option>
-                <option value="Luxembourg" data-ref="">
+                <option value="Luxembourg" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Luxembourg">
                   Luxembourg €
                 </option>
-                <option value="Monaco" data-ref="">
-                  Monaco €
-                </option>
-                <option value="Netherlands" data-ref="">
+                <option value="Netherlands" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Netherlands">
                   Netherlands €
                 </option>
-                <option value="Norway" data-ref="">
+                <option value="Norway" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Norway">
                   Norway kr
                 </option>
-                <option value="Poland" data-ref="">
+                <option value="Poland" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Poland">
                   Poland €
                 </option>
-                <option value="Portugal" data-ref="">
+                <option value="Portugal" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Portugal">
                   Portugal €
                 </option>
-                <option value="Romania" data-ref="">
+                <option value="Romania" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Romania">
                   Romania €
                 </option>
-                <option value="Serbia" data-ref="">
+                <option value="Serbia" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Serbia">
                   Serbia €
                 </option>
-                <option value="Slovenia" data-ref="">
+                <option value="Slovakia" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Slovakia">
+                  Slovakia €
+                </option>
+                <option value="Slovenia" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Slovenia">
                   Slovenia €
                 </option>
-                <option value="Spain" data-ref="">
+                <option value="Spain" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Spain">
                   Spain €
                 </option>
-                <option value="Sweden" data-ref="">
+                <option value="Sweden" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Sweden">
                   Sweden kr
                 </option>
-                <option value="Switzerland" data-ref="">
+                <option value="Switzerland" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Switzerland">
                   Switzerland Sfr
                 </option>
-                <option value="Turkey" data-ref="">
+                <option value="Turkey" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=Turkey">
                   Turkey €
                 </option>
-                <option value="UK" data-ref="">
+                <option value="UK" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=UK">
                   United Kingdom £
                 </option>
-                <option value="US" selected="true" data-ref="">
+                <option value="US" selected="true" data-ref="?ref=stl.privacy_policy.ft.oc=US.nc=US">
                   United States $
                 </option>
           </select>
         </div>
 
-        <div class="col-xs-offset-0 col-xs-64 col-sm-offset-24 col-sm-20 col-md-offset-33 col-md-15 col-lg-offset-2 col-lg-30 col-xl-offset-2 col-xl-30 share-box" id="fb_share">
+        <div class="col-xs-offset-0 col-xs-64 col-sm-offset-19 col-sm-25 col-md-offset-30 col-md-18 col-lg-offset-0 col-lg-32 col-xl-offset-2 col-xl-30 share-box" id="fb_share">
           <a class="hem-icon facebook-mobile" href="http://www.facebook.com/Hem" target="_blank"></a>
-          <a class="hem-icon twitter-mobile" href="http://twitter.com/tweetsfromhem" target="_blank"></a>
+          <a class="hem-icon twitter-mobile" href="http://twitter.com/hem" target="_blank"></a>
           <a class="hem-icon pinterest-mobile" href="http://www.pinterest.com/pinsfromhem/" target="_blank"></a>
           <a class="hem-icon instagram-mobile" href="http://instagram.com/hemishere" target="_blank"></a>
+          <a class="hem-icon houzz-mobile" href="http://www.houzz.com/user/hemdesigner" target="_blank"></a>
         </div>
       </div>
     </div>
@@ -798,37 +839,37 @@
       <div class="col-xs-31 col-sm-32 col-md-16">
         <h4 class="parent-link">About Hem</h4>
 
-        <h4 class="child-link text-2"><a href="/en/contact/">Offices</a></h4>
-        <h4 class="child-link text-2"><a href="/en/stores/"> Find A Hem Store</a></h4>
-        <h4 class="child-link text-2"><a href="/en/retail-partners/">Find A Hem Retailer</a></h4>
-        <h4 class="child-link text-2"><a href="/en/careers/">Careers</a></h4>
-        <h4 class="child-link text-2"><a href="/en/press/">Press</a></h4>
+        <h4 class="child-link text-2"><a href="/en/contact/?ref=stl.privacy_policy.ft_offices">Offices</a></h4>
+        <h4 class="child-link text-2"><a href="/en/stores/?ref=stl.privacy_policy.ft_store"> Find A Hem Store</a></h4>
+        <h4 class="child-link text-2"><a href="/en/retail-partners/?ref=stl.privacy_policy.ft_retailer">Find A Hem Retailer</a></h4>
+        <h4 class="child-link text-2"><a href="/en/careers/?ref=stl.privacy_policy.ft_careers">Careers</a></h4>
+        <h4 class="child-link text-2"><a href="/en/press/?ref=stl.privacy_policy.ft_press">Press</a></h4>
       </div>
       <!-- 2. Partners Section -->
       <div class="col-xs-31 col-sm-32 col-md-16">
         <h4 class="parent-link"> Partners  </h4>
 
-        <h4 class="child-link text-2"><a href="/en/retail-partners/">Wholesale</a></h4>
-        <h4 class="child-link text-2"><a href="/en/business-solutions/">Architects &amp; Designers</a></h4>
-        <h4 class="child-link text-2"><a href="/en/business-solutions/">Business &amp; Office Solutions</a></h4>
+        <h4 class="child-link text-2"><a href="/en/retail-partners/?ref=stl.privacy_policy.ft_wholesale">Wholesale</a></h4>
+        <h4 class="child-link text-2"><a href="/en/business-solutions/?ref=stl.privacy_policy.ft_arch-des">Architects &amp; Designers</a></h4>
+        <h4 class="child-link text-2"><a href="/en/business-solutions/?ref=stl.privacy_policy.ft_bus-sol">Business &amp; Office Solutions</a></h4>
       </div>
       <div class="visible-xs visible-sm clearfix"></div>
       <!-- 3. support Section -->
       <div class="col-xs-31 col-sm-32 col-md-16">
         <h4 class="parent-link"> Support </h4>
-        <h4 class="child-link text-2"><a href="/en/faq/">FAQ</a></h4>
+        <h4 class="child-link text-2"><a href="/en/faq/?ref=stl.privacy_policy.ft_faq">FAQ</a></h4>
         <h4 class="child-link text-2"><a href="javascript:void(0)" data-toggle="modal" data-target="#contactUsModal" data-contact-option="customer_service">Customer Support</a></h4>
         <h4 class="child-link text-2"><a href="javascript:void(0)" data-toggle="modal" data-target="#contactUsModal" data-contact-option="customized_furniture">Contact A Sales Consultant</a></h4>
-        <h4 class="child-link text-2"><a href="/en/shipping-policy/">Shipping &amp; Return Policy</a></h4>
-        <h4 class="child-link text-2"><a href="/en/contact/">Contact Us</a></h4>
+        <h4 class="child-link text-2"><a href="/en/shipping-policy/?ref=stl.privacy_policy.ft_ship-ret">Shipping &amp; Return Policy</a></h4>
+        <h4 class="child-link text-2"><a href="/en/contact/?ref=stl.privacy_policy.ft_contact-us">Contact Us</a></h4>
       </div>
       <!-- 4. Shop Section -->
       <div class="col-xs-31 col-sm-32 col-md-10 col-lg-12">
       <h4 class="parent-link"> Shop </h4>
-        <h4 class="child-link text-2"><a href="/en/shop/furniture/">Furniture</a></h4>
-        <h4 class="child-link text-2"><a href="/en/shop/lighting/">Lighting</a></h4>
-        <h4 class="child-link text-2"><a href="/en/shop/accessories/">Accessories</a></h4>
-        <h4 class="child-link text-2"><a href="/en/customize/">Customizable Furniture</a></h4>
+        <h4 class="child-link text-2"><a href="/en/shop/furniture/?ref=stl.privacy_policy.ft_furniture">Furniture</a></h4>
+        <h4 class="child-link text-2"><a href="/en/shop/lighting/?ref=stl.privacy_policy.ft_lighting">Lighting</a></h4>
+        <h4 class="child-link text-2"><a href="/en/shop/accessories/?ref=stl.privacy_policy.ft_accessories">Accessories</a></h4>
+        <h4 class="child-link text-2"><a href="/en/customize/?ref=stl.privacy_policy.ft_cust-fur">Customizable Furniture</a></h4>
       </div>
       <div class="visible-xs visible-sm clearfix" style="margin: 20px 0;"></div>
 
@@ -845,15 +886,15 @@
     </div>
     <div class="row hidden-xs">
       <div class="col-sm-64 text-center">
-        <span style="margin: 0 20px"><a href="/en/terms/">Terms Of Service</a></span>
-        <span style="margin: 0 20px"><a href="/en/privacy-policy/">Privacy Policy </a></span>
+        <span style="margin: 0 20px"><a href="/en/terms/?ref=stl.privacy_policy.ft_terms-service">Terms Of Service</a></span>
+        <span style="margin: 0 20px"><a href="/en/privacy-policy/?ref=stl.privacy_policy.ft_privacy-policy">Privacy Policy </a></span>
       </div>
     </div>
 
     <div class="row visible-xs">
       <div class="col-xs-64 text-center">
-        <span style="margin: 0 20px"><a href="/en/terms/">Terms Of Service</a></span>
-        <span style="margin: 0 20px"><a href="/en/privacy-policy/"></a></span>
+        <span style="margin: 0 20px"><a href="/en/terms/?ref=stl.privacy_policy.ft_terms-service">Terms Of Service</a></span>
+        <span style="margin: 0 20px"><a href="/en/privacy-policy/?ref=stl.privacy_policy.ft_privacy-policy"></a></span>
       </div>
     </div>
   </div>
@@ -878,7 +919,7 @@
         </div>-->
       </div>
       <form action="/contact-us/submit" method="POST" id="global-contact-us-form" novalidate="">
-        <input type="hidden" name="authenticity_token" value="7JnLQxowyJE8w2ocfWdqOLXhbYyd7Gh2n0rXegoQHMI=">
+        <input type="hidden" name="authenticity_token" value="dY+skshHuiO1mqCLOxx04AJ2o4sCMX3d+eXiYfpOUw0=">
         <div class="modal-body" style="padding-top:12px;">
 
           <div class="form-group">
@@ -1134,6 +1175,8 @@
 
 <!-- Zip Availability Modal End -->
 
+<!-- Chat  Box  Start -->
+<!-- Chat  Box End -->
 <div class="modal fade" tabindex="-1" role="dialog" id="swatchesModal" aria-labelledby="swatchesModal" aria-hidden="true">
   <div class="modal-dialog modal-lg swatch-modal-dialog">    
     <div class="modal-content">      
@@ -1145,8 +1188,8 @@
 
 <div id="fb-root"></div>
 
-<script src="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/application-da12ac1c9ffdbc693dbda258cfa156da.js"></script>
-<script src="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/web/static-961037b0463f2f3acdd05df00508de2b.js"></script>
+<script src="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/application-ea4e283a328d1c01e4c664bc4f48cf31.js"></script>
+<script src="http://d1w8j6pmwcehqo.cloudfront.net/assets/css-js/us/web/static-ddae1fb17b435d34f66ca33aa1e18005.js"></script>
 
 
 <script>
@@ -1203,7 +1246,7 @@
 </script>
 
 <script>
-    __dataLayer = [{"pageVersion":1,"pageTestVariation":1,"visitorId":null,"siteType":"web","country":"US","userId":0,"visitorLoginState":false,"pageCategory":"privacy_policy","pageSubCategory":null}];
+    __dataLayer = [{"pageVersion":1,"pageTestVariation":1,"visitorId":6875401129609524512,"siteType":"web","country":"US","userId":0,"visitorLoginState":false,"pageCategory":"privacy_policy","pageSubCategory":null}];
     __dataLayer.push({'pageTitle': document.title })
 
     window.__trackerDataLayer = {"pageType":"stl","pageName":"privacy_policy"};
