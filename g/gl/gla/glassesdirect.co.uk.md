@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607234217id_/http%3A//www.glassesdirect.co.uk/help/privacy-policy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908031021id_/https%3A//www.glassesdirect.co.uk/help/privacy-policy-full) for the most accurate reproduction.*
 
 # Privacy Policy Full | Glasses Direct ™ UK's Most Trusted Online Prescription Glasses Retailer
 
 ## 1. Introduction
 
-**PLEASE DO NOT SEND EMAILS OR REGISTER ON THE SITE IF YOU DO NOT WANT THAT INFORMATION TO BE PROCESSED BY US IN THE WAYS DESCRIBED BY THIS NOTICE. BY PROVIDING US WITH INFORMATION ON THE SITE, YOU CONSENT TO THE TRANSFER OF PERSONAL DATA AS DESCRIBED IN THE FOLLOWING POLICY**
+**Please do not send emails or register on the site if you do not want that information to be processed by us in the ways described by this notice. By providing us with information on the site, you consent to the transfer of personal data as described in the following  policy.**
 
 Your privacy is important to us. This Privacy and Cookie Policy explains what information we collect about you and what we do with it. Please take a few minutes to read it.
 
