@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshl.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317090658id_/https%3A//toshl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshl.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908095928id_/https%3A//toshl.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Toshl Finance
 
