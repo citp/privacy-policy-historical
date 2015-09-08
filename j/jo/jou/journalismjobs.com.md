@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the journalismjobs.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205233500id_/http%3A//www.journalismjobs.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalismjobs.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908083620id_/http%3A//www.journalismjobs.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy and Security
+# Privacy Policy
 
-At JournalismJobs.com, your personal privacy and security is very important to us. We will do everything we can to ensure the information you submit to us remains confidential and secure. Below is information about our commitment to you:
+JournalismJobs.com is committed to user privacy. Below is information about our commitment to you.
 
-1\. We do not read your private online communications.
+  1. You can browse and apply for jobs listed at JournalismJobs.com anonymously. You can apply for most jobs with just your email address, so you don't have to give out your name, phone number, or other personal information. If your goal is to remain completely anonymous, we recommend that you use an email address that does not reveal your name or place of work. To set-up a free email account, go to: www.yahoo.com
+  2. We do not read your private online communications.
+  3. We do not sell, distribute or make available any personal information about you to third parties so they can target you with advertising or marketing campaigns.
+  4. We do not share information entered into our database with other Internet job sites. This includes resumes, cover letters, references, and other material. If you decide to post a resume in our database, you will be able to delete it at any time. We also do not keep any information from your deleted resume on our servers.
 
-2\. We do not release your postal address, e-mail address, telephone number, or any other personal information to a third party.
 
-3\. We do not sell, distribute or make available any personal information about you to other companies to use in advertising or marketing efforts.
 
-4\. We do not share information entered into our databases with other Internet job sites or employment agencies. This includes resumes, cover letters, jobs, internships, fellowships, calendar events and other material.
+## Use of Cookies:
 
-5\. We do not let users view your online resume unless you authorize us to do so. We give users two options when storing their resume on our site: they can make it "private"or "public." A private resume is not searchable in our database and is available only to member companies to which you apply. A public resume is searchable by bonafide employers actively looking for employees. Employers, on the other hand, can remain anonymous by leaving the company name and web site lines blank in the "Job Information" section on the "Post Your Job" page.
+JournalismJobs.com uses "cookies" to help personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time.
 
-6\. We provide a high-level of security for your personal files, correspondence and account information. 
+The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you register with JournalismJobs.com, a cookie helps us to recall your specific account information on subsequent visits. This simplifies the process of recording your personal information, such as resume information, and so on. When you return to the same JournalismJobs.com page, the information you previously provided can be retrieved, so you can easily use the JournalismJobs.com features that you customized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may experience problems accessing your personal account on JournalismJobs.com. Your ability to search our job listings does not require that you accept any cookies from JournalismJobs.com.
 
-If you have any questions or concerns about our privacy commitment, please send an e-mail to: [contact@journalismjobs.com](mailto:contact@journalismjobs.com).
-
-  
-
+If you have a question or concern about our privacy commitment, please send an email to: info@journalismjobs.com.
