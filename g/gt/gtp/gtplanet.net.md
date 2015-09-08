@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtplanet.net privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408181042id_/https%3A//www.gtplanet.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtplanet.net privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908154702id_/http%3A//www.gtplanet.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – GTPlanet
 
@@ -34,7 +34,7 @@ This site gives users the following options for changing and modifying informati
 
 **Contacting GTPlanet**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us online](https://www.gtplanet.net/contact) or via the address below:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us online](https://www.gtplanet.net/contact) (webmastergtplanet.net) or via the address below:
 
 GTPlanet Networks  
 P.O. Box 755  
