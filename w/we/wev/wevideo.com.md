@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319161426id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908120551id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WeVideo
 
@@ -23,6 +23,8 @@ Depending on how you use the Services, you may be required to provide certain pe
   * Your image and likeness if you include it in any media content that you upload or include in videos that you create with our Services (these type of files are referred to as your “ _ **User Content**_ ”)
 
 
+
+In some of our applications, we provide the ability to use the application as a guest (“Guest User”). This option allows usage of the application without providing any personal information.
 
 You may choose not to provide your Personal Information; however, if you do not provide your Personal Information you may not be able to use all the functions offered by the Services.
 
@@ -132,7 +134,7 @@ WeVideo takes reasonable steps to help protect Information against loss, misuse,
 
 ## **OUR POLICY TOWARD CHILDREN**
 
-In compliance with the Children’s Online Privacy Protection Act (COPPA) of 1998, the Services are not intended for use if you are under 13 years of age unless you have the consent of your parent or legal guardian. In order to use the Services, you need to be over 13 years old or you will need to have the consent of your parent or guardian.
+In compliance with the Children’s Online Privacy Protection Act (COPPA) of 1998, the Services are not intended for use if you are under 13 years of age unless you have the consent of your parent or legal guardian or when available use the application as a Guest User. As a Guest User the application can be used without providing any Personal Information. Guest User mode is only available in some of the applications and is designed to allow usage of the application without providing any Personal Information. If you are not over 13 years of age and are not using the application as a Guest User, you will need to have the consent of your parent or guardian.
 
 We may use any of the following methods to verify that you have your parents’ consent:
 
