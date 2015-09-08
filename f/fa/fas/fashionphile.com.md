@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionphile.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530201421id_/https%3A//www.fashionphile.com/privacy/page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionphile.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908223009id_/http%3A//www.fashionphile.com/privacy/page) for the most accurate reproduction.*
 
 # Fashionphile | Privacy
 
