@@ -1,32 +1,60 @@
-> *The following text is extracted and transformed from the adenandanais.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318194706id_/http%3A//www.adenandanais.com/en-us/content/info%2Bprivacy/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adenandanais.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908060414id_/http%3A//www.adenandanais.com/en-us/content/info%2Bprivacy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # privacy policy | aden + anais USA
 
-[aden + anais](http://www.adenandanais.com/) has instituted policies and practices intended to ensure that your personal information is handled in a secure manner that respects and protects your privacy. 
+aden + anais respects your privacy and takes reasonable measures to protect your personal information. This privacy statement is intended to make you aware of the information we collect from you and how we use that information. Changes to this statement and our practices will be provided [here](http://www.adenandanais.com/en-us/content/info+privacy/privacy-policy.aspx). We encourage you to check here periodically to make sure you are aware our most current practices. 
 
-Any changes to our privacy policy and practices will be reflected on this page so that you can be aware of what information we collect and how we are using and/or disclosing it. By using our website, you consent to our collection and use of this information. Our policy was last updated August 12, 2009. 
+This website is intended for individuals at the age of 18 and over. If you are under 18 years old, please do not use this website. Instead, ask your parent or guardian to shop here for you. 
 
-aden + anais collects data that you provide to us through [www.adenandanais.com](http://www.adenandanais.com/), by phone, mail, e-mail and fax interactions or any other means of communication with us. This includes information such as your name, mailing address, e-mail address, phone number, any personal information you choose to provide and transaction details. 
+This website is intended for use in the United States of America and the Federal and State laws of the United States apply. By using and shopping on this website you acknowledge and agree that the personal data protection laws of other jurisdictions do not apply. If you are a citizen of another country you agree to the use of your personal data as outlined in this statement. Please note that aden + anais has global websites for [different territories](http://www.adenandanais.com/en-us/content/global+web-shops/our-global-web-shops.aspx). If you are located outside of the United States, we encourage you to shop at one of our global stores. 
 
-aden + anais occasionally obtains information for aden + anais customers who provide information to other websites or to retailers who sell aden + anais products. aden + anais may also obtain publicly accessible customer demographics. 
+## What We Collect
 
-aden + anais uses this information to enhance and personalize your shopping experience, and to communicate with you for marketing and promotional purposes via postal pieces, phone messages, or emails. You may indicate your contact preferences regarding promotional communications either to us online or to our customer service representatives. However, we do not control and are not responsible for information collected and used by independent retailers who sell aden + anais products. 
+Directly From You
 
-All personal information input and transmitted by you to our website when you place an order is protected by an encryption using Secure Socket Layer Technology ("SSL"). SSL encrypts your order and personal information before it is transmitted to us to avoid the decoding of your information by anyone other than aden + anais. 
+aden + anais collects information that you actively give us via this website, telephone, email and when you sign up for our newsletter. 
 
-aden + anais does not sell, rent or trade with third parties any personal information you provide to us, nor do we share such information with third parties except for the express purpose of assisting us in fulfilling your orders and customer service inquiries, updating your customer information record in our database, deploying our promotional offers to you, or fulfilling your request to unsubscribe from our email. We do not authorize those third parties to make any other use of your information. 
+When you place an order via [www.adenandanais.com](http://www.adenandanais.com/), the information you give us includes your name, shipping and billing addresses, telephone number, email and the merchandise you order. aden + anais does not receive or obtain your credit card information. When you enter your credit card details, you are directed to our credit card processing company; Charge Logic. Charge Logic collects and processes your credit card payment on behalf of aden + anais. You can visit their website for details on [Chare Logic’s security measures](https://www.chargelogic.com/security). 
 
-aden + anais honors every request to unsubscribe from receipt of emails as quickly as we can after receiving the request, not only for promotional emails that aden + anais sends, but also for emails about aden + anais that we permit other companies to send to their own list of subscribers. As such, in compliance with the CAN-SPAM Act of 2003, aden + anais will provide to such companies the email address of anyone who has submitted to aden + anais an unsubscribe request, provided such company agrees not to disclose or use such email address for any other purpose than honoring your request to not receive aden + anais promotional emails. 
+If you sign up for our newsletter, you will provide us your email address and possibly the city and state where you are located. 
 
-aden + anais reserves the right to use and/or disclose to others information about your demographics and use of our website in a manner that does not reveal your identity. 
+Indirectly From You
 
-In keeping with the Children's Online Privacy Protection Act, aden + anais will never knowingly request personally identifiable information from any person under the age of 13, without first seeking prior verifiable parental consent. If we become aware that a user of our website is under the age of 13 and has provided an online registration without prior verifiable parental consent, we will remove that child's personal information from our files. 
+aden + anais uses cookies for website functionality and analytics information. We may collect other information about customers of aden + anais products from merchants who carry our products. 
 
-"Cookies" are small data files or small bits of information that are stored by your browser on your computer's hard drive when you visit our website so that we can recognize you. Cookies do not alter your hard drive in any way and cannot be used to access any personal information from your computer. They merely enable us to personalize your shopping experience by helping us keep track of your order as you shop on our website, maintain information about your use of our website, and help us recognize you when you visit our website again. We also use cookies to identify the website you visited immediately before visiting our website and we maintain this information through the use of cookies to enable us to evaluate and improve our website design. You can change your browser so that it will not automatically accept cookies. Also, the profile you build at adenandanais.com allows you to request that we do not "remember you", something we recommend if you are using a shared or public computer. 
+Cookies
 
-There may be links on our website to the web sites of others. When you click onto one of these links, you are leaving aden + anais' website and accessing another party's website. These other web sites are not under our control and may collect personal information from you. Our Privacy and Security Policy does not address the information, privacy and security practices or policies of any other website. For more information, please read our Terms of Use. 
+Cookies are small text files placed and stored on your browser when you visit a website. Cookies help to keep your settings, log in information and other customizations when you return to certain websites. They also help with overall website functionality. aden + anais uses cookies to help this website functional well, for customer service purposes and to learn about visitors to this website. Cookies will let aden + anais know what website you came from, what sections of this website you visit when you are here and other analytical information. 
 
-Please send any concerns regarding our privacy policy to: [customerservice@adenandanais.com](mailto:customerservice@adenandanais.com) or to:  
-Aden & Anais, Inc  
+During certain marketing campaigns, aden + anais may work with third parties to place anonymous cookies on your browser. This type of cookie works in conjunction with pixels, small pieces of code on our website. The pixel related cookies communicate with specified websites when a visitor using the same browser goes to the other website. In this type of marketing campaign aden + anais visitors may see advertisements or reminders about our products and services after leaving our website. 
+
+aden + anais uses Google Analytics for reports on visitor website use. The Google Analytics service uses cookies to track adenandanias.com usage. Goolge Analytics shares this information with other Google services, including its advertising network. For more information, please read the Google Analytics use of cookies [here](http://www.google.com/policies/privacy/partners/). 
+
+You can change your browser settings at any time so that it will not automatically accept cookies or to clear cookies from your browser. 
+
+Do Not Track
+
+You have the ability to enable your browser settings to “Do Not Track.” Doing this sends a signal to websites, ad networks and plug-in providers about your browsing preferences. adenand anais.com does not respond to the Do Not Track browser signal. 
+
+## Sharing Information
+
+aden + anais does not sell, rent or trade the information you provide us with third parties. We do share only the information necessary to fulfill your orders with those third parties who support our processing and shipping of merchandise. We may also share the information you provide us with third parties with whom we have agreements to provide promotional offers for our products, news and information, specific marketing campaigns and, in order to keep our customer service database up to date. We do not authorize these third parties to make any other use of your information. 
+
+If we are required by law to provide information to law enforcement or other authorities, we will make available the information that is demanded of us. 
+
+aden + anais reserves the right to use and/or share aggregated, not directly identifiable information about our customers and website visitors with third parties. This information includes the number and types of purchasers and visitors to this website. In making this information available, aden + anais does not directly reveal your personal identity. 
+
+## How We Use Your Information
+
+First and foremost aden + anais uses the information you provide us to fulfill your orders and respond to your inquiries. We may also use your information to send you special promotions and information about other products you may enjoy, to remind you of uncompleted orders and to send you our newsletter if you choose to receive it. You have the ability to easily request that you stop receiving promotions, offers and our newsletter. 
+
+## Social Media Other Website Links
+
+You may find social media plug-ins or buttons on the aden + anais website. These enable you to directly access the aden + anais pages on social media platforms such as Twitter, Facebook and Pinterest. Similarly, you may find links on this website to other websites. aden + anais is not connected to these third parties and has no control over them, we simply make the links available for your convenience. Please be aware that when you click on one of the plug-ins or url links you are leaving the aden + anais website and going to those third party platforms and websites. When you do so, you will be subject to the terms, conditions and policies of those third parties. We encourage you to read those in order to understand what information you may be sharing with those platforms and websites. 
+
+Please send any concerns regarding our privacy practices or this statement to: [customerservice@adenandanais.com](mailto:customerservice@adenandanais.com) or to:  
+aden + anais, Inc  
 20 Jay St, Suite 600  
 Brooklyn, NY 11201
+
+Updated June 2015
