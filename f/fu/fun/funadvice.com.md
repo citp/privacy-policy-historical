@@ -1,27 +1,51 @@
-> *The following text is extracted and transformed from the funadvice.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319094436id_/https%3A//www.funadvice.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funadvice.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908103613id_/https%3A//www.funadvice.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Funadvice
+# Privacy Policy
 
-Privacy Policy - please be sure to read and completely understand this page before registering or interacting with any users on this site. We kept this simple for everyone to easily understand.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [https://www.funadvice.com/contact](mailto:info@funadvice.com).
 
-What information do you collect? The site collects "personal information" of users such as your name, email address, gender, ip address and analytics of activity on the site.
+At www.funadvice.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.funadvice.com and how we use it. 
 
-None of the information collected is ever sold, traded, bartered or given to any third parties ever. You can trust that all of the information you provide to us is safe and secure. We value your data and privacy as if it were our own. No third parties will ever obtain said data.
+**Log Files**  
+Like many other Web sites, www.funadvice.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-Why do you collect this data? We collect the specific information that we do in order to provide the best products and services that we do. We also may use the data to help us research and develop new products and services in the future for our members, advertisers and current visitors.
+**Cookies and Web Beacons**  
+www.funadvice.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser. 
 
-Additional Privacy Information:
+**DoubleClick DART Cookie**  
+→ Google, as a third party vendor, uses cookies to serve ads on www.funadvice.com.  
+→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.funadvice.com and other sites on the Internet.   
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-Funadvice.me will be using and disclosing information directly related to you and your data stated as follows:
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
 
-To set up and promote continued use of Funadvice.me we use your information to set up your page for you and your company.
 
-To send messages to you about the site regarding any and all permanent or temporary changes including planned outage, scheduled maintenance, improved features, version updates, account abuse, account warnings, changes to our Privacy Policy and any other documents or agreements.
+  * Google
+  * Amazon
 
-To bill and collect any funds owed to us and the holding company of Funadvice.me. All financial and billing information that we collect through our site may be used to process payments for service. The billing information is not used by Funadvice for any marketing or promotional use. Funadvice.me uses third-party intermediary to manage and process all credit card processing transactions.
 
-To protect all rights and safety of our company, employees, members and users as well as to comply with all legal requirements, Funadvice reserves the right to share your information in order to respond with any authorized requests by governmental authorities or where required by law. Funadvice reserves the right to share our entire database with appropriate government authorities in the rare event that it be deemed necessary to do so.
 
-Our Privacy Policy may change at any time and may change often. We reserve the right to and may send e-mail reminders periodically of our notices, terms and conditions unless you've opted out of receiving such or have instructed us not to. You should check our site frequently to see if any recent changes have taken place. Unless otherwise stated, our current Privacy Policy notice applies to all information that we have pertaining to you and your user account.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of www.funadvice.com._
 
-This policy was last updated on 1/12/2014
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.funadvice.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
+
+www.funadvice.com has no access to or control over these cookies that are used by third-party advertisers. 
+
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.funadvice.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+**Children's Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.funadvice.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.funadvice.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records. 
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms. 
+
+**Update**  
+This Privacy Policy was last updated on: Sunday, August 16th, 2015. 
