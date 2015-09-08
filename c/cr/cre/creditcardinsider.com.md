@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditcardinsider.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715043911id_/https%3A//www.creditcardinsider.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardinsider.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908035415id_/https%3A//www.creditcardinsider.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Credit Card Insider
 
@@ -47,5 +47,3 @@ Please note that Credit Card Insider has financial relationships with some of th
 **Contact Information**
 
 Concerns or questions can be directed through our [contact form](https://web.archive.org/contact/) for further clarification.
-
-[ Privacy Policy](https://privacy.truste.com/reseller/privacy-policy/Credit-Card-Insider/certified/4be1adba-7b7a-4d5a-bf58-7b0396b8415b "Credit Card Insider Privacy Policy")
