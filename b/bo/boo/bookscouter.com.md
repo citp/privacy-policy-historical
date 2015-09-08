@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookscouter.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420004424id_/http%3A//bookscouter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookscouter.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908104235id_/http%3A//bookscouter.com/privacy) for the most accurate reproduction.*
 
 # BookScouter Privacy Policy
 
