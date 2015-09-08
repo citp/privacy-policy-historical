@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kifi.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317030614id_/https%3A//www.kifi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kifi.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908135106id_/https%3A//www.kifi.com/privacy) for the most accurate reproduction.*
 
 # Kifi • Privacy Policy
 
@@ -91,7 +91,7 @@ Kifi allows you to post messages on selected web pages to specific social contac
 
 ## Deleting your information
 
-You can choose to permanently remove all your information related to the webpages you keep, and libraries you create from Kifi and terminate your profile, through your profile settings on the Kifi website, in which case all information associated with the webpages you kept, will be deleted. To delete your Kifi user and information, contact us [here](http://support.kifi.com/customer/portal/emails/new).
+You can choose to permanently remove all your information related to the webpages you keep, and libraries you create from Kifi and terminate your profile, through your profile settings on the Kifi website, in which case all information associated with the webpages you kept, will be deleted. To delete your Kifi user and information, contact us [here](http://support.kifi.com/hc/en-us/requests/new).
 
 ## Using Your Information
 
@@ -133,6 +133,6 @@ We may update this Privacy Policy from time to time, so you should review it per
 
 ## How To Contact Us
 
-If you have any questions or concerns about this Privacy Policy or its implementation, please contact us [here](http://support.kifi.com/customer/portal/emails/new).
+If you have any questions or concerns about this Privacy Policy or its implementation, please contact us [here](http://support.kifi.com/hc/en-us/requests/new).
 
 LAST UPDATED: October 24, 2014
