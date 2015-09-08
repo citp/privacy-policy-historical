@@ -1,26 +1,30 @@
-> *The following text is extracted and transformed from the collegenet.com privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415182417id_/http%3A//corp.collegenet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegenet.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908052704id_/http%3A//corp.collegenet.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# CollegeNET - Privacy
 
-(Last Updated: February 9, 2015)
+### CollegeNET, Inc. Privacy and Security Statement
 
-### Introduction
+Updated June 4, 2015
 
-The security of our users' personally identifiable information, which we call “personal information” in this document, is a high priority for CollegeNET, Inc. ("CollegeNET"). This Privacy and Security Statement ("Statement") applies to personal information collected by CollegeNET on its Web sites at [www.collegenet.com](http://collegenet.com/elect/app/app), [www.corp.collegenet.com](http://www.corp.collegenet.com/), [www.usacademy.collegenet.com](http://www.usacademy.collegenet.com/), [www.contribute.com](http://www.contribute.com/), [www.applyweb.com](http://www.applyweb.com/), [www.collegenet.cn](http://www.collegenet.cn/), and www.25live.collegenet.com/name of client institution. There is a link to this Statement on each of these Web sites, as well as on each account creation page. These links are how we provide notice to you of our privacy practices. 
+**Introduction**
+
+The security of our users' personally identifiable information, which we call "personal information" in this document, is a high priority for CollegeNET, Inc. ("CollegeNET"). This Privacy and Security Statement ("Statement") applies to personal information collected by CollegeNET on its Web sites at [www.collegenet.com](http://www.collegenet.com/), [www.corp.collegenet.com](https://corp.collegenet.com/), [www.usacademy.collegenet.com](http://www.usacademy.collegenet.com/), [www.contribute.com](http://www.contribute.com/), [www.applyweb.com](http://www.applyweb.com/), [www.collegenet.cn](http://www.collegenet.cn/), and www.25live.collegenet.com/name of client institution, and to all personal information provided to us, whether such is provided by customers, end users, vendors, employees, or others, online or offline. There is a link to this Statement on each of these Web sites, as well as on each account creation page. These links are how we provide notice to you of our privacy practices. 
 
 We also act as an outsourced service provider for colleges, universities, nonprofits, and other organizations (referred to in this Statement as our "client institutions"). When our client institutions collect information about you through the use of our facilities, their privacy policies and practices govern their use and disclosure of that information. 
 
 Personal information is information that directly identifies or is directly associated with an identifiable person. Some examples of personal information include a user's name, address, email address, social security number, citizenship, date and place of birth, and parents' names and addresses. Personal information does not include aggregate information or de-identified information. Aggregate information is information about the use of our Web sites, such as information collected about site users, or a category of services or users, from which any personal information has been removed. An example of aggregate information would be de-identified data indicating that forty-seven percent of the site's registered users have identified themselves as male. 
 
-This Statement applies to all personal information provided to us, whether such is provided by customers, end users, vendors, employees, or others. 
-
 PLEASE READ THIS STATEMENT CAREFULLY. IT IS YOUR CHOICE WHETHER OR NOT TO PROVIDE PERSONAL INFORMATION TO COLLEGENET. IF YOU CHOOSE NOT TO, YOU MAY NOT BE ABLE TO COMPLETE, SAVE, OR SUBMIT A FORM OR USE SOME SERVICES ON OUR SITES. 
 
-### Our Business
+**Statement Changes**
+
+We will modify this Statement if our privacy practices materially change in the future. We will notify you of any such modification by posting the modified Privacy Statement on our sites and indicating at the top of the Statement the date it was last updated. We may also notify you of modification or changes by sending you an email or other notification. We encourage you to review the Statement each time you visit one of our sites, to see if this Statement has been updated since your last visit to make sure you understand how personal information you provide to us will be used. 
+
+**Our Business**
 
 We provide Web-based software as a service applications to client institutions. We host Web-based admissions, scheduling, event management, housing, parking, tuition, registration, contribution, scholarship, recruiting, and other services. In the course of providing these services, we collect personal information in email that we receive and in forms that users complete on our Web sites, which forms may include non-text components such as images and videos. These forms are hosted on CollegeNET servers, but users may link to the pages and forms associated with our services via our Web sites or, in some cases, via the sites of the client institutions identified on the forms. We also provide services directly to end users, such as our Scholarship Election System that awards scholarships to winning candidates and a Web-based service called USAcademy that allows users to access information about US culture, US colleges and universities, and the experience of attending college in the United States. 
 
-### Collection of Personal Information
+**Collection of Personal Information**
 
 We collect various types of personal information, including demographic, geographic, financial, and other information on our Web sites, such as when you register for and participate directly in one or more of our services. We also collect these types of personal information for our client institutions in the course of providing Web-based software as a service applications and email transaction processing services. We obtain this information via email and in "forms" that you may complete on our Web sites. 
 
@@ -30,9 +34,11 @@ When you create a CollegeNET account, we ask you to create a username and passwo
 
 You agree that the personal information you provide to us is accurate and complete. 
 
-We also automatically collect some information when you use our sites, such as your IP address (a unique number assigned to a specific computer on the Internet) and standard information included with every communication sent on the Internet. This information allows us to determine your browser version and type, operating system, browser language, Internet service provider, and which pages you view on our Web sites. All of this information may be aggregated and used for various purposes. It is not, however, used to identify you personally. An application or other form is "in process" from the time you start it until the time you complete it. While it is in process, you may access the form and modify the information you have entered into it by following the instructions on the application or other form. Once you submit a form, you will not be able to access or modify the information submitted on that form through CollegeNET. 
+We also automatically collect some information when you use our sites, such as your IP address (a unique number assigned to a specific computer on the Internet) and standard information included with every communication sent on the Internet. This information allows us to determine your browser version and type, operating system, browser language, Internet service provider, and which pages you view on our Web sites, as well as the hardware model of the mobile device you use to access our services, operating system, and version, unique device identifiers and mobile network information. All of this information may be aggregated and used for various purposes. It is not, however, used to identify you personally. 
 
-### Scholarship Election System
+An application or other form is "in process" from the time you start it until the time you complete it. While it is in process, you may access the form and modify the information you have entered into it by following the instructions on the application or other form. Once you submit a form, you will not be able to access or modify the information submitted on that form through CollegeNET. 
+
+**Scholarship Election System**
 
 In order to participate in our Scholarship Election System, you must register for a CollegeNET account. The Scholarship Election System allows a registered user to become a candidate for scholarships for which he or she is eligible, to vote for other scholarship candidates, to post comments, videos, essays, candidate statements, and other information, and to indicate a relationship to a candidate. 
 
@@ -40,21 +46,21 @@ Scholarship Election System registration is separate from general CollegeNET acc
 
 Your Scholarship Election System user name, photo or other image, high school, and general candidate statements, posts you make to discussions, other information you may put in your profile, and any relation to a candidate you indicate on the site, will all be publicly available on the site. Please keep this in mind when you choose a user name and if you choose to disclose your photo, statements, discussion postings, and other information in connection with the Scholarship Election System. Please do not write or post any images or information that you do not want publicly available. 
 
-### USAcademy
+**USAcademy**
 
 In order to participate in USAcademy, you must register for a CollegeNET account. USAcademy allows a registered user to access information about US culture, US colleges and universities, and the experience of attending college in the United States and to participate in interactive areas of the site. 
 
 Your USAcademy user name, photo or other image, other information you may put in your profile, questions you ask, and posts you make to discussions, will all be publicly available on the site. Please keep this in mind when you choose a user name and if you choose to disclose your photo, statements, discussion postings, and other information in connection with USAcademy. Please do not write or post any images or information that you do not want publicly available on the site. 
 
-### Use of Personal Information
+**Use of Personal Information**
 
-We use personal information that you provide to us to complete the transactions requested by you, to administer our services such as USAcademy and our Scholarship Election System (which may include, but is not limited to, contacting you to verify your account, to provide updates on your election standing, and to let you know how many ballots you have left) and, if applicable, to contact you for administrative purposes or provide you with customer service, respond to your questions, problems, or complaints, request feedback, organize the Web sites to better serve you, customize our products and services, and develop new products and services. We may also use publicly available postings, submissions, and other content that you post or transmit to or within our Scholarship Election System or USAcademy (collectively, "Postings") for any purpose. 
+We use personal information that you provide to us to complete the transactions requested by you, to administer our services such as USAcademy and our Scholarship Election System (which may include, but is not limited to, contacting you to verify your account, to provide updates on your election standing, and to let you know how many ballots you have left) and, if applicable, to contact you for administrative purposes or provide you with customer service, respond to your questions, problems, or complaints, request feedback, to monitor/analyze trends, usage, and activities in connection with our services, to organize the Web sites to better serve you, customize our products and services, and develop new products and services. We may also use publicly available postings, submissions, and other content that you post or transmit to or within our Scholarship Election System or USAcademy (collectively, "Postings") for any purpose. 
 
 When we collect personal information for a client institution, we provide it to that client institution. The client institution's privacy policies and practices, and not this Statement, govern the client institution's use of that personal information. 
 
 We retain personal information for no longer than necessary to fulfill the purposes stated herein, or for the period required by law, and thereafter we securely dispose of the information to prevent loss, theft, misuse, or unauthorized access. 
 
-### Disclosure of Personal Information
+**Disclosure of Personal Information**
 
 We do not disclose your personal information to third parties other than for the limited purposes described in this Statement. 
 
@@ -68,19 +74,19 @@ Except as set forth in this Statement, CollegeNET will not disclose your persona
 
 By providing us with your personal information, you are giving us your express consent to our disclosure of your personal information for the purposes described in this Statement. 
 
-### Third Party Privacy Practices
+**Third Party Privacy Practices**
 
 While we strongly support the protection of privacy on the Internet, we do not have control over, and cannot be responsible for, the actions of our client institutions or other third parties. When we collect personal information in the course of acting as a service provider to our client institutions, the privacy policies and practices of the client institution whose form you have submitted will govern how that client institution treats your personal information. Our client institutions typically provide privacy statements at their sites describing how they treat personal information. We encourage you to review each such third party's privacy statement, if any, and to otherwise understand its privacy practices, before providing personal information directly to it or in our forms on which it is named. Additionally, you may be able to access non-CollegeNET sites from our Web sites (for example, by clicking on an advertisement or a search engine link). When you access non-CollegeNET sites from our Web sites, the policies described in this Statement, along with all other CollegeNET policies, no longer govern. 
 
-### Minors
+**Minors**
 
 Our sites and the forms accessible using our technology are not intended to collect personal information from children under the age of 13. If you are under 13 years old, you should not create an account with us, otherwise provide personal information to us through our sites or other services, or create any applications or other forms through our services. 
 
-If you are between the ages of 13 and 17, reside in the state of California, and have registered for a CollegeNET account, you may request and obtain removal of content and information that you posted on CollegeNET services that you participated directly in, such as our Scholarship Election System or USAcademy. To request removal of such content and information, you must send an email to help@collegenet.com that complies with the following: (i) the email must be sent from the email address associated with the CollegeNET account; (ii) the subject line of the email must say “Content Removal Request”; and (iii) the body of the email must include the user name of the CollegeNET account. CollegeNET will send you an email to acknowledge receipt of your content removal request. You must then send a reply email to CollegeNET’s acknowledgement email to confirm your content removal request. CollegeNET will remove the content and information posted by you within seven (7) business days after receipt of your reply email confirming your content removal request. 
+If you are between the ages of 13 and 17, reside in the state of California, and have registered for a CollegeNET account, you may request and obtain removal of content and information that you posted on CollegeNET services that you participated directly in, such as our Scholarship Election System or USAcademy. To request removal of such content and information, you must send an email to help@collegenet.com that complies with the following: (i) the email must be sent from the email address associated with the CollegeNET account; (ii) the subject line of the email must say "Content Removal Request"; and (iii) the body of the email must include the user name of the CollegeNET account. CollegeNET will send you an email to acknowledge receipt of your content removal request. You must then send a reply email to CollegeNET’s acknowledgement email to confirm your content removal request. CollegeNET will remove the content and information posted by you within seven (7) business days after receipt of your reply email confirming your content removal request. 
 
 CollegeNET does not guaranty the complete or comprehensive removal of content and information posted by you in the following circumstances: (i) if any applicable law requires CollegeNET to maintain the content or information; (ii) if the content or information was stored or posted by a third party who also registered for a CollegeNET account, including any content or information that was originally posted by you and then stored, republished, or reposted by such third party (such as a friend or other third party in a post about you); (iii) if CollegeNET has anonymized the content or information so that you cannot be individually identified; (iv) if you fail to follow the instructions for submitting a request for removal of the content or information; and (v) if you received compensation or other consideration for providing the content or information (such as being awarded a scholarship in our Scholarship Election System). Please note that CollegeNET cannot remove information you entered into a form after you have submitted that form. If you want to update information on such a form, you must contact the client institution to which the form was submitted. 
 
-### Cookies
+**Cookies**
 
 We may use cookies, Web beacons, or other technologies to identify users, to collect information about their preferences and history, and to customize their experiences. We use cookies to prevent you from having to repeatedly enter your login information, to save college and scholarship searches temporarily, to administer our Web sites and help us understand how visitors use them, and to improve our Web sites and related products and services. 
 
@@ -88,31 +94,33 @@ We may use third parties, including network advertisers and other third party ad
 
 You may refuse to accept cookies by following the procedures specific to your Web browser. If you do so, your browser may react strangely, and you may not be able to complete, save, or submit a form or use some services on our Sites. 
 
-### Security
+**Security**
 
-We use reasonable security measures, including appropriate administrative, technical, and physical safeguards, in an effort to prevent loss, misuse, or alteration of personal information under our control. When you submit an application or other form through our sites, provide electronic payment information that we request, or log in to your CollegeNET account, we use encryption, such as the Secure Socket Layer ("SSL") protocol, to protect such information while in transit. We also limit access to personal information while in our control and use firewalls in order to restrict access to it. We provide any electronic payment information you provide to us on our sites or in our forms to our payment processor, and use SSL or other encryption to protect it while in transit. We do not store it after it is transmitted to the payment processor. 
+We take reasonable measures to help protect information about you from loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction. 
 
-Despite these security measures, we cannot guarantee protection of all information against interception, misappropriation, misuse, or alteration, or promise that your information will not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. We have no control over the security of Web pages we do not serve, for example our client institutions' sites or other sites you might visit. 
-
-### Passwords
+**Passwords**
 
 Your account information, if you create an account, is accessible online through the use of a password. To protect the confidentiality of personal information that you provide in connection with a user account, you must keep your password confidential and not disclose it to any other person. CollegeNET is not responsible for the consequences of any passwords that you disclose or which are lost or stolen. Please advise us immediately if you believe your password has been misused or otherwise misappropriated. 
 
-### Location of Personal Information
+**Location of Personal Information**
 
-Our client institutions, as well as our third party vendors (such as our payment processor), maintain separate servers, sites, and other facilities, all of which may reside outside of the jurisdiction, and perhaps the country, where you originally entered the information. By providing us with personal information, you consent to the disclosure of your personal information to entities in jurisdictions other than your own. 
+When you provide us with your personal information, that information may be transferred, stored, and disclosed to jurisdictions other than the jurisdiction you entered it in or reside in, and to entities in such other jurisdictions. 
 
-### P3P
+**P3P**
 
 Some of CollegeNET's Web sites may support the Platform for Privacy Preferences ("P3P"). P3P allows Web site operators to convey their privacy policies, to the extent possible, in standardized, machine-readable code. This allows P3P-enabled browsers like Internet Explorer to "interpret" the code and automatically compare it to privacy preferences selected by the user in the browser's settings. In some cases, users may not have selected privacy preferences but instead rely on the default settings in the browser. A P3P-enabled browser automatically informs the user if the Web site's privacy practices do not meet the browser's settings. The user may use this information to decide whether or not to view the site. 
 
 Even if a CollegeNET Web site supports P3P, the resulting code does not convey all of CollegeNET's privacy practices. There are certain inherent limitations in trying to explain human concepts about privacy in machine-readable code. For example, P3P is not capable of coding policies with regard to the collection of children's information and parental consent. Moreover, different browsers may interpret CollegeNET's P3P code in different and, at times, conflicting ways. Because of these limitations, P3P does not fully, and may not accurately express all of CollegeNET's data practices. Accordingly, P3P results obtained through use of your browser should only be considered as a shorthand expression of CollegeNET's privacy practices, whereas this Statement is the primary source of information and will take precedence over P3P for all purposes. 
 
-### Statement Changes
+**Promotional Communications**
 
-We will modify this Statement if our privacy practices materially change in the future. We will notify you of any such modification only by posting the modified Privacy Statement on our sites and indicating at the top of the Statement the date it was last updated. We encourage you to review the Statement each time you visit one of our sites, to see if this Statement has been updated since your last visit to make sure you understand how personal information you provide to us will be used. 
+You may opt out of receiving promotional emails from us by following the instructions in those emails. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. 
 
-### Corrections / Questions
+**California Privacy Rights**
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at privacy_info@collegenet.com. 
+
+**Corrections / Questions**
 
 We will not deny your access to your personal information unless applicable law or regulatory requirements allow or require us to refuse to provide some or all of the personal information that we hold about you. You may view and update your personal information by logging in to your account or by sending email to us at privacy_info@collegenet.com. Please note that we cannot change information that you provided in a form that has already been submitted. If you want to update information on such a form, you must contact the client institution to which the form was submitted. 
 
