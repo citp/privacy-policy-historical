@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amny.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630225658id_/http%3A//www.amny.com/services/privacy-policy-1.6635080) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amny.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908050857id_/http%3A//www.amny.com/services/privacy-policy-1.6635080) for the most accurate reproduction.*
 
 # Privacy Policy | am New York
 
