@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the degreed.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315043300id_/https%3A//degreed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreed.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908095315id_/https%3A//degreed.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Degreed
+# Privacy Policy | degreed
 
 ### Privacy Policy
 
@@ -56,8 +56,10 @@ When a User submits information to Degreed, whether it is name or email, we do o
 
 If you have any questions about this Privacy Policy or any questions, complaints or claims, please contact us at:
 
-Email: info@degreed.com  
-Address: 1251 Armistead Rd., Suite B  
-San Francisco, CA 94129  
-Phone: 415-935-3543  
-Last Updated: March 22, 2012 
+Email: [info@degreed.com](mailto:info@degreed.com)  
+Address: 449 Bryant St. Floor 2  
+San Francisco, CA 94107  
+Phone: 1-800-311-7061  
+
+
+Last Updated: March 22, 2012
