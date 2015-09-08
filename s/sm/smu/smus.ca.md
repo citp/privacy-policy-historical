@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smus.ca privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619074250id_/http%3A//www.smus.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smus.ca privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908113407id_/https%3A//www.smus.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Principles | SMUS, Victoria BC
 
@@ -24,7 +24,9 @@ SMUS may also collect and use personal information for school advancement and de
 
 ###  2\. Collecting Personal Information
 
-Whenever practical, we collect information directly from the individual concerned.
+Whenever practical, we collect information directly from the individual concerned. We log information about visitor activity on our website to help us monitor site performance and provide you with a better experience.
+
+We also collect information for the purpose of marketing, including online advertising opportunities such as retargeting. Retargeting requires that cookies are stored on your computer. This is standard practice on the web and these cookies are not harmful. They inform SMUS’s advertising partners that you previously visited a SMUS website but they do not provide SMUS with personally identifiable information. If you wish to opt-out of the most common form of retargeting, Google advertising, you can set your preferences at [www.google.com/settings/ads](http://www.google.com/settings/ads).
 
 ###  3\. Using Personal Information
 
