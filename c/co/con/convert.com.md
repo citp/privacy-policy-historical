@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the convert.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320184118id_/http%3A//www.convert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convert.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908113222id_/http%3A//www.convert.com/privacy-policy) for the most accurate reproduction.*
 
-# A/B Testing Software or Split Testing Software | Privacy Policy - A/B Testing Software or Split Testing Software
+# Privacy Policy - A/B Testing Software or Split Testing Software
 
 **EFFECTIVE DATE: November 20, 2009**
 
