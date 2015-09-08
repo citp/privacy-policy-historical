@@ -1,75 +1,129 @@
-> *The following text is extracted and transformed from the earnmydegree.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319181638id_/http%3A//www.earnmydegree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnmydegree.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908174420id_/http%3A//www.earnmydegree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EarnMyDegree.com
 
 [](https://privacy.truste.com/privacy-seal/EducationDynamics,-LLC/validation?rid=bb73c301-e204-47d9-b804-58e6ba2d6d8f "TRUSTe online privacy certification")
 
-EarnMyDegree is committed to protecting your privacy when you visit our websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates.
+This is the privacy policy ("Privacy Policy") for the Web site ("Site") for EarnMyDegree ("EMD") [www.EarnMyDegree.com](http://www.earnmydegree.com/) owned and operated by EducationDynamics, LLC (“EducationDynamics”). This Privacy Policy describes how we treat personal information received about you when you visit our Site.
 
-**Information We Collect**  
-We collect various types of information from our visitors so we can adjust our site to meet our users' needs and expectations. Some of this information is collected automatically through cookies and other information is collected when you register for any of our online services or when you request information from one of our partners.
+Please read this Privacy Policy carefully, because by visiting or using this Site, you agree to its terms.
 
-**Information Collected Automatically**  
-The types of information your browser or Internet session automatically sends us each time you visit one of our sites, which we automatically collect, includes:
+We may revise this Privacy Policy from time to time. When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page [www.EarnMyDegree.com](http://www.earnmydegree.com/) or by e-mail of this Site that the policy has been updated prior to the change becoming effective and by changing the date on this page noting when the policy was last updated. If you see a notice of change, please check the Privacy Policy, because your continued use of the Site after we post the change means you have agreed to the new terms.
 
-  * Your browser.
-  * Your computer's operating system.
-  * Your navigation path, i.e., the URLs of where you come to our site from, which of our pages you visit, and where you go as you leave.
-  * Your IP address.
+**Collection of Your Data**
 
+Personal Data. When you fill out a "Student Matching Profile", our Self-Assessment, our Financial Aid Estimator, and at other times, we ask for some information about you, such as your name, age, email address, postal address, and phone number, level of education, desired level of educational program, areas of interest, current occupation, military status (if any), governmental loan status. We do not knowingly collect information from children under the age of 13.
 
+Anonymous Data. As is true of most web sites, we gather certain information automatically and store it in log files. We automatically collect IP addresses and Web site usage information from you when you visit the Site. This information helps us evaluate how our visitors use and navigate the Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-This and other information lets us see how users are finding our sites, and it tells us which pages are visited the most often so we can make our Websites more useful.
+**How We Use Your Information and How We Share Your Data**
 
-**Information You Provide to Us**  
-In addition to the information automatically collected by your browser, we also collect information that you provide to us when you request information about a particular school or educational program.
+EducationDynamics will not sell or disclose your personally identifiable information except as described below:
 
-Our websites provide users the opportunity to request information from schools, and to learn about various education opportunities. These information request sites require users to provide us with contact information (name, address, phone number, email address, gender, age, work experience, etc.) as well as information about their interest in one of our educational partners (universities, colleges, test prep companies, etc.) We collect this information that you provide, and may use it to make your future requests from our websites easier by pre-populating contact forms with the information that you have provided. We provide this contact information that you provide to the educational partner that you requested information from. Customer interest information is collected to determine what information the customer wishes to be sent.
+If you use our site or if you post on our blogs, forums, message boards, or chat rooms, some personally identifiable information may be seen by other members or users. This includes, but is not limited to, the poster's name, date of post, comments, IP address, survey responses, and other information. This information may also be transferred to any outside entity, including the press or other media that visits our site. To request removal of your personal information from our blog or forum, contact us at [info@educationdynamics.com](mailto:info@educationdynamics.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-**How We Use This Information**  
-We use the information we automatically collect to help us better plan our Website to meet your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses) about our customer base with carefully selected third parties, so they can offer goods and services that we believe may be of interest to our customers. All third parties are bound by the federal CAN-SPAM Act and required to follow all consumer opt out rules and regulations.
+We use the information we automatically collect (such as contact information, IP address and basic browser and system details) to help us optimize our sites and the services we currently offer on the sites and may offer in the future. We also collect personal information and share it with trusted third parties to analyze and provide us with feedback, suggestions and strategies to improve our business processes and the services we provide. If you elect to provide us with personally identifiable information, such information may also be used for marketing purposes, and may result in follow-up communications from EducationDynamics, our affiliated properties and services, and institutions of higher education about opportunities, programs and other services that are related to education. In addition, from time to time, we may share personally identifiable information (such as e-mail addresses and other contact information such as name, email address and phone number) with carefully selected third parties, so they may offer goods and services that we believe may be of interest to our customers.
 
-**Your Rights Our Obligations**  
-The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. If you do not want to receive our e-mail marketing, please submit a request to have your e-mail address removed by emailing: [unsubscribe@earnmydegree.com](mailto:unsubscribe@earnmydegree.com).
+EducationDynamics shares your personal information (such as your name, age, whether not you are a U.S. citizen, address, phone number, e-mail address, military affiliation, educational background, and years of work experience), with the educational institutions you selected and, if you use one of our matching services, those institutions which we have matched your profile so that these institutions may contact you with information about their programs. EducationDynamics maintains business relationships with these institutions, which pay to be featured on this website. Use of your personal information by these educational institutions is not governed by this Privacy Policy. For further information on such institution’s use of your information, please visit the applicable privacy policy of such institution. Educational institutions have separate policy practices for which EducationDynamics has no responsibility or liability.
 
-**Legal Protections and Law Enforcement**  
-We may disclose information about our users, including your personal information, in the event we are required to respond to subpoenas, court orders, legal process or other valid law enforcement measures; to comply with a legal obligation; at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing the Sites and applicable laws; or to protect the legal rights, interests, or safety of the Sites, our users or others. We may also use device identifiers to identify users, and may do so in cooperation with copyright owners, internet service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you.
+We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-**Our Security Measures**  
-Our Websites have reasonable security measures in place to help protect personal information under our control.
+If you submit information to an advertiser or other third party that is made available on or through EducationDynamics, the information obtained during your visit to that advertiser’s website, and the information you give to the advertiser will be governed by the advertiser’s privacy policy. For further information on such advertiser’s use of your information, please visit the applicable privacy policy of such advertisers. Advertisers made available on this site have separate policy practices for which EducationDynamics has no responsibility or liability.
 
-**Why We Use "Cookies"**  
-When you visit some of our sites, we use cookies to keep track of your information. This small piece of program code resides on your computer and stores your contact information for all of our request information sites. We do this so you are not required to re-enter your contact information as you move from one site to another. In addition, some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by us and does not cover the use of cookies by any advertisers. You can generally opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu. However, please be aware that some areas of the Sites may not provide you with an acceptable user experience if you have disabled the use of cookies.
+We may disclose account information where we have reason to believe that disclosing the information is necessary to identify, contact, or bring legal action against someone who may be violating EducationDynamics's policies as specified in the Privacy Policy or relevant User Agreement, may be violating state or federal law, or may be causing injury to or interference with (either intentionally or unintentionally) EducationDynamics's rights or property, other users of the Site, or anyone else that could be harmed by such activities. EducationDynamics may disclose or access account information when we believe that the law requires it and for administrative and other purposes that we deem necessary to maintain and improve our services.
 
-**Log Files**  
-Like most standard Web site servers we use log files. This includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+Additionally, EducationDynamics uses your information to provide you with a customized browsing experience. We also may use your personal information to resolve disputes, troubleshoot problems, respond to your inquiries, detect and protect against error, fraud, or other criminal activity, enforce our User Agreement, and for any other purposes that EducationDynamics deems appropriate.
 
-**Clear Gifs**  
-We and our third party advertising companies may employ a software technology called clear gifs that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to discern the online movements of users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users' personally identifiable information. Clear Gifs can "work with" existing cookies on a computer if they are both from the same site or advertising company. That means, for example, that if a person visited "[www.companyX.com"](http://www.companyx.com%22/), which uses an advertising company's clear gif, the Web site or advertising company would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company or site.
+We cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they unlawfully collect from the Site. We will try to protect your privacy, however, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-**Links From Our Site To Other Sites**  
-Some of our sites may contain links to other sites external to our sites. When you access these external Websites, the providers of the sites will have access to certain information about you. EarnMyDegree is not responsible for the privacy practices or the content of any Websites which we do not directly control.
+**Newsletter Subscription**
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
 
-###  Definitions
+**Choice and Opt-out**
 
-**Cookies**  
-Data created by a Web server that is stored on a user's computer. It provides a way for the Website to keep track of a user's patterns and preferences and, with the cooperation of the Web browser, to store them on the user's own hard disk.
+You can let us know that you do not wish us to share your information with third parties for marketing purposes or to notify you about our own products and services and special offers by opting out at the time that you submit your Student Matching Profile or by sending us a written request either by email to [unsubscribe@educationdynamics.com](mailto:unsubscribe@educationdynamics.com) or via postal mail.
 
-The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user's ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by clicking on the following link to add your email address and/or telephone number directly to our Unsubscribe/Do Not Call lists. Please address postal mail requests to:
 
-You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu.
+Attn: Unsubscribe  
+EducationDynamics, LLC  
+5 Marine View Plaza, Suite 212  
+Hoboken, NJ 07030
 
-**IP (Internet Protocol) Address**  
-This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 204.171.64.2.
+Please be aware that we do not control the activities of the educational institutions with which we match your profile or any third parties to whom we have provided your information for marketing purposes. If you wish them to stop contacting you, you will need to notify them of this fact separately.
 
-**Browser Session**  
-A browser session is defined as the period of time a browser is in consecutive use. The session begins when you open the browser and ends when you close it. When you reopen the browser, you begin a new session.
+Technologies such as: cookies, beacons, tags and scripts are used by EducationDynamics and our marketing partners, affiliates, or analytics. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-**SSL Encryption (Secure Sockets Layer)**  
-The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. We also use SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades).
+We use cookies for remember users’ settings, for authentication, and for remarketing. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-**URL (Uniform Resource Locator)**  
-An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for EarnMyDegree is [www.earnmydegree.com](http://www.earnmydegree.com/).
+We use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML5 or Flash to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+
+**Supplementation of Information**
+
+In order to provide accurate school matching services to you, we may on occasion supplement the personally identifiable information you submitted to us with information from third party sources.
+
+**Address and Phone Number Verification**
+
+We use TargusInfo validation to verify your address and phone number, in order to accurately match you to your chosen course of study and school program.
+
+**Share with a Friend Feature**
+
+If you choose to use our referral service to email a friend or bookmark a page, about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Addthis.com functionality does not store this information for the sole purpose of sending this one-time email.
+
+**Customer Testimonials**
+
+We post customer testimonials on our web site which may contain personally identifiable information like a video along with their first and last name. We do obtain the customer's consent via email or via other means prior to posting the testimonial to post their name and video along with their testimonial.
+
+**Behavioral targeting/Re-targeting**
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+**Social Media Features and Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**Links to Other Web Sites**
+
+If you click on a link to a third party site, including on an advertisement, you will leave the [www.EarnMyDegree.com](http://www.earnmydegree.com/) site you are visiting and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as [www.EarnMyDegree.com](http://www.earnmydegree.com/). We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to a [www.EarnMyDegree.com](http://www.earnmydegree.com/) site, you should read that site’s privacy statement before providing any personally identifiable information.
+
+**Transfer to the United States**
+
+If you are located outside of the United States, please note that the personal data you provide to us will be transferred to the United States. Whenever you submit any personal data to us, you consent to this transfer.
+
+**Review and Correction**
+
+You may review, update and delete the personal data you have provided to us contacting us via e-mail at [info@educationdynamics.com](mailto:info@educationdynamics.com) or by sending us written notice via postal mail to:
+
+Attn: Information Inquiry or Update  
+EducationDynamics, LLC  
+5 Marine View Plaza, Suite 212  
+Hoboken, NJ 07030
+
+Any revisions you provide to your personal data will be applied in our own records but will not be updated in the records of the educational institutions to which we have already provided your data. If you would like to review and correct the personal data that has been provided to educational institutions, you will need to contact them separately.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Security Practices**
+
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can send email us at [info@educationdynamics.com](mailto:info@educationdynamics.com)
+
+**Business Transfers**
+
+In the event that someone buys or acquires us or substantially all of our assets, our information about you and your use of our services will likely be one of the acquired assets. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+
+**Legal Disclaimer**
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+**Truste Privacy**
+
+EducationDynamics, LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, [www.EarnMyDegree.com](http://www.earnmydegree.com/).
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+
+**Last Updated on May 18, 2015**. This Privacy Policy is effective immediately for new users after that date and will become effective on June 1, 2015 for pre-existing users. .
