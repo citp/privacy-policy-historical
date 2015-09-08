@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imvisible.info privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318164831id_/http%3A//www.imvisible.info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imvisible.info privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908045008id_/http%3A//www.imvisible.info/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,3 +17,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 **DoubleClick DART Cookie**  
 Google, as a third party vendor, uses cookies to serve ads on Imvisible.info. Google's use of the DART cookie enables it to serve ads to users based on their visit to Imvisible.info and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](http://www.google.com/privacy/ads/)
+
+About how Google uses colected sensitive data you can read more on <http://www.google.com/policies/privacy/partners/>
