@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507215506id_/http%3A//www.mynrma.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynrma.com.au privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908060748id_/http%3A//www.mynrma.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NRMA Motoring & Services
 
@@ -24,13 +24,13 @@ The types of personal information we collect and hold will vary depending on you
   * Gender; 
   * Vehicle details including registration, model and colour; 
   * Transaction details relating to your use of our products, services or Member benefits; 
+  * Payment information (such as credit card, PayPal or bank details);
   * Your social media preferences; 
   * Any benefits you obtain from your Membership; any of the above information in respect of additional cardholders or your family members; and 
   * Any preferences you tell us about or other information that you provide. 
+  * We may collect and hold sensitive information, such as the fact that you are disabled, to allow us to provide our services more effectively to you (particularly Roadside Assistance) but only if you provide express consent at the time it is provided.
 
 
-
-We may collect and hold sensitive information, such as the fact that you are disabled, to allow us to provide our services more effectively to you (particularly Roadside Assistance) but only if you provide express consent at the time it is provided.
 
 Please see the Direct Marketing section of this policy for more examples of the kinds of personal information we collect. 
 
@@ -42,7 +42,7 @@ We also use Google Analytics features (including Google Remarketing, Google Disp
 
 We also use (along with third parties including Google) first party cookies (such as Google Analytic cookies) and third party cookies (such as the DoubleClick cookie) to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. In addition, we use data from Google's Interest-based advertising or third party audience data (such as age, gender, and interests) with Google Analytics to help us understand how user activity varies based on these factors
 
-By using Google Ads Settings (www.google.com/settings/ads), you can opt out of these features at any time and customise your Google Display Network Ads. Alternatively, you can opt out of a third party's vendor's use of cookies by visiting the Network Advertising Initiative opt-out page (see <http://www.networkadvertising.org/choices/#completed>).
+By using Google Ads Settings ([www.google.com/settings/ads](http://www.google.com/settings/ads)), you can opt out of these features at any time and customise your Google Display Network Ads. Alternatively, you can opt out of a third party's vendor's use of cookies by visiting the Network Advertising Initiative opt-out page (see <http://www.networkadvertising.org/choices/#completed>).
 
 Importantly, we do not combine the anonymous information collected through Google Analytics with personally identifiable information.
 
@@ -107,7 +107,7 @@ We may provide your personal information to our agents, contractors or related c
 
 ### 8\. Direct marketing
 
-We collect personal information so that we can provide our members with useful and relevant information about our products and services. Generally, we collect this information directly from you. In some circumstances, however, we may collect personal information from third parties, including from our service providers and social media platforms such as Facebook. We use the information we, or our service providers, collect to assist us to determine how we can best engage with our members about our products and services. To this end, we, or our service providers, may collect information about your social media preferences and activities so that we can engage with our members on social media sites. We may also collect certain demographic information and behavioural information from social media platforms to better serve consumers with more targeted advertising.
+We collect personal information so that we can provide our Members with useful and relevant information about our products and services. Generally, we collect this information directly from you. In some circumstances, however, we may collect personal information from third parties, including from our service providers and social media platforms such as Facebook. We use the information we, or our service providers, collect to assist us to determine how we can best engage with our Members about our products and services. To this end, we, or our service providers, may collect information about your social media preferences and activities so that we can engage with our Members on social media sites. We may also collect certain demographic information and behavioural information from social media platforms to better serve consumers with more targeted advertising.
 
 At times, we use tools that enable us to identify the online sources of the telephone sales enquiries that we receive. The information we collect through these tools includes the time and date of the call, the geographical location of the call, the telephone number of the caller (unless withheld), and the IP address of the device the caller used to arrive at your website. The collection of this information helps us to determine the effectiveness of our marketing campaigns by identifying whether the calls we receive were generated by Google Adwords click throughs, or by Facebook ad click throughs (for example).
 
@@ -130,7 +130,8 @@ We will not sell or rent your personal information without your consent. We may 
 
 ### 10\. Overseas disclosure of personal information
 
-NRMA is likely to disclose some of your personal information, for the purposes described above, to organisations in the United Kingdom and the United States of America.  
+NRMA is likely to disclose some of your personal information, for the purposes described above, to organisations in the United Kingdom and the United States of America.
+
 Personal information provided to organisations in the United States of America may not have the same protection as set out in this privacy policy and the Australian Privacy Principles, and NRMA may not take any steps to ensure such protection.
 
 ### 11\. Location-Based Services
@@ -147,7 +148,7 @@ In the first instance, we will ask you to provide some of identification, such a
 
 ### 13\. Making a complaint
 
-If you wish to complain about our handling of your personal information, please send a written complaint to the Privacy Officer in the first instance by using the contact details below. We undertake to promptly acknowledge and investigate any complaint about the way we manage personal information. If you are dissatisfied with the outcome of our investigation, you may take your privacy complaint to the Office of the Australian Information Commissioner ( **OAIC** ). For information in making a complaint to the OAIC, please visit the OAIC's website http://www.oaic.gov,au/privacy.making-a-privacy-complaint, or phone 1300 363 992.
+If you wish to complain about our handling of your personal information, please send a written complaint to the Privacy Officer in the first instance by using the contact details below. We undertake to promptly acknowledge and investigate any complaint about the way we manage personal information. If you are dissatisfied with the outcome of our investigation, you may take your privacy complaint to the Office of the Australian Information Commissioner ( **OAIC** ). For information in making a complaint to the OAIC, please visit the OAIC's website <http://www.oaic.gov.au/privacy/privacy-complaints>[](http://www.oaic.gov.au/privacy/privacy-complaints), or phone 1300 363 992.
 
 ### 14\. Contacting us
 
@@ -158,5 +159,8 @@ National Roads and Motorists' Association Limited
 9 George Street  
 North Strathfield NSW 2137
 
-You can also telephone us on **13 11 22** , visit an NRMA office or email our Privacy Officer.  
+You can also telephone us on **13 11 22** , visit an NRMA office or email our [Privacy Officer](mailto:privacy@mynrma.com.au).
+
 *Insurance Australia Limited (trading as NRMA Insurance) and its related entities are separate and unrelated to National Roads and Motorists' Association Limited.
+
+[Last amended on 28 July 2015]
