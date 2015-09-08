@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.ca privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628183156id_/http%3A//www.consumer.equifax.ca/privacy_policy/en_ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.ca privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909005302id_/http%3A//www.consumer.equifax.ca/privacy_policy/en_ca) for the most accurate reproduction.*
 
 # Equifax Canada - Privacy Policy - www.equifax.com
 
