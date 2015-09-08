@@ -1,11 +1,15 @@
-<!--The following is the downloaded HTML source of the prezly.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315054624id_/http%3A//www.prezly.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prezly.com privacy policy that was archived on 2015-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150908034914id_/https%3A//www.prezly.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="//tag.getdrip.com/6626116.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/tae6c2azvl/analytics.min.js"></script><script>(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHVldUGwcAV1hTAAA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="google-site-verification" content="rTloqC_e4EUTmCYLsI3keFj_r9hNwF_d8Pr7CSGn3nQ">
 <meta name="title" content="Privacy Policy - Prezly">
 <meta name="description" content="Protecting your privacy, securily storing your press release data and a non-disclosure agreement.">
-<meta name="keywords" content="online press releases, press releases, press release distribution, press release software, social media press release, press release service, prezly.com, press, prezly">
+<meta name="twitter:title" content="Privacy Policy - Prezly">
+<meta name="twitter:description" content="Protecting your privacy, securily storing your press release data and a non-disclosure agreement.">
+<meta name="og:title" content="Protecting your privacy, securily storing your press release data and a non-disclosure agreement.">
+<meta name="og:description" content="Protecting your privacy, securily storing your press release data and a non-disclosure agreement.">
 <meta name="language" content="en">
 <meta name="robots" content="index, follow">
 <meta name="p:domain_verify" content="2814b458b349d39cd7c75234f69f8032">
@@ -15,28 +19,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="/blog/wp-content/themes/prezly_bs3/css/bootstrap.css" rel="stylesheet" type="text/css" media="screen">
-<link href="/blog/wp-content/themes/prezly_bs3/css/style.css?ver=18" rel="stylesheet" type="text/css" media="all">
-<link href="/blog/wp-content/themes/prezly_bs3//fontcustom/fontcustom.css" rel="stylesheet" type="text/css" media="screen">
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,800" rel="stylesheet" type="text/css" media="all">
+<link href="/blog/wp-content/themes/prezly_bs3/css/style.css?v=35" rel="stylesheet" type="text/css" media="all">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,800" rel="stylesheet" type="text/css" media="all">
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
   <script src="../../assets/js/html5shiv.js"></script>
   <script src="../../assets/js/respond.min.js"></script>
   <![endif]-->
 <!-- Favicons -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114-precomposed.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72-precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/assets/apple-touch-icon-57-precomposed.png">
 <link rel="shortcut icon" href="/assets/favicon.png">
 <!-- Facebook share image -->
 <meta property="og:image" content="/assets/prezly-logo-facebookshare.png">
+<meta property="twitter:card" content="summary">
+<meta property="twitter:site" content="@prezly">
+<meta property="og:type" content="website">
 <!-- JavaScript plugins (requires jQuery) -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="http://www.google.com/jsapi?key=ABQIAAAAAHuGtjf1RVFK8PhJcWO7_hTAzhy5DAkdDP4j9mL9svbPba4wLxS7D4sHutq9xoRYF5GrdZiOa0aogA"></script>
+<script type="text/javascript" async="" src="//tag.getdrip.com/6626116.js"></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/tae6c2azvl/analytics.min.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//www.google.com/jsapi?key=ABQIAAAAAHuGtjf1RVFK8PhJcWO7_hTAzhy5DAkdDP4j9mL9svbPba4wLxS7D4sHutq9xoRYF5GrdZiOa0aogA"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="/blog/wp-content/themes/prezly_bs3/js/bootstrap/bootstrap.min.js"></script>
 <script src="/frontend/js/prezly.js"></script>
+<script src="/frontend/js/sourcebuster.min.js"></script>
+<script>sbjs.init();</script>
+<!-- Start Visual Website Optimizer Asynchronous Code -->
+<script>var _vwo_code=(function(){var account_id=43547,settings_tolerance=2000,library_tolerance=2500,use_existing_jquery=false,f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=43547&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150908034914id_%2Fhttps%253A%2F%2Fwww.prezly.com%2Fprivacypolicy&amp;r=0.32748632890243323" type="text/javascript"></script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+<style>.navbar-brand{background-image:url(https://www.prezly.com/blog/wp-content/themes/prezly_bs3/images/logo.png?1428582556)}</style>
 <script>//<![CDATA[
 window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION="2.0.8",window.analytics.load("tae6c2azvl");window.analytics.page();
 //]]></script>
@@ -61,11 +73,10 @@ window.analytics||(window.analytics=[]),window.analytics.methods=["identify","tr
 <div class="collapse navbar-collapse nav-collapse navbar-right" style="height:auto">
 <ul class="nav navbar-nav ">
 <li><a id="navigation_features" title="Take a tour. Our features" href="/tour">Tour</a></li>
-<li><a id="navigation_clients" title="Client testimonials &amp; Case Studies" href="/customers">Clients</a></li>
-<li><a id="navigation_pricing" title="Plans and pricing" href="/pricing">Pricing</a></li>
-<li class="highlight signup visible-sm"><a id="navigation_signup" title="Create account" href="/signup/plan/pro">Try it</a></li>
-<li class="highlight signup hidden-sm"><a id="navigation_signup" title="Create account" href="/signup/plan/pro">Try it for free</a></li>
-<li class="login"><a id="navigation_signin" title="Login to your account" href="/login">Log in</a></li>
+<li><a id="navigation_clients" title="Customer testimonials &amp; Case Studies" href="/customers">Customers</a></li>
+<li class="hidden-sm"><a id="navigation_learn" title="Inspiration and tools for the Public Relations pro" href="/learn">Inspiration &amp; tools</a></li>
+<li class="signup highlight"><a href="#demo" title="Request a demo">See it in action</a></li>
+<li class="login"><a id="navigation_signin" title="Login to your account" href="http://rock.prezly.com//login">Log in</a></li>
 </ul>
 </div>
 </nav>
@@ -85,14 +96,68 @@ window.analytics||(window.analytics=[]),window.analytics.methods=["identify","tr
 <div class="container">
 <div class="row">
 <div class="col-md-8">
+<h4>Last Updated: March 26, 2015</h4>
 <h3>Protecting Your Privacy</h3>
 <p>We believe in protecting your privacy. We've put together this privacy policy to explain how your information is protected, stored, and used. By using the service, you consent to the terms and conditions of this privacy policy and are aware that our policies may evolve in the future.</p>
-<h3>Data Collection and Storage</h3>
-<p>We collect and store all information provided during your use of Prely (f.e. personal information, contactlists, press releases, ...). This information will not be disclosed to any third-party without your explicit consent.</p>
-<p>However Prezly uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the website. However, you retain all rights to your data.</p>
-<p>Prezly uses collected information for the following general purposes: products and services provisioning, identification and authentication, services improvements, contact, and research.</p>
-<h3>Disclosure</h3>
-<p>Prezly may disclose personal information under special circumstances, such as to comply with subpoenas.</p>
+<p>We may make changes to this Privacy Policy from time to time. When we do, we will revise the “last updated” date given above. It is your responsibility to review this Policy frequently and to remain informed of any changes to them. The then-current version of these Terms will supersede all earlier versions.</p>
+<h3>Data collection from visitors of Press Room(s)</h3>
+<p><em>This section describes our policies for internet users that visit Press Rooms hosted on Prezly.</em></p>
+<p>In the course of providing user and usage data analytics Services to our customers, Prezly collects both non-personally identifiable and personally identifiable information about end users of Press Rooms. Personally Identifiable Information (“PII”) collected by Prezly includes data such as your name, address, phone number, or email address, which you have provided to the Customer. Prezly will not collect your password for any Press Room or credit card information. We do not purchase or receive information about you from third parties (other than our customers).</p>
+<p>Prezly also collects non-personally identifiable information about you from Press Rooms you visit, including the following types of data:
+Standard Data – common information found in every communication sent over the internet. Using this information, information such as browser type (e.g., Chrome or Internet Explorer); operating system (e.g,. Macintosh or Windows); browser language (e.g., Java or Unix); and internet service provider (e.g., Verizon Fios or AOL)
+Clickstream Data – how you use our Press Rooms and various pages on the internet.
+Prezly may use this PII and non-personally identifiable information to provide our Services to our customers.</p>
+<h4>Use of Cookies</h4>
+<p>Cookies are identifiers transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Press Room are visited and by how many people. Like most internet sites, Prezly uses cookies to enhance our visitors’ and customers’ experience on the internet. Most browsers allow you to prevent the browser from accepting new cookies, to be notified when you receive a new cookie, or to disable cookies. </p>
+<h4>Retention of Data</h4>
+<p>Cookies set on behalf of Prezly expire after three years and the expiration date updates every time you encounter our server. Prezly retains standard web log data, aggregations and reports, visitor details for up to 10 years after you visit a Customer Site.</p>
+<h4>Access to your Data</h4>
+<p>Please get in touch via <a href="mailto:help@prezly.com">help@prezly.com</a> if you want get access, make changes or request removal of the data Prezly collected about you.</p>
+<h3>Data Collection from Prezly Customers</h3>
+<p><em>This section describes our policies for end users of the Prezly homepage (https://www.prezly.com) and Prezly Backend (https://rock.prezly.com), Prezly customers, and corporate partners.</em></p>
+<h4>Data You Provide</h4>
+<p>We receive and store any information you enter on the Homepage or through the Backend or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our features. We use PII provided by you for such purposes as responding to your requests for Services, customizing the content you see, communicating with you about our products, and marketing our Services to you.
+In order for you to use all of our features, you must register with Prezly. We require your e-mail address and password during the registration process.
+Further information may be required if you choose to purchase paid components of the Services, such as credit card and billing information. Prezly uses third party partners for credit card processing who may require and store your credit card and billing information.</p>
+<h4>Automatic tracking</h4>
+<p>We receive and store certain types of information whenever you interact with us. Prezly automatically receives and records “traffic data” on our server logs from your browser including your IP address, cookie information, and pages you request. Prezly uses this traffic data to analyze trends and administer the Site. Our service automatically collects usage information, such as the numbers and frequency of visitors to our Site and its components. This data is only used in the aggregate. This type of collective data enables us to figure out how often users use different parts of the Site and Services. In addition, we may provide statistical collective user information, not information about you personally, to our partners so that they understand how often people use specific components of our Site and Services.</p>
+<h4>E-mail and In-App Communications</h4>
+<p>If you purchase the Services, Prezly will communicate with you about the services you purchase by e-mail. You consent to receiving such confirmations by e-mail or via In-App mesasges. If you contact us via e-mail through the Site, we may retain a record of your contact information and any information you provide us in your message to respond to you. We may receive a confirmation when you open an e-mail from Prezly.
+We may also send e-mails with service updates, news or promotions. If you do not want to receive e-mail from us, please contact us at <a href="mailto:help@prezly.com">help@prezly.com</a>.</p>
+<h4>Information From Other Sources</h4>
+<p>To improve our Services, we may receive information about you from other sources and add it to our account information. Like the information you provide to us, we do not share this information with anyone except authorized third parties in connection with providing you with our Services.</p>
+<h4>Cookies</h4>
+<p>Cookies are identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people. Most browsers allow you to prevent the browser from accepting new cookies, to be notified when you receive a new cookie, or to disable cookies. Some of our business partners may use cookies on our Site. However, we have no access to or control over these cookies.</p>
+<h3>Sharing of Personal Identified Information</h3>
+<p><em>This section describes our policies for sharing PII received from either Press Room visitors or Prezly Homepage visitors or Prezly customers.We neither rent nor sell PII to anyone. Except as provided for in any additional agreement you enter into with Prezly, we maintain the confidentiality of your PII and share your PII only as described below:</em></p>
+<h4>Affiliated Businesses We Do Not Control</h4>
+<p>Prezly may provide services or sell products jointly with affiliated businesses. We will share customer information that is related to such transactions with those affiliated businesses. We require our affiliates to provide the same level of privacy protection that we do and they do not have the right to share or use PII for any purpose other than for an authorized transaction. Prezly may share aggregated demographic information with customers in connection with the provision of the Services.</p>
+<h4>Agents</h4>
+<p>We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products and services. Examples include billing, processing payments, providing marketing assistance, and providing customer service. Our agents subscribe to the same level of privacy protection as we do. Unless we tell you differently, Prezly does not share, and Agents do not have any right to use PII collected from our Site and Services beyond what is necessary to assist us.
+Financial and billing information is collected through the Site and Services directly by a third-party intermediary and is used solely to bill for the Services. Prezly does not receive your billing information from this third-party intermediary, who may store, retain, and use the information provided solely for the purpose of credit card processing.</p>
+<h4>Promotional Offers</h4>
+<p>We may send offers to our customers on behalf of other businesses or provide our customers with the opportunity to notify end users directly of promotions by text messages or e-mail. If you do not wish to receive these offers, please e-mail us at
+<a href="mailto:help@prezly.com">help@prezly.com</a>.</p>
+<h4>Business Transfers</h4>
+<p>In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Prezly, or substantially all of its assets, were acquired, user information would be one of the assets that is reviewed and transferred. You acknowledge that such transfers may occur, and that any acquirer of Prezly may continue to use your PII as set forth in this policy.</p>
+<h4>Protection</h4>
+<p>We may release PII when we in our sole discretion believe in good faith that release is necessary or appropriate to comply with the law, enforce or apply our conditions of use and other agreements, or protect the rights, property, or safety of Prezly, our employees, our customers, or others.</p>
+<h4>Your Consent</h4>
+<p>Except as set forth above, we will not share PII collected from Prezly customers or end users with third parties without your consent.</p>
+<h3>Additional Policies</h3>
+<h4>Security</h4>
+<p>Your Prezly account information is protected by a password for your privacy and security. We use industry-standard Secure Socket Layer (SSL) software to protect the security of your PII during transmission, which encrypts all of the information you input. Only employees or agents who need personal information to perform a specific job are granted access to it. All of our employees are kept up to date on our privacy and security practices.</p>
+<h4>Accessing Information</h4>
+<p>You are able to access, add to and update certain information about you. When you update information, however, we often maintain a copy of the unrevised information in our records. You may deactivate your Prezly account by following the deactivation process set forth on the Site. Some information may remain in our records after deletion of your account. Please contact us at
+<a href="mailto:help@prezly.com">help@prezly.com</a> if you have questions or concerns about accessing your PII.</p>
+<h4>Conditions of Use</h4>
+<p>Your use of the Site and Services and any possible dispute over privacy are subject to this Privacy Policy and our Terms of Service, including limitations on damages, dispute resolution, and application of the Belgian law and competence of the Belgian courts.</p>
+<h4>International Visitors</h4>
+<p>For users outside the European Union, please note that any data or PII you enter into the Services or Site will be transferred out of your country and into the EU. You consent to such transfer through your use of the Services and Site. You also warrant that you have the right to transfer such information outside your country and into the EU.</p>
+<h4>Use by Children</h4>
+<p>Prezly is not intended for children. If you are under 18, you may use the Site and Services only with the supervision of your parent or guardian.</p>
+<h4>Third Party Sites</h4>
+<p>The Site and Services may permit you to link to other websites on the Internet, and other websites may contain links to the Site or Services. These other websites are not under Prezly’s control and Customer.io is not responsible for the privacy or security practices or the content of such websites.</p>
 <br>
 </div>
 <div class="col-md-4">
@@ -105,6 +170,134 @@ window.analytics||(window.analytics=[]),window.analytics.methods=["identify","tr
 </div> </div>
 </div>
 <footer id="colophon" class="site-footer" role="contentinfo">
+<div class="democontainer" id="demo">
+<div class="demoholder demoholder_a" style="display:none;">
+<div class="container">
+<div class="row" id="demo_a">
+<div class="text-center">
+<br>
+<h2 class="demoform_title">See Prezly in action</h2>
+<div class="demoform_content">
+<p class="lead text-muted">Get a quick demo with a PR automation expert</p>
+<br class="visible-lg">
+<div class="alert alert-danger hidden demorequest_alert" role="alert" id="demorequest_alert" style="display: inline-block;">Please fill in your name, email address and company name.</div>
+<form action="/demo/request?variation=a" method="POST" class="form-inline" role="form" id="demorequest">
+<input type="hidden" name="demorequest_source_current" id="demorequest_source_current" class="demorequest_source_current">
+<input type="hidden" name="demorequest_source_first" id="demorequest_source_first" class="demorequest_source_first">
+<input type="hidden" name="demorequest_source_session" id="demorequest_source_session" class="demorequest_source_session">
+<br class="visible-sm visible-md">
+<div class="form-group">
+<input type="input" class="form-control demorequest_name" name="demorequest_name" id="demorequest_name" placeholder="First and last name">
+</div>
+<div class="form-group">
+<input type="input" class="form-control demorequest_email" name="demorequest_email" id="demorequest_email" placeholder="Email">
+</div>
+<br class="visible-sm">
+<br class="visible-sm">
+<div class="visible-md">&nbsp;</div>
+<div class="form-group">
+<input type="input" class="form-control demorequest_company" name="demorequest_company" id="demorequest_company" placeholder="Company">
+</div>
+<div class="form-group">
+<input type="input" class="form-control demorequest_phone" name="demorequest_phone" id="demorequest_phone" placeholder="Phone">
+</div>
+<br class="visible-sm">
+<br>
+<br>
+<div class="form-group">
+<button type="submit" class="btn btn-primary btn-lg">Request demo</button>
+</div>
+<br>
+<br>
+</form>
+</div>
+<br>
+</div>
+</div>
+</div>
+</div>
+<div class="demoholder demoholder_b">
+<div class="container">
+<div class="row" id="demo_b">
+<div class="text-center">
+<br>
+<h2 class="demoform_title">See Prezly in action</h2>
+<div class="demoform_content">
+<p class="lead text-muted">Get a quick demo with a PR automation expert</p>
+<br class="visible-lg">
+<div class="row">
+<div class="col-md-8 col-md-offset-2">
+<div class="panel">
+<div class="panel-body" style="padding:3em">
+<div class="alert alert-danger hidden demorequest_alert" role="alert" id="demorequest_alert" style="display: inline-block;">Please fill in your name, email address and company name.</div>
+<form action="/demo/request?variation=b" method="POST" class="form-horizontal" role="form" id="demorequest_b">
+<input type="hidden" name="demorequest_source_current" id="demorequest_source_current" class="demorequest_source_current">
+<input type="hidden" name="demorequest_source_first" id="demorequest_source_first" class="demorequest_source_first">
+<input type="hidden" name="demorequest_source_session" id="demorequest_source_session" class="demorequest_source_session">
+<br class="visible-sm visible-md">
+<div class="form-group">
+<label for="demorequest_name" class="col-sm-4 control-label">Your name</label>
+<div class="col-sm-8">
+<input type="text" class="form-control demorequest_name" name="demorequest_name" id="demorequest_name" placeholder="First and last name">
+</div>
+</div>
+<div class="form-group">
+<label for="demorequest_email" class="col-sm-4 control-label">Work email</label>
+<div class="col-sm-8">
+<input type="input" class="form-control demorequest_email" name="demorequest_email" id="demorequest_email" placeholder="Work email">
+</div>
+</div>
+<div class="form-group">
+<label for="demorequest_company" class="col-sm-4 control-label">Company</label>
+<div class="col-sm-8">
+<input type="text" class="form-control demorequest_company" name="demorequest_company" id="demorequest_company" placeholder="Company">
+</div>
+</div>
+<div class="form-group">
+<label for="demorequest_phone" class="col-sm-4 control-label">Phone/Mobile</label>
+<div class="col-sm-8">
+<input type="text" class="form-control demorequest_phone" name="demorequest_phone" id="demorequest_phone" placeholder="Telephone">
+</div>
+</div>
+<br>
+<div class="form-group">
+<label for="demorequest_releasesmonth" class="col-sm-4 control-label">Why are you interested?</label>
+<div class="col-sm-8">
+<input type="text" class="form-control demorequest_reason" name="demorequest_reason" id="demorequest_reason" placeholder="Why are you interested?">
+</div>
+</div>
+<div class="form-group">
+<label for="demorequest_name" class="col-sm-4 control-label">How big is your PR/Comms team?</label>
+<div class="col-sm-8">
+<select class="form-control placeholder demorequest_volume" name="demorequest_volume" id="demorequest_volume">
+<option value="" disabled="" selected="" style="display: none;">How big is your PR team?</option>
+<option value="1">1</option>
+<option value="2-5">2-5</option>
+<option value="5-10">5-10</option>
+<option value="10-20">10-20</option>
+<option value="20-50">20-50</option>
+<option value="50+">50+</option>
+</select>
+</div>
+</div>
+<br class="visible-sm">
+<div class="form-group">
+<button type="submit" class="btn btn-primary btn-lg">Request demo</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<style>.demoholder_b{background:#fff!important}#demo_b h2{font-size:2em;margin-top:0;text-shadow:none!important;color:#77a6d5}.placeholder{color:#d3dae0}.has-error .form-control:focus,.has-error .form-control{border-color:#a13b18}select option:first-child{color:#1d3a56;display:none}select option{color:#1d3a56}select{color:#1d3a56}</style>
+<script>$(function(){$('#demorequest_volume').change(function(){if($(this).children('option:first-child').is(':selected')){$(this).addClass('placeholder');}else{$(this).removeClass('placeholder');}});});</script>
+</div>
+<br>
+</div>
+</div>
+</div>
+</div>
+</div>
 <div class="cta">
 <div class="container">
 <div class="row">
@@ -112,11 +305,10 @@ window.analytics||(window.analytics=[]),window.analytics.methods=["identify","tr
 <h2>Make your PR team rock with Prezly</h2>
 <dl class="row">
 <dt class="col-md-4 col-sm-4">Be more effective</dt>
-<dd class="col-md-8 col-sm-8">Attract more visitors, leads &amp; customers. Boost the impact of your story with <a href="/tour/social-media-press-rooms-and-releases" title="Social media press rooms">stunning press rooms and social media press releases.</a></dd>
 </dl>
 <dl class="row">
 <dt class="col-md-4 col-sm-4">Be more efficient</dt>
-<dd class="col-md-8 col-sm-8">Waste less time stringing together several solutions for <a href="/tour/engage-your-PR-contacts" title="contact management or influencer relation management (IRM)">contact management</a>, <a href="/tour/social-media-press-rooms-and-releases" title="PR publication">news publication</a> and <a href="/tour/email-distribution" title="PR distribution tools">distribution</a>.</dd>
+<dd class="col-md-8 col-sm-8">Waste less time stringing together several solutions for <a href="/tour/engage-your-PR-contacts" title="contact management or influencer relation management (IRM)">contact management</a>, <a href="/tour/social-media-press-rooms-and-press-releases" title="PR publication">news publication</a> and <a href="/tour/email-distribution" title="PR distribution tools">distribution</a>.</dd>
 </dl>
 </div>
 <div class="col-md-3">
@@ -138,11 +330,11 @@ window.analytics||(window.analytics=[]),window.analytics.methods=["identify","tr
 <!--
         <div class="row">
           <div class="col-md-6">
-            <p class="lead">Call us: +44 20 36086554</p>
+            <p class="lead">Call us: +44 20 3608 0994</p>
           </div>
           <div class="col-md-6">
             <ul class="sociallist">
-              <li><a href="https://twitter.com/prezly"><i class="icon icon-twitter-circle"></i> Twitter</a></li>
+              <li><a href="https://twitter.com/prezly"><i class="icon icon-twitter"></i> Twitter</a></li>
               <li><a href="https://www.facebook.com/PrezlyPR"><i class="icon icon-facebook-circle"></i> Facebook</a></li>
               <li><a href="http://www.linkedin.com/company/2495003?trk=tyah&trkInfo=tas%3Aprezly%2Cidx%3A1-1-1"><i class="icon icon-in-circle"></i> Linkedin</a></li>
             </ul>
@@ -161,7 +353,6 @@ window.analytics||(window.analytics=[]),window.analytics.methods=["identify","tr
 <div class="navbar">
 <ul class="nav nav-stacked">
 <li><a title="Get the Prezly newsletter" href="/subscribe">Get newsletter</a></li>
-<li><a title="Request a Free Demo of the full PR tool" href="/demo">Get free demo</a></li>
 <li><a title="Contact the Prezly team" href="/contact">Email or call us</a></li>
 <li><a title="About the Prezly team." href="/about">Mission &amp; the team</a></li>
 </ul>
@@ -171,7 +362,6 @@ window.analytics||(window.analytics=[]),window.analytics.methods=["identify","tr
 <div class="navbar">
 <ul class="nav nav-stacked">
 <li><a title="Learn how a Prezly press room can support your PR efforts" href="/tour">Tour</a></li>
-<li><a title="Plans &amp; Pricing Overview" href="/pricing">Pricing</a></li>
 <li><a title="Testimonials by our customers" href="/customers">Customers</a></li>
 <li><a title="Examples of social media press rooms" href="/social-media-press-release-examples">PR examples</a></li>
 </ul>
@@ -183,19 +373,19 @@ window.analytics||(window.analytics=[]),window.analytics.methods=["identify","tr
 <h4>PR toolkit</h4>
 <div class="navbar">
 <ul class="nav nav-stacked">
-<li><a href="/tour/social-media-press-rooms-and-releases" title="Social media press rooms">Multimedia press rooms</a></li>
-<li><a href="/tour/email-distribution" title="Online press rooms">Online distribution</a></li>
-<li><a href="/tour/engage-your-PR-contacts" title="Online press rooms">Contact management</a></li>
+<li><a href="/tour/social-media-press-rooms-and-press-releases" title="Social media press rooms">Multimedia press rooms</a></li>
+<li><a href="/tour/email-distribution" title="Pitch through email">Online distribution</a></li>
+<li><a href="/tour/engage-your-PR-contacts" title="CRM for PR">Contact management</a></li>
 </ul>
 </div>
 </div>
 <div class="col-md-5">
-<h4><a href="http://feeds.feedburner.com/prezly" title="RSS feed"><i class="icon icon-rss-circle pull"></i></a> News from <a href="/blog" title="Our vision on online PR">our blog</a></h4>
+<h4><a href="http://feeds.feedburner.com/prezly" title="RSS feed"><i class="icon icon-rss pull-right"></i></a> News from <a href="/blog" title="Our vision on online PR">our blog</a></h4>
 <div class="navbar">
 <ul class="nav nav-stacked">
-<li><a href="http://www.prezly.com/blog/2015/03/5-new-ws-media-relations/">The 5 New W’s of media relations</a></li>
-<li><a href="http://www.prezly.com/blog/2015/03/two-new-resources-help-every-pr-pro-thrive/">Two new resources to help every PR pro thrive</a></li>
-<li><a href="http://www.prezly.com/blog/2015/02/5-quick-tips-becoming-pr-geek/">5 quick tips to becoming a PR geek</a></li>
+<li><a href="https://www.prezly.com/blog/2015/09/why-we-built-the-most-exhaustive-guide-about-pr-tools-on-the-planet/" title="Blogpost: Why we built the most exhaustive guide about PR tools on the planet">Why we built the most exhaustive guide about PR tools on the planet</a></li>
+<li><a href="https://www.prezly.com/blog/2015/07/6-surefire-ways-to-optimize-excel-stakeholder-management/" title="Blogpost: 6 surefire ways to optimize Excel stakeholder management">6 surefire ways to optimize Excel stakeholder management</a></li>
+<li><a href="https://www.prezly.com/blog/2015/07/the-ultimate-media-interview-checklist-infographic/" title="Blogpost: The Ultimate Media Interview Checklist (Infographic)">The Ultimate Media Interview Checklist (Infographic)</a></li>
 </ul>
 </div>
 </div>
@@ -210,12 +400,25 @@ window.analytics||(window.analytics=[]),window.analytics.methods=["identify","tr
 </div>
 </div>
 </footer>
+<script>$(function(){$('.demorequest_source_current').val(JSON.stringify(sbjs.get.current));$('.demorequest_source_first').val(JSON.stringify(sbjs.get.first));$('.demorequest_source_session').val(JSON.stringify(sbjs.get.session));$("#demorequest").submit(function(event){return submit_demo($(this),event,'a');});$("#demorequest_b").submit(function(event){return submit_demo($(this),event,'b');});});</script>
+<script>function submit_demo(formobject,event,formvaration){var error=false;var form=formobject;var postData=form.serializeArray();var formURL=form.attr("action");if(formobject.find('.demorequest_name').val()==""){error=true;formobject.find('.demorequest_name').parent().addClass('has-error');}
+if(formobject.find('.demorequest_email').val()==""){error=true;formobject.find('.demorequest_email').parent().addClass('has-error');}
+if(formobject.find('.demorequest_company').val()==""){error=true;formobject.find('.demorequest_company').parent().addClass('has-error');}
+if(error==true){formobject.parent().find('.demorequest_alert').removeClass('hidden');analytics.track('demorequest_failed');analytics.track('demorequest_missingfields');return false;}else{formobject.parent().find('.demorequest_alert').addClass('hidden');}
+event.preventDefault();$.ajax({url:formURL,type:"POST",data:postData,success:function(data,textStatus,jqXHR)
+{$('.demoform_content').addClass('hidden');$('.demoform_title').html('Thank you! We will contact you shortly.');goog_report_conversion();getappTrackConversion();var capterra_vkey='eb7e69c78668e89ea0d8f9ca7578b2f5',capterra_vid='2101269',capterra_prefix=(('https:'==document.location.protocol)?'https://ct.capterra.com':'http://ct.capterra.com');(function(){var ct=document.createElement('script');ct.type='text/javascript';ct.async=true;ct.src=capterra_prefix+'/capterra_tracker.js?vid='+capterra_vid+'&vkey='+capterra_vkey;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ct,s);})();analytics.track('demorequest_success');analytics.page('demorequest_success');},statusCode:{202:function(){$('.demoholder').find('.demorequest_alert').removeClass('hidden');analytics.track('demorequest_failed');analytics.page('demorequest_failed');}}});}</script>
 <!-- Drip -->
 <script>var _dcq=_dcq||[];var _dcs=_dcs||{};_dcs.account='6626116';(function(){var dc=document.createElement('script');dc.type='text/javascript';dc.async=true;dc.src='//tag.getdrip.com/6626116.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(dc,s);})();</script>
+<script>function getappTrackConversion(){var r=document.referrer;var h=window.location.href;var p='0';var e='';var listing_id='101855';var a=document.createElement('script');a.type='text/javascript';a.async=true;a.src='https://www.getapp.com/conversion/'+encodeURIComponent(listing_id)+'/r.js?p='+encodeURIComponent(p)+'&h='+encodeURIComponent(h)+'&r='+encodeURIComponent(r)+'&e='+encodeURIComponent(e);var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(a,s);};</script>
+<!-- Google conversion -->
+<script>//<![CDATA[
+goog_snippet_vars=function(){var w=window;w.google_conversion_id=1013172049;w.google_conversion_label="M2nQCM_L3FsQ0Y6P4wM";w.google_remarketing_only=false;}
+goog_report_conversion=function(url){goog_snippet_vars();window.google_conversion_format="3";window.google_is_call=true;var opt=new Object();opt.onload_callback=function(){if(typeof(url)!='undefined'){window.location=url;}}
+var conv_handler=window['google_trackConversion'];if(typeof(conv_handler)=='function'){conv_handler(opt);}}
+//]]></script>
+<script src="//www.googleadservices.com/pagead/conversion_async.js"></script>
+<script src="//platform.twitter.com/oct.js"></script>
 <!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-    Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
-    --------------------------------------------------->
 <script>//<![CDATA[
 var google_conversion_id=1013172049;var google_custom_params=window.google_tag_params;var google_remarketing_only=true;
 //]]></script>
@@ -228,5 +431,5 @@ var google_conversion_id=1013172049;var google_custom_params=window.google_tag_p
 <script>//<![CDATA[
 $(function(){});
 //]]></script>
-<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","licenseKey":"83470b16b1","applicationID":"4039171","transactionName":"NlMEMUNVCkJZVEEMXQ8ZJwZFXQtfF19aCFdORhQMR1UHSEhYWQxRGA==","queueTime":0,"applicationTime":91,"atts":"GhQHRwtPGUw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
-</div><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+
+</div></body></html>
