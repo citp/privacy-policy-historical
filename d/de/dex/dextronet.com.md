@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dextronet.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426142353id_/http%3A//www.dextronet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dextronet.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908221800id_/http%3A//www.dextronet.com/privacy-policy) for the most accurate reproduction.*
 
 # Dextronet Privacy Policy
 
@@ -20,7 +20,7 @@ We do not share your personal information with outside parties except to the ext
 
 The information provided by you is used only to process your order and/or to inform you about new products and product updates. You can opt-out from these email updates.
 
-We use non-identifying and aggregate information to better design our website and products.
+We might use non-identifying and aggregate information, to better design our website and products.
 
 When you contact us, we might use a part of the email message in our promotion materials as a testimonial, without publishing your full name. You have to right to decline any such use and we will promptly remove any such materials in 24 hours after your written request.
 
