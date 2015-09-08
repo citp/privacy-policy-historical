@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosquared.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324021905id_/https%3A//www.gosquared.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosquared.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908090840id_/https%3A//www.gosquared.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy - Legal - GoSquared
 
