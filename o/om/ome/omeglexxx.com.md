@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omeglexxx.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627040101id_/http%3A//www.omeglexxx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omeglexxx.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909200057id_/http%3A//www.omeglexxx.com/privacy) for the most accurate reproduction.*
 
 # Omegle Webcam Chat for Adults Only » OmegleXXX
 
