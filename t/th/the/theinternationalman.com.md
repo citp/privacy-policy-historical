@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the theinternationalman.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315045555id_/http%3A//www.theinternationalman.com/texts/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternationalman.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909235646id_/http%3A//www.theinternationalman.com/texts/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement: TheInternationalMan.com
 
 #### DATA PROTECTION
 
 Any personal information you supply to us when you use the _TheInternationalMan.com_ 's website is never sold, lent or leased to third parties!
+
+#### HOW WE USE COOKIES
+
+Cookies are very small text files that are stored on your computer when you visit some websites. 
+
+We use cookies to help identify your computer so we can tailor your user experience, track shopping basket contents and remember where you are in the order process. 
+
+You can disable any cookies already stored on your computer, but these may stop our website from functioning properly.
 
 #### MARKETING ANALYSIS
 
