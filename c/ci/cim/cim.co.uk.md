@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628074120id_/http%3A//www.cim.co.uk/insight/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cim.co.uk privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909235622id_/http%3A//www.cim.co.uk/insight/privacy) for the most accurate reproduction.*
 
 # Privacy | The Chartered Institute of Marketing
 
@@ -17,6 +17,8 @@ The Chartered Institute of Marketing is committed to upholding your privacy and 
 • [Profiling](https://web.archive.org/insight/privacy/#profiling)
 
 • [Quality control](https://web.archive.org/insight/privacy/#qualitycontrol)
+
+• [Credit Cards](https://web.archive.org/insight/privacy/#CreditCards)
 
 • [Security safeguards](https://web.archive.org/insight/privacy/#Securitys)
 
@@ -116,6 +118,12 @@ As a marketing driven organisation we may use the information you provide to ass
 ## Quality control
 
 The Chartered Institute of Marketing uses data for testing purposes to ensure that its IT system for processing that data is working properly.
+
+[Back to top](https://web.archive.org/insight/privacy/#top)
+
+## Credit Cards
+
+We do not store credit card details nor do we share financial details with any 3rd parties.
 
 [Back to top](https://web.archive.org/insight/privacy/#top)
 
