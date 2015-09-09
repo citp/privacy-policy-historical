@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healio.com privacy policy that was archived on 2014-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141209115105id_/http%3A//www.healio.com/footer/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healio.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909083202id_/http%3A//www.healio.com/footer/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healio
 
@@ -50,7 +50,7 @@ Many advertisements are managed and placed on the Wyanoke Group websites by thir
 
 #### Participation in the Medical Publisher Consortium
 
-This website is a member of the Medical Publisher Consortium (the “Consortium”), and as such has implemented various technologies for universal registration/log-in among all Consortium member websites. If you would like to understand how this website’s participation in the Consortium affects your privacy, please [click here](http://www.dmddata.com/c_host/PrivacyPolicy_v3.htm).
+This website is a member of the Medical Publisher Consortium (the “Consortium”), and as such has implemented various technologies for universal registration/log-in among all Consortium member websites. If you would like to understand how this website’s participation in the Consortium affects your privacy, please [click here](http://usersupport.dmdconnects.com/PrivacyPolicy.htm).
 
 Please note that the Consortium registration/log-in system may be different from the registration/log-in used by this website for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Consortium technologies, the conflict will be resolved in favor of policy applicable to the Consortium technologies.
 
