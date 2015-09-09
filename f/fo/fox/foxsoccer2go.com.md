@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsoccer2go.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509012040id_/http%3A//www.foxsoccer2go.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsoccer2go.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909111236id_/http%3A//www.foxsoccer2go.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Help | FOX Soccer 2Go
 
