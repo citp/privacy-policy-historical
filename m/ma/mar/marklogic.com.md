@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marklogic.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318055808id_/http%3A//www.marklogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marklogic.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909211825id_/http%3A//www.marklogic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MarkLogic Corporation
 
-_Last updated: 1/21/2015_
+_Last updated: 06/29/2015_
 
 MarkLogic is strongly committed to protecting the privacy of site visitors, prospects, and customers. We will not sell your personal information to anyone. The information you give us as part of registration will be processed by MarkLogic and its ASPs entirely within the United States.
 
@@ -38,15 +38,15 @@ If you are a non-U.S. user of the Site, by visiting the Site and providing us wi
 
 ### Principle 3: Disclosure
 
-MarkLogic will not sell your individual Information to any third parties. MarkLogic does not disclose your personal information to third parties, except as set forth in this policy and in cases where MarkLogic, acting in good faith, believes that such action is necessary to: (1) conform to legal requirements or comply with a legal process, such as a search warrant, subpoena, or court order; (2) protect and defend the rights or property of MarkLogic; or (3) enforce our license or services agreement(s).
+MarkLogic will not sell your individual information to any third parties. MarkLogic does not disclose your personal information to third parties, except as set forth in this policy and in cases where MarkLogic, acting in good faith, believes that such action is necessary to: (1) conform to legal requirements or comply with a legal process, such as a search warrant, subpoena, or court order; (2) protect and defend the rights or property of MarkLogic; or (3) enforce our license or services agreement(s).
 
-MarkLogic may share your personal information with third party service providers to: provide you with the Services that MarkLogic offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to the Company.
+MarkLogic may share your personal information with third party service providers to: provide you with the Services that MarkLogic offers you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to the Company.
 
-MarkLogic may share some or all of your personal information in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, personal information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the personal information collected by us and will assume the rights and obligations regarding your personal information as described in this Privacy Policy. 
+MarkLogic may share some or all of your personal information in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, personal information may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the personal information collected by us and will assume the rights and obligations regarding your personal information as described in this Privacy Policy.
 
 ### Principle 4: Solicitation
 
-By registering at this site, you are authorizing MarkLogic to email you requested documents, a periodic newsletter, and occasional invitations to attend MarkLogic partner activities. MarkLogic will not send you any unsolicited information, including email, if at any time you decide to opt-out of receiving such information by clicking here. However, under certain circumstances, MarkLogic may be required to send customers updated information about our products.
+By registering at this site, you are authorizing MarkLogic to email you requested documents, a periodic newsletter, and occasional invitations to attend MarkLogic and/or MarkLogic partner activities. MarkLogic will not send you any unsolicited information, including email, if at any time you decide to opt-out of receiving such information by [clicking here](http://info.marklogic.com/unsubscribepage.html). If you subsequently register at this site, and decide again you would like to opt-out of receiving such information, you will need to click the opt-out link again. However, under certain circumstances, MarkLogic may be required to send customers updated information about our products.
 
 * * *
 
@@ -72,7 +72,7 @@ If you have registered your product and created a MarkLogic account, we will mat
 
 We have enabled the Demographics and Interest Reporting feature of Google Analytics to collect demographic and interest information about our visitors. Google Analytics uses cookies to collect information such as how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site. We use the information we get from Google Analytics only to improve our Site and Services. Google Analytics collects only the IP address assigned to you on the date you visit the Site, rather than your name or other personally identifying information. We do not combine the information generated through the use of Google Analytics with your personal information. Although Google Analytics plants a persistent cookie on your web browser to identify you as a unique user the next time you visit the Site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to the Site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can opt out of this by [clicking here](https://tools.google.com/dlpage/gaoptout). 
 
-**You can also opt out from these cookies by adjusting your browser settings to reject cookies. If you have previously visited our websites, you may also have to delete any existing cookies from your browser.**
+**You can opt out from any of these cookies by adjusting your browser settings to reject cookies. If you have previously visited our websites, you may also have to delete any existing cookies from your browser.**
 
  **Many of our cookies are functionality cookies and some of these cookies are managed for us by third parties. You can control the use of these cookies through your browser settings, but if you opt out from them, we may be unable to offer some services or support and we may also be unable to remember your preferences or that you did not want a certain service.**
 
