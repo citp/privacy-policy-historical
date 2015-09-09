@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filtergrade.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235059id_/http%3A//filtergrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filtergrade.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909201327id_/https%3A//filtergrade.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FilterGrade: Photoshop Actions
+# Privacy Policy - FilterGrade
 
 This Privacy Policy governs the manner in which FilterGrade collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://filtergrade.com website (“Site”). This privacy policy applies to the Site and all products and services offered by FilterGrade.
 
