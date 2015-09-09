@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kinonation.com privacy policy that was archived on 2015-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408114220id_/http%3A//kinonation.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kinonation.com privacy policy that was archived on 2015-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910001702id_/http%3A//kinonation.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -31,7 +31,8 @@
   // ga(‘set’, ‘&uid’, 'anonymous'); // Set the user ID using signed-in user_id.
 
 </script>
-  
+<script data-cfasync="false" type="text/javascript" src="//filamentapp.s3.amazonaws.com/4f26cb473dacb24be0c89ab8afe02eb3.js" async="async"></script>
+
 
 </head>
 
@@ -56,7 +57,7 @@
           <li><a href="/#pricing" class="animate">Pricing</a></li>
           <li><a href="/#enterprise" class="animate">Enterprise</a></li>
           <li class="hidden-sm"><a href="/#about" class="animate">About</a></li>
-          <li><a href="/blog">Blog</a></li>
+          <li><a href="http://kinonation.tumblr.com">Blog</a></li>
           <li class="hidden-sm "><a href="//kinonation.zendesk.com/">Help</a></li>
         </ul>
         <ul class="nav navbar-nav navbar-right">
@@ -154,7 +155,7 @@ Kinonation may change this policy from time to time by updating this page. You s
 <footer>
   <div class="container">
       <ul>
-        <li>Copyright © 2014 Kinonation</li>
+        <li>Copyright © 2015 Kinonation</li>
         <li><a href="/terms">Terms</a></li>
         <li><a href="/privacy">Privacy</a></li>
         <li><a href="//kinonation.zendesk.com/hc/en-us/requests/new">Contact</a></li>
@@ -173,10 +174,11 @@ Kinonation may change this policy from time to time by updating this page. You s
 <script src="/js/jquery-1.11.2.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 
-<script src="/js/jquery.lazyload.min.js" type="text/javascript" charset="utf-8"></script>
-<script src="/js/tipuesearch_content.js"></script>
-<script src="/js/tipuesearch_set.js"></script>
-<script src="/js/tipuesearch.js"></script>
+<script src="/js/jquery.lazyload.min.js"></script>
+
+<!-- Covered territories map-->
+<script src="//www.google.com/jsapi"></script> 
+<script src="//maps.google.com/maps/api/js?sensor=false"></script> 
 
 <script>
 $(document).ready(function() {
@@ -203,11 +205,6 @@ $(document).ready(function() {
   $imgs.lazyload({
     failure_limit: Math.max($imgs.length - 1, 0)
   });
-  
-  // full text search
-  $('#tipue_search_input').tipuesearch({
-          'showURL': false
-     });
 });
 
 </script>
