@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512093651id_/http%3A//www.freeagent.com/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910000325id_/http%3A//www.freeagent.com/website/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeAgent
 
@@ -97,7 +97,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ### Your rights
 
-  * You can unsubscribe from our promotional email communications at any time by just clicking the unsubscribe link in any email, or by emailing us at [hello@freeagent.com](mailto:hello@freeagent.com). If you have a FreeAgent account, you will still receive any essential e-mails from us about your service, including notifications from the application and notificiations about your billing and subscription.
+  * You can unsubscribe from our promotional email communications at any time by just clicking the unsubscribe link in any email, or by emailing us at [hello@freeagent.com](mailto:hello@freeagent.com). If you have a FreeAgent account, you will still receive any essential e-mails from us about your service, including notifications from the application and notifications about your billing and subscription.
   * You have the right to request a copy of personal data we hold about you. To do this, simply write to us or send us an email – just use the contact details below. We may charge you £10 for providing this information to cover our administration costs.
   * To provide the highest level of customer service we need accurate customer information. You can help by informing us whenever your circumstances change. You can ask us to correct incorrect personal data about you by writing to or emailing us at [support@freeagent.com](mailto:support@freeagent.com).
   * You can find detailed information about your rights under UK Data Protection legislation on the UK Information Commissioner's website at [www.ico.gov.uk](http://www.ico.gov.uk/).
