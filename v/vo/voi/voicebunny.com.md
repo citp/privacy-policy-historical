@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voicebunny.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607144455id_/http%3A//voicebunny.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicebunny.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909090053id_/http%3A//voicebunny.com/pages/privacy) for the most accurate reproduction.*
 
 # Bunny Inc privacy policy | VoiceBunny by Bunny Inc.
 
