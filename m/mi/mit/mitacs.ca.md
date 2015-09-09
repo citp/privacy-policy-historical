@@ -1,169 +1,106 @@
-> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325192559id_/http%3A//www.mitacs.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitacs.ca privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909233824id_/http%3A//www.mitacs.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mitacs
+# Privacy Commitment to Program Participants | Mitacs
 
-### Scope & Application
+Mitacs has a legal and ethical obligation to protect and appropriately manage personal information collected from program participants and other individuals. This Privacy Commitment lets you know the commitments that Mitacs has made to ensure your personal information is handled appropriately, and identifies your rights with regards to your own personal information.
 
-This Privacy Policy contains ten principles that are observed by Mitacs regarding the collection, use and disclosure of personal information. Each principle must be read in conjunction with the accompanying commentary. The commentary in the Mitacs Privacy Policy has been tailored to reflect personal information issues specific to Mitacs. 
+**1\. What is personal information?**
 
-The scope and application of the Mitacs Privacy Policy are as follows: 
+Personal information includes identifying information about an individual. Personal information could include home address, personal contact information, employment background, educational history, CVs or resumes, signatures, social insurance numbers, passport numbers, date of birth, financial information (including awards received), demographic information, medical information, photos or video depicting an individual, evaluations about an individual, and other details.
 
-  * The Policy applies to personal information about Mitacs program participants and other individuals that is collected, used or disclosed by Mitacs. 
-  * The Policy does not apply to information about Mitacs corporate or government partners; however, such information is protected by other Mitacs policies and practices and through contractual arrangements.
-  * The Policy does not apply to information about Mitacs employees; however, such information is protected by other Mitacs policies and practices. 
-  * This Policy is subject to change, and may be supplemented or modified by additional terms applicable between Mitacs and an individual. 
+**2\. How does Mitacs manage personal information?**
 
+Mitacs has established a Corporate Privacy Policy with a series of principles and guidelines staff are required to abide by in the management of personal information. These principles are outlined here:
 
+**_Accountability_**
 
-### Definitions
+At Mitacs, we take responsibility for the personal information in our possession. Our Chief Financial Officer (CFO) is designated as our Chief Privacy Officer (CPO), and has ultimate accountability, but all staff share in the responsibility.
 
-  * Collection - the act of gathering, acquiring, recording, or obtaining personal information.
-  * Consent - voluntary agreement with the collection, use and disclosure of personal information for defined purposes. Consent can be either express, implied or deemed, and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing. Implied consent is consent that can reasonably be inferred from an individual's action or inaction. Deemed consent is consent that is deemed to be given pursuant to applicable legislation or other regulations.
-  * Disclosure - making personal information available to a third party.
-  * Personal Information - information about an identifiable individual, but does not include aggregated information that cannot be associated with a specific individual. Personal information includes home address, personal contact information, funding awards, educational history, transcripts, qualifications, signatures and resumes. Depending on the program or event in which the participant is enrolled, personal information may also include Social Insurance Number, passport and visa information, date of birth, gender, bank account number, image, medical conditions, disabilities, dietary preferences, emergency contact information and evaluations. Individuals may be asked to provide demographic personal information, such as aboriginal status, gender, ethnicity, or disability status, as this information is shared with and used by Mitacs’ funding agencies to evaluate the efficacy of government programs in supporting specific groups or meeting program outcomes. The provision of personal demographic information is completely voluntary as it is not required nor considered in evaluating applicants, selecting participants, awarding funds or participating in Mitacs’ programs or events. Personal information also excludes certain information as is excluded pursuant to applicable legislation or other regulations, such as publicly available information or business contact information, as and when applicable. 
-  * Third Party - an individual or organization outside Mitacs.  Notably, Mitacs works in partnership with Canadian universities and academic staff who are responsible for the disbursement of Mitacs funds and awards to program participants. Mitacs works in partnership with governments, industries and agencies who provide funding or support for Mitacs’ programs and awards.
-  * Use - the treatment, handling and management of personal information by and within Mitacs.
+We have established a series of procedures to:
 
+  * Protect personal information and to oversee our compliance with our privacy policy;
+  * Receive and respond to inquiries or complaints;
+  * Train and communicate our privacy policies and practices to our employees; and
+  * Develop public information to explain our policies and practices.
 
 
-### Principle 1 - Accountability
 
-Mitacs is responsible for personal information under its control and shall designate one or more persons who are accountable for Mitacs’ compliance with the following principles:
+**_Purposes for collection_**
 
-  * 1.1.Mitacs designates the Chief Financial Officer as the Chief Privacy Officer, the person accountable for compliance with the Policy. From time to time, the Chief Privacy Officer is entitled to delegate day-to-day responsibility for administration of this Privacy Policy and related privacy policies and practices to other employees and consultants.
-  * 1.2.Mitacs shall make known, upon request, the title of the person or persons designated to oversee Mitacs compliance with the Policy.
-  * 1.3.Mitacs is responsible for personal information in its possession or under its control. Mitacs shall use appropriate means to protect personal information while information is being processed by a third party on behalf of Mitacs (see Principle 7).
-  * 1.4.Mitacs shall implement policies and procedures to give effect to the Policy, including: 
-    * a)implementing procedures to protect personal information and to oversee Mitacs’ compliance with the Mitacs Privacy Policy; 
-    * b)establishing procedures to receive and respond to inquiries or complaints; 
-    * c)training and communicating to staff about Mitacs’ policies and practices; and 
-    * d)developing public information to explain Mitacs’ policies and practices. 
+Mitacs only collects personal information from you that we require for business purposes. All staff are required to ensure that any personal information collected in the course of our programs is collected with your consent, and that your consent has been granted for all purposes the information is used for.
 
+There are a variety of reasons why we collect your personal information. These might include (but are not limited to):
 
+  * To communicate information about our programs and services and establish or maintain ongoing relationships with you;
+  * To meet legal, regulatory or contractual requirements, such as providing information about program participation and outcomes to our funding partners;
+  * To evaluate an applicant’s eligibility for a Mitacs program or award;
+  * To administer Mitacs events (for example, processing payments and arranging accommodations); and
+  * To evaluate and enhance our programs and services.
 
-### Principle 2 - Identifying Purposes for Collection of Personal Information
 
-Mitacs shall identify and document the purposes for which personal information is collected at or before the time the personal information is collected or, when appropriate, at or before the time the personal information is used for a new purpose. 
 
-  * 2.1 Mitacs collects personal information for the following purposes: 
-    * a) to establish and maintain ongoing relationships with program participants; 
-    * b) to meet legal and regulatory requirements, notably reporting program participation and outcomes to funding partners;
-    * c) to evaluate applicants’ eligibility and selection for Mitacs’ programs or awards; 
-    * d) to administer Mitacs’ programs and events, including processing payments and arranging accommodations;
-    * e) to evaluate and enhance Mitacs’ programs and services; 
-    * f) to communicate with individuals, applicants and program participants about Mitacs programs and services. 
+When collecting personal information, we must identify which of these purposes (or any others) we are collecting the information for.
 
+**_Consent_**
 
+We must obtain consent when we collect, use, or disclose your personal information. (In very rare cases, such as an emergency or when required by law – for example, to comply with a subpoena, warrant, or other court order – Mitacs is allowed to disclose personal information without consent.)
 
-Further references to "identified purposes" mean the purposes identified in this Principle.
+What is consent? Consent is your agreement to share your personal information with Mitacs for the purposes we define when we ask for your consent. There are two types of consent: express and implied.
 
-  * 2.2  Mitacs shall, as appropriate, specify orally, electronically or in writing the identified purposes to the individual at or before the time personal information is collected. Upon request, persons collecting personal information shall explain these identified purposes or refer the individual to a designated person within Mitacs who shall explain the purposes.
+  * **Express consent** means that you are clearly presented with a statement regarding the intended use of the information, to which you can agree or not.  For example, Mitacs’ funding proposals contain a statement on the Memorandum signed by each applicant in which the applicants consent to the information in the proposal being provided to our government funders.
+  * **Implied consent** can be reasonably inferred from your action or inaction. For example, when applicants submit a funding proposal, we can reasonably infer that we can use the information within the proposal to adjudicate it.
 
 
 
-### Principle 3 - Consent
+In most circumstances we request consent to use and disclose your personal information at the same time as we collect it. We may ask you to sign and return a form, or check off a box on a website. If we later want to use the information for a different purpose from the one for which it was originally collected, we must obtain a new consent from you.
 
-The knowledge and consent of an individual are generally required for the collection, use or disclosure of personal information. In certain circumstances personal information can be collected, used or disclosed without the knowledge and consent of the individual, such as in the case of an emergency where the life, health or security of an individual is threatened.
+You are free to withdraw consent you gave us to collect, use, or disclose personal information at any time (subject to legal or contractual restrictions and reasonable notice.) If you wish to withdraw your consent, contact us at [privacy(at)mitacs.ca](mailto:privacy@mitacs.ca).
 
-Mitacs may disclose personal information without knowledge or consent to a lawyer or other advisor representing Mitacs, to collect a debt, to comply with a subpoena, warrant or other court order, or as may be otherwise required or authorized by law. 
+**_Disclosure and retention_**
 
-  * 3.1 In obtaining consent, Mitacs shall use reasonable efforts to ensure that an individual is advised of the identified purposes for which personal information will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the individual.
-  * 3.2 Generally, Mitacs shall seek consent to use and disclose personal information at the same time it collects the information. However, Mitacs may seek consent to use and disclose personal information after it has been collected, but before it is used or disclosed for a new purpose.
-  * 3.3 Mitacs will require individuals to consent to the collection, use or disclosure of personal information as a condition of the supply of a product or service only if such collection, use or disclosure is reasonably required to fulfill the identified purposes.
-  * 3.4 In determining the appropriate form of consent, Mitacs shall take into account the sensitivity of the personal information and the reasonable expectations of an individual.
-  * 3.5 Where consent is required for a particular use or disclosure, an individual may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. Individuals may contact Mitacs for more information regarding the implications of withdrawing consent.
+Within Mitacs, only employees with a business need to know, or whose duties require it, have access to your personal information. We keep your personal information only as long as we have a business need to do so, after which we dispose of it in a safe and confidential manner according to our security safeguards.
 
+Third parties to whom we might disclose personal information include:
 
+  * Mitacs’ government funders, for reporting purposes 
+    * We must have obtained your express consent to disclose information
+  * Third-party companies or individuals engaged by Mitacs to perform functions on its behalf 
+    * We do not need express consent from you in this case, BUT we must ensure the third party has agreed to keep the information confidential and only use it for the specific purpose for which we provide the information
+  * An individual who is seeking the information as your agent 
+    * Although express consent is not required, we must ensure that the person requesting the information is your bona fide agent
+  * Other third parties, if your consent has been obtained, or if disclosure is required or permitted by law.
 
-### Principle 4 - Limiting Collection of Personal Information
 
-Mitacs shall limit the collection of personal information to that which is necessary for the purposes identified by Mitacs and as permitted by law. 
 
-4.1 Mitacs collects personal information primarily from the individual to whom the information relates.
+**_Accuracy_**
 
-4.2 Mitacs may also collect personal information from other sources who represent that they have the right to disclose the information, or as otherwise permitted by law. 
+We take steps to ensure your personal information is accurate and current. If you have questions about the accuracy of your information, or want to update your information, you may do so. (See _Individual Access_ section below.)
 
-### Principle 5 - Limiting Use, Disclosure and Retention of Personal Information
+**_Security safeguards_**
 
-Mitacs shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Mitacs shall retain personal information only as long as necessary for the fulfillment of those purposes or as required or permitted by law. 
+We safeguard the personal information we collect. We have procedures in place to protect personal information from loss, theft, unauthorized access, disclosure, copying, use, modification or destruction. We also protect personal information disclosed to third parties, for example by stipulating in our contractual agreements that the information is confidential and can only be used for specific purposes.
 
-  * 5.1 Mitacs may disclose an individual's personal information to: 
-    * a) a person who in the reasonable judgment of Mitacs is seeking the information as an agent of the individual; 
-    * b) a company or individual employed by Mitacs to perform functions on its behalf, such as but not limited to research or data processing; 
-    * c) another company or individual for the evaluation, audit or provision of any of Mitacs products and services; 
-    * d) a public authority or agent of a public authority, if in the reasonable judgment of Mitacs, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of the information; 
-    * e) another entity as part of a merger, a sale of assets or all or part of a business, or any other corporate change or re-organization; 
-    * f) a third party or parties, where the individual consents to such disclosure or disclosure is required or permitted by law. 
-  * 5.2 Only Mitacs employees with a business need to know, or whose duties reasonably so require, are granted access to personal information about individuals.
-  * 5.3 Depending on the circumstances, where personal information has been used to make a decision about an individual, Mitacs shall retain, for a reasonable period of time, either the actual information or the rationale for making the decision. 
-  * 5.4 Mitacs shall maintain reasonable and systematic controls, schedules and practices for information and records retention and destruction which apply to personal information that is no longer necessary or relevant for the identified purposes or required or permitted by law to be retained. Such information shall be destroyed, erased or made anonymous.
-  * 5.5 Where appropriate, Mitacs may communicate updates of personal information to third parties with whom the information has been shared.
-  * 5.6 Mitacs may engage affiliates or third party service providers for the purpose of providing services, administering programs or processing information on behalf of Mitacs, and we may transfer or disclose personal information to such parties in connection with such purposes. Some divisions, affiliates or third party service providers may be located in other jurisdictions, and information in their custody (i) may or may not be subject to privacy legislation similar to that applicable to Mitacs, and (ii) may be subject to laws applicable in such jurisdictions that permit access to such information by foreign governments or law enforcement agencies or by others.
+**_Openness_**
 
+We’re transparent about our policies and practices regarding personal information. We make our privacy policies and procedures clear, comprehensive, and easy to understand. We will provide copies of our Corporate Privacy Policy to anyone who requests this information. This Privacy Commitment is posted on our website.
 
+**_Individual Access_**
 
-### Principle 6 - Accuracy
+We will share with you information about the existence, use, and disclosure of your personal information. Personal information can be accessed by contacting [privacy(at)mitacs.ca](mailto:privacy@mitacs.ca). We will respond to requests within 30 days or as required by applicable laws. We are required to ensure that requests come from eligible parties (i.e., from you about your own information), so proof of identity is required.
 
-Mitacs shall take steps to ensure that personal information is as accurate, complete and up-to-date as is appropriate for its purposes. 
+In some cases, we may not be able to provide access to all the information we hold about you. If providing access to personal information would reveal personal information about a third party, for example, or confidential commercial information, or information that could threaten the life or security of another person, we wouldn’t be able to approve the request. If information is protected by solicitor-client privilege, if it was generated in the course of a formal dispute resolution process, or if it was collected in relation to the investigation of a breach of an agreement or a contravention of a law, Mitacs would also not be able to approve the request to access information.
 
-  * 6.1 Personal information used by Mitacs shall be sufficiently accurate, complete and up-to-date to minimize the possibility that inappropriate information may be used to make a decision about an individual.
-  * 6.2 Mitacs shall take all reasonable steps to update personal information about individuals as and when reasonably necessary to fulfill the identified purposes or as reasonably requested by the individual.
+In these cases, we will provide the reasons for denying access to personal information.
 
+**_Inquiries and challenges_**
 
+We have established procedures for you to challenge our handling of personal information. If you have questions or concerns about our privacy policy or practices, how we handle your personal information, or would like changes to the communications we send, please contact our privacy office:
 
-### Principle 7 - Security Safeguards
-
-Mitacs shall protect personal information by security safeguards appropriate to the sensitivity of the information. 
-
-  * 7.1 Mitacs shall take appropriate and reasonable steps to protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction.
-  * 7.2 Mitacs shall take appropriate and reasonable steps to protect personal information disclosed to third parties, for example by contractual agreements stipulating the confidentiality of the information and the purposes for which it is to be used.
-
-
-
-### Principle 8 - Openness
-
-Mitacs shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
-
-  * 8.1 Copies of the Policy will be made available upon request.
-  * 8.2 Mitacs shall make information about its policies and procedures easy to understand, including: 
-    * a) the title and addresses of the person or persons accountable for Mitacs compliance with the Policy and to whom inquiries or complaints can be forwarded; 
-    * b) the means of gaining access to personal information held by Mitacs; and 
-    * c) a description of the type of personal information held by Mitacs, including a general account of its use.
-
-
-
-### Principle 9 - Individual Access
-
-Upon request, Mitacs shall inform an individual of the existence, use and disclosure of his or her personal information, at a minimal or no cost to the individual. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
-
-9.1 In certain situations, Mitacs may not be able to provide access to all the personal information that it holds about an individual. For example, Mitacs may not provide access to information if doing so would likely reveal personal information about a third party or could reasonably be expected to threaten the life or security of an individual. Also, Mitacs may not provide access to information if disclosure would reveal confidential commercial information, if the information is protected by solicitor-client privilege, if the information was generated in the course of a formal dispute resolution process, or if the information was collected in relation to the investigation of a breach of an agreement or a contravention of a law. If access to personal information cannot be provided, Mitacs shall, upon request, provide the reasons for denying access.
-
-9.2 In order to safeguard personal information, an individual may be required to provide sufficient identification information to permit Mitacs to authorize access to the individual's file. 
-
-9.3 Individuals can seek access to their personal information by contacting the Privacy Office at Mitacs.
-
-9.4 Mitacs will endeavor to respond to all requests within 30 days or, in any event, as required or permitted by applicable law.
-
-### Principle 10 - Handling Inquiries and Challenges
-
-An individual shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for Mitacs compliance with the Policy.
-
-  * 10.1Mitacs shall maintain procedures for addressing and responding to all inquiries or complaints from individuals about Mitacs handling of personal information.
-  * 10.2 Mitacs shall inform program participants about the existence of these procedures as well as the availability of complaint procedures.
-  * 10.3 The person or persons accountable for compliance with this Policy may seek external advice where appropriate before providing a final response to individual complaints. 
-
-
-
-If you have questions or concerns about our privacy policy or practices, or would like changes to the communications we send you, please contact our Privacy Office.
-
-Address:
-
-Chief Privacy Officer
-
-Mitacs  
-Suite 301, Technology Enterprise Facility  
+Chief Privacy Officer  
+Mitacs Suite  
+301, Technology Enterprise Facility  
 University of British Columbia  
 6190 Agronomy Road  
-Vancouver, BC, V6T 1Z3  
-Email: [privacy@mitacs.ca](mailto:privacy@mitacs.ca)  
-Phone: 604- 822- 9189
+Vancouver, BC  V6T 1Z3  
+Email: [privacy(at)mitacs.ca](mailto:privacy@mitacs.ca)  
+Phone: 604-822-9189
