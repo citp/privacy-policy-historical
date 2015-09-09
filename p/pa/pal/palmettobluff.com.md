@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palmettobluff.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423170638id_/http%3A//www.palmettobluff.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palmettobluff.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909143947id_/http%3A//www.palmettobluff.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Palmetto
 
