@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediadump.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429221749id_/http%3A//www.mediadump.com/page-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediadump.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909203642id_/http%3A//www.mediadump.com/page-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
