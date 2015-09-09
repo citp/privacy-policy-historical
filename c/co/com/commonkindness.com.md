@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonkindness.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627151455id_/http%3A//www.commonkindness.com/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonkindness.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909145449id_/http%3A//www.commonkindness.com/more/privacy-policy) for the most accurate reproduction.*
 
 # CommonKindness - Welcome!
 
