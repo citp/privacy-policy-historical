@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the psegliny.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315031047id_/https%3A//www.psegliny.com/page.cfm/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the psegliny.com privacy policy that was archived on 2015-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150909204750id_/https%3A//www.psegliny.com/page.cfm/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 			
@@ -74,13 +74,20 @@
               ga('send', 'pageview');
             </script>
 		
-		<style>
-			.temporaryoutageLink {color: red !important;font-size:12px!important;letter-spacing: 0px!important;text-transform:none!important;top:0px!important;text-decoration:underline!important;}
+        <style>
+			.outageLink {color: red !important;font-size:12px!important;letter-spacing: 0px!important;text-transform:none!important;top:0px!important;text-decoration:underline!important;}
 		</style>
+	<style>
+	input[type="password"]
+	{
+    	font-style: italic;
+	}
+	</style>
 	</head>
 
-
 	<body><center>
+	
+    
 	<div id="messageElm"></div>
 		<div class="header">
         	<div id="logoDiv">
@@ -128,33 +135,34 @@
                 </div>
                 <div id="accountLoginBox" class="accountDDBox acctDDBoxHide">
                 	<div class="btnBoxOn">
-
-
-					
-                    	<div style="width:100%;height:65px;margin-left:15px;">                        
-                            <form action="https://www.liaccount.com/login/Login" method="POST" name="SWEEntryForm" id="SWEEntryForm">
-                                <input name="SWECount" type="hidden" value="4">
-                                <input name="SWECmd" type="hidden" value="ExecuteLogin">
-                                <input name="auth_method" type="hidden" value="0">
-                                <input name="app_url" type="hidden" value="aHR0cHM6Ly93d3cubGlhY2NvdW50LmNvbS9lc2VydmljZV9lbnUv">
-                                <input name="csn" type="hidden" value="NONE">
-                                <input name="challenge" type="hidden" value="NONE">
-                                <input name="signature" type="hidden" value="NONE">
-                                <input type="text" name="uid" class="LoginBox" default="&nbsp;&nbsp;Username" title="User Name" size="12"><br>
-                                <div id="passwordbox">
-                                    <input type="text" id="response" name="response" class="LoginBox" default="&nbsp;&nbsp;Password" title="Password" onfocus="AccountBox.changeField();">
-                                </div>
-                            </form>   
-                        </div>
-                        <div id="LoginButton" class="imgLinkBtn loginBtn" style="margin-top:0px;"><div>Login&nbsp;&nbsp;<img border="0" src="appImages/PSEGLI/menuArrow_right.png"></div></div>
-                        <div style="padding-top:0px;margin-top:10px;">
-                            <a href="https://www.psegliny.com/page.cfm/RegisterAccount" class="orangeLink" style="margin-left:15px;line-height:1.5em;">Register Now</a><br>
-                            <a href="https://www.liaccount.com/forgetpass/KSE_Password.jsp" class="orangeLink" style="margin-left:15px;">Forgot Password?</a><br>
-                            <a href="https://www.psegliny.com/page.cfm/Home/CustomerService/HomeFrequentlyAskedQuestions/MyAccountFAQ" class="orangeLink" style="margin-left:15px;line-height:1.5em;">
-								Unable to Log In Using Safari?</a>
-                        </div>  
-
 						
+                            <div style="width:100%;height:65px;margin-left:15px;">                        
+                                <form action="https://psegoam.psegliny.com/oam/server/authentication" method="POST" name="SWEEntryForm" id="SWEEntryForm">
+                                    <input name="SWECount" type="hidden" value="4">
+                                    <input name="SWECmd" type="hidden" value="ExecuteLogin">
+                                    <input name="auth_method" type="hidden" value="0">
+                                    <input name="app_url" type="hidden" value="aHR0cHM6Ly93d3cubGlhY2NvdW50LmNvbS9lc2VydmljZV9lbnUv">
+                                    <input name="csn" type="hidden" value="NONE">
+                                    <input name="challenge" type="hidden" value="NONE">
+                                    <input name="signature" type="hidden" value="NONE">
+                                    <input type="hidden" name="successurl" value="https://myaccount.psegliny.com/eservice_enu">
+                                    <input type="hidden" name="type" value="eservice">
+                                    <input type="text" name="username" class="LoginBox" default="&nbsp;&nbsp;Username" title="User Name" size="12"><br>
+                                    <div id="passwordbox">
+                                        <input type="password" id="response" name="password" class="LoginBox" default="&nbsp;&nbsp;Password" title="Password" placeholder="&nbsp;&nbsp;Password">
+                                    </div>
+                                </form>
+                            </div>
+                            <div id="LoginButton" class="imgLinkBtn loginBtn" style="margin-top:0px;">
+                                <div>Login&nbsp;&nbsp;<img border="0" src="appImages/PSEGLI/menuArrow_right.png"></div>
+                            </div>
+                            <div style="padding-top:0px;margin-top:10px;">
+                                <a href="https://www.psegliny.com/page.cfm/RegisterAccount" class="orangeLink" style="margin-left:15px;line-height:1.5em;">Register Now</a><br>
+                                <a href="https://myaccount.psegliny.com/customermanagement/KSE_Password.jsp" class="orangeLink" style="margin-left:15px;">Forgot Password?</a><br>
+                                <a href="https://www.psegliny.com/page.cfm/Home/CustomerService/HomeFrequentlyAskedQuestions/MyAccountFAQ" class="orangeLink" style="margin-left:15px;line-height:1.5em;">
+                                Unable to Log In Using Safari?</a>
+                            </div>    
+                                            
                     </div>
                 	<div id="acctBox_ReportOutage" class="btnBox" onclick="window.location.href='https://www.psegliny.com/page.cfm/CustomerService/ReportOutage';">
                     	<img src="appImages/PSEGLI/outageIcon.png" border="0" class="tabIcon">Report an Outage
@@ -188,6 +196,8 @@
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Account/Payment">Pay Your Bill</a></li>
                                 	
+                                <li><a href="https://www.psegliny.com/page.cfm/Account/ServiceAndRates/ReadMeter">Meter Reading</a></li>
+                                	
                                 <li><a href="https://www.psegliny.com/page.cfm/Home/Account/ManageBill">Manage Your Bill</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Account/MyBill">Understand Your Bill</a></li>
@@ -203,8 +213,6 @@
                     
                         <ul>
                         	
-                                <li><a href="https://www.psegliny.com/page.cfm/Efficiency/Tips/66Ways">66 Ways to Save Energy</a></li>
-                                	
                                 <li><a href="https://www.psegliny.com/page.cfm/Efficiency/Appliances">Appliances &amp; Products</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Efficiency/CoolingHeating">Cooling &amp; Heating</a></li>
@@ -232,6 +240,8 @@
                                 <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter">Power Outages</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Home/CustomerService/Special">Special Services</a></li>
+                                	
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/ServiceRequests">Service Requests</a></li>
                                 
                         </ul>
                     
@@ -267,11 +277,13 @@
                         	
                                 <li><a href="https://www.psegliny.com/c.cfm/Account">Log in / Register</a></li>
                                 	
+                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Account/Payment">Pay Your Bill</a></li>
+                                	
+                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Account/MeterReading">Meter Reading</a></li>
+                                	
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Account/MyBill">All About Your Bill</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Account/Billing/Paperless">Go Paperless!</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Account/Payment">Ways to Pay Your Bill</a></li>
                                 
                         </ul>
                     
@@ -287,6 +299,8 @@
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Checklist">New Business Account</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter">Power Outages</a></li>
+                                	
+                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/CustomerService/ServiceRequests">Service Requests</a></li>
                                 
                         </ul>
                     
@@ -318,6 +332,8 @@
                         	
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Efficiency/CEPartners">Commercial Efficiency Partners</a></li>
                                 	
+                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Testimonials">Customer Success Stories</a></li>
+                                	
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Efficiency/Assessments">Energy Assessments</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Efficiency/Rebates-Existing">Rebates for Existing Buildings</a></li>
@@ -325,8 +341,6 @@
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Efficiency/Rebates-New">Rebates for New Construction</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Efficiency/Renewables">Renewable Energy</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Testimonials">Testimonials</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Efficiency/Tools">Tips and Tools</a></li>
                                 
@@ -358,6 +372,8 @@
                                 <li><a href="https://www.psegliny.com/page.cfm/AboutUs/CurrentInitiatives/IRP">Integrated Resource Plan</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/AboutUs/CurrentInitiatives/ReliabilityProjects">Reliability Projects</a></li>
+                                	
+                                <li><a href="https://www.psegliny.com/page.cfm/AboutUs/CurrentInitiatives/FEMA">FEMA Projects</a></li>
                                 
                         </ul>
                     
@@ -385,7 +401,16 @@
                     
                     	</ul><ul class="colUL"> 
                     <li>	
-                    <a href="https://www.psegliny.com/page.cfm/AboutUs/CompanyProfile/DocumentLibrary" class="titleA">Policy &amp; Document Library</a>
+                    <a href="https://www.psegliny.com/page.cfm/AboutUs/CompanyProfile/DocumentLibrary" class="titleA">Document Library</a>
+                    
+                        <ul>
+                        
+                        </ul>
+                    
+                    </li>			
+                    
+                    <li>	
+                    <a href="https://www.psegliny.com/page.cfm/AboutUs/Proposals" class="titleA">Proposals &amp; Bids</a>
                     
                         <ul>
                         
@@ -439,18 +464,21 @@
                     
                         <ul>
                         	
-                                <li><a href="https://www.psegliny.com/c.cfm/Outage">Outage Map</a></li>
-                                	
                                 <li><a href="https://www.psegliny.com/page.cfm/CustomerService/ReportOutage">Report an Outage</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter/StormRestoration">Storm Restoration</a></li>
+                                <li><a href="https://www.psegliny.com/c.cfm/Outage">Outage Map</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter/StormSafetyPrepared"> Storm Safety &amp; Preparedness</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter/StormSafetyPrepared">Preparing for a Storm</a></li>
+                                	
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter/StormSafetyPrepared/DuringStorm">During a Storm</a></li>
+                                	
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter/StormSafetyPrepared/AfterStorm">After a Storm</a></li>
                                 
                         </ul>
                     
                     </li>			
                     
+                    	</ul><ul class="colUL"> 
             </ul>
 		</div>	
 		
@@ -598,7 +626,7 @@
 <div class="Footer">
 	
 	<div class="footerContainer">
-		
+			
         	<div class="footerNavParent"><a href="https://www.psegliny.com/page.cfm/Home" class="footerParentTitle">FOR HOME</a>
 					
 		<div id="menu_1" class="footerSubMenu">
@@ -624,7 +652,7 @@
 		</div>	
 		
             </div>
-    	
+    		
         	<div class="footerNavParent"><a href="https://www.psegliny.com/page.cfm/Commercial" class="footerParentTitle">FOR BUSINESS</a>
 					
 		<div id="menu_2" class="footerSubMenu">
@@ -654,7 +682,7 @@
 		</div>	
 		
             </div>
-    	
+    		
         	<div class="footerNavParent"><a href="https://www.psegliny.com/page.cfm/AboutUs" class="footerParentTitle">ABOUT US</a>
 					
 		<div id="menu_3" class="footerSubMenu">
@@ -681,7 +709,11 @@
                 </li>
             	
                 <li>	
-                    <a href="https://www.psegliny.com/page.cfm/AboutUs/CompanyProfile/DocumentLibrary">Policy &amp; Document Library</a>
+                    <a href="https://www.psegliny.com/page.cfm/AboutUs/CompanyProfile/DocumentLibrary">Document Library</a>
+                </li>
+            	
+                <li>	
+                    <a href="https://www.psegliny.com/page.cfm/AboutUs/Proposals">Proposals &amp; Bids</a>
                 </li>
             	
                 <li>	
@@ -692,7 +724,7 @@
 		</div>	
 		
             </div>
-    	
+    		
         	<div class="footerNavParent"><a href="https://www.psegliny.com/page.cfm/Home/CustomerService" class="footerParentTitle">CUSTOMER SERVICE</a>
 					
 		<div id="menu_4" class="footerSubMenu">
