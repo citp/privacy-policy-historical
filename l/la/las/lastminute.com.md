@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastminute.com privacy policy that was archived on 2015-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150528181248id_/https%3A//www.lastminute.com/site/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminute.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909023331id_/https%3A//www.lastminute.com/site/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | lastminute.com
 
