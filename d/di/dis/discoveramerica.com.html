@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discoveramerica.com privacy policy that was archived on 2015-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150531031450id_/http%3A//www.discoveramerica.com/usa/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discoveramerica.com privacy policy that was archived on 2015-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150909191439id_/http%3A//www.discoveramerica.com/usa/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,7 +18,7 @@
 		<link rel="shortcut icon" href="http://www.discoveramerica.com/media/images/header/favicon.ico">
 		<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6926692/744084/css/fonts.css">
 		<!-- CSS -->
-<link rel="stylesheet" type="text/css" href="http://www.discoveramerica.com/includes/cssbin/mini/da.css.2096479894253.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.discoveramerica.com/includes/cssbin/mini/da.css.2160129137559.css" media="all">
 		
 		
 
@@ -28,11 +28,12 @@
 	<link rel="stylesheet" media="print" href="http://www.discoveramerica.com/includes/styles/print.css">
 
 		<!-- JavaScript -->
-		<script src="https://www.youtube.com/player_api"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TF7MFP"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" src="http://www.discoveramerica.com/includes/scripts/jquery-1.7.1.min.js"></script>
+        <script src="https://www.youtube.com/player_api"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TF7MFP"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="http://www.discoveramerica.com/includes/scripts/mobile-detect.min.js"></script>
+		<script type="text/javascript" src="http://www.discoveramerica.com/includes/scripts/jquery-1.7.1.min.js"></script>
 		<script type="text/javascript" src="http://www.discoveramerica.com/includes/scripts/jquery.tmpl.min.js"></script>
         
 
-<script type="text/javascript" src="http://www.discoveramerica.com/includes/jsbin/mini/da.js.1333456423060.js"></script>
+<script type="text/javascript" src="http://www.discoveramerica.com/includes/jsbin/mini/da.js.1333464971261.js"></script>
         <script type="text/javascript" src="/includes/scripts/cookie-popup.js"></script>
 		<script type="text/javascript" src="http://www.discoveramerica.com/includes/scripts/jquery.lazyload.js"></script>
 
@@ -57,7 +58,7 @@
 		<script type="text/javascript" src="/includes/scripts/deep_tabs.js"></script>
         <script type="text/javascript" src="/Includes/scripts/youtube-popup.js"></script>
         <script type="text/javascript" src="/Includes/scripts/jquery.scrolldepth.min.js"></script>
-
+        <script src="/Includes/scripts/jquery.dotdotdot.min.js" type="text/javascript"></script>
 
 		
 
@@ -145,24 +146,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		            var s = document.getElementsByTagName('script')[0];
 		            s.parentNode.insertBefore(ga, s);
 		        })();
-
-		        if (screen.width <= 720 || window.innerWidth <= 720) {
-		            //console.log("is mobile");
-		            var xURL = document.location.host.replace(/www./, '');
-		            if (document.referrer.length == 0) {
-		                window.location.href = mobileURL + '?referrer=na';
-		            } else {
-		                var refStr = '?referrer=' + document.referrer;
-		                window.location.href = mobileURL;
-		            }
-		        } else if (screen.width > 720 && screen.width <= 1024) {
-		            //console.log("is tablet");
-		        } else {
-		            //console.log("is desktop");
-		        }
 		    }
 		</script>
 		<!-- End: Custom Analytics Tracking (KEEP JUST BEFORE END OF </head> TAG -->
+
+		<script>
+			(function() {
+				var md = new MobileDetect(window.navigator.userAgent);
+				if (screen.width <= 1024 && md.mobile() !== null) {
+					if (document.referrer.length == 0) {
+						window.location.href = mobileURL + '?referrer=na';
+					} else {
+						var refStr = '?referrer=' + document.referrer;
+						window.location.href = mobileURL + refStr;
+					}
+				}
+
+
+				$(function() {
+					$(".trip-description").each(function () {
+						var max = 62,
+							text = $(this).text();
+
+						if (text.length > max) {
+							if (text.charAt(max) === " ") {
+								text = text.substr(0, max);
+								text += text.trim();
+							} else {
+								text = text.substr(0, text.lastIndexOf(" ", max));
+							}
+							text += "...";
+							$(this).text(text);
+						}
+					});
+				});
+			})();
+		</script>
     
         <script>
             // Load the IFrame Player API code asynchronously.
@@ -305,40 +324,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<ul>
 						
 <li>
-	<a href="/" title="English" onclick="setLanguageCookie('en'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/795caec1a34c4bf9bd13030ec2999275/gbrpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Great Britain" alt="Great Britain">English</a>
+	<a href="" title="English" onclick="setLanguageCookie('en'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/795caec1a34c4bf9bd13030ec2999275/gbrpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Great Britain" alt="Great Britain">English</a>
 </li>
 <li>
-	<a href="http://au.discoveramerica.com/en-au/" title="English" onclick="setLanguageCookie('en-AU'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/5ece697876f94eb8a5107fc28ee97af9/auspng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Australia" alt="Australia">English</a>
+	<a href="http://au.discoveramerica.com/en-au/usa/privacy-policy.aspx" title="English" onclick="setLanguageCookie('en-AU'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/5ece697876f94eb8a5107fc28ee97af9/auspng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Australia" alt="Australia">English</a>
 </li>
 <li>
-	<a href="http://www.discoveramerica.ca/" title="English" onclick="setLanguageCookie('en'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/6d9ece7261e24e91a5e255330b08b9ab/canpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Canada" alt="Canada">English</a>
+	<a href="" title="English" onclick="setLanguageCookie('en'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/6d9ece7261e24e91a5e255330b08b9ab/canpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Canada" alt="Canada">English</a>
 </li>
 <li>
-	<a href="http://www.discoveramerica.co.in/en-in/" title="English" onclick="setLanguageCookie('en-IN'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/baf1be19a5494e058103ffdf7d9d77da/indpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="India" alt="India">English</a>
+	<a href="http://www.discoveramerica.co.in/en-in/usa/privacy-policy.aspx" title="English" onclick="setLanguageCookie('en-IN'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/baf1be19a5494e058103ffdf7d9d77da/indpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="India" alt="India">English</a>
 </li>
 <li>
-	<a href="http://www.discoveramerica.ca/fr/" title="Français" onclick="setLanguageCookie('fr'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/d1c043b854d842c48c70b0de3862593b/quebec.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Quebec" alt="Quebec">Français</a>
+	<a href="http://www.discoveramerica.ca/fr/usa/privacy-policy.aspx" title="Français" onclick="setLanguageCookie('fr'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/d1c043b854d842c48c70b0de3862593b/quebec.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Quebec" alt="Quebec">Français</a>
 </li>
 <li>
-	<a href="http://www.discoveramerica.fr/fr-fr/" title="Français" onclick="setLanguageCookie('fr-FR'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/209c3c67e000478c9e2a84fcb6c6c685/frapng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="France" alt="France">Français</a>
+	<a href="http://www.discoveramerica.fr/fr-fr/usa/privacy-policy.aspx" title="Français" onclick="setLanguageCookie('fr-FR'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/209c3c67e000478c9e2a84fcb6c6c685/frapng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="France" alt="France">Français</a>
 </li>
 <li>
-	<a href="http://de.discoveramerica.com/de-de/" title="Deutsch" onclick="setLanguageCookie('de-DE'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/84b3ce31a794417493baaf37cfa8574f/gerpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Germany" alt="Germany">Deutsch</a>
+	<a href="http://de.discoveramerica.com/de-de/usa/privacy-policy.aspx" title="Deutsch" onclick="setLanguageCookie('de-DE'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/84b3ce31a794417493baaf37cfa8574f/gerpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Germany" alt="Germany">Deutsch</a>
 </li>
 <li>
-	<a href="http://www.discoveramerica.co.kr/ko-kr/" title="한국어 " onclick="setLanguageCookie('ko-KR'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/1608ba8fbe0d4bf4a1612d6cd29659b2/korpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Korea, Republic of" alt="Korea, Republic of">한국어 </a>
+	<a href="http://www.discoveramerica.co.kr/ko-kr/usa/privacy-policy.aspx" title="한국어 " onclick="setLanguageCookie('ko-KR'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/1608ba8fbe0d4bf4a1612d6cd29659b2/korpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Korea, Republic of" alt="Korea, Republic of">한국어 </a>
 </li>
 <li>
-	<a href="http://www.discoveramerica.com.br/pt-br/" title="Português" onclick="setLanguageCookie('pt-BR'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/2d1bae1a66124145b549c68d935ce30d/brapng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Brazil" alt="Brazil">Português</a>
+	<a href="http://www.discoveramerica.com.br/pt-br/usa/privacy-policy.aspx" title="Português" onclick="setLanguageCookie('pt-BR'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/2d1bae1a66124145b549c68d935ce30d/brapng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Brazil" alt="Brazil">Português</a>
 </li>
 <li>
-	<a href="http://www.discoveramerica.cl/es-cl/" title="Español" onclick="setLanguageCookie('es-CL'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/eba6edbaafa54f5cadf7cc635317a73f/chipng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Chile" alt="Chile">Español</a>
+	<a href="http://www.discoveramerica.cl/es-cl/usa/privacy-policy.aspx" title="Español" onclick="setLanguageCookie('es-CL'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/eba6edbaafa54f5cadf7cc635317a73f/chipng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Chile" alt="Chile">Español</a>
 </li>
 <li>
-	<a href="http://www.discoveramerica.mx/es-mx/" title="Español" onclick="setLanguageCookie('es-MX'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/1891b4046d8d45f8aad32214ce52980e/mexpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Mexico" alt="Mexico">Español</a>
+	<a href="http://www.discoveramerica.mx/es-mx/usa/privacy-policy.aspx" title="Español" onclick="setLanguageCookie('es-MX'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/1891b4046d8d45f8aad32214ce52980e/mexpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Mexico" alt="Mexico">Español</a>
 </li>
 <li>
-	<a href="http://www.discoveramerica.jp/ja-jp/" title="日本語" onclick="setLanguageCookie('ja-JP'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/3ba8026b38cc4a19b356644e6a23ac27/jpnpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Japan" alt="Japan">日本語</a>
+	<a href="http://www.discoveramerica.jp/ja-jp/usa/privacy-policy.aspx" title="日本語" onclick="setLanguageCookie('ja-JP'); return true;" target=""><img src="http://www.discoveramerica.com/~/media/3ba8026b38cc4a19b356644e6a23ac27/jpnpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="Japan" alt="Japan">日本語</a>
 </li>
 <li>
 	<a href="http://www.gousa.cn" title="中文" onclick="setLanguageCookie(''); return true;" target="_blank"><img src="http://www.discoveramerica.com/~/media/5f7afaddd1fd4c9aa451fcc64f0e45eb/chnpng.png?w=18&amp;h=18&amp;bg=ffffff" width="18" height="18" title="China" alt="China">中文</a>
@@ -357,12 +376,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				    <ul class="playlist-list">
 					    
 <li><a class="active" href="https://embed.spotify.com/?uri=spotify:user:discoveramerica:playlist:5AaUyLA0wyD2Cc2JoT31Yz" data-playlist-id="1">Craft Beer Tour</a></li>
+<li><a href="https://play.spotify.com/user/discoveramerica/playlist/3yhbbMy5VMBYwYUQ2Ugloc" data-playlist-id="11">Great Lakes</a></li>
 <li><a href="https://embed.spotify.com/?uri=spotify:user:discoveramerica:playlist:53FPcK9wWU1N8Mnl2IPzIU" data-playlist-id="2">Great River Road</a></li>
 <li><a href="https://embed.spotify.com/?uri=spotify:user:discoveramerica:playlist:4Rr8S6wE2VK4QXZLwp0nXI" data-playlist-id="3">Hana Highway</a></li>
 <li><a href="https://embed.spotify.com/?uri=spotify:user:discoveramerica:playlist:33t2kILWCCnMG6y2kjBVCm" data-playlist-id="4">New England Coast</a></li>
 <li><a href="https://embed.spotify.com/?uri=spotify:user:discoveramerica:playlist:759ozROaKN3Q30bvkiSnBN" data-playlist-id="5">Northern Atlantic Coastal Highway</a></li>
 <li><a href="https://embed.spotify.com/?uri=spotify:user:discoveramerica:playlist:004tg3gVEC32UUI1nzj51u" data-playlist-id="6">Oregon Trail</a></li>
 <li><a href="https://embed.spotify.com/?uri=spotify:user:discoveramerica:playlist:01YT77EIDtsoxZJAbrPuo5" data-playlist-id="7">Pacific Coast Highway</a></li>
+<li><a href="https://play.spotify.com/user/discoveramerica/playlist/17cemwbfL3vZDFH0vIIgMd" data-playlist-id="12">Pacific Northwest</a></li>
 <li><a href="https://embed.spotify.com/?uri=spotify:user:discoveramerica:playlist:0GY902t0kYTeC5cLoQMNH3" data-playlist-id="8">Route 66</a></li>
 <li><a href="https://embed.spotify.com/?uri=spotify:user:discoveramerica:playlist:6t1CFVpJyWIMkPL4PkOXbX" data-playlist-id="9">Southern Atlantic Coastal Highway</a></li>
 <li><a href="https://embed.spotify.com/?uri=spotify:user:discoveramerica:playlist:4PfYBOPX5AzoQVvd5iwmKt" data-playlist-id="10">Texas BBQ Trail</a></li>
@@ -389,7 +410,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     rand = rand * 10000000000;
     rand = Math.round(rand);
     document.write('<IMG SRC="http://ad.doubleclick.net/activity;src=3533953;type=ta_br529;cat=brand536;ord=' + rand + '?" WIDTH=1 HEIGHT=1 BORDER=0>');
-</script><img src="http://ad.doubleclick.net/activity;src=3533953;type=ta_br529;cat=brand536;ord=6371043059?" width="1" height="1" border="0">
+</script><img src="http://ad.doubleclick.net/activity;src=3533953;type=ta_br529;cat=brand536;ord=9713014517?" width="1" height="1" border="0">
 <!-- End of DoubleClick Spotlight Tag: Please do not remove-->
 <script type="text/javascript">
     var ebRand = Math.random() + '';
@@ -397,7 +418,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     //<![CDATA[ 
     document.write('<scr' + 'ipt src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=189238&amp;rnd=' + ebRand + '"></scr' + 'ipt>');
     //]]>
-</script><script src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=189238&amp;rnd=567142.0178291416"></script>
+</script><script src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=189238&amp;rnd=469229.2678107244"></script>
 <noscript>
     <img width="1" height="1" style="border:0" src="HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=189238&amp;ns=1"/>
 </noscript>
@@ -407,7 +428,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     //<![CDATA[ 
     document.write("<img src='http://20536547p.rfihub.com/ca.gif?rb=6833&ca=20536547&ra=" + ebRand + "' height=0 width=0 style='display:none' alt='Rocket Fuel'/>");
     //]]>
-</script><img src="http://20536547p.rfihub.com/ca.gif?rb=6833&amp;ca=20536547&amp;ra=375281.0256127563" height="0" width="0" style="display:none" alt="Rocket Fuel">
+</script><img src="http://20536547p.rfihub.com/ca.gif?rb=6833&amp;ca=20536547&amp;ra=722802.1286836877" height="0" width="0" style="display:none" alt="Rocket Fuel">
 
 <!-- Begin: Wrapper -->
 
@@ -601,6 +622,9 @@ c/o Privacy Issues</address>
 <li><a href="http://www.discoveramerica.com/usa/contact-us.aspx" title="Contact Us" target="_self">Contact Us</a>
 </li>
 
+<li><a href="http://www.discoveramerica.com/usa/terms-of-use.aspx" title="Terms of Use" target="_self">Terms of Use</a>
+</li>
+
 <li><a href="http://www.discoveramerica.com/usa/official-links.aspx" title="Official Links" target="_self">Official Links</a>
 </li>
 
@@ -608,9 +632,6 @@ c/o Privacy Issues</address>
 </li>
 
 <li><a href="http://www.discoveramerica.com/usa/privacy-policy.aspx" title="Privacy Policy" target="_self">Privacy Policy</a>
-</li>
-
-<li><a href="http://www.discoveramerica.com/usa/terms-of-use.aspx" title="Terms of Use" target="_self">Terms of Use</a>
 </li>
 
 <li><a href="http://www.discoveramerica.com/usa/sitemap.aspx" title="Sitemap" target="_self">Sitemap</a>
