@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pagefair.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315000740id_/https%3A//pagefair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagefair.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909165736id_/https%3A//pagefair.com/privacy) for the most accurate reproduction.*
 
 # PageFair - PageFair Privacy Statement
 
 PageFair Limited (" **We** ") are committed to protecting and respecting your privacy. This policy (together with our [terms and conditions](http://pagefair.com/conditions/)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Acts 1988 and 2003 (the **Acts** ), the data controller is PageFair Limited a company incorporated in Ireland with company number 530978 whose registered office is at 8 Dawson Street, Dublin 2.
+For the purpose of the Data Protection Acts 1988 and 2003 (the **Acts** ), the data controller is PageFair Limited a company incorporated in Ireland with company number 530978 whose registered office is at Unit D, Mount Pleasant Business Park, Dublin 6, Ireland.
 
 ## Information we may collect
 
