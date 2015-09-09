@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marlonwayans.tv privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609004516id_/http%3A//www.marlonwayans.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marlonwayans.tv privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909040926id_/http%3A//www.marlonwayans.tv/privacy.html) for the most accurate reproduction.*
 
 # Marlon Wayans - Privacy
 
