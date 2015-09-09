@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadrocket.net privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154828id_/http%3A//uploadrocket.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadrocket.net privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909182405id_/http%3A//uploadrocket.net/privacy-policy.html) for the most accurate reproduction.*
 
 # UploadRocket.net Privacy Policypt
 
