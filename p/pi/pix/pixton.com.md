@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609010349id_/http%3A//www.pixton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910014352id_/https%3A//www.pixton.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixton for Fun
 
-## Privacy Policy
-
 Last updated on September 10, 2012.
 
-### Our Commitment to Privacy
+## Our Commitment to Privacy
 
 Pixton Comics Inc. is committed to maintaining the security, confidentiality and privacy of your personal information.
 
 This is our Privacy Policy. It documents our on-going commitment to you and has been developed in compliance with the British Columbia Personal Information Protection Act ("PIPA").
 
-### Scope of Policy
+## Scope of Policy
 
 This Policy applies to our collection, use and disclosure of your personal information in connection with our website and services. This Policy does not impose any limits on our collection, use or disclosure of the following information: 
 
@@ -21,11 +19,11 @@ This Policy applies to our collection, use and disclosure of your personal infor
 
 
 
-### Accountability
+## Accountability
 
 We have designated a Privacy Officer who is responsible for our compliance with this Policy. The Privacy Officer may be contacted as described below.
 
-### What Do We Collect?
+## What Do We Collect?
 
 We collect the following types of personal information from all Pixton members:
 
@@ -43,7 +41,7 @@ Additionally, we may collect the following types of personal information:
 
 
 
-### How Do We Collect Information?
+## How Do We Collect Information?
 
 We collect information from you in a variety of ways, including the following: 
 
@@ -59,7 +57,7 @@ We collect information from you in a variety of ways, including the following:
 
 We strongly advise you not to submit personal information as part of comments, comics, private messages, or other content you create. However, if you do, the information will be stored in our database and treated the same as other personal information collected from you.
 
-### Purposes
+## Purposes
 
 We collect, use and disclose your personal information for the following purposes: 
 
@@ -92,7 +90,7 @@ You may instruct us to refrain from using or sharing your personal information i
 
 If we want to use your personal information for a new purpose, we will disclose this to you and ask for your consent unless the new use is already authorized or required by law.
 
-### Cookies & 3rd Party Advertisements
+## Cookies & 3rd Party Advertisements
 
 Cookies are small pieces of data which are stored on your computer to allow your web browser to remember something about our web site. We use cookies to improve functionality and to provide a customized online experience, for example, to list the contents of a virtual shopping cart or to remember other information so that you do not need to enter it every time you log onto our site. Cookies may also enable us to track and target your interests to enhance your experience on our site. If you don't allow your web browser to use cookies, our site might not function correctly.
 
@@ -100,11 +98,11 @@ We allow third-party companies to collect certain information when you visit our
 
 We have enabled [Google Analytics Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357?hl=en). This permits third-party vendors to use the Google Analytics cookie or other first-party identifiers, and third-party cookies or other third-party identifiers together. You can use the [Google Analytics Opt-Out Browser Add-on](https://tools.google.com/dlpage/gaoptout/) to disable tracking by Google Analytics. We may use the data provided by Google Analytics Demographics and Interest Reporting for targetted marketing campaigns and/or to help us understand how people find and use our site.
 
-### Storage in the United States
+## Storage in the United States
 
 Some of or all of your personal information may be provided to our service providers in the United States for the purposes described above. Those service providers may store your information on servers located in the United States. Foreign law may require those service providers to disclose your information to governments, courts, law enforcement or regulatory agencies.
 
-### Consent
+## Consent
 
 We will obtain your consent to collect, use or disclose personal information except where we are authorized or required by law to do so without consent. For example, we may collect, use or disclose personal information without your knowledge or consent where: 
 
@@ -122,11 +120,11 @@ Consent may be provided orally, in writing, electronically, through inaction (su
 
 You may withdraw consent at any time, subject to legal, contractual and other restrictions, provided that you give reasonable notice of withdrawal of consent to us. On receipt of notice of withdrawal of consent, we will inform you of the likely consequences of the withdrawal of consent, which may include the inability of us to provide certain services for which that information is necessary.
 
-### Limits on Collection of Personal Information
+## Limits on Collection of Personal Information
 
 We will not collect personal information indiscriminately but will limit collection of personal information to that which is reasonable and necessary. We will also collect personal information as authorized by law.
 
-### Limits for Using, Disclosing and Retaining Personal Information
+## Limits for Using, Disclosing and Retaining Personal Information
 
 Your personal information will only be used or disclosed for the purposes set out above and as authorized by law.
 
@@ -136,7 +134,7 @@ We will destroy, erase or make anonymous documents or other records containing p
 
 We will take due care when destroying personal information to prevent unauthorized access to the information.
 
-### Accuracy
+## Accuracy
 
 We will make a reasonable effort to ensure that personal information we are using or disclosing is accurate and complete.
 
@@ -144,7 +142,7 @@ If you demonstrate the inaccuracy or incompleteness of personal information, we 
 
 When a challenge regarding the accuracy of personal information is not resolved to your satisfaction, we will annotate the personal information under our control with a note that the correction was requested but not made.
 
-### Safeguarding Personal Information
+## Safeguarding Personal Information
 
 We protect the personal information in our custody or control by making reasonable security arrangements to prevent unauthorized access, collection, use, disclosure, copying, modification, disposal or similar risks.
 
@@ -161,7 +159,7 @@ However, absolute privacy cannot be guaranteed for any comic, private message or
 
 Also, you might receive messages from third parties. We cannot ensure that these third parties will respect your privacy, so you should be very cautious about sharing any personal information with them.
 
-### Providing Access
+## Providing Access
 
 You have a right to access your personal information held by us.
 
@@ -173,7 +171,7 @@ In some situations, we may not be able to provide access to certain personal inf
 
 Where an access request is refused, we will notify you in writing, document the reasons for refusal and outline further steps which are available to you.
 
-### Complaints
+## Complaints
 
 We will, on request, provide information regarding our complaint procedure.
 
@@ -187,6 +185,6 @@ Parksville, BC, Canada V9P 2G4
 1-888-774-9866  
 privacy_at_pixton.com
 
-### Changes
+## Changes
 
 We may change this policy from time to time. Please check our website frequently for updates to this.
