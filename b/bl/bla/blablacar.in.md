@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blablacar.in privacy policy that was archived on 2015-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150416170243id_/http%3A//www.blablacar.in/blog/privacy-and-data-protection-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blablacar.in privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909201742id_/https%3A//www.blablacar.in/blog/privacy-and-data-protection-policy) for the most accurate reproduction.*
 
-# PRIVACY AND DATA PROTECTION POLICY | BlaBlaCar.in
+# PRIVACY AND DATA PROTECTION POLICY | World's Largest Carpooling Community
 
 PRIVACY AND DATA PROTECTION POLICY
 
