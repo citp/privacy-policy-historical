@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the papaly.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412030114id_/http%3A//www.papaly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papaly.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910014812id_/https%3A//papaly.com/privacy) for the most accurate reproduction.*
 
-# Papaly | your cloud bookmarks
+# Privacy Policy | Papaly
 
 ### What information do we collect?
 
@@ -49,5 +49,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-wwww.papaly.com  
+papaly.com  
 founders@papaly.com 
