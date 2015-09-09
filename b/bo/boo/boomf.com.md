@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomf.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320053113id_/https%3A//boomf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomf.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909035801id_/https%3A//boomf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Boomf
 
@@ -10,9 +10,9 @@ This is a legal document which sets out how we will handle your personal data an
 
 You can access this policy on any page on our website by following the link at the bottom of each page.
 
-### 1\. Collection and Use of Information
+## Collection and Use of Information
 
-### What information do we collect?
+#### What information do we collect?
 
 We will ask you to provide us with the following information:
 
@@ -20,26 +20,26 @@ Full name
 Email address  
 Postal address  
 Telephone number  
-Instagram name  
+Instagram/Facebook name as needed  
 
 
-### Why do we ask for this information?
+#### Why do we ask for this information?
 
 To fulfil your order with Boomf  
 To communicate with you about Boomf and other Boomf products  
 To provide you with order and billing information
 
-### Payment
+## Payment
 
 Payment for Boomf products is made via PayPal Pro and Spreedly. We do not store credit card details nor do we share customer details with any 3rd parties
 
-### Use of your information
+## Use of your information
 
 We use the non-personally identifiable information and certain technical information about your computer in order to operate, maintain and manage Boomf.
 
-### Cookies
+## Cookies
 
-### How we use cookies
+#### How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -55,11 +55,11 @@ Overall, cookies help us provide you with a better website by enabling us to mon
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-### Links to other websites
+## Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-### Controlling your personal information
+## Controlling your personal information
 
 You may choose to restrict the collection or use of your personal information in the following ways:  
 • whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
@@ -74,3 +74,5 @@ If you believe that any information we are holding on you is incorrect or incomp
 Boomf Limited is registered with the Information Commissioner as a data controller.
 
 Privacy policy last updated 6th November 2013.
+
+There seems to have been an error.
