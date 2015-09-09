@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the d4go.com privacy policy that was archived on 2015-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150422144125id_/http%3A//developernotes.d4go.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the d4go.com privacy policy that was archived on 2015-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150909062412id_/http%3A//developernotes.d4go.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<title>Privacy Policy - Web Developer Tools</title>
@@ -1088,8 +1088,7 @@ $(document).ready(function() {
     'whatsnext' : {}  
   });
 </script>
-<!-- AddThis Smart Layers END -->
-<script type="text/javascript">
+<!-- AddThis Smart Layers END --><script type="text/javascript">
 
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-7870337-1']);
@@ -1104,7 +1103,6 @@ $(document).ready(function() {
 	})();
 
 </script>
-
 
 <!-- Quantcast Tag -->
 <script type="text/javascript">
@@ -1139,7 +1137,11 @@ labels:"l10,u11336187.u11336187s732011967580000185"
 		try {
 			if (jQuery) {
 				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
-				jQuery('#commentArea iframe').css('min-height', '410px');
+				var $commentFrame = jQuery('#commentArea iframe');
+				if ($commentFrame.length > 0) {
+					var frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;
+					$commentFrame.css('min-height', frameHeight + 'px');
+				}
 				if (jQuery('.product-button').length > 0){
 					jQuery(document).ready(function(){
 						jQuery('.product-button').parent().each(function(index, product){
