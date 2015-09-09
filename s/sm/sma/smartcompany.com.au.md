@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcompany.com.au privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629201539id_/http%3A//www.smartcompany.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcompany.com.au privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909205436id_/http%3A//www.smartcompany.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | SmartCompany
 
