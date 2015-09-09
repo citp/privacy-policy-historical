@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edisonnation.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607174428id_/http%3A//www.edisonnation.com/documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edisonnation.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910011837id_/http%3A//www.edisonnation.com/documents/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Edison Nation
 
