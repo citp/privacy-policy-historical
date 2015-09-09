@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinonation.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408114220id_/http%3A//kinonation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinonation.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910001702id_/http%3A//kinonation.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kinonation
 
