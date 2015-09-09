@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootmusic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080457id_/https%3A//www.bandpage.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootmusic.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909200735id_/https%3A//www.bandpage.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BandPage
 
@@ -20,6 +20,8 @@ By logging in to our Service using a third-party service, you permit us and the 
 
 Additionally, if you request to sign up for a band or artist’s mailing list while logged in to the Service using third-party service credentials, we will request your name, age, email address and location (typically, a city you have specified) from the third-party service.
 
+If you set up a Paypal account to sell merchandise and experiences on the Service, you may need to provide your Paypal account credentials to BandPage to facilitate transactions.
+
 If you allow our Service to connect with a third-party service, you will be able to use your third-party service login information to log in to our Service, and we will publish certain of your activities on the Service, and certain of the information you provide to the Service, to your profile and/or wall or other presence(s) on such third-party service. If you no longer want the Service to publish stories about you on a third-party service that you have permitted us to connect with, or want to otherwise limit the ways in which the Service interacts with your account on any such third-party service, you should review and, if appropriate, modify your privacy settings on the third-party service.
 
 We also collect and store any other personal information and other data you have provided to us via our Service, by email or otherwise. For example, if you are a band or artist, or an administrator for a band or artist, you may upload photos using our photo upload tools, provide us with biographical and tour information, upload songs or videos, or create links to songs and videos hosted on third-party services on your band’s or artist’s profile on the Service. If you upload photos, we collect such photos as well as any data you provide in connection with those photos. If you provide us with biographical or tour information, we collect that information. If you upload songs or videos, we collect such songs and videos and any related data you provide to us. If you include links to songs or videos on your band’s or artist’s profile on the Service, or we collect any data you provide in connection with those songs and videos. If you are a user, you may be able to RSVP for bands’ or artists’ shows. If you request to sign up for a band or artist’s mailing list, we may request your name, age, email address, and location.
@@ -34,7 +36,7 @@ In addition, when you use our Service, our system automatically collects certain
 
 #### Payment Information
 
-For users that purchase our BandPage™ Plus services or otherwise place transactions on our Service, we collect credit card or other payment information (including, for example, the credit card number and expiration date, verification code (CVV code), and the user’s name, billing address, email address, and telephone number). We transmit this credit card information to the appropriate credit card company or payment processor during order processing.
+For users that place transactions on our Service or have purchased our discontinued BandPage Plus Service, we collect credit card or other payment information (including, for example, the credit card number and expiration date, verification code (CVV code), and the user’s name, billing address, email address, and telephone number).
 
 #### Information from Promotions
 
@@ -48,13 +50,15 @@ We may retain any data you provide to us in an email or other inquiry, to track 
 
 #### Information from Other Sources
 
-We may receive information about you, including personal information, from third parties, and may combine this information with other personal information we maintain about you. If we do so, the provisions of this policy pertaining to our use and disclosure of personal information will govern our handling of any combined information that we maintain in personally identifiable format.
+We may receive information about you, including personal information, from third parties. For example, artists may provide us with lists of their fans so they can use BandPage’s services, such as marketing or promotional services. We may also receive demographic and behavioral information about you from third parties. When we receive this information, we may combine this information with other personal information we maintain about you. The provisions of this policy will govern our handling of any combined information that we maintain in personally identifiable format.
+
+In some instances, third parties (such as record labels, artists, and/or their management companies) provide us with information, including personal information, in connection with services that we may provide to them separate from the Service. We will process and disclose such information as they direct us. In these instances, the information is not ours, and we will comply with the directions of the third party. This policy does not reflect the privacy practices of these third parties and we are not responsible for their privacy policies or practices. We are not obligated to review, comment upon, or monitor their privacy policies or their compliance with their respective privacy policies, nor are we obligated to review their instructions to determine whether the instructions are in compliance or conflict with the terms of their published privacy policies. To the extent we combine such information with the information we collect through the Service, this policy will apply to the combined information.
 
 #### Aggregated Information
 
 We may collect or create data about users of the Service that has been aggregated with other similar data, or from which personal information otherwise has been removed. For example we may use the information that we collect as described above under “Website Information” in aggregate format to prepare anonymous statistics regarding the use of our Websites and other areas of our Service. We may use and disclose this non-personally identifiable data for various purposes, but will do so in an aggregated manner or otherwise in a way that does not identify our users personally. Otherwise, if we use or disclose this data in a manner that identifies you personally, we use and disclose it in accordance with those provisions of this policy describing our use and disclosure of personal information.
 
-### WHEN YOUR INFORMATION WILL BE SHARED OR DISCLOSED
+#### WHEN YOUR INFORMATION WILL BE SHARED OR DISCLOSED
 
 If you join our Service as an administrator for an artist or a band, you may, at your option, choose to input various types of information regarding the artist or band, including, for example, a contact email address, a URL for a website for the artist or band, a telephone number, a biography for that band or artist, photographs (and data associated with such photographs), songs, videos, and links to songs and videos on third-party services (and data associated with such songs and videos), songs and other audio files, tour dates, links to where fans can purchase tickets, information regarding products or services you may place for sale using any e-commerce functionality we make available on the Service, third-party IDs (such as Facebook or SoundCloud IDs), and other information regarding your band’s or artist’s shows.
 
@@ -70,40 +74,56 @@ We will comply with any subpoenas, court orders or other legal processes for any
 
 In addition, information about you in our possession may be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your personal information would be transferred as one of the business assets of the company. BandPage does not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this policy.
 
-### OPT OUT
+#### EMAIL OPT OUT
 
 As noted, once you register with BandPage, we may send you administrative-related emails, as well as emails to facilitate your access to BandPage’s services, including providing you with related updates. We may not offer you the opportunity to opt out of receiving these communications.
 
 However, we provide you with the opportunity to elect not to receive other types of communications, including emails informing you about BandPage’s services and other offerings that we think will interest you. If you want to stop receiving these communications, click on the “Unsubscribe” link in any such email, or contact us via email at support@bandpage.com.
 
-### THIRD-PARTY DATA COLLECTION
+#### THIRD-PARTY DATA COLLECTION
 
 In addition to using cookies and related technologies as described above, certain portions of our Service may also use third-party analytics providers to analyze users’ use of the Service. These analytics providers provide us (or, in some cases, our customers whose websites on the Service we host) with aggregated data that we or our customers may use and disclose for various purposes.
 
-Additionally, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Service (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior. These companies may use information about user behavior in order to provide customized advertisements across various services. In the course of providing these services or placing advertisements, these third party companies may place or recognize a unique cookie on your computer, and may record information to these cookies based upon your activities on any of our websites and on third party websites. Each of these companies uses this cookie information according to their own privacy and security policies. If you wish to not have this information used for the purpose of serving you targeted ads, please visit http://www.aboutads.info/choices to opt-out. Please note that opting-out from these companies’ use of data does not opt you out of being served advertising. You will continue to receive generic ads.
+Additionally, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Service (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior. These companies may use information about user behavior in order to provide customized advertisements across various services. In the course of providing these services or placing advertisements, these third party companies may place or recognize a unique cookie on your computer, and may record information to these cookies based upon your activities on any of our websites and on third party websites. Each of these companies uses this cookie information according to their own privacy and security policies. 
 
-### SECURITY
+You may be able to opt out of receiving tailored advertisements from advertisers or advertising networks who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out sections on the websites of each of those organizations.  Links to those sites are here:
+
+Network Advertising Initiative: <http://www.networkadvertising.org/choices/>
+
+Digital Advertising Alliance: <http://www.aboutads.info/choices/>
+
+Please note that opting-out from these companies’ use of data does not opt you out of being served advertising. You will continue to receive generic ads.
+
+#### SECURITY
 
 Whenever BandPage handles information that you disclose on our Service, regardless of where this occurs, we take steps to ensure that your information is treated securely and in accordance with this policy. BandPage uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information that we collect on our Service. Certain information transmitted through our Service, such as login information (with the exception of the Forum login) and information relating to the purchase of our services, is encrypted using Secure Sockets Layer (SSL) technology or similar encryption technology. Unfortunately, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive personal information from you, we use commercially reasonable safeguards to ensure its security on our systems but we do not accept liability for unintentional disclosure.
 
-### CHILDREN’S PRIVACY
+#### CHILDREN’S PRIVACY
 
-Although our Service may be accessed by children under the age of 13, we will not knowingly collect, maintain or use any personal information from such children, and no part of our Service is directed to persons under the age of 13. In fact, you must be at least 13 years of age to set up an account with us. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS OUR SERVICE AT ANY TIME OR IN ANY MANNER.
+We do not knowingly collect, maintain or use any personal information from children under the age of 13, and no part of our Service is directed to persons under the age of 13. You must be at least 13 years of age to set up an account with us. IF YOU ARE UNDER 13 YEARS OF AGE, PLEASE DO NOT USE OR ACCESS OUR SERVICE AT ANY TIME OR IN ANY MANNER.
 
 If we become aware that we have collected any personal information from children under 13, we will promptly delete such information from our databases. If you are a parent or guardian and discover that your child under the age of 13 has obtained a BandPage account, then you may alert BandPage at support@bandpage.com and request that we delete that child’s personal information from our systems.
 
-### OTHER WEBSITES AND ONLINE SERVICES
+#### OTHER WEBSITES AND ONLINE SERVICES
 
 For your convenience, our Service may contain links to other websites and online services, or you may be otherwise referred to other websites and online services. Additionally, portions of the Service may be made available on or through third-party websites and online services. This policy does not apply to any portions of these third-party websites and services other than to any portions of the Service that are available on or through such third-party websites and online services. Each third-party website and service should be checked for its own privacy policy so you can understand how third parties collect personal information from you and use and disclose such personal information.
 
-### CHANGES TO THIS POLICY
+#### CHANGES TO THIS POLICY
 
-BandPage may from time to time update this policy. Additionally, in the event that BandPage merges with, or is acquired by another company, a change to this policy may result. Whenever a change to this policy is significant, we will place a prominent notice on our Service.
+BandPage may from time to time update this policy. Additionally, in the event that BandPage merges with, or is acquired by another company, a change to this policy may result. If we make any material changes to this policy, we will notify you of such changes by posting them on this page or by sending you an email or other notification, and we will indicate when such changes become effective. By continuing to access or use our Services after those changes become effective, you are agreeing to be bound by the revised policy. 
 
-### GOVERNING LAW
+#### GOVERNING LAW
 
-Our Service is controlled by BandPage from our offices within the State of California, United States of America. By choosing to use our Service or otherwise provide information to BandPage, you agree that any dispute over privacy or the terms contained in this policy will be governed by the law of the State of California, without reference to principles of conflicts of law. If you are accessing our Service from any region with regulations or laws governing personal data collection, use or disclosure that differ from United States laws or regulations, please note that through your continued use of our Service, which is governed by the laws of the State of California and the United States of America, this policy and our Terms of Use (available [here](https://web.archive.org/company/terms) and/or at http://www.bandpage.com/company/terms), you are transferring personal information to the United States of America and you consent to that transfer and to the processing of such personal information in the United States of America. You also consent to the adjudication of any disputes arising in connection with our Service in the federal and state courts of San Francisco County in the State of California. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Use or any other agreement we may have with you.
+Our Service is controlled by BandPage from our offices within the State of California, United States of America. By choosing to use our Service or otherwise provide information to BandPage, you agree that any dispute over privacy or the terms contained in this policy will be governed by the law of the State of California, without reference to principles of conflicts of law. You also consent to the adjudication of any disputes arising in connection with our Service in the federal and state courts of San Francisco County in the State of California. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Use or any other agreement we may have with you.
 
-### UPDATE INFORMATION / SUGGESTIONS
+#### INTERNATIONAL
+
+If you are accessing our Service from any region with regulations or laws governing personal data collection, use or disclosure that differ from United States laws or regulations, please note that through your continued use of our Service, which is governed by the laws of the State of California and the United States of America, this policy and our Terms of Use (available [here](https://web.archive.org/company/terms) and/or at http://www.bandpage.com/company/terms), you are transferring personal information to the United States of America and you consent to that transfer and to the processing of such personal information in the United States of America.
+
+#### U.S.-EU and U.S.-Swiss Safe Harbor
+
+BandPage complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and adheres to the Safe Harbor privacy principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Information on both Safe Harbors may be found at <http://www.export.gov/safeharbor/>.
+
+#### UPDATE INFORMATION / SUGGESTIONS
 
 If you would like to update or correct any information that you have provided to BandPage through your use of our Service or otherwise, or you have questions for us regarding privacy or suggestions for improving this policy, please send an email to support@bandpage.com.
