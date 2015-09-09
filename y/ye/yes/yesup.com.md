@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yesup.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529155217id_/http%3A//yesup.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesup.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909233418id_/http%3A//yesup.com/privacy_policy.php) for the most accurate reproduction.*
 
-# YesUp Media INC
+# Privacy Policy
 
 ## Privacy and Policy
 
