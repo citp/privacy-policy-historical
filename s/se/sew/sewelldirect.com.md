@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sewelldirect.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316004023id_/https%3A//sewelldirect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sewelldirect.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909220028id_/https%3A//sewelldirect.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PrivacyPolicy - SewellDirect.com
 
 When you leave any personal information on our web site, either by visiting the "Registration" page or by placing an order, you can be assured that our company is the only one who will use it. We do not rent, sell, or otherwise distribute any information from our customer database, including e-mail addresses.
 
