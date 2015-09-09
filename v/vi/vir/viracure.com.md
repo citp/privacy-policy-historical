@@ -1,37 +1,41 @@
-> *The following text is extracted and transformed from the viracure.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827093516id_/http%3A//viracure.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viracure.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909141200id_/https%3A//www.viracure.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Viracure
 
-Your subscribing to Viracure.com Special Offers:
+We, Viracure Limited, take your privacy very seriously. This privacy policy governs and details the main privacy principles we apply regarding information and data collected through the services provided through our website: [www.viracure.com](https://web.archive.org/web/20150909141200id_/https%3A//www.viracure.com/en/www.viracure.com) (the “Website”). 
 
-When you submit the email address, you will be given an option to "opt-in" to A Viracure.com promotional newsletter. By agreeing to receive these notifications from us, we will be sending you regularly, emails containing relevant product and service information such as new product release, updates and upgrades information, and any special offers that we think may be relevant to you.
+BY VISITING OUR WEBSITE, YOU AGREE WITH THE PRACTICES DESCRIBED IN THIS PRIVACY STATEMENT.
 
-Unsubscribing from a newsletter:
+In the Website, the antivirus product is offered by our affiliate, Woggle Trading Limited (the “Woggle Product”). If you purchase a license to the Woggle Product, please read carefully the end user license that includes additional and other terms regarding the collection and use of information and data. 
 
-Should you wish to stop receiving these email communications, please use the "unsubscribe" mentioned in the emails, or you may just Email Us to be removed from the newsletters. When you actually “unsubscribe” using the links from the email or from the site we guarantee to be removing your email address from our newsletter data base list. This will usually take place prior to the upcoming additional mailing. Further from this time you will not receive our newsletter email communications. Please note that in case you have purchased product or downloaded a free trial version prior to this or if you will decide to purchase again or download again after you have already unsubscribed from our mailings, we may send you service emails strictly related to these actions. The emails may include notifications such as product notices, order confirmations expiry alerts, security notifications or compatibility notifications.
+In order to use programs that are available for download in this Website (the “Programs”), you may be requested to fill in a detailed form. During such registration, you will be requested to submit information such as; full name, post address, email address, detailed payment method information.
 
-Preserve your Privacy – Not allowing sharing of any information:
+When purchasing license to the Programs, we ask for your full contact details along with your billing and personal address information. This information will be used for processing the order, receiving the payment information required and to enable you to use services and programs you have selected and purchased a license for. Should there be a problem with any order, one of our representatives may contact you via email or phone in order to clarify. Remember that the confirmation email of each purchase and transaction is sent to the exact address you gave us, so make sure it is correct.
 
-Viracure.com is the only owner of any related information that is collected on this website. We are strictly against selling, disclosing, or renting the information collected here within this site to any third parties unless if in a case we will be required to by a binding agreement or by a legal proceeding or any law.
+If you are under 18 years old, please avoid using this website do not download any of the Programs and do not use any of the Programs.
 
-While visiting different websites:
+While downloading the Programs, you may be requested for your contact information and email address. You may get email messages from us that relate to any transaction. The email subjects may include download referral links, activation software information, help & support alerts, and upgrades for the software full version with updates included.
 
-Our website can contain hyper links to other internet properties or websites that are not in any of our control and therefore will not be covered by any term of this Privacy Policy terms mentioned on this site i.e. only applicable to Viracure.com. Should you be accessing other website using any links from our website, these sites can collect private information from your computer which may be used in accordance to their privacy policy, which is different from ours.
+We may collect some information relating to you that may include among others your IP Address, browser type, operating system version, GUID identification, customer configuration, the hardware identification number of the computer or other machine used, whether you are Administrator, or not, version of the operating system and service pack and whether your windows operating system is 32 or 64 bit, some internal tracking identifiers that we use to track downloads, installs, sales, and uninstalls and your using behavior of the Programs.
 
-Cookies for statistics and analytics purposes:
+Such information collected is used to carry out the services provided by the Programs, as well as for newsletter subscriptions, personalization of the user experience on the software, marketing and promotional purposes, including remarketing, research and improvement of the Programs, to notify you of new services or changes to existing services, to send you technical or service-related communications and to enforce the Terms of use of the Website and Programs.
 
-We use cookies here at Viracure.com website. Cookies are pieces of parts of information sent by a server to a browser, which enables a server to get data from the web browser. Viracure.com does not gather any personal data or details from installed cookies. The cookies are used to ensure and enable the sign in process faster and easier for returning users, allowing the site to keep track of any products one has added to their shopping cart and preferred geographic location, language preference and type of currency, enabling to keep track of user movements for statistical information analysis.
+While downloading the programs it may also include third party software that collects browsing non-identifiable information and behavioral preferences, by adding tracking technologies such as cookies that track the types of content you have viewed and suggest you accordingly advertisements that might be relevant for you.
 
-Correct or Update your personal data:
+Most browsers are initially set up to accept cookies and similar technologies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Web beacons may also be disabled by disabling JavaScript on your computer. However, alteration of such settings may affect the functionality of our Website. For more information on how to disable cookies, you may visit www.aboutcookies.org. We understand that you may wish to stop sharing with us any of your information. In order to stop sharing with us your information, please uninstall our program and do not use the Website. Information collected prior to such uninstall will be still kept with us and may be used by us, as used prior to such uninstall.
 
-We here at Viracure.com make available a method for correcting or updating one's personal data from our data records when and if needed at any given point of time once requested by the user. A delay of a few weeks applies to corrections and updates of personal information as Viracure.com attempts to verify the truthful identity of a user requesting such changes to their information prior to it being executed by us. To correct or update personal information, simply just Email Us to our Customer Service Dept. and we shall be of assistance to remedy the situation as soon as possible.
+As we continue to develop our business, we might sell or buy our assets and rights. In such transactions, customer information generally is one of the transferred business assets in such transaction. We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our End User License and or Terms of Use or protect our others rights. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-If you no longer wish to be on our mailing list, see our opt-out process described above.
+You have a right to access the personal data that is held about you. To obtain a copy of your personal information, please send an email to [support@viracure.com](mailto:support@viracure.com): (in the title, copy and paste this: “Obtain a copy of my personal information”) or submit such application at: <https://www.viracure.com/en/homepage-responsive/#nav_section_support>.
 
-You should know this:
+Our Website and our newsletter may include various links to third party websites or promote third party products. We are not responsible for the privacy practices of such third parties in any way. We strongly suggest that you refer to their privacy policy before accessing any website or making any purchase from them. 
 
-You have a right to access the personal data that is held about you. To obtain a copy of the personal information Viracure.com has of you, please Email Us to our Customer Service Dept. (in the title copy paste this: "Obtain a copy of my personal information").
+Please note that this policy may change from time to time. All updates will be published at this Website. We encourage you to refer to this policy periodically.
 
-Notification of changes
+This Privacy Policy will be governed by the laws of Cyprus. The exclusive jurisdiction and venue to adjudicate any dispute arising out of this Privacy Policy shall be of the courts of Cyprus excluding conflict of laws. 
 
-You as the user will always be notified should we decide to change this Policy so that you may carry on being secure about your privacy when dealing with us. This Policy was last updated on May 13th, 2013. When we decide on updating or modifying our Policy, we always post a notification on our website Viracure.com homepage to that effect with a link to the revised Version of the Policy. You shall always be aware of what data and info we gather from our users, how we use it, and under which conditions and terms we may reveal it.
+Any claim or other legal notice must be sent to our address: Viracure Limited  
+89 Bond Street,  
+London, UK W1S 1DA.
+
+If there are any questions regarding this privacy policy or if you believe that this website is not following its stated privacy policy, or if you wish to update the information you provided us please send an email to: [support@viracure.com](mailto:support@viracure.com). 
