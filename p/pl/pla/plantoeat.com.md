@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plantoeat.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601221502id_/http%3A//www.plantoeat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plantoeat.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909215436id_/http%3A//www.plantoeat.com/privacy) for the most accurate reproduction.*
 
 # Plan to Eat - Web Site Terms and Conditions of Use
 
