@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317050126id_/http%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909024300id_/https%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
 
 # Shop for Practically New Clothing on thredUP- Privacy Policy
 
@@ -32,7 +32,7 @@ You can access and edit your thredUP account information at any time. While you 
 
 thredUP will disclose your personal information only under the following circumstances: 
 
-  * to provide your email address to thredUP marketing partners who may send you email communications about products or services that may be of interest to you;
+  * to provide your email address to thredUP marketing partners who may issue payments to you for your processed cleanout bags in the form of those partners' gift cards or vouchers;
   * to provide the information to third parties who work on behalf of or with thredUP to provide products or services to you under confidentiality agreements. These third parties may use your personal information to help thredUP communicate with you about offers from thredUP and from our marketing partners.
   * to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
   * when necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of thredUP's Terms of Use, or as otherwise required by law;
@@ -46,6 +46,6 @@ Notwithstanding the above, if your username reveals your identity, or if you sub
 
 This Privacy Policy forms part of, and is subject to, thredUP’s Terms of Use. thredUP may update this Privacy Policy at any time in its sole discretion. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your thredUP account or by placing a prominent notice on our website. If you do not agree with the terms of the updated Privacy Policy, then you should cease use of thredUP Site at that time. We will treat personal information collected in accordance with the privacy policy in effect when it was collected.
 
-Effective Date of Policy: **April 4, 2012**
+Effective Date of Policy: **March 23, 2015**
 
 return to top
