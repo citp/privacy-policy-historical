@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetearnest.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033406id_/https%3A//www.meetearnest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetearnest.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909184011id_/https%3A//www.meetearnest.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Earnest
 
@@ -152,7 +152,7 @@ To be certain of your privacy rights, you may wish to contact the agency in your
 
 ### When This Privacy Policy Applies
 
-This policy applies to information we collect about your in connection with your use of this website, email, text, and other mobile applications, and through the loan application process. When you use the Earnest site, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
+This policy applies to information we collect about you in connection with your use of this website, email, text, and other mobile applications, and through the loan application process. When you use the Earnest site, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy.
 
 ### Changes to Our Privacy Policy
 
