@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the robertmstanley.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623191736id_/http%3A//robertmstanley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robertmstanley.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909231433id_/http%3A//robertmstanley.com/privacy) for the most accurate reproduction.*
 
-# RMS - Robert M Stanley » Privacy
+# RMS - Robert M Stanley Privacy - RMS
 
 Privacy Policy
 
