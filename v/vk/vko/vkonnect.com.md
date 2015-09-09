@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the vkonnect.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322001422id_/https%3A//www.vkonnect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vkonnect.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910013719id_/https%3A//www.vkonnect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | vkonnect.com
 
 [ ](https://web.archive.org/)
 
-  * [Features](https://web.archive.org/web/20150329022841id_/https://www.vkonnect.com/Features.aspx)
-  * [Plans](https://web.archive.org/web/20150329022841id_/https://www.vkonnect.com/Plans.aspx)
-  * [Sign In](https://web.archive.org/web/20150329022841id_/https://www.vkonnect.com/Default.aspx)
-  * [Sign Up](https://web.archive.org/web/20150329022841id_/https://www.vkonnect.com/Signup.aspx)
+  * [Features](https://web.archive.org/web/20150910141750id_/https://www.vkonnect.com/Features.aspx)
+  * [Plans](https://web.archive.org/web/20150910141750id_/https://www.vkonnect.com/Plans.aspx)
+  * [Sign In](https://web.archive.org/web/20150910141750id_/https://www.vkonnect.com/Default.aspx)
+  * [Sign Up](https://web.archive.org/web/20150910141750id_/https://www.vkonnect.com/Signup.aspx)
   * [Blog](http://blog.vkonnect.com/)
 
 
