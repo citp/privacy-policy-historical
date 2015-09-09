@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629085136id_/https%3A//www.opswat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opswat.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910002105id_/https%3A//www.opswat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OPSWAT
 
 OPSWAT respects the privacy of individuals who provide us with personal information, including our customers, resellers, distributors, service providers and visitors to our website, and is committed to protect the personal information that is provided to us through our website, by email or by other means. OPSWAT does not collect or use personal information from an individual unless the individual intentionally provides it and consents to its usage. This privacy policy ("Policy") describes our personal information handling practices and applies to OPSWAT, Inc. and all of its subsidiaries worldwide.
+
+OPSWAT complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. OPSWAT has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view OPSWAT’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 #### Information Collected
 
@@ -79,6 +81,10 @@ Our websites do not target and are not intended to attract children under the ag
 #### Third Party Sites
 
 OPSWAT's website may provide links to other third party websites which are outside our control and not covered by this Policy. We encourage you to review the privacy policies posted on these third party websites.
+
+#### Dispute Resolution
+
+OPSWAT has designated JAMS as our Alternative Dispute Resolution (ADR) Provider for disputes under the U.S.-EU Safe Harbor Framework. JAMS dispute procedures may be found on their website at [www.jamsadr.com](http://www.jamsadr.com/).
 
 #### Changes to Our Privacy Policy
 
