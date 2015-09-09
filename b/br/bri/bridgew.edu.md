@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgew.edu privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620234648id_/http%3A//www.bridgew.edu/sites/default/files/Web%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgew.edu privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909210751id_/http%3A//www.bridgew.edu/sites/default/files/Web%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
 
 # Web Privacy Statement
 
