@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kukuruku.co privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627152911id_/http%3A//kukuruku.co/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kukuruku.co privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909202841id_/http%3A//kukuruku.co/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Kukuruku / Technology Hub
 
