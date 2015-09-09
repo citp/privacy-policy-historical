@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ta4a.info privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509112512id_/http%3A//www.ta4a.us/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ta4a.info privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909061940id_/http%3A//ta4a.info/privacy.php) for the most accurate reproduction.*
 
-# Ta4a Internet Services:|| Privacy Policy
+# Ta4a Free Internet Services:|| Privacy Policy
 
   * [**Home:**](https://web.archive.org/en)
 
