@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627154229id_/http%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaudiomart.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909022554id_/http%3A//www.usaudiomart.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - US Audio Mart
 
