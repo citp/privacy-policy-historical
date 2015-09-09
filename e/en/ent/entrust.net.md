@@ -1,57 +1,98 @@
-> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529073035id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909092425id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement | SSL Certificate | Find SSL | Check SSL Certificate
+# Entrust Datacard Privacy Statement | Two-Factor Authentication | Citizen ID
 
-## Web Site Privacy Statement
+## How Do I Agree to the Privacy Statement?
 
-We hope that your visit to our site is both informative and useful. As a world leader in securing digital identities and information, we feel that privacy and security are two cornerstones of doing business over the Internet. As a result, Entrust is dedicated to safeguarding the personal information you give us and to providing our customers with the tools, service and support to develop their own world-class privacy and security solutions.
+Entrust Datacard Corporation (“Datacard”, “we”, “our”) values our relationship with you and the other users of our web sites, including Datacard’s web sites located at datacard.com, Entrust.com and entrust.net (the “Sites”) and the services, information and products offered on it (the “Datacard Services”). We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information (“Personal Information”) that we may collect when you Use (as defined in the [Terms of Access and Use](http://www.datacard.com/datacard-terms-of-use)) the Sites and the Datacard Services. Accordingly, we have implemented this Privacy Statement to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it.
 
-The goal of this privacy statement is to disclose Entrusts' data protection practices in relation to personal information collected at Entrusts’ Internet web sites located www.Entrust.com and www.Entrust.net. These practices have been implemented only on Entrust Inc.'s web sites (including subsidiaries of Entrust Inc.) at www.Entrust.com and www.Entrust.net. Please note that these web-sites contain links to other sites and Entrust is not responsible for the privacy practices of such sites. In the context of this privacy statement, “personal information” does not include name, title, business address or telephone number of an employee of an organization.
+By using this Site, you are consenting to the collection, use, disclosure, and transfer of your information as described in this Privacy Statement.  If you do not consent to the collection, use, disclosure and transfer of your information as described in the Privacy Statement, you may not use this Site.
 
-Safeguarding your personal information is good business — it helps foster confidence, goodwill and stronger relationships with you, our customers. If, at any time, you have questions or concerns about our privacy practices, please feel free to contact us.
+This Privacy Statement applies to the information we collect through this Site.  It does not apply to information we collect through other channels, such as over the phone or in person.  Some of the information we collect through the Sites may be Personal Information that identifies you personally, alone or in combination with other information available to us.  Other information may be non-personal information that cannot be easily used to personally identify you (“Non-Personal Information”)
 
-In our business, we use appropriate security safeguards and Entrusts’ award-winning solutions and adhere to Eight Privacy Principles to make sure that your personal information is protected.
+If you have any questions or comments regarding this Privacy Statement, please contact us at [legal@datacard.com](mailto:legal@datacard.com).
 
-As a world leader in Internet security, Entrust will ensure that your personal information is protected by security safeguards that are appropriate to the sensitivity level of the information.
+## Are Changes Made to this Privacy Statement?
 
-We have designated certain Entrust employees to be accountable for conformity with this Privacy Statement. Their responsibility includes developing and implementing policies and procedures for the protection of all personal information consistent with this Privacy statement.
+Datacard reserves and shall have the right, at its sole discretion, to modify, add or remove any terms or conditions of this Privacy Statement without notice or liability to you. Any changes to this Privacy Statement shall be effective immediately following the posting of such changes on this Site. The most recent version of this Privacy Statement may always be found at this URL. You agree to review this Privacy Statement from time to time and agree that any subsequent Use by you of the Sites following changes to this Privacy Statement shall constitute your acceptance of all such changes. This Privacy Statement was last modified on August 7, 2015.
 
-We will obtain your consent for the collection, use or disclosure of personally identifiable information, except under the following circumstances:
+## The Type of Information We Collect
 
-  * Entrust may release personal information when we believe it is appropriate to comply with law, or protect the rights, property, or safety of Entrust or others;
-  * Entrust may share personal information with its subsidiaries who will also comply with this policy with respect to the information that is shared;
-  * Entrust may employ other companies or individuals who may have access to personal information needed to perform functions on our behalf, but who will not use this information for other purposes; and
-  * in the unlikely event that Entrust, Inc., or substantially all of its assets are acquired, customer information will be one of the transferred assets.
+_Personal Information_. We collect Personal Information from you. As explained above, Personal Information is information that can be used to identify you individually, such as your name, business name, mailing address, phone number, e-mail address, credit card number, resume and financial information.  In the event that you purchase digital certificates from our Sites, we also collect identity information that is required to issue digital certificates.  Information required for the digital certificates is either voluntarily submitted by you or is obtained from a third party database during the validation process.  Identity information that is embedded in an issued digital certificate, that is necessary for the digital certificate’s operation, is considered public information and is not considered Personal Information for purposes of this Privacy Statement.  In the context of this Privacy Statement, Personal Information does not include name, title, business address or telephone number of an employee of an organization.
+
+_Non-Personal Information_. We also collect Non-Personal Information from you. This information cannot be easily used to personally identify you, such as your browser type, the URL of the previous web site you visited, your ISP, operating system, and the Internet protocol (IP) Address of your computing device.
+
+## Terms of Access and Use
+
+You have read, understand and agree to all of the terms and conditions of our Terms of Access and Use, which is available at [Terms of Access and Use](http://www.datacard.com/datacard-terms-of-use).
+
+## Confidentiality and Transmissions over the Internet
+
+The transmission of data or information (including communications by e-mail) over the Internet or other publicly accessible networks is not secure, and is subject to possible loss, interception or alteration while in transit. Accordingly, we do not assume any liability for any damage you may experience or costs you may incur as a result of any transmissions over the Internet or other publicly accessible networks, such as, but not limited to, transmissions involving the exchange of e-mail and credit card numbers with us (including those which may contain your personal information). While we will take commercially reasonable efforts to safeguard the privacy of the information you provide us and treat such information in accordance with this Privacy Statement, in no event will the information you provide to us be deemed to be confidential, create any fiduciary obligations to you on our part, or result in any liability to you on our part in the event that such information is inadvertently released by us or accessed by third parties without our consent.
+
+## How and When We Collect This Information
+
+_Providing Information to Us_. We collect Personal Information from you when you provide it to us. For example, if you purchase a product or service sold through our Site, we collect your name, mailing address, telephone number, credit card number, and email address. If you sign up to receive a newsletter, we will collect your email address. If you provide us employment related information, we will collect your name, address, phone number, email address, resume and possibly equal employment opportunity data.
+
+_Communications With Us_. If you communicate with us regarding our Datacard Services, we will collect any information that you provide to us in any such communication.
+
+_Analytic and Reporting Technologies_. Like the operators of most web sites, we use analytic and reporting technologies to record Non-Personal Information such as Internet domain and host names, IP addresses, browser software and operating system types, clickstream patterns, and the dates and times that the Sites and the Datacard Services are accessed.
+
+## How We Use The Information We Gather
+
+Generally, we use the information we collect through this Site:
+
+  * to provide the information, products and services you request;
+  * to provide you with effective customer service;
+  * to contact you with information and notices related to your use of this Site;
+  * to contact you with special offers and other information we believe will be of interest to you;
+  * to invite you to participate in surveys and provide feedback to us;
+  * to improve the content, functionality and usability of this Site;
+  * to better understand your needs and interests;
+  * to improve our products and services;
+  * to improve our marketing and promotional efforts; and
+  * for any other purpose identified in an applicable notice, communication, click-through agreement or other agreement between you and us.
 
 
 
-The personal information we collect will be limited to what is necessary for the business purposes identified unless you have otherwise consented, or when required by law. We will not collect personal information indiscriminately.
+## When Do We Disclose Your Information to Third Parties
 
-Our Web servers collect and track IP addresses and resolves them to a domain name, but we do not collect personally identifiable information unless we explicitly ask you to provide it. Some pages in our Web sites ask you to provide personal information to order a product or service, or to take advantage of other opportunities (e.g., download a white paper). When this information is requested, you will be asked to complete a form and return it to us. The type of information we ask you to provide will vary according to the product or service that you request. The choice to share this information is always yours, but if you choose to withhold it, you will not be able to access certain resources. In addition, we sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we make it possible for users to define usage preferences (“remember settings”) to speed requests such as search queries in future visits.
+Generally speaking, we do not disclose your information to third parties. In some instances, however, we reserve the right to do so because it is necessary to the operation and continued growth of our business or to protect the rights of others. You understand and agree that we are not required to provide you with advance notice and do not require your consent to make such disclosure. These instances are discussed below:
 
-If you make a payment for our products or services on our website, the financial details you are asked to submit will be provided directly to our payment provider Adyen or Authorize.net via a secured connection. The provided financial details (e.g. your credit-card number) will be processed by Adyen or Authorize.net as our processer on our behalf, only with the sole purpose of completing the payment transaction and Adyen as well as Authorize.net will not use your payment data for any other purpose. These financial details will only be passed on to financial institutions who are involved with the chosen transaction (e.g. your bank or credit-card company). Adyen and Authorize.net will not pass on any payment or other details related to you to any other third parties, unless it is compelled to do so under applicable law. For more information about Adyen, and its security, visit <https://www.adyen.com/home/about-adyen.html>. For more information about Authorize.net and its security and privacy policy, visit <http://www.authorize.net/company/privacy/>
+_Disclosure to Successors_. We may disclose your Personal Information to any successor-in-interest of ours, such as, but not limited to, a company that acquires us.
 
-Occasionally, we give our subscribers an option to receive updates and product information. If you would prefer not to receive such notifications, you can opt-out by selecting the appropriate box.
+_Disclosure to Unaffiliated Third Parties_. We may disclose your Personal Information to prevent an emergency, to protect or enforce our rights, to protect or enforce the rights of a third party, or as required or permitted by law (including, without limitation, to comply with a subpoena or court order).  We may also disclose your Personal Information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of the Site; or to enforce or apply our online Terms of Access and Use or other agreements.
 
-Each person who submits personal information is required to verify the accuracy of all information provided to us at the time of submission. You may also contact us to change this information at the address indicated below.
+_Disclosure to Affiliates_.  Datacard may share the information collected through the Sites with other Datacard entities, including but not limited to, Entrust, Inc. and Entrust Limited.  These affiliate companies are permitted to use your information for their own marketing purposes and in a manner otherwise consistent with this Privacy Statement.
 
-We will endeavor to inform customers, partners and employees about the policies and practices that apply to the management of their personal information.
+_Disclosure to Third-Party Service Providers_. We may contract with various third parties and provide your Personal Information to those parties. For example, we use a third-party to process payments made to us, and may subcontract out manufacturing, fulfillment, or other operations. We will use commercially reasonable efforts to prevent such third parties from disclosing your Personal Information, except for the purpose of providing the services in question. However, we cannot guarantee and are not liable for the conduct of such third parties.
 
-On request and to the extent reasonably possible, we will tell you if we have any personal information about you and how it is used. We will endeavor to correct or amend any personal information if its accuracy and completeness is challenged and found deficient.
+_Disclosure of Non-Personal Information_. We will disclose Non-Personal Information, usually in aggregate form, to potential strategic partners, advertisers, investors, customers, and others. You may not “opt out” of the sharing of this information. However, it cannot be easily used to identify you personally.
 
-If you require any further information or if you have any questions or concerns about our privacy or security policies and procedures, please contact us at:
+## What About Cookies?
 
-Entrust, Inc.  
-c/o Web Site Privacy Manager  
-1000 Innovation Drive  
-Ottawa, Ontario, Canada  
-K2K 3E7  
-email: [privacyofficer@entrust.com](mailto:privacyofficer@entrust.com)
+A cookie is a message that is sent to your computer from a web server and stored on your computer’s hard drive. Most web sites use cookies.
 
-We will investigate all the concerns we receive and take appropriate measures to ensure that our practices are as stated in this Privacy Statement.
+We currently employ cookies.
 
-* * *
+The information we collect using cookies and similar technologies is not, in and of itself, personally identifiable, but we may link it to Personal Information that you provide.  If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer.
 
-Parts of Entrust's Web site use "session cookies" for the purpose of authenticating the user. This cookie holds only the information that is uniquely generated when the user logs on to the site and persists only as long as the user's browser is open. Then, upon the user's departure from the site and closure of their Web browser, the information in the session cookie is removed from memory. This enables better user security and privacy. Cookies may also be used to provide added convenience to users by "remembering" non-identifiable information to streamline services and preserve user preferences between sessions. If you decline to receive cookies through the options provided by your browser, certain services may not be available at the site.
+## Datacard does not support DNT
 
-This Web site privacy statement was last updated on September 19, 2013. The practices outlined above represent Entrust's data protection practices for Web site information collected after September 19, 2013. To keep up with the rapidly evolving Internet environment, Entrust will review and revise these practices from time to time and post updates at <http://www.entrust.com/privacy>.
+At this time Datacard sites do not recognize automated browser signals regarding tracking mechanisms, which may include ‘do not track’ instructions. However, you can change your privacy preferences regarding the use of cookies and similar technologies through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block all cookies. Please consult the ‘Help’ section of your browser for more information.
+
+## Does Datacard Protect My Personal Information?
+
+Whenever we obtain your Personal Information, we use commercially reasonable efforts to protect it from unauthorized access or disclosure. However, we are not insurers of the security of your Personal Information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions beyond our reasonable control.
+
+## What About Children’s Privacy?
+
+Our Datacard Services are not intended for users younger than eighteen years of age. Accordingly, we will not knowingly collect or use any Personal Information from children that we know to be under the age of eighteen. In addition, we will delete any information in our database that we know originates from a child under the age of eighteen.
+
+## Governing Law
+
+This Privacy Statement shall be governed under the laws of the State of Minnesota without regard to its conflicts of law provisions.
+
+## Contact
+
+If you have any questions or concerns about our Sites or this Privacy Statement, please feel free to contact us at [legal@datacard.com](mailto:legal@datacard.com)
