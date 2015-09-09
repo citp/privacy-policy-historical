@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the pdfcast.org privacy policy that was archived on 2014-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141007193229id_/http%3A//pdfcast.org/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfcast.org privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909070530id_/http%3A//pdfsr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice
+# PdfSR.com Privacy Notice
 
-This is the web site of **PDFCast.org**.
+This is the web site of **PdfSR.com**.
 
-Our postal address is **http://pdfcast.org  
+Our postal address is **http://pdfsr.com/  
 **
 
-We can be reached via e-mail at .
+We can be reached via e-mail at [admin@pdfsr.com](mailto:admin@pdfsr.com).
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -29,6 +29,4 @@ Upon request we provide site visitors with access to no information that we have
 
 Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
 
-Consumers can have this information corrected by visiting us at [http://pdfcast.org/user/profile](https://web.archive.org/web/20141007193229id_/http%3A/user/profile).
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+Consumers can have this information corrected by visiting us at <http://pdfsr.com/member/profile>.
