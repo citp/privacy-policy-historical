@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2015-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150425174808id_/https%3A//www.paydayuk.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909204059id_/https%3A//www.paydayuk.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PaydayUK
 
@@ -174,7 +174,7 @@ SHARING YOUR INFORMATION WITH THIRD PARTIES
 
 | 
 
-We may share your personal information with any member of our group of affiliated companies who may process your personal information for the purposes specified in this privacy policy. For a list of our group of affiliated companies with whom we may share your personal information, please [click here](https://web.archive.org/media/29313/group-companies-v1-07.02.12.pdf "Group Companies"). The list of our group of affiliated companies with whom your data may be shared will change from time to time, so please ensure that you revisit this link regularly.  
+We may share your personal information with any member of our group of affiliated companies who may process your personal information for the purposes specified in this privacy policy. For a list of our group of affiliated companies with whom we may share your personal information, please [click here](https://web.archive.org/media/54930/group-companies-feb-2015.pdf "Group Companies"). The list of our group of affiliated companies with whom your data may be shared will change from time to time, so please ensure that you revisit this link regularly.  
   
 3.2
 
@@ -320,7 +320,7 @@ Your data may also be used for other purposes for which you give your specific p
 
 | 
 
-This section is a condensed explanation of how personal information is used for credit referencing and fraud prevention purposes. If you would like to read the full details of how your credit reference data may be used please refer to “A Guide to the use of your personal information by PaydayUK and at Credit Reference and Fraud Prevention Agencies” by clicking [here](https://web.archive.org/media/29310/fpn-full-leaflet-v2.pdf).  
+This section is a condensed explanation of how personal information is used for credit referencing and fraud prevention purposes. If you would like to read the full details of how your credit reference data may be used please refer to “A Guide to the use of your personal information by PaydayUK and at Credit Reference and Fraud Prevention Agencies” by clicking [here](https://web.archive.org/media/54946/fpn-full-leaflet-feb-2015.pdf).  
   
 4.11
 
