@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the bathstore.com privacy policy that was archived on 2015-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150430084505id_/http%3A//www.bathstore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathstore.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910015457id_/http%3A//www.bathstore.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Legal | Bathstore
 
 This Privacy Policy regulates the use by Bathstore ("Bathstore"/"we"/"our"/"us") of the information you provide when using the Bathstore website. It is to be read in conjunction with the terms and conditions of use of the site.
 
 Bathstore is committed to the online privacy of all its users. This policy statement is designed to give a clear explanation of Bathstore's data processing practices. For your protection, we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.
+
+To improve customer experience and our quality of service, we use technology on areas of the site to record user movements including page scrolling and text entered into forms. The information this technology collects does not include bank details and will be for internal use only. Data collected in this manner assists us in identifying usability issues as well as improving technical support for users.
 
 #### REGISTRATION:
 
@@ -35,9 +37,10 @@ We require this information to understand your needs and provide you with a bett
 
 We also allow selected third parties who participate with us in marketing programmes to place cookies when you visit our site. These cookies enable us to monitor which adverts you see and click on to get to our site. We currently use two companies for this and you can see their privacy policies at the following addresses:
 
-Adwords:[http://www.google.com/policies/privacy/ads/](http://www.google.com/policies/privacy/ads/)
+Adwords: [http://www.google.com/policies/privacy/ads/](http://www.google.com/policies/privacy/ads/)
 
-Criteo: [http://www.criteo.com/us/privacy-policy](http://www.criteo.com/us/privacy-policy)
+AdRoll: <https://www.adroll.com/en-GB/about/privacy>[  
+](https://www.adroll.com/en-GB/about/privacy)
 
 #### SECURITY:
 
@@ -64,7 +67,7 @@ If you have not previously objected to us using your personal information for di
 
 A cookie is a piece of text which asks permission to be placed on your computer’s hard drive. Once you agree (or your browser agrees automatically if you have set it up in that way), your browser adds that text in a small file. A cookie helps analyse web traffic or lets web site operators know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an electronic store, a cookie makes it easier to shop, by allowing you to place things into a shopping basket; the basket itself is not a cookie; the cookie is placed on your hard drive and keeps track of your basket versus others in use at the same time.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our web site in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Denial of a traffic log cookie may prevent you from using the web site. Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly enforced. We know that people have concerns about cookies, but we believe that the benefit that you and Bathstore gain from their proper use is worthwhile. You may set up your web browser (Microsoft Internet Explorer or Netscape Navigator) to notify you of cookie placement requests or decline cookies completely (although declining them may prevent you from being able to use the web site properly or at all). You can delete the files that contain cookies - those files are stored as part of your Internet browser.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our web site in order to tailor it to customer needs. We only use this information for statistical analysis purposes. Denial of a traffic log cookie may prevent you from using the web site. Overall, cookies help us provide you with a better web site, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. This practice is strictly enforced. We know that people have concerns about cookies, but we believe that the benefit that you and Bathstore gain from their proper use is worthwhile. You may set up your web browser to notify you of cookie placement requests or decline cookies completely (although declining them may prevent you from being able to use the web site properly or at all). You can delete the files that contain cookies - those files are stored as part of your Internet browser.
 
 #### LINKS:
 
@@ -76,11 +79,11 @@ Users have the option to subscribe to various email services, which we offer. Ou
 
 #### CORRECTION/UPDATING PERSONAL INFORMATION:
 
-If a user's personally identifiable information changes we will correct, update or remove that user's personal data as speedily as possible. You may request details of the personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. This fee will not exceed £10. If you would like a copy of the information held on you or would like us to correct, amend or update your information please e-mail us at [webmaster@bathstore.com](mailto:webmaster@bathstore.com)
+If a user's personally identifiable information changes we will correct, update or remove that user's personal data as speedily as possible. You may request details of the personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. This fee will not exceed £10. If you would like a copy of the information held on you or would like us to correct, amend or update your information please e-mail us at [online@bathstore.com](mailto:online@bathstore.com)
 
 #### NOTIFICATION OF CHANGES:
 
-If we decide to change our privacy policy, we will post these changes on our home page so our users are aware of what information we collect and how we use it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of email. Users will have a choice as to whether or not we use their information in this different manner.
+If we decide to change our privacy policy, we will post these changes on our website so our users are aware of what information we collect and how we use it.
 
 The servers on which we store personally identifiable information, are kept in a secure environment.
 
