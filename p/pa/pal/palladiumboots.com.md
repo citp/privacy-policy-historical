@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the palladiumboots.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618224732id_/http%3A//www.palladiumboots.com/blog/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palladiumboots.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909232545id_/http%3A//www.palladiumboots.com/privacy-policy) for the most accurate reproduction.*
 
-# Palladium Boots
+# Privacy Policy
 
 ## What Personal Information We Collect
 
-Palladium and its affiliates (hereafter, “Palladium” or “We”) may collect your personal information for various purposes when you visit the Palladiumboots.com website (the “Site”). For example:
+Palladium and its affiliates (hereafter, "Palladium" or "We") may collect your personal information for various purposes when you visit the Palladiumboots.com website (the "Site"). For example: 
 
 ## Membership
 
@@ -16,17 +16,17 @@ In order to become a Preferred Customer, you must first complete the registratio
 
 ## Orders
 
-We request information from you on our order form. Here you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customers’ orders. If we have trouble processing an order, this contact information is used to get in touch with you. 
+We request information from you on our order form. Here you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customers' orders. If we have trouble processing an order, this contact information is used to get in touch with you. 
 
 ## If You Are Under 13 Years Old
 
-**If you are under 13 years old, please get the consent of your parent or legal guardian before you give us any personal information about yourself by way e-mail or any other Internet means.** Your parents or guardian can send us their consent by e-mail, although we may follow up by phone or other means in some circumstances. They will need to give us their name, e-mail address, street address, telephone number, and any other identifying information that we may request. We need this information in order to verify that they have provided the necessary consent. Your parent or guardian should contact us by using the e-mail address: cs@palladiumboots.com. 
+**If you are under 13 years old, please get the consent of your parent or legal guardian before you give us any personal information about yourself by way e-mail or any other Internet means.** Your parents or guardian can send us their consent by e-mail, although we may follow up by phone or other means in some circumstances. They will need to give us their name, e-mail address, street address, telephone number, and any other identifying information that we may request. We need this information in order to verify that they have provided the necessary consent. Your parent or guardian should contact us by using the e-mail address: [cs@palladiumboots.com](mailto:cs@palladiumboots.com).
 
-IF YOU ARE UNDER 13 YEARS OLD, DO NOT CONTACT US UNTIL AFTER YOUR PARENT OR GUARDIAN HAS SENT US AN E-MAIL CONSENTING TO YOUR CONTACT. 
+IF YOU ARE UNDER 13 YEARS OLD, DO NOT CONTACT US UNTIL AFTER YOUR PARENT OR GUARDIAN HAS SENT US AN E-MAIL CONSENTING TO YOUR CONTACT.
 
 ## Palladium Policy on Customer Information
 
-We do not sell personal information to any third party, nor do we have any plans to do so. However, we may share your personal information with our agents, representatives, service providers and contractors for limited purposes, including but not limited to, fulfilling customer orders; offering certain products and services in connection with this Site; communicating to customers; providing customer service; enhancing and improving customers’ shopping experience; administering or facilitating surveys, contests or sweepstakes; offering targeted marketing communications to users; providing a personalized shopping experience; preventing fraud; and completing payment processing. 
+We do not sell personal information to any third party, nor do we have any plans to do so. However, we may share your personal information with our agents, representatives, service providers and contractors for limited purposes, including but not limited to, fulfilling customer orders; offering certain products and services in connection with this Site; communicating to customers; providing customer service; enhancing and improving customers' shopping experience; administering or facilitating surveys, contests or sweepstakes; offering targeted marketing communications to users; providing a personalized shopping experience; preventing fraud; and completing payment processing.
 
 Our database of personal information is a valuable asset. Therefore, if we sell or transfer an affiliate, business or line of business, we may transfer personal information used or held by that affiliate or business or used in connection with that line of business to the buyer, so long as the buyer agrees that the personal information we transfer will remain subject to this privacy policy. 
 
@@ -38,11 +38,11 @@ If our privacy policies change, we will post a notice here, so please check this
 
 ## Cookies and Other Computer Information 
 
-When you visit Palladiumboots.com, you may be assigned a permanent “cookie” (a small text file) to be stored on your computer’s hard drive. The purpose of this cookie is to identify you when you visit the Site so that we can enhance and customize your online shopping experience and gather information about your activities at our site that may allow us to provide you with information and offers that we think may be of interest to you. We may also collect other information relating to you, your systems and your visit. All of this information may be associated in our databases with your personal information. 
+When you visit Palladiumboots.com, you may be assigned a permanent "cookie" (a small text file) to be stored on your computer's hard drive. The purpose of this cookie is to identify you when you visit the Site so that we can enhance and customize your online shopping experience and gather information about your activities at our site that may allow us to provide you with information and offers that we think may be of interest to you. We may also collect other information relating to you, your systems and your visit. All of this information may be associated in our databases with your personal information. 
 
-You can choose to browse on Palladiumboots.com without cookies. (Each browser is different, so check your browser’s “Help” menu to learn how to change your cookie preferences.) However, without these identifier files you will not be able to take advantage of certain features of the Site. 
+You can choose to browse on Palladiumboots.com without cookies. (Each browser is different, so check your browser's "Help" menu to learn how to change your cookie preferences.) However, without these identifier files you will not be able to take advantage of certain features of the Site. 
 
-We may contract with third parties to provide us with data collection and reporting services regarding our customers’ activities on the Site; tracking and measuring performance of our marketing efforts and your response to our marketing efforts; and the delivery of relevant marketing messages. These third parties may use cookies and Web beacons, and may receive information about your browsing and buying activity on the Site. 
+We may contract with third parties to provide us with data collection and reporting services regarding our customers' activities on the Site; tracking and measuring performance of our marketing efforts and your response to our marketing efforts; and the delivery of relevant marketing messages. These third parties may use cookies and Web beacons, and may receive information about your browsing and buying activity on the Site.
 
 ## Links to Other Sites
 
