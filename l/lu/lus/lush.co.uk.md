@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lush.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315101155id_/https%3A//www.lush.co.uk/help/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lush.co.uk privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909213200id_/https%3A//www.lush.co.uk/help/policy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lush
+# Privacy Policy | Lush Fresh Handmade Cosmetics
 
 We are Lush Retail Limited (company registration number 03084750) and we are the data controller for the purposes of the Data Protection Act 1988.
 
