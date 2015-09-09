@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ogone.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622035405id_/http%3A//payment-services.ingenico.com/int/en/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogone.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909230747id_/http%3A//payment-services.ingenico.com/int/en/cookie-policy) for the most accurate reproduction.*
 
 # Privacy policy - Ingenico Payment Services - International
 
