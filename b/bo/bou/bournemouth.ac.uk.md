@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630233334id_/https%3A//www1.bournemouth.ac.uk/about/governance/website-privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910001030id_/https%3A//www1.bournemouth.ac.uk/about/governance/website-privacy-cookies-policy) for the most accurate reproduction.*
 
 # Website privacy & cookies policy | Bournemouth University
 
