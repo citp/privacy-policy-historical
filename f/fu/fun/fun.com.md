@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319053549id_/http%3A//www.fun.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909212449id_/http%3A//www.fun.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,8 @@ Effective on date 03/03/2015
 This privacy policy applies to [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) owned and operated by Fun.com, Inc. This privacy policy describes how Fun.com collects and uses the personal information you provide on our Web site [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 Fun.com has been received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with the [TRUSTe](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these web sites: [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/).
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ## Collection and Use of Personal Information
 
@@ -134,8 +136,9 @@ FUN.com
 2080 Lookout Drive  
 North Mankato, MN 56003
 
-Phone: (507) 386-8383 (Monday through Thursday 7am to 7pm CST  
-Friday 9am to 5pm CST.)
+Phone: (507) 386-8383 (Monday through Friday 7am to 8pm CST  
+Saturday 9am to 6pm CST  
+Sunday 10am to 4pm CST.)
 
 [Contact Form](http://www.fun.com/contact-us.aspx)
 
