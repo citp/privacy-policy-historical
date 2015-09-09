@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2015-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150508074012id_/http%3A//www.alumniclass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909033743id_/http%3A//www.alumniclass.com/privacy-policy) for the most accurate reproduction.*
 
 # AlumniClass - Privacy Policy
 
