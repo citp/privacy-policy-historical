@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youmart.in privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614004220id_/http%3A//www.youmart.in/control/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youmart.in privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909092219id_/http%3A//www.youmart.in/control/policies) for the most accurate reproduction.*
 
 # Online fresh Meat & Seafood | Buy Meat Online | Buy Fresh Seafood Online | Best Online Grocery Store in Bangalore: YouMart E-Commerce Store
 
