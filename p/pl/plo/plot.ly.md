@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plot.ly privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316170243id_/https%3A//plot.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plot.ly privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909224928id_/https%3A//plot.ly/privacy) for the most accurate reproduction.*
 
 # Privacy policy | plotly
 
-Last updated: October 24, 2013
+Last updated: July 24, 2015
 
 Welcome, and thank you for your interest in Plotly ( **“Plotly”** , **“we,”** or **“us”** ) and our Website at www.plot.ly (the **“Site”** ), as well as all related web sites, networks, and other services provided by us and on which a link to this Privacy Policy (this **“Policy”** ) is displayed (collectively, together with the Site, our **“Service”** ). This Policy describes the information that we gather from you on the Service, how we appropriately use such information, and the steps we take to protect such information. By using the Service, you consent to the privacy practices described in this Policy.
 
@@ -43,6 +43,20 @@ You should check your privacy settings on each Integrated Service to understand 
   * #### Information from Other Sources
 
 We may obtain information, including your personal information, from third parties and sources other than the Service, such as our partners, advertisers, and Integrated Services. If we combine or associate information from other sources with personal information that we collect through the Service, we will treat the combined information as personal information in accordance with this Policy.
+
+  * #### Our Security Measures
+
+Plotly uses the strictest security measures that are available for our cloud site. Plotly uses https, a protocol for secure network communication and Secure WebSockets to open interactive communication between a browser and a server. 
+
+We encrypt data in transmission with industry-standard SSL. Plotly uses Amazon Web Services (AWS) for our servers and data hosting—which has a robust security policy—so we use the same security measures AWS provides. Amazon’s data center operations have been accredited under: ISO 27001 SOC 1 and SOC 2/SSAE, 16/ISAE 3402 (Previously SAS 70 Type II), PCI Level 1, FISMA Moderate, and Sarbanes-Oxley (SOX).
+
+We rely on best practices and extensive testing, both internally and externally--for example, using a Nessus Vulnerability Scan and Tenable Security to monitor vulnerabilities. All development is peer-reviewed and every engineer is trained on the OWASP Top 10.
+
+We perform automated secure code reviews against the entire code base and correct issues prior to our releases. We continually test our applications, and monitor logs for exceptions and errors and remedy any irregularities. We perform a secure architecture design review for the applications provided. Our developers receive software security training (such as OWASP Top 1). Passwords are encrypted with PBKDF2.
+
+The Plotly Cloud product and Plotly Enterprise product allow users to make a plot public, private, or secret. A public plot is accessible to other users on the web. Other users have the ability to fork their own version of a public plot, but cannot modify the original plot. A private plot can only be accessed by a logged-in user with whom the plot is shared. A secret plot has a shared key associated with the plot and plot URL. Only a user with the specific URL can access the plot. Secret plots can be embedded in other apps and websites and will only be accessible to an individual browsing that page. Users can share plots and files with other users to collaborate. Permission to edit and collaborate can also be revoked. For more information on sharing and permissions, see our privacy pages for [R](https://web.archive.org/web/20150909224928id_/https://plot.ly/privacy/%E2%80%9Chttps://plot.ly/r/privacy/%E2%80%9C), [Python](https://web.archive.org/web/20150909224928id_/https://plot.ly/privacy/%E2%80%9Chttps://plot.ly/python/privacy/%E2%80%9C), [MATLAB](https://web.archive.org/web/20150909224928id_/https://plot.ly/privacy/%E2%80%9Chttps://plot.ly/MATLAB/privacy/%E2%80%9C), and [Plotly Cloud](https://web.archive.org/web/20150909224928id_/https://plot.ly/privacy/%E2%80%9Chttp://help.plot.ly/how-sharing-works-in-plotly/%E2%80%9C).
+
+An organizational account on Plotly cloud has an administrator who can add and remove users. Plotly Enterprise supports LDAP.
 
 
 
@@ -143,29 +157,29 @@ There's a lot you can do with Plotly! Let us show you around.
 
 #### Want to jump right in and make a plot?
 
-Go to the [workspace](https://web.archive.org/plot)  
+Go to the [workspace](https://plot.ly/plot)  
 
 
 #### Tutorials and educational resources
 
-Go to the [Learn page](https://web.archive.org/learn/)  
+Go to the [Learn page](http://help.plot.ly/)  
 
 
 #### The Plotly community
 
-Check out the Plotly [feed](https://web.archive.org/feed/)  
+Check out the Plotly [feed](https://plot.ly/feed/)  
 
 
 #### Ready to build something?
 
-Go to the [workshop](https://web.archive.org/workshop/)  
+Go to the [workshop](https://plot.ly/workshop/)  
 
 
 Easily make graphs with your data in the workspace. Import data from **Google Drive** or upload **Excel** or **text** files. You can apply fits, stats, and functions to your data.
 
 Every element of a Plotly graph is customizable. Change the colors, annotate, write LaTeX, toggle graph ticks, and much more. It's up to you!
 
-Need to make a line of best fit? Don't know how to make a bar chart? No problem! Plotly has extensive resources to help you learn. Below are a few links to some of the more popular tutorials featured on our [learn page](https://web.archive.org/learn/). 
+Need to make a line of best fit? Don't know how to make a bar chart? No problem! Plotly has extensive resources to help you learn. Below are a few links to some of the more popular tutorials featured on our [learn page](http://help.plot.ly/). 
 
 ####  Do you create your graphs using code? 
 
