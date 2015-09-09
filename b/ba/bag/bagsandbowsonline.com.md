@@ -1,117 +1,102 @@
-> *The following text is extracted and transformed from the bagsandbowsonline.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819005850id_/http%3A//www.bagsandbowsonline.com/miscell/Privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagsandbowsonline.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910001535id_/https%3A//www.bagsandbowsonline.com/retail-packaging/common/privacyPolicy.jsp%3Fpscid%3DBB%3AFTR_CorpInfo_Privacy%2520Policy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy | Bags & Bows
 
-  | 
+## Bags and Bows Privacy Policy
 
-**_Privacy Statement_**
+Information Collection & Use   
 
-Bags & Bows maintains a firm commitment to your privacy. In that effort, we respect and protect the privacy of those who use our Web site, products, and services. 
+We use the information collected about you to process orders and to provide a more personalized shopping experience. We may also use your information to communicate with you about products, services, and future promotions. For the purposes of order verification and fraud prevention, we may exchange information about our customers internally within Bags & Bows and among our affiliates.
 
-This Privacy Policy, effective July 21, 2006, applies to all customer-identifiable information we obtain when a customer visits this Web site. We have a long history of recognizing and protecting the privacy of our customers' information. We strive to protect your privacy and utilize technology that gives you the safest and most powerful online experience available. We want to assure you that when we ask for customer information, our goal is to improve our customer relationships.
+The type of information we collect, use, or share may depend on the product or service you have purchased from us. At times, we may request that you voluntarily supply identifying information for purposes such as receiving correspondence, registering on this Web site, making purchases, or participating in online surveys, market research or contests/sweepstakes. If you elect to participate, we may require you to provide business information, including your name, mailing address, phone number, financial institution information, credit card information, or e-mail address. In certain areas of Bags & Bows sites, you may provide employee information such as when adding additional authorized users to your business account and updating contact information. When you submit business information to us, you understand and agree that we may access, store, and use your information.
 
-**_Guiding Principles of Privacy_**
+Based upon the personally identifiable information you provide us, we may send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. We may send you service-related announcements on rare occasions when it is necessary to do so. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
 
-  * Accuracy: A commitment to use reasonable procedures to ensure that information collected, used, and exchanged will be accurate and complete. 
-  * Security: A commitment to use appropriate security measures for protecting information from unauthorized access, use, and disclosure. 
-  * Compliance: A commitment to collect, use, and exchange data in accordance with applicable laws, and contractual obligations. 
-  * Confidentiality: A commitment to collect, use, and exchange information in accordance with appropriate confidentiality standards. 
-  * Privacy: A commitment to self-regulation in recognition of expectations of privacy, our policy, and in accordance with leading industry standards. 
-  * Responsiveness: A commitment to respond to privacy-related inquiries in a timely and accurate manner. 
-  * Employee Education: A commitment to educate employees regarding information practices and the proper handling and use of information. 
-  * Self-Auditing: A commitment to periodic auditing of internal activities to ensure adherence to established information practices, policies, and procedures.
+For testimonials, we obtain the customer's consent prior to posting their name along with their testimonial. We are not responsible for the personally identifiable information you choose to submit through testimonials.
 
-The following statements will help you understand how we collect, use, and safeguard the information you provide through our Web site.
+Information you provide will be safeguarded according to our strict standards of security and confidentiality. Bags & Bows recognizes and appreciates the importance of responsible use of the information you choose to provide. We take steps to require that our vendors, consultants, suppliers, and contractors observe our Privacy Policy with respect to security and the collection, use, and exchange of our customers' information. They are expected to abide by our Privacy Policy when conducting work for us and are prohibited from using your personally identifiable information for any other purpose.
 
-**_Personal Information You Choose to Provide_**
+Information Sharing and Your Choices   
 
-When you browse this Web site, you do so without revealing your identity. Personal information is not collected without your awareness. At times, we may request that you voluntarily supply personal information for purposes such as acquiring our products or services, requesting information or product samples registering on this website, or making purchases. If you elect to participate, we may require personally identifiable information, including your name, mailing address, phone number, bank information, credit card information or email address. When you submit personal information to us, you understand and agree that we and our affiliates may access, store, and use your personal information. Information you provide will be protected according to our strict standards of security and confidentiality.
+Reasons we can share your information | Does Bags and Bows Share? | Can you limit this sharing?  
+---|---|---  
+For our every day business purposes - including billing, processing transactions, & fulfilling orders; customer & marketing support services | Yes | No  
+For our marketing purposes - to offer products and services to grow your business | Yes | Yes  
+For our affiliated companies to market to you  | Yes | Yes  
+For third parties to market to you | Yes | Yes  
+  
+Bags & Bows may selectively share customer information, including names and mailing addresses, with reputable third parties and organizations whose products and services we think may interest you. 
 
-**_How Collected Information is Used_**
+We do not share your email address with third parties for them to market their products or services directly to you. However, we may partner with selected companies to offer certain products or services we believe may be of interest to you on their behalf.
 
-We are committed to protecting your private information. We use the information collected about you to process orders and to provide a more personalized shopping experience. We may also use your information to communicate with you about products, services, and future promotions. For the purposes of check verification and fraud prevention, we exchange information about our customers internally and among our affiliates.
+We provide you with the opportunity to opt out of receiving unsolicited marketing as a result of your transaction with us or authorizing us to share your personal information with these third parties and other organizations for marketing purposes. If you no longer wish to receive special offers or promotional communications from Bags & Bows or these third parties, you may edit your Account Profile or follow the unsubscribe instructions included in each communication. You may also express your opt-out choices by contacting Bags & Bows customer service (contact information below). 
 
-We sometimes merge customer data with other data we receive from outside vendors to determine more accurate demographic consumer profiles. The information we gather may be used to protect consumers, employees and property against fraud, theft or abuse; to conduct industry or consumer surveys; and to maintain good consumer relations. We may selectively share customer information, including names and mailing addresses, with our affiliates.
+We reserve the right to disclose information about you as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process. If Deluxe is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-We do not share email addresses, but may selectively provide customer information, including names, and mailing addresses to reputable third parties (catalog mailers providing consumer products/services, direct mail marketing companies, and non-profit organizations) whose products or services we think may interest you. If you do not want the information you provide us to be shared with nonaffiliated third parties for marketing purposes, or if you do not want to receive correspondence from us, you may opt out as described below.
+Security   
 
-**_Security of Information_**
+**Security**  
+We are committed to protecting your business information. Security measures are in place on this Web site to protect against the loss, misuse, and alteration of the information under our control. We offer industry-standard security measures available through your Web browser. When you are on this Web site, the sensitive information you provide such as credit card and financial information is encrypted with secure socket layer (SSL) technology and scrambled en route and decoded once it reaches us. Please remember that e-mail, which is different from the encrypted sessions above, is not secure. Therefore, we ask that you do not send sensitive information such as credit card or account numbers to us via an unsecured e-mail message. 
 
-Security measures are in place on this Web site to protect against the loss, misuse, and alteration of the information under our control. We offer industry-standard security measures available through your Web browser. When you are on this Web site, the information you provide is encrypted and scrambled en route and decoded once it reaches us. Please remember that e-mail, which is different from the encrypted sessions above, is not secure. Therefore, we ask that you do not send confidential information such as social security or account numbers to us via an unsecured e-mail message. Send confidential information to us via U.S. mail or phone.
+**Tracking Activity on our Web site**  
+In order to make your visit to our Web site as productive as possible, we track activity on our website. However, we want you to know that the tracking technology we use does not identify any personal information about you. It cannot retrieve data from your hard drive, pass on computer viruses, or capture any personal information about you, such as your name, address, phone number, or email address. We only know who you are if you tell us. 
 
-We take steps to require that our vendors, consultants, suppliers, and contractors observe our Privacy Policy with respect to security and the collection, use, and exchange of our customers' information. They are expected to abide by the Privacy Policy when conducting work for us.
+As is true with most Web sites, we gather certain information automatically when individuals browse our site and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this non-personal information to analyze trends, to administer the site, to track users' movements around the site, and to gather demographic information about our user base as a whole, in order to improve the functionality of the Web site. We use a third-party tracking service that uses technology to track this non-personally identifiable information about visitors to our site in the aggregate.
 
-**_Cookie Definition and Use_**
+We use cookies to improve your shopping experience. Cookies are small pieces of information that are stored by your Web browser on your computer's hard drive. A cookie may contain information (such as a unique user session ID) that is used to track the pages of the Web sites you've visited. The information in cookies helps to serve you better by keeping track of your order when shopping on this site; it also helps us improve site design. We do not store sensitive information, other than your name, in your cookies. Most Web browsers automatically accept cookies, but you can set your browser to decline cookies. Even if your Web browser is set to decline cookies, you can use many of the features within this site. However, you will not be able to place an order or retrieve your order status. 
 
-Cookies are small pieces of information that are stored by your Web browser on your computer's hard drive. A cookie may contain information (such as a unique user session ID) that is used to track the pages of the Web sites you've visited. We use cookies, but we do not store personally identifiable information in your cookies. This Web site uses cookies to improve your shopping experience. The information stored in cookies helps us serve you better by keeping track of your order as you shop at our sites. This information also helps us improve our site design.
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
-Most Web browsers automatically accept cookies, but you can set your browser to decline cookies. Even if your Web browser is set to decline cookies, you can use many of the features within this site. However, you will not be able to place an order or retrieve your order status.
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. All of our email communications include an opt out link. If you would like to opt-out of these emails, please click on the opt-out link. 
 
-**_Choice to Opt Out_**
+Some of our business partners may use cookies and web beacons on our site. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. The information gathered by web beacons is not tied to our customers' personally identifiable information. We have no access to or control over these technologies. This privacy statement covers the use of cookies by Bags & Bows only and does not cover the use of cookies or web beacons by any third parties. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here.](http://preferences-mgr.truste.com/)
 
-We provide you with the opportunity to opt out of 1) receiving unsolicited marketing mail as a result of your transaction with us or 2) authorizing us to share your personal information with unaffiliated third parties and other organizations. Please see Contacting Bags & Bows below for contact information.
+**Children Visiting our Web Sites**  
+This Web site is directed at adults. We do not knowingly collect or use information from children. Should children access this Web site, we are confident that parents will not judge any of the information provided as objectionable for viewing. If you are under 18, you may use this Web site only with the involvement of a parent or guardian. 
 
-**_Correct/Update/Access_**
+**Other Web Sites Linked to Deluxe's Web Sites**  
+Our Web site contains links to other sites that are not owned or controlled by Bags & Bows or Deluxe. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personally identifiable information. This privacy policy applies only to information collected on our Web site.
 
-We are committed to ensuring that the information we obtain and use about our customers is accurate. You can help us maintain accurate records by informing us of changes or modifications to your personal information using one of the methods listed under Contacting Bags & Bows. Our service representatives are trained to answer questions about and give you reasonable access to your personal information in our database.
+We are committed to offering the products and services you need to grow and promote your business. We offer services through relationships with third party providers. This website will provide secure links to these third party providers as a part of the Deluxe shopping experience. Please review applicable terms, conditions and privacy policies displayed on the third party provider websites.
 
-**_Target Audience_**
+In most cases, links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of this Web site. We are not responsible for the content or information practices employed by other Web sites that are linked to or from this Web site.
 
-This Web site is directed at adult consumers and guests. We do not knowingly collect or use information from children. Should children access this Web site, we are confident that parents will not judge any of the information provided as objectionable for viewing. If you are under 18, you may use this Web site only with the involvement of a parent or guardian.
+Consent to Privacy Policy/Changes to Privacy Policy    
 
-**_Other Web Sites Linked to the Bags & Bows Web Site_**
+By using this Web site you consent to our posted Privacy Policy. If you do not agree with this Privacy Policy, please do not use this Web site. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. Your continued use of this Web site following the posting of changes to these terms means that you accept these changes.
 
-We are not responsible for the content or information practices employed by other Web sites that are linked to or from this Web site. In most cases, other web sites are provided solely as pointers to information on topics that may be useful to the users of this Web site.
+We may change our privacy policy at any time. Any changes to the privacy and security policy will be posted on this Web site and any other places we deem appropriate so that you are aware of the information we collect, how we use it, as well as the latest update on how we maintain the secure portions of our Web site. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**_Enforcement_**
+Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the confidentiality of information. These reviews are conducted by internal staff who report directly to the Deluxe Board of Directors, external auditing and accounting firms, and government regulators. Included in these self-assessments and examinations are reviews of the controls and safeguards described in our Privacy Policy.
 
-Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the confidentiality of information. These reviews are conducted by internal staff, internal auditors who report directly to our parent company Board of Directors, external auditing and accounting firms, and government regulators. Included in these self-assessments and examinations are reviews of the controls and safeguards related to consumer privacy described in our Privacy Policy.
+**To Correct/Update/Access/Opt Out:**  
+We are committed to ensuring that the information we obtain and use about our customers is accurate. You can help us maintain accurate records by updating your Account Profile or by using one of the methods listed below. Our service representatives are trained to answer questions about and give you reasonable access to your personal information in our database.
 
-**_Your Acceptance of These Terms_**
+We will retain your information for as long as your account is active or as needed to provide you services and we will use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at the contact information listed below.
 
-By using this Web site you consent to our posted Privacy Policy. If you do not agree with this Privacy Policy, please do not use this Web site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. Your continued use of this Web site following the posting of changes to these terms means that you accept these changes.
-
-**_Privacy Policy Changes_**
-
-We may change our privacy policy at any time. Any changes to the privacy and security policy will be posted on this Web site so that you are aware of the information we collect, how we use it, as well as the latest update on how we maintain the secure portions of our Web site.
-
-**_About Registration_**
-
-Bags & Bows provides registration as a service to you, our customer. You choose whether or not to take advantage of it. If you register with us, we store your information in an effort to make your ordering experience faster and easier. After registering, you simply identify yourself with the user name and password that you have selected. Further, our "auto-login" service allows you to automatically access your purchase history and order status without having to re-key your user name and password. 
-
-Here is what we store for you and why: 
-
-  * Your past purchase history -- you don't have to remember what or how much; it allows you to reorder with just one click. 
-  * Your purchasing information (billing, shipping contact, phone, credit card) -- frees you from re-keying the information on every order. 
-  * Your line of business or accounting software -- gives us the opportunity to offer promotions, products, and advice tailored to meet the needs of your business. 
-
-The information you provide during registration is stored in a secure database and seen only by you. You may modify your purchasing information at any time. 
-
-On the registration form, you may choose to receive various communications from us. If at any time, you would like to discontinue communications (e-mails, phone calls, faxes, newsletters or advertising from our partners), you may let us know on the registration site, showing products and services that would be helpful to your business. 
-
-**_Contacting Bags & Bows_**
-
-**Correct/Update/Access/Opt Out**  
-Bags & Bows  
+  
+Bags and Bows  
 500 Main Street  
-Groton MA 01471   
-(Attention: Customer Service)  
-Phone 1-800-822-7026 (Customer Service)   
-Fax 1-800-225-8455   
-E-mail: [customerservice@bagsandbowsonline.com](mailto:customerservice@bagsandbowsonline.com)
+Groton,MA,01471  
+Phone: 1-888-881-7225  
+Fax: 1-800-225-8455  
+E-mail: [customerservice@bagsandbowsonline.com](mailto:customerservice@bagsandbowsonline.com)  
 
-**General Inquiries**   
-If you have questions regarding your order, please contact us at:   
-Bags & Bows  
-500 Main Street  
-Groton MA 01471   
-(Attention: Customer Service)  
-Phone 1-800-822-7026 (Customer Service)   
-Fax 1-800-225-8455   
-E-mail: [customerservice@bagsandbowsonline.com](mailto:customerservice@bagsandbowsonline.com)
 
-If you have questions regarding this Privacy Policy, the practices of this Web site, or your dealings with this Web site, please contact us at:  
+**For General Inquiries:**  
+If you have questions regarding this Privacy Policy, the practices of our Web site, or your dealings with our Web site, please contact us at:
+
 Deluxe Corporation  
-Attn: Corporate Communications  
-3680 Victoria Street N.  
-Shoreview, MN 55126
+Attn: Privacy Program Office  
+3680 Victoria Street N  
+Shoreview, MN 55126  
+[privacyprogramoffice@deluxe.com](mailto:privacyprogramoffice@deluxe.com)
+
+**TRUSTe Privacy Program**
+
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.bagsandbowsonline.com/seal_m "Validate TRUSTe privacy certification")  
+Deluxe Corporation has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, http://www.bagsandbowsonline.com. 
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacyprogramoffice@deluxe.com](mailto:privacyprogramoffice@deluxe.com). If you are not satisfied with our response you can contact [ TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
+
+Deluxe is a BBB accredited business and complies with BBBOnLine standards.[ Click to verify our BBB accreditation and to see a current BBB report.](http://www.bbb.org/minnesota/business-reviews/business-forms-and-systems/deluxe-for-business-in-shoreview-mn-96353100)
