@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318013030id_/http%3A//www.jobvite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobvite.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909200644id_/http%3A//www.jobvite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jobvite
 
-###### This Privacy Policy was last updated on July 6, 2012
+###### This Privacy Policy was last updated on August 6, 2015
 
-  This Privacy Policy (“Privacy Policy”) explains how Jobvite, Inc. (“Jobvite,” “we” or “us”) collect, use and share personally identifiable information of visitors of our web site [jobvite.com](http://jobvite.com/) (the “Site”) and users of our on-demand recruitment application (the “Services”). The use of information collected through the Services shall be limited to the purpose of providing those Services to our customers. By using the Site and/or Services, you consent to the collection, use and disclosure of your personally identifiable information in accordance with this Privacy Policy.
+_This Privacy Policy (“Privacy Policy”) explains how Jobvite, Inc. (“Jobvite,” “we” or “us”) collect, use and share personally identifiable information of visitors of our web site  [www.jobvite.com](http://www.jobvite.com/) (the “Site”) and users of our on-demand recruitment application (the “Services”). The use of information collected through the Services shall be limited to the purpose of providing those Services to our customers. By using the Site and/or Services, you consent to the collection, use and disclosure of your personally identifiable information in accordance with this Privacy Policy._
 
-Jobvite, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Program Requirements](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe’s certification applies to [jobvite.com](http://jobvite.com/)  and the services platform associated with this website.
+Jobvite, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with  and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software or our mobile application. The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website: www.jobvite.com and our service platform associated with this website. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Jobvite.
 
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [admin@jobvite.com](mailto:admin@jobvite.com).  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
+TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [admin@jobvite.com](mailto:admin@jobvite.com).  If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request)
 
 **U.S.–E.U. Safe Harbor**
 
@@ -42,7 +42,7 @@ If you elect to use our Site or the Services to contact a jobseeker or potential
 
 **Invitations and Communications to Non-Registered Users.**
 
-Users of the Services and visitors to the career sites of our customers may forward job postings to third parties who are not registered users of the Site or the Services as an invitation to learn more about this job opportunity in accordance with the applicable terms set forth in the Jobvite Terms of Use posted to the Site at <http://jobvite.com/terms-of-use/> Jobvite does not store the information that a posting or invitation has gone to a third party unless and until that third party responds to the invitation.  If the third party responds to the invitation, the third party is treated like any other job-seeker, and the information Jobvite collects is treated in accordance with this privacy policy; in addition Jobvite will note at that time who invited the referral so that Jobvite customers are aware of the source of the referral and may use that information to reward the referring person.
+Users of the Services and visitors to the career sites of our customers may forward job postings to third parties who are not registered users of the Site or the Services as an invitation to learn more about this job opportunity in accordance with the applicable terms set forth in the Jobvite Terms of Use posted to the Site at <http://www.jobvite.com/terms-of-use/> Jobvite does not store the information that a posting or invitation has gone to a third party unless and until that third party responds to the invitation.  If the third party responds to the invitation, the third party is treated like any other job-seeker, and the information Jobvite collects is treated in accordance with this privacy policy; in addition Jobvite will note at that time who invited the referral so that Jobvite customers are aware of the source of the referral and may use that information to reward the referring person.
 
 **Children.**
 
@@ -56,7 +56,7 @@ We will share your personal information with third parties only in the ways that
 
 Jobvite collects information under the direction of its customers, and has no direct relationship with the individuals whose personal data it processes. Part of the Services offered by our employer customers includes providing notice to their employees and job-seekers concerning how their personal information is collected and used.  The resume or job application that an employee or other job-seeker submits will be provided only to the specific potential employers that you select when you apply for jobs online. Other employers and recruiters will not have access to your resume or job application unless and until you want them to.
 
-Jobvite engages vendors and service agencies to assist us in providing the Services to you, and Jobvite will need to share your personally identifiable information (and data generated by cookies and beacons) with these vendors and service agencies.  _The vendors and service agencies do not receive any right to use your personally identifiable information beyond what is necessary to perform its obligations to provide the Services to you._  Except as provided in this Privacy Policy, Jobvite will not disclose personally identifiable information to third parties, including, but not limited to, companies affiliated with Jobvite, without your consent.
+Jobvite engages vendors and service agencies to assist us in providing the Services to you, and Jobvite will need to share your personally identifiable information (and data generated by cookies and beacons) with these vendors and service agencies. We may transfer personal information to these vendors and service agencies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Customers. _The vendors and service agencies do not receive any right to use your personally identifiable information beyond what is necessary to perform its obligations to provide the Services to you._  Except as provided in this Privacy Policy, Jobvite will not disclose personally identifiable information to third parties, including, but not limited to, companies affiliated with Jobvite, without your consent.
 
 **Choice and Access to Data Controlled by our Customers:**
 
@@ -64,7 +64,7 @@ Jobvite has no direct relationship with the individual employees and job-seekers
 
 **Information Disclosure for Legal and Other Exceptional Reasons**
 
-We may also disclose your personally identifiable information: (a) if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority, (b) to enforce the Jobvite Terms of Use or Master Subscription Agreement or (c) to protect our rights and the safety of users of our Site and our Services. In addition, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Jobvite participates or to a purchaser of all or substantially all of Jobvite’s assets to which this Site relates.
+We may also disclose your personally identifiable information: (a) if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority, (b) to enforce the Jobvite Terms of Use or Master Subscription Agreement or (c) to protect our rights and the safety of users of our Site and our Services. In addition, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization in which Jobvite participates or to a purchaser of all or substantially all of Jobvite’s assets to which this Site relates. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
 
 **Data Retention**
 
@@ -80,7 +80,7 @@ Attn: Privacy Policy
 1300 S El Camino Real, Ste 400  
 San Mateo, CA 94402
 
-When an individual terminates their account on the Site, we will remove  their profile from the Site. Information supplied by an employee or job seeker in an application or resume submitted to an employer that is a Jobvite customer is treated as described above in the section  _“Choice and Access to Data Controlled by our Customers.”_
+When an individual terminates their account on the Site, we will remove their profile from the Site. Information supplied by an employee or job seeker in an application or resume submitted to an employer that is a Jobvite customer is treated as described above in the section  _“Choice and Access to Data Controlled by our Customers.”_
 
 **Opt-Out Preferences**
 
@@ -90,15 +90,21 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
 Your personally identifiable information collected on this Site and through the Services is stored and processed in the United States where Jobvite (or its agents) currently maintain its computer systems. Your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with the Site as a visitor from outside the United States, by using the Site, you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
 
-**Cookies & Beacons.**
+**Tracking Technologies**
 
-Cookies are files sent to your browser from a web server and stored on your computer’s hard drive.  We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser while a persistent cookie remains on your hard drive for an extended period of time.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.  Jobvite’s persistent and session ID cookies are used to identify unique visitors and to provide a personalized user experience.  If you reject cookies, you may still use our site, but your ability to use our application and some areas of our site, such as contests or surveys, will be limited.
+Technologies such as: cookies, beacons, tags and scripts are used by Jobvite and our partners(e.g. marketing partners),  or analytics . These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-We also employ a software technology called Web Beacons that help us better manage content on our Site and on the sites that we maintain for our customers by informing us what content is effective.  Beacons are bits of code that function similar to cookies. Jobvite’s beacons are embedded in outgoing emails and generate a call back to the Jobvite server when such emails are opened. Jobvite uses beacons to track the status of sent emails including job invitations sent as Jobvites. The use of cookies by our Vendors and Service Agencies is not covered by our privacy policy.  We do not have access or control over these cookies.
+We use cookies _  to remember users’ preferences (e.g. Jobvite search filters), for authentication, for source tracking, for analytics, or for job recommendations. _Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+
+We use Local Storage Objects (LSOs) such as HTML5 or Flash to store [content information and preferences.] Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+
+**Behavioral Targeting/ Re-Targeting**
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/) ). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
 **Security.**
 
-The security of your personal information is important to us.  Jobvite employs procedural and technological measures to protect your personally identifiable information. These measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction.  Jobvite may use software, secure socket layer technology (SSL) encryption, password protection, firewalls, internal restrictions and other security measures to help prevent unauthorized access to your personally identifiable information. However, Jobvite cannot guarantee that unauthorized third parties will never be able to defeat these measures or use your personally identifiable information for improper purposes. Therefore, you should be aware that when you voluntarily display or distribute personally identifiable information, that information could be collected and used by others. Jobvite is not responsible for the unauthorized use by third parties of information you post or otherwise make available publicly.
+The security of your personal information is important to us.  Jobvite employs procedural and technological measures to protect your personally identifiable information. These measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction.  Jobvite may use software, secure socket layer technology (SSL) encryption, password protection, firewalls, internal restrictions and other security measures to help prevent unauthorized access to your personally identifiable information. When you enter sensitive information (such as your login information), we encrypt the transmission of that information using secure socket layer technology (SSL). However, Jobvite cannot guarantee that unauthorized third parties will never be able to defeat these measures or use your personally identifiable information for improper purposes. Therefore, you should be aware that when you voluntarily display or distribute personally identifiable information, that information could be collected and used by others. Jobvite is not responsible for the unauthorized use by third parties of information you post or otherwise make available publicly.
 
 **Links to Other Websites.**
 
@@ -112,6 +118,10 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at [admin@jobvite.com](mailto:admin@jobvite.com).
 
+**Referrals**
+
+If you choose to use our “Refer a Friend” or “Send Jobvite” service to tell a friend about our site, we will ask you for your friend’s information such as name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.  Jobvite stores  this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+
 **Single Sign-On**
 
 You can log in to our site using sign-in services such as Facebook Connect.  These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form.  Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
@@ -122,9 +132,9 @@ Our Web site includes Social Media Features, such as the Facebook Like button, G
 
 **Material Changes**.
 
-Jobvite reserves the right to change this Privacy Policy from time to time. Jobvite will post the revised Privacy Policy on this Site located at [http://jobvite.com/Recruiting/PrivacyPolicy.aspx](http://jobvite.com/privacy-policy/) and will either send a notice to the e-mail address that you specified in your registration and/or post notice of the change so it is visible when users log-on for the first time prior to said changes taking effect so that you are always aware of what personal information Jobvite may collect and how Jobvite may use this information. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Site and/or Services will be subject to the then-current Privacy Policy.
+Jobvite reserves the right to change this Privacy Policy from time to time. Jobvite will post the revised Privacy Policy on this Site located at [http://www.jobvite.com/Recruiting/PrivacyPolicy.aspx](http://www.jobvite.com/privacy-policy/) and will either send a notice to the e-mail address that you specified in your registration and/or post notice of the change so it is visible when users log-on for the first time prior to said changes taking effect so that you are always aware of what personal information Jobvite may collect and how Jobvite may use this information. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Site and/or Services will be subject to the then-current Privacy Policy.
 
-[](http://privacy.truste.com/privacy-seal/Jobvite,-Inc-/validation?rid=c9a6135b-a27e-4ea8-b14c-d3d8c60567e9 "TRUSTe European Safe Harbor certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=b950b48d-dea2-4afc-a7c1-4e89a882bf67 "TRUSTe Privacy Certification")
 
 **Contact Us**
 
@@ -134,6 +144,5 @@ By mail:
 Jobvite, Inc.  
 Attn: Privacy Policy  
 1300 S El Camino Real, Ste 400  
-San Mateo, CA 94402
-
+San Mateo, CA 94402  
 Phone:  650.376.7200
