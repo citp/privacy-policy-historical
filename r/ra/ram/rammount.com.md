@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the rammount.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809010437id_/http%3A//rammount.com/AboutUs/PrivacyPolicy/tabid/321/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rammount.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909092413id_/http%3A//rammount.com/AboutUs/PrivacyPolicy/tabid/321/Default.aspx) for the most accurate reproduction.*
 
-# RAM Mounting Systems, Inc. > About Us > Privacy Policy
+# RAMMOUNTS - Privacy Policy
 
 National Products Inc.'s Privacy Statement  
-National Products Inc. respects your right to privacy and shares your concern about the security of any data you may submit to our website. The following statement discloses the guidelines we have established for protecting the information you provide to us during your visit to [www.rammount.com](http://www.rammount.com/).
+National Products Inc. respects your right to privacy and shares your concern about the security of any data you may submit to our website. The following statement discloses the guidelines we have established for protecting the information you provide to us during your visit to [www.rammount.com]().
 
 This website is owned, operated, and maintained by:
 
@@ -12,7 +12,7 @@ National Products Incorporated
 Seattle, WA 98108  
 Phone: 206-763-8361  
 Fax: 206-763-9615  
-E-mail: [staff@rammount.com](mailto:staff@rammount.com)
+E-mail: [sales@rammount.com](mailto:sales@rammount.com)
 
 What information about me do you collect and how is it used?  
 National Products Inc. only collects personal information about you if you voluntarily choose to share it with us. We don't currently rent or sell information concerning our customers to third parties. 
@@ -24,16 +24,16 @@ On our website, there are several opportunities for you to share personal inform
 You may decide to send National Products Inc. personally identifying information in an e-mail message which might contain information or inquiries about our products or services. National Products Inc. will use this information to identify you as a National Products Inc. customer and to respond to the electronic mail. We will only use the information obtained to resolve the issue identified in the e-mail. National Products Inc. never sells e-mail addresses. 
 
 Do you offer opt-out or opt-in services?  
-There are no opt-in or opt-out selections on our website. National Products Inc. does not have any mail lists or other systems in place that are traditionally associated with these service options. However, we may implement electronic newsletters or similar broadcast mail systems in the future. If we do, these services will only be offered on an opt-in basis. Currently, we do not mass e-mail or provide such information to outside mailing lists. 
+There are no opt-in or opt-out selections on our website. We may, from time to time, email newsletters or similar broadcasts to notify you of new products or special offers. If we do, these services will offer an opt-out feature if you do not wish to receive further communications. We do not provide or sell your information to any third party entities. 
 
 What if information I have previously submitted has changed?  
-If you need to change the information you have sent to us on a website evaluation or product registration, please e-mail [staff@rammount.com](mailto:staff@rammount.com), in order for us to make the appropriate updates. 
+If you need to change the information you have sent to us on a website evaluation or product registration, please e-mail [sales@rammount.com](mailto:sales@rammount.com), in order for us to make the appropriate updates. 
 
 Is National Products Inc. responsible for all of the material I see on your website?  
 National Products Inc. does maintain responsibility for and authority over all information contained on its website. However, we may post links to sites that we do not control. National Products Inc. is not responsible for the privacy practices or content of these sites. 
 
 What about testimonial copy?  
-Testimonials submitted to [staff@rammount.com](mailto:staff@rammount.com) may be used on the website and in promotional newsletters and other publications. If you submit communications—either written or electronic—to National Products Inc., please indicate if you do not want your submission published or if you would prefer us to use your initials rather than your full name. 
+Testimonials submitted to [sales@rammount.com](mailto:sales@rammount.com) may be used on the website and in promotional newsletters and other publications. If you submit communications—either written or electronic—to National Products Inc., please indicate if you do not want your submission published or if you would prefer us to use your initials rather than your full name. 
 
 While National Products Inc. encourages everyone to visit our site and learn about our company and GPS technology and applications, we have no desire to collect information from those under the age of 18. Any instance of personal information about a minor being collected would be purely accidental and unintentional. If a minor would like to submit information to National Products Inc., we ask that the child's parent submit the information on his or her behalf. We strongly encourage parents to take an active role in their children's use of the Internet and to take appropriate steps to ensure a positive and safe experience. 
 
@@ -43,4 +43,4 @@ The United States Federal Trade Commission has a web page <http://www.ftc.gov/pr
 National Products Inc. reserves the right to alter our privacy principles as business needs require. Any alterations to these principles will be posted on our websites in a timely manner. 
 
 I have comments. Where can I send them?  
-National Products Inc. welcomes your questions and comments regarding this Privacy Statement. Please send e-mail to [staff@rammount.com](mailto:staff@rammount.com)
+National Products Inc. welcomes your questions and comments regarding this Privacy Statement. Please send e-mail to [sales@rammount.com](mailto:sales@rammount.com)
