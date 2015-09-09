@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leesa.com privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522123040id_/http%3A//www.leesa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leesa.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909022228id_/https%3A//www.leesa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Leesa Sleep
+# Privacy Policy | Leesa
 
 Leesa Sleep LLC (the “Company”) has created this privacy policy in order to demonstrate our commitment to your privacy. The following discloses our information gathering and dissemination practices for this Website (www.leesa.com). Please note that when you access any external links from the Company, they may have different privacy policies specific to those sites. We encourage you to read all applicable privacy policies.
 
@@ -60,8 +60,9 @@ By using our Website, you consent to our collection and the use of your personal
 
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. You have the following options for reviewing or removing your information from our database to no longer receive communication from us. If you request your account information be deleted from our database, we may maintain information about individual sales transactions for recordkeeping and servicing.
 
-  1. You can send e-mail to [support@leesa.com](mailto:support@leesa.com)
-  2. You can send mail to the following postal address:
+  1. You can select to "opt out" or "unsubscribe" from our communications on the website or in our newsletter emails. Unsubscribing will stop you from receiving all types of communication except for emails on orders and transactions you place with Leesa.
+  2. You can send e-mail to support@leesa.com
+  3. You can send mail to the following postal address:
 
 Leesa Sleep LLC  
 3704 Pacific Ave., STE 200  
