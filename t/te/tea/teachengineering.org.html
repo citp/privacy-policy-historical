@@ -1,12 +1,18 @@
-<!--The following is the downloaded HTML source of the teachengineering.org privacy policy that was archived on 2015-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150324113147id_/https%3A//www.teachengineering.org/policy_pp.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teachengineering.org privacy policy that was archived on 2015-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150909194522id_/https%3A//www.teachengineering.org/policy_pp.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>About :: Policies :: Privacy Policy - www.TeachEngineering.org</title><link rel="icon" type="image/icon" href="//www.teachengineering.org/images/favicon.ico"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//www.teachengineering.org/assets/plugins/jquery-1.10.2.min.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>About :: Policies :: Privacy Policy - www.TeachEngineering.org</title><link rel="icon" type="image/icon" href="//www.teachengineering.org/images/favicon.ico"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//www.teachengineering.org/assets/plugins/jquery-1.10.2.min.js"></script>
 			<script type="text/javascript" src="//www.teachengineering.org/assets/plugins/jquery-migrate-1.2.1.min.js"></script>
 			<script type="text/javascript" src="//www.teachengineering.org/scripts/misc.js"></script> 
 			<script type="text/javascript" src="//www.teachengineering.org/scripts/jquery.cookie.js"></script>
-			<script type="text/javascript"> //$(document).ready(function(){LoginUpdate();}); </script>			
+			<script type="text/javascript"> //$(document).ready(function(){LoginUpdate();}); </script>	
+			<script type="text/javascript">
+				function submit_adv_search(){
+					var adv_query = document.getElementById("query_input").value;
+					window.location.href="https://new.teachengineering.org/googlesearch_results_adv2.php?googlequery=" + adv_query;
+				}				
+			</script>		
 			<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
 			<!--[if IE 8]>
 				<link href="//fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
@@ -26,21 +32,16 @@
 			  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 			  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 			<![endif]-->
-			<script type="text/javascript">
-					var _gaq = _gaq || [];
-					_gaq.push(
-					['_setAccount', 'UA-23320704-4'],
-					['_trackPageview'],
-					['b._setAccount', 'UA-23320704-1'],
-					['b._trackPageview']);
-
-					(function(){
-						var ga = document.createElement('script');
-						ga.type = 'text/javascript';
-						ga.async = true;
-						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-					})();
+			<script>
+					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+					})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+					ga('create', 'UA-23320704-1', 'auto');
+					ga('require', 'linkid', 'linkid.js');
+					ga('send', 'pageview');
+ 
 					</script></head>
 
 <body>
@@ -51,24 +52,20 @@
 				<!-- ******HEADER****** -->
 				<header class="header main-header">
 					<div class="header-main container">
-						<div class="logo col-md-7 col-sm-12 col-xs-12">
+						<div class="logo col-lg-6 col-md-5 col-sm-6 col-xs-12">
 							<a href="//www.teachengineering.org/index.php"><img id="logo" src="//www.teachengineering.org/assets/images/TELogoNew.png" class="img-responsive" alt="Logo"></a>
 						</div><!--//logo-->
-						<div class="info col-md-5 hidden-sm hidden-xs">
+						<div class="hidden-lg hidden-md hidden-xs"><button id="LoginButton" class="btn btn-success pull-right" onclick="location.href='https://www.teachengineering.org/login.php'">Login MyTE</button><img id="myTE_Splash" class="pull-right" style="padding-top:3px;" src="/assets/images/MyTE_SplashImage.png" "=""></div>
+						<div class="info col-lg-6 col-md-7 hidden-sm hidden-xs">
 								<ul class="social-icons pull-right">
 									<li><a href="https://twitter.com/TeachNgineering"><i class="fa fa-twitter"></i></a></li>
 									<li><a href="https://www.facebook.com/TeachEngineeringDigitalLibrary"><i class="fa fa-facebook"></i></a></li>
 									<li><a href="http://www.linkedin.com/in/teachengineering"><i class="fa fa-linkedin"></i></a></li>
 									<li class="row-end"><a href="http://www.pinterest.com/teachngineering/"><i class="fa fa-pinterest"></i></a></li>
-								</ul><!--//social-->
-							<button id="LoginButton" class="btn btn-success pull-right" data-toggle="modal" data-target="#MyTELogin">MyTE</button>
-						</div><!--//info-->
-					</div><!--//header-main-->
-				</header><!--//header--><div class="nav-wrapper">
+								</ul><!--//social--><button id="LoginButton" class="btn btn-success pull-right" onclick="location.href='https://www.teachengineering.org/login.php'">Login MyTE</button><img id="myTE_Splash" class="pull-right" style="padding-top:3px;" src="/assets/images/MyTE_SplashImage.png" "=""></div><!--//info--></div><!--//header-main--></header><!--//header--><div class="nav-wrapper">
 				<nav class="main-nav navbar" role="navigation">
 					<div class="container">
-						<div class="navbar-header">
-							<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse">
+						<div class="navbar-header"><div class="pull-left hidden-lg hidden-md hidden-sm" style="float:left !important;margin-left:15px;"><button id="LoginButton" class="btn btn-success pull-left" onclick="location.href='https://www.teachengineering.org/login.php'">Login MyTE</button></div><button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse">
 								<span class="sr-only">Toggle navigation</span>
 								<span class="icon-bar"></span>
 								<span class="icon-bar"></span>
@@ -80,14 +77,14 @@
 								<li class="nav-item dropdown">
 									<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">Browse <i class="fa fa-angle-down"></i></a>
 									<ul class="dropdown-menu">
-										<li><a href="collection_toc.php">Table of Contents</a></li>
 										<li><a href="//www.teachengineering.org/browse_subjectareas.php">Subject Areas</a></li>
 										<li><a href="//www.teachengineering.org/browse_curricularunits.php">Curricular Units</a></li>
 										<li><a href="//www.teachengineering.org/browse_lessons.php">Lessons</a></li>
 										<li><a href="//www.teachengineering.org/browse_activities.php">Activities</a></li>
 										<li><a href="//www.teachengineering.org/browse_sprinkles.php">Sprinkles</a></li>
-										<li><a href="//www.teachengineering.org/livinglabs/index.php">Living Labs</a></li>
-										<li><a href="//www.teachengineering.org/search_standards.php">Educational Standards</a></li></ul>
+										<li><a href="//www.teachengineering.org/search_standards.php">Educational Standards</a></li>
+										<li><a href="//www.teachengineering.org/livinglabs/">Living Labs</a></li>
+									</ul>
 								</li>
 								<li class="nav-item dropdown">
 									<a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">Educational Standards <i class="fa fa-angle-down"></i></a>
@@ -125,11 +122,11 @@
 									</ul>
 								</li><!--//dropdown-->
 							</ul><!--//nav-->
-							<form class="navbar-form navbar-right hidden-sm" role="search" action="googlesearch_results.php" method="post">
+							<form class="navbar-form navbar-right hidden-sm" role="search" action=" googlesearch_results_adv.php" method="get">
 								<div class="form-group">
-									<input type="text" class="form-control" placeholder="Search" name="googlequery">
+									<input id="query_input" type="text" class="form-control" placeholder="Search" name="googlequery">
 								</div>
-								<button type="submit" class="btn btn-success"><i class="fa fa-search"></i></button>
+								<button type="submit" class="btn btn-success"><i class="fa fa-search fa-lg"></i></button>
 							</form>
 						</div><!--//navabr-collapse-->
 					</div><!--//container-->
@@ -266,63 +263,63 @@
 			</div>
 		</div>
             
-		<!-- ******FOOTER****** -->
-        <footer class="footer hidden-print">
-            <div class="bottom-bar">
-                <div class="container text-center">										
-                    <div class="row small">																											
-                            <a href="/">Home</a> | <a href="/faq.php">FAQs</a> | <a href="/policies.php">Policies</a> | <a href="/contact.php">Contact Us</a> | <a href="/sponsors.php">Sponsors</a> | <a href="/linker.php">Sitemap</a>						<div>Use of the TeachEngineering digital library and this website constitutes acceptance of our <a href="termsofuse.php">Terms of Use</a> and <a href="policy_pp.php">Privacy Policy</a></div>              </div>                   		
-					<div id="NSFLogo" class="hidden-xs">
-						<a href="http://www.nsf.gov/" target="_blank"><img src="/assets/images/nsf_2014.gif" style="width:50px" alt="NSF logo"></a>
+			<!-- ******FOOTER****** -->
+	        <footer class="footer hidden-print">
+	            <div class="bottom-bar">
+	                <div class="container text-center">										
+	                    <div class="row small">																											
+	                            <a href="/">Home</a> | <a href="/faq.php">FAQs</a> | <a href="/policies.php">Policies</a> | <a href="/contact.php">Contact Us</a> | <a href="/sponsors.php">Sponsors</a> | <a href="/linker.php">Sitemap</a>						<div>Use of the TeachEngineering digital library and this website constitutes acceptance of our <a href="termsofuse.php">Terms of Use</a> and <a href="policy_pp.php">Privacy Policy</a></div>              </div>                   		
+						<div id="NSFLogo" class="hidden-xs">
+							<a href="http://www.nsf.gov/" target="_blank"><img src="/assets/images/nsf_2014.gif" style="width:50px" alt="NSF logo"></a>
+						</div>
+	                </div><!--//container-->
+	            </div><!--//bottom-bar-->
+	        </footer><!--//footer--><!-- Javascript -->        
+	        <script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+	        <script type="text/javascript" src="/assets/plugins/bootstrap-hover-dropdown.min.js"></script>
+	        <script type="text/javascript" src="/assets/plugins/back-to-top.js"></script>
+	        <script type="text/javascript" src="/assets/plugins/jquery-placeholder/jquery.placeholder.js"></script>
+	        <script type="text/javascript" src="/assets/js/main.js"></script>
+		<div id="ghost">
+			<span>K12 engineering curriculum</span>
+			<span>K-12 engineering curricula</span>
+			<span>K12 engineering curricula</span>
+			<span>K-12 engineering activities</span>
+			<span>K12 engineering activities</span>
+			<span>K-12 engineering lessons</span>
+			<span>K12 engineering lessons</span>
+			<span>Engineering for children</span>
+			<span>Engineering activities for children</span>
+			<span>K-12 science activities</span>
+			<span>K12 science activities</span>
+			<span>K-12 science lessons</span>
+			<span>K12 science lessons</span>
+			<span>K12 engineering</span>
+			<span>K-12 engineering</span>
+			<span>K-12 engineering education</span>
+			<span>K12 engineering education</span>
+			<span><a href="/imabot.php">Are you a bot?</a></span>
+		</div>
+		<div class="modal fade" id="MyTELogin">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+						<h4 class="modal-title">MyTE Login</h4>
 					</div>
-                </div><!--//container-->
-            </div><!--//bottom-bar-->
-        </footer><!--//footer--><!-- Javascript -->        
-        <script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="/assets/plugins/bootstrap-hover-dropdown.min.js"></script>
-        <script type="text/javascript" src="/assets/plugins/back-to-top.js"></script>
-        <script type="text/javascript" src="/assets/plugins/jquery-placeholder/jquery.placeholder.js"></script>
-        <script type="text/javascript" src="/assets/js/main.js"></script>
-	<div id="ghost">
-		<span>K12 engineering curriculum</span>
-		<span>K-12 engineering curricula</span>
-		<span>K12 engineering curricula</span>
-		<span>K-12 engineering activities</span>
-		<span>K12 engineering activities</span>
-		<span>K-12 engineering lessons</span>
-		<span>K12 engineering lessons</span>
-		<span>Engineering for children</span>
-		<span>Engineering activities for children</span>
-		<span>K-12 science activities</span>
-		<span>K12 science activities</span>
-		<span>K-12 science lessons</span>
-		<span>K12 science lessons</span>
-		<span>K12 engineering</span>
-		<span>K-12 engineering</span>
-		<span>K-12 engineering education</span>
-		<span>K12 engineering education</span>
-		<span><a href="/imabot.php">Are you a bot?</a></span>
-	</div>
-	<div class="modal fade" id="MyTELogin">
-		<div class="modal-dialog">
-			<div class="modal-content">
-				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-					<h4 class="modal-title">MyTE Login</h4>
-				</div>
-				<div class="modal-body">
-					<h4>MyTE is temporarily closed for renovations</h4>
-					<p>A new and improved MyTE is coming soon!</p>
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>				
-				</div>
-			</div><!-- /.modal-content -->
-		</div><!-- /.modal-dialog -->
-	</div><!-- /.modal -->
-		
+					<div class="modal-body">
+						<h4>MyTE is temporarily closed for renovations</h4>
+						<p>A new and improved MyTE is coming soon!</p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>				
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div><!-- /.modal -->
+			
 
-</div>
+	</div>
 
 
 </body></html>
