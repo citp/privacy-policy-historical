@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601000951id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909133625id_/http%3A//www.hrp.org.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Historic Royal Palaces > Home > Privacy and Cookie Policy
 
@@ -74,6 +74,10 @@ DoubleClick cookies contain no personally identifiable information.
 
 During your visits to this website you may be delivered cookies by third-party websites. When you visit a page with content embedded from, for example, Facebook, Twitter, YouTube or Flickr, you may be presented with cookies from these websites. Historic Royal Palaces does not control the dissemination of these cookies. You should check the third-party websites for more information about these.
 
+    4. #### Technical cookies
+
+We use CFID and CFTOKEN on our ticketing pages to support the user session during the ticket purchase process.
+
   4. ### How to manage cookies
 
 You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled.
@@ -91,4 +95,4 @@ We hope that you enjoy using our website, and feel assured we are committed to p
 
 
 
-Updated: 28 January 2013
+Updated: 10 June 2015
