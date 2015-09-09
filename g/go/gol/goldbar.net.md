@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldbar.net privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610040908id_/http%3A//www.goldbar.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbar.net privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909093008id_/http%3A//www.goldbar.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
