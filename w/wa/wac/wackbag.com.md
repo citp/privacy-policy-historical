@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wackbag.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320043842id_/https%3A//www.wackbag.com/pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wackbag.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910005059id_/https%3A//www.wackbag.com/pages/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wackbag.com
 
-[ ](https://web.archive.org/web/20150320043842id_/https://www.wackbag.com/pages/Privacy/)
+[ ](https://web.archive.org/web/20150910005059id_/https://www.wackbag.com/pages/Privacy/)
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
@@ -24,9 +24,9 @@ Members and Guests can have this information corrected by sending us e-mail at t
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site and we also offer a 256-Bit SSL Secured version of the site for all visitors.
 
-If you feel that this site is not following its stated information policy, you may contact us [here.](https://web.archive.org/web/20150320043842id_/https://www.wackbag.com/pages/Privacy/misc/contact)
+If you feel that this site is not following its stated information policy, you may contact us [here.](https://web.archive.org/web/20150910005059id_/https://www.wackbag.com/pages/Privacy/misc/contact)
 
 Published:
     Jan 29, 2015
 Page Views:
-    261
+    1,376
