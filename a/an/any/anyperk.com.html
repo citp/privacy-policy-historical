@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the anyperk.com privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317084253id_/https%3A//anyperk.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the anyperk.com privacy policy that was archived on 2015-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150909181432id_/https%3A//anyperk.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script type="text/javascript" async="" src="https://go.toutapp.com/site/emmpd57j9c?title=Privacy%20Policy%20of%20AnyPerk%20%7C%20AnyPerk&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150317084253id_%2Fhttps%253A%2F%2Fanyperk.com%2Fprivacy"></script><script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.io/analytics.js/v1/cl3ar2j3yy/analytics.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"f835ddceab","applicationID":"2895449","transactionName":"JV5dEBRYWlpQExgPVghVWgoBGEZEXBdWAE4=","queueTime":0,"applicationTime":27,"agent":"js-agent.newrelic.com/nr-593.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMHWVNQGwEIXVRWAwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="https://go.toutapp.com/site/emmpd57j9c?title=Privacy%20Policy%20of%20AnyPerk%20%7C%20AnyPerk&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20150909181432id_%2Fhttps%253A%2F%2Fanyperk.com%2Fprivacy"></script><script type="text/javascript" id="analytics-js" async="" src="https://cdn.segment.io/analytics.js/v1/cl3ar2j3yy/analytics.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"f835ddceab","applicationID":"2895449","transactionName":"JV5dEBRYWlpQExgPVghVWgoBGEZEXBdWAE4=","queueTime":0,"applicationTime":37,"agent":"js-agent.newrelic.com/nr-686.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMHWVNQGwEIXVRWAwg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=t("ee").create(),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,u=c.document;t(2);var f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-686.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
   <script src="//cdn.optimizely.com/js/288518099.js"></script>
 <title>Privacy Policy of AnyPerk | AnyPerk</title>
 <meta name="Description" content="">
@@ -14,20 +14,31 @@
 <meta name="referrer" content="origin">
 <meta property="og:title" content="Privacy Policy of AnyPerk | AnyPerk">
 <meta property="og:image" content="https://d3cillb28jbbby.cloudfront.net/assets/logos/290x290-0a12faedd9352da07efc9e16e1519808.png">
+
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6245872/767364/css/fonts.css">
-<link href="//d3cillb28jbbby.cloudfront.net/assets/application-3076ae91f57b3523a2ec113dc5fd477b.css" media="all" rel="stylesheet" type="text/css">
+<link href="//d3cillb28jbbby.cloudfront.net/assets/application-2a12b0c979560ff009a70d63ca06826b.css" media="all" rel="stylesheet" type="text/css">
 <link href="//d3cillb28jbbby.cloudfront.net/assets/jquery.sidr.light-c7e37da47ab7947ebf3d26dea0278a13.css" media="all" rel="stylesheet" type="text/css">
-<script src="//d3cillb28jbbby.cloudfront.net/assets/application-8e8ba9a1595c17a704bfea86ca23d33b.js" type="text/javascript"></script>
+<script src="//d3cillb28jbbby.cloudfront.net/assets/application-f113c13b7e39fe5fdc332af76094703f.js" type="text/javascript"></script>
 <script src="//d3cillb28jbbby.cloudfront.net/assets/jquery.sidr.min-1c454a39ea728cac00d1f1a1757547b9.js" type="text/javascript"></script>
 <script type="text/javascript" src="https://js.stripe.com/v1/"></script>
 <script type="text/javascript">
 Stripe.setPublishableKey("pk_koBjFiD0dmJYiLSTnfXSmr5pnVuPw")
 </script>
 <meta content="authenticity_token" name="csrf-param">
-<meta content="GBGBsnc46tYGbnFdRbYV2k7oABSF0MPd2zCDNBJOxcA=" name="csrf-token">
+<meta content="0znD46gZuP0f3eIaxo9tythAMNu9p2gx45hykU3SEq4=" name="csrf-token">
 <meta content="pk_koBjFiD0dmJYiLSTnfXSmr5pnVuPw" name="stripe-key">
 <!--[if lt IE 9 ]> <script> html5shiv(); </script> <![endif]-->
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-24269933-6', 'auto');
+  ga('send', 'pageview');
+</script>
 
 <!-- Segment IO -->
 <script type="text/javascript">
@@ -37,90 +48,137 @@ Stripe.setPublishableKey("pk_koBjFiD0dmJYiLSTnfXSmr5pnVuPw")
 </script>
 
 </head>
-<body class="platform rr-privacy">
+<body class="platform privacy">
 
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0" name="viewport">
-<header id="rr-header">
-<div class="anyperk-line">
+<!-- Bing meta tag -->
+<meta content="C31D3542BF61D435F8F05FDCE3F423EA" name="msvalidate.01">
+<header id="header">
+<div class="anyperk-line-flipped">
 <div class="middle-line"></div>
 </div>
-<div class="rr-container">
-<div class="rr-container-header">
-<div class="rr-header-actions-logged-out">
-<span class="rr-icon rr-nav-button sidr-menu-button" href="#sidr-logged-out-nav"></span>
+<div class="container">
+<div class="container-header">
+<div class="header-actions-logged-out">
+<span class="icon sidr-menu-button" href="#sidr-logged-out-nav"></span>
 </div>
-<div class="rr-header-logo-logged-out">
+<div class="header-logo-logged-out">
 <a class="logo mainlogo" href="/" id="default-logo">&nbsp;</a>
 </div>
-<div class="rr-header-nav-logged-out">
-<nav class="rr-nav">
+<div class="header-nav-logged-out wp-landing">
+<nav class="nav">
 <ul class="user-menu">
 <li class="show-when-sidr"><a href="/" class="">Home</a></li>
 <span class="show-when-large">
-<li><a href="/perks" class="">The Perks</a></li>
-
-<li><a href="/faq" class="">F.A.Q.</a></li>
-<li>
-<a class="" href="/sign_up?signup_type=employer">For Employer</a>
+<li class="menu-item">
+<a href="/features/">Features</a>
 </li>
-<li>
-<a class="" href="/sign_up?signup_type=employee">For Employee</a>
+<li class="menu-item">
+<a href="https://anyperk.com/perks">The Perks</a>
 </li>
+<li class="menu-item">
+<a href="/library/">Library</a>
+</li>
+<li class="menu-item">
+<a href="/company/">Company</a>
+</li>
+<li class="menu-item">
+<a href="https://anyperk.com/success-stories">Success Stories</a>
+</li>
+<li class="login-link"><a href="/sign_in" class="nav-button">Log In</a></li>
 </span>
-<li class="login-link nav-button"><a href="/sign_in">Log In</a></li>
 </ul>
 </nav>
 </div>
 </div>
 </div>
 </header>
+<div class="data-store"></div>
 
-<div id="rr-page">
-<div class="rr-container">
+
+<div id="page">
+<div class="container">
 <section>
 <h1>Privacy Policy</h1>
-<p>
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-</p><p>
-</p><ul class="rr-lead">
-<li>It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service of the specific application, or as otherwise required by law.</li>
-<li>We transfer information about you if AnyPerk is acquired by or merged with another company. In this event, AnyPerk will notify you before information about you is transferred and becomes subject to a different privacy policy.</li>
+<p>Last Updated: August 17, 2015</p>
+<p>At AnyPerk, your privacy is very important to us. We want to clearly explain how we use your information and how you can protect your privacy.</p>
+<p>Our Privacy Policy explains:</p>
+<ul>
+<li>What information we collect and why we collect it.</li>
+<li>How we use that information and when we disclose it.</li>
+<li>How to access and update your information.</li>
+<li>The steps we take to protect the information we collect.</li>
 </ul>
-<p></p>
+<p>This Privacy Policy applies to the information that we collect through our services, including our website, applications, or any service that links to this Privacy Policy (collectively ìServicesî).  Your privacy matters to us, so please take the time to familiarize yourself with our policies, and if you have any questions please contact us.  This policy is incorporated into and is subject to our <a href="https://anyperk.com/tos">Terms of Service.</a></p>
 <section>
-<h2>Information Gathering and Usage</h2>
-<p>When you register for AnyPerk we ask for information such as your name, company name, email address, number of employees, location, billing address and credit card information. Members who sign up for the free account are not required to enter a credit card.</p>
-<p>AnyPerk uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. AnyPerk does not share your personal information with third parties, unless explicitly approved by you.</p>
+<h2>Information We Collect</h2>
+<p><strong>Information you provide to us</strong></p>
+<p>We collect the following information from our customers and their employees who sign up for our Services:</p>
+<p><strong>Registration and Profile Information:</strong> We collect information about you when you create an account for our Services, which may include your name, title, company name, address, phone number, email address, and password. If you are an employee of one of our customers, we may also receive your name and email address from your employer. Other employees may also provide us your information when they invite you to try our Services.</p>
+<p><strong>Payment Information:</strong> We may ask you to provide payment card and/or financial account information when you pay for our Services, Rewards, or Perks, or when you add payment card information to your account. Payment information is collected and processed by our service providers and not by us.</p>
+<p><strong>Communications:</strong>  We receive information from you when you contact us or we communicate with you, including via email or social networks.</p>
+<p><strong>Information we collect from your use of our Services</strong></p>
+<p><strong>Perks and Rewards Information:</strong> We collect information regarding which Perks you claim and which Rewards you give or receive. We also collect any additional information provided when you give or receive a reward, including a description as to why you are receiving the Reward, and how you use the Rewards you receive. We also collect any feedback and ratings you provide about Perks or our Services. We may also collect analytics information regarding Perks redeemed from our Vendors.</p>
+<p><strong>Location:</strong> We will collect location information if you provide it to us or based on, for example, your deviceís GPS coordinates, unless you configure your operating system settings to prevent this collection.</p>
+<p><strong>Device and Usage Information:</strong> We record certain information and store it in log files when you interact with our Services. This information may include device and browser information, internet protocol (IP) address, the web pages or sites that you visit just before or just after you use our Services, the pages or other content you view or interact with on our Services, the information you search for, and the dates and times that you visit our Services.</p>
+<p><strong>Cookies and Other Technologies:</strong> We may use various technologies to collect information, including cookies that we save to your device. Cookies are small data files stored on your hard drive or in device memory. We use cookies for purposes such as improving our Services and your experience and allowing you to access and use our Services without re-entering your username or password. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Services.</p>
 </section>
 <section>
-<h2>Cookies</h2>
-<p>A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.</p>
-<p>Cookies are required to use the AnyPerk services.</p>
-<p>We use cookies to record current session information, but do not require permanent cookies.</p>
+<h2>How We Use Information We Collect</h2>
+<p>We may use the information we collect for a variety of purposes, including to:</p>
+<ul>
+<li>Provide, operate, maintain, improve, personalize, and promote our Services;</li>
+<li>Develop new products, services, features, and functionality;</li>
+<li>Notify you when you visit a website or location  that has a Perk available for redemption;</li>
+<li>Process and complete transactions and send you related information, including confirmations and invoices;</li>
+<li>Communicate with you, including responding to your comments, questions, and requests; providing customer service and support; providing you with information about our Services, including technical notices, updates, security alerts, administrative messages, or advertising or marketing messages; and providing other news or information about us;</li>
+<li>Monitor and analyze trends, usage, and activities in connection with our Services; and</li>
+<li>Investigate and prevent fraudulent transactions, unauthorized access to our Services, and other illegal activities;</li>
+</ul>
+<p>We may also use the information we collect for other purposes about which we notify you.</p>
 </section>
 <section>
-<h2>Data Storage</h2>
-<p>AnyPerk uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run our services. Although AnyPerk owns the code, databases, and all rights to the AnyPerk applications, you retain all rights to your data.</p>
+<h2>Information Sharing and Disclosures</h2>
+<p>We may share your information in the following ways:</p>
+<p><strong>Your consent:</strong> We will share your personal information with companies, organizations, or individuals outside of our company when we have your consent to do so.</p>
+<p><strong>Your Company:</strong> We provide aggregate information regarding the number of Perks redeemed to your employer. We do not share the specific Perks you redeem with your employer.</p>
+<p><strong>Vendors:</strong> When you redeem a Perk, we may provide your information to our Vendors or service providers as necessary to facilitate the redemption. Our Services contains features or links to Web sites and services provided by our Vendors. Any information you provide on these sites or services is provided directly to the operators of such services and is subject to those operatorsí policies, if any, governing privacy and security, even if accessed through our Services. We are not responsible for the content or privacy and security practices and policies of these sites or services to which links or access are provided through our Services.  We encourage you to learn about third partiesí privacy and security policies before providing them with information.</p>
+<p><strong>Service Providers and Others:</strong> We may share your information with our service providers and other third parties who perform services on our behalf, such as fulfillment, technology, analytics, and marketing services.  We also provide your payment information to our service providers for payment processing and verification.  Service providers such as analytics providers may collect information about your online activities over time and across different online services when you use our Services.</p>
+<p><strong>Compliance with Laws and Law Enforcement Requests; Protection of Our Rights:</strong> We may disclose your information (including your personal information) to a third party if (a) we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request, (b) to enforce our agreements, policies and terms of service, (c) to protect the security or integrity of our products and services, (d) to protect the property, rights, and safety of us, our customers or the public from harm or illegal activities, (e) to respond to an emergency which we believe in the good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person, or (f) to investigate and defend ourselves against any third-party claims or allegations.</p>
+<p><strong>Business Transfers:</strong> We may share or transfer your information (including your personal information) in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. We will notify you of such a change in ownership or transfer of assets by posting a notice on our Services.</p>
+<p><strong>Aggregate Data:</strong> We may share aggregate information that does not directly identify you with our Vendors and other third parties in order to improve the overall experience of our Services and for any other purposes as permitted by this Privacy Policy.</p>
 </section>
 <section>
-<h2>Disclosure</h2>
-<p>AnyPerk may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service of our application.</p>
+<h2>The Choices You Have With Your Information</h2>
+<p>You may decline to share certain personal information with us, in which case we may not be able to provide to you some of the features and functionality of our Services.  You may update or correct your personal information at any time by accessing your profile settings page on the website or by contacting us.  You can also contact us if you would like to close your account.</p>
+<p>You may opt out of receiving promotional communications from us by using the unsubscribe link within each email.  Even after you opt out from receiving promotional messages from us, you will continue to receive administrative and security messages from us regarding the Services.</p>
 </section>
 <section>
-<h2>Changes</h2>
-<p>AnyPerk may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your AnyPerk service primary account holder account or by placing a prominent notice on our site. You retain the right to access, amend, correct or delete your personal information where it is inaccurate at any time. To do so, please contact support [ at ] anyperk.com.</p>
+<h2>Data Security</h2>
+<p>We take reasonable measures to protect your personal information.  Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.</p>
 </section>
 <section>
-<h2>Questions</h2>
-<p>Any questions about this Privacy Policy should be addressed to support [ at ] anyperk.com or by mail at: AnyPerk, Inc, 33 New Montgomery St., Ste. 700, San Francisco, CA 94105</p>
+<h2>Childrenís Privacy</h2>
+<p>Our Services are not directed to individuals under 13.  We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact us.</p>
 </section>
-<p></p>
+<section>
+<h2>International Users</h2>
+<p>Our Services are hosted in the United States.  If you choose to use the Services from other regions of the world with laws governing data collection and use that may differ from U.S. law, then please note that we may transfer your information outside of those regions to the United States for storage and processing.  By providing your information, you consent to the collection, transfer, use, storage, and disclosure of your information in accordance with this Privacy Policy.</p>
+</section>
+<section>
+<h2>Changes to Our Privacy Policy</h2>
+<p>We may change this Privacy Policy from time to time. If we make any changes, we will notify you by revising the "Last Updated" date at the top of this Privacy Policy and, in some cases, where appropriate we may provide you with additional notice (such as adding a statement to the home page or sending you an email notification).  Your continued use of our Services after the revised Policy has become effective indicates that you have read, understood, and agreed to the current version of this Policy.</p>
+</section>
+<section>
+<h2>Contact Information</h2>
+<p>Please contact us with any questions or comments about this Privacy Policy, your personal information, our use and disclosure practices, or your consent choices by email at support@anyperk.com.</p>
+</section>
 </section>
 </div>
 </div>
 
-<footer id="rr-footer">
-<div class="rr-container">
+<footer id="footer">
+<div class="container">
 <div class="left">
 <nav class="nav primary hide-when-small">
 <a href="/perks" class="">The Perks</a>
@@ -172,6 +230,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 </noscript>
 <script type="text/javascript">(function() {var t = document.createElement('script'); t.type = 'text/javascript'; t.async = true;var u = document.location.href;var ti = document.title;var i = "?title=" + encodeURIComponent(ti) + "&url=" + encodeURIComponent(u);t.src = 'https://go.toutapp.com/site/emmpd57j9c' + i;var st = document.getElementsByTagName('script')[0];st.parentNode.insertBefore(t, st);})();</script>
 
+<div data-react-class="Modal"></div>
 
 
-<script src="https://js-agent.newrelic.com/nr-593.min.js"></script></body></html>
+</body></html>
