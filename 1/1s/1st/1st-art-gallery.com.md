@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1st-art-gallery.com privacy policy that was archived on 2015-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150504190056id_/http%3A//www.1st-art-gallery.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1st-art-gallery.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909045440id_/http%3A//www.1st-art-gallery.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Security | Oil Paintings from 1st-art-gallery.com
 
