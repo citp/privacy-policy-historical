@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoveramerica.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531031450id_/http%3A//www.discoveramerica.com/usa/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveramerica.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909191439id_/http%3A//www.discoveramerica.com/usa/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Discover America
 
