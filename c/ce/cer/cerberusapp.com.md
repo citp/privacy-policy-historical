@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cerberusapp.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327025143id_/https%3A//www.cerberusapp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cerberusapp.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909200913id_/https%3A//www.cerberusapp.com/privacy.php) for the most accurate reproduction.*
 
 # Cerberus Privacy policy
 
