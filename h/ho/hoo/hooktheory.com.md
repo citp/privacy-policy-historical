@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hooktheory.com privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421081103id_/http%3A//www.hooktheory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooktheory.com privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909200548id_/http%3A//www.hooktheory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hooktheory
 
