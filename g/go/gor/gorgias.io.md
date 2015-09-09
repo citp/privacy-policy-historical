@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorgias.io privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320075443id_/https%3A//gorgias.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorgias.io privacy policy that was archived on 2015-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150909135014id_/https%3A//gorgias.io/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gorgias for Chrome™
 
