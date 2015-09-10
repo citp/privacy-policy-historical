@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fcpeuro.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320225659id_/https%3A//www.fcpeuro.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcpeuro.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911003324id_/https%3A//www.fcpeuro.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FCP Euro
 
@@ -54,4 +54,4 @@ In accordance with applicable law, we take additional security measures in regar
 
 Contact us with any questions regarding this privacy statement.
 
-[Contact Us | 1-877-634-0063](https://web.archive.org/page/contact-us)
+[Contact Us](https://web.archive.org/page/contact-us)
