@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensrs.net privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322211845id_/https%3A//opensrs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensrs.net privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911004213id_/https%3A//opensrs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OpenSRS
 
@@ -63,7 +63,7 @@ There are ten principles, which form the basis of Tucows’ policy. These princi
 
 To better understand our policy, Tucows has set out some basic definitions to use when reading and interpreting the principles below:
 
-**Collection** \- the act of gathering, acquiring, recording, or obtaining personal information from any source, including third parties, by any means.
+**Collection** – the act of gathering, acquiring, recording, or obtaining personal information from any source, including third parties, by any means.
 
 **Consent** – voluntary agreement with the collection, use and disclosure of personal information for defined purposes. Consent can be either express or implied and can be provided directly by the individual or by an authorized representative. Express consent can be given orally, electronically or in writing, but is always unequivocal and does not require any inference on the part of Tucows. Implied consent is consent that can reasonably be inferred from an individual’s action or inaction. Consent will be implied when an individual or entity applies to register a domain name and agrees to the general terms and conditions imposed by both Tucows and the applicable registry.
 
@@ -77,7 +77,7 @@ Personal information – information about an identifiable individual that is re
 
 **Use** – the treatment, handling, and management of personal information by and within Tucows.
 
-### **Principle 1** \- Accountability
+### **Principle 1** – Accountability
 
 Tucows is responsible for personal information under its control. In response, it has designated its General Counsel as accountable for the company’s compliance with the following principles.
 
@@ -115,7 +115,7 @@ Tucows shall identify the purposes for which personal information is collected a
 
 
 
-### **Principle 3** \- Obtaining Consent for Collection, Use or Disclosure of Personal Information
+### **Principle 3** – Obtaining Consent for Collection, Use or Disclosure of Personal Information
 
 The knowledge and consent of a customer is required for the collection, use, or disclosure of personal information, except where inappropriate.
 
@@ -132,7 +132,7 @@ When information is being collected for the detection and prevention of fraud or
 
 
 
-### **Principle 4** \- Limiting Collection of Personal Information
+### **Principle 4** – Limiting Collection of Personal Information
 
 Tucows shall limit the collection of personal information to that which is necessary for the identified purposes. Tucows shall collect personal information by fair and lawful means.
 
@@ -141,7 +141,7 @@ Tucows shall limit the collection of personal information to that which is neces
 
 
 
-### **Principle 5** \- Limiting Use, Disclosure, and Retention of Personal Information
+### **Principle 5** – Limiting Use, Disclosure, and Retention of Personal Information
 
 Tucows shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by a registry or by law. Tucows shall retain personal information only as long as necessary for the fulfillment of those purposes or as required by law.
 
@@ -168,7 +168,7 @@ Tucows shall not use or disclose personal information for purposes other than th
 
 4) Personal information that is no longer necessary or relevant for the identified purposes or required to be retained by law shall be destroyed, erased or made anonymous. In any event, Tucows shall maintain reasonable and systematic controls, schedules and practices for such information, its retention and destruction.
 
-### **Principle 6** \- Accuracy of Personal Information
+### **Principle 6** – Accuracy of Personal Information
 
 Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.
 
@@ -177,7 +177,7 @@ Personal information shall be as accurate, complete and up-to-date as is necessa
 
 
 
-### **Principle 7** \- Security Safeguards
+### **Principle 7** – Security Safeguards
 
 Tucows shall protect personal information by security safeguards appropriate to the sensitivity of the information.
 
@@ -187,7 +187,7 @@ Tucows shall protect personal information by security safeguards appropriate to 
 
 
 
-### **Principle 8** \- Openness Concerning Policies and Practices
+### **Principle 8** – Openness Concerning Policies and Practices
 
 Tucows shall make readily available to customers and employees specific information about its policies and practices relating to the management of personal information.
 
@@ -200,7 +200,7 @@ Tucows shall make readily available to customers and employees specific informat
 
 
 
-### **Principle 9** \- Customer Access to Personal Information
+### **Principle 9** – Customer Access to Personal Information
 
 Tucows shall inform a customer of the existence, use, and disclosure of his or her personal information upon request and shall give the individual access to that information. A customer shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
 
@@ -214,7 +214,7 @@ NOTE: In certain situations, Tucows may not be able to provide access to all of 
 
 
 
-### **Principle 10** \- Challenging Compliance
+### **Principle 10** – Challenging Compliance
 
 A customer shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for Tucows’ compliance with the policy.
 
