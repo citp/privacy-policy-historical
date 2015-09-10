@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216184517id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genome.gov privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910191223id_/http%3A//www.genome.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -47,11 +47,11 @@ Top of page
 
 #### Methods of Collecting Information
 
-Genome.gov uses both Webtrends Analytics and Google Analytics measurement software to collect information from the above list automatically and continuously. We use this information to measure the number of visitors to our site and its various sections and to distinguish between new and returning visitors to help make our site more useful to visitors. However, no personally identifiable information (PII) is collected.
+Genome.gov uses Google Analytics and other off-the-shelf analytics measurement software to collect information from the above list automatically and continuously. We use this information to measure the number of visitors to our site and its various sections and to distinguish between new and returning visitors to help make our site more useful to visitors. However, no personally identifiable information (PII) is collected.
 
-NHGRI staff conducts analyses and reports on the aggregated data from Webtrends and Google Analytics. The reports are only available to NHGRI website managers, members of their Communications and Web Teams, and other designated staff who require this information to perform their duties.
+From time to time, NHGRI staff conducts analyses and reports on the aggregated data from these systems. The reports are only available to NHGRI website managers, members of their Communications and Web Teams, and other designated staff who require this information to perform their duties.
 
-NHGRI retains the data from Webtrends and Google Analytics only as long as required by law or needed to support the mission of the NHGRI website.
+NHGRI retains this data only as long as required by law or needed to support the mission of the NHGRI website.
 
 Top of page
 
@@ -65,10 +65,10 @@ The cookie makes it easier for you to use the dynamic features of Web pages. Coo
 
 There are two types of cookies: single session (temporary) and multi-session (persistent). Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods.
 
-  * **Temporary (Session) Cookies:** We use session cookies for technical purposes such as improving navigation through our site. These cookies let our server know that you are continuing a visit to our site. The "session" cookie is not permanently stored on your computer. The cookie and the information about your visit are automatically destroyed shortly after you close your browser to end the session. The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1—Single Session." The policy says, "This tier encompasses any use of single session Web measurement and customization technologies."
+  * **Temporary (Session) Cookies:** We use session cookies for technical purposes such as improving navigation through our site. These cookies let our server know that you are continuing a visit to our site. The "session" cookie is not permanently stored on your computer. The cookie and the information about your visit are automatically destroyed shortly after you close your browser to end the session. The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1-Single Session." The policy says, "This tier encompasses any use of single session Web measurement and customization technologies."
 
 
-  * **Persistent Cookies:** We use persistent cookies to enable Google Analytics to differentiate between new and returning NHGRI visitors. The OMB Memo M-10-22 Guidance allows Federal agencies to use persistent cookies, which remain on your computer between visits to a website until they expire. The Guidance defines our use of persistent cookies as "Usage Tier 2 – Multi-session without Personally Identifiable Information (PII)." The policy says, "This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected."
+  * **Persistent Cookies:** We use persistent cookies to enable Google Analytics to differentiate between new and returning NHGRI visitors. The OMB Memo M-10-22 Guidance allows Federal agencies to use persistent cookies, which remain on your computer between visits to a website until they expire. The Guidance defines our use of persistent cookies as "Usage Tier 2 - Multi-session without Personally Identifiable Information (PII)." The policy says, "This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected."
 
 
 
@@ -86,7 +86,7 @@ Top of page
 
 You do not have to give us personal information to visit the NHGRI website. If you choose to provide us with additional information about yourself through an e-mail message, form, survey, etc., we maintain the information only as long as needed to respond to your question or to fulfill the stated purpose of the communication.
 
-For further information about NIH privacy policy, please contact the NIH Senior Official for Privacy at [privacy@mail.nih.gov](mailto:privacy@mail.nih.gov), call (301) 451-3426, or visit <http://oma.od.nih.gov/ms/privacy/privacyact.html>.
+For further information about NIH privacy policy, please contact the NIH Senior Official for Privacy at [privacy@mail.nih.gov](mailto:privacy@mail.nih.gov), call (301) 451-3426, or visit <http://oma.od.nih.gov/public/MS/privacy/Pages/privacyact.aspx>.
 
 Top of page
 
@@ -112,7 +112,7 @@ Top of page
 
 #### Data Safeguarding and Privacy
 
-All uses of Web measurement and customization technologies will comply with existing policies with respect to privacy and data safeguarding standards. Information Systems (IT) systems owned and operated by NIH are assessed using Privacy Impact Assessments posted for public view on the [Department of Health and Human Services website](http://www.hhs.gov/pia/nih.html). Groups of records that contain information about an individual and are designed to be retrieved by the name or other personal identifier linked to the individual are covered by the Privacy Act of 1974, as amended (5 U.S.C. Section 552a). For these records, NIH Systems of Record Notices are published in the Federal Register and posted on the [NIH Senior Official for Privacy website](http://oma.od.nih.gov/ms/privacy/).
+All uses of Web measurement and customization technologies will comply with existing policies with respect to privacy and data safeguarding standards. Information Systems (IT) systems owned and operated by NIH are assessed using Privacy Impact Assessments posted for public view on the [Department of Health and Human Services website](http://www.hhs.gov/pia). Groups of records that contain information about an individual and are designed to be retrieved by the name or other personal identifier linked to the individual are covered by the Privacy Act of 1974, as amended (5 U.S.C. Section 552a). For these records, NIH Systems of Record Notices are published in the Federal Register and posted on the [NIH Senior Official for Privacy website](http://oma.od.nih.gov/public/MS/privacy/Pages/default.aspx).
 
 Top of page
 
@@ -134,24 +134,14 @@ As part of the [Open Government Directive](http://www.whitehouse.gov/open/docume
 > 
 > Genome.gov uses the AddThis service to allow visitors to bookmark and share site content on a variety of social media sites. Visitors who use the AddThis service to share content do not need to register or provide any personal information. The AddThis service providers collect non-personal data, including the aggregate and summary statistics on browsers and usage patterns. AddThis also uses non-personal data to manage the service efficiently and diagnose server problems. Although AddThis offers some analytics and usage data to NHGRI, these reports do not include any personally identifiable information. The reports are password protected and only available to Genome.gov site managers, members of the Genome.gov Communications and Web Teams, and other designated staff requiring this information to perform their duties. The AddThis Privacy policy is available at: <http://www.addthis.com/privacy>.
 > 
-> ##### ShareThis
-> 
-> Genome.gov uses the ShareThis service to allow visitors to bookmark and share site content on a variety of social media sites. Visitors who use the ShareThis service to share content do not need to register or provide any personal information. The ShareThis service providers collect non-personal data, including the aggregate and summary statistics on browsers and usage patterns. ShareThis also uses non-personal data to manage the service efficiently and diagnose server problems. Although ShareThis offers some analytics and usage data to NHGRI, these reports do not include any personally identifiable information. The reports are password protected and only available to Genome.gov site managers, members of the Genome.gov Communications and Web Teams, and other designated staff requiring this information to perform their duties. The ShareThis Privacy policy is available at: <http://sharethis.com/privacy>.
-> 
 > ##### Goo.gl
 > 
-> NHGRI uses goo.gl (Google URL shortener) as a linking tool to its various social media sites. From the Genome.gov home page, users can click on hyperlinked icons for Facebook, Twitter and YouTube, where they will be taken to the corresponding social media site via the goo.gl-shortened hyperlink. Goo.gl collects and provides data on how often users click on the shortened URLs. Goo.gl analytics do not provide any personally identifiable information about the visitors who opened the shortened links. Google's Privacy policy is available at:  <http://www.google.com/intl/en/privacy/privacy-policy.html>.
+> NHGRI uses goo.gl (a URL shortening service) as a linking tool on Genome.gov. From the Genome.gov home page, users can click on hyperlinked icons for Facebook, Twitter and YouTube, where they will be taken to the corresponding social media site via the goo.gl-shortened hyperlink. Goo.gl collects and provides data on how often users click on the shortened URLs. Goo.gl analytics do not provide any personally identifiable information about the visitors who opened the shortened links. Google's Privacy policy is available at:  <http://www.google.com/intl/en/privacy/privacy-policy.html>.  
+>   
 > 
-> ##### Qoo.ly (via SocialReport)
+> ##### Bit.ly
 > 
-> NHGRI uses SocialReport to capture analytics for our social media pages. In order to capture the information, the following must be done within SocialReport:
-> 
->   * Create a "campaign", which allows you to publish a message to your various social media accounts either simultaneously or separately. This allows you to track public interest in what you posted over time.
->   * Create a shortened URL, using built-in URL shortener, in the format of qoo.ly.
-> 
-
-> 
-> Qoo.ly URLs are shortened URLs for use in email messages, Twitter feeds and on Facebook pages. No personal information is captured with the analytics report. Only the geographic region where from where the visits originate, the number of clicks and activity for the day are captured. The SocialReport privacy policy is available at: <http://www.socialreport.com/privacy-policy.html>.
+> NHGRI uses bit.ly (a URL shortening service) as a linking tool on its social media sites Facebook and Twitter. Bit.ly collects and provides data on how often users click on the shortened URLs. Bit.ly analytics do not provide any personally identifiable information about the visitors who opened the shortened links. Bit.ly's privacy policy is available at: <http://bitly.com/pages/privacy>.
 > 
 > ##### YouTube
 > 
@@ -159,7 +149,7 @@ As part of the [Open Government Directive](http://www.whitehouse.gov/open/docume
 > 
 > ##### Facebook
 > 
-> NHGRI has three Facebook pages — [Genome.gov | National Human Genome Research Institute (NHGRI)](https://www.facebook.com/genome.gov), [National DNA Day](https://www.facebook.com/DNAday) and [ENCODE (ENCyclopedia Of DNA Elements)](http://www.facebook.com/ENCODEProject). The privacy policies for the Facebook pages are located on these sites.
+> NHGRI has three Facebook pages - [Genome.gov | National Human Genome Research Institute (NHGRI)](https://www.facebook.com/genome.gov), [National DNA Day](https://www.facebook.com/DNAday) and [ENCODE (ENCyclopedia Of DNA Elements)](http://www.facebook.com/ENCODEProject). The privacy policies for the Facebook pages are located on these sites.
 > 
 > On each of the NHGRI Facebook pages, NHGRI staff posts news and other items of interest to users. If you have a Facebook account or "Like" NHGRI Facebook pages, you can post comments or click on the "like" option for individual entries. If you comment or click on the "like" button, personally identifying information will be visible to NHGRI staff and other Facebook site visitors. The amount of visible personal information will depend on your own Facebook privacy settings. You can avoid displaying any personally identifiable information by not creating an account, not posting comments, and not clicking on the "like" options in Facebook.
 > 
@@ -167,20 +157,19 @@ As part of the [Open Government Directive](http://www.whitehouse.gov/open/docume
 > 
 > ##### Twitter
 > 
-> NHGRI has three Twitter feeds — [@Genome_gov](http://twitter.com/#!/genome_gov), [@DNAday](http://twitter.com/#!/dnaday) and [@ENCODE_NIH](http://twitter.com/#!/ENCODE_NIH). We use Twitter to send short messages (up to 140 characters) or "tweets" to share information about NHGRI with our audiences and respond to comments and inquiries sent via Twitter to NHGRI. While users may read the NHGRI Twitter feeds without subscribing to them, users who want to subscribe to (or follow) NHGRI Twitter feeds must create a Twitter account at [www.twitter.com](http://www.twitter.com/).
+> NHGRI has three Twitter feeds - [@Genome_gov](http://twitter.com/#!/genome_gov), [@DNAday](http://twitter.com/#!/dnaday) and [@ENCODE_NIH](http://twitter.com/#!/ENCODE_NIH). We use Twitter to send short messages (up to 140 characters) or "tweets" to share information about NHGRI with our audiences and respond to comments and inquiries sent via Twitter to NHGRI. While users may read the NHGRI Twitter feeds without subscribing to them, users who want to subscribe to (or follow) NHGRI Twitter feeds must create a Twitter account at [www.twitter.com](http://www.twitter.com/).
 > 
 > To create an account, you must provide some personal information, such as name, user name, password and e-mail address. You have the option to provide additional personal information including a short biography, location or a picture. Most information you provide for a Twitter account is available to the public, but you can modify how much of your information is visible by changing your privacy settings at the Twitter.com website.
 > 
 > NHGRI staff members monitor the number of subscribers and respond to comments and queries via Twitter, but the staff never uses the personal information of their Twitter followers. NHGRI does not collect, maintain disclose, or share any information about people who follow NHGRI on Twitter. The Twitter privacy policy is available at: <http://twitter.com/privacy>.
 > 
-> ##### Scitable
+> ##### Livestream
 > 
-> NHGRI has two discussion groups on Scitable - [H3Africa Applicant Discussion](http://www.nature.com/scitable/groups/h3africa-applicant-discussion-group-22066126) and [NHGRI Genomic Medicine](http://www.nature.com/scitable/groups/nhgri-genomic-medicine-wg-59270238).  Scitable is a free online teaching/learning portal for scientists, researchers, educators, students and healthcare practitioners to share scientific knowledge and ideas. While users may read what is posted on the discussion groups without subscribing to them, those who want to participate must create a Scitable account.
+> NHGRI has a Livestream page - [GenomeTV](http://new.livestream.com/accounts/2556895). Livestream is a platform that allows NHGRI stream its live events over the internet, allowing users to watch the video from their computers, via a web browser, or their mobile devices. Livestream also enables NHGRI to embed streaming video on the genome.gov website. Users do not need to register with Livestream to view the streaming video. However, if users want to participate in the moderated chat room that accompanies a live streaming event, they will need to register and create an account. Users can register with either an e-mail address and password or an existing Facebook account.
 > 
-> To create an account, you must provide some personal information, such as: name, user name, password and e-mail address. You have the option to provide additional personal information including a short biography, your professional information, location or a photo/avatar. Some information you provide for a Scitable account is available to the public, but you can modify how much of your information is visible by changing your privacy settings on the Scitable website.
-> 
-> NHGRI staff members monitor the number of Scitable subscribers and responses to threaded discussion topics.  However, the staff never uses the personal information of their subscribers. NHGRI does not collect, maintain disclose, or share any information about people who subscribe to our groups on Scitable. The Scitable privacy policy is available at: <http://www.nature.com/scitable/privacyPolicy>. 
+> If you log on to the Livestream site before watching NHGRI videos, Livestream may associate information about your site use with your Livestream account. If you log on to Livestream and participate in the chat, any personal information you included when registering for your account might be visible to to other users. If you do not log in before watching NHGRI videos on Livestream, your site use will not be associated with you or a Livestream account. Livestream's privacy policy is available at: <http://livestream.com/terms/privacy>.  
+>   
 
 Top of page
 
-_Last Updated: September 12, 2012_
+_Last Updated: June 18, 2015_
