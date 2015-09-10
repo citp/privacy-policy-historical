@@ -1,29 +1,30 @@
-<!--The following is the downloaded HTML source of the sumhr.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630123652id_/http%3A//www.sumhr.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sumhr.com privacy policy that was archived on 2015-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910161257id_/https%3A//www.sumhr.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]--><!-- head --><head>
 
 <!-- meta -->
-<meta charset="UTF-8">
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-632.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIFVVNWGwcIVVlXAwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===f.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=u.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:f,features:{}};u.addEventListener?(u.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(u.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <title>Privacy Policy for sumHR software</title>
 
+
 <!-- stylesheet -->
-<link rel="stylesheet" href="http://www.sumhr.com/wp-content/themes/caffeine/style.css" media="all">
-<link rel="stylesheet" href="http://www.sumhr.com/wp-content/themes/caffeine/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.2.2" media="all">
-<link rel="stylesheet" href="http://www.sumhr.com/wp-content/themes/caffeine/css/responsiveslides.css?ver=1.2.2" media="all">
-<link rel="stylesheet" href="http://www.sumhr.com/wp-content/themes/caffeine/css/jcarousel/skin.css?ver=1.2.2" media="all">
-<link rel="stylesheet" href="http://www.sumhr.com/wp-content/themes/caffeine/css/ui/jquery.ui.all.css?ver=1.2.2" media="all">
-<link rel="stylesheet" href="http://www.sumhr.com/wp-content/themes/caffeine/css/responsive.css?ver=1.2.2" media="all">
-<link rel="stylesheet" href="http://www.sumhr.com/wp-content/themes/caffeine/style.php?ver=1.2.2" media="all">
-<link rel="stylesheet" href="http://www.sumhr.com/wp-content/themes/caffeine/style-colors.php?ver=1.2.2" media="all">
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,700">
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,700">
-<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,700">
+<link rel="stylesheet" href="https://www.sumhr.com/wp-content/themes/caffeine/style.css" media="all">
+<link rel="stylesheet" href="https://www.sumhr.com/wp-content/themes/caffeine/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.2.2" media="all">
+<link rel="stylesheet" href="https://www.sumhr.com/wp-content/themes/caffeine/css/responsiveslides.css?ver=1.2.2" media="all">
+<link rel="stylesheet" href="https://www.sumhr.com/wp-content/themes/caffeine/css/jcarousel/skin.css?ver=1.2.2" media="all">
+<link rel="stylesheet" href="https://www.sumhr.com/wp-content/themes/caffeine/css/ui/jquery.ui.all.css?ver=1.2.2" media="all">
+<link rel="stylesheet" href="https://www.sumhr.com/wp-content/themes/caffeine/css/responsive.css?ver=1.2.2" media="all">
+<link rel="stylesheet" href="https://www.sumhr.com/wp-content/themes/caffeine/style.php?ver=1.2.2" media="all">
+<link rel="stylesheet" href="https://www.sumhr.com/wp-content/themes/caffeine/style-colors.php?ver=1.2.2" media="all">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,700">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,700">
 <style>
 #Header #menu { position: absolute; bottom: 18px; right: 0; }
 #Header #menu > ul > li.current-menu-ancestor > { / }
-#Header #menu > ul > li ul, #Header #menu > ul > li.submenu.hover > a {color: #353535; background: url(http://www.sumhr.com/wp-content/uploads/2013/07/bg_green.jpg); border-radius: 4px; text-align: right;}
+#Header #menu > ul > li ul, #Header #menu > ul > li.submenu.hover > a {color: #353535; background: url(https://www.sumhr.com/wp-content/uploads/2013/07/bg_green.jpg); border-radius: 4px; text-align: right;}
 
 blockquote p { font-style: italic; margin-bottom: 5px; font-size: 16px; line-height: 24px; }
 blockquote p.author { font-style: normal; margin-bottom: 0; font-size: 14px}
@@ -32,34 +33,40 @@ blockquote p.author { font-style: normal; margin-bottom: 0; font-size: 14px}
 .aside_left .four { float: left; text-align: right;}
 .widget h4 { margin-bottom: 10px; margin-right: 12px;}
 	body, #Content, #Content .ui-tabs .ui-state-active { 
-		background: #EEE url("http://www.sumhr.com/wp-content/uploads/2013/04/middlebg.jpg") repeat scroll;
+		/*background: #EEE url("https://www.sumhr.com/wp-content/uploads/2013/04/middlebg.jpg") repeat scroll;*/
+
+background: #FFFFFF;
 }
 #Header.wide { 
-		background: #EEE url("http://www.sumhr.com/wp-content/uploads/2013/04/middlebg.jpg") repeat scroll;
+		/*background: #EEE url("https://www.sumhr.com/wp-content/uploads/2013/04/middlebg.jpg") repeat scroll;*/
+
+background: #FFFFFF;
 }
 	.widget ul.menu { 
-		background:  #EEE url("http://www.sumhr.com/wp-content/uploads/2013/04/middlebg.jpg") repeat scroll;
+		/*background:  #EEE url("https://www.sumhr.com/wp-content/uploads/2013/04/middlebg.jpg") repeat scroll;*/
+
+background: #FFFFFF;
 }
-#Slider { position:relative; height: auto; width:100%; float:left; overflow-x:hidden; background: url( http://www.sumhr.com/wp-content/uploads/2013/07/bg_gray_dark.jpg);}
-#Subheader { height: 100px; position: relative; z-index: 100; width:100%; float:left; background: url( http://www.sumhr.com/wp-content/uploads/2013/07/bg_gray_dark.jpg);}
+#Slider { position:relative; height: auto; width:100%; float:left; overflow-x:hidden; background: url( https://www.sumhr.com/wp-content/uploads/2013/07/bg_gray_dark.jpg);}
+#Subheader { height: 100px; position: relative; z-index: 100; width:100%; float:left; background: url( https://www.sumhr.com/wp-content/uploads/2013/07/bg_gray_dark.jpg);}
 	.widget ul.menu li a:hover {
 		color: #757575;
 	
-		background: url(http://www.sumhr.com/wp-content/uploads/2013/07/bg_green.jpg);
+		background: url(https://www.sumhr.com/wp-content/uploads/2013/07/bg_green.jpg);
 }
 #Call_to_action {
-		background: url(http://www.sumhr.com/wp-content/uploads/2013/07/bg_green.jpg);
+		background: url(https://www.sumhr.com/wp-content/uploads/2013/07/bg_green.jpg);
 	}
 .widget ul.menu li.current_page_item a, 
 .widget ul.menu li a:hover {
 		color: #757575;
-		background: url(http://www.sumhr.com/wp-content/uploads/2013/07/bg_green.jpg);
+		background: url(https://www.sumhr.com/wp-content/uploads/2013/07/bg_green.jpg);
 	}
 #Footer { 
-		background: url(http://www.sumhr.com/wp-content/uploads/2013/07/bg_gray_dark.jpg);
+		background: url(https://www.sumhr.com/wp-content/uploads/2013/07/bg_gray_dark.jpg);
 	}
 
-a.jcarousel-prev, a.jcarousel-next { width: 29px; height: 29px; position: absolute; top: 50%; margin-top: -14px; background: url(http://www.sumhr.com/wp-content/uploads/2013/07/bg_gray_dark.jpg) 0 0 no-repeat; text-indent:-9999px; cursor:pointer; z-index:2;}
+a.jcarousel-prev, a.jcarousel-next { width: 29px; height: 29px; position: absolute; top: 50%; margin-top: -14px; background: url(https://www.sumhr.com/wp-content/uploads/2013/07/bg_gray_dark.jpg) 0 0 no-repeat; text-indent:-9999px; cursor:pointer; z-index:2;}
 
 .easy-tooltip {
     border-bottom: 1px dotted #000000;
@@ -123,7 +130,6 @@ font-weight: 600;
 .post .date .month { font-weight: bold; font-size: 20px; line-height: 20px; }
 .post .date .year { display: block; width: 35px; height: 20px; text-align: center; line-height: 20px; position: absolute; right: 0; top: 2px; font-size: 11px; }
 
-
 .dc-social-float .dc-social-float-content {
 border-radius: 0px;
 -webkit-border-radius: 10px;
@@ -160,79 +166,114 @@ padding: 10px 0;
 border-bottom-width: 1px;
 margin-bottom: 0;
 }
+
+.widget_nav_menu {font-size: 12px;}
+
+.widget_nav_menu h3 {font-size: 14px;}
+
+div.table{
+    border-collapse: collapse;
+}
+
+
+
 </style>
 
 <!-- wp_head() -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+<style type="text/css">
+					#sthoverbuttons #sthoverbuttonsMain, .stMainServices {
+						-webkit-box-sizing: content-box !important;
+						-moz-box-sizing:    content-box !important;
+						box-sizing:         content-box !important;
+					}
+				</style><style type="text/css">
+					.no-break br {
+						display: none !important;
+					}
+			</style><script>
 //<![CDATA[
-var mfn_slider_args = { "timeout":5000, "auto":1, "pause":1, "controls":1 };
+var mfn_slider_args = { "timeout":5000, "auto":0, "pause":1, "controls":1 };
 //]]>
 </script>
 
 <!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
-	<meta name="description" content="Privacy Policy of sumHR HR Software, for HR Managment, HR Tracking, Payroll Managment, Enteprise Social Networking,HR Analysis etc.">
+	<meta name="description" content="Privacy Policy of sumHR HR Software, for HR Management, HR Tracking, Payroll Management, Enterprise Social Networking, HR Analysis etc.">
 	<meta name="keywords" content="HR tracking,HR Managment,HR analysis,HRM">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Privacy Policy for sumHR software">
 	<meta property="og:description" content="Privacy Policy of sumHR HR Software, for HR Managment, HR Tracking, Payroll Managment, Enterpreise Social Networking,HR Analysis etc.">
-	<meta property="og:url" content="http://www.sumhr.com/privacy-policy/">
+	<meta property="og:url" content="https://www.sumhr.com/privacy-policy/">
 	<meta property="og:site_name" content="sumHR - Free Employee Attendance, Leaves and Payroll Management Software.">
 	<meta name="twitter:card" content="summary">
+	<meta name="google-site-verification" content="GcM5sKTqBmly-PhJ93cUojEwtuJDShfMwBVZjK00C1w">
+	<meta name="msvalidate.01" content="E0C4FAC27C0FA98B373F28F5FCF97648">
 <!-- /SEO Ultimate -->
 
-<link rel="alternate" type="application/rss+xml" title="sumHR - Free Employee Attendance, Leaves and Payroll Management Software. » Feed" href="http://www.sumhr.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="sumHR - Free Employee Attendance, Leaves and Payroll Management Software. » Comments Feed" href="http://www.sumhr.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="sumHR - Free Employee Attendance, Leaves and Payroll Management Software. » Privacy Policy Comments Feed" href="http://www.sumhr.com/privacy-policy/feed/">
-<link rel="stylesheet" id="easy-tooltip-css" href="http://www.sumhr.com/wp-content/plugins/easy-tooltip/css/easy-tooltip.css?ver=1.0.0" type="text/css" media="all">
-<link rel="stylesheet" id="flick-css" href="http://www.sumhr.com/wp-content/plugins/mailchimp//css/flick/flick.css?ver=3.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="mailchimpSF_main_css-css" href="http://www.sumhr.com/?mcsf_action=main_css&amp;ver=3.7.3" type="text/css" media="all">
+<link rel="alternate" type="application/rss+xml" title="sumHR - Free Employee Attendance, Leaves and Payroll Management Software. » Feed" href="https://www.sumhr.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="sumHR - Free Employee Attendance, Leaves and Payroll Management Software. » Comments Feed" href="https://www.sumhr.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="sumHR - Free Employee Attendance, Leaves and Payroll Management Software. » Privacy Policy Comments Feed" href="https://www.sumhr.com/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.sumhr.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.sumhr.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.4" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="easy-tooltip-css" href="https://www.sumhr.com/wp-content/plugins/easy-tooltip/css/easy-tooltip.css?ver=1.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="flick-css" href="https://www.sumhr.com/wp-content/plugins/mailchimp//css/flick/flick.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="mailchimpSF_main_css-css" href="https://www.sumhr.com/?mcsf_action=main_css&amp;ver=4.2.4" type="text/css" media="all">
 <!--[if IE]>
-<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://www.sumhr.com/wp-content/plugins/mailchimp/css/ie.css?ver=3.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='https://www.sumhr.com/wp-content/plugins/mailchimp/css/ie.css?ver=4.2.4' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="dcwp_plugin_admin_dcscf_css-css" href="http://www.sumhr.com/wp-content/plugins/slick-contact-forms/css/admin.css?ver=3.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.sumhr.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="cab_style-css" href="http://www.sumhr.com/wp-content/plugins/custom-about-author/cab-style.css?ver=3.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="colorbox_style-css" href="http://www.sumhr.com/wp-content/plugins/form-lightbox/colorbox/style-1/colorbox.css?ver=3.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="wp_dlmp_styles-css" href="http://www.sumhr.com/wp-content/plugins/download-monitor/page-addon/styles.css?ver=3.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="socialize-css" href="http://www.sumhr.com/wp-content/plugins/socialize/frontend/css/socialize.css?ver=3.7.3" type="text/css" media="all">
-<script type="text/javascript" src="http://www.sumhr.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
+<link rel="stylesheet" id="amazing_hover_effects_css-css" href="https://www.sumhr.com/wp-content/plugins/amazing-hover-effects/css/ihover.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.sumhr.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="cab_style-css" href="https://www.sumhr.com/wp-content/plugins/custom-about-author/cab-style.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="colorbox_style-css" href="https://www.sumhr.com/wp-content/plugins/form-lightbox/colorbox/style-1/colorbox.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="authorsure-css" href="https://www.sumhr.com/wp-content/plugins/authorsure/styles/public.css?ver=2.3" type="text/css" media="all">
+<link rel="stylesheet" id="wp_dlmp_styles-css" href="https://www.sumhr.com/wp-content/plugins/download-monitor/page-addon/styles.css?ver=4.2.4" type="text/css" media="all">
+<script type="text/javascript" src="https://www.sumhr.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.2"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var mailchimpSF = {"ajax_url":"http:\/\/www.sumhr.com\/"};
+var mailchimpSF = {"ajax_url":"https:\/\/www.sumhr.com\/"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/plugins/mailchimp//js/datepicker.js?ver=3.7.3"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/plugins/form-lightbox/colorbox/jquery.colorbox-min.js?ver=1.4.33"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/plugins/slick-contact-forms/js/jquery.slick.contact.1.3.2.js?ver=3.7.3"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/themes/caffeine/js/fancybox/jquery.fancybox-1.3.4.js?ver=1.2.2"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/themes/caffeine/js/sliders/responsiveslides.js?ver=1.2.2"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/themes/caffeine/js/sliders/jquery.jcarousel.min.js?ver=1.2.2"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/themes/caffeine/js/jquery.isotope.min.js?ver=1.2.2"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/themes/caffeine/js/sliders/mfn-offer-slider.js?ver=1.2.2"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/themes/caffeine/js/mfn-menu.js?ver=1.2.2"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/themes/caffeine/js/portfolio.js?ver=1.2.2"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/themes/caffeine/js/scripts.js?ver=1.2.2"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-includes/js/comment-reply.min.js?ver=3.7.3"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/plugins/socialize/frontend/js/floating.js?ver=3.7.3"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/plugins/tweet2download/js/tweet2download.js?ver=3.7.3"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sumhr.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sumhr.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="About Us" href="http://www.sumhr.com/about-us/">
-<link rel="next" title="Security Safeguards" href="http://www.sumhr.com/security-safeguards/">
-<meta name="generator" content="WordPress 3.7.3">
-<link rel="canonical" href="http://www.sumhr.com/privacy-policy/">
-<link rel="shortlink" href="http://www.sumhr.com/?p=3743">
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.2"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/plugins/mailchimp//js/datepicker.js?ver=4.2.4"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/plugins/form-lightbox/colorbox/jquery.colorbox-min.js?ver=1.4.33"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/themes/caffeine/js/fancybox/jquery.fancybox-1.3.4.js?ver=1.2.2"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/themes/caffeine/js/sliders/responsiveslides.js?ver=1.2.2"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/themes/caffeine/js/sliders/jquery.jcarousel.min.js?ver=1.2.2"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/themes/caffeine/js/jquery.isotope.min.js?ver=1.2.2"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/themes/caffeine/js/sliders/mfn-offer-slider.js?ver=1.2.2"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/themes/caffeine/js/mfn-menu.js?ver=1.2.2"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/themes/caffeine/js/portfolio.js?ver=1.2.2"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/themes/caffeine/js/scripts.js?ver=1.2.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.sumhr.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.sumhr.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.4">
+<link rel="canonical" href="https://www.sumhr.com/privacy-policy/">
+<link rel="shortlink" href="https://www.sumhr.com/?p=3743">
 	<style type="text/css">
 	.download-info .download-button {
-		background-image: url(http://www.sumhr.com/wp-content/plugins/download-monitor/page-addon/downloadbutton.gif);
+		background-image: url(https://www.sumhr.com/wp-content/plugins/download-monitor/page-addon/downloadbutton.gif);
 	}
 	.download-info .more-button {
-		background-image: url(http://www.sumhr.com/wp-content/plugins/download-monitor/page-addon/morebutton.gif);
+		background-image: url(https://www.sumhr.com/wp-content/plugins/download-monitor/page-addon/morebutton.gif);
 	}
 	</style>
 	<script type="text/javascript">
@@ -268,26 +309,26 @@ var mailchimpSF = {"ajax_url":"http:\/\/www.sumhr.com\/"};
 
 		});
 	</script>
-	<meta property="og:title" content="Privacy Policy">
-<meta property="og:type" content="article">
-<meta property="og:url" content="http://www.sumhr.com/privacy-policy/">
-<meta property="og:site_name" content="sumHR - Free Employee Attendance, Leaves and Payroll Management Software.">
-<meta property="fb:page_id" content="on">
+	<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
+<script charset="utf-8" type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"1b006db4-a71a-4236-9f7c-94787289b93e","doNotCopy":false,"hashAddressBar":false,"doNotHash":false});var st_type="wordpress4.2.4";</script>
+<script charset="utf-8" type="text/javascript" src="https://ss.sharethis.com/loader.js"></script>
+<script charset="utf-8" type="text/javascript">
+var h_options={"publisher":"1b006db4-a71a-4236-9f7c-94787289b93e","position":"left","chicklets_params":{"twitter":{"st_via":"sumHR"},"instagram":{"st_username":""}},"chicklets":{"items":["facebook","twitter","linkedin","reddit","pocket","email","sharethis"]}};var st_hover_widget = new sharethis.widgets.hoverbuttons(h_options);
+</script>
 
 <!--[if lt IE 9]>
-<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <!--[if IE 7]>
-<link rel="stylesheet" href="http://www.sumhr.com/wp-content/themes/caffeine/css/ie7.css" />
+<link rel="stylesheet" href="https://www.sumhr.com/wp-content/themes/caffeine/css/ie7.css" />
 <![endif]-->
 
 <!--[if lt IE 8]>
-<link rel="stylesheet" href="http://www.sumhr.com/wp-content/themes/caffeine/css/ie8.css" />
+<link rel="stylesheet" href="https://www.sumhr.com/wp-content/themes/caffeine/css/ie8.css" />
 <![endif]-->
 
 
-	<link rel="stylesheet" href="http://www.sumhr.com/wp-content/plugins/slick-contact-forms/skin.php?widget_id=2&amp;skin=black" type="text/css" media="screen">
-	<link rel="stylesheet" href="http://www.sumhr.com/wp-content/plugins/slick-contact-forms/css/form.css" type="text/css" media="screen">
 <script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
 <script type="text/javascript">new HelloBar(24147,91854);</script>
 <script>
@@ -298,28 +339,18 @@ olark("api.box.expand");
 
 });
 </script>
-<style type="text/css" media="screen">.socialize-floating { margin-left: -120px; }</style><link rel="shortcut icon" href="http://www.sumhr.com/wp-content/uploads/2013/11/sumhr-favicon.ico" type="image/x-icon">	
+<link rel="shortcut icon" href="https://www.sumhr.com/wp-content/uploads/2013/11/sumhr-favicon.ico" type="image/x-icon">	
 
-<script> 
-_udn = "sumhr.com"; 
-</script> 
-<script type="text/javascript">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-4576752-7']);
-  _gaq.push(['_setDomainName', 'sumhr.com']);
-  _gaq.push(['_trackPageview']);
+  ga('create', 'UA-4576752-7', 'auto');
+  ga('send', 'pageview');
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script><script async="" type="text/javascript" src="//disqus.com/forums/sumhr/count.js"></script></head>
+</script></head>
 
 
 <!-- body -->
@@ -335,8 +366,8 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 					<div class="sixteen columns">
 						
 						<!-- #logo -->
-												<a id="logo" href="http://www.sumhr.com" title="sumHR – Free Employee Attendance, Leaves and Payroll Management Software.">
-							<img src="http://www.sumhr.com/wp-content/uploads/2012/12/sumhr-logo-1.png" alt="sumHR – Free Employee Attendance, Leaves and Payroll Management Software.">
+												<a id="logo" href="https://www.sumhr.com" title="sumHR – Free Employee Attendance, Leaves and Payroll Management Software.">
+							<img src="https://www.sumhr.com/wp-content/uploads/2012/12/sumhr-logo-1.png" alt="sumHR – Free Employee Attendance, Leaves and Payroll Management Software.">
 						</a>
 											
 						<!-- .social -->
@@ -346,35 +377,37 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 						<!-- search form -->
 												
 						<!-- main menu -->
-						<nav id="menu" class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-5663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5663"><a href="http://www.sumhr.com/why-choose-the-sumhr-software/">Why sumHR?</a></li>
-<li id="menu-item-3623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3623"><a href="http://www.sumhr.com/sumhr-features-overview/">Features</a></li>
-<li id="menu-item-4440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440"><a href="http://www.sumhr.com/customers-and-testimonials/">Customers</a></li>
-<li id="menu-item-3440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3440"><a href="http://www.sumhr.com/pricing-signup/">Pricing</a></li>
-<li id="menu-item-5766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5766"><a href="http://www.sumhr.com/hr-blog/">Resources</a>
+						<nav id="menu" class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-5663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5663"><a href="https://www.sumhr.com/why-choose-the-sumhr-software/">Why sumHR?</a></li>
+<li id="menu-item-3623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3623"><a href="https://www.sumhr.com/sumhr-features-overview/">Features</a></li>
+<li id="menu-item-8661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8661"><a href="https://www.sumhr.com/customers-and-testimonials/">Customers</a></li>
+<li id="menu-item-3440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3440"><a href="https://www.sumhr.com/pricing-signup/">Pricing</a></li>
+<li id="menu-item-5766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5766"><a href="https://www.sumhr.com/hr-blog/">Resources</a>
 <ul class="sub-menu">
-	<li id="menu-item-5775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5775"><a href="http://www.sumhr.com/hr-blog/">sumHR Blog</a></li>
-	<li id="menu-item-5935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5935"><a href="http://www.sumhr.com/ebooks/">HR eBooks</a></li>
+	<li id="menu-item-5775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5775"><a href="https://www.sumhr.com/hr-blog/">sumHR Blog</a></li>
+	<li id="menu-item-5935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5935"><a href="https://www.sumhr.com/ebooks/">HR eBooks</a></li>
+	<li id="menu-item-8959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8959"><a href="https://www.sumhr.com/coffee-break-newsletters/">Coffee Break – Newsletters</a></li>
 </ul>
 </li>
-<li id="menu-item-3842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3842"><a href="http://www.sumhr.com/about-us/">About</a>
+<li id="menu-item-3842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3842"><a href="https://www.sumhr.com/about-us/">About</a>
 <ul class="sub-menu">
-	<li id="menu-item-5774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5774"><a href="http://www.sumhr.com/about-us/">Company</a></li>
-	<li id="menu-item-5771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5771"><a href="http://www.sumhr.com/about-us/our-team/">Team</a></li>
-	<li id="menu-item-5773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5773"><a href="http://www.sumhr.com/work-culture/">Careers</a></li>
-	<li id="menu-item-5772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5772"><a href="http://www.sumhr.com/about-us/contact-us/">Contact</a></li>
+	<li id="menu-item-5774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5774"><a href="https://www.sumhr.com/about-us/">Company</a></li>
+	<li id="menu-item-5771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5771"><a href="https://www.sumhr.com/about-us/our-team/">Team</a></li>
+	<li id="menu-item-5773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5773"><a href="https://www.sumhr.com/work-culture/">Careers</a></li>
+	<li id="menu-item-5772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5772"><a href="https://www.sumhr.com/about-us/contact-us/">Contact</a></li>
 </ul>
 </li>
-</ul></nav><nav id="menu_responsive" class="menu-main-menu-container"><select id="menu-main-menu-1" class="menu dropdown-menu"><option value="" class="blank">- – Main menu – -</option><option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5663 menu-item-depth-0" value="http://www.sumhr.com/why-choose-the-sumhr-software/">Why sumHR?</option>
-<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3623 menu-item-depth-0" value="http://www.sumhr.com/sumhr-features-overview/">Features</option>
-<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4440 menu-item-depth-0" value="http://www.sumhr.com/customers-and-testimonials/">Customers</option>
-<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3440 menu-item-depth-0" value="http://www.sumhr.com/pricing-signup/">Pricing</option>
-<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5766 menu-item-depth-0" value="http://www.sumhr.com/hr-blog/">Resources</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5775 menu-item-depth-1" value="http://www.sumhr.com/hr-blog/">- - sumHR Blog</option>
-	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5935 menu-item-depth-1" value="http://www.sumhr.com/ebooks/">- - HR eBooks</option>
+</ul></nav><nav id="menu_responsive" class="menu-main-menu-container"><select id="menu-main-menu-1" class="menu dropdown-menu"><option value="" class="blank">– – Main menu – –</option><option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5663 menu-item-depth-0" value="https://www.sumhr.com/why-choose-the-sumhr-software/">Why sumHR?</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3623 menu-item-depth-0" value="https://www.sumhr.com/sumhr-features-overview/">Features</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8661 menu-item-depth-0" value="https://www.sumhr.com/customers-and-testimonials/">Customers</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3440 menu-item-depth-0" value="https://www.sumhr.com/pricing-signup/">Pricing</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5766 menu-item-depth-0" value="https://www.sumhr.com/hr-blog/">Resources</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5775 menu-item-depth-1" value="https://www.sumhr.com/hr-blog/">- - sumHR Blog</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5935 menu-item-depth-1" value="https://www.sumhr.com/ebooks/">- - HR eBooks</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8959 menu-item-depth-1" value="https://www.sumhr.com/coffee-break-newsletters/">- - Coffee Break – Newsletters</option>
 
-<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3842 menu-item-depth-0" value="http://www.sumhr.com/about-us/">About</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5774 menu-item-depth-1" value="http://www.sumhr.com/about-us/">- - Company</option>
-	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5771 menu-item-depth-1" value="http://www.sumhr.com/about-us/our-team/">- - Team</option>
-	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5773 menu-item-depth-1" value="http://www.sumhr.com/work-culture/">- - Careers</option>
-	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5772 menu-item-depth-1" value="http://www.sumhr.com/about-us/contact-us/">- - Contact</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3842 menu-item-depth-0" value="https://www.sumhr.com/about-us/">About</option>	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5774 menu-item-depth-1" value="https://www.sumhr.com/about-us/">- - Company</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5771 menu-item-depth-1" value="https://www.sumhr.com/about-us/our-team/">- - Team</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5773 menu-item-depth-1" value="https://www.sumhr.com/work-culture/">- - Careers</option>
+	<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5772 menu-item-depth-1" value="https://www.sumhr.com/about-us/contact-us/">- - Contact</option>
 
 </select></nav>						
 					</div>
@@ -386,7 +419,7 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 			<div class="container">
 				<div class="sixteen columns">
 					<h2>Privacy Policy</h2>
-											<a class="button" href="http://www.sumhr.com/privacy-policy/">TRY SUMHR FREE</a>
+											<a class="button" href="https://signup.sumhr.com">TRY SUMHR FREE</a>
 									</div>				
 			</div>					
 		</div>
@@ -404,14 +437,14 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 		<h2 style="text-align: center;"><span style="color: #9bc839;">Your Privacy Is Our Priority.</span></h2>
 <h4 style="text-align: center;">At sumHR, we are totally committed to ensure<br>
 <span style="color: #9bc839;">complete, unconditional privacy</span> of our customers.</h4>
-<p><strong>As a measure of transparency, we have outlined our Privacy Policy below for public reference. This Privacy Policy applies to the information collected from our Customers, and its usage on our platform (</strong><a href="http://www.sumhr.com/">sumHR.com</a><strong>).</strong></p>
+<p><strong>As a measure of transparency, we have outlined our Privacy Policy below for public reference. This Privacy Policy applies to the information collected from our Customers, and its usage on our platform (</strong><a href="https://www.sumhr.com/">sumHR.com</a><strong>).</strong></p>
 <p>From here on in this document, sumHR may be referred to as “we/us” and Customers may be referred to as “you/your”.</p>
 <ol>
 <li>When you register with us, we need different types of information such as your full name, company name, email address, office address, etc. We may also require a billing address along with the credit card/debit card/bank account information, if required, depending on whether you are using our free or paid services.</li>
 <li>We may use the information collected from you for purposes like order processing, billing/invoicing, improvement of services, market research, etc specifically related to sumHR, and other such general purposes.</li>
 <li>We guarantee we will not allow access to any information provided by you, to any other parties except for our authorized personnel. We will never sell, rent, exchange, or share your personal/professional information with any parties without explicit permission.</li>
 <li>We will use or share any collected information ONLY in order to respond to governmental/statutory authorities, with reference to any investigation, court orders, legal process, or to investigate, prevent, or take action regarding illegal activities, suspected fraud, or situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.</li>
-<li>Every piece of information provided by you through&nbsp;<a href="http://www.sumhr.com/">sumHR.com</a>&nbsp;will remain private and confidential, at all times.</li>
+<li>Every piece of information provided by you through&nbsp;<a href="https://www.sumhr.com/">sumHR.com</a>&nbsp;will remain private and confidential, at all times.</li>
 <li>We may also send welcome emails, billing emails to account holders, and at times send sumHR service related announcements. As a routine process of operating our business, we may send periodic emails to registered users for purpose of sharing valuable information about our service, and other general purpose related to usage of our software.</li>
 <li>We use “cookies” to store session information about your usage of our software. This is a popular and most commonly used technology which stores a small amount of data, which may include an anonymous unique identifier which is sent to your browser from our website and stored on your computer’s hard drive. During your usage of our software, we may set and access these cookies on your computer, to optimize your usage of our service.</li>
 <li>If and whenever we make any significant changes to this Privacy Policy, we will ensure timely notification everyone using our service. Generally, our notification will be sent to the primary account holder’s email ID. If needed, we may also place a prominent notice on our website to ensure appropriate visibility.</li>
@@ -427,9 +460,9 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 
             <div class="four columns widget-area" id="sideBar">
 
-                <aside id="nav_menu-2" class="widget widget_nav_menu"><h3>Legal Resources</h3><div class="menu-legal-resources-container"><ul id="menu-legal-resources" class="menu"><li id="menu-item-3781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3781"><a href="http://www.sumhr.com/security-safeguards/">SECURITY SAFEGUARDS</a></li>
-<li id="menu-item-3782" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3743 current_page_item menu-item-3782"><a href="http://www.sumhr.com/privacy-policy/">PRIVACY POLICY</a></li>
-<li id="menu-item-6367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367"><a href="http://www.sumhr.com/terms/">TERMS OF SERVICE</a></li>
+                <aside id="nav_menu-2" class="widget widget_nav_menu"><h3>Legal Resources</h3><div class="menu-legal-resources-container"><ul id="menu-legal-resources" class="menu"><li id="menu-item-3781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3781"><a href="https://www.sumhr.com/security-safeguards/">SECURITY SAFEGUARDS</a></li>
+<li id="menu-item-3782" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3743 current_page_item menu-item-3782"><a href="https://www.sumhr.com/privacy-policy/">PRIVACY POLICY</a></li>
+<li id="menu-item-6367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6367"><a href="https://www.sumhr.com/terms/">TERMS OF SERVICE</a></li>
 </ul></div></aside>
             </div>
 
@@ -473,8 +506,8 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 			
 			<div class="sixteen columns">
 				<div class="Call_to_action_inside clearfix">
-					<h3>Feature-full HR software for worry-free HR management.</h3>
-					<a class="button" href="/signup/">SIGNUP FOR 30-DAY FREE TRIAL</a>				</div>
+					<h3>No spreadsheets.  Hassle-free HR &amp; Payroll software.</h3>
+					<a class="button" href="https://signup.sumhr.com/">SIGNUP FOR 7-DAY FREE TRIAL</a>				</div>
 			</div>
 				
 		</div>			
@@ -490,12 +523,13 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 <a href="/about-us/our-team/">Our Team</a><br>
 <a href="/work-culture/">Careers</a><br>
 <a href="/about-us/contact-us/">Contact Us</a></div>
-		</aside><aside id="text-3" class="widget widget_text"><h4>Product</h4>			<div class="textwidget"><a href="/why-choose-the-sumhr-software/">Why Choose sumHR</a><br>
-<a href="/sumhr-features-overview/">Features Overview</a><br>
-<a href="/customers-and-testimonials/">Customers &amp; Testimonials</a><br>
-<a href="/pricing-signup/">Pricing &amp; Signup</a><br>
+		</aside><aside id="text-3" class="widget widget_text"><h4>Product</h4>			<div class="textwidget"><a href="https://www.sumhr.com/why-choose-the-sumhr-software/">Why Choose sumHR</a><br>
+<a href="https://www.sumhr.com/sumhr-features-overview/">Features Overview</a><br>
+<a href="https://www.sumhr.com/customers-and-testimonials/">Customers &amp; Testimonials</a><br>
+<a href="https://signup.sumhr.com/?utm_source=homepage&amp;utm_medium=button&amp;utm_campaign=free%20trial">Pricing &amp; Signup</a><br>
 </div>
-		</aside><aside id="text-6" class="widget widget_text"><h4>Resources</h4>			<div class="textwidget"><a href="http://support.sumhr.com">Support Helpdesk</a><br>
+		</aside><aside id="text-6" class="widget widget_text"><h4>Resources</h4>			<div class="textwidget"><a href="https://support.sumhr.com">Support Helpdesk</a><br>
+<a href="/hr-software-as-a-service-comparison/">HR Software Comparison</a><br>
 <a href="/hr-blog/">HR Blog</a><br>
 <a href="/ebooks/">HR eBooks</a><br>
 <a href="/privacy-policy/">Privacy Policy</a><br>
@@ -524,13 +558,12 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 <a href="/sumhr-features-overview/access-on-the-go-hr-software-with-responsive-design/">Works on Mobile &amp; Tabs</a><br>
 
 <a href="/sumhr-features-overview/simple-easy-use-hr-software-design/">New-age HR Technology</a><br></div>
-		</aside></div><div class="one-fourth column"><aside id="widget_mfn_recent_posts-2" class="widget widget_mfn_recent_posts"><h4>The sumHR Blog!</h4><div class="Latest_posts"><ul><li><div class="thumbnail"><span class="quantity_of_comments">0</span></div><div class="info"><h6><a href="http://www.sumhr.com/breaking-news-hr-longer-boring/">[Breaking News] HR is no longer boring!</a></h6><span class="date">May 22, 2014</span></div></li><li><div class="thumbnail"><span class="quantity_of_comments">14</span></div><div class="info"><h6><a href="http://www.sumhr.com/startup-entrepreneurs-india-aam-aadmi-party-aap/">Why Startup Entrepreneurs in India Are Crazy About Aam Aadmi Party (AAP)</a></h6><span class="date">April 23, 2014</span></div></li><li><div class="thumbnail"><span class="quantity_of_comments">1</span></div><div class="info"><h6><a href="http://www.sumhr.com/vcs-invest-hr-companies-vc-funding-startups/">Why VCs Don't Invest in HR Companies</a></h6><span class="date">April 14, 2014</span></div></li><li><div class="thumbnail"><span class="quantity_of_comments">1</span></div><div class="info"><h6><a href="http://www.sumhr.com/payroll-comp-off-account-page-automatic-division-paid-unpaid-leaves/">sumHR update: Payroll, Comp-off, Account Page, Automatic Division Of Paid/Unpaid Leaves</a></h6><span class="date">April 1, 2014</span></div></li></ul></div>
-</aside><aside id="text-15" class="widget widget_text"><h4>Follow us online!</h4>			<div class="textwidget"><h1 style="text-align: justify;"><span style="color: #353535;"><a title="sumHR's Tweets" href="https://twitter.com/sumhr" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://twitter.com/sumhr']);" target="blank"><i class="icon-twitter-sign"></i></a>&nbsp;&nbsp;
-<a title="Connect with sumHR on LinkedIn" href="http://www.linkedin.com/company/2196806" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.linkedin.com/company/2196806']);" target="blank"><i class="icon-linkedin-sign"></i></a>&nbsp;&nbsp;
-<a title="Connect with sumHR on Facebook" href="http://www.facebook.com/sumhr" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.facebook.com/sumhr']);" target="blank"><i class="icon-facebook-sign"></i></a>&nbsp;&nbsp;
-<a title="Connect with sumHR on Google+" href="https://plus.google.com/102307810825133603341" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://plus.google.com/102307810825133603341']);" target="blank"><i class="icon-google-plus-sign"></i></a></span></h1></div>
-		</aside></div><div class="one-fourth column"><aside id="text-11" class="widget widget_text"><h4>Subscribe via Email</h4>			<div class="textwidget"><div class="textwidget"><h5><span class="highlight" style="background-color:#9BC839; color:#F0F0ED; ">Get Free HR Knowledge</span>
-</h5>
+		</aside></div><div class="one-fourth column"><aside id="widget_mfn_recent_posts-2" class="widget widget_mfn_recent_posts"><h4>The sumHR Blog!</h4><div class="Latest_posts"><ul><li><div class="thumbnail"><span class="quantity_of_comments">0</span></div><div class="info"><h6><a href="https://www.sumhr.com/why-startups-smes-neglect-hr-recruitment/">Why Startups and SMEs Neglect HR and Recruitment</a></h6><span class="date">September 7, 2015</span></div></li><li><div class="thumbnail"><span class="quantity_of_comments">0</span></div><div class="info"><h6><a href="https://www.sumhr.com/build-great-linkedin-network/">How to Build a Great LinkedIn Network</a></h6><span class="date">September 1, 2015</span></div></li><li><div class="thumbnail"><span class="quantity_of_comments">0</span></div><div class="info"><h6><a href="https://www.sumhr.com/update-online-leave-management-system-unpaid-leaves/">Update for sumHR's Online Leave Management System: Unpaid Leave Type</a></h6><span class="date">August 4, 2015</span></div></li><li><div class="thumbnail"><span class="quantity_of_comments">1</span></div><div class="info"><h6><a href="https://www.sumhr.com/hr-manager-hilarious-video/">If You Are An HR Manager In India, You Can't Afford To Miss This Hilarious Video</a></h6><span class="date">July 6, 2015</span></div></li><li><div class="thumbnail"><span class="quantity_of_comments">0</span></div><div class="info"><h6><a href="https://www.sumhr.com/employer-branding-employee-marketing/">How to build the ultimate employer brand and create a loyal workforce</a></h6><span class="date">June 26, 2015</span></div></li></ul></div>
+</aside><aside id="text-15" class="widget widget_text"><h4>Follow us online!</h4>			<div class="textwidget"><p style="text-align: justify;"><span style="color: #353535; font-size:40px;"><a title="sumHR's Tweets" href="https://twitter.com/sumhr" target="blank"><i class="icon-twitter-sign"></i></a>&nbsp;&nbsp;
+<a title="Connect with sumHR on LinkedIn" href="https://www.linkedin.com/company/2196806" target="blank"><i class="icon-linkedin-sign"></i></a>&nbsp;&nbsp;
+<a title="Connect with sumHR on Facebook" href="https://www.facebook.com/sumhr" target="blank"><i class="icon-facebook-sign"></i></a>&nbsp;&nbsp;
+<a title="Connect with sumHR on Google+" href="https://plus.google.com/107628278756501099189/posts" target="blank"><i class="icon-google-plus-sign"></i></a></span></p></div>
+		</aside></div><div class="one-fourth column"><aside id="text-11" class="widget widget_text"><h4>Free HR Knowledge</h4>			<div class="textwidget"><div class="textwidget">
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="http://sumhr.us2.list-manage.com/subscribe/post?u=55d6d6a145fd9128d7360cf2c&amp;id=d6466f4746" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
@@ -554,50 +587,13 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 </form>
 </div>
 <!--End mc_embed_signup--></div>
-		</div></aside><aside id="text-16" class="widget widget_text"><h4>Secured &amp; Certified</h4>			<div class="textwidget"><img src="http://www.sumhr.com/wp-content/uploads/2013/11/RapidSSL_SEAL-90x50.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</div></aside><aside id="text-16" class="widget widget_text"><h4>Secured &amp; Certified</h4>			<div class="textwidget"><img src="https://www.sumhr.com/wp-content/uploads/2013/11/RapidSSL_SEAL-90x50.gif" alt="secured-by-rapid-ssl">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.chargebee.com/?utm_source=partner&amp;utm_medium=badge&amp;utm_campaign=billingpartner" onclick="javascript:_gaq.push(['_trackEvent','outbound-widget','http://www.chargebee.com/?utm_source=partner&amp;utm_medium=badge&amp;utm_campaign=billingpartner']);" target="_blank" style="display:inline-block; background:#6f9abc; height:40px; width:100px;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;"><img src="//www.chargebee.com/static/external_ref/cb-partner-white.png"></a>
-<br>
-<img src="http://www.sumhr.com/wp-content/uploads/2013/11/credity-sumhr-1.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.sumhr.com/wp-content/uploads/2015/06/credity-sumhr-11.png" alt="sumhr-credity">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+ <a href="http://www.softwaresuggest.com/sumhr" target="_blank"><img src="http://www.softwaresuggest.com/imagesReviews/4star.png" alt="sumhr at softwaresuggest" title="sumHR 4 star rating on SoftwareSuggest.com"></a> 
 </div>
-		</aside>		<div class="dcjq-contact" id="dc_jqslickcontact_widget-2-item">
-		
-		
-			<form class="slick-form" method="post" action="http://www.sumhr.com/wp-content/plugins/slick-contact-forms/slick_mail.php">
-			  <fieldset>
-			    <ol>
-				  <li class="comment-row">Hi there! We would love to give you a demo of sumHR. Just fill out these details and we'll schedule it right away!</li>									  <li class="input-row">
-				    <label for="input1">Name</label>
-					<input class="required defaultText text-input" id="input1" name="input1" value="" title="Name">
-					<input type="hidden" name="valid1" value="1">
-				  </li>
-				    									  <li class="input-row">	
-				    <label for="input2">Official Email</label>
-					<input class="required defaultText text-input" id="input2" name="input2" value="" title="Official Email">
-					<input type="hidden" name="valid2" value="1">
-				  </li>
-				  				  				  <li class="input-row">	
-				    <label for="input3">Contact Number</label>
-					<input class="required defaultText text-input" id="input3" name="input3" value="" title="Contact Number">
-					<input type="hidden" name="valid3" value="1">
-				  </li>
-				  				  				  <li class="text-row">	
-				    <label for="dcscf-comments">Please leave your note here. Are you looking for any specific features in your HR software? </label>
-					<textarea id="dcscf-comments" name="comments" class="defaultText text-area" rows="6" title="Please leave your note here. Are you looking for any specific features in your HR software? "></textarea>
-				  </li>
-				  				  <li class="nocomment">
-					<label for="nocomment">Leave This Field Empty</label>
-					<input id="nocomment" value="" name="nocomment">
-				  </li>
-				  				  <li class="button-row">
-					<input type="submit" name="submit" value="Schedule My Demo" class="btn-submit">
-					<input type="hidden" name="key" value="898682edc1250afb10361c24d6e5d8bf"><input type="hidden" name="label1" value="Name"><input type="hidden" name="label2" value="Official Email"><input type="hidden" name="label3" value="Contact Number"><input type="hidden" name="labelText" value="Please leave your note here. Are you looking for any specific features in your HR software? "><input type="hidden" name="tabText" value="SCHEDULE FREE DEMO"><input type="hidden" name="emailTo" value="jay@sumhr.com"><input type="hidden" name="action" value="submit"><input type="hidden" name="v_error" id="v-error" value="Required"><input type="hidden" name="v_email" id="v-email" value="Enter a valid email">				  </li>
-				</ol>
-			  </fieldset>
-			  <div class="slick-response"></div>
-			</form>
-		<div class="dc-corner"><span></span></div>		</div>
-		</div>
+		</aside></div>
 	</div>
 </footer>	
 <!-- Copy -->
@@ -606,10 +602,10 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 		
 		<div class="fourteen columns">
 			<h4>About sumHR</h4>
-<p span="" style="color: #F0F0ED;">sumHR is a web-based HR management software with powerful communication &amp; collaboration tools. It's an ideal application for growing companies with the need to streamline HR processes and enable employee engagement within the organization. Using sumHR, an organization can aggregate all employee data, monitor attendance, track leaves, automate payroll processes, organize information sharing, and enable teams to collaborate in a more efficient way – all on one platform.<br>
+<p span="" style="color: #F0F0ED;">sumHR is a web-based HR management and Payroll software with powerful communication &amp; collaboration tools. It's an ideal application for growing companies with the need to streamline HR processes and enable employee engagement within the organization. Using sumHR, an organization can aggregate all employee data, monitor attendance, track leaves, automate payroll processes, organize information sharing, and enable teams to collaborate in a more efficient way – all on one platform.<br>
 sumHR is an attempt to rid companies from all things inefficient, unscalable and “un-cool” in their organizations.<br><br>
 <span style="color: #9BC839;">sumHR is lovingly built by a pan-Indian team in Mumbai (formerly Bombay), India.</span></p>
-© 2013 All Rights Reserved. Powered by <a href="http://www.sumhr.com">sumHR</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/sitemap">sumHR Sitemap</a> | <a href="/terms">sumHR Terms of Service</a>	
+© 2015 All Rights Reserved. Powered by <a href="https://www.sumhr.com">sumHR</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/sitemap">sumHR Sitemap</a> | <a href="/terms">sumHR Terms of Service</a>	
 		</div>
 		
 		<div class="two columns">
@@ -620,27 +616,6 @@ sumHR is an attempt to rid companies from all things inefficient, unscalable and
 </footer>
 
 <!-- wp_footer() -->
-    <script type="text/javascript">
-    // <![CDATA[
-        var disqus_shortname = 'sumhr';
-        (function () {
-            var nodes = document.getElementsByTagName('span');
-            for (var i = 0, url; i < nodes.length; i++) {
-                if (nodes[i].className.indexOf('dsq-postid') != -1) {
-                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
-                    url = nodes[i].parentNode.href.split('#', 1);
-                    if (url.length == 1) url = url[0];
-                    else url = url[1]
-                    nodes[i].parentNode.href = url + '#disqus_thread';
-                }
-            }
-            var s = document.createElement('script'); s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-    //]]>
-    </script>
 	<!-- Added via WebEngage Wordpress Plugin 2.0.1 -->
 	<script type="text/javascript" async="" src="//ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
 	  var _weq = _weq || {};
@@ -662,50 +637,24 @@ sumHR is an attempt to rid companies from all things inefficient, unscalable and
 		for ( i=0; i<dropdowns.length; i++ )
 			dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
 	</script>
-				
-			<script type="text/javascript">
-				jQuery(document).ready(function($){
-					var config = {
-						method: 'stick',
-						event: 'click',
-						classWrapper: 'dc-contact-stick',
-						classContent: 'dc-contact-content',
-						width: 250,
-						location: 'right',
-						align: 'top',
-						speedContent: 600,
-						speedFloat: 1500,
-						offsetLocation: 50,
-						offsetAlign: 50,
-						autoClose: true,
-						tabText: 'SCHEDULE FREE DEMO',
-						idWrapper: 'dc-contact-2',
-						animateError: true,
-						loadOpen: false,
-						ajaxSubmit: true						
-					};
-					if(!jQuery().dcSlickContact) {
-						$.getScript("http://www.sumhr.com/wp-content/plugins/slick-contact-forms/js/jquery.slick.contact.1.3.2.js", function(){
-							jQuery('#dc_jqslickcontact_widget-2-item').dcSlickContact(config);
-						}); 
-					} else {
-						jQuery('#dc_jqslickcontact_widget-2-item').dcSlickContact(config);
-					}
-				});
-				
-			</script>
-		
-			<div id="su-footer-links" style="text-align: center;"></div><script type="text/javascript" src="http://www.sumhr.com/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.3"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-includes/js/jquery/ui/jquery.ui.mouse.min.js?ver=1.10.3"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-includes/js/jquery/ui/jquery.ui.sortable.min.js?ver=1.10.3"></script>
+	<div id="su-footer-links" style="text-align: center;"></div><script type="text/javascript" src="https://www.sumhr.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.sumhr.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+var _wpcf7 = {"loaderUrl":"https:\/\/www.sumhr.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.3"></script>
-<script type="text/javascript" src="http://www.sumhr.com/wp-includes/js/jquery/ui/jquery.ui.accordion.min.js?ver=1.10.3"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.1"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-includes/js/comment-reply.min.js?ver=4.2.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"sumhr"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.sumhr.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.2.4"></script>
 	
-
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"da378c9640","applicationID":"4818541","transactionName":"YFNWbEBXXRJXBUQPWlkZdVtGX1wPGRZRAVA=","queueTime":0,"applicationTime":904,"ttGuid":"","agentToken":"","atts":"TBRVGghNThw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script>
 </body></html>
