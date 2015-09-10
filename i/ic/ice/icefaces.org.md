@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icefaces.org privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503134316id_/http%3A//www.icesoft.org/java/about/privacy-policy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icefaces.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910064415id_/http%3A//www.icesoft.org/java/about/privacy-policy.jsf) for the most accurate reproduction.*
 
 # Privacy Policy - ICEsoft Technologies
 
@@ -95,11 +95,11 @@ ICEsoft.org contains links to other sites. We do not control neither the informa
 
 **HOW TO UPDATE PERSONAL DATA**
 
-If you need to update any aspect of your personal data, please [contact us.](https://web.archive.org/web/20150503134316id_/http%3A//www.icesoft.org/java/about/contact-us.jsf) We will do our best to get the changes you want made into our data base as quickly as possible. 
+If you need to update any aspect of your personal data, please [contact us.](https://web.archive.org/web/20150910064415id_/http%3A//www.icesoft.org/java/about/contact-us.jsf) We will do our best to get the changes you want made into our data base as quickly as possible. 
 
 **CONTACT ICESOFT**
 
-If you have any questions about any of these practices, please feel free to [contact us.](https://web.archive.org/web/20150503134316id_/http%3A//www.icesoft.org/java/about/contact-us.jsf)
+If you have any questions about any of these practices, please feel free to [contact us.](https://web.archive.org/web/20150910064415id_/http%3A//www.icesoft.org/java/about/contact-us.jsf)
 
 **CHANGES TO THIS PRIVACY POLICY**
 
