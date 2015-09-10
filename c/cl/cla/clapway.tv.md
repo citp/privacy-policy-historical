@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clapway.tv privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231080144id_/http%3A//clapway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clapway.tv privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910213155id_/http%3A//clapway.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Clapway
 
