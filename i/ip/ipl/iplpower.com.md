@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplpower.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325155059id_/https%3A//www.iplpower.com/Home/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplpower.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910072723id_/https%3A//www.iplpower.com/Home/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indianapolis Power & Light Company
 
@@ -45,4 +45,4 @@ Any changes to this IPL policy will be posted on the Web site. IPL reserves the 
 
 IPL customers can update their contact information by calling us at (317) 261-8222 or sending an e-mail message to [CustomerServices@aes.com](mailto:CustomerServices@aes.com). You must include your IPL account number to change information.
 
-For more detailed contact information, click [here](https://web.archive.org/content.aspx?id=741 "Contact Us").
+For more detailed contact information, click [here](https://web.archive.org/Home/Contact_Us/ "here").
