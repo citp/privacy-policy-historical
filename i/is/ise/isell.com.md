@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isell.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316180716id_/http%3A//www.isell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isell.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910152215id_/http%3A//www.isell.com/privacy) for the most accurate reproduction.*
 
 # Free Classifieds - Post Free Ads at iSell.com for cars, boats, real estate, jobs and more!
 
