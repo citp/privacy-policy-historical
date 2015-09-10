@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ymlp.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616092454id_/http%3A//www.ymlp.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymlp.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910124810id_/https%3A//www.ymlp.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - YMLP
 
