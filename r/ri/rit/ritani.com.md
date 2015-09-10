@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ritani.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318231803id_/https%3A//www.ritani.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritani.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910084955id_/https%3A//www.ritani.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ritani
 
@@ -22,7 +22,7 @@ This Privacy Policy was last updated on October 9th, 2013
 
 ## Our Policy
 
-Welcome to the web site (the "Site") of Electronic Commodities Exchange, L.P. (d/b/a Ritani) ( **"Ritani"** , "we", "us" and/or "our"). This Site is operated by Ritani and has been created to enable purchases of diamonds, bridal and other fine jewelry and to provide information about our organization (the **"Ritani Services"** ) to our Site visitors ("you", "your"). This Privacy Policy sets forth Ritani's policy with respect to information including personally identifiable data (including, by way of example, name, address, preferences, credit card number, favorite items, favorite local jeweler, billing and shipping addresses) ( **"Personal Data"** ) and other information that is collected from Site visitors.
+Welcome to the web site (the "Site") of Electronic Commodities Exchange, L.P. (d/b/a Ritani) ( **"Ritani"** , "we", "us" and/or "our"). This Site is operated by Ritani and has been created to enable purchases of diamonds, bridal and other fine jewelry and to provide information about our organization (the **"Ritani Services"** ) to our Site visitors ("you", "your"). This Privacy Policy sets forth Ritani's policy with respect to information including personally identifiable data (including, by way of example, name, address, preferences, credit card number, Wish List items, favorite local jeweler, billing and shipping addresses) ( **"Personal Data"** ) and other information that is collected from Site visitors.
 
 ## Information we collect
 
