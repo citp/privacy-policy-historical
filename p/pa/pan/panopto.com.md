@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602041656id_/http%3A//panopto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910150651id_/http%3A//panopto.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Panopto Video Platform
 
