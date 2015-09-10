@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subagames.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629091728id_/https%3A//subagames.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subagames.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910164234id_/https%3A//subagames.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # SUBA GAMES- DOWNLOAD FREE ONLINE GAMES , CROSSFIRE, MMORPG, MMO, RTS,FPS
 
@@ -15,9 +15,10 @@ Suba Games reserves the right to change rules and/or add new rules at any time. 
 If you have any questions or comments, kindly contact Suba Games at the following address:
 
 Attention: Privacy Policy Concern/Question  
-885 Don Mills Road, Suite 200  
+105 Gordon Baker Rd.  
+Suite 520  
 Toronto, Ontario, Canada  
-M3C 1V9
+M2H 3P8
 
 **RULES AND REGULATIONS**
 
@@ -250,7 +251,7 @@ By using any third party services to log in to your SubaGames.com account or acc
 SubaGames.com’s content, including forums contests, products, services, newsletters and communications that we send to our users, may contain links to content provided by third-parties. For example, our communications may contain links to third party merchants from whom you may purchase products. To purchase products from these third party merchants, you may be required to provide Personal Information, including your credit card or other payment information. 
 
 **[23.0] Enforcement**  
-SubaGames.com regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or SubaGames.com's treatment of Personal Information by contacting us through this Site at privacy@subagames.com.com or by writing to us at Privacy Group, c/o Wicked Interactive Ltd, 885 Don Mills Road, Suite 200, Toronto, Ontario M3C 1V9, Canada. When SubaGames.com receives a formal written complaint at this address, it is SubaGames.com's policy to contact the complaining party regarding his or her concerns. SubaGames.com will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by SubaGames.com and an individual. 
+SubaGames.com regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Policy or SubaGames.com's treatment of Personal Information by contacting us through this Site at privacy@subagames.com.com or by writing to us at Privacy Group, c/o Wicked Interactive Ltd., 105 Gordon Baker Rd., Suite 520, Toronto, Ontario M2H 3P8, Canada. When SubaGames.com receives a formal written complaint at this address, it is SubaGames.com's policy to contact the complaining party regarding his or her concerns. SubaGames.com will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved by SubaGames.com and an individual. 
 
 **[24.0] No Error Free Performance**  
 SubaGames.com does not guarantee error-free performance under this Privacy Policy. SubaGames.com will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when SubaGames.com learns of any failure to comply with our Privacy Policy. SubaGames.com shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the Province of Ontario and the Canada, to the extent applicable. 
