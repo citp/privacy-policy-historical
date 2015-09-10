@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insomniac.com privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614033328id_/http%3A//www.insomniac.com/insomniac-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insomniac.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910081625id_/https%3A//www.insomniac.com/insomniac-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Insomniac
 
@@ -8,7 +8,7 @@ Effective July 20, 2012 (last updated October 08, 2013)
 
 **This Privacy Policy applies to the sites and apps where it appears.**
 
-This Policy describes how we treat personal information we collect both online and offline. This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our [Canadian Privacy Policy](http://www.insomniac.com/insomniac-privacy-policy-canada).
+This Policy describes how we treat personal information we collect both online and offline. This includes on our websites or in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our [Canadian Privacy Policy](https://web.archive.org/insomniac-privacy-policy-canada).
 
 **We collect information from and about you.**
 
@@ -59,7 +59,7 @@ To exercise your rights, you can [email us](mailto:info@insomniac.com) or writ
 
 Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:info@insomniac.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
 
-Parents, you can also learn more about how to protect children's privacy online  _here_.
+Parents, you can also learn more about how to protect children's privacy online [ _here_](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy).
 
 **We use standard security measures.**
 
