@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rodalewellness.com privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628000414id_/http%3A//www.rodaleinc.com/your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodalewellness.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910161106id_/http%3A//www.rodale.com/corp/sub/0%2C%2C1-28%2C00.html) for the most accurate reproduction.*
 
 # Your Privacy Policy | Rodale Inc
 
@@ -8,7 +8,7 @@ June 26, 2015
 
 Protecting Your Privacy and Servicing Your Needs
 
-Rodale and its subsidiaries, (together "Rodale") the world's leading healthy lifestyle company, publishes some of the best-known health and wellness lifestyle magazines, including _Prevention_ , _Men's Health_ , _Women's Health_ , _Runner's World_ , _Running Times_ , _Bicycling_ , and _Organic Gardening_ , and is one of the largest independent book publishers in the United States. Rodale brings you the ideas, insights, and information that inspire and enable people to improve their lives and the world around them. 
+Rodale and its subsidiaries, (together "Rodale") the world's leading healthy lifestyle company, publishes some of the best-known health and wellness lifestyle magazines, including _Prevention_ , _Men's Health_ , _Women's Health_ , _Runner's World_ , _Running Times_ , _Bicycling_ , and _Rodale's Organic Life_ , and is one of the largest independent book publishers in the United States. Rodale brings you the ideas, insights, and information that inspire and enable people to improve their lives and the world around them. 
 
 [](http://www.menshealth.com/) | [](http://www.prevention.com/) | [](http://www.womenshealthmag.com/)  
 ---|---|---  
