@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the softchalkcloud.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315021305id_/https%3A//www.softchalkcloud.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the softchalkcloud.com privacy policy that was archived on 2015-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910060214id_/https%3A//www.softchalkcloud.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
         <title>SoftChalk CLOUD</title>
@@ -860,9 +860,18 @@
                     <input type="hidden" class="connect-hide-notification-url" value="/api/notification/hide">
                     
     
-    <div class="connect-notification-wrapper hidden ">
+    <div class="connect-notification-wrapper  ">
         <table class="connect-notification-table">
-        </table>
+                        <tbody><tr class="connect-notification-text-wrapper connect-jquery-ui-theme-softchalk  connect-notification-id-jeNibnX0Yg">
+                            <td class="connect-notification-icon-wrapper">
+                                
+                                <span class="ui-icon ui-icon-gear connect-notification-icon">&nbsp;</span>
+                            </td>
+                            <td class="connect-notification-text">
+                                SoftChalk will be performing scheduled maintenance and upgrades between the hours of 4:00 PM EDT and 5:00 PM EDT on Sunday, September 13.  The site may be unavailable at times during this period.  We apologize for any inconvenience.
+                            </td>
+                        </tr>
+        </tbody></table>
     </div>
 
                     
@@ -1001,12 +1010,100 @@
             <!-- End Page Footer -->
         </div>
         <div class="connect-modal-dialog-wrapper">
+            <div class="connect-jquery-ui-theme-softchalk web-launch-disabled-message-wrapper" style="display:none;">
+                <div title="Web Launch Disabled" class="web-launch-disabled-message">
+                <p>
+                    We’re sorry, but the browser version you are running no longer supports launching
+                    Create directly from this menu option.
+                </p>
+                <p>
+                    You could try again with a different browser.
+                </p>
+                <p>
+                    Another solution would be to
+                    <a href="http://softchalk.com/softchalk-create-local-launch/">
+                        click here to download and install SoftChalk Create Local Launch.
+                    </a>
+                    Once installed, you can run Create directly from a Local Launch desktop icon.
+                    With Local Launch, you can work online or offline.
+                </p>
+                </div>
+            </div>
             <div class="connect-modal-dialog-background"></div>
             <div class="connect-modal-dialog-container"></div>
         </div>
         <script type="text/javascript" src="/assets/softchalk/scripts/layout/connect.min.js"></script>
-        
-        
+        <script type="text/javascript">
+            window.scns = window.scns || {};
+            window.scns.user_agent_instructions = [];
+                (function() {
+                    var match = navigator.userAgent.match(/chrome\/(\d+)/i);
+                    if (match) {
+                        var version = +match[1];
+                        var keep = true;
+                        keep &= 45 <= version;
+                        if (keep) {
+                            window.scns.user_agent_instructions.push('disable-npapi');
+                        }
+                    }
+                })();
+                (function() {
+                    var match = navigator.userAgent.match(/^(?:(?!chrome).)*safari\/([^\.]*)(?:(?!arora).)*/i);
+                    if (match) {
+                        var version = +match[1];
+                        var keep = true;
+                        if (keep) {
+                            window.scns.user_agent_instructions.push('disable-npapi');
+                        }
+                    }
+                })();
+            $(document).ready(function(){
+                if(window.scns.user_agent_instructions.indexOf('disable-npapi') != -1) {
+                    function open_weblaunch_disabled_dlg(){ $(".web-launch-disabled-message").dialog("open"); return false; }
+                    var el = $('a[href="/lesson/new/jnlp"]');
+                    el[0].href = 'javascript:void(0);';
+                    el.click(open_weblaunch_disabled_dlg);
+                    $('.connect-options-menu-list-item-link.new-lesson').click(open_weblaunch_disabled_dlg);
+                    $('.connect-options-menu-list-item-link.open-element-action').click(open_weblaunch_disabled_dlg);
+                    var dlg = $(".web-launch-disabled-message").dialog({
+                        autoOpen : false,
+                        width : 650,
+                        height : 180,
+                        modal : true,
+                        resizable : false,
+                        position : ["center", "center"],
+                        draggable : false,
+                        closeOnEscape : false,
+                        buttons : { "Close" : function(){ $(this).dialog("close"); } },
+                        create : function() {
+                            $(".connect-modal-dialog-container").append(
+                                    $(".web-launch-disabled-message-wrapper").append($(this).parent())
+                            );
+                        },
+                        open : function() {
+                            $(".connect-modal-dialog-background").addClass("connect-jquery-ui-theme-softchalk").append(
+                                    $(".connect-body-container > .ui-widget-overlay:first")
+                            );
+                            $(".connect-modal-dialog-wrapper").show();
+                            $(".web-launch-disabled-message-wrapper").show();
+                            centerModalDialog($(".web-launch-disabled-message").dialog("widget"));
+                        },
+                        close : function() {
+                            $(".connect-modal-dialog-background").removeClass("connect-jquery-ui-theme-softchalk");
+                            $(".connect-modal-dialog-wrapper").hide();
+                            $(".web-launch-disabled-message-wrapper").hide();
+                        }
+                    }).dialog("widget");
+                    $(window).resize(function(){
+                        centerModalDialog(dlg);
+                    }).scroll(function(){
+                        centerModalDialog(dlg);
+                    });
+                }
+            })
+        </script>
+
+
     
 
 
