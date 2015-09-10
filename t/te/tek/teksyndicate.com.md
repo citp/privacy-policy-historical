@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teksyndicate.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319165944id_/http%3A//teksyndicate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teksyndicate.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910192635id_/http%3A//teksyndicate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tek Syndicate
 
