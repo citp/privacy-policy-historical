@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the engrade.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408182726id_/http%3A//wikis.engrade.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engrade.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910124517id_/https%3A//help.engrade.com/hc/en-us/articles/204397694-Privacy-Policy) for the most accurate reproduction.*
 
-# Engrade Free Gradebook Help - Privacy Policy
+# Privacy Policy – Engrade
 
 Engrade, Inc. (“Company”) is committed to protecting your privacy. This privacy policy (“Policy”) applies to users of the Company’s service (the “Service”) available through our websites, including www.engrade.com, and www.engradepro.com (collectively, “Sites”). This Policy generally applies to users of our Services who are age 13 or older. For users under age 13, please refer to our Children’s Privacy Policy available at: www.engrade.com. This Policy does not apply to websites, applications or services that do not display or link to this statement or that display or link to different privacy statements.
 
@@ -8,7 +8,7 @@ TYPES OF DATA WE COLLECT
 Information You Provide  
 We collect information about you in various ways when you use our Services. We collect personal information you provide to us. For example, we collect your name, email address, grade level, and any other information you provide when you register for an account on our Services. We may also collect any information you provide us, such as your test answers, grades, and class schedule. We may also obtain information from other sources and combine that with information we collect on our Services. 
 
-We may request that you provide your age information, including your date of birth to customize our Services’ content and other features. If your child identifies himself or herself as under the age of 13, please see our Children’s Privacy Policy here <https://wikis.engrade.com/help/childrenprivacypolic> for a description of how we collect, use and share information we collect from children under the age of 13.
+We may request that you provide your age information, including your date of birth to customize our Services’ content and other features. If your child identifies himself or herself as under the age of 13, please see our Children’s Privacy Policy [**here**](https://web.archive.org/hc/en-us/articles/204631340-Children-s-Privacy-Policy) for a description of how we collect, use and share information we collect from children under the age of 13.
 
 Information Your School and Teachers Provide  
 Our Services allow schools, school districts, teachers and other educational institutions (collectively “Schools”) to access and interact with their students and their parents. If you invite or accept initiations from your School, or your School otherwise enrolls you in the Service, your School may share your personal information, such as your grades, test scores, attendance levels and other information, with us. We may add all of this information to the information we have already collected from you via the Service, and we may use it as described in this Privacy Policy. We are not responsible for any errors in information your School provides to us. 
@@ -40,4 +40,4 @@ This Privacy Policy is subject to occasional revision, and if we make any materi
 
 Last Revised: November 25, 2013
 
-[Read McGraw-Hill Education Corporate Customer Privacy Policy](http://www.mheducation.com/customer-privacy-policy)
+ **[Read McGraw-Hill Education Corporate Customer Privacy Policy](http://www.mheducation.com/customer-privacy-policy)**
