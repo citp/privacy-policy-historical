@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milliondollarninja.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630193842id_/http%3A//www.milliondollarninja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milliondollarninja.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910181811id_/http%3A//www.milliondollarninja.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Million Dollar Ninja
 
