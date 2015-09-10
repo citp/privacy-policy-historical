@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the memory-improvement-tips.com privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326072031id_/http%3A//www.memory-improvement-tips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memory-improvement-tips.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910193526id_/http%3A//www.memory-improvement-tips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Memory-Improvement-Tips.com's Privacy Policy
 
-## Privacy Policy
-
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Memory-Improvement-Tips.Com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use the [Memory-Improvement-Tips.Com](http://www.memory-improvement-tips.com/) website, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
 Memory-Improvement-Tips.Com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
@@ -18,7 +16,9 @@ Once information is reviewed, it is discarded or stored in our files. If we make
 
 ## Use of Cookies and Web Beacons
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables Memory-Improvement-Tips.Com to recall your specific information on subsequent visits.
+We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser.
+
+The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables Memory-Improvement-Tips.Com to recall your specific information on subsequent visits.
 
 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
 
@@ -26,9 +26,11 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
-
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, click [this link](http://www.networkadvertising.org/managing/opt_out.asp) or go to: http://www.networkadvertising.org/managing/opt_out.asp
 
 ## Children's Online Privacy Protection Act
 
