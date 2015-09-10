@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinetraininguniverse.com privacy policy that was archived on 2015-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150424061705id_/http%3A//onlinetraininguniverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetraininguniverse.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910022146id_/http%3A//onlinetraininguniverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Training Universe
 
