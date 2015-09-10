@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birdseye.com privacy policy that was archived on 2015-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150410104412id_/http%3A//www.birdseye.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birdseye.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910233034id_/https%3A//www.birdseye.com/privacy-policy) for the most accurate reproduction.*
 
 # Birds Eye Privacy Policy
 
