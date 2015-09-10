@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the como.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317063446id_/http%3A//www.como.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the como.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910053641id_/http%3A//www.como.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Como
 
-The Como Website Privacy Policy was updated on October 20, 2014. By accessing and using the Como website following such update, you indicate that you have read and agree to the updated terms and conditions of the Como Website Privacy Policy.  
+The Como Website Privacy Policy was updated on July 1, 2015. By accessing and using the Como website following such update, you indicate that you have read and agree to the updated terms and conditions of the Como Website Privacy Policy.
+
 This is the privacy policy (“Privacy Policy”) for como.com that describes how Conduit Ltd. d.b.a. “Como” and/or its Affiliates (“Como”, “we”, “us”, or “our”) treats and uses information that it collects and receives about you via como.com, including the personal information we collect in connection with the various products, features, programs, services, software and blog that Como provides to you (collectively, the “Website” or “Site”). Some of these offerings are provided by third parties who may provide you with additional information and choices about your privacy. These offerings are subject to the privacy policies of such third parties. “Affiliates” means an entity which controls, is controlled by or is under common control with Como.
 
 This Privacy Policy is incorporated to the Website’s [Terms of Use](http://www.como.com/terms-conditions/) (“Terms”).
@@ -11,8 +12,7 @@ By using the Website, you agree to accept the terms of this Privacy Policy. If y
 
 ## Collection of Personally Identifiable Information
 
-Como does not require Website users or visitors to provide Personally Identifiable Information (“PII”) to view the Content in the Website or to browse the different sections of the Website. PII is information that identifies an individual including full name, postal address, photograph, e-mail address and/or telephone number. Como may collect PII from Website users or visitors who choose to register as publishers within the Como online mobile proprietary platform  
-(“Como Platform”) or other programs, features or services offered by Como (“Services”). 
+Como does not require its Website users or visitors to provide Personally Identifiable Information (“PII”) to view the Content in the Website or to browse the different sections of the Website. PII is information that identifies an individual including full name, postal or physical address, photograph, e-mail address and/or telephone number. Como may collect PII from Website users or visitors who choose to register as members within the Como online mobile proprietary platform (“Como Platform”) or otherwise subscribe to one of Como’s mobile subscription plans or other programs, features or services offered by Como (“Services”) via the Site.
 
 You may correct or update certain PII by logging in to your account with Como and making the change on your personal information page. If you no longer desire our Services or wish to delete or deactivate your account, you can contact us at [support@como.com](mailto:support@como.com).
 
@@ -28,8 +28,12 @@ We, our service providers and partners may collect various types of non-PII when
 
 ## Registration
 
-In order to create and maintain apps using the Como Platform or use other services or programs offered by Como, you must complete a registration form. During this registration, you will be asked to provide a user name, a password, a valid email address and additional information as may be required as part of the specific service or program for which you register (such as your PayPal, Amazon or Shopify user information – but not your password), all of which are used to validate your registration, maintain your account as a publisher with Como and provide you with the features and functionalities of the Como Platform and Services. You also may provide us with additional information (such as company name, title etc.) so we can provide you with a more customized experience on the Website and offer you better support.  
-From time to time we may provide you the opportunity to participate in contests, surveys or special promotional or other programs on the Website or the Como Platform, as applicable. If you choose to participate, we may request certain PII from you. Participation in such contests, surveys or programs is voluntary, and you have a choice whether to provide this information. The requested information typically includes contact information (such as name and shipping address), demographic information (such as zip code), and, in the case of a special program involving a form of payment, payment details. We use this information to notify participants, to monitor Website traffic, customize the Website or send participants email updates.  
+In order to create and maintain apps by using the Como Platform or use other services or programs offered by Como, you must complete a registration process. During this registration, you will be asked to provide a user name, a password, a valid email address and additional information as may be required as part of the specific service or program for which you register (such as your PayPal, Amazon or Shopify user information – but not your password), all of which are used to validate your registration, maintain your account as a publisher with Como and provide you with the features and functionalities of the Como Platform and Services. You also may provide us with additional information (such as company name, title etc.) so we can provide you with a more customized experience on the Website and offer you better support.
+
+Additional personal information may be required from you if you choose to add certain functionality, rewards program, customer membership or other equivalent feature to your App. For example, your business’s physical address will be asked in order verify that a gift card provided under the rewards program feature is activated while your customer is in your place of business, and your phone number will be asked upon payment for this feature as a mean to get in touch with you regarding your customers use of the rewards program feature.
+
+From time to time we may provide you the opportunity to participate in contests, surveys or special promotional or other programs on the Website or the Como Platform, as applicable. If you choose to participate, we may request certain PII from you. Participation in such contests, surveys or programs is voluntary, and you have a choice whether to provide this information. The requested information typically includes contact information (such as name and shipping address), demographic information (such as zip code), and, in the case of a special program involving a form of payment, payment details. We use this information to notify participants, to monitor Website traffic, customize the Website or send participants email updates.
+
 When you send email or other communications to Como, we may retain these communications to process your inquiries, respond to your requests and improve our services.
 
 ## Choice/Opt–out
@@ -49,8 +53,7 @@ The information collected may be used for the following purposes only:
 
 ## Sharing and Transferring Collected Information
 
-The information that we collect or obtain, as outlined in the preceding sections, may be shared with or transferred to others, as the case may be, in any of the following instances: 
-
+The information that we collect or obtain, as outlined in the preceding sections, may be shared with or transferred to others, as the case may be, in any of the following instances:  
 • Registration and payment information, information on forms you have filled out and requests you have submitted will all be shared with our service providers, for payment collection and processing purposes;  
 • Contact information you have provided upon registration to the Site may be shared with our service providers for the purpose of distributing emails to our registered users and/or app publishers;  
 • Photos and other multimedia or content you have uploaded through the Website’s forums, blog or other public areas will be shared with all other users of such public area as well;  
@@ -59,8 +62,8 @@ The information that we collect or obtain, as outlined in the preceding sections
 • If we reasonably believe that we are required by law to share or disclose your information;  
 • In any case of dispute or legal proceeding of any kind involving you with respect to the Website; and  
 • Personally identifiable information may be shared with our corporate group Affiliates, but their use of such information must comply with the Policy.  
-If the operation of the Website is organized within a different framework, or through another legal structure or entity (such as due to a business transition like a merger, acquisition, bankruptcy, or sale of all or a portion of our assets), the information that we collect or obtain, as outlined in the preceding sections, may be shared with or transferred in its entirety to, the other entity, provided that it undertakes to be bound by the provisions of this Policy, with reasonably necessary changes taken into consideration. Upon such transfer or sharing, the receiving entity may assume full and exclusive responsibility for all subsequent use and processing it makes of the information and Como will be released from any liability to you, regarding the receiving entity’s use and processing of the information.  
-In any case other than the above, your personally identifiable information will be shared with others only if you provide your explicit prior consent.
+Upon bankruptcy, dissolution or other liquidation or insolvency events or in the event of merger, sale or transfer of all or a portion of our assets or other reorganization in our ongoing business, the information that we collect or obtain, as outlined in the preceding sections, may be shared with or transferred to, the entity which succeeds the business, provided that it undertakes to be bound by the provisions of this Policy, with reasonably necessary changes taken into consideration. Upon such transfer or sharing of information, the succeeding entity will assume full and exclusive responsibility for all subsequent use and processing it makes of the information and Como will be released from any liability to you, regarding the succeeding entity’s use and processing of the information.  
+In any case other than the above, your personally identifiable information will be shared with others only if you provide your consent.
 
 ## Aggregated or anonymized information
 
@@ -76,9 +79,12 @@ The Website, by its nature as an online service, may store and process informati
 
 ## Use of Cookies and Server Logs
 
-Cookies (which may be HTML files, Flash files or other technology) are text files that help store user preferences and activity. “Web beacons” (also known as image tags, gif or web bugs) are small pieces of code used to collect data, such as counting page views or promotion views. The Website may use “cookies”, “web beacons” and other similar information-gathering technologies (collectively, “Information Gathering Technologies”) to collect non-PII automatically as you access and browse the Website. This Privacy Policy covers the use of cookies by Como only and does not cover the use of cookies by any other third party.  
-Como uses both session ID cookies and persistent cookies. Como uses session cookies to make it easier for you to navigate the Website. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You may remove persistent cookies by following directions provided in your Internet browser’s “help” file. We set a persistent cookie for such uses as to store your app name and/or user name so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the users’ experience on the Website. If you reject cookies, you may still use the Website, but your ability to use some areas of the Website may be limited.  
-By visiting the Website, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to gather information about your use of the Website through these Information Gathering Technologies.  
+Cookies (which may be HTML files, Flash files or other technology) are text files that help store user preferences and activity. “Web beacons” (also known as image tags, gif or web bugs) are small pieces of code used to collect data, such as counting page views or promotion views. The Website may use “cookies”, “web beacons” and other similar information-gathering technologies (collectively, “Information Gathering Technologies”) to collect non-PII automatically as you access and browse the Website. This Privacy Policy covers the use of cookies by Como only and does not cover the use of cookies by any other third party.
+
+Como uses both session ID cookies and persistent cookies. Como uses session cookies to make it easier for you to navigate the Website. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You may remove persistent cookies by following directions provided in your Internet browser’s “help” file. We set a persistent cookie for such uses as to store your app name and/or user name so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the users’ experience on the Website. If you reject cookies, you may still use the Website, but your ability to use some areas of the Website may be limited.
+
+By visiting the Website, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to gather information about your use of the Website through these Information Gathering Technologies.
+
 Server logs capture certain non–PII, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user’s ISP, and the web URL a user linked from. This information is generally but not exclusively used to help plan system enhancements when necessary and to provide content that is compatible with our visitors’ web browsing systems.
 
 ## Access to Your Personally Identifiable Information
@@ -95,16 +101,15 @@ The security of your personal information is important to us, and we implement s
 
 ## Changes to this Privacy Statement
 
-This Policy may be changed from time to time. Substantial changes will take effect thirty (30) days after an initial notification is posted on the Website. Other changes will take effect seven (7) days after their initial posting. However, if the Policy is amended to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required. The most up-to-date Policy is accessible on the Website at: <http://www.como.com/privacy-policy/>.  
+This Policy may be changed from time to time. Substantial changes will take effect thirty (30) days after an initial notification is posted on the Website. Other changes will take effect seven (7) days after their initial posting. However, if the Policy is amended to comply with legal requirements, the amendments will become effective immediately upon their initial posting, or as required. The most up-to-date Policy is accessible on the Website at: <http://www.como.com/privacy-policy/>.
+
 You agree to be bound by any of the changes made to this Policy. Your continued use of the Website after the changes take effect will indicate your acceptance of the amended Policy. If you do not agree with the amended Policy, you must avoid any further use of the Website.
 
 ## Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us by email at [privacy@como.com](mailto:privacy@como.com) or write to us at:
 
-Como (TM)  
+Conduit Ltd., d/b/a “Como”  
 2 Ilan Ramon Street  
 Ness-Ziona, Israel 7403635  
 Attn: Legal Department, Privacy Policy Issues
-
-Last updated: October 20, 2014
