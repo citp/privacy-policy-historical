@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tarrantcounty.com privacy policy that was archived on 2015-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150610005450id_/http%3A//access.tarrantcounty.com/en/county/website-use/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tarrantcounty.com privacy policy that was archived on 2015-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910204312id_/http%3A//access.tarrantcounty.com/en/county/website-use/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -8,6 +8,8 @@
     <title>Privacy Policy</title>
     <link href="/etc/designs/wpsm.css" rel="stylesheet" type="text/css">
 
+
+    <script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=004486372010405959350:w0oef4li_qa"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=004486372010405959350:w0oef4li_qa"></script><script src="//assets.adobedtm.com/43947ac6e89b393b8f67169195084ae6feceff0d/satelliteLib-831db8300ea6b06f84cf007965afcfbe49feda37-staging.js"></script>
     
 
     
@@ -27,7 +29,7 @@
 
     <link rel="stylesheet" href="/etc/designs/wpsm/clientlibs.min.css" type="text/css">
 
-    <script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=004486372010405959350:w0oef4li_qa"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=004486372010405959350:w0oef4li_qa"></script><script type="text/javascript" src="/etc/designs/wpsm/jquery.min.js"></script>
+    <script type="text/javascript" src="/etc/designs/wpsm/jquery.min.js"></script>
     
     
 </head>
@@ -83,29 +85,19 @@
 			<span id="wpsm-showSearchButton" data-toggle="collapse" data-target="#wpsm-mobileSearch" class="navbar-toggle collapsed"></span>
 				
 			<!-- desktop search form -->
-			<!--
+<!--
 			<div id="wpsm-searchForm" class="hidden-xs">
-		       <div class="minisearch parbase">
-
-
-	<form class="navbar-form" role="search" action="http://tcweb.tarrantcounty.com/egov/lib/egov/searchresults.htm" target="_blank">
+		    
+			<form class="navbar-form" role="search" action=".html">
 					<div class="input-group">
-                        <input type="hidden" value="004486372010405959350:yfffe03dene" name="cx">
-                        <input type="hidden" value="FORID:10" name="cof">
-                        <input type="hidden" value="UTF-8" name="ie">
 						<input type="text" class="form-control" placeholder="Search" name="q" id="wpsm-searchInput">
 						<div class="input-group-btn">
 							<button class="btn btn-default" id="wpsm-searchButton" type="submit"><i class="glyphicon glyphicon-search"></i></button>
 						</div>
-					</div>
-                    <input name="siteurl" type="hidden" value="/content/main/en/county/website-use/privacy-policy.html">
-                    <input name="ref" type="hidden" value="">
-                    <input name="ss" type="hidden" value="">
+					</div>      
 				</form>
-               </div>
-
 			</div>
-			-->
+-->
 			<div id="wpsm-searchForm" class="hidden-xs">
 		       <div class="parbase minisearch-google">
 
@@ -210,7 +202,7 @@
 
 <div id="wpsm-alerts" style="display:none">
 		<div class="container">
-            <div class="wpsm-notificationArea"> 
+            <div class="wpsm-alertsArea"> 
 
 			</div>
 		<div class="wpsm-notificationArrowLeft"></div>
@@ -227,13 +219,15 @@ $(document).ready(function() {
 	var totalCount = 0;
     $CQ.getJSON(baseURL + '/jcr:content.alertfeed.json', function(json) {
 
-        	var container = $('#wpsm-alerts .wpsm-notificationArea'); 
+        	var container = $('#wpsm-alerts .wpsm-alertsArea'); 
 
               $.each(json, function (key, value) {
                   var alertText = json[key].alertText;
+                  var pageUrl = json[key].pageUrl;
 				  var count = json[key].count;
-				  var alertHtml = '<div class="wpsm-notification"><div class="wpsm-closeAlerts"></div>'
-                  alertHtml += alertText + ' (' + count + ') ';
+                  var alertHtml = '<div class="wpsm-notification"><div class="wpsm-closeAlerts"></div>'; 
+                  alertHtml += alertText + '(' + count +') ';
+                  alertHtml += '<p' +pageUrl+ '</p>';
                   alertHtml += '</div>';
 				  $(container).append(alertHtml);
                   totalCount++;
@@ -268,30 +262,26 @@ $(document).ready(function() {
 
 
 	<!-- MOBILE SEARCH FORM STARTS HERE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-	<!--
-	<div id="wpsm-mobileSearch">
-		<div class="container">
-		 <div class="parbase minisearchMobile">
 
-	<form id="wpsm-searchForm2" role="search" action="http://tcweb.tarrantcounty.com/egov/lib/egov/searchresults.htm">
+<!--
+      <div id="wpsm-mobileSearch">
+		 <div class="container">
+		   
+	          <form id="wpsm-searchForm2" role="search" action=".html">
 				<div class="input-group">
-                    <input type="hidden" value="004486372010405959350:yfffe03dene" name="cx">
-                    <input type="hidden" value="FORID:10" name="cof">
-                    <input type="hidden" value="UTF-8" name="ie">
+
 					<input type="text" class="form-control" placeholder="Search" name="q" id="wpsm-searchInput2">
 					<div class="input-group-btn">
 						<button class="btn btn-default" type="submit" id="wpsm-searchButton2"><i class="glyphicon glyphicon-search"></i></button>
 					</div>
 				</div>
-        		  <input name="siteurl" type="hidden" value="/content/main/en/county/website-use/privacy-policy.html">
-                    <input name="ref" type="hidden" value="">
-                    <input name="ss" type="hidden" value="">
+
+
 			</form>
-</div>
 
 		</div>
 	</div>
-	-->
+-->
 
 	<div id="wpsm-mobileSearch">
 	       <div class="parbase minisearchMobile-google">
@@ -347,6 +337,7 @@ $(document).ready(function() {
 </style></div>
 
 	</div>
+
     <!-- Super Menu -->
 	<div class="parbase supermenu">
 
@@ -397,7 +388,7 @@ $(document).ready(function() {
 
                                                  	
                                                  		
-                                                            Birth &amp; Death Records 
+                                                            <a href="/en/county-clerk/vital-records/birth-death-records.html">Birth &amp; Death Records</a>
                                                  	
                                                  		
                                                             <a href="https://childsupport.tarrantcounty.com/">Child Support Account System</a><br>
@@ -441,7 +432,7 @@ $(document).ready(function() {
                                                             <a href="https://ccrecordse.tarrantcountytx.gov/Marriage/SearchEntry.aspx" target="_blank">Marriage Record Browse</a>
                                                  	
                                                  		
-                                                            <a href="http://mepublic.tarrantcounty.com/mepublic/">Medical Examiner Case Records</a>
+                                                            <a href="https://mepublic.tarrantcounty.com/MEPublic/">Medical Examiner Case Records</a>
                                                  	
                                                  </div>
              								 
@@ -546,6 +537,9 @@ $(document).ready(function() {
                                                             <a href="/en/administration.html">Administration</a>
                                                  	
                                                  		
+                                                            <a href="http://www.tarrantcounty.com/e-archives/site/default.asp">Archives</a>
+                                                 	
+                                                 		
                                                             <a href="/en/auditor.html">Auditor</a>
                                                  	
                                                  		
@@ -556,10 +550,13 @@ $(document).ready(function() {
                                                             <a href="/en/commissioners-court.html">Commissioners Court</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/cscd/site/default.asp">Community Supervision &amp; Correction</a>
+                                                            <a href="/en/community-development-and-housing-department.html">Community Development &amp; Housing</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eConstable/site/default.asp">Constables</a>
+                                                            <a href="/en/community-supervision-corrections.html">Community Supervision &amp; Corrections</a>
+                                                 	
+                                                 		
+                                                            <a href="/en/constables.html">Constables</a>
                                                  	
                                                  		
                                                             <a href="/en/county-clerk.html">County Clerk</a>
@@ -570,6 +567,9 @@ $(document).ready(function() {
                                                  		
                                                             <a href="/en/criminal-district-attorney.html">Criminal District Attorney</a>
                                                  	
+                                                 		
+                                                            <a href="/en/district-clerk.html">District Clerk</a>
+                                                 	
                                                  </div>
              								 
 
@@ -578,10 +578,7 @@ $(document).ready(function() {
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/district-clerk.html">District Clerk</a>
-                                                 	
-                                                 		
-                                                            <a href="/en/domestic-relations-office.html">Domestic Relations Office</a>
+                                                            <a href="/en/domestic-relations-office.html">Domestic Relations</a>
                                                  	
                                                  		
                                                             <a href="/en/elections.html">Elections</a>
@@ -590,13 +587,21 @@ $(document).ready(function() {
                                                             <a href="/en/facilities-management.html">Facilities Management</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eFireMarshal/site/default.asp">Fire Marshal</a>
+                                                            <a href="/en/fire-marshal.html">Fire Marshal</a>
+                                                 	
+                                                 		
+                                                            <a href="http://www.tarrantcounty.com/eHistory/site/default.asp">Historical Commission</a><br>
+
+                                                 	
+                                                 		
+                                                            <a href="http://www.tarrantcounty.com/ehousing/site/default.asp">Housing Assistance</a><br>
+
                                                  	
                                                  		
                                                             <a href="/en/human-resources.html">Human Resources</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/ehumanservices/site/default.asp">Human Services</a>
+                                                            <a href="/en/human-services.html">Human Services</a>
                                                  	
                                                  		
                                                             <a href="http://www.tarrantcounty.com/eTechnology/site/default.asp">Information Technology</a>
@@ -605,7 +610,7 @@ $(document).ready(function() {
                                                             <a href="/en/jury-services.html">Jury Services</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJusticePeace/site/default.asp">Justices of the Peace</a>
+                                                            <a href="/en/justice-of-the-peace-courts.html">Justice of the Peace Courts</a>
                                                  	
                                                  		
                                                             <a href="/en/juvenile-services.html">Juvenile Services</a>
@@ -618,7 +623,8 @@ $(document).ready(function() {
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/law-library.html">Law Library</a>
+                                                            <a href="/en/law-library.html">Law Library (Dell Dehay)<br>
+</a>
                                                  	
                                                  		
                                                             <a href="/en/medical-examiner.html">Medical Examiner</a>
@@ -648,7 +654,7 @@ $(document).ready(function() {
                                                             <a href="http://www.tarrantcounty.com/eTransportation/site/default.asp">Transportation</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eVeterans/site/default.asp">Veteran Services</a>
+                                                            <a href="/en/veteran-services.html">Veteran Services</a>
                                                  	
                                                  </div>
              								 
@@ -714,9 +720,6 @@ Gary Fickes</a>
                                                  		
                                                             <a href="/en/commissioners-court/commissioners-court-agenda-videos.html">Live Streaming Broadcast</a>
                                                  	
-                                                 		
-                                                            Other Agendas
-                                                 	
                                                  </div>
              								 
 
@@ -777,7 +780,7 @@ Gary Fickes</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eConstable/site/default.asp">Constables</a>
+                                                            <a href="/en/constables.html">Constables</a>
                                                  	
                                                  		
                                                             <a href="/en/county-clerk.html">County Clerk - <br>
@@ -795,7 +798,7 @@ Gary Fickes</a>
                                                             <a href="http://www.tarrantcounty.com/eCourts/cwp/view.asp?a=718&amp;q=483108">Judges (Courts)</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJusticePeace/site/default.asp">Justices of the Peace</a>
+                                                            <a href="/en/justice-of-the-peace-courts.html">Justices of the Peace (Courts)</a>
                                                  	
                                                  </div>
              								 
@@ -844,25 +847,28 @@ Gary Fickes</a>
                                                             <a href="/en/civil-courts.html">Civil Courts</a>
                                                  	
                                                  		
-                                                            <a href="/en/courts/county-courts.html">County Courts</a>
+                                                            <a href="/en/civil-courts/district-courts/dockets.html">Civil District Courts Dockets</a>
                                                  	
                                                  		
                                                             <a href="/en/courts.html">Courts</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/ecriminalcourts/site/default.asp">Criminal Courts</a>
+                                                            <a href="/en/criminal-courts.html">Criminal Courts</a>
                                                  	
                                                  		
-                                                            <a href="/en/courts/district-courts.html">District Courts</a>
+                                                            <a href="http://egov.tarrantcounty.com/web/guest/departments/courts/criminal" target="_blank">Criminal Courts Dockets</a>
                                                  	
                                                  		
                                                             <a href="/en/family-courts.html">Family Courts</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/emag/site/default.asp">Magistrate Courts</a>
+                                                            <a href="/en/justice-of-the-peace-courts.html">Justice of the Peace Courts</a>
                                                  	
                                                  		
-                                                            <a href="/en/probate-courts.html">Probate Courts</a>
+                                                            <a href="/en/juvenile-courts.html">Juvenile Court</a>
+                                                 	
+                                                 		
+                                                            <a href="/en/criminal-courts/magistrate-courts.html">Magistrate Courts</a>
                                                  	
                                                  </div>
              								 
@@ -872,10 +878,23 @@ Gary Fickes</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="/en/juvenile-courts.html">Juvenile Court</a>
+                                                            <a href="/en/probate-courts.html">Probate Courts</a>
                                                  	
                                                  		
                                                             <a href="/en/iv-d-courts.html">IV-D (Child Support) Courts</a>
+                                                 	
+                                                 		
+                                                            <a href="/en/courts/county-courts.html">County Courts</a>
+                                                 	
+                                                 		
+                                                            <a href="/en/courts/district-courts.html">District Courts</a>
+                                                 	
+                                                 		
+                                                            <a href="/en/civil-courts/county-courts.html">Civil County Courts</a>
+                                                 	
+                                                 		
+                                                            <a href="/en/civil-courts/district-courts.html">Civil District Courts</a><br>
+
                                                  	
                                                  </div>
              								 
@@ -900,7 +919,7 @@ Gary Fickes</a>
                                      
                                      <li data-target="#wpsm-mainNavPane-government-threecollinks_3" class="">
                                          
-                                         <span class="wpsm-mainSubNav-disclosure"></span><a href="#" title="submenu">Justices of the Peace</a>
+                                         <span class="wpsm-mainSubNav-disclosure"></span><a href="#" title="submenu">Justice of the Peace Courts</a>
                                          
                                          <div id="wpsm-mainNavPane-government-threecollinks_3" class="wpsm-superMenuMostInnerArea ">
 
@@ -910,8 +929,8 @@ Gary Fickes</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJP01">Precinct 1<br>
-Ralph D. Swearingin Jr.</a>
+                                                            <a href="/en/justice-of-the-peace-courts/justice-1.html">Precinct 1<br>
+ Ralph D. Swearingin Jr.</a>
                                                  	
                                                  		
                                                             <a href="http://www.tarrantcounty.com/eJP02">Precinct 2<br>
@@ -983,11 +1002,11 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eConstable1/site/default.asp">Precinct 1<br>
+                                                            <a href="/en/constables/constable-1.html">Precinct 1<br>
  Harry D. Clark III</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eConstable2/site/default.asp">Precinct 2<br>
+                                                            <a href="/en/constables/constable-2.html">Precinct 2<br>
  John D. Woodruff</a>
                                                  	
                                                  		
@@ -1010,7 +1029,7 @@ Russell B. Casey</a>
  Ruben Garcia Jr.</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eConstable6/site/default.asp">Precinct 6<br>
+                                                            <a href="/en/constables/constable-6.html">Precinct 6<br>
  Jon H. Siegel</a>
                                                  	
                                                  		
@@ -1019,7 +1038,7 @@ Russell B. Casey</a>
  </a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eConstable8/site/default.asp">Precinct 8<br>
+                                                            <a href="/en/constables/constable-8.html">Precinct 8<br>
  Michael R. Campbell</a>
                                                  	
                                                  </div>
@@ -1079,10 +1098,10 @@ Russell B. Casey</a>
                                                  <div class="wpsm-mainNavMainPane-Col">
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/cscd/site/default.asp">Community Supervision and Corrections</a>
+                                                            <a href="/en/community-supervision-corrections.html">Community Supervision and Corrections</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eCSU/site/default.asp">Community Supervision Unit</a>
+                                                            <a href="/en/domestic-relations-office/community-supervision-unit.html">Community Supervision Unit</a>
                                                  	
                                                  		
                                                             <a href="/en/courts.html">Courts</a>
@@ -1097,7 +1116,7 @@ Russell B. Casey</a>
                                                             <a href="/en/jury-services.html">Jury Services</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/eJusticePeace/site/default.asp">Justices of the Peace</a>
+                                                            <a href="/en/justice-of-the-peace-courts.html">Justice of the Peace Courts</a>
                                                  	
                                                  </div>
              								 
@@ -1157,7 +1176,7 @@ Russell B. Casey</a>
                                                             <a href="http://www.tarrantcounty.com/etransportation/cwp/browse.asp?a=751&amp;C=44561&amp;etransportationNav=%7C">Environmental Services</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/efiremarshal/cwp/view.asp?a=777&amp;q=432960&amp;efiremarshalNav=%7C">Fire Marshal</a>
+                                                            <a href="/en/fire-marshal.html">Fire Marshal</a>
                                                  	
                                                  		
                                                             <a href="/en/public-health.html">Public Health</a>
@@ -1325,7 +1344,7 @@ Russell B. Casey</a>
                                                             <a href="/en/county/services.html">County Services</a>
                                                  	
                                                  		
-                                                            <a href="http://www.tarrantcounty.com/ecommunitydev/cwp/view.asp?a=720&amp;q=426177&amp;ecommunitydevNav=%7C">Development &amp; Housing</a>
+                                                            <a href="/en/community-development-and-housing-department.html">Community Development &amp; Housing</a>
                                                  	
                                                  		
                                                             <a href="http://www.tarrantcounty.com/ehumanservices/site/default.asp">Human Services</a>
@@ -1905,7 +1924,7 @@ Russell B. Casey</a>
 					
 						
 						
-						<li><a href="/en/county/fiscal-budget.html">Fiscal Budget</a></li>
+						<li><a href="/en/county/tarrant-county-openbooks.html">Tarrant County OpenBooks</a></li>
 					
 						
 						
@@ -2144,12 +2163,14 @@ This site is best experienced with supported browsers: Internet Explorer 9 and a
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy-policy.html+%28141ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,141,0,141&chxr=0,0,141&chd=t:16,16,16,16,16,16,16,16,16,16,16,32,32,32,32,47,79,94,110,110,125,125,125,125,125,141,141,141|0,0,0,0,0,0,0,0,0,109,109,0,0,15,93,32,15,16,0,15,0,0,16,16,16,0,0,0&chly=init.jsp|servicelibs.jsp|browsermap.jsp|simulator.jsp|head.jsp|clientcontext.jsp|minisearch.jsp|minisearch-google.jsp|alerts.jsp|header.jsp|header.jsp|minisearchMobile.jsp|minisearchMobile-googl...|tablinks.jsp|supermenu.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|subnavigation.jsp|title.jsp|text.jsp|parsys.jsp|content.jsp|footer.jsp|footer.jsp|includes.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy-policy.html+%28156ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,156,0,156&chxr=0,0,156&chd=t:16,16,16,16,16,16,16,16,16,31,31,31,31,47,94,110,125,125,141,141,141,141,141,156,156,156|0,0,0,0,0,0,0,125,125,0,0,16,110,47,16,15,0,16,0,0,15,15,15,0,0,0&chly=init.jsp|servicelibs.jsp|browsermap.jsp|simulator.jsp|head.jsp|clientcontext.jsp|minisearch-google.jsp|header.jsp|header.jsp|alerts.jsp|minisearchMobile-googl...|tablinks.jsp|supermenu.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|tablinks.jsp|subnavigation.jsp|title.jsp|text.jsp|parsys.jsp|content.jsp|footer.jsp|footer.jsp|includes.jsp&chs=600x500
 -->
 
 
     <div class="servicecomponents cloudservices">
 </div>
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
 
 
 </body></html>
