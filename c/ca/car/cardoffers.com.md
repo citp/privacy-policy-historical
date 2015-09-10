@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardoffers.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726011124id_/http%3A//www.cardoffers.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardoffers.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910094703id_/http%3A//www.cardoffers.com/help/privacy) for the most accurate reproduction.*
 
 # CardOffers.com Privacy Policy
 
