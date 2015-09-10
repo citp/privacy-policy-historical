@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the become.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608110653id_/http%3A//www.become.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the become.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910112205id_/http%3A//www.become.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Become.com
 
