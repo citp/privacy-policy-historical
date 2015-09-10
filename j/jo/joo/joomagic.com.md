@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomagic.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509064304id_/http%3A//www.joomagic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomagic.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910103634id_/http%3A//joomagic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joomla Template - Joomagic
 
@@ -45,5 +45,3 @@ Our email list will not be sold to or shared with any third parties. You may rem
 The JooMagic.com website(s) contain some links to third-party sites.  JooMagic has no control over these sites.  These sites have their own privacy policies and customers who visit these sites should become familiar with them.
 
 JooMagic values our customers and takes the privacy concerns of our customers seriously.  If you have any further questions regarding our privacy policy, please contact us.
-
-* * *
