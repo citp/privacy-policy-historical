@@ -1,53 +1,91 @@
-> *The following text is extracted and transformed from the ht.com.au privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325185919id_/http%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ht.com.au privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910074748id_/http%3A//www.ht.com.au/itype/purchasing/article/security_and_privacy/information_detail.hts) for the most accurate reproduction.*
 
 # Security &amp; Privacy Policy | Purchasing Information | ht.com.au
 
 Read about our commitment to ensuring the privacy of your information. If you can't find the information you need, please use the [Make an Enquiry](http://www.ht.com.au/form/enquiry/forms.hts) page or phone **1300 13 9999** and get help from a Customer Service representative. 
 
-Harris Technology is a Coles Group Limited business. Coles Group Limited businesses highly value the strong relationships we have with our customers. Often these relationships have been built up over many decades and with generations of the same family. The gradual introduction of data collection technology at Coles Group Limited will be handled with full and proper respect for the privacy of our customers.
-
-To protect your privacy, you can visit Harris Technology's site without identifying yourself or having to reveal any information about yourself.
-
 #### How We Handle Customer Information
 
-  * We do not collect personal information when you visit our site unless you log on, place an order or register with us. 
-  * When you place an order you will be asked for the following personal information: your name, e-mail address, mailing address, delivery address and any special delivery instructions and phone number. We may share this information, and only that information which is absolutely necessary, with those third parties that are involved in the processing of your order. For example, the financial institution that issued your credit card and the shipping carrier that delivers your order.
-  * Harris Technology is committed to reducing the amount of fraud it faces. Our policy is that **we will prosecute** any cases of fraud that we identify. As a first time customer, you may receive a telephone call or email requesting more information/proof to confirm the details that you have supplied to us. If any of the information you supply is found to be false or misleading, we will, if we deem it appropriate, report this to the appropriate authorities for them to prosecute.
-  * We do not share, sell, rent or barter any identifiable personal information to any third party without your permission. 
-  * When you log on to our site, we will ask you your e-mail address and user ID, which is usually your name.
-  * If you belong to a participating Club, we may send information about specials we are offering to Club members. We may ask for information which identifies you as a club member. There will be an option to unsubscribe to such information, if you do not wish to receive it.
-  * We have specials and clearance emails available to make your shopping and purchasing experience easier. Should you decide to subscribe, we will send you your requested information from time to time. You may unsubscribe at any time. Subscription to this service is optional and free.
-  * When you submit feedback or questions via e-mail, or contact us for information about our Website, we will request your name and e-mail address. We use this information solely to respond to your inquiries. 
-  * When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. We may ask for other information to enable us to improve our site or to send you special offers. 
-  * Our site contains links to other sites. Harris Technology is not responsible for the privacy practices or the content of other websites.
-  * By default all web server log files capture IP addresses. We may use your IP to help diagnose problems with our server, administer our website and to track web usage. This information is used internally and is not shared with anyone else.
+Harris Technology is committed to client service and this policy outlines our ongoing obligations to you in respect to how we manage your Personal Information. We have adopted the 10 National Privacy Principles (NPPs) contained in the Privacy Act 1988 (Cth) (the Privacy Act). The NPPs came into effect on 21 December 2001. The NPPs govern the way in which we collect, use, disclose, store, secure and dispose of your Personal Information. A copy of the National Privacy Principles may be obtained from the website of The Office of the Federal Privacy Commissioner at www.privacy.gov.au. 
 
+### What is Personal Information and why do we collect it?
 
+Personal Information is information or an opinion that identifies an individual. Examples of Personal Information we collect include: names, addresses, email addresses, phone and fax numbers. This Personal Information is obtained in many ways including interviews, correspondence, by telephone and fax, by email, via our website www.ht.com.au and from third parties. We collect your Personal Information for the primary purpose of providing our services to our clients, and for our own marketing. We may also use your Personal Information for secondary purposes closely related to the primary purpose, in circumstances where you would reasonably expect such use or disclosure. You may unsubscribe from our mailing/marketing lists at any time; all you need to do is let us know. When we collect Personal Information we will, where appropriate and where possible, explain to you why we are collecting the information and how we plan to use it. 
 
-Coles Group Limited was involved in the development of and fully supports the 'National Privacy Principles for the Fair Handling of Personal Information' launched in February 1998. As part of these principles, customers who do not want to receive marketing offers through the mail or on the internet can contact us on 1800 455 400.
+#### What information do we collect?
 
-As the Federal Government introduces new privacy legislation - Coles Group Limited's privacy policies will be reviewed and updated as appropriate.
-
-More information on privacy legislation is available from the Federal Privacy Commissioner at [ www.privacy.gov.au](http://www.privacy.gov.au/).
-
-#### How We Protect Customer Information
-
-For credit card transactions, Harris Technology adds security by using Secure Sockets Layer (SSL) technology. This means that the credit card information you send is encrypted by your computer, and then decrypted again on our side, preventing others from accessing your private information in between. So, when using an SSL capable browser, shopping on Harris Technology's website is the safest kind of transaction possible with a credit card.
-
-#### How We Use Cookies & Other Technologies
-
-A cookie is a small amount of information sent from a Web server to your computer. We use cookies when someone logs on to our website, to maintain that log on, to retain log on information if requested, and for the service of our [Shopping Cart](https://web.archive.org/cart.hts).
+When you visit the Harris Technology website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis, and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
 We do not use cookies for marketing, promotional or advertising purposes, nor do we use cookies to track your Internet activity before or after you leave Harris Technology. Any activity while you are at ht.com.au may be monitored.
 
-#### How We Handle Marketing Communications
+#### 1\. Personal Information You Choose to Provide
 
-Harris Technology has found that attractive, graphics-rich emails are a quick, effective and low-cost way to communicate with customers and prospects about new high tech products, clearance and auction items. We maintain an opt-out, user-customisable subscription service of email addresses of people requesting promotional emails.
+**Registration Information** \- When you register for an account or place an order for our products you will provide us information about yourself.
+
+**Credit Card Information** \- When placing an order you may need to give personal information and authorisation to obtain information from various credit services. For example, you may need to provide the following information:
+
+-Name, mailing address, email address, credit card number, name on credit card, credit card billing address, business and/or home phone number
+
+**Email Information** \- If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
+
+#### 2\. Web Site Use Information
+
+**HT.com.au** utilises a standard internet technology called â€œcookiesâ€ (see below for more information) and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. Generally speaking this service is anonymous and used only for statistical analysis. When you register for an account or place an order for our products you will provide us information about yourself.
 
 We do not want to send emails to you if you would prefer not to receive them. Therefore, every email provides a way for you to unsubscribe from future emails. In addition, you can visit our [Subscription Centre](https://web.archive.org/subscriptions.hts) to manage your subscription. We also have administrative procedures in place to remove email addresses and domains that consistently send failure messages to our email servers.
 
-#### How to Update Your Information
+#### How Do We Use the Information That You Provide to Us?
 
-Changes to your contact, invoice and delivery details can be made using the [Account](https://web.archive.org/account.hts) section of ht.com.au.
+Harris Technology uses personal information for the purposes of administering our business activities, providing the products requested by our customers, to process customer payments, to monitor the use of our services, for marketing and promotional efforts and to improve our content and service offerings, and customise our siteâ€™s content, layout, services and for other lawful purposes. These uses improve our business and better tailor it to meet your needs.
 
-Subscribing, unsubscribing or changing your subscription preferences can be made using the [Subscription Centre](https://web.archive.org/subscriptions.hts) available anyone with a Harris Technology account.
+Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
+
+#### What Are Cookies?
+
+Cookies are small files which are stored on a user's computer. They are designed to hold a modest amount of data specific to a particular client and website, and can be accessed either by the web server or the client computer. This allows the server to deliver a page tailored to a particular user, or the page itself can contain some script which is aware of the data in the cookie and so is able to carry information from one visit to the website (or related site) to the next.
+
+Once the cookie has been read by the code on the server or client computer, the data can be retrieved and used to customise the web page appropriately.
+
+Cookies are a convenient way to carry information from one session on a website to another, or between sessions on related websites, without having to burden a server machine with massive amounts of data storage. Essentially, it allows us to better serve our website visitors with relevant information and content, whilst optimising our own practises.
+
+#### Sharing and Selling Information
+
+We do not and will not share, sell, lend or lease any of the information that uniquely identify a subscriber or customer (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
+
+Once the cookie has been read by the code on the server or client computer, the data can be retrieved and used to customise the web page appropriately.
+
+#### How Can You Access and Correct Your Information?
+
+NPP 6 provides you with the right to access the Personal Information which we hold about you and to update and/or correct it, subject to certain exceptions. If you wish to access your Personal Information, please make out your request to us in writing.
+
+#### What About Legally Compelled Disclosure of Information?
+
+Your Personal Information may be disclosed in a number of circumstances including the following: 
+
+\- third parties where you consent to the use or disclosure; and 
+
+\- where required or authorised by law. 
+
+#### What About Other Web Sites Linked to Our Web Site?
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
+
+Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites which have a link on our Website, is subject to that websiteâ€™s own rules and policies. Please read over those rules and policies before proceeding.
+
+#### Your Consent
+
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
+
+#### Security of Personal Information
+
+Your Personal Information is stored in a manner that reasonably protects it from misuse and loss and from unauthorised access, modification or disclosure.
+
+When your Personal Information is no longer needed for the purpose for which it was obtained, we will take reasonable steps to destroy or permanently de-identify your Personal Information. However, most of the Personal Information is or will be stored in client files which will be kept by us for a minimum of 7 years.
+
+#### Maintaining the Quality of your Personal Information
+
+It is an important part of providing our services to you that your Personal Information is up to date. National Privacy Policy dictates that we take reasonable steps to make sure that your Personal Information is accurate, complete and up-to-date.
+
+#### Complaints
+
+You can lodge a complaint with us about any breach of our Privacy Policy and our privacy obligations to you by contacting feedback@ht.com.au 
