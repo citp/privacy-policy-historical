@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantphp.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502220054id_/http%3A//www.instantphp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantphp.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910091149id_/http%3A//www.instantphp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Instant Php - Privacy Policy
 
