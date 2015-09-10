@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the veryjane.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805171737id_/http%3A//veryjane.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veryjane.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911014409id_/https%3A//jane.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Jane.com
 
-This Privacy Policy governs the manner in which Very Jane collects, uses, maintains and discloses information collected from users (each, a "User") of the [veryjane.com](https://web.archive.org/web/20130805171737id_/http%3A//veryjane.com/Home/veryjane.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Very Jane.
+This Privacy Policy governs the manner in which Jane collects, uses, maintains and discloses information collected from users (each, a "User") of the [jane.com](http://www.jane.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Jane.
 
 #### Personal identification information
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 #### How we use collected information
 
-Very Jane collects and uses Users personal information for the following purposes:
+Jane collects and uses Users personal information for the following purposes:
 
   * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -43,7 +43,7 @@ Sensitive and private data exchange between the Site and its Users happens over 
 
 #### Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
 #### Third party websites
 
@@ -51,7 +51,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 #### Changes to this privacy policy
 
-Very Jane has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Jane has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 #### Your acceptance of these terms
 
@@ -61,12 +61,12 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-[Very Jane](http://veryjane.com/)  
-[veryjane.com](http://veryjane.com/)  
-P.O. Box 290  
+[Jane](https://jane.com/)  
+[jane.com](https://jane.com/)  
+2600 Executive Pkwy Ste. 360  
 Lehi, UT 84043  
 (801) 382-8585  
-support@veryjane.com  
+support@jane.com  
 
 
-This document was last updated on April 25, 2011
+This document was last updated on March 31, 2014
