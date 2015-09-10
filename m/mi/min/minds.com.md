@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minds.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623000629id_/https%3A//www.minds.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minds.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910074712id_/https%3A//www.minds.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy | Minds
 
