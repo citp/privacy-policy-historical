@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the angiesdiary.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627202235id_/https%3A//angiesdiary.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angiesdiary.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910074250id_/https%3A//angiesdiary.com/terms-of-use/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Angie's Diary
 
-**__171 views**   
+**__174 views**   
 **__[Online Magazines](https://angiesdiary.com/tag/online-magazines/) ** **__[Home](https://angiesdiary.com/) » [Terms of Service](https://angiesdiary.com/terms-of-use/)  »  Privacy Policy **
 
 ### This privacy statement covers Angie’s Diary. Please read this statement carefully before proceeding to access Angie’s Diary. Your use of this site indicates your agreement to abide by the Terms in effect.
