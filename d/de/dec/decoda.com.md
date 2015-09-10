@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decoda.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630134702id_/http%3A//decoda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decoda.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910130322id_/http%3A//www.decoda.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
