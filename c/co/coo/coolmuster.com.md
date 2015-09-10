@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolmuster.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328023949id_/http%3A//www.coolmuster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmuster.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910063754id_/http%3A//www.coolmuster.com/privacy.html) for the most accurate reproduction.*
 
 # Coolmuster Studio | Privacy Policy
 
-Your privacy is a priority at CoolMuster. We go to great lengths to protect it. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
+Your privacy is a priority at Coolmuster. We go to great lengths to protect it. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.
 
 #### Why we collect personal information?
 
@@ -10,15 +10,15 @@ We collect your personal information because it helps us deliver a superior leve
 
 #### How do we collect the information?
 
-There are numbers of different ways that CoolMuster receives and collects personal information from you. Ways CoolMuster collects personal information from you may include the following: Communications between us When you email or write to us you may need to provide us with your name, contact details, and other personal information in your message. Customer Support You may need to provide us with personal information when you telephone or email us to request technical assistance in respect of our products, or to request information that you would like to receive relating to our products. Email/Direct Mail Campaigns From time to time we may contact you directly by mail, email or telephone informing you about upgrades, new products, promotions or special offers that may be of interest to you. Responding to one of these campaigns, you may provide us with personal information. Registration of Products Upon registration of one CoolMuster product you will be asked to provide certain information which we will use to record you as an owner of the CoolMuster product and to assist us in providing you with service and information. Purchases If you wish to purchase CoolMuster products from our Store, we will require sufficient information to complete your purchase including your credit card details and your contact details. Surveys From time to time we may conduct surveys in respect of our products and services. Participation in our surveys is optional. When you respond to one of our surveys, you may provide us with your personal information.
+There are numbers of different ways that Coolmuster receives and collects personal information from you. Ways Coolmuster collects personal information from you may include the following: Communications between us When you email or write to us you may need to provide us with your name, contact details, and other personal information in your message. Customer Support You may need to provide us with personal information when you telephone or email us to request technical assistance in respect of our products, or to request information that you would like to receive relating to our products. Email/Direct Mail Campaigns From time to time we may contact you directly by mail, email or telephone informing you about upgrades, new products, promotions or special offers that may be of interest to you. Responding to one of these campaigns, you may provide us with personal information. Registration of Products Upon registration of one Coolmuster product you will be asked to provide certain information which we will use to record you as an owner of the Coolmuster product and to assist us in providing you with service and information. Purchases If you wish to purchase Coolmuster products from our Store, we will require sufficient information to complete your purchase including your credit card details and your contact details. Surveys From time to time we may conduct surveys in respect of our products and services. Participation in our surveys is optional. When you respond to one of our surveys, you may provide us with your personal information.
 
 #### How we protect your personal information?
 
-CoolMuster uses secure server hosted by RegNow and other 3rd party credit card processors that encrypt the entire customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition.
+Coolmuster uses secure server hosted by RegNow and other 3rd party credit card processors that encrypt the entire customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition.
 
 #### RegNow
 
-RegNow is the software industry’s premier registration commerce provider. CoolMuster uses RegNow to provide you with very secure and fast online purchase.
+RegNow is the software industry’s premier registration commerce provider. Coolmuster uses RegNow to provide you with very secure and fast online purchase.
 
 #### Cookies
 
