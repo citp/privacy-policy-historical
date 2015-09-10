@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petitionhub.org privacy policy that was archived on 2015-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150522032313id_/http%3A//www.petitionhub.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitionhub.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910104447id_/http%3A//www.petitionhub.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PetitionHub.org
 
@@ -17,6 +17,12 @@ We may collect non-personal identification information about Users whenever they
 ## Web browser cookies
 
 Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
+
+By continuing to use our website without changing the settings, you are agreeing to our use of cookies.
+
+For more information about your rights please read the [European ePrivacy Directive](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:EN:HTML). 
 
 ## How we use collected information
 
