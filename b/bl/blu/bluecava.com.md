@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bluecava.com privacy policy that was archived on 2015-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150301143415id_/http%3A//bluecava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluecava.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910191111id_/http%3A//bluecava.com/privacy-policy) for the most accurate reproduction.*
 
 # BlueCava Online Privacy Policy | BlueCava
-
-## Blue Cava Online Privacy Policy
 
 Last Updated: June 1, 2014 (this is the date of the most recent version of our policy.) We will modify the policy from time to time. Please check back for updates.
 
@@ -95,6 +93,12 @@ BlueCava adheres to the Digital Advertising Alliance Self-Regulatory Principles 
 ### Internet Advertising Bureau
 
 BlueCava is a member of the Internet Advertising Bureau ([www.iab.net](http://www.iab.net/)).
+
+### Newtork Advertising Initiative
+
+BlueCava is a member in good standing of the Network Advertising Initiative (NAI), and adheres to the NAI Code of Conduct. Click [here](https://www.networkadvertising.org/ "NAI Homepage") to learn more about the NAI
+
+[](https://www.networkadvertising.org/)
 
 ### How to Contact Us
 
