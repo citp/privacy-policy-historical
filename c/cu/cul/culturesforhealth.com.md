@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2015-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150531054215id_/http%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910031554id_/http%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Cultures for Health Privacy Policy | Customer Privacy
 
 This Application collects some Personal Data from its Users. Your privacy is important to us. We will not share your information with any third party except as required by law or as necessary to complete an order placed by you with us and conduct normal business operations (see below). Please feel free to call or [email us](mailto:customersupport@culturesforhealth.com?subject=Customer%20Support "Privacy Policy Inquiry") with any questions regarding our privacy policy.
 
 Cultures for Health  
-1801 N. Louise Drive  
-Sioux Falls, SD 57107  
+200 Innovation Ave. Ste. 150  
+Morrisville, NC 27560  
 customersupport@culturesforhealth.com
 
 **  
