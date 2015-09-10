@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paperpile.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315035709id_/https%3A//paperpile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperpile.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910062142id_/https%3A//paperpile.com/privacy) for the most accurate reproduction.*
 
-# Paperpile | Privacy Policy
+# Privacy Policy - Paperpile
 
 Your privacy is critically important to us. At Paperpile we have a few fundamental principles:
 
