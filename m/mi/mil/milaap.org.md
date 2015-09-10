@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316134513id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910114007id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
 
 # Fundraise for a Cause with Milaap : the Best Crowdfunding Site | Milaap.org
 
@@ -68,4 +68,4 @@ Mr. Alister D Monte
 Milaap Social Ventures India Private Limited  
 549, 26th Main, 14th Cross, J P Nagar Phase I,   
 Bangalore, Karnataka, India  
-Email: [feedback@milaap.org](https://web.archive.org/web/20150316134513id_/https%3A//milaap.org/feedback@milaap.org)
+Email: [feedback@milaap.org](https://web.archive.org/web/20150910114007id_/https%3A//milaap.org/feedback@milaap.org)
