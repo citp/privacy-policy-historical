@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundation.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315140525id_/http%3A//soundation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundation.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910161856id_/https%3A//soundation.com/privacy-policy) for the most accurate reproduction.*
 
 # Soundation — Privacy Policy
 
