@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edgerankchecker.com privacy policy that was archived on 2015-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150602004437id_/https%3A//www.socialbakers.com/edgerankchecker/edgerank/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgerankchecker.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911013459id_/https%3A//www.socialbakers.com/edgerankchecker/edgerank/privacy) for the most accurate reproduction.*
 
 # EdgeRank Checker Privacy Policy | EdgeRank Checker
 
