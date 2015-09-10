@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartsparrow.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420035909id_/https%3A//www.smartsparrow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsparrow.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910065630id_/https%3A//www.smartsparrow.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Smart Sparrow - Adaptive Learning Platform
 
