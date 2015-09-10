@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the v.me privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507045624id_/http%3A//usa.visa.com/legal/privacy-policy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v.me privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910133819id_/http%3A//usa.visa.com/legal/privacy-policy/index.jsp) for the most accurate reproduction.*
 
 # Visa Privacy Policy | Visa USA
 
