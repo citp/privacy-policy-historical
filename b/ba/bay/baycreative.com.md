@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baycreative.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622205032id_/http%3A//baycreative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baycreative.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910181406id_/http%3A//www.baycreative.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BayCreative
 
