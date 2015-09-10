@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tobii.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317210220id_/http%3A//www.tobii.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobii.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910055055id_/http%3A//www.tobii.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Tobii Technology Privacy Policy
 
