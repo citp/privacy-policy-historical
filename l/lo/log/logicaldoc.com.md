@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logicaldoc.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510085413id_/http%3A//www.logicaldoc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicaldoc.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910054359id_/http%3A//www.logicaldoc.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy | LogicalDOC
 
@@ -9,7 +9,7 @@ The disclosure was made only for the site of LogicalDOC and not for other sites 
 
 ### THE OWNER OF TREATMENT
 
-After consultation of this site it may be processed data on persons identified or identifiable. The "owner" of their treatment is Logical Objcts Srl which is based in Carpi (Italy), via Aldo Moro interna 3
+After consultation of this site it may be processed data on persons identified or identifiable. The "owner" of their treatment is LogicalDOC Srl which is based in Carpi (Italy), via Aldo Moro interna 3
 
 ### TREATED DATA TYPES
 
