@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the id.net privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405151812id_/https%3A//www.id.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the id.net privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910053939id_/https%3A//www.id.net/privacy-policy) for the most accurate reproduction.*
 
 # id.net
 
@@ -6,7 +6,7 @@
 
 Last modified: September 20, 2012
 
-The Privacy Policy (the “Policy”) offered here, along with Our [Terms of Service](https://web.archive.org/terms-of-service) (“Terms”), discloses the privacy practices of ID.net Ltd. regarding any personal data You may provide to Us or that We receive from You. 
+The Privacy Policy (the “Policy”) offered here, along with Our [Terms of Service](https://www.id.net/terms-of-service) (“Terms”), discloses the privacy practices of ID.net Ltd. regarding any personal data You may provide to Us or that We receive from You. 
 
 Please read this Policy carefully. By accessing or using Our website, You acknowledge that You have read, understand and agree to be bound by the terms of this Policy on this Website. If You do not agree with this Policy, please do not use this Website. It is Your responsibility to review this Policy frequently and remain informed about any changes to it, so We encourage You to visit this page often. 
 
