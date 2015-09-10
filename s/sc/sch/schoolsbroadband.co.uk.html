@@ -1,264 +1,190 @@
-<!--The following is the downloaded HTML source of the schoolsbroadband.co.uk privacy policy that was archived on 2014-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141107175654id_/http%3A//www.schoolsbroadband.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the schoolsbroadband.co.uk privacy policy that was archived on 2015-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150911010057id_/http%3A//schoolsbroadband.co.uk/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Schools Broadband | Privacy Policy</title>
-<meta name="description" content="Schools Broadband. Experts in delivering secure, high speed broadband connection and content filtering for schools. Call 01133 222 333 or visit our website.">
-	<meta name="google-site-verification" content="wv2UU0u3sdkfIWkJYhMG77liWRcrgbmFwUJHlCjehak">
-<link href="http://www.schoolsbroadband.co.uk/template/css/style.css" rel="stylesheet" type="text/css">
-<link href="http://www.schoolsbroadband.co.uk/template/css/css.php" rel="stylesheet" type="text/css">
-
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/includes/tools/jquery/jquery-1.4.4.min.js"></script>
-<script type="text/javascript" src="/includes/tools/jquery/jquery.hoverIntent.js"></script>
-<script type="text/javascript" src="/template/includes/slidingGallery.js"></script>
-<script type="text/javascript" src="/template/includes/jquery.flow.1.1.min.js"></script>
-<script type="text/javascript">
-function lastPostFunc(){
-	var last_id = $(".child_item:last").attr("id")
-	data = $('#ajax_info').serialize();
-	$.post("/includes/ajax/get-next-children.php?current_pos="+last_id, data, function(msg){
-		if (data != "") {
-			$(".child_item:last").after(msg);           
-		}
-	});
-}
-$(window).scroll(function(){
-	if  ($(window).scrollTop() > $('#page_center').height() - $(window).height()){
-	   lastPostFunc();
-	}
-});
-$(document).ready( function () {	
-	$('#quick_contact').click(function() {
-		$('#quick_contact_form').slideToggle('slow');
-		return false;
-	});
-});
-</script>
-<script type="text/javascript">
-    function process_login() {
-        $.post('/widgets/includes/acl-ajax.php', $('#acl_login_form').serialize(), function (data) {
-            result = $.parseJSON(data);
-            if (result) {
-               document.location = "/";
-            } else {
-               alert("incorrect login");
-            }
-        });
-    }
-    $(document).ready(function(){
-        if ($('#acl_login_form')) {
-            $("#acl_username").keyup(function(e) {
-                if (e.keyCode == 13) {
-                    $("#acl_password").focus();
-                    $("#acl_password").select();
-                    e.preventDefault();
-                    return false;
-                }
-            });
-            $("#acl_password").keypress(function(e) {
-                if (e.keyCode == 13) {
-                   process_login();
-                   return false;
-                } 
-            });
-        }
-        if ($('#acl_logout_link')) {
-            $('#acl_logout_link').click(function() {
-                $.post('/widgets/includes/acl-ajax.php?action=user_logout', '', function(data) {
-		    document.location = "/";
-		});
-                return false;
-            });
-        }
-    });
-    function forgotpass() {
-	$.post('/widgets/includes/acl-ajax.php', {action: 'forgot_pass', email: $('#passwordresetemail').val()}, function(data) {
-	    var success = JSON.parse(data);
-	    if (!success) {
-		$('#errorpassreset').html('No user by that email found!');
-		$('#errorpassreset').show();
-	    } else {
-		$('#content').html('<h1>Password reset email sent</h1><p>Click on the link in your email to reset your password.  Remember to check your junk mail folders as well.</p>');
-	    }
-	});
-    }
-</script>	<script type="text/javascript">
-	function contactFormSubmit( elem, via_ajax ) {
-		submitted = elem;
-		errors = false;
-		submitted.find('.form_field').each( function () {
-			field_box = $(this).parent();
-			field_val = $(this).val();
-			field_req = field_box.hasClass('form_required');
-			field_box.children().removeClass('form_error');
-			if(field_val=='' && field_req == true){
-				field_box.children().addClass('form_error');
-				errors = true;
-			}
-		});
-		if(errors){
-			submitted.parent().find('.form_error_text').remove();
-			submitted.parent().append('<p class=\"form_error form_error_text\">Please fill in required fields.</p>')
-			return false;
-		} else {
-			if(via_ajax==1){
-				data = submitted.serialize();
-				$.post('ajaxprocessform', data, function(msg){
-					if(msg=='true'){
-						submitted.parent().html('<p class=\"form_success\">Thank you. Your request has been submitted successfully!</p>');
-						if(jQuery('#colorbox').css('display') != 'none') {
-							$.colorbox.resize();
-							setTimeout($.colorbox.close, 3000);
-						}
-					} else {
-						submitted.parent().children('#security_wrapper').children().addClass('form_error');
-					}
-				});
-				return false;
-			} else {
-				return true;
-			}
-		}
-	}
-	</script>
-	</head>
-<body class="body" id="page_body">
-<!--[if lte IE 6]>
-<script src="http://www.schoolsbroadband.co.uk/template/includes/js/ie6.js"></script><script>window.onload=function(){e("/template/images/")}</script><![endif]--><div id="wrapper">
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Privacy Policy - Schools Broadband Schools Broadband</title>
+	<meta name="author" content="Dan McGuire">
+	<link rel="pingback" href="http://schoolsbroadband.co.uk/xmlrpc.php">
+	<!-- Favicon and Apple Touch Icons -->
+	<link rel="icon" type="image/png" href="/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/img/apple-icons/152x152.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/img/apple-icons/144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/img/apple-icons/120x120.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/img/apple-icons/114x114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/img/apple-icons/76x76.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/img/apple-icons/72x72.png">
+	<link rel="apple-touch-icon-precomposed" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/img/apple-icons/60x60.png">
+	<!-- Fonts -->
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400,300,700" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Questrial" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet" type="text/css">
+	<!-- Styles -->
+    <link rel="stylesheet" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/css/reset.css">
+	<link rel="stylesheet" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/css/font-awesome.min.css">
+    	<link rel="stylesheet" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/style.css">
+	<link rel="stylesheet" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/css/slick.css">
+	<link rel="stylesheet" href="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/css/media.css">
+	<!-- Scripts -->
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>if(!window.jQuery){document.write('<script src="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/js/jquery_1.11.1.js"><\/script>');}</script><script src="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/js/jquery_1.11.1.js"></script>
+    <script src="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/js/general.js"></script>
+	<script src="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/js/slick.js"></script>
 	
+<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://schoolsbroadband.co.uk/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Schools Broadband">
+<meta property="og:description" content="We take privacy concerns seriously. That’s why we’ve designed our site so that you can browse freely without revealing your name or any other information about yourself – unless you choose to do so. Schools Broadband is a specialist division of Talk Straight. Talk Straight monitors the number of visits and time spent on this …">
+<meta property="og:url" content="http://schoolsbroadband.co.uk/privacy-policy/">
+<meta property="og:site_name" content="Schools Broadband">
+<meta property="article:publisher" content="https://www.facebook.com/pages/Schools-Broadband-Talk-Straight/488808247844678?fref=ts">
+<!-- / Yoast SEO plugin. -->
 
-<div id="header">
-	<div id="header_logo">
-		<a href="http://www.schoolsbroadband.co.uk/" class="all" title="Schools Broadband">
-			<img src="http://www.schoolsbroadband.co.uk/template/images/logo.png" alt="Schools Broadband" border="0">
-		</a>
-	</div>
-    <div class="call_us">Call us on: <span class="number">01133 222 333</span></div>
-	<div class="social_links">
-		<a href="http://www.facebook.com/" target="_blank">
-			<img src="http://www.schoolsbroadband.co.uk/template/images/facebook-icon.png" alt="" border="0">
-		</a>
-		<a href="http://www.twitter.com/SchoolBroadband" target="_blank">
-			<img src="http://www.schoolsbroadband.co.uk/template/images/twitter-icon.png" alt="SchoolBroadband" border="0">
-		</a>
-		<a href="http://www.linkedin.com/company/2898299?trk=tyah" target="_blank">
-			<img src="http://www.schoolsbroadband.co.uk/template/images/linkedin-icon.png" alt="company/2898299?trk=tyah" border="0">
-		</a>
-		<a href="http://www.schoolsbroadband.co.uk/rss" target="_blank">
-			<img src="http://www.schoolsbroadband.co.uk/template/images/rss-icon.png" alt="Schools Broadband" border="0">
-		</a>
-	</div>
-    
-	<div id="top_nav">
-		<ul class="navigation_block level1"><li class="dormantlink firstlink"><a href="http://www.schoolsbroadband.co.uk/">Home</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/about-us">About Us</a></li><li class="dormantlink parentlink"><a href="http://www.schoolsbroadband.co.uk/our-services">Our Services</a></li><li class="dormantlink parentlink"><a href="http://www.schoolsbroadband.co.uk/blog">Our Blog</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/terms">Terms and Conditions</a></li><li class="dormantlink lastlink"><a href="http://www.schoolsbroadband.co.uk/contact">Contact Us</a></li></ul>		<div class="search">
-			<!--<form action="http://www.schoolsbroadband.co.uk/search" name="searchform" method="get">
-			<input type="hidden" name="action" value="search_site" />
-			<input type="hidden" name="search_context" value="all" id="context-all" />
-			<input type="text" id="Search" value="" class="s all f-left" name="search-site">
-			<input type="submit" value=" " class="b all f-left" /><br/>
-			
-			</form>-->
-		</div>
-	</div>
-</div>	<div id="page_wrapper">
-		<div id="page_top"></div>
-		<div id="page">
-			<div id="page_left">
-	<div class="sidebar_top"></div>
-		<div id="leftnav" class="sidebar_block">
-			<ul class="navigation_block level1"><li class="dormantlink firstlink"><a href="http://www.schoolsbroadband.co.uk/about-us">About Us</a></li><li class="dormantlink parentlink"><a href="http://www.schoolsbroadband.co.uk/our-services">Our Services</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/content-filtering">Content Filtering </a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/system-protection">System Protection</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/mobile-device-management">Mobile Device Control</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/broadband-costs">Broadband Costs</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/testimonials">Testimonials</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/video-testimonials">Video Testimonials</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/leeds-10k">The Leeds 10K</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/terms">Terms and Conditions</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/contact">Contact Us</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/careers">Careers</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/our-brochures">Our Brochures</a></li><li class="dormantlink lastlink"><a href="http://www.schoolsbroadband.co.uk/technical-support">Technical Support</a></li></ul>		</div>
-	<div class="sidebar_base"></div>
-</div>
+<link rel="alternate" type="application/rss+xml" title="Schools Broadband » Privacy Policy Comments Feed" href="http://schoolsbroadband.co.uk/privacy-policy/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/schoolsbroadband.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://schoolsbroadband.co.uk/wp-includes/js/wp-emoji-release.min.js?ver=4.2.4" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="ubermenu-open-sans-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A%2C300%2C400%2C700&amp;ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="gmw-css" href="http://schoolsbroadband.co.uk/wp-content/plugins/google-maps-widget/css/gmw.css?ver=2.51" type="text/css" media="all">
+<link rel="stylesheet" id="ubermenu-css" href="http://schoolsbroadband.co.uk/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.1.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="ubermenu-vanilla-bar-css" href="http://schoolsbroadband.co.uk/wp-content/plugins/ubermenu/assets/css/skins/vanilla_bar.css?ver=4.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="ubermenu-font-awesome-css" href="http://schoolsbroadband.co.uk/wp-content/plugins/ubermenu/assets/css/fontawesome/css/font-awesome.min.css?ver=4.1" type="text/css" media="all">
+<link rel="stylesheet" id="jquery.lightbox.min.css-css" href="http://schoolsbroadband.co.uk/wp-content/plugins/wp-jquery-lightbox/styles/lightbox.min.css?ver=1.4.6" type="text/css" media="all">
+<script type="text/javascript" src="http://schoolsbroadband.co.uk/wp-includes/js/jquery/jquery.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://schoolsbroadband.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://schoolsbroadband.co.uk/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://schoolsbroadband.co.uk/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.2.4">
+<link rel="shortlink" href="http://schoolsbroadband.co.uk/?p=1291">
+<style id="ubermenu-custom-generated-css">
+/** UberMenu Custom Menu Styles (Customizer) **/
+/* main */
+.ubermenu-main { max-width:1600px; background-color:#ffffff; background:-webkit-gradient(linear,left top,left bottom,from(#ffffff),to(#ffffff)); background:-webkit-linear-gradient(top,#ffffff,#ffffff); background:-moz-linear-gradient(top,#ffffff,#ffffff); background:-ms-linear-gradient(top,#ffffff,#ffffff); background:-o-linear-gradient(top,#ffffff,#ffffff); background:linear-gradient(top,#ffffff,#ffffff); border:1px solid #ffffff; }
+.ubermenu-main .ubermenu-item-level-0 > .ubermenu-target { font-size:16px; color:#a8a8a8; border-left:1px solid #ffffff; }
+.ubermenu.ubermenu-main .ubermenu-item-level-0:hover > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-active > .ubermenu-target { color:#28abe0; }
+.ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-item > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-parent > .ubermenu-target, .ubermenu-main .ubermenu-item-level-0.ubermenu-current-menu-ancestor > .ubermenu-target { color:#28abe0; }
+.ubermenu-main .ubermenu-submenu.ubermenu-submenu-drop { color:#a8a8a8; }
+.ubermenu-main .ubermenu-submenu .ubermenu-highlight { color:#28abe0; }
+.ubermenu.ubermenu-main .ubermenu-item-normal > .ubermenu-target:hover { color:#28abe0; }
+.ubermenu-main .ubermenu-item-normal.ubermenu-current-menu-item > .ubermenu-target { color:#28abe0; }
+.ubermenu.ubermenu-main .ubermenu-item-normal > .ubermenu-target:hover, .ubermenu.ubermenu-main .ubermenu-item-normal.ubermenu-active > .ubermenu-target { background-color:#28abe0; }
+.ubermenu-main .ubermenu-target > .ubermenu-target-description, .ubermenu-main .ubermenu-submenu .ubermenu-target > .ubermenu-target-description { color:#28abe0; }
+.ubermenu-main, .ubermenu-main .ubermenu-target, .ubermenu-main .ubermenu-nav .ubermenu-item-level-0 .ubermenu-target, .ubermenu-main div, .ubermenu-main p, .ubermenu-main input { font-family:'Open Sans', sans-serif; font-weight:400; }
 
 
+/* Status: Loaded from Transient */
 
-
-
-			<div id="page_center" class="">
-            	<div id="content_top"></div>
-				
-
-<div id="content">
-	<div id="breadcrumb"><a href="/">Home</a> » Privacy</div>
-	<div class="list1"><h1>Privacy</h1><div id="summary" class="page-summary page-summary-6"><p><strong><br>We take privacy concerns seriously.&nbsp; That's why we've designed our site so that you can browse freely without revealing your name or any other information about yourself - unless you choose to do so.</strong></p></div><p>Schools Broadband is a specialist division of Talk Straight.&nbsp; Talk Straight monitors the number of visits and time spent on this website to provide an indication of the helpfulness of this website (see below) and includes contact forms which contain fields for collecting the name, address, phone number and e-mail address of visitors. This information may be used to respond to any enquiries or complaints and process orders.</p>
-<p>We may, in future, allow existing customers to access online billing through the Talk Straight or Schools Broadband websites.&nbsp; Any information entered here may be used by Talk Straight, its associated companies, subsidiaries, agents and business partners for the purposes of managing your account.&nbsp; It may also be disclosed to regulatory bodies for the purposes of monitoring and/or enforcing Talk Straight’s compliance with any regulatory rules/codes.</p>
+</style></head>
+<body>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-40906062-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+	<nav class="mobile-menu">
+	<a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-vanilla-bar ubermenu-loc-mobile-menu" data-ubermenu-target="ubermenu-main-3-mobilemenu"><i class="fa fa-bars"></i>Menu</a><nav id="ubermenu-main-3-mobilemenu" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-3 ubermenu-loc-mobile-menu ubermenu-responsive ubermenu-responsive-default ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-shift ubermenu-trigger-hover_intent ubermenu-skin-vanilla-bar ubermenu-bar-align-center ubermenu-items-align-center ubermenu-bound ubermenu-sub-indicators ubermenu-retractors-responsive"><ul id="ubermenu-nav-main-3-Mobile Menu" class="ubermenu-nav"><li id="menu-item-72" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-72 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Homepage</span></a></li><li id="menu-item-1409" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-1409 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.schoolsbroadband.co.uk/#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Services</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-1409 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"><li id="menu-item-1405" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1405 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/homepage/connection-types/"><span class="ubermenu-target-title ubermenu-target-text">Connection Types</span></a></li><li id="menu-item-1406" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1406 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/homepage/e-safety-filtering/"><span class="ubermenu-target-title ubermenu-target-text">E-Safety and Filtering</span></a></li><li id="menu-item-1407" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1407 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/homepage/network-security/"><span class="ubermenu-target-title ubermenu-target-text">Network Security</span></a></li><li id="menu-item-1395" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1395 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/vpls-services/"><span class="ubermenu-target-title ubermenu-target-text">VPLS / WAN</span></a></li><li id="menu-item-1397" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1397 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/wi-fi/"><span class="ubermenu-target-title ubermenu-target-text">Wi-Fi</span></a></li><li id="menu-item-1396" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1396 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/voip-telephony/"><span class="ubermenu-target-title ubermenu-target-text">VoIP Telephony</span></a></li><li id="menu-item-1399" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1399 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/mobiles/"><span class="ubermenu-target-title ubermenu-target-text">Mobiles</span></a></li><li id="menu-item-1398" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1398 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/mobile-device-management/"><span class="ubermenu-target-title ubermenu-target-text">Mobile Device Management</span></a></li><li class="ubermenu-retractor ubermenu-retractor-mobile"><i class="fa fa-times"></i> Close</li></ul></li><li id="menu-item-1410" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-1410 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://www.schoolsbroadband.co.uk/#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Useful Resources</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-1410 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"><li id="menu-item-1401" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1401 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/brochures/"><span class="ubermenu-target-title ubermenu-target-text">Brochures</span></a></li><li id="menu-item-1402" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1402 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/e-safety/"><span class="ubermenu-target-title ubermenu-target-text">E-Safety</span></a></li><li id="menu-item-1403" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1403 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/newsletters/"><span class="ubermenu-target-title ubermenu-target-text">Newsletters</span></a></li><li class="ubermenu-retractor ubermenu-retractor-mobile"><i class="fa fa-times"></i> Close</li></ul></li><li id="menu-item-73" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-73 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/news-events/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">News &amp; Events</span></a></li><li id="menu-item-71" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-71 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/contact/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Contact</span></a></li></ul></nav>	</nav>
+	<div class="container">
+		<header>
+			<a class="logo" href="/"><img src="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/img/logo.gif"></a>
+			<ul class="social">
+				<li><a href="http://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
+				<li><a href="http://www.twitter.com/SchoolBroadband"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="http://www.linkedin.com/company/2898299?trk=tyah"><i class="fa fa-linkedin"></i></a></li>
+				<li><a href="tel:01133222333"><i class="fa fa-phone"></i> 011 33 222 333</a></li>
+			</ul>
+						<nav class="main-menu">
+				<a class="ubermenu-responsive-toggle ubermenu-responsive-toggle-main ubermenu-skin-vanilla-bar ubermenu-loc-main-menu" data-ubermenu-target="ubermenu-main-2-mainmenu"><i class="fa fa-bars"></i>Menu</a><nav id="ubermenu-main-2-mainmenu" class="ubermenu ubermenu-nojs ubermenu-main ubermenu-menu-2 ubermenu-loc-main-menu ubermenu-responsive ubermenu-responsive-default ubermenu-responsive-collapse ubermenu-horizontal ubermenu-transition-shift ubermenu-trigger-hover_intent ubermenu-skin-vanilla-bar ubermenu-bar-align-center ubermenu-items-align-center ubermenu-bound ubermenu-sub-indicators ubermenu-retractors-responsive"><ul id="ubermenu-nav-main-2-Main Menu" class="ubermenu-nav"><li id="menu-item-17" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-17 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Home</span></a></li><li id="menu-item-137" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-has-children ubermenu-item-137 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/homepage/#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">About</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-137 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"><li id="menu-item-101" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-101 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/company/"><span class="ubermenu-target-title ubermenu-target-text">Company</span></a></li><li id="menu-item-100" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-100 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/directors/"><span class="ubermenu-target-title ubermenu-target-text">Directors</span></a></li><li id="menu-item-99" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-99 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/charities/"><span class="ubermenu-target-title ubermenu-target-text">Charities</span></a></li><li id="menu-item-98" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-98 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/careers/"><span class="ubermenu-target-title ubermenu-target-text">Careers</span></a></li><li id="menu-item-1811" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1811 ubermenu-item-normal ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/offices/"><span class="ubermenu-target-title ubermenu-target-text">Our Offices</span></a></li><li class="ubermenu-retractor ubermenu-retractor-mobile"><i class="fa fa-times"></i> Close</li></ul></li><li id="menu-item-484" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-home ubermenu-item-has-children ubermenu-item-484 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Services</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-484 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"><li id="menu-item-451" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-451 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/homepage/connection-types/"><span class="ubermenu-target-title ubermenu-target-text">Connections</span></a></li><li id="menu-item-452" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-452 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/homepage/e-safety-filtering/"><span class="ubermenu-target-title ubermenu-target-text">Web Filtering</span></a></li><li id="menu-item-453" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-453 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/homepage/network-security/"><span class="ubermenu-target-title ubermenu-target-text">Network Security</span></a></li><li id="menu-item-125" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-125 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/vpls-services/"><span class="ubermenu-target-title ubermenu-target-text">VPLS / WAN</span></a></li><li id="menu-item-124" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-124 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/wi-fi/"><span class="ubermenu-target-title ubermenu-target-text">Wi-Fi</span></a></li><li id="menu-item-123" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-123 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/voip-telephony/"><span class="ubermenu-target-title ubermenu-target-text">VoIP Telephony</span></a></li><li id="menu-item-122" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-122 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/mobiles/"><span class="ubermenu-target-title ubermenu-target-text">Mobiles</span></a></li><li id="menu-item-121" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-121 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/mobile-device-management/"><span class="ubermenu-target-title ubermenu-target-text">Mobile Device Management</span></a></li><li class="ubermenu-retractor ubermenu-retractor-mobile"><i class="fa fa-times"></i> Close</li></ul></li><li id="menu-item-21" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-21 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/news-events/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">News &amp; Events</span></a></li><li id="menu-item-80" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-80 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/support/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Support</span></a></li><li id="menu-item-19" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-19 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/contact/" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Contact</span></a></li><li id="menu-item-1927" class="ubermenu-item ubermenu-item-type-custom ubermenu-item-object-custom ubermenu-item-home ubermenu-item-has-children ubermenu-item-1927 ubermenu-item-level-0 ubermenu-column ubermenu-column-auto ubermenu-has-submenu-drop ubermenu-has-submenu-mega"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/#" tabindex="0"><span class="ubermenu-target-title ubermenu-target-text">Useful Resources</span></a><ul class="ubermenu-submenu ubermenu-submenu-id-1927 ubermenu-submenu-type-auto ubermenu-submenu-type-mega ubermenu-submenu-drop ubermenu-submenu-align-full_width"><li id="menu-item-1066" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1066 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/brochures/"><span class="ubermenu-target-title ubermenu-target-text">Brochures</span></a></li><li id="menu-item-1063" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1063 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/newsletters/"><span class="ubermenu-target-title ubermenu-target-text">Newsletters</span></a></li><li id="menu-item-1065" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1065 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/e-safety/"><span class="ubermenu-target-title ubermenu-target-text">E-Safety</span></a></li><li id="menu-item-1451" class="ubermenu-item ubermenu-item-type-post_type ubermenu-item-object-page ubermenu-item-1451 ubermenu-item-auto ubermenu-item-header ubermenu-item-level-1 ubermenu-column ubermenu-column-auto"><a class="ubermenu-target ubermenu-item-layout-default ubermenu-item-layout-text_only" href="http://schoolsbroadband.co.uk/technical/"><span class="ubermenu-target-title ubermenu-target-text">Technical</span></a></li><li class="ubermenu-retractor ubermenu-retractor-mobile"><i class="fa fa-times"></i> Close</li></ul></li></ul></nav>			</nav>
+		</header>	<div class="content page">
+		<h1>Privacy Policy</h1>
+					<p>We take privacy concerns seriously.  That’s why we’ve designed our site so that you can browse freely without revealing your name or any other information about yourself – unless you choose to do so.</p>
+<p>Schools Broadband is a specialist division of Talk Straight.  Talk Straight monitors the number of visits and time spent on this website to provide an indication of the helpfulness of this website (see below) and includes contact forms which contain fields for collecting the name, address, phone number and e-mail address of visitors. This information may be used to respond to any enquiries or complaints and process orders.</p>
+<p>We may, in future, allow existing customers to access online billing through the Talk Straight or Schools Broadband websites.  Any information entered here may be used by Talk Straight, its associated companies, subsidiaries, agents and business partners for the purposes of managing your account.  It may also be disclosed to regulatory bodies for the purposes of monitoring and/or enforcing Talk Straight’s compliance with any regulatory rules/codes.</p>
 <p>This information may also be used for offering contract renewals, research and statistical purposes and crime prevention. It may be transferred to any country, including countries outside the European Economic Area for any of these purposes and for systems administration. Where this happens, we will ensure that anyone to whom we pass your information agrees to treat your information with the same level of protection as if we were dealing with it.</p>
 <p>If you give us information about another person, in doing so you confirm that they have given you permission to provide it to us to be able to process their personal data and also that you have told them who we are and what we will use their data for, as set out in this notice.</p>
-<p>The Talk Straight and Schools Broadband&nbsp;websites may contain links to other websites. However, Talk Straight is not responsible for the privacy, practices or content of these other sites.</p>
-<p>&nbsp;</p></div>				<div class="child_item">
-								<div class="child_body ">
-					<h2><a href="cookies">Cookies</a></h2>
-					<p class="light_grey">We make it a policy to always have the best quality tea and coffee in our office kitchen.&nbsp; And now we have a top quality cookie policy too.&nbsp; Sadly for our staff, this is not a policy that...</p>
-					<a href="cookies" class="read_more">Read More</a>
-				</div>
-			</div>
-		</div>                <div id="content_base"></div>
-			</div>
-					</div> 
-		<div id="page_base"></div> 
-	</div> 
-	<div id="footer">
-			                    <div id="footer_logo">	
-<img src="http://www.schoolsbroadband.co.uk/template/images/homepage-partners.png" alt="Schools Broadband" border="0" align="right" class="clear f-right">
-    </div>
-
-        	    <div id="footer_address">
-			<p>Schools Broadband,&nbsp;
-			Suite 4,&nbsp;Dalesway House,&nbsp;Ilkley,&nbsp;Leeds,&nbsp;LS29 9LA&nbsp;
-            Tel: 01133 222 333</p>
-    	</div>
-        <div class="social_links">
-            <a href="http://www.linkedin.com/company/2898299?trk=tyah" target="_blank">
-                <img src="http://www.schoolsbroadband.co.uk/template/images/linkedin-icon.png" alt="company/2898299?trk=tyah" border="0">
-            </a>
-            <a href="http://www.twitter.com/SchoolBroadband" target="_blank">
-                <img src="http://www.schoolsbroadband.co.uk/template/images/twitter-icon.png" alt="SchoolBroadband" border="0">
-            </a>
-            <a href="http://www.facebook.com/" target="_blank">
-                <img src="http://www.schoolsbroadband.co.uk/template/images/facebook-icon.png" alt="" border="0">
-            </a>
-            <a href="http://www.schoolsbroadband.co.uk/rss" target="_blank">
-                <img src="http://www.schoolsbroadband.co.uk/template/images/rss-icon.png" alt="Schools Broadband" border="0">
-            </a>
-            
-        </div>
-		<div id="footer_links">
-
-			<ul class="navigation_block level1"><li class="dormantlink firstlink"><a href="http://www.schoolsbroadband.co.uk/">Home</a></li><li class="dormantlink parentlink"><a href="http://www.schoolsbroadband.co.uk/terms-conditions">Website Terms &amp; Conditions</a></li><li class="activelink parentlink"><a href="http://www.schoolsbroadband.co.uk/privacy">Privacy Policy</a></li><li class="dormantlink"><a href="http://www.schoolsbroadband.co.uk/sitemap">Sitemap</a></li><li class="dormantlink lastlink"><a href="http://www.schoolsbroadband.co.uk/contact">Contact Us</a></li></ul>
-		</div>
-		<div class="ice_info"><p>Copyright © 2014. All rights reserved.</p></div>
-</div>
-
-
-
-</div>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-40906062-1', 'schoolsbroadband.co.uk');
-  ga('send', 'pageview');
-
-</script>
-
-
-
-
-
-<!--VISISTAT SNIPPET//-->
+<p>The Talk Straight and Schools Broadband websites may contain links to other websites. However, Talk Straight is not responsible for the privacy, practices or content of these other sites.</p>
+<p>Cookies<br>
+We make it a policy to always have the best quality tea and coffee in our office kitchen.  And now we have a top quality cookie policy too.  Sadly for our staff, this is not a policy that guarantees biscuit availability.</p>
+<p>In this case, we’re talking about new ePrivacy legislation which requires us to tell you about our web cookies (sometimes called http cookies or browser cookies).  The type of web cookie we use is a tracking cookie which lets us analyse how many people have visited our site, how people generally move around it and the popularity of each of our pages etc.  Almost all commercial websites use an analytics tool that will depend on this type of cookie.</p>
+<p>We receive the analytics information as ‘anonymous traffic data’.  This just means that we get a rough idea of trends and how user-friendly and relevant our site is without any specific details about individual visitors.  In short, it means we’ll be more informed when we’re deciding what we need to do to improve our website in future.</p>
+<p>And that’s it.  We don’t use cookies to collect any personal data, so there is no way for us to identify you as an individual; remember you from one visit to the next; nor track the way you personally have used our site.</p>
+<p>Even though our cookie does not collect personal information, and only exists to help us continuously improve the browsing experience for our site’s visitors, we’re required by law to tell you that if you want to block it anyway – you can.  You’ll be able to find instructions for overriding automatic cookie settings on the internet.  Once you’ve followed the appropriate instructions for your browser, you can come back to this site and the way you browse will no longer inform our research.</p>
+<p>Just be aware that by doing this, you might be changing the way your browser treats all cookies from all websites – not just ours.  Depending on the level of privacy settings you choose, this may affect your ability to use some websites altogether, such as sites that remember items in your shopping basket while you continue to browse (because ‘remembering’ what you’ve selected on a previous page is only possible with cookies).</p>
+<p>Thanks for reading and happy browsing!</p>
+					</div>
+		<footer>
+			<a href="tel:01133222333" class="phone-number"><i class="fa fa-phone"></i> 011 33 222 333</a>
+			<ul>
+				<li>
+					Schools Broadband<br>
+					Unit 2-4 Backstone Business Park<br>
+					Dansk Way, Ilkley<br>
+					West Yorkshire<br>
+					LS29 8JZ<br>
+					<a href="mailto:info@schoolsbroadband.co.uk">info@schoolsbroadband.co.uk</a>
+				</li>
+				<li>
+					<ul>
+						<li><a href="/support/">Support</a></li>
+						<li><a href="/careers/">Careers</a></li>
+						<li><a href="/privacy-policy/">Privacy Policy</a></li>
+					</ul>
+				</li>
+				<li>
+					<ul>
+						<li><a href="/terms-conditions/ ">Terms &amp; Conditions</a></li>
+						<li><a href="/brochures/">Brochures</a></li>
+					</ul>
+				</li>
+				<li>
+					<ul>
+						<li><a href="https://www.facebook.com/pages/Schools-Broadband-Talk-Straight/488808247844678?fref=ts"><i class="fa fa-facebook"></i></a></li>
+						<li><a href="http://www.twitter.com/SchoolBroadband"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="http://www.linkedin.com/company/2898299?trk=tyah"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="#"><i class="fa fa-rss"></i></a></li>
+					</ul>
+				</li>
+			</ul>
+		</footer>
+	</div>
+	<img src="http://schoolsbroadband.co.uk/wp-content/themes/schoolsbroadband_1_0/img/partners.jpg">
+	<script type="text/javascript" src="http://schoolsbroadband.co.uk/wp-content/plugins/google-maps-widget/js/jquery.colorbox.min.js?ver=2.51"></script>
+<script type="text/javascript" src="//maps.googleapis.com/maps/api/js?sensor=false&amp;ver=4.2.4"></script>
 <script type="text/javascript">
-//<![CDATA[
-var DID=210707;
-var pcheck=(window.location.protocol == "https:") ? "https://sniff.visistat.com/live.js":"http://stats.visistat.com/live.js";
-document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'ipt>');
-//]]>
-</script><script src="https://sniff.visistat.com/live.js" type="text/javascript"></script>
-
-<!--VISISTAT SNIPPET//-->
-
+/* <![CDATA[ */
+var ubermenu_data = {"remove_conflicts":"on","reposition_on_load":"off","intent_delay":"300","intent_interval":"100","intent_threshold":"7","scrollto_offset":"50","scrollto_duration":"1000","responsive_breakpoint":"0","accessible":"on","retractor_display_strategy":"responsive","touch_off_close":"on","v":"3.1.0.1","ajax_url":"http:\/\/schoolsbroadband.co.uk\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://schoolsbroadband.co.uk/wp-content/plugins/ubermenu/assets/js/ubermenu.min.js?ver=3.1.0.1"></script>
+<script type="text/javascript" src="http://schoolsbroadband.co.uk/wp-content/plugins/wp-jquery-lightbox/jquery.touchwipe.min.js?ver=1.4.6"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var JQLBSettings = {"showTitle":"1","showCaption":"1","showNumbers":"1","fitToScreen":"0","resizeSpeed":"400","showDownload":"0","navbarOnTop":"0","marginSize":"","slideshowSpeed":"4000","prevLinkTitle":"previous image","nextLinkTitle":"next image","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","pause":"(pause slideshow)","play":"(play slideshow)"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://schoolsbroadband.co.uk/wp-content/plugins/wp-jquery-lightbox/jquery.lightbox.min.js?ver=1.4.6"></script>
 
 
 </body></html>
