@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asweetpeachef.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606045145id_/http%3A//www.asweetpeachef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asweetpeachef.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910164542id_/http%3A//www.asweetpeachef.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • A Sweet Pea Chef
 
@@ -18,6 +18,10 @@ When you visit the website, we may send one or more cookies — a small text fil
 
 **Keeping your information safe:**  Sweet Pea Chef cares about the security of your information and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Service. However, Sweet Pea Chef cannot ensure or warrant the security of any information you transmit to Sweet Pea Chef or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of Sweet Pea Chef’s distributors, such as social networks. Sweet Pea Chef is not responsible for the functionality or security measures of any third party.
 
+## Advertising
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+
 ## Children’s Privacy
 
 Sweet Pea Chef does not knowingly collect or solicit Personally Identifiable Information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Service and its content are not directed at children under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at lacey@sweetpeachef.com.
@@ -26,10 +30,14 @@ Sweet Pea Chef does not knowingly collect or solicit Personally Identifiable In
 
 We are not responsible for the practices employed by websites or services linked to or from the Service, including the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible for and do not control any third parties that you authorize to access your User Content. If you are using a third-party website or service (like Facebook) and you allow such a third party access to your User Content, you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from sources other than through the Service.
 
+For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+
+If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
+
 If you have any questions regarding the privacy policy of a sweet pea chef then you may contact us at lacey@sweetpeachef.com
 
 ## Changes to Our Privacy Policy
 
 Sweet Pea Chef may, in its sole discretion, modify or update this Privacy Policy from time to time, so you should review this page periodically. When we change the policy in a material manner, we will update the “last modified” date at the bottom of this page.
 
-Last updated March 20th 2015
+Last updated August 15th 2015
