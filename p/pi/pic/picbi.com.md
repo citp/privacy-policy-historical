@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the picbi.com privacy policy that was archived on 2014-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141101210723id_/http%3A//picbi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picbi.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910143921id_/http%3A//picbi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PICBI - PICBI
+# Privacy Policy
 
 Thank you for visiting Picbi.com (here refered to as 'the Site' or PICBI). Please make sure to read this privacy policy very carefully before you use the Site. If you do not agree with any of it, please do not use our site. By using or accessing the Site, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
