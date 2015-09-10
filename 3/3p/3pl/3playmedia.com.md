@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3playmedia.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314235847id_/http%3A//www.3playmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3playmedia.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910143616id_/http%3A//www.3playmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 3Play Media
 
@@ -10,7 +10,11 @@ By using the Site, you consent to the practices described in this Privacy Policy
 
 We may collect Personal Information, including your e-mail address, name, postal address, telephone number, certain types of demographic information, and information about your computer hardware and software. We may also combine Personal Information you provide to us with publicly available information, such as your organization’s name.
 
-We use your Personal Information for the operation of service, to fulfill your requests, to send you important information regarding the Site, to improve the quality of the Site, and for general usage statistics. We may use your Personal Information to inform you of products, services, and promotions from us. We may also contact you via surveys to conduct research about your opinion of current services or of potential new services.
+We use your Personal Information for the operation of service, to fulfill your requests, to send you important information regarding the Site, to improve the quality of the Site, and for general usage statistics. We may use your Personal Information to inform you of products, services, and promotions. We may also contact you via surveys to conduct research about your opinion of current services or of potential new services. If you do not want to receive such email messages, we will give you the option to opt out or change your preferences. You can opt out of receiving these emails [here](http://info.3playmedia.com/EmailPreferences).
+
+We may share Personal Information with our trusted partners who work on our behalf. These partners may use your Personal Information to help 3Play Media communicate with you about offers from 3Play Media.
+
+3Play Media may work with ad networks that display targeted advertisements based on Personal Information. These ad networks may make inferences based on this information in order to provide targeted ads to people who meet the targeting criteria. They may also collect and aggregate information about you and use that information to serve targeted ads to you. You can opt out of targeted advertising through the Network Advertising Initiative (NAI). Clicking [here](http://www.networkadvertising.org/choices/#completed) will allow you to opt out of seeing targeted ads from us and from other NAI approved member companies.
 
 If you provide us with Personal Information, you have the right to review the information for correctness, request correction of errors, request that the information not be used to contact you, request that the information be deleted from our records, and to opt out of being solicited by us.
 
@@ -26,7 +30,9 @@ We may collect non-personal information, such as demographic information and any
 
 ## Cookies
 
-The Site may use cookies to help you personalize your online experience. If you choose to decline cookies, you may not be able to fully experience all of the features of the Site. The use of cookies is standard practice on the Internet and is done by many websites.
+The Site may use cookies to help you personalize your online experience. If you choose to decline cookies, you may not be able to fully experience all of the features of the Site. The use of cookies is standard practice on the Internet and is done by many websites. 
+
+We may also use cookies, tracking pixels and related technologies to improve the site, communicate with you, and provide targeted advertising to you. You can opt out of seeing targeted advertising by clicking [here](http://www.networkadvertising.org/choices/#completed).
 
 ## Web Beacons
 
