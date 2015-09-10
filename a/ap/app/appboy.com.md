@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321075224id_/https%3A//www.appboy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910124504id_/https%3A//www.appboy.com/privacy) for the most accurate reproduction.*
 
 # Read our Privacy Policy | Appboy
 
-Last Revised Feb 28, 2014 
+Last Revised July 1, 2015 
 
 ## Introduction
 
-Appboy collects information through the use of applications created and distributed by third party developers that integrate Appboy software or services ("Developer Applications"). This privacy policy describes Appboy’s collection of information from end users of mobile devices who have downloaded a Developer Application that integrates Appboy services and from visitors to our website. This privacy policy applies to all individuals and legal entities that interact with Appboy products and services, including activities where the person or entity interacting with the Appboy products or services pay for such interaction as well as any free usage activities. Agreements entered into between Appboy and its Developers, partners and vendors may provide for additional terms related to treatment of certain information of end users and data generally by Appboy.
+Appboy collects information through the use of applications created and distributed by third party developers that integrate Appboy software or services (“Developer Applications”). This privacy policy describes Appboy’s collection of information from end users of mobile devices who have downloaded a Developer Application that integrates Appboy services and from visitors to our website.
 
 This privacy policy does not govern any collection or disclosure of information by third parties, including Developer Applications. For a complete description of information gathered by any particular Developer Application, see the privacy policy for that Developer Application. If you believe an Developer Application uses Appboy software or services but does not have a privacy policy, contact us at [info@appboy.com](mailto:info@appboy.com).
 
@@ -20,37 +20,19 @@ Application Usage Information \- We collect information about how Developer Appl
 
 Website Information \- We may collect information provided on our website such as contact information or feedback. Additionally, we may use cookies and web beacons to monitor traffic patterns and collect information about previous visits to our web site.
 
-Personally Identifiable Information \- We may collect personally identifiable information shared with Developer Applications. We may also collect personally identifiable information from third parties used for authentication, such as when a user logs in to a Developer Application using a Facebook account, and from third party partners such as Facebook, Twitter, and Klout. Personally identifiable information collected may include information like name, email address, location, gender, interests, device, app usage, user ID, and contact information.e name, email address, location, gender, interests, device, app usage, user ID, and contact information.
+Personally Identifiable Information \- We may collect personally identifiable information shared with Developer Applications. We may also collect personally identifiable information from third parties used for authentication, such as when a user logs in to a Developer Application using a Facebook account, and from third party partners such as Facebook, Twitter, and Klout. Personally identifiable information collected may include information like name, email address, location, gender, interests, device, app usage, user ID, and contact information.
 
 ## Does Appboy Collect Real Time Location Information?
 
-Appboy may collect device location information if location services are enabled for any Developer Applications on the device. We use location information to provide Developers with information about the use of their Developer Applications and to assist in serving advertisements. Anonymous location information may be shared with advertising partners and Developers for their independent use. See the "Opt-Out" section below for details on limiting the collection of location information.
+Appboy may collect device location information if location services are enabled for any Developer Applications on the device. We use location information to provide Developers with information about the use of their Developer Applications. See the "Opt-Out" section below for details on limiting the collection of location information.
 
 ## How Does Appboy Use Information Collected from You?
 
-Appboy Internal Use \- We use information we collect to provide partner Developers and advertisers with information about usage of Developer Applications that integrate the Appboy Service. Appboy may also use personal information collected from you for the following general purposes: 
-
-to fulfill partner Developer requests for Appboy products and services;
-
-to improve the Appboy sites and Appboy products and services;
-
-to contact you to resolve problems;
-
-to send you information about Appboy products and services including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; 
-
-to communicate with you about products and services offered by Appboy and our selected partners;
-
-to conduct research;
-
-to make the Appboy web sites easier to use by reducing the need for you to enter information
-
-to enforce our agreements, policies and terms of use;
+Appboy Internal Use \- We use information we collect to provide partner Developers with information about usage of Developer Applications that integrate the Appboy Service. 
 
 Third Parties - We will share information we collect with third parties only in ways described in this privacy statement.
 
 We may disclose information we collect :
-
-to third party advertising partners, including disclosure or sale of certain tracking data;
 
 to third parties as required by law, such as to comply with a subpoena or similar legal process;
 
@@ -60,17 +42,19 @@ to trusted services providers who work on our behalf, who do not have an indepen
 
 to third parties in conjunction with a merger, acquisition or sale of Appboy. If Appboy is involved in a merger, acquisition, or sale of all or a portion of its assets, affected users will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices users may have regarding this information;
 
-to advertisers and third-party advertising networks and as described below under the Section entitled Automatic Data Collection and Advertising;
+to Developers in the form of aggregated, anonymous data about the way Developer Applications are used so that Developers can improve their respective Developer Applications.
 
-to Developers in the form of aggregated, anonymous data about the way Developer Applications are used so that Developers can improve their respective Developer Applications. We use information about you collected from third party partners in compliance with the terms set forth by those third parties.
+We use information about you collected from third party partners in compliance with the terms set forth by those third parties.
 
-## Automatic Data Collection and Advertising
+## Automatic Data Collection
 
-We automatically collect information about how Developer Applications are used, such as the frequency and duration of usage. This includes details about mobile devices, such as a unique Appboy-generated ID for the mobile device. We share anonymous information about use of Developer Applications with Developers and analytics companies, including which Developer Applications users have downloaded and the way those Developer Applications are used, which facilitates improvements to Developer Applications. We may also provide information about use of Developer Applications to our advertising partners.
+We automatically collect information about how Developer Applications are used, such as the frequency and duration of usage. This includes details about mobile devices, such as a unique Appboy-generated ID for the mobile device. We share anonymous information about use of their respective Developer Applications with Developers, including which Developer Applications users have downloaded and the way those Developer Applications are used, which facilitates improvements to Developer Applications.
 
 ## Opt-Out
 
-You may opt out of the collection of location information by turning off location services for Developer Applications on your mobile device. You may opt out of the collection of personally identifiable information by not providing that information to Developer Applications. You can prevent collection of personally identifiable information from third parties such as Facebook or Twitter by not logging in to Developer Applications using your Facebook or Twitter account. You can prevent collection of all information by uninstalling Developer Applications that integrate the Appboy Service.
+You may opt out of the collection of location information by turning off location services for Developer Applications on your mobile device. You may opt out of the collection of personally identifiable information by not providing that information to Developer Applications. You can prevent collection of personally identifiable information from third parties such as Facebook or Twitter by not logging in to Developer Applications using your Facebook or Twitter account.
+
+You can prevent collection of all information by uninstalling Developer Applications that integrate the Appboy Service.
 
 If you have any questions or need assistance, feel free to email [privacy@appboy.com](mailto:privacy@appboy.com).
 
@@ -86,11 +70,11 @@ The independent resource mechanism for Safe Harbor-related dispute resolution is
 
 ## Children
 
-We do not knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at [privacy@appboy.com](mailto:privacy@appboy.com). We will delete such information from our files within a reasonable period of time.
+Appboy does not knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at [privacy@appboy.com](mailto:privacy@appboy.com). We will delete such information from our files within a reasonable period of time.
 
 ## Security
 
-Appboy uses reasonable efforts, including physical, electronic and procedural safeguards, to help protect your personal information against unauthorized access and unauthorized alteration, disclosure or destruction. However, no Internet or email transmission is ever fully secure or error free and we cannot guarantee that your personal information will be absolutely protected. For example, your personal information may be affected by actions outside of our control, such as computer "hacking" and physical theft. You acknowledge that you provide your personal information at your own risk.
+We are concerned about safeguarding the confidentiality of user information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees who need to know that information in order to operate, develop or improve our Services.
 
 ## International Transfer
 
@@ -108,9 +92,7 @@ By using a Developer Application, you are consenting to our collection and proce
 
 If you have any questions about this Privacy Policy, you may contact us at:
 
-Appboy, Inc.  
-Privacy Policy Issues  
-263 W. 38th Street  
-16th Floor  
+Appboy, Inc. Privacy Policy Issues  
+263 W. 38th Street, 16th Floor  
 New York, NY 10018  
 [privacy@appboy.com](mailto:privacy@appboy.com)
