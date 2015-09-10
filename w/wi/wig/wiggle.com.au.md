@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiggle.com.au privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702002909id_/http%3A//www.wiggle.com.au/h/option/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.com.au privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910042601id_/http%3A//www.wiggle.com.au/h/option/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wiggle Customer Services
 
@@ -28,7 +28,7 @@ The type of information we will collect about you when you place an order or reg
 
 
 
-This information is stored on our internal systems and our website simply verifies you as a customer of Wiggle. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by visiting your account or emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behaviour of visitors to our site. If you have any questions/comments about privacy, you should email us at [info@wiggle.com.au](mailto:info@wiggle.com.au).
+This information is stored on our internal systems and our website simply verifies you as a customer of Wiggle. We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by visiting your account or emailing us. If you find any inaccuracies we will delete or correct it promptly. The personal information that we hold will be held securely in accordance with our internal security policy and the law. We will not transfer or sell your information. We may use technology to track the patterns of behaviour of visitors to our site. If you have any questions/comments about privacy, you should email us at [noreply@wiggle.com.au](mailto:noreply@wiggle.com.au).
 
 We use the information you provide for the following purposes:
 
@@ -82,116 +82,4 @@ The above privacy statement may not be applicable in all countries of Wiggle vi
 
 **Disclosures**
 
-We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by clicking [here](mailto:info@wiggle.com.au). If you have any queries about our Privacy Statement you should contact us by e-mail [data@wiggle.co.uk](mailto:data@wiggle.co.uk).
-
-(back to top)
-
-* * *
-
-Wiggle maintains a strict privacy policy in full accordance with the Data Protection Act 1998.
-
-We expect you to maintain the confidentiality of your username and password for your Wiggle account.
-
-We will never sell or pass on your name and address to any other organisation without your consent. Your details are confidential and you will never receive unsolicited mail as a result of ordering from Wiggle.
-
-Unless otherwise stated, all rights, including copyright, in the content, text and graphics of these Wiggle web pages are owned and controlled for these purposes by Wiggle Ltd. You are not permitted to copy, broadcast, download, store, transmit, show or play in public, adapt or change in any way the content of these Wiggle pages for any other purpose whatsoever, in any medium, without the prior written permission of Wiggle Ltd.
-
-In accessing Wiggle web pages, you agree that you may only download the content for your own individual and non-commercial use.
-
-(back to top)
-
-* * *
-
-Feel free to use small quotes as long as you acknowledge our site and provide a link back to the original source.
-
-(back to top)
-
-* * *
-
-**jQuery - JavaScript Library**  
-jQuery JavaScript Library v1.7.1  
-[http://jquery.com](http://jquery.com/)
-
-**Copyright 2012, John Resig**  
-Dual licensed under the MIT or GPL Version 2 licenses.  
-<http://jquery.org/license>
-
-**Includes Sizzle.js**  
-[http://sizzlejs.com](http://sizzlejs.com/)  
-Copyright 2011, The Dojo Foundation  
-Released under the MIT, BSD, and GPL Licenses.
-
-**Image Toolset - 360 Spin and Zoom**  
-Image Toolset 360 Spin and Zoom v1.0.0  
-[http://imagetoolset.com](http://imagetoolset.com/)  
-The 360 Spin and Zoom is Copyright of Image Toolset Ltd - © Image Toolset Ltd. 2012. All rights reserved.  
-Any inclusion, redistribution, modification, resell or reproduction of part or all of the contents in any form is prohibited.  
-You may not, except with Image Toolset Ltd.’s express written permission, distribute or commercially exploit the content.  
-Nor may you transmit it or store it in any other website or other form of electronic retrieval system.
-
-**hoverIntent**  
-hoverIntent v6  
-hoverIntent is currently available for use in all personal or commercial projects under both MIT and GPL licenses.  
-This means that you can choose the license that best suits your project, and use it accordingly.
-
-**imagesLoaded**  
-jQuery imagesLoaded plugin v2.0.1  
-<http://github.com/desandro/imagesloaded>  
-MIT License. by Paul Irish et al.
-
-**iosSlider**  
-http://iosscripts.com/iosslider/  
-Copyright (c) 2012 Marc Whitbread  
-iosSlider is licensed under the Creative Commons – Attribution-NonCommercial 3.0 License.
-
-**jCarouselLite**  
-jCarouselLite - jQuery plugin to navigate images/any content in a carousel style widget.  
-Copyright (c) 2012 Ganeshji Marwaha (gmarwaha.com)  
-Dual licensed under the MIT and GPL licenses:  
-<http://www.opensource.org/licenses/mit-license.php>  
-<http://www.gnu.org/licenses/gpl.html>  
-Version: 1.0.1
-
-**jQzoom Evolution Library**  
-jQzoom Evolution Library v2.3 - Javascript Image magnifier  
-[http://www.mind-projects.it](http://www.mind-projects.it/)  
-Copyright 2012, Engineer Marco Renzi  
-Licensed under the BSD license.  
-Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:  
-Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.  
-Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.  
-Neither the name of the organization nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.  
-Date: 03 May 2011 22:16:00
-
-**jquery.thslide.js**  
-jquery.thslide.js  
-v.0.1  
-Julien Decaudin - 04/2010  
-[www.juliendecaudin.com](http://www.juliendecaudin.com/)
-
-**jQuery UI**  
-jQuery UI 1.8.17  
-jQuery UI Widget 1.8.17  
-jQuery UI Mouse 1.8.17  
-jQuery UI Position 1.8.17  
-jQuery UI Dialog 1.8.17  
-jQuery UI Slider 1.8.17  
-Copyright 2011, AUTHORS.txt <http://jqueryui.com/about>  
-Dual licensed under the MIT or GPL Version 2 licenses.  
-<http://jquery.org/license>
-
-**Unobtrusive-Ajax**  
-Unobtrusive Ajax support library for jQuery  
-Copyright (C) Microsoft Corporation. All rights reserved.
-
-**Zebra_TransForm**  
-<http://stefangabos.ro/>  
-author Stefan Gabos   
-version 2.0.1 (last revision: August 07, 2011)  
-copyright (c) 2011 Stefan Gabos  
-license <http://www.gnu.org/licenses/lgpl-3.0.txt> GNU LESSER GENERAL PUBLIC LICENSE  
-package Zebra_TransForm
-
-(back to top)
-
-* * *
+We will not pass your information to any third parties. You can also email us to stop receiving any information about us and our services by clicking [here](mailto:noreply@wiggle.com.au). If you have any queries about our Privacy Statement you should contact us by e-mail [data@wiggle.co.uk](mailto:data@wiggle.co.uk).
