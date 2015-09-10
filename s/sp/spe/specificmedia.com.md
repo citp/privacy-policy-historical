@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2015-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150529024928id_/http%3A//specificmedia.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910131236id_/http%3A//specificmedia.com/legal) for the most accurate reproduction.*
 
 # Specific Media is a digital media company driving viewership for content owners, engagement for brands and relevance for consumers | Specific Media
 
@@ -77,6 +77,8 @@ Panel of internet users that agree to anonymous recording of their ad exposure a
 A sophisticated bot that renders webpages as a user would in order to analyze the page content and how ads deliver to users on a given webpage.
 
 [](https://privacy.truste.com/privacy-seal/Specific-Media/validation?rid=57c7f972-8358-48a3-8213-31a3e0a91903 "TRUSTe online privacy certification")
+
+[](https://privacy.truste.com/privacy-seal/Specific-Media/validation?rid=f77e36cf-90d6-4112-9798-e8ae38cd2c30 "TRUSTe Privacy Certification")
 
 Specific Media has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or other services provided by Specific Media. The TRUSTe program covers only information that is collected through this web site, [www.specificmedia.com](http://www.specificmedia.com/) and its associated services. 
 
