@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penised.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526225133id_/http%3A//www.penised.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penised.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910183059id_/http%3A//www.penised.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 8==D
 
