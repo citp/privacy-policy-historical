@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkcakebox.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318055303id_/http%3A//www.pinkcakebox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkcakebox.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910130410id_/http%3A//www.pinkcakebox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pink Cake Box Custom Cakes & more
 
@@ -79,7 +79,6 @@ This policy was last modified on April 12, 2009
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.pinkcakebox.com  
 18 E Main St Suite 101  
 Denville, NJ 07834  
 USA  
