@@ -1,187 +1,573 @@
-> *The following text is extracted and transformed from the driving.co.uk privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627072010id_/http%3A//www.nidp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driving.co.uk privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910153824id_/http%3A//www.driving.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# News - Privacy Policy
+# Privacy Policy
 
-## Privacy and Cookie Policy
+Please read this Privacy Policy carefully before using the Site.
+
+#### Introduction
+
+This privacy policy (“ **Policy** ”) applies to the use of this website (the “ **Site** ”). If you do not accept this privacy policy, you should not use this Site.
+
+We have updated our Policy. This Policy has been designed to provide greater transparency and has been set out so that it is easier to read and understand. We will continue to treat your personal information with care and respect.
+
+ **Collection of personal information**
+
+We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. Furthermore, we may record any telephone calls made to telephone numbers included on the Site. Further information on the collection and use of data is set out below.
+
+#### 1\. ABOUT US:
+
+1.1 **”We/us/our”** means Motors.co.uk Limited (company number 09575777), whose registered office is at Central House, Leeds Road, Rothwell, Leeds, LS26 OJE.
+
+If you have any questions regarding this Policy then you may contact the Legal Department at Central House, Leeds Road, Rothwell, Leeds, LS26 0JE.
+
+1.2 This Site is operated by us using the [Sun] brand and trademark pursuant to an agreement with certain companies within the News Corp UK and Ireland Limited group of companies (“News UK Group”)
+
+1.3 We respect your privacy and we are committed to protecting it and to complying with applicable data protection and privacy laws including the Data Protection Act 1998 (the “Act”). We have provided this Policy statement to help you understand how we collect, use and protect your personal information when you visit any Site
+
+1.4 By visiting the Site you are accepting this Policy and you expressly consent to our use and disclosure of your personal information as disclosed in this Policy. However, you may visit and browse the Site without disclosing any personally identifiable information about yourself.
+
+1.5 Please note that this Policy may change from time to time and, if it does, the latest version will always be available on the Site.
+
+#### 2\. COLLECTION AND USE OF DATA 
+
+2.1 The personal information we collect from you includes:
+
+(a) personal information obtained from you via the Site;   
+(b) personal information you provide about yourself in order to sell or buy a vehicle or manage your account on the Site;  
+(c) personal information you send to us in personal correspondence such as emails, letters or over the telephone; and  
+(d) personal information we receive from other users or third parties about you and/or your activities. 
+
+The type of personal information we collect could include your name and address, vehicle registration mark, telephone and fax numbers, e-mail addresses and financial and credit card information.
+
+2.2 Your information will be provided Times Newspapers Limited, publishers of The Times and The Sunday Times (TNL) for use in accordance with its [Privacy and Cookie Policy](http://www.newsprivacy.co.uk/), including to allow NGN to review and improve its products and services; to help identify new products and services; for statistical analysis; and with your consent to send you direct marketing in accordance with 2 below.
+
+You will be providing your consent to receiving marketing communications from TNL by post, phone, email, SMS or other electronic means unless you have requested not to receive such communications by ticking the relevant box or boxes during the registration process. 
+
+2.3 The personal information you provide to us will be used for the purposes of administration, processing the sale and purchase of a vehicle (including registering interest in vehicles for sale and advertising vehicles for sale), business development, trend analysis and marketing. We will also use it to create offers specifically designed to meet your needs and as set out in clause 3 below.
+
+2.4 Please note that there may be times when we use third parties to store and process your information on our behalf. On any such occasions, we will require any such third parties to strictly comply with our instructions and to not use your personal information for their own business purposes, unless you have explicitly consented to the use of your personal information on this way.
+
+2.5 We may store, process and/or transfer personal information to countries outside of the EEA, especially to servers in the US. If you do not agree to this procedure you should not use our products or services. Your personal information, on some occasions, is transferred outside the EEA to a carefully selected third party, for our data management and business purposes, in particular, for certain outsourced data processing undertaken by organisations on our behalf. By using our products and/or services you consent to our transferring your personal information to countries outside the EEA, if necessary, for our legitimate business purposes as outlined above. We will take reasonable steps to ensure your personal information is adequately protected.
+
+The data protection standards required by US law are not equivalent to EEA standards. To comply with the adequacy requirements of the European Data Protection Directive 95/46/EC, any above mentioned third party will be a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union or have entered into an agreement with us that includes the EC model clauses approved by the European Commission.
+
+2.6 We automatically track certain personal information based upon your behaviour on the Site using cookies and other devices. We use this personal information to do internal research on our users’ demographics, interests, and behaviour to better understand our users. This personal information may include the address of the webpage that you just came from (whether this is on the Site or not), which webpage/website you next go to (whether this is on the Site or not), what browser you are using, and your IP address.
+
+2.7 We use data collection devices such as “cookies” on certain pages of the Site. "Cookies" are small text files placed on your hard drive that assist us in providing customised services. You may decline our cookies if your browser permits, although in this case you may not be able to use certain features on the Site. For further information on Cookies see use of Cookies below.
+
+2.8 Please note that we will not hold your personal information for any longer than is reasonably necessary or required by law.
+
+2.9 We provide tracking numbers on the Site that you may use to contact advertisers by telephone. Calls made via these numbers will be recorded for training purposes and kept for up to three months. Tracking numbers and the recording of these calls is managed by the publisher’s data aggregator.
+
+#### 3\. DISCLOSURE OF DATA
+
+3.1 We may share your personal information with:
+
+(a) business partners, suppliers and subcontractors for the performance of any contract we enter into with you;  
+(b) analytics and search engine providers that assist us in the improvement and optimisation of the Site;  
+(c) credit reference agencies for the purpose of assessing your credit score where this is a condition of us entering into a contract with you; and  
+(d) if you have provided your consent, third party marketers of auto-related products, motor manufacturers and other services that we believe may be of interest to you. In addition, your personal information may sometimes also be used by us and members of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries (as defined in section 1159 of the Companies Act 2006) to inform you about changes to the Site, new services and offers that you might find interesting and for database maintenance.
+
+If you wish to change personal information held about you or the information you receive from us, please email our Compliance Department [LINK] or write to:
+
+Compliance Department  
+Central House  
+Leeds Road  
+Rothwell  
+Leeds  
+LS26 OJE
+
+In your correspondence to us, please set out what it is that you would like to see changed about your personal information.
+
+3.2 Your personal information may also be shared with auditors or contractors or other advisers auditing or advising us on our business operations.
+
+3.3 We co-operate with law enforcement agencies, as well as other third parties, to assist in the enforcement of laws. We can (and you authorise us to by the acceptance of these terms through the continuous use the Site) disclose any personal information about you to such law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with any investigation by such law enforcement agencies or other government officials.
+
+3.4 We may transfer, sell or assign any of the personal information described in this Policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business (or any part of our group).
+
+3.5 We have the appropriate security measures in place in relation to how your personal information is stored and used, and who can see it. We use industry standard practices to safeguard the confidentiality of your personal, identifiable information, including “firewalls” and “secure socket layers”. While such measures help stop any unauthorised disclosure of your information, no security system is impenetrable and we cannot guarantee the security of our system.
+
+3.6 In addition, the transmission of personal information via the internet is not completely secure. Once we have received your personal information, we will use strict procedures and security measures to try to prevent unauthorised access. However, we cannot guarantee the security of your personal information, any more than any other company can. Please note therefore that any transmission of your personal information to the Site is at your own risk and we cannot accept any liability for the loss, theft or misuse of any personal information which you have provided to us if there is a security breach. 
+
+3.7 Where we have given you (or where you have chosen for you) a password which enables you to access certain parts of the Site, you are responsible for keeping the password confidential. We ask you not to share a password with anyone.
+
+#### 4\. YOUR RIGHTS IN RELATION TO YOUR INFORMATION 
+
+4.1 The Act gives you the right to access personal information held about you. You can write to us at any time to obtain a copy of your personal information, to have any inaccuracies corrected and/or updates made. Please write to[the Compliance Manager] at the address set out at clause 3.1 above.
+
+4.2 In writing to us, please quote your name and address. We would be grateful if you could also provide brief details of the personal information of which you would like a copy or which you would like to be corrected/updated.
+
+4.3 We may require proof of your identity before providing you with details of any personal information we may hold about you. We also reserve the right to charge £10 (ten GBP) to cover the administration costs involved in providing you with a copy of your personal information.
+
+#### 5\. ONLINE INTERACTIVE FACILITIES
+
+5.1 If at any time the Site offers any chat functionality, notice board facilities, forums, newsgroups etc. (“ **Online Interactive Facilities** ”) we may collect the personal information that you disclose. Such personal information will be used in accordance with this Policy. Please note that we cannot be responsible for other parties’ use of the personal information which you make available to such third parties through any Online Interactive Facilities on the Site. Please be careful about what personal information you disclose in this way.
+
+5.2 If you post or send offensive, inappropriate, illegal or objectionable content while you are in any of our Online Interactive Facilities, we may use your personal information to stop such behaviour, and where we believe that you are, or may be, in breach of any applicable laws, we may use your personal information to inform the police or requisite law enforcement agencies.
+
+#### 6\. USE OF COOKIES
+
+ **6.1 What is a cookie?** A cookie is a small piece of data that is sent from our web server to your browser, which is saved on the hard drive of your computer, smartphone or other device (“your device”). 
+
+A cookie cannot:
+
+  * read data off your hard disk or read cookie files created by other sites;
+  * damage your system;
+  * run programmes on your computer; or
+  * deliver viruses.
+
+
+
+You can change your browser settings to refuse cookies or alert you when a cookie is being sent at any time. If you do choose not to accept cookies, some features of the Site may not work as intended (e.g. services accessed while logged in, customised areas of the Site). We do not use cookies to identify you personally, except when you opt to use the ‘Remember me’ facility when logging in.
+
+There are two broad classes of cookie: session and permanent. 
+
+**Session cookies**
+
+These are used to keep track of information needed by a user and their browser on their journey through a website. Session cookies have a short lifetime and expire within a few minutes of the user leaving the site. Occasionally we will use 30 Day cookies which are similar to Session cookies but last a bit longer. They remember basic date to help improve the service you receive from us (for example, remembering vehicles that you have viewed in the last 30 days).
+
+ **Permanent Cookies**
+
+These are stored on your computer and are not deleted when the browser is closed. This is so they can retain your preferences for a particular website, allowing those preferences to be used in future browsing sessions.
+
+Permanent cookies can be used to analyse users' surfing behaviour within the Site, so that we can improve our services and allows us to prioritise our enhancements to the Site.
+
+ **6.2 We use cookies to:**
+
+  * remember that you have used the Site before; this means we can identify the number of unique visitors we receive to different parts of the Site. This allows us to make sure we have enough capacity for the number of users that we get and make sure that the Site runs fast enough; 
+  * to keep you logged in for the duration of your visit, which enables you to complete certain actions on the Site, for example, move from one page to another within the Site, adding cars to a shortlist, using watchlists and viewing catalogues;
+  * store your preferences or your user name and password so that you do not need to input these every time you visit the Site;
+  * customise elements of the layout and/or content of the pages of the Site for you;
+  * collect statistical information about how you use the Site so that we can improve the Site;
+  * gather information about the pages on the Site that you visit, and also other information about other websites that you visit, so as to place you in a "market segment"; and
+  * enable basic web traffic analysis using Google Analytics.
+
+
+
+We also use some cookies from trusted third party sources to enable us to provide you with certain features on the Site, for example our live chat facility which uses cookies to enable the chat software to work.
+
+When you access the Site you will receive a message advising you that if you continue to use the Site, you are consenting to cookies being placed on your device in order to maximise your experience on the Site and allow us to make improvements
+
+Removing some of our cookies may seriously disrupt your use of the Site. You can always come back to this Privacy Policy at any time to find out how to change your preferences. You will find a link to this policy at the bottom of all of our web pages.
+
+Information is collected by reference to the IP address that you are using and includes information about the county and city you are in, together with the name of your internet service provider. The information is sometimes used to place interest-based advertisements on the Site which it is believed will be relevant to your market segment. For more information about this type of interest based advertising, and about how to turn this feature off please visit www.youronlinechoices.com/uk/ . 
+
+Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. Visiting www.allaboutcookies.org will provide information on settings within your browser as well as other useful information on cookies. Please note however, that by blocking or deleting cookies used on the Site you may not be able to take full advantage of the Site if you do so.
+
+ **6.3 How do I disable cookies?** You can change your browser settings to refuse cookies or alert you when a cookie is being sent at any time.
+
+Further guidance on how to control and delete cookies can be found at http://www.allaboutcookies.org. Please note that removing some of our cookies may seriously disrupt your use of the Site and some features may not work as intended. 
+
+We do use some cookies from trusted third party sources to enable us to provide you with certain features on the Site and have included any relevant third parties on our cookie list so that you can control the cookies they place more easily:
+
+Name 
 
 | 
 
-### Updated: 26th June 2013  
+Purpose 
+
+| 
+
+Type and Duration   
   
----|---  
+---|---|---  
   
-This notice explains how we will process your personal information
+motSeaPanUseCar 
 
-## Why we collect your data?
+| 
 
-By collecting your data, it allows us to understand what your needs and wants are, provide personalised content and match the most relevant adverts and services for you. It also allows us to provide targeted offers and services you may be interested to hear about.
+Enabling searches for used cars to be saved improving user experience on the Site. 
 
-## Who we are?
+| 
 
-News Corp UK & Ireland Ltd is the holding company for several companies. Each individual company will decide on how to process personal information, but always in line with this policy. A company that decides on what and how to process personal information is called a Data Controller.
-
-When you provide personal information to The Sun the data controller is News Group Newspapers Limited.
-
-When you provide personal information to The Times, The Sunday Times and The Sunday Times Travel Magazine the data controller is Times Newspapers Limited.
-
-When you provide personal information to The Times Literary Supplement the data controller is The Times Literary Supplement Limited.
-
-When you provide personal information to milkround.com, secondpost.com, fsmilkround.com, graduatecareer.com, milkroundonline.com or milkroundats.com (the "Milkround Online Network") the data controller is Milkround Online Limited.
-
-When you provide personal information to The Suday Times Driving.co.uk the data controller is Sunday Times Driving Limited. 
-
-When you provide personal information to mynipp.co.uk the data controller is News International Pension Trustees Limited.  
-News Group Newspapers Limited, Times Newspapers Limited, The Times Literary Supplement Limited, Milkround Online Limited, Sunday Times Driving Limited and News International Pension Trustees Limited are part of the News Corp UK & Ireland Limited group of companies whose registered address is 3 Thomas More Square, London, E98 1XY.
-
-If in the event that we sell our business, customer information may be one of the transferred business assets. If this happens, your information will still be subject to this policy.
-
-## Cookies and IP Addresses
-
-When you visit one of our websites, we may send you a cookie. A cookie is a small file wich is placed on your computer or device.  
-1\. Essential Cookies  
-These cookies are essential for the running of our websites. Without the use of these cookies parts of our websites would not function. For example The Times paywall uses cookies to help us identify which of our readers have a subscription in order to access paid for content held on the website.  
-2\. Analytical Performance Cookies  
-We use these types of cookies to monitor our websites performance and how their users may use it. These cookies provide us with information that helps us provide better products to their users and also to identify any areas that may need maintenance. For example, we use performance cookies on The Sun's website to provide the most popular news articles further up the page of the website.  
-3\. Functional Cookies  
-Functional cookies are used to remember your preferences on our websites. This can be anything from remembering your city in a weather forecast or saving your username.  
-4\. Behavioural Advertising Cookies/Third Party Cookies  
-We, and our advertisers/sponsors, may use cookies to provide tailored advertising to you which we believe are relevant to you.  
-Online behavioural advertising is a way of providing advertisements on the websites you visit and making them more relevant to your interests. This is done by grouping together shared interests based upon previous web browsing activity. Advertising is then displayed to you when you visit a website which matches these interests.  
-Behavioural advertising is based upon your web browsing activity over a period of time - so it's different to advertising you may see when you're looking for something online using a search engine (eg Google) or on the website you may be visiting at a particular time.  
-As an example, you may be doing research in order to buy a bicycle and read a number of different articles on a number of different websites. If a bicycle manufacturer was part of an advertising network, they may think that you are interested in buying a bicycle and serve you with one of their adverts for one of their bicycles. It is possible that from reading these articles elsewhere, you would see this advert on one of our or someone else's websites.  
-We cannot control nor do we have access to any cookies placed on your computer by third party advertisers and sponsors. Audience Science, who generate these cookies have their own privacy policy at <http://www.revenuescience.com/privacy.asp>  
-We may also track IP addresses. 
-
-## How to control the use of cookies
-
-You are not obliged to accept cookies and may modify your browser so that it will not accept cookies. The browser you use to surf the web not only allows you to see the cookies that you have got but also allows you to control their use.  
-You can control them by allowing them, deleting them individually or deleting all of them. You can also set your browser to not accept cookies altogether. If this option is selected, you should be aware that many websites will not function properly or at all. It may be possible to set your browser to not accept cookies and ask for your consent before each cookie is set on your device. This gives you control over what is set on your device, however has the drawback of slowing down your browsing experience.  
-There are different levels of control too. You are able to prevent just third party cookies being deployed, effectively opting out of behavioural advertising, and some even allow you to block specific companies you do not wish to deploy a cookie, instead of selecting all companies.  
-In order to manage your cookies, please select your browser from the list below and follow the instructions:
-
-  * [Internet Explorer](http://support.microsoft.com/kb/196955)
-  * [Chrome](https://support.google.com/chrome/answer/95647)
-  * [Safari](http://www.apple.com/support/?path=Safari/5.0/en/9277.html)
-  * [Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
-  * [Opera](http://www.opera.com/help/tutorials/security/privacy/)
-
-
-
-Mobile devices: 
-
-  * [Android](http://support.google.com/?hl=en&rd=1)
-  * Safari
-  * Windows Phone
-  * Blackberry
-
+Persistent, 30 Days   
   
+motSeaPanUseVan 
 
+| 
 
-## How can I prevent Online Behavioural Advertising?
+Enabling searches for used vans to be saved improving user experience on the Site. 
 
-Further to using your browser to controlling the use of cookies, there are also other ways that you can opt out of Online Behavioural Advertising.  
-The "Your Online Choices" page provided by the Internet [Advertising Bureau (IAB),](http://www.youronlinechoices.com/uk/your-ad-choices) provides an easy way to opt out of behavioural advertising from each (or all) of the networks represented by the IAB.
+| 
 
-## Flash Cookies
+Persistent, 30 Days   
+  
+motSeaPanBas 
 
-When you use one of our websites that uses Macromedia Flash Player, a small Flash Cookie may be used. The purpose of using these cookies is to store your flash player preferences and enhance your browsing experience.
+| 
 
-Flash Cookies are stored on your computer in a similar way to standard cookies, except they are stored in a different location. Due to this, it is not possible to block or manage Flash Cookies directly from your browser.
+Remembers users basic data like postcode to enable improved user experience and faster searches. 
 
-In order to manage or delete Flash Cookies, please visit Adobe?s website, which provides full information by [clicking here.](http://kb2.adobe.com/cps/526/52697ee8.html)
+| 
 
-## Useful information about Cookies
+Persistent, 30 Days   
+  
+motSeaPanCarDea 
 
-Further information about cookies can be found on the following websites:
+| 
 
-[All About Cookies](http://www.allaboutcookies.org/)  
-[Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices)  
-[Information Comissioners Office](http://www.ico.gov.uk/)  
-[Direct Marketing Association](http://www.dma.org.uk/)  
-[Microsoft Cookies Guide](http://www.microsoft.com/info/cookies.mspx)
+Enabling searches for car dealers to be saved improving user experience on the Site. 
 
-If you have any questions about the use of cookies on our websites, please email: 
+| 
 
-[info@news.co.uk](mailto:info@newsco.uk)
+Persistent, 30 Days   
+  
+motSeaPanVanDea 
 
-## Web Beacons and URL tracking
+| 
 
-As part of our email communications and website analyses, we may use web beacons and track URL's.
+Enabling searches for van dealers to be saved improving user experience on the Site. 
 
-Web beacons are electronic files that count users who access a website or page and can also allow us to see if a cookie has been activated. Web beacons on web pages or email communications allow us to see how successful an article may be or that an email message was successfully delivered and read.
+| 
 
-Tracked URLs will count the amount of clicks on a web page. This allows us to edit the site according to the popularity of the articles you read.
+Persistent, 30 Days   
+  
+motSeaPanNewCar 
 
-You can't decline web beacons, however by preventing cookies being used on your computer, you can prevent web beacons from tracking your activity. For information about managing your cookie options, please [click here.](http://www.allaboutcookies.org/)
+| 
 
-Please be aware that if you disable cookies, many services on our websites will not be available to you, particularly those that contain personalised content as outlined in the section Personalised content.
+Enabling searches for new cars to be saved improving user experience on the Site. 
 
-## Device Identifiers
+| 
 
-Our Apps require access to the following services on your mobile device: UDID, MAC address, or other applicable device identifier. We send this information to our servers for the purpose of validating free trials. We do not share this information with any 3rd parties.
+Persistent, 30 Days   
+  
+motSeaPanNewVan 
 
-## Personalised content
+| 
 
-The content on our websites and in our email communications may be adjusted depending on what we know about the content, products and services that you like. This means we can highlight content and articles that we believe will be of interest to you.  
-Advertising content may be adjusted depending on personal information. In some instances, this targeted advertising may be created by third parties and the information will be collected and held by these third parties outside the control of News.  
-We provide personalisation by using cookies, IP addresses, web beacons and URL tracking. A full explanation of how this works and how you can prevent the use of such activities, please see our Cookies, and IP Address section.
+Enabling searches for new vans to be saved improving user experience on the Site. 
 
-## Consent
+| 
 
-By completing our registration forms with personal information or by the continued use of our services, you are consenting to:
+Persistent, 30 Days   
+  
+motSeaPanCarDeaSto 
 
-a) our processing your sensitive personal data such as health data for the above purposes; and  
-b) the transfer and processing of your information in countries outside of the European Economic Area which may not provide the same level of data protection as the UK. If we do make such a transfer or if your personal information will be processed outside of the European Economic Area, we will put a contract in place to ensure your information is protected or where applicable covered by the US "Safe Harbor Program".
+| 
 
-## Marketing consent
+Enabling searches for car dealer stock to be saved improving user experience on the Site. 
 
-If you are an existing customer we will keep you informed of product developments that relate to these products and services.
+| 
 
-When you give us your personal information, we will give you an option to receive additional ongoing marketing communications from us which may include offers and news of alternative products and services.
+Persistent, 30 Days   
+  
+motSeaPanVanDeaSto 
 
-We do not sell our customer data to other companies to use for their marketing purposes.  
-All of our marketing communications will have a method to unsubscribe. You may also exercise your right to opt out of the use of your information for marketing purposes at any time by contacting us by one of the methods explained at the end of this notice.  
-Please note: Many products or services include personalised communications as part of their package; users will be given the opportunity to control the receipt wherever possible. In the event that the product or service consists entirely of communication (e.g editorial bulletins) this may take the form of unsubscribing from the specific communication.  
-If you purchase or redeem an offer with us, we may need to disclose your personal information to our partners, suppliers and subcontractors in order to process your order, fulfil deliveries, complete billing and invoicing transactions and to inform delivery and logistics planning.  
-We may supply personal data to trusted suppliers for analysis purposes. This will be done under agreement with us and will be in line with this policy.  
-We will work with other companies for promotional purposes where readers may be asked to opt in for future contact from that specific partner. With your permission we will transfer that customer data to the third party at which point it will fall under their own privacy and security controls. Members of the News Corp UK & Ireland Limited group of companies cannot be held liable for subsequent issues arising from third party usage of transferred data.
+| 
 
-## Disclosure
+Enabling searches for van dealer stock to be saved improving user experience on the Site. 
 
-Your personal information will be disclosed where we are obliged or permitted by law to do so. If you post or send offensive or objectionable content anywhere on or to any of our websites or otherwise engage in any disruptive behaviour on any of our websites, we can use the information that is available to us about you to stop such behaviour. This may involve informing relevant third parties such as your employer and law enforcement agencies about the content and your behaviour.
+| 
 
-## Payment and credit checks
+Persistent, 30 Days   
+  
+motbreadcrumbs 
 
-Customer data will be used to take payment for products and services and may be used to verify credit details related to this payment. Permission to do so is implicit in providing financial details to process payment. Direct Debit information may be retained for ease of renewal of services.
+| 
 
-If you apply for credit then to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
+Ensuring a user’s journey has the best experience by enabling a breadcrumb of where the users been. 
 
-## Updating or deleting your personal information profile
+| 
 
-When you register online with a News UK group company, you can see, review and change your personal information by logging onto the website and going to "My Profile" or equivalent. Please ensure you update your personal information if it changes or is inaccurate. Should you request that your account is closed and your personal information removed, please be assured that this will be done as soon as is reasonably possible. Personal information from closed accounts is retained in order to comply with legal obligations, prevent fraud, collect any fees owed or to resolve disputes.
+Persistent, 30 Days   
+  
+motorsVehicleShortList 
 
-Personal, transactional and behavioural information will be stored against your personal profile. If you do not use your account or interact with us, then your profile will be held for three years and a further two years in an anonymised form for analysis purposes. It will then be securely deleted.
+| 
 
-When readers enter into a conversation with any of our titles, for example through the use of polls, comments, text messages, email, phone, radio or letters we reserve the right to display this content indefinitely in any relevant context subject to our editorial judgement. This will be anonymised in the case of testimonials or customer service conversations.  
-Please remember that any information about yourself or your family that you submit in social media including chat rooms, blogs and forums will be viewed by other people. As such, this personal data may be viewed, collected and used by third parties over whom we have no control. We are not responsible for either the information you submit/post or otherwise make available in such public areas or any use that may be made of such information by any third party.  
-When you give us information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data, including sensitive personal data and to the transfer of their information abroad and to receive on their behalf any data protection notices.  
-When you request to have your profile removed from further marketing offers from us, you will be added to a suppression list to ensure your request is complied with. 
+This gives the user access to the shortlist feature enabling them to access vehicles they want to store for future reference. 
 
-## Information Requests
+| 
 
-You have a right to ask for a copy of your personal information from any News Corp UK & Ireland Limited group company which may hold about you (for which we charge a small processing fee) and to ask us to correct any inaccuracies in your personal information (which is free). To make sure we follow your instructions correctly and to improve our service to you through training of our staff, we may monitor or record telephone calls.
+Persistent, 30 Days   
+  
+motorsSEO 
 
-## Notification of changes
+| 
 
-From time to time, we may make changes to the Privacy Policy. This may be in relation to changes in the law, best practice, changes in our services or treatment of your personal information. We will always display clearly when the privacy policy was last amended on the website.
+Once a user enters a page we want to ensure the user has the best experience on the site so we ask them to submit location after 5 detail page views. 
 
-## How to contact us
+| 
 
-**By email:**| [info@news.co.uk](mailto:info@newsint.co.uk)  
----|---  
-**By telephone:**|  020 7860 1133 (24 hours)  
-**By mail:**|  Data Protection Enquiries,  
-The Customer Liaison Department,   
-News UK,   
-3 Thomas More Square, London, E98 1XY  
+Persistent, 1 Day   
+  
+motwmwcusdat 
 
+| 
+
+Customer details for What's Mine Worth 
+
+| 
+
+Persistent, 30 Days   
+  
+motorsWMWVRM 
+
+| 
+
+Allows us to carry data back to Private Seller after a valuation 
+
+| 
+
+Persistent, 30 Days   
+  
+motorsWMWMileage 
+
+| 
+
+Allows us to carry data back to Private Seller after a valuation 
+
+| 
+
+Persistent, 30 Days   
+  
+motPendingAction 
+
+| 
+
+If an event requires a login 
+
+| 
+
+Persistent, 1 Day   
+  
+motNigOwlDat 
+
+| 
+
+Allows us to pre-populate Night Owl email form on car details pages 
+
+| 
+
+Persistent, 1 Day   
+  
+ASP.NET_SessionId    
+
+| 
+
+Session ID information for .NET which allows a better browsing experience 
+
+| 
+
+Session   
+  
+SessionID 
+
+| 
+
+Session ID. Non-personally identifiable for consistent experience 
+
+| 
+
+Session   
+  
+MSPreferredCulture 
+
+| 
+
+For Kentico Locale content management system (New, Reviews, etc) 
+
+| 
+
+Session   
+  
+accfirstname 
+
+| 
+
+Logged in user first name for My Garage functionality 
+
+| 
+
+Persistent, 30 Days   
+  
+acclastname 
+
+| 
+
+Logged in user last name 
+
+| 
+
+Persistent, 30 Days   
+  
+motorsSearchGuid 
+
+| 
+
+Search Identifier for better browsing experience 
+
+| 
+
+Persistent, 30 Days   
+  
+motorsCookieMsg 
+
+| 
+
+We show a cookie message to users explaining that we use them to optimise the Site. This stores if they want this message to be hidden 
+
+| 
+
+100 Days   
+  
+Comscore/ .scorecardsearch.com/ UID 
+
+| 
+
+This cookie generates statistics which enable us to understand how a visitor the Site interacts with different content including video content 
+
+| 
+
+Persistent, 2 Years   
+  
+Google Analytics 
+
+| 
+
+We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site. 
+
+| 
+
+Persistent & Session (as below):   
+  
+_utma 
+
+| 
+
+We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site. 
+
+| 
+
+2 Years   
+  
+_utmb 
+
+| 
+
+We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site. 
+
+| 
+
+30 Minutes   
+  
+_utmc 
+
+| 
+
+We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site. 
+
+| 
+
+Session   
+  
+_utmz 
+
+| 
+
+We use Google Analytics to help us collect statistics on visitors to the site, where visitors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site. 
+
+| 
+
+6 Months   
+  
+Right Media (Yahoo) Adyieldmanager.com 
+
+| 
+
+Cookies are used to allocate and deliver advertisements available through an advertising exchange marketplace. 
+
+| 
+
+Persistent, 2 Years   
+  
+__qca Quantcast           
+
+| 
+
+Quantcast - For targeted display advertising 
+
+| 
+
+Persistent, 2 Years   
+  
+__gads 
+
+| 
+
+Google Adsense - Google Display Advertising 
+
+| 
+
+Persistent, 2 Years   
+  
+openx 
+
+| 
+
+OpenX - Ad targeting and tracking (multiple cookies) 
+
+| 
+
+Persistent, 1 Month   
+  
+burstnet.com 
+
+| 
+
+BlinkX - Ad targeting and tracking (multiple cookies) 
+
+| 
+
+Variable: 1 Day to 1 Year   
+  
+criteo.com                    
+
+| 
+
+Criteo - Ad retargeting and tracking (multiple cookies) 
+
+| 
+
+Variable: 1 Day to 1 Year   
+  
+Doubleclick (Google) 
+
+| 
+
+Serve advertisements and deliver reports on advertisements served on our Site. The cookie tracks what advertisements the user has seen and how often. 
+
+| 
+
+Persistent, 2 Years   
+  
+motPerVeh 
+
+| 
+
+Enabling the site to remember the last viewed vheicle 
+
+| 
+
+Persistent, 
+
+30 days   
+  
+**6.4 What about Hyperlinks?** The Site may sometimes contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies and we urge you to review them. They will govern the use of any personal information you submit or which is collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such third party websites is at your own risk.
+
+ **6.5 What about Flash Cookies?** A Flash Cookie is a type of cookie which is collected via Adobe Flash Player, and is a piece of software which you probably have on your device to watch videos or podcasts online. We may use Adobe Flash Player to display video or image content. It may not be possible to block or restrict or block Flash Cookies using your browser settings, however, information on how to control flash play privacy and security settings is available from the Adobe website at: http://www.adobe.com/products/flashplayer/security
+
+ **6.6 Who do I contact about Cookies?** If you have any questions about our use of Cookies, please contact us at [privacy@motors.co.uk](mailto:privacy@motors.co.uk)
+
+#### 7\. USE OF YOUR PERSONAL INFORMATION SUBMITTED TO OTHER WEBSITES 
+
+7.1 We cannot be responsible for the privacy policies and practices of other websites even if you accessed the third party website using links from the Site or you linked to the Site from a third party website. 
+
+7.2 We recommend that you check the policy of each website you visit and contact the owner or operator of such website if you have any concerns or questions.
+
+#### 8\. CHANGES TO THIS POLICY 
+
+8.1 If we need to change our Policy at some point in the future to reflect our data collection and disclosure practices we'll post the changes at least 30 days before they take effect. Our use of personal information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. 
+
+February 2015
