@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dandb.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627233604id_/https%3A//www.dandb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dandb.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910052207id_/https%3A//www.dandb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dun & Bradstreet
 
