@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503025540id_/https%3A//www.brainshark.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainshark.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910032905id_/http%3A//www.brainshark.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brainshark
 
