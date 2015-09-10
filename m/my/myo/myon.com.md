@@ -1,53 +1,54 @@
-> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319145623id_/https%3A//www.myon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911001900id_/https%3A//myon.com/privacy.html) for the most accurate reproduction.*
 
 # myON®
 
-## Privacy Policy
+## **Privacy Policy**
 
-### NOTICE/AWARENESS
+**Our Notice**
 
-This policy statement sets forth information practices concerning the type of data that is collected at myON.com site (the "Web site"). This policy is accessible via a link at the bottom of each page. This policy applies to our online practices only.
+myON collects information about students’ reading performance. We gather only the minimum enrollment information provided by schools required to track that performance over time: student name, grade, teacher(s), and class(es). We do not collect or store any information about a student’s race, socio-economic status, social security number, street address, parent contact info, or email address. No financial transactions or financial account information is stored in any of the myON.com data tables.
 
-### CHOICE/CONSENT
+**Your Choice**
 
-The following paragraphs describe the type of information myON® collects and the reasons why myON collects the information. By providing the information requested by myON online forms and by continuing to use the Web site after having an opportunity to review the myON privacy policy, you have consented to the myON use of the information it collects as described at the point of collection or in this policy.
+By using myON after reading this privacy policy, you give us permission to collect reading performance data. We track what books every student opens, what books they finish, how much time they spend reading, and the results of the assessments they take – measures of reading ability (Lexile benchmarks) and reading comprehension (Book quizzes). We also store students’ rankings of interest categories (Animals, Inventions, Mythology, Graphic Novels…) We use this information to recommend books to students based on their grade, their interests, and their reading measure.
 
-_User Supplied Information_  
-You may be asked to supply contact information in order to receive information or materials that you request from the Web site. We use contact information to send you the information you request when you submit the form.
+School enrollment data, reading progress statistics, the web application, and the book assets are all stored on separate and secure servers. The only way to access any of this data is through a secure and authenticated login. Logins of adults (school administrators and faculty) can access dashboards and reports of reading progress at the grade and class level. Faculty can monitor reading progress by class, grade, group, and individual. Again, no demographic data of any kind is stored about students except their name, grade, gender, and class assignment(s).
 
-myON may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) myON rights or property or other users of the Web site, or anyone else that could be harmed by such activities. myON may use or disclose user information to address violations or possible violations of the Terms of Use of the Web site. myON may disclose user information when we believe in good faith that the law requires the disclosure.
+**User Supplied Information**
 
-myON may share aggregate information about our users with business partners and other third parties. For example, we may disclose that the Web site audience comes x percent from east of the Mississippi River and y percent from west of the Mississippi River.
+No students will ever be contacted regarding any service or opt-in marketing information. Supplying adults’ email addresses (school administrators and faculty) is entirely optional. Supplying an email guarantees that you will be notified of changes to the system (release notes) and opportunities to participate in product development surveys, training offers, and other myON professional development opportunities. We will never give your contact information to any other institution or email database for any marketing, sales, or solicitations. We hold your contact information on secure servers that can be accessed by only the highest levels of management.
 
-_Your IP Address_  
-myON collects IP addresses for the purposes of system administration, to generate aggregate information, and to audit the use of the Web site. When you request pages from the Web site, our servers log your IP address. We do not normally link IP addresses to anything personally identifiable, which means that your session will be logged, but you remain anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms of use of the Web site or to protect our service, site, customers or others.
+We may disclose user information in extraordinary circumstances when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone where there is evidence that he or she is causing injury, shows intent to commit a crime, behaves or presents in a way that requires a teacher to act as first responder, or infringes upon myON rights or property, or other users of myON.com, or anyone else that could be harmed by such activities. We may use or disclose user information to address possible violations of the myON’s Terms of Use or if we believe in good faith that the law requires the disclosure.
 
-### ACCESS/PARTICIPATION
+myON may share statistics about large aggregations of users with strategic partners and educational researchers. For example, we may disclose that X% of myON’s audience is east of the Mississippi and Y% is west of the Mississippi River. Or, the Q% of a school’s reading time occurs within school hours and R% occurs before and after school. This data will never contain personal information.
 
-You may access the data collected by myON about you by sending a request to the address listed below. If you believe that an error has been made in the accuracy of the data collected from you, myON will correct such error upon adequate verification of the error and the identity of the person seeking the correction. If you wish to access, remove or correct any personally identifying data you have supplied to myON you may do so either by: 
+**Your IP Address**
 
-  1. sending an e-mail request to myonreader@capstonedigital.com; or 
-  2. sending a letter via the U.S. Mails to:  
-Manager of Web Site Development  
-MyON  
-1710 Roe Crest Drive  
-N. Mankato, MN 56003 
+myON collects IP addresses for the purposes of system administration, to generate aggregate information, and to audit the use of the Web site. When you request pages from the Web site, our servers log your IP address. We do not normally link IP addresses to anything personally identifiable, which means that your session will be logged, but you remain anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our terms of use of the Web site or to protect our service, site, customers or others. Access
+
+You may access the data collected by myON about you by sending a request to the address listed below. If you believe that an error has been made in the accuracy of the data collected from you, myON will correct such error upon adequate verification of the error and the identity of the person seeking the correction. If you wish to access, remove or correct any personally identifying data you have supplied to myON you may do so by (either/or):
+
+  * sending an e-mail request to myonreader@capstonedigital.com
+  * sending a letter via the U.S. Mail to:
 
 
 
-Please understand that in order to protect your privacy and security, we may also need to take reasonable steps to verify your identity before granting access or making corrections. 
+                Manager of Web Site Development MyON
 
-### INTEGRITY/SECURITY OF THE DATA COLLECTED
+                1710 Roe Crest Drive N.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, myON has put in place commercially reasonable and appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+                Mankato, MN 56003
 
-### ENFORCEMENT/REDRESS
+Please understand that in order to protect your privacy and security, we may also need to take reasonable steps to verify your identity before granting access or making corrections. Data Integrity
 
-If for some reason you believe that myON has not adhered to its privacy policy, please notify us by either of the methods set forth above. myON will do its best to respond to your concerns and, when appropriate, take steps to correct a problem.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, myON has put in place strong security measures to safeguard and secure the information we collect online.
 
-_Your Acceptance of These Terms_  
-By using this Web site, you signify your assent to this policy statement regarding online privacy. myON may change the terms of its privacy policy with or without notice to you. It is your responsibility to review the terms of this privacy policy. If you do not agree to this policy statement, then you may not use the Web site. Your continued use of the Web site following the posting of changes to these terms will mean you accept those changes. If you have any questions about this policy statement, the practices of this Web site, or your dealings with myON, you may contact us at addressed given above.
+**Your Satisfaction**
 
-###### Last Revised: August 15, 2013
+If for some reason you believe that myON has not adhered to its privacy policy, please notify us by either of the methods listed above. myON will do its best to respond to your concerns and, when appropriate, take steps to correct a problem.
 
-###### © 2013 Capstone Publishers
+**Accepting These Terms**
+
+By using myON.com, you agree to this policy statement regarding online privacy. myON may change the terms of its privacy policy. Changes in those terms require a notification to all customers. It is your responsibility to review the terms of this privacy policy. If you do not agree to this policy statement, then you should not use our web site. Continuing to use of myon.com following the posting of this policy means that you accept that policy. If you have any questions about this policy statement, the practices of this Web site, or your dealings with myON, you may contact us at addresses given above.
+
+**Last Revised: July 1, 2015, © 2015 Capstone Publishers**
