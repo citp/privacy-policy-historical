@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the getawaytoday.com privacy policy that was archived on 2015-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150510173414id_/http%3A//www.getawaytoday.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getawaytoday.com privacy policy that was archived on 2015-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910133534id_/http%3A//www.getawaytoday.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/Travel" id="ng-app" ng-app="GAT" style=""><!--<![endif]--><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+<!DOCTYPE html><html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths ng-scope" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/Travel" id="ng-app" ng-app="GAT" lang="en-us" style=""><!--<![endif]--><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta charset="utf-8">
 
@@ -15,7 +15,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1">
 	
     
-
+	
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -23,7 +23,7 @@
     <link href="/Content/css/print?v=8boA7zZvksv5qcBwnEjFDE1bp1jeGviI160q_kQT34g1" rel="stylesheet" type="text/css" media="print">
 
 
-    <link href="/Content/css?v=Le82nyXaUmQJqhd_9L1PYCBDZRhB6bg5ZKao7uiTC3M1" rel="stylesheet">
+    <link href="/Content/css?v=h6YJqNfmFYxosmHbRHS5v3X9VxzFhsx27mCsqO5RnEM1" rel="stylesheet">
 
     <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5Q9HMX"></script><script src="/bundles/modernizr?v=c2y0CUMGJf3BhEqyWB6i8ibpPVzrJWISHUMmNh-b3_M1"></script>
 
@@ -33,6 +33,7 @@
 
 
 
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
     
     <meta name="msapplication-tooltip" content="Get Away Today Vacations">
@@ -56,10 +57,14 @@
     
     <link href="https://plus.google.com/116724413451463384510" rel="publisher">
     
+	
+
     
     <meta name="p:domain_verify" content="a6fb5408a93be516866a9724d7dfbd43">
+			<script type="text/javascript" src="//js.rmtag.com/111553.ct.js"></script>
 </head>
 <body apppath="" class="">
+
 
 	<!--[if lte IE 8]>
 		<div class="chromeframe">
@@ -67,19 +72,30 @@
 		</div>
 	<![endif]-->
 
-	<div id="container" class="innerPage-Small">
+	
+	<div id="container" class=" fixed">
+
 		<div id="page-inner">
 			<header>
-				<div class="clearfix page-header rounded rounded-bottom">
-                    <a id="logo" class="hide-text" href="/">Get Away Today Vacations, Inc.</a>
+				<div class="clearfix page-header rounded rounded-bottom fixed">
+					<a id="logo" class="hide-text" href="/">Get Away Today Vacations, Inc.</a>
 					<div id="subheader">
-						<div id="cart" ng-class="{ 'init' : data.init, 'hasItems' : data.IsValidCart }" ng-controller="CartController">
+						<form name="searchForm" class="search-bar ng-pristine ng-valid ng-scope" ng-controller="SiteSearchCtrl as siteSearch" ng-submit="siteSearch.search()" novalidate="">
+                            <div class="textWrapper" ng-class="{ 'search-active' : siteSearch.data.isSearchActive }">
+                                <input type="text" placeholder="Enter search term or hotel code" ng-model="siteSearch.data.searchTerm" class="ng-pristine ng-untouched ng-valid">
+                                <button class="green" type="submit"><i class="fa fa-search fa-lg"></i></button>
+                                <div class="loading"></div>
+                            </div>
+						</form>
+						<div id="cart" ng-class="{ 'init' : data.init, 'hasItems' : data.IsValidCart }" ng-controller="CartController" class="ng-scope">
     <a id="cartLink" href="/vacation" title="Go to cart" rel="nofollow"></a>
-    <span ng-if="data.CartCount > 0" id="cartCount">{{data.CartCount}}</span>
+    <!-- ngIf: data.CartCount > 0 -->
 
     <div id="cartView" class="no-top-shadow gradient-gray rounded rounded-bottom pad10">
-        <div ng-if="data.IsValidCart" ng-include="'mini-cart.html'"></div>
-        <div ng-if="!data.IsValidCart" ng-include="'mini-cart-empty.html'"></div>
+        <!-- ngIf: data.IsValidCart -->
+        <!-- ngIf: !data.IsValidCart --><!-- ngInclude: 'mini-cart-empty.html' --><div ng-if="!data.IsValidCart" ng-include="'mini-cart-empty.html'" class="ng-scope">
+    <h2 class="empty ng-scope">Your cart is empty.</h2>
+</div><!-- end ngIf: !data.IsValidCart -->
     </div>
 
     <div class="content-messages">
@@ -90,7 +106,7 @@
     </div>
 </div>
 
-<div id="pompRemoveDialog" class="gat-dialog-content rounded small-shadow" ng-controller="PompDialogController">
+<div id="pompRemoveDialog" class="gat-dialog-content rounded small-shadow ng-scope" ng-controller="PompDialogController">
     <a ng-click="cancel()" class="close" href="javascript:{}">X</a>
     <input type="hidden" autofocus="autofocus">
     <h6>Benefits of Peace of Mind Plan</h6>
@@ -147,8 +163,8 @@
     <!-- ng-hide="data.HasPomp && hideActions"
     hideActions: {{hideActions}} -->
     <div class="buttonContainer clearfix">
-        <button ng-show="data.HasPomp" type="button" ng-click="cancel()" class="cancel less-rounded green">Keep Peace of Mind</button>
-        <button ng-show="data.HasPomp" type="button" ng-click="delete()" class="continue less-rounded green">Remove Peace of Mind</button>
+        <button ng-show="data.HasPomp" type="button" ng-click="cancel()" class="cancel less-rounded green ng-hide">Keep Peace of Mind</button>
+        <button ng-show="data.HasPomp" type="button" ng-click="delete()" class="continue less-rounded green ng-hide">Remove Peace of Mind</button>
         <button ng-hide="data.HasPomp" type="button" ng-click="add()" class="add less-rounded green">Add Peace of Mind Plan</button>
     </div>
 </div>
@@ -187,7 +203,7 @@
     <span class="details">
         {{item.AdultCount}} Adult <span ng-if="item.ChildCount > 0">{{item.ChildCount}} Child ticket(s)</span>
         <span ng-if="item.ChildCount == 0"> ticket(s)</span>
-        <a title="Voucher Details" href="{{item.DetailUrl}}" rel="nofollow">Details</a>
+        <a title="Voucher Details" href="{{item.DetailUrl}}" rel="nofollow" ng-if="item.DetailUrl.length > 0">Details</a>
     </span>
     
 </script>
@@ -244,9 +260,6 @@
     <a href="javascript:{}" rel="nofollow">Live Agent</a>
 </div>
 						</div>
-						<div id="refererText">
-							
-						</div>
 						<div id="menu" class="clearfix">
 <div class="line">
     <div class="background"></div>
@@ -257,7 +270,7 @@
     <a href="#" title="Hide navigation">Hide navigation</a>
 
     <ul>
-<li class="hasChildren vacationPackages"><span>Vacation Packages</span><ul><li class="hasChildren dest-list"><span>Destinations</span><ul><li><a href="/destination/disneylandresortarea"><span>Disneyland® Resort</span></a></li><li><a href="/destination/sandiego"><span>San Diego</span></a></li><li><a href="/destination/universalstudioshollywood"><span>Universal Studios Hollywood</span></a></li><li><a href="/destination/huntingtonbeachca"><span>Huntington Beach</span></a></li><li><a href="/destination/carlsbad"><span>LEGOLAND/Carlsbad</span></a></li><li><a href="/destination/cruises"><span>Cruises</span></a></li><li><a href="/destination/orlando"><span>Orlando</span></a></li><li><a href="/destination/stgeorgeutah"><span>St. George Utah</span></a></li><li><a href="/destination/hawaii"><span>Hawaii</span></a></li><li><a href="/destination/mexico"><span>Mexico</span></a></li><li><a href="/destination/caribbeanbeaches"><span>Beaches</span></a></li><li><a href="/destination/caribbeansandals"><span>Sandals</span></a></li><li><a href="/destination/lasvegas"><span>Las Vegas</span></a></li><li><a href="/destination/sanfrancisco"><span>San Francisco</span></a></li><li><a href="/destination/adventuresbydisney"><span>Adventures by Disney</span></a></li><li><a class="allotherdestinationslink" href="/whitelabel/OtherDestinations.html" rel="nofollow"><span>All Other Destinations</span></a></li></ul></li><li class="hasChildren"><span>Tickets</span><ul><li><a href="/tickets/disneylandresortarea"><span>Disneyland® Resort</span></a></li><li><a href="/tickets/sandiego"><span>San Diego</span></a></li><li><a href="/tickets/universalstudioshollywood"><span>Universal Studios Hollywood</span></a></li><li><a href="/tickets/huntingtonbeachca"><span>Huntington Beach</span></a></li><li><a href="/tickets/carlsbad"><span>LEGOLAND/Carlsbad</span></a></li></ul></li><li><a href="/hotels/specials"><span>Specials</span></a></li><li><a href="/destination/cruises"><span>Cruises</span></a></li><li><a href="/merchandise"><span>Merchandise</span></a></li><li><a href="/guidedtours"><span>Guided Tours</span></a></li><li><a href="/giftcertificates"><span>Gift Certificates</span></a></li></ul></li><li class="hasChildren"><span>Tickets</span><ul><li><a href="/tickets/disneylandresortarea"><span>Disneyland® Resort</span></a></li><li><a href="/tickets/sandiego"><span>San Diego</span></a></li><li><a href="/tickets/universalstudioshollywood"><span>Universal Studios Hollywood</span></a></li><li><a href="/tickets/huntingtonbeachca"><span>Huntington Beach</span></a></li><li><a href="/tickets/carlsbad"><span>LEGOLAND/Carlsbad</span></a></li></ul></li><li class="hasChildren"><span>Hotels</span><ul><li><a href="/hotels?includetickets=False"><span>Disneyland® Resort</span></a></li><li><a href="/hotels/sandiego?includetickets=False"><span>San Diego</span></a></li><li><a href="/hotels/universalstudioshollywood?includetickets=False"><span>Universal Studios Hollywood</span></a></li><li><a href="/hotels/huntingtonbeachca?includetickets=False"><span>Huntington Beach</span></a></li><li><a href="/hotels/carlsbad?includetickets=False"><span>LEGOLAND/Carlsbad</span></a></li><li><a class="allotherdestinationslink" href="http://www.getawaytoday.com/whitelabel/OtherDestinations.html"><span>All Other Destinations</span></a></li></ul></li><li><a href="/destination/cruises"><span>Cruises</span></a></li><li><a class="whiteLabel" href="http://www.getawaytoday.com/whitelabel/OtherDestinations.html" rel="nofollow" target="_blank"><span>Car/Air</span></a></li><li class="hasChildren"><span>Blog</span><ul><li><a href="/blogs"><span>Blog</span></a></li><li><a href="/blogs/cat/Get-Away-Today-Happy-Customers"><span>Testimonials</span></a></li><li><a href="/blogs/cat/Radio--Television"><span>Videos</span></a></li></ul></li><li class="hasChildren client-care"><span>Client Care</span><ul><li><a href="/accountinformation" rel="nofollow"><span>Account Management</span></a></li><li><a href="/purchasehistory" rel="nofollow"><span>Purchase History</span></a></li><li><a href="/myquotes" rel="nofollow"><span>My Quotes</span></a></li><li><a href="/layawayplans" rel="nofollow"><span>Layaway Plans</span></a></li><li><a href="/giftcertificates"><span>Gift Certificates</span></a></li><li><a href="/privacy"><span>Privacy Policy</span></a></li><li><a href="/terms"><span>Terms &amp; Conditions</span></a></li><li><a href="/guarantee"><span>Our Guarantee</span></a></li><li><a href="/contactus"><span>Contact Us</span></a></li><li><a href="/aboutus"><span>About Us</span></a></li></ul></li>    </ul>
+<li class="hasChildren vacationPackages"><span>Vacation Packages</span><ul><li class="hasChildren dest-list"><span>Destinations</span><ul><li><a href="/destination/disneylandresortarea"><span>Disneyland® Resort</span></a></li><li><a href="/destination/sandiego"><span>San Diego</span></a></li><li><a href="/destination/universalstudioshollywood"><span>Universal Studios Hollywood</span></a></li><li><a href="/destination/huntingtonbeachca"><span>Huntington Beach</span></a></li><li><a href="/destination/carlsbad"><span>LEGOLAND/Carlsbad</span></a></li><li><a href="/destination/cruises"><span>Cruises</span></a></li><li><a href="/destination/orlando"><span>Orlando</span></a></li><li><a href="/destination/stgeorgeutah"><span>St. George Utah</span></a></li><li><a href="/destination/hawaii"><span>Hawaii</span></a></li><li><a href="/destination/mexico"><span>Mexico</span></a></li><li><a href="/destination/caribbeanbeaches"><span>Beaches</span></a></li><li><a href="/destination/caribbeansandals"><span>Sandals</span></a></li><li><a href="/destination/lasvegas"><span>Las Vegas</span></a></li><li><a href="/destination/sanfrancisco"><span>San Francisco</span></a></li><li><a href="/destination/adventuresbydisney"><span>Adventures by Disney</span></a></li><li><a class="allotherdestinationslink" href="/whitelabel/OtherDestinations.html" rel="nofollow"><span>All Other Destinations</span></a></li></ul></li><li class="hasChildren"><span>Tickets</span><ul><li><a href="/tickets/disneylandresortarea"><span>Disneyland® Resort</span></a></li><li><a href="/tickets/sandiego"><span>San Diego</span></a></li><li><a href="/tickets/universalstudioshollywood"><span>Universal Studios Hollywood</span></a></li><li><a href="/tickets/huntingtonbeachca"><span>Huntington Beach</span></a></li><li><a href="/tickets/carlsbad"><span>LEGOLAND/Carlsbad</span></a></li></ul></li><li><a href="/hotels/specials"><span>Specials</span></a></li><li><a href="/destination/cruises"><span>Cruises</span></a></li><li class="hasChildren"><span>Merchandise</span><ul><li><a href="/souvenirs"><span>All</span></a></li><li><a href="/souvenirs?categoryIds=2"><span>Costumes</span></a></li><li><a href="/souvenirs?categoryIds=5"><span>Disney Coin Banks</span></a></li><li><a href="/souvenirs?categoryIds=6"><span>Miscellaneous Travel Items</span></a></li><li><a href="/souvenirs?categoryIds=7"><span>Luggage</span></a></li><li><a href="/souvenirs?categoryIds=3"><span>Costume Packages</span></a></li><li><a href="/souvenirs?categoryIds=4"><span>Books</span></a></li><li><a href="/souvenirs?categoryIds=1"><span>Sports Accessories</span></a></li></ul></li><li><a href="/guidedtours"><span>Guided Tours</span></a></li><li><a href="/giftcertificates"><span>Gift Certificates</span></a></li></ul></li><li class="hasChildren"><span>Tickets</span><ul><li><a href="/tickets/disneylandresortarea"><span>Disneyland® Resort</span></a></li><li><a href="/tickets/sandiego"><span>San Diego</span></a></li><li><a href="/tickets/universalstudioshollywood"><span>Universal Studios Hollywood</span></a></li><li><a href="/tickets/huntingtonbeachca"><span>Huntington Beach</span></a></li><li><a href="/tickets/carlsbad"><span>LEGOLAND/Carlsbad</span></a></li></ul></li><li class="hasChildren"><span>Hotels</span><ul><li><a href="/hotels?includetickets=False"><span>Disneyland® Resort</span></a></li><li><a href="/hotels/sandiego?includetickets=False"><span>San Diego</span></a></li><li><a href="/hotels/universalstudioshollywood?includetickets=False"><span>Universal Studios Hollywood</span></a></li><li><a href="/hotels/huntingtonbeachca?includetickets=False"><span>Huntington Beach</span></a></li><li><a href="/hotels/carlsbad?includetickets=False"><span>LEGOLAND/Carlsbad</span></a></li><li><a class="allotherdestinationslink" href="http://www.funjet.com/?plcode=46521716"><span>All Other Destinations</span></a></li></ul></li><li><a href="/destination/cruises"><span>Cruises</span></a></li><li><a class="whiteLabel" href="http://www.getawaytoday.com/whitelabel/OtherDestinations.html" rel="nofollow" target="_blank"><span>Car/Air</span></a></li><li class="hasChildren"><span>Blog</span><ul><li><a href="/blogs"><span>Blog</span></a></li><li><a href="/blogs/cat/Get-Away-Today-Happy-Customers"><span>Testimonials</span></a></li><li><a href="/blogs/cat/Radio--Television"><span>Videos</span></a></li></ul></li><li class="hasChildren client-care"><span>Client Care</span><ul><li><a href="/accountinformation" rel="nofollow"><span>Account Management</span></a></li><li><a href="/purchasehistory" rel="nofollow"><span>Purchase History</span></a></li><li><a href="/myquotes" rel="nofollow"><span>My Quotes</span></a></li><li><a href="/layawayplans" rel="nofollow"><span>Layaway Plans</span></a></li><li><a href="/giftcertificates"><span>Gift Certificates</span></a></li><li><a href="/privacy"><span>Privacy Policy</span></a></li><li><a href="/terms"><span>Terms &amp; Conditions</span></a></li><li><a href="/guarantee"><span>Our Guarantee</span></a></li><li><a href="/contactus"><span>Contact Us</span></a></li><li><a href="/aboutus"><span>About Us</span></a></li></ul></li>    </ul>
 
 </nav>
 						</div>
@@ -276,12 +289,13 @@
 
 
 
+
 <div id="twoPaneLeftColumn">
     
 
 
     <div class="small-shadow sideBarTestimonial">
-        <img alt="" src="/image/10380/12629/25years4.jpg">
+        <img alt="" src="/image/10384/12629/25years.jpg">
     </div>
 </div>
 <div id="twoPaneMainColumn">
@@ -343,32 +357,33 @@
 			<footer class="clearfix">
 				<div id="col1" class="clearfix">
 					<span>As seen on TV</span>
-					<div id="goodThingsUtah"><a href="/blogs/cat/Radio--Television" rel="nofollow"></a></div>
-					<div id="studio5"><a href="/blogs/cat/Radio--Television" rel="nofollow"></a></div>
-					<div id="sonoranLiving"><a href="/blogs/cat/Radio--Television" rel="nofollow"></a></div>
-					<div id="freshLiving"><a href="/blogs/cat/Radio--Television" rel="nofollow"></a></div>
-					<div id="yourLife"><a href="/blogs/cat/Radio--Television" rel="nofollow"></a></div>
-					<div id="arizonaMidday"><a href="/blogs/cat/Radio--Television" rel="nofollow"></a></div>
+					<div id="goodThingsUtah" title="Good Things Utah"><a href="/blogs/cat/Radio--Television?keyword=Good%20Things%20Utah" rel="nofollow"></a></div>
+					<div id="studio5" title="Studio 5"><a href="/blogs/cat/Radio--Television?keyword=Studio%205" rel="nofollow"></a></div>
+					<div id="sonoranLiving" title="Sonoran Living"><a href="/blogs/cat/Radio--Television?keyword=Sonoran%20Living" rel="nofollow"></a></div>
+					<div id="freshLiving" title="Fresh Living"><a href="/blogs/cat/Radio--Television?keyword=Fresh%20Living" rel="nofollow"></a></div>
+					<div id="yourLife" title="Your Life a to z"><a href="/blogs/cat/Radio--Television" rel="nofollow"></a></div>
+					<div id="arizonaMidday" title="Arizona Midday"><a href="/blogs/cat/Radio--Television?keyword=Arizona%20Midday" rel="nofollow"></a></div>
 				</div>
 				<div id="col2">
-					<div id="tourOperator"></div>
-					<div id="authorizeNet"></div>
-					<div id="bestOfState"></div>
-					<div id="bbb"></div>
+					<div id="tourOperator" title="Disney Select Tour Operator"></div>
+					<div id="bestOfState" title="Best of Utah"></div>
+					<div id="authorizeNet" title="Authorize .NET"></div>
+					<div id="bbb" title="Better Business Bureau"></div>
 					
 				</div>
 				<div id="col3">
-					<a title="PayPal Verified" id="paypal" href="https://www.paypal.com/" rel="nofollow"></a>
-                    <a title="Gephardt Approved" id="gephardt" href="/gephardtapproved"></a>
+					<a title="PayPal Verified" id="paypal" href="//www.paypal.com/" rel="nofollow"></a>
+					<a title="Gephardt Approved" id="gephardt" href="/gephardtapproved"></a>
 				</div>
 				<div id="col4" class="clearfix">
 					<span>Call us at 1-855-GET-AWAY</span>
 					<div id="social" class="clearfix">
-						<a id="facebook" href="//www.facebook.com/pages/South-Ogden-UT/Get-Away-Today/9366056521"></a>
-						<a id="twitter" href="//twitter.com/get_away_today"></a>
-						<a id="pinterest" href="//pinterest.com/getawaytoday/"></a>
-						<a id="youtube" href="//www.youtube.com/user/getawaytodayvacation"></a>
-						<a id="googleplus" href="//plus.google.com/116724413451463384510" rel="publisher"></a>
+						<a title="Facebook" target="_blank" id="facebook" href="//www.facebook.com/GetAwayTodayVacations"></a>
+						<a title="Twitter" target="_blank" id="twitter" href="//twitter.com/get_away_today"></a>
+						<a title="Pinterest" target="_blank" id="pinterest" href="//pinterest.com/getawaytoday/"></a>
+						<a title="YouTube" target="_blank" id="youtube" href="//www.youtube.com/user/getawaytodayvacation"></a>
+						<a title="Google+" target="_blank" id="googleplus" href="//plus.google.com/+getawaytodayvacations/" rel="publisher"></a>
+						<a title="Instagram" target="_blank" id="instagram" href="//instagram.com/getawaytoday/"></a>
 					</div>
 					<div id="siteLinks">
 						<a href="/sitemap">Site Map</a> | <a id="mobileWebsite" href="http://m.getawaytoday.com" rel="nofollow">Mobile Website</a>
@@ -389,7 +404,7 @@
 
 <div id="agentDialog" title="Request Assistance" class=" offline">
     <p>Welcome to Get Away Today <i>LIVE HELP</i>.  We created this feature so you can receive timely answers to your vacation questions.  This service is FREE.  If you would like help, please give us your name, phone number, and when you want us to call you.</p>
-    <p>Today's business hours are:  <span style="font-weight: bold">Closed MST</span>.</p>
+    <p>Today's business hours are:  <span style="font-weight: bold">9:00AM - 6:45PM MST</span>.</p>
 
     <div class="message">
 Get Away Today's LIVE HELP service isn't available right now.  For assistance, please call our agents at (800)-523-6116.    </div>
@@ -420,7 +435,6 @@ Get Away Today's LIVE HELP service isn't available right now.  For assistance, p
         <button type="button" class="continue less-rounded small-shadow">Request Help</button>
     </div>
 </div>
-
 	<div id="exitSiteDialog">
 		<h6>You are now leaving GetAwayToday.com for our partner website.</h6>
 		<p>In order to provide the widest array of products and services, GetAwayToday.com has partnered with other amazing travel providers.  By clicking "Continue" you will automatically be directed to our partner site, which is responsible for all products and content.<br><br>If you would like personalized assistance with your vacation, please call our agents at 855-GET-AWAY and we would love to help.</p>
@@ -430,7 +444,26 @@ Get Away Today's LIVE HELP service isn't available right now.  For assistance, p
 		</div>
 	</div>
 
-	
+<div class="siteSearchResults ng-scope" ng-controller="SiteSearchCtrl as siteSearch">
+	<div id="topRow">
+		<div class="textWrapper" id="searchBar">
+			<form name="searchForm" class="search-bar ng-pristine ng-valid" ng-submit="siteSearch.search()" novalidate="">
+				<input type="text" placeholder="Enter search term or hotel code" ng-model="siteSearch.data.searchTerm" class="ng-pristine ng-untouched ng-valid">
+				<button class="green" type="submit"><i class="fa fa-search fa-lg"></i></button>
+				<!-- ngIf: siteSearch.data.isSearchActive -->
+			</form>
+		</div>
+		<div id="numberOfResults" class="ng-binding">About 0 results</div>
+	</div>
+	<div id="results">
+		<!-- ngRepeat: result in siteSearch.data.results -->
+		<!-- ngIf: siteSearch.data.results.length == 0 --><div class="noResults ng-binding ng-scope" ng-if="siteSearch.data.results.length == 0">
+			Found no results for the search term: 
+		</div><!-- end ngIf: siteSearch.data.results.length == 0 -->
+	</div>
+</div>
+
+
 	
 	<script type="text/javascript">
 		// set appPath from body
@@ -455,28 +488,28 @@ Get Away Today's LIVE HELP service isn't available right now.  For assistance, p
 	</script>
 
 	
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="/Scripts/jquery-1.9.1.min.js"><\/script>')</script><script src="/Scripts/jquery-1.9.1.min.js"></script>
 
 	<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/smoothness/jquery-ui.css">
-	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
 
 	
 	
-	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-sanitize.min.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-animate.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.16/angular.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.16/angular-sanitize.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.16/angular-animate.min.js"></script>
 
 	<!-- if AngularJS fails to load fallback a local version -->
 	<script>
-        if (!window.angular){
-            document.write('<script src="/Scripts/angular.min.js"><\/script>'); 
-            document.write('<script src="/Scripts/angular-sanitize.min.js"><\/script>'); 
-            document.write('<script src="/Scripts/angular-animate.min.js"><\/script>');
-        }
-    </script><script src="/Scripts/angular.min.js"></script><script src="/Scripts/angular-sanitize.min.js"></script><script src="/Scripts/angular-animate.min.js"></script>
+		if (!window.angular) {
+			document.write('<script src="/Scripts/angular.min.js"><\/script>');
+			document.write('<script src="/Scripts/angular-sanitize.min.js"><\/script>');
+			document.write('<script src="/Scripts/angular-animate.min.js"><\/script>');
+		}
+	</script><script src="/Scripts/angular.min.js"></script><script src="/Scripts/angular-sanitize.min.js"></script><script src="/Scripts/angular-animate.min.js"></script>
 
-		<script type="text/javascript" src="//tags.mediaforge.com/js/849"></script>
+			<script type="text/javascript" src="//tags.mediaforge.com/js/849"></script>
 		<noscript>
 			<iframe src="//www.googletagmanager.com/ns.html?id=GTM-5Q9HMX" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 		</noscript>
@@ -489,23 +522,23 @@ Get Away Today's LIVE HELP service isn't available right now.  For assistance, p
 				var f = d.getElementsByTagName(s)[0],
                     j = d.createElement(s),
                     dl = l != 'dataLayer' ? '&l=' + l : '';
-                j.async = true;
-                j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
-                f.parentNode.insertBefore(j, f);
-            })(window, document, 'script', 'dataLayer', 'GTM-5Q9HMX');
-        </script>
-        
-        <script src="/bundles/default?v=7RvlPFAezx4VrrBMX2qegUi4SLuK0tFWl0Q0vKBrt0c1"></script>
+				j.async = true;
+				j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-5Q9HMX');
+		</script>
+		
+		<script src="/bundles/default?v=EYoofeaBU9djP3orTXOfAoekpBAcJx7IpvXjz8EBloA1"></script>
 
-        
+		
     
-    <script src="/bundles/planner?v=fHrwIoQgwl2UCeqS23WIZYjpUv047C1uTRdsB7N2b3w1"></script>
+    <script src="/bundles/planner?v=kSSgiWV-L-i5hEDvApKuN-v8naI2tcIZo3sTD18TRWc1"></script>
 
     <script src="/bundles/dynamic?v=RxS7ZRfjNB4kr9vtMg_YOMHggUTXSoNPe71JsbN2CTY1"></script>
 
 
 
 
-        
-    
+		
+	
 </body></html>
