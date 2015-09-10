@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magoosh.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315131503id_/https%3A//magoosh.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magoosh.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910171633id_/http%3A//magoosh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magoosh
 
@@ -8,11 +8,11 @@ Magoosh Inc. (“Magoosh”) is the owner of this web site.
 
 Magoosh can be contacted by mail at:
 
-2020 Milvia St   
+2020 Milvia St  
 Suite 220  
-Berkeley, CA 94704 
+Berkeley, CA 94704
 
-We can be reached by e-mail at support@magoosh.com 
+We can be reached by e-mail at support@magoosh.com
 
 We can be reached by phone at 510-214-0212 or 1-855-MAGOOSH (624-6674)
 
@@ -26,7 +26,7 @@ Magoosh is committed to protecting the privacy and security of our users. Our go
 
 For each visitor to our Web page, we collect the domain name and e-mail address (where possible), the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages customers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
 
-Magoosh does not collect or maintain information from users actually known to be under the age of 13, and no part of Magoosh’s web site is structured to serve or attract anyone under the age of 13. 
+Magoosh does not collect or maintain information from users actually known to be under the age of 13, and no part of Magoosh’s web site is structured to serve or attract anyone under the age of 13.
 
 **Links to Other Web Sites**
 
@@ -50,30 +50,30 @@ We intend to protect the confidentiality of customer personal information. We ha
 
 **No Liability for Acts of Third Parties**
 
-We will exercise reasonable efforts to safeguard customer personal information. However, transmissions protected by industry standard security technology and implemented by human beings cannot be made absolutely secure. Consequently, Magoosh shall not be liable for unauthorized disclosure of personal information due to no fault of Magoosh including, but not limited to, errors in transmission and unauthorized acts of Magoosh staff and/or third parties. 
+We will exercise reasonable efforts to safeguard customer personal information. However, transmissions protected by industry standard security technology and implemented by human beings cannot be made absolutely secure. Consequently, Magoosh shall not be liable for unauthorized disclosure of personal information due to no fault of Magoosh including, but not limited to, errors in transmission and unauthorized acts of Magoosh staff and/or third parties.
 
 **Access Rights to Privacy Data**
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, writing to us at the above address, visiting us at www.magoosh.com. 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, writing to us at the above address, visiting us at www.magoosh.com.
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, including financial information (e.g., credit card account information), unique identifier information (e.g., customer number or password), and transaction information (e.g., dates on which customers made purchases, amounts and types of purchases). 
+Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, including financial information (e.g., credit card account information), unique identifier information (e.g., customer number or password), and transaction information (e.g., dates on which customers made purchases, amounts and types of purchases).
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information. 
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information.
 
-Customers can have this information corrected by sending us e-mail at the above address, writing to us at the above address, visiting us at www.magoosh.com. 
+Customers can have this information corrected by sending us e-mail at the above address, writing to us at the above address, visiting us at www.magoosh.com.
 
 **Notice of Changes to Privacy Policy**
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 **Requests**
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address, or visiting us at www.magoosh.com. 
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address, or visiting us at www.magoosh.com.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at the above address, writing to us at the above address, or visiting us at www.magoosh.com. 
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by e-mailing us at the above address, writing to us at the above address, or visiting us at www.magoosh.com.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
 **Questions, Problems and Complaints**
 
-If you have a question about this policy statement, or a complaint about Magoosh’s compliance with this privacy policy, you may contact Magoosh by e-mail at support@magoosh.com. If Magoosh is unable to resolve your complaint to your reasonable satisfaction or if you do not receive acknowledgment of an inquiry, you may elect to proceed by contacting state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm. 
+If you have a question about this policy statement, or a complaint about Magoosh’s compliance with this privacy policy, you may contact Magoosh by e-mail at support@magoosh.com. If Magoosh is unable to resolve your complaint to your reasonable satisfaction or if you do not receive acknowledgment of an inquiry, you may elect to proceed by contacting state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
