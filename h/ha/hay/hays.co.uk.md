@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315051414id_/http%3A//hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910072801id_/http%3A//hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Hays
 
-If you're looking for information about how to have your details removed from Hays.co.uk, [please refer to our FAQs](https://web.archive.org/features/HAYS_008297).
+If you're looking for information about how to have your details removed from Hays.co.uk, [please refer to our FAQs](https://web.archive.org/features/site-help-1417603).
 
 ### What if I do not agree with this Privacy Policy?
 
