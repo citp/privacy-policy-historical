@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iifym.com privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426185242id_/http%3A//iifym.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iifym.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910091113id_/http%3A//iifym.com/privacy.html) for the most accurate reproduction.*
 
 # iifym.com | Privacy Policy
 
