@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nextgen.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316213318id_/https%3A//www.nextgen.com/Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextgen.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910155212id_/https%3A//nextgen.com/Legal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | NextGen Healthcare
 
 ## Privacy Policy
 
-Quality Systems, Inc., its subsidiary NextGen Healthcare Information Systems, LLC and their respective subsidiaries and affiliates (“QSI,” “We,” or “Us”) respect Your privacy. This policy explains how We treat personal information We obtain from clients, other authorized users of our products and services, prospective clients, and users of our various websites, including but not limited to [www.qsii.com](http://www.qsii.com/) and [ www.nextgen.com ](http://www.nextgen.com/) (collectively, the “QSI Site”), but does not apply to any third party sites that may be linked to them. This policy is part of the terms and conditions that govern use of the QSI Site. By using the QSI Site, you agree to be bound by the terms of this privacy policy. If You do not agree with these terms, please do not use the QSI Site.
+Quality Systems, Inc., its subsidiary NextGen Healthcare Information Systems, LLC and their respective subsidiaries and affiliates (“QSI,” “We,” or “Us”) respect Your privacy. This policy explains how We treat personal information We obtain from clients, other authorized users of our products and services, prospective clients, and users of our various websites, including but not limited to [www.qsii.com](http://www.qsii.com/) and [www.nextgen.com](http://www.nextgen.com/) (collectively, the “QSI Site”), but does not apply to any third party sites that may be linked to them. This policy is part of the terms and conditions that govern use of the QSI Site. By using the QSI Site, you agree to be bound by the terms of this privacy policy. If You do not agree with these terms, please do not use the QSI Site.
 
 We use the QSI Site to make information, products, and services available to a diverse group of people who are interested in QSI and its products and services, including present and prospective clients, healthcare IT professionals, investors and members of the general public (collectively, the “QSI Community”). As used in this Privacy Policy, “You” and “Your” refers to You as a member of the QSI Community, whether You are acting on Your own behalf or as a representative of another person or entity. The term “personal information” means information that You provide to us which personally identifies You to be contacted or identified, such as Your name, phone number, email address, and any other data that is tied to such information. 
 
@@ -85,6 +85,13 @@ We use appropriate security measures to protect the information We obtain from u
   
 
 
+### Email Confidentiality Notice
+
+This email and its attachments, if any, may contain confidential or proprietary information and are intended solely for authorized use by the intended recipient(s) only. Any other use of this email is prohibited. If you have received this email in error, you are hereby notified that any retention, disclosure, copying, forwarding, distribution (in whole or in part and whether electronically, written, and/or orally) and/or taking any action in reliance on this email, its contents and/or any attachments thereto is strictly prohibited. If you received this email in error, please notify the sender by replying to this message and permanently delete this email, and any attachments thereto, from your system immediately.
+
+  
+
+
 ### Access and Changes to Information; Deletion of Information
 
 Clients and authorized users of our products, services, and information resources have access to the information We store about them, and may change that information at no charge, provided that doing so is consistent with their respective agreements with QSI. Certain information services We provide may reflect patient information as it appears in the medical records of those patients that are maintained by the medical professionals they consult. We may retain the information We obtain for a period sufficient to provide the products and services that our clients request, as necessary to comply with our legal obligations, and as QSI’s management deems appropriate. 
@@ -97,7 +104,7 @@ Clients and authorized users of our products, services, and information resource
 We monitor our compliance with this policy. Questions or concerns should be directed to: 
 
 **David Slazyk, CISSP**  
-Senior Director, Security Officer & IS  
+VP, Data Privacy & Risk Officer  
 QSI / NextGen Healthcare  
 611 Anton Blvd., Suite 500  
 Costa Mesa, CA 92626 
@@ -119,4 +126,4 @@ Complaints will be acknowledged, investigated, and resolved between Us and the p
 
 We reserve the right to change this policy at any time. We will make reasonable efforts to post a notice on the QSI Site to alert You to changes in this policy. You are welcome to contact us at any time with any questions You may have about this policy, including questions as to whether the posted policy has been changed. Unless a notification of the change in policy states otherwise, changes to this policy are effective as of the date and time posted. Continued use of the QSI Site following notice of such changes shall indicate Your acknowledgement and consent of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-**Policy Effective Date:** July 18, 2014 
+**Policy Effective Date:** August 19, 2015 
