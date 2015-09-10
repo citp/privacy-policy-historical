@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddipackd.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610082056id_/http%3A//oddipackd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddipackd.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910113025id_/http%3A//oddipackd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
