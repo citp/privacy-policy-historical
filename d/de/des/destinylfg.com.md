@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the destinylfg.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502083211id_/http%3A//www.destinylfg.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinylfg.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910120309id_/http%3A//www.destinylfg.com/policies/privacy) for the most accurate reproduction.*
 
-# DestinyLFG.com | Privacy Policy
+# Privacy Policy - DestinyLFG.com
 
 DestinyLFG.com does not use your user information in any way, shape or form. Your data is stored in the DestinyLFG.com database, but it just sits there... looking pretty. The personal information stored is your PSN ID or Xbox Live Gamertag, language, comment, class, level, activity selected and IP address. Your PSN ID or Xbox Live Gamertag, language, comment, class, level and activity selected are used to display your listing; your IP address is stored for security purposes such as blocking abusive users. The DestinyLFG.com site also utilizes the local storage to store meta data on your device as a mechanism for site functionality, and DestinyLFG.com has permission to retrieve the locally stored data, and not used for any other purpose.
 
