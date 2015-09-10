@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savorthesuccess.com privacy policy that was archived on 2015-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150405051015id_/http%3A//www.savorthesuccess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savorthesuccess.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910182919id_/http%3A//www.savorthesuccess.com/privacy) for the most accurate reproduction.*
 
 # Savor the Success Privacy Policy - Savor the Success - Business Network for women entrepreneurs
 
