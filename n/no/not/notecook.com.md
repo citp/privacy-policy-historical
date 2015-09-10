@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notecook.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502081025id_/http%3A//notecook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notecook.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910123358id_/http%3A//notecook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Notecook
 
