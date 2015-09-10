@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readwhere.com privacy policy that was archived on 2014-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141116024552id_/http%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readwhere.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910193051id_/http%3A//www.readwhere.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Read on Web, iPhone, iPad, android and windows 8 - readwhere
+# Privacy Policy
 
 The Readwhere privacy policy explains how your information, which includes the information that you will provide to us, and the information we will gain and collect from your use of Readwhere, will be used and protected by us. 
 
