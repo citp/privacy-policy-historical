@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowt.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322103840id_/http%3A//www.wowt.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowt.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910040459id_/http%3A//www.wowt.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
