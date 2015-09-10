@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thankyou.com privacy policy that was archived on 2015-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150402022253id_/https%3A//www.thankyou.com/privacyStmt.jspx%3Fcmp%3DNAV%26LID%3Dfooter%7Cprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thankyou.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910160952id_/https%3A//www.thankyou.com/privacyStmt.jspx%3Fcmp%3DNAV%26LID%3Dfooter%7Cprivacy) for the most accurate reproduction.*
 
 # Citi ThankYou® Rewards - Our Privacy Statement
 
@@ -8,7 +8,9 @@ Our goal is to maintain your trust and confidence when handling personal informa
 
 This notice discloses the privacy procedures of [www.thankyou.com](https://web.archive.org/). Please read this policy to understand how we will treat the personal information about you.
 
-Our Online Privacy Statement describes how we may collect, use and share information you provide when you visit this website, receive our emails or interact with advertisements we have on third-party websites. **What are Third-party Websites?**   
+Our Online Privacy Statement describes how we may collect, use and share information you provide when you visit this website, receive our emails or interact with advertisements we have on third-party websites. Detailed Explanation
+
+**What are Third-party Websites?**   
 Sites that are not operated by Citi and are not subject to our Online Privacy Statement. We encourage you to read the privacy policies on these sites. 
 
 We encourage you to read the privacy policies on those sites.
@@ -19,16 +21,9 @@ We collect two types of online information: non-personal and personal.
 
 #### Non-Personal Information
 
-When you visit our site, we collect the IP Address  **What is an IP Address?**  
-An Internet Protocol address is a unique number, assigned to a computer or device that connects to the Internet, that identifies that computer or device.  of the device you use to connect to the Internet. In addition, we gather information such as what browser and which version of it you're using, the type of operating system you have, and which site you came from or advertisement you viewed or clicked on. This information helps us provide an online experience that matches your device and to manage our online advertising.
+When you visit our site, we collect the IP Address Detailed Explanation of the device you use to connect to the Internet. In addition, we gather information such as what browser and which version of it you're using, the type of operating system you have, and which site you came from or advertisement you viewed or clicked on. This information helps us provide an online experience that matches your device and to manage our online advertising.
 
-When you browse our site or receive one of our emails, we and companies we work with use cookies  **What is a cookie?**  
-A cookie is a small text file that a web server may place on your computer when you visit a site. The file uniquely identifies a computer. Information stored in a cookie sent by Citi can only be read by Citi or companies we work with.  and/or pixel tags  **What is a Pixel Tag?**   
-A pixel tag is a transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed. In addition, a pixel tag may tell your browser to get content from another server. 
-
-The pixel tags on Citi's sites are set only by companies we work with and supervise. In order to ensure the safekeeping of your information, network advertising companies and publishers are not permitted to directly collect information on our site. 
-
-to collect information and store your online preferences. Cookies are widely used and most browsers are set up to accept them automatically. If you would prefer, you can choose to not accept cookies.
+When you browse our site or receive one of our emails, we and companies we work with use cookies Detailed Explanation and/or pixel tags Detailed Explanation to collect information and store your online preferences. Cookies are widely used and most browsers are set up to accept them automatically. If you would prefer, you can choose to not accept cookies.
 
 It's important to note that cookies and pixel tags do not capture any information that can personally identify you. The information they gather helps us to improve your online experience and may include:
 
@@ -38,12 +33,7 @@ It's important to note that cookies and pixel tags do not capture any informatio
 
 
 
-We may also supplement the information we collect with information we receive from other companies. For example, we may use marketing segments  **What are Marketing Segments?**   
-These are groups of unique individuals or users categorized using information such as behaviors, demographics, attitudes and/or geographic differences. 
-
-Companies can create marketing segments by using technologies like IP addresses to compile, over time, aggregated, non-personal information about how consumers are using the Internet. They consider where users saw and/or clicked on content and advertisements, and use this information to make inferences and predictions about the users' characteristics, interests and preferences. This information does not identify you personally nor does it report on particular online activities or behaviors. 
-
-developed by us or other companies to customize certain services to your local area and provide relevant offers tailored to you.
+We may also supplement the information we collect with information we receive from other companies. For example, we may use marketing segments Detailed Explanation developed by us or other companies to customize certain services to your local area and provide relevant offers tailored to you.
 
 #### Personal Information
 
@@ -59,7 +49,9 @@ ThankYou Members may review and change contact information such as address, phon
 
 ### 2\. How Do We Use the Information We Collect?
 
-Citi uses the information we collect about and from you to manage our business and to offer an enhanced, personalized online experience on our site and third-party websites.  **What are Third-party Websites?**  
+Citi uses the information we collect about and from you to manage our business and to offer an enhanced, personalized online experience on our site and third-party websites. Detailed Explanation
+
+**What are Third-party Websites?**   
 Sites that are not operated by Citi and are not subject to our Online Privacy Statement. We encourage you to read the privacy policies on these sites. 
 
 The information we collect allows us to:
@@ -75,20 +67,9 @@ We may also use personal information we have about you such as your email or pos
 
 ### 3\. How Do We Use Information from Our Advertisements on Other Websites?
 
-Companies we work with  **What are companies we work with?**  
-These companies are any third-party agents that conduct business on behalf of Citi. The services they provide include, but are not limited to, communications (e.g., email), marketing, data processing, customer acquisition and servicing and advertisement management.
+Companies we work with Detailed Explanation place and track advertisements on third-party websites. Detailed Explanation
 
-When we use other companies to provide services for us, we require them to protect the confidentiality of information they receive. 
-
-place and track advertisements on third-party websites.  **What are Third-party Websites?**  
-Sites that are not operated by Citi and are not subject to our Online Privacy Statement. We encourage you to read the privacy policies on these sites. 
-
-Like most advertisers, we place advertisements where we think they will be most relevant to customers. We place advertisements by developing and using our own marketing segments  **What are Marketing Segments?**   
-These are groups of unique individuals or users categorized using information such as behaviors, demographics, attitudes and/or geographic differences. 
-
-Companies can create marketing segments by using technologies like IP addresses to compile, over time, aggregated, non-personal information about how consumers are using the Internet. They consider where users saw and/or clicked on content and advertisements, and use this information to make inferences and predictions about the users' characteristics, interests and preferences. This information does not identify you personally nor does it report on particular online activities or behaviors. 
-
-that may combine online and offline information about our current and prospective customers. In addition, we may use marketing segments provided by online publishers and network advertising companies.
+Like most advertisers, we place advertisements where we think they will be most relevant to customers. We place advertisements by developing and using our own marketing segments Detailed Explanation that may combine online and offline information about our current and prospective customers. In addition, we may use marketing segments provided by online publishers and network advertising companies.
 
 Network advertising companies that provide these services have their own privacy policies and are not subject to our Online Privacy Statement. Many of these companies provide ways to avoid targeted advertising provided by, or thru, them.
 
@@ -108,8 +89,7 @@ We may use Flash objects (sometimes referred to as "Local Shared Objects") on ce
 
 #### Cookies
 
-You can control whether to accept cookies  **What is a cookie?**  
-A cookie is a small text file that a web server may place on your computer when you visit a site. The file uniquely identifies a computer. Information stored in a cookie sent by Citi can only be read by Citi or companies we work with.  or not.
+You can control whether to accept cookies Detailed Explanation or not.
 
 If you decide to not accept cookies, some features and services on our site may not work properly because we may not be able to recognize and associate you with your ThankYou Account. In addition, the offers we provide when you visit us may not be as relevant to you or tailored to your interests.
 
@@ -141,3 +121,32 @@ From time to time, we may change this Privacy Policy. The effective date of this
 ### EFFECTIVE DATE
 
 This policy was last modified June, 2014.
+
+**What is an IP Address?**  
+An Internet Protocol address is a unique number, assigned to a computer or device that connects to the Internet, that identifies that computer or device. 
+
+**What is a cookie?**  
+A cookie is a small text file that a web server may place on your computer when you visit a site. The file uniquely identifies a computer. Information stored in a cookie sent by Citi can only be read by Citi or companies we work with. 
+
+**What are Marketing Segments?**   
+A pixel tag is a transparent graphic image, sometimes called a web beacon or tracking beacon, placed on a web page or in an email, which indicates that a page or email has been viewed. In addition, a pixel tag may tell your browser to get content from another server. 
+
+These are groups of unique individuals or users categorized using information such as behaviors, demographics, attitudes and/or geographic differences. 
+
+Companies can create marketing segments by using technologies like IP addresses to compile, over time, aggregated, non-personal information about how consumers are using the Internet. They consider where users saw and/or clicked on content and advertisements, and use this information to make inferences and predictions about the users' characteristics, interests and preferences. This information does not identify you personally nor does it report on particular online activities or behaviors. 
+
+**What are companies we work with?**  
+These companies are any third-party agents that conduct business on behalf of Citi. The services they provide include, but are not limited to, communications (e.g., email), marketing, data processing, customer acquisition and servicing and advertisement management.
+
+When we use other companies to provide services for us, we require them to protect the confidentiality of information they receive. 
+
+**What are Third-party Websites?**  
+Sites that are not operated by Citi and are not subject to our Online Privacy Statement. We encourage you to read the privacy policies on these sites. 
+
+**What are Marketing Segments?**   
+These are groups of unique individuals or users categorized using information such as behaviors, demographics, attitudes and/or geographic differences. 
+
+Companies can create marketing segments by using technologies like IP addresses to compile, over time, aggregated, non-personal information about how consumers are using the Internet. They consider where users saw and/or clicked on content and advertisements, and use this information to make inferences and predictions about the users' characteristics, interests and preferences. This information does not identify you personally nor does it report on particular online activities or behaviors. 
+
+**What is a cookie?**  
+A cookie is a small text file that a web server may place on your computer when you visit a site. The file uniquely identifies a computer. Information stored in a cookie sent by Citi can only be read by Citi or companies we work with. 
