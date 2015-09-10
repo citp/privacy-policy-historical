@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airlineticketsfor.com privacy policy that was archived on 2014-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140120085212id_/http%3A//www.airlineticketsfor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airlineticketsfor.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910134927id_/http%3A//www.airlineticketsfor.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Airline Tickets For
+# Privacy | Airline Tickets For... YOU!
 
 This privacy policy sets out how  uses and protects any information that you give  when you use this website.
 
