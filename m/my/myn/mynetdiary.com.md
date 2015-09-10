@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynetdiary.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316035506id_/http%3A//www.mynetdiary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynetdiary.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910135135id_/http%3A//www.mynetdiary.com/privacy.html) for the most accurate reproduction.*
 
 # About MyNetDiary - Online Diet Log and iPhone Calorie Counter | MyNetDiary
 
@@ -25,6 +25,10 @@ Before and After photos taken on a mobile device are stored on the mobile device
 #### Credit Card Information
 
 We use PayPal to process credit card transactions. You may choose to pay for your MyNetDiary.com account using any payment method accepted by PayPal. If you use PayPal to make a payment, we do not receive or store any credit card information. You may also choose to enter credit card information on MyNetDiary.com. If you provide your credit card information on our web site, we will store such information for the duration of the transaction until your credit card is charged and the requested product or service has been purchased. After the transaction is complete, we delete your credit card number and expiration date from our database. For convenience, we may store your billing address for use during future transactions. 
+
+#### Fitness and Activity Data
+
+We use fitness and activity data, including data provided by third-party activity trackers, to provide, personalize and improve your experience on the MyNetDiary.com website and in mobile applications. We may release or share Fitness and Activity Data with third parties in anonymous form and/or in the aggregate, for statistical analysis, research, demographic profiling and other similar purposes. 
 
 #### Referrals
 
