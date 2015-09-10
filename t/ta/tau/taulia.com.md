@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taulia.com privacy policy that was archived on 2015-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150105130352id_/http%3A//taulia.com/privacy-policy%3Fcookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taulia.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910104907id_/http%3A//www.taulia.com/privacy-policy%3Fcookies) for the most accurate reproduction.*
 
 # Taulia - Privacy Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy covers our collection, use and disclosure of information we 
 
 ## Safe Harbor Program
 
-Taulia complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. Taulia has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Taulia's certification, please visit <http://www.export.gov/safeharbor>.
+Taulia complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. Taulia has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Taulia's certification, please visit <http://www.export.gov/safeharbor>.
 
 ## This Privacy Policy will explain the following regarding use of our Web Site:
 
@@ -108,7 +108,7 @@ Our Web Site includes Social Media Features, such as the Facebook Like button an
 
 Transfers to subsequent third parties are covered by the provisions in this Privacy Policy regarding notice and choice and are subject to the service agreements with our service providers and clients. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-We do not sell, trade, or otherwise transfer to outside parties the Personal Information you provide. This does not include trusted third parties who assist us in operating our websites, conducting our business, maintaining our blog, or servicing you. If you have questions regarding our products or services, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law (such as to comply with a subpoena, or similar legal process), enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties the Personal Information you provide. This does not include trusted third parties who assist us in operating our websites, conducting our business, or providing services to you, so long as those parties agree to keep this information confidential. We may also release your Personal Information when we believe release is required to comply with the law (such as to comply with a subpoena, or similar legal process), enforce our site policies, or protect ours or others' rights, property, or safety.
 
 If Taulia is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
@@ -132,7 +132,7 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 
 ## Terms and Conditions
 
-Please also visit our [Terms of Use](http://www.taulia.com/terms-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.taulia.com/terms-of-use](http://www.taulia.com/terms-of-use).
+Please also visit our [Terms of Use](http://taulia.com/terms-of-use) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.taulia.com/terms-of-use](http://taulia.com/terms-of-use).
 
 ## Your Consent
 
@@ -152,7 +152,7 @@ San Francisco, CA 94105 USA
 [privacy@taulia.com](mailto:privacy@taulia.com)  
 (415) 376 8280
 
-Please contact Taulia as specified above to address any complaints regarding Taulia’s handling of Personal Information. Taulia will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor Privacy Principles. If the complaint cannot be resolved through Taulia’s internal processes, it will be referred to Judicial Arbitration and Mediation Services, Inc., (JAMS) under the JAMS International Mediation Rules, which are accessible on the JAMS website at [www.jamsadr.com/rules-international-rules](http://www.taulia.com/www.jamsadr.com/rules-international-rules). JAMS mediation may also be commenced as provided for in the JAMS International Mediation Rules.
+Please contact Taulia as specified above to address any complaints regarding Taulia’s handling of Personal Information. Taulia will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor Privacy Principles. If the complaint cannot be resolved through Taulia’s internal processes, it will be referred to Judicial Arbitration and Mediation Services, Inc., (JAMS) under the JAMS International Mediation Rules, which are accessible on the JAMS website at [www.jamsadr.com/rules-international-rules](http://taulia.com/www.jamsadr.com/rules-international-rules). JAMS mediation may also be commenced as provided for in the JAMS International Mediation Rules.
 
 ## Privacy Policy Customer Pledge
 
@@ -166,4 +166,4 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
 
 
 
-This policy was last modified on December 10, 2014.
+This policy was last modified on April 28, 2015.
