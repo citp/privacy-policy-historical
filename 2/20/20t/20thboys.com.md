@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20thboys.com privacy policy that was archived on 2015-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150420095025id_/http%3A//www.20thboys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20thboys.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910091459id_/http%3A//www.20thboys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site, subscribe to our 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [Opt Out page](http://www.google.com/ads/preferences/html/opt-out.html).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [Opt Out page](http://www.google.com/ads/preferences/html/opt-out.Html).
 
  **What do we use your information for?**
 
@@ -53,7 +53,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
  **Third Party Ad Networks**
 
-We partner with third party ad networks and allows such networks to use cookies to collect non-personally identifiable data for targeting and serving ads. Users can opt-out of this behavioral targeting by visiting the Network Advertising Initiative's consumer page at [NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp).
+We partner with third party ad networks and allows such networks to use cookies to collect non-personally identifiable data for targeting and serving ads. Users can opt-out of this behavioral targeting by visiting the Network Advertising Initiative's consumer page at [NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.Asp).
 
  **Online Privacy Policy Only**
 
