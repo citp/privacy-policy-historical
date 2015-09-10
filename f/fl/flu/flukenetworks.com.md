@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flukenetworks.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629081511id_/http%3A//www.flukenetworks.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flukenetworks.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910165702id_/http%3A//www.flukenetworks.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | www.flukenetworks.com
 
 ## FLUKE NETWORKS’ PRIVACY POLICY
 
@@ -91,11 +91,11 @@ We take reasonable measures to help protect information about you from loss, the
 
 **Your Privacy Rights**
 
-As described above, we may share information about you with third parties for their own marketing purposes. To opt out of having your information shared in this way, please contact us at [info@flukenetworks.com](mailto:info@flukenetworks.com).
+As described above, we may share information about you with third parties for their own marketing purposes. To opt out of having your information shared in this way, please contact us at info@flukenetworks.com.
 
 **Account Information**
 
-You may update, correct or delete information about you at any time by logging into your online account or emailing us at [info@flukenetworks.com](mailto:info@flukenetworks.com). If you wish to deactivate or delete your account, please email us at [info@flukenetworks.com](mailto:info@flukenetworks.com), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+You may update, correct or delete information about you at any time by logging into your online account or emailing us at info@flukenetworks.com. If you wish to deactivate or delete your account, please email us at info@flukenetworks.com, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
 **Location Information**
 
@@ -111,4 +111,4 @@ With your consent, we may send push notifications or alerts to your mobile devic
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [info@flukenetworks.com](mailto:info@flukenetworks.com).
+If you have any questions about this Privacy Policy, please contact us at info@flukenetworks.com.
