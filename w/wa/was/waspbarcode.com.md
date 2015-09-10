@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the waspbarcode.com privacy policy that was archived on 2015-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150625024512id_/http%3A//www.waspbarcode.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waspbarcode.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910044350id_/http%3A//www.waspbarcode.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy for Wasp Barcode
 
 Wasp Barcode Technologies respects the privacy of visitors to its web site.  We place the highest importance on respecting and protecting the privacy of our customers and visitors. Therefore, we have developed and share with you the following privacy policy. 
 
