@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floraindia.com privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609224125id_/http%3A//www.floraindia.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraindia.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910100548id_/http%3A//www.floraindia.com/privacy.cfm) for the most accurate reproduction.*
 
 # Send Privacy Policy India - FloraIndia.com - Online Florist - Flowers, Cakes and Sweets Delivery Service
 
