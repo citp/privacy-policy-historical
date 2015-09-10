@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ebbets.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319044154id_/http%3A//www.ebbets.com/category/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebbets.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910020204id_/https%3A//www.ebbets.com/category/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Ebbs Field Flannels Privacy Policy | Ebbets.com
+
+## Privacy
 
 **AT EBBETS.COM YOUR PRIVACY IS VERY IMPORTANT TO US.**  
 We do not sell, share, rent or trade your electronically provided personal information to others. We understand your concerns about online security and privacy. Here at Ebbets Field Flannels our goal is to ensure that your personal and payment information remains secure and your privacy is protected.
