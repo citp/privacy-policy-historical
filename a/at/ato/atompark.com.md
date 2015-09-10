@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the atompark.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607143014id_/http%3A//www.atompark.com/customerprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atompark.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910122045id_/https%3A//www.atompark.com/customerprivacy) for the most accurate reproduction.*
 
 # Customer Privacy
 
-AtomPark Software Inc. has created this Privacy Policy statement in order to disclose our information gathering and dissemination practices for this Website: [http://www.atompark.com](http://www.atompark.com/)
+AtomPark Software Inc. has created this Privacy Policy statement in order to disclose our information gathering and dissemination practices for this Website: [www.atompark.com](https://www.atompark.com/)
 
 AtomPark Software Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  AtomPark Software Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view AtomPark Software Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
 
