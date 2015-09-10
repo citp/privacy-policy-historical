@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suitwala.com privacy policy that was archived on 2014-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140828124946id_/http%3A//suitwala.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suitwala.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910171831id_/http%3A//www.suitwala.com/privacy-policy) for the most accurate reproduction.*
 
-# Suitwala.com | Privacy policy
+# Online Shopping in India - Best Women Fashion Site, Buy Saree, Suits, Jewellery, Footwear and Many More on Suitwala.comSuitwala.com - Privacy Policy
 
 This Privacy Policy governs the manner in which Softsale solutions collects, uses, maintains and discloses information collected from users (each, a "User") of the [Suitwala](http://www.generateprivacypolicy.com/account/policies/edit/Suitwala) website ("Site"). This privacy policy applies to the Site and all products and services offered by Softsale solutions .
 
