@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2015-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150616082132id_/http%3A//www.brecks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910104157id_/http%3A//www.brecks.com/privacy_policy) for the most accurate reproduction.*
 
 # Shop Breck's Premium Bulbs
 
