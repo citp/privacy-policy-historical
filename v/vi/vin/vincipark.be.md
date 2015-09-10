@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vincipark.be privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503104802id_/http%3A//www.vincipark.be/en/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincipark.be privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910160320id_/http%3A//www.vincipark.be/en/privacystatement) for the most accurate reproduction.*
 
 # VINCI Park, leading parking provider, managing 2,500 car parks worldwide
 
