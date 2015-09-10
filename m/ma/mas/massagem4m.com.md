@@ -1,116 +1,83 @@
-> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034955id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910052914id_/http%3A//www.massagem4m.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MassageM4M.com
 
-[](http://www.massagem4m.com/male-massage-maps/all.cfm)
-
-### Special Discount Emails
-
-[Sign up](http://www.massagem4m.com/massage_specialNotification.cfm) to be notified if a masseur offers discounted specials in your city. 
-
-### New Masseur Notification
-
-[Sign up](http://www.massagem4m.com/masseur_notifyemail.cfm) to be notified of new masseurs in your city. Free and anonymous! 
-
-**Effective Date: November 3, 2010**
-
-We take your privacy seriously. Please read the following to learn more about our privacy policy.
-
-## What This Privacy Policy Covers
-
-  * This policy covers how MassageM4M treats personal information that we collect and receive, including information related to your past use of MassageM4M products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
-  * This policy does not apply to the practices of companies that MassageM4M does not own or control, or to people that MassageM4M does not employ or manage.
-  * MassageM4M actively monitors our own privacy policy on a regular basis to make sure we are adhering to our own Privacy Policy.
+  
 
 
+Effective Date: **November 3, 2010**  
+Last Modified: **June 30, 2015**
 
-## Information Collection and Use
-
-_General_
-
-  * MassageM4M collects personal information when you register with MassageM4M, when you use MassageM4M products or services, when you visit MassageM4M pages or the pages of certain MassageM4M partners, and when you enter promotions or sweepstakes. MassageM4M may combine information about you that we have with information we obtain from business partners or other companies.
-  * When you register we ask for information such as your name, email address, birth date, gender, ZIP code, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with MassageM4M and sign in to our services, you are not anonymous to us.
-  * MassageM4M collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
-  * MassageM4M automatically receives and records information from your computer and browser, including your IP address, MassageM4M cookie information, software and hardware attributes, and the page you request.
-  * MassageM4M uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
-
-
-
-_Children_
-
-  * When a child under age 18 attempts to register with MassageM4M, we do not allow such registration and attempt to prevent anyone under age 18 from using MassageM4M.
-  * MassageM4M does not contact children under age 18 about special offers or for marketing purposes at all.
-  * MassageM4M does not ask a child under age 18 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
-
-
-
-## Information Sharing and Disclosure
-
-  * MassageM4M does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-    * We provide the information to trusted partners who work on behalf of or with MassageM4M under confidentiality agreements. These companies may use your personal information to help MassageM4M communicate with you about offers from MassageM4M and our marketing partners. However, these companies do not have any independent right to share this information.
-    * Your use of the MassageM4M website or the service signifies acknowledgement of and agreement to our Privacy Policy. You further acknowledge and agree that MassageM4M may, in its sole discretion, preserve or disclose your content, as well as your information, such as email addresses, IP addresses, timestamps, and other user information, if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: comply with legal process; enforce the terms and conditions; respond to claims that any content violates the rights of third-parties; respond to claims that contact information (e.g. phone number) of a third-party has been posted or transmitted without their consent or as a form of harassment; protect the rights, property or personal safety of MassageM4M, its users or the general public.
-    * We provide the information to trusted partners who work on behalf of or with MassageM4M under confidentiality agreements. These companies may use your personal information to help MassageM4M communicate with you about offers from MassageM4M and our marketing partners. However, these companies do not have any independent right to share this information.
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of MassageM4M's terms of use, or as otherwise required by law.
-    * We transfer information about you if MassageM4M is acquired by or merged with another company. In this event, MassageM4M will notify you before information about you is transferred and becomes subject to a different privacy policy.
-  * MassageM4M displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria for example, men ages 18-24 from a particular geographic area.
-    * MassageM4M does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
-    * MassageM4M advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
-  * MassageM4M works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed reference links.
+  * General
+    * The operative parties referred to in this policy are Company and You, the User of this Site.
+      * EMMedia, Inc. is the publisher and operator of [www.MassageM4M.com](http://www.massagem4m.com/). Hereinafter, EMMedia, Inc, shall be referred to as “Company.” When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms “the Site” or “Site” are used, these terms refer to the website listed at the beginning of this Privacy Policy (“Policy”). 
+      * You, the User – As the User of this Site, this Policy will refer to the User as “You” or through any applicable second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns.
+    * This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site. 
+  * Revisions to this Policy – We reserve the right to revise, amend, or modify this Policy and Our other policies and agreements at any time and in any manner. You should periodically check for any modifications of this Policy by re-visiting this web page and using the “refresh” button on Your browser. You should note the date of last revision to this Policy, which appears at the top of this Policy. If the “last modified” date remains unchanged after You have clicked the “refresh” button on Your browser, You may presume that no changes have been made since the last reading of the Policy. A changed “last modified” date indicates that this Policy has been updated or edited, and the updated or edited version supersedes any prior versions immediately upon posting.
+  * Personal Information that We Collect – Visitors to Our Site and services will have multiple manners of interactivity with Us. Depending upon Your level of interaction, We will collect different information about You. The type of information collected is as follows:
+    * Browsers - Browsers are visitors to the Site who typically do not enter into any active data collection pages. Browsers may, however, have limited access to content uploaded by Members. Any information gathered from Browsers is also gathered from Members. This information is restricted to IP address, browser history, geographic location and other global positioning data, browser information, and session data. Additionally, We may ask You to confirm Your age via Our Birth Date Verifier™ form as a condition of entry into the Site.
+    * Members - Members are those Users who subscribe to Our services, or otherwise interact with the Site in a way which requires registration. Members are required to provide a valid name, physical address, telephone number, email address, and various physical descriptions and/or personal preferences. Any requested credit card and/or billing information may be collected by Us, but is at the request of Our third party billing agent, and is not stored by Us. Depending on the type of Member account selected by You, We may request additional identification verification. This includes, but is not limited to a government-issued photo I.D., government-issued tax identification data (e.g. – EIN), and social security number. We reserve the right to request any other information that We deem necessary to create a suitable Member account.
+  * How We Collect Information from You
+    * Passive Collection – We use cookies and other passive information gathering devices to collect generalized User data from You in order to enhance Your experience on the Site.
+    * Active Collection – We collect information from You when You complete the registration form, during the purchase of a membership upgrade or premium feature, or upon actively opting-in to participate in a specific Site feature. Locations for such active data collection are via online forms at registration or opt-in portal of certain account features, or via Your individual Member account throughout the life of Your membership. Please see above Section III(B). We reserve the right to add additional information collection portals in certain circumstances.
+  * How We Use Your Information
+    * The primary use for Your information is to provide You with services You have requested. We also use Your information to deliver customized services to You. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We also use Your information for market research purposes in order to increase Your (and other Users’) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. 
+    * We generally will use Your information for the purposes for which You specifically provide it, for example, to ensure payment for membership upgrade or other services. 
+    * You are aware that even if You choose not to make public any personally identifying information via Your account or specific Site features, You should understand that there is a possibility that You may still be identified through the information You provided. You understand that using this Site places You in control of all of the public information related to your membership, and You are fully responsible for any consequences arising out of such information You choose to publish or make known via Our Site and Services.
+    * You understand that We reserve the right to indefinitely retain any collected data associated with Your User account for the purposes of compliance with various legal, accounting, and technical standards, determination of which is within Our sole discretion.
+  * Tracking Disclosure – Although the Site may not have the capability of recognizing all web browser Do Not Track signals, You may delete or decline the use of cookies by editing Your browser settings. Choosing to disable cookies at this time may disable or alter the functionality of some Site features. For more information about browser tracking signals and Do Not Track policies, please visit: [www.allaboutdnt.org.](http://allaboutdnt.com/)
+  * Third Party Data Tracking – We currently utilize third party data tracking services, and apply such tracking services to User activity on Our Site. We do not provide any personally identifying information to such third parties, but they may choose to collect generalized User activity data from You. The collection and use of this aggregate User data may be subject to the policies of the relevant third party tracking service. For more information about data tracking and Your rights as an online consumer, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+  * Special Cases – It is Our policy not to use or share the personal information about Browsers or Members in ways unrelated to those described in this Policy without also providing You an opportunity to opt out or otherwise prohibit such unrelated uses. However, We may disclose personal information, or information regarding Your use of the services or Site(s) accessible through Our services, for any reason if, in Our sole discretion, We believe that it is reasonable to do so, including but not limited to:
+    * To satisfy any laws, such as the Electronic Communications Privacy Act, regulations, governmental, or legal requests for such information;
+    * To disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms & Conditions or any other Site policies;
+    * To operate Our services properly; 
+    * To protect ourselves, Our Users, and the general public. We will always cooperate with law enforcement authorities and governmental administrative or regulatory agencies when legally advised to do so. We specifically reserve the right to disclose any and all information to law enforcement in the event that a crime is committed, is suspected, or if We are compelled to do so by lawful criminal, civil, or administrative process, discovery requests, subpoenas, court orders, writs, or reasonable request of authorities or persons with the reasonable power to obtain such process. Private-party litigants and investigative reporters or journalists will only be cooperated with if We are legally advised to do so.
+    * If We have reason to believe that a User has attempted, or committed fraud, or any form of fraudulent activity via the Site and/or services.
+    * If there is any investigation on any unlawful spamming, or any use of bulk email in order to promote a specific Member account and/or profile, or any use of bulk email in any manner that leads back to Our Site, or any one of Our Sites, We will cooperate with any and all parties completely and freely in order to see that Your bulk email activities stop. Anyone who violates Our anti-spam policies may have their personal information made public.
+  * Transmittals from Us
+    * We may send You periodic announcements or notifications from Us via email and/or SMS messaging. Such communications may include updates regarding Your account, communications from other Users, and details of Our existing and new programs. You may opt-out of these announcements by contacting support[at]MassageM4M[dot]com, or by accessing the opt-out link, or following the opt-out instructions located in such notification(s). If You opt out of these communications, You may still receive system notices and other information that is specifically related to administrative maintenance of Your account. 
+    * If You provide Your information to Us, use the Site, or subscribe to any of Our services, You will have created a commercial relationship with Us. In having done so, You understand that even unsolicited commercial email sent from Us or Our affiliates is not SPAM as that term is defined under the law. 
+  * Published Information; On-Site Communication; Public Areas – Any information or content, personal or otherwise, provided in a post, profile, advertisement, non-Member area of the Site, private area of the Site, User communication, Member directory, or other related service or feature offered by the Site should be considered public information. We do not, cannot, and will not act to maintain the privacy of any information that You provide in any such medium, or otherwise transmit via the Site and/or services.
+  * Our Commitment to Data Security – We take measures to protect the transmission of all sensitive user information. We make every effort to ensure the integrity and security of Our network and systems by storing Your User information on a private, encrypted database that is retained in-house, and subject to restricted internal access. Nevertheless, We cannot guarantee that Our security measures will prevent third-party ‘hackers’ from illegally obtaining this information. We take all reasonable measures to prevent such breaches of security, but given the resourcefulness of cyber-criminals, We are unable to guarantee that Our security is one hundred percent (100%) breach-proof. You assume the risk of such breaches to the extent that they occur despite Our reasonable security measures. 
+  * How to Access or Modify Your Information – We may offer our Members the opportunity to access or modify information provided during registration. To access or modify such information, please refer to Your account settings page.
+  * Where to Direct Questions About Our Privacy Policy – If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at: support[at]MassageM4M[dot]com.
 
 
 
-## Cookies
+### You recently viewed these masseurs
 
-  * MassageM4M may set and access MassageM4M cookies on your computer.
-  * MassageM4M lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to MassageM4M's cookies.
-  * MassageM4M uses web beacons to access MassageM4M cookies inside and outside our network of web sites and in connection with MassageM4M products and services. 
+Andres
 
+[](http://www.massagem4m.com/ny/new-york-city/13237/)
 
+Pierre
 
-## Your Ability to Edit and Delete Your Account Information and Preferences
+[](http://www.massagem4m.com/ny/new-york-city/13133/)
 
-_General_
+Kevin
 
-  * You can edit your MassageM4M Account Information, including your marketing preferences, at any time.
-  * New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
-  * We reserve the right to send you certain communications relating to the MassageM4M service, such as service announcements, administrative messages and the MassageM4M Newsletter, that are considered part of your MassageM4M account, without offering you the opportunity to opt out of receiving them.
+[](http://www.massagem4m.com/il/chicago/15980/)
 
+Devin
 
+[](http://www.massagem4m.com/ca/west-hollywood/16153/)
 
-## Confidentiality and Security
+Marco
 
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+[](http://www.massagem4m.com/ny/new-york-city/13993/)
 
+MAC
 
-
-## Changes to this Privacy Policy
-
-  * MassageM4M may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your MassageM4M account or by placing a prominent notice on our site.
-
-
-
-## Questions and Suggestions
-
-  * If you have questions or suggestions, please complete a feedback form or you can contact us at:
-
-
-
-MassageM4M  
-Customer Care - Privacy Policy Issues  
-9903 Santa Monica Blvd  
-Suite 978  
-Beverly Hills, CA 90212  
-
-
-### You recently viewed this masseur
-
-Sebastian
-
-[](http://www.massagem4m.com/ny/new-york-city/15881/)
+[](http://www.massagem4m.com/ga/atlanta/17463/)
 
 ### Important Notice: You must be 18 years or older to use this website. If you are under 18 years old, please close this window.
 
-Legal Notice: [18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](https://web.archive.org/legalNotice.cfm) • [Privacy Policy](https://web.archive.org/privacypolicy.cfm)
+Legal Notices:  
+[18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](https://web.archive.org/legal/2257/)   
+[Subpoena & Law Enforcement Request Compliance Policy](https://web.archive.org/legal/subpoena-compliance/) • [Anti-Trafficking Policy](https://web.archive.org/legal/anti-trafficking/) • [Privacy Policy](https://web.archive.org/legal/privacy-policy/)
 
-By using this site, you Accept & Agree to the [Terms & Conditions of Use](http://support.massagem4m.com/entries/21973677-terms-of-use-for-massagem4m-com) as applied to your use of this website. 
+By using this site, you Accept & Agree to the [Terms & Conditions of Use](https://web.archive.org/legal/terms-of-use/) as applied to your use of this website. 
+
+© MassageM4M.com (2001 - 2015). All Rights Reserved.   
+  
+Server: F
