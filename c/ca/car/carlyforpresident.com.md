@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carlyforpresident.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505100001id_/https%3A//www.carlyforpresident.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlyforpresident.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910105343id_/https%3A//www.carlyforpresident.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Carly Fiorina for President 2016
 
