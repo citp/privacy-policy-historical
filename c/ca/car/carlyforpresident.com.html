@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the carlyforpresident.com privacy policy that was archived on 2015-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150505100001id_/https%3A//www.carlyforpresident.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carlyforpresident.com privacy policy that was archived on 2015-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910105343id_/https%3A//www.carlyforpresident.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <!--<link rel="dns-prefetch" href="" />-->
@@ -14,7 +14,7 @@
        
        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
        
-<script src="//use.typekit.net/xgk6mzk.js"></script>
+<script src="//s.crowdskout.com/analytics.js"></script><script src="//use.typekit.net/xgk6mzk.js"></script>
 <script>try{Typekit.load();}catch(e){}</script>
     
        </head>
@@ -26,19 +26,33 @@
 				
 					<div class="ha-header-front">
                     
-                    <a href="/index.html"><div id="logo"></div></a>
+                    <a href="https://www.carlyforpresident.com"><div id="logo"></div></a>
 
 
-                        
+<div id="nav-trigger">
+<span><i class="fa fa-bars"></i></span>
+</div>
+
+
+						
                         <div id="header-buttons-wrapper">
 <a href="join-us" class="button-outline small">Join Us</a>
 <a href="donate" class="button btn-red small">Donate</a>
 </div>
+                        <nav id="nav-main">
+                        <ul>
+							<li><a href="answers">Answers</a></li>
+                           
+
+                           </ul>
+						</nav>
+                        
+                        <nav id="nav-mobile"></nav>
                         
 					</div>
 					
 				
-	</div><!--#ha-header -->
+	</div>
     
     
     	<section class="bg-white">
@@ -189,8 +203,7 @@ during the preceding calendar year;</p>
 the products or services marketed.</p> 
 
 <p>This information may be provided in a standardized format that is not specific to you.  The 
-designated email address for these is cpp@carlyforpresident.com.<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></p> 
+designated email address for these is cpp@carlyforpresident.com.</p> 
 
 <p>If you are accessing the Site from outside of the United States, you consent to the transfer of 
 your information to the United States, and the processing, use, and sharing of your information 
@@ -237,7 +250,53 @@ Merrifield, VA 22116-7809</p>
     </div>
     </footer>
 
+<!-- Crowdskout -->
+    <script>
+      (function(l,o,v,e,d) {
+        l.cs=l.cs || function() {cs.q.push(arguments);};
+        cs.q=cs.q||[];cs.apiUrl=d;cs('pageView');
+        l.sourceId = 139;l.clientId = 34;l.organizationId = 32;
+        a=o.getElementsByTagName(v)[0];b=o.createElement(v);b.src=e+'/analytics.js';a.parentNode.insertBefore(b,a);
+      })(window, document, 'script', '//s.crowdskout.com','https://a.crowdskout.com');
+    </script>
+    
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script src="js/plugins.js"></script>
+    
+    <script src="js/waypoints.min.js"></script>
+<script>
+	var $head = $( '#ha-header' );
+	$( '.ha-waypoint' ).each( function(i) {
+		var $el = $( this ),
+			animClassDown = $el.data( 'animateDown' ),
+			animClassUp = $el.data( 'animateUp' );
+
+		$el.waypoint( function( direction ) {
+			if( direction === 'down' && animClassDown ) {
+				$head.attr('class', 'ha-header ' + animClassDown);
+			}
+			else if( direction === 'up' && animClassUp ){
+				$head.attr('class', 'ha-header ' + animClassUp);
+			}
+		}, { offset: '100%' } );
+	} );
+</script>  
+
+<script>
+$(document).ready(function(){
+$("#nav-mobile").html($("#nav-main").html());
+$("#nav-trigger span").click(function(){
+	if ($("nav#nav-mobile ul").hasClass("expanded")) {
+		$("nav#nav-mobile ul.expanded").removeClass("expanded").slideUp(250);
+		$(this).removeClass("open");
+	} else {
+		$("nav#nav-mobile ul").addClass("expanded").slideDown(250);
+		$(this).addClass("open");
+	}
+});
+});
+</script>
+    
     <script type="text/javascript">
 	var x=document.getElementsByClassName('myBox');
 	for(var i=0; i < x.length; i++)
@@ -248,25 +307,7 @@ Merrifield, VA 22116-7809</p>
 	
 	</script>
    
-   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	
-        
-        
-        <script src="js/jquery-1.9.1.min.js"></script>
-        <script>
-    $(document).ready(function(){
-        $("#nav-mobile").html($("#nav-main").html());
-        $("#nav-trigger span").click(function(){
-            if ($("nav#nav-mobile ul").hasClass("expanded")) {
-                $("nav#nav-mobile ul.expanded").removeClass("expanded").slideUp(250);
-                $(this).removeClass("open");
-            } else {
-                $("nav#nav-mobile ul").addClass("expanded").slideDown(250);
-                $(this).addClass("open");
-            }
-        });
-    });
-</script>
+
 
 
     
