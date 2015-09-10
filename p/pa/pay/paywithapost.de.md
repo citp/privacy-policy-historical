@@ -1,55 +1,122 @@
-> *The following text is extracted and transformed from the paywithapost.de privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704220156id_/http%3A//www.paywithapost.de/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paywithapost.de privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910162920id_/http%3A//www.paywithapost.de/privacy_notice) for the most accurate reproduction.*
 
-# Pay with a Tweet - The First Social Payment System
+# Pay with a Tweet - Your No. 1 Referral Marketing Tool
 
-Last Modified: February 7, 2014
+Last Modified: September 29, 2014
 
-This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. Users can access the Pay with a Tweet service (the “Service”) through our website www.paywithatweet.com, applications on Devices, through APIs, and through third-parties. A “Device” is any computer used to access the Pay with a Tweet Service, including without limitation a desktop, laptop, mobile phone, tablet, or other consumer electronic device. This Privacy Policy governs your access of the Pay with a Tweet Service, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage, disclosure and other uses described in this Privacy Policy. All of the different forms of data, content, and information described below are collectively referred to as “information.”
+####  1\. Provider
 
-#### The Information We Collect And Store
+Social Payment Systems SPS GmbH, Am Sandtorkai 71-72, 20457 Hamburg ("SPS") operates the "Pay with a Tweet" on-line service ("Service"). Pay with a Tweet allows registered users to virally market their products and content (e.g. songs, e-Books, white papers and vouchers) via various social networks (e.g. Twitter, Facebook). 
 
-We may collect and store the following information when using the Pay with a Tweet Service:
+SPS takes the protection of your personal data very seriously and complies with the applicable data protection regulations, such as the German Federal Data Protection Act (BDSG) and the Telemedia Act (TMG). The following declaration provides an overview of how we guarantee this protection and what kind of data is collected for what purpose. 
 
-Information You Provide. When you register an account, we collect some personal information, such as your name, email address and business postal addresses. You may also ask us to use your social networking information if you give us access to your account on social network connection services.
+####  2\. Personal data
 
-Log Data. When you use the Service, we automatically record information from your Device, its software, and your activity using the Services. This may include the Device’s Internet Protocol (“IP”) address, browser type, the web page visited before you came to our website, information you search for on our website, locale preferences, identification numbers associated with your Devices, your mobile carrier, date and time stamps associated with transactions, system configuration information, and other interactions with the Service.
+Personal data is only collected, processed and used as described below in the course of its use by Pay with a Tweet. Personal data is any individual information about the personal or material circumstances of a specified or identifiable natural person (excluded: legal entities, such as e.g. a Ltd. or Inc.). Personal data primarily includes details such as a person's name, postal address, e-mail address or professional circumstance.
 
-Cookies. We also use “cookies” to collect information and improve our Services. A cookie is a small data file that we transfer to your Device. We may use “persistent cookies” to save your registration ID and login password for future logins to the Service. We may use “session ID cookies” to enable certain features of the Service, to better understand how you interact with the Service and to monitor aggregate usage and web traffic routing on the Service. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of the Service.
+####  3\. Collection, processing and use of personal data 
 
-Personal Information. In the course of using the Service, we may collect personal information that can be used to contact or identify you (“Personal Information”). Personal Information is or may be used: (i) to provide and improve our Service, (ii) to administer your use of the Service, (iii) to better understand your needs and interests, (iv) to personalize and improve your experience, and (v) to provide or offer software updates and product announcements. If you no longer wish to receive communications from us, please follow the “unsubscribe” instructions provided in any of those communications, or update your account settings information.
+When you access Pay with a Tweet websites ([www.paywithatweet.com](http://www.paywithatweet.com/), [www.paywithapost.com](http://www.paywithapost.com/), [www.paywithapost.de](http://www.paywithapost.de/), hereinafter collectively referred to as "Websites"), SPS will automatically collect information which your browser transmits to us, and save this in its Server Log Files (regardless of whether you are registered with Pay with a Tweet or not). Namely:
 
-Analytics. We also collect some information (ourselves or using third party services) using logging and cookies, such as IP address, which can sometimes be correlated with Personal Information. We use this information for the above purposes and to monitor and analyze use of the Service, for the Service’s technical administration, to increase our Service’s functionality and user-friendliness, and to verify users have the authorization needed for the Service to process their requests. As of the date this policy went into effect, we use Google Analytics.
+  * referrer URL (last visited website);
+  * host name of the computer used to access the website (IP address);
+  * time of server request;
+  * pages visited within [www.paywithatweet.com](http://www.paywithatweet.com/), [www.paywithapost.com](http://www.paywithapost.com/), [www.paywithapost.de](http://www.paywithapost.de/);
+  * name of downloaded files and/or information
+  * amount of data transmitted
+  * operating system and information about the internet browser of the computer used to access the website;
+  * http status code (e.g. "Request successful" or "Requested file not found").
 
-#### Information Sharing and Disclosure
 
-Your Use. We do not sell your personal information to third parties.
 
-Service Providers, Business Partners and Others. We may use certain trusted third party companies and individuals to help us provide, analyze, and improve the Service (including but not limited to data storage, maintenance services, database management, web analytics, payment processing, and improvement of the Service’s features). These third parties may have access to your information only for purposes of performing these tasks on our behalf and under obligations similar to those in this Privacy Policy.
+When you use Pay with a Tweet functions to post on social networks, SPS will also collect and store the following additional data:
 
-Third-Party Applications. We may share your information with a third party application with your consent, for example when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
+  * posted text;
+  * link to the post;
+  * name of the network used;
+  * unique ID of the user making the post on the network used;
+  * date of post.
 
-Compliance with Laws and Law Enforcement Requests; Protection of our Rights. We may disclose to parties outside Pay with a Tweet information stored in your account and information about you that we collect when we have a good faith belief that disclosure is reasonably necessary to (a) comply with a law, regulation or compulsory legal request; (b) protect the safety of any person from death or serious bodily injury; (c) prevent fraud or abuse of Pay with a Tweet or its users; or (d) to protect Pay with a Tweet’s property rights. If we provide your information to a law enforcement agency as set forth above, we will remove our encryption from the data before providing them to law enforcement.
 
-Business Transfers. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction, but we will notify you (for example, via email and/or a prominent notice on our website) of any change in control or use of your Personal Information or Files, or if either become subject to a different Privacy Policy. We will also notify you of choices you may have regarding the information.
 
-Non-private or Non-Personal Information. We may disclose your non-private, aggregated, or otherwise non-personal information, such as usage statistics of our Service.
+It is irrelevant whether the Pay with a Tweet functions are used directly via SPS's own Websites, or by incorporating a campaign on the customer's website. 
 
-Changing or Deleting Your Information 
+During each posting session on social networks, SPS will also collect and store the following data, purely temporarily:
 
-If you are a registered user, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your “account settings”. In some cases we may retain copies of your information if required by law. For questions about your Personal Information on our Service, please contact info@paywithatweet.com. We will respond to your inquiry within 30 days.
+  * access information (so-called tokens) for posts on the selected social network;
+  * access information (so-called tokens) for viewing the user's last posted links on the selected social network;
+  * the date the Pay with a Tweet functions were used.
 
-#### Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, you may delete your account here. We may retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Consistent with these requirements, we will try to delete your information quickly upon request. Please note, however, that there might be latency in deleting information from our servers and backed-up versions might exist after deletion. In addition, we do not delete from our servers files that you have in common with other users.
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Pay with a Tweet. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+When you register on Pay with a Tweet websites, SPS will also collect and store the following data:
 
-#### Security
+  * e-mail address;
+  * your chosen password (in encrypted form).
 
-The security of your information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-We follow generally accepted standards to protect the information submitted to us, both during transmission and once we receive it. No method of electronic transmission or storage is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-#### Changes to our Privacy Policy
+When you use chargeable functions on Pay with a Tweet websites, SPS will collect and store the following additional data:
 
-This Privacy Policy may change from time to time. If we make a change to this privacy policy that we believe materially reduces your rights, we will provide you with notice (for example, by email). And we may provide notice of changes in other circumstances as well. By continuing to use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
+  * billing address, including VAT ID no.;
+  * billing information (products purchased, prices, date of purchase).
+
+
+
+SPS will only use this data to enable you to access Pay with a Tweet's services, and for the purpose of managing the contractual relationship between you and SPS. 
+
+All data is stored on servers located within Europe which are properly supervised and monitored by SPS. 
+
+As a result of the connection to various social networks which is absolutely necessary for the Service, certain data may also be transmitted to countries outside of Europe (EEA), particularly to the USA (for example Facebook, Twitter) and Russia (VKontakte) (see also Point 7). 
+
+#### 4\. Payment details
+
+If you use chargeable Service upgrades, your payment details will be forwarded to the relevant payment services provider for processing (e.g. Paypal). These partner companies have their own data protection policies. We encourage you to read these policies thoroughly before using the Service, and check that you agree with them. To enable payments to be processed and invoiced when the upgrades are automatically renewed, partner companies store references to payment details (these are primarily e-mail addresses, status information and so-called tokens as a reference to payments via the partner company). The actual payment details (including credit card and bank details) do not pass through SPS's servers and systems.
+
+#### 5\. Cookies
+
+The Websites use so-called cookies in several places. These help make our service more user-friendly, effective and secure, among other things. Cookies are textual information which a website transmits to the cookie file of the browser on your computer hard drive or other end device, so that the website can remember who you are, among other things. A cookie typically contains the name of the domain from which the cookie originates, the cookies' "lifetime" and a value, usually a unique, randomly generated number. The Pay with a Tweet websites use the following types of cookies: 
+
+Session cookies: these are temporary cookies which remain in your browser's cookie file until you leave the website. Session cookies allow you to be identified for the duration of your visit. This information will not be stored once you have left the website. 
+
+Browser cookies: these remain in your browser's cookie file for longer. How long depends on the "lifetime" of the particular cookie. This may be indefinitely or until its deletion on a specific end date. The reason for using these permanent cookies is to track the provision of services. Permanent cookies do not contain any personal data. Your name, IP address, etc., are not stored. 
+
+If you do not wish to accept our cookies, you can reject them and deny access to previously stored information, by adjusting your web browser settings accordingly. The settings within your web browser enabling you to do this differ from browser to browser, but can generally be found under "Data Protection" or "Cookies" within your browser's "Internet Options" or "Properties" menu. If you need help turning off cookies, you should refer to your browser's "Help" menu. Please note, however, that you may be unable to use the Pay with a Tweet functions properly if cookies are switched off.
+
+#### 6\. Google Analytics
+
+The Websites use Google Analytics, a web analysis service provided by Google Inc. ("Google"). Google Analytics also uses cookies (see description in Point 5), which allow your use of the website to be analysed. The information generated by the cookie about your use of this website will usually be transmitted to a Google server in the USA, where it is stored. IP anonymisation has been activated on this website, so that Google abbreviates the user's IP address in advance within Member States of the European Union or in other States party to the Agreement on the European Economic Area. Only in exceptional cases is the full IP address transmitted to a Google server in the USA and abbreviated there. Google will use this information on behalf of SPS, to evaluate your use of the website, to compile reports about the website activities, and to provide SPS with other services related to the use of the website and the internet. The IP address transmitted from your browser within the framework of Google Analytics will not be associated with any other Google data. 
+
+You can prevent the storage of the cookies by adjusting your browser software accordingly; we would point out, however, that you may be unable to fully use all the functions of this website in this case. You can also prevent Google from collecting and processing the data generated by the cookie and related to your use of the website (including your IP address) by downloading and installing the browser plug-in available from the following link: <http://tools.google.com/dlpage/gaoptout?hl=de>.
+
+#### 7\. Connection to social networks
+
+SPS uses the interfaces of the social networks involved to implement Pay with a Tweet functions. These currently include:
+
+  * Facebook (Facebook Ireland Limited, Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland, [https://www.facebook.com/about/privacy/](http://https//www.facebook.com/about/privacy/))
+  * Twitter (Twitter, Inc., Attn: Copyright Agent, 1355 Market Street, Suite 900 San Francisco, CA 94103, <https://twitter.com/privacy>)
+  * LinkedIn (LinkedIn Ireland, 70 Sir John Rogerson's Quay, Dublin 2, Ireland, <https://www.linkedin.com/legal/privacy-policy>)
+  * VKontakte (A, 61 Ligovsky av., 191040 Sankt Petersburg, <http://vk.com/privacy>)
+  * XING (XING AG, Dammtorstraße 29-32, 20354 Hamburg, Germany h<http://www.xing.com/privacy>)
+  * Google (Google Inc. ("Google"), located at 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States, <https://www.google.com/intl/de/policies/privacy/>)
+
+
+
+SPS reserves the right to increase or reduce the social networks on offer in future without the agreement of Pay with a Tweet users (see Point 15 of our T&Cs). These social networks have their own data protection policies (see above links). We encourage you to read these policies thoroughly before using the Service, and check that you agree with them. 
+
+SPS does not share its users' personal data with the social networks involved - except for the information stated below. In order to implement the Pay with a Tweet functions, it is, however, necessary for SPS to transmit the following data to the social networks:
+
+  * user's unique identification on the social network (so-called User ID);
+  * links to and posts regarding campaigns used by the user.
+
+
+
+If you do not agree to this, you should not use the Service. 
+
+#### 8\. Changes to this data protection policy.
+
+SPS reserves the right to adapt its security and data protection measures, provided this is necessary as a result of technical or legal developments. In these cases, we will also update our data protection information accordingly. Please make sure, therefore, that you always use the latest version of our data protection declaration.
+
+#### 9\. Questions and contact
+
+If you have any questions regarding the collection, processing or use of your personal data, or to request the disclosure, correction, blocking or deletion of data, please contact [ info@paywithatweet.com](mailto:info@paywithatweet.com).
