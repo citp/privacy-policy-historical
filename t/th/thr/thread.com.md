@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thread.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316075821id_/https%3A//www.thread.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thread.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910095601id_/https%3A//www.thread.com/privacy) for the most accurate reproduction.*
 
 # Thread
 
@@ -72,4 +72,4 @@ You can either contact customer care by emailing support at thread dot com.
 
 ### Write to us at:
 
-Thread, 8 Curtain Road London, EC2A 3ND United Kingdom
+Thread, 104 Cavell Street London, E1 2JA United Kingdom
