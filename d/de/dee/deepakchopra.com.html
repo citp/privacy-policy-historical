@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the deepakchopra.com privacy policy that was archived on 2015-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150315095741id_/https%3A//www.deepakchopra.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deepakchopra.com privacy policy that was archived on 2015-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910202829id_/https%3A//www.deepakchopra.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="author" content="Stylers">
-<meta name="copyright" content="stylers.hu">
+<meta name="author" content="Deepak Chopra">
+<meta name="copyright" content="deepakchopra.com">
 <meta name="distribution" content="global">
 <meta name="resource-type" content="document">
 <meta name="language" content="en">
@@ -73,6 +73,7 @@
 
 <script type="text/javascript">
     var base_url = 'https://www.deepakchopra.com/';
+    var RECAPTCHA_PUBLIC_KEY_JS = '6LcB6gETAAAAAHLR24d0N3cAqPqiR5dqrZKOmg5Z';
 </script>
 
     <script type="text/javascript">
@@ -500,47 +501,84 @@ Tel: 760-494-1600</p>
             <div id="footer-slider-wrap">
                 <div id="footer-slider">
                                     <div class="footer-slider-element">
-                        <a href="http://chopra.com/">
+                        <a href="http://isharonline.org/content/ishar-library" target="_blank">
+                            <img src="https://www.deepakchopra.com/uploads/default/images/partners/main/1428451010_7319_195x75_f0.png" alt="">
+                        </a>
+                    </div>
+                                    <div class="footer-slider-element">
+                        <a href="http://chopra.com/" target="_blank">
                             <img src="https://www.deepakchopra.com/uploads/default/images/partners/main/1413587475_0175_195x75_f0.png" alt="">
                         </a>
                     </div>
                                     <div class="footer-slider-element">
-                        <a href="http://www.intent.com/">
+                        <a href="http://www.intent.com/" target="_blank">
                             <img src="https://www.deepakchopra.com/uploads/default/images/partners/main/1413587510_3841_195x75_f0.png" alt="">
                         </a>
                     </div>
                                     <div class="footer-slider-element">
-                        <a href="http://itakethevow.com/">
-                            <img src="https://www.deepakchopra.com/uploads/default/images/partners/main/1413587535_4313_195x75_f0.png" alt="">
-                        </a>
-                    </div>
-                                    <div class="footer-slider-element">
-                        <a href="http://deepakhomebase.com/">
+                        <a href="http://deepakhomebase.com/" target="_blank">
                             <img src="https://www.deepakchopra.com/uploads/default/images/partners/main/1413587563_2773_195x75_f0.png" alt="">
                         </a>
                     </div>
                                     <div class="footer-slider-element">
-                        <a href="http://www.ahalife.com/store/latest-products/">
-                            <img src="https://www.deepakchopra.com/uploads/default/images/partners/main/1413587583_2447_195x75_f0.png" alt="">
-                        </a>
-                    </div>
-                                    <div class="footer-slider-element">
-                        <a href="https://challenge.meyouhealth.com/signup/chopra">
-                            <img src="https://www.deepakchopra.com/uploads/default/images/partners/main/1413587605_4829_195x75_f0.png" alt="">
-                        </a>
-                    </div>
-                                    <div class="footer-slider-element">
-                        <a href="http://www.blogtalkradio.com/deepakchopra">
-                            <img src="https://www.deepakchopra.com/uploads/default/images/partners/main/1413587628_8287_195x75_f0.png" alt="">
-                        </a>
-                    </div>
-                                    <div class="footer-slider-element">
-                        <a href="http://www.curiositystream.com">
+                        <a href="http://www.curiositystream.com" target="_blank">
                             <img src="https://www.deepakchopra.com/uploads/default/images/partners/main/1424911245_8275_195x75_f0.png" alt="">
                         </a>
                     </div>
                                 </div>
             </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="ask-deepak-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form method="post" action="https://www.deepakchopra.com/blog/save_ask_deepak" class="ajaxForm">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                    <h4 class="modal-title">Ask Deepak</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Please, note that due to the volume of inquires Deepak is unable to answer all questions he receives. If you want us to send you an e-mail notification when he answers your question, please provide your name and e-mail address!</p>
+                    <dl>
+                        <dd>
+                            <input type="text" name="name" class="form-control" placeholder="Name*">
+                        </dd>
+                        <dd>
+                            <input style="margin-bottom: 0px;" type="text" name="email" class="form-control" placeholder="Email address*">
+                            <input type="hidden" name="checkrcomment_email" value="">
+                            <div style=" margin-bottom: 25px;">
+                                <input type="checkbox" name="subscribe_newsletter" checked="checked"> Subscribe to Our Newsletter
+                            </div>
+                        </dd>
+
+                        <dd>
+                            <textarea name="question" class="form-control" placeholder="Enter your question*"></textarea>
+                        </dd>
+
+                        <dd>
+                            <script type="text/javascript">
+                                var RecaptchaOptions = {
+                                    theme : 'clean'
+                                };
+                            </script>
+                            <div id="ask-cap">
+                                <script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k=6LcB6gETAAAAAHLR24d0N3cAqPqiR5dqrZKOmg5Z"></script>
+
+            <noscript>
+                    <iframe src="https://www.google.com/recaptcha/api/noscript?k=6LcB6gETAAAAAHLR24d0N3cAqPqiR5dqrZKOmg5Z" height="300" width="500" frameborder="0"></iframe><br/>
+                    <textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+                    <input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+            </noscript>                            </div>
+                        </dd>
+
+                    </dl>
+                </div>
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary ajaxSubmit" data-ga_event="{ &quot;eventCategory&quot;: &quot;Ask Deepak&quot;, &quot;eventAction&quot;: &quot;Submitted&quot; }">Submit</button>
+                </div>
+            </form>
         </div>
     </div>
 </div>
