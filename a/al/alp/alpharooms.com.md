@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627180005id_/https%3A//www.alpharooms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911013715id_/https%3A//www.alpharooms.com/privacy) for the most accurate reproduction.*
 
 # Alpharooms.com privacy policy
 
