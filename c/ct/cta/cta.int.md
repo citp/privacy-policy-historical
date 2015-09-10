@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cta.int privacy policy that was archived on 2015-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150604192754id_/http%3A//www.cta.int/en/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cta.int privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910081713id_/http%3A//www.cta.int/en/privacy-statement.html) for the most accurate reproduction.*
 
 # Privicay statement
 
