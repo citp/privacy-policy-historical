@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showpo.com privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621191324id_/http%3A//www.showpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showpo.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910173338id_/http%3A//www.showpo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SHOWPO Fashion Online Shopping
 
@@ -70,6 +70,10 @@ We protect your personal information by:
   
 SHOWPO uses 128 - bit SSL (secure sockets layer) encryption technology when processing your financial details. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard.
 
+**Mailing List Subscription**
+
+Subscribers to our mailing list will receive our newsletters. The frequency may vary from time to time. Subscribers can expect up to three weekly emails once they have opted into the mailing list. On rare occasions, we may exceed three emails, but this will be rare and we are very conscious not to spam our subscribers. From time to time, there may also be communication from Showpo to its subscribers via text messages. If you want to opt out of receiing emails from us. please click the unsubscribe link included in every mesage. 
+
 **Disclosure of Personal Information**
 
 We will not share your information with any other organisations other than related companies and those third parties directly related to the delivery of the products you have purchased from SHOWPO website.
@@ -119,3 +123,7 @@ SHOWPO reserves the right to modify and change the Privacy Statement at any time
 **Complaints about breaches of Privacy**
 
 If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at info@showpo.com
+
+Suite 4B, Level 4, 119 Kippax St  
+Surry Hills, NSW, 2010, Australia  
++61 2 8279 8111 
