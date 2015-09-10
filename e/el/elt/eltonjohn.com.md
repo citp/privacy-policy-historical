@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2014-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141023174818id_/http%3A//www.eltonjohn.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910111441id_/http%3A//www.eltonjohn.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : EltonJohn.com
+# Privacy Policy :EltonJohn.com
 
 At EltonJohn.com, we respect the privacy concerns of the users and other visitors to our website. We understand that we are responsible for Personal Information under our control. By visiting EltonJohn.com, you are accepting the Terms of Use and the practices described in this Privacy Policy (“Privacy Policy”).
 
