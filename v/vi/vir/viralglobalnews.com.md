@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralglobalnews.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606220614id_/http%3A//www.viralglobalnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralglobalnews.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910121321id_/http%3A//www.viralglobalnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,15 +40,15 @@ We, our third-party service providers, advertisers, agencies or partners may al
 
 Viral Global News may collect and use Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _– To personalize user experience_  
 We may use information in the aggregate to understand how our Users, as a group, use the services and resources provided on the Site.
-  * _\- To improve the Site_  
+  * _– To improve the Site_  
 We may use feedback you provide to improve our products and services, including the design of the website
-  * _\- To send periodic emails_  
+  * _– To send periodic emails_  
 We may use email addresses provided by Users to respond to their inquiries, questions, and/or other submitted requests.
-  * \- _To send periodic newsletters_  
+  * – _To send periodic newsletters_  
 We may use email addresses provided by Users to send newsletters to those individuals who have signed up to the Viral Global News online newsletter
-  * \- _To enforce the legal terms that govern your use of the Site_
+  * – _To enforce the legal terms that govern your use of the Site_
 
 
 
@@ -80,11 +80,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ### Google Adsense
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users, based on their visit to the Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy, at <http://www.google.com/privacy_ads.html>
-
-### Yield Select
-
-Yield Select, as a third party vendor, uses cookies to serve ads on the Site. Yield Select’s use of the DART cookie enables it to serve ads to Users, based on their visit to the Site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Yield Select ad and content network privacy policy, at: [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users, based on their visit to the Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy, at <http://www.google.com/policies/privacy/ads/>
 
 ## Changes to this privacy policy
 
@@ -99,12 +95,12 @@ By using this Site, you signify your acceptance of Viral Global News’ Privacy 
 If you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact us at the following address:
 
 Virtual Solutions Center, Inc.  
-Attention: Privacy[  
-](http://viralglobalnews.com/)25016 Mill River Road,  
+Attention: Privacy  
+25016 Mill River Road,  
 Olmsted Falls, Ohio 44138
 
 Users can also contact us, via telephone, on 440-822-1758, or at the following e-mail address: editor@viralglobalnews.com
 
 Further contact information can be found in the [Contact Us section of the Site](http://www.viralglobalnews.com/submissions/ "Contact Us").
 
-This document was last updated on May 15, 2014.
+This document was last updated on July 21, 2015.
