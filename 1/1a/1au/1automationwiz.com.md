@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411063840id_/http%3A//www.1automationwiz.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1automationwiz.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910020844id_/http%3A//www.1automationwiz.com/privacy-policy) for the most accurate reproduction.*
 
-# 1AutomationWiz.com Privacy Statement
+# 1AutomationWiz Privacy Policy
 
-1AutomationWiz™ respects the privacy of the visitors of its websites.
-
-The purpose of this Privacy Statement is to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website.
-
-We define “Personal Information” as any information about you that is personally identifiable to you like your name, address, email address, or phone number, as well as other non-public information that is associated with the previously listed items.
+1AutomationWiz™ respects the privacy of the visitors of its websites.The purpose of this Privacy Statement is to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website.We define “Personal Information” as any information about you that is personally identifiable to you like your name, address, email address, or phone number, as well as other non-public information that is associated with the previously listed items.
 
 We pay strict attention to how the Personal Information of our visitors is handled and shared, and we use Personal Information responsibly.We act as a service provider to our customers and may process and store on behalf of our customers Personal Information that our customers collect under the privacy policy they have posted on their web sites from the users of those websites. We do not own this Personal Information.
 
@@ -78,18 +74,18 @@ Contact Us
 
 Should you have any questions or concerns regarding this Privacy Statement, please contact us:
 
-1AutomationWiz™  
-Privacy Officer  
-11939 Manchester Rd, #198  
-St. Louis, MO 63131  
-Phone: 314-835-1510
+Cyber Samurai Marketing Inc.  
+PMB #8026  
+2711 Centerville Rd., Suite 120  
+Wilmington, DE 19808-1645  
+Phone: 1-800-671-3871
 
 Privacy Statement Updates
 
 This Privacy Statement is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our website. Continued use of our website following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
 
-This statement was last updated on October 15th, 2008.
+This statement was last updated on October 15th, 2014.
 
 Conditions of Use and Revisions
 
-If you choose to visit 1AutomationWiz’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the States of Florida and Missouri.
+If you choose to visit 1AutomationWiz’s website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the States of Missouri and Delaware.
