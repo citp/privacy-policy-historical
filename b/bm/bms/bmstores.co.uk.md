@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmstores.co.uk privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509004121id_/http%3A//www.bmstores.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmstores.co.uk privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910020042id_/http%3A//www.bmstores.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # B&M: Privacy Policy
 
@@ -67,13 +67,28 @@ __utmz
 [Overview of Google Analytics](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
   
   |   |   |    
- Essential website cookies | 
+Strictly necessary cookies | 
 
  CFID
 
 CFTOKEN
 
 | We use those cookies to maintain your session throughout your visit to our site. No personal information is held.  |    
+  | 
+
+CURRENTFARCRYPROJECT
+
+|  Name of the web application |    
+  | 
+
+FARCRYDEVICETYPE
+
+| Used for detecting visitor's web browser device type eg mobile or desktop |    
+  | HASSESSIONSCOPE | Used by our content management application to determine if cookies are enabled and working |    
+  | JSESSIONID | A cookie in J2EE web application which is used in session tracking. |    
+  | NEWSLETTER-SIGNUP-MODAL-SHOW | Used to toggle newsletter signup modal window |    
+  | RECENTVIEWED | Stores user's recently viewed products |    
+  | SESSIONSCOPETESTED | Used by our content management application to determine if cookies are enabled and working |    
   
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
 
