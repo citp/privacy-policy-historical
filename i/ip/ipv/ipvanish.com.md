@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2014-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140907213836id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipvanish.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910183248id_/https%3A//www.ipvanish.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IPVanish VPN
 
@@ -19,9 +19,10 @@ Our Terms of Use, including their limitation on liability, apply to the Privacy 
   * How To Contact Us
   * Changes to this Policy
 
+  
 
 
-Information We Collect
+### Information We Collect
 
 **IPVanish does not collect or log any traffic or use of its Virtual Private Network service.**
 
@@ -31,7 +32,7 @@ _Account Information_. To create an account, you may need to provide certain per
 
 _Site Visitors_. We collect certain information automatically from visitors to our Site, such as IP (Internet protocol) address and pages viewed on our Site. For more information, see the "Cookies and Tracking" section below. **However, we do not track user activities outside of our Site, nor do we track the browsing activities of users who are logged into our VPN service.**
 
-How We Use Your Information
+### How We Use Your Information
 
 We do not sell or rent personal information to others. 
 
@@ -48,9 +49,10 @@ The information we collect through our Site and Services is primarily used to cr
   * _Service Providers._ With third party service providers who provide services on our behalf, such as processing payments, hosting our Site, and sending email messages for us. Our service providers receive only the information they need to perform their designated functions, and are not permitted to use or disclose this information for their own marketing or other purposes;
   * _Aggregate, Anonymous or De-Identified Information._ Sharing aggregate or non-personally identifiable information with non-affiliated third parties for advertising, marketing or research purposes. However, we do not share your personal information with any third parties for their own marketing, advertising or research purposes. 
 
+  
 
 
-Cookies
+### Cookies
 
 This section describes the information we collect about visitors to our Site. As noted above, **we do _not_ track user activities outside of our Site, nor do we track the web activities of users when they are logged into our VPN Services.**
 
@@ -64,34 +66,34 @@ _Clear GIFs (Web Beacons/Web Bugs)._ We or the third parties we engage may emplo
 
 _Third Parties._ We may engage third parties, such as Google Analytics, to track and analyze non-personally identifiable Site data. These third parties may use cookies and clear GIFs on our Site to collect, analyze, and generate reports on Site usage for us. We do not provide these third parties with any personal information that we have collected about you. Use the following link to opt out of Google's Analytic tracking: https://tools.google.com/dlpage/gaoptout 
 
-Security Measures We Have In Place
+### Security Measures We Have In Place
 
 We use security measures that are consistent with industry standards to protect your personal information from loss, theft, misuse or unauthorized access or disclosure or destruction. All employees are kept up-to-date on our security and privacy practices. In addition, access to user or subscriber personal information is restricted to those who need to know such information to perform their job functions. 
 
 Where appropriate, we use encryption, access controls, passwords, and/or physical security measures to protect the personal information we collect and maintain about you against unauthorized access and disclosure. Despite our efforts, no data security methods guarantee 100% protection. We do not promise and cannot guarantee that your personal information can never be viewed and/or used by others. 
 
-Emails
+### Emails
 
 We may send you marketing and promotional emails about products, services and other information we think may interest you. You may unsubscribe from such emails at any time by emailing us at [support@ipvanish.com](mailto:support@ipvanish.com) and telling us you would like to "unsubscribe from marketing emails." In addition, if you receive a marketing or promotional e-mail from us, you may click the unsubscribe link contained in the e-mail to "opt out" of receiving future promotional e-mails from us. However, we may continue to send you emails about your account and for other customer-service-related purposes. 
 
-How To Modify Your Personal Information
+### How To Modify Your Personal Information
 
 Requests to review or amend your account information, or for technical support, service information, and changes in usage should be sent to: [support@ipvanish.com](mailto:support@ipvanish.com). We try to respond to all requests in a timely manner. You may also view and amend much of your account information, or update or renew your subscription, by logging in to your account and updating your account information. 
 
-Children's Privacy
+### Children's Privacy
 
 Our Site and Services are not intended for anyone under the age of 18. If you are a parent or guardian and believe that your child under 13 has provided personal information to us, please contact us so that we can delete the child's information. 
 
-International Users
+### International Users
 
 IPVanish and our computer systems are based in the United States, so your personal information will be processed by us in the United States, where data protection and privacy regulations may be different than in other parts of the world. When you create an online account with us from outside the United States, you agree to the terms of this Policy and our Terms of Service, and give your consent to the transfer to and processing of such information in the United States, which may not offer an equivalent level of data protection as that in the European Union, Canada or other countries. 
 
-How To Contact Us
+### How To Contact Us
 
 For questions about this Site or IPVanish, or for more information about how we or our service providers treat your personal information, please contact us at: 
 
 [support@ipvanish.com](mailto:support@ipvanish.com)
 
-Changes to this Policy
+### Changes to this Policy
 
-We may change this Policy from time to time, without prior notice to you, consistent with applicable privacy laws and principles. If we do so, we will post a new effective date for that Policy. Your continued use of the Site or Services constitutes your acceptance of the then-effective Privacy Policy. 
+We may change this Policy from time to time, without prior notice to you, consistent with applicable privacy laws and principles. If we do so, we will post a new effective date for that Policy. Your continued use of the Site or Services constitutes your acceptance of the then-effective Privacy Policy. >
