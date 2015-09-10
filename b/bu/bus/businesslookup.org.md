@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businesslookup.org privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608003553id_/http%3A//www.businesslookup.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslookup.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910214403id_/http%3A//www.businesslookup.org/Privacy) for the most accurate reproduction.*
 
-# Business Lookup: Privacy Policy
+# Privacy Policy :: Business Lookup
 
 This privacy policy sets out how www.businesslookup.org uses and protects any information that you give www.businesslookup.org when you use this website. www.businesslookup.org is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
