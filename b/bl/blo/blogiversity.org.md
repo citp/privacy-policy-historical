@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogiversity.org privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415064754id_/http%3A//www.blogiversity.org/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogiversity.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910080957id_/http%3A//www.blogiversity.org/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Blogiversity.org
 
