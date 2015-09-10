@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roundrockisd.org privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527152856id_/https%3A//roundrockisd.org/about-rrisd/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundrockisd.org privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910234229id_/https%3A//roundrockisd.org/about-rrisd/privacy-policy) for the most accurate reproduction.*
 
-# Round Rock ISD | Privacy Policy
+# Privacy Policy | Round Rock ISD
 
 Round Rock Independent School District (Round Rock ISD, RRISD, or District) is committed to respecting and protecting your privacy as a visitor to our website. We will only collect, store and use your personal information for defined purposes.
 
