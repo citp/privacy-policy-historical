@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtek.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608061721id_/http%3A//www.newtek.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtek.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910055923id_/http%3A//newtek.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
