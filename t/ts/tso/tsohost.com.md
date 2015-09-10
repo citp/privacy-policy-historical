@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsohost.com privacy policy that was archived on 2015-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150618002824id_/https%3A//www.tsohost.com/terms-and-conditions/privacy-policy%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsohost.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910222031id_/https%3A//www.tsohost.com/terms-and-conditions/privacy-policy%23privacy-policy) for the most accurate reproduction.*
 
 # Terms & Conditions, Privacy Policy and SLA | Tsohost
 
