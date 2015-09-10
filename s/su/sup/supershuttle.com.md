@@ -1,15 +1,47 @@
-> *The following text is extracted and transformed from the supershuttle.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617222319id_/http%3A//www.supershuttle.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supershuttle.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910120938id_/http%3A//www.supershuttle.com/Privacy) for the most accurate reproduction.*
 
-# SuperShuttle - Privacy Policy
+# SuperShuttle® Online Reservations - LAX SFO LAS DIA PHX BWI DFW TPA JFK JAX CDG IAD SAN DCA SMF MCI IAH LGA MSP EWR AUS SNA HOU BUR DAL OAK ONT LGB SJC ISP PTP PIE ORY MIA MCO Airport
 
-At SuperShuttle, we are committed to protecting your privacy. We use the information you provide to secure your SuperShuttle reservation.
+SuperShuttle is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the SuperShuttle Web site and governs data collection and usage. By using the SuperShuttle website, you consent to the data practices described in this statement.
 
-At some point in the future, we may use the information we collect to occasionally notify you about important functionality changes to the Web site, new SuperShuttle services, and special offers we think you'll find valuable. If we do so, you'll be provided an opportunity to unsubscribe from this mailing list.
+Collection of your Personal Information
 
-SuperShuttle does not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending a blank e-mail message to [never@supershuttle.com](mailto:never@supershuttle.com) from the email you'd like removed. In addition, we also may market certain third party services through our site. If you accept the offer, we will pass your relevant personal information, including name to that third party. If you have previously requested that your personal information not be shared with third parties, but then later consent by accepting a third party marketing offer available through our site, we will share your contact and billing information with that specific third party.
+SuperShuttle collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. SuperShuttle also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-Also, SuperShuttle may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. SuperShuttle may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of SuperShuttle.com, our users, or others. 
+There is also information about your computer hardware and software that is automatically collected by SuperShuttle. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by SuperShuttle for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the SuperShuttle Web site.
 
-"We use Google Analytics' third-party audience data such as age, gender and interests to better understanding the behavior of our website users and customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through SuperShuttle public message boards, this information may be collected and used by others. Note: SuperShuttle does not read any of your private online communications.
 
-You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising at <http://www.aboutads.info/choices/>, edit or opt-out your Google Display Network ads' preferences at <http://www.google.com/ads/preferences/>, and/or opt out of DoubleClick's use of cookies by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb) or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/)." 
+SuperShuttle encourages you to review the privacy statements of Web sites you choose to link to from SuperShuttle so that you can understand how those Web sites collect, use and share your information. SuperShuttle is not responsible for the privacy statements or other content on Web sites outside of the SuperShuttle and SuperShuttle family of Web sites.
+
+Use of your Personal Information
+
+SuperShuttle collects and uses your personal information to operate the SuperShuttle Web site and deliver the services you have requested. SuperShuttle also uses your personally identifiable information to inform you of other products or services available from SuperShuttle and its affiliates. SuperShuttle may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+
+SuperShuttle does not sell, rent or lease its customer lists to third parties. SuperShuttle may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, SuperShuttle may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to SuperShuttle, and they are required to maintain the confidentiality of your information.
+
+SuperShuttle does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+
+SuperShuttle keeps track of the Web sites and pages our customers visit within SuperShuttle, in order to determine what SuperShuttle services are the most popular. This data is used to deliver customized content and advertising within SuperShuttle to customers whose behavior indicates that they are interested in a particular subject area.
+
+SuperShuttle Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on SuperShuttle or the site; (b) protect and defend the rights or property of SuperShuttle; and, (c) act under exigent circumstances to protect the personal safety of users of SuperShuttle, or the public.
+
+Use of Cookies
+
+The SuperShuttle Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize SuperShuttle pages, or register with SuperShuttle site or services, a cookie helps SuperShuttle to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same SuperShuttle Web site, the information you previously provided can be retrieved, so you can easily use the SuperShuttle features that you customized.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the SuperShuttle services or Web sites you visit.
+
+Security of your Personal Information
+
+SuperShuttle secures your personal information from unauthorized access, use or disclosure. SuperShuttle secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+
+Changes to this Statement
+
+SuperShuttle will occasionally update this Statement of Privacy to reflect company and customer feedback. SuperShuttle encourages you to periodically review this Statement to be informed of how SuperShuttle is protecting your information.
+
+Contact Information
+
+SuperShuttle welcomes your comments regarding this Statement of Privacy. If you believe that SuperShuttle has not adhered to this Statement, please contact SuperShuttle at [spandit@saatechnosolutions.com](mailto:spandit@saatechnosolutions.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
