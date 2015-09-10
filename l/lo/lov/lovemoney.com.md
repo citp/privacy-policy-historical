@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324111523id_/https%3A//www.lovemoney.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910114748id_/https%3A//www.lovemoney.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # lovemoney.com - Live life richer with lovemoney.com
 
