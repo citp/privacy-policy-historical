@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbma.org.uk privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214014123id_/http%3A//www.lbma.org.uk/legal-information%23cookie_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbma.org.uk privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910072144id_/http%3A//www.lbma.org.uk/legal-information%23cookie_policy) for the most accurate reproduction.*
 
 # LBMA - Legal Information
 
