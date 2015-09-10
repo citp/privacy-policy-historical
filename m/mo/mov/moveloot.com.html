@@ -1,60 +1,91 @@
-<!--The following is the downloaded HTML source of the moveloot.com privacy policy that was archived on 2014-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141005161858id_/https%3A//www.moveloot.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moveloot.com privacy policy that was archived on 2015-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150910093703id_/https%3A//www.moveloot.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"497d706d62","applicationID":"4765126","transactionName":"cFlbFkRdVFxXExZKQ1JCXAEZQkpZRABaQGhDWVkLVUs=","queueTime":0,"applicationTime":44,"agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIAVl5aGwcHUlRTBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
-<title>Privacy Policy</title>
-<meta content="Move Loot Privacy Policy. This Privacy Statement describes the types of personal information Move Loot, Inc. collects through www.moveloot.com" name="description">
+<title>Move Loot</title>
+<meta content="Move Loot is the easiest way to buy and sell used furniture online. Consign with us for a hassle-free experience inclusive of pickup, storage and delivery." name="description">
 <meta content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" name="viewport">
-<link data-turbolinks-track="true" href="/assets/application-9153b7b2a2e8b71649e3e36417a50d29.css" media="all" rel="stylesheet">
-<script data-turbolinks-track="true" src="/assets/application-2b36dfd280dedbb4f8ec6965ad6fe3a1.js"></script>
-<script data-turbolinks-track="true" src="https://js.braintreegateway.com/v2/braintree.js"></script>
-<link href="/assets/favicon-80c6895589bbcfa503402359fe5eb5db.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link data-turbolinks-track="false" href="/assets/application-cab93ccbb05c1936e8f4d61e415da07c.css" media="all" rel="stylesheet">
+<script data-turbolinks-track="false" src="//js.honeybadger.io/v0.2/honeybadger.min.js"></script>
+<script data-turbolinks-track="false" src="/assets/application-12820b4772fc1ff2e5d0eed706dd3abb.js"></script>
+<script data-turbolinks-track="false" src="https://js.braintreegateway.com/v2/braintree.js"></script>
+<link href="/assets/favicon-8755b3120ef54754b07c9804832a01eb.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<link href="/assets/mobile-ml-icon-a9f1045ae77269f34fd67698df22b548.png" rel="apple-touch-icon" type="image/png">
+<link rel="apple-touch-icon" href="/custom_icon.png">
 <meta content="86042db404eabf78b79683908fe4d502" name="p:domain_verify">
 <meta content="5iZ9cAy-RDKVrm5RN9Dhe-QjfkarIvP3Z7BUjiZDes4" name="google-site-verification">
 <meta content="13FC252F4083EE1DE73636A26FA81A20" name="msvalidate.01">
 <meta content="mu-a562627e-f119d308-88042c91-1490d232" name="blitz">
 <meta content="app-id=883723244" name="apple-itunes-app">
-<script>
-  dataLayer = [
-    {
-      'conversion_type': 'none',
-      'conversion_value': 0,
-      'conversion_id': 0,
-      'convserion_shipping': 0,
-      'conversion_tax': 0,
-      'transactionId': 744723311,
-      'transactionAffiliation': 'Acme Clothing',
-      'transactionTotal': '11.99',
-      'transactionTax': '1.29',
-      'transactionShipping': '5',
-      'transactionProducts': [{
-          'sku': 'DD44',
-          'name': 'T-Shirt',
-          'category': 'Apparel',
-          'price': '11.99',
-          'quantity': '1'
-      },{
-          'sku': 'AA1243544',
-          'name': 'Socks',
-          'category': 'Apparel',
-          'price': '9.99',
-          'quantity': '2'
-      }]
-    }
-  ];
+
+
+<meta content="Move Loot" property="og:title">
+<meta content="website" property="og:type">
+<meta content="https://www.moveloot.com/assets/logo/logo_fb_aspect-d75b447c1fa5b7afa22a5d541303228c.png" property="og:image">
+<meta content="Move Loot is the easiest way to buy and sell used furniture online. Consign with us for a hassle-free experience inclusive of pickup, storage and delivery." property="og:description">
+<meta content="603599019681614" property="fb:app_id">
+
+<meta content="authenticity_token" name="csrf-param">
+<meta content="HoiB281nXzKFeE7rMwW0mMfnd27G+3x0bhFi26zgV3w=" name="csrf-token">
+    <script type="text/javascript">
+        adroll_adv_id = "OSH3ZVYUDZCORGPFKYDRZ6";
+        adroll_pix_id = "TD2MM3EZAFGC3FCZP7Q5TP";
+        (function () {
+            var oldonload = window.onload;
+            window.onload = function(){
+                __adroll_loaded=true;
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                if(oldonload){oldonload()}};
+        }());
+    </script>
+
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<body class="static-controller privacy_policy-action" data-action="static#privacy_policy" style="background-image: url(/assets/sf_skyline_background-1e56fa084c79c25b0f0e72e57c50d0fa.png)">
+<div id="fb-root"></div>
+<div id="turbolinks-toggle">
+
+
+<script type="text/javascript">
+    var page_params = {
+        controller_action: 'static#privacy_policy',
+        service_area: 'wc',
+        region: 'sf'
+    };
+
+
+
+
+        window.analytics.page(page_params);
+// sends "page view" to segment
+
+
+    // setup page view params
+    page_params['request_path'] = window.location.pathname;
+    page_params['host'] = window.location.host;
+    page_params['hash'] = window.location.hash;
+    page_params['params'] = window.location.search;
+    page_params['userAgent'] = navigator.userAgent;
+    page_params['request_referrer'] = 'https://www.moveloot.com/sf';
+    page_params['request_method'] = 'GET';
+    page_params['request_domain'] = 'moveloot.com';
+    page_params['request_subdomain'] = 'www';
+    page_params['ip_address'] = '199.27.133.102';
+    page_params['analytics_id'] = '779ed983-e87f-420f-a3ab-d5c1870f3f47';
+    page_params['region_id'] = 1
+    page_params['service_area_id']= 1
+
+    MlAnalytics.track('page_view',page_params);
+
 </script>
 
 
-<meta content="authenticity_token" name="csrf-param">
-<meta content="lSvCayT4FhBSX0S0fsNeWIhPKJnRaVBbNybhuWYYsdA=" name="csrf-token">
-</head>
-<body class="static-controller privacy_policy-action" style="background-image: url(/assets/sf_skyline_background-d8735b4b53149dba0e8e30c94fa06a76.png)">
-<div id="fb-root"></div>
-    <script type="text/javascript">
-      window.analytics.page();
-    </script>
+
 
 
 
@@ -64,43 +95,54 @@
 
 <div class="container hidden-sm hidden-xs">
 <div class="active" id="sell-furniture-sticky">
-<div id="sell-furniture-text">
-<a class="sticky-sell btn btn-primary" href="/rdu/sell">Sell furniture</a>
+<div class="large" id="sell-furniture-text">
+<a class="sticky-sell btn btn-primary" href="/sell">SELL FURNITURE</a>
 </div>
 </div>
 </div>
 <div class="hidden-sm hidden-xs" id="top-navbar">
 <div id="top-navbar-container">
 <div id="top-navbar-info">
-<p>Free Delivery over $99</p>
+<div class="active rotating-display">
+<div class="display-option delivery" data-type="Delivery">
+<a class="unstyled" href="/shop">Free delivery over $99</a>
+</div>
+<div class="display-option delivery-sell" data-type="Delivery_sell">
+<a class="unstyled" href="/sell">Sit back, relax, and we sell for you</a>
+</div>
+<div class="display-option sell" data-type="Sell">
+<a class="unstyled" href="/sell">Sell Your Furniture and Get Paid</a>
+</div>
+</div>
+
 </div>
 <div id="top-navbar-logo">
-<a href="/rdu" id="main-logo-link"><img alt="Movelootweblogo" id="main-logo" src="/assets/MoveLootWebLogo-d413dccf27525ba422142e844839094b.png"></a>
+<a href="/" id="main-logo-link"><img alt="Movelootweblogo" id="main-logo" src="/assets/MoveLootWebLogo-62503fd197db98e08112f3dd0cec954c.png"></a>
 <div id="service-area-switcher">
-<a class="unstyled" data-show-service-area-modal="#service-area-switch-modal" href="#">RALEIGH &amp; DURHAM
+<a class="unstyled" data-show-service-area-modal="#service-area-switch-modal" href="#">SF BAY AREA
 <b class="caret"></b>
 </a></div>
 
 </div>
 <div id="top-navbar-account-cart">
-<a class="unstyled" href="/users/sign_in?next=%2F404&amp;service_area=rdu">Sign In
+<a class="unstyled right-divider" href="/users/sign_up?next=%2Fprivacy_policy">Sign Up
 </a>
 <div class="dropdown" id="cart-dropdown">
-<a class="btn dropdown-toggle" href="/rdu/orders/new">
+<a class="btn dropdown-toggle" href="/orders/new">
 <span class="cart-icon">
 <i class="ml-icon empty-cart"></i>
 <div class="number_of_items">0</div>
 </span>
 
 </a>
-<div class="dropdown-tab">
+<div class="dropdown-tab hidden-print">
 <div class="dropdown-tab-inner"></div>
 </div>
 <div class="cart-menu dropdown-menu dropdown-menu-right">
 <h3>
 Your Cart
 </h3>
-<table class="cart-table table">
+<table class="cart-table table hidden-print">
 <tbody>
 <tr class="subtotal">
 <td class="text">
@@ -118,31 +160,33 @@ Your Cart
 $100.00 left until
 <span class="green">free delivery</span>
 </p>
-<div class="hidden-xs hidden-sm">
-<a class="btn btn-main checkout-button" href="/rdu/orders/new">Check Out</a>
+<div class="hidden-xs hidden-sm hidden-print">
+<a class="btn btn-main checkout-button" href="/orders/new">Check Out</a>
 </div>
-<div class="visible-xs visible-sm">
-<a class="btn btn-main checkout-button" href="/rdu/orders/new" style="background: none">Check Out</a>
-</div>
-
-</div>
+<div class="visible-xs visible-sm hidden-print">
+<a class="btn btn-main checkout-button" href="/orders/new" style="background: none">Check Out</a>
 </div>
 
 </div>
 </div>
+
+</div>
+</div>
 </div>
 
-<div class="visible-sm visible-xs" id="top-navbar-mobile">
+<div class="visible-sm visible-xs hidden-print" id="top-navbar-mobile">
 <div class="mobile-menu-link">
 <a class="unstyled" data-toggle-body-class="menu-open" data-toggle-sidebar="#top-navbar-mobile-menu" href="#"></a>
 </div>
-<div id="mobile-logo">
-<a href="/rdu" id="main-logo-link"><img alt="Mobile logo" id="main-logo" src="/assets/mobile_logo-87ee4adfbb51dda0db94efbc3bdb8d24.png"></a>
+<div id="mobile-logo" style="margin-top: 16px">
+<a class="unstyled" href="/">
+<i class="ml-icon plain-logo"></i>
+</a>
 </div>
 <div class="mobile-cart-link">
 <a class="unstyled" data-toggle-body-class="cart-open" data-toggle-sidebar="#top-navbar-mobile-cart" href="#">
 <span class="mobile-cart-icon">
-<i class="mobile-empty-cart"></i>
+<i class="ml-icon empty-cart"></i>
 <div class="mobile-number-of-items">0</div>
 </span>
 
@@ -150,62 +194,66 @@ $100.00 left until
 </div>
 <div id="top-navbar-mobile-menu">
 <div id="mobile-search">
-<form accept-charset="UTF-8" action="/rdu/products" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-<i class="ml-icon search-icon"></i>
-<input class="form-control" id="q" name="q" placeholder="TYPE TO SEARCH" type="text">
+<form accept-charset="UTF-8" action="/products" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+<i class="ml-icon lens-icon"></i>
+<input class="form-control search-input" id="mobile-q" name="q" placeholder="TYPE TO SEARCH" type="text">
 </form>
 
 </div>
 <hr class="hr2">
 <a class="btn-alt" data-show-service-area-modal="#service-area-switch-modal" href="#">CURRENT LOCATION
 <br>
-RALEIGH &amp; DURHAM
+WEST COAST
 <b class="caret"></b>
-</a><h5>Categories</h5>
+</a><div class="sign-in-links" style="margin-top: 1rem">
+<a class="btn-alt" href="/users/sign_up?next=%2Fprivacy_policy">Sign Up</a>
+</div>
+<h5>Categories</h5>
 <ul>
-<li><a class="unstyled" href="/rdu/shop/new">NEW</a></li>
-<li><a class="unstyled" href="/rdu/shop/sofas">SOFAS</a></li>
-<li><a class="unstyled" href="/rdu/shop/chairs">CHAIRS</a></li>
-<li><a class="unstyled" href="/rdu/shop/tables">TABLES</a></li>
-<li><a class="unstyled" href="/rdu/shop/dressers">DRESSERS</a></li>
-<li><a class="unstyled" href="/rdu/shop/storage">STORAGE</a></li>
-<li><a class="unstyled" href="/rdu/shop/beds">BEDS</a></li>
-<li><a class="unstyled" href="/rdu/shop/decor">DECOR</a></li>
-<li><a class="unstyled" href="/rdu/shop/office">OFFICE</a></li>
+<li><a class="unstyled" href="/shop/new">NEW</a></li>
+<li><a class="unstyled" href="/shop/sofas">SOFAS</a></li>
+<li><a class="unstyled" href="/shop/chairs">CHAIRS</a></li>
+<li><a class="unstyled" href="/shop/tables">TABLES</a></li>
+<li><a class="unstyled" href="/shop/dressers">DRESSERS</a></li>
+<li><a class="unstyled" href="/shop/storage">STORAGE</a></li>
+<li><a class="unstyled" href="/shop/beds">BEDS</a></li>
+<li><a class="unstyled" href="/shop/decor">DECOR</a></li>
+<li><a class="unstyled" href="/shop/office">OFFICE</a></li>
+<li><a class="unstyled" href="/shop/collections">COLLECTIONS</a></li>
+<li><a class="unstyled" href="/shop/sale">SALE</a></li>
 </ul>
-<a class="btn-main" href="/rdu/sell">sell furniture</a>
+<a class="btn-main" href="/sell">sell furniture</a>
 <h5>Support</h5>
 <ul>
-<li><a href="/contact?service_area=rdu">CONTACT</a></li>
-<li><a href="/how_it_works?service_area=rdu">HOW IT WORKS</a></li>
-<li><a href="/rdu/faq">FAQ</a></li>
-<li><a href="/delivery_policy?service_area=rdu">DELIVERY</a></li>
-<li><a href="/return_policy?service_area=rdu">RETURNS</a></li>
-<li><a href="/seller_details?service_area=rdu">SELLING DETAILS</a></li>
-<li><a href="/buyer_details?service_area=rdu">BUYING DETAILS</a></li>
+<li><a href="/contact">CONTACT</a></li>
+<li><a href="/how_it_works">HOW IT WORKS</a></li>
+<li><a href="http://support.moveloot.com" target="_blank">FAQ</a></li>
+<li><a href="/delivery_policy">DELIVERY</a></li>
+<li><a href="/return_policy">RETURNS</a></li>
+<li><a href="/seller_details">SELLING DETAILS</a></li>
+<li><a href="/buyer_details">BUYING DETAILS</a></li>
 </ul>
 <h5>Company</h5>
 <ul>
-<li><a href="/about_us?service_area=rdu">ABOUT</a></li>
+<li><a href="/about_us">ABOUT</a></li>
 <li><a href="http://blog.moveloot.com">BLOG</a></li>
-<li><a href="/gift_cards?service_area=rdu">GIFT CARDS</a></li>
-<li><a href="/press?service_area=rdu">PRESS</a></li>
-<li><a href="/careers?service_area=rdu">CAREERS</a></li>
+<li><a href="/gift_cards">GIFT CARDS</a></li>
+<li><a href="/press">PRESS</a></li>
+<li><a href="/careers">CAREERS</a></li>
 </ul>
 <h5>Legal</h5>
 <ul>
-<li><a href="/consignment_agreement?service_area=rdu">CONSIGNMENT AGREEMENT</a></li>
-<li><a href="/terms?service_area=rdu">TERMS &amp; CONDITIONS</a></li>
-<li><a href="/privacy_policy?service_area=rdu">PRIVACY POLICY</a></li>
+<li><a href="/consignment_agreement">CONSIGNMENT AGREEMENT</a></li>
+<li><a href="/terms">TERMS &amp; CONDITIONS</a></li>
+<li><a href="/privacy_policy">PRIVACY POLICY</a></li>
 </ul>
-<a class="btn-alt" href="/users/sign_in?next=%2F404&amp;service_area=rdu">sign in</a>
 
 </div>
 <div id="top-navbar-mobile-cart">
 <h3>
 Your Cart
 </h3>
-<table class="cart-table table">
+<table class="cart-table table hidden-print">
 <tbody>
 <tr class="subtotal">
 <td class="text">
@@ -223,32 +271,53 @@ Your Cart
 $100.00 left until
 <span class="green">free delivery</span>
 </p>
-<div class="hidden-xs hidden-sm">
-<a class="btn btn-main checkout-button" href="/rdu/orders/new">Check Out</a>
+<div class="hidden-xs hidden-sm hidden-print">
+<a class="btn btn-main checkout-button" href="/orders/new">Check Out</a>
 </div>
-<div class="visible-xs visible-sm">
-<a class="btn btn-main checkout-button" href="/rdu/orders/new" style="background: none">Check Out</a>
-</div>
-
-</div>
+<div class="visible-xs visible-sm hidden-print">
+<a class="btn btn-main checkout-button" href="/orders/new" style="background: none">Check Out</a>
 </div>
 
+</div>
+</div>
 
-<div class="white" id="wrapper">
+
+<div id="wrapper">
+<div id="messages">
 <div id="flash-messages">
+</div>
+<div id="notifications">
+
+
 </div>
 
 <div id="cart-expiration-messages">
 </div>
 
+
+</div>
 <div class="hidden-sm hidden-xs">
 <div id="categories-navbar-outline">
 <div id="categories-navbar-outline-inner"></div>
-<div id="categories-navbar-container">
+<div data-no-turbolink="" id="categories-navbar-container">
 <ul class="categories">
-<li class="">
-<a class="unstyled" href="/sf/shop/new"><span>NEW</span>
-</a></li>
+<li class="dropdown menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/sf/shop/all"><span>SHOP</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Section</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/all"><span>All</span>
+</a></div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/new"><span>New</span>
+</a></div>
+</div>
+</li>
+</ul>
+</li>
 <li class="dropdown menu">
 <div class="spacer"></div>
 <a class="unstyled" href="/sf/shop/sofas"><span>SOFAS</span>
@@ -308,6 +377,9 @@ $100.00 left until
 </div>
 <div class="subcategory-menu-item">
 <a class="unstyled" href="/sf/shop/chairs/stools">Stools</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/chairs/ottomans">Ottomans</a>
 </div>
 </div>
 <div class="subcategory-container">
@@ -526,9 +598,6 @@ $100.00 left until
 <a class="unstyled" href="/sf/shop/office/tables">Tables</a>
 </div>
 <div class="subcategory-menu-item">
-<a class="unstyled" href="/sf/shop/office/lighting">Lighting</a>
-</div>
-<div class="subcategory-menu-item">
 <a class="unstyled" href="/sf/shop/office/storage">Storage</a>
 </div>
 <div class="subcategory-menu-item">
@@ -538,23 +607,53 @@ $100.00 left until
 </li>
 </ul>
 </li>
+<li class="dropdown menu">
+<div class="spacer"></div>
+<a class="unstyled" href="/shop/collections"><span>COLLECTIONS</span>
+</a><ul class="subcategory dropdown-menu" role="menu">
+<li class="subcategory-menu">
+<div class="subcategory-container">
+<div class="subcategory-item-header">Types</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" data-analytics_event="Designer's Corner" data-analytics_location="Nav Bar" href="/sf/shop/designers_corner">Designer's Corner</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/themes">Themes</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/scenes">Scenes</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/sf/shop/rooms">Rooms</a>
+</div>
+<div class="subcategory-menu-item">
+<a class="unstyled" href="/neighborhoods">Neighborhoods</a>
+</div>
+</div>
+</li>
+</ul>
+</li>
 <li class="">
 <a class="unstyled" href="/sf/shop/sale"><span>SALE</span>
 </a></li>
 <li class="search">
-<form accept-charset="UTF-8" action="/sf/products" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+<form accept-charset="UTF-8" action="/products" id="search-form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
+<div class="ml-icon lens-icon-red-lg"></div>
 <input id="sort" name="sort" type="hidden" value="best_match">
-<input id="q" name="q" placeholder="SEARCH" type="text">
+<input class="search-input" id="desktop-q" name="q" placeholder="SEARCH" type="text">
+<div class="ml-icon x-black"></div>
 </form>
 
-<img alt="Search" src="/assets/new_icons/search-17f84418e14cf94e5d8d25ed8374c8f8.png">
+<div class="lens-icon-red ml-icon lens-icon-inactive"></div>
 </li>
 </ul>
 </div>
 </div>
 
 </div>
-<div id="page-content" role="main">
+</div>
+<div class="page_bg_white" id="lower-wrapper">
+<div class="container" id="page-content" role="main">
 <div id="mobile-disabler"></div>
 <div class="static-info" id="privacy-policy">
 <h1>MOVE LOOT INC. - PRIVACY STATEMENT</h1>
@@ -583,6 +682,7 @@ $100.00 left until
 <li><span style="text-decoration:underline;">Cookies</span>.  When you visit or access the Services, we send one or more cookies (small text files containing a string of characters) to your computer that uniquely identifies your browser.  We use cookies to improve the quality of the Services by storing user preferences and tracking user trends.  Most web browsers accept cookies automatically, but can be configured not to do so or to notify the user when a cookie is being sent.  If you wish to disable cookies, refer to your browser help menu to learn how to disable cookies.  Please note that if you disable cookies, you may not be able to use some customized features available through the Services.</li>
 <li><span style="text-decoration:underline;">Web Beacons</span>.  Web beacons (also known as “pixel tags” or “clear GIFs”) are 1x1 single-pixel graphics that allow us to count the number of users who have visited or accessed the Services and to recognize users by accessing our cookies.  We may employ web beacons to facilitate Services administration and navigation, to track the actions of users of the Services, to compile aggregate statistics about Services usage and response rates, and to provide an enhanced online experience for visitors to the Services.  We may also include web beacons in HTML-formatted e-mail messages that we send to determine which e-mail messages were opened.</li>
 <li><span style="text-decoration:underline;">Aggregate Information</span>.  We may also compile personal information and other information collected through the Services on an aggregate basis.  This information may include, without limitation, the number of people who have visited the Services and other user demographics.  Such aggregate information does not identify you individually.</li>
+<li><span style="text-decoration:underline;">Mobile Data</span>. When you access our Service by or through a mobile device, we may receive or collect and store a unique identification number associated with your device (“Device ID”), mobile carrier, location data via Wifi or GPS, device type and manufacturer, and phone number.</li>
 </ul>
 <h2>III. How We Use Personal Information</h2>
 <p>Personal information collected through the Services may be used by Company and its affiliates for purposes of:</p>
@@ -604,13 +704,15 @@ $100.00 left until
 <ul class="aligned">
 <li><span style="text-decoration:underline;">In Connection with our Offerings</span>.  The Services involve the sharing of personal information collected through the Services with (i) other users of the Services, (ii) your Social Network if you choose to connect via your Social Network (including users of your Social Network who are not users of the Services), and (iii) as you otherwise provide your consent.   Information which you upload, post, e-mail, submit or otherwise transmit in connection with the Services to a public message board, chat area or other public area of the Services becomes public information. You are solely responsible for any information you choose to post on or through the Services, and you may always choose not to divulge any personal information to the public when posting to a message board, chat area or other public area of the Services.  All information that is posted to a message board, chat area, or other public area of the Services  may be shared by us with others.</li>
 <li><span style="text-decoration:underline;">Social Network</span>.  When you first register for the Services via a Social Network (or at a later time by changing your privacy settings), you may choose whether your activities on the Services will be published on your Social Network and visible to other Social Network users, or if your activities will only be visible to you on your Social Network.   If you choose to make your activities visible to other Social Network users, your activities may be published on you Social Network, including without limitation on your Social Network news feed, timeline, and profile (as applicable). Your Social Network’s website is governed by its own Social Network’s terms of use and privacy policy, including, without limitation, privacy, password, and account security policies.  We do not exercise any control over your Social Network.  If you chose to connect to our Services via a Social Network, you should consult your Social Network’s privacy policy.  We are not responsible for your Social Network’s privacy practices, and we are not liable for your Social Network’s misuse of personal information about you.</li>
-<li><span style="text-decoration:underline;">Sales and Marketing</span>.  We enter into certain select marketing relationships with advertisers, suppliers and retailers and other companies that provide products or services that we believe may be of interest to users of the Services.  We will share personal information or any information collected through the Services with those sales and marketing affiliates in order to help them send you information that we believe will be of interest to you. You may opt-out from having your information shared with such sales and marketing affiliates by contacting us at support@moveloot.com.</li>
+<li><span style="text-decoration:underline;">Sales and Marketing</span>.  We enter into certain select marketing relationships with advertisers, suppliers and retailers and other companies that provide products or services that we believe may be of interest to users of the Services.  We will share personal information or any information collected through the Services with those sales and marketing affiliates in order to help them send you information that we believe will be of interest to you. You may opt-out from having your information shared with such sales and marketing affiliates by contacting us at hello@moveloot.com.</li>
 <li><span style="text-decoration:underline;">Subsidiaries and Affiliates</span>.  We may share personal information with our subsidiaries and affiliates for the purposes for which you provided the information or as reasonably necessary for our internal administrative and business purposes.</li>
 <li><span style="text-decoration:underline;">Third Party Service Providers</span>.  We work with third party service providers in connection with our offerings.  Such services may include moving and logistics services, payment card processors, website hosting, marketing, website usage analytics, advertising, customer service, and monitoring and maintaining the Services.  We may share personal information and non-personal information with these third parties for the purpose of enabling them to provide these services.  We do not bear any responsibility for any actions or policies of such third parties.</li>
 <li><span style="text-decoration:underline;">Consent</span>.  We may share personal information in accordance with any consent you provide.</li>
 <li><span style="text-decoration:underline;">Required by Law</span>.  We may disclose personal information or any information collected through the Services if we are required to do so by law or pursuant to legal process, in response to a request from government officials or law enforcement authorities, or as necessary or appropriate in connection with an investigation of illegal activity.</li>
 <li><span style="text-decoration:underline;">Certain Transactions</span>.  We may disclose or transfer personal information or any information collected through the Services to third parties who acquire all or a portion of Company’s business, whether such acquisition is by way of merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.</li>
 <li><span style="text-decoration:underline;">Non-Personal Information</span>.  We may share with third parties certain pieces of aggregated, non-personal information, such as the number of people who visited or accessed the Services, the number of profiles created by users of the Services, survey and rating information and other feedback provided by users of the Services.  Such information does not identify you individually.</li>
+<li><span style="text-decoration:underline;">Online Advertising</span>.  We may permit third party online advertising networks to collect information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or apps.  Companies like Google may also use this data to provide us with analytic and demographic information about our users.  Typically, the information we share is provided through cookies or similar tracking technologies.  The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device.  Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools.  (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit http://www.allaboutcookies.org  and/or the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org).  If you access our service on your mobile device, you may not be able to control tracking technologies through settings.</li>
+<li><span style="text-decoration:underline;">Do Not Track</span>.  As discussed above, we track website usage information through the use of cookies for analytic and internal purposes only.  Because we do not collect this information to track you across websites over time, your selection of the “Do Not Track” option provided by your browser will not have any effect on our collection of cookie information for analytics or internal purposes, though it may have an effect on the collection of cookie information by third party advertising networks on our site.  See Online Advertising above to learn more.</li>
 </ul>
 <h3>Aggregate Information</h3>
 <p>We may compile personal information and other information collected through the Services on an aggregate basis.  This information may include, without limitation, the number of users who have registered for the Services, demographic information about users of the Services, and individual purchase preferences.  Such aggregate information does not identify you individually.  We may use aggregate information and share aggregate information with third parties for any of the purposes specified in this Privacy Statement, and for any other lawful purpose.</p>
@@ -618,7 +720,7 @@ $100.00 left until
 <h3>A. Information You Provide</h3>
 <p>You can always choose whether or not to provide information on the Services.  However, if you choose not to disclose certain information, you may not be able to register as a user of the Services, which may limit your access to certain portions of the Services.</p>
 <h3>B. Communications From Us</h3>
-<p>If at any time you decide that you no longer wish to receive notices from us regarding the Services, you may indicate this preference by unsubscribing from our mailing list or contacting us at support@moveloot.com.</p>
+<p>If at any time you decide that you no longer wish to receive notices from us regarding the Services, you may indicate this preference by unsubscribing from our mailing list or contacting us at hello@moveloot.com.</p>
 <h3>C. Deleting your Account and the Application</h3>
 <p>You may delete your account by clicking on the “delete account” option under your account information on the www.moveloot.com website.</p>
 <p>You may uninstall the Application at any time from your mobile device.  To completely delete the Application, however, you must also remove it from your Social Network account.</p>
@@ -631,99 +733,101 @@ $100.00 left until
 <h2>X. Special Admonitions for International Use</h2>
 <p>The Services are hosted in the United States and are intended for use by residents of the United States of America only.  All matters relating to the Services are governed exclusively by the laws of the State of California in the United States of America and not the jurisdiction in which you are located.  If you are located outside of the United States of America and you contact us, please be advised that any information you provide to us will be transferred to the United States of America and that by submitting information, you explicitly authorize such transfer.</p>
 <h2>XI. Your California Privacy Rights</h2>
-<p>Under California Civil Code Section 1798.83 (also known as S.B. 27), if you are a California resident, you may request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year.   If you are a California resident and would like to make such a request, please send an email message to <a href="mailto:support@moveloot.com">support@moveloot.com</a> with “Request for California Privacy Information” in the subject line.  If applicable, we will provide you, by email, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties’ names and addresses. Please note that not all personal information sharing is covered by S.B. 27’s requirements.</p>
+<p>Under California Civil Code Section 1798.83 (also known as S.B. 27), if you are a California resident, you may request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year.   If you are a California resident and would like to make such a request, please send an email message to <a href="mailto:hello@moveloot.com">hello@moveloot.com</a> with “Request for California Privacy Information” in the subject line.  If applicable, we will provide you, by email, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties’ names and addresses. Please note that not all personal information sharing is covered by S.B. 27’s requirements.</p>
 <h2>XII. Updates to this Privacy Statement</h2>
 <p>We may change or update the Services or any of our policies and procedures without prior notice.  We will post a notice on the Services to advise you of any significant changes to this Privacy Statement and indicate via the “Last Updated” legend at the bottom of this Privacy Statement when it was most recently updated.  Your continued use of the Services signifies your continued assent to the terms of this Privacy Statement, as updated or amended at that time.</p>
 <h2>XIII. Questions Regarding this Privacy Statement</h2>
-<p>If you have any questions or comments regarding this Privacy Statement, please send us an email at <a href="mailto:support@moveloot.com">support@moveloot.com</a>.</p>
-<p>Last Updated: September 12, 2013</p>
+<p>If you have any questions or comments regarding this Privacy Statement, please send us an email at <a href="mailto:hello@moveloot.com">hello@moveloot.com</a>.</p>
+<p>Last Updated: January 23, 2015</p>
 </div>
 </div>
 
 </div>
 </div>
-<div class="visible-sm visible-xs mobile-footer">
+<div class="visible-sm visible-xs mobile-footer hidden-print">
 <div class="footer-link">
-<a href="/contact?service_area=sf">Contact</a>
+<a href="/contact">Contact</a>
 </div>
 <div class="footer-link">
-<a href="/about_us?service_area=sf">About</a>
+<a href="/about_us">About</a>
 </div>
 <div class="footer-link">
-<a href="/how_it_works?service_area=sf">How it works</a>
+<a href="/how_it_works">How it works</a>
 </div>
+<div class="footer-link">
+<a href="https://itunes.apple.com/us/app/move-loot/id883723244?mt=8"><img alt="Appstore download" src="/assets/appstore_download-77a7b176fcdc95e250756526bd44bdc3.png" style="width: 140px; margin-top: 1rem; margin-bottom: 1rem;">
+</a></div>
 <div class="share-icons">
 <p>
 <span>
 <a class="pinterest" href="http://www.pinterest.com/moveloot" target="_blank">
-<img alt="Pinteresticon" src="/assets/new_icons/PinterestIcon-18e66aef7f1f524ce9dd117c92ca6d48.png">
+<img alt="Pinterest" src="/assets/icons/pinterest-6f2492bbefbe1675a8c316db93ffcbf9.png">
 </a>
 <a class="facebook" href="http://facebook.com/moveloot" target="_blank">
-<img alt="Facebookicon" src="/assets/new_icons/FacebookIcon-116f498c3a777c8e0c282e3446b6fe19.png">
+<img alt="Facebook" src="/assets/icons/facebook-2c05a7e7ee747ba8bbe366daf3ef690a.png">
 </a>
 <a class="twitter" href="https://twitter.com/MoveLoot" target="_blank">
-<img alt="Twittericon" src="/assets/new_icons/TwitterIcon-25eb011627a151fd5677e2d9a26d783b.png">
+<img alt="Twitter" src="/assets/icons/twitter-52664180b8814a0a600f1cce5187bc53.png">
 </a>
 <a class="instagram" href="http://instagram.com/moveloot" target="_blank">
-<img alt="Instaicon" src="/assets/new_icons/InstaIcon-39ff9dfef5093c7b73e91953e2bd4832.png">
+<img alt="Instagram" src="/assets/icons/instagram-f41d690297d35469f497ec48862852db.png">
 </a>
 </span>
 </p>
 </div>
 </div>
-<div class="hidden-xs hidden-sm" id="footer">
-<b class="caret products_index_visible"></b>
+<div class="hidden-sm hidden-xs page_bg_white" id="footer">
 <div id="sell-link">
 <h3>
-<a href="/sf/sell">Want to sell some furniture?</a>
-<img alt="Truckicon small" src="/assets/new_icons/TruckIcon_Small-87272e7cd23c6de1b1e83203d4dbd510.png">
+<a href="/sell">Want to sell some furniture?</a>
+<img alt="Truck icon sm" src="/assets/icons/truck_icon_sm-9cd2a45b48a1634beebc4e51a15c104d.png">
 </h3>
 </div>
 <div class="container">
-<div class="row">
+<div class="row footer-row">
 <div class="col-xs-4 col-sm-2">
 <h5>SUPPORT</h5>
 <ul class="footer-link-list">
-<li><a href="/contact?service_area=sf">Contact</a></li>
-<li><a href="/how_it_works?service_area=sf">How it works</a></li>
-<li><a href="/sf/faq">FAQ</a></li>
-<li><a href="/sf/moving_services">Moving Services</a></li>
-<li><a href="/delivery_policy?service_area=sf">Delivery</a></li>
-<li><a href="/return_policy?service_area=sf">Returns</a></li>
-<li><a href="/seller_details?service_area=sf">Selling details</a></li>
-<li><a href="/buyer_details?service_area=sf">Buying details</a></li>
-<li><a href="/sf/events">Events</a></li>
-<li><a href="/sf/partnership_program">Partnerships</a></li>
+<li><a href="http://support.moveloot.com/" target="_blank">FAQ</a></li>
+<li><a href="/contact">Contact</a></li>
+<li><a href="/how_it_works">How it works</a></li>
+<li><a href="/seller_details">Selling details</a></li>
+<li><a href="/buyer_details">Buying details</a></li>
 </ul>
 </div>
 <div class="col-xs-4 col-sm-2">
 <h5>COMPANY</h5>
 <ul class="footer-link-list">
-<li><a href="/about_us?service_area=sf">About</a></li>
+<li><a href="/about_us">About</a></li>
 <li><a href="http://blog.moveloot.com">Blog</a></li>
-<li><a href="/press?service_area=sf">Press</a></li>
+<li><a href="/press">Press</a></li>
 <li><a href="https://jobs.lever.co/moveloot/">Careers</a></li>
+<li><a href="/events">Events</a></li>
+<li><a href="/partnership_program">Partnerships</a></li>
 </ul>
 </div>
 <div class="col-xs-4 col-sm-3">
 <h5>LEGAL</h5>
 <ul class="footer-link-list">
-<li><a href="/consignment_agreement?service_area=sf">Consignment Agreement</a></li>
-<li><a href="/terms?service_area=sf">Terms and Conditions</a></li>
-<li><a href="/privacy_policy?service_area=sf">Privacy Policy</a></li>
+<li><a href="/consignment_agreement">Consignment Agreement</a></li>
+<li><a href="/terms">Terms and Conditions</a></li>
+<li><a href="/privacy_policy">Privacy Policy</a></li>
+<li><a href="/delivery_policy">Delivery Policy</a></li>
+<li><a href="/return_policy">Return Policy</a></li>
 </ul>
 </div>
 <div class="col-xs-12 col-sm-4 col-sm-offset-1">
 <h5>SIGN UP FOR OUR NEWSLETTER</h5>
-<form accept-charset="UTF-8" action="/mailing_list/signup?service_area=sf" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="qOG8+F1Y9oMBoy9l9KwrDpARrN4ORBuRxNUAaCkM+tU="></div>
+<form accept-charset="UTF-8" action="/mailing_list/signup" class="form-standard mailing-list-signup " method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="HoiB281nXzKFeE7rMwW0mMfnd27G+3x0bhFi26zgV3w="></div>
+<input id="event_source" name="event_source" type="hidden" value="footer">
 <div class="form-group">
-<div class="input-group">
+<div class="input-group email">
 <div class="input-group-addon">
 <div class="fa fa-envelope"></div>
 </div>
-<input class="form-control" id="email" name="email" type="text" value="">
+<input class="form-control" id="email" name="email" type="email" value="">
 <div class="input-group-btn">
-<input class="btn btn-primary" name="commit" type="submit" value="Subscribe">
+<input class="btn btn-primary" name="commit" type="submit" value="JOIN">
 </div>
 </div>
 </div>
@@ -731,31 +835,35 @@ $100.00 left until
 
 
 <div class="share-icons">
-<h5>OUR SOCIAL MEDIAS</h5>
+<h5>FOLLOW US ON SOCIAL</h5>
 <p>
 <span>
 <a class="pinterest" href="http://www.pinterest.com/moveloot" target="_blank">
-<img alt="Pinteresticon" src="/assets/new_icons/PinterestIcon-18e66aef7f1f524ce9dd117c92ca6d48.png">
+<img alt="Pinterest" src="/assets/icons/pinterest-6f2492bbefbe1675a8c316db93ffcbf9.png">
 </a>
 <a class="facebook" href="http://facebook.com/moveloot" target="_blank">
-<img alt="Facebookicon" src="/assets/new_icons/FacebookIcon-116f498c3a777c8e0c282e3446b6fe19.png">
+<img alt="Facebook" src="/assets/icons/facebook-2c05a7e7ee747ba8bbe366daf3ef690a.png">
 </a>
 <a class="twitter" href="https://twitter.com/MoveLoot" target="_blank">
-<img alt="Twittericon" src="/assets/new_icons/TwitterIcon-25eb011627a151fd5677e2d9a26d783b.png">
+<img alt="Twitter" src="/assets/icons/twitter-52664180b8814a0a600f1cce5187bc53.png">
 </a>
 <a class="instagram" href="http://instagram.com/moveloot" target="_blank">
-<img alt="Instaicon" src="/assets/new_icons/InstaIcon-39ff9dfef5093c7b73e91953e2bd4832.png">
+<img alt="Instagram" src="/assets/icons/instagram-f41d690297d35469f497ec48862852db.png">
 </a>
 </span>
 </p>
 </div>
+<div class="app-download" style="margin-top: 1rem;">
+<h5>DOWNLOAD OUR MOBILE APP</h5>
+<a href="https://itunes.apple.com/us/app/move-loot/id883723244?mt=8"><img alt="Appstore download" src="/assets/appstore_download-77a7b176fcdc95e250756526bd44bdc3.png" style="width: 120px">
+</a></div>
 </div>
 </div>
 <div class="row text-center">
 <div class="col-md-12">
 <p>
 </p><div class="copyright-notice">
-Copyright © 2014 Move Loot Inc. All Rights Reserved.
+Copyright © 2015 Move Loot Inc. All Rights Reserved.
 </div>
 <p></p>
 </div>
@@ -764,36 +872,87 @@ Copyright © 2014 Move Loot Inc. All Rights Reserved.
 </div>
 
 <div id="service-area-switch-modal">
+<a data-close-service-area-modal="#service-area-switch-modal" href="#">
+<div class="ml-icon x-black"></div>
+</a>
 <div class="container">
 <div class="row">
-<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+<div class="col-sm-10 col-sm-offset-1">
+<div class="service-area-switch-menu">
 <div class="header">
 <h3>PICK YOUR LOCATION</h3>
-<a data-close-service-area-modal="#service-area-switch-modal" href="#">
-<img alt="X icon red" src="/assets/new_icons/x_icon_red-e7201f54e3157ec8834150fb90136b9d.png">
-</a>
 </div>
-<ul>
-<li>
-<a href="/sf"><img alt="Sf location image" src="/assets/SF_location_image-e5b13c01708de32a3fc08893afc50cdf.jpg">
-</a></li>
-<li>
-<a href="/rdu"><img alt="Rdu location graphic" src="/assets/RDU_location_graphic-8c0c67872918cdba99a413cdb3380c79.jpg">
-</a></li>
+<ul class="service-areas panel-group" id="service-area-accordion">
+<div class="service-area wc panel">
+<div class="name">
+West Coast
+</div>
+<div class="collapse in" id="wc-collapse-menu">
+<div class="regions">
+<a href="/sf?service_area=wc" id="change-region-to-sf"><div class="region-tile">
+<div class="region-graphic sf text-center">
+<p>SF Bay Area</p>
+</div>
+</div>
+</a><a href="/la?service_area=wc" id="change-region-to-la"><div class="region-tile">
+<div class="region-graphic la">
+<p>Los Angeles</p>
+</div>
+</div>
+</a></div>
+</div>
+</div>
+<div class="service-area ec panel">
+<div class="name">
+East Coast
+</div>
+<div class="collapse in" id="ec-collapse-menu">
+<div class="regions">
+<a href="/ny?service_area=se" id="change-region-to-atl"><div class="region-tile">
+<div class="region-graphic ny">
+<p>New York</p>
+</div>
+</div>
+</a><a href="/rdu?service_area=se" id="change-region-to-rdu"><div class="region-tile">
+<div class="region-graphic rdu">
+<p>Raleigh-Durham</p>
+</div>
+</div>
+</a><a href="/clt?service_area=se" id="change-region-to-clt"><div class="region-tile">
+<div class="region-graphic clt">
+<p>Charlotte</p>
+</div>
+</div>
+</a><a href="/atl?service_area=se" id="change-region-to-atl"><div class="region-tile">
+<div class="region-graphic atl">
+<p>Atlanta</p>
+</div>
+</div>
+</a></div>
+</div>
+</div>
 </ul>
-<h4>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-8 col-sm-offset-2">
+<div class="cant-find">
+<h5 class="center">Can't find your city?</h5>
+<p>
 If your city isn't listed, fret not! We are expanding quickly so check back soon to see if we are
 coming your way or sign up for our newsletter to hear updates about new Move Loot locations.
-</h4>
-<form accept-charset="UTF-8" action="/mailing_list/signup?service_area=sf" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="lSvCayT4FhBSX0S0fsNeWIhPKJnRaVBbNybhuWYYsdA="></div>
+</p>
+<form accept-charset="UTF-8" action="/mailing_list/signup" class="form-standard mailing-list-signup " method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="HoiB281nXzKFeE7rMwW0mMfnd27G+3x0bhFi26zgV3w="></div>
+<input id="event_source" name="event_source" type="hidden" value="service_area_switcher">
 <div class="form-group">
-<div class="input-group">
+<div class="input-group email">
 <div class="input-group-addon">
 <div class="fa fa-envelope"></div>
 </div>
-<input class="form-control" id="email" name="email" type="text" value="">
+<input class="form-control" id="email" name="email" type="email" value="">
 <div class="input-group-btn">
-<input class="btn btn-primary" name="commit" type="submit" value="Subscribe">
+<input class="btn btn-primary" name="commit" type="submit" value="JOIN">
 </div>
 </div>
 </div>
@@ -804,8 +963,8 @@ coming your way or sign up for our newsletter to hear updates about new Move Loo
 </div>
 </div>
 </div>
+</div>
 
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <div class="device-xs visible-xs"></div>
 <div class="device-sm visible-sm"></div>
 <div class="device-md visible-md"></div>
@@ -1005,6 +1164,12 @@ coming your way or sign up for our newsletter to hear updates about new Move Loo
 
 </div>
 </div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
