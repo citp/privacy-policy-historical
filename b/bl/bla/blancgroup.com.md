@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blancgroup.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315055419id_/http%3A//blancgroup.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blancgroup.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910202634id_/http%3A//blancgroup.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BLANC & ECLARE
 
-This privacy policy governs the manner in which BLANC Group collects, uses, maintains and discloses information collected from users, and applies to your use of our website located at [http://www.blancgroup.com](http://www.blancgroup.com/).
+This privacy policy governs the manner in which BLANC & ECLARE collects, uses, maintains and discloses information collected from users, and applies to your use of our website located at [http://www.blancgroup.com](http://www.blancgroup.com/).
 
 Please carefully read our privacy policy, because by using the site you consent to be bound by the terms of this privacy policy, effective the date listed above. Please also review our other terms and conditions available, as they govern the use of our website. When used in his privacy policy, “we,” “our,” and similar terms means BLANC & ECLARE, and “you,” “yours,” “user,” “customer” and similar terms refer to you.
 
@@ -56,18 +56,22 @@ How to limit the use of personal information
 
 If you prefer not to have personal information collected from you (other than when making a purchase on our website), or to set your preferences concerning promotional communications, please follow the directions below.  In addition, any promotional or marketing email we send to you will include a link to our privacy policy and a link to use to opt out of receiving further promotional emails from us. If you prefer that we not share personal information provided by you with third parties for promotional and marketing purposes, please let us know by emailing us as described below and identity the personal information that do not wish us to share. We will process your instruction as soon as reasonably practicable and in accordance with applicable law.
 
-Email us: [info.english@blancgroup.com](mailto:info.english@blancgroup.com) from the email address which you wish to have removed and include your postal mailing address in the message; or 
+Email us: [info@blancgroup.com](mailto:info.english@blancgroup.com) from the email address which you wish to have removed and include your postal mailing address in the message; or 
 
 Write us:
 
-c/o BLANC Group
+c/o BLANC & ECLARE
 
-14/F, The Broadway
+NVO Air Terminal
 
-54-62 Lockhart Road
+Unit D & E , 8 floor
 
-Wanchai, Hong Kong
+Sunshine Kln Bay Cargo Centre
+
+59 Tai Yip Street, Kowloon Bay,
+
+Kowloon, H.K.
 
 Contact us:
 
-To contact us with your questions or comments, please email us at [info.english@blancgroup.com](mailto:info.english@blancgroup.com).
+To contact us with your questions or comments, please email us at [info@blancgroup.com](mailto:info.english@blancgroup.com).
