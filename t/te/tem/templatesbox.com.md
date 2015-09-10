@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the templatesbox.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316231137id_/http%3A//www.templatesbox.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatesbox.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910111056id_/http%3A//www.templatesbox.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy - Templates Box
+# Privacy policy - Templates Box - TemplatesBox.com
 
 TemplatesBox.com collects personal information only with your permission at the time of registration. The information you provide will never be provided to anyone and cannot be accessed by anyone except our accounts and customer service teams.
 
