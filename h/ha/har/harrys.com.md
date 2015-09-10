@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316222140id_/https%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrys.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910140709id_/https%3A//www.harrys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harry's - Great Shave. Fair Price. Simple.
 
-This Privacy Policy describes the policies and procedures of ADKM, Inc. d/b/a Harry’s Razor Company (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.harrys.com (the “Site”) and the services, features, content, applications, and products we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
+This Privacy Policy describes the policies and procedures of HF Global, Inc. d/b/a Harry’s (“we”, “our” or “us”) on the collection, use and disclosure of your information on www.harrys.com (the “Site”) and the services, features, content, applications, and products we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
 ## What Does This Privacy Policy Cover?
 
@@ -102,7 +102,7 @@ We otherwise store all of our information, including your IP address information
 
 If you are a registered user, you can access information associated with your Account by logging into the Services. Registered and unregistered users can access and delete cookies through their web browser settings.
 
-California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: ADKM, Inc., c/o Andy Katz-Mayfield, 161 Avenue of the Americas, Floor 8, New York, NY 10013.
+California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: HF Global, Inc., 161 Avenue of the Americas, Floor 8, New York, NY 10013.
 
 ## How Can I Delete My Account?
 
@@ -126,4 +126,4 @@ If you have any questions or concerns regarding privacy using the Services, plea
 
 ## Effective Date:
 
-March 3, 2014
+April 6, 2015
