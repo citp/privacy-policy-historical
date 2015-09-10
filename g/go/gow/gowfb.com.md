@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316162235id_/https%3A//www.gowfb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910034920id_/https%3A//www.gowfb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoWFB.com
 
