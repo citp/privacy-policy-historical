@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the 1and1.ca privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316050149id_/http%3A//www.1and1.ca/PrivacyPolicy%3F__lf%3DStatic%26linkOrigin%3D%26linkId%3Dft.nav.privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1and1.ca privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910135617id_/http%3A//www.1and1.ca/terms-policy-privacy%3F__lf%3DStatic) for the most accurate reproduction.*
 
-# 1&1 Internet - Privacy Policy
+# 1&1 Internet T&C - Privacy policy
 
 1&1 Internet Inc. has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which 1&1 Internet Inc. (1&1) uses, maintains and discloses information collected from its customers and users of its website. This website is not directed at children under 13 years of age.
 
 ## Information We Collect
 
-1&1 may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information. 
+1&1 may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information.
 
-The data we collect is information that identifies you personally, such as: 
+The data we collect is information that identifies you personally, such as:
 
   * Your name
   * E-mail address
@@ -20,7 +20,7 @@ The data we collect is information that identifies you personally, such as:
 
 
 
-1&1 may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies. 
+1&1 may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies.
 
 ## What are Cookies?
 
@@ -73,3 +73,5 @@ California Civil Code \xA71798.83 permits our visitors who are California reside
 Chesterbrook, PA 19087
 
 ## Questions
+
+This website utilizes Mouseflow, a web analysis tool from Mouseflow ApS, to record randomly selected individual visits (only with anonymous IP address). This results in a log of mouse movements and clicks intended to analyze random single site visits to derive potential site improvements. Information is not personally identifiable and will not be shared. Mouseflow can be disabled at the following link:[www.mouseflow.com/opt-out/](http://www.mouseflow.com/opt-out/)
