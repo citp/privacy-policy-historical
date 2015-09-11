@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2015-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150413042100id_/http%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paessler.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911134848id_/https%3A//www.paessler.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Paessler AG's Privacy Policy
-
-## We Protect Your Personal Data!
-
-We take the safety of your personal data very seriously. The acquisition of personal  
-data takes place according to prescribed legal regulations. Below you can discern  
-when personal data is stored while using our Internet offers, as well as how we use the same.
-
-  
-
 
 ### Visiting The Website
 
@@ -43,7 +34,7 @@ We use these features of Google Adwords to target past visitors across the inter
 
 [At any time, you may decline the collection and storage of your data in the future](http://tools.google.com/dlpage/gaoptout?hl=en). Pursuant to the discussion about the use of analytical tools with complete IP addresses, please note that this website uses Google Analytics with the extension "get_anonymizeIP()." Therefore, IP addresses are processed in abbreviated and anonymized form to prevent direct identification of a particular person.
 
-This website also uses Kissmetrics, a web analytics service provided by Space Pencil, Inc. Kissmetrics only uses first-party cookies for identifying users. This information is cleared when you clear your browser cookies. You can opt out by using the Do Not Track header: Kissmetrics will not record any information about the people who have enabled it. Alternatively, you can opt out using the opt-out link at the Kissmetrics website: <http://www.kissmetrics.com/user-privacy>
+This website also uses Kissmetrics, a web analytics service provided by Space Pencil, Inc. Kissmetrics only uses first-party cookies for identifying users. This information is cleared when you clear your browser cookies. You can opt out using the opt-out link at the Kissmetrics website: <http://www.kissmetrics.com/user-privacy>
 
 In addition, this website uses Optimizely, a range of website analytics services for A/B and multivariate testing purposes provided by Optimizely, Inc. This service uses cookies to identify a visitor's browser and track website usage while on this website. The cookies do not collect personal information about you. For more information on how Optimizely uses your data, please go to: <http://www.optimizely.com/privacy>.  You can opt out anytime by following the instruction at <http://www.optimizely.com/opt_out>.
 
