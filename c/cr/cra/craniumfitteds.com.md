@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craniumfitteds.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423111747id_/http%3A//www.craniumfitteds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craniumfitteds.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911141035id_/http%3A//www.craniumfitteds.com/privacy.html) for the most accurate reproduction.*
 
-# New Era Caps, Snapbacks, Bucket Hats, T-Shirts, Streetwear USA Cranium Fitteds
+# Snapbacks, Custom Fitted Hats & Streetwear Clothing Online - CraniumFitteds.com
 
 **What information do we collect?**
 
