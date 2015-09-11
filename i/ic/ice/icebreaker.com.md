@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icebreaker.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325174205id_/http%3A//www.icebreaker.com/en/customer-service/privacy-policy/service-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icebreaker.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911180944id_/http%3A//www.icebreaker.com/en/customer-service/privacy-policy/service-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**  Last Updated:  April 15, 2014**
+**  Last Updated:  May 22nd, 2015**
 
 This Privacy Policy ("Policy") describes how personal information about you is collected, used and disclosed by Merino Retail, Inc. and our subsidiaries and affiliates (collectively, "Icebreaker") with respect to your use of our websites where this Policy is posted.  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -86,6 +86,36 @@ We will retain your information for as long as your account is active or as need
 **Social Media Widgets**
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Twitter button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**User Generated Content**
+
+When you transmit, upload, post, email or otherwise make available data, text, software, music, sounds, photographs, images, graphics, designs, artwork, messages or other materials created or sourced by you (“User Content”) to Icebreaker and/or on Icebreaker.com or any other website, internet site or application (including mobile device applications) that is owned, operated, controlled or sponsored by Icebreaker, you agree and acknowledge the following:
+
+**Suitable content**
+
+The User Content must not violate any law, contain any commercial messages, or comparisons or solicitations for products or services, be offensive, defamatory, sexually explicit, violent, vulgar, derogatory of any ethnicity , race, gender, religion, profession or age group, promote any political agenda, promote alcohol, drugs, tobacco, firearms/weapons, promote, include or refer to activities that may be harmful or illegal, and/or any other content that is considered inappropriate or unsuitable as determined by Icebreaker at its sole discretion.
+
+**No Intellectual property rights infringement**
+
+You warrant that the User Content is your original work and/or that you own the intellectual property rights in the User Content, and that the User Content does not infringe on any copyright, trade mark or other intellectual property rights of any other person or organisation. 
+
+You waive your moral rights in relation to the User Content and you will not assert such rights against Icebreaker, its sublicensees or assigns. 
+
+**No privacy rights infringement**
+
+If the User Content incorporates personal information, including the identity or image of any individual, you confirm that the individual concerned has consented to the use of the image and personal information. 
+
+**Removal of User Content**
+
+Icebreaker may, with or without any notice to you, at its sole discretion and for any reason, remove, modify or block access to any User Content.
+
+**Licence granted to Icebreaker**
+
+You grant Icebreaker a non-exclusive, perpetual, worldwide, irrevocable, royalty free, transferrable and sublicensable right to use, modify, edit and display the User Content, including copyright in the User Content, in any media known now or in the future. 
+
+**No liability for User Content**
+
+Icebreaker makes no representations or warranties as the accuracy, reliability, lawfulness or completeness of any User Content, and takes no responsibility for the use of or reliance on, any User Content by you or any third party. 
 
 **Notification of Privacy Policy Changes**
 
