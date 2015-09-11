@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreejewelrymaking.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610011518id_/http%3A//www.allfreejewelrymaking.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreejewelrymaking.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911054348id_/http%3A//www.allfreejewelrymaking.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeJewelryMaking.com
 
