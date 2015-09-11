@@ -1,40 +1,63 @@
-> *The following text is extracted and transformed from the pax.com privacy policy that was archived on 2015-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150206001708id_/http%3A//www.pax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pax.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911163649id_/https%3A//www.paxvapor.com/privacy-policy) for the most accurate reproduction.*
 
-# Pax.com - Privacy Policy
+# Privacy Policy | PAX
 
-This is the web site of Pax.com, LLC.
+#### Introduction
 
-Our postal address is
+PAX Labs, Inc. (“PAX Labs”, “us” or “we”) recognizes the importance of protecting your personal information and privacy. This privacy policy addresses how information is collected, stored, and utilized. In continuing to use paxvapor.com and/or by purchasing products from this website, you are accepting the practices described in this Privacy Policy.
 
-411A Highland Ave, Suite 352  
-Somerville MA 02144
+#### Changes to this Privacy Policy
 
-We can be reached via e-mail at contact@pax.com
+PAX Labs reserves the right to change this Privacy Policy at any time for any reason. If changes are made to our policies, account holders will receive a notification either via e-mail or upon logging onto their account. For all other visitors to the Website, it is your sole responsibility to check the Privacy Policy Webpage when visiting our website for any updates.
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+#### Information Collected
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, payment information (e.g., credit card number and billing address).
+PAX Labs holds our customer base in the highest regards and is dedicated to providing the best experience on paxvapor.com. In order to offer an enjoyable and premium experience on our website it is necessary to collect aggregate and personal information.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, shared with other reputable organizations to help them contact consumers for marketing purposes, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+Account creation is required when purchasing tobacco products, but we do recommend all visitors create an online account and sign up for PAX Labs’ newsletter. With the creation of your account and/or Newsletter subscription we collect your name, date of birth, e-mail address, billing address and shipping address. By providing this information you will save time when ordering products and will receive exclusive offers where legally permitted. If you wish to discontinue ordering products from PAX Labs or no longer receive exclusive offers you may deactivate your account or unsubscribe from our Newsletter at any time.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
+In addition we also send your computer a small data file called a cookie. Cookies supply us with information such as your domain name, browser type, operating system, IP address, web pages viewed while visiting our site, links clicked, length of time spent on our website, and reference website from which you accessed paxvapor.com. In gathering this information we are able to enhance your experience when visiting our website (including keeping your preferences and items placed in your shopping cart between visits). These cookies do not contain or track sensitive information such as your payment information.
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting us at the address above.
+#### Use of Information Collected
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by visiting us at the above addresses.
+PAX Labs utilizes information that is collected in various ways. Information collected helps our efforts to advance our customers’ and visitors’ online experience when visiting paxvapor.com. This ranges from accessibility, improving content, customer service, shopping checkout experience and overall website satisfaction.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
+When signing up for our Newsletter and exclusive offers we will use information gathered to send these communications electronically.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by visiting us at at the address above. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
+We use various third party vendors, service providers, contractors or agents who perform functions on our behalf. It may become necessary to share information with such entities; however, this is only done so when those entities are performing functions solely on our behalf and they are not permitted to store such information except as needed to perform our work or as required by law.  Further, we require such third parties to protect your personal information. 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+If PAX Labs is acquired by or merged with another company, all of our assets, including information that has been collected, will be transferred to the new entity.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by visiting us at the above addresses.
+The products sold on this website are highly regulated by various governing agencies. It may become necessary to share the information that we collect with such agencies to comply with laws, a judicial proceeding, court order, or other legal requests.
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+We also may disclose information that has been collected where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud and/or counterfeit, situations involving potential threats to the safety of any person, violations of our Terms & Conditions or Privacy Policy, or as evidence in litigation in which PAX Labs is involved.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers, transaction information, communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by writing to us at the above address.
+#### Age Verification
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+The products that we sell on our website are highly regulated and age-restricted. We are required and committed to preventing sales to anyone under the legal tobacco purchasing age. We will only send you marketing materials and information after you have certified that 1) you are a tobacco consumer of legal tobacco purchasing age; 2) that you wish to be added to our mailing list for the purpose of receiving offers and advertising from a tobacco company; and 3) that you understand that providing false information may constitute a violation of the law. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
+Before we add you to our mailing list, we will verify your age through a non-affiliated third party company, Veratad Technologies, LLC, to perform an age and identify verification check for adherence to this requirement. We utilize Veratad’s AgeMatch and IDMatch Verification services to perform these checks. Veratad uses billons of records from multiple trusted data sources to verify the information that you provide and ensure that you qualify to access and purchase products from paxvapor.com. This process has been developed with the customer’s privacy in mind, and checks are secure with detailed information neither shared nor accessible.
+
+In some cases Veratad might not be able to verify your age and/or identity through their verification service. If you are unable to verify your age, you will be requested to upload a copy of your government ID that our support team can manually verify your date of birth. Photo ID's are uploaded to Veratad's secure database and all files are deleted within 72 hours or less. 
+
+#### Children’s Privacy
+
+This website is not intended for nor targeted at children under the legal tobacco purchasing age. Despite this fact, we are concerned about the safety and privacy of children who may access our website. Consistent with the Children’s Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information for anyone under the age of 13 years old without prior verifiable parental consent. If we become aware that a child under 13 has provided us with personally identifiable information without verifiable parental consent, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without verifiable parental consent, he or she should contact us immediately. 
+
+#### California Do Not Track Compliance
+
+PAX Labs does not track information when a Do Not Track (DNT) signal is received from your computer. However, some third party sites do keep track of your browsing activities even when a Do Not Track (DNT) signal is received. paxvapor.com utilizes third party sites to provide content to Pax Labs customers such as social media features. These third party sites may set cookies on a your browser and/or obtain your IP address. Third parties are not permitted to collect your identifiable information from paxvapor.com unless you provide it to them directly. 
+
+If you are a California resident, you have the right to receive, once per year, free of charge, 1) the identity of any third party company to which we have disclosed your personal information for that company’s direct marketing purpose; and 2) a description of the categories of personal information disclosed.  To request this information, please contact us at [legal@pax.com](mailto:legal@pax.com).
+
+#### Third Party Websites
+
+Our website contains links establishing a connection between paxvapor.com and websites operated by third parties. PAX Labs does not control nor does this Privacy Policy or the Terms & Conditions apply to these third party websites. Links should be clicked at your own risk and it is your sole responsibility to review the Privacy Policy and Terms & Conditions of any third party website accessed. 
+
+#### Security
+
+Our website supports the industry standard Secure Socket Layer (SSL) encryption which is applied to all data transmitted so it cannot be read by others. We are dedicated to ensure that the information you share with us is secure. In addition, if you are using a shared computer, we recommend that you log out of your account before ending your browser session. This will also ensure that your account will not be used by anyone other than yourself. 
+
+#### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at [legal@pax.com](mailto:legal@pax.com).
