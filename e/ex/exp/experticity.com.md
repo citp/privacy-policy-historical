@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experticity.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318224807id_/http%3A//www.experticity.com/business/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experticity.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911090735id_/http%3A//www.experticity.com/business/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Experticity.com
 
@@ -24,7 +24,7 @@ Effective Date: 9/22/2014
 
 Version:  
 United States, Mexico; South Africa; Colombia; Venezuela; Peru; Ecuador; Chile, Uruguay, Brazil; Singapore; Philippines; Indonesia; Malaysia; Thailand; Japan, People’s Republic of China; New Zealand  
-Effective Date: 09/22/2014 
+Effective Date: 09/22/2014
 
 This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”). By using our site, registering for our services, or by choosing to submit personal information to eXperticity through the site, you agree to the terms of this Privacy Policy (“Policy”). You are not required to provide any personal information, but if you choose not to, you may not be able to access certain information or areas of the site. If you do not agree with any terms of this Policy, please do not use this Site or submit any personal information to eXperticity.
 
@@ -36,7 +36,7 @@ To the extent identification is required by local law, the data controller is eX
 
 When you visit our site, we collect personal information about you (including, name, address, telephone number, email address, username, password) (“Personally Identifying Information”) when you fill out forms, communicate with us through our site, or create an online profile.
 
-We also collect certain information about your use of our site such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information. 
+We also collect certain information about your use of our site such as information about your computer, including your IP address, the type of browser you are using, and your computer’s operating system. Except as otherwise explained in this Policy or as may be prohibited by law, we may combine this information with your personal information.
 
 #### Online Profile
 
@@ -70,8 +70,7 @@ We will not disclose your Personally Identifying Information to third parties ex
 
 We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out these purposes. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative, technical support, or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Policy, and to provide adequate protection for the Personally Identifying Information.
 
-We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.  
-
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
 
 ### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
 
@@ -82,8 +81,7 @@ We are concerned about the accuracy, currency, and completeness of the Personall
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
@@ -117,8 +115,8 @@ Experticity has further committed to refer unresolved privacy complaints under t
 
 ## PRIVACY POLICY
 
-Version: United Kingdom & European Union   
-Effective Date: 9/22/2014 
+Version: United Kingdom & European Union  
+Effective Date: 9/22/2014
 
 This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”).
 
@@ -132,7 +130,7 @@ When you visit our site, we collect personal information about you (including, n
 
 We also collect certain information about your use of our site such as information about your computer, including the type of browser you are using and your computer’s operating system. Except as otherwise explained in this Privacy Policy or as may be prohibited by law, we may combine this information with your personal information.
 
-To the extent required by local law, the data controller is eXperticity, Inc., of 9 Exchange Plaza, Suite 1000, Salt Lake City, Utah 84111 
+To the extent required by local law, the data controller is eXperticity, Inc., of 9 Exchange Plaza, Suite 1000, Salt Lake City, Utah 84111
 
 #### Online Profile
 
@@ -166,7 +164,7 @@ We will not disclose your Personally Identifying Information to third parties ex
 
 We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out the uses discussed in this Privacy Policy. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative or technical support, for other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to third party processor, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Privacy Policy, and to provide adequate protection for the Personally Identifying Information.
 
-We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent. 
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
 
 ### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
 
@@ -177,10 +175,9 @@ We are concerned about the accuracy, currency, and completeness of the informati
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
+Salt Lake City, Utah 84111
 
-
-We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated. 
+We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
 You may cancel your registration to our site and/or request the removal of your Personally Identifying Information from our visitor records by sending an email at http://www.3point5.com/feedback. We will send an email to confirm your request. After you respond, we will remove your information from our database. Residual information may remain in our archives and records, but this information will not be used for any purpose, commercial or otherwise. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the site blocked, as well as for legal or contractual reasons.
 
@@ -218,7 +215,7 @@ For further details on cookies please visit www.allaboutcookies.org where you ca
 
 #### How we use Cookies
 
-We use both first party and third party cookies. That is, both we and third party companies set cookies through this site. 
+We use both first party and third party cookies. That is, both we and third party companies set cookies through this site.
 
 We use “analytical” cookies which, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting our site and which parts of the site are most popular. This helps us gather feedback so that we can improve the site and better serve our users.
 
@@ -232,12 +229,12 @@ By using the Website, you consent to our use of cookies as described above.
 
 #### Refusing Cookies
 
-You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may not use our site. 
+You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies, you may not use our site.
 
 ## PRIVACY POLICY
 
 Version: Canada  
-Effective Date: 09/22/2014 
+Effective Date: 09/22/2014
 
 This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”).
 
@@ -284,7 +281,7 @@ We will not disclose your Personally Identifying Information to third parties ex
 
 We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out these purposes. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative, technical support, or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Policy, and to provide adequate protection for the Personally Identifying Information.
 
-We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent. 
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
 
 ### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
 
@@ -295,8 +292,7 @@ We are concerned about the accuracy, currency, and completeness of the informati
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 We will respond to your access request within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated. In such cases, we will provide you with a reasonable explanation of why it is not possible to grant access to your information.
 
@@ -341,7 +337,7 @@ eXperticity complies with the U.S. – E.U. Safe Harbor framework as set forth b
 ## PRIVACY POLICY
 
 Version: Australia  
-Effective Date: 09/22/2014 
+Effective Date: 09/22/2014
 
 This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”).
 
@@ -389,7 +385,7 @@ We will not disclose your Personally Identifying Information to third parties ex
 
 We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out the uses discussed in this Privacy Policy. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative or technical support, for other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to third party processor, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Privacy Policy, and to provide adequate protection for the Personally Identifying Information.
 
-We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent. 
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
 
 ### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
 
@@ -400,8 +396,7 @@ We are concerned about the accuracy, currency, and completeness of the informati
 [Ron Martinez]  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City , Utah 84111  
-
+Salt Lake City , Utah 84111
 
 We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
@@ -431,8 +426,8 @@ eXperticity complies with the U.S. – E.U. Safe Harbor framework as set forth b
 
 ## PRIVACY POLICY
 
-Version: South Korea   
-Effective Date: 09/22/2014 
+Version: South Korea  
+Effective Date: 09/22/2014
 
 This privacy policy describes how eXperticity, Inc., a company located and incorporated in the United States, collects, uses, and shares information about you that is captured while you use 3point5.com (“site”).
 
@@ -480,7 +475,7 @@ We will not disclose your Personally Identifying Information to third parties ex
 
 We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out the uses discussed in this Policy. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative or technical support, for other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Privacy Policy, and to provide adequate protection for the Personally Identifying Information.
 
-In the event that we merge with or are acquired by a third party, we may transfer Personally Identifying Information to the acquiring party. In the event of such a transfer, we will provide you with notice and the contact information of the acquiring party. We may disclose your Personally Identifying Information for any other purpose with your consent. 
+In the event that we merge with or are acquired by a third party, we may transfer Personally Identifying Information to the acquiring party. In the event of such a transfer, we will provide you with notice and the contact information of the acquiring party. We may disclose your Personally Identifying Information for any other purpose with your consent.
 
 ### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
 
@@ -491,8 +486,7 @@ We are concerned about the accuracy, currency, and completeness of the informati
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 We will respond to your access request within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated. In such cases, we will provide you with a reasonable explanation of why it is not possible to grant access to your information.
 
@@ -575,7 +569,7 @@ We will not disclose your Personally Identifying Information to third parties ex
 
 We may transfer your Personally Identifying Information to third party service providers that assist us with carrying out these purposes. For example, we may use a data processing contractor to operate computer systems on our behalf, for administrative, technical support, or other business purposes as necessary to facilitate our transactions with you, analyze our data, conduct analytics services, or to maintain and improve our services. Whenever any Personally Identifying Information is transferred to a such a third party service provider, that party will be contractually bound to use such Personally Identifying Information only to carry out the services we have requested, to abide by our Policy, and to provide adequate protection for the Personally Identifying Information.
 
-We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent. 
+We reserve the right to transfer any Personally Identifying Information we have about you in the event that we merge with or are acquired by a third party. We may disclose your Personally Identifying Information for any other purpose with your consent.
 
 ### YOUR CHOICES FOR CONTROLLING YOUR INFORMATION
 
@@ -586,8 +580,7 @@ We are concerned about the accuracy, currency, and completeness of the Personall
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 We will respond to your access request within any legally required time period or within 30 days. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
@@ -668,7 +661,7 @@ No divulgaremos su Información de identificación personal a terceros, salvo se
 
 Es posible que transfiramos su Información de identificación personal a proveedores de servicios de terceros que nos ayuden a llevar a cabo estos fines. Por ejemplo, podemos utilizar un contratista para el procesamiento de datos quien opere los sistemas informáticos en nuestra representación, para obtener soporte administrativo o técnico, u otros fines comerciales que sean necesarios para facilitarle a usted nuestras transacciones, analizar nuestros datos, prestar servicios analíticos o mantener y mejorar nuestros servicios. Siempre que se transfiera Información de identificación personal a un proveedor de servicios de terceros, este quedará vinculado contractualmente al uso de la Información de identificación personal únicamente para llevar a cabo los servicios que hemos solicitado, para cumplir con nuestra Política y para brindar la protección adecuada a esta Información de identificación personal.
 
-Nos reservamos el derecho de transferir toda Información de identificación personal que poseamos sobre usted en caso de que nos fusionemos con otra compañía o seamos adquiridos por terceros. Es posible que divulguemos su Información de identificación personal para cualquier otro fin con su consentimiento. 
+Nos reservamos el derecho de transferir toda Información de identificación personal que poseamos sobre usted en caso de que nos fusionemos con otra compañía o seamos adquiridos por terceros. Es posible que divulguemos su Información de identificación personal para cualquier otro fin con su consentimiento.
 
 #### SUS ELECCIONES PARA CONTROLAR SU INFORMACIÓN
 
@@ -679,8 +672,7 @@ Nos interesa la exactitud, la actualización y la integridad de la Información 
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 Responderemos a su solicitud de acceso en el plazo legalmente estipulado o bien dentro de los 30 días. Nos reservamos el derecho de no permitir el acceso a su información si creemos, de buena fe, que dicha divulgación está prohibida por ley o si esto podría infringir los derechos de otro individuo.
 
@@ -710,8 +702,8 @@ eXperticity cumple con el marco legal de Puerto Seguro (Safe Harbor) de los EE. 
 
 ## POLÍTICA DE PRIVACIDADE
 
-Versão: Estados Unidos, México; África do Sul; Colômbia; Venezuela; Peru; Equador; Chile, Uruguai, Brasil; Cingapura; Filipinas; Indonésia; Malásia; Tailândia; Japão, República Popular da China; Nova Zelândia   
-Data de efetivação: 9/22/2014 
+Versão: Estados Unidos, México; África do Sul; Colômbia; Venezuela; Peru; Equador; Chile, Uruguai, Brasil; Cingapura; Filipinas; Indonésia; Malásia; Tailândia; Japão, República Popular da China; Nova Zelândia  
+Data de efetivação: 9/22/2014
 
 Essa política de privacidade descreve como a eXperticity, Inc., uma empresa localizada e incorporada nos Estados Unidos, coleta, usa e compartilha informações sobre você que são coletadas enquanto você usa o 3point5.com (“site”).
 
@@ -772,8 +764,7 @@ Estamos preocupados com a precisão, a atualidade e a completude das informaçõ
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 Responderemos à sua solicitação de acesso durante qualquer período de tempo exigido pela lei ou no prazo de 30 dias. Temos também o direito de não permitir acesso às suas informações se acreditarmos, de boa fé, que essa divulgação é proibida por lei ou se os direitos de outro indivíduo estiverem sendo violados.
 
@@ -787,7 +778,7 @@ Algumas ou todas as informações de identificação pessoal que coletamos podem
 
 #### LINKS PARA OUTROS SITES
 
-Nosso site pode conter links para sites de propriedade de terceiros. As informações que você compartilha com um site de terceiros não estão sujeitas a esta política de privacidade. Analise a política de privacidade de qualquer site que acessar pelo nosso site. 
+Nosso site pode conter links para sites de propriedade de terceiros. As informações que você compartilha com um site de terceiros não estão sujeitas a esta política de privacidade. Analise a política de privacidade de qualquer site que acessar pelo nosso site.
 
 Nossos sites não devem ser usados por crianças. Não coletamos, conscientemente, informações pessoais de crianças menores de 13 anos. As crianças menores de 18 anos são proibidas de criar um perfil on-line.
 
@@ -801,7 +792,7 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 
 ## プライバシーポリシー
 
-バージョン：米国、メキシコ、南アフリカ、コロンビア、ベネズエラ、ペルー、エクアドル、チリ、ウルグアイ、ブラジ ル、シンガポール、フィリピン、インドネシア、マレーシア、タイ、日本、中華人民共和国、ニュージーランド向け草稿 発効日： 9/22/2014 
+バージョン：米国、メキシコ、南アフリカ、コロンビア、ベネズエラ、ペルー、エクアドル、チリ、ウルグアイ、ブラジ ル、シンガポール、フィリピン、インドネシア、マレーシア、タイ、日本、中華人民共和国、ニュージーランド向け草稿 発効日： 9/22/2014
 
 本プライバシーポリシーは、米国に所在し登記されている企業eXperticity, Incが、ユーザーが 3point5.com（以下、「サイト」）を利用中に記録されるユーザー情報を、どのように収集、使用、共有するかについて説明するものです。
 
@@ -817,19 +808,16 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 
 #### すべてのユーザー
 
-  
 ユーザーが当社サイトにアクセスする場合、ユーザーが当社のフォームに記入する時、当社サイト経由で当社と連絡を取る時、またはオンラインプロフィールを  
 作成する時に、当社はユーザーに関する個人情報（氏名、住所、電話番号、電子メールアドレス、ユーザー名、パスワードなど）を収集します（以 下、「個人  
 識別情報」）。
 
 また、当社は、IPアドレス、使用しているブラウザーの種類、コンピューターのオペレーティングシステム  
 を含むユーザーのコンピューターに関する情報など、当社サイトの利用に関する特定の情報を収集します。 本ポリシーで別途説明されている場合、  
-または法律で禁止されている可能性がある場合を除き、当社は当該情報をユーザーの個人情報と結合させることがあります。 オンラインプロフィール
-
-  
+または法律で禁止されている可能性がある場合を除き、当社は当該情報をユーザーの個人情報と結合させることがあります。 オンラインプロフィール  
 ユーザーがオンラインプロフィールを作成する場合、ユーザーは、雇用主、修了済みトレーニングモジュール、購入状況、写真、獲得ポイントなどの任意の情報  
 を提供することを選択できます。 ユーザーが自分のプロフィールに記載する情報は、本ポリシーの対象となります。 ユーザーがアップ  
-ロードまたは公開することを選択する情報はユーザーのプロフィールであり、サイトに表示され、かつ、ほかの会員が閲覧する可能性があります。   
+ロードまたは公開することを選択する情報はユーザーのプロフィールであり、サイトに表示され、かつ、ほかの会員が閲覧する可能性があります。  
 ユーザーが、サイトの公開領域に個人識別情報を掲載することを選択する場合、ユーザーは、その選択により投稿する個人識別情報の公開に同意するものとしま  
 す。 このような形で自らの個人識別情報を公開することをユーザーが希望しない場合は、サイトの公開領域に投稿するデータに当該の個人識別情報  
 を含めないでください。 当社は、リンク先（www.3point5.com/action/user/account）にて、一般的なユー  
@@ -840,7 +828,7 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 当  
 社サイトでは、当社サイトへのユーザーアクセスに関する情報を収集するために、「クッキー（Cookie）」（ユーザーのコンピューターに保存される小さ  
 なファイル）などのトラッキング技術も使用します。 当社が使用するクッキーおよびトラッキング技術は、個人識別情報を記録しません。  
- ユーザーアクセスに関して記録される情報は、当社サイトへのユーザーアクセスに関する情報の監視や保持、問題の特定や対処、当社サイトの改  
+ユーザーアクセスに関して記録される情報は、当社サイトへのユーザーアクセスに関する情報の監視や保持、問題の特定や対処、当社サイトの改  
 良、Webトラフィック傾向の分析、および当社サイトの安全性や完全性の保護のためなど、さまざまな方法で使用される可能性があります。 ユー  
 ザーは、各自が使用するブラウザーがクッキーを受け入れないように、またはクッキーを受信した時に通知するように設定することができるので、クッキー受け  
 入れの可否を判断することができます。 クッキーを受け入れなくてもユーザーは当社サイトを利用することは可能ですが、機能が制限される場合が  
@@ -856,7 +844,7 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 当社は、以下の目的で収集する個人識別情報を使用することがあります。
 
   * ユーザーの問い合わせに対応するため、およびユーザーの要請を満たすため
-  * 当社サイト、条件・条項・ポリシーの変更や、その他の管理情報に関する重要な情報をユーザーに送信するため 
+  * 当社サイト、条件・条項・ポリシーの変更や、その他の管理情報に関する重要な情報をユーザーに送信するため
   * ユーザーが関心を持つと思われるマーケティング情報（随時配信停止可能）をユーザーに送信するため
   * ユーザーに合わせたコンテンツを表示することによって、当社サイトの機能をパーソナライズするため
   * ユーザーがトレーニングを記録できるようにするため
@@ -871,7 +859,6 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 
 #### ユーザー情報の共有
 
-  
 本ポリシーの記載に基づき依頼されたサービスをユーザーに提供するために必要な範囲で、または法律で要請される一定の状況を除き、当社はユーザーの個人識  
 別情報を第三者に開示しません。 ユーザーは、以下のような場合にも、当社がこの情報を第三者に開示する可能性もあることに同意するものとしま  
 す： (1) 当社の権利もしくは財産、当社サイトの顧客もしくはその他ユーザー、または後述の行動によって害を被る可能性のある者  
@@ -883,10 +870,10 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 当社は、これらの目的を達成できるように当社を支援する第三者のサービス提供業者に、ユーザーの個人識別情報を転送  
 することがあります。 たとえば、当社は、当社とユーザーとのやりとり、データの分析、分析サービスの実行を円滑化するために必要に応じて、管  
 理上、技術サポート上またはその他事業上の目的で、当社に代わってコンピューターシステムを操作するデータ処理請負業者を利用することがあります。  
- そのような第三者サービス提供業者に個人識別情報が転送される場合、当該業者は、当社が依頼したサービスの実行のためにのみ個人識別情報を使  
+そのような第三者サービス提供業者に個人識別情報が転送される場合、当該業者は、当社が依頼したサービスの実行のためにのみ個人識別情報を使  
 用し、当社ポリシーを遵守し、さらに個人識別情報の適切な保護することが契約上の拘束事項となります。
 
-当社が第三者と合併するとき、または当社が第三者に買収されるとき、当社は、ユーザーについて当社が保有する個人識別情報を譲渡する権利を留保します。 当社は、ユーザーの同意を得て、その他の目的でユーザーの個人識別情報を開示することがあります。 
+当社が第三者と合併するとき、または当社が第三者に買収されるとき、当社は、ユーザーについて当社が保有する個人識別情報を譲渡する権利を留保します。 当社は、ユーザーの同意を得て、その他の目的でユーザーの個人識別情報を開示することがあります。
 
 ### 個人情報管理に関するユーザーの選択
 
@@ -901,8 +888,7 @@ A eXperticity está de acordo com a estrutura Safe Harbor (Porto seguro) da UE e
 Ron Martinez  
 eXperticity  
 9 Exchange Plaza, Suite 1000  
-Salt Lake City, Utah 84111  
-
+Salt Lake City, Utah 84111
 
 当  
 社は、法律上義務付けられている期間内、または30日以内に、ユーザーのアクセス要請に対応いたします。 当社は、当該の開示が法律で禁止され  
@@ -929,7 +915,7 @@ Salt Lake City, Utah 84111
 
 当社サイトには、第三者が所有するWebサイト  
 へのリンクが含まれていることがあります。 ユーザーが第三者サイトと共有する情報は、本プライバシーポリシーの対象ではありません。  
- 当社サイト経由でアクセスするサイトのプライバシーポリシーをご確認ください。
+当社サイト経由でアクセスするサイトのプライバシーポリシーをご確認ください。
 
 ### 子どものプライバシー
 
@@ -949,6 +935,6 @@ Salt Lake City, Utah 84111
 eXperticity  
 は、EU加盟国からの個人情報の収集、使用および保持に関しては、米国商務省が定める米国欧州間セーフハーバーフレームワーク（U.S.-  
 EU Safe Harbor Framework）に準拠します。 eXperticityは、通知、選択、転送、セ  
-キュリティ、データの完全性、アクセスおよび実施におけるセーフハーバープライバシー原則（Safe Harbor   
+キュリティ、データの完全性、アクセスおよび実施におけるセーフハーバープライバシー原則（Safe Harbor  
 Privacy Principles）に準拠していることを証明しています。 セーフハーバープログラムの詳細について、および  
-eXperticityの証明書の閲覧については、 [ http://www.export.gov/safeharbor/](https://web.archive.org/web/20150318224807id_/http://www.experticity.com/business/about-us/privacy-policy/%E2%80%A8http://www.export.gov/safeharbor/)をご覧ください。
+eXperticityの証明書の閲覧については、 [ http://www.export.gov/safeharbor/](https://web.archive.org/web/20150911090735id_/https://www.experticity.com/business/about-us/privacy-policy/%E2%80%A8http://www.export.gov/safeharbor/)をご覧ください。
