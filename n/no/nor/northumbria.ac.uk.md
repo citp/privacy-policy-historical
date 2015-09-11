@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northumbria.ac.uk privacy policy that was archived on 2014-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141031103143id_/https%3A//www.northumbria.ac.uk/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northumbria.ac.uk privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911231609id_/https%3A//www.northumbria.ac.uk/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,7 +12,7 @@ Northumbria University is committed to protecting the privacy of all individuals
 
 
 
-This Website is managed by the Digital Team.
+This Website is managed by the Marketing Digital Team.
 
 If you have any concerns about privacy on the Northumbria University Website, please contact: the Data Protection Officer, Northumbria University, Ellison Place, Newcastle upon Tyne, NE1 8ST.
 
