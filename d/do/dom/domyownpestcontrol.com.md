@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320014446id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911070628id_/http%3A//www.domyownpestcontrol.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - DoMyOwnPestControl.com
 
@@ -7,12 +7,12 @@
 
 ### Testimonial
 
-**08/26/2013**
+**07/29/2012**
 
-"I am more than pleased with the results of the products that I purchased for the use around my home. I have spread the word about do my own pest control and now my neighbor uses your products. Thank you for giving me the confidence and expertise in doing my own pest control."
+"I am more than satisfied with this experience. The whole process from ordering to receiving the product was quick and easy. Your Company communicated with me often while I was waiting for delivery of the package. Giving me tracking information as well as how I could get further assistance from your ..."
 
-**Arthur**  
-Lewiston, NY 
+**Sharon**  
+Capitol Heights, MD 
 
 [More Testimonials](http://www.domyownpestcontrol.com/testimonials.php) »
 
@@ -72,7 +72,7 @@ This site contains links to third party websites. DoMyOwnPestControl.com is not 
 By using the DoMyOwnPestControl.com web site, you agree to this Privacy and Security Policy. This is our entire and exclusive Privacy and Security Policy and it supersedes any earlier version. We may change our Privacy and Security Policy by posting a new version of the policy on this page which it is your responsibility to review frequently. 
 
 **LEGAL DISCLAIMER and Terms of Use**   
-Please see our [Terms of Use](http://www.domyownpestcontrol.com/conditions.php) page for more information. 
+Please see our [Terms of Use](https://www.domyownpestcontrol.com/conditions.php) page for more information. 
 
 **IF YOU HAVE A PRIVACY QUESTION**   
 If you have a privacy question about the DoMyOwnPestControl.com web site, please email: Customer Service at [support@domyownpestcontrol.com](mailto:support@domyownpestcontrol.com). Or write: DoMyOwnPestControl.com, Attn: Privacy Policy, 4260 Communications Drive, Norcross, GA 30093.
