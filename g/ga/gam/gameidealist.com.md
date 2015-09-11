@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameidealist.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315112349id_/http%3A//gameidealist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameidealist.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911092021id_/http%3A//gameidealist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Game Idealist
 
@@ -21,6 +21,10 @@ Game Idealist use a tool called Google Analytics to collect information about us
 **Amazon  Associates Program**
 
 GameIdealist.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://amazon.com/).
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **DoubleClick DART Cookie**
 
