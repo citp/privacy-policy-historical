@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lemonhunt.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608050010id_/http%3A//www.lemonhunt.com/about-us/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonhunt.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911101331id_/http%3A//www.lemonhunt.com/about-us/privacy-policy.php) for the most accurate reproduction.*
 
-# Yellow Pages Privacy Policy
+# LemonHunt.com - Privacy Policy
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted clearly on the website. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used
 
