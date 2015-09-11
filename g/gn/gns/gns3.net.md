@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gns3.net privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601100029id_/http%3A//www.gns3.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gns3.net privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911072236id_/http%3A//www.gns3.com/privacy-policy.php) for the most accurate reproduction.*
 
 # GNS3
 
