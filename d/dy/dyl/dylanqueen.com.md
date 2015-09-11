@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dylanqueen.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315140907id_/http%3A//www.dylanqueen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dylanqueen.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911143143id_/http%3A//www.dylanqueen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
