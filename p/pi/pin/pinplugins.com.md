@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinplugins.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315031440id_/http%3A//pinplugins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinplugins.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911161903id_/http%3A//pinplugins.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pinterest Plugins for WordPress
+# Privacy Policy - Pinterest Plugins for WordPress
 
 When accessing our Website, Pinterest Plugins for WordPress will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
