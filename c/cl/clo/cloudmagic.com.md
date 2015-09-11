@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the cloudmagic.com privacy policy that was archived on 2015-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150427103551id_/https%3A//cloudmagic.com/k/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudmagic.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911073034id_/https%3A//cloudmagic.com/k/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CloudMagic
-
-In a nutshell 
-
-Your data is yours and therefore only read by you. Neither do we read it, nor share with anyone else.
-
-We use OAuth (wherever possible) which gives us access to your data without letting us know your password. Your data and credentials are absolutely safe with us.
-
-If you delete any account from CloudMagic, we permanently delete the data and credentials from our servers almost instantly. 
-
-Unabridged version 
 
 ##### Introduction
 
@@ -68,6 +58,10 @@ CloudMagic does not knowingly collect information from children under the age of
 The support queries you write to us about might contain personal information. We use this information solely to help you resolve the issues reported and improve the product quality. 
 
 
+
+##### Team Contacts
+
+Each team you create or join is linked to an email account. Contacts associated with this email account are shared with the team members. The actual emails are never shared, only the timeline of emails exchanged are shared. You can leave the team anytime you wish to. Once you leave the team, you’ll no longer have access to the contacts of your team members and vice-versa.
 
 ##### Cookies
 
