@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupalgardens.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320184011id_/https%3A//www.drupalgardens.com/content/drupal-gardens-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalgardens.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911022800id_/https%3A//www.drupalgardens.com/content/drupal-gardens-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Drupal Gardens
 
