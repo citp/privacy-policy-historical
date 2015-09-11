@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the campusclarity.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321084754id_/https%3A//home.campusclarity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusclarity.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911043935id_/https%3A//home.campusclarity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CampusClarity
 
 _Data Collected by CampusClarity_
 
-CampusClarity collects two types of data from our users: (1) personal data and (2) non-personal data.
+CampusClarity, a service of LawRoom, collects two types of data from our users: (1) personal data and (2) non-personal data.
 
 **Personal Data**
 
@@ -16,7 +16,6 @@ We collect personal data to identify our users and to track their site usage. We
 
 
 
-   
 We use this data to verify who our users are, to send announcements and reminders, and to monitor user progress and performance in our courses.
 
 Additionally, CampusClarity collects demographic information from users, as well as their course usage and progress information. Demographic information may include users’ age, gender, sexual orientation, relationship status, year, home state, housing, ethnicity, and affiliations. Course usage, progress, and performance information includes the courses users have been assigned, when they’ve accessed the course, the portions of the course that the user has completed, and aggregate measures relating to their course performance. CampusClarity stores this information along with users’ personal data.
@@ -39,7 +38,6 @@ We also collect the following technical data anonymously:
 
 
 
-   
 We log IP addresses for systems administration purposes. IP addresses are logged to track a user’s session and help us determine how often the areas of our site are visited. We periodically view and discard the information. We do not link IP addresses to specific users.
 
 **FERPA & Personal Data**
