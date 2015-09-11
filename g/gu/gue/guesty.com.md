@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guesty.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315184136id_/https%3A//www.guesty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guesty.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911024626id_/https%3A//www.guesty.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Guesty
+# Guesty's Privacy Policy
 
-This Privacy Policy governs the manner in which Guesty, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.guesty.com](https://web.archive.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Guesty, Inc.
+This Privacy Policy governs the manner in which Guesty, Inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.guesty.com](https://web.archive.org/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Guesty, Inc.
 
 #### Personal identification information
 
@@ -55,7 +55,7 @@ With your consent we may post your testimonial on the Site and Application along
 
 #### Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 #### Changes to this privacy policy
 
@@ -70,7 +70,8 @@ This Site operates “AS-IS” and “AS-AVAILABLE,” without liability of any 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [Guesty, Inc.](https://web.archive.org/)  
 [www.guesty.com](https://web.archive.org/)  
-San Francisco, CA USA  
+San Francisco, CA  
+USA  
 [terms@guesty.com](mailto:terms@guesty.com)
 
 This document was last updated on January 05, 2014
