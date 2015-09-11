@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chicoryapp.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615030012id_/https%3A//www.chicoryapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicoryapp.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911215952id_/http%3A//chicory.co/privacy) for the most accurate reproduction.*
 
-# Chicory
+# Chicory | Privacy
 
 Chicory analyzes websites and apps in order to gain contextual insights regarding web content and consumer purchase intent. Additionally, Chicory connects Publisher content with ecommerce retailers through widgets and buttons installed directly on the Publisher’s site. At Chicory we’ve created this Privacy Policy in order to detail how information you provide us is used and shared. By visiting our Website, or accessing the Chicory Product (defined in our [Terms of Service](https://web.archive.org/terms)) you are agreeing to the terms of this Privacy Policy and the accompanying Terms of Use. 
 
@@ -35,10 +35,10 @@ The Platform may contain links to third-party websites.  Chicory has no control
 
 This Privacy Policy is effective as of October 2014. We may regularly change this Privacy Policy and will alert users to changes as necessary. Visits to our sites, use any Chicory platforms, or use of our services subsequent to Privacy Policy changes is deemed to be your acceptance of the new changes. Please refer back to this Privacy Policy on a regular basis. 
 
-## How to Contact Us>
+## How to Contact Us
 
 If you have questions about this Privacy Policy, please e-mail us at [hello@chicoryapp.com](mailto:hello@chicoryapp.com)
 
 ## Terms and Conditions
 
-Please also visit our [Terms of Use](https://web.archive.org/terms) section that explains other terms and conditions governing our Site. 
+Please also visit our [Terms of Use](https://web.archive.org/terms/) section that explains other terms and conditions governing our Site. 
