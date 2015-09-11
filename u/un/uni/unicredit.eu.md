@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicredit.eu privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708180940id_/https%3A//www.unicreditgroup.eu/en/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicredit.eu privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911205820id_/https%3A//www.unicreditgroup.eu/en/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - UniCredit
 
@@ -20,13 +20,13 @@ The disclosure is based also on Recommendation No 2/2001 which the European Pers
 **The "Data Controller"  
 ** 
 
-Following consultation of this website, data on identified or identifiable persons may be processed. The "data controller" is UniCredit S.p.A., whose Registered Office is in Rome at Via Alessandro Specchi n. 16 and whose Operational Headquarters is in Milan, Piazza Cordusio.  
+Following consultation of this website, data on identified or identifiable persons may be processed. The "data controller" is UniCredit S.p.A., whose Registered Office is in Rome at Via Alessandro Specchi n. 16 and whose Operational Headquarters is in Milan, Piazza Gae Aulenti, 3, Tower A - 20154 Milan.  
 In case of data processing running, within the various sections of the website will be pointed out the relevant Data Processors.
 
 **Place of data processing  
 ** 
 
-The processing of data connected with the web services of this site takes place at the above Headquarters and also at the office in Via Livio Cambi, 1, in Milan and is performed only by the personnel of UniCredit S.p.A., in charge of the processing, or by employees of UniCredit Global Information Services S.C.p.A., the "Data Processor" designated by the controller UniCredit S.p.A..  
+The processing of data connected with the web services of this site takes place at the above Headquarters and also at the office in Via Livio Cambi, 1, in Milan and is performed only by the personnel of UniCredit S.p.A., in charge of the processing, or by employees of UniCredit Business Integrated Solutions S.C.p.A., the "Data Processor" designated by the controller UniCredit S.p.A..  
 No personal data deriving from the web service is disseminated.  
 The personal data provided by users are used for the sole purpose of performing the service or task requested and are communicated to third parties only when necessary for this purpose.
 
@@ -37,7 +37,7 @@ _Navigation data
 _During their normal operation, the information systems and software procedures used for the functions of this website acquire certain personal data the transmission of which is implicit in the use of the Internet, which is based on the TCP/IP protocol.  
 This is information which is not gathered to be associated with identified data subjects, but which by its very nature could, through processing and association with data held by others, enable the users to be identified.  
 This category of data includes the "IP addresses" or domain names of the computers used by users who visit the website, the addresses in URI (Uniform Resource Identifier) format of the resources requested, the time of the request, the method used in submitting the request to the web server, the dimensions of the file obtained in response, the numerical code indicating the state of the response given by the web server (success, error, etc...) and other parameters relating to the user's operating system and IT environment. These data are used for the sole purpose of obtaining anonymous statistical information on the use of the website and to check the correct operation of the UniCredit S.p.A. website.  
-It should be noted that the above data could be used to ascertain responsibility in the case of computer crime which harms the UniCredit S.p.A. website or the structures of the data processor UniCredit Global Information Services S.C.p.A., or other websites connected or linked to it: except in this case, the data on the web contacts are not kept for more than a few days
+It should be noted that the above data could be used to ascertain responsibility in the case of computer crime which harms the UniCredit S.p.A. website or the structures of the data processor UniCredit Business Integrated Solution S.C.p.A., or other websites connected or linked to it: except in this case, the data on the web contacts are not kept for more than a few days
 
   
 _Data provided voluntarily by the user  
@@ -75,7 +75,7 @@ Any such requests must be sent to:
 
   
 **UniCredit S.p.A.  
-Customer Satisfaction & Claims Italy  
+Claims  
 **Via Del Lavoro, 42  
 40127 Bologna  
 Tel.: +39 051.6407285  
