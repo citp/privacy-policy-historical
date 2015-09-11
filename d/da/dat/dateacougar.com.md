@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317110829id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911132818id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.*
 
 # .: Privacy Policy
 
@@ -14,16 +14,17 @@ Search by username
 
 dateacougar.com (the "Site") is licensed to **Elite Marketing Solutions Inc.**
 
-Our international postal address is   
-ODS Online Dating Systems LTD  
-77, Strovolos Ave., Strovolos Center, Off. 204  
-2018 Strovolos, Nicosia, CYPRUS 
-
-Our USA postal address is   
+USA Company:   
 Elite Marketing Solutions Inc.  
 312 West Fourth Street  
-Carson City, NV 89703  
+Carson City, NV 89703, USA  
 (1-754) 205-9975 
+
+International Company:   
+ODS Online Dating Systems LTD  
+77, Strovolos Ave., Strovolos Center, Off. 204  
+2018 Strovolos, Nicosia  
+CYPRUS 
 
 [Contact us](https://web.archive.org/contact)
 
@@ -83,7 +84,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 
 **"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20150317110829id_/http%3A//www.dateacougar.com/settings/2) and deselecting "I want to be informed of promotional offers". 
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20150911132818id_/http%3A//www.dateacougar.com/settings/2) and deselecting "I want to be informed of promotional offers". 
 
 **Terms and Conditions of Membership.**
 
