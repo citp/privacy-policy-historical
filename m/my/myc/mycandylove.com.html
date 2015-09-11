@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mycandylove.com privacy policy that was archived on 2015-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150607033500id_/http%3A//www.mycandylove.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycandylove.com privacy policy that was archived on 2015-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150911220500id_/http%3A//www.mycandylove.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head><title>My Candy Love, a game of love and flirting for girls!</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -78,24 +78,79 @@ Discover new episodes regularly and meet the students at Sweet Amoris High Schoo
 	
 	<![endif]-->
 
-	<link rel="stylesheet" type="text/css" href="/theme/client/css/total-min.css¿16096353863590387836">
-	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/theme/client/js/total-min.js¿1786188356581065192"></script>
+	<link rel="stylesheet" type="text/css" href="/theme/client/css/total-min.css¿3606811280317219277">
+	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/theme/client/js/total-min.js¿42190565913064882397"></script>
 
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
+<!-- GPT - INIT -->
 <script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-0916657417383550");
-GS_googleEnableAllServices();
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
 </script>
-	<script language="javascript">
-	GA_googleAddAttr("langue_jeu", "en");
-	</script>
+
+
+<!-- GPT - Main Class -->
 <script type="text/javascript">
-GA_googleUseIframeRendering();
+    /**
+     * Used to setting up the GPT lib (see google DFP for conf)
+     */
+    var Gpt = {
+        'network' : '1974889',  //Id of the Beemoov DFP network
+        'tags' : []             //List of tags on the page
+    };
+
+    /**
+     * Add google tag
+     * @param  tag      Tag's name (ex : Amour_Sucre_forum_728x90)
+     * @param  width    The width (ex : 728)
+     * @param  height   ths height (ex : 90)
+     */
+    Gpt.addTag = function(tagName, width, height) {
+        //Define the tag url (ex : '/1974889/Amour_Sucre_forum_728x90')
+        slotUrl = '/' + this.network + '/' + tagName;
+
+        if(this.tags.indexOf(tagName) === -1) {
+            this.tags.push(tagName);
+
+            googletag.cmd.push(function(){
+                //Add tag's slot
+                var tag = googletag.defineSlot(slotUrl, [width,height], tagName);
+                tag.addService(googletag.pubads());
+
+                //Add targeting (conf in DFP)
+                tag.setTargeting("langue_jeu", "en");
+            });
+        }
+    };
+
+    /**
+     * Init GPT, call at the end of the page
+     */
+    Gpt.init = function() {
+        googletag.cmd.push(function(){
+            //Init all previous pubads
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+
+            //Display ads
+            for(var i=0; i<Gpt.tags.length; i++) {
+                googletag.display(Gpt.tags[i]);
+            }
+        });
+    };
 </script>
-
-
-
 <script type="text/javascript">
 var crtg_nid = '3247';
 var crtg_cookiename = 'crtg_rtabeemov';
@@ -112,13 +167,12 @@ var crtg_script=document.createElement('script');crtg_script.type='text/javascri
 if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
 else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
 })();
-</script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=3247&amp;cookieName=crtg_rtabeemov&amp;rnd=1599607600&amp;varName=crtg_content" async=""></script>
+</script><script type="text/javascript" src="https://rtax.criteo.com/delivery/rta/rta.js?netId=3247&amp;cookieName=crtg_rtabeemov&amp;rnd=80648948435&amp;varName=crtg_content" async=""></script>
 
 
 </head>
 
 <body id="container" class="no-theme lang-en ">
-
 	<script type="text/x-resource-bundle" id="common">
 	DATE_FORMAT = "m/d/Y"
 	TIME_FORMAT = "H:i:s"
@@ -591,7 +645,7 @@ else if(document.getElementsByTagName("body").length>0)document.getElementsByTag
 
 	<div id="copyright">
 		<div id="copy1">© 2015 | <a href="/" title="My Candy Love"><img src="/theme/client/img/i18n/fr/minilogo.png" alt="My Candy Love"></a>
-			<a href="http://us.beemoov.com" target="_blank">Beemoov Games</a> - <a href="http://us.cromimi.com" target="_blank">Rodent breeding game</a> - <a href="http://virtualworldsforteens.com/review/my-candy-love/" target="_blank">Virtual Worlds for Teens</a> - <a href="http://www.boy-games.net" target="_blank">Boy Games</a> - <a href="http://www.activefreestuff.com" target="_blank">Active Free Stuff</a> - <a href="http://www.funnyfashiongames.com" target="_blank">Funny Fashion Games</a> 
+			<a href="http://us.beemoov.com" target="_blank">Beemoov Games</a> - <a href="http://us.cromimi.com" target="_blank">Rodent breeding game</a> - <a href="http://virtualworldsforteens.com/review/my-candy-love/" target="_blank">Virtual Worlds for Teens</a> - <a href="http://www.boy-games.net" target="_blank">Boy Games</a> - <a href="http://www.activefreestuff.com" target="_blank">Active Free Stuff</a> 
 		</div>
 		<div id="copy2">
 			<div class="copy2g">
@@ -650,6 +704,7 @@ var beeBarUrl = 'http://www.beemoov.com/b14-en.js';
 
 </script>
 
+	<script type="text/javascript">Gpt.init();</script>
 
 
 </body></html>
