@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3-markup.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315033057id_/http%3A//w3-markup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3-markup.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911204121id_/http%3A//w3-markup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - W3 Markup
 
@@ -20,3 +20,5 @@ To protect against unauthorized access to your uploaded information, we use mult
 If you discover factual errors in any personal information, please call us (877) 721 8040 describing the problem along with credible information that shows the error.
 
 We will take all steps necessary to enable you to access or make corrections while maintaining optimum security.
+
+We may track and record your conversations with W3 MARKUP representatives. These recordings will be used for quality assurance and related purposes. Please notify our representative if you do not wish to have your conversation recorded. 
