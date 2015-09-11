@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcelormittal.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615112028id_/http%3A//corporate.arcelormittal.com/site-services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcelormittal.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911203121id_/http%3A//corporate.arcelormittal.com/site-services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – ArcelorMittal
 
