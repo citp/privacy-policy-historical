@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polarr.co privacy policy that was archived on 2015-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150326150023id_/https%3A//www.iubenda.com/privacy-policy/958268/full-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarr.co privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911221251id_/https%3A//www.iubenda.com/privacy-policy/958268/full-legal) for the most accurate reproduction.*
 
 # Privacy Policy of polarr.co
 
@@ -50,11 +50,11 @@ The permissions asked are the following:
 
 ### Basic information
 
-By default, this includes certain User’s Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the user has made more of their data public, more information will be available.
+By default, this includes certain User’s Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the User has made more of their Data public, more information will be available.
 
 ### Email
 
-Provides access to the user's primary email address
+Provides access to the User's primary email address
 
 ### Upload Photos
 
@@ -71,24 +71,24 @@ These services are not activated automatically, but require explicit authorizati
 
 #### Access to the Facebook account (This Application)
 
-This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook Inc.
+This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
 
 Permissions asked: Email and Upload Photos. 
 
-Place of processing : USA – [Privacy Policy](https://www.facebook.com/policy.php)
+Place of processing: USA – [Privacy Policy](https://www.facebook.com/policy.php)
 
   * ### Analytics
 
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-#### Google Analytics (Google)
+#### Google Analytics (Google Inc.)
 
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
 Personal Data collected: Cookie and Usage data. 
 
-Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
+Place of processing: USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
 
   * ### Contacting the User
 
@@ -104,13 +104,13 @@ These services allow interaction with social networks or other external platform
 The interaction and information obtained by this Application are always subject to the User’s privacy settings for each social network.  
 If a service enabling interaction with social networks is installed it may still collect traffic data for the pages where the service is installed, even when Users do not use it.
 
-#### Facebook Like button and social widgets (Facebook)
+#### Facebook Like button and social widgets (Facebook, Inc.)
 
-The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook Inc.
+The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
 
 Personal Data collected: Cookie and Usage data. 
 
-Place of processing : USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
+Place of processing: USA – [Privacy Policy](http://www.facebook.com/privacy/explanation.php)
 
 
 
@@ -157,7 +157,7 @@ Any information regarding a natural person, a legal person, an institution or an
 
 #### Usage Data
 
-Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+Information collected automatically from this Application (or third party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
 
 #### User
 
