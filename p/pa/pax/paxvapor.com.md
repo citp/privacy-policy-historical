@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paxvapor.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316232311id_/https%3A//www.paxvapor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paxvapor.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911163649id_/https%3A//www.paxvapor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PAX
 
 #### Introduction
 
@@ -48,7 +48,7 @@ This website is not intended for nor targeted at children under the legal tobacc
 
 PAX Labs does not track information when a Do Not Track (DNT) signal is received from your computer. However, some third party sites do keep track of your browsing activities even when a Do Not Track (DNT) signal is received. paxvapor.com utilizes third party sites to provide content to Pax Labs customers such as social media features. These third party sites may set cookies on a your browser and/or obtain your IP address. Third parties are not permitted to collect your identifiable information from paxvapor.com unless you provide it to them directly. 
 
-If you are a California resident, you have the right to receive, once per year, free of charge, 1) the identity of any third party company to which we have disclosed your personal information for that company’s direct marketing purpose; and 2) a description of the categories of personal information disclosed.  To request this information, please contact us at [legal@paxvapor.com](mailto:legal@paxvapor.com).
+If you are a California resident, you have the right to receive, once per year, free of charge, 1) the identity of any third party company to which we have disclosed your personal information for that company’s direct marketing purpose; and 2) a description of the categories of personal information disclosed.  To request this information, please contact us at [legal@pax.com](mailto:legal@pax.com).
 
 #### Third Party Websites
 
@@ -60,4 +60,4 @@ Our website supports the industry standard Secure Socket Layer (SSL) encryption 
 
 #### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [legal@paxvapor.com](mailto:legal@paxvapor.com).
+If you have any questions about this Privacy Policy, please contact us at [legal@pax.com](mailto:legal@pax.com).
