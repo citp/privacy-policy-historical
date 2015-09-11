@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2015-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150514063250id_/http%3A//www.visitlondon.com/about-us/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlondon.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911194122id_/http%3A//www.visitlondon.com/about-us/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
 
 # Privacy - visitlondon.com
 
@@ -33,7 +33,7 @@ We collect information about our users for a variety of purposes. These include:
   * so we can communicate with you in response to a specific action performed by you on this site or one of our affiliate sites, e.g. when you book a hotel, buy a ticket, reserve a table, leave a review, enter a competition, redeem a special offer.
   * so we can inform you of new competitions, special offers, relevant products and services which may be of interest
   * so we can send you news items which are relevant to your interests
-  * to help us improve and personalise our services
+  * to help us improve and personalise our services, both on our own channels and third party channels
 
 
 
