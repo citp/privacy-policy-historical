@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petroldieselprice.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512172455id_/http%3A//www.petroldieselprice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petroldieselprice.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911103727id_/http%3A//www.petroldieselprice.com/privacy-policy) for the most accurate reproduction.*
 
 # PetrolDieselPrice.com - Privacy policy and statement
 
