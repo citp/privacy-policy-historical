@@ -1,82 +1,147 @@
-> *The following text is extracted and transformed from the energysavingtrust.org.uk privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321083043id_/http%3A//www.energysavingtrust.org.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energysavingtrust.org.uk privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912013529id_/http%3A//www.energysavingtrust.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Energy Saving Trust
 
-This privacy policy applies to all areas of the Energy Saving Trust.
+## Privacy Policy
 
-The Energy Saving Trust is a social enterprise with charitable status. We have incorporated a charitable parent company, under which is a non-profit company continuing to deliver substantial government-funded programmes, and a wholly owned trading subsidiary.
+**1\. About the Energy Saving Trust**
 
-  * We have an innovative range of services, which businesses and organisations can buy to equip themselves to benefit their customers.
-  * We remain independent and we will continue to provide communities and households with impartial advice.
+We are a leading and trusted organisation helping people save energy every day. Our experts speak with millions of householders every year, deliver first class programmes for governments and provide consultancy to UK businesses and international companies. All our work is underpinned by our pioneering world-renowned research.
 
+Energy Saving Trust manages Home Energy Scotland on behalf of the Scottish Government and the Energy Saving Advice Centre on behalf of DECC.
 
+Energy Saving Trust **does not** make cold calls (we do not sell insulation or solar panels etc). If you are receiving cold calls from an organisation, the Information Commissioner’s Office has some useful advice [here](https://ico.org.uk/for-the-public/nuisance-calls/) and if you haven’t already it may be worth considering registering with the [Telephone Preference Service](http://www.tpsonline.org.uk/tps/index.html).
 
-### Telephone calls
+**2\. When we collect data from you**
 
-Calls to and from the Energy Saving Trust and Home Energy Scotland may be recorded to monitor and improve our customer service, and for staff training purposes.
+**If you telephone us (EST or the advice services) your call may be recorded for training and monitoring.**
 
-### Your personal information
+Whenever EST collects information about you we will tell you at least:
 
-We collect information about you (including name, email and address) when you:
-
-  * complete forms
-  * provide information when you contact us by email, telephone and letter
-  * provide feedback 
-  * enter competitions.
-
+  * Who we are
+  * Why we are collecting your information
+  * What we will do with it
+  * If we will share it (and who we share it with).
 
 
-### Use of your personal information
 
-We collect information about you to provide you with our services. Such services include details of grants and offers, newsletters and our energy tools (such as our Water Energy Calculator and Home Energy Check). 
+We will **always** give you the opportunity to opt-out of any future direct marketing from us when you provide us with your information and within in any additional contact you receive from us.
 
-We will use information about you:
+**3\. What information will we collect about you?**
 
-  * to process and respond to requests, enquiries and complaints received from you
-  * to provide services requested by you
+  * Contact information (eg name, postal address, email address)
+  * Information about you (eg date of birth, receipt of benefits)
+  * Information about your property (eg property age, the level of insulation, type of heating)
+  * Bank account details and other financial information
+
+
+
+**4\. Why do we ask for this information?**
+
+We will ask for your contact details so that we can:
+
+  * respond to requests, enquiries and complaints received from you
   * to contact you about services requested by you
-  * to contact you for ‘service administration purposes’ – password reminders or to notify you that a particular service has been suspended or changed
-  * to monitor customer satisfaction
-  * to keep our records up to date
-  * to analyse customer trends
-  * to monitor the energy efficiency of UK housing stock, and to assist in targeting services
+  * evaluate customer satisfaction and the success of any programmes we deliver
+  * to keep our records up-to-date
   * for audit purposes
-  * to recommend products and services that we believe will be of interest to you
-  * to enable third parties to carry out any of the purposes above on our behalf
 
 
 
-For grants and other funding we may require information about you:
+We will ask for information about you and your property so that we can:
 
-  * to process payments and repayments
-  * to assess your eligibility for funding or assistance
-  * to ensure compliance with scheme conditions (this may include site inspections depending upon the scheme)
+  * provide services requested by you
+  * asses eligibility for grant and loan funding you have applied for
+  * assess likely eligibility for other assistance you may be able to receive
+  * analyse householder trends
+  * monitor the energy efficiency of UK housing stock, and to assist in targeting services and new schemes
 
 
 
-### Sharing information about you
+We will ask for financial information so that we can:
+
+  * process payments to you and repayments (eg of loans) to us
+  * assess your eligibility for funding/assistance (for example by carrying out a credit reference check)
+
+
+
+**5\. Where we collect information about you**
+
+We will ask you to provide information for instance, when you contact us by telephone, if you make use of one of our tools (eg our Home Energy Check), if you submit a ‘contact us form’, enter a competition, attend an event, or complete a survey. If you ‘like’ or ‘follow’ any of our social media accounts (such as Facebook and Twitter) we will collect information about this (including any posts you ‘like’ or share). We will use this information to provide you with more personalised advertising and to understand how people are using the information we publish on social media. **You can change your settings within your social media accounts to set how organisations can target advertising to you through them.**
+
+**6\. Sharing information about you**
 
 We sometimes use other companies and organisations (third parties) to process personal information for us. For example we use third parties to:
 
+  * deliver our advice service
+  * carry out credit reference checks
+  * maintain our IT systems
   * carry out site inspections to assess compliance with a particular scheme
-  * send postal mail
-  * carry out credit checks
-  * maintain our IT systems.
+  * complete scheme evaluation
 
 
 
 Where we make use of third parties to process personal information, we will ensure that they have adequate security measures in place and that they comply with this privacy policy.
 
-We share information, for analysis purposes, with government departments and bodies (including the devolved nations) that provide funding to the Energy Saving Trust or have an interest in our activities.
+We share information, for analysis and reporting purposes, with government departments and bodies (including the devolved nations) that provide funding to the Energy Saving Trust or have an interest in our activities.
 
 We will also share information about you when we are required to so by law or if we have your permission to do so.
 
-### Marketing
+**7\. Direct Marketing**
 
-The Energy Saving Trust will not contact you for marketing purposes, such as notifying you of new offers and grants relating to sustainable energy use, unless you agree to this when you supply us with your information or if at a later time you sign up to receive marketing information. 
+If the Energy Saving Trust will only send you direct marketing information if you have not opted-out to receive this information when you provided your contact details, or when you have specifically asked us to send you direct marketing.
 
 We may occasionally present a promotion that is sponsored by a third-party company or organisation. To qualify for entry, we may ask you to provide personal information – if we intend to share that information with the sponsors, we will make this clear.
 
-You have the right to stop us using information about you for marketing purposes. If we want to use information about you for marketing, we will ask before we collect it. 
+You have the right to stop us using information about you for direct marketing purposes. You can do this at any time even if you previously consented to receive direct marketing. If you wish to change your marketing settings either select the link included in emails or [contact us](https://energysavingtrust.sharepoint.com/sites/Intranet/SitePages/Home.aspx) directly to let us know. We will change your setting as soon as we are able and at least within 28 days.
 
-If you agree to let us use information about you for marketing you can change your mind at any time. There will be instructions of how to easily opt out of marketing within each correspondence or you can contact us with your instructions.
+**8\. Google Analytics Advertising**
+
+Energy Saving Trust has implemented the following Google Analytics Advertising features:
+
+**Remarketing –** this enables EST to display advertising to visitors on our website as they move to other sites.
+
+**Display Network Impression Reporting –** EST can use this to understand the impact of adverts displayed on other sites. We will be able to see when someone views an advert elsewhere and then later visits EST’s website.
+
+**Demographics and Interest Reporting** – this allows us to obtain anonymous information about the users of our website. For example, we will be able to see how many visitors we had to our site in a particular age range. For more information about how Google obtains this information please [see here](https://support.google.com/adwords/answer/2580383).
+
+**9\. Targeting**
+
+If you have agreed that we can send you direct marketing we may make us of social media to target advertising to you. This will take the form of adverts about Energy Saving Trust services that appear in your newsfeed etc. This is done by ‘hashing’ your email address. A process which converts your email address to a line of numbers which is then matched against the social media provider’s records. Any hashed addresses which do not match to their records will be destroyed. No personal data is shared. You can adjust your setting within your social media:
+
+[Facebook ad settings information >](https://www.facebook.com/settings?tab=ads)
+
+[Twitter: how twitter ads work >](https://business.twitter.com/help/how-twitter-ads-work)
+
+​
+
+**10\. Mobile Applications (Apps)**
+
+When you download any of our apps (either Android or Apple):
+
+  * we may use GPS to track your position (for example within the FuelGood App)
+  * we will use to check if you already have an account with us
+  * receive data from Internet
+  * full network access
+  * view network connections
+  * prevent device from sleeping
+  * create accounts and set passwords
+  * toggle sync on and off
+
+
+
+**11\. Cookies**
+
+Please visit here for information about [cookies](https://energysavingtrust.sharepoint.com/sites/Intranet/SitePages/Home.aspxhttp:/www.energysavingtrust.org.uk/cookies).
+
+**12\. Access to your information**
+
+You have the right to access a copy of the personal information the Energy Saving Trust holds about you and to have any inaccuracies corrected. If you would like a copy of some or all of your personal information, please write to us at the following address:
+
+Data Protection Officer, Energy Saving Trust, 21 Dartmouth Street, London, SW1H 9BP
+
+We will ask for proof of your identity before we supply a copy of any personal information and may charge a £10.00 administration fee to process the request.
+
+**13\. Changes to our privacy policy**
+
+We regularly review our privacy policy to keep it up-to-date. Any changes that we make will be posted on our website. This privacy policy was last updated July 2015. 
