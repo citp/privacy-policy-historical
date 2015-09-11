@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the opticsinfobase.org privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408024623id_/http%3A//www.opticsinfobase.org/include/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opticsinfobase.org privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911235542id_/https%3A//www.osapublishing.org/privacy.cfm) for the most accurate reproduction.*
 
-# Optics InfoBase - OSA Privacy Policy
-
-[Optics InfoBase](http://www.opticsinfobase.org/) > OSA Privacy Policy 
-
-### OSA Privacy Policy
+# OSA | OSA Privacy Policy
 
 **OSA — The Optical Society of America**  
 2010 Massachusetts Ave NW  
@@ -44,6 +40,14 @@ Database download logs track which articles have been downloaded by which IP (fo
 #### Email tracking
 
 Link tracking is used within HTML-based emails to track which links have been clicked by the recipients. This tracking provides a means to measure the effectiveness of marketing campaigns.
+
+#### Use of Google Universal Analytics
+
+OSA uses "Google Analytics", including its "Universal Analytics," to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. **_OSA uses the information it gets from Google Analytics only to improve this site._** Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. In accordance with the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](http://www.howto.gov/sites/default/files/google-analytics-tos-amendment.pdf)), OSA does not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](http://www.howto.gov/sites/default/files/google-analytics-tos-amendment.pdf)) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser.
+
+Google Analytics uses cookies to define user sessions, which allows for the collection of data about how visitors are using the websites. Google Analytics uses only first-party cookies for data analysis. This means that the cookies are linked to a specific website domain, and Google Analytics will only use that cookie data for statistical analysis related to your browsing behavior on that specific website. According to Google, the data collected cannot be altered or retrieved by services from other domains.
+
+If you choose, you can opt out by turning off cookies in the preferences settings in your web browser. For more information on Google Analytics or Universal Analytics, please visit [Google Analytics](http://www.google.com/analytics/).
 
 #### Legal Disclaimer
 
