@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607075420id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911223349id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
   * [Iarnród Éireann Irish Rail Website Policy](http://www.irishrail.ie/legal/privacy-statement#cookiepolicy)
   * [Iarnród Éireann Irish Rail App Policy](http://www.irishrail.ie/legal/privacy-statement#Iarnr%C3%B3d%20%C3%89ireann%20Irish%20Rail%20Official%20Apps)
+  * [Tripstoremember.ie Policy](http://www.irishrail.ie/legal/privacy-statement#tripstoremember.ie)
 
 
 
@@ -165,3 +166,49 @@ At all times if you no longer wish for the app to use any of the features below,
  **Your personal information -** This permission allows the app to read and write data to the device's calendar. The user can save trips to his calendar, so we need to be able to store the events. We use the reading permission to get a list of all calendars available as there may be more than one, so the user can choose which calendar the trip will be saved in. We do not read or manipulate any existing calendar entries.
 
 This permission allows the user to place shortcuts on the device's home screen so the they have quick access to certain queries. This saves the user having to re-enter an origin and destination for every journey.
+
+## Tripstoremember.ie Privacy 
+
+**1.** By accessing or using the Iarnród Éireann-Irish Rail (“IE”) website at www.tripstoremember.ie (the “Service”), you agree to be bound by these terms of use for the Service (the “Terms”), as well as the Terms of Use at http://www.irishrail.ie/legal/terms-conditions and the Privacy and Cookie Policy at http://www.irishrail.ie/legal/privacy-statement (collectively the “Terms and Conditions”).
+
+**2.** You must be at least 18 years of age to use the Service.
+
+**3.** IE reserves the right to change these Terms from time to time. By continuing to access or use the Service, you agree to be bound by any such changes.
+
+**4.** If you do not agree to all of the Terms and Conditions, you should not access or use the Service.
+
+**5.** You may only submit a photograph by completing the form at [Insert link to relevant form. The form could include details of any limitations on the size of the photo file and file format accepted].
+
+**6.** IE does not guarantee that any photograph will be posted, displayed or published on or via the Service.
+
+**7.** You are fully responsible for any photograph that you submit for posting, display or publication on or via the Service.
+
+**8.** You must ensure that any photograph containing any person’s face has been taken with the permission of the person(s) in the photograph.
+
+**9.** You confirm that any photograph submitted:
+
+**9.1** is your own original work;
+
+**9.2** does not infringe the intellectual property rights of any third party;
+
+**9.3** is not offensive, abusive, indecent, pornographic, defamatory, sexist, harmful to minors, obscene, threatening, homophobic, encouraging racial hatred or violence or in breach of any person’s privacy or confidentiality rights; and
+
+**9.4** does not infringe any law.
+
+**10.** IE does not claim ownership of any of your photographs. In consideration of IE’s provision of the Service, you:
+
+**10.1** grant each of IE and Córas Iompair Éireann (“CIE”) a worldwide, royalty-free, perpetual, unrestricted, irrevocable, non-exclusive, fully transferable, assignable and sub-licensable right and licence to use, copy, reproduce, modify, adapt, publish, creative derivative works from, distribute and display your photograph (in whole or in part) and/or to incorporate such photograph in any other works in any form, media or technology now known or later developed, for any commercial, non-commercial, promotional, marketing, advertising or other purpose; and
+
+**10.2** irrevocably, unconditionally and in perpetuity waive any and all moral rights in any photograph submitted by you.
+
+**11.** You agree to defend, indemnify and hold harmless IE and CIE and their respective officers, employees, servants and agents against any and all claims, demands, losses, expenses, damages, awards, liabilities and costs (including legal costs) of whatsoever nature arising out of, in connection with or as a result of your use or misuse of the Service, including any breach by you of the Terms and Conditions.
+
+**12.** The Service is provided on an “as is” basis and without any representations or warranties of any kind, either express or implied.
+
+**13.** IE reserves the right to change, suspend or terminate the Service at any time, either in whole or in part, including your access to and/or use of the Service.
+
+**14.** To the fullest extent permitted by applicable law, neither IE, CIE nor any of their respective officers, employees, servants or agents will be liable for any loss or damage arising out of or in connection with the Service (including in respect of any change, suspension or termination thereof) or your use of the Service, including, but not limited to, direct loss, loss of data, loss of or damage to property and claims of third parties or for any indirect or consequential loss whatsoever, even if IE or CIE has been advised of the possibility of any such loss or damage, or any such loss or damage was reasonably foreseeable.
+
+**15.** Each of the provisions of these Terms is severable and if any provision is held by any court or other competent authority to be illegal, void or unenforceable in whole or in part, the legality, validity and enforceability of the remaining provisions shall not be affected or impaired thereby.
+
+**16.** These Terms shall be governed and construed in accordance with the laws of Ireland and you submit to the exclusive jurisdiction of the courts of Ireland.
