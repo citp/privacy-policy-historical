@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diyweddingsmag.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319003013id_/http%3A//www.diyweddingsmag.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyweddingsmag.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911225731id_/http%3A//www.diyweddingsmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - DIY Weddings Magazine
 
 **PRIVACY POLICY**
 
@@ -96,10 +96,8 @@ Please let us know if the personal information which we hold about you needs to 
 
 **(12) Minors**
 
-It is our intention to comply in all respects with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). To that end, purchasing Services is strictly limited to those who are not minors. Therefore, it is not anticipated that we will collect data relating to minors, as defined in COPPA. However, in the event that it comes to our attention that we have collected any data from or relating to a minor in any form that is not anonymised, we will promptly destroy that data, and will not distribute it to others, or keep copies thereof (other than, at our option, in a “deleted or destroyed information” file, to be used solely to evidence the destruction and non-use of that information).
+It is our intention to comply in all respects with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). To that end, purchasing Services is strictly limited to those who are not minors. Therefore, it is not anticipated that we will collect data relating to minors, as defined in COPPA. However, in the event that it comes to our attention that we have collected any data from or relating to a minor in any form that is not anonymised, we will promptly destroy that data, and will not distribute it to others, or keep copies thereof (other than, at our option, in a “deleted or destroyed information” file, to be used solely to evidence the destruction and non-use of that information). 
 
 ### Contacting Us
 
 We can be reached by E-mail at: [info@diyweddingsmag.com](mail:info@diyweddingsmag.com)
-
-[](https://www.pinterest.com/pin/create/button/)
