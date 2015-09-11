@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the velogames.com privacy policy that was archived on 2015-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150512062822id_/http%3A//www.velogames.com/tirreno-adriatico/2015/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velogames.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912003625id_/http%3A//www.velogames.com/tour-of-britain/2015/privacy.php) for the most accurate reproduction.*
 
-# Velogames Fantasy Cycling 2015 | Fantasy Paris-Nice 2015
+# Velogames Fantasy Cycling 2015 | Fantasy Tour de France 2015
 
 ## Overview
 
@@ -78,7 +78,7 @@ Such authorisation will be requested in two instances, namely (i) Prize Fulfillm
 
 **Prize Fulfillment**
 
-In the event that a user wins a prize, the user will be requested to provide Velogames with their address and phone number, and be asked to give consent that this information is forwarded to the prize sponsor in charge of delivering the prize. The prize sponsor will be aked by Velogames to use this information for the sole purpose of Prize Fulfillment. Additional use of the information, such as for Promotional Material in relation to the prize, will need to discussed between the individual winer and prize sponsor. 
+In the event that a user wins a prize, the user will be requested to provide Velogames with their address and phone number, and be asked to give consent that this information is forwarded to the prize sponsor in charge of delivering the prize. The prize sponsor will be aked by Velogames to use this information for the sole purpose of Prize Fulfillment. Additional use of the information, such as for Promotional Material in relation to the prize, will need to discussed between the individual user and prize sponsor. 
 
 **Marketing Opt-Ins**
 
