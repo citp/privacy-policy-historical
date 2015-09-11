@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arclightcinemas.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315004939id_/https%3A//www.arclightcinemas.com/learn-more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arclightcinemas.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911223743id_/https%3A//www.arclightcinemas.com/learn-more/privacy-policy) for the most accurate reproduction.*
 
 # Learn More | Privacy Policy - ArcLight Cinemas
 
