@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xeeme.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702100429id_/http%3A//society3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeeme.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911054437id_/http%3A//go.appearoo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Society3
+# Privacy Policy - appearoo
 
 ## The essence of our Privacy Policy
 
@@ -11,7 +11,7 @@
 We will NOT sell or otherwise distribute any of your personal information to any third party without your specific and individual approval.
 
 **3) Data visibility control**  
-You are in control of the visibility of your personal contact information (email, phone numbers, IM etc.).
+You are in control of the visibility of your personal [contact](http://go.appearoo.com/contact/) information (email, phone numbers, IM etc.).
 
 **4) Data ownership**  
 You own your personal information and have the right to export and transfer it to any place you wish including any other network.
@@ -25,7 +25,7 @@ We use secure login encryption and we do encrypt all passwords stored on Society
 ## The Privacy Policy
 
 **General Statement**  
-While visiting our general web site Society3.com or XeeMe.com, we do not collect or require any personal information. If you are using our services such as any of our online applications, we do require users to register and ask you to provide personal and business profile information. The nature of all Society3 social media applications is to publicly share social presence information. However it is up to you to define the level of exposure of your personal information and who shall have access to that information. By default no email addresses or birthday personal is exposed to anybody, yet your name and photo as well as title or company relationship is publicly visible.
+While visiting our general web site Society3.com or XeeMe.com, we do not collect or require any personal information. If you are using our services such as any of our online applications, we do require users to register and ask you to provide personal and business profile information. The nature of all Society3 social [media](http://go.appearoo.com/media/) applications is to publicly share social presence information. However it is up to you to define the level of exposure of your personal information and who shall have access to that information. By default no email addresses or birthday personal is exposed to anybody, yet your name and photo as well as title or company relationship is publicly visible.
 
 **Support of the Respect Trust Framework**  
 This Privacy Policy incorporates by reference the Respect Trust Framework listed with the [Open Identity Exchange](http://openidentityexchange.org/trust-frameworks/respect-trust-framework) The purpose of the Respect Trust Framework is to define a simple set of principles and rules to which all Members of a digital trust network agree so that they may share identity and personal data with greater confidence that it will be protected and only used as authorized. Society3 and all Members of the Respect Network agree to operate under the Respect Trust Framework.
