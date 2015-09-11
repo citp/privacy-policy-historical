@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the qusec.in privacy policy that was archived on 2015-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150412022806id_/http%3A//qusec.in/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qusec.in privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911135418id_/http%3A//homeneed.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-PLEASE READ THESE QUSEC RETAIL VENTURES PRIVACY POLICY AND RULES CAREFULLY BEFORE USING THIS WEBSITE. THIS PRIVACY POLICY AND RULES GOVERN YOUR USE OF THE WEBSITE LOCATED AT www.Qusec.in, AND ARE APPICABLE TO ANY AND ALL SERVICES OFFERED www.Qusec.in THROUGH OTHER MEANS (like widgets/gadgets/api/products).
+PLEASE READ THESE QUSEC RETAIL VENTURES PRIVACY POLICY AND RULES CAREFULLY BEFORE USING THIS WEBSITE. THIS PRIVACY POLICY AND RULES GOVERN YOUR USE OF THE WEBSITE LOCATED AT WWW.HOMENEED.COM, AND ARE APPICABLE TO ANY AND ALL SERVICES OFFERED.
 
 **Privacy Policy Purpose**
 
@@ -47,15 +46,15 @@ QUSEC RETAIL VENTURES may at times collect personally identifiable information. 
 
 **Use of Cookies**
 
-Cookies are pieces of information that a website transfers to any individual’s hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you’re at our site. The use of cookies is an industry standard—you’ll find them at most major websites. By showing how and when guests use the site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. If you accept the first tracking cookie from Buy Easy Be Busy, you won’t be offered as many afterwards. You may occasionally get cookies from our advertisers. Buy Easy Be Busy does not control these cookies, and these cookies are not subject to the Buy Easy Be Busy cookies policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry. Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, like the shopping areas, will not function properly if you do so.
+Cookies are pieces of information that a website transfers to any individual’s hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your passwords, purchases, and preferences while you’re at our site. The use of cookies is an industry standard—you’ll find them at most major websites. By showing how and when guests use the site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. If you accept the first tracking cookie from homeneed.com, you won’t be offered as many afterwards. You may occasionally get cookies from our advertisers. Homeneed.com does not control these cookies, and these cookies are not subject to the homeneed.com cookies policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry. Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, like the shopping areas, will not function properly if you do so.
 
 **Managing Your Information**
 
-You are entitled to request access to and correction of all your personal data collected by us via this Website, as well as to require us to delete your data if you no longer want us to process it. You can make such a request or a related inquiry by emailing us at info@Qusec.in Please note that there may be a small charge for making an access request or it may be free, depending on the circumstances. You can find out more details by emailing us as provided above. We will keep your data as long as it is reasonably necessary for the purposes described in this Privacy Policy and Rules. You may choose not to receive unsolicited marketing material from us and you have the right to request deletion of your Buy Easy Be Busy account information, subject to QUSEC RETAIL VENTURES need to keep appropriate archives of its business operations.
+You are entitled to request access to and correction of all your personal data collected by us via this Website, as well as to require us to delete your data if you no longer want us to process it. You can make such a request or a related inquiry by emailing us at wecare@homeneed.com Please note that there may be a small charge for making an access request or it may be free, depending on the circumstances. You can find out more details by emailing us as provided above. We will keep your data as long as it is reasonably necessary for the purposes described in this Privacy Policy and Rules. You may choose not to receive unsolicited marketing material from us and you have the right to request deletion of your homeneed.com account information, subject to QUSEC RETAIL VENTURES need to keep appropriate archives of its business operations.
 
 **About IP Addresses**
 
-QUSEC RETAIL VENTURES reserves the right to collect your IP addresse(s) for the purposes of system administration and security reasons. An IP address is a number that’s automatically assigned to your computer whenever you’re surfing the Web. Web servers—the big computers that “serve” up Web pages—automatically identify your computer by its IP address. When guests request pages from Buy Easy Be Busy, our servers log their IP addresses. We do not link IP addresses to anything personally identifiable. This means that a user’s session will be logged, but the user remains anonymous to us.
+QUSEC RETAIL VENTURES reserves the right to collect your IP addresse(s) for the purposes of system administration and security reasons. An IP address is a number that’s automatically assigned to your computer whenever you’re surfing the Web. Web servers—the big computers that “serve” up Web pages—automatically identify your computer by its IP address. When guests request pages from homeneed.com, our servers log their IP addresses. We do not link IP addresses to anything personally identifiable. This means that a user’s session will be logged, but the user remains anonymous to us.
 
 **Security**
 
@@ -69,20 +68,20 @@ QUSEC RETAIL VENTURES may make modifications or amendments to this policy from t
 
 This site may contain hypertext links to websites that are not created or maintained by QUSEC RETAIL VENTURES. This Privacy Policy and Rules applies only to this Website and not to any of these third party websites. QUSEC RETAIL VENTURES is not responsible for the accuracy, relevance, timeliness, or completeness of those third party websites. The inclusion of any link to such websites does not imply endorsement, sponsorship, or recommendation by QUSEC RETAIL VENTURES of the site. QUSEC RETAIL VENTURES disclaims any liability for links
 
-(1) from another website to www.Qusec.in and
+(1) from another website to www.homeneed.com and
 
-(2) to another website from www.Qusec.in
+(2) to another website from www.homeneed.com
 
 QUSEC RETAIL VENTURES cannot guarantee the standards of any website to which links are provided on this site nor shall QUSEC RETAIL VENTURES be held responsible for the contents of non- QUSEC RETAIL VENTURES websites, or any subsequent links. For this reason, QUSEC RETAIL VENTURES does not represent or warrant that the contents of any third party website is accurate, compliant with state or central law, or compliant with copyright or other intellectual property laws. QUSEC RETAIL VENTURES does not endorse the contents of these third party websites in any way. Also, QUSEC RETAIL VENTURES is not responsible for web casting or any other form of transmission received from any linked website. Any reliance on the contents of a third party Website is done at your own risk and you assume all responsibilities and consequences resulting from such reliance. By using this website, you signify your assent to the QUSEC RETAIL VENTURES Privacy Policy and Rules. If you do not agree to this policy, please do not use the site.
 
-We reserve the right, at our discretion, to change this policy at any time. Please check this page periodically for changes. Your continued use of www.Qusec.in following the posting of changes to these terms will mean you accept those changes.
+We reserve the right, at our discretion, to change this policy at any time. Please check this page periodically for changes. Your continued use of HomeNeed.com following the posting of changes to these terms will mean you accept those changes.
 
 **How to Contact Us**
 
-www.Qusec.in is controlled and operated by QUSEC RETAILVENTURES. Please forward any comments or complaints or any questions regarding privacy to “info@Qusec.in”.
+www.homeneed.com is controlled and operated by QUSEC RETAILVENTURES. Please forward any comments or complaints or any questions regarding privacy to “wecare@homeneed.com”.
 
 Contact details
 
 •           Customer Care: 080 6700 6969
 
-•           Email: info@qusec.in
+•           Email: wecare@homeneed.com
