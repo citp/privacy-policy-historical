@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2015-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150426193730id_/http%3A//www.jstor.org/page/info/about/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jstor.org privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912013303id_/http%3A//www.jstor.org/page/info/about/policies/privacy.jsp) for the most accurate reproduction.*
 
 # JSTOR: Privacy Policy
 
-This privacy statement describes how ITHAKA collects and uses the personal information you provide on our websites: [www.ithaka.org](http://www.ithaka.org/), [www.jstor.org](http://www.jstor.org/) and [www.portico.org](http://www.portico.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. ITHAKA is committed to protecting the privacy of users of its website and services, including users of JSTOR and JSTOR-branded services (Current Scholarship Program, Individual Access, Publisher Sales Service), Ithaka S+R, JSTOR Global Plants and Portico (collectively, "ITHAKA Websites"). To better inform you of our policy concerning user privacy, we have adopted the following terms, which adhere to the Safe Harbor Principles issued by the U.S. Department of Commerce.
+This privacy statement describes how ITHAKA collects and uses the personal information you provide on our websites: [www.ithaka.org](http://www.ithaka.org/), [www.jstor.org](http://www.jstor.org/) and [www.portico.org](http://www.portico.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. ITHAKA is committed to protecting the privacy of users of its website and services, including users of JSTOR and JSTOR-branded services (Current Scholarship Program, Individual Access, Publisher Sales Service), Ithaka S+R, JSTOR Global Plants and Portico (collectively, “ITHAKA Websites”). To better inform you of our policy concerning user privacy, we have adopted the following terms, which adhere to the Safe Harbor Principles issued by the U.S. Department of Commerce.
 
-ITHAKA has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through these Web sites, [www.ithaka.org](http://www.ithaka.org/), [www.jstor.org](http://www.jstor.org/) and [www.portico.org](http://www.portico.org/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@ithaka.org](mailto:privacy@ithaka.org). If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information collected through our websites: [www.ithaka.org](http://www.ithaka.org/), [www.jstor.org](http://www.jstor.org/) and [www.portico.org](http://www.portico.org/). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. 
 
 [](https://privacy.truste.com/privacy-seal/Ithaka/validation?rid=ccd252da-d535-42f4-b682-46f3fe531f85 "TRUSTe online privacy certification")   
 
@@ -27,11 +27,11 @@ In addition, ITHAKA and/or third party service providers may use technologies su
 
 #### Other Tracking Technologies
 
-As is true of most web sites, ITHAKA gathers certain information automatically and stores it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+As is true of most web sites, ITHAKA gathers certain information automatically and stores it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We link this automatically collected data to other information we collect about you.
 
-Technologies such as: web beacons, tags and scripts are used by ITHAKA and third party service and analytics providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole for the purposes of gathering analytics and improving site performance. We may receive data on the use of these technologies by these partners on an individual as well as aggregated basis.
+Technologies such as: web beacons, tags and scripts are used by ITHAKA and our affiliates, or analytics or service providers [e.g. technology providers]. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole for the purposes of gathering analytics and improving site performance. We may receive data on the use of these technologies by these partners on an individual as well as aggregated basis.
 
-Third parties with whom we partner to provide certain features on our site based upon your browsing activity on the site use Local Stored Objects (“LSOs”) such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
+We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site based upon your browsing activity on the site use Local Stored Objects (“LSOs”) such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 #### Widgets
 
@@ -45,7 +45,7 @@ ITHAKA may also transfer personally identifiable information to third parties, s
 
 ITHAKA does not sell or share personal information about or the purchasing history of individual users, except as set forth above and in the following circumstances:
 
-  * if required to do so by law or if we believe in good faith that such action is necessary to comply with the law or a legal proceeding; to protect against violations of our Terms and Conditions of Use; or to protect and defend our rights and property or the rights and property of rights holders whose content is made available through ITHAKA Websites;
+  * if required to do so by law or if we believe in good faith that such action is necessary to comply with the law or a legal proceeding such as to comply to a subpoena, bankruptcy proceedings or similar legal process ;  to protect against violations of our Terms and Conditions of Use; or to protect and defend our rights and property or the rights and property of rights holders whose content is made available through ITHAKA Websites;
   *   
 
   * with service providers with whom we have entered into agreements to assist us with our business operations;
@@ -78,7 +78,7 @@ In the event that we discover or are notified of a security breach where persona
 
 ### Access and Correction
 
-If you would like to review, delete or update your information, you may contact us using the contact information below. We will take reasonable steps to permit you to correct, amend, or delete information that is demonstrated to be inaccurate. Please note, because of the way we maintain certain services, after you delete or amend your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+If you would like to review, delete or update your information, you may contact us using the contact information below. We will take reasonable steps to permit you to correct, amend, or delete information that is demonstrated to be inaccurate. We will respond to your request within a reasonable timeframe. Please note, because of the way we maintain certain services, after you delete or amend your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
 
 You will need to provide sufficient identifying information, such as your name and email address and possible additional identifying information as a security precaution. We may limit or deny access to personal information where providing such access would be unreasonably burdensome or expensive under the circumstances, or as otherwise permitted by the Safe Harbor Principles.
 
@@ -91,6 +91,10 @@ We will retain your information for as long as your account is active or as need
 If you choose to use our referral service to send a citation to a friend, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. ITHAKA stores this information for the sole purpose of sending this one-time email.
 
 Your friend may contact us at [privacy@ithaka.org](mailto:privacy@ithaka.org) to request that we remove this information from our database.
+
+**Testimonials**
+
+We display personal testimonials of satisfied customers on our website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [privacy@ithaka.org](mailto:privacy@ithaka.org).
 
 ### Enforcement and Dispute Resolution
 
@@ -113,4 +117,4 @@ If you have any inquiries about this Privacy Policy or its implementation, you m
 2 Rector Street,18th Floor    
 New York, New York 10006 
 
-Last updated on April 7, 2015
+Last updated on July 8, 2015
