@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naiyerjawaid.com privacy policy that was archived on 2015-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150606114443id_/http%3A//feasibility.pro/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naiyerjawaid.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911230643id_/http%3A//feasibility.pro/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Feasibility.pro
 
