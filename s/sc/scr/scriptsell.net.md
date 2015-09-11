@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scriptsell.net privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315005758id_/http%3A//scriptsell.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptsell.net privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911225038id_/http%3A//scriptsell.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ScriptSell.net:: Drownload Free Wordpress and Other Themes ; Templates, Scripts, Graphics & Vectors
 
