@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.govt.nz privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513052952id_/http%3A//www.education.govt.nz/footer/legal-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.govt.nz privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911101604id_/http%3A//www.education.govt.nz/footer/legal-and-privacy) for the most accurate reproduction.*
 
 # Legal and privacy | Education in New Zealand
 
@@ -36,4 +36,4 @@ You can manually disable cookies at any time - check your browser's "Help" to fi
 
 Publication of email addresses on this site should not be taken as deemed consent to receiving unsolicited email. Persons or organisations wishing to send email material to individuals or organisations whose email addresses appear on this website must comply with the requirements of the [Unsolicited Electronic Messages Act 2007](http://www.dia.govt.nz/diawebsite.nsf/wpg_URL/Services-Anti-Spam-Index?OpenDocument&ExpandView#three).
 
-Last reviewed: 09 October 2014Has this been useful? [Give us your feedback](http://www.education.govt.nz/footer/legal-and-privacy/feedback)
+Last reviewed: 09 October 2014 Has this been useful? [Give us your feedback](http://www.education.govt.nz/home/your-feedback/)
