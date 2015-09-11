@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonoodle.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315202648id_/https%3A//www.gonoodle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonoodle.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912015757id_/https%3A//www.gonoodle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoNoodle
 
@@ -6,7 +6,7 @@ Last updated September 15, 2014
 
 The website [www.gonoodle.com](https://www.gonoodle.com/) and the GoNoodle mobile applications (together “GoNoodle”) are owned and operated by HealthTeacher, Inc. (“HealthTeacher”, “we”, “our” or “us”).
 
-We created GoNoodle to help teachers give students fun, interactive brain breaks to keep them focused and engaged throughout the school day. GoNoodle’s brain breaks are now available to kids and their parents outside the classroom. Your privacy and the privacy of children who use GoNoodle are important to us, and we created this Privacy Policy to inform you of the information we collect when you use the Site, how we use it, and how we share it with others. HealthTeacher has developed its privacy practices to adhere to the Children’s Online Privacy Protection Act (COPPA). 
+We created GoNoodle to help teachers give students fun, interactive activities to keep them focused and engaged throughout the school day. GoNoodle’s activities are now available to kids and their parents outside the classroom. Your privacy and the privacy of children who use GoNoodle are important to us, and we created this Privacy Policy to inform you of the information we collect when you use the Site, how we use it, and how we share it with others. HealthTeacher has developed its privacy practices to adhere to the Children’s Online Privacy Protection Act (COPPA). 
 
 ### INFORMATION WE COLLECT
 
@@ -26,9 +26,9 @@ We may also use cookies ⎯ small files that we place in a user’s computer bro
 
 ### HOW WE USE THE INFORMATION WE COLLECT
 
-We use the information collected from children and from parents for internal purposes only, such as helping users keep track of the brain breaks they have played, to help us understand the general location of GoNoodle’s users, and to help us operate and improve GoNoodle.
+We use the information collected from children and from parents for internal purposes only, such as helping users keep track of the activities they have played, to help us understand the general location of GoNoodle’s users, and to help us operate and improve GoNoodle.
 
-We use the parents’ email address to communicate about their children’s use of GoNoodle, and to notify parents of activities in their area related to GoNoodle brain breaks that may interest them. Parents may opt out of receiving email communications at any time. 
+We use the parents’ email address to communicate about their children’s use of GoNoodle, and to notify parents of activities in their area related to GoNoodle activities that may interest them. Parents may opt out of receiving email communications at any time. 
 
 ### THIRD PARTIES
 
