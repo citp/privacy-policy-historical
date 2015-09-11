@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emerson.edu privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629135344id_/http%3A//www.emerson.edu/about-emerson/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emerson.edu privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911114133id_/http%3A//www.emerson.edu/about-emerson/privacy) for the most accurate reproduction.*
 
 # Emerson College Privacy Policy | Emerson College
 
@@ -21,7 +21,9 @@ Emerson College may use or disclose your IP address, and data connection-specifi
 
 ####  II. Use of Cookies
 
-Cookies are text files stored on computers to enhance the usability and regular operation of a website. Emerson College may use cookies to store information during and after an individual accesses Emerson websites. The use of cookies enables Emerson to tailor the use of our websites to individual visitors, and to tell if individuals have visited us before so we can be aware of an individual’s choices and interests the next time they visit. Any information, including personal information, which you expressly choose to provide, may be stored in a cookie. Your Web browser can be configured to refuse cookies or to notify you when an Emerson College website attempts to send you a cookie, however making this choice could detract from the usability of certain Emerson College websites.
+Cookies are text files stored on computers to enhance the usability and regular operation of a website. Emerson College may use cookies to store information during and after an individual accesses Emerson websites. The use of cookies enables Emerson to tailor the use of our websites to individual visitors, and to tell if individuals have visited us before so we can be aware of an individual’s choices and interests the next time they visit. Any information you choose to provide may be stored in a cookie.
+
+Emerson College may also use cookies to deliver online advertisements to previous visitors to the Emerson.edu domain. The techniques that our digital advertising partners employ do not collect personally identifiable information. Your web browser can be configured to refuse cookies or to notify you when an Emerson College website attempts to send you a cookie, however, making this choice could detract from the usability of certain Emerson College websites and prevent targeted messaging through digital advertising.  
 
 ####  III. Individual Accounts
 
