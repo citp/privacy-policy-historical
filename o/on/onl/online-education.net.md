@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2015-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150421010444id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-education.net privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912001033id_/http%3A//www.online-education.net/privacy.html) for the most accurate reproduction.*
 
 # Online-Education.net Privacy Policy
 
