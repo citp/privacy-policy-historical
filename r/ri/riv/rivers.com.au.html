@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rivers.com.au privacy policy that was archived on 2015-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150317185301id_/http%3A//rivers.com.au/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rivers.com.au privacy policy that was archived on 2015-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150912010108id_/http%3A//www.rivers.com.au/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <script async="" src="//web.archive.org/web/20141010171559/http://www.google-analytics.com/analytics.js"></script><script src="//cdn.optimizely.com/js/2206273365.js"></script>
@@ -30,51 +30,283 @@ Fashion Links directory">
     <![endif]-->
     <script type="text/javascript" src="/includes/jquery-1.11.1.min.js"></script>
     <link rel="stylesheet" href="../includes/css/static.css" type="text/css"> <!-- Custom .css scrit -->
-    <div id="container">
+    
+<div id="container">
 	<div id="header" class="clearfix">
-	<!--
-				<div id="searchdivider"><p>OR</p></div>
-		
-		<div id="altsearch">
-			<div class="linedinput">
-				<input type="text" name="DeptSearch" placeholder="Department" id="DeptSearch">
-			</div>
-			<div class="linedinput">
-				<input type="text" name="SizeSearch" placeholder="Size" id="SizeSearch">
-			</div>
-		</div>
-		-->
-		<div id="search">
-		
-			<label for="searchbox">Find Your New Favourite</label>
-			
-			<div id="stylesearch">
-			<form name="SearchForm" method="post" action="/catalogdb/findbysize.asp">
-			<input type="text" name="SearchStyle" placeholder="Search by Style Code" id="searchbox" maxlength="20"><input type="image" src="/pics/MagnifyingGlass.gif" id="productsearch" value="Search" name="ProductSearch"> </form></div>
-				
+	
 
-			
-		</div>
+		
+
+		
+	<div id="search"><label for="searchbox">Find Your New Favourite</label>
+	<form name="SearchForm" method="post" action="/catalogdb/findbysize.asp">
+	<div id="stylesearch">
+	<input type="text" name="SearchStyle" placeholder="Search by Style Code" id="searchbox"><input type="image" src="/pics/MagnifyingGlass.gif" id="productsearch" value="Search" name="ProductSearch"> </div>
+	</form></div>
 	
 		<div id="logo"><a href="/index.asp"><img src="/pics/Logo_60.png" alt="Rivers Logo" title="Rivers Australia"></a><span id="logotext">RIVERS</span></div>
 
 	</div>
-	
-	<div id="navbar">
+	<script type="text/javascript">
+	$('form[name=DeptSearchForm]').on('submit', function() {
+	if (this.SearchCategory.value != "") {
+					if (this.SearchSize.value == "") {
+						alert("A size must be selected");
+						this.SearchSize.focus();
+						return false;
+					} else {
+						return true;
+					}
+				} else {
+					alert("Please select a Category and a Size");
+					return false;
+				}
+
+	})
+	</script>
+	<script type="text/javascript">
+
+		subMenus = { 'mens-cat': 'none',
+			'womens-cat': 'none',
+			'kids-cat': 'none',
+			'accessories-cat': 'none'
+		}
+
+		function resetArray()
+		{
+			subMenus = { 'mens-cat': 'none',
+				'womens-cat': 'none',
+				'kids-cat': 'none',
+				'accessories-cat': 'none'
+			}
+		}
+
+
+		function refreshSubMenu()
+		{
+			for (var key in subMenus)
+			{
+				$("div[id='" + key + "']").css({
+					display: subMenus[key]
+				})
+			}
+		}
+
+		function showMenu(heading)
+		{
+			resetArray()
+			subMenus[heading] = 'block'
+			refreshSubMenu()
+			/*$(heading).find("div[class='mega-menu']").css({
+			display: "inline-block"
+			})*/
+		}
+
+		function hideMenu()
+		{
+			resetArray()
+			refreshSubMenu()
+			/*$(heading).find("div[class='mega-menu']").css({
+			display: "none"
+			}) */
+		}
+	</script>
+
+	<div id="navbar" class="navbuttons">
 	<ul id="headernav">
-		<li><a id="newarrivals" href="/catalogdb/newarrivals.asp">New Arrivals</a></li>
-		<li><a id="men" href="/shopmens.asp">Men</a></li> 
-		<li><a id="women" href="/shopwomens.asp">Women</a></li> 
-		<li><a id="kids" href="/shopkids.asp">Kids</a></li> 
-		<li><a id="accessories" href="/catalogdb/products.asp?category=167">Accessories</a></li>
-		<li><a id="sale" href="/catalogdb/sale.asp">SALE</a></li>
-		<li><a id="mycart" href="/catalogdb/cart.asp?cmdView=-9">My Cart<img alt="My Cart" src="/pics/ShoppingCart2.png" class="cartimage"></a></li>
+	<li><a href="/catalogdb/newarrivals.asp" id="new" style="float:left;">New Arrivals</a></li>
+	<li onmouseover="showMenu('mens-cat')" onmouseout="hideMenu()"><a href="/shopmens.asp" id="men" style="float:left;">Men</a></li> 
+	<li onmouseover="showMenu('womens-cat')" onmouseout="hideMenu()"><a href="/shopwomens.asp" id="women" class="selected" style="float:left;">Women</a></li> 
+	<li onmouseover="showMenu('kids-cat')" onmouseout="hideMenu()"><a href="/shopkids.asp" id="kids" style="float:left;">Kids</a></li> 
+	<li onmouseover="showMenu('accessories-cat')" onmouseout="hideMenu()"><a href="/shopaccessories.asp" id="accessories" style="float:left;">Accessories</a></li> 
+
+	<li><a href="/catalogdb/Sale.asp" id="sale" style="float:left;">SALE</a></li>
+	<li><a href="/catalogdb/cart.asp?cmdView=-9" id="mycart">My Cart<img class="cartimage" src="/pics/ShoppingCart2.png" alt="My Cart"></a></li>
 	</ul>
 	</div>
 
+	<div id="mens-cat" onmouseover="showMenu('mens-cat')" onmouseout="hideMenu()" name="mens-cat" class="mega-menu" style="display:none;">
+	<link rel="stylesheet" href="/includes/category-menu.css" type="text/css">
 	
-	<div id="byline">FREE AUSTRALIAN DELIVERY ON ORDERS $70 OR OVER</div>
-	
+<div id="category" class="clearfix" style="margin-top:0px;">
+	<div id="categorycontent" class="clearfix" style="margin-bottom:0px;">
+		<ul class="clothing category">
+			<li class="header">
+				<h4>Clothing</h4>
+			</li>
+			<ul class="items">
+				<li><a href="/catalogdb/products.asp?category=211">Hoodies and Sweatshirts</a></li><li><a href="/catalogdb/products.asp?category=383">Jackets</a></li><li><a href="/catalogdb/products.asp?category=341">Jeans</a></li><li><a href="/catalogdb/products.asp?category=415">Jumpers and Knitwear</a></li><li><a href="/catalogdb/products.asp?category=210">Pants and Chinos</a></li><li><a href="/catalogdb/products.asp?category=335">Performance Clothing</a></li><li><a href="/catalogdb/products.asp?category=216">Polos - Short Sleeve</a></li><li><a href="/catalogdb/products.asp?category=418">Polos - Long Sleeve</a></li><li><a href="/catalogdb/products.asp?category=432">Shirts - Short Sleeve</a></li><li><a href="/catalogdb/products.asp?category=434">Shirts - Long Sleeve</a></li><li><a href="/catalogdb/products.asp?category=217">Shorts</a></li><li><a href="/catalogdb/products.asp?category=422">Sleepwear</a></li><li><a href="/catalogdb/products.asp?category=420">Socks</a></li><li><a href="/catalogdb/products.asp?category=372">Swimwear</a></li><li><a href="/catalogdb/products.asp?category=417">Tanks and Singlets</a></li><li><a href="/catalogdb/products.asp?category=416">Trackpants</a></li><li><a href="/catalogdb/products.asp?category=218">T-Shirts</a></li><li><a href="/catalogdb/products.asp?category=440">T-Shirts - Long Sleeve</a></li><li><a href="/catalogdb/products.asp?category=421">Underwear</a></li><li><a href="/catalogdb/products.asp?category=209">Vests</a></li>
+			</ul>
+		</ul>
+		<ul class="footwear category">
+			<li class="header">
+				<h4>Shoes</h4>
+			</li>
+			<ul class="items">
+				<li><a href="/catalogdb/products.asp?category=433">Athletics</a></li><li><a href="/catalogdb/products.asp?category=205">Boots</a></li><li><a href="/catalogdb/products.asp?category=201">Casual Shoes</a></li><li><a href="/catalogdb/products.asp?category=203">Dress Shoes</a></li><li><a href="/catalogdb/products.asp?category=439">Performance Footwear</a></li><li><a href="/catalogdb/products.asp?category=206">Sandals</a></li><li><a href="/catalogdb/products.asp?category=384">Slippers</a></li><li><a href="/catalogdb/products.asp?category=419">Thongs, Clogs and Slides</a></li>
+				<!--<li><a href="/catalogdb/products.asp?category=142">Work Shoes</a></li>-->
+			</ul>
+		</ul>
+
+		<ul class="accessories category">
+			<li class="header">
+				<h4>Accessories</h4>
+			</li>
+			<ul class="items">
+				<li><a href="/catalogdb/products.asp?category=423">Bags</a></li><li><a href="/catalogdb/products.asp?category=424">Belts</a></li><li><a href="/catalogdb/products.asp?category=425">Hats</a></li><li><a href="/catalogdb/products.asp?category=426">Sunnies and Readers</a></li><li><a href="/catalogdb/products.asp?category=427">Umbrellas</a></li><li><a href="/catalogdb/products.asp?category=429">Gloves</a></li><li><a href="/catalogdb/products.asp?category=430">Gifts</a></li>
+			</ul>
+		</ul>
+
+		<ul class="giftvoucher category">
+			<li class="header">
+				<h4>Gift Vouchers</h4>
+			</li>
+			<ul class="items">
+				<li>
+					<a href="/catalogdb/GiftVouchers.asp">Buy a Gift Voucher</a>
+				</li>
+			</ul>
+		</ul>
+
+	</div>
+</div>
+	</div>
+	<div id="womens-cat" onmouseover="showMenu('womens-cat')" onmouseout="hideMenu()" name="womens-cat" class="mega-menu" style="display:none;">
+		<link rel="stylesheet" href="/includes/category-menu.css" type="text/css">
+
+<div id="category" class="clearfix" style="margin-top:0px;">
+	<div id="categorycontent" class="clearfix" style="margin-bottom:0px;">
+		<ul class="clothing category">
+			<li class="header">
+				<h4>Clothing</h4>
+			</li>
+			<ul class="items">
+				<li><a href="/catalogdb/products.asp?category=413">Dresses and Jumpsuits</a></li>
+				<!-- <li><a href="/catalogdb/products.asp?category=377">Cathouse Suits</a></li>-->
+				<li><a href="/catalogdb/products.asp?category=236">Jackets and Coats</a></li><li><a href="/catalogdb/products.asp?category=344">Jeans</a></li><li><a href="/catalogdb/products.asp?category=345">Knitwear</a></li><li><a href="/catalogdb/products.asp?category=411">Leggings</a></li><li><a href="/catalogdb/products.asp?category=340">Leisure Wear</a></li><li><a href="/catalogdb/products.asp?category=228">Pants</a></li><li><a href="/catalogdb/products.asp?category=410">Performance Wear</a></li><li><a href="/catalogdb/products.asp?category=231">Shorts</a></li><li><a href="/catalogdb/products.asp?category=409">Skirts</a></li><li><a href="/catalogdb/products.asp?category=356">Sleepwear</a></li><li><a href="/catalogdb/products.asp?category=441">Socks</a></li><li><a href="/catalogdb/products.asp?category=373">Swimwear</a></li><li><a href="/catalogdb/products.asp?category=366">Tees &amp; Tanks</a></li><li><a href="/catalogdb/products.asp?category=358">Underwear</a></li><li><a href="/catalogdb/products.asp?category=412">Woven Tops</a></li>
+			</ul>
+		</ul>
+		<ul class="footwear category">
+			<li class="header">
+				<h4>Shoes</h4>
+			</li>
+			<ul class="items">
+				<li><a href="/catalogdb/products.asp?category=326">Athletics</a></li><li><a href="/catalogdb/products.asp?category=352">Boots</a></li><li><a href="/catalogdb/products.asp?category=223">Casual Shoes</a></li><li><a href="/catalogdb/products.asp?category=222">Dress Shoes</a></li><li><a href="/catalogdb/products.asp?category=414">Performance Footwear</a></li><li><a href="/catalogdb/products.asp?category=435">Sandals</a></li><li><a href="/catalogdb/products.asp?category=369">Slippers</a></li><li><a href="/catalogdb/products.asp?category=226">Thongs and Clogs</a></li>
+			</ul>
+		</ul>
+
+		<ul class="accessories category">
+			<li class="header">
+				<h4>Accessories</h4>
+			</li>
+			<ul class="items">
+				<li><a href="/catalogdb/products.asp?category=400">Bags</a></li><li><a href="/catalogdb/products.asp?category=401">Belts</a></li><li><a href="/catalogdb/products.asp?category=402">Hats</a></li><li><a href="/catalogdb/products.asp?category=403">Sunnies and Readers</a></li><li><a href="/catalogdb/products.asp?category=427">Umbrellas</a></li><li><a href="/catalogdb/products.asp?category=405">Jewellery</a></li><li><a href="/catalogdb/products.asp?category=406">Scarves</a></li><li><a href="/catalogdb/products.asp?category=408">Gifts</a></li>
+			</ul>
+		</ul>
+
+		<ul class="giftvoucher category">
+			<li class="header">
+				<h4>Gift Vouchers</h4>
+			</li>
+			<ul class="items">
+				<li>
+					<a href="/catalogdb/GiftVouchers.asp">Buy a Gift Voucher</a>
+				</li>
+			</ul>
+		</ul>
+
+	</div>
+</div>
+	</div>
+	<div id="kids-cat" onmouseover="showMenu('kids-cat')" onmouseout="hideMenu()" name="kids-cat" class="mega-menu" style="display:none;">
+		<link rel="stylesheet" href="/includes/category-menu.css" type="text/css">
+
+<div id="category" class="clearfix" style="margin-top:0px;">
+	<div id="categorycontent" class="clearfix" style="margin-bottom:0px;">
+		<ul class="boys category">
+			<li class="header">
+				<h4>Boys' Range</h4>
+			</li>
+			<ul class="items">
+				<li><a href="/catalogdb/products.asp?category=202">Boys' Bottoms</a></li><li><a href="/catalogdb/products.asp?category=321">Boys' Tops</a></li><li><a href="/catalogdb/products.asp?category=237">Boys' Shoes</a></li>
+			</ul>
+		</ul>
+		<ul class="girls category">
+			<li class="header">
+				<h4>Girls' Range</h4>
+			</li>
+			<ul class="items">
+				<li><a href="/catalogdb/products.asp?category=328">Girls' Tops</a></li><li><a href="/catalogdb/products.asp?category=232">Girls' Bottoms</a></li><li><a href="/catalogdb/products.asp?category=208">Girls' Shoes</a></li>
+			</ul>
+		</ul>
+
+		<ul class="accessories category">
+			<li class="header">
+				<h4>Accessories</h4>
+			</li>
+			<ul class="items">
+				
+			</ul>
+		</ul>
+
+		<ul class="giftvoucher category">
+			<li class="header">
+				<h4>Gift Vouchers</h4>
+			</li>
+			<ul class="items">
+				<li>
+					<a href="/catalogdb/GiftVouchers.asp">Buy a Gift Voucher</a>
+				</li>
+			</ul>
+		</ul>
+
+	</div>
+</div>
+	</div>
+	<div id="accessories-cat" onmouseover="showMenu('accessories-cat')" onmouseout="hideMenu()" name="accessories-cat" class="mega-menu" style="display:none;">
+		<link rel="stylesheet" href="/includes/category-menu.css" type="text/css">
+
+<div id="category" class="clearfix" style="margin-top:0px;">
+	<div id="categorycontent" class="clearfix" style="margin-bottom:0px;">
+		<ul class="mensAcc category">
+			<li class="header"><h4>Mens</h4></li>
+			<ul class="items">	
+				<li><a href="/catalogdb/products.asp?category=423">Bags</a></li><li><a href="/catalogdb/products.asp?category=424">Belts</a></li><li><a href="/catalogdb/products.asp?category=425">Hats</a></li><li><a href="/catalogdb/products.asp?category=426">Sunnies and Readers</a></li><li><a href="/catalogdb/products.asp?category=427">Umbrellas</a></li><li><a href="/catalogdb/products.asp?category=429">Gloves</a></li><li><a href="/catalogdb/products.asp?category=430">Gifts</a></li>
+			</ul>
+		</ul>
+		<ul class="womensAcc category">
+			<li class="header"><h4>Womens</h4></li>
+			<ul class="items">
+				<li><a href="/catalogdb/products.asp?category=400">Bags</a></li><li><a href="/catalogdb/products.asp?category=401">Belts</a></li><li><a href="/catalogdb/products.asp?category=402">Hats</a></li><li><a href="/catalogdb/products.asp?category=403">Sunnies and Readers</a></li><li><a href="/catalogdb/products.asp?category=427">Umbrellas</a></li><li><a href="/catalogdb/products.asp?category=405">Jewellery</a></li><li><a href="/catalogdb/products.asp?category=406">Scarves</a></li><li><a href="/catalogdb/products.asp?category=408">Gifts</a></li>
+			</ul>
+		</ul>
+
+		<ul class="kidsAcc category">
+			<li class="header"><h4>Kids</h4></li>
+			<ul class="items">
+				
+			</ul>
+		</ul>
+
+		<ul class="giftvoucher category">
+			<li class="header">
+				<h4>Gift Vouchers</h4>
+			</li>
+			<ul class="items">
+				<li>
+					<a href="/catalogdb/GiftVouchers.asp">Buy a Gift Voucher</a>
+				</li>
+			</ul>
+		</ul>
+
+	</div>
+</div>
+	</div>
+
+
+
+<div id="byline-left" style="width:465px;float:left;margin-top: 12px;margin-bottom: 12px;"><a href="/catalogue/catalogue.asp"><img src="/pics/WK11%5FMSS%5FL%2Ejpg" class="bannerleft" alt="Shop the Catalogue" title="Shop the Catalogue"></a> </div>
+<div id="byline-right" style="width:465px;float:right;margin-top: 12px;margin-bottom: 12px;"><a href="/catalogdb/Sale.asp"><img src="/pics/WK11%5FMSS%5FR%2Ejpg" class="bannerright" alt="Shop All Sale" title="Shop All Sale"></a> </div>
     <div id="breadcrumb">
         <span><a href="/">HOME</a></span> &gt; <span class="highlighted"> Privacy Policy </span>
     </div>
@@ -145,7 +377,7 @@ Fashion Links directory">
 </dl>
 <dl>
   <dt>Our Loyalty Program</dt>
-	<dd><a href="https://secure.rivers.com.au/ssl/Loyalty/LoyaltyLogin.asp">Login to Redeem Points</a></dd>
+	<dd><a href="https://secure.rivers.com.au/ssl/Loyalty/LoyaltyLogin.asp">Login to Your Account</a></dd>
 	<dd><a href="/Loyalty.asp">Join Our Loyalty Program</a></dd>
 </dl>
 <dl>
