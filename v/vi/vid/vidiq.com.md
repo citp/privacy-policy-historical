@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidiq.com privacy policy that was archived on 2015-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150523023159id_/http%3A//vidiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidiq.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912010415id_/http%3A//vidiq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
