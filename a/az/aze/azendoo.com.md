@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the azendoo.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316183004id_/https%3A//www.azendoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azendoo.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911111556id_/https%3A//www.azendoo.com/privacy) for the most accurate reproduction.*
 
 # Azendoo - Task Management Application
 
-## Azendoo is founded on the principles of sharing tasks or files and collaborating as teams. We know that you care about how your personal information is used and shared; reason why security of data and privacy are a priority for us.
+## Privacy
+
+Azendoo is founded on the principles of sharing tasks or files and collaborating as teams. We know that you care about how your personal information is used and shared; reason why security of data and privacy are a priority for us.
 
 This Privacy Statement describes Azendoo's treatment of personal information that Azendoo gathers when you are on our websites and when you use our services. By visiting the Azendoo website and by subscribing to our service, you are accepting the practices outlined in this document. This policy does not apply to the practices of third parties that Azendoo does not own or control, or to individuals that Azendoo does not employ or manage.
 
-## Information collected
+### Information collected
 
 You can visit Azendoo website without identifying yourself or revealing any personal information. 
 
@@ -22,11 +24,11 @@ We collect and store [ personal information ](https://web.archive.org/terms) suc
 
 When purchasing the services, we require you to provide us with financial qualification and billing information, such as billing name and address, credit card number, and the number of employees within the organization that will be using the services.
 
-## Basically,
+### Basically,
 
 We mainly collect information to make Azendoo services accessible and useful for you.
 
-## Use of information
+### Use of information
 
 We use the information collected on our websites through contact forms to provide you with the services that you request. 
 
@@ -51,21 +53,21 @@ We may use your personal information to:
 
 We may also use the information collected to improve Azendoo websites and services.
 
-## Basically,
+### Basically,
 
 Collected information also enable you to help us improve our services and stay in contact with us
 
-## Sharing your Information
+### Sharing your Information
 
 We promise not to share or sell, rent or trade your personal and confidential information with any third party for commercial purposes. We will share your personal information only with other Azendoo entities and / or partners exclusively for above described purposes. 
 
 Azendoo SAS uses third-party applications, web services and external hosting services to provide the hardware, network, storage, and all other technology required to allow exceptional quality access to Azendoo websites and services. Whenever possible, we strive to ensure that our partners are aligned with our privacy policy.
 
-## Basically,
+### Basically,
 
 Your information is safe with us. Other than publicly available, we do not share it with anyone. We do not sell your information.
 
-## Cookies
+### Cookies
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser. You can set your browser to notify you when you receive a cookie, giving you the choice to accept it or not. Some of our business partners, like advertisers, may use cookies on our website. We have no access to, or control over, these cookies. 
 
@@ -78,29 +80,29 @@ For some of its services and websites, Azendoo uses cookies or other technologie
 
 
 
-## Basically,
+### Basically,
 
 To remember you, Azendoo services and web site use cookies. It's safe.
 
-## Improvements of our web sites and services
+### Improvements of our web sites and services
 
 Azendoo uses Google Analytics and other traffic analysis technologies in order to understand and optimize your use of our websites and services. Through cookies we can collect specific data (viewed pages, downloads, clicked links, connection time, IP address, domain name, parameters or system configurations, etc.). 
 
 You can disable Google Analytics analysis of your specific navigation data through an additional module of your browser at the following address: [ tools.google.com ](http://tools.google.com/dlpage/gaoptout).
 
-## Basically
+### Basically
 
 We track and analyse trafic to improve our web sites and to make our services better.
 
-## Limitation of responsibility
+### Limitation of responsibility
 
 Links to other websites are available from Azendoo websites and services. If you click on these links, you leave our websites and services. Azendoo SAS is in no way responsible for the content and / or privacy policy of those other websites. Azendoo does not warrant or approve the contents or resources that such sites provide access to, and excludes all liability and warranty with respect to such content. If you decide to access such sites, you do so at your own risk.
 
-## Basically,
+### Basically,
 
 Azendoo SAS shall be responsible only for its own web sites and services.
 
-## Contact Us
+### Contact Us
 
 YOU EXPRESSLY ACKNOWLEDGE THAT YOU HAVE AUTHORITY TO ACCEPT THE TERMS OF THIS PRIVACY POLICY AND THAT YOU HAVE READ THIS DOCUMENT AND UNDERSTAND THE RIGHTS, OBLIGATIONS, TERMS AND CONDITIONS SET FORTH HEREIN. BY CLICKING ON THE ACCEPT BUTTON AND/OR CONTINUING TO USE AZENDOO SERVICES, YOU EXPRESSLY CONSENT TO BE BOUND BY THE TERMS AND CONDITIONS HEREIN. 
 
@@ -112,7 +114,7 @@ Azendoo SAS, Legal Service
 87 Quai des Queyries,   
 33100 Bordeaux, France
 
-## Basically,
+### Basically,
 
 Any question? write us or send en email to legal@azendoo.com
 
