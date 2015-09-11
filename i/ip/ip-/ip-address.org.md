@@ -1,15 +1,11 @@
-> *The following text is extracted and transformed from the ip-address.org privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320044302id_/http%3A//www.ip-address.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip-address.org privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911042646id_/http%3A//www.ip-address.org/privacy-policy.php) for the most accurate reproduction.*
 
 # IP Address - Disclaimer Privacy Policy
 
 At IP-Address.org, we recognize that privacy of your personal information is important. We respect your privacy and we are committed to safeguarding your privacy while online at our site [IP-Address.org](http://www.ip-address.org/)
 
-Here is information on what types of personal information we receive and collect when you use visit IP-Address.org, and how we safeguard your information. 
-
+Here is information on what types of personal information we receive and collect when you use visit IP-Address.org, and how we safeguard your information.   
 We never sell your personal information to third parties. 
-
-  
-
 
 ### IP-Address.org and Log Files
 
