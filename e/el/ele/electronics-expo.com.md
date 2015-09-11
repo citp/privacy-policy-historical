@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503103135id_/http%3A//www.electronicsexpo.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronics-expo.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911101428id_/http%3A//www.electronicsexpo.com/info/privacy) for the most accurate reproduction.*
 
 # Electronics Expo: Help > Privacy, Security & Accessibility
 
