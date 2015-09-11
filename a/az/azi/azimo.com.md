@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azimo.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627190021id_/https%3A//azimo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azimo.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911094616id_/https%3A//azimo.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Azimo
 
