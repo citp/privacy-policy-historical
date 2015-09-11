@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317002810id_/https%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911221256id_/https%3A//www.accuwebhosting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy notes from AccuWebHosting.Com
+# Privacy Policy | Windows VPS Hosting - AccuWeb Hosting
 
 We take your privacy seriously. Because there is not one standard expectation of privacy, we have created this privacy policy to set out how we handle information that may be considered to be private. It is important to know that all information we possess may be included in the sale of our business, or a portion of our business, to a third party.
 
@@ -87,18 +87,18 @@ The contact information that you provide to us to register your domain name is a
 
   * __
 
-We do offer, through a third party, whois privacy. Whois privacy services use a proxy identity in lieu of yours. However, this proxy does not mean that your information is private. Only that it will not be displayed pursuant to a whois query.
+We do offer, through a third party, WHOIS privacy. WHOIS privacy services use a proxy identity in lieu of yours. However, this proxy does not mean that your information is private. Only that it will not be displayed pursuant to a WHOIS query.
 
   * __
 
-We are required to disclose whois information, including whois information that is subject to whois privacy, pursuant to ICANN requirements and the law.
+We are required to disclose WHOIS information, including WHOIS information that is subject to WHOIS privacy, pursuant to ICANN requirements and the law.
 
 
 
 
 We may use automated identification tools like Google Analytics (Information Tools). Each of these Identification Tools work differently, however, they all collect information related to the website you came to us from, your operating system, browser type, where you go on our website, length of time on our website, and where a you go after visiting our website. In addition, Identification Tools may keep you logged into our system. From time to time, we may use Identification Tools that will be used to serve advertising and other information to you after they visit our website. Because the technologies underlying Identification Tools differ, you may, or may not, be able to choose not to provide information to them.
 
-## 6\. Support Information; AQ and Forum Information
+### 6\. Support Information; AQ and Forum Information
 
 We offer you the ability to exchange information about our services, and your experiences with these services (Forum Information). Forum Information is publically accessible and may be indexed by search engines and other tools. You are not required to disclose information that will identify you personally in order to participate in these tools. All Forum Information may be accessed and used by third parties for purposes known and unknown to us.
 
