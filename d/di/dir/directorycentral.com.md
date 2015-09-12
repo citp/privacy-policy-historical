@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the directorycentral.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314224058id_/http%3A//www.directorycentral.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorycentral.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912072359id_/https%3A//www.directorycentral.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy | www.DirectoryCentral.com
+# Privacy | DirectoryCentral
 
-**Effective December 15, 2008:**
+**Effective June 9, 2015:**
 
 SocialTerrain, Inc. ("SocialTerrain" or "we") operates SocialTerrain.Com. This Privacy Policy describes SocialTerrain's use and sharing of personally identifiable information (your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to SocialTerrain when they register (also known as "Registration PERSONALLY IDENTIFIABLE INFORMATION"). The Term "User" refers to a Visitor or a Member. This Privacy Policy applies to the services offered by SocialTerrain, including any SocialTerrain-branded URL (the "SocialTerrain Website"), the SocialTerrain instant messaging service, the SocialTerrain application developer service and other features (for example, music and video embedded players), SocialTerrain mobile services, and any other features, content, or applications offered from time to time by SocialTerrain in connection with the SocialTerrain Website (collectively, the "SocialTerrain Services"). The SocialTerrain Services are hosted in the United States. 
 
