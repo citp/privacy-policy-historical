@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tellapart.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605050114id_/http%3A//tellapart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellapart.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912030920id_/https%3A//www.tellapart.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » TellApart
+# TellApart Privacy Policy
 
-#### This Privacy Policy was last updated on April 3, 2012
+#### This Privacy Policy was last updated on August 6, 2015.
 
 TellApart Inc. (“TellApart”) provides e-commerce sites and advertisers (“Business Partners”) access to a set of technologies and processes designed to display advertisements to consumers viewing a publisher’s website(s) (the “TellApart Ads”).
 
@@ -26,7 +26,7 @@ We use “cookies” and web beacons to help us manage this Site. Cookies are sm
 
 The Site may contain links to other websites. Such websites may use cookies and/or other data collection tools. TellApart is not responsible for the privacy practices, policies or content of such other websites. TellApart encourages everyone to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. TellApart has no control over the use of information by third party websites, and you should exercise caution when deciding to disclose any PII to those websites.
 
-### **2\. TellApart Technology — Information Collection and Use**
+### 2\. TellApart Technology — Information Collection and Use
 
 **Overview of TellApart’s Technology and Data Collection**
 
@@ -34,15 +34,15 @@ Our Technology collects information about the website(s) that you visit and the 
 
 We use the information collected by our Technology in order to help make the TellApart Ads you see more relevant to you, to improve our Technology, and for ad delivery purposes. We also may disclose Non-PII to our Business Partners in connection with the provision of TellApart Technology services.
 
-**Cookies, JavaScript and Web Beacons** ****
+**Cookies, JavaScript and Web Beacons**
 
-****TellApart uses cookies, JavaScript and web beacons in connection with our Technology and our collection of both Advertising Data and Business Partner Data. These types of technologies help TellApart better understand the effectiveness of a TellApart Ad (for example, by tracking the way in which you may respond to, select and interact with a TellApart Ad or any content provided therein, or the location and context in which you view a TellApart Ad). TellApart’s cookies also help control the number of times you view a TellApart Ad. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to enjoy the full functionality of many of the websites you visit.
+TellApart uses cookies, JavaScript and web beacons in connection with our Technology and our collection of both Advertising Data and Business Partner Data. These types of technologies help TellApart better understand the effectiveness of a TellApart Ad (for example, by tracking the way in which you may respond to, select and interact with a TellApart Ad or any content provided therein, or the location and context in which you view a TellApart Ad). TellApart’s cookies also help control the number of times you view a TellApart Ad. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to enjoy the full functionality of many of the websites you visit.
 
 TellApart also uses JavaScript and web beacons, in combination with cookies, to analyze usage patterns. The use of these technologies allows TellApart to record that someone has visited a particular webpage, along with additional Non-PII that the website may choose to include with the beacon.
 
 **Information Received from Other Third Parties**
 
-****In some cases, we may choose to work with third party data providers to support requirements that may arise from our Business Partners. For example, our business partners may use our technology to combine anonymous third party data with the data collected by our technology in order to further tailor advertising content to their customers. In conjunction with information collected using our Technology, we use this information in order to help make the TellApart Ads you see more relevant to you, to improve our Technology, and for ad delivery and reporting purposes.
+In some cases, we may choose to work with third party data providers to support requirements that may arise from our Business Partners. For example, our business partners may use our technology to combine anonymous third party data with the data collected by our technology in order to further tailor advertising content to their customers. In conjunction with information collected using our Technology, we use this information in order to help make the TellApart Ads you see more relevant to you, to improve our Technology, and for ad delivery and reporting purposes.
 
 **Third Party Links and Websites**
 
@@ -52,11 +52,17 @@ TellApart Ads may contain links to other websites, including those of our Busine
 
 TellApart is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your PII with certain third parties without further notice to you, as set forth below:
 
-**Business Transfers** : As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, PII may be part of the transferred assets. You acknowledge and agree that any such transferee will have the right to use your PII as disclosed herein.
+**Business Transfers** :
 
-**Agents, Consultants and Related Third Parties** : TellApart, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include maintaining databases, hosting services and the like. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, PII may be part of the transferred assets. You acknowledge and agree that any such transferee will have the right to use your PII as disclosed herein.
 
-**Legal Requirements** : TellApart may disclose your PII if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of TellApart or others, (iii) act in urgent circumstances to protect the personal safety of our users or the public, or (iv) protect against legal liability.
+**Agents, Consultants and Related Third Parties** :
+
+TellApart, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include maintaining databases, hosting services and the like. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+
+**Legal Requirements** :
+
+TellApart may disclose your PII if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of TellApart or others, (iii) act in urgent circumstances to protect the personal safety of our users or the public, or (iv) protect against legal liability.
 
 ### 4\. Information Security
 
@@ -66,11 +72,19 @@ If you have any questions about our security practices, please send an email to 
 
 ### 5\. Opt-out of Information Collection
 
-If you would like to opt-out from having TellApart collect information about you in connection with our Technology, please [click here to opt-out](http://a.tellapart.com/btexclude). When you opt-out, we will place an opt-out cookie on your computer. This opt-out cookie tells us not to collect information about you to tailor TellApart Ads to your interests, and we will no longer do so as long as this cookie is present on your computer and you are using the same Internet browser.  Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you will need to renew your opt-out choice.  To opt-out of the behavioral advertising delivered by additional NAI (Network Advertising Initiative) member companies please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+If you would like to opt-out from having TellApart collect information about you in connection with our Technology, please [click here to opt-out](http://a.tellapart.com/btexclude). When you opt-out, we will place an opt-out cookie on your computer. This opt-out cookie tells us not to collect information about you to tailor TellApart Ads to your interests, and we will no longer do so as long as this cookie is present on your computer and you are using the same Internet browser.  Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you will need to renew your opt-out choice.  To opt-out of the behavioral advertising delivered by additional NAI (Network Advertising Initiative) member companies please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### 6\. General Information
 
 When working with sites whose product catalog includes personal care items, we do not have access to your medical information or collect sensitive information regarding your health or medical conditions but may on occasion display advertisements for non-sensitive products such as soap, clothing and toys for infants.
+
+**Network Advertising Initiative**
+
+TellApart is a member of the Network Advertising Initiative and adheres to the Network Advertising Initiative Standards ([NAI Code of Conduct](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2F2013_Principles.pdf&sa=D&sntz=1&usg=AFQjCNGHjVygQJagJTkqmavGo31s7DecGg), [Mobile Application Code](http://www.networkadvertising.org/mobile/NAI_Mobile_Application_Code.pdf)). NAI offers an online web [opt-out](http://www.networkadvertising.org/choices/) platform to allow consumers to express their choices and provides general information related to privacy and [Interest Based Advertising](http://www.networkadvertising.org/understanding-online-advertising).
+
+**Digital Advertising Alliance**
+
+TellApart adheres to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising. You can opt out of interest-based advertising from TellApart and many other companies by visiting the Digital Advertising Alliance’s [ Consumer Choice page](http://www.aboutads.info/choices/).
 
 **Data Retention**
 
