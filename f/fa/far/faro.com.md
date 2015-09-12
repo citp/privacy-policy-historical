@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329213526id_/http%3A//www.faro.com/en-us/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faro.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912221541id_/http%3A//www.faro.com/en-us/footer/privacy-policy) for the most accurate reproduction.*
 
 # FARO - Privacy Policy
 
 This website is owned and operated by FARO Technologies Inc. (“FARO”, “we”, “our”, or “us”). FARO respects the privacy of visitors to our website. This Notice describes the types of information we collect about visitors to the FARO website, how we may use the information and with whom we may share it. This Notice also describes (1) the measures we take to safeguard the information we collect and (2) your rights and privileges concerning our collection, use and disclosure of information about you. 
 
-This Notice is consistent with [FARO’s Notice of Safe Harbor Compliance](https://web.archive.org/en-us/footer/faro---legal-notices) regarding transfers of personal information from the European Economic Area to the United States. 
+This Notice is consistent with [FARO’s Notice of Safe Harbor Compliance](https://web.archive.org/en-us/footer/legal-notices) regarding transfers of personal information from the European Economic Area to the United States. 
 
 This Notice applies to the FARO website, located at [www.faro.com](http://www.faro.com/), as well as to any versions of the FARO website that FARO operates. Please note that our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. 
 
