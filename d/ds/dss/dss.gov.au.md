@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dss.gov.au privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628005356id_/https%3A//www.dss.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dss.gov.au privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912091009id_/https%3A//www.dss.gov.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Australian Government Department of Social Services
+# Privacy Policy | Department of Social Services, Australian Government
 
 The Department of Social Services (‘DSS’) has responsibility for a broad range of policy areas including:
 
