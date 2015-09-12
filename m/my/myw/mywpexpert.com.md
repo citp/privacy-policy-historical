@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywpexpert.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315221752id_/http%3A//www.mywpexpert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywpexpert.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912060834id_/http%3A//www.mywpexpert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - myWPexpert
 
@@ -103,8 +103,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.mywpexpert.com
-
+http://www.mywpexpert.com  
 1209 Manhattan Ave #311  
 Manhattan Beach, California 90266  
 USA  
