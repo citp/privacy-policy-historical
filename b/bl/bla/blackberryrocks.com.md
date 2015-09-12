@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackberryrocks.com privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503101801id_/http%3A//blackberryrocks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberryrocks.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912131740id_/http%3A//blackberryrocks.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | BlackBerryRocks.com
 
