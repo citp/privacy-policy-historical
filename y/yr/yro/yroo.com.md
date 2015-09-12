@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yroo.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317091035id_/https%3A//yroo.com/privacy.html%3Fga_pos%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yroo.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912072339id_/https%3A//yroo.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | yroo
 
@@ -26,7 +26,7 @@ To provide to you a few example of why we collect personal information, we colle
   * account for reward points or cash back earned under your account;
   * allocate cash back;
   * process payments; and
-  * target advertisements to make the Web Site and/or Services more personal and useful to you.
+  * target advertisements to make the Web Site and/or Services more personal and useful to you. 
 
 
 
