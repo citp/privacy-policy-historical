@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mitchellandness.com privacy policy that was archived on 2014-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141113001727id_/http%3A//www.mitchellandness.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitchellandness.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912020301id_/https%3A//www.mitchellandness.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy - Mitchell & Ness
+# Privacy Policy | Mitchell & Ness
 
 Mitchell & Ness, a Philadelphia company established in 1904, is an apparel manufacturer and retailer, offering consumers a broad spectrum of licensed apparel from the NFL, NBA, NHL and AFL, in addition to non-licensed active wear.
 
