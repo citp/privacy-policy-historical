@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiftworship.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317045843id_/https%3A//shiftworship.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftworship.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912035933id_/https%3A//shiftworship.com/privacy) for the most accurate reproduction.*
 
 # Shift Worship | Privacy Policy
 
