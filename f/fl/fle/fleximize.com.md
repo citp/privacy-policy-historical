@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleximize.com privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329095430id_/https%3A//fleximize.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleximize.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912195542id_/https%3A//fleximize.com/privacy-policy) for the most accurate reproduction.*
 
 # Fleximize | Privacy Policy
 
