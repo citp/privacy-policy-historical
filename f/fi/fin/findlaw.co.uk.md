@@ -1,158 +1,191 @@
-> *The following text is extracted and transformed from the findlaw.co.uk privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627223018id_/http%3A//www.findlaw.co.uk/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.co.uk privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912062419id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
-# FindLaw UK About Us: Privacy Policy
+# Our Privacy Policies
 
-### SCOPE
+* * *
 
-Your privacy is important to FindLaw, a Thomson Reuters business, and we go to great lengths to protect it. This Privacy Statement applies to the online collection of personal information via the websites operated by FindLaw and its worldwide affiliated companies and subsidiaries. This Statement does not apply to information collected in any other way, including offline.
+## OUR MOBILE APPS PRIVACY POLICIES 
 
-This website may contain links to sites maintained by others. This Privacy Statement does not reflect the privacy practices of those sites.
+  * [OSBORN'S CONCISE LAW DICTIONARY MOBILE APPLICATION ](https://web.archive.org/privacy-policies/osborns.aspx)
+  * [THOMSON REUTERS LAWTEL MOBILE APPLICATION PRIVACY STATEMENT ](https://web.archive.org/privacy-policies/lawtel.aspx)
+  * [THOMSON REUTERS WESTLAW UK MOBILE APPLICATION PRIVACY STATEMENT ](https://web.archive.org/privacy-policies/westlaw.aspx)
+
+
+
+## OUR WEBSITES PRIVACY POLICY
+
+* * *
+
+## Scope
+
+Your privacy is important to Thomson Reuters, and we go to great lengths to protect it. This Privacy Statement applies to the collection of personal information via products, websites, competitions, events, webinars and some mobile applications operated by  **Thomson Reuters**.
+
+Our products and/or websites may contain links to sites maintained by others, or by other parts of Thomson Reuters. This Privacy Statement does not reflect the privacy practices of those products and sites..
 
 ## Highlights
 
-### What personal information is collected and how is that information used?
+**WHAT PERSONAL INFORMATION IS COLLECTED AND HOW IS THAT INFORMATION USED?**
 
-  * We collect information about our users in three ways: directly from the user (for example, when ordering a product, registering an account, or signing up for a newsletter), from our web-server logs, and through cookies.
-  * We use the information primarily to provide you with a personalised Internet or mobile-application experience that delivers the information, resources, and services that are most relevant and helpful to you.
+  * We collect information about individuals, users and professional’s in variety of ways including but not limited to: direct from the individuals (for example, when ordering a product, registering an account, using the products, or signing up for a newsletter), from your employer, publicly available information, and through cookies, and/or similar technology.
+  * We use the information primarily to provide you with a personalized experience that delivers the information, resources, and services that are most relevant and helpful to you.
   * We do not share with others any of the information you provide, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.
 
 
 
-More details
+**HOW IS MY PERSONAL INFORMATION PROTECTED?**
 
-* * *
-
-### How is my personal information protected?
-
-  * We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorised access, use, or disclosure.
-  * We store the information about you in a data centre with restricted access and appropriate monitoring.
-  * We use intrusion detection and virus-protection software.
-  * Despite these measures, we cannot guarantee that unauthorised persons will always be unable to defeat our security measures.
+  * We maintain administrative, technical and physical safeguards to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the personal information you or your employer provides to us.
+  * Thomson Reuters complies with Data Protection/Privacy regulations, laws and industry best practices in respects to security around personal information.
+  * If you are located in the European Economic Area (“EEA”), or a country with data protection/privacy law, we may transfer your personal information to countries that may not guarantee the same level of protection for personal information as the one in which you reside. By giving your information you consent to these transfers.
 
 
 
-More details
+**WHO HAS ACCESS TO THE PERSONAL INFORMATION?**
 
-* * *
-
-### Who has access to the personal information? 
-
-  * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents and contractors, or as otherwise described in this Privacy Statement.
-  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies; our affiliates are all required to preserve the confidentiality of any personal information they may access.
-  * We will not disclose any personal information or information about your usage of our websites or mobile applications to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law.
+  * We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except our approved agents, suppliers and contractors, or as otherwise described in this Privacy Statement.
+  * We rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies; in accordance with this Privacy Statement
+  * We will not disclose any personal information or information about your usage of our products, websites or mobile applications to unaffiliated third parties, except as necessary to enhance the product experience, service the legal agreement between us and your employer, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law.
 
 
 
-More details
+**HOW MAY YOU CORRECT, AMEND, OR DELETE YOUR PERSONAL INFORMATION, OR UPDATE YOUR PREFERENCES?**
 
-* * *
-
-### How may I correct, amend or delete my personal information, or update my preferences?
-
-  * You may cancel your registration or update your preferences at any time.
-  * If you do not want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering and/or utilise the "unsubscribe" mechanism within the communications that you receive from us.
-  * If you have any additional questions or concerns related to this statement and/or our practices, [email us](mailto:findlaw.portalmanager@thomsonreuters.com "email us").
+  * You may amend update or delete your information at any time by contacting us by post:
 
 
 
-More details
+Marketing Information Data Management  
+Friars House, 160 Blackfriars Road, London SE1 8EZ 
 
-Back to top
+Or by email at:  
+[Sweetandmaxwell.marketingdata@thomson.com](mailto:Sweetandmaxwell.marketingdata@thomson.com)
 
-* * *
+Or by phone   
+Customer services on   
+0845 600 9 355 (UK)  
++44 1264 388 560 (International)
 
-## Full Privacy Statement
-
-### WHAT PERSONAL INFORMATION DOES FINDLAW COLLECT AND HOW DO WE USE IT?
-
-We collect information about our users in three ways: directly from the user, from our web-server logs, and through cookies. We use the information primarily to provide you with a personalised Internet experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.
-
-### User-Supplied Information
-
-When you register for our services or order products via our site, we ask you to provide some personal information, for example, your name, address, phone number, email address, payment card information, and/or certain additional categories of information resulting from use of our websites and services, such as research requests. We keep this information in a contact database for future reference, as needed. We may use certain information you provide to offer you products and services that we believe may be of interest to you. If you don't wish to receive such offers, you may opt out (unsubscribe) as described below.
-
-If you contact us for customer support, we may ask you to provide information about your computer or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control purposes.
-
-Some FindLaw websites make chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Please see the FindLaw.co.uk [Community Guidelines](https://web.archive.org/about_us/community_guidelines.html "Community Guidelines") for more information. Please do not submit any confidential, proprietary or sensitive personally identifiable information (e.g. national insurance number, government-issued identification information , health information, date of birth; driver license number; or credit card, bank account or other financial information) (collectively, “Sensitive Information”). If you submit any Sensitive Information, you do so at your own risk and we will not be liable to you or responsible for consequences of your submission.
-
-Websites that FindLaw hosts for law firm and lawyer customers may allow you to submit information to the law firm via a contact form or online chat. Any information that you voluntarily submit through the site may be shared with and stored by FindLaw so that FindLaw may provide services to the law firm or lawyer. FindLaw will not share this information with third parties unless we say so in this Privacy Statement. Further, any information submitted through a FindLaw customer’s website may be collected/used by the law firm or lawyer and subject to that law firm or lawyer’s privacy policy. Please do not submit any Sensitive Information through the website contact form or online chat. 
-
-Additionally, FindLaw offers legal professionals the ability to provide personal information for inclusion in the FindLaw UK Solicitor Directory. If you submit your information, know that:
-
-  * It must be accurate, complete, and current. It will be distributed to third parties in multiple formats (including online), and you will not be compensated by FindLaw in any way for its use.
-  * FindLaw has no control over how third parties use your profile information; these third parties may contact you for any purpose, including marketing.
+  
 
 
+## WHAT PERSONAL INFORMATION DOES THOMSON REUTERS COLLECT AND HOW DO WE USE IT?
 
-### Web-Server Logs
+We collect information about individuals, users and professional’s in a variety of ways: including but not limited to: direct from the individuals (for example, when ordering a product, registering an account, using a product, or signing up for a newsletter), from your employer, publicly available information, and through cookies, and/or similar technology. We use the information primarily to provide you with a personalized experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.
 
-When you visit our website, we may track information about your visit and store that information in web-server logs, which are records of the activities on our sites. Our servers automatically capture and save the information electronically. Examples of the information we may collect include:
+**User-Supplied Information**   
+When you register for our services - directly or via your Employer, or order products via our sites or directly with us, we ask you to provide some personal information, for example, your name, address, phone number, email address, if required payment card information, and/or certain additional categories of information resulting from use of our products, websites and services, such as research requests. We keep this information in a contact database for future reference, as needed.
 
-  * your unique Internet protocol address; 
-  * the name of your unique Internet service provider;
-  * the town/city, county and country from which you access our website;
-  * the kind of browser or computer you use; 
-  * the number of links you click within the site;
-  * the date and time of your visit; 
-  * the website from which you arrived to our site;
-  * the pages you viewed on the site; and
-  * certain searches/queries that you conducted via our website(s).
+**Marketing**   
+We may use certain information you provide to offer you products and services that we believe may be of interest to you or for market research purposes. If you don't wish to receive such offers or to be contacted directly, you may opt out (unsubscribe) as described below.
+
+**To update your preferences for email communications for our products, services, news updates, bulletins, and reports please go to the preference center link found on each specific email communication.**
+
+**Otherwise see the paragraph below on ‘HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?’**
+
+In certain countries if you use our products and/or services in the course of your employment, Thomson Reuters will only send you unsolicited marketing via email if your employer has given its consent for you to receive email communications from Thomson Reuters, or if your employer has allowed Thomson Reuters to contact you directly and gain your consent to receive marketing.  
+If you contact us for customer support, we may ask you to provide information about your computer or about the issues you are trying to resolve. This information is necessary to help us answer your questions. We may record your requests and our responses for quality control and training purposes.  
+Some Thomson Reuters products and/or websites make messenger, chat rooms, forums, message boards, or news groups available to you. Please remember that any information disclosed in these areas is public. You should exercise caution when disclosing personal information in these areas. Don't disclose information in these public forums that might be considered confidential.  
+**  
+Usage and Web server logs**   
+When you visit our products or web sites, we may track information about your usage and/or visit, and store that information on in usage or web server logs, which are records of the activities on our products or sites. Our servers automatically capture and save the information electronically. Some examples of the information we may collect include:
+
+  * Your unique Internet protocol address
+  * The name of your unique Internet service provider
+  * The city, state, and country from which you access our website
+  * The kind of browser or computer you use
+  * The number of links you click within the site
+  * The date and time of your visit
+  * The web page from which you arrived to our site
+  * The pages you viewed on the site
+  * Certain searches/queries that you conducted via our product(s) and/or website(s)
 
 
 
-The information we collect in web-server logs helps us administer the site, analyse its usage, protect the website and its content from inappropriate use, and improve the user's experience.
+The information we collect in usage or web server logs helps us administer the product and site, analyze its usage, protect the product and/or website and its content from inappropriate use, and improve the user's experience. 
 
-In order to offer and provide a customised and personal service, we may use cookies to store and help track information about you. Cookies are simply small pieces of data that are sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help remind us who you are and to help you navigate our sites during your visits. Cookies allow us to save passwords and preferences for you so you won't have to reenter them each time you visit.
+**Thomson Reuters Messenger**   
+If you are a user of this product, any personal information you post can be visible to other users. This privacy policy will not apply in these instances. Please refer to the Terms of Use.  
+In addition, Thomson Reuters may be required by your Employer and/or by laws or regulations to store messages, and conversations to meet regulatory and compliance obligations for a certain period of time. This includes public and private interaction between users. Moderators, Compliance and/or Legal professionals in your business may have access to historical or live conversations.    
+To develop the product and/or communities, Thomson Reuters may analyze certain data.
 
-The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. However, if you prefer, you can set your browser to either notify you when you receive a cookie or to refuse to accept cookies. You should understand that some features of many sites may not function properly if you don't accept cookies.
+**Cookies**   
+In order to offer and provide a customised and personal service through our products and websites, we may use cookies to store and help track information about you.  
+A cookie is a small text file sent to your device that we use to store limited information about your use of the product or website. We use cookies to provide you with certain functionality (such as to enable access to secure log-in areas and to save you having to re-enter information into product or website forms) and to personalize our product or website content. Without cookies, this functionality would be unavailable. 
 
-### Third Party Services
+**By using our products and websites you agree that we can place these types of cookies on your device.**
 
-We may use services hosted by third parties to assist in providing our services and to help us understand our customers' use of our products. These services may collect information sent by your browser as part of a web-page request, including your IP address or cookies. If these third-party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.
+**Third Party Services**   
+We may also use analytics tools provided by Google, Inc. ("Google") or other similar providers. Analytics tools serve cookies through our products or website and collects aggregated data on an anonymized basis about users and visitors' use of the product or website. The data collected enables us to understand aggregated user or visitor activity and how we may improve our product or website offering. This data is collected and used on an anonymized, aggregated basis only and does not enable any user or visitor to be personally identified. 
 
-Back to top
+In addition, we may also use marketing automation tools (specific Company information can be given upon request). These companies serve cookies to profile users or visitors' interests and activity. We use data collected through these cookies to serve users or visitors with information, new articles and advertising tailored to their specific needs and requirements.  This data is collected on an anonymized basis, except where users or visitors have previously registered to receive marketing communications from us or subsequently choose to do so.  Where this is the case, cookies set may enable us to identify the user or visitor. Where visitors have registered to receive marketing communications from us, we use the tools provided by these companies to send targeted e-mail marketing and track the effectiveness of our e-mail campaigns, including through the use of clear gif images in e-mails.
 
-### HOW DOES FINDLAW PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
+You have the right to refuse or disable cookies served through our products or website although, if you choose to do so, certain functionality may become unavailable to you. As the means by which you may do this vary from browser to browser, we recommend that you visit your browser's help menu for further information.
 
-We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorised access, use, or disclosure. For example, some of our websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data centre with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus-protection software. **However, please note that we cannot guarantee that unauthorised persons will always be unable to defeat our security measures.**
+Our email and promotional communications may also include "Clear Image" gifs to track results of an email campaign. To turn off gifs you can do so in the email itself, or visit your email client’s help menu. 
 
-Also, please note that we may store and process your personal information in systems located outside your home country, including outside the European Union. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this statement.
+We respect your right to choose whether or not to accept cookies and clear gifs.
 
-Back to top
+**Please note that if you do not set your browser and e-mail settings to disable cookies and clear gifs, you will be indicating your consent to receive them.  **
 
-### WHO HAS ACCESS TO THE INFORMATION?
+If you wish to find out more about cookies and clear gifs, you may like to visit[ www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org"), an independent third party resource that explains what cookies and clear gifs are and how you may manage them. Please note that we are not responsible for, and have no control over, the content of this third party website.
+
+  
+
+
+## HOW DOES THOMSON REUTERS PROTECT THE PERSONAL INFORMATION THAT IT COLLECTS?
+
+We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our products and/or websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software.
+
+Also, please note that we may store and process your personal information in systems located outside of your home country. However, regardless of where storage and processing may occur, we take appropriate steps to ensure that your information is protected, consistent with the principles set forth under this Statement, and as required under Data Protection/Privacy laws.  
+**  
+TRANSFER OF PERSONAL INFORMATION TO OTHER COUNTRIES**  
+If you are located in the European Economic Area ("EEA"), or a country with data protection/privacy law, we may transfer your personal information to countries that may not guarantee the same level of protection for personal information as the one in which you reside.  **By giving your information you consent to these transfers.**  Thomson Reuters will only transfer personal information to the extent it is necessary to fulfill the purpose outlined above.
+
+Recipients of data are other companies in the Thomson Reuters group of companies and third party service providers.
+
+We will take appropriate steps to provide an adequate level of protection to all personal information against the standards set within the EEA, as a minimum. No matter where you reside your data shall be processed in accordance with the provisions set out in this Privacy Statement.
+
+  
+
+
+## WHO HAS ACCESS TO THE PERSONAL INFORMATION?
 
 We will not sell, rent, or lease mailing lists or other customer data to others, and we will not make your personal information available to any unaffiliated parties, except as follows:
 
+  * When the data is collected from publicly available domains including but not limited to  websites, company directories, company registrars, publicly available government lists, search engines and similar technology.
   * To agents and/or contractors who may use it on our behalf or in connection with their relationship with us (for example, we may use third parties to help us with promotional campaigns).
   * As required by law, in a matter of public safety or policy, as needed in connection with the transfer of our business assets (for example, if we are acquired by another company or if we are liquidated during bankruptcy proceedings), or if we believe in good faith that sharing the data is necessary to protect our rights or property.
 
 
 
-We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access.
+We also rely on some of our affiliates for support of the products and services we offer, and we share some of our back-office functions with other Thomson Reuters companies. Our affiliates are all required to preserve the confidentiality of any personal information they may access in accordance with this Statement.
 
-We will not disclose any information about your usage to unaffiliated third parties, except as necessary to service the account, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law. We may also use statistics regarding usage for product development purposes, but we only use those statistics in the aggregate and they don't include any personally identifiable information about individual users.
+We will not disclose any information about your usage to unaffiliated third parties, except as necessary to enhance the product experience, service the legal agreement between us and your employer, service the account, collaboration between Thomson Reuters products, to enforce the terms of use, to meet our obligations to content and technology providers, or as required by law.
 
-We may also use statistics regarding usage for product development purposes, but we only use those statistics in the aggregate and they don't include any personally identifiable information about individual users.
+We may also use statistics regarding usage for product development and enhancement purposes.
 
-Your access to some of our services and content may be password protected. We recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your account or service at the end of each session. You may also wish to close your browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place like a library or Internet cafe.
+Your access to some of our products, services and content may be password protected. We recommend that you refrain from disclosing your username(s) and password(s) to anyone. We also recommend that you sign out of your product, account or service at the end of each session. You may also wish to close your product terminal or browser window when you have finished your work, especially if you share a computer with someone else or if you are using a computer in a public place.
 
-Back to top
-
-### HOW MAY I CORRECT, AMEND OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?
-
-You may cancel your registration or update your preferences at any time. If you don't want to receive information about our products or services, please update your account preferences (where available), check the appropriate box when registering, and/or utilise the "unsubscribe" mechanism within the communications that you receive from us.
-
-### Questions?
-
-If you have any additional questions or concerns related to this Privacy Statement and/or our practices, please [email us](mailto:findlaw.portalmanager@thomsonreuters.com "email us") or contact us at:
-
-FindLaw UK  
-19 Hatfields  
-London  
-SE1 8DJ  
+  
 
 
-### PRIVACY STATEMENT CHANGES
+## HOW MAY I CORRECT, AMEND, OR DELETE MY PERSONAL INFORMATION AND/OR UPDATE MY PREFERENCES?
 
-If our information practices change in a significant way, we will post the policy changes here. This Privacy Statement was last updated on March 26, 2012.
+You can amend, update or delete your personal information whenever you like. Please go to your profile settings in your product or services being used. Or contact your Customer Center for assistance.
+
+**To update your preferences for email communications for our products, services, news updates, bulletins, and reports please go to the preference center link found on each specific email communication.**
+
+In certain countries if you use our products and/or services in the course of your employment, Thomson Reuters will only send you unsolicited marketing via email if your employer has given its consent for you to receive email communications from Thomson Reuters, or if your employer has allowed Thomson Reuters to contact you directly and gain your consent to receive marketing.
+
+## QUESTIONS?
+
+If you would like to see the data Thomson Reuters holds on you (there can be a charge for this service) or if you have any questions or concerns related to this statement and/or our practices, or a complaint or dispute, please [email us](mailto:privacy.enquiries@thomsonreuters.com "Privacy Officer") or write to the address above.
+
+  
+
+
+## PRIVACY STATEMENT CHANGES
+
+If Thomson Reuters information practices change in a significant way, we will post the policy changes here. Thomson Reuters reserves the right to change this Privacy Statement at any time by posting an updated version here. All previous versions will not be valid.
+
+This Privacy Statement was last updated on 1 July 2015
