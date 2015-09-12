@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buxfer.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701170606id_/https%3A//www.buxfer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxfer.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912092817id_/https%3A//www.buxfer.com/privacy) for the most accurate reproduction.*
 
-# Buxfer: Privacy Policy
+# Privacy Policy - Buxfer
 
 Buxfer, Inc. ("Buxfer") knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the Buxfer’s website at http://www.buxfer.com (“buxfer.com”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
