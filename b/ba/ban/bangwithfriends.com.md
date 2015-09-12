@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangwithfriends.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419073115id_/https%3A//www.downapp.com/privacy%3Flocale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangwithfriends.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912041630id_/http%3A//www.downapp.com/privacy%3Flocale%3Den) for the most accurate reproduction.*
 
 # DOWN : Safe, anonymous dating in your social network
 
