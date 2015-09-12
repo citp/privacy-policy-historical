@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gxmarkets.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324170423id_/https%3A//www.gxmarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gxmarkets.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912235601id_/http%3A//www.gxmarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Registered Office, 20-22, Wenlock, London, England, N 7GU
 
 In today's world of identity theft and hacking, securing the private information of our customers is our top priority. The Privacy Policy below explains not only how we collect and protect your personal information, but also what our commitment is to you our customer. By opening an account with us or by using our website, you give your consent to allow us to collect and use your personal information in a reasonable manner. 
 
