@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zerodha.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407141757id_/http%3A//zerodha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerodha.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912060519id_/https%3A//zerodha.com/privacy-policy) for the most accurate reproduction.*
 
 # Zerodha - Privacy Policy
 
