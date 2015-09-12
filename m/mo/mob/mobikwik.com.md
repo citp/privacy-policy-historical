@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobikwik.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315085631id_/https%3A//www.mobikwik.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobikwik.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912181111id_/https%3A//www.mobikwik.com/privacypolicy) for the most accurate reproduction.*
 
 # Mobikwik.com Privacy policy describes handling of private information.
 
@@ -235,7 +235,5 @@ However, this high level of protection can only be effective if you follow certa
 
 
 If you have questions or concerns, feel free to e-mail us or to correspond at [MobiKwik Helpdesk](https://web.archive.org/help) and we will attempt to address your issue.
-
-Last updated on: 15 September 2014
 
 * * *
