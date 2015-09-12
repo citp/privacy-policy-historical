@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twenga.co.uk privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319063614id_/http%3A//www.twenga.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenga.co.uk privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912060655id_/http%3A//www.twenga.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -49,6 +49,8 @@ If we propose to use personal information for any purposes other than those desc
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Twenga features and services may not function properly if your cookies are disabled.
 
 You can decline to submit personal information to any of our services, in which case Twenga may not be able to provide those services to you.
+
+[More about cookies](http://www.twenga.co.uk/cookie.php "contact us")
 
 [Top of page](http://www.twenga.co.uk/privacy.php#about)
 
