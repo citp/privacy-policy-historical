@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316150648id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applovin.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912062438id_/https%3A//www.applovin.com/privacy) for the most accurate reproduction.*
 
 # AppLovin - Privacy
 
@@ -10,7 +10,7 @@ AppLovin has been awarded TRUSTe's Privacy Seal signifying that this privacy pol
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as described below. If you are not satisfied with our response you can [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
-_Effective Date:_ December 28, 2013
+_Effective Date:_ July 29, 2015
 
 This Policy describes the treatment of information provided or collected on or through (i) our U.S. website, which is currently located at [www.AppLovin.com](http://applovin.com/) (the “Site”); (ii) the network of application publishers and developers (the “AppLovin Apps”); and (iii) our other online services (together with the Site and the AppLovin Apps, the “Services”).
 
@@ -85,7 +85,7 @@ We may also collect certain types of information automatically, including throug
 
 ### Consumers.
 
-AppLovin primarily collects information from Consumers when an application developer or website publisher requests AppLovin to serve an advertisement to a consumer. By downloading and using a partner Application, you grant the application developer with permission to collect device information and share it with AppLovin. AppLovin may track this information over time and across multiple AppLovin Apps (and may also combine the device information with anonymous information from other sources) in order to deliver advertisements through the Services. In addition, AppLovin may collect information from Consumers through use of a Cookie, Web Beacon or similar tracking technologies if the Consumer accesses advertisements from a browser or is redirected to a browser by advertisements provided through the Services. Certain advertisements may redirect you to a browser where AppLovin may use a Cookie to track Consumer activities.
+AppLovin primarily collects information from Consumers when an application developer or website publisher requests AppLovin to serve an advertisement to a consumer. By downloading and using a partner Application, you grant the application developer with permission to collect device information and share it with AppLovin. AppLovin may track this information over time and across multiple AppLovin Apps (and may also combine the device information with anonymous information from other sources) in order to deliver advertisements through the Services. In addition, AppLovin may collect information from Consumers through use of a Cookie, Web Beacon, Scripts or similar tracking technologies if the Consumer accesses advertisements from a browser or is redirected to a browser by advertisements provided through the Services. Certain advertisements may redirect you to a browser where AppLovin may use a Cookie to track Consumer activities.
 
 ## 5\. Use of Your Information by AppLovin
 
@@ -140,11 +140,20 @@ If you would like additional information about the choices and controls that may
 
 ### Opt-Out:
 
-We make it easy to opt-out of our targeted advertising services. In order to do so, simply visit the [Opt Out section](https://web.archive.org/optout) on the Site. Please note that even if you opt-out, you may still receive content and advertising from AppLovin. Opting-out just means that the advertisements you do receive from us will not be targeted in any sort of way.
+We make it easy to opt-out of ourtargeted advertising services. In order to do so, simply visit the [Opt Out section](https://web.archive.org/optout) on the Site. Please note that even if you opt-out, you may still receive content and advertising from AppLovin. Opting-out just means that the advertisements you do receive from us will not be targeted in any sort of way.
+
+  * You may control how your browser responds to cookies by adjusting the privacy and security settings of your web browser.
+  * You may limit the disclosure of certain Non-Personal Information by your mobile Device to us and Publishers by adjusting the settings on your mobile Device. For iOS mobile Devices, go to “Settings” from your Device’s homescreen; scroll down to “Privacy”; select “Advertising”; and turn on “Limit Ad Tracking.” For Android mobile Devices, go to “Google Settings” on your Device; select “Ads”; and check the box labeled “Opt Out of Interest-Based Ads.”
+  * You may opt out of certain advertisers’ cookies and browser-enabled, interest-based advertising at the Network Advertising Initiative’s website and the Digital Advertising Alliance’s website. Please note that these opt outs apply to interest-based advertising by participating advertisers. You may still receive other types of online advertising from participating advertisers, and the websites you visit may still collect information for other purposes. In addition, the opt-out choices you select are stored in opt-out cookies only in the browser that you use to visit the opt-out websites, so you should separately set your preferences for other browsers or Devices you may use. Deleting browser cookies can remove your opt-out preferences, so you should visit these opt-out websites periodically to review your preferences or update your preferences to apply to new participating advertisers.
+  * Publishers and Advertisers may also provide ways for you to opt out from or limit their collection of information from and about you. Please refer to the privacy policies for the Apps to learn more about the privacy practices of Publishers and Advertisers. Please note, however, that we are not responsiblefor the privacy practices of Publishers, Advertisers, and other third parties.
+
+
 
 ## 8\. Children’s Privacy
 
 We do not use the Services to knowingly solicit data from or market to children under the age of thirteen (13). We request that such individuals do not provide personal information through the Services. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should promptly [contact us](https://web.archive.org/contact) and we take reasonable steps to ensure that such information is deleted from our files.
+
+If a partner flags their application or mobile website as directed towards children under 13, we will not collect any information on these users for behavioral marketing, profile building, or remarketing purposes.
 
 ## 9\. Data Security, Integrity and Retention
 
