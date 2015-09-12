@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chargebee.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316172342id_/https%3A//www.chargebee.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chargebee.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912141436id_/https%3A//www.chargebee.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - ChargeBee
+# Privacy Policy - Chargebee
 
 #### What information do we collect?
 
