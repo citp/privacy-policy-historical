@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickfair.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315034336id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickfair.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912195935id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
 # Rewarding Ways - Privacy
 
@@ -28,7 +28,6 @@ We recommend that all users enable cookies in their internet browsers in order t
 
 You must be logged in to post messages. 
 
-MEMBERS| 186335  
+MEMBERS| 207929  
 ---|---  
-ONLINE|  28  
-PAYMENTS| $201,478.21
+PAYMENTS| $231,728.30
