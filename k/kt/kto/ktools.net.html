@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ktools.net privacy policy that was archived on 2015-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150524235539id_/http%3A//www.ktools.net/privacy.policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ktools.net privacy policy that was archived on 2015-09-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150912080621id_/http%3A//www.ktools.net/privacy.policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 		<title>Privacy Policy - PhotoStore - Ktools.net</title> 
@@ -80,11 +80,12 @@
 								<li><a href="/photostore/">Overview</a></li>
 								<li><a href="/photostore/how-photostore-works/">How It Works</a></li>
 								<li><a href="/photostore/features/">Features</a></li>
-								<li><a href="/photostore/requirements/">Requirements</a></li>
+								<li><a href="/photostore/online-demo/">Demo</a></li>
 								<li><a href="/photostore/screenshots.php">Screenshots</a></li>
+								<li><a href="/photostore/themes/">Themes</a></li>
 								<li><a href="/photostore/clients/">Clients</a></li>
 								<li><a href="/photostore/extras/">Optional Add-ons</a></li>
-								<li><a href="/photostore/online-demo/">Demo</a></li> 
+								<li><a href="/photostore/requirements/">Requirements</a></li>
 								<li><a href="/photostore/pricing/">Pricing</a></li> 
 								<li><a href="/photostore/faqs/">FAQs</a></li>           
 							</ul>
@@ -374,18 +375,31 @@
             <div class="modal-content" id="rental-signup-success" style="display: none;">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                    <h4 id="signupModalLabel" class="modal-title text-center">Signup Complete</h4>
+                    <h4 id="signupModalLabel" class="modal-title text-center">PhotoStore Signup</h4>
                     <p class="intro text-center">Thank you for signing up for PhotoStore</p>
                     <p></p>
                 </div>
                 <div class="modal-body" style="padding: 50px;">
 					<div class="text-center" style="margin-bottom: 40px;"><span class="pe-icon pe-7s-sun"></span></div>
-					
+					<p>To complete the signup process please click the pay now button below. Once payment is completed we will set up your PhotoStore and send you the details. You can change your plan at any time.</p>
+					<br><br>
+					<!--
 					<p><b>Your PhotoStore is being set up.</b> Details on getting started will be sent via email within the next 24 hours (usually much sooner).</p>
 					<br>
 					<p>A Ktools.net account has also been created. You can log in to your Ktools.net account at any time here: <a href="/members/">www.ktools.net/members/</a></p>
 					<br>
 					<p style="color: #888"><i>In the meantime if you would like to point your domain name to our servers you can update the name servers (DNS) with the company that you have your domain name registered with. Please update the name servers to <b>ns1.ktools.net</b> and <b>ns2.ktools.net</b>. If you are unsure how to do this and need assistance <a href="/contact-us/">just let us know</a>.</i></p>
+					-->
+					<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+						<input type="hidden" name="cmd" value="_xclick">
+						<input type="hidden" name="business" value="sales@ktools.net">
+						<input type="hidden" name="item_name" value="PhotoStore">
+						<input type="hidden" name="item_number" value="photostore-rental">
+						<input type="hidden" name="amount" id="rental-amount" value="29.00">
+						<input type="hidden" name="no_shipping" value="2">
+						<input type="hidden" name="return" value="http://www.ktools.net/signup.success.php">
+						<button type="submit" class="btn btn-block btn-cta-primary">Pay Now</button>
+					</form>				
 				</div>
 			</div>
 			
