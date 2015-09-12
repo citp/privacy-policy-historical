@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510222241id_/https%3A//www.elliemae.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliemae.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912042436id_/http%3A//www.elliemae.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ellie Mae
 
-[ ](https://www.elliemae.com/privacy-policy "Privacy Policy")
+[ ](http://www.elliemae.com/privacy-policy "Privacy Policy")
 
 ELLIE MAE, Inc., maintains Internet Web sites as a service to its customers. By using Web sites owned or operated by ELLIE MAE, you are agreeing to comply with and be bound by the following terms of use, which are subject to change at any time (click on each link to read full text):
 
@@ -58,7 +58,7 @@ Please refer to the full text of our Website Privacy Policy.
 
 ### How to Contact Us:
 
-For more information about Ellie Mae’s information practices, including how to opt-out of certain programs, please review the Privacy Policy applicable to the product or service you are using. Further questions about our information practices should be directed here or can be submitted by regular mail to: Privacy Inquiries Ellie Mae, Inc. 4155 Hopyard Road Suite 200 Pleasanton, CA 94588
+For more information about Ellie Mae’s information practices, including how to opt-out of certain programs, please review the Privacy Policy applicable to the product or service you are using. Further questions about our information practices should be directed here or can be submitted by regular mail to: Privacy Inquiries Ellie Mae, Inc. 4420 Rosewood Drive Suite 500 Pleasanton, CA 94588
 
 **Effective Date** : This Privacy Policy is effective and was last updated as of March 27, 2013. This policy describes our collection, use and storage of data from our customers (and, where applicable, their customers or business associates). Ellie Mae® customers should also refer to their license agreement and other customer agreements, which state additional terms governing their use of our Ellie Mae Network™, products and services.
 
@@ -119,4 +119,4 @@ You can access and update the information that you have provided to us as follow
 
 ### Contact Us
 
-If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to: [privacy@elliemae.com](mailto:privacy@elliemae.com "Ellie Mae's Privacy Policy") Ellie Mae, Inc. 4155 Hopyard Road Suite 200 Pleasanton, CA 94588
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to: [privacy@elliemae.com](mailto:privacy@elliemae.com "Ellie Mae's Privacy Policy") Ellie Mae, Inc. 4420 Rosewood Drive Suite 500 Pleasanton, CA 94588
