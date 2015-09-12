@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet-radio.com privacy policy that was archived on 2014-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140826213655id_/http%3A//www.internet-radio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-radio.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912140431id_/https%3A//www.internet-radio.com/privacy-policy) for the most accurate reproduction.*
 
 # Internet Radio Privacy Policy
 
@@ -31,18 +31,6 @@ We require this information for the following reasons:-
 ### Cookies
 
 Cookies are small files that are stored on your computer by websites you visit. They are widely used to make websites more efficiently and provide information to the owners of the site. Cookies that are used by this site are necessary in order for us to provide and improve upon our service.
-
-The following cookies may be set :
-
-**vBulletin Forum: PHPSESSID, bb_cpsession, bb_fbaccesstoken, bb_fbprofilepicurl, bb_forum_view, bb_lastactivity, bb_lastvisit, bb_password, bb_sessionhash, bb_thread_lastview, bb_thread_rate, bb_userid, editor_height, vbulletin_sidebar_collapse.** Our [forum software](https://www.vbulletin.com/) uses these various cookies to improve functionality and remember your preferences from your last visit.
-
-**Centovacast Control Panel: centovacast, userkey.** Centovacast uses these various cookies to improve functionality and remember your preferences from your last visit.
-
-**Google Analytics: __utma, __utmb, __utmc, __utmz, __utmmobile.** We use Google Analytics to monitor and report on our website usage such as the number of visitors to the site, search phrases used to find us, pages visited on the site and time spent on the site. The statistics gathered are a necessary requirement in order for us to provide and improve our value added products and services and to stay competitive. The cookies do not identify users nor associate your IP address with any personally identifiable information.
-
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-Google's privacy policy is found [here](http://www.google.com/analytics/learn/privacy.html).
 
 Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [this site](http://www.allaboutcookies.org/).
 
