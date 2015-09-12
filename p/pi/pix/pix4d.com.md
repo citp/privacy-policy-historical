@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pix4d.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318223126id_/https%3A//pix4d.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pix4d.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912125135id_/https%3A//pix4d.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Pix4D
 
