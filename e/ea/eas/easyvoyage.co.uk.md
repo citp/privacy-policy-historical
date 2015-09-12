@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the easyvoyage.co.uk privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628221040id_/http%3A//www.easyvoyage.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyvoyage.co.uk privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912063400id_/http%3A//www.easyvoyage.co.uk/privacy) for the most accurate reproduction.*
 
 # Easyvoyage newsletter
-
-  * [Home](https://web.archive.org/)
-  * Newsletter charter 
-
-
 
 ## The Easyvoyage newsletters.
 
