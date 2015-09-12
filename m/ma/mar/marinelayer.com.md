@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marinelayer.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607200144id_/http%3A//www.marinelayer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinelayer.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912025238id_/https%3A//www.marinelayer.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Marinelayer : Marinelayer
+# PRIVACY POLICY – Marine Layer
 
 The abridged version is that we take your privacy seriously. The more “professional” and detailed policy is as follows:
 
