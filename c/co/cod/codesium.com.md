@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the codesium.com privacy policy that was archived on 2015-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150409060017id_/http%3A//www.codesium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codesium.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912060541id_/http%3A//www.codesium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and Disclosure - Codesium
-
-**Affiliate Disclosure**
-
-This website uses from time to time a 3rd party (Viglink) to enable some affiliate partnerships and create monetized links. If you want you can read Viglink [Privacy Policy](http://www.viglink.com/legal/privacy/) and find more information [here](http://www.viglink.com/legal/disclosures/for-users/).
 
 **Do we use cookies?**
 
@@ -47,9 +43,13 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 This policy was last modified on April 10, 2014.
 
+**Affiliate Disclosure**
+
+From time to time, this website uses a 3rd party website (Viglink) to enable some affiliate partnerships and create monetized links. If you want you can read the Viglink [Privacy Policy](http://www.viglink.com/legal/privacy/) and find more information [here](http://www.viglink.com/legal/disclosures/for-users/).
+
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the contact page.
+If there are any questions regarding this privacy policy you may contact us using the [contact page](http://www.codesium.com/about-us-contact/).
 
 Thank you,
 
