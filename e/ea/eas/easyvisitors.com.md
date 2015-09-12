@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyvisitors.com privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212061609id_/http%3A//easyvisitors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyvisitors.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912022448id_/http%3A//easyvisitors.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Easy Visitors
+# PRIVACY POLICY | Easy Visitors
 
 We take the privacy of our customers very seriously. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
