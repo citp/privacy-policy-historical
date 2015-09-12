@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2015-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150423103718id_/https%3A//www.collegerecruiter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912194357id_/https%3A//www.collegerecruiter.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Entry Level Jobs for Grads and Internships for Students | College Recruiter
+# Privacy Policy | Entry Level Jobs | Internships for Students | College Recruiter
 
 Visitors to this and other websites owned or powered by CollegeRecruiter.com, LLC can engage in a variety of activities such as post a resume, apply to a job, request information about continuing your education, request scholarship information, participate in surveys, enter contests, order products and/or services, and more. Job boards such as we operate cannot be well used by their visitors unless those visitors choose to provide information about themselves to us and the third party organizations that use our site to help them offer employment, educational, and other opportunities to our visitors.
 
