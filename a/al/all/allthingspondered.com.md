@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allthingspondered.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320010956id_/http%3A//www.allthingspondered.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingspondered.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912144348id_/http%3A//www.allthingspondered.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | All Things Pondered!
+# Privacy Policy |
 
 **Privacy Policy**
 
