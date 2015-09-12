@@ -1,0 +1,64 @@
+> *The following text is extracted and transformed from the vix.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912190309id_/http%3A//batangamedia.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Batanga Media
+
+Batanga Media is deeply committed to earning your trust and protecting the privacy of Internet users. To better understand Batanga Media’s privacy protocol, Batanga Media provides this notice explaining its online technology and information collection practices when it serves advertisements on its network of web sites.
+
+###### Consumer Information
+
+Batanga Media uses one or more third party ad serving providers to serve ads at this and at our clients’ sites. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information -not including your name, address, email address or telephone number- about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you.  
+Advertisers using the Batanga Media may collect personally identifiable information explicitly provided by consumers (i.e. name, address, email address or telephone number) for purposes including the purchase of goods and services, order shipment, and/or sweepstakes entry. Personally identifiable information collected by Advertisers using the Batanga Media is subject to the privacy policies of the individual advertisers.
+
+###### Third Party Advertising
+
+We may use other third-party advertising companies to serve ads when you visit our network of web sites. Batanga Media and these companies may use non-personal information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. In addition to using the non-personal information we collect, Batanga Media may use other non-personal information obtained from third-party sources to determine the ad that may be of interest to you.
+
+###### Cookies and Pixel Tags
+
+Like most Internet sites, Batanga Media and its third party ad serving party uses “cookies” to enhance the Internet user’s experience on the Web. Neither Batanga Media nor such third party ad serving party uses these cookies to personally identify you in any way and these cookies in no way damage your system or files.
+
+###### What are cookies and how do they enhance your Web experience?
+
+A cookie is a unique number that is assigned to you the first time you are served an ad. This number is stored in a file on your computer. For instance, cookies help ensure that you don’t repeatedly see the same ad. Cookies can also help advertisers measure how you utilize an advertiser’s site and the effectiveness of an ad. This information can then be used by advertisers to better cater to your needs. In other words, cookies help us deliver to you the types of ads in which you are most interested.
+
+In the course of providing online advertising services to websites and advertisers, Batanga Media may use pixel tags (also known as clear GIFs or web beacons). A pixel tag is a line of code that is placed on a website by the website owner which enables us to analyze advertising campaigns and the general usage patterns of visitors to their websites. In all such instances, the pixel tag is programmed to collect only anonymous information about your visit to a particular website, for example, pages viewed, number of visits, navigation history through the website, or other statistics. This non-personally-identifiable information is sent to our ad server for processing.
+
+Businesses often use a pixel tag to better understand the traffic patterns of visitors to a website or enable us to target ads to those visitors on other websites. Batanga MEdia provides services to websites and advertisers and, accordingly, may use pixel tag information for reporting about website traffic or to deliver targeted advertising to your browser. In this case, it will be Batanga Media’s policy to require those websites which use Batanga Media cookies or pixel tags to provide an appropriate notice in their privacy policies explaining our relationship. Although we believe that cookies help enhance your experience on the Web (by not repeatedly serving the same ads to you and delivering more relevant messages to you), neither Batanga Media nor its third party ad serving party needs cookies to deliver ads to you. Web Users have the option of blocking the use of cookies by changing a setting in their browser. Please see your browser supplier’s website for details on how to do this.
+
+###### Information Sharing
+
+Batanga Media may share only aggregate, non-personal information, such as number of users that clicked on an advertisement, number of times an advertisement was served, and other information that does not identify you individually, with web sites of its network or Advertisers for reporting, statistical and accounting purposes.
+
+###### Sensitive Information
+
+Batanga Media does not collect or use sensitive information for purposes of online behavioral advertising – OBA unless we have obtained your prior consent, also known as opt-in. Sensitive Information refers to data related to confidential medical information, health or medical conditions or treatment, financial or insurance account numbers, social security or other Government-issued identifiers. We may enable advertisers to create custom audiences relating to general health topics such as “diet and fitness” or “allergies” using our technologies, but we will not permit advertisers to target users on the basis of precise health conditions or treatments.
+
+###### Data Collection for Online Behavioral Advertising
+
+Batanga Media retains non-personally-identifiable information for online advertising for up to 30 days. After 30 days this data is deleted. Other aggregated data is retained for up to two years for statistical and reporting purposes.
+
+###### Opting out
+
+Some of the advertisements and other services that appear on our web site(s) are delivered to you by Internet advertising and data collection companies. These companies utilize certain technologies including cookies to collect anonymous information like page viewed, number of visits, etc. about your visit to our sites and other web sites, in order to deliver advertisements that may be of interest to you. These advertisements are called Interest-Based Advertising (IBA). If you would like to opt out of having this information used by companies that are part of the Network Advertising Initiative, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). If you need more information about Interest-Based Advertising please visit Network Advertising Initiative [http://www.networkadvertising.org](http://www.networkadvertising.org/) or Aboutads [http://www.aboutads.info](http://www.aboutads.info/).
+
+###### Security
+
+Batanga Media is committed to keeping data secure and will take all reasonable physical, electronic and procedural precautions to protect data in our control from unauthorized access, loss, misuse or alteration.
+
+###### Children
+
+Batanga Media does not knowingly collect any Personal Data from children under thirteen years of age. If you are under 13, please do not provide or send any personal information about yourself to us, including your name, address, telephone number, or email address. If you believe that a minor has provided Batanga Media with Personal Data, please contact us. We recommend that minors always ask their parents for permission before sending any information about themselves to anyone over the Internet.
+
+###### Effective Date and Changes in Policy
+
+This Privacy Policy is effective as of Jun 12th, 2015. In the event that Batanga Media decides to update this Privacy Policy, it will post the changes at the Web site and at other places it deems appropriate so that you are aware of what information was changed.
+
+###### Contact Batanga Media
+
+If you should have any questions or concerns regarding this Privacy Policy, please contact us.
+
+###### Batanga Media
+
+2121 Ponce de Leon Blvd, Suite 800  
+Coral Gables, FL, 33134  
+[privacy@batanga.com](mailto:privacy@batanga.com)
