@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printerpix.com privacy policy that was archived on 2014-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140915034412id_/http%3A//www.printerpix.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printerpix.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913004050id_/http%3A//www.printerpix.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -62,11 +62,12 @@ Address
 PrinterPix  
 
 
-107 Commerce Street  
+Suite 121,  
+635 Century Point  
 
 
-Lake Mary, FL  
-
+Lake Mary  
+Florida 
 
 32746   
-
+USA 
