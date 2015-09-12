@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpwanted.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607205312id_/http%3A//www.helpwanted.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpwanted.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912041603id_/https%3A//www.helpwanted.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
