@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001120id_/https%3A//www.worketc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912135842id_/https%3A//www.worketc.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - we hate spam too. -
 
@@ -8,20 +8,16 @@ Effective Date: May 18th 2012
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
-WORKETC PTY LTD (“WORK[etc]“) owns and operates this worketc.com website business. All references to “we”, “us”, this “website” or this “site” shall be construed to mean WORK[etc]. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal Information, that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy.
+WORKETC PTY LTD (“WORK[etc]”) owns and operates this worketc.com website business. All references to “we”, “us”, this “website” or this “site” shall be construed to mean WORK[etc]. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal Information, that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy.
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our website www.worketc.com and WORK[etc] service. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged WORK[etc].
 
 WORK[etc] has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s Program Requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification applies to www.worketc.com and the services platform associated with this website. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
-WORK[etc] Pty Ltd 
-
-Attn: Privacy Policy Officer
-
-2/672 Old South Head Road
-
-ROSE BAY NSW AUSTRALIA
-
+WORK[etc] Pty Ltd   
+Attn: Privacy Policy Officer  
+2/672 Old South Head Road  
+ROSE BAY NSW AUSTRALIA  
 Email: support@worketc.com
 
 If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) .
@@ -55,7 +51,7 @@ We adhere to the requirements of the US-EU Safe Harbor Framework:
 **Choice** – we provide individuals and organizations the choice to opt out of any disclosure to third parties, although WORK[etc] never discloses or shares information with third parties.  
 **Onward Transfer** – we do not disclose information to third parties  
 **Access** – we provide contact details for individuals wishing to access any personal information  
-**Security  **\- we take all reasonable precautions to protect information from loss, misuse and unauthorized access, disclosure, alteration and destruction, including highly secure data centers, encrypted transmission and encrypted archival storage.  
+**Security  **– we take all reasonable precautions to protect information from loss, misuse and unauthorized access, disclosure, alteration and destruction, including highly secure data centers, encrypted transmission and encrypted archival storage.  
 **Data Integrity** – we take all reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current.  
   
 HOW WE DISCLOSE YOUR INFORMATION
@@ -149,38 +145,24 @@ CONTACT US
 
 If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at:
 
-Australia – Asia – Pacific – Rest of World 
-
-WORK[etc] Pty Ltd
-
-2/672 Old South Head Road
-
-ROSE BAY NSW AUSTRALIA
-
-Email:  support-at-worketc.com
-
-Telephone: +1 949 470-1430  (USA)
-
+Australia – Asia – Pacific – Rest of World   
+WORK[etc] Pty Ltd  
+2/672 Old South Head Road  
+ROSE BAY NSW AUSTRALIA  
+Email:  support-at-worketc.com  
+Telephone: +1 949 470-1430  (USA)  
 Facsimile:  +61 2 8088 1293 (AUS)
 
-USA – Canada 
-
-WORK[etc]
-
-One Embarcadero Center
-
-Suite# 500,
-
+USA – Canada   
+WORK[etc]  
+One Embarcadero Center  
+Suite# 500,  
 San Francisco, 94111
 
-UK & Europe 
-
-WORK[etc]
-
-86-90 Paul Street, 
-
-London EC2A 4NE
-
+UK & Europe   
+WORK[etc]  
+86-90 Paul Street,   
+London EC2A 4NE  
 United Kingdom
 
 Material Modifications Since June 2, 2011:  Assignment of TRUSTe Privacy Seal and Compliance program
