@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324103040id_/http%3A//www.visitnorway.com/en/about-visitnorwaycom/visitnorway-privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912163625id_/http%3A//www.visitnorway.com/en/about-visitnorwaycom/visitnorway-privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy and security policy - Official Travel Guide to Norway - visitnorway.com
 
