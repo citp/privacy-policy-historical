@@ -1,111 +1,28 @@
-> *The following text is extracted and transformed from the rajrang.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613045917id_/http%3A//www.rajrang.com/pages/Privacy-Policy/pgid-519269.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajrang.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912095522id_/http%3A//www.rajrang.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At Rajrang, we respect your privacy and are committed towards protecting it.    
+We at Rajrang try hard to maintain utmost privacy in our cyberspace. You may visit our site and browse the products without providing your personal information. During your visit, you remain totally anonymous for us, and we cannot identify you unless you make an account with us. By browsing www.rajrang.com, it is certain that you acknowledge and consent to our collection and willingly share your details with us.
 
-Here is our privacy policy in detail. Our policy is subject to change at any time without notice, please review the policy time to time to stay updated.
+If you seek to place an order, we may collect information such as name, gender, email address, delivery address, payment card details, and contact number. We need this to-
 
-**What information do we ask?**
-
-Whenever you make an order on Rajrang, we ask for you information such as your name, email address, delivery address, payment method and its details to process your order.
-
-**What the data will be used for?**
-
-****
-
-We use your information for the following:-
-
-  * To deliver you products, information and services you’ve requested.
-  * To contact you to send the details of our products, offers & services which could be of interest to you.
-  * To notify you about the changes or your views on the services we offer.
+  * Deliver the products or information you requested.
+  * Contact you regarding detail of our products, offers & services that could be of interest to you.
+  * Notify you about the changes in our services.
+  * Keep the internal records.
 
 
 
-We may contact you via email, text or post. If you prefer any particular medium of communication, please let us know
+We may share these details with a third party (courier, supplier, bank merchant) to complete the order and related transactions. Under no circumstances, we rent, trade or sell your details to any other company for marketing purposes.
 
-We do not disclose any information to the advertisers, but we may make use of your personal data that we’ve collected from you for our target audience.
+We store your personal details on a secure server to prevent any accident loss or destruction or damage to your information. We use firewalls on our servers. However, you are requested to keep your password confidential to protect from the unauthorized use of your account.
 
-**Where we store your information?**
+The website may contain links that direct you to third party sites. We are not responsible for the privacy policies and practices on other sites. When following a link to another site you are requested to read its privacy policy.
 
-The information we collect from you is stored on servers. By submitting your data you agree to the processing. We will take all the necessary steps to ensure that your personal information is secured and in accordance with the policy.
+Simply put, a cookie is a small part of the information that websites use to recall information regarding users. We store cookies that allow us to present information customized to fit your needs and also remember your login information. However, these cookies do not pose any threat to your privacy and are free from viruses. Your browser can be set to not accept cookies, but this would restrict your use of the Site.
 
-All the information you provide is stored on secure servers and payment transactions will be encrypted. Where we give you password (the one you choose) that enables you to access certain parts of the website, you are responsible to keep the password confidential. We always ask you not to share the password.
+Changes to our Privacy Policy
 
-**Disclosure of the information**
+If at anytime we make a plan to change our privacy policies and procedures as to the storage, use or disclosure of your personal information, we will post a notice of those changes on our Website or notify you by email. It is strongly recommended to read these policies for the latest updates before placing an order.
 
-****
-
-The information we ask from you will be treated as confidential, however, we might disclose your personal information to other parties such as our partners, employees, officers for the purposes set out in the policy or for purposes approved by you.
-
-We may disclose your information to other parties:
-
-  * In case we sell or buy any asset or business, we may disclose the information to perspective buyer or seller of that asset or business.
-  * For the purpose of fraud protection and credit risk reduction.
-  * For security reasons we may also disclose your information to the law enforcement parties.
-
-
-
-**Security**
-
-****
-
-We do our best to protect your information, but we cannot guarantee the security of the transmitted data as any information in cyberspace is not fully secured. The online transmission is at your own risk. Once we get the information we use strict security features to prevent from unauthorized access.
-
-Your data may be stored by third parties on our behalf. We employ security measures to protect the information from unauthorized persons and against unlawful processing, damage and accidental loss.
-
-Please help us keeping our records updated by informing us about the change of your email address or other contact details.
-
-At Rajrang, we respect your privacy and are committed towards protecting it.    
-
-Here is our privacy policy in detail. Our policy is subject to change at any time without notice, please review the policy time to time to stay updated.
-
-**What information do we ask?**
-
-Whenever you make an order on Rajrang, we ask for you information such as your name, email address, delivery address, payment method and its details to process your order.
-
-**What the data will be used for?**
-
-****
-
-We use your information for the following:-
-
-  * To deliver you products, information and services you’ve requested.
-  * To contact you to send the details of our products, offers & services which could be of interest to you.
-  * To notify you about the changes or your views on the services we offer.
-
-
-
-We may contact you via email, text or post. If you prefer any particular medium of communication, please let us know
-
-We do not disclose any information to the advertisers, but we may make use of your personal data that we’ve collected from you for our target audience.
-
-**Where we store your information?**
-
-The information we collect from you is stored on servers. By submitting your data you agree to the processing. We will take all the necessary steps to ensure that your personal information is secured and in accordance with the policy.
-
-All the information you provide is stored on secure servers and payment transactions will be encrypted. Where we give you password (the one you choose) that enables you to access certain parts of the website, you are responsible to keep the password confidential. We always ask you not to share the password.
-
-**Disclosure of the information**
-
-****
-
-The information we ask from you will be treated as confidential, however, we might disclose your personal information to other parties such as our partners, employees, officers for the purposes set out in the policy or for purposes approved by you.
-
-We may disclose your information to other parties:
-
-  * In case we sell or buy any asset or business, we may disclose the information to perspective buyer or seller of that asset or business.
-  * For the purpose of fraud protection and credit risk reduction.
-  * For security reasons we may also disclose your information to the law enforcement parties.
-
-
-
-**Security**
-
-****
-
-We do our best to protect your information, but we cannot guarantee the security of the transmitted data as any information in cyberspace is not fully secured. The online transmission is at your own risk. Once we get the information we use strict security features to prevent from unauthorized access.
-
-Your data may be stored by third parties on our behalf. We employ security measures to protect the information from unauthorized persons and against unlawful processing, damage and accidental loss.
-
-Please help us keeping our records updated by informing us about the change of your email address or other contact details.
+For any queries or concerns regarding our privacy policies, please call on 91-9602334333 or drop an email at customercare@rajrang.com. We will make every effort to assist you.
