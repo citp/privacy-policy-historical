@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317032600id_/http%3A//www.tatango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912040926id_/http%3A//www.tatango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tatango
 
