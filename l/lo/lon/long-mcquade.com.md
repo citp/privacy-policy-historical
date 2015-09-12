@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2015-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150216101857id_/https%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912021906id_/https%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
 
-# Content - Long & McQuade Musical Instruments
+# Content
 
 Long & McQuade Limited has always maintained a policy of ensuring the accuracy, confidentiality and integrity of the personal information provided by our customers, or accumulated in the course of doing business with them. We are committed to ensuring compliance with the federal Personal Information Protection and Electronic Documents Act (PIPEDA) and substantially similar provincial laws in Alberta and British Columbia. This policy applies to agents or others providing services to us. A copy of this privacy policy is available on request or on our website at: <http://www.long-mcquade.com/pdf/Privacy%20of%20Personal%20Information%2001%2031%2005.pdf>[  
 ](http://www.long-mcquade.com/pdf/Privacy%20of%20Personal%20Information%2001%2031%2005.pdf)   
