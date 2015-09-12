@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindthemunchies.com privacy policy that was archived on 2014-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140910181914id_/http%3A//www.mindthemunchies.com/%3Fpage_id%3D154) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindthemunchies.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913003448id_/http%3A//www.mindthemunchies.com/%3Fpage_id%3D154) for the most accurate reproduction.*
 
 # Privacy Policy | Mind The Munchies
 
@@ -25,7 +25,7 @@ When you enter your details on mindthemunchies.com you are agreeing to receive p
 
 If you would prefer not to receive promotions in the future, you can unsubscribe at any time.
 
-Attbiz Limited reserves the right to transfer or sell your personal information to companies who are affiliated with Attbiz Limited; this is at our sole discretion. If Attbiz Limited changes ownership through a merger or sale, it reserves the right to transfer or assign the right to use your Personal Information collected from mindthemunchies.com.
+Mind The Munchies reserves the right to transfer or sell your personal information to companies who are affiliated with Mind The Munchies; this is at our sole discretion. If Mind The Munchies changes ownership through a merger or sale, it reserves the right to transfer or assign the right to use your Personal Information collected from mindthemunchies.com.
 
 **Security**
 
@@ -48,7 +48,7 @@ Google’s use of the DART cookie enables it to serve ads to users based on thei
 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Users may opt out of the Media.net cookie by visiting the Media.net privacy policy at the following URL - [http://www.media.net/adchoices](http://www.media.net/adchoices)
+Users may opt out of the Media.net cookie by visiting the Media.net privacy policy at the following URL – [http://www.media.net/adchoices](http://www.media.net/adchoices)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our current advertising partners include:
 
