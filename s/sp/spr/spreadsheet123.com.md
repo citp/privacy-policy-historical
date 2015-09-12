@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadsheet123.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315065925id_/http%3A//www.spreadsheet123.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadsheet123.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912193014id_/http%3A//www.spreadsheet123.com/privacy) for the most accurate reproduction.*
 
 # Spreadsheet123.com | Privacy Policy
 
@@ -57,7 +57,7 @@ The information that we collect and store relating to you is primarily used to e
   * To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.
   * To meet our contractual commitments to you.
   * To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.
-  * To process transactions 
+  * To process transactions
     * Online Visitors will be asked to provide their name, email address, mailing address, phone number, and credit card number along with expiration date or any bank account details only if you wish to make donations or purchase a product or membership from our web sites. All transactions, where credit card or your bank account is required occur over a secure connection protected through encryption such as the Secure Socket Layer (SSL) protocol.
     * We do use third party services such as PayPal.com and ClickBank.com to process payments or refunds therefore we do not keep any record of your bank account or credit card information, but we do store information such as record of sales, which may include your e-mail addresses, names, mailing addresses, in order to provide technical assistance or notify about any changes to the software purchased from us.
     * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
@@ -119,11 +119,11 @@ Data that is provided to us is stored on our secure servers. Details relating to
 
 The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
 
-**Access To Information for UK users**
+ **Access To Information for UK users**
 
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
-**California Online Privacy Protection Act Compliance**
+ **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent except events specifically outlined in this Privacy Policy.
 
