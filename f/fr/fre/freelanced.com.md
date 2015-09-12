@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freelanced.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316225445id_/http%3A//www.freelanced.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelanced.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912155121id_/https%3A//www.freelanced.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Freelanced.com
 
 Freelanced.com respects your privacy. This notice describes Freelanced.com's privacy policy with regard to the Freelanced.com website (the "Website"). From time to time, we may revise this Privacy Policy, so please be sure to periodically check the date of the last revision, which will be noted at the top of this page. By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of any such changes.
 
-We may sell some or all or our assets in the future. In such transactions, customer information is normally one of the transferred business assets. In the event of a sale of our assets including our database, customer information will of course be one of the transferred assets.
+We may sell some or all of our assets in the future. In such transactions, customer information is normally one of the transferred business assets. In the event of a sale of our assets including our database, customer information will of course be one of the transferred assets.
 
 ## Information Collection and Use
 
