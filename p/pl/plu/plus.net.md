@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plus.net privacy policy that was archived on 2015-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150614020614id_/https%3A//www.plus.net/support/service/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus.net privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912152000id_/https%3A//www.plus.net/support/service/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Plusnet Policies
 
