@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629185105id_/http%3A//ebn.benefitnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912041538id_/http%3A//ebn.benefitnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Employee Benefit News
 
