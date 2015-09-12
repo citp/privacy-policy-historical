@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinytake.com privacy policy that was archived on 2015-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150622062315id_/http%3A//tinytake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinytake.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912041010id_/http%3A//tinytake.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TinyTake is the Best Free Windows Screen Capture Software
 
