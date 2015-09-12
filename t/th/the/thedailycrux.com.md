@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailycrux.com privacy policy that was archived on 2015-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150506105015id_/http%3A//thecrux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailycrux.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912040851id_/http%3A//thecrux.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Crux
 
@@ -30,6 +30,6 @@ Stansberry & Associates web site only uses cookies to allow authentication for a
 
 **Copyright and Disclaimer**
 
-All contents of this website are copyright 2014 by Stansberry & Associates Investment Research. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Stansberry & Associates Investment Research.
+All contents of this website are copyright 2015 by Stansberry Research. All rights reserved: Reproducing any part of this document is prohibited without the express written consent of Stansberry Research.
 
-DISCLAIMER: This work is based on SEC filings, current events, interviews, corporate press releases, and what we’ve learned as financial journalists. It may contain errors, and you shouldn’t make any investment decision based solely on what you read here. It’s your money and your responsibility. Stansberry & Associates Investment Research expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Stansberry & Associates Investment Research (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
+DISCLAIMER: This work is based on SEC filings, current events, interviews, corporate press releases, and what we’ve learned as financial journalists. It may contain errors, and you shouldn’t make any investment decision based solely on what you read here. It’s your money and your responsibility. Stansberry Research expressly forbids its writers from having a financial interest in any security they recommend to our subscribers. And all Stansberry Research (and affiliated companies) employees and agents must wait 24 hours after an initial trade recommendation is published on the Internet, or 72 hours after a direct mail publication is sent, before acting on that recommendation.
