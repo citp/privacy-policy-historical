@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2015-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150404034603id_/https%3A//www.okcupid.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcupid.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912031841id_/https%3A//www.okcupid.com/legal/privacy) for the most accurate reproduction.*
 
-# OkCupid | Privacy
+# Privacy | OkCupid
 
 ## Privacy policy
 
@@ -28,7 +28,7 @@ If you have any questions about our privacy practices, please refer to the end o
 
 **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website or application visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities. 
 
-**Information collected by third-parties.** We may allow service providers, IAC companies, advertising companies, ad networks and other third parties, to display advertisements on our site. These companies may use tracking technologies, such as **cookies** , to collect information about users who view or interact with their advertisements. We do not not provide any non-anonymized personal information to these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
+**Information collected by third-parties.** We may allow service providers, IAC companies, advertising companies, ad networks and other third parties, to display advertisements on our site. These companies may use tracking technologies, such as **cookies** , to collect information about users who view or interact with their advertisements. We do not provide any non-anonymized personal information to these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)). 
 
 ## How we use the information we collect
 
