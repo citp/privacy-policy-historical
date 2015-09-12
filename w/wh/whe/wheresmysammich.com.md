@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheresmysammich.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330131422id_/http%3A//wheresmysammich.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheresmysammich.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912025920id_/http%3A//wheresmysammich.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
