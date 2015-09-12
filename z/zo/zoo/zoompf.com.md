@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoompf.com privacy policy that was archived on 2015-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150314231454id_/http%3A//zoompf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoompf.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912135204id_/https%3A//zoompf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoompf
 
