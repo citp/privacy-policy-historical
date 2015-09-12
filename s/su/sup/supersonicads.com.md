@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supersonicads.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317001327id_/https%3A//www.supersonic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersonicads.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912034933id_/http%3A//www.supersonic.com/privacy-policy) for the most accurate reproduction.*
 
-# Supersonic | Privacy Policy
+# Privacy Policy - Supersonic
 
 #### Supersonic respects the privacy of its users. The terms set forth below will set forth and explain the principles of the privacy policy practiced by Supersonic in relation to the Supersonic website (www.supersonic.com), including all related web pages controlled by Supersonic (the “Website”). Amongst other things, the terms hereunder will provide details as to the manner in which Supersonic shall use any information provided by any user within the framework of such user’s visits and use of the Website and/or any services provided by or via the Website (the “Services”), and/ or any information collected by Supersonic during your visiting and use of the Website and/or Services
 
