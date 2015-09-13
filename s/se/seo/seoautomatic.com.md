@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoautomatic.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317003130id_/http%3A//www.searchcommander.com/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoautomatic.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913090742id_/http%3A//www.searchcommander.com/privacy-legal) for the most accurate reproduction.*
 
 # Privacy & Legal | Search Commander, Inc.
 
@@ -37,7 +37,7 @@ When visiting websites, certain information about you and your computer can some
 
 This section explains what information Search Commander, Inc collects, and how it is used.
 
-**Information Collected** **-**
+**Information Collected** **–**
 
 Q. What information do we collect and why?
 
@@ -64,7 +64,7 @@ These log files are used to generate statistical information and error reports t
 
 * * *
 
-**Information Recipients** **-**
+**Information Recipients** **–**
 
 Who has access to the information collected?
 
