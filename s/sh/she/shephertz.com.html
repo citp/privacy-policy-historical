@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the shephertz.com privacy policy that was archived on 2015-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150516214342id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shephertz.com privacy policy that was archived on 2015-09-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150913072616id_/http%3A//www.shephertz.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
 <title>Privacy Policy</title>
 <meta name="keywords" content="Privacy Policy">
 <meta name="description" content="If there are any questions regarding Shephertz privacy policy,  you may contact us.">
+<meta name="google-site-verification" content="LMQyO-RMNNWGq0jMQBYPL05iyE5fp1kXUkiyUBGRklI">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <link rel="stylesheet" type="text/css" href="http://www.shephertz.com/css/main.css?shep20042015">
 <link rel="stylesheet" type="text/css" href="http://www.shephertz.com/css/login.css?shep20042015">
 <link rel="stylesheet" type="text/css" href="http://www.shephertz.com/css/liquid.css?shep20042015">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.shephertz.com/js/main.js?shep20042015"></script>
+<script type="text/javascript" src="https://server.connecto.io/javascripts/connect.prod.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://www.shephertz.com/js/main.js?shep20042015"></script>
 <script type="text/javascript" src="http://www.shephertz.com/js/login.js?shep20042015"></script>
 <script type="text/javascript" src="http://www.shephertz.com/js/fbLogin.js?shep20042015"></script>
 <script src="//connect.facebook.net/en_US/all.js?shep20042015"></script>
@@ -25,6 +26,46 @@ scrollTop: $($anchor.attr('href')).offset().top
 event.preventDefault();
 });
 });
+</script>
+<script>
+$(document).ready(function(){
+$("button").click(function(){
+$("#video").toggleClass("videoBox");
+});
+});
+</script>
+<script>
+jQuery(document).ready(function($) {
+    $(function(){
+      //First get the  iframe URL
+      var url = $('.video-container iframe').attr('src');
+      $('p.video-button a').click(function() {
+          $('.video-container').show();
+		  $('.video-container iframe').attr('src', $(".video-container iframe", parent).attr('src') + '?autoplay=1'); 
+		  $('.video-button').hide();
+		  $('.videoTitle').hide();
+          // Finally you reasign the URL back to your iframe, so when you hide and load it again you still have the link
+          $('.video-container iframe').attr('src', url);
+      });
+      $('p.close-video a').click(function() {
+          $('.video-container').hide();
+          //Then assign the src to null, this then stops the video been playing
+          $('.video-container iframe').attr('src', '');
+		  $('.video-button').show();
+		  $('.videoTitle').show();
+      });
+	  $(document).ready(function() {
+     $('#play-video').on('click', function(ev) {
+ 
+     $("#thevideo")[0].src += "&autoplay=1";
+     ev.preventDefault();
+ 
+  });
+});
+      
+    });
+});
+
 </script>
 <link rel="shortcut icon" type="http://www.shephertz.com/image/x-icon" href="images/favicon.ico">
 <link rel="apple-touch-icon" href="http://www.shephertz.com/images/apple-touch-icon.png"></head>
@@ -58,6 +99,7 @@ $(document).ready(function(){
               <li><a href="http://www.shephertz.com/about_us.php">Team</a></li>
               <li><a href="http://www.shephertz.com/investors.php">Investors</a></li>
               <li><a href="http://www.shephertz.com/partners.php">Partners</a></li>
+			  <li><a href="http://www.shephertz.com/customers.php">Customers</a></li>
             </ul>
           </li>
           <li><a href="#" id="DD">Products</a> <span class="dropdown"></span>
@@ -155,6 +197,7 @@ $(document).ready(function(){
           <li><a href="http://www.shephertz.com/about_us.php">Team</a></li>
           <li><a href="http://www.shephertz.com/investors.php">Investors</a></li>
           <li><a href="http://www.shephertz.com/partners.php">Partners</a></li>
+		  <li><a href="http://www.shephertz.com/customers.php">Customers</a></li>
           <li><a href="http://www.shephertz.com/career.php">Careers</a></li>
           <li><a href="http://www.shephertz.com/events.php">Events</a></li>
           <li><a href="http://www.shephertz.com/contact_us.php">Contact Us</a></li>
@@ -199,7 +242,7 @@ $(document).ready(function(){
           <figure><a href="http://www.facebook.com/pages/Shephertz-Technologies/171218912901660" target="_blank" title="Facebook"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/facebook-shephertz.png" alt="Shephertz"></a></figure>
           <figure><a href="https://twitter.com/#!/shephertz" target="_blank" title="Twitter"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/twitter-shephertz.png" alt="twitter"></a></figure>
           <figure><a href="http://www.linkedin.com/company/shephertz-technologies" target="_blank" title=" Linkedin"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/linkedin-shephertz.png" alt="linkedin"></a></figure>
-          <figure><a href="https://plus.google.com/+Shephertz" target="_blank" title=" Linkedin"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/shep-google-plus.png" alt="Google Plus"></a></figure>
+          <figure><a href="https://plus.google.com/+Shephertz" target="_blank" title="Google+"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/shep-google-plus.png" alt="Google Plus"></a></figure>
         </div>
         <h3 class="goToTop">Go to top</h3>
 <div class="toggle_top center"><a href="#top"><img src="https://s3-us-west-2.amazonaws.com/cdn.shephertz-images.com/ShepHertz/images/0.1/gotoggle_btn.png" alt="go to top "></a></div>
@@ -256,5 +299,34 @@ twttr.conversion.trackPid('l4ei6');
 <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4ei6&p_id=Twitter" /> <img height="1" width="1" style="display:none;" alt="" src="http://t.co/i/adsct?txn_id=l4ei6&p_id=Twitter" />
 </noscript>
 <!-- Twitter Script Start end --> 
+
+<script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+  var _weq = _weq || {};
+  _weq['webengage.licenseCode'] = '76aa0c8';
+  _weq['webengage.widgetVersion'] = "4.0";
+  
+  (function(d){
+    var _we = d.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+    var _sNode = d.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  })(document);
+</script>
+<!--Start of Connecto Script-->
+<script type="text/javascript">
+var _TConnecto = _TConnecto || {};
+_TConnecto.licenseKey = 'ASJA5X07ZLZUD92E';
+
+(function() {
+var con = document.createElement('script'); con.type = 'text/javascript';
+var host = (document.location.protocol === 'http:') ? 'http://cdn' : 'https://server';
+con.src = host + '.connecto.io/javascripts/connect.prod.min.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(con, s);
+})();
+</script>
+<!--End of Connecto Script-->
 
 </body></html>
