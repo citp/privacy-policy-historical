@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turtlerockstudios.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321003959id_/https%3A//www.turtlerockstudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlerockstudios.com privacy policy that was archived on 2015-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150913075318id_/https%3A//www.turtlerockstudios.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Turtle Rock Studios
 
@@ -12,7 +12,7 @@ This policy answers the following questions:
 
 –   What information do we collect about you and how do we use it?
 
-\-   Will we share your personal information with third parties?
+–   Will we share your personal information with third parties?
 
 –   What choices do you have about the collection and use of your personal information?
 
@@ -72,11 +72,11 @@ We do not knowingly collect any personal information from children under the age
 
 We will share the personal information we collect from you under the following circumstances:
 
-_-   Protection of rights._  We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Site or TRS Services, or (iii) such action is appropriate to protect the rights, property or safety of TRS, its employees, clients, or users of the Site.
+_–   Protection of rights._  We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Site or TRS Services, or (iii) such action is appropriate to protect the rights, property or safety of TRS, its employees, clients, or users of the Site.
 
-_-   Asset transfers.  _If we become involved in a merger, acquisition or other transaction involving the sale of some or all of TRS’s assets or a line of business, user information, including personal information collected from you through your use of the Site and TRS Services, could be included in the transferred assets.  Should such an event occur, TRS will use reasonable means to notify you through a prominent notice on the Site.
+_–   Asset transfers.  _If we become involved in a merger, acquisition or other transaction involving the sale of some or all of TRS’s assets or a line of business, user information, including personal information collected from you through your use of the Site and TRS Services, could be included in the transferred assets.  Should such an event occur, TRS will use reasonable means to notify you through a prominent notice on the Site.
 
-_\- Service Providers and Partners._ We may share your personal information with third party vendors or service providers that we engage for the purpose of fulfilling product orders, processing information on our and your behalf or providing services related to the online components of our games. For example, we may partner with other companies to process payments for the Site. Additionally, we may partner with other companies to process consumer surveys, fulfill prizes, or to process, analyze, and/or store data, including, but not limited to, Analytical Data. We may also provide your personal information, such as your email address, to our publishing partner, 2K Games, and its affiliates, in connection with the online components of our games. For example, we may provide 2K Games your email address so that 2K Games may send you an invite to participate in the alpha or beta testing of our games or to access certain parts of our forums which are only available to game testing participants. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
+_– Service Providers and Partners._ We may share your personal information with third party vendors or service providers that we engage for the purpose of fulfilling product orders, processing information on our and your behalf or providing services related to the online components of our games. For example, we may partner with other companies to process payments for the Site. Additionally, we may partner with other companies to process consumer surveys, fulfill prizes, or to process, analyze, and/or store data, including, but not limited to, Analytical Data. We may also provide your personal information, such as your email address, to our publishing partner, 2K Games, and its affiliates, in connection with the online components of our games. For example, we may provide 2K Games your email address so that 2K Games may send you an invite to participate in the alpha or beta testing of our games or to access certain parts of our forums which are only available to game testing participants. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
 
 _Additional Information You Should Know About Third Parties_
 
